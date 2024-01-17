@@ -1,539 +1,887 @@
 {
-  "2022-07-10": 4824,
-  "2022-07-11": 5431,
-  "2022-07-12": 5937,
-  "2022-07-13": 6401,
-  "2022-07-14": 6868,
-  "2022-07-15": 7451,
-  "2022-07-16": 8160,
-  "2022-07-17": 8997,
-  "2022-07-18": 9786,
-  "2022-07-19": 10538,
-  "2022-07-20": 11253,
-  "2022-07-21": 11931,
-  "2022-07-22": 12573,
-  "2022-07-23": 13255,
-  "2022-07-24": 13970,
-  "2022-07-25": 14711,
-  "2022-07-26": 15354,
-  "2022-07-27": 15987,
-  "2022-07-28": 16550,
-  "2022-07-29": 17117,
-  "2022-07-30": 18209,
-  "2022-07-31": 18209,
-  "2022-08-01": 18785,
-  "2022-08-02": 19779,
-  "2022-08-03": 19779,
-  "2022-08-04": 20243,
-  "2022-08-05": 20725,
-  "2022-08-06": 21173,
-  "2022-08-07": 21799,
-  "2022-08-08": 22372,
-  "2022-08-09": 22828,
-  "2022-08-10": 23334,
-  "2022-08-11": 23744,
-  "2022-08-12": 24183,
-  "2022-08-13": 24598,
-  "2022-08-14": 25047,
-  "2022-08-15": 25471,
-  "2022-08-16": 25877,
-  "2022-08-17": 26265,
-  "2022-08-18": 26640,
-  "2022-08-19": 27037,
-  "2022-08-20": 27465,
-  "2022-08-21": 27868,
-  "2022-08-22": 28258,
-  "2022-08-23": 28606,
-  "2022-08-24": 28951,
-  "2022-08-25": 29280,
-  "2022-08-26": 29599,
-  "2022-08-27": 29971,
-  "2022-08-28": 30399,
-  "2022-08-29": 30761,
-  "2022-08-30": 31075,
-  "2022-08-31": 31393,
-  "2022-09-01": 31740,
-  "2022-09-02": 32036,
-  "2022-09-03": 32397,
-  "2022-09-04": 32728,
-  "2022-09-05": 33114,
-  "2022-09-06": 33373,
-  "2022-09-07": 33638,
-  "2022-09-09": 34164,
-  "2022-09-10": 34422,
-  "2022-09-11": 34753,
-  "2022-09-12": 35126,
-  "2022-09-13": 35381,
-  "2022-09-15": 35862,
-  "2022-09-16": 36117,
-  "2022-09-17": 36404,
-  "2022-09-18": 36738,
-  "2022-09-19": 37043,
-  "2022-09-20": 37248,
-  "2022-09-21": 37500,
-  "2022-09-22": 37722,
-  "2022-09-23": 37947,
-  "2022-09-24": 38235,
-  "2022-09-25": 38553,
-  "2022-09-26": 38849,
-  "2022-09-27": 39086,
-  "2022-09-28": 39351,
-  "2022-09-29": 39616,
-  "2022-09-30": 39865,
-  "2022-10-01": 40114,
-  "2022-10-02": 40414,
-  "2022-10-03": 40745,
-  "2022-10-04": 40975,
-  "2022-10-05": 41188,
-  "2022-10-06": 41414,
-  "2022-10-07": 41657,
-  "2022-10-08": 41931,
-  "2022-10-09": 42493,
-  "2022-10-10": 42564,
-  "2022-10-11": 42797,
-  "2022-10-12": 42997,
-  "2022-10-13": 43222,
-  "2022-10-14": 43475,
-  "2022-10-15": 43718,
-  "2022-10-16": 43965,
-  "2022-10-17": 44252,
-  "2022-10-18": 44501,
-  "2022-10-19": 44703,
-  "2022-10-20": 44886,
-  "2022-10-21": 45126,
-  "2022-10-22": 45363,
-  "2022-10-23": 45581,
-  "2022-10-24": 45814,
-  "2022-10-25": 46038,
-  "2022-10-26": 46261,
-  "2022-10-27": 46466,
-  "2022-10-28": 46650,
-  "2022-10-29": 46868,
-  "2022-10-30": 47114,
-  "2022-10-31": 47317,
-  "2022-11-01": 47501,
-  "2022-11-02": 47719,
-  "2022-11-03": 47929,
-  "2022-11-04": 48119,
-  "2022-11-05": 48314,
-  "2022-11-06": 48529,
-  "2022-11-07": 48732,
-  "2022-11-08": 48941,
-  "2022-11-09": 49143,
-  "2022-11-10": 49339,
-  "2022-11-11": 49550,
-  "2022-11-12": 49801,
-  "2022-11-13": 50015,
-  "2022-11-14": 50271,
-  "2022-11-15": 50490,
-  "2022-11-16": 50667,
-  "2022-11-17": 50910,
-  "2022-11-18": 50974,
-  "2022-11-19": 50886,
-  "2022-11-20": 51216,
-  "2022-11-21": 51140,
-  "2022-11-22": 51740,
-  "2022-11-23": 51693,
-  "2022-11-24": 52356,
-  "2022-11-25": 52699,
-  "2022-11-26": 52957,
-  "2022-11-27": 53177,
-  "2022-11-28": 53426,
-  "2022-11-29": 53681,
-  "2022-11-30": 53939,
-  "2022-12-01": 54318,
-  "2022-12-02": 54574,
-  "2022-12-03": 55063,
-  "2022-12-04": 55349,
-  "2022-12-05": 55710,
-  "2022-12-06": 55977,
-  "2022-12-07": 56218,
-  "2022-12-08": 56461,
-  "2022-12-09": 56661,
-  "2022-12-10": 56854,
-  "2022-12-11": 57078,
-  "2022-12-12": 57323,
-  "2022-12-13": 57516,
-  "2022-12-14": 57710,
-  "2022-12-15": 58062,
-  "2022-12-16": 58359,
-  "2022-12-17": 58623,
-  "2022-12-18": 58928,
-  "2022-12-19": 59188,
-  "2022-12-20": 59680,
-  "2022-12-21": 59680,
-  "2022-12-22": 59969,
-  "2022-12-24": 60368,
-  "2022-12-25": 60589,
-  "2022-12-26": 60775,
-  "2022-12-27": 60994,
-  "2022-12-28": 61202,
-  "2022-12-29": 61417,
-  "2022-12-30": 61652,
-  "2022-12-31": 61838,
-  "2023-01-01": 62039,
-  "2023-01-02": 62236,
-  "2023-01-03": 62483,
-  "2023-01-04": 62669,
-  "2023-01-05": 62871,
-  "2023-01-06": 63155,
-  "2023-01-07": 63494,
-  "2023-01-08": 63534,
-  "2023-01-09": 63770,
-  "2023-01-10": 63990,
-  "2023-01-11": 64188,
-  "2023-01-12": 64377,
-  "2023-01-13": 64566,
-  "2023-01-14": 64944,
-  "2023-01-15": 64988,
-  "2023-01-16": 65180,
-  "2023-01-17": 65357,
-  "2023-01-18": 65528,
-  "2023-01-19": 65719,
-  "2023-01-20": 65882,
-  "2023-01-21": 66063,
-  "2023-01-22": 66269,
-  "2023-01-23": 66470,
-  "2023-01-24": 66645,
-  "2023-01-25": 66815,
-  "2023-01-26": 66967,
-  "2023-01-27": 67123,
-  "2023-01-28": 67333,
-  "2023-01-29": 67530,
-  "2023-01-30": 67705,
-  "2023-01-31": 67705,
-  "2023-02-01": 68038,
-  "2023-02-02": 68179,
-  "2023-02-03": 68331,
-  "2023-02-04": 68548,
-  "2023-02-05": 68745,
-  "2023-02-06": 68964,
-  "2023-02-07": 69121,
-  "2023-02-08": 69449,
-  "2023-02-09": 69449,
-  "2023-02-10": 69601,
-  "2023-02-11": 69775,
-  "2023-02-12": 70116,
-  "2023-02-13": 70278,
-  "2023-02-14": 70278,
-  "2023-02-15": 70396,
-  "2023-02-16": 70558,
-  "2023-02-17": 70686,
-  "2023-02-18": 71018,
-  "2023-02-19": 71069,
-  "2023-02-20": 71199,
-  "2023-02-21": 71380,
-  "2023-02-22": 71547,
-  "2023-02-23": 71723,
-  "2023-02-24": 71924,
-  "2023-02-25": 72172,
-  "2023-02-26": 72346,
-  "2023-02-27": 72869,
-  "2023-02-28": 72869,
-  "2023-03-01": 73107,
-  "2023-03-02": 73319,
-  "2023-03-03": 73512,
-  "2023-03-04": 73662,
-  "2023-03-05": 74080,
-  "2023-03-06": 74080,
-  "2023-03-07": 74269,
-  "2023-03-08": 74416,
-  "2023-03-09": 74612,
-  "2023-03-10": 74788,
-  "2023-03-11": 74933,
-  "2023-03-12": 75114,
-  "2023-03-13": 75288,
-  "2023-03-14": 75453,
-  "2023-03-15": 75602,
-  "2023-03-16": 75787,
-  "2023-03-17": 75787,
-  "2023-03-18": 76122,
-  "2023-03-19": 76273,
-  "2023-03-20": 76453,
-  "2023-03-21": 76586,
-  "2023-03-22": 76721,
-  "2023-03-23": 76853,
-  "2023-03-24": 76853,
-  "2023-03-25": 77082,
-  "2023-03-26": 77237,
-  "2023-03-27": 77349,
-  "2023-03-28": 77485,
-  "2023-03-29": 77629,
-  "2023-03-30": 77910,
-  "2023-03-31": 77910,
-  "2023-04-01": 78129,
-  "2023-04-02": 78351,
-  "2023-04-03": 78582,
-  "2023-04-04": 78839,
-  "2023-04-05": 79009,
-  "2023-04-06": 79180,
-  "2023-04-07": 79381,
-  "2023-04-09": 79732,
-  "2023-04-10": 79902,
-  "2023-04-11": 80350,
-  "2023-04-12": 80350,
-  "2023-04-13": 80596,
-  "2023-04-14": 80805,
-  "2023-04-15": 81014,
-  "2023-04-16": 81249,
-  "2023-04-17": 81449,
-  "2023-04-18": 81645,
-  "2023-04-19": 81952,
-  "2023-04-20": 82213,
-  "2023-04-21": 82439,
-  "2023-04-22": 82613,
-  "2023-04-23": 82832,
-  "2023-04-24": 83011,
-  "2023-04-25": 83213,
-  "2023-04-26": 83483,
-  "2023-04-27": 83683,
-  "2023-04-28": 83862,
-  "2023-04-29": 84176,
-  "2023-04-30": 84420,
-  "2023-05-01": 84624,
-  "2023-05-02": 84914,
-  "2023-05-03": 85337,
-  "2023-05-04": 85777,
-  "2023-05-05": 86036,
-  "2023-05-06": 86262,
-  "2023-05-07": 86516,
-  "2023-05-08": 86822,
-  "2023-05-09": 87781,
-  "2023-05-10": 88583,
-  "2023-05-11": 89152,
-  "2023-05-12": 89650,
-  "2023-05-13": 90209,
-  "2023-05-14": 90830,
-  "2023-05-15": 91336,
-  "2023-05-16": 91795,
-  "2023-05-17": 92212,
-  "2023-05-18": 92585,
-  "2023-05-19": 93004,
-  "2023-05-20": 94152,
-  "2023-05-21": 94152,
-  "2023-05-22": 94152,
-  "2023-05-23": 95136,
-  "2023-05-24": 95888,
-  "2023-05-25": 96012,
-  "2023-05-26": 96434,
-  "2023-05-27": 96861,
-  "2023-05-28": 97278,
-  "2023-05-29": 97278,
-  "2023-05-30": 98028,
-  "2023-05-31": 98384,
-  "2023-06-01": 98652,
-  "2023-06-02": 98942,
-  "2023-06-03": 99248,
-  "2023-06-04": 99617,
-  "2023-06-05": 99957,
-  "2023-06-06": 100287,
-  "2023-06-07": 100598,
-  "2023-06-08": 100873,
-  "2023-06-09": 101153,
-  "2023-06-10": 101444,
-  "2023-06-11": 101723,
-  "2023-06-12": 102041,
-  "2023-06-13": 102281,
-  "2023-06-14": 102515,
-  "2023-06-15": 102740,
-  "2023-06-16": 102978,
-  "2023-06-17": 103209,
-  "2023-06-18": 103459,
-  "2023-06-19": 103742,
-  "2023-06-20": 103954,
-  "2023-06-21": 104231,
-  "2023-06-22": 104493,
-  "2023-06-23": 104765,
-  "2023-06-24": 105071,
-  "2023-06-25": 105323,
-  "2023-06-26": 105622,
-  "2023-06-27": 105864,
-  "2023-06-28": 106138,
-  "2023-06-29": 106414,
-  "2023-06-30": 106692,
-  "2023-07-01": 107199,
-  "2023-07-02": 107199,
-  "2023-07-03": 107411,
-  "2023-07-04": 107627,
-  "2023-07-05": 107849,
-  "2023-07-06": 108300,
-  "2023-07-07": 108300,
-  "2023-07-08": 108518,
-  "2023-07-09": 108736,
-  "2023-07-10": 108948,
-  "2023-07-11": 109137,
-  "2023-07-12": 109309,
-  "2023-07-13": 109458,
-  "2023-07-14": 109679,
-  "2023-07-15": 109811,
-  "2023-07-16": 110008,
-  "2023-07-17": 110189,
-  "2023-07-18": 110365,
-  "2023-07-19": 110569,
-  "2023-07-20": 110724,
-  "2023-07-21": 110924,
-  "2023-07-22": 111093,
-  "2023-07-23": 111312,
-  "2023-07-24": 111496,
-  "2023-07-25": 111687,
-  "2023-07-26": 111839,
-  "2023-07-27": 112027,
-  "2023-07-28": 112243,
-  "2023-07-29": 112466,
-  "2023-07-30": 112691,
-  "2023-07-31": 112936,
-  "2023-08-01": 113130,
-  "2023-08-02": 113317,
-  "2023-08-03": 113509,
-  "2023-08-04": 113720,
-  "2023-08-05": 113923,
-  "2023-08-06": 114378,
-  "2023-08-07": 114378,
-  "2023-08-08": 114570,
-  "2023-08-09": 114760,
-  "2023-08-10": 115001,
-  "2023-08-11": 115219,
-  "2023-08-12": 115455,
-  "2023-08-13": 115717,
-  "2023-08-14": 115946,
-  "2023-08-15": 116377,
-  "2023-08-16": 116377,
-  "2023-08-17": 116580,
-  "2023-08-18": 116758,
-  "2023-08-19": 117122,
-  "2023-08-20": 117411,
-  "2023-08-21": 117703,
-  "2023-08-22": 117955,
-  "2023-08-23": 118131,
-  "2023-08-24": 118366,
-  "2023-08-25": 118606,
-  "2023-08-26": 118819,
-  "2023-08-27": 119033,
-  "2023-08-28": 119227,
-  "2023-08-29": 119455,
-  "2023-08-30": 119649,
-  "2023-08-31": 119842,
-  "2023-09-01": 120226,
-  "2023-09-02": 120226,
-  "2023-09-03": 120402,
-  "2023-09-04": 120622,
-  "2023-09-05": 120798,
-  "2023-09-06": 120981,
-  "2023-09-07": 121170,
-  "2023-09-08": 121348,
-  "2023-09-09": 121610,
-  "2023-09-10": 121806,
-  "2023-09-11": 122024,
-  "2023-09-12": 122233,
-  "2023-09-13": 122480,
-  "2023-09-14": 122681,
-  "2023-09-15": 122855,
-  "2023-09-16": 123008,
-  "2023-09-17": 123168,
-  "2023-09-18": 123349,
-  "2023-09-19": 123509,
-  "2023-09-20": 123658,
-  "2023-09-21": 123826,
-  "2023-09-22": 123966,
-  "2023-09-23": 124118,
-  "2023-09-24": 124293,
-  "2023-09-25": 124499,
-  "2023-09-26": 124762,
-  "2023-09-27": 124890,
-  "2023-09-28": 125103,
-  "2023-09-29": 125305,
-  "2023-09-30": 125540,
-  "2023-10-01": 125714,
-  "2023-10-02": 125927,
-  "2023-10-03": 126071,
-  "2023-10-04": 126240,
-  "2023-10-05": 126414,
-  "2023-10-06": 126601,
-  "2023-10-07": 126843,
-  "2023-10-08": 127026,
-  "2023-10-09": 127199,
-  "2023-10-10": 127360,
-  "2023-10-11": 127675,
-  "2023-10-12": 127675,
-  "2023-10-13": 127824,
-  "2023-10-14": 127982,
-  "2023-10-15": 128189,
-  "2023-10-16": 128373,
-  "2023-10-17": 128540,
-  "2023-10-18": 128652,
-  "2023-10-19": 128788,
-  "2023-10-20": 128940,
-  "2023-10-21": 129102,
-  "2023-10-22": 129264,
-  "2023-10-23": 129421,
-  "2023-10-24": 129572,
-  "2023-10-25": 129675,
-  "2023-10-26": 129806,
-  "2023-10-27": 129946,
-  "2023-10-28": 130111,
-  "2023-10-29": 130296,
-  "2023-10-30": 130604,
-  "2023-10-31": 130604,
-  "2023-11-01": 130711,
-  "2023-11-02": 130842,
-  "2023-11-03": 130963,
-  "2023-11-04": 131080,
-  "2023-11-05": 131231,
-  "2023-11-06": 131379,
-  "2023-11-07": 131524,
-  "2023-11-08": 131656,
-  "2023-11-09": 131824,
-  "2023-11-10": 131980,
-  "2023-11-11": 132614,
-  "2023-11-12": 132929,
-  "2023-11-13": 133313,
-  "2023-11-14": 133611,
-  "2023-11-15": 133611,
-  "2023-11-16": 134098,
-  "2023-11-17": 134562,
-  "2023-11-18": 134562,
-  "2023-11-19": 134762,
-  "2023-11-20": 135002,
-  "2023-11-21": 135161,
-  "2023-11-22": 135341,
-  "2023-11-23": 135516,
-  "2023-11-24": 135691,
-  "2023-11-25": 135871,
-  "2023-11-26": 136093,
-  "2023-11-27": 136310,
-  "2023-11-28": 136518,
-  "2023-11-29": 136956,
-  "2023-11-30": 136956,
-  "2023-12-01": 137255,
-  "2023-12-02": 137523,
-  "2023-12-03": 137784,
-  "2023-12-04": 138071,
-  "2023-12-05": 138304,
-  "2023-12-06": 138514,
-  "2023-12-07": 138752,
-  "2023-12-08": 138971,
-  "2023-12-09": 139241,
-  "2023-12-10": 139540,
-  "2023-12-11": 139795,
-  "2023-12-12": 140038,
-  "2023-12-13": 140304,
-  "2023-12-14": 140621,
-  "2023-12-15": 140790,
-  "2023-12-16": 141015,
-  "2023-12-17": 141234,
-  "2023-12-18": 141489,
-  "2023-12-19": 141731,
-  "2023-12-20": 141928,
-  "2023-12-21": 142179,
-  "2023-12-22": 142424,
-  "2023-12-23": 142658,
-  "2023-12-24": 142930,
-  "2023-12-25": 143147,
-  "2023-12-26": 143382,
-  "2023-12-27": 143625,
-  "2023-12-30": 144397,
-  "2023-12-31": 144676,
-  "2024-01-01": 144905,
-  "2024-01-02": 145116,
-  "2024-01-03": 145366
+  "2024-01-17": 148427,
+  "date_first_scraped": "2022-07-10",
+  "description": "All about aespa: meeting another self and experiencing the new world",
+  "name": "This Is aespa",
+  "tracks": [
+    {
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "'Til We Meet Again",
+      "url": "https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "aenergy",
+      "url": "https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q"
+    },
+    {
+      "album": {
+        "name": "Beautiful Christmas",
+        "url": "https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Beautiful Christmas",
+      "url": "https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe"
+    },
+    {
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
+    },
+    {
+      "album": {
+        "name": "Black Mamba",
+        "url": "https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "Black Mamba",
+      "url": "https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51"
+    },
+    {
+      "album": {
+        "name": "Pok\u00e9mon 2023 (Original TV Series Soundtrack, Korea)",
+        "url": "https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1"
+      },
+      "artists": [
+        {
+          "name": "9001",
+          "url": "https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0DULYwlJVbkTTqA8ji6uSR"
+    },
+    {
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Don't Blink",
+      "url": "https://open.spotify.com/track/2uJEnyojuGg31VVlLTQFpp"
+    },
+    {
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "album": {
+        "name": "Dreams Come True - SM STATION",
+        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
+    },
+    {
+      "album": {
+        "name": "Dreams Come True - SM STATION",
+        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Dreams Come True - Instrumental",
+      "url": "https://open.spotify.com/track/7LOV1wyhrT7XjFgbz5sJ88"
+    },
+    {
+      "album": {
+        "name": "Forever (\uc57d\uc18d)",
+        "url": "https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298173,
+      "name": "Forever (\uc57d\uc18d)",
+      "url": "https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/07fqC2Puj13frv9iYtlcri"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.18 : Girls Remixes",
+        "url": "https://open.spotify.com/album/2jK7H4A5Y2xJaoOyzBedaS"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2d8xiUGjUalhOp4t6M2i0w"
+    },
+    {
+      "album": {
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149718,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+    },
+    {
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Hot Air Balloon",
+      "url": "https://open.spotify.com/track/1mdtLny0zugh89vokWGG80"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "I'll Make You Cry",
+      "url": "https://open.spotify.com/track/6l1dTAhX7P6EKvA11NLNuW"
+    },
+    {
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "I'm Unhappy",
+      "url": "https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/5bMHrigI1EAmZdiyRzKoQi"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221640,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/11JpW4h96X4TlGt6LFpNCC"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130613,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178133,
+      "name": "Life's Too Short",
+      "url": "https://open.spotify.com/track/0WiadRUdgEIjgmYFAmTttb"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178133,
+      "name": "Life's Too Short",
+      "url": "https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q"
+    },
+    {
+      "album": {
+        "name": "Life's Too Short",
+        "url": "https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178133,
+      "name": "Life's Too Short (English Version)",
+      "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5imr9aufluIOHITMf8bPIG"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156866,
+      "name": "Lingo",
+      "url": "https://open.spotify.com/track/39rKshOzz44Im0LtEj9Ut2"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156866,
+      "name": "Lingo",
+      "url": "https://open.spotify.com/track/3tB10LUdisNWISpLw5gPCk"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
+    },
+    {
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.10 : Next Level Remixes",
+        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200366,
+      "name": "Next Level - Habstrakt Remix",
+      "url": "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.10 : Next Level Remixes",
+        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225789,
+      "name": "Next Level - IMLAY Remix",
+      "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.10 : Next Level Remixes",
+        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Lionclad",
+          "url": "https://open.spotify.com/artist/2AGxU7q0xWss9jkiTPmxH7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225877,
+      "name": "Next Level - Lionclad Remix",
+      "url": "https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv"
+    },
+    {
+      "album": {
+        "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
+      },
+      "artists": [
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        },
+        {
+          "name": "NINGNING",
+          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169893,
+      "name": "ONCE AGAIN",
+      "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
+    },
+    {
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Salty & Sweet",
+      "url": "https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238143,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+    },
+    {
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.26 : Spicy Remix",
+        "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Spicy - Nitepunk Remix",
+      "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
+    },
+    {
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
+      },
+      "artists": [
+        {
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228613,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+    },
+    {
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193413,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
+    },
+    {
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175440,
+      "name": "Trick or Trick",
+      "url": "https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx"
+    },
+    {
+      "album": {
+        "name": "Pok\u00e9mon 2023 (Original TV Series Soundtrack, Korea)",
+        "url": "https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188532,
+      "name": "We Go",
+      "url": "https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ"
+    },
+    {
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "n\u00e6vis",
+          "url": "https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206920,
+      "name": "Welcome To MY World (feat. n\u00e6vis)",
+      "url": "https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "YEPPI YEPPI",
+      "url": "https://open.spotify.com/track/3UKKwGrpWWamc0XNSKXjmz"
+    },
+    {
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189373,
+      "name": "YOLO",
+      "url": "https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX"
+    },
+    {
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "You",
+      "url": "https://open.spotify.com/track/52qof5uEYA0TV0EpR7jNxs"
+    },
+    {
+      "album": {
+        "name": "ZOOM ZOOM",
+        "url": "https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192733,
+      "name": "ZOOM ZOOM",
+      "url": "https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl"
+    },
+    {
+      "album": {
+        "name": "\u59b3\u5728\u54ea\u88e1 (WYA)",
+        "url": "https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "NINGNING",
+          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223728,
+      "name": "\u59b3\u5728\u54ea\u88e1 (WYA)",
+      "url": "https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5CHJY6ZqPPz"
 }

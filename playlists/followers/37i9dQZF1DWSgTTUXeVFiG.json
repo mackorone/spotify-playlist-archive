@@ -1,479 +1,1413 @@
 {
-  "2022-09-09": 7626,
-  "2022-09-10": 7654,
-  "2022-09-11": 7689,
-  "2022-09-12": 7727,
-  "2022-09-13": 7750,
-  "2022-09-15": 7794,
-  "2022-09-16": 7826,
-  "2022-09-17": 7862,
-  "2022-09-18": 7898,
-  "2022-09-19": 7946,
-  "2022-09-20": 7975,
-  "2022-09-21": 7991,
-  "2022-09-22": 8019,
-  "2022-09-23": 8044,
-  "2022-09-24": 8075,
-  "2022-09-25": 8124,
-  "2022-09-26": 8148,
-  "2022-09-27": 8189,
-  "2022-09-28": 8248,
-  "2022-09-29": 8287,
-  "2022-09-30": 8316,
-  "2022-10-01": 8348,
-  "2022-10-02": 8384,
-  "2022-10-03": 8422,
-  "2022-10-04": 8440,
-  "2022-10-05": 8466,
-  "2022-10-06": 8502,
-  "2022-10-07": 8555,
-  "2022-10-08": 8592,
-  "2022-10-09": 8658,
-  "2022-10-10": 8664,
-  "2022-10-11": 8704,
-  "2022-10-12": 8727,
-  "2022-10-13": 8761,
-  "2022-10-14": 8799,
-  "2022-10-15": 8839,
-  "2022-10-16": 8876,
-  "2022-10-17": 8918,
-  "2022-10-18": 8948,
-  "2022-10-19": 8981,
-  "2022-10-20": 9017,
-  "2022-10-21": 9045,
-  "2022-10-22": 9089,
-  "2022-10-23": 9138,
-  "2022-10-24": 9174,
-  "2022-10-25": 9198,
-  "2022-10-26": 9238,
-  "2022-10-27": 9273,
-  "2022-10-28": 9303,
-  "2022-10-29": 9333,
-  "2022-10-30": 9369,
-  "2022-10-31": 9405,
-  "2022-11-01": 9441,
-  "2022-11-02": 9473,
-  "2022-11-03": 9498,
-  "2022-11-04": 9536,
-  "2022-11-05": 9576,
-  "2022-11-06": 9628,
-  "2022-11-07": 9668,
-  "2022-11-08": 9703,
-  "2022-11-09": 9722,
-  "2022-11-10": 9753,
-  "2022-11-11": 9777,
-  "2022-11-12": 9827,
-  "2022-11-13": 9853,
-  "2022-11-14": 9908,
-  "2022-11-15": 9930,
-  "2022-11-16": 9966,
-  "2022-11-17": 9999,
-  "2022-11-18": 10011,
-  "2022-11-19": 10004,
-  "2022-11-20": 10018,
-  "2022-11-21": 10046,
-  "2022-11-22": 10073,
-  "2022-11-23": 10118,
-  "2022-11-24": 10175,
-  "2022-11-25": 10241,
-  "2022-11-26": 10305,
-  "2022-11-27": 10340,
-  "2022-11-28": 10375,
-  "2022-11-29": 10398,
-  "2022-11-30": 10436,
-  "2022-12-01": 10465,
-  "2022-12-02": 10494,
-  "2022-12-03": 10511,
-  "2022-12-04": 10556,
-  "2022-12-05": 10601,
-  "2022-12-06": 10628,
-  "2022-12-07": 10676,
-  "2022-12-08": 10710,
-  "2022-12-09": 10755,
-  "2022-12-10": 10788,
-  "2022-12-11": 10823,
-  "2022-12-12": 10877,
-  "2022-12-13": 10906,
-  "2022-12-14": 10946,
-  "2022-12-15": 10983,
-  "2022-12-16": 11022,
-  "2022-12-17": 11050,
-  "2022-12-18": 11092,
-  "2022-12-19": 11132,
-  "2022-12-20": 11203,
-  "2022-12-21": 11203,
-  "2022-12-22": 11243,
-  "2022-12-24": 11321,
-  "2022-12-25": 11372,
-  "2022-12-26": 11410,
-  "2022-12-27": 11441,
-  "2022-12-28": 11472,
-  "2022-12-29": 11516,
-  "2022-12-30": 11561,
-  "2022-12-31": 11611,
-  "2023-01-01": 11677,
-  "2023-01-02": 11729,
-  "2023-01-03": 11750,
-  "2023-01-04": 11775,
-  "2023-01-05": 11817,
-  "2023-01-06": 11861,
-  "2023-01-07": 11912,
-  "2023-01-08": 11928,
-  "2023-01-09": 11978,
-  "2023-01-10": 12004,
-  "2023-01-11": 12030,
-  "2023-01-12": 12068,
-  "2023-01-13": 12098,
-  "2023-01-14": 12167,
-  "2023-01-15": 12180,
-  "2023-01-16": 12216,
-  "2023-01-17": 12253,
-  "2023-01-18": 12290,
-  "2023-01-19": 12330,
-  "2023-01-20": 12369,
-  "2023-01-21": 12400,
-  "2023-01-22": 12447,
-  "2023-01-23": 12489,
-  "2023-01-24": 12520,
-  "2023-01-25": 12560,
-  "2023-01-26": 12596,
-  "2023-01-27": 12628,
-  "2023-01-28": 12661,
-  "2023-01-29": 12717,
-  "2023-01-30": 12763,
-  "2023-01-31": 12763,
-  "2023-02-01": 12855,
-  "2023-02-02": 12895,
-  "2023-02-03": 12924,
-  "2023-02-04": 12968,
-  "2023-02-05": 13021,
-  "2023-02-06": 13079,
-  "2023-02-07": 13117,
-  "2023-02-08": 13200,
-  "2023-02-09": 13200,
-  "2023-02-10": 13235,
-  "2023-02-11": 13273,
-  "2023-02-12": 13370,
-  "2023-02-13": 13398,
-  "2023-02-14": 13398,
-  "2023-02-15": 13434,
-  "2023-02-16": 13473,
-  "2023-02-17": 13509,
-  "2023-02-18": 13586,
-  "2023-02-19": 13599,
-  "2023-02-20": 13624,
-  "2023-02-21": 13674,
-  "2023-02-22": 13705,
-  "2023-02-23": 13734,
-  "2023-02-24": 13767,
-  "2023-02-25": 13838,
-  "2023-02-26": 13863,
-  "2023-02-27": 13949,
-  "2023-02-28": 13949,
-  "2023-03-01": 13982,
-  "2023-03-02": 14013,
-  "2023-03-03": 14066,
-  "2023-03-04": 14110,
-  "2023-03-05": 14181,
-  "2023-03-06": 14181,
-  "2023-03-07": 14211,
-  "2023-03-08": 14240,
-  "2023-03-09": 14271,
-  "2023-03-10": 14299,
-  "2023-03-11": 14333,
-  "2023-03-12": 14382,
-  "2023-03-13": 14413,
-  "2023-03-14": 14446,
-  "2023-03-15": 14484,
-  "2023-03-16": 14517,
-  "2023-03-17": 14517,
-  "2023-03-18": 14599,
-  "2023-03-19": 14655,
-  "2023-03-20": 14712,
-  "2023-03-21": 14748,
-  "2023-03-22": 14776,
-  "2023-03-23": 14795,
-  "2023-03-24": 14795,
-  "2023-03-25": 14858,
-  "2023-03-26": 14907,
-  "2023-03-27": 14956,
-  "2023-03-28": 14989,
-  "2023-03-29": 15022,
-  "2023-03-30": 15091,
-  "2023-03-31": 15091,
-  "2023-04-01": 15129,
-  "2023-04-02": 15169,
-  "2023-04-03": 15213,
-  "2023-04-04": 15248,
-  "2023-04-05": 15281,
-  "2023-04-06": 15317,
-  "2023-04-07": 15365,
-  "2023-04-09": 15448,
-  "2023-04-10": 15485,
-  "2023-04-11": 15562,
-  "2023-04-12": 15562,
-  "2023-04-13": 15608,
-  "2023-04-14": 15643,
-  "2023-04-15": 15688,
-  "2023-04-16": 15730,
-  "2023-04-17": 15771,
-  "2023-04-18": 15802,
-  "2023-04-19": 15845,
-  "2023-04-20": 15880,
-  "2023-04-21": 15927,
-  "2023-04-22": 15985,
-  "2023-04-23": 16048,
-  "2023-04-24": 16107,
-  "2023-04-25": 16154,
-  "2023-04-26": 16188,
-  "2023-04-27": 16233,
-  "2023-04-28": 16283,
-  "2023-04-29": 16333,
-  "2023-04-30": 16400,
-  "2023-05-01": 16448,
-  "2023-05-02": 16477,
-  "2023-05-03": 16516,
-  "2023-05-04": 16558,
-  "2023-05-05": 16591,
-  "2023-05-06": 16634,
-  "2023-05-07": 16688,
-  "2023-05-08": 16729,
-  "2023-05-09": 16749,
-  "2023-05-10": 16772,
-  "2023-05-11": 16796,
-  "2023-05-12": 16834,
-  "2023-05-13": 16870,
-  "2023-05-14": 16915,
-  "2023-05-15": 16954,
-  "2023-05-16": 16988,
-  "2023-05-17": 17012,
-  "2023-05-18": 17041,
-  "2023-05-19": 17071,
-  "2023-05-20": 17186,
-  "2023-05-21": 17186,
-  "2023-05-22": 17186,
-  "2023-05-23": 17253,
-  "2023-05-24": 17312,
-  "2023-05-25": 17319,
-  "2023-05-26": 17358,
-  "2023-05-27": 17402,
-  "2023-05-28": 17452,
-  "2023-05-29": 17452,
-  "2023-05-30": 17534,
-  "2023-05-31": 17566,
-  "2023-06-01": 17615,
-  "2023-06-02": 17649,
-  "2023-06-03": 17699,
-  "2023-06-04": 17753,
-  "2023-06-05": 17796,
-  "2023-06-06": 17831,
-  "2023-06-07": 17874,
-  "2023-06-08": 17913,
-  "2023-06-09": 17940,
-  "2023-06-10": 17989,
-  "2023-06-11": 18045,
-  "2023-06-12": 18106,
-  "2023-06-13": 18136,
-  "2023-06-14": 18162,
-  "2023-06-15": 18194,
-  "2023-06-16": 18236,
-  "2023-06-17": 18275,
-  "2023-06-18": 18337,
-  "2023-06-19": 18378,
-  "2023-06-20": 18408,
-  "2023-06-21": 18442,
-  "2023-06-22": 18479,
-  "2023-06-23": 18522,
-  "2023-06-24": 18558,
-  "2023-06-25": 18627,
-  "2023-06-26": 18672,
-  "2023-06-27": 18692,
-  "2023-06-28": 18723,
-  "2023-06-29": 18751,
-  "2023-06-30": 18796,
-  "2023-07-01": 18888,
-  "2023-07-02": 18888,
-  "2023-07-03": 18916,
-  "2023-07-04": 18942,
-  "2023-07-05": 18978,
-  "2023-07-06": 19047,
-  "2023-07-07": 19047,
-  "2023-07-08": 19093,
-  "2023-07-09": 19135,
-  "2023-07-10": 19181,
-  "2023-07-11": 19220,
-  "2023-07-12": 19248,
-  "2023-07-13": 19293,
-  "2023-07-14": 19339,
-  "2023-07-15": 19377,
-  "2023-07-16": 19436,
-  "2023-07-17": 19477,
-  "2023-07-18": 19511,
-  "2023-07-19": 19542,
-  "2023-07-20": 19571,
-  "2023-07-21": 19603,
-  "2023-07-22": 19645,
-  "2023-07-23": 19695,
-  "2023-07-24": 19727,
-  "2023-07-25": 19757,
-  "2023-07-26": 19795,
-  "2023-07-27": 19829,
-  "2023-07-28": 19864,
-  "2023-07-29": 19910,
-  "2023-07-30": 19950,
-  "2023-07-31": 19995,
-  "2023-08-01": 20026,
-  "2023-08-02": 20050,
-  "2023-08-03": 20075,
-  "2023-08-04": 20115,
-  "2023-08-05": 20152,
-  "2023-08-06": 20239,
-  "2023-08-07": 20239,
-  "2023-08-08": 20279,
-  "2023-08-09": 20314,
-  "2023-08-10": 20348,
-  "2023-08-11": 20384,
-  "2023-08-12": 20434,
-  "2023-08-13": 20484,
-  "2023-08-14": 20524,
-  "2023-08-15": 20580,
-  "2023-08-16": 20580,
-  "2023-08-17": 20602,
-  "2023-08-18": 20644,
-  "2023-08-19": 20688,
-  "2023-08-20": 20729,
-  "2023-08-21": 20760,
-  "2023-08-22": 20794,
-  "2023-08-23": 20826,
-  "2023-08-24": 20862,
-  "2023-08-25": 20887,
-  "2023-08-26": 20932,
-  "2023-08-27": 20974,
-  "2023-08-28": 21011,
-  "2023-08-29": 21051,
-  "2023-08-30": 21082,
-  "2023-08-31": 21119,
-  "2023-09-01": 21257,
-  "2023-09-02": 21257,
-  "2023-09-03": 21303,
-  "2023-09-04": 21396,
-  "2023-09-05": 21474,
-  "2023-09-06": 21524,
-  "2023-09-07": 21609,
-  "2023-09-08": 21679,
-  "2023-09-09": 21758,
-  "2023-09-10": 21862,
-  "2023-09-11": 21964,
-  "2023-09-12": 22021,
-  "2023-09-13": 22086,
-  "2023-09-14": 22150,
-  "2023-09-15": 22213,
-  "2023-09-16": 22288,
-  "2023-09-17": 22369,
-  "2023-09-18": 22452,
-  "2023-09-19": 22505,
-  "2023-09-20": 22594,
-  "2023-09-21": 22654,
-  "2023-09-22": 22736,
-  "2023-09-23": 22840,
-  "2023-09-24": 22948,
-  "2023-09-25": 23030,
-  "2023-09-26": 23107,
-  "2023-09-27": 23158,
-  "2023-09-28": 23215,
-  "2023-09-29": 23278,
-  "2023-09-30": 23356,
-  "2023-10-01": 23444,
-  "2023-10-02": 23518,
-  "2023-10-03": 23576,
-  "2023-10-04": 23621,
-  "2023-10-05": 23683,
-  "2023-10-06": 23748,
-  "2023-10-07": 23828,
-  "2023-10-08": 23928,
-  "2023-10-09": 24005,
-  "2023-10-10": 24057,
-  "2023-10-11": 24184,
-  "2023-10-12": 24184,
-  "2023-10-13": 24240,
-  "2023-10-14": 24304,
-  "2023-10-15": 24393,
-  "2023-10-16": 24490,
-  "2023-10-17": 24562,
-  "2023-10-18": 24603,
-  "2023-10-19": 24658,
-  "2023-10-20": 24728,
-  "2023-10-21": 24783,
-  "2023-10-22": 24872,
-  "2023-10-23": 24952,
-  "2023-10-24": 25021,
-  "2023-10-25": 25076,
-  "2023-10-26": 25135,
-  "2023-10-27": 25210,
-  "2023-10-28": 25289,
-  "2023-10-29": 25374,
-  "2023-10-30": 25479,
-  "2023-10-31": 25479,
-  "2023-11-01": 25537,
-  "2023-11-02": 25579,
-  "2023-11-03": 25643,
-  "2023-11-04": 25716,
-  "2023-11-05": 25806,
-  "2023-11-06": 25875,
-  "2023-11-07": 25924,
-  "2023-11-08": 25991,
-  "2023-11-09": 26033,
-  "2023-11-10": 26088,
-  "2023-11-11": 26169,
-  "2023-11-12": 26234,
-  "2023-11-13": 26327,
-  "2023-11-14": 26384,
-  "2023-11-15": 26384,
-  "2023-11-16": 26496,
-  "2023-11-17": 26637,
-  "2023-11-18": 26637,
-  "2023-11-19": 26729,
-  "2023-11-20": 26804,
-  "2023-11-21": 26869,
-  "2023-11-22": 26937,
-  "2023-11-23": 26996,
-  "2023-11-24": 27069,
-  "2023-11-25": 27141,
-  "2023-11-26": 27215,
-  "2023-11-27": 27278,
-  "2023-11-28": 27331,
-  "2023-11-29": 27453,
-  "2023-11-30": 27453,
-  "2023-12-01": 27519,
-  "2023-12-02": 27589,
-  "2023-12-03": 27676,
-  "2023-12-04": 27753,
-  "2023-12-05": 27808,
-  "2023-12-06": 27880,
-  "2023-12-07": 27957,
-  "2023-12-08": 28024,
-  "2023-12-09": 28073,
-  "2023-12-10": 28132,
-  "2023-12-11": 28169,
-  "2023-12-12": 28211,
-  "2023-12-13": 28262,
-  "2023-12-14": 28340,
-  "2023-12-15": 28376,
-  "2023-12-16": 28423,
-  "2023-12-17": 28492,
-  "2023-12-18": 28569,
-  "2023-12-19": 28620,
-  "2023-12-20": 28683,
-  "2023-12-21": 28748,
-  "2023-12-22": 28823,
-  "2023-12-23": 28888,
-  "2023-12-24": 28968,
-  "2023-12-25": 29054,
-  "2023-12-26": 29152,
-  "2023-12-27": 29203,
-  "2023-12-30": 29401,
-  "2023-12-31": 29481,
-  "2024-01-01": 29591,
-  "2024-01-02": 29674,
-  "2024-01-03": 29721
+  "2024-01-17": 30517,
+  "date_first_scraped": "2022-09-09",
+  "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
+  "name": "Vivo de Salsa",
+  "tracks": [
+    {
+      "album": {
+        "name": "Mickey Taveras (Live)",
+        "url": "https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296683,
+      "name": "A Pesar del Tiempo - Live",
+      "url": "https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR"
+    },
+    {
+      "album": {
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 442960,
+      "name": "Agua que Cae del Cielo (Lluvia) (feat. Willie Rosario) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/39XBzvG6sBfwvNvhfD7bpA"
+    },
+    {
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388360,
+      "name": "Aguanile - Live Version",
+      "url": "https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446333,
+      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
+      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
+    },
+    {
+      "album": {
+        "name": "Todos Vuelven Live, Vol. 1",
+        "url": "https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS"
+      },
+      "artists": [
+        {
+          "name": "Ruben Blades",
+          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
+        },
+        {
+          "name": "Seis del Solar",
+          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351026,
+      "name": "Amor y Control - Live",
+      "url": "https://open.spotify.com/track/6hAiZrzev7bN8emPDPHFD4"
+    },
+    {
+      "album": {
+        "name": "Todos Vuelven Live, Vol. 1",
+        "url": "https://open.spotify.com/album/72kp87UikYikQPuNMa4oYN"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Seis del Solar",
+          "url": "https://open.spotify.com/artist/2RcE89jDiwhYT0QyGm0V88"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 351026,
+      "name": "Amor y Control - Live",
+      "url": "https://open.spotify.com/track/30aRxa0Mi22rG981x42Nyx"
+    },
+    {
+      "album": {
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435640,
+      "name": "Anacaona - Live",
+      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
+    },
+    {
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449640,
+      "name": "Aparentemente - En Vivo",
+      "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
+    },
+    {
+      "album": {
+        "name": "Live At Yankee Stadium Vol. 2",
+        "url": "https://open.spotify.com/album/0d6RjmRe2vGol76MdPtlLE"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 712920,
+      "name": "Bemba Color\u00e1 - Live",
+      "url": "https://open.spotify.com/track/1qROMoGOaag7LrXhukbDRZ"
+    },
+    {
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277706,
+      "name": "Casi Te Envidio - Live Version",
+      "url": "https://open.spotify.com/track/351z8ABoWoJliwcM87Ow15"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os (La Historia) [En Vivo]",
+        "url": "https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx"
+      },
+      "artists": [
+        {
+          "name": "Porfi Baloa",
+          "url": "https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3"
+        },
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272214,
+      "name": "Clase Social - En Vivo",
+      "url": "https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y"
+    },
+    {
+      "album": {
+        "name": "Un Legado Musical - Lo Nuevo y Lo Mejor",
+        "url": "https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Como Podr\u00e9 Disimular",
+      "url": "https://open.spotify.com/track/0rvSVIYp6ewTVkDzxYQbP9"
+    },
+    {
+      "album": {
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196480,
+      "name": "Conciencia - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/2kTplkLCuMb9wWkyQmo17s"
+    },
+    {
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270253,
+      "name": "De Mi Enam\u00f3rate - Live Version",
+      "url": "https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q"
+    },
+    {
+      "album": {
+        "name": "Todos Vuelven Live, Vol. 1",
+        "url": "https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS"
+      },
+      "artists": [
+        {
+          "name": "Ruben Blades",
+          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
+        },
+        {
+          "name": "Seis del Solar",
+          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360080,
+      "name": "Decisiones - Live",
+      "url": "https://open.spotify.com/track/0NZ5mg6DGJHdnQkQjtsGHb"
+    },
+    {
+      "album": {
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 557626,
+      "name": "Descarga Fania - Live",
+      "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
+    },
+    {
+      "album": {
+        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 500520,
+      "name": "Desnudate Mujer",
+      "url": "https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
+        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        },
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-10",
+      "duration_ms": 281160,
+      "name": "Detalles - Live",
+      "url": "https://open.spotify.com/track/65lf9GOGo5pjHUqImIGwPv"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "El Cantante - Live",
+      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
+    },
+    {
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296253,
+      "name": "Ella Es - En Vivo",
+      "url": "https://open.spotify.com/track/718X6sjlHdmOzdTfJv4tUc"
+    },
+    {
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351813,
+      "name": "Esa Mujer - En Vivo",
+      "url": "https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm"
+    },
+    {
+      "album": {
+        "name": "Live At The Cheetah, Vol. 2",
+        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444960,
+      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
+      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
+    },
+    {
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307826,
+      "name": "Fabricando Fantas\u00edas - Live Version",
+      "url": "https://open.spotify.com/track/6hDvVWalpu5r2EF3jft6ul"
+    },
+    {
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347413,
+      "name": "Haremos El Amor - En Vivo",
+      "url": "https://open.spotify.com/track/5T7BtRS2UUUHBS7IFwCWrC"
+    },
+    {
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392933,
+      "name": "Hazme Olvidarla - En Vivo",
+      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
+    },
+    {
+      "album": {
+        "name": "Dos Soneros... Una Historia",
+        "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481280,
+      "name": "He Tratado - Live Version",
+      "url": "https://open.spotify.com/track/1s6V4WG5Vmqm4Ryd8bV3vR"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522960,
+      "name": "Juanito Alima\u00f1a - Live",
+      "url": "https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2"
+    },
+    {
+      "album": {
+        "name": "Tributo a La Salsa Colombiana 2",
+        "url": "https://open.spotify.com/album/0sirGi2mFLKpOUMam9kTCy"
+      },
+      "artists": [
+        {
+          "name": "Alberto Barros",
+          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 288306,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/5tjbIjf57RkHXNnbSjtV3d"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Alberto Barros, Vol. 2",
+        "url": "https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Barros",
+          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294130,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 422280,
+      "name": "La Murga - Live",
+      "url": "https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0"
+    },
+    {
+      "album": {
+        "name": "A Night Of Salsa",
+        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 401466,
+      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
+      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
+        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        },
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273053,
+      "name": "Llorar\u00e1s - Live",
+      "url": "https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp"
+    },
+    {
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420040,
+      "name": "Lo Mio Es Amor - En Vivo",
+      "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
+    },
+    {
+      "album": {
+        "name": "Live At The Red Garter, Vol. 1",
+        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 497080,
+      "name": "Me Gusta El Son - Live",
+      "url": "https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z"
+    },
+    {
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352480,
+      "name": "Medias Negras - Live Version",
+      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
+    },
+    {
+      "album": {
+        "name": "Rey Ruiz Envivo (15 A\u00d1OS)",
+        "url": "https://open.spotify.com/album/548hHvN86B2e2PGNatWj48"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 440895,
+      "name": "Medley (Amiga, Mi Media Mitad,luna Negra)",
+      "url": "https://open.spotify.com/track/7vIx0HasdNQJu1xYO4PMsN"
+    },
+    {
+      "album": {
+        "name": "15 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440864,
+      "name": "Medley: Amiga/Mi Media Mitad/Luna Negra - En Vivo",
+      "url": "https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D"
+    },
+    {
+      "album": {
+        "name": "Fania Live 02 From Miami With DJ LeSpam",
+        "url": "https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Colon",
+          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357386,
+      "name": "Merecumbe",
+      "url": "https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97"
+    },
+    {
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 338093,
+      "name": "Mi Bajo y Yo - Live Version",
+      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
+    },
+    {
+      "album": {
+        "name": "A Dos Epocas",
+        "url": "https://open.spotify.com/album/7aYBMDpdSIff3lUP87Dbvn"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336682,
+      "name": "Mi Mundo Es de Ella",
+      "url": "https://open.spotify.com/track/6LEhXpp41dCJzU2MB7t1Qw"
+    },
+    {
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 474894,
+      "name": "No Es Casualidad - En Vivo",
+      "url": "https://open.spotify.com/track/0enkJVDmJcro5LDyC82p5X"
+    },
+    {
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364626,
+      "name": "No Podr\u00e1s Escapar de M\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/7HJL1P3DPHYYtR0wI7X2BK"
+    },
+    {
+      "album": {
+        "name": "Un Legado Musical - Lo Nuevo y Lo Mejor",
+        "url": "https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322200,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/7aXsYQkDCl9aWaTmwR5rrd"
+    },
+    {
+      "album": {
+        "name": "Grupo Niche (En Vivo)",
+        "url": "https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335680,
+      "name": "Nuestro Sue\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw"
+    },
+    {
+      "album": {
+        "name": "Todos Vuelven Live, Vol. 2",
+        "url": "https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq"
+      },
+      "artists": [
+        {
+          "name": "Ruben Blades",
+          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
+        },
+        {
+          "name": "Seis del Solar",
+          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489853,
+      "name": "Pedro Navaja - Live",
+      "url": "https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2"
+    },
+    {
+      "album": {
+        "name": "Todos Vuelven Live, Vol. 2",
+        "url": "https://open.spotify.com/album/1hFypiuMxAkEGse2l0JdsY"
+      },
+      "artists": [
+        {
+          "name": "Ruben Blades y Seis del Solar",
+          "url": "https://open.spotify.com/artist/0Rx4tJspA1e5V2TZFzy0d5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 489853,
+      "name": "Pedro Navaja - Live",
+      "url": "https://open.spotify.com/track/02JsgAcJTmrN9RXWjjhjH5"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475266,
+      "name": "Perd\u00f3name - En Vivo Desde El Carnegie Hall Version",
+      "url": "https://open.spotify.com/track/2erJMHGqZ92OKvDIMuTut9"
+    },
+    {
+      "album": {
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500946,
+      "name": "Perd\u00f3name / Lo Grande Que Es Perdonar - Medley (feat. Vico C) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/4fM5OkcMCkIsJTTQC0OgTo"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483480,
+      "name": "Peri\u00f3dico De Ayer - Live",
+      "url": "https://open.spotify.com/track/7BkcskeOLGTge1UAVLV5Ni"
+    },
+    {
+      "album": {
+        "name": "El Reencuentro (Live In Lima) - Vol. 2",
+        "url": "https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324062,
+      "name": "Probablemente - Live",
+      "url": "https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw"
+    },
+    {
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424066,
+      "name": "Quiero Morir en Tu Piel - En Vivo",
+      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
+    },
+    {
+      "album": {
+        "name": "30 A\u00f1os de Power",
+        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 330800,
+      "name": "Qui\u00e9reme Tal Como Soy - Live",
+      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+    },
+    {
+      "album": {
+        "name": "Live At The Red Garter, Vol. 1",
+        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Sabor Sabor - Live",
+      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
+    },
+    {
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Orquesta De La Luz",
+          "url": "https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352853,
+      "name": "Salsa Caliente del Jap\u00f3n - Live Version",
+      "url": "https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r"
+    },
+    {
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-17",
+      "duration_ms": 313573,
+      "name": "Seda - En Vivo",
+      "url": "https://open.spotify.com/track/3fHPPqfiXlGM5ZauZpAa2r"
+    },
+    {
+      "album": {
+        "name": "Ismael Miranda (En Vivo)",
+        "url": "https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-07",
+      "duration_ms": 330426,
+      "name": "Se\u00f1or Sereno - En Vivo",
+      "url": "https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4"
+    },
+    {
+      "album": {
+        "name": "Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves",
+        "url": "https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Cl\u00e1sico",
+          "url": "https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312440,
+      "name": "Se\u00f1ora Ley (En Vivo)",
+      "url": "https://open.spotify.com/track/0vB3uI6JFXYT6Vq2HRZ4b4"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
+      },
+      "artists": [
+        {
+          "name": "Alberto Barros Y Los Titanez De La Salsa",
+          "url": "https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280493,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
+    },
+    {
+      "album": {
+        "name": "40 Aniversario: EN VIVO",
+        "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
+      },
+      "artists": [
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Richie Ray",
+          "url": "https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf"
+        },
+        {
+          "name": "Ricardo Ray",
+          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
+        },
+        {
+          "name": "Wille Colon",
+          "url": "https://open.spotify.com/artist/7FjTUD6W5stHN4LwBCcwkU"
+        },
+        {
+          "name": "Pedro Brull",
+          "url": "https://open.spotify.com/artist/5gNP6xGmxzC25B3Fhqg5eg"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Luisito Carrion",
+          "url": "https://open.spotify.com/artist/7Gkr47aENhNsnuE72IIuUl"
+        },
+        {
+          "name": "Bobby Valentin",
+          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/5pUnaPzP3a5oHMWgJHU0gp"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/7vBicXCUm81QrCyx83xEfj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-08",
+      "duration_ms": 393810,
+      "name": "Sonido Bestial",
+      "url": "https://open.spotify.com/track/1FVahOIncroD7JyUrEslTm"
+    },
+    {
+      "album": {
+        "name": "Intimamente Salsero (En Vivo)",
+        "url": "https://open.spotify.com/album/5Reuqd1mwQDQOdx0vFvOXm"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 298573,
+      "name": "Sue\u00f1o Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1ACoCw1B1BRNg0gaLQmdJQ"
+    },
+    {
+      "album": {
+        "name": "\u00cdntimamente Salsero (En Vivo)",
+        "url": "https://open.spotify.com/album/1gRHLe75BJK2tqAbaSL30w"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 298573,
+      "name": "Sue\u00f1o Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/5BrPoD09caqS2vjKc8TNgQ"
+    },
+    {
+      "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275960,
+      "name": "Tengo Ganas - Live at MSG Version",
+      "url": "https://open.spotify.com/track/2oPozWeqp6qGl3mWK2I62C"
+    },
+    {
+      "album": {
+        "name": "Victor Manuelle Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/4Cod19wOYqojpBfb6G8pdE"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406440,
+      "name": "Tengo Ganas - Live Carnegie Version",
+      "url": "https://open.spotify.com/track/0dfKQSS9o3pfSducqHXaCy"
+    },
+    {
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321200,
+      "name": "Tu Amor Me Hace Bien - Live Version",
+      "url": "https://open.spotify.com/track/6mMZl9sPeoTM79XaIaPg9J"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Bellas Artes",
+        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena",
+          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 278866,
+      "name": "Tu Loco, Loco, Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
+    },
+    {
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        },
+        {
+          "name": "Nora",
+          "url": "https://open.spotify.com/artist/50qoEvPHvc3H9dmOBShQSM"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352853,
+      "name": "Vali\u00f3 La Pena (feat. Jose Alberto \"El Canario\", Cheo Feliciano, Andy Monta\u00f1ez & Nora) - Live Version",
+      "url": "https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c"
+    },
+    {
+      "album": {
+        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311520,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek"
+    },
+    {
+      "album": {
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        },
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468653,
+      "name": "Vivir Sin Ella (feat. Tito Nieves, Luis Enrique & Eddie Santiago) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/6AahARlIuyeOb4cyK3AjHe"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-30",
+      "duration_ms": 517666,
+      "name": "Vivir Sin Ella - En Vivo Desde El Carnegie Hall Version",
+      "url": "https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj"
+    },
+    {
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343786,
+      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
+      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSgTTUXeVFiG"
 }

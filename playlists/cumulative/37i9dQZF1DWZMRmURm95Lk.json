@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il sogno di ogni zanza si \u00e8 avverato: \ud835\udc74\ud835\udc82\ud835\udc87\ud835\udc8a\ud835\udc82 \ud835\udc85\ud835\udc86\ud835\udc8d \ud835\udc69\ud835\udc90\ud835\udc90\ud835\udc8e \ud835\udc69\ud835\udc82\ud835\udc91",
+  "description": "Beat e rime, oggi come una volta. Cor Veleno in cover.",
   "name": "Radici Hip-Hop",
   "tracks": [
     {
@@ -282,7 +282,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 295333,
       "name": "Amor de mi vida",
       "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 218406,
       "name": "Cani Sciolti - 2006",
       "url": "https://open.spotify.com/track/5g4Umkk6CRSrixdPzeqIBr"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 165142,
       "name": "CLASSICO",
       "url": "https://open.spotify.com/track/42Qd1nj4GvdimsO2FaqLB8"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 181333,
       "name": "Colpi di tosse",
       "url": "https://open.spotify.com/track/2snXy0KrRLruaTJBIaoPl5"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 222266,
       "name": "Cronache di resistenza",
       "url": "https://open.spotify.com/track/1O2g1BXb2PwvvDjusEHrEn"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-14",
       "duration_ms": 174000,
       "name": "Detersivo",
       "url": "https://open.spotify.com/track/4DZkasAnr7Vq9oEskZP2Ky"
@@ -2373,6 +2373,28 @@
     },
     {
       "album": {
+        "name": "Fuoco Sacro (feat. Colle Der Fomento)",
+        "url": "https://open.spotify.com/album/3XvdjncaFFf6vTMcb35Gtj"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287895,
+      "name": "Fuoco Sacro (feat. Colle Der Fomento)",
+      "url": "https://open.spotify.com/track/2fTBUYU6YJVbfHGTm56coQ"
+    },
+    {
+      "album": {
         "name": "Fuori di qua! (Stories) [2022 Remastered]",
         "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
       },
@@ -2855,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169453,
+      "name": "In Sbatti",
+      "url": "https://open.spotify.com/track/0WKVClYF08eMEStJBTgq7C"
+    },
+    {
+      "album": {
         "name": "Incubi",
         "url": "https://open.spotify.com/album/3fZ7dqVr0vlpMBC9wR64pD"
       },
@@ -2870,6 +2910,24 @@
       "duration_ms": 599980,
       "name": "Incubi",
       "url": "https://open.spotify.com/track/70bR9llwrqj7jAeAYtNAsq"
+    },
+    {
+      "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198946,
+      "name": "Indelebili",
+      "url": "https://open.spotify.com/track/75Yzvfpj7uGrT9c39u4pvq"
     },
     {
       "album": {
@@ -2932,7 +2990,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 170254,
       "name": "Invisibili",
       "url": "https://open.spotify.com/track/3xeyVLTJmrVALWXwbDyqYO"
@@ -3811,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185586,
+      "name": "Mafia Del Boom Bap",
+      "url": "https://open.spotify.com/track/5aCfe1vmMzmCc916WKWar3"
+    },
+    {
+      "album": {
         "name": "Magico (RMX)",
         "url": "https://open.spotify.com/album/5sLfHeybDeYChi9Kb3qaS5"
       },
@@ -3960,7 +4036,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 197227,
       "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
       "url": "https://open.spotify.com/track/3knYKrDUrIv8F271A7cmEm"
@@ -4212,7 +4288,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 203584,
       "name": "Moltisanti",
       "url": "https://open.spotify.com/track/3yT47dCQpoJE4Uy1Hmf9oi"
@@ -4851,6 +4927,32 @@
     },
     {
       "album": {
+        "name": "One Shot",
+        "url": "https://open.spotify.com/album/1RKEPBGYN2Ei1iQcKFdZhm"
+      },
+      "artists": [
+        {
+          "name": "Giovane Feddini",
+          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
+        },
+        {
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
+        },
+        {
+          "name": "Ric de Large",
+          "url": "https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "One Shot",
+      "url": "https://open.spotify.com/track/70GfM5aopAoJ0oc8t4kbNU"
+    },
+    {
+      "album": {
         "name": "Ora Che La Musica Non C'\u00e8",
         "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
       },
@@ -4962,7 +5064,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 229560,
       "name": "Parole",
       "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
@@ -5136,6 +5238,24 @@
       "duration_ms": 309466,
       "name": "Piombo & fango",
       "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+    },
+    {
+      "album": {
+        "name": "PIRANHA",
+        "url": "https://open.spotify.com/album/4OPbWPebt7AqjVNVLokNS8"
+      },
+      "artists": [
+        {
+          "name": "HEVA",
+          "url": "https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164902,
+      "name": "PIRANHA",
+      "url": "https://open.spotify.com/track/2w6940hx16miltKv055xLU"
     },
     {
       "album": {
@@ -5356,7 +5476,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 204851,
       "name": "Primma",
       "url": "https://open.spotify.com/track/7GY5uK8LtZGIA4IiGg5Li2"
@@ -5874,7 +5994,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 473322,
       "name": "S.U.N.S.H.I.N.E.",
       "url": "https://open.spotify.com/track/6cNKQMBHY9Yt94fDQVA94t"
@@ -6450,7 +6570,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Solo hardcore",
       "url": "https://open.spotify.com/track/134Ntz0aFWx3ddGBNV09Ks"
@@ -6490,7 +6610,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 276933,
       "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
       "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
@@ -6752,7 +6872,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
@@ -7114,7 +7234,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 221380,
       "name": "Ti Pretendo XXX",
       "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
@@ -7263,6 +7383,24 @@
     },
     {
       "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179879,
+      "name": "Tu Non Sei Lei",
+      "url": "https://open.spotify.com/track/4KePlRbM1bdY6LIKH8kURb"
+    },
+    {
+      "album": {
         "name": "Perle Ai Porci",
         "url": "https://open.spotify.com/album/2dJ0tz9SsoQmh4eackjGn9"
       },
@@ -7282,7 +7420,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 133333,
       "name": "Tupperware 2000",
       "url": "https://open.spotify.com/track/2QiLOpmWMbcck3yMlbxWyP"
@@ -7430,7 +7568,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 202885,
       "name": "Una Volta Sola",
       "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
@@ -7584,7 +7722,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 194322,
       "name": "Vida loca - Remix 2k4",
       "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"

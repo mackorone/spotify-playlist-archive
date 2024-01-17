@@ -1,159 +1,1463 @@
 {
-  "2023-07-29": 464605,
-  "2023-07-30": 464671,
-  "2023-07-31": 464732,
-  "2023-08-01": 464776,
-  "2023-08-02": 464833,
-  "2023-08-03": 464895,
-  "2023-08-04": 464952,
-  "2023-08-05": 465002,
-  "2023-08-06": 465100,
-  "2023-08-07": 465100,
-  "2023-08-08": 465141,
-  "2023-08-09": 465164,
-  "2023-08-10": 465243,
-  "2023-08-11": 465296,
-  "2023-08-12": 465296,
-  "2023-08-13": 465296,
-  "2023-08-14": 465459,
-  "2023-08-15": 465459,
-  "2023-08-16": 465459,
-  "2023-08-17": 465459,
-  "2023-08-18": 465459,
-  "2023-08-19": 465459,
-  "2023-08-20": 465791,
-  "2023-08-21": 465791,
-  "2023-08-22": 465877,
-  "2023-08-23": 465877,
-  "2023-08-24": 465877,
-  "2023-08-25": 465877,
-  "2023-08-26": 466075,
-  "2023-08-27": 466075,
-  "2023-08-28": 466166,
-  "2023-08-29": 466166,
-  "2023-08-30": 466166,
-  "2023-08-31": 466299,
-  "2023-09-01": 466357,
-  "2023-09-02": 466357,
-  "2023-09-03": 466472,
-  "2023-09-04": 466472,
-  "2023-09-05": 466472,
-  "2023-09-06": 466596,
-  "2023-09-07": 466596,
-  "2023-09-08": 466596,
-  "2023-09-09": 466596,
-  "2023-09-10": 466777,
-  "2023-09-11": 466777,
-  "2023-09-12": 466777,
-  "2023-09-13": 466926,
-  "2023-09-14": 466926,
-  "2023-09-15": 466926,
-  "2023-09-16": 467074,
-  "2023-09-17": 467074,
-  "2023-09-18": 467074,
-  "2023-09-19": 467225,
-  "2023-09-20": 467225,
-  "2023-09-21": 467225,
-  "2023-09-22": 467336,
-  "2023-09-23": 467336,
-  "2023-09-24": 467336,
-  "2023-09-25": 467336,
-  "2023-09-26": 467509,
-  "2023-09-27": 467509,
-  "2023-09-28": 467509,
-  "2023-09-29": 467509,
-  "2023-09-30": 467509,
-  "2023-10-01": 467509,
-  "2023-10-02": 467716,
-  "2023-10-03": 467716,
-  "2023-10-04": 467716,
-  "2023-10-05": 467815,
-  "2023-10-06": 467815,
-  "2023-10-07": 467815,
-  "2023-10-08": 467815,
-  "2023-10-09": 467815,
-  "2023-10-10": 467815,
-  "2023-10-11": 467394,
-  "2023-10-12": 467394,
-  "2023-10-13": 467394,
-  "2023-10-14": 467394,
-  "2023-10-15": 467394,
-  "2023-10-16": 467394,
-  "2023-10-17": 467394,
-  "2023-10-18": 467394,
-  "2023-10-19": 467394,
-  "2023-10-20": 467394,
-  "2023-10-21": 467394,
-  "2023-10-22": 467394,
-  "2023-10-23": 467394,
-  "2023-10-24": 467394,
-  "2023-10-25": 467394,
-  "2023-10-26": 467394,
-  "2023-10-27": 467394,
-  "2023-10-28": 467394,
-  "2023-10-29": 467394,
-  "2023-10-30": 467394,
-  "2023-10-31": 467394,
-  "2023-11-01": 467394,
-  "2023-11-02": 467394,
-  "2023-11-03": 467394,
-  "2023-11-04": 467394,
-  "2023-11-05": 467394,
-  "2023-11-06": 467394,
-  "2023-11-07": 467394,
-  "2023-11-08": 467394,
-  "2023-11-09": 467394,
-  "2023-11-10": 467394,
-  "2023-11-11": 467144,
-  "2023-11-12": 467144,
-  "2023-11-13": 467144,
-  "2023-11-14": 467144,
-  "2023-11-15": 467144,
-  "2023-11-16": 467144,
-  "2023-11-17": 467144,
-  "2023-11-18": 467144,
-  "2023-11-19": 467144,
-  "2023-11-20": 467144,
-  "2023-11-21": 467144,
-  "2023-11-22": 467144,
-  "2023-11-23": 467144,
-  "2023-11-24": 467144,
-  "2023-11-25": 467144,
-  "2023-11-26": 467144,
-  "2023-11-27": 467144,
-  "2023-11-28": 467144,
-  "2023-11-29": 467144,
-  "2023-11-30": 467144,
-  "2023-12-01": 467144,
-  "2023-12-02": 467144,
-  "2023-12-03": 467144,
-  "2023-12-04": 467144,
-  "2023-12-05": 467144,
-  "2023-12-06": 467144,
-  "2023-12-07": 467144,
-  "2023-12-08": 467144,
-  "2023-12-09": 467144,
-  "2023-12-10": 467144,
-  "2023-12-11": 467144,
-  "2023-12-12": 467144,
-  "2023-12-13": 467144,
-  "2023-12-14": 468128,
-  "2023-12-15": 468144,
-  "2023-12-16": 468187,
-  "2023-12-17": 468237,
-  "2023-12-18": 468272,
-  "2023-12-19": 468305,
-  "2023-12-20": 468347,
-  "2023-12-21": 468365,
-  "2023-12-22": 468391,
-  "2023-12-23": 468415,
-  "2023-12-24": 468442,
-  "2023-12-25": 468454,
-  "2023-12-26": 468476,
-  "2023-12-27": 468483,
-  "2023-12-30": 468560,
-  "2023-12-31": 468592,
-  "2024-01-01": 468630,
-  "2024-01-02": 468656,
-  "2024-01-03": 468693
+  "2024-01-17": 466289,
+  "date_first_scraped": "2023-07-29",
+  "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
+  "name": "This Is Jennifer Lopez",
+  "tracks": [
+    {
+      "album": {
+        "name": "El Regreso del Sobreviviente (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235546,
+      "name": "Adrenalina (feat. Jennifer Lopez & Ricky Martin)",
+      "url": "https://open.spotify.com/track/2eqDUxbd0JPEhNrJdPlHLs"
+    },
+    {
+      "album": {
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165050,
+      "name": "After Love (Part 1)",
+      "url": "https://open.spotify.com/track/68ZolUi1wARFSDGQCeybgy"
+    },
+    {
+      "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245360,
+      "name": "Ain't It Funny",
+      "url": "https://open.spotify.com/track/6J8vBmsokURohC3UygqYOH"
+    },
+    {
+      "album": {
+        "name": "J To Tha L-O! The Remixes",
+        "url": "https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Cadillac Tah",
+          "url": "https://open.spotify.com/artist/1pYxANcOtFZSECxACjmCE8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 229800,
+      "name": "Ain't It Funny (feat. Ja Rule & Cadillac Tah) - Murder Remix",
+      "url": "https://open.spotify.com/track/5ahFyKndeg1hqfmNumL3WF"
+    },
+    {
+      "album": {
+        "name": "Ain't Your Mama",
+        "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218234,
+      "name": "Ain't Your Mama",
+      "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "All I Have (feat. LL Cool J)",
+      "url": "https://open.spotify.com/track/2xlnEhQjSCqNPIJX42ARej"
+    },
+    {
+      "album": {
+        "name": "Almost Like Praying (feat. Artists for Puerto Rico)",
+        "url": "https://open.spotify.com/album/0CrR6wiiAF5Myln0EFTRUz"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        },
+        {
+          "name": "Ana Villafa\u00f1e",
+          "url": "https://open.spotify.com/artist/5lVYBJYVtzSu6YH7vlMuhU"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Artists for Puerto Rico",
+          "url": "https://open.spotify.com/artist/4cS0IGoIwn4vOj3uzkiOrK"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Dessa",
+          "url": "https://open.spotify.com/artist/2CQAfzpwwaMxj3YNlb4Gbj"
+        },
+        {
+          "name": "Ednita Nazario",
+          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Gina Rodriguez",
+          "url": "https://open.spotify.com/artist/5oC6sik8OGWHW5k4cdnEca"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Joell Ortiz",
+          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
+        },
+        {
+          "name": "John Leguizamo",
+          "url": "https://open.spotify.com/artist/26nStRV6Waedt17W4Uhx6l"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Rita Moreno",
+          "url": "https://open.spotify.com/artist/0o8VXZhF492Z1bKBRFA9Q2"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 200457,
+      "name": "Almost Like Praying (feat. Artists for Puerto Rico)",
+      "url": "https://open.spotify.com/track/3dskm5fAe8OkBtM9E0VVWx"
+    },
+    {
+      "album": {
+        "name": "Amor, Amor, Amor (feat. Wisin)",
+        "url": "https://open.spotify.com/album/0iAdCXRBzxH01SbuLvvO2Y"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198586,
+      "name": "Amor, Amor, Amor (feat. Wisin)",
+      "url": "https://open.spotify.com/track/7h9sdbDEBfkWSmO4mzGED6"
+    },
+    {
+      "album": {
+        "name": "Double Vision (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200920,
+      "name": "Back It Up (feat. Jennifer Lopez & Pitbull) - Video Version",
+      "url": "https://open.spotify.com/track/6Y0mJNAcx8CDBOhSy6icFP"
+    },
+    {
+      "album": {
+        "name": "Baila Conmigo",
+        "url": "https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163998,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC"
+    },
+    {
+      "album": {
+        "name": "Booty",
+        "url": "https://open.spotify.com/album/5afRtOFscJUQq7nCbHR5Rn"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209699,
+      "name": "Booty",
+      "url": "https://open.spotify.com/track/6dshconh2KBbGxVh7GtSTC"
+    },
+    {
+      "album": {
+        "name": "Cambia el Paso",
+        "url": "https://open.spotify.com/album/5qSmLWlPnrhF2rgt54Y7GC"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245755,
+      "name": "Cambia el Paso",
+      "url": "https://open.spotify.com/track/6w0hTf98ZNQm5GpfWeuoAk"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186599,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd"
+    },
+    {
+      "album": {
+        "name": "Chegaste",
+        "url": "https://open.spotify.com/album/6Hu8uwwicNW49TbvTyZnPO"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236057,
+      "name": "Chegaste",
+      "url": "https://open.spotify.com/track/4qQCkzpkOPvbgbcy3fHwxK"
+    },
+    {
+      "album": {
+        "name": "Dance Again...The Hits",
+        "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "Dance Again (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
+    },
+    {
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
+    },
+    {
+      "album": {
+        "name": "El Anillo",
+        "url": "https://open.spotify.com/album/4DnxvNqBLOdInzC0cI8Wzy"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176816,
+      "name": "El Anillo",
+      "url": "https://open.spotify.com/track/2SpfMQ5TuKsMj1trNwrLVA"
+    },
+    {
+      "album": {
+        "name": "Eterno Agosto",
+        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188093,
+      "name": "El Mismo Sol",
+      "url": "https://open.spotify.com/track/4OKmYJF7Wk8uJxv68wFH0j"
+    },
+    {
+      "album": {
+        "name": "El Ultimo Adi\u00f3s",
+        "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        },
+        {
+          "name": "Jorge Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/5O2KyWcHYBmjmobgNLumcb"
+        },
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        },
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Jaci Velasquez",
+          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Emmanuele",
+          "url": "https://open.spotify.com/artist/7HBONupvCpvcMp1ZxK84Ii"
+        },
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        },
+        {
+          "name": "Alberto \"Beto\" Zapata",
+          "url": "https://open.spotify.com/artist/20VNXin5fi626FsmioiExE"
+        },
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Carlos Ponce",
+          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
+        },
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        },
+        {
+          "name": "Wilkins",
+          "url": "https://open.spotify.com/artist/5Awnuu794580X3uHQGx78O"
+        },
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5gr23KYBk2FyIBx5xpHVjE"
+        },
+        {
+          "name": "Melina Leon",
+          "url": "https://open.spotify.com/artist/5oj50e6WeS3yFv92YDOfXA"
+        },
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        },
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "El Ultimo Adi\u00f3s - Varios Artistas Version",
+      "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
+    },
+    {
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331293,
+      "name": "Escap\u00e9monos - Salsa Version",
+      "url": "https://open.spotify.com/track/4oGs2MK6C35jMJhaT151yg"
+    },
+    {
+      "album": {
+        "name": "Feel The Light (From The \"Home\" Soundtrack)",
+        "url": "https://open.spotify.com/album/4M3KMVcGDPrJvSXn37r54K"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291546,
+      "name": "Feel The Light - From The \"Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/26Zco2DqGMnDIjOX0aIqER"
+    },
+    {
+      "album": {
+        "name": "L\u00edderes",
+        "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/2RMWA3mvD4nxBR1sGF7wRp"
+    },
+    {
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy"
+    },
+    {
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272733,
+      "name": "Hold You Down (feat. Fat Joe)",
+      "url": "https://open.spotify.com/track/6ltJj4qDkAQFI4zsMwQWoq"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "I'm Glad",
+      "url": "https://open.spotify.com/track/1hdjVrERYnp4FsjtJaXlB6"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Cory Rooney",
+          "url": "https://open.spotify.com/artist/6v0jNVxRKCvjwXIU2SuqKo"
+        },
+        {
+          "name": "Poke and Tone",
+          "url": "https://open.spotify.com/artist/7M8EwIpyu0mZ9oA8sqcsWj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172240,
+      "name": "I'm Gonna Be Alright (feat. Nas)",
+      "url": "https://open.spotify.com/track/3SHSWxOXqCrw55LiXAB8J1"
+    },
+    {
+      "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "I'm Into You",
+      "url": "https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t"
+    },
+    {
+      "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262133,
+      "name": "I'm Real (feat. Ja Rule) - Murder Remix",
+      "url": "https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS"
+    },
+    {
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
+      "url": "https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ"
+    },
+    {
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238226,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
+    },
+    {
+      "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243786,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/2FHdoPa5aWaAmjuf362KJ0"
+    },
+    {
+      "album": {
+        "name": "Amor Sin L\u00edmite",
+        "url": "https://open.spotify.com/album/0ZqDgVix0ojjXBc1ypqKVN"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236413,
+      "name": "Llegaste",
+      "url": "https://open.spotify.com/track/303QCzQP10nYoAE8wsWtRF"
+    },
+    {
+      "album": {
+        "name": "Pa Ti + Lonely",
+        "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 198632,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/72hzVy2sGZDsE62RdHELvI"
+    },
+    {
+      "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "Love Don't Cost a Thing",
+      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
+    },
+    {
+      "album": {
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192473,
+      "name": "Love of My Life",
+      "url": "https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ"
+    },
+    {
+      "album": {
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157130,
+      "name": "Marry Me - Kat & Bastian Duet",
+      "url": "https://open.spotify.com/track/7wCqBjOdJ9Gk0OtNVnRB0W"
+    },
+    {
+      "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 174708,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY"
+    },
+    {
+      "album": {
+        "name": "Ni T\u00fa Ni Yo (feat. Gente de Zona)",
+        "url": "https://open.spotify.com/album/5ekcwlR6IVNcv2OMjcuz0G"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215880,
+      "name": "Ni T\u00fa Ni Yo (feat. Gente de Zona)",
+      "url": "https://open.spotify.com/track/5xMzazov0IHYllrc8U2K6F"
+    },
+    {
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302866,
+      "name": "No Me Ames (with Marc Anthony) - Tropical Remix",
+      "url": "https://open.spotify.com/track/2F9GxThWActrY2FsKiPguj"
+    },
+    {
+      "album": {
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176867,
+      "name": "Nobody's Watching (Marry Me)",
+      "url": "https://open.spotify.com/track/5hQ9Pn43MLtBzlBQSPVhEG"
+    },
+    {
+      "album": {
+        "name": "Olv\u00eddame y Pega la Vuelta",
+        "url": "https://open.spotify.com/album/7i0IU9ewVxt4do3QZZLXzN"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211054,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/2tergQtVsHUBYlL76Kx93c"
+    },
+    {
+      "album": {
+        "name": "On My Way (Marry Me)",
+        "url": "https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192571,
+      "name": "On My Way (Marry Me)",
+      "url": "https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd"
+    },
+    {
+      "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292186,
+      "name": "On The Floor (Ven a Bailar) - Bonus Track",
+      "url": "https://open.spotify.com/track/4htjXtjySdVDU6QRPOGgg9"
+    },
+    {
+      "album": {
+        "name": "Pa Ti + Lonely",
+        "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/4agLM5EfiWR2AKMq7gFwcM"
+    },
+    {
+      "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223493,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/1nAGuIZXz6vb8XW0xiMqic"
+    },
+    {
+      "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211493,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/7fFCnttacpotkyhTOxKv14"
+    },
+    {
+      "album": {
+        "name": "Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/6msIJjglECleSJOmpYsHiJ"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198213,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/6ykkal4MnCob5AQxckVqj2"
+    },
+    {
+      "album": {
+        "name": "Como Ama Una Mujer",
+        "url": "https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297573,
+      "name": "Qu\u00e9 Hiciste",
+      "url": "https://open.spotify.com/track/6jGH911Nz9lPCSK9pd4tVQ"
+    },
+    {
+      "album": {
+        "name": "Se Acab\u00f3 el Amor (Urban Version)",
+        "url": "https://open.spotify.com/album/2mWZ8F5SXi9w8VRVkc0BZJ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 230146,
+      "name": "Se Acab\u00f3 el Amor - Urban Version",
+      "url": "https://open.spotify.com/track/37ZbdPsSjAZjPTVKPi8Dii"
+    },
+    {
+      "album": {
+        "name": "Te Guste",
+        "url": "https://open.spotify.com/album/0TV9iQEnYeQeKZOfXhok1D"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222786,
+      "name": "Te Guste",
+      "url": "https://open.spotify.com/track/0ifLplTQxXkFZKMQpWCHii"
+    },
+    {
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 214333,
+      "name": "Theme From Mahagony (Do You Know Where You're Going To)",
+      "url": "https://open.spotify.com/track/7bNnrac7k9CkwQRQsfGb7x"
+    },
+    {
+      "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Try Me (feat. Jennifer Lopez and Matoma)",
+      "url": "https://open.spotify.com/track/4tg1G3X26wDTmQbipgxhp5"
+    },
+    {
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245866,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA"
+    },
+    {
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+    },
+    {
+      "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222520,
+      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vOtdC"
 }

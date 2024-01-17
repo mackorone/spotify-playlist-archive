@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 510508,
+  "num_followers": 516142,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTA4N2VjMDhlMjgwZWVkMGY2MGFhOWU5Y2Y0ZTJhYmU0OGE3ODNk",
+  "snapshot_id": "MCwzMDJmYjk5OWY0ZTExNmM5ZDNjYzgxYjA2MzI1OTA3YTAyOTEyZWFk",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "Heaven or Las Vegas",
-      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Souvlaki",
         "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "Heaven or Las Vegas",
+      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "It'll End In Tears (Remastered)",
         "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 211093,
       "name": "Song To The Siren - Remastered",
       "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Spooky",
-        "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
-      },
-      "artists": [
-        {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "For Love",
-      "url": "https://open.spotify.com/track/3KiKpbpJp9QKuTZb9ocfJi"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -267,18 +251,34 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
       },
       "artists": [
         {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "For Love",
+      "url": "https://open.spotify.com/track/3KiKpbpJp9QKuTZb9ocfJi"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Psychocandy",
         "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
       },
@@ -315,38 +331,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Delaware",
         "url": "https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 535600,
       "name": "Kick The Tragedy",
       "url": "https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -391,6 +391,22 @@
       "duration_ms": 214400,
       "name": "I Follow You",
       "url": "https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW"
+    },
+    {
+      "added_at": "2024-01-03 19:15:52",
+      "album": {
+        "name": "Joy 1967 - 1990",
+        "url": "https://open.spotify.com/album/2KzZDQ1NyBRRj1CAgUV9Ae"
+      },
+      "artists": [
+        {
+          "name": "Ultra Vivid Scene",
+          "url": "https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Special One",
+      "url": "https://open.spotify.com/track/3gzwXojnb6on1FlwSmKVCi"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -443,6 +459,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Melody's Echo Chamber",
+        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Some Time Alone, Alone",
+      "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N"
       },
@@ -473,20 +505,20 @@
       "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
     },
     {
-      "added_at": "2021-10-01 10:38:06",
+      "added_at": "2022-01-11 02:58:41",
       "album": {
-        "name": "The Noise Made By People",
-        "url": "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI"
+        "name": "Thank Your Lucky Stars",
+        "url": "https://open.spotify.com/album/4WbFCzKALujxRNeoeLS5zO"
       },
       "artists": [
         {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 191893,
-      "name": "Echo's Answer",
-      "url": "https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL"
+      "duration_ms": 240770,
+      "name": "Majorette",
+      "url": "https://open.spotify.com/track/1xHrTucRP7hVViMekBfu7S"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -503,22 +535,6 @@
       "duration_ms": 307666,
       "name": "Misery Is a Butterfly",
       "url": "https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ"
-    },
-    {
-      "added_at": "2022-01-11 02:58:41",
-      "album": {
-        "name": "Thank Your Lucky Stars",
-        "url": "https://open.spotify.com/album/4WbFCzKALujxRNeoeLS5zO"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 240770,
-      "name": "Majorette",
-      "url": "https://open.spotify.com/track/1xHrTucRP7hVViMekBfu7S"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -539,34 +555,34 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Melody's Echo Chamber",
-        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
         }
       ],
-      "duration_ms": 226400,
-      "name": "Some Time Alone, Alone",
-      "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
+      "duration_ms": 317093,
+      "name": "Sweetness and Light",
+      "url": "https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc"
     },
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Everything Else Matters",
-        "url": "https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL"
+        "name": "The Noise Made By People",
+        "url": "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI"
       },
       "artists": [
         {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 248744,
-      "name": "Holy Forest",
-      "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
+      "duration_ms": 191893,
+      "name": "Echo's Answer",
+      "url": "https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -587,34 +603,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Pygmalion",
-        "url": "https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq"
+        "name": "Everything Else Matters",
+        "url": "https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 361213,
-      "name": "Crazy for You",
-      "url": "https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
-      },
-      "artists": [
-        {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
-        }
-      ],
-      "duration_ms": 317093,
-      "name": "Sweetness and Light",
-      "url": "https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc"
+      "duration_ms": 248744,
+      "name": "Holy Forest",
+      "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -631,6 +631,38 @@
       "duration_ms": 185226,
       "name": "Jewel",
       "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 361213,
+      "name": "Crazy for You",
+      "url": "https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Winks & Kisses (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4wuy28g2FFk40nEh52Rafy"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/03vkICPhl5N7CFmasxCERG"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -671,6 +703,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
+      },
+      "artists": [
+        {
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        }
+      ],
+      "duration_ms": 401111,
+      "name": "No-One in the World",
+      "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Tal Uno",
         "url": "https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2"
       },
@@ -699,54 +747,6 @@
       "duration_ms": 365533,
       "name": "In Particular",
       "url": "https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
-      },
-      "artists": [
-        {
-          "name": "Locust",
-          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
-        }
-      ],
-      "duration_ms": 401111,
-      "name": "No-One in the World",
-      "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
-    },
-    {
-      "added_at": "2022-03-18 05:40:30",
-      "album": {
-        "name": "Maida Vale Sessions",
-        "url": "https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 203848,
-      "name": "Come On Let's Go",
-      "url": "https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Blood (Remastered)",
-        "url": "https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9"
-      },
-      "artists": [
-        {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "You And Your Sister - Remastered",
-      "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -783,34 +783,34 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+        "name": "Blood (Remastered)",
+        "url": "https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
         }
       ],
-      "duration_ms": 265373,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM"
+      "duration_ms": 194226,
+      "name": "You And Your Sister - Remastered",
+      "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
     },
     {
-      "added_at": "2021-10-01 10:38:06",
+      "added_at": "2022-03-18 05:40:30",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr"
+        "name": "Maida Vale Sessions",
+        "url": "https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 170333,
-      "name": "Breathe in, Breathe Out",
-      "url": "https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB"
+      "duration_ms": 203848,
+      "name": "Come On Let's Go",
+      "url": "https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG"
     }
   ],
   "unique_name": "Dreampop Classics",

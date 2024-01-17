@@ -1,289 +1,1133 @@
 {
-  "2023-03-20": 3718928,
-  "2023-03-21": 3720445,
-  "2023-03-22": 3721545,
-  "2023-03-23": 3722433,
-  "2023-03-24": 3722433,
-  "2023-03-25": 3724921,
-  "2023-03-26": 3728687,
-  "2023-03-27": 3731085,
-  "2023-03-28": 3733594,
-  "2023-03-29": 3735656,
-  "2023-03-30": 3738654,
-  "2023-03-31": 3738654,
-  "2023-04-01": 3740402,
-  "2023-04-02": 3741894,
-  "2023-04-03": 3743197,
-  "2023-04-04": 3744578,
-  "2023-04-05": 3745724,
-  "2023-04-06": 3746798,
-  "2023-04-07": 3747837,
-  "2023-04-09": 3749746,
-  "2023-04-10": 3750517,
-  "2023-04-11": 3752370,
-  "2023-04-12": 3752370,
-  "2023-04-13": 3753381,
-  "2023-04-14": 3754379,
-  "2023-04-15": 3755229,
-  "2023-04-16": 3755987,
-  "2023-04-17": 3756826,
-  "2023-04-18": 3757625,
-  "2023-04-19": 3758430,
-  "2023-04-20": 3759199,
-  "2023-04-21": 3760080,
-  "2023-04-22": 3760855,
-  "2023-04-23": 3761565,
-  "2023-04-24": 3762228,
-  "2023-04-25": 3763006,
-  "2023-04-26": 3763821,
-  "2023-04-27": 3764699,
-  "2023-04-28": 3765547,
-  "2023-04-29": 3766391,
-  "2023-04-30": 3767104,
-  "2023-05-01": 3767774,
-  "2023-05-02": 3768393,
-  "2023-05-03": 3769292,
-  "2023-05-04": 3770177,
-  "2023-05-05": 3771064,
-  "2023-05-06": 3771984,
-  "2023-05-07": 3772813,
-  "2023-05-08": 3773660,
-  "2023-05-09": 3774429,
-  "2023-05-10": 3775211,
-  "2023-05-11": 3776097,
-  "2023-05-12": 3777169,
-  "2023-05-13": 3778158,
-  "2023-05-14": 3778974,
-  "2023-05-15": 3779826,
-  "2023-05-16": 3780619,
-  "2023-05-17": 3781497,
-  "2023-05-18": 3782426,
-  "2023-05-19": 3783239,
-  "2023-05-20": 3784636,
-  "2023-05-21": 3784636,
-  "2023-05-22": 3784636,
-  "2023-05-23": 3785892,
-  "2023-05-24": 3786988,
-  "2023-05-25": 3787131,
-  "2023-05-26": 3787862,
-  "2023-05-27": 3788438,
-  "2023-05-28": 3789065,
-  "2023-05-29": 3789065,
-  "2023-05-30": 3790122,
-  "2023-05-31": 3790804,
-  "2023-06-01": 3791473,
-  "2023-06-02": 3792131,
-  "2023-06-03": 3792817,
-  "2023-06-04": 3793555,
-  "2023-06-05": 3794088,
-  "2023-06-06": 3794764,
-  "2023-06-07": 3795428,
-  "2023-06-08": 3796073,
-  "2023-06-09": 3796656,
-  "2023-06-10": 3797349,
-  "2023-06-11": 3797970,
-  "2023-06-12": 3798533,
-  "2023-06-13": 3799067,
-  "2023-06-14": 3799681,
-  "2023-06-15": 3800340,
-  "2023-06-16": 3801039,
-  "2023-06-17": 3801717,
-  "2023-06-18": 3802271,
-  "2023-06-19": 3802794,
-  "2023-06-20": 3803356,
-  "2023-06-21": 3804044,
-  "2023-06-22": 3804647,
-  "2023-06-23": 3805330,
-  "2023-06-24": 3805965,
-  "2023-06-25": 3806475,
-  "2023-06-26": 3807147,
-  "2023-06-27": 3807682,
-  "2023-06-28": 3808247,
-  "2023-06-29": 3808835,
-  "2023-06-30": 3809445,
-  "2023-07-01": 3810652,
-  "2023-07-02": 3810652,
-  "2023-07-03": 3811063,
-  "2023-07-04": 3811508,
-  "2023-07-05": 3811990,
-  "2023-07-06": 3812906,
-  "2023-07-07": 3812906,
-  "2023-07-08": 3813364,
-  "2023-07-09": 3813904,
-  "2023-07-10": 3814318,
-  "2023-07-11": 3814797,
-  "2023-07-12": 3815302,
-  "2023-07-13": 3815809,
-  "2023-07-14": 3816845,
-  "2023-07-15": 3817643,
-  "2023-07-16": 3818793,
-  "2023-07-17": 3819633,
-  "2023-07-18": 3820421,
-  "2023-07-19": 3821102,
-  "2023-07-20": 3821857,
-  "2023-07-21": 3822642,
-  "2023-07-22": 3823556,
-  "2023-07-23": 3824465,
-  "2023-07-24": 3825323,
-  "2023-07-25": 3826357,
-  "2023-07-26": 3827341,
-  "2023-07-27": 3828388,
-  "2023-07-28": 3829537,
-  "2023-07-29": 3830550,
-  "2023-07-30": 3831577,
-  "2023-07-31": 3832629,
-  "2023-08-01": 3833740,
-  "2023-08-02": 3834886,
-  "2023-08-03": 3835998,
-  "2023-08-04": 3837129,
-  "2023-08-05": 3838552,
-  "2023-08-06": 3840900,
-  "2023-08-07": 3840900,
-  "2023-08-08": 3842201,
-  "2023-08-09": 3843381,
-  "2023-08-10": 3844624,
-  "2023-08-11": 3845815,
-  "2023-08-12": 3847065,
-  "2023-08-13": 3848186,
-  "2023-08-14": 3849274,
-  "2023-08-15": 3851534,
-  "2023-08-16": 3851534,
-  "2023-08-17": 3852672,
-  "2023-08-18": 3853798,
-  "2023-08-19": 3854920,
-  "2023-08-20": 3856126,
-  "2023-08-21": 3857298,
-  "2023-08-22": 3858281,
-  "2023-08-23": 3859391,
-  "2023-08-24": 3860551,
-  "2023-08-25": 3861620,
-  "2023-08-26": 3862723,
-  "2023-08-27": 3863786,
-  "2023-08-28": 3864732,
-  "2023-08-29": 3865788,
-  "2023-08-30": 3866838,
-  "2023-08-31": 3867844,
-  "2023-09-01": 3869818,
-  "2023-09-02": 3869818,
-  "2023-09-03": 3870608,
-  "2023-09-04": 3871498,
-  "2023-09-05": 3872301,
-  "2023-09-06": 3873115,
-  "2023-09-07": 3873968,
-  "2023-09-08": 3874758,
-  "2023-09-09": 3875672,
-  "2023-09-10": 3876410,
-  "2023-09-11": 3877154,
-  "2023-09-12": 3877869,
-  "2023-09-13": 3878500,
-  "2023-09-14": 3879164,
-  "2023-09-15": 3879818,
-  "2023-09-16": 3880531,
-  "2023-09-17": 3881208,
-  "2023-09-18": 3881774,
-  "2023-09-19": 3882447,
-  "2023-09-20": 3882958,
-  "2023-09-21": 3883613,
-  "2023-09-22": 3884281,
-  "2023-09-23": 3885037,
-  "2023-09-24": 3885645,
-  "2023-09-25": 3886197,
-  "2023-09-26": 3887012,
-  "2023-09-27": 3887466,
-  "2023-09-28": 3888132,
-  "2023-09-29": 3888785,
-  "2023-09-30": 3889384,
-  "2023-10-01": 3889953,
-  "2023-10-02": 3890472,
-  "2023-10-03": 3891012,
-  "2023-10-04": 3891651,
-  "2023-10-05": 3892277,
-  "2023-10-06": 3892967,
-  "2023-10-07": 3893631,
-  "2023-10-08": 3894115,
-  "2023-10-09": 3894644,
-  "2023-10-10": 3893701,
-  "2023-10-11": 3893310,
-  "2023-10-12": 3893310,
-  "2023-10-13": 3892556,
-  "2023-10-14": 3892135,
-  "2023-10-15": 3892498,
-  "2023-10-16": 3892980,
-  "2023-10-17": 3893495,
-  "2023-10-18": 3893861,
-  "2023-10-19": 3894425,
-  "2023-10-20": 3894965,
-  "2023-10-21": 3895503,
-  "2023-10-22": 3895949,
-  "2023-10-23": 3896380,
-  "2023-10-24": 3896859,
-  "2023-10-25": 3897339,
-  "2023-10-26": 3897789,
-  "2023-10-27": 3898304,
-  "2023-10-28": 3898982,
-  "2023-10-29": 3899744,
-  "2023-10-30": 3900872,
-  "2023-10-31": 3900872,
-  "2023-11-01": 3901343,
-  "2023-11-02": 3901868,
-  "2023-11-03": 3902321,
-  "2023-11-04": 3902763,
-  "2023-11-05": 3903159,
-  "2023-11-06": 3903494,
-  "2023-11-07": 3903873,
-  "2023-11-08": 3904370,
-  "2023-11-09": 3904838,
-  "2023-11-10": 3905305,
-  "2023-11-11": 3905818,
-  "2023-11-12": 3906274,
-  "2023-11-13": 3906735,
-  "2023-11-14": 3907149,
-  "2023-11-15": 3907149,
-  "2023-11-16": 3907969,
-  "2023-11-17": 3908926,
-  "2023-11-18": 3908926,
-  "2023-11-19": 3909381,
-  "2023-11-20": 3909786,
-  "2023-11-21": 3910062,
-  "2023-11-22": 3910467,
-  "2023-11-23": 3910905,
-  "2023-11-24": 3911418,
-  "2023-11-25": 3911772,
-  "2023-11-26": 3912134,
-  "2023-11-27": 3912491,
-  "2023-11-28": 3912840,
-  "2023-11-29": 3913616,
-  "2023-11-30": 3913616,
-  "2023-12-01": 3914076,
-  "2023-12-02": 3914624,
-  "2023-12-03": 3915085,
-  "2023-12-04": 3915541,
-  "2023-12-05": 3916073,
-  "2023-12-06": 3916579,
-  "2023-12-07": 3917030,
-  "2023-12-08": 3917560,
-  "2023-12-09": 3918252,
-  "2023-12-10": 3918880,
-  "2023-12-11": 3919542,
-  "2023-12-12": 3920098,
-  "2023-12-13": 3920672,
-  "2023-12-14": 3921380,
-  "2023-12-15": 3921821,
-  "2023-12-16": 3922523,
-  "2023-12-17": 3923163,
-  "2023-12-18": 3923781,
-  "2023-12-19": 3924502,
-  "2023-12-20": 3925159,
-  "2023-12-21": 3925754,
-  "2023-12-22": 3926324,
-  "2023-12-23": 3926971,
-  "2023-12-24": 3927567,
-  "2023-12-25": 3928053,
-  "2023-12-26": 3928482,
-  "2023-12-27": 3929102,
-  "2023-12-30": 3930792,
-  "2023-12-31": 3931352,
-  "2024-01-01": 3931817,
-  "2024-01-02": 3932166,
-  "2024-01-03": 3932505
+  "2024-01-17": 3932198,
+  "date_first_scraped": "2023-03-20",
+  "description": "All things Billie!",
+  "name": "This Is Billie Eilish",
+  "tracks": [
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13578,
+      "name": "!!!!!!!",
+      "url": "https://open.spotify.com/track/0rQtoQXQfwpDW0c7Fw1NeM"
+    },
+    {
+      "album": {
+        "name": "&burn (with Vince Staples)",
+        "url": "https://open.spotify.com/album/6eQpKhYCtvD0TwXQVHsgC2"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179015,
+      "name": "&burn (with Vince Staples)",
+      "url": "https://open.spotify.com/track/7uX3gufAoBVqKVoD3dBLLD"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173201,
+      "name": "8",
+      "url": "https://open.spotify.com/track/6X29iaaazwho3ab7GNue5r"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168839,
+      "name": "all the good girls go to hell",
+      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194087,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+    },
+    {
+      "album": {
+        "name": "bad guy (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/6lMlX68jJrx67hiCqdiDvW"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194839,
+      "name": "bad guy (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3yNZ5r3LKfdmjoS3gkhUCT"
+    },
+    {
+      "album": {
+        "name": "Bellyache",
+        "url": "https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179172,
+      "name": "bellyache",
+      "url": "https://open.spotify.com/track/51NFxnQvaosfDDutk0tams"
+    },
+    {
+      "album": {
+        "name": "Bellyache (Marian Hill Remix)",
+        "url": "https://open.spotify.com/album/2I9wpUTuzMT8aS6iVpM2EQ"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Bellyache - Marian Hill Remix",
+      "url": "https://open.spotify.com/track/61X077SWMs5aAGQHhf4pd0"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196730,
+      "name": "Billie Bossa Nova",
+      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "album": {
+        "name": "bitches broken hearts",
+        "url": "https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176471,
+      "name": "bitches broken hearts",
+      "url": "https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib"
+    },
+    {
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193143,
+      "name": "bury a friend",
+      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
+    },
+    {
+      "album": {
+        "name": "come out and play",
+        "url": "https://open.spotify.com/album/0ifM8RTX9HjtCJtY9452bW"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210375,
+      "name": "come out and play",
+      "url": "https://open.spotify.com/track/7wC5eZcFS1Q1BsQ35DU6H4"
+    },
+    {
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194711,
+      "name": "COPYCAT",
+      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
+    },
+    {
+      "album": {
+        "name": "COPYCAT (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/5XRJoC2QtsNbAubsCrBBbG"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198684,
+      "name": "COPYCAT - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/2njUxZ4151DWIrfIK3loFj"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206622,
+      "name": "Everybody Dies",
+      "url": "https://open.spotify.com/track/5jhBwnqzNNrENXnYrAdoCe"
+    },
+    {
+      "album": {
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245425,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244221,
+      "name": "Getting Older",
+      "url": "https://open.spotify.com/track/42dosBqMOdtgxKw0KRFJF0"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151536,
+      "name": "GOLDWING",
+      "url": "https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119409,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/3LgWsmilsrWXiPYQFRD0T7"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234761,
+      "name": "Halley's Comet",
+      "url": "https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298899,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+    },
+    {
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229425,
+      "name": "hostage",
+      "url": "https://open.spotify.com/track/1WsEgieHsWWndAzLkmV105"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158463,
+      "name": "I Didn't Change My Number",
+      "url": "https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291796,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
+    },
+    {
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203569,
+      "name": "idontwannabeyouanymore",
+      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156370,
+      "name": "ilomilo",
+      "url": "https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD"
+    },
+    {
+      "album": {
+        "name": "ilomilo (Live From The Film - Billie Eilish: The World\u2019s A Little Blurry)",
+        "url": "https://open.spotify.com/album/2AyexmwyUy1nZfBadyewL7"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164051,
+      "name": "ilomilo - Live From The Film - Billie Eilish: The World\u2019s A Little Blurry",
+      "url": "https://open.spotify.com/track/4EYiIACD4vGzOmiKYzRdkW"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242652,
+      "name": "listen before i go",
+      "url": "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE"
+    },
+    {
+      "album": {
+        "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203464,
+      "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212496,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/1LdXpFzKjF7Jz6jA82DYs0"
+    },
+    {
+      "album": {
+        "name": "lovely (with Khalid)",
+        "url": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200185,
+      "name": "lovely (with Khalid)",
+      "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194886,
+      "name": "Male Fantasy",
+      "url": "https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX"
+    },
+    {
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170852,
+      "name": "my boy",
+      "url": "https://open.spotify.com/track/1RGasjWLZ4qMN7wbtkLa3u"
+    },
+    {
+      "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179889,
+      "name": "my strange addiction",
+      "url": "https://open.spotify.com/track/3Tc57t9l2O8FwQZtQOvPXK"
+    },
+    {
+      "album": {
+        "name": "MyBoi (TroyBoi Remix)",
+        "url": "https://open.spotify.com/album/5m9lO9SriYMPpXTrVIU8P5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "MyBoi - TroyBoi Remix",
+      "url": "https://open.spotify.com/track/1T3E8z6VMXSsACrBSQHTkN"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195776,
+      "name": "NDA",
+      "url": "https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd"
+    },
+    {
+      "album": {
+        "name": "No Time To Die",
+        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242265,
+      "name": "No Time To Die",
+      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227679,
+      "name": "Not My Responsibility",
+      "url": "https://open.spotify.com/track/4T2zre0jqstNJ5Gt0WG9lz"
+    },
+    {
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200379,
+      "name": "ocean eyes",
+      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
+    },
+    {
+      "album": {
+        "name": "Ocean Eyes (The Remixes)",
+        "url": "https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "Astronomyy",
+          "url": "https://open.spotify.com/artist/3EpmmPtV7DduqNmeqaADIm"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296266,
+      "name": "Ocean Eyes - Astronomyy Remix",
+      "url": "https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN"
+    },
+    {
+      "album": {
+        "name": "Ocean Eyes (The Remixes)",
+        "url": "https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "Ocean Eyes - Blackbear Remix",
+      "url": "https://open.spotify.com/track/4JuZQeSRYJfLCqBgBIxxrR"
+    },
+    {
+      "album": {
+        "name": "Ocean Eyes (The Remixes)",
+        "url": "https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "GOLDHOUSE",
+          "url": "https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Ocean Eyes - GOLDHOUSE Remix",
+      "url": "https://open.spotify.com/track/1JbuC7uZm0P1PyX7N7gDEM"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214058,
+      "name": "OverHeated",
+      "url": "https://open.spotify.com/track/5uSG6fUPRaehaV820zcpsK"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210232,
+      "name": "Oxytocin",
+      "url": "https://open.spotify.com/track/0UJAH9v2PmS7sBcuBquprR"
+    },
+    {
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204770,
+      "name": "party favor",
+      "url": "https://open.spotify.com/track/3WxmlTZ85sCYFnuIXmUAEe"
+    },
+    {
+      "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc"
+    },
+    {
+      "album": {
+        "name": "Six Feet Under (The Remixes)",
+        "url": "https://open.spotify.com/album/7Chuv69qWaXuK5eCmZ8gCi"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200898,
+      "name": "Six Feet Under - Jerry Folk Remix",
+      "url": "https://open.spotify.com/track/58nxGpcCfNDiqmFXklOslz"
+    },
+    {
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216448,
+      "name": "The 30th",
+      "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
+    },
+    {
+      "album": {
+        "name": "Therefore I Am",
+        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174321,
+      "name": "Therefore I Am",
+      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
+    },
+    {
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177523,
+      "name": "watch",
+      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "WHEN I WAS OLDER (Music Inspired By The Film ROMA)",
+        "url": "https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270519,
+      "name": "WHEN I WAS OLDER - Music Inspired By The Film ROMA",
+      "url": "https://open.spotify.com/track/7tGEAA1f8MydT7eVbbO9Zy"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221543,
+      "name": "wish you were gay",
+      "url": "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243725,
+      "name": "xanny",
+      "url": "https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "you should see me in a crown",
+      "url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6cg4h2PoN9y"
 }

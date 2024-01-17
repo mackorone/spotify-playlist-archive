@@ -1,735 +1,1525 @@
 {
-  "2021-12-25": 4388,
-  "2021-12-26": 4388,
-  "2021-12-27": 4389,
-  "2021-12-28": 4389,
-  "2021-12-29": 4389,
-  "2021-12-30": 4388,
-  "2021-12-31": 4389,
-  "2022-01-01": 4389,
-  "2022-01-02": 4389,
-  "2022-01-03": 4390,
-  "2022-01-04": 4391,
-  "2022-01-05": 4391,
-  "2022-01-06": 4391,
-  "2022-01-07": 4391,
-  "2022-01-08": 4392,
-  "2022-01-09": 4392,
-  "2022-01-10": 4392,
-  "2022-01-11": 4393,
-  "2022-01-12": 4394,
-  "2022-01-13": 4393,
-  "2022-01-14": 4395,
-  "2022-01-15": 4395,
-  "2022-01-16": 4395,
-  "2022-01-17": 4395,
-  "2022-01-18": 4395,
-  "2022-01-19": 4395,
-  "2022-01-20": 4395,
-  "2022-01-21": 4395,
-  "2022-01-22": 4395,
-  "2022-01-23": 4395,
-  "2022-01-24": 4395,
-  "2022-01-25": 4393,
-  "2022-01-26": 4396,
-  "2022-01-27": 4396,
-  "2022-01-28": 4395,
-  "2022-01-29": 4394,
-  "2022-01-30": 4394,
-  "2022-01-31": 4392,
-  "2022-02-01": 4392,
-  "2022-02-02": 4392,
-  "2022-02-03": 4390,
-  "2022-02-04": 4392,
-  "2022-02-05": 4391,
-  "2022-02-06": 4393,
-  "2022-02-07": 4393,
-  "2022-02-08": 4393,
-  "2022-02-09": 4393,
-  "2022-02-10": 4393,
-  "2022-02-11": 4392,
-  "2022-02-12": 4392,
-  "2022-02-13": 4393,
-  "2022-02-14": 4395,
-  "2022-02-15": 4395,
-  "2022-02-16": 4395,
-  "2022-02-17": 4391,
-  "2022-02-18": 4390,
-  "2022-02-19": 4389,
-  "2022-02-20": 4389,
-  "2022-02-21": 4389,
-  "2022-02-22": 4389,
-  "2022-02-23": 4389,
-  "2022-02-24": 4389,
-  "2022-02-25": 4389,
-  "2022-02-26": 4389,
-  "2022-02-27": 4390,
-  "2022-02-28": 4390,
-  "2022-03-01": 4391,
-  "2022-03-02": 4391,
-  "2022-03-03": 4391,
-  "2022-03-04": 4392,
-  "2022-03-05": 4393,
-  "2022-03-06": 4392,
-  "2022-03-07": 4392,
-  "2022-03-08": 4393,
-  "2022-03-09": 4393,
-  "2022-03-10": 4392,
-  "2022-03-11": 4392,
-  "2022-03-12": 4393,
-  "2022-03-13": 4393,
-  "2022-03-14": 4393,
-  "2022-03-15": 4393,
-  "2022-03-16": 4393,
-  "2022-03-17": 4395,
-  "2022-03-18": 4393,
-  "2022-03-19": 4393,
-  "2022-03-20": 4393,
-  "2022-03-21": 4394,
-  "2022-03-22": 4395,
-  "2022-03-23": 4395,
-  "2022-03-24": 4395,
-  "2022-03-25": 4395,
-  "2022-03-26": 4394,
-  "2022-03-27": 4393,
-  "2022-03-28": 4394,
-  "2022-03-30": 4397,
-  "2022-03-31": 4396,
-  "2022-04-01": 4396,
-  "2022-04-02": 4396,
-  "2022-04-03": 4396,
-  "2022-04-04": 4396,
-  "2022-04-05": 4396,
-  "2022-04-06": 4396,
-  "2022-04-07": 4396,
-  "2022-04-08": 4396,
-  "2022-04-09": 4396,
-  "2022-04-10": 4396,
-  "2022-04-11": 4396,
-  "2022-04-12": 4396,
-  "2022-04-13": 4396,
-  "2022-04-14": 4396,
-  "2022-04-15": 4396,
-  "2022-04-16": 4396,
-  "2022-04-17": 4396,
-  "2022-04-18": 4396,
-  "2022-04-19": 4396,
-  "2022-04-20": 4396,
-  "2022-04-21": 4396,
-  "2022-04-22": 4396,
-  "2022-04-23": 4396,
-  "2022-04-24": 4396,
-  "2022-04-25": 4396,
-  "2022-04-26": 4396,
-  "2022-04-27": 4396,
-  "2022-04-28": 4396,
-  "2022-04-29": 4396,
-  "2022-04-30": 4396,
-  "2022-05-01": 4396,
-  "2022-05-02": 4396,
-  "2022-05-03": 4396,
-  "2022-05-04": 4396,
-  "2022-05-05": 4396,
-  "2022-05-06": 4396,
-  "2022-05-07": 4396,
-  "2022-05-08": 4396,
-  "2022-05-09": 4396,
-  "2022-05-10": 4396,
-  "2022-05-11": 4396,
-  "2022-05-12": 4396,
-  "2022-05-13": 4396,
-  "2022-05-14": 4396,
-  "2022-05-15": 4396,
-  "2022-05-16": 4396,
-  "2022-05-17": 4396,
-  "2022-05-18": 4396,
-  "2022-05-19": 4396,
-  "2022-05-20": 4396,
-  "2022-05-21": 4396,
-  "2022-05-22": 4396,
-  "2022-05-23": 4396,
-  "2022-05-24": 4396,
-  "2022-05-25": 4396,
-  "2022-05-26": 4396,
-  "2022-05-27": 4396,
-  "2022-05-28": 4396,
-  "2022-05-29": 4396,
-  "2022-05-30": 4396,
-  "2022-05-31": 4396,
-  "2022-06-01": 4396,
-  "2022-06-02": 4396,
-  "2022-06-03": 4396,
-  "2022-06-04": 4396,
-  "2022-06-05": 4396,
-  "2022-06-06": 4396,
-  "2022-06-07": 4396,
-  "2022-06-08": 4396,
-  "2022-06-09": 4396,
-  "2022-06-10": 4396,
-  "2022-06-11": 4396,
-  "2022-06-12": 4396,
-  "2022-06-13": 4396,
-  "2022-06-14": 4396,
-  "2022-06-15": 4396,
-  "2022-06-16": 4396,
-  "2022-06-17": 4396,
-  "2022-06-18": 4396,
-  "2022-06-19": 4396,
-  "2022-06-20": 4396,
-  "2022-06-21": 4396,
-  "2022-06-22": 4396,
-  "2022-06-23": 4396,
-  "2022-06-24": 4396,
-  "2022-06-25": 4396,
-  "2022-06-26": 4396,
-  "2022-06-27": 4396,
-  "2022-06-28": 4396,
-  "2022-06-29": 4396,
-  "2022-06-30": 4396,
-  "2022-07-01": 4396,
-  "2022-07-02": 4396,
-  "2022-07-03": 4396,
-  "2022-07-04": 4396,
-  "2022-07-05": 4396,
-  "2022-07-06": 4396,
-  "2022-07-07": 4396,
-  "2022-07-08": 4396,
-  "2022-07-09": 4396,
-  "2022-07-10": 4396,
-  "2022-07-11": 4396,
-  "2022-07-12": 4396,
-  "2022-07-13": 4396,
-  "2022-07-14": 4396,
-  "2022-07-15": 4396,
-  "2022-07-16": 4396,
-  "2022-07-17": 4396,
-  "2022-07-18": 4396,
-  "2022-07-19": 4396,
-  "2022-07-20": 4396,
-  "2022-07-21": 4396,
-  "2022-07-22": 4396,
-  "2022-07-23": 4396,
-  "2022-07-24": 4396,
-  "2022-07-25": 4396,
-  "2022-07-26": 4396,
-  "2022-07-27": 4396,
-  "2022-07-28": 4396,
-  "2022-07-29": 4396,
-  "2022-07-30": 4396,
-  "2022-07-31": 4396,
-  "2022-08-01": 4396,
-  "2022-08-02": 4396,
-  "2022-08-03": 4396,
-  "2022-08-04": 4396,
-  "2022-08-05": 4396,
-  "2022-08-06": 4396,
-  "2022-08-07": 4396,
-  "2022-08-08": 4396,
-  "2022-08-09": 4396,
-  "2022-08-10": 4396,
-  "2022-08-11": 4396,
-  "2022-08-12": 4396,
-  "2022-08-13": 4396,
-  "2022-08-14": 4396,
-  "2022-08-15": 4396,
-  "2022-08-16": 4396,
-  "2022-08-17": 4396,
-  "2022-08-18": 4396,
-  "2022-08-19": 4396,
-  "2022-08-20": 4396,
-  "2022-08-21": 4396,
-  "2022-08-22": 4396,
-  "2022-08-23": 4396,
-  "2022-08-24": 4396,
-  "2022-08-25": 4396,
-  "2022-08-26": 4396,
-  "2022-08-27": 4396,
-  "2022-08-28": 4396,
-  "2022-08-29": 4396,
-  "2022-08-30": 4396,
-  "2022-08-31": 4396,
-  "2022-09-01": 4396,
-  "2022-09-02": 4396,
-  "2022-09-03": 4396,
-  "2022-09-04": 4396,
-  "2022-09-05": 4396,
-  "2022-09-06": 4396,
-  "2022-09-07": 4396,
-  "2022-09-09": 4396,
-  "2022-09-10": 4396,
-  "2022-09-11": 4396,
-  "2022-09-12": 4396,
-  "2022-09-13": 4396,
-  "2022-09-15": 4396,
-  "2022-09-16": 4396,
-  "2022-09-17": 4396,
-  "2022-09-18": 4396,
-  "2022-09-19": 4396,
-  "2022-09-20": 4396,
-  "2022-09-21": 4396,
-  "2022-09-22": 4396,
-  "2022-09-23": 4396,
-  "2022-09-24": 4396,
-  "2022-09-25": 4396,
-  "2022-09-26": 4396,
-  "2022-09-27": 4396,
-  "2022-09-28": 4396,
-  "2022-09-29": 4396,
-  "2022-09-30": 4396,
-  "2022-10-01": 4396,
-  "2022-10-02": 4396,
-  "2022-10-03": 4396,
-  "2022-10-04": 4396,
-  "2022-10-05": 4396,
-  "2022-10-06": 4396,
-  "2022-10-07": 4396,
-  "2022-10-08": 4396,
-  "2022-10-09": 4396,
-  "2022-10-10": 4396,
-  "2022-10-11": 4396,
-  "2022-10-12": 4396,
-  "2022-10-13": 4396,
-  "2022-10-14": 4396,
-  "2022-10-15": 4396,
-  "2022-10-16": 4396,
-  "2022-10-17": 4396,
-  "2022-10-18": 4396,
-  "2022-10-19": 4396,
-  "2022-10-20": 4396,
-  "2022-10-21": 4396,
-  "2022-10-22": 4396,
-  "2022-10-23": 4396,
-  "2022-10-24": 4396,
-  "2022-10-25": 4396,
-  "2022-10-26": 4396,
-  "2022-10-27": 4396,
-  "2022-10-28": 4396,
-  "2022-10-29": 4396,
-  "2022-10-30": 4396,
-  "2022-10-31": 4396,
-  "2022-11-01": 4396,
-  "2022-11-02": 4396,
-  "2022-11-03": 4396,
-  "2022-11-04": 4396,
-  "2022-11-05": 4396,
-  "2022-11-06": 4396,
-  "2022-11-07": 4396,
-  "2022-11-08": 4396,
-  "2022-11-09": 4396,
-  "2022-11-10": 4396,
-  "2022-11-11": 4396,
-  "2022-11-12": 4396,
-  "2022-11-13": 4396,
-  "2022-11-14": 4396,
-  "2022-11-15": 4396,
-  "2022-11-16": 4396,
-  "2022-11-17": 4396,
-  "2022-11-18": 4396,
-  "2022-11-19": 4396,
-  "2022-11-20": 4396,
-  "2022-11-21": 4396,
-  "2022-11-22": 4396,
-  "2022-11-23": 4396,
-  "2022-11-24": 4396,
-  "2022-11-25": 4396,
-  "2022-11-26": 4396,
-  "2022-11-27": 4396,
-  "2022-11-28": 4396,
-  "2022-11-29": 4396,
-  "2022-11-30": 4396,
-  "2022-12-01": 4396,
-  "2022-12-02": 4396,
-  "2022-12-03": 4396,
-  "2022-12-04": 4396,
-  "2022-12-05": 4396,
-  "2022-12-06": 4396,
-  "2022-12-07": 4396,
-  "2022-12-08": 4396,
-  "2022-12-09": 4396,
-  "2022-12-10": 4396,
-  "2022-12-11": 4396,
-  "2022-12-12": 4396,
-  "2022-12-13": 4396,
-  "2022-12-14": 4396,
-  "2022-12-15": 4396,
-  "2022-12-16": 4396,
-  "2022-12-17": 4396,
-  "2022-12-18": 4396,
-  "2022-12-19": 4396,
-  "2022-12-20": 4396,
-  "2022-12-21": 4396,
-  "2022-12-22": 4396,
-  "2022-12-24": 4396,
-  "2022-12-25": 4396,
-  "2022-12-26": 4396,
-  "2022-12-27": 4396,
-  "2022-12-28": 4396,
-  "2022-12-29": 4396,
-  "2022-12-30": 4396,
-  "2022-12-31": 4396,
-  "2023-01-01": 4396,
-  "2023-01-02": 4396,
-  "2023-01-03": 4396,
-  "2023-01-04": 4396,
-  "2023-01-05": 4396,
-  "2023-01-06": 4396,
-  "2023-01-07": 4396,
-  "2023-01-08": 4396,
-  "2023-01-09": 4396,
-  "2023-01-10": 4396,
-  "2023-01-11": 4396,
-  "2023-01-12": 4396,
-  "2023-01-13": 4396,
-  "2023-01-14": 4396,
-  "2023-01-15": 4396,
-  "2023-01-16": 4396,
-  "2023-01-17": 4396,
-  "2023-01-18": 4396,
-  "2023-01-19": 4396,
-  "2023-01-20": 4396,
-  "2023-01-21": 4396,
-  "2023-01-22": 4396,
-  "2023-01-23": 4396,
-  "2023-01-24": 4396,
-  "2023-01-25": 4396,
-  "2023-01-26": 4396,
-  "2023-01-27": 4396,
-  "2023-01-28": 4396,
-  "2023-01-29": 4396,
-  "2023-01-30": 4396,
-  "2023-01-31": 4396,
-  "2023-02-01": 4396,
-  "2023-02-02": 4396,
-  "2023-02-03": 4396,
-  "2023-02-04": 4396,
-  "2023-02-05": 4396,
-  "2023-02-06": 4396,
-  "2023-02-07": 4396,
-  "2023-02-08": 4396,
-  "2023-02-09": 4396,
-  "2023-02-10": 4396,
-  "2023-02-11": 4396,
-  "2023-02-12": 4396,
-  "2023-02-13": 4396,
-  "2023-02-14": 4396,
-  "2023-02-15": 4396,
-  "2023-02-16": 4396,
-  "2023-02-17": 4396,
-  "2023-02-18": 4396,
-  "2023-02-19": 4396,
-  "2023-02-20": 4396,
-  "2023-02-21": 4396,
-  "2023-02-22": 4396,
-  "2023-02-23": 4396,
-  "2023-02-24": 4396,
-  "2023-02-25": 4396,
-  "2023-02-26": 4396,
-  "2023-02-27": 4396,
-  "2023-02-28": 4396,
-  "2023-03-01": 4396,
-  "2023-03-02": 4396,
-  "2023-03-03": 4396,
-  "2023-03-04": 4396,
-  "2023-03-05": 4396,
-  "2023-03-06": 4396,
-  "2023-03-07": 4396,
-  "2023-03-08": 4396,
-  "2023-03-09": 4396,
-  "2023-03-10": 4396,
-  "2023-03-11": 4396,
-  "2023-03-12": 4396,
-  "2023-03-13": 4396,
-  "2023-03-14": 4396,
-  "2023-03-15": 4396,
-  "2023-03-16": 4396,
-  "2023-03-17": 4396,
-  "2023-03-18": 4396,
-  "2023-03-19": 4396,
-  "2023-03-20": 4396,
-  "2023-03-21": 4396,
-  "2023-03-22": 4396,
-  "2023-03-23": 4396,
-  "2023-03-24": 4396,
-  "2023-03-25": 4396,
-  "2023-03-26": 4396,
-  "2023-03-27": 4396,
-  "2023-03-28": 4396,
-  "2023-03-29": 4396,
-  "2023-03-30": 4396,
-  "2023-03-31": 4396,
-  "2023-04-01": 4396,
-  "2023-04-02": 4396,
-  "2023-04-03": 4396,
-  "2023-04-04": 4396,
-  "2023-04-05": 4396,
-  "2023-04-06": 4396,
-  "2023-04-07": 4396,
-  "2023-04-09": 4396,
-  "2023-04-10": 4396,
-  "2023-04-11": 4396,
-  "2023-04-12": 4396,
-  "2023-04-13": 4396,
-  "2023-04-14": 4396,
-  "2023-04-15": 4396,
-  "2023-04-16": 4396,
-  "2023-04-17": 4396,
-  "2023-04-18": 4396,
-  "2023-04-19": 4396,
-  "2023-04-20": 4396,
-  "2023-04-21": 4396,
-  "2023-04-22": 4396,
-  "2023-04-23": 4396,
-  "2023-04-24": 4396,
-  "2023-04-25": 4396,
-  "2023-04-26": 4396,
-  "2023-04-27": 4396,
-  "2023-04-28": 4396,
-  "2023-04-29": 4396,
-  "2023-04-30": 4396,
-  "2023-05-01": 4396,
-  "2023-05-02": 4396,
-  "2023-05-03": 4396,
-  "2023-05-04": 4396,
-  "2023-05-05": 4396,
-  "2023-05-06": 4396,
-  "2023-05-07": 4396,
-  "2023-05-08": 4396,
-  "2023-05-09": 4396,
-  "2023-05-10": 4396,
-  "2023-05-11": 4396,
-  "2023-05-12": 4396,
-  "2023-05-13": 4396,
-  "2023-05-14": 4396,
-  "2023-05-15": 4396,
-  "2023-05-16": 4396,
-  "2023-05-17": 4396,
-  "2023-05-18": 4396,
-  "2023-05-19": 4396,
-  "2023-05-20": 4396,
-  "2023-05-21": 4396,
-  "2023-05-22": 4396,
-  "2023-05-23": 4396,
-  "2023-05-24": 4396,
-  "2023-05-25": 4396,
-  "2023-05-26": 4396,
-  "2023-05-27": 4396,
-  "2023-05-28": 4396,
-  "2023-05-29": 4396,
-  "2023-05-30": 4396,
-  "2023-05-31": 4396,
-  "2023-06-01": 4396,
-  "2023-06-02": 4396,
-  "2023-06-03": 4396,
-  "2023-06-04": 4396,
-  "2023-06-05": 4396,
-  "2023-06-06": 4396,
-  "2023-06-07": 4396,
-  "2023-06-08": 4396,
-  "2023-06-09": 4396,
-  "2023-06-10": 4396,
-  "2023-06-11": 4396,
-  "2023-06-12": 4396,
-  "2023-06-13": 4396,
-  "2023-06-14": 4396,
-  "2023-06-15": 4396,
-  "2023-06-16": 4396,
-  "2023-06-17": 4396,
-  "2023-06-18": 4396,
-  "2023-06-19": 4396,
-  "2023-06-20": 4396,
-  "2023-06-21": 4396,
-  "2023-06-22": 4396,
-  "2023-06-23": 4396,
-  "2023-06-24": 4396,
-  "2023-06-25": 4396,
-  "2023-06-26": 4396,
-  "2023-06-27": 4396,
-  "2023-06-28": 4396,
-  "2023-06-29": 4396,
-  "2023-06-30": 4396,
-  "2023-07-01": 4396,
-  "2023-07-02": 4396,
-  "2023-07-03": 4396,
-  "2023-07-04": 4396,
-  "2023-07-05": 4396,
-  "2023-07-06": 4396,
-  "2023-07-07": 4396,
-  "2023-07-08": 4396,
-  "2023-07-09": 4396,
-  "2023-07-10": 4396,
-  "2023-07-11": 4396,
-  "2023-07-12": 4396,
-  "2023-07-13": 4396,
-  "2023-07-14": 4396,
-  "2023-07-15": 4396,
-  "2023-07-16": 4396,
-  "2023-07-17": 4396,
-  "2023-07-18": 4396,
-  "2023-07-19": 4396,
-  "2023-07-20": 4396,
-  "2023-07-21": 4396,
-  "2023-07-22": 4396,
-  "2023-07-23": 4396,
-  "2023-07-24": 4396,
-  "2023-07-25": 4396,
-  "2023-07-26": 4396,
-  "2023-07-27": 4396,
-  "2023-07-28": 4396,
-  "2023-07-29": 4396,
-  "2023-07-30": 4396,
-  "2023-07-31": 4396,
-  "2023-08-01": 4396,
-  "2023-08-02": 4396,
-  "2023-08-03": 4396,
-  "2023-08-04": 4396,
-  "2023-08-05": 4396,
-  "2023-08-06": 4396,
-  "2023-08-07": 4396,
-  "2023-08-08": 4396,
-  "2023-08-09": 4396,
-  "2023-08-10": 4396,
-  "2023-08-11": 4396,
-  "2023-08-12": 4396,
-  "2023-08-13": 4396,
-  "2023-08-14": 4396,
-  "2023-08-15": 4396,
-  "2023-08-16": 4396,
-  "2023-08-17": 4396,
-  "2023-08-18": 4396,
-  "2023-08-19": 4396,
-  "2023-08-20": 4396,
-  "2023-08-21": 4396,
-  "2023-08-22": 4396,
-  "2023-08-23": 4396,
-  "2023-08-24": 4396,
-  "2023-08-25": 4396,
-  "2023-08-26": 4396,
-  "2023-08-27": 4396,
-  "2023-08-28": 4396,
-  "2023-08-29": 4396,
-  "2023-08-30": 4396,
-  "2023-08-31": 4396,
-  "2023-09-01": 4396,
-  "2023-09-02": 4396,
-  "2023-09-03": 4396,
-  "2023-09-04": 4396,
-  "2023-09-05": 4396,
-  "2023-09-06": 4396,
-  "2023-09-07": 4396,
-  "2023-09-08": 4396,
-  "2023-09-09": 4396,
-  "2023-09-10": 4396,
-  "2023-09-11": 4396,
-  "2023-09-12": 4396,
-  "2023-09-13": 4396,
-  "2023-09-14": 4396,
-  "2023-09-15": 4396,
-  "2023-09-16": 4396,
-  "2023-09-17": 4396,
-  "2023-09-18": 4396,
-  "2023-09-19": 4396,
-  "2023-09-20": 4396,
-  "2023-09-21": 4396,
-  "2023-09-22": 4396,
-  "2023-09-23": 4396,
-  "2023-09-24": 4396,
-  "2023-09-25": 4396,
-  "2023-09-26": 4396,
-  "2023-09-27": 4396,
-  "2023-09-28": 4396,
-  "2023-09-29": 4396,
-  "2023-09-30": 4396,
-  "2023-10-01": 4396,
-  "2023-10-02": 4396,
-  "2023-10-03": 4396,
-  "2023-10-04": 4396,
-  "2023-10-05": 4396,
-  "2023-10-06": 4396,
-  "2023-10-07": 4396,
-  "2023-10-08": 4396,
-  "2023-10-09": 4396,
-  "2023-10-10": 4396,
-  "2023-10-11": 4396,
-  "2023-10-12": 4396,
-  "2023-10-13": 4396,
-  "2023-10-14": 4396,
-  "2023-10-15": 4396,
-  "2023-10-16": 4396,
-  "2023-10-17": 4396,
-  "2023-10-18": 4396,
-  "2023-10-19": 4396,
-  "2023-10-20": 4396,
-  "2023-10-21": 4396,
-  "2023-10-22": 4396,
-  "2023-10-23": 4396,
-  "2023-10-24": 4396,
-  "2023-10-25": 4396,
-  "2023-10-26": 4396,
-  "2023-10-27": 4396,
-  "2023-10-28": 4396,
-  "2023-10-29": 4396,
-  "2023-10-30": 4396,
-  "2023-10-31": 4396,
-  "2023-11-01": 4396,
-  "2023-11-02": 4396,
-  "2023-11-03": 4396,
-  "2023-11-04": 4396,
-  "2023-11-05": 4396,
-  "2023-11-06": 4396,
-  "2023-11-07": 4396,
-  "2023-11-08": 4396,
-  "2023-11-09": 4396,
-  "2023-11-10": 4396,
-  "2023-11-11": 4396,
-  "2023-11-12": 4396,
-  "2023-11-13": 4396,
-  "2023-11-14": 4396,
-  "2023-11-15": 4396,
-  "2023-11-16": 4396,
-  "2023-11-17": 4396,
-  "2023-11-18": 4396,
-  "2023-11-19": 4396,
-  "2023-11-20": 4396,
-  "2023-11-21": 4396,
-  "2023-11-22": 4396,
-  "2023-11-23": 4396,
-  "2023-11-24": 4396,
-  "2023-11-25": 4396,
-  "2023-11-26": 4396,
-  "2023-11-27": 4396,
-  "2023-11-28": 4396,
-  "2023-11-29": 4396,
-  "2023-11-30": 4396,
-  "2023-12-01": 4396,
-  "2023-12-02": 4396,
-  "2023-12-03": 4396,
-  "2023-12-04": 4396,
-  "2023-12-05": 4396,
-  "2023-12-06": 4396,
-  "2023-12-07": 4396,
-  "2023-12-08": 4396,
-  "2023-12-09": 4396,
-  "2023-12-10": 4396,
-  "2023-12-11": 4396,
-  "2023-12-12": 4396,
-  "2023-12-13": 4396,
-  "2023-12-14": 4396,
-  "2023-12-15": 4396,
-  "2023-12-16": 4396,
-  "2023-12-17": 4396,
-  "2023-12-18": 4396,
-  "2023-12-19": 4396,
-  "2023-12-20": 4396,
-  "2023-12-21": 4396,
-  "2023-12-22": 4396,
-  "2023-12-23": 4396,
-  "2023-12-24": 4396,
-  "2023-12-25": 4396,
-  "2023-12-26": 4396,
-  "2023-12-27": 4396,
-  "2023-12-30": 4396,
-  "2023-12-31": 4396,
-  "2024-01-01": 4396,
-  "2024-01-02": 4396,
-  "2024-01-03": 4396
+  "2024-01-17": 4396,
+  "date_first_scraped": "2021-12-21",
+  "description": "\"...when genuine passion moves you, say what you've got to say, and say it hot.\" Selected readings of D. H. Lawrence's poetry, novels, short stories, and letters.",
+  "name": "The Selected D. H. Lawrence",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Prussian Officer and Other Stories",
+        "url": "https://open.spotify.com/album/1Yg93nvMSkh2K7ram9rUPR"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1681081,
+      "name": "A Fragment of Stained Glass",
+      "url": "https://open.spotify.com/track/5aWECHLTEa7XuOSncwN9c5"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - The Short Stories",
+        "url": "https://open.spotify.com/album/3gyP5XhTayr41tNf4ICHjK"
+      },
+      "artists": [
+        {
+          "name": "David Shaw-Parker",
+          "url": "https://open.spotify.com/artist/5ySoL6vYTXQwa3UlRROujv"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 847203,
+      "name": "A Lesson On A Tortise",
+      "url": "https://open.spotify.com/track/6qT1nSlgAJfRCb52hS8Duv"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - The Short Stories",
+        "url": "https://open.spotify.com/album/3gyP5XhTayr41tNf4ICHjK"
+      },
+      "artists": [
+        {
+          "name": "David Shaw-Parker",
+          "url": "https://open.spotify.com/artist/5ySoL6vYTXQwa3UlRROujv"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3772540,
+      "name": "A Modern Lover",
+      "url": "https://open.spotify.com/track/53MaC2TqMpbqoUgea9bcgj"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "A Propos of Lady Chatterley's Lover: From Sex, Literature, and Censorship",
+      "url": "https://open.spotify.com/track/1afBuwxALv9UAyQ88nNt7V"
+    },
+    {
+      "album": {
+        "name": "Poetic License 100 Poems/100 Performers Part 2",
+        "url": "https://open.spotify.com/album/6E7dE8zXjM20JYAup2JUvw"
+      },
+      "artists": [
+        {
+          "name": "Tom McGowan",
+          "url": "https://open.spotify.com/artist/7AsUbahELvfwq8aKlM1moL"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107664,
+      "name": "Afternoon in School - The Last Lesson by D.H. Lawrence",
+      "url": "https://open.spotify.com/track/4pItlVbg070pAHWFiGtkWL"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97506,
+      "name": "Bavarian Gentians",
+      "url": "https://open.spotify.com/track/4WZ9aVb7emuZ31EdUyIKoM"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72266,
+      "name": "Bei Hennef",
+      "url": "https://open.spotify.com/track/66ICjYrRm4w305JcPlImON"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28453,
+      "name": "Brooding Grief",
+      "url": "https://open.spotify.com/track/2yDDDUFWYjcLAQIp9Leiwa"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120053,
+      "name": "Brother And Sister",
+      "url": "https://open.spotify.com/track/5vb6IglpSZaBVEaOEauQoy"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28699,
+      "name": "Conumdrums",
+      "url": "https://open.spotify.com/track/3mgryEWwexWKEDvTZe91nj"
+    },
+    {
+      "album": {
+        "name": "The Novelist as Poet",
+        "url": "https://open.spotify.com/album/4dTJawbvg9TYPIFBSdSbzs"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68429,
+      "name": "D H Lawrence - Hyde Park at Night Before the War; Clerks",
+      "url": "https://open.spotify.com/track/0ZaBD3gcA0VtanDDg7eDh1"
+    },
+    {
+      "album": {
+        "name": "Mother's Day - Volume 1",
+        "url": "https://open.spotify.com/album/7jv3rLOTOuBbbnrWYldvt8"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167373,
+      "name": "D H Lawrence - Monologue Of A Mother",
+      "url": "https://open.spotify.com/track/0PVV4ilU7ZdpHf2f3C62BI"
+    },
+    {
+      "album": {
+        "name": "The Novelist as Poet",
+        "url": "https://open.spotify.com/album/4dTJawbvg9TYPIFBSdSbzs"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71900,
+      "name": "D H Lawrence - Piccadily Circus at Night; Street Walkers",
+      "url": "https://open.spotify.com/track/1obAWbElPV2PtKAM9z24ET"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Flowers",
+        "url": "https://open.spotify.com/album/03HI69yvY4uNTKZSTFPdE8"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127732,
+      "name": "D H Lawrence - Rose of All the World",
+      "url": "https://open.spotify.com/track/4lYeSmRmNLdXFQyrEqiw05"
+    },
+    {
+      "album": {
+        "name": "The Georgian Poets",
+        "url": "https://open.spotify.com/album/07k8l1Wjqkqngph4fFuvs7"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61939,
+      "name": "D H Lawrence - Service of All the Dead",
+      "url": "https://open.spotify.com/track/6uB1ZX2rm4GtXOq8SHez29"
+    },
+    {
+      "album": {
+        "name": "Mother's Day - Volume 2",
+        "url": "https://open.spotify.com/album/7CM6i1dLpBPkQbnnoiRK53"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85986,
+      "name": "D H Lawrence - The Virgin Mother",
+      "url": "https://open.spotify.com/track/5UDeLhF7nYsUzuG264AMVp"
+    },
+    {
+      "album": {
+        "name": "The Georgian Poets",
+        "url": "https://open.spotify.com/album/07k8l1Wjqkqngph4fFuvs7"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302973,
+      "name": "D H Lawrence - Tortoise Shout",
+      "url": "https://open.spotify.com/track/0ZbXK2enqoklDZBjfYBIlh"
+    },
+    {
+      "album": {
+        "name": "Anthology of 20th Century English Poetry (Part I): Read by Jill Balcon, V.C. Clinton-Baddeley, John Glen, etc.",
+        "url": "https://open.spotify.com/album/4m9t1vmIKZmTtxn5ZB3eai"
+      },
+      "artists": [
+        {
+          "name": "Christopher Hassall",
+          "url": "https://open.spotify.com/artist/5mA06srJGVQwBcanYSEfQ3"
+        },
+        {
+          "name": "Stephen Murray",
+          "url": "https://open.spotify.com/artist/5qmKbzVrboPHxmzMNCRqfb"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377066,
+      "name": "D.H. Lawrence: Piano / Snake",
+      "url": "https://open.spotify.com/track/0P5H7jf9OFsHpxkRpeEjQW"
+    },
+    {
+      "album": {
+        "name": "Speaking Personally\u2026 Aldous Huxley",
+        "url": "https://open.spotify.com/album/1natgq8yoUsFipt9fIHByD"
+      },
+      "artists": [
+        {
+          "name": "Alduos Huxley",
+          "url": "https://open.spotify.com/artist/6siKzwpjK89blYYifAnAbc"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577640,
+      "name": "DH Lawrence",
+      "url": "https://open.spotify.com/track/4QOxmCZsEUYBTUA69vhGcZ"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161807,
+      "name": "Discipline",
+      "url": "https://open.spotify.com/track/1AJMszKle0wYJnzkTe0Xvv"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38292,
+      "name": "Discord In Childhood",
+      "url": "https://open.spotify.com/track/0Cijninr3clyUsg3uYAlL2"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110109,
+      "name": "Dreams Old",
+      "url": "https://open.spotify.com/track/1hkJIvZ2w9XY7vDdfu1Gfc"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105941,
+      "name": "Excursion",
+      "url": "https://open.spotify.com/track/6ra6oFtr5vLhKEO1O85eca"
+    },
+    {
+      "album": {
+        "name": "A Lover's Gift: From Him To Her",
+        "url": "https://open.spotify.com/album/4snC32Pmnq0AJeGvLaGvMq"
+      },
+      "artists": [
+        {
+          "name": "Michael Sheen",
+          "url": "https://open.spotify.com/artist/1vGT1ARFxsjCIuv8RsLJw7"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303226,
+      "name": "Fidelity (D.H. Lawrence)",
+      "url": "https://open.spotify.com/track/0MzjNOd0Q4JOM1pyGGSCeI"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297145,
+      "name": "Figs",
+      "url": "https://open.spotify.com/track/4z14NeR5eUvshLwXaVnPGX"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68243,
+      "name": "Gloire De Dijon",
+      "url": "https://open.spotify.com/track/3hvBxLzR10H0BhpXgBKbp6"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - The Short Stories",
+        "url": "https://open.spotify.com/album/3gyP5XhTayr41tNf4ICHjK"
+      },
+      "artists": [
+        {
+          "name": "David Shaw-Parker",
+          "url": "https://open.spotify.com/artist/5ySoL6vYTXQwa3UlRROujv"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 832342,
+      "name": "Her Turn",
+      "url": "https://open.spotify.com/track/6397sVkeRvjTrNIM48bzSZ"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111520,
+      "name": "How Beastly the Bourgeois Is",
+      "url": "https://open.spotify.com/track/1oDgAAECQAbWEny5BBBvyO"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "Kangaroo (Excerpt)",
+      "url": "https://open.spotify.com/track/5cFwOpQ12abOo3wWx91hbw"
+    },
+    {
+      "album": {
+        "name": "Lady Chatterley's Lover by D.H. Lawrence",
+        "url": "https://open.spotify.com/album/1xbEAwD3UQrzpc78HuGO21"
+      },
+      "artists": [
+        {
+          "name": "Pamela Brown",
+          "url": "https://open.spotify.com/artist/1jhp4IKYrexNuPQyaM8uiw"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4078653,
+      "name": "Lady Chatterley's Lover",
+      "url": "https://open.spotify.com/track/3VD9FokX7O14pfhSuT727e"
+    },
+    {
+      "album": {
+        "name": "D.H. Lawrence: Lady Chatterley's Lover",
+        "url": "https://open.spotify.com/album/4E0HDjEwarpwG8rQgoDEyc"
+      },
+      "artists": [
+        {
+          "name": "Janet Suzman",
+          "url": "https://open.spotify.com/artist/2jrQMnkOMp4Y4OOvRtpthE"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2735253,
+      "name": "Lady Chatterley's Lover - Pt. Four",
+      "url": "https://open.spotify.com/track/2ld2XlMXzVVQAPg9iV46xm"
+    },
+    {
+      "album": {
+        "name": "D.H. Lawrence: Lady Chatterley's Lover",
+        "url": "https://open.spotify.com/album/4E0HDjEwarpwG8rQgoDEyc"
+      },
+      "artists": [
+        {
+          "name": "Janet Suzman",
+          "url": "https://open.spotify.com/artist/2jrQMnkOMp4Y4OOvRtpthE"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2017160,
+      "name": "Lady Chatterley's Lover - Pt. One",
+      "url": "https://open.spotify.com/track/2JOTZEnvGfNTyhBlZs3h34"
+    },
+    {
+      "album": {
+        "name": "D.H. Lawrence: Lady Chatterley's Lover",
+        "url": "https://open.spotify.com/album/4E0HDjEwarpwG8rQgoDEyc"
+      },
+      "artists": [
+        {
+          "name": "Janet Suzman",
+          "url": "https://open.spotify.com/artist/2jrQMnkOMp4Y4OOvRtpthE"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2738080,
+      "name": "Lady Chatterley's Lover - Pt. Three",
+      "url": "https://open.spotify.com/track/6y8n1cF41A5pT2nSk46B65"
+    },
+    {
+      "album": {
+        "name": "D.H. Lawrence: Lady Chatterley's Lover",
+        "url": "https://open.spotify.com/album/4E0HDjEwarpwG8rQgoDEyc"
+      },
+      "artists": [
+        {
+          "name": "Janet Suzman",
+          "url": "https://open.spotify.com/artist/2jrQMnkOMp4Y4OOvRtpthE"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1967320,
+      "name": "Lady Chatterley's Lover - Pt. Two",
+      "url": "https://open.spotify.com/track/2VOkExMBWyvepdgbagvGVp"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91812,
+      "name": "Last Words To Miriam",
+      "url": "https://open.spotify.com/track/67gdtIJSy7Fk8LcAjs4piG"
+    },
+    {
+      "album": {
+        "name": "March - The Poetry Of",
+        "url": "https://open.spotify.com/album/56n1uJHb2uNPW1p91bdU9W"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87190,
+      "name": "Letter From Town; On A Grey Morning In March By DH Lawrence",
+      "url": "https://open.spotify.com/track/0gdXSU7UcvAgSjAYuavdgQ"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "Letter to Catherine Carswell",
+      "url": "https://open.spotify.com/track/6v7joNPs32dEvl9ZwPVBS8"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Letter to Edward Garnett",
+      "url": "https://open.spotify.com/track/0W6tgPRYGbFyHIx4hiHrQt"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106440,
+      "name": "Letter to Ernest Collings",
+      "url": "https://open.spotify.com/track/5kNQPJ1SlU7e8XeADHG1Y4"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79506,
+      "name": "Letter to J.D. Beresford",
+      "url": "https://open.spotify.com/track/7KX16SvzECkchixDlPumoc"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146133,
+      "name": "Letter to Lady Cynthia Asquith",
+      "url": "https://open.spotify.com/track/2lO9gNwWzuWdgYOl8JsHky"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234173,
+      "name": "Letter to Lady Cynthia Asquith",
+      "url": "https://open.spotify.com/track/3odKDGbyNdQBlI4YPEmD2e"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92826,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/4FY5qXpVN2IDU3RTuxc8Xx"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Heaven",
+        "url": "https://open.spotify.com/album/3FaA6E4jOC4JdpsUngOEhC"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498915,
+      "name": "New Heaven and Earth by Dh Lawrence",
+      "url": "https://open.spotify.com/track/3VzY4XdCzJA7bAdmVjmSKD"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226786,
+      "name": "Nottingham and the Mining Countryside (Excerpt)",
+      "url": "https://open.spotify.com/track/1WgOlgIswg1FKamLP4nyDh"
+    },
+    {
+      "album": {
+        "name": "The Prussian Officer and Other Stories",
+        "url": "https://open.spotify.com/album/1Yg93nvMSkh2K7ram9rUPR"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3016386,
+      "name": "Odour of Chrysanthemums",
+      "url": "https://open.spotify.com/track/53LCadO1Pm4De8npyV1tgb"
+    },
+    {
+      "album": {
+        "name": "Words For You",
+        "url": "https://open.spotify.com/album/29mvqM1o5zAWPDzD4YIlS5"
+      },
+      "artists": [
+        {
+          "name": "Anthony Head",
+          "url": "https://open.spotify.com/artist/4IeiBE1Wda3Gn1GrYkhEpX"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106493,
+      "name": "On The Balcony by D.H. Lawrence. Grieg - Last Spring 2 Elegiac Meleodys (excerpt).",
+      "url": "https://open.spotify.com/track/3iB009igwX1IhyacvDx5Wo"
+    },
+    {
+      "album": {
+        "name": "Lady Chatterley's Lover",
+        "url": "https://open.spotify.com/album/3yokiehMiYWPlX2eNiYxru"
+      },
+      "artists": [
+        {
+          "name": "Pamela Brown",
+          "url": "https://open.spotify.com/artist/1jhp4IKYrexNuPQyaM8uiw"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2112538,
+      "name": "Part 1",
+      "url": "https://open.spotify.com/track/2XWplHqnufeu6EwCxgvnoh"
+    },
+    {
+      "album": {
+        "name": "Lady Chatterley's Lover",
+        "url": "https://open.spotify.com/album/3yokiehMiYWPlX2eNiYxru"
+      },
+      "artists": [
+        {
+          "name": "Pamela Brown",
+          "url": "https://open.spotify.com/artist/1jhp4IKYrexNuPQyaM8uiw"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2179934,
+      "name": "Part 2",
+      "url": "https://open.spotify.com/track/5DlNOR5rrBk6JPqr91AqKN"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 16733,
+      "name": "Puss-Puss!",
+      "url": "https://open.spotify.com/track/6u01JSlJ3PsYM3V17YrkpQ"
+    },
+    {
+      "album": {
+        "name": "The Prussian Officer and Other Stories",
+        "url": "https://open.spotify.com/album/1Yg93nvMSkh2K7ram9rUPR"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1293517,
+      "name": "Second Best",
+      "url": "https://open.spotify.com/track/3sPciRoZMpxE0oMg0t2Tyl"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Sons & Lovers",
+        "url": "https://open.spotify.com/album/74i3jty7oK2cs4g2ODfazr"
+      },
+      "artists": [
+        {
+          "name": "Robert Powell",
+          "url": "https://open.spotify.com/artist/3ILTPjT0oOLBQugXoojhq2"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1021560,
+      "name": "Sons & Lovers: Chapter 1, Estrangement",
+      "url": "https://open.spotify.com/track/5GJpC1YhN5RV6gUcmTUpC9"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Sons & Lovers",
+        "url": "https://open.spotify.com/album/74i3jty7oK2cs4g2ODfazr"
+      },
+      "artists": [
+        {
+          "name": "Robert Powell",
+          "url": "https://open.spotify.com/artist/3ILTPjT0oOLBQugXoojhq2"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1180333,
+      "name": "Sons & Lovers: Chapter 2, Breaking The Molud",
+      "url": "https://open.spotify.com/track/3KiP2e1ubU6psDyzIkkkwB"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Sons & Lovers",
+        "url": "https://open.spotify.com/album/74i3jty7oK2cs4g2ODfazr"
+      },
+      "artists": [
+        {
+          "name": "Robert Powell",
+          "url": "https://open.spotify.com/artist/3ILTPjT0oOLBQugXoojhq2"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1079266,
+      "name": "Sons & Lovers: Chapter 3, At Jordan's",
+      "url": "https://open.spotify.com/track/1teCXO8JJhIUokuZ8VSb7x"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Sons & Lovers",
+        "url": "https://open.spotify.com/album/74i3jty7oK2cs4g2ODfazr"
+      },
+      "artists": [
+        {
+          "name": "Robert Powell",
+          "url": "https://open.spotify.com/artist/3ILTPjT0oOLBQugXoojhq2"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1078306,
+      "name": "Sons & Lovers: Chapter 4, Communion With Nature",
+      "url": "https://open.spotify.com/track/6nDz5Mq1GQnR4RuP7j7eg5"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Sons & Lovers",
+        "url": "https://open.spotify.com/album/74i3jty7oK2cs4g2ODfazr"
+      },
+      "artists": [
+        {
+          "name": "Robert Powell",
+          "url": "https://open.spotify.com/artist/3ILTPjT0oOLBQugXoojhq2"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1007600,
+      "name": "Sons & Lovers: Chapter 5, A Mother's Rivalry",
+      "url": "https://open.spotify.com/track/0PoIRxukDxnXKYwIhFxmPh"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Sons & Lovers",
+        "url": "https://open.spotify.com/album/74i3jty7oK2cs4g2ODfazr"
+      },
+      "artists": [
+        {
+          "name": "Robert Powell",
+          "url": "https://open.spotify.com/artist/3ILTPjT0oOLBQugXoojhq2"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 905733,
+      "name": "Sons & Lovers: Chapter 6, Love For Three Women",
+      "url": "https://open.spotify.com/track/42jQ7X1iOWdhjEMgXmcezz"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Sons & Lovers",
+        "url": "https://open.spotify.com/album/74i3jty7oK2cs4g2ODfazr"
+      },
+      "artists": [
+        {
+          "name": "Robert Powell",
+          "url": "https://open.spotify.com/artist/3ILTPjT0oOLBQugXoojhq2"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 842866,
+      "name": "Sons & Lovers: Chapter 7, Virgin No Longer",
+      "url": "https://open.spotify.com/track/4NYNovCrmXvHO0ygQHPRhy"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Sons & Lovers",
+        "url": "https://open.spotify.com/album/74i3jty7oK2cs4g2ODfazr"
+      },
+      "artists": [
+        {
+          "name": "Robert Powell",
+          "url": "https://open.spotify.com/artist/3ILTPjT0oOLBQugXoojhq2"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1122800,
+      "name": "Sons & Lovers: Chapter 8, Parting Of The Ways",
+      "url": "https://open.spotify.com/track/7MF8usRfsPdC5p9QncNVOw"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239653,
+      "name": "Sons and Lovers (Excerpt)",
+      "url": "https://open.spotify.com/track/2AF3w1u3P6IPfYNsPYwijc"
+    },
+    {
+      "album": {
+        "name": "Poetic License 100 Poems/100 Performers Part 3",
+        "url": "https://open.spotify.com/album/2bAK208sYeO1RjyzRYXywE"
+      },
+      "artists": [
+        {
+          "name": "Penny Fuller",
+          "url": "https://open.spotify.com/artist/42nRzPYRMbawP660nsynTK"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90157,
+      "name": "Terra Incognita by D.H. Lawrence",
+      "url": "https://open.spotify.com/track/4m4aK8c6RYNLQyKQ2oo5mI"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191378,
+      "name": "The Drained Cup",
+      "url": "https://open.spotify.com/track/0bZwkoHxaSAirbn7UKIwRH"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - The Short Stories",
+        "url": "https://open.spotify.com/album/3gyP5XhTayr41tNf4ICHjK"
+      },
+      "artists": [
+        {
+          "name": "David Shaw-Parker",
+          "url": "https://open.spotify.com/artist/5ySoL6vYTXQwa3UlRROujv"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 849060,
+      "name": "The Fly In The Ointment",
+      "url": "https://open.spotify.com/track/7AUGYj5NOVuv4f4FwvS7Br"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65155,
+      "name": "The Mess Of Love",
+      "url": "https://open.spotify.com/track/1UofjowP734cpORGPvPfgS"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203074,
+      "name": "The Mosquito",
+      "url": "https://open.spotify.com/track/1fsHrUkQgr7v7YI0L61JJo"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - The Short Stories",
+        "url": "https://open.spotify.com/album/3gyP5XhTayr41tNf4ICHjK"
+      },
+      "artists": [
+        {
+          "name": "David Shaw-Parker",
+          "url": "https://open.spotify.com/artist/5ySoL6vYTXQwa3UlRROujv"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2167164,
+      "name": "The Old Adam",
+      "url": "https://open.spotify.com/track/580WaT77Z3PVJ196e4XWNa"
+    },
+    {
+      "album": {
+        "name": "The Prussian Officer and Other Stories",
+        "url": "https://open.spotify.com/album/1Yg93nvMSkh2K7ram9rUPR"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1861183,
+      "name": "The Prussian Officer - Chapter One",
+      "url": "https://open.spotify.com/track/5p2oCTweaRcT5WlJoj46FP"
+    },
+    {
+      "album": {
+        "name": "The Prussian Officer and Other Stories",
+        "url": "https://open.spotify.com/album/1Yg93nvMSkh2K7ram9rUPR"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1274299,
+      "name": "The Prussian Officer - Chapter Two",
+      "url": "https://open.spotify.com/track/5z1Pz2YH26e9HvCodRdeRP"
+    },
+    {
+      "album": {
+        "name": "The Prussian Officer and Other Stories",
+        "url": "https://open.spotify.com/album/1Yg93nvMSkh2K7ram9rUPR"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 771433,
+      "name": "The Prussian Officer - Chapters Three and Four",
+      "url": "https://open.spotify.com/track/0udFpIbbvFXjSUeoYZefaY"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2212621,
+      "name": "The Rocking-Horse Winner by D. H. Lawrence",
+      "url": "https://open.spotify.com/track/4dNQu0L0SE3YYfjNtOlRyd"
+    },
+    {
+      "album": {
+        "name": "The Prussian Officer and Other Stories",
+        "url": "https://open.spotify.com/album/1Yg93nvMSkh2K7ram9rUPR"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2330000,
+      "name": "The Shades of Spring",
+      "url": "https://open.spotify.com/track/03LYpffG4rpVVkKw0o1tE0"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483266,
+      "name": "The Ship of Death (D.H. Lawrence)",
+      "url": "https://open.spotify.com/track/1zyedK3cscXb48zrx9Imit"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327066,
+      "name": "Two Little Birds (Excerpt)",
+      "url": "https://open.spotify.com/track/3ZFE585GwKwcNQsmNlLFSC"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92299,
+      "name": "Week Night Service",
+      "url": "https://open.spotify.com/track/118dbEZyd8CdkS0DYSQ7ZS"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Whales, Weep Not (D. H. Lawrence)",
+      "url": "https://open.spotify.com/track/30t32S2fhQYTdKIQazLTwM"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325306,
+      "name": "Women in Love (Excerpt)",
+      "url": "https://open.spotify.com/track/29qlsaSDPHoYmaJhzBE9dX"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Women In Love",
+        "url": "https://open.spotify.com/album/698x58QRr51F7U1KdDI0q4"
+      },
+      "artists": [
+        {
+          "name": "Bob Peck",
+          "url": "https://open.spotify.com/artist/61cRodPQB8F2WZ640Qb8pY"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1251293,
+      "name": "Women In Love: Chapter 1, Loves Old And New",
+      "url": "https://open.spotify.com/track/7LFCmmhQf58gZdS1k63GyS"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Women In Love",
+        "url": "https://open.spotify.com/album/698x58QRr51F7U1KdDI0q4"
+      },
+      "artists": [
+        {
+          "name": "Bob Peck",
+          "url": "https://open.spotify.com/artist/61cRodPQB8F2WZ640Qb8pY"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1018866,
+      "name": "Women In Love: Chapter 2, Love's Unsmooth Path",
+      "url": "https://open.spotify.com/track/09QkC31JSKUPlzXzQqYZ0o"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Women In Love",
+        "url": "https://open.spotify.com/album/698x58QRr51F7U1KdDI0q4"
+      },
+      "artists": [
+        {
+          "name": "Bob Peck",
+          "url": "https://open.spotify.com/artist/61cRodPQB8F2WZ640Qb8pY"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 851973,
+      "name": "Women In Love: Chapter 3, Dancing And Drowning",
+      "url": "https://open.spotify.com/track/3lnue7qisewW69lcmCATKV"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Women In Love",
+        "url": "https://open.spotify.com/album/698x58QRr51F7U1KdDI0q4"
+      },
+      "artists": [
+        {
+          "name": "Bob Peck",
+          "url": "https://open.spotify.com/artist/61cRodPQB8F2WZ640Qb8pY"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1204000,
+      "name": "Women In Love: Chapter 4, Proposals",
+      "url": "https://open.spotify.com/track/5ImixlsnlfAxqYjtAOxy3J"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Women In Love",
+        "url": "https://open.spotify.com/album/698x58QRr51F7U1KdDI0q4"
+      },
+      "artists": [
+        {
+          "name": "Bob Peck",
+          "url": "https://open.spotify.com/artist/61cRodPQB8F2WZ640Qb8pY"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 965666,
+      "name": "Women In Love: Chapter 5, Coming Together",
+      "url": "https://open.spotify.com/track/3FjG84qxqL1inQBUGcVHSR"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Women In Love",
+        "url": "https://open.spotify.com/album/698x58QRr51F7U1KdDI0q4"
+      },
+      "artists": [
+        {
+          "name": "Bob Peck",
+          "url": "https://open.spotify.com/artist/61cRodPQB8F2WZ640Qb8pY"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1176960,
+      "name": "Women In Love: Chapter 6, One Marriage",
+      "url": "https://open.spotify.com/track/3p0EVh31JzLNvCQNyvs1KT"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Women In Love",
+        "url": "https://open.spotify.com/album/698x58QRr51F7U1KdDI0q4"
+      },
+      "artists": [
+        {
+          "name": "Bob Peck",
+          "url": "https://open.spotify.com/artist/61cRodPQB8F2WZ640Qb8pY"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 732306,
+      "name": "Women In Love: Chapter 7, In The Alps",
+      "url": "https://open.spotify.com/track/4RA5WCsRBF1JgND4k6TE3U"
+    },
+    {
+      "album": {
+        "name": "Lawrence: Women In Love",
+        "url": "https://open.spotify.com/album/698x58QRr51F7U1KdDI0q4"
+      },
+      "artists": [
+        {
+          "name": "Bob Peck",
+          "url": "https://open.spotify.com/artist/61cRodPQB8F2WZ640Qb8pY"
+        }
+      ],
+      "date_added": "2014-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1399226,
+      "name": "Women In Love: Chapter 8, Hatred And Death",
+      "url": "https://open.spotify.com/track/6KMBMU8Zs5m2RiLSOntI84"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdOlMB0hApiu"
 }

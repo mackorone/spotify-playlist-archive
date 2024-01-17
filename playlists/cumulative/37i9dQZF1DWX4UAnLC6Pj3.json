@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Roberto Tapia y Grupo Marca Registrada en portada.",
-  "name": "Banda 2023",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Sebastianes y Nathan Galante en portada.",
+  "name": "Banda 2024",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 174693,
       "name": "1500 Pedas",
       "url": "https://open.spotify.com/track/2efLFCMNmHmp2708XbxSNL"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
@@ -2219,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Fuiste Tu",
+        "url": "https://open.spotify.com/album/5fIkZ4VQtZUl91Mfrv9Elm"
+      },
+      "artists": [
+        {
+          "name": "Wiscas Vela",
+          "url": "https://open.spotify.com/artist/4hBkyrbo31bVEA4aA4Jli2"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165211,
+      "name": "Fuiste Tu",
+      "url": "https://open.spotify.com/track/0NgCOceAefYVWdeGj2OUNy"
+    },
+    {
+      "album": {
         "name": "Desde la Ra\u00edz",
         "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
       },
@@ -2695,6 +2713,28 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "La Supuesta Cita",
+      "url": "https://open.spotify.com/track/6haNQCMAN9p6y8AWGQJ7fF"
+    },
+    {
+      "album": {
         "name": "La Ultima M",
         "url": "https://open.spotify.com/album/5ouXM6FaBR9vMf6ZLK3fZr"
       },
@@ -2874,7 +2914,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 174760,
       "name": "Lo Que No Es Pa' Uno",
       "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
@@ -2979,6 +3019,28 @@
     },
     {
       "album": {
+        "name": "Malamente",
+        "url": "https://open.spotify.com/album/1Rd0sR7bIlPzD8XhkfmSBM"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193026,
+      "name": "Malamente",
+      "url": "https://open.spotify.com/track/76okUlYIoaEsT0IVIUaOxs"
+    },
+    {
+      "album": {
         "name": "PUNTO Y APARTE",
         "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
       },
@@ -2990,7 +3052,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 152823,
       "name": "Me Dej\u00e9 Ir Con Todo",
       "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
@@ -3052,7 +3114,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 152170,
       "name": "Me Gustas Mucho T\u00fa",
       "url": "https://open.spotify.com/track/7uCOC6ejt66iR6UOX0dmlJ"
@@ -5000,7 +5062,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
@@ -5446,7 +5508,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 181466,
       "name": "Tratando De Olvidarte",
       "url": "https://open.spotify.com/track/21sOioRayM3RnVumecI1D2"

@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/1IvCA1tB8GNQ5KzAJ9pm60"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213095,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT"
+    },
+    {
+      "album": {
         "name": "All I Do",
         "url": "https://open.spotify.com/album/00zOAQMoEQOP8nhSKFNg6f"
       },
@@ -152,7 +174,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 219848,
       "name": "All I Need (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2"
@@ -394,7 +416,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
@@ -904,6 +926,32 @@
       "duration_ms": 154831,
       "name": "Dancing Shoes (Take Me Higher)",
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+    },
+    {
+      "album": {
+        "name": "Daydreaming (Sgt Slick Remix)",
+        "url": "https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        },
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184497,
+      "name": "Daydreaming - Sgt Slick Remix",
+      "url": "https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk"
     },
     {
       "album": {
@@ -1476,7 +1524,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 213387,
       "name": "Everything\u2019s Gonna Be Alright",
       "url": "https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw"
@@ -1524,6 +1572,28 @@
       "duration_ms": 151967,
       "name": "Family (feat. El Boogie)",
       "url": "https://open.spotify.com/track/6X6HvqcAThorTz88ereWUF"
+    },
+    {
+      "album": {
+        "name": "Finally Ready (feat. Billy Porter)",
+        "url": "https://open.spotify.com/album/2OKpNQTgcbe5kIdMbcuhdA"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236730,
+      "name": "Finally Ready (feat. Billy Porter)",
+      "url": "https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9"
     },
     {
       "album": {
@@ -1582,10 +1652,50 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 208280,
       "name": "Freak Me Now",
       "url": "https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz"
+    },
+    {
+      "album": {
+        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) [Bklava Remix]",
+        "url": "https://open.spotify.com/album/05v6YXgPWPRIJv884rYtfQ"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        },
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
+      "url": "https://open.spotify.com/track/17QrcVC1RSKFJ9fg2oMN7H"
+    },
+    {
+      "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234080,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/7axM6HbfUTu3dXEIWOYcH1"
     },
     {
       "album": {
@@ -1604,6 +1714,24 @@
       "duration_ms": 217407,
       "name": "Freedom (Never Let You Go)",
       "url": "https://open.spotify.com/track/0AobTeawzXgsGlVnmFtIR7"
+    },
+    {
+      "album": {
+        "name": "Get Down Tonight",
+        "url": "https://open.spotify.com/album/0iTSDLHHTFKleSDaapAF6B"
+      },
+      "artists": [
+        {
+          "name": "Starwolf",
+          "url": "https://open.spotify.com/artist/3Ls05mIE3GrqAuTqjdWDGV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "Get Down Tonight",
+      "url": "https://open.spotify.com/track/00Q20ZhL0FwSJh2Ryaei0h"
     },
     {
       "album": {
@@ -1844,7 +1972,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 227619,
       "name": "Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]",
       "url": "https://open.spotify.com/track/1ftK0tLj4ZYKYxSzXk5Lpb"
@@ -2137,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
         "name": "I Discover",
         "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
       },
@@ -2174,7 +2320,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
@@ -2262,6 +2408,32 @@
       "duration_ms": 147086,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
+    },
+    {
+      "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/5A0bq3cr9A306ABKJd3RGG"
+      },
+      "artists": [
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        },
+        {
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+        },
+        {
+          "name": "Ampersounds",
+          "url": "https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/3jtiNEzJr6NrM6dau9YPov"
     },
     {
       "album": {
@@ -2374,7 +2546,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 175418,
       "name": "I\u2019m Just Ken - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/5bIELpyrphj886yjo2Rdjg"
@@ -2410,7 +2582,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 288280,
       "name": "Je Vulesse",
       "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
@@ -3093,6 +3265,28 @@
     },
     {
       "album": {
+        "name": "Love Is Real",
+        "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197727,
+      "name": "Love Is Real",
+      "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+    },
+    {
+      "album": {
         "name": "Love Trip / Hi Land Funk",
         "url": "https://open.spotify.com/album/42HAf1ATyAhcR6hwwNIG1p"
       },
@@ -3144,7 +3338,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 194754,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD"
@@ -3575,6 +3769,28 @@
     },
     {
       "album": {
+        "name": "Murder On The Dancefloor",
+        "url": "https://open.spotify.com/album/7hDjGMaCAqhkSXy5Hrh2Ec"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Jewels And Stone",
+          "url": "https://open.spotify.com/artist/7jra3rYwvDmiTFylChNPKx"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339666,
+      "name": "Murder On The Dancefloor - Jewels & Stone Mix",
+      "url": "https://open.spotify.com/track/0nf2XYpRORaw6VQEzsrNr1"
+    },
+    {
+      "album": {
         "name": "Musica leggerissima (Cerrone Remix)",
         "url": "https://open.spotify.com/album/4dUKL5lltG55mpAZ1Ldltv"
       },
@@ -3792,7 +4008,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 182011,
       "name": "Never Knew Love Like This Before",
       "url": "https://open.spotify.com/track/7oNT84XA7GAxohEKbTGDMZ"
@@ -4719,6 +4935,24 @@
     },
     {
       "album": {
+        "name": "Save My Life",
+        "url": "https://open.spotify.com/album/6YZT6tRvHJ6jGFSKVbg5tF"
+      },
+      "artists": [
+        {
+          "name": "Benny Mussa",
+          "url": "https://open.spotify.com/artist/3JNbl0jPjCNLrZrCbqku6f"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170040,
+      "name": "Save My Life",
+      "url": "https://open.spotify.com/track/1qlDfQfqMVgAIX3bGSr5EJ"
+    },
+    {
+      "album": {
         "name": "Saving Up",
         "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
       },
@@ -4806,7 +5040,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
@@ -4922,7 +5156,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 163294,
       "name": "Sky's the Limit - Edit",
       "url": "https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP"
@@ -5020,7 +5254,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 198039,
       "name": "Solid Gold (feat. bshp)",
       "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
@@ -5378,7 +5612,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 246533,
       "name": "Tension (Chromeo Remix)",
       "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
@@ -5543,6 +5777,24 @@
     },
     {
       "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/0lPT5PDcXI9dPiMryq1KeE"
+      },
+      "artists": [
+        {
+          "name": "Odssey",
+          "url": "https://open.spotify.com/artist/6SXyD2Wy3j0fHmq266QJDS"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165124,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/2jcbYTEX3DzJabAF2OS68B"
+    },
+    {
+      "album": {
         "name": "Trick Disco",
         "url": "https://open.spotify.com/album/4mO2Ohi9TOEaNK85PuDEKk"
       },
@@ -5676,7 +5928,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 202391,
       "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
       "url": "https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB"
@@ -5720,6 +5972,28 @@
       "duration_ms": 342497,
       "name": "Wake Me Up - Flight Facilities Remix",
       "url": "https://open.spotify.com/track/6xd0EGEhMnkHluS3gi4BLC"
+    },
+    {
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154083,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
     },
     {
       "album": {

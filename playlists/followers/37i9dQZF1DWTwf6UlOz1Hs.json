@@ -1,218 +1,411 @@
 {
-  "2023-05-31": 3,
-  "2023-06-01": 4,
-  "2023-06-02": 6,
-  "2023-06-03": 7,
-  "2023-06-04": 15,
-  "2023-06-05": 20,
-  "2023-06-06": 22,
-  "2023-06-07": 27,
-  "2023-06-08": 38,
-  "2023-06-09": 51,
-  "2023-06-10": 64,
-  "2023-06-11": 72,
-  "2023-06-12": 76,
-  "2023-06-13": 96,
-  "2023-06-14": 102,
-  "2023-06-15": 115,
-  "2023-06-16": 136,
-  "2023-06-17": 147,
-  "2023-06-18": 162,
-  "2023-06-19": 174,
-  "2023-06-20": 182,
-  "2023-06-21": 191,
-  "2023-06-22": 198,
-  "2023-06-23": 212,
-  "2023-06-24": 222,
-  "2023-06-25": 227,
-  "2023-06-26": 233,
-  "2023-06-27": 241,
-  "2023-06-28": 248,
-  "2023-06-29": 262,
-  "2023-06-30": 267,
-  "2023-07-01": 279,
-  "2023-07-02": 279,
-  "2023-07-03": 288,
-  "2023-07-04": 297,
-  "2023-07-05": 306,
-  "2023-07-06": 321,
-  "2023-07-07": 321,
-  "2023-07-08": 328,
-  "2023-07-09": 331,
-  "2023-07-10": 338,
-  "2023-07-11": 347,
-  "2023-07-12": 355,
-  "2023-07-13": 361,
-  "2023-07-14": 371,
-  "2023-07-15": 372,
-  "2023-07-16": 385,
-  "2023-07-17": 393,
-  "2023-07-18": 398,
-  "2023-07-19": 403,
-  "2023-07-20": 409,
-  "2023-07-21": 415,
-  "2023-07-22": 422,
-  "2023-07-23": 429,
-  "2023-07-24": 437,
-  "2023-07-25": 441,
-  "2023-07-26": 442,
-  "2023-07-27": 452,
-  "2023-07-28": 461,
-  "2023-07-29": 466,
-  "2023-07-30": 474,
-  "2023-07-31": 486,
-  "2023-08-01": 488,
-  "2023-08-02": 497,
-  "2023-08-03": 506,
-  "2023-08-04": 510,
-  "2023-08-05": 518,
-  "2023-08-06": 524,
-  "2023-08-07": 524,
-  "2023-08-08": 529,
-  "2023-08-09": 533,
-  "2023-08-10": 546,
-  "2023-08-11": 552,
-  "2023-08-12": 554,
-  "2023-08-13": 552,
-  "2023-08-14": 555,
-  "2023-08-15": 560,
-  "2023-08-16": 560,
-  "2023-08-17": 564,
-  "2023-08-18": 567,
-  "2023-08-19": 572,
-  "2023-08-20": 573,
-  "2023-08-21": 577,
-  "2023-08-22": 580,
-  "2023-08-23": 583,
-  "2023-08-24": 587,
-  "2023-08-25": 591,
-  "2023-08-26": 594,
-  "2023-08-27": 596,
-  "2023-08-28": 596,
-  "2023-08-29": 595,
-  "2023-08-30": 599,
-  "2023-08-31": 606,
-  "2023-09-01": 626,
-  "2023-09-02": 626,
-  "2023-09-03": 638,
-  "2023-09-04": 646,
-  "2023-09-05": 651,
-  "2023-09-06": 661,
-  "2023-09-07": 665,
-  "2023-09-08": 671,
-  "2023-09-09": 681,
-  "2023-09-10": 687,
-  "2023-09-11": 698,
-  "2023-09-12": 711,
-  "2023-09-13": 723,
-  "2023-09-14": 732,
-  "2023-09-15": 744,
-  "2023-09-16": 764,
-  "2023-09-17": 775,
-  "2023-09-18": 782,
-  "2023-09-19": 793,
-  "2023-09-20": 798,
-  "2023-09-21": 806,
-  "2023-09-22": 813,
-  "2023-09-23": 820,
-  "2023-09-24": 822,
-  "2023-09-25": 832,
-  "2023-09-26": 842,
-  "2023-09-27": 845,
-  "2023-09-28": 854,
-  "2023-09-29": 862,
-  "2023-09-30": 868,
-  "2023-10-01": 877,
-  "2023-10-02": 882,
-  "2023-10-03": 889,
-  "2023-10-04": 896,
-  "2023-10-05": 901,
-  "2023-10-06": 913,
-  "2023-10-07": 920,
-  "2023-10-08": 921,
-  "2023-10-09": 928,
-  "2023-10-10": 935,
-  "2023-10-11": 950,
-  "2023-10-12": 950,
-  "2023-10-13": 960,
-  "2023-10-14": 968,
-  "2023-10-15": 979,
-  "2023-10-16": 986,
-  "2023-10-17": 995,
-  "2023-10-18": 1003,
-  "2023-10-19": 1006,
-  "2023-10-20": 1007,
-  "2023-10-21": 1020,
-  "2023-10-22": 1026,
-  "2023-10-23": 1032,
-  "2023-10-24": 1037,
-  "2023-10-25": 1041,
-  "2023-10-26": 1048,
-  "2023-10-27": 1054,
-  "2023-10-28": 1064,
-  "2023-10-29": 1072,
-  "2023-10-30": 1083,
-  "2023-10-31": 1083,
-  "2023-11-01": 1090,
-  "2023-11-02": 1096,
-  "2023-11-03": 1103,
-  "2023-11-04": 1110,
-  "2023-11-05": 1117,
-  "2023-11-06": 1118,
-  "2023-11-07": 1122,
-  "2023-11-08": 1131,
-  "2023-11-09": 1138,
-  "2023-11-10": 1145,
-  "2023-11-11": 1156,
-  "2023-11-12": 1163,
-  "2023-11-13": 1167,
-  "2023-11-14": 1175,
-  "2023-11-15": 1175,
-  "2023-11-16": 1188,
-  "2023-11-17": 1204,
-  "2023-11-18": 1204,
-  "2023-11-19": 1215,
-  "2023-11-20": 1222,
-  "2023-11-21": 1232,
-  "2023-11-22": 1243,
-  "2023-11-23": 1246,
-  "2023-11-24": 1252,
-  "2023-11-25": 1257,
-  "2023-11-26": 1264,
-  "2023-11-27": 1268,
-  "2023-11-28": 1279,
-  "2023-11-29": 1287,
-  "2023-11-30": 1287,
-  "2023-12-01": 1299,
-  "2023-12-02": 1308,
-  "2023-12-03": 1317,
-  "2023-12-04": 1321,
-  "2023-12-05": 1330,
-  "2023-12-06": 1340,
-  "2023-12-07": 1347,
-  "2023-12-08": 1351,
-  "2023-12-09": 1351,
-  "2023-12-10": 1351,
-  "2023-12-11": 1355,
-  "2023-12-12": 1355,
-  "2023-12-13": 1359,
-  "2023-12-14": 1360,
-  "2023-12-15": 1362,
-  "2023-12-16": 1363,
-  "2023-12-17": 1367,
-  "2023-12-18": 1368,
-  "2023-12-19": 1369,
-  "2023-12-20": 1370,
-  "2023-12-21": 1370,
-  "2023-12-22": 1372,
-  "2023-12-23": 1377,
-  "2023-12-24": 1378,
-  "2023-12-25": 1380,
-  "2023-12-26": 1380,
-  "2023-12-27": 1383,
-  "2023-12-30": 1387,
-  "2023-12-31": 1388,
-  "2024-01-01": 1389,
-  "2024-01-02": 1388,
-  "2024-01-03": 1391
+  "2024-01-17": 1413,
+  "date_first_scraped": "2023-05-31",
+  "description": "Featuring Nathy Peluso on Regina's fan curated mixtape. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
+  "name": "Fuego #052 - Regina's Fan Mixtape",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aguanta Rkt",
+        "url": "https://open.spotify.com/album/1Qw6b2cdvbTLk7MGqjAhx0"
+      },
+      "artists": [
+        {
+          "name": "Chulimane",
+          "url": "https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6"
+        },
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163516,
+      "name": "Aguanta Rkt",
+      "url": "https://open.spotify.com/track/2UmcuaQhicgDKDrDEhpili"
+    },
+    {
+      "album": {
+        "name": "EMERGENCIA (Presented by PlayStation, Horizon Forbidden West)",
+        "url": "https://open.spotify.com/album/3gnyAB5RtdV38RCk7hW74R"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "EMERGENCIA - Presented by PlayStation, Horizon Forbidden West",
+      "url": "https://open.spotify.com/track/5Fj753yCLyWL699hiiCgoJ"
+    },
+    {
+      "album": {
+        "name": "Flow 2000",
+        "url": "https://open.spotify.com/album/2WmNz0gzO5w5YyPIl2Pc0N"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155213,
+      "name": "Flow 2000",
+      "url": "https://open.spotify.com/track/1BOLgpXolZEcIaCEIuFhPM"
+    },
+    {
+      "album": {
+        "name": "Fuck It",
+        "url": "https://open.spotify.com/album/66bdKlSZgxfYODLWZWBztJ"
+      },
+      "artists": [
+        {
+          "name": "Badly Rouse",
+          "url": "https://open.spotify.com/artist/6mDzBxeWQSzUFBFZ78iWC8"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102500,
+      "name": "Fuck It",
+      "url": "https://open.spotify.com/track/7fCeKOzXIwrRNvnaddj07d"
+    },
+    {
+      "album": {
+        "name": "GABBANA",
+        "url": "https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171881,
+      "name": "GABBANA",
+      "url": "https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB"
+    },
+    {
+      "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135521,
+      "name": "Jefa",
+      "url": "https://open.spotify.com/track/1K2h9Y50wXiRsENQHLydZO"
+    },
+    {
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154626,
+      "name": "Kaleidosc\u00f3pica",
+      "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "album": {
+        "name": "ReBeba MiXXXtape",
+        "url": "https://open.spotify.com/album/6zlW5sDbB0AulToePrwqkL"
+      },
+      "artists": [
+        {
+          "name": "SASHA SATHYA",
+          "url": "https://open.spotify.com/artist/2EyTh5jHaNswRWXuzt0e33"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152132,
+      "name": "La Dealer",
+      "url": "https://open.spotify.com/track/0uaM2q4FQOswkHruAf37vg"
+    },
+    {
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "LAS SOLTERAS",
+      "url": "https://open.spotify.com/track/3ggs4faDNokteDhi3Pbg4n"
+    },
+    {
+      "album": {
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/4TFGlMZfseOXu6RxdMmZMK"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192244,
+      "name": "Latina",
+      "url": "https://open.spotify.com/track/4Sn4YShBg9iOlsxCyHwROX"
+    },
+    {
+      "album": {
+        "name": "Mirame",
+        "url": "https://open.spotify.com/album/2NIB13nbIWv8wldphYVbTb"
+      },
+      "artists": [
+        {
+          "name": "La Goony Chonga",
+          "url": "https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/3Z0D5UAIPkDeSvS3i2e7e7"
+    },
+    {
+      "album": {
+        "name": "nasty",
+        "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175505,
+      "name": "nasty",
+      "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
+    },
+    {
+      "album": {
+        "name": "Nueva York (Tot*)",
+        "url": "https://open.spotify.com/album/1cuxNNdmQkoeqB9Kkj5nUE"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154173,
+      "name": "Nueva York (Tot*)",
+      "url": "https://open.spotify.com/track/1z5TNHJ4WP2ftKhRpqdoNY"
+    },
+    {
+      "album": {
+        "name": "Pa las Gatas",
+        "url": "https://open.spotify.com/album/5Lpze9WyNbQrSudLoe2xlv"
+      },
+      "artists": [
+        {
+          "name": "Louly",
+          "url": "https://open.spotify.com/artist/4iXaV8MoL2JmP9yhsPYv0Q"
+        },
+        {
+          "name": "Dj Lauuh",
+          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145477,
+      "name": "Pa las Gatas",
+      "url": "https://open.spotify.com/track/4eOdZZe6wLFfHE3p99JDp6"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/7an3UboNMfILI1SL0Yopsf"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223129,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/4jxWAYRsa7Gshx1a1eY3cQ"
+    },
+    {
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
+    },
+    {
+      "album": {
+        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+        "url": "https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177442,
+      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+      "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
+    },
+    {
+      "album": {
+        "name": "Sin Pensar",
+        "url": "https://open.spotify.com/album/6UAGXIPMrWgPcqWuT0iwra"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Gini Santana",
+          "url": "https://open.spotify.com/artist/1KBsQLZwxvQ6H5lh7zjeji"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127768,
+      "name": "Sugar Mami (feat. Gini Santana)",
+      "url": "https://open.spotify.com/track/5Cipoy9vB4xDdCGnoMpJQH"
+    },
+    {
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172621,
+      "name": "te pongo mal(prendelo)",
+      "url": "https://open.spotify.com/track/36Qi2bHMzLMQIHApHFytgv"
+    },
+    {
+      "album": {
+        "name": "RAWR",
+        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95008,
+      "name": "TOP",
+      "url": "https://open.spotify.com/track/77N6k3ZPLq0FpSdQBZMyNs"
+    },
+    {
+      "album": {
+        "name": "TRIPPIN'",
+        "url": "https://open.spotify.com/album/2Wn1qA5yOUowcjggGjBAjT"
+      },
+      "artists": [
+        {
+          "name": "FUFU",
+          "url": "https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "TRIPPIN'",
+      "url": "https://open.spotify.com/track/66bqBZHkNl97QQpkqRq9NY"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTwf6UlOz1Hs"
 }

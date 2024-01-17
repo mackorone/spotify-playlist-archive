@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Als Ik God Was",
+        "url": "https://open.spotify.com/album/3nqQbZABmtHrz6T7coZ4QG"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172264,
+      "name": "Als Ik God Was",
+      "url": "https://open.spotify.com/track/2MZrYnUf8qYIDuKaQeH5u8"
+    },
+    {
+      "album": {
         "name": "Als Ik Je Weer Zie",
         "url": "https://open.spotify.com/album/5m1URbxyOpdcKwbvexXPdI"
       },
@@ -612,6 +630,24 @@
       "duration_ms": 225019,
       "name": "Blijf Nog Even",
       "url": "https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S"
+    },
+    {
+      "album": {
+        "name": "Twintig (Deluxe)",
+        "url": "https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177690,
+      "name": "Blijf Zo",
+      "url": "https://open.spotify.com/track/3bHhbGAnKXlD3SIoRZr8oj"
     },
     {
       "album": {
@@ -1526,7 +1562,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 138053,
       "name": "Houden Van Mij",
       "url": "https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc"
@@ -2005,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Meisjes lopen sneller",
+        "url": "https://open.spotify.com/album/2kfLBi7ezCQRJfMHH11ZGx"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216546,
+      "name": "Meisjes lopen sneller",
+      "url": "https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS"
+    },
+    {
+      "album": {
         "name": "Mijn Kleine Presidentje",
         "url": "https://open.spotify.com/album/5lwBvsRmcXhtIVVWQFqDJh"
       },
@@ -2118,10 +2172,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 168292,
       "name": "Morgen Gaan We Praten",
       "url": "https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9"
+    },
+    {
+      "album": {
+        "name": "Morgen Gaan We Praten",
+        "url": "https://open.spotify.com/album/42BHKZiJziE1bGdozzHuMF"
+      },
+      "artists": [
+        {
+          "name": "Xerxes",
+          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+        },
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168292,
+      "name": "Morgen Gaan We Praten",
+      "url": "https://open.spotify.com/track/5sxNsqIte1Yjkf470Z8u0B"
     },
     {
       "album": {
@@ -2494,7 +2570,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 185261,
       "name": "Radio",
       "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
@@ -2954,7 +3030,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 212471,
       "name": "Troostzoekers (met Froukje)",
       "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"

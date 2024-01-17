@@ -1,383 +1,673 @@
 {
-  "2022-12-15": 18,
-  "2022-12-16": 43,
-  "2022-12-17": 60,
-  "2022-12-18": 82,
-  "2022-12-19": 121,
-  "2022-12-20": 246,
-  "2022-12-21": 246,
-  "2022-12-22": 293,
-  "2022-12-24": 416,
-  "2022-12-25": 457,
-  "2022-12-26": 500,
-  "2022-12-27": 568,
-  "2022-12-28": 649,
-  "2022-12-29": 717,
-  "2022-12-30": 790,
-  "2022-12-31": 836,
-  "2023-01-01": 885,
-  "2023-01-02": 950,
-  "2023-01-03": 1004,
-  "2023-01-04": 1044,
-  "2023-01-05": 1094,
-  "2023-01-06": 1161,
-  "2023-01-07": 1246,
-  "2023-01-08": 1246,
-  "2023-01-09": 1307,
-  "2023-01-10": 1361,
-  "2023-01-11": 1857,
-  "2023-01-12": 2731,
-  "2023-01-13": 3669,
-  "2023-01-14": 4192,
-  "2023-01-15": 4203,
-  "2023-01-16": 4234,
-  "2023-01-17": 4269,
-  "2023-01-18": 4292,
-  "2023-01-19": 4311,
-  "2023-01-20": 4329,
-  "2023-01-21": 4359,
-  "2023-01-22": 4389,
-  "2023-01-23": 4415,
-  "2023-01-24": 4438,
-  "2023-01-25": 4462,
-  "2023-01-26": 4496,
-  "2023-01-27": 4524,
-  "2023-01-28": 4551,
-  "2023-01-29": 4581,
-  "2023-01-30": 4612,
-  "2023-01-31": 4612,
-  "2023-02-01": 4676,
-  "2023-02-02": 4696,
-  "2023-02-03": 4727,
-  "2023-02-04": 4744,
-  "2023-02-05": 4773,
-  "2023-02-06": 4789,
-  "2023-02-07": 4815,
-  "2023-02-08": 4870,
-  "2023-02-09": 4870,
-  "2023-02-10": 4891,
-  "2023-02-11": 4915,
-  "2023-02-12": 4958,
-  "2023-02-13": 4976,
-  "2023-02-14": 4976,
-  "2023-02-15": 4999,
-  "2023-02-16": 5006,
-  "2023-02-17": 5040,
-  "2023-02-18": 5085,
-  "2023-02-19": 5089,
-  "2023-02-20": 5104,
-  "2023-02-21": 5145,
-  "2023-02-22": 5183,
-  "2023-02-23": 5218,
-  "2023-02-24": 5252,
-  "2023-02-25": 5307,
-  "2023-02-26": 5341,
-  "2023-02-27": 5446,
-  "2023-02-28": 5446,
-  "2023-03-01": 5498,
-  "2023-03-02": 5524,
-  "2023-03-03": 5566,
-  "2023-03-04": 5609,
-  "2023-03-05": 5704,
-  "2023-03-06": 5704,
-  "2023-03-07": 5749,
-  "2023-03-08": 5797,
-  "2023-03-09": 5839,
-  "2023-03-10": 5874,
-  "2023-03-11": 5913,
-  "2023-03-12": 5958,
-  "2023-03-13": 6012,
-  "2023-03-14": 6044,
-  "2023-03-15": 6081,
-  "2023-03-16": 6122,
-  "2023-03-17": 6122,
-  "2023-03-18": 6201,
-  "2023-03-19": 6237,
-  "2023-03-20": 6288,
-  "2023-03-21": 6326,
-  "2023-03-22": 6358,
-  "2023-03-23": 6389,
-  "2023-03-24": 6389,
-  "2023-03-25": 6477,
-  "2023-03-26": 6513,
-  "2023-03-27": 6551,
-  "2023-03-28": 6594,
-  "2023-03-29": 6626,
-  "2023-03-30": 6668,
-  "2023-03-31": 6668,
-  "2023-04-01": 6698,
-  "2023-04-02": 6720,
-  "2023-04-03": 6766,
-  "2023-04-04": 6787,
-  "2023-04-05": 6818,
-  "2023-04-06": 6859,
-  "2023-04-07": 6896,
-  "2023-04-09": 6962,
-  "2023-04-10": 6987,
-  "2023-04-11": 7048,
-  "2023-04-12": 7048,
-  "2023-04-13": 7072,
-  "2023-04-14": 7095,
-  "2023-04-15": 7131,
-  "2023-04-16": 7165,
-  "2023-04-17": 7199,
-  "2023-04-18": 7222,
-  "2023-04-19": 7256,
-  "2023-04-20": 7285,
-  "2023-04-21": 7305,
-  "2023-04-22": 7339,
-  "2023-04-23": 7375,
-  "2023-04-24": 7405,
-  "2023-04-25": 7429,
-  "2023-04-26": 7463,
-  "2023-04-27": 7492,
-  "2023-04-28": 7520,
-  "2023-04-29": 7554,
-  "2023-04-30": 7583,
-  "2023-05-01": 7619,
-  "2023-05-02": 7651,
-  "2023-05-03": 7675,
-  "2023-05-04": 7702,
-  "2023-05-05": 7740,
-  "2023-05-06": 7765,
-  "2023-05-07": 7792,
-  "2023-05-08": 7825,
-  "2023-05-09": 7847,
-  "2023-05-10": 7879,
-  "2023-05-11": 7899,
-  "2023-05-12": 7922,
-  "2023-05-13": 7941,
-  "2023-05-14": 7967,
-  "2023-05-15": 7996,
-  "2023-05-16": 8022,
-  "2023-05-17": 8048,
-  "2023-05-18": 8074,
-  "2023-05-19": 8111,
-  "2023-05-20": 8171,
-  "2023-05-21": 8171,
-  "2023-05-22": 8171,
-  "2023-05-23": 8229,
-  "2023-05-24": 8261,
-  "2023-05-25": 8261,
-  "2023-05-26": 8283,
-  "2023-05-27": 8307,
-  "2023-05-28": 8329,
-  "2023-05-29": 8329,
-  "2023-05-30": 8384,
-  "2023-05-31": 8403,
-  "2023-06-01": 8430,
-  "2023-06-02": 8453,
-  "2023-06-03": 8459,
-  "2023-06-04": 8484,
-  "2023-06-05": 8509,
-  "2023-06-06": 8534,
-  "2023-06-07": 8557,
-  "2023-06-08": 8579,
-  "2023-06-09": 8604,
-  "2023-06-10": 8630,
-  "2023-06-11": 8652,
-  "2023-06-12": 8676,
-  "2023-06-13": 8698,
-  "2023-06-14": 8720,
-  "2023-06-15": 8737,
-  "2023-06-16": 8747,
-  "2023-06-17": 8774,
-  "2023-06-18": 8797,
-  "2023-06-19": 8816,
-  "2023-06-20": 8837,
-  "2023-06-21": 8856,
-  "2023-06-22": 8875,
-  "2023-06-23": 8895,
-  "2023-06-24": 8923,
-  "2023-06-25": 8950,
-  "2023-06-26": 8973,
-  "2023-06-27": 9003,
-  "2023-06-28": 9041,
-  "2023-06-29": 9056,
-  "2023-06-30": 9086,
-  "2023-07-01": 9135,
-  "2023-07-02": 9135,
-  "2023-07-03": 9166,
-  "2023-07-04": 9191,
-  "2023-07-05": 9222,
-  "2023-07-06": 9278,
-  "2023-07-07": 9278,
-  "2023-07-08": 9290,
-  "2023-07-09": 9324,
-  "2023-07-10": 9379,
-  "2023-07-11": 9419,
-  "2023-07-12": 9459,
-  "2023-07-13": 9501,
-  "2023-07-14": 9525,
-  "2023-07-15": 9540,
-  "2023-07-16": 9565,
-  "2023-07-17": 9585,
-  "2023-07-18": 9613,
-  "2023-07-19": 9639,
-  "2023-07-20": 9674,
-  "2023-07-21": 9701,
-  "2023-07-22": 9715,
-  "2023-07-23": 9747,
-  "2023-07-24": 9782,
-  "2023-07-25": 9805,
-  "2023-07-26": 9819,
-  "2023-07-27": 9841,
-  "2023-07-28": 9865,
-  "2023-07-29": 9892,
-  "2023-07-30": 9926,
-  "2023-07-31": 9946,
-  "2023-08-01": 9958,
-  "2023-08-02": 9970,
-  "2023-08-03": 9990,
-  "2023-08-04": 10017,
-  "2023-08-05": 10025,
-  "2023-08-06": 10059,
-  "2023-08-07": 10059,
-  "2023-08-08": 10088,
-  "2023-08-09": 10108,
-  "2023-08-10": 10124,
-  "2023-08-11": 10137,
-  "2023-08-12": 10166,
-  "2023-08-13": 10195,
-  "2023-08-14": 10214,
-  "2023-08-15": 10261,
-  "2023-08-16": 10261,
-  "2023-08-17": 10280,
-  "2023-08-18": 10296,
-  "2023-08-19": 10321,
-  "2023-08-20": 10346,
-  "2023-08-21": 10366,
-  "2023-08-22": 10379,
-  "2023-08-23": 10401,
-  "2023-08-24": 10418,
-  "2023-08-25": 10434,
-  "2023-08-26": 10449,
-  "2023-08-27": 10472,
-  "2023-08-28": 10497,
-  "2023-08-29": 10527,
-  "2023-08-30": 10544,
-  "2023-08-31": 10557,
-  "2023-09-01": 10591,
-  "2023-09-02": 10591,
-  "2023-09-03": 10595,
-  "2023-09-04": 10614,
-  "2023-09-05": 10624,
-  "2023-09-06": 10642,
-  "2023-09-07": 10652,
-  "2023-09-08": 10673,
-  "2023-09-09": 10688,
-  "2023-09-10": 10690,
-  "2023-09-11": 10697,
-  "2023-09-12": 10714,
-  "2023-09-13": 10725,
-  "2023-09-14": 10725,
-  "2023-09-15": 10737,
-  "2023-09-16": 10745,
-  "2023-09-17": 10745,
-  "2023-09-18": 10762,
-  "2023-09-19": 10771,
-  "2023-09-20": 10782,
-  "2023-09-21": 10795,
-  "2023-09-22": 10800,
-  "2023-09-23": 10820,
-  "2023-09-24": 10820,
-  "2023-09-25": 10820,
-  "2023-09-26": 10858,
-  "2023-09-27": 10863,
-  "2023-09-28": 10876,
-  "2023-09-29": 10887,
-  "2023-09-30": 10887,
-  "2023-10-01": 10907,
-  "2023-10-02": 10917,
-  "2023-10-03": 10919,
-  "2023-10-04": 10929,
-  "2023-10-05": 10945,
-  "2023-10-06": 10957,
-  "2023-10-07": 10971,
-  "2023-10-08": 10983,
-  "2023-10-09": 10983,
-  "2023-10-10": 11012,
-  "2023-10-11": 11021,
-  "2023-10-12": 11021,
-  "2023-10-13": 11047,
-  "2023-10-14": 11047,
-  "2023-10-15": 11047,
-  "2023-10-16": 11047,
-  "2023-10-17": 11047,
-  "2023-10-18": 11047,
-  "2023-10-19": 11047,
-  "2023-10-20": 11047,
-  "2023-10-21": 11047,
-  "2023-10-22": 11047,
-  "2023-10-23": 11047,
-  "2023-10-24": 11140,
-  "2023-10-25": 11140,
-  "2023-10-26": 11140,
-  "2023-10-27": 11140,
-  "2023-10-28": 11140,
-  "2023-10-29": 11140,
-  "2023-10-30": 11140,
-  "2023-10-31": 11140,
-  "2023-11-01": 11140,
-  "2023-11-02": 11140,
-  "2023-11-03": 11140,
-  "2023-11-04": 11140,
-  "2023-11-05": 11140,
-  "2023-11-06": 11140,
-  "2023-11-07": 11140,
-  "2023-11-08": 11140,
-  "2023-11-09": 11140,
-  "2023-11-10": 11140,
-  "2023-11-11": 11287,
-  "2023-11-12": 11287,
-  "2023-11-13": 11287,
-  "2023-11-14": 11287,
-  "2023-11-15": 11287,
-  "2023-11-16": 11287,
-  "2023-11-17": 11356,
-  "2023-11-18": 11356,
-  "2023-11-19": 11356,
-  "2023-11-20": 11356,
-  "2023-11-21": 11356,
-  "2023-11-22": 11356,
-  "2023-11-23": 11408,
-  "2023-11-24": 11408,
-  "2023-11-25": 11408,
-  "2023-11-26": 11408,
-  "2023-11-27": 11408,
-  "2023-11-28": 11408,
-  "2023-11-29": 11408,
-  "2023-11-30": 11408,
-  "2023-12-01": 11408,
-  "2023-12-02": 11408,
-  "2023-12-03": 11408,
-  "2023-12-04": 11408,
-  "2023-12-05": 11408,
-  "2023-12-06": 11408,
-  "2023-12-07": 11408,
-  "2023-12-08": 11408,
-  "2023-12-09": 11524,
-  "2023-12-10": 11524,
-  "2023-12-11": 11558,
-  "2023-12-12": 11558,
-  "2023-12-13": 11558,
-  "2023-12-14": 11602,
-  "2023-12-15": 11614,
-  "2023-12-16": 11627,
-  "2023-12-17": 11639,
-  "2023-12-18": 11656,
-  "2023-12-19": 11672,
-  "2023-12-20": 11684,
-  "2023-12-21": 11696,
-  "2023-12-22": 11711,
-  "2023-12-23": 11727,
-  "2023-12-24": 11742,
-  "2023-12-25": 11761,
-  "2023-12-26": 11769,
-  "2023-12-27": 11781,
-  "2023-12-30": 11855,
-  "2023-12-31": 11869,
-  "2024-01-01": 11879,
-  "2024-01-02": 11893,
-  "2024-01-03": 11908
+  "2024-01-17": 12106,
+  "date_first_scraped": "2022-12-15",
+  "description": "(Listen Genie TV's original drama 'Summer Strike's soundtrack in here!) Genie TV \uc624\ub9ac\uc9c0\ub110 \uc2dc\ub9ac\uc988 '\uc544\ubb34\uac83\ub3c4 \ud558\uace0 \uc2f6\uc9c0 \uc54a\uc544'\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694!",
+  "name": "Summer Strike (\uc544\ubb34\uac83\ub3c4 \ud558\uace0 \uc2f6\uc9c0 \uc54a\uc544)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2U2opwMKa7idAhGo8EZpNW"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222253,
+      "name": "A Slow Summer Song",
+      "url": "https://open.spotify.com/track/2WS7UcPdKE2i5DCKk3lBnU"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2U2opwMKa7idAhGo8EZpNW"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222253,
+      "name": "A Slow Summer Song - Instrumental",
+      "url": "https://open.spotify.com/track/2JrqqR1kmz4jsU4Nczbztf"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "A Strange Day",
+      "url": "https://open.spotify.com/track/1haYZ64GiDq3vU36S4BZEN"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "A Strange Day - Instrumental",
+      "url": "https://open.spotify.com/track/39RHZMX3ou1LgBvRPO6ds5"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 10 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0OGWvBjkYVHW9LMtDPdi5p"
+      },
+      "artists": [
+        {
+          "name": "Sunnie",
+          "url": "https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/7CgwXjVLZu82aHXCkE6FR7"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 10 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0OGWvBjkYVHW9LMtDPdi5p"
+      },
+      "artists": [
+        {
+          "name": "Sunnie",
+          "url": "https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Color - Instrumental",
+      "url": "https://open.spotify.com/track/468NY7aEJGD09WFUwEteJh"
+    },
+    {
+      "album": {
+        "name": "EP1. Summer Strike",
+        "url": "https://open.spotify.com/album/2z9Bol38d2aB1KvHr0Tq8e"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25000,
+      "name": "EP1. Summer Strike",
+      "url": "https://open.spotify.com/track/6DmCZeVtjGd0TEYxoVCcNi"
+    },
+    {
+      "album": {
+        "name": "Summer Strike Audio liners",
+        "url": "https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39000,
+      "name": "EP10. Summer Strike",
+      "url": "https://open.spotify.com/track/12ACCKBD9BGr5s6Z64zjCh"
+    },
+    {
+      "album": {
+        "name": "Summer Strike Audio liners",
+        "url": "https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40999,
+      "name": "EP11. Summer Strike",
+      "url": "https://open.spotify.com/track/2P16joYLuKvzJjOhzzuEk7"
+    },
+    {
+      "album": {
+        "name": "Summer Strike Audio liners",
+        "url": "https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23071,
+      "name": "EP12. Summer Strike",
+      "url": "https://open.spotify.com/track/60bm8vT4VU2JQXxeI2SFv2"
+    },
+    {
+      "album": {
+        "name": "EP2. Summer Strike",
+        "url": "https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25000,
+      "name": "EP2. Summer Strike",
+      "url": "https://open.spotify.com/track/7glOIY0v0t9mhuMIL5K3xT"
+    },
+    {
+      "album": {
+        "name": "EP2. Summer Strike",
+        "url": "https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25000,
+      "name": "EP3. Summer Strike",
+      "url": "https://open.spotify.com/track/2xQuPcEsuHtgmjmnLXRHTA"
+    },
+    {
+      "album": {
+        "name": "EP2. Summer Strike",
+        "url": "https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25000,
+      "name": "EP4. Summer Strike",
+      "url": "https://open.spotify.com/track/7JlqDSo9wwFgrqOQUh1Qok"
+    },
+    {
+      "album": {
+        "name": "EP2. Summer Strike",
+        "url": "https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25999,
+      "name": "EP5. Summer Strike",
+      "url": "https://open.spotify.com/track/41hWRGUuKSxqHQfeGJjLVt"
+    },
+    {
+      "album": {
+        "name": "Summer Strike Audio liners",
+        "url": "https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27000,
+      "name": "EP6. Summer Strike",
+      "url": "https://open.spotify.com/track/7bGKxHqTiMKmXB2fgPQk8E"
+    },
+    {
+      "album": {
+        "name": "Summer Strike Audio liners",
+        "url": "https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29400,
+      "name": "EP7. Summer Strike",
+      "url": "https://open.spotify.com/track/5rYY3srtSHm4yzQWgYvmta"
+    },
+    {
+      "album": {
+        "name": "Summer Strike Audio liners",
+        "url": "https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "EP8. Summer Strike",
+      "url": "https://open.spotify.com/track/13Ak3wAUHY28SB0PzvSj5F"
+    },
+    {
+      "album": {
+        "name": "Summer Strike Audio liners",
+        "url": "https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy"
+      },
+      "artists": [
+        {
+          "name": "Summer Strike",
+          "url": "https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19000,
+      "name": "EP9. Summer Strike",
+      "url": "https://open.spotify.com/track/6FPaAniNdRru6MVlgKmMMa"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 9 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/52qsYImTDRxS2IVZ5n8rnZ"
+      },
+      "artists": [
+        {
+          "name": "Kum Junhyeon",
+          "url": "https://open.spotify.com/artist/1OFbKzbdQhFvWfqQH8RXNB"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264840,
+      "name": "Hello, Stranger",
+      "url": "https://open.spotify.com/track/5YHYuTCyF50A70ixu1nkku"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 9 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/52qsYImTDRxS2IVZ5n8rnZ"
+      },
+      "artists": [
+        {
+          "name": "Kum Junhyeon",
+          "url": "https://open.spotify.com/artist/1OFbKzbdQhFvWfqQH8RXNB"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264840,
+      "name": "Hello, Stranger - Instrumental",
+      "url": "https://open.spotify.com/track/6xUba5wbv0FAs6TmAMedQt"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 12 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1x1azzo9YyhTc65qCKfEar"
+      },
+      "artists": [
+        {
+          "name": "Low-end project",
+          "url": "https://open.spotify.com/artist/5HECc7MQ1IoYk1H8MNrflW"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "I See You Like I See the Sun",
+      "url": "https://open.spotify.com/track/4grbG9wAAoFTbYnDBTkyrc"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 12 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1x1azzo9YyhTc65qCKfEar"
+      },
+      "artists": [
+        {
+          "name": "Low-end project",
+          "url": "https://open.spotify.com/artist/5HECc7MQ1IoYk1H8MNrflW"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "I See You Like I See the Sun - Instrumental",
+      "url": "https://open.spotify.com/track/6BLhiaQyo2VeYJkxyOFnUC"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
+      },
+      "artists": [
+        {
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254186,
+      "name": "I Will Remember You",
+      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
+      },
+      "artists": [
+        {
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254186,
+      "name": "I Will Remember You - Instrumental",
+      "url": "https://open.spotify.com/track/1OEDvTq8S0ytFdl2CGJBvv"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5XYEOk4tUO2uGZdRXYw7HL"
+      },
+      "artists": [
+        {
+          "name": "JIYOON",
+          "url": "https://open.spotify.com/artist/519qrDQ4c2KCau2Jm7jTQE"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217506,
+      "name": "I\u2032ll Wait",
+      "url": "https://open.spotify.com/track/0GHqJSl06IMIpMnVzZfuJd"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5XYEOk4tUO2uGZdRXYw7HL"
+      },
+      "artists": [
+        {
+          "name": "JIYOON",
+          "url": "https://open.spotify.com/artist/519qrDQ4c2KCau2Jm7jTQE"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217506,
+      "name": "I\u2032ll Wait - Instrumental",
+      "url": "https://open.spotify.com/track/6u206oNs5B288CxFrjKfoM"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "Lover - Instrumental",
+      "url": "https://open.spotify.com/track/3nsotf1EOYHKrZ3eKlggWN"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6t9MI2qmx8P65y39TftTcp"
+      },
+      "artists": [
+        {
+          "name": "Tearliner",
+          "url": "https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si"
+        },
+        {
+          "name": "Love X Stereo",
+          "url": "https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Me, the Protagonist (Feat. Love X Stereo)",
+      "url": "https://open.spotify.com/track/7EqTBT6pT9Dr76qjji90I3"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6t9MI2qmx8P65y39TftTcp"
+      },
+      "artists": [
+        {
+          "name": "Tearliner",
+          "url": "https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si"
+        },
+        {
+          "name": "Love X Stereo",
+          "url": "https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Me, the Protagonist (Feat. Love X Stereo) - Instrumental",
+      "url": "https://open.spotify.com/track/2cQJLE8LE5pQQsR1IvYQQl"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268853,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268853,
+      "name": "Summer Night - Instrumental",
+      "url": "https://open.spotify.com/track/6VWPtf2pUWVtwahFrU2j8d"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6jQLbSf1TkrPpA5kNuTWbj"
+      },
+      "artists": [
+        {
+          "name": "Tearliner",
+          "url": "https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si"
+        },
+        {
+          "name": "Bang Jae Min",
+          "url": "https://open.spotify.com/artist/0HzOCIGHmazaITu8kLibAp"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "We Swim in Dreams (Feat. Bang JaeMin)",
+      "url": "https://open.spotify.com/track/1eUsM8Wd2IGi0J6NeUoC7c"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6jQLbSf1TkrPpA5kNuTWbj"
+      },
+      "artists": [
+        {
+          "name": "Tearliner",
+          "url": "https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si"
+        },
+        {
+          "name": "Bang Jae Min",
+          "url": "https://open.spotify.com/artist/0HzOCIGHmazaITu8kLibAp"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "We Swim in Dreams (Feat. Bang JaeMin) - Instrumental",
+      "url": "https://open.spotify.com/track/7JbN325brlcmbL563UOW33"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kAXwLPooprklH4fTIDu3D"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152560,
+      "name": "ZERO MOMENT (Sung by HEESEUNG, JAY, JAKE) (Prod. tearliner)",
+      "url": "https://open.spotify.com/track/3I4yBsHErzJp7rUF2ruOzV"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kAXwLPooprklH4fTIDu3D"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152560,
+      "name": "ZERO MOMENT (Sung by HEESEUNG, JAY, JAKE) (Prod. tearliner) - Instrumental",
+      "url": "https://open.spotify.com/track/4zpwhZ5d11eqMtwayx8lrt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcdlnITQ87tu"
 }

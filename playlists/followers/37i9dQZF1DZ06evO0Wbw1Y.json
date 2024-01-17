@@ -1,100 +1,939 @@
 {
-  "2023-09-26": 27031,
-  "2023-09-27": 27031,
-  "2023-09-28": 27031,
-  "2023-09-29": 27031,
-  "2023-09-30": 27031,
-  "2023-10-01": 27031,
-  "2023-10-02": 27097,
-  "2023-10-03": 27097,
-  "2023-10-04": 27097,
-  "2023-10-05": 27136,
-  "2023-10-06": 27142,
-  "2023-10-07": 27142,
-  "2023-10-08": 27142,
-  "2023-10-09": 27142,
-  "2023-10-10": 27142,
-  "2023-10-11": 27178,
-  "2023-10-12": 27178,
-  "2023-10-13": 27178,
-  "2023-10-14": 27178,
-  "2023-10-15": 27178,
-  "2023-10-16": 27178,
-  "2023-10-17": 27178,
-  "2023-10-18": 27178,
-  "2023-10-19": 27178,
-  "2023-10-20": 27178,
-  "2023-10-21": 27178,
-  "2023-10-22": 27178,
-  "2023-10-23": 27178,
-  "2023-10-24": 27178,
-  "2023-10-25": 27178,
-  "2023-10-26": 27178,
-  "2023-10-27": 27178,
-  "2023-10-28": 27178,
-  "2023-10-29": 27178,
-  "2023-10-30": 27178,
-  "2023-10-31": 27178,
-  "2023-11-01": 27178,
-  "2023-11-02": 27178,
-  "2023-11-03": 27178,
-  "2023-11-04": 27178,
-  "2023-11-05": 27178,
-  "2023-11-06": 27178,
-  "2023-11-07": 27178,
-  "2023-11-08": 27178,
-  "2023-11-09": 27178,
-  "2023-11-10": 27178,
-  "2023-11-11": 27365,
-  "2023-11-12": 27365,
-  "2023-11-13": 27365,
-  "2023-11-14": 27365,
-  "2023-11-15": 27365,
-  "2023-11-16": 27365,
-  "2023-11-17": 27365,
-  "2023-11-18": 27365,
-  "2023-11-19": 27365,
-  "2023-11-20": 27365,
-  "2023-11-21": 27365,
-  "2023-11-22": 27365,
-  "2023-11-23": 27365,
-  "2023-11-24": 27365,
-  "2023-11-25": 27365,
-  "2023-11-26": 27365,
-  "2023-11-27": 27365,
-  "2023-11-28": 27365,
-  "2023-11-29": 27365,
-  "2023-11-30": 27365,
-  "2023-12-01": 27365,
-  "2023-12-02": 27365,
-  "2023-12-03": 27365,
-  "2023-12-04": 27365,
-  "2023-12-05": 27365,
-  "2023-12-06": 27365,
-  "2023-12-07": 27365,
-  "2023-12-08": 27365,
-  "2023-12-09": 27365,
-  "2023-12-10": 27365,
-  "2023-12-11": 27365,
-  "2023-12-12": 27365,
-  "2023-12-13": 27365,
-  "2023-12-14": 27553,
-  "2023-12-15": 27560,
-  "2023-12-16": 27559,
-  "2023-12-17": 27565,
-  "2023-12-18": 27567,
-  "2023-12-19": 27573,
-  "2023-12-20": 27580,
-  "2023-12-21": 27590,
-  "2023-12-22": 27595,
-  "2023-12-23": 27602,
-  "2023-12-24": 27605,
-  "2023-12-25": 27615,
-  "2023-12-26": 27614,
-  "2023-12-27": 27619,
-  "2023-12-30": 27631,
-  "2023-12-31": 27637,
-  "2024-01-01": 27639,
-  "2024-01-02": 27642,
-  "2024-01-03": 27645
+  "2024-01-17": 27636,
+  "date_first_scraped": "2023-09-26",
+  "description": "This is Ventino. The essential tracks, all in one playlist.",
+  "name": "This Is Ventino",
+  "tracks": [
+    {
+      "album": {
+        "name": "AL\u00d3",
+        "url": "https://open.spotify.com/album/5pAD2S8xRypRkMR2WqwqhH"
+      },
+      "artists": [
+        {
+          "name": "Kexxy Pardo",
+          "url": "https://open.spotify.com/artist/2m6kEXGT6VWc6JqJj36iBx"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "AL\u00d3",
+      "url": "https://open.spotify.com/track/4e9MlCrkbOFfy0xlYJfQsM"
+    },
+    {
+      "album": {
+        "name": "Andan Diciendo",
+        "url": "https://open.spotify.com/album/4QnRBgWvHDjy8i1buxbHxh"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221345,
+      "name": "Andan Diciendo",
+      "url": "https://open.spotify.com/track/0wt2PeQ8AeBlx6WbgoM97r"
+    },
+    {
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208468,
+      "name": "Apaga Y V\u00e1monos",
+      "url": "https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P"
+    },
+    {
+      "album": {
+        "name": "Ay, Ay (feat. Ventino) [El Viaje de Matisse]",
+        "url": "https://open.spotify.com/album/76SyibMosP4WpwjJkPuB2L"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206818,
+      "name": "Ay, Ay (feat. Ventino) - El Viaje de Matisse",
+      "url": "https://open.spotify.com/track/57ArSJkTCbaoYzKKpgbOTS"
+    },
+    {
+      "album": {
+        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154475,
+      "name": "Besos En La Herida - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ"
+    },
+    {
+      "album": {
+        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150650,
+      "name": "Bueno Para Mi - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3GvCjdrQeL1bYb32FelX1F"
+    },
+    {
+      "album": {
+        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Caramelo - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD"
+    },
+    {
+      "album": {
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+    },
+    {
+      "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181253,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
+    },
+    {
+      "album": {
+        "name": "De 0 a 100",
+        "url": "https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168645,
+      "name": "De 0 a 100",
+      "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
+    },
+    {
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216709,
+      "name": "Don Juan",
+      "url": "https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c"
+    },
+    {
+      "album": {
+        "name": "Gracias (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/6pK8dM0NsFG6TFAtulkSPT"
+      },
+      "artists": [
+        {
+          "name": "Gemeliers",
+          "url": "https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "Duele (feat. Ventino)",
+      "url": "https://open.spotify.com/track/52AClUAz3QrSZA43YB6lTj"
+    },
+    {
+      "album": {
+        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "Entre Mis Planes - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/4u1nJinarCNYXhbyE9LIb3"
+    },
+    {
+      "album": {
+        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188162,
+      "name": "Equivocarse - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3jJshgZPbc6glVBW9HLFKf"
+    },
+    {
+      "album": {
+        "name": "Esta Vez",
+        "url": "https://open.spotify.com/album/4gpvDutq90VNgBZx63Xu4i"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163599,
+      "name": "Esta Vez",
+      "url": "https://open.spotify.com/track/59TY6qwu9lY4HRHM1oDGiv"
+    },
+    {
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192926,
+      "name": "Est\u00e1s",
+      "url": "https://open.spotify.com/track/190oPZ25kanU2CRpgi801e"
+    },
+    {
+      "album": {
+        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        },
+        {
+          "name": "Santiago Deluchi",
+          "url": "https://open.spotify.com/artist/4FDLd6nJ3NvbKRSORCS8yD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 174259,
+      "name": "Explicaci\u00f3n (feat. Santiago Deluchi) - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX"
+    },
+    {
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170253,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
+    },
+    {
+      "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
+    },
+    {
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "La Vida Sin Ti",
+      "url": "https://open.spotify.com/track/382e4hfqVal6gfgYyLUHsp"
+    },
+    {
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150424,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"
+    },
+    {
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223845,
+      "name": "Me Equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/1Ab8LMRP4syFbYZKtGUwss"
+    },
+    {
+      "album": {
+        "name": "Me Fui (feat. Ventino, Fonseca, Sebasti\u00e1n Yatra, Fanny Lu, Silvestre Dangond, Sanluis, Debi Nova, V\u00edctor Mu\u00f1oz, Raquel Sof\u00eda, Juan Fernando Velasco, Leslie Shaw, Astrid Marrufo, C\u00e1ceres & Javier Ramirez)",
+        "url": "https://open.spotify.com/album/2WO4Ko4ORAgpsDKxElhVWn"
+      },
+      "artists": [
+        {
+          "name": "Reymar Perdomo",
+          "url": "https://open.spotify.com/artist/3mKNs1BpDd1EAV5E092DoV"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Sanluis",
+          "url": "https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW"
+        },
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Victor Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2"
+        },
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        },
+        {
+          "name": "Juan Fernando Velasco",
+          "url": "https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc"
+        },
+        {
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
+        },
+        {
+          "name": "Astrid Marrufo",
+          "url": "https://open.spotify.com/artist/75p41b1yD0vd1lmqRnqMDH"
+        },
+        {
+          "name": "C\u00e1ceres",
+          "url": "https://open.spotify.com/artist/2t4XAHrGmzB8cf7C6Mxs8B"
+        },
+        {
+          "name": "Javier Ramirez",
+          "url": "https://open.spotify.com/artist/1mnpwqA6YGDJwxlqnolGUu"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277008,
+      "name": "Me Fui (feat. Ventino, Fonseca, Sebasti\u00e1n Yatra, Fanny Lu, Silvestre Dangond, Sanluis, Debi Nova, V\u00edctor Mu\u00f1oz, Raquel Sof\u00eda, Juan Fernando Velasco, Leslie Shaw, Astrid Marrufo, C\u00e1ceres & Javier Ramirez)",
+      "url": "https://open.spotify.com/track/3EhH4i5AUelnfGKoNxiEZm"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Fuertes (feat. Andr\u00e9s Cepeda, Francy, Pedrina & Martina La Peligrosa)",
+        "url": "https://open.spotify.com/album/1PMFRNKwAlOrOg2tmIcfgR"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        },
+        {
+          "name": "Martina La Peligrosa",
+          "url": "https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183339,
+      "name": "M\u00e1s Fuertes (feat. Andr\u00e9s Cepeda, Francy, Pedrina & Martina La Peligrosa)",
+      "url": "https://open.spotify.com/track/1Almzz97LopTjEDLILaNEE"
+    },
+    {
+      "album": {
+        "name": "No Se Me Ve Tan Mal (NSMVTM)",
+        "url": "https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165473,
+      "name": "No Se Me Ve Tan Mal (NSMVTM)",
+      "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
+    },
+    {
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198112,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2"
+    },
+    {
+      "album": {
+        "name": "Para No Esperarte M\u00e1s",
+        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178295,
+      "name": "Para No Esperarte M\u00e1s",
+      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
+    },
+    {
+      "album": {
+        "name": "Popurr\u00ed de Juan Gabriel",
+        "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294653,
+      "name": "Popurr\u00ed de Juan Gabriel",
+      "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
+    },
+    {
+      "album": {
+        "name": "Por Qu\u00e9 Te Vas",
+        "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201190,
+      "name": "Por Qu\u00e9 Te Vas",
+      "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
+    },
+    {
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218656,
+      "name": "Prometo Olvidarte",
+      "url": "https://open.spotify.com/track/5ONHx9f5hz0N0sAa5GCanh"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n Como T\u00fa (Amazon Original)",
+        "url": "https://open.spotify.com/album/7rMM6AFd033KI3CsuZateJ"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169329,
+      "name": "Qui\u00e9n Como T\u00fa (Amazon Original)",
+      "url": "https://open.spotify.com/track/70uI28CvYn53Pdrup7l2Zf"
+    },
+    {
+      "album": {
+        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143737,
+      "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
+    },
+    {
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189996,
+      "name": "Qu\u00e9 Hubiera Sido",
+      "url": "https://open.spotify.com/track/1o7gmHtkprmJO4Vl0qzMPW"
+    },
+    {
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188888,
+      "name": "Si Decides (Baby)",
+      "url": "https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop"
+    },
+    {
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Rom\u00e1n Torres",
+          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195488,
+      "name": "Soltar Tu Mano (feat. Rom\u00e1n Torres)",
+      "url": "https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj"
+    },
+    {
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163210,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
+    },
+    {
+      "album": {
+        "name": "Te Dejo Entrar",
+        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192845,
+      "name": "Te Dejo Entrar",
+      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
+    },
+    {
+      "album": {
+        "name": "Vente Conmigo",
+        "url": "https://open.spotify.com/album/1CKNBmaZlEykmtliyZ9UUB"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165041,
+      "name": "Vente Conmigo",
+      "url": "https://open.spotify.com/track/2WAkGjiJDJToPvhLk7eubT"
+    },
+    {
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222480,
+      "name": "Volverte a O\u00edr",
+      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
+    },
+    {
+      "album": {
+        "name": "V\u00e1monos Antes",
+        "url": "https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210406,
+      "name": "V\u00e1monos Antes",
+      "url": "https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5"
+    },
+    {
+      "album": {
+        "name": "Ya No Quiero Amarte",
+        "url": "https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188729,
+      "name": "Ya No Quiero Amarte",
+      "url": "https://open.spotify.com/track/5aa5ycJnO3yDcmSjihjyBu"
+    },
+    {
+      "album": {
+        "name": "Ya Te Perdon\u00e9",
+        "url": "https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221848,
+      "name": "Ya Te Perdon\u00e9",
+      "url": "https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl"
+    },
+    {
+      "album": {
+        "name": "Yo Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/2GNs6TNh2SOt14bYTtTdlz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177057,
+      "name": "Yo Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/69WQFSP8koVnREo2xapcnZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Wbw1Y"
 }

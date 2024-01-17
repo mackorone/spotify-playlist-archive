@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 
 > Tous vos Hits Disney préférés, y compris les chansons de "Wish: Asha et la bonne étoile".
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,822 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,445 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 | 92 | [Au détour de la rivière \- De "Pocahontas, Une Légende Indienne"/Bande Originale Française du Film](https://open.spotify.com/track/31ZEooXkUL7ZhNvcuKcBfy) | [Laura Mayne](https://open.spotify.com/artist/6jhjbQ42Cp107uBCzr2Wfr) | [Pocahontas, Une Légende Indienne \(Bande Originale Française du Film\)](https://open.spotify.com/album/3HkPvUe2kaXsrh4guMIVBx) | 2:27 |
 | 93 | [Il vit en toi \- Extrait de "Le roi lion 2"](https://open.spotify.com/track/0O7iSKxuvENgKJgcxZiRA7) | [Cerise Calixte](https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP) | [Cerise chante Disney](https://open.spotify.com/album/4FnIWttm1PSxROpp2daoLs) | 3:39 |
 
-Snapshot ID: `MCxiNzk4YWIyZmNmMDczZDgxMDAzOWIzMWYyNmM3MGM0ZjBkNDc5MjRk`
+Snapshot ID: `MCw1Y2RhZjNmY2ZjOTllYTI2ZDY5ODBlNTAzMmQ3YzNmYTNhYzU2YzIy`

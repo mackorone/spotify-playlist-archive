@@ -1,15 +1,35 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 123243,
+  "num_followers": 123648,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDAyN2IyOGFjODczMDBjYmIxNzgwZTYyMTRkNjFjODA2NA==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDA4ZjliMmIwNzk0ZTNiYmEwZmEyY2Y0NjBiODc3ZTdkMw==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Vas a Destrozarme (Versi\u00f3n Eden Mu\u00f1oz)",
+        "url": "https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 177654,
+      "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
+      "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Llorar y Llorar (con Carin Leon)",
         "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
@@ -53,7 +73,7 @@
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Ya No Tiene Novio",
         "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Mal Acostumbrao (con Maria Becerra)",
         "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
@@ -93,43 +113,7 @@
       "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Vas a Destrozarme",
-        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Vas a Destrozarme",
-      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 206279,
-      "name": "La Boca",
-      "url": "https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "La Boca Junta",
         "url": "https://open.spotify.com/album/5KiFt9khw9XuwkFCQ6ZTtB"
@@ -149,7 +133,27 @@
       "url": "https://open.spotify.com/track/0wA3AZzA0gp0wfSS0SpZt5"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 206279,
+      "name": "La Boca",
+      "url": "https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Prende la C\u00e1mara RMX",
         "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
@@ -173,7 +177,7 @@
       "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Manos Fr\u00edas (con Reik, Be\u00e9le)",
         "url": "https://open.spotify.com/album/2CmFiY185Jg2DeXasl2Pxo"
@@ -197,7 +201,7 @@
       "url": "https://open.spotify.com/track/14SFx9btIIv81LSbaajTv1"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Besos en Cualquier Horario",
         "url": "https://open.spotify.com/album/6zCIUD6SfbJWpDy7YBzH7h"
@@ -221,7 +225,7 @@
       "url": "https://open.spotify.com/track/31nEAXAPZTr21xzxCxF38a"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Am\u00e9n",
         "url": "https://open.spotify.com/album/78lYOKWnja1dwjaX8kHeP5"
@@ -249,7 +253,7 @@
       "url": "https://open.spotify.com/track/7AjcJrynzHWlawo87kafY2"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
@@ -281,7 +285,7 @@
       "url": "https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
@@ -301,7 +305,7 @@
       "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Himno A La Alegr\u00eda",
         "url": "https://open.spotify.com/album/79GsPr84E13Bbm3VjwZ6PW"
@@ -465,27 +469,7 @@
       "url": "https://open.spotify.com/track/7F5rc8a0xD6DCloB2kROq9"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Cachito",
-        "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Cachito",
-      "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
@@ -505,7 +489,27 @@
       "url": "https://open.spotify.com/track/5hXlAWrc8L8hYhxUnXlqFf"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Cachito",
+        "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 188546,
+      "name": "Cachito",
+      "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Qu\u00e9 Tienes T\u00fa (feat. Jes\u00fas de Reik & Mau y Ricky)",
         "url": "https://open.spotify.com/album/694hCUyeR4sSjV7J1mu0dO"
@@ -529,7 +533,7 @@
       "url": "https://open.spotify.com/track/4txQPJDlvU72lC6EMhT7m9"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Cocoterapia",
         "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
@@ -549,7 +553,7 @@
       "url": "https://open.spotify.com/track/3m4nEtqr8vaHJCfc6yjasu"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
@@ -565,7 +569,7 @@
       "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Sigo Buscandote",
         "url": "https://open.spotify.com/album/791xP0ZKGxYQtZo5CbUOXM"
@@ -585,7 +589,7 @@
       "url": "https://open.spotify.com/track/4z2c6wyTY9xgiPYUvznwUE"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Me Enamora",
         "url": "https://open.spotify.com/album/1dig8YSzW8UrxJ89D1iSC2"
@@ -601,27 +605,7 @@
       "url": "https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "DESGENERADOS MIXTAPE",
-        "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Ex (con La Joaqui)",
-      "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "3 de La Ma\u00f1ana (con Sebasti\u00e1n Yatra & Mora)",
         "url": "https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt"
@@ -645,23 +629,7 @@
       "url": "https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "rifresh",
-        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 177515,
-      "name": "Doler\u00eda",
-      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
@@ -677,7 +645,43 @@
       "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "DESGENERADOS MIXTAPE",
+        "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "Ex (con La Joaqui)",
+      "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 177515,
+      "name": "Doler\u00eda",
+      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Qu\u00e9 Dir\u00edas?",
         "url": "https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM"
@@ -693,27 +697,7 @@
       "url": "https://open.spotify.com/track/3HPvXWekjDqIppRxhpHkDT"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "La Chama",
-        "url": "https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 192286,
-      "name": "La Chama",
-      "url": "https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/4lr74mf49nDttiWXbwmD0K"
@@ -741,7 +725,27 @@
       "url": "https://open.spotify.com/track/2OWlM0rndaLjgtiLCHDIRM"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "La Chama",
+        "url": "https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 192286,
+      "name": "La Chama",
+      "url": "https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Brava",
         "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
@@ -761,7 +765,7 @@
       "url": "https://open.spotify.com/track/5rUNrHC5b0oYanaw370Ncz"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "No Puede Ser (con Eladio Carrion)",
         "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
@@ -781,7 +785,7 @@
       "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Una y Mil Veces",
         "url": "https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa"
@@ -801,27 +805,7 @@
       "url": "https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Faldita",
-        "url": "https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA"
-      },
-      "artists": [
-        {
-          "name": "Leslie Shaw",
-          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 190193,
-      "name": "Faldita",
-      "url": "https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz"
@@ -841,7 +825,27 @@
       "url": "https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Faldita",
+        "url": "https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA"
+      },
+      "artists": [
+        {
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 190193,
+      "name": "Faldita",
+      "url": "https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Bota Fuego (feat. D\u00edmelo Flow, Justin Quiles & Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/45YWYjXP1nV0l61m50E5dL"
@@ -877,7 +881,7 @@
       "url": "https://open.spotify.com/track/4MxYiw28F30NGOaTZ1ySqd"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "PAP\u00c1S",
         "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
@@ -893,7 +897,7 @@
       "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "OTRA COSA",
         "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
@@ -913,7 +917,23 @@
       "url": "https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 155256,
+      "name": "Japonesa",
+      "url": "https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Despi\u00e9rtate",
         "url": "https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF"
@@ -937,23 +957,7 @@
       "url": "https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 155256,
-      "name": "Japonesa",
-      "url": "https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Cari\u00f1o M\u00edo",
         "url": "https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz"
@@ -973,7 +977,39 @@
       "url": "https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "La Grosera",
+        "url": "https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 158626,
+      "name": "La Grosera",
+      "url": "https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 195608,
+      "name": "Darnos Un Tiempo",
+      "url": "https://open.spotify.com/track/1zaALt2FHgNUrOg5jzFF8J"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Ya T\u00fa Me Conoces",
         "url": "https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj"
@@ -993,39 +1029,7 @@
       "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "rifresh",
-        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 195608,
-      "name": "Darnos Un Tiempo",
-      "url": "https://open.spotify.com/track/1zaALt2FHgNUrOg5jzFF8J"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "La Grosera",
-        "url": "https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 158626,
-      "name": "La Grosera",
-      "url": "https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "No Es Normal (con Jay Wheeler)",
         "url": "https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX"
@@ -1045,7 +1049,7 @@
       "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Ya No Tiene Novio (Remix)",
         "url": "https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3"
@@ -1073,7 +1077,7 @@
       "url": "https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "No Hace Falta Que Lo Digas",
         "url": "https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ"
@@ -1093,7 +1097,7 @@
       "url": "https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
@@ -1113,7 +1117,7 @@
       "url": "https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf"
@@ -1129,7 +1133,7 @@
       "url": "https://open.spotify.com/track/15P95UWBRfUDrB9Ok8AKtu"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
@@ -1149,7 +1153,7 @@
       "url": "https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Vivir Sin Ti (con CNCO)",
         "url": "https://open.spotify.com/album/5ABQADzHNwWS2DoftWlvIS"
@@ -1169,7 +1173,23 @@
       "url": "https://open.spotify.com/track/5MVwgz47Vk7xknqySz0376"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "OUCH",
+      "url": "https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "DESGENERADOS MIXTAPE",
         "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"

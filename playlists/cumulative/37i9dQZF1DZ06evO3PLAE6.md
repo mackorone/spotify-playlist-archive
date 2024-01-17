@@ -4,7 +4,7 @@
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 12 min
+56 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Hey \(with Paul Kelly\)](https://open.spotify.com/track/3XnN1OhwOLTYjDB1UR3Sx8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:07 | 2023-06-17 |  |
 | [Hollywood](https://open.spotify.com/track/7KlvXLOb3z0UFX0uBHG0x6) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 3:29 | 2023-06-17 |  |
 | [I Still Pray](https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 4:31 | 2023-06-17 |  |
-| [If We Had A Child](https://open.spotify.com/track/1vMyByVaRTqcb6YLwf4cfp) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Dragonfly](https://open.spotify.com/album/2R38JdMDjMAxJ0pQmfnQvG) | 3:40 | 2023-06-17 |  |
+| [If We Had A Child](https://open.spotify.com/track/1vMyByVaRTqcb6YLwf4cfp) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Dragonfly](https://open.spotify.com/album/2R38JdMDjMAxJ0pQmfnQvG) | 3:40 | 2023-06-17 | 2024-01-06 |
 | [jewel moon](https://open.spotify.com/track/3OYyxVA9XDYCqJqTNhxjaR) | [harry hook is real](https://open.spotify.com/artist/3z4MFm15zrdNOIBh7y2d33), [Elly Poletti](https://open.spotify.com/artist/66N0DhPufyHCFxVodma0rm), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [The Strzelecki Stringbusters](https://open.spotify.com/artist/01e11TEyqvqREU3HAZW0Sq) | [A BEAST IS ME](https://open.spotify.com/album/6lTAD8u0rkeVfmPlwPl1Mc) | 3:24 | 2024-01-02 |  |
 | [Last Hard Bible](https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 2:23 | 2023-06-17 |  |
 | [Like A River](https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 3:56 | 2023-06-17 |  |
@@ -56,6 +56,7 @@
 | [Tori](https://open.spotify.com/track/0zMCWK0HzPd9m9RW2xTvlx) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Extraordinary Girl](https://open.spotify.com/album/2sXotAqmWDIBvPO4jbFFUp) | 3:10 | 2023-06-17 | 2023-09-16 |
 | [True Colours](https://open.spotify.com/track/6aRJ3Z7TpCpj58CjOwSSh2) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [True Colours](https://open.spotify.com/album/2vlKm70T2lTLawrgDGaK7v) | 3:47 | 2023-06-17 |  |
 | [Walk a Country Mile](https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Troy Cassar\-Daley](https://open.spotify.com/artist/0fP6sL5Q937oEJ5IawnlBM) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:46 | 2023-06-17 |  |
+| [Water In The Fuel](https://open.spotify.com/track/1LbTU7V7cis87D7qgyAD4u) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 4:43 | 2024-01-07 | 2024-01-09 |
 | [Wayward Angel](https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 5:00 | 2023-12-22 |  |
 | [We're All Gonna Die Someday](https://open.spotify.com/track/4Yzt8bQMvDk2YfKamGLAxR) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 2:09 | 2023-06-17 |  |
 | [When We’re Both Old & Mad](https://open.spotify.com/track/4dx684GtAUi86s1bzstO65) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Songs From The South: Paul Kelly's Greatest Hits 1985\-2019](https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a) | 2:22 | 2023-06-17 |  |

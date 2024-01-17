@@ -1,156 +1,1385 @@
 {
-  "2023-08-01": 33644,
-  "2023-08-02": 33721,
-  "2023-08-03": 33814,
-  "2023-08-04": 33895,
-  "2023-08-05": 33979,
-  "2023-08-06": 34137,
-  "2023-08-07": 34137,
-  "2023-08-08": 34224,
-  "2023-08-09": 34336,
-  "2023-08-10": 34427,
-  "2023-08-11": 34488,
-  "2023-08-12": 34562,
-  "2023-08-13": 34646,
-  "2023-08-14": 34707,
-  "2023-08-15": 34906,
-  "2023-08-16": 34906,
-  "2023-08-17": 34996,
-  "2023-08-18": 35071,
-  "2023-08-19": 35137,
-  "2023-08-20": 35216,
-  "2023-08-21": 35316,
-  "2023-08-22": 35423,
-  "2023-08-23": 35540,
-  "2023-08-24": 35672,
-  "2023-08-25": 35770,
-  "2023-08-26": 35881,
-  "2023-08-27": 35971,
-  "2023-08-28": 36067,
-  "2023-08-29": 36178,
-  "2023-08-30": 36284,
-  "2023-08-31": 36401,
-  "2023-09-01": 36540,
-  "2023-09-02": 36540,
-  "2023-09-03": 36585,
-  "2023-09-04": 36650,
-  "2023-09-05": 36722,
-  "2023-09-06": 36798,
-  "2023-09-07": 36873,
-  "2023-09-08": 36935,
-  "2023-09-09": 36986,
-  "2023-09-10": 37042,
-  "2023-09-11": 37105,
-  "2023-09-12": 37188,
-  "2023-09-13": 37285,
-  "2023-09-14": 37353,
-  "2023-09-15": 37418,
-  "2023-09-16": 37470,
-  "2023-09-17": 37513,
-  "2023-09-18": 37573,
-  "2023-09-19": 37652,
-  "2023-09-20": 37714,
-  "2023-09-21": 37785,
-  "2023-09-22": 37853,
-  "2023-09-23": 37923,
-  "2023-09-24": 37988,
-  "2023-09-25": 38053,
-  "2023-09-26": 38144,
-  "2023-09-27": 38198,
-  "2023-09-28": 38263,
-  "2023-09-29": 38314,
-  "2023-09-30": 38360,
-  "2023-10-01": 38408,
-  "2023-10-02": 38477,
-  "2023-10-03": 38525,
-  "2023-10-04": 38616,
-  "2023-10-05": 38686,
-  "2023-10-06": 38725,
-  "2023-10-07": 38764,
-  "2023-10-08": 38808,
-  "2023-10-09": 38851,
-  "2023-10-10": 38908,
-  "2023-10-11": 39003,
-  "2023-10-12": 39003,
-  "2023-10-13": 39041,
-  "2023-10-14": 39087,
-  "2023-10-15": 39127,
-  "2023-10-16": 39182,
-  "2023-10-17": 39221,
-  "2023-10-18": 39264,
-  "2023-10-19": 39313,
-  "2023-10-20": 39351,
-  "2023-10-21": 39386,
-  "2023-10-22": 39415,
-  "2023-10-23": 39458,
-  "2023-10-24": 39491,
-  "2023-10-25": 39529,
-  "2023-10-26": 39589,
-  "2023-10-27": 39633,
-  "2023-10-28": 39633,
-  "2023-10-29": 39633,
-  "2023-10-30": 39756,
-  "2023-10-31": 39756,
-  "2023-11-01": 39835,
-  "2023-11-02": 39878,
-  "2023-11-03": 39900,
-  "2023-11-04": 39900,
-  "2023-11-05": 39964,
-  "2023-11-06": 39998,
-  "2023-11-07": 40034,
-  "2023-11-08": 40091,
-  "2023-11-09": 40128,
-  "2023-11-10": 40176,
-  "2023-11-11": 40224,
-  "2023-11-12": 40262,
-  "2023-11-13": 40306,
-  "2023-11-14": 40341,
-  "2023-11-15": 40341,
-  "2023-11-16": 40418,
-  "2023-11-17": 40505,
-  "2023-11-18": 40505,
-  "2023-11-19": 40542,
-  "2023-11-20": 40563,
-  "2023-11-21": 40612,
-  "2023-11-22": 40647,
-  "2023-11-23": 40712,
-  "2023-11-24": 40712,
-  "2023-11-25": 40794,
-  "2023-11-26": 40840,
-  "2023-11-27": 40886,
-  "2023-11-28": 40944,
-  "2023-11-29": 41010,
-  "2023-11-30": 41010,
-  "2023-12-01": 41040,
-  "2023-12-02": 41079,
-  "2023-12-03": 41120,
-  "2023-12-04": 41120,
-  "2023-12-05": 41252,
-  "2023-12-06": 41373,
-  "2023-12-07": 41479,
-  "2023-12-08": 41623,
-  "2023-12-09": 41756,
-  "2023-12-10": 41756,
-  "2023-12-11": 42073,
-  "2023-12-12": 42073,
-  "2023-12-13": 42339,
-  "2023-12-14": 42540,
-  "2023-12-15": 42655,
-  "2023-12-16": 42785,
-  "2023-12-17": 42887,
-  "2023-12-18": 43026,
-  "2023-12-19": 43159,
-  "2023-12-20": 43278,
-  "2023-12-21": 43410,
-  "2023-12-22": 43523,
-  "2023-12-23": 43637,
-  "2023-12-24": 43744,
-  "2023-12-25": 43835,
-  "2023-12-26": 43937,
-  "2023-12-27": 44074,
-  "2023-12-30": 44445,
-  "2023-12-31": 44571,
-  "2024-01-01": 44664,
-  "2024-01-02": 44793,
-  "2024-01-03": 44916
+  "2024-01-17": 47030,
+  "date_first_scraped": "2023-08-01",
+  "description": "A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy. ",
+  "name": "741 Hz",
+  "tracks": [
+    {
+      "album": {
+        "name": "Chakra Flow: Music for Movement & Meditation",
+        "url": "https://open.spotify.com/album/1iPS91BVKaB5hLIKA54ma7"
+      },
+      "artists": [
+        {
+          "name": "Cello Yoga",
+          "url": "https://open.spotify.com/artist/62g0nfirowBxJguqiRMIXF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 376058,
+      "name": "5th Chakra: Throat Chakra (Vishuddha Chakra)",
+      "url": "https://open.spotify.com/track/3Ao3Ge9ZH5FnwNvw2tBkhD"
+    },
+    {
+      "album": {
+        "name": "741 Hz (Release Throat Tension)",
+        "url": "https://open.spotify.com/album/4Y6FNGFZeEk5Uip6NnrTkh"
+      },
+      "artists": [
+        {
+          "name": "Cypress West",
+          "url": "https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "741 Hz (Release Throat Tension)",
+      "url": "https://open.spotify.com/track/1ZWfhKMpuLuPpMoPjkcX2i"
+    },
+    {
+      "album": {
+        "name": "741 Hz (Throat Chakra)",
+        "url": "https://open.spotify.com/album/2cBvAlBQMQY6uFOBvxYabU"
+      },
+      "artists": [
+        {
+          "name": "Restwaves: Sounds For Sleep",
+          "url": "https://open.spotify.com/artist/1P80vuBJwi7nahhDkbHlcq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "741 Hz (Vishuddha)",
+      "url": "https://open.spotify.com/track/3uyKU6tuzwuMRzx5rMZgnL"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Frequencies - Astral Distance",
+        "url": "https://open.spotify.com/album/7AO6LwT9dJ8mJBl45IOQUv"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89298,
+      "name": "741 Hz - Astral Distance",
+      "url": "https://open.spotify.com/track/0wGBZg7LEGYuYCwm6IlM7w"
+    },
+    {
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/1L0LIBh6QlyyHGmN6mwQVh"
+      },
+      "artists": [
+        {
+          "name": "Aegean Noise",
+          "url": "https://open.spotify.com/artist/0lGHTzI7DtmSGJq85VGjuH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182118,
+      "name": "741 Hz - Atmosphere",
+      "url": "https://open.spotify.com/track/33hYWA9nh4sEmNt3mUAH67"
+    },
+    {
+      "album": {
+        "name": "Campo Visivo",
+        "url": "https://open.spotify.com/album/42r7GNrwblY7xpMzwvxxpX"
+      },
+      "artists": [
+        {
+          "name": "Gaia Rosica",
+          "url": "https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111451,
+      "name": "741 Hz - Campo Visivo",
+      "url": "https://open.spotify.com/track/0rc3KsMoheqmvB2cfJpjXY"
+    },
+    {
+      "album": {
+        "name": "Chasing Waterfalls",
+        "url": "https://open.spotify.com/album/5M4eCFjPUz8M4QkQeeUnuE"
+      },
+      "artists": [
+        {
+          "name": "Arnaut",
+          "url": "https://open.spotify.com/artist/0U9aA1N7gWqV5g3lfqTrld"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-01",
+      "duration_ms": 123556,
+      "name": "741 Hz - Chasing Waterfalls",
+      "url": "https://open.spotify.com/track/0gnoezCwZOJvjHG1e7yinI"
+    },
+    {
+      "album": {
+        "name": "Clarity Solfeggio",
+        "url": "https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p"
+      },
+      "artists": [
+        {
+          "name": "Guyara",
+          "url": "https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135926,
+      "name": "741 Hz - Clarity Solfeggio",
+      "url": "https://open.spotify.com/track/5ir1sEXlM4Pfn5sRYrsPld"
+    },
+    {
+      "album": {
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/5LkYY5LmpJiKvjv60XrLEc"
+      },
+      "artists": [
+        {
+          "name": "Koh Lantana",
+          "url": "https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94041,
+      "name": "741 Hz - Dimensions",
+      "url": "https://open.spotify.com/track/29ELulu0pbTUOD4NxgIJ7E"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Frequencies - Dreaming",
+        "url": "https://open.spotify.com/album/4CDtshYZuEoPqtrHva3ssW"
+      },
+      "artists": [
+        {
+          "name": "Shiroishi",
+          "url": "https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71719,
+      "name": "741 Hz - Dreaming",
+      "url": "https://open.spotify.com/track/6aTQs9khoKO0L4IDpKkYC2"
+    },
+    {
+      "album": {
+        "name": "Einmanaleika",
+        "url": "https://open.spotify.com/album/4LOI2lsEAZQj5vzeoVyp2T"
+      },
+      "artists": [
+        {
+          "name": "Afturkalla",
+          "url": "https://open.spotify.com/artist/5oPcLgpF7oNZ7eiuTZsohZ"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138296,
+      "name": "741 Hz - Einmanaleika",
+      "url": "https://open.spotify.com/track/3eNQCM0uLt7zKDbaBgwnzQ"
+    },
+    {
+      "album": {
+        "name": "Escape Gravity",
+        "url": "https://open.spotify.com/album/6Q5SJIXsAhHNl2HuQsep69"
+      },
+      "artists": [
+        {
+          "name": "Juni Tinley",
+          "url": "https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109106,
+      "name": "741 Hz - Escape Gravity",
+      "url": "https://open.spotify.com/track/4Za66VKFYlJS4bqWj2LeyY"
+    },
+    {
+      "album": {
+        "name": "Ethereal Sleep - Solfeggio",
+        "url": "https://open.spotify.com/album/2lvIKEO0zvEuaV0tA9hcCj"
+      },
+      "artists": [
+        {
+          "name": "Solvekin",
+          "url": "https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123344,
+      "name": "741 Hz - Ethereal Sleep",
+      "url": "https://open.spotify.com/track/5M1q59U0dLsSFtf1xr2bBz"
+    },
+    {
+      "album": {
+        "name": "Love Frequencies",
+        "url": "https://open.spotify.com/album/2ssnnukfZzdMCQojhzMK51"
+      },
+      "artists": [
+        {
+          "name": "Aegean Noise",
+          "url": "https://open.spotify.com/artist/0lGHTzI7DtmSGJq85VGjuH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116127,
+      "name": "741 Hz - Love Frequencies",
+      "url": "https://open.spotify.com/track/4UUpDUTPxXNJ2hsMAeQrVR"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Frequencies - Miracle Tone",
+        "url": "https://open.spotify.com/album/1FeOwrv5KIrJp5znjhqUrQ"
+      },
+      "artists": [
+        {
+          "name": "Mindful Behaviour",
+          "url": "https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95359,
+      "name": "741 Hz - Miracle Tone",
+      "url": "https://open.spotify.com/track/5fQxqgnJB4ictkKB2NBwYM"
+    },
+    {
+      "album": {
+        "name": "Quiet Stars",
+        "url": "https://open.spotify.com/album/7HtP4dHkmBSY6bmEzRUqAg"
+      },
+      "artists": [
+        {
+          "name": "Advaitas",
+          "url": "https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115170,
+      "name": "741 Hz - Quiet Stars",
+      "url": "https://open.spotify.com/track/3JU6dvPmFRDisSGmxo7WNd"
+    },
+    {
+      "album": {
+        "name": "Sedang Tidur Part II",
+        "url": "https://open.spotify.com/album/14g28ydElevtgofcH7Br51"
+      },
+      "artists": [
+        {
+          "name": "La-Mu",
+          "url": "https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147121,
+      "name": "741 Hz - Sedang Tidur Part II",
+      "url": "https://open.spotify.com/track/4qK6t9XAnlZ5XsYfK1MA7l"
+    },
+    {
+      "album": {
+        "name": "Soledad Tranquilo",
+        "url": "https://open.spotify.com/album/6kEm1ctmep8BwLjbNaWjhF"
+      },
+      "artists": [
+        {
+          "name": "Inkognitone",
+          "url": "https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128343,
+      "name": "741 Hz - Soledad Tranquilo",
+      "url": "https://open.spotify.com/track/2pBwYh3pLOfK14B1dSRHQy"
+    },
+    {
+      "album": {
+        "name": "Solfeggio For Clarity",
+        "url": "https://open.spotify.com/album/2w7B92xiafwo6yJN15d7UM"
+      },
+      "artists": [
+        {
+          "name": "Theta Aum",
+          "url": "https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108290,
+      "name": "741 Hz - Solfeggio For Clarity",
+      "url": "https://open.spotify.com/track/0CGM9tq2w7KIocnDllcEb9"
+    },
+    {
+      "album": {
+        "name": "Talentueuse",
+        "url": "https://open.spotify.com/album/34cHAvwkGQnYto6Ze7Hii3"
+      },
+      "artists": [
+        {
+          "name": "Darcel Gau",
+          "url": "https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140868,
+      "name": "741 Hz - Talentueuse",
+      "url": "https://open.spotify.com/track/5m15w9saIKx6wgFe6n6IZG"
+    },
+    {
+      "album": {
+        "name": "741 Hz Throat Chakra - Solfeggio Frequency Series",
+        "url": "https://open.spotify.com/album/2WcpUhZ0F2R7N8Jih2qClk"
+      },
+      "artists": [
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        },
+        {
+          "name": "Solfeggio Sound Bath",
+          "url": "https://open.spotify.com/artist/3JKh8aHFH7ALz2GIvJB0p3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "741 Hz - Throat Chakra",
+      "url": "https://open.spotify.com/track/2TDP32PcejBzoXJDQs0gnY"
+    },
+    {
+      "album": {
+        "name": "Tides of Eternity",
+        "url": "https://open.spotify.com/album/6WgkixEENAU8DXDGjquVRo"
+      },
+      "artists": [
+        {
+          "name": "Juni Tinley",
+          "url": "https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98316,
+      "name": "741 Hz - Tides of Eternity",
+      "url": "https://open.spotify.com/track/5EuH4B3Kb46T2cKpqLCaHA"
+    },
+    {
+      "album": {
+        "name": "Why The Rush (Solfeggio Frequencies)",
+        "url": "https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH"
+      },
+      "artists": [
+        {
+          "name": "Dora Waller",
+          "url": "https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137931,
+      "name": "741 Hz - Why The Rush",
+      "url": "https://open.spotify.com/track/4pK6mR2hWLOjWTEQDrerCk"
+    },
+    {
+      "album": {
+        "name": "741 Hz Deepened Gaze",
+        "url": "https://open.spotify.com/album/6vgwSkTE1dgmO4WYMNBMRH"
+      },
+      "artists": [
+        {
+          "name": "Heartbeat Sirens",
+          "url": "https://open.spotify.com/artist/2QGCx78xpOiCXoKRvJMEYY"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "741 Hz Deepened Gaze",
+      "url": "https://open.spotify.com/track/41ZqKmkwsLCtCCPyjfwNIv"
+    },
+    {
+      "album": {
+        "name": "Gentle Breathing",
+        "url": "https://open.spotify.com/album/2zpiPiyUUfFfWN6OdXeL2W"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 202305,
+      "name": "741 Hz Gentle Breathing",
+      "url": "https://open.spotify.com/track/45mF3fxXkhXGHldyZy3k2a"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Ondas",
+        "url": "https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc"
+      },
+      "artists": [
+        {
+          "name": "Paz Interna",
+          "url": "https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "741 Hz Libertad",
+      "url": "https://open.spotify.com/track/2Z2m5GSKnw2Uhudg3IAwGg"
+    },
+    {
+      "album": {
+        "name": "741 Hz Mental Clarity",
+        "url": "https://open.spotify.com/album/6tzfanwdAF8Px0HcJZe8yB"
+      },
+      "artists": [
+        {
+          "name": "Orvalis",
+          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "741 Hz Mental Clarity",
+      "url": "https://open.spotify.com/track/0ZuKVcs48MMhBwb6stqbVo"
+    },
+    {
+      "album": {
+        "name": "741 Hz Protection",
+        "url": "https://open.spotify.com/album/3e7ZEGQU8xFdSHqYYVPzHD"
+      },
+      "artists": [
+        {
+          "name": "Lars Peters",
+          "url": "https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136186,
+      "name": "741 Hz Protection",
+      "url": "https://open.spotify.com/track/2g5wHZ7x9U1qlaOMOtFfEB"
+    },
+    {
+      "album": {
+        "name": "Release (Solfeggio Frequencies)",
+        "url": "https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf"
+      },
+      "artists": [
+        {
+          "name": "Sia Moon",
+          "url": "https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "741 Hz Release",
+      "url": "https://open.spotify.com/track/4rkQICXJfWg1UH2LWM2gqd"
+    },
+    {
+      "album": {
+        "name": "741 Hz Spectral Journey",
+        "url": "https://open.spotify.com/album/6Ntmmhb1UBLkdbwIrT9mSY"
+      },
+      "artists": [
+        {
+          "name": "Sigh and Release",
+          "url": "https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162758,
+      "name": "741 Hz Spectral Journey",
+      "url": "https://open.spotify.com/track/6t4LHtbQMqoTVGdn5SH6hu"
+    },
+    {
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH"
+      },
+      "artists": [
+        {
+          "name": "Triangular Prism III",
+          "url": "https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181821,
+      "name": "741 Hz Spiritual Bath",
+      "url": "https://open.spotify.com/track/5OANFC7h3nM3Jj1nrTM1vM"
+    },
+    {
+      "album": {
+        "name": "Deep Sleep",
+        "url": "https://open.spotify.com/album/4rgY7wUEdsxw8CHdrcT0uj"
+      },
+      "artists": [
+        {
+          "name": "Velodrome",
+          "url": "https://open.spotify.com/artist/4Xv4mNOYUc05QngjAvNUWB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113397,
+      "name": "741Hz - Deep Sleep",
+      "url": "https://open.spotify.com/track/1vuP2xOAisIelsfgcg5O94"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Medicine Frequencies Vol. 2",
+        "url": "https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd"
+      },
+      "artists": [
+        {
+          "name": "Solfeggio Medicine Frequencies",
+          "url": "https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "741hz Eliminates Negativity",
+      "url": "https://open.spotify.com/track/2OXirAv8badcQ2VJH3oMBe"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Medicine Frecuencies Vol. 1",
+        "url": "https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz"
+      },
+      "artists": [
+        {
+          "name": "Solfeggio Medicine Frequencies",
+          "url": "https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "741hz Purifies Mind and Body",
+      "url": "https://open.spotify.com/track/7yOZ0gYi6owjohpcmTOKAe"
+    },
+    {
+      "album": {
+        "name": "Celsius 741 Hz",
+        "url": "https://open.spotify.com/album/3h9uMPIL8xvQ3YEtdlQzGH"
+      },
+      "artists": [
+        {
+          "name": "Donna Javovich",
+          "url": "https://open.spotify.com/artist/2nIGrJl8WPMjQgi2Vw5Fh7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Celsius 741 Hz",
+      "url": "https://open.spotify.com/track/58mglLMC2dFR9SAaEq4eOY"
+    },
+    {
+      "album": {
+        "name": "Sleep Crystal Bowl",
+        "url": "https://open.spotify.com/album/3IIxIGhR9JEP48Aq6UZIGP"
+      },
+      "artists": [
+        {
+          "name": "Shakti Kaur",
+          "url": "https://open.spotify.com/artist/38wLc5Qs3tOzu6PKDRh4yl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Chakra Crystal Bowl",
+      "url": "https://open.spotify.com/track/3CuBUJAF5DoX7EQ9L4KcOd"
+    },
+    {
+      "album": {
+        "name": "Cleansing Heart 741 Hz",
+        "url": "https://open.spotify.com/album/1KltK5tuNXB2DCJH79Qy4l"
+      },
+      "artists": [
+        {
+          "name": "Harper Rems",
+          "url": "https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Cleansing Heart 741 Hz",
+      "url": "https://open.spotify.com/track/56CXESEfsaCPnzcB8kj1iO"
+    },
+    {
+      "album": {
+        "name": "Brown Noise",
+        "url": "https://open.spotify.com/album/4H2iQaVz222z1FExVHOwB2"
+      },
+      "artists": [
+        {
+          "name": "A.I.C 83",
+          "url": "https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140660,
+      "name": "Dark Waves",
+      "url": "https://open.spotify.com/track/00HRepvlnm6qcRKr7benVb"
+    },
+    {
+      "album": {
+        "name": "Deep clean your mind 741Hz",
+        "url": "https://open.spotify.com/album/5Wur5Jj16G3Xf2mLhGTbuR"
+      },
+      "artists": [
+        {
+          "name": "Sienna Salvatore",
+          "url": "https://open.spotify.com/artist/70qqsrrsnNczuDUivf3UEx"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127874,
+      "name": "Deep clean your mind 741Hz",
+      "url": "https://open.spotify.com/track/7KRNGCiycL1qhCZ7nIDsp0"
+    },
+    {
+      "album": {
+        "name": "Deep Energy Cleansing",
+        "url": "https://open.spotify.com/album/1qPqbBL3EzSDOI7eJGbzpj"
+      },
+      "artists": [
+        {
+          "name": "Mindful Behaviour",
+          "url": "https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "Deep Energy Cleansing 741 Hz",
+      "url": "https://open.spotify.com/track/2UHd7LrWLIEbF61NMpJ7AD"
+    },
+    {
+      "album": {
+        "name": "Soothing Solfeggio",
+        "url": "https://open.spotify.com/album/6nEZIlczSMbBpETPDzEBs7"
+      },
+      "artists": [
+        {
+          "name": "Nylana",
+          "url": "https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Detoxify 741 Hz",
+      "url": "https://open.spotify.com/track/5Y94Rj32hEj3Of8P6JmyRt"
+    },
+    {
+      "album": {
+        "name": "Eternal Moonshine 741 Hz",
+        "url": "https://open.spotify.com/album/6XkeOuyw0OSUaxR3N2Q51k"
+      },
+      "artists": [
+        {
+          "name": "Gary Lovelin",
+          "url": "https://open.spotify.com/artist/1X0Pz328T2O3e2yioaDGTk"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137564,
+      "name": "Eternal Moonshine 741 Hz",
+      "url": "https://open.spotify.com/track/1e1RbrYKiKoSi6K63qfMU2"
+    },
+    {
+      "album": {
+        "name": "Evening Glow",
+        "url": "https://open.spotify.com/album/3S1pM12gPVbfye9XoIqU1M"
+      },
+      "artists": [
+        {
+          "name": "Faye Brinkmann",
+          "url": "https://open.spotify.com/artist/34THtJSLQbUmVxt5BxcmpC"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173839,
+      "name": "Evening Glow",
+      "url": "https://open.spotify.com/track/1kbkiU8WBHi2UHv01H7fQj"
+    },
+    {
+      "album": {
+        "name": "Exousia - 741hz Wave",
+        "url": "https://open.spotify.com/album/0xY1BRjXeST6iVgEXLrB8h"
+      },
+      "artists": [
+        {
+          "name": "Aparine",
+          "url": "https://open.spotify.com/artist/0DU2vMP9JIdQmwgaCRDt0T"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157091,
+      "name": "Exousia - 741hz Wave",
+      "url": "https://open.spotify.com/track/3t7ufMt8huLsgbWJ3fChAy"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Frequencies: Aligning for Change",
+        "url": "https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211968,
+      "name": "Fair Solutions 741 Hz",
+      "url": "https://open.spotify.com/track/1ycHp28H3XJxkM9hhFESGw"
+    },
+    {
+      "album": {
+        "name": "Ferns",
+        "url": "https://open.spotify.com/album/1vM33GBEtobzFLRd1inD01"
+      },
+      "artists": [
+        {
+          "name": "Kevin Hutchins",
+          "url": "https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212154,
+      "name": "Ferns",
+      "url": "https://open.spotify.com/track/4EILGubj8yeAb5szI5BDVh"
+    },
+    {
+      "album": {
+        "name": "Floating Through Solfeggio",
+        "url": "https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175140,
+      "name": "Floating Through Solfeggio 741 Hz",
+      "url": "https://open.spotify.com/track/0E0FK26KRggPeQKESUxvQb"
+    },
+    {
+      "album": {
+        "name": "solfeggio frequencies: clearing the mind",
+        "url": "https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx"
+      },
+      "artists": [
+        {
+          "name": "nite sky",
+          "url": "https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172750,
+      "name": "focused clarity 741 Hz",
+      "url": "https://open.spotify.com/track/04fb8Hoi0JjZoxKPiPFcCi"
+    },
+    {
+      "album": {
+        "name": "440Hz Chakra Suite, Vol 1",
+        "url": "https://open.spotify.com/album/0oETsqI9kxTYL37kYxFRaU"
+      },
+      "artists": [
+        {
+          "name": "Float Waves",
+          "url": "https://open.spotify.com/artist/3ktvAYSUnQfoS8vxYex8Jp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 124500,
+      "name": "HAM - Throat Chakra - Truth",
+      "url": "https://open.spotify.com/track/3I5l2Ulolh87Hnt7RoGDKY"
+    },
+    {
+      "album": {
+        "name": "All the Ways of God (Meditative Music)",
+        "url": "https://open.spotify.com/album/0RzeIk6LNn3zkl2e7Cy1uD"
+      },
+      "artists": [
+        {
+          "name": "Vincent de Carsenti",
+          "url": "https://open.spotify.com/artist/3o0sqYPgNVNs4Br8gQxSMs"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-01",
+      "duration_ms": 59609,
+      "name": "Harmonizing Throat Chakra",
+      "url": "https://open.spotify.com/track/4ubDW4ReffTJffdzkjp4rR"
+    },
+    {
+      "album": {
+        "name": "Herinneringen (Sound Bath)",
+        "url": "https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru"
+      },
+      "artists": [
+        {
+          "name": "Sohn Aelia",
+          "url": "https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182759,
+      "name": "Herinneringen (Sound Bath)",
+      "url": "https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp"
+    },
+    {
+      "album": {
+        "name": "Late Night Meditation",
+        "url": "https://open.spotify.com/album/4USXXfJHQgf1gB0yS9jmOJ"
+      },
+      "artists": [
+        {
+          "name": "Perducci",
+          "url": "https://open.spotify.com/artist/0VEXjsf3JyYFipCgZ2P8Fp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-01",
+      "duration_ms": 148800,
+      "name": "Late Night Meditation",
+      "url": "https://open.spotify.com/track/7zT6CQ1og08NiVfn8E8Yfx"
+    },
+    {
+      "album": {
+        "name": "Wisdowm Of REM",
+        "url": "https://open.spotify.com/album/1wEZdYZRQsdkRIByTyqH6E"
+      },
+      "artists": [
+        {
+          "name": "Pink Opal",
+          "url": "https://open.spotify.com/artist/4G2znNneRZlbCwuDAIQi2E"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111496,
+      "name": "Light Beam",
+      "url": "https://open.spotify.com/track/0cBFe5cufslKKaBKCh7awt"
+    },
+    {
+      "album": {
+        "name": "Meditation Bowls",
+        "url": "https://open.spotify.com/album/6Jxjl9oi2NcmWSYnr0BmQl"
+      },
+      "artists": [
+        {
+          "name": "Meditators",
+          "url": "https://open.spotify.com/artist/35qLVQ5G13Moug3HQcf90C"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 160000,
+      "name": "Mixed Meditation Bowl Sounds (Sound Bath)",
+      "url": "https://open.spotify.com/track/7kzsjfIiCZLTxKlOwmUpZU"
+    },
+    {
+      "album": {
+        "name": "Oscillate 741",
+        "url": "https://open.spotify.com/album/5WKjRr8BIMzo8p3tovaYiW"
+      },
+      "artists": [
+        {
+          "name": "Defigo",
+          "url": "https://open.spotify.com/artist/2jSC6WxDUjLpADzGEBYlRz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199920,
+      "name": "Oscillate 741",
+      "url": "https://open.spotify.com/track/5V3nxZGivHd6nzeyQ7IWEr"
+    },
+    {
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/3Y13q08ShzgPNmkIcPN3De"
+      },
+      "artists": [
+        {
+          "name": "Amellia Grey",
+          "url": "https://open.spotify.com/artist/7EjA2HhxVmzaVwE161kcV8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 256000,
+      "name": "Outerlands",
+      "url": "https://open.spotify.com/track/0005HhCeIUqi6jLSKRYBZw"
+    },
+    {
+      "album": {
+        "name": "Overcome - 741 Hz",
+        "url": "https://open.spotify.com/album/4AuXRzULum5SBNzknp7PNs"
+      },
+      "artists": [
+        {
+          "name": "Pylina",
+          "url": "https://open.spotify.com/artist/3glhniAQtuYtDNOxZ8ySix"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Overcome - 741Hz",
+      "url": "https://open.spotify.com/track/69ZUzaMA1zr31yuAyZYN1s"
+    },
+    {
+      "album": {
+        "name": "Chakra Healing Bowls",
+        "url": "https://open.spotify.com/album/5mANLf5MKCQpmPinlPPSXG"
+      },
+      "artists": [
+        {
+          "name": "Tibetan Singing Bowl Sounds",
+          "url": "https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 193187,
+      "name": "Peace Fountain",
+      "url": "https://open.spotify.com/track/4yOvTVWlxFyqoDYGi0uQqD"
+    },
+    {
+      "album": {
+        "name": "Presence - 741 Hz",
+        "url": "https://open.spotify.com/album/3GWox3eFMx23KD3dJYIJJI"
+      },
+      "artists": [
+        {
+          "name": "Aster Mar",
+          "url": "https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Presence - 741Hz",
+      "url": "https://open.spotify.com/track/0oAnYHbjkzo21heLTo1hGV"
+    },
+    {
+      "album": {
+        "name": "Purple Waters",
+        "url": "https://open.spotify.com/album/3XHbzv3q0JTI6UTnnleiz2"
+      },
+      "artists": [
+        {
+          "name": "Dream WIzard",
+          "url": "https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169444,
+      "name": "Purple Waters 741 hz",
+      "url": "https://open.spotify.com/track/7BlhSDmgv38rAbYmdIp3lW"
+    },
+    {
+      "album": {
+        "name": "Night Solfeggio for the Mind",
+        "url": "https://open.spotify.com/album/1WUP0qojbqgfTDiouUyyB0"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 214588,
+      "name": "Relaxing Reverie 741 Hz",
+      "url": "https://open.spotify.com/track/0Y4TgyM6QUzSa2Dvw0VO8s"
+    },
+    {
+      "album": {
+        "name": "Restful Vibrations (741Hz)",
+        "url": "https://open.spotify.com/album/4mQ8G8sLHlnqKm03lOzWmh"
+      },
+      "artists": [
+        {
+          "name": "Chura Rin",
+          "url": "https://open.spotify.com/artist/3ND8SIfnQTaM7QulRp8RwN"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Restful Vibrations (741Hz)",
+      "url": "https://open.spotify.com/track/5Pyl42FNoNa79GQuNZG9zg"
+    },
+    {
+      "album": {
+        "name": "Saturation",
+        "url": "https://open.spotify.com/album/31zWBCkJEmAqpPHzfZgnvL"
+      },
+      "artists": [
+        {
+          "name": "Slumra",
+          "url": "https://open.spotify.com/artist/7LZjHVBpyfix3KUNCWHEWD"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162498,
+      "name": "Saturation 741 Hz",
+      "url": "https://open.spotify.com/track/070xpFpvQSVQUTD6Hs8S7X"
+    },
+    {
+      "album": {
+        "name": "The Schumann 432Hz Chakra Drones",
+        "url": "https://open.spotify.com/album/3qgFPuBePyuCxj2ZxK0Qk0"
+      },
+      "artists": [
+        {
+          "name": "369",
+          "url": "https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-01",
+      "duration_ms": 239999,
+      "name": "Schumann 432-5 Throat Chakra Voicing",
+      "url": "https://open.spotify.com/track/7zvFAzYMROMhOuCb4BqD4m"
+    },
+    {
+      "album": {
+        "name": "shared waves - 741hz",
+        "url": "https://open.spotify.com/album/0AWvRDOsb8Q875dFkdZjJ6"
+      },
+      "artists": [
+        {
+          "name": "Synalyse Flow",
+          "url": "https://open.spotify.com/artist/36pa0ZluG8Sr6eUvHMRnId"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173448,
+      "name": "shared waves - 741hz",
+      "url": "https://open.spotify.com/track/4SKqvK2AvQKNNUmrVtm0U2"
+    },
+    {
+      "album": {
+        "name": "So Hum",
+        "url": "https://open.spotify.com/album/1n7FuonhS869rKleqYJZ7m"
+      },
+      "artists": [
+        {
+          "name": "Pranayama Squad",
+          "url": "https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-01",
+      "duration_ms": 247200,
+      "name": "So Hum",
+      "url": "https://open.spotify.com/track/4LPXddfvILqIyfqIntPK9k"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Drones",
+        "url": "https://open.spotify.com/album/0oZC0sfdqhd4fdthAAKD4x"
+      },
+      "artists": [
+        {
+          "name": "Xin Amos",
+          "url": "https://open.spotify.com/artist/5n1MhPv1DwAakjDKblFvZU"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170768,
+      "name": "Solfeggio Drone 741 Hz",
+      "url": "https://open.spotify.com/track/3hjqDCbPg9R3W8XqXr0tpP"
+    },
+    {
+      "album": {
+        "name": "741 Hz Full Body Detox",
+        "url": "https://open.spotify.com/album/4SMlPCLiGgBN18AGs2jYaa"
+      },
+      "artists": [
+        {
+          "name": "Miracle Tones",
+          "url": "https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4"
+        },
+        {
+          "name": "Solfeggio Healing Frequencies MT",
+          "url": "https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Solfeggio Frequencies 741 Hz",
+      "url": "https://open.spotify.com/track/6dqI2f7OmRg9WwceXAj7vR"
+    },
+    {
+      "album": {
+        "name": "The Journey (741Hz)",
+        "url": "https://open.spotify.com/album/6u33HITV2QQwtvQAEzubWT"
+      },
+      "artists": [
+        {
+          "name": "Tree Talker",
+          "url": "https://open.spotify.com/artist/5BWcNI4vQrnhrBht2b1tU0"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "The Journey (741Hz)",
+      "url": "https://open.spotify.com/track/3I1SgolxvEIX4NYQazTxB4"
+    },
+    {
+      "album": {
+        "name": "The Throat Chakra: Vishuddha",
+        "url": "https://open.spotify.com/album/3vm2MExrxtgSimqimrzGQd"
+      },
+      "artists": [
+        {
+          "name": "Kinder Records",
+          "url": "https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63916,
+      "name": "Throat Chakra Activation (741 Hz)",
+      "url": "https://open.spotify.com/track/28W7aTw5YlT1Xa1bmAJfgR"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Nonagon",
+        "url": "https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175700,
+      "name": "Throat Solfeggio 741 Hz",
+      "url": "https://open.spotify.com/track/3srb1tARH6ehOeLKrdKxTr"
+    },
+    {
+      "album": {
+        "name": "Trippertronics",
+        "url": "https://open.spotify.com/album/0y0xdDlRZQVfWYhfWQnQC4"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173733,
+      "name": "Trippertronics 741 Hz",
+      "url": "https://open.spotify.com/track/3wv1IHXCSUIeN1rnPkufvH"
+    },
+    {
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Kulo",
+          "url": "https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226779,
+      "name": "Vinculum",
+      "url": "https://open.spotify.com/track/4DILz6kUaczn1PRPNrMbCa"
+    },
+    {
+      "album": {
+        "name": "Through The Chakras",
+        "url": "https://open.spotify.com/album/5UEVsKVyAtDvh9B5o3YmYM"
+      },
+      "artists": [
+        {
+          "name": "Kula Kriya",
+          "url": "https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Vishuddha (741hz)",
+      "url": "https://open.spotify.com/track/3AVThTFS4S4Ol9ZfLfkZ78"
+    },
+    {
+      "album": {
+        "name": "7 Om Chanting Meditations",
+        "url": "https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX"
+      },
+      "artists": [
+        {
+          "name": "Air With Air Rising",
+          "url": "https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 331000,
+      "name": "Vishuddha (Throat) [Chakra]",
+      "url": "https://open.spotify.com/track/0qpVazrOG8rpYlun1e9ClL"
+    },
+    {
+      "album": {
+        "name": "Frame of Frequencies",
+        "url": "https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211948,
+      "name": "Visions 741 Hz",
+      "url": "https://open.spotify.com/track/0UH1vXrdAvxI8CucKsYiin"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9t48dpVo99H"
 }

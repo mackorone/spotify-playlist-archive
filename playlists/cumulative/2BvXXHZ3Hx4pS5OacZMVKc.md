@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-346 songs - 18 hr 18 min
+347 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-08-10 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-30 | 2023-08-11 |
 | [Warriors](https://open.spotify.com/track/67CXgSwER3AaTU67HhxJCO) | [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [Requenze](https://open.spotify.com/artist/7974sO7NSYmKn0dQgJvGfJ) | [Warriors](https://open.spotify.com/album/0yp0AWCVnLfDCIVuQm90RC) | 3:48 | 2022-02-03 | 2023-08-11 |
+| [WHAT](https://open.spotify.com/track/7gPFNOXap9pXQpHHYNFQRI) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [WHAT](https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo) | 3:44 | 2024-01-03 |  |
 | [What I Say](https://open.spotify.com/track/2MYf47KmmKlnt8IVcvszkx) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH) | [What I Say](https://open.spotify.com/album/3h0ZMafVpLo8FQFokxjilF) | 3:35 | 2022-11-18 | 2023-08-11 |
 | [WHAT THE HELL](https://open.spotify.com/track/7klwPJ0JKDsujcsccd7EK4) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [WHAT THE HELL](https://open.spotify.com/album/4U7gL5Ztrmk6OClNASOBPf) | 2:50 | 2022-02-03 | 2023-08-11 |
 | [WHAT THE HELL \- OBLVYN Remix](https://open.spotify.com/track/1FMdcepWuMtbyp7YbvCEjd) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN), [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [WHAT THE HELL \(OBLVYN Remix\)](https://open.spotify.com/album/30WclCTrWqACvzWo9C8tBT) | 2:59 | 2022-08-25 | 2023-08-11 |

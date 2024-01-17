@@ -1,175 +1,1569 @@
 {
-  "2023-07-13": 668850,
-  "2023-07-14": 671066,
-  "2023-07-15": 673027,
-  "2023-07-16": 675371,
-  "2023-07-17": 678202,
-  "2023-07-18": 680327,
-  "2023-07-19": 682314,
-  "2023-07-20": 684038,
-  "2023-07-21": 685767,
-  "2023-07-22": 687489,
-  "2023-07-23": 689179,
-  "2023-07-24": 690619,
-  "2023-07-25": 692075,
-  "2023-07-26": 693333,
-  "2023-07-27": 694588,
-  "2023-07-28": 695686,
-  "2023-07-29": 696789,
-  "2023-07-30": 697822,
-  "2023-07-31": 698827,
-  "2023-08-01": 699838,
-  "2023-08-02": 700800,
-  "2023-08-03": 701665,
-  "2023-08-04": 702468,
-  "2023-08-05": 703269,
-  "2023-08-06": 704940,
-  "2023-08-07": 704940,
-  "2023-08-08": 705580,
-  "2023-08-09": 706519,
-  "2023-08-10": 707745,
-  "2023-08-11": 708887,
-  "2023-08-12": 710235,
-  "2023-08-13": 711615,
-  "2023-08-14": 713010,
-  "2023-08-15": 715712,
-  "2023-08-16": 715712,
-  "2023-08-17": 716879,
-  "2023-08-18": 717792,
-  "2023-08-19": 718791,
-  "2023-08-20": 719904,
-  "2023-08-21": 720994,
-  "2023-08-22": 721904,
-  "2023-08-23": 722756,
-  "2023-08-24": 723471,
-  "2023-08-25": 724218,
-  "2023-08-26": 724987,
-  "2023-08-27": 725814,
-  "2023-08-28": 726835,
-  "2023-08-29": 727644,
-  "2023-08-30": 728274,
-  "2023-08-31": 728976,
-  "2023-09-01": 730306,
-  "2023-09-02": 730306,
-  "2023-09-03": 730887,
-  "2023-09-04": 731488,
-  "2023-09-05": 732093,
-  "2023-09-06": 732611,
-  "2023-09-07": 733148,
-  "2023-09-08": 733619,
-  "2023-09-09": 734149,
-  "2023-09-10": 734798,
-  "2023-09-11": 735440,
-  "2023-09-12": 736135,
-  "2023-09-13": 736631,
-  "2023-09-14": 737105,
-  "2023-09-15": 737448,
-  "2023-09-16": 737873,
-  "2023-09-17": 738341,
-  "2023-09-18": 738849,
-  "2023-09-19": 739134,
-  "2023-09-20": 739496,
-  "2023-09-21": 739751,
-  "2023-09-22": 740206,
-  "2023-09-23": 740563,
-  "2023-09-24": 740950,
-  "2023-09-25": 741278,
-  "2023-09-26": 741683,
-  "2023-09-27": 741925,
-  "2023-09-28": 742189,
-  "2023-09-29": 742502,
-  "2023-09-30": 742791,
-  "2023-10-01": 743104,
-  "2023-10-02": 743437,
-  "2023-10-03": 743724,
-  "2023-10-04": 743883,
-  "2023-10-05": 744153,
-  "2023-10-06": 744430,
-  "2023-10-07": 744616,
-  "2023-10-08": 744840,
-  "2023-10-09": 745031,
-  "2023-10-10": 745205,
-  "2023-10-11": 745453,
-  "2023-10-12": 745453,
-  "2023-10-13": 745629,
-  "2023-10-14": 745806,
-  "2023-10-15": 745961,
-  "2023-10-16": 746039,
-  "2023-10-17": 746183,
-  "2023-10-18": 746295,
-  "2023-10-19": 746430,
-  "2023-10-20": 746615,
-  "2023-10-21": 746851,
-  "2023-10-22": 747119,
-  "2023-10-23": 747393,
-  "2023-10-24": 747594,
-  "2023-10-25": 747779,
-  "2023-10-26": 747974,
-  "2023-10-27": 748287,
-  "2023-10-28": 748568,
-  "2023-10-29": 748871,
-  "2023-10-30": 749349,
-  "2023-10-31": 749349,
-  "2023-11-01": 749678,
-  "2023-11-02": 750105,
-  "2023-11-03": 750490,
-  "2023-11-04": 750952,
-  "2023-11-05": 751605,
-  "2023-11-06": 752221,
-  "2023-11-07": 752684,
-  "2023-11-08": 753097,
-  "2023-11-09": 753510,
-  "2023-11-10": 753902,
-  "2023-11-11": 754250,
-  "2023-11-12": 754623,
-  "2023-11-13": 755021,
-  "2023-11-14": 755335,
-  "2023-11-15": 755335,
-  "2023-11-16": 755864,
-  "2023-11-17": 756456,
-  "2023-11-18": 756456,
-  "2023-11-19": 756802,
-  "2023-11-20": 757096,
-  "2023-11-21": 757379,
-  "2023-11-22": 757639,
-  "2023-11-23": 757928,
-  "2023-11-24": 758219,
-  "2023-11-25": 758485,
-  "2023-11-26": 758754,
-  "2023-11-27": 759034,
-  "2023-11-28": 759253,
-  "2023-11-29": 759416,
-  "2023-11-30": 759416,
-  "2023-12-01": 759452,
-  "2023-12-02": 759622,
-  "2023-12-03": 759779,
-  "2023-12-04": 759946,
-  "2023-12-05": 760099,
-  "2023-12-06": 760287,
-  "2023-12-07": 760560,
-  "2023-12-08": 760794,
-  "2023-12-09": 761171,
-  "2023-12-10": 761538,
-  "2023-12-11": 761890,
-  "2023-12-12": 762154,
-  "2023-12-13": 762387,
-  "2023-12-14": 762637,
-  "2023-12-15": 762805,
-  "2023-12-16": 763057,
-  "2023-12-17": 763320,
-  "2023-12-18": 763591,
-  "2023-12-19": 763820,
-  "2023-12-20": 763970,
-  "2023-12-21": 764137,
-  "2023-12-22": 764414,
-  "2023-12-23": 764667,
-  "2023-12-24": 764973,
-  "2023-12-25": 765254,
-  "2023-12-26": 765493,
-  "2023-12-27": 765861,
-  "2023-12-30": 766807,
-  "2023-12-31": 767094,
-  "2024-01-01": 767305,
-  "2024-01-02": 767564,
-  "2024-01-03": 767796
+  "2024-01-17": 770439,
+  "date_first_scraped": "2023-07-13",
+  "description": "It's how you wear the mask that matters. Music from and inspired by Spider-Man: Into the Spider-Verse and Spider-Man: Across the Spider-Verse.",
+  "name": "Spider-Verse: The Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155546,
+      "name": "2099 Lab",
+      "url": "https://open.spotify.com/track/0AlTGxsaONycIhAaHS8AfU"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "Across the Spider-Verse (Intro)",
+      "url": "https://open.spotify.com/track/5pv6Z4veEqPwAwU8IKhasj"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "Across the Spider-Verse (Start a Band)",
+      "url": "https://open.spotify.com/track/52NljNc8iekEE6Gq7RZ43E"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33066,
+      "name": "Across the Titles",
+      "url": "https://open.spotify.com/track/3eJdbIlXXhBUOiKFbAlDUH"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262666,
+      "name": "All Stations - Stop Spider-Man",
+      "url": "https://open.spotify.com/track/5swknVOdjJ7z6EZyoDW8qe"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/0B6g379TMw0nYGXA7y5xHz"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Roisee",
+          "url": "https://open.spotify.com/artist/5pCGvSxNNUcddlRrG0wsrY"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
+      "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231746,
+      "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
+      "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx"
+      },
+      "artists": [
+        {
+          "name": "Pop Money",
+          "url": "https://open.spotify.com/artist/1aB6c7RYaEg0YVD6mcH424"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "Another Dimension",
+      "url": "https://open.spotify.com/track/0qiYnY0y5P9gqq6THGzhaI"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174066,
+      "name": "Ansiedades",
+      "url": "https://open.spotify.com/track/4GhaiN8g3mwCcbfDLGoYqy"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177960,
+      "name": "Back Where It All Started",
+      "url": "https://open.spotify.com/track/4u271qOhcFHRMRMvjEV0OJ"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429240,
+      "name": "Canon Event",
+      "url": "https://open.spotify.com/track/26hFmOWmzITcdXziJ2Rcgz"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302506,
+      "name": "Creation of The Spot",
+      "url": "https://open.spotify.com/track/5TJOjWs360Yo8FCWEbdEm7"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205266,
+      "name": "Danger (Spider) (Offset & JID)",
+      "url": "https://open.spotify.com/track/3X6qK1LdMkSOhklwRa2ZfG"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/5KP2NReDL2Bv0QLzHSvUwM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166059,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/66WfygJNgpjcZdClL5UkdJ"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "DJ Khalil",
+          "url": "https://open.spotify.com/artist/7zfaArteqSs8YgCCmPrDK4"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        },
+        {
+          "name": "Trevor Rich",
+          "url": "https://open.spotify.com/artist/6QhPWkWn4HiqXP9b3OMLKI"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)",
+      "url": "https://open.spotify.com/track/6kiauSlWtddVQx4JwJx51p"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503973,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/4cgImKM0Y7QBpwZsgqTqbf"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "Familia (with Anuel Aa, feat. Bantu) - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/4Uy3kNxW2kB8AEoXljEcth"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150160,
+      "name": "Five Months",
+      "url": "https://open.spotify.com/track/6NvwIN5wmJbOtvySRf2XiP"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234693,
+      "name": "Givin\u2019 Up (Not The One) (Don Toliver & 21 Savage, 2 Chainz)",
+      "url": "https://open.spotify.com/track/0KoBrntyQ2x6Y1eZwgGe5P"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276120,
+      "name": "Guggenheim Assemble",
+      "url": "https://open.spotify.com/track/20LQRh3mc32mgw2KAkmBQV"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Seezyn",
+          "url": "https://open.spotify.com/artist/1jIVEaq8GmqMYb8nFNAZgb"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "Hide (feat. Seezyn)",
+      "url": "https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72573,
+      "name": "Hold the Baby",
+      "url": "https://open.spotify.com/track/7nUA9R4Ge01FEHpjyPAZie"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Richie Kohan",
+          "url": "https://open.spotify.com/artist/3QYRu7CWJylnxkvbTS3ovC"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7pBsquIkbED6W6uSQJGbkn"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "Home (Metro Boomin & Don Toliver, Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2qlBAT108lYOzlXhBxBqEv"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319493,
+      "name": "Hummingbird (Metro Boomin & James Blake)",
+      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148626,
+      "name": "I Beat Them All",
+      "url": "https://open.spotify.com/track/6oE9ZtFkWBjqy2mi98CRPQ"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "I Can't Stop (Big Boss Vette & Omah Lay)",
+      "url": "https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282266,
+      "name": "Indian Teamwork",
+      "url": "https://open.spotify.com/track/5KulFjYpa8CSKdJ1vszEoK"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133640,
+      "name": "Infamous (Shenseea & Myke Towers) - Spider-Verse Remix",
+      "url": "https://open.spotify.com/track/6JIIAbw9L5kmsGqimr9vUj"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196386,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/6VS7wKwtvL2FvTupYSWZ9e"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Beau Young Prince",
+          "url": "https://open.spotify.com/artist/5fxPQ2Mzi7apfCMPuKwmSd"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177653,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/5F2AuFzEiuAQD0JVNjVJQz"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Toian",
+          "url": "https://open.spotify.com/artist/5sBdzqT2jx5jacEUcBn6X1"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195386,
+      "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
+      "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Thutmose",
+          "url": "https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199146,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2CWOMDYFK4Ef3867nEhnVM"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/5KP2NReDL2Bv0QLzHSvUwM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225753,
+      "name": "Miles Morales Returns",
+      "url": "https://open.spotify.com/track/3Wzq5unv57NmMS0S6fj5MH"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121253,
+      "name": "Miles Sketchbook",
+      "url": "https://open.spotify.com/track/27XzkVxTM5BAoFUsOUqgEP"
+    },
+    {
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/71DSaeKtXQaMAqnvMT7Uoc"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "Mumbattan Madness",
+      "url": "https://open.spotify.com/track/0r0KpTIcv9NwlBKwvCZOPX"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202280,
+      "name": "My Name Is... Miles Morales",
+      "url": "https://open.spotify.com/track/0xVaIlP2b9ufyjhoMznL0Z"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167093,
+      "name": "Nas Morales (Metro Boomin & Nas)",
+      "url": "https://open.spotify.com/track/4mTKCa00WAZS2ag4GYwu0t"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+      "url": "https://open.spotify.com/track/3xMnPIvsaWwzHzqqzaihEX"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358466,
+      "name": "Nueva York Train Chase",
+      "url": "https://open.spotify.com/track/34ZrUENGT9Jx9dfX6d2LEm"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/5KP2NReDL2Bv0QLzHSvUwM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Only One Spider-Man",
+      "url": "https://open.spotify.com/track/2R0qk2SAxUELOP1DaMwI0O"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98706,
+      "name": "Peter and Mayday Parker",
+      "url": "https://open.spotify.com/track/5an59fTKzNi0OiWYSR8O5p"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264893,
+      "name": "Rio and Miles",
+      "url": "https://open.spotify.com/track/2hzINlUQk8wQhFdWmnEXNg"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "LouGotCash",
+          "url": "https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178720,
+      "name": "Save The Day (feat. Coi Leray & LouGotCash)",
+      "url": "https://open.spotify.com/track/0vkzRCT7wzqWCFJw5TN1MQ"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Scared of the Dark (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
+      "url": "https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "EI8HT",
+          "url": "https://open.spotify.com/artist/70rSvlI9SRspEr0C84bJ5Q"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162280,
+      "name": "Silk & Cologne (EI8HT & Offset) - Spider-Verse Remix",
+      "url": "https://open.spotify.com/track/5Lv5L45PQmp5CTjs5PlQ6e"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125893,
+      "name": "Spider Society",
+      "url": "https://open.spotify.com/track/0v8XvLja57KlOAFSxd71kY"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62720,
+      "name": "Spider-Man 2099 (Miguel O'Hara)",
+      "url": "https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140373,
+      "name": "Spider-Man India (Pavitr Prabhakar)",
+      "url": "https://open.spotify.com/track/6JzXhKJhK1UKTCwZTvchP2"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/5KP2NReDL2Bv0QLzHSvUwM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111179,
+      "name": "Spider-Man Loves You",
+      "url": "https://open.spotify.com/track/7xDVDHawfjHNoKjzzQsbTQ"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129946,
+      "name": "Spider-Punk (Hobie Brown)",
+      "url": "https://open.spotify.com/track/5LNHkP7yYKHlkp4LNFJjU8"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186373,
+      "name": "Spider-Woman (Gwen Stacy)",
+      "url": "https://open.spotify.com/track/0HuIPfHavk3tsXOtpuyT0O"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80093,
+      "name": "Spot Holes 1",
+      "url": "https://open.spotify.com/track/2MxAbWhobm2k25T5yDqbah"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71013,
+      "name": "Spot Holes 2",
+      "url": "https://open.spotify.com/track/2G6N99ANS6NGn9BusRUmCx"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171466,
+      "name": "Start a Riot",
+      "url": "https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9"
+    },
+    {
+      "album": {
+        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
+        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
+      },
+      "artists": [
+        {
+          "name": "Badal",
+          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
+        },
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140248,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/4HpAJXih7YGcOiINeCiosC"
+    },
+    {
+      "album": {
+        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
+        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
+      },
+      "artists": [
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5SHygYZYM2lUJOrVmt46Gz"
+    },
+    {
+      "album": {
+        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
+        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161130,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
+    },
+    {
+      "album": {
+        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
+        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
+      },
+      "artists": [
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/67r9pSNdmDu31zmO51cWU6"
+        },
+        {
+          "name": "Beatz Akademy",
+          "url": "https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140829,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0a4BQch1z8SHov9jJgsh1v"
+    },
+    {
+      "album": {
+        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
+        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
+      },
+      "artists": [
+        {
+          "name": "Zozi",
+          "url": "https://open.spotify.com/artist/0M5Q1neRqarfVnbmcn30O3"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162509,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0eLevmMdFLKMf2rprarJ8M"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125026,
+      "name": "Take It To The Top (Becky G & Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mKUfMSg0geJFVscFdaMcQ"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/5KP2NReDL2Bv0QLzHSvUwM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116099,
+      "name": "The Amazing Spider-Man",
+      "url": "https://open.spotify.com/track/0p8ypNn35B9Ld1QJP0q3NE"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226053,
+      "name": "The Anomaly",
+      "url": "https://open.spotify.com/track/5VMGNDS27YdYpNu55Nja5O"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296386,
+      "name": "The Go Home Machine",
+      "url": "https://open.spotify.com/track/6oV1PXd55Fhn8jwUABxxTi"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253653,
+      "name": "The Right to Remain Silent",
+      "url": "https://open.spotify.com/track/5CxkIhyfolPmz7uWJUwonN"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102266,
+      "name": "To My Son",
+      "url": "https://open.spotify.com/track/1OSzW4ipZpmVtzdNvsjG6v"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "Under the Clocktower",
+      "url": "https://open.spotify.com/track/0bkODIzOJ1ecoQFjn9rjX1"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94866,
+      "name": "Vulture Meets Culture",
+      "url": "https://open.spotify.com/track/0Bbe4CXwSA03XAl7LHI9Z7"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Jaden",
+          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153773,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/7cFFhb9Wz2ZXLSpEk2VDKd"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103013,
+      "name": "Welcome to Nueva York (Earth-928)",
+      "url": "https://open.spotify.com/track/2KJ4gGT7NIFiZ7rXpX1nxE"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Blackway",
+          "url": "https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi"
+        },
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "What's Up Danger (with Black Caviar)",
+      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSIXPHRZ4SKc"
 }

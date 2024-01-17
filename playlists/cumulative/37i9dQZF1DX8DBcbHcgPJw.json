@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Marama, MYA & Robleis.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Roze Oficial & Lauty Gram.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "DIOS ME PERDONE",
+        "url": "https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173548,
+      "name": "DIOS ME PERDONE",
+      "url": "https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v"
+    },
+    {
+      "album": {
         "name": "DISTANCIA",
         "url": "https://open.spotify.com/album/15zYwgMtafg7Uu3SwY2PyU"
       },
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 125257,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/0ZicqbVRJBG71sAGgc77s8"
@@ -3172,6 +3190,28 @@
       "duration_ms": 129505,
       "name": "Gracias a Vos",
       "url": "https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE"
+    },
+    {
+      "album": {
+        "name": "Hasta El Amanecer",
+        "url": "https://open.spotify.com/album/3jlwNIENskDAXyOGNIhB2y"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Cami Raj",
+          "url": "https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 159567,
+      "name": "Hasta El Amanecer",
+      "url": "https://open.spotify.com/track/2Kc6wNFSoPWlXroJqEtSYX"
     },
     {
       "album": {
@@ -4042,6 +4082,10 @@
         {
           "name": "Dame 5",
           "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        },
+        {
+          "name": "Valentina Olguin",
+          "url": "https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR"
         }
       ],
       "date_added": "2021-12-23",
@@ -4499,6 +4543,32 @@
     },
     {
       "album": {
+        "name": "Luna (Remix)",
+        "url": "https://open.spotify.com/album/4yfAJEQL6AsLFAOGSybjJW"
+      },
+      "artists": [
+        {
+          "name": "DJ Pirata",
+          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
+        },
+        {
+          "name": "El Kaio",
+          "url": "https://open.spotify.com/artist/0c6zVQn3CWPIu7I6QV6D8Y"
+        },
+        {
+          "name": "Maxi Gen",
+          "url": "https://open.spotify.com/artist/3HSGbLHJ6fmmhnBB3CzN1V"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Luna - Remix",
+      "url": "https://open.spotify.com/track/78F6E6CRS9uD4KF5qeaHPv"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas | CROSSOVER #4",
         "url": "https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr"
       },
@@ -4724,6 +4794,24 @@
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/3W8jFYffyTKJqm6hSQtARd"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137727,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/57q0jUz79o0XeTmN2E15uI"
     },
     {
       "album": {
@@ -5616,7 +5704,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
@@ -6652,7 +6740,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 162173,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/0uMsuZYdEC8yJI1mrx0vog"
@@ -7280,7 +7368,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 144266,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/1h6schi75f6LmCp7OzwfeF"
@@ -7404,6 +7492,28 @@
       "duration_ms": 204813,
       "name": "Simplemente Amigos / Eclipse Total",
       "url": "https://open.spotify.com/track/09O1Ve5IytaVPzPGZlDe54"
+    },
+    {
+      "album": {
+        "name": "Sin Querer",
+        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141071,
+      "name": "Sin Querer",
+      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
     },
     {
       "album": {
@@ -7778,7 +7888,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 194025,
       "name": "Te Lo Pido Por Favor",
       "url": "https://open.spotify.com/track/5DI2S4qWWBDOmx6uJgovlX"
@@ -8714,7 +8824,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 168600,
       "name": "Una R\u00e1faga de Amor",
       "url": "https://open.spotify.com/track/33ulNKHKBVADxu5UptOxt9"
@@ -8841,6 +8951,32 @@
     },
     {
       "album": {
+        "name": "VAS A VOLVER",
+        "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "VAS A VOLVER",
+      "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
+    },
+    {
+      "album": {
         "name": "Veneno Para Olvidar / Agua Sucia",
         "url": "https://open.spotify.com/album/487MmOI6yOSImM3aq8mOcb"
       },
@@ -8918,7 +9054,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 133894,
       "name": "Verano Pasado",
       "url": "https://open.spotify.com/track/7Jin5x96XaXowvaqixYBWw"
@@ -9006,7 +9142,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 166963,
       "name": "Vikingos",
       "url": "https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4"
@@ -9178,6 +9314,24 @@
       "duration_ms": 126423,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/5KcHM0MeRD80BSrsv7Ofas"
+    },
+    {
+      "album": {
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
     },
     {
       "album": {

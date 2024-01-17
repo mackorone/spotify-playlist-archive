@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,098 likes - 158 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,245 likes - 158 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,21 +12,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 2 | [dancing in the moonlight](https://open.spotify.com/track/1ZlN7b6imuKQUQa7ZoRmvk) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [dancing in the moonlight](https://open.spotify.com/album/5r9jGo8HPdSpDJRW7ofhSv) | 2:17 |
 | 3 | [cake by the ocean](https://open.spotify.com/track/3PSfK8uljFKaWpFmhkUKjk) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [cake by the ocean](https://open.spotify.com/album/2UjrbW783efsL76eSx9BlX) | 2:14 |
 | 4 | [Wonderwall](https://open.spotify.com/track/6GtjKPUoHi5CronjJabgNx) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Wonderwall](https://open.spotify.com/album/0lWMhwtR0GBhMopl6Acixa) | 3:03 |
-| 5 | [don't know why](https://open.spotify.com/track/5V2azMg4sx0aDJ9WSWGHbB) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [don't know why](https://open.spotify.com/album/1njOiYAwrY46egkOpm4Kp2) | 2:07 |
-| 6 | [believe](https://open.spotify.com/track/17L5OzbZllHylKxpy2e7Hi) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [believe](https://open.spotify.com/album/2SYjVVDUklh5cQn68UbRgV) | 2:12 |
-| 7 | [Put Your Records On](https://open.spotify.com/track/0ayze54kfOomri3f3E8AWz) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [Put Your Records On](https://open.spotify.com/album/14DQcnhpNWXmOg7dw7Okfw) | 3:56 |
-| 8 | [Save Your Tears](https://open.spotify.com/track/2yoNY32JruGk2kCx04GZo3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Save Your Tears](https://open.spotify.com/album/6tPYTNx6QpdWg8ytSlDEe0) | 5:20 |
-| 9 | [fly me to the moon](https://open.spotify.com/track/0ZRXuSHt856z22kJtfqVjK) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [fly me to the moon](https://open.spotify.com/album/428Omo1qGn6r2FzfpVGDwC) | 1:48 |
-| 10 | [Plastic Love](https://open.spotify.com/track/3ljEzcpsXThqfImeqk9THy) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [Plastic Love](https://open.spotify.com/album/01nHXrfC8vYJijKsSlLnCP) | 2:28 |
-| 11 | [Running Up That Hill](https://open.spotify.com/track/2eITMwB0fhcCw9fs5gjLrO) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Running Up That Hill](https://open.spotify.com/album/2URVfdDGrqYbepIWjHHjIh) | 2:09 |
-| 12 | [losing my religion](https://open.spotify.com/track/1yUZYcTXb00c7P4pRWjmnY) | [Niebieski](https://open.spotify.com/artist/5UAuF0nlkpdqktgrW7SqaG) | [losing my religion](https://open.spotify.com/album/2VdrgAeG3CBDNOW0ojebq9) | 2:45 |
-| 13 | [Nothing Else Matters](https://open.spotify.com/track/43iChjuuKFSZw3LMLnrs2i) | [Oliver Kruz](https://open.spotify.com/artist/4dJvVbTz4n1WbqCH6XKDCm) | [Nothing Else Matters](https://open.spotify.com/album/5AUFhByOltEqxUA41CcZ9l) | 3:30 |
+| 5 | [We Are Family](https://open.spotify.com/track/42XobImnQvdX9GUHqxnoPN) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [We Are Family](https://open.spotify.com/album/55G8HFz2yu9OoTavSMgRYj) | 1:48 |
+| 6 | [don't know why](https://open.spotify.com/track/5V2azMg4sx0aDJ9WSWGHbB) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [don't know why](https://open.spotify.com/album/1njOiYAwrY46egkOpm4Kp2) | 2:07 |
+| 7 | [believe](https://open.spotify.com/track/17L5OzbZllHylKxpy2e7Hi) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [believe](https://open.spotify.com/album/2SYjVVDUklh5cQn68UbRgV) | 2:12 |
+| 8 | [Put Your Records On](https://open.spotify.com/track/0ayze54kfOomri3f3E8AWz) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [Put Your Records On](https://open.spotify.com/album/14DQcnhpNWXmOg7dw7Okfw) | 3:56 |
+| 9 | [Save Your Tears](https://open.spotify.com/track/2yoNY32JruGk2kCx04GZo3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Save Your Tears](https://open.spotify.com/album/6tPYTNx6QpdWg8ytSlDEe0) | 5:20 |
+| 10 | [fly me to the moon](https://open.spotify.com/track/0ZRXuSHt856z22kJtfqVjK) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [fly me to the moon](https://open.spotify.com/album/428Omo1qGn6r2FzfpVGDwC) | 1:48 |
+| 11 | [Plastic Love](https://open.spotify.com/track/3ljEzcpsXThqfImeqk9THy) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [Plastic Love](https://open.spotify.com/album/01nHXrfC8vYJijKsSlLnCP) | 2:28 |
+| 12 | [Running Up That Hill](https://open.spotify.com/track/2eITMwB0fhcCw9fs5gjLrO) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Running Up That Hill](https://open.spotify.com/album/2URVfdDGrqYbepIWjHHjIh) | 2:09 |
+| 13 | [losing my religion](https://open.spotify.com/track/1yUZYcTXb00c7P4pRWjmnY) | [Niebieski](https://open.spotify.com/artist/5UAuF0nlkpdqktgrW7SqaG) | [losing my religion](https://open.spotify.com/album/2VdrgAeG3CBDNOW0ojebq9) | 2:45 |
 | 14 | [you can't hurry love](https://open.spotify.com/track/48BI0SejPrf5XPKJQZFUuR) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [you can't hurry love](https://open.spotify.com/album/6orhcxTbRoX9GUUXh855d2) | 2:11 |
-| 15 | [bad day](https://open.spotify.com/track/4HHoCZQ9v7agD2ZTq72q3Y) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bad day](https://open.spotify.com/album/5NfqbPcvdYcR3inewdtRBc) | 2:17 |
-| 16 | [you shook me all night long](https://open.spotify.com/track/4Y49M9ujJJFgztbo1nU6w5) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [you shook me all night long](https://open.spotify.com/album/0kNYDcRWSwzGN1cUHQgmks) | 1:56 |
-| 17 | [cruel summer](https://open.spotify.com/track/5doH6Rkv9E1qoDPzboyzr2) | [Leo Zane](https://open.spotify.com/artist/7xIrUrdfYoRUQdcBUGP3di) | [cruel summer](https://open.spotify.com/album/4sEGykzuyEK0vfexHbBr2x) | 1:56 |
-| 18 | [whenever wherever](https://open.spotify.com/track/5wzwJmf0lCtW1YRmceh0w6) | [NSW Kenny](https://open.spotify.com/artist/7rAgjCQMN8VOaqHzdKESzr) | [whenever wherever](https://open.spotify.com/album/72aotBqlvlDMzKPclh76X9) | 2:22 |
-| 19 | [Antihero](https://open.spotify.com/track/6foxdC9JnsAR2qCAYTVQij) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Antihero](https://open.spotify.com/album/3bz82Jb3mGlYeHuTs87b2R) | 2:55 |
+| 15 | [you shook me all night long](https://open.spotify.com/track/4Y49M9ujJJFgztbo1nU6w5) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [you shook me all night long](https://open.spotify.com/album/0kNYDcRWSwzGN1cUHQgmks) | 1:56 |
+| 16 | [cruel summer](https://open.spotify.com/track/5doH6Rkv9E1qoDPzboyzr2) | [Leo Zane](https://open.spotify.com/artist/7xIrUrdfYoRUQdcBUGP3di) | [cruel summer](https://open.spotify.com/album/4sEGykzuyEK0vfexHbBr2x) | 1:56 |
+| 17 | [whenever wherever](https://open.spotify.com/track/5wzwJmf0lCtW1YRmceh0w6) | [NSW Kenny](https://open.spotify.com/artist/7rAgjCQMN8VOaqHzdKESzr) | [whenever wherever](https://open.spotify.com/album/72aotBqlvlDMzKPclh76X9) | 2:22 |
+| 18 | [Antihero](https://open.spotify.com/track/6foxdC9JnsAR2qCAYTVQij) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Antihero](https://open.spotify.com/album/3bz82Jb3mGlYeHuTs87b2R) | 2:55 |
+| 19 | [heartbreaker](https://open.spotify.com/track/3y9W9xOMC5tB8aAA3lIEOo) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [heartbreaker](https://open.spotify.com/album/3uikouU6spEC8d5AT2su1F) | 2:50 |
 | 20 | [i try](https://open.spotify.com/track/3BHNGiuU59k3c1G9dlTMWB) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [i try](https://open.spotify.com/album/5MsKW2gmxgB8a4p1uBq4BB) | 2:14 |
 | 21 | [Creepin](https://open.spotify.com/track/33nYtG8rlanRyq3v9bcb6w) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Creepin](https://open.spotify.com/album/0jZdGZMQud5jzPD3bxLlbj) | 3:10 |
 | 22 | [boulevard of broken dreams](https://open.spotify.com/track/0ZA0zhZye770PB2gALNv1Z) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [boulevard of broken dreams](https://open.spotify.com/album/64jmiYsMnjBcEooouZb33R) | 1:48 |
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 111 | [Everytime We Touch](https://open.spotify.com/track/1sI8fD3wfYhawnZAYJlmuB) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [holydope](https://open.spotify.com/artist/0xxzcwAkvq75H2kNaZVLxD), [Gletscher](https://open.spotify.com/artist/2XvOqRc89ghu9XuYotuqDj) | [Everytime We Touch](https://open.spotify.com/album/7rg8IXnMzoesocIOIGklWQ) | 2:06 |
 | 112 | [Bad Habits](https://open.spotify.com/track/7y161CHpc3KkKVMJZ1bNEQ) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Bad Habits](https://open.spotify.com/album/16XIxgGPr1Ispb6IJJ0AaW) | 1:28 |
 | 113 | [Dog Days Are Over \- Lofi Version](https://open.spotify.com/track/5G6D5WHf5weBJ7Z9WA6pyH) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Dog Days Are Over \(Lofi Version\)](https://open.spotify.com/album/7iqDk6pZdA7aPAZpoZzXve) | 2:15 |
-| 114 | [Foolish](https://open.spotify.com/track/3Mt0mb8hQcCrzQUEMGXhWX) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/5cCEONJGfWiPtR9yn63Ghf) | 2:59 |
+| 114 | [Foolish](https://open.spotify.com/track/327YD8hrJehqymoHyLzjvL) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/205AAzdvybdc1XHfLkQIfv) | 2:59 |
 | 115 | [love me like you do \- lofi](https://open.spotify.com/track/490fqdlm8AGR5tRWcoBGKj) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq) | [love me like you do \- lofi](https://open.spotify.com/album/5G7LFYUjjdBbermgFy0gMD) | 1:39 |
 | 116 | [Viva La Vida](https://open.spotify.com/track/0rZ4Yyt5Su46Uo6mqci1iW) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Viva La Vida](https://open.spotify.com/album/25q2SkwrmZmcnhGAAeUGci) | 2:57 |
 | 117 | [That's The Way It Is](https://open.spotify.com/track/4KlG6TcBmbr56ejToFZZNM) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [That's the Way It Is](https://open.spotify.com/album/3JNRLXYVdLBni8VY92Irve) | 1:27 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 157 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 |
 | 158 | [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 |
 
-Snapshot ID: `MCwyYzVlZWFiMDg5MjQxNGU0Njc4NWJkMDg5MjNjMzY5OThkZGZjZmM5`
+Snapshot ID: `MCw0MmU4MWU0YTJkODMzNWVhOTRkYWJhMTRkYWFmMTQzYjg3ZGFmZWZl`

@@ -136,7 +136,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 142106,
       "name": "Chiquilina",
       "url": "https://open.spotify.com/track/3DiBjgOxP26LVm9BcosS7P"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 193893,
       "name": "Llora el amor",
       "url": "https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9"
@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Segunda Caida",
+        "url": "https://open.spotify.com/album/2USZirqNELoAnEkd5kmZ0c"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 186300,
+      "name": "Tu No Necesitas a Carlo (Regrabada)",
+      "url": "https://open.spotify.com/track/3JpPcEH23YaZCoT14gd4PT"
+    },
+    {
+      "album": {
         "name": "Tenis M\u00e1gicos",
         "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
       },
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": "2024-01-12",
       "duration_ms": 185773,
       "name": "Vuela, vuela",
       "url": "https://open.spotify.com/track/2JSf7lq71PuKFj9S6aimLA"

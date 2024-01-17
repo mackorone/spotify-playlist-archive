@@ -1,735 +1,2641 @@
 {
-  "2021-12-25": 66813,
-  "2021-12-26": 66818,
-  "2021-12-27": 66838,
-  "2021-12-28": 66838,
-  "2021-12-29": 66830,
-  "2021-12-30": 66834,
-  "2021-12-31": 66837,
-  "2022-01-01": 66845,
-  "2022-01-02": 66845,
-  "2022-01-03": 66849,
-  "2022-01-04": 66850,
-  "2022-01-05": 66857,
-  "2022-01-06": 66859,
-  "2022-01-07": 66861,
-  "2022-01-08": 66860,
-  "2022-01-09": 66861,
-  "2022-01-10": 66858,
-  "2022-01-11": 66851,
-  "2022-01-12": 66853,
-  "2022-01-13": 66858,
-  "2022-01-14": 66862,
-  "2022-01-15": 66867,
-  "2022-01-16": 66869,
-  "2022-01-17": 66867,
-  "2022-01-18": 66865,
-  "2022-01-19": 66866,
-  "2022-01-20": 66868,
-  "2022-01-21": 66869,
-  "2022-01-22": 66870,
-  "2022-01-23": 66869,
-  "2022-01-24": 66870,
-  "2022-01-25": 66869,
-  "2022-01-26": 66873,
-  "2022-01-27": 66868,
-  "2022-01-28": 66870,
-  "2022-01-29": 66878,
-  "2022-01-30": 66880,
-  "2022-01-31": 66879,
-  "2022-02-01": 66878,
-  "2022-02-02": 66880,
-  "2022-02-03": 66889,
-  "2022-02-04": 66891,
-  "2022-02-05": 66897,
-  "2022-02-06": 66895,
-  "2022-02-07": 66896,
-  "2022-02-08": 66892,
-  "2022-02-09": 66895,
-  "2022-02-10": 66908,
-  "2022-02-11": 66915,
-  "2022-02-12": 66914,
-  "2022-02-13": 66917,
-  "2022-02-14": 66917,
-  "2022-02-15": 66913,
-  "2022-02-16": 66911,
-  "2022-02-17": 66912,
-  "2022-02-18": 66910,
-  "2022-02-19": 66913,
-  "2022-02-20": 66915,
-  "2022-02-21": 66913,
-  "2022-02-22": 66913,
-  "2022-02-23": 66909,
-  "2022-02-24": 66907,
-  "2022-02-25": 66911,
-  "2022-02-26": 66911,
-  "2022-02-27": 66919,
-  "2022-02-28": 66919,
-  "2022-03-01": 66921,
-  "2022-03-02": 66925,
-  "2022-03-03": 66932,
-  "2022-03-04": 66930,
-  "2022-03-05": 66932,
-  "2022-03-06": 66935,
-  "2022-03-07": 66944,
-  "2022-03-08": 66948,
-  "2022-03-09": 66948,
-  "2022-03-10": 66952,
-  "2022-03-11": 66951,
-  "2022-03-12": 66949,
-  "2022-03-13": 66953,
-  "2022-03-14": 66961,
-  "2022-03-15": 66968,
-  "2022-03-16": 66972,
-  "2022-03-17": 66977,
-  "2022-03-18": 66991,
-  "2022-03-19": 66995,
-  "2022-03-20": 66995,
-  "2022-03-21": 67012,
-  "2022-03-22": 67013,
-  "2022-03-23": 67013,
-  "2022-03-24": 67025,
-  "2022-03-25": 67034,
-  "2022-03-26": 67037,
-  "2022-03-27": 67042,
-  "2022-03-28": 67053,
-  "2022-03-30": 67063,
-  "2022-03-31": 67069,
-  "2022-04-01": 67069,
-  "2022-04-02": 67069,
-  "2022-04-03": 67069,
-  "2022-04-04": 67069,
-  "2022-04-05": 67069,
-  "2022-04-06": 67069,
-  "2022-04-07": 67069,
-  "2022-04-08": 67069,
-  "2022-04-09": 67069,
-  "2022-04-10": 67069,
-  "2022-04-11": 67069,
-  "2022-04-12": 67069,
-  "2022-04-13": 67069,
-  "2022-04-14": 67069,
-  "2022-04-15": 67069,
-  "2022-04-16": 67069,
-  "2022-04-17": 67069,
-  "2022-04-18": 67069,
-  "2022-04-19": 67069,
-  "2022-04-20": 67069,
-  "2022-04-21": 67069,
-  "2022-04-22": 67069,
-  "2022-04-23": 67069,
-  "2022-04-24": 67069,
-  "2022-04-25": 67069,
-  "2022-04-26": 67069,
-  "2022-04-27": 67069,
-  "2022-04-28": 67069,
-  "2022-04-29": 67069,
-  "2022-04-30": 67069,
-  "2022-05-01": 67069,
-  "2022-05-02": 67069,
-  "2022-05-03": 67069,
-  "2022-05-04": 67069,
-  "2022-05-05": 67069,
-  "2022-05-06": 67069,
-  "2022-05-07": 67069,
-  "2022-05-08": 67069,
-  "2022-05-09": 67069,
-  "2022-05-10": 67069,
-  "2022-05-11": 67069,
-  "2022-05-12": 67069,
-  "2022-05-13": 67069,
-  "2022-05-14": 67069,
-  "2022-05-15": 67069,
-  "2022-05-16": 67069,
-  "2022-05-17": 67069,
-  "2022-05-18": 67069,
-  "2022-05-19": 67069,
-  "2022-05-20": 67069,
-  "2022-05-21": 67069,
-  "2022-05-22": 67069,
-  "2022-05-23": 67069,
-  "2022-05-24": 67069,
-  "2022-05-25": 67069,
-  "2022-05-26": 67069,
-  "2022-05-27": 67069,
-  "2022-05-28": 67069,
-  "2022-05-29": 67069,
-  "2022-05-30": 67069,
-  "2022-05-31": 67069,
-  "2022-06-01": 67069,
-  "2022-06-02": 67069,
-  "2022-06-03": 67069,
-  "2022-06-04": 67069,
-  "2022-06-05": 67069,
-  "2022-06-06": 67069,
-  "2022-06-07": 67069,
-  "2022-06-08": 67069,
-  "2022-06-09": 67069,
-  "2022-06-10": 67069,
-  "2022-06-11": 67069,
-  "2022-06-12": 67069,
-  "2022-06-13": 67069,
-  "2022-06-14": 67069,
-  "2022-06-15": 67069,
-  "2022-06-16": 67069,
-  "2022-06-17": 67069,
-  "2022-06-18": 67069,
-  "2022-06-19": 67069,
-  "2022-06-20": 67069,
-  "2022-06-21": 67069,
-  "2022-06-22": 67069,
-  "2022-06-23": 67069,
-  "2022-06-24": 67069,
-  "2022-06-25": 67069,
-  "2022-06-26": 67069,
-  "2022-06-27": 67069,
-  "2022-06-28": 67069,
-  "2022-06-29": 67069,
-  "2022-06-30": 67069,
-  "2022-07-01": 67069,
-  "2022-07-02": 67069,
-  "2022-07-03": 67069,
-  "2022-07-04": 67069,
-  "2022-07-05": 67069,
-  "2022-07-06": 67069,
-  "2022-07-07": 67069,
-  "2022-07-08": 67069,
-  "2022-07-09": 67069,
-  "2022-07-10": 67069,
-  "2022-07-11": 67069,
-  "2022-07-12": 67069,
-  "2022-07-13": 67069,
-  "2022-07-14": 67069,
-  "2022-07-15": 67069,
-  "2022-07-16": 67069,
-  "2022-07-17": 67069,
-  "2022-07-18": 67069,
-  "2022-07-19": 67069,
-  "2022-07-20": 67069,
-  "2022-07-21": 67069,
-  "2022-07-22": 67069,
-  "2022-07-23": 67069,
-  "2022-07-24": 67069,
-  "2022-07-25": 67069,
-  "2022-07-26": 67069,
-  "2022-07-27": 67069,
-  "2022-07-28": 67069,
-  "2022-07-29": 67069,
-  "2022-07-30": 67069,
-  "2022-07-31": 67069,
-  "2022-08-01": 67069,
-  "2022-08-02": 67069,
-  "2022-08-03": 67069,
-  "2022-08-04": 67069,
-  "2022-08-05": 67069,
-  "2022-08-06": 67069,
-  "2022-08-07": 67069,
-  "2022-08-08": 67069,
-  "2022-08-09": 67069,
-  "2022-08-10": 67069,
-  "2022-08-11": 67069,
-  "2022-08-12": 67069,
-  "2022-08-13": 67069,
-  "2022-08-14": 67069,
-  "2022-08-15": 67069,
-  "2022-08-16": 67069,
-  "2022-08-17": 67069,
-  "2022-08-18": 67069,
-  "2022-08-19": 67069,
-  "2022-08-20": 67069,
-  "2022-08-21": 67069,
-  "2022-08-22": 67069,
-  "2022-08-23": 67069,
-  "2022-08-24": 67069,
-  "2022-08-25": 67069,
-  "2022-08-26": 67069,
-  "2022-08-27": 67069,
-  "2022-08-28": 67069,
-  "2022-08-29": 67069,
-  "2022-08-30": 67069,
-  "2022-08-31": 67069,
-  "2022-09-01": 67069,
-  "2022-09-02": 67069,
-  "2022-09-03": 67069,
-  "2022-09-04": 67069,
-  "2022-09-05": 67069,
-  "2022-09-06": 67069,
-  "2022-09-07": 67069,
-  "2022-09-09": 67069,
-  "2022-09-10": 67069,
-  "2022-09-11": 67069,
-  "2022-09-12": 67069,
-  "2022-09-13": 67069,
-  "2022-09-15": 67069,
-  "2022-09-16": 67069,
-  "2022-09-17": 67069,
-  "2022-09-18": 67069,
-  "2022-09-19": 67069,
-  "2022-09-20": 67069,
-  "2022-09-21": 67069,
-  "2022-09-22": 67069,
-  "2022-09-23": 67069,
-  "2022-09-24": 67069,
-  "2022-09-25": 67069,
-  "2022-09-26": 67069,
-  "2022-09-27": 67069,
-  "2022-09-28": 67069,
-  "2022-09-29": 67069,
-  "2022-09-30": 67069,
-  "2022-10-01": 67069,
-  "2022-10-02": 67069,
-  "2022-10-03": 67069,
-  "2022-10-04": 67069,
-  "2022-10-05": 67069,
-  "2022-10-06": 67069,
-  "2022-10-07": 67069,
-  "2022-10-08": 67069,
-  "2022-10-09": 67069,
-  "2022-10-10": 67069,
-  "2022-10-11": 67069,
-  "2022-10-12": 67069,
-  "2022-10-13": 67069,
-  "2022-10-14": 67069,
-  "2022-10-15": 67069,
-  "2022-10-16": 67069,
-  "2022-10-17": 67069,
-  "2022-10-18": 67069,
-  "2022-10-19": 67069,
-  "2022-10-20": 67069,
-  "2022-10-21": 67069,
-  "2022-10-22": 67069,
-  "2022-10-23": 67069,
-  "2022-10-24": 67069,
-  "2022-10-25": 67069,
-  "2022-10-26": 67069,
-  "2022-10-27": 67069,
-  "2022-10-28": 67069,
-  "2022-10-29": 67069,
-  "2022-10-30": 67069,
-  "2022-10-31": 67069,
-  "2022-11-01": 67069,
-  "2022-11-02": 67069,
-  "2022-11-03": 67069,
-  "2022-11-04": 67069,
-  "2022-11-05": 67069,
-  "2022-11-06": 67069,
-  "2022-11-07": 67069,
-  "2022-11-08": 67069,
-  "2022-11-09": 67069,
-  "2022-11-10": 67069,
-  "2022-11-11": 67069,
-  "2022-11-12": 67069,
-  "2022-11-13": 67069,
-  "2022-11-14": 67069,
-  "2022-11-15": 67069,
-  "2022-11-16": 67069,
-  "2022-11-17": 67069,
-  "2022-11-18": 67069,
-  "2022-11-19": 67069,
-  "2022-11-20": 67069,
-  "2022-11-21": 67069,
-  "2022-11-22": 67069,
-  "2022-11-23": 67069,
-  "2022-11-24": 67069,
-  "2022-11-25": 67069,
-  "2022-11-26": 67069,
-  "2022-11-27": 67069,
-  "2022-11-28": 67069,
-  "2022-11-29": 67069,
-  "2022-11-30": 67069,
-  "2022-12-01": 67069,
-  "2022-12-02": 67069,
-  "2022-12-03": 67069,
-  "2022-12-04": 67069,
-  "2022-12-05": 67069,
-  "2022-12-06": 67069,
-  "2022-12-07": 67069,
-  "2022-12-08": 67069,
-  "2022-12-09": 67069,
-  "2022-12-10": 67069,
-  "2022-12-11": 67069,
-  "2022-12-12": 67069,
-  "2022-12-13": 67069,
-  "2022-12-14": 67069,
-  "2022-12-15": 67069,
-  "2022-12-16": 67069,
-  "2022-12-17": 67069,
-  "2022-12-18": 67069,
-  "2022-12-19": 67069,
-  "2022-12-20": 67069,
-  "2022-12-21": 67069,
-  "2022-12-22": 67069,
-  "2022-12-24": 67069,
-  "2022-12-25": 67069,
-  "2022-12-26": 67069,
-  "2022-12-27": 67069,
-  "2022-12-28": 67069,
-  "2022-12-29": 67069,
-  "2022-12-30": 67069,
-  "2022-12-31": 67069,
-  "2023-01-01": 67069,
-  "2023-01-02": 67069,
-  "2023-01-03": 67069,
-  "2023-01-04": 67069,
-  "2023-01-05": 67069,
-  "2023-01-06": 67069,
-  "2023-01-07": 67069,
-  "2023-01-08": 67069,
-  "2023-01-09": 67069,
-  "2023-01-10": 67069,
-  "2023-01-11": 67069,
-  "2023-01-12": 67069,
-  "2023-01-13": 67069,
-  "2023-01-14": 67069,
-  "2023-01-15": 67069,
-  "2023-01-16": 67069,
-  "2023-01-17": 67069,
-  "2023-01-18": 67069,
-  "2023-01-19": 67069,
-  "2023-01-20": 67069,
-  "2023-01-21": 67069,
-  "2023-01-22": 67069,
-  "2023-01-23": 67069,
-  "2023-01-24": 67069,
-  "2023-01-25": 67069,
-  "2023-01-26": 67069,
-  "2023-01-27": 67069,
-  "2023-01-28": 67069,
-  "2023-01-29": 67069,
-  "2023-01-30": 67069,
-  "2023-01-31": 67069,
-  "2023-02-01": 67069,
-  "2023-02-02": 67069,
-  "2023-02-03": 67069,
-  "2023-02-04": 67069,
-  "2023-02-05": 67069,
-  "2023-02-06": 67069,
-  "2023-02-07": 67069,
-  "2023-02-08": 67069,
-  "2023-02-09": 67069,
-  "2023-02-10": 67069,
-  "2023-02-11": 67069,
-  "2023-02-12": 67069,
-  "2023-02-13": 67069,
-  "2023-02-14": 67069,
-  "2023-02-15": 67069,
-  "2023-02-16": 67069,
-  "2023-02-17": 67069,
-  "2023-02-18": 67069,
-  "2023-02-19": 67069,
-  "2023-02-20": 67069,
-  "2023-02-21": 67069,
-  "2023-02-22": 67069,
-  "2023-02-23": 67069,
-  "2023-02-24": 67069,
-  "2023-02-25": 67069,
-  "2023-02-26": 67069,
-  "2023-02-27": 67069,
-  "2023-02-28": 67069,
-  "2023-03-01": 67069,
-  "2023-03-02": 67069,
-  "2023-03-03": 67069,
-  "2023-03-04": 67069,
-  "2023-03-05": 67069,
-  "2023-03-06": 67069,
-  "2023-03-07": 67069,
-  "2023-03-08": 67069,
-  "2023-03-09": 67069,
-  "2023-03-10": 67069,
-  "2023-03-11": 67069,
-  "2023-03-12": 67069,
-  "2023-03-13": 67069,
-  "2023-03-14": 67069,
-  "2023-03-15": 67069,
-  "2023-03-16": 67069,
-  "2023-03-17": 67069,
-  "2023-03-18": 67069,
-  "2023-03-19": 67069,
-  "2023-03-20": 67069,
-  "2023-03-21": 67069,
-  "2023-03-22": 67069,
-  "2023-03-23": 67069,
-  "2023-03-24": 67069,
-  "2023-03-25": 67069,
-  "2023-03-26": 67069,
-  "2023-03-27": 67069,
-  "2023-03-28": 67069,
-  "2023-03-29": 67069,
-  "2023-03-30": 67069,
-  "2023-03-31": 67069,
-  "2023-04-01": 67069,
-  "2023-04-02": 67069,
-  "2023-04-03": 67069,
-  "2023-04-04": 67069,
-  "2023-04-05": 67069,
-  "2023-04-06": 67069,
-  "2023-04-07": 67069,
-  "2023-04-09": 67069,
-  "2023-04-10": 67069,
-  "2023-04-11": 67069,
-  "2023-04-12": 67069,
-  "2023-04-13": 67069,
-  "2023-04-14": 67069,
-  "2023-04-15": 67069,
-  "2023-04-16": 67069,
-  "2023-04-17": 67069,
-  "2023-04-18": 67069,
-  "2023-04-19": 67069,
-  "2023-04-20": 67069,
-  "2023-04-21": 67069,
-  "2023-04-22": 67069,
-  "2023-04-23": 67069,
-  "2023-04-24": 67069,
-  "2023-04-25": 67069,
-  "2023-04-26": 67069,
-  "2023-04-27": 67069,
-  "2023-04-28": 67069,
-  "2023-04-29": 67069,
-  "2023-04-30": 67069,
-  "2023-05-01": 67069,
-  "2023-05-02": 67069,
-  "2023-05-03": 67069,
-  "2023-05-04": 67069,
-  "2023-05-05": 67069,
-  "2023-05-06": 67069,
-  "2023-05-07": 67069,
-  "2023-05-08": 67069,
-  "2023-05-09": 67069,
-  "2023-05-10": 67069,
-  "2023-05-11": 67069,
-  "2023-05-12": 67069,
-  "2023-05-13": 67069,
-  "2023-05-14": 67069,
-  "2023-05-15": 67069,
-  "2023-05-16": 67069,
-  "2023-05-17": 67069,
-  "2023-05-18": 67069,
-  "2023-05-19": 67069,
-  "2023-05-20": 67069,
-  "2023-05-21": 67069,
-  "2023-05-22": 67069,
-  "2023-05-23": 67069,
-  "2023-05-24": 67069,
-  "2023-05-25": 67069,
-  "2023-05-26": 67069,
-  "2023-05-27": 67069,
-  "2023-05-28": 67069,
-  "2023-05-29": 67069,
-  "2023-05-30": 67069,
-  "2023-05-31": 67069,
-  "2023-06-01": 67069,
-  "2023-06-02": 67069,
-  "2023-06-03": 67069,
-  "2023-06-04": 67069,
-  "2023-06-05": 67069,
-  "2023-06-06": 67069,
-  "2023-06-07": 67069,
-  "2023-06-08": 67069,
-  "2023-06-09": 67069,
-  "2023-06-10": 67069,
-  "2023-06-11": 67069,
-  "2023-06-12": 67069,
-  "2023-06-13": 67069,
-  "2023-06-14": 67069,
-  "2023-06-15": 67069,
-  "2023-06-16": 67069,
-  "2023-06-17": 67069,
-  "2023-06-18": 67069,
-  "2023-06-19": 67069,
-  "2023-06-20": 67069,
-  "2023-06-21": 67069,
-  "2023-06-22": 67069,
-  "2023-06-23": 67069,
-  "2023-06-24": 67069,
-  "2023-06-25": 67069,
-  "2023-06-26": 67069,
-  "2023-06-27": 67069,
-  "2023-06-28": 67069,
-  "2023-06-29": 67069,
-  "2023-06-30": 67069,
-  "2023-07-01": 67069,
-  "2023-07-02": 67069,
-  "2023-07-03": 67069,
-  "2023-07-04": 67069,
-  "2023-07-05": 67069,
-  "2023-07-06": 67069,
-  "2023-07-07": 67069,
-  "2023-07-08": 67069,
-  "2023-07-09": 67069,
-  "2023-07-10": 67069,
-  "2023-07-11": 67069,
-  "2023-07-12": 67069,
-  "2023-07-13": 67069,
-  "2023-07-14": 67069,
-  "2023-07-15": 67069,
-  "2023-07-16": 67069,
-  "2023-07-17": 67069,
-  "2023-07-18": 67069,
-  "2023-07-19": 67069,
-  "2023-07-20": 67069,
-  "2023-07-21": 67069,
-  "2023-07-22": 67069,
-  "2023-07-23": 67069,
-  "2023-07-24": 67069,
-  "2023-07-25": 67069,
-  "2023-07-26": 67069,
-  "2023-07-27": 67069,
-  "2023-07-28": 67069,
-  "2023-07-29": 67069,
-  "2023-07-30": 67069,
-  "2023-07-31": 67069,
-  "2023-08-01": 67069,
-  "2023-08-02": 67069,
-  "2023-08-03": 67069,
-  "2023-08-04": 67069,
-  "2023-08-05": 67069,
-  "2023-08-06": 67069,
-  "2023-08-07": 67069,
-  "2023-08-08": 67069,
-  "2023-08-09": 67069,
-  "2023-08-10": 67069,
-  "2023-08-11": 67069,
-  "2023-08-12": 67069,
-  "2023-08-13": 67069,
-  "2023-08-14": 67069,
-  "2023-08-15": 67069,
-  "2023-08-16": 67069,
-  "2023-08-17": 67069,
-  "2023-08-18": 67069,
-  "2023-08-19": 67069,
-  "2023-08-20": 67069,
-  "2023-08-21": 67069,
-  "2023-08-22": 67069,
-  "2023-08-23": 67069,
-  "2023-08-24": 67069,
-  "2023-08-25": 67069,
-  "2023-08-26": 67069,
-  "2023-08-27": 67069,
-  "2023-08-28": 67069,
-  "2023-08-29": 67069,
-  "2023-08-30": 67069,
-  "2023-08-31": 67069,
-  "2023-09-01": 67069,
-  "2023-09-02": 67069,
-  "2023-09-03": 67069,
-  "2023-09-04": 67069,
-  "2023-09-05": 67069,
-  "2023-09-06": 67069,
-  "2023-09-07": 67069,
-  "2023-09-08": 67069,
-  "2023-09-09": 67069,
-  "2023-09-10": 67069,
-  "2023-09-11": 67069,
-  "2023-09-12": 67069,
-  "2023-09-13": 67069,
-  "2023-09-14": 67069,
-  "2023-09-15": 67069,
-  "2023-09-16": 67069,
-  "2023-09-17": 67069,
-  "2023-09-18": 67069,
-  "2023-09-19": 67069,
-  "2023-09-20": 67069,
-  "2023-09-21": 67069,
-  "2023-09-22": 67069,
-  "2023-09-23": 67069,
-  "2023-09-24": 67069,
-  "2023-09-25": 67069,
-  "2023-09-26": 67069,
-  "2023-09-27": 67069,
-  "2023-09-28": 67069,
-  "2023-09-29": 67069,
-  "2023-09-30": 67069,
-  "2023-10-01": 67069,
-  "2023-10-02": 67069,
-  "2023-10-03": 67069,
-  "2023-10-04": 67069,
-  "2023-10-05": 67069,
-  "2023-10-06": 67069,
-  "2023-10-07": 67069,
-  "2023-10-08": 67069,
-  "2023-10-09": 67069,
-  "2023-10-10": 67069,
-  "2023-10-11": 67069,
-  "2023-10-12": 67069,
-  "2023-10-13": 67069,
-  "2023-10-14": 67069,
-  "2023-10-15": 67069,
-  "2023-10-16": 67069,
-  "2023-10-17": 67069,
-  "2023-10-18": 67069,
-  "2023-10-19": 67069,
-  "2023-10-20": 67069,
-  "2023-10-21": 67069,
-  "2023-10-22": 67069,
-  "2023-10-23": 67069,
-  "2023-10-24": 67069,
-  "2023-10-25": 67069,
-  "2023-10-26": 67069,
-  "2023-10-27": 67069,
-  "2023-10-28": 67069,
-  "2023-10-29": 67069,
-  "2023-10-30": 67069,
-  "2023-10-31": 67069,
-  "2023-11-01": 67069,
-  "2023-11-02": 67069,
-  "2023-11-03": 67069,
-  "2023-11-04": 67069,
-  "2023-11-05": 67069,
-  "2023-11-06": 67069,
-  "2023-11-07": 67069,
-  "2023-11-08": 67069,
-  "2023-11-09": 67069,
-  "2023-11-10": 67069,
-  "2023-11-11": 67069,
-  "2023-11-12": 67069,
-  "2023-11-13": 67069,
-  "2023-11-14": 67069,
-  "2023-11-15": 67069,
-  "2023-11-16": 67069,
-  "2023-11-17": 67069,
-  "2023-11-18": 67069,
-  "2023-11-19": 67069,
-  "2023-11-20": 67069,
-  "2023-11-21": 67069,
-  "2023-11-22": 67069,
-  "2023-11-23": 67069,
-  "2023-11-24": 67069,
-  "2023-11-25": 67069,
-  "2023-11-26": 67069,
-  "2023-11-27": 67069,
-  "2023-11-28": 67069,
-  "2023-11-29": 67069,
-  "2023-11-30": 67069,
-  "2023-12-01": 67069,
-  "2023-12-02": 67069,
-  "2023-12-03": 67069,
-  "2023-12-04": 67069,
-  "2023-12-05": 67069,
-  "2023-12-06": 67069,
-  "2023-12-07": 67069,
-  "2023-12-08": 67069,
-  "2023-12-09": 67069,
-  "2023-12-10": 67069,
-  "2023-12-11": 67069,
-  "2023-12-12": 67069,
-  "2023-12-13": 67069,
-  "2023-12-14": 67069,
-  "2023-12-15": 67069,
-  "2023-12-16": 67069,
-  "2023-12-17": 67069,
-  "2023-12-18": 67069,
-  "2023-12-19": 67069,
-  "2023-12-20": 67069,
-  "2023-12-21": 67069,
-  "2023-12-22": 67069,
-  "2023-12-23": 67069,
-  "2023-12-24": 67069,
-  "2023-12-25": 67069,
-  "2023-12-26": 67069,
-  "2023-12-27": 67069,
-  "2023-12-30": 67069,
-  "2023-12-31": 67069,
-  "2024-01-01": 67069,
-  "2024-01-02": 67069,
-  "2024-01-03": 67069
+  "2024-01-17": 67069,
+  "date_first_scraped": "2021-12-21",
+  "description": "A collection of sessions from some of the best comedians of all time.",
+  "name": "Women of Comedy",
+  "tracks": [
+    {
+      "album": {
+        "name": "Butcher",
+        "url": "https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP"
+      },
+      "artists": [
+        {
+          "name": "River Butcher",
+          "url": "https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "7-11 and Lighters",
+      "url": "https://open.spotify.com/track/2K949X746fFC0ab3CcHXnS"
+    },
+    {
+      "album": {
+        "name": "Problem Child",
+        "url": "https://open.spotify.com/album/1ioEIWXCkJgIGlFX7YOrnn"
+      },
+      "artists": [
+        {
+          "name": "Leslie Jones (Aka: Big Les)",
+          "url": "https://open.spotify.com/artist/36BDZu6lR8EQPqNIB9AkwA"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210110,
+      "name": "All The Single Ladies",
+      "url": "https://open.spotify.com/track/1X7FQpM2Zb9deI6dwsR10F"
+    },
+    {
+      "album": {
+        "name": "The Best Of Moms & Pigmeat, Volume One",
+        "url": "https://open.spotify.com/album/6abXQIVVz6bJHy3kKswQIP"
+      },
+      "artists": [
+        {
+          "name": "Moms Mabley",
+          "url": "https://open.spotify.com/artist/6HZ1CtBcg9FroAS7taeCIp"
+        },
+        {
+          "name": "Pigmeat Markham",
+          "url": "https://open.spotify.com/artist/1GJzkNMzrQ8uGjU4gzCVzq"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84613,
+      "name": "Apartment Hunting",
+      "url": "https://open.spotify.com/track/3SAmnUsllPKLnT9o9FyEEE"
+    },
+    {
+      "album": {
+        "name": "Sex With Nerds",
+        "url": "https://open.spotify.com/album/44Ecw2QSP8fsx9yGq7sPDO"
+      },
+      "artists": [
+        {
+          "name": "Erikka Innes",
+          "url": "https://open.spotify.com/artist/5t9fjdDBoGhMfjNlfnZJrH"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40573,
+      "name": "Are You Married Yet?",
+      "url": "https://open.spotify.com/track/4dtU38wmUjA11g15reUt0f"
+    },
+    {
+      "album": {
+        "name": "Good One",
+        "url": "https://open.spotify.com/album/77Jf2bocdaDjNaN6dmxh1M"
+      },
+      "artists": [
+        {
+          "name": "Tig Notaro",
+          "url": "https://open.spotify.com/artist/2qWOTC15qbAUKtaH477oLC"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59573,
+      "name": "Artificial Insemination",
+      "url": "https://open.spotify.com/track/1X4O34d4LxOQJR0BiXwiKf"
+    },
+    {
+      "album": {
+        "name": "Coke Money",
+        "url": "https://open.spotify.com/album/2B5ht1XGOeBvIxyfqNNOtr"
+      },
+      "artists": [
+        {
+          "name": "Natasha Leggero",
+          "url": "https://open.spotify.com/artist/7wHGioVXNK6WomD7nnT3Nt"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163346,
+      "name": "As Little As Possible",
+      "url": "https://open.spotify.com/track/7bmYqcVoDcYrDqgfzVI7N8"
+    },
+    {
+      "album": {
+        "name": "Long Live The Queen",
+        "url": "https://open.spotify.com/album/3eZUHvs9gYD82ywBkBI8x0"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lampanelli",
+          "url": "https://open.spotify.com/artist/0w9O7VRUY8j5p2Jbujli1U"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "Assorted Cheese Platter",
+      "url": "https://open.spotify.com/track/2C1KxZH15WUJaaUjDUsvZh"
+    },
+    {
+      "album": {
+        "name": "Marriage Material",
+        "url": "https://open.spotify.com/album/3aFnPqDjw0088KHVngoYWK"
+      },
+      "artists": [
+        {
+          "name": "Cameron Esposito",
+          "url": "https://open.spotify.com/artist/4nhlYI8HVe4BmpJDsNkT5X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162382,
+      "name": "Bachelor Party",
+      "url": "https://open.spotify.com/track/5EGf9u54O7mq59CnsTAqoV"
+    },
+    {
+      "album": {
+        "name": "Long Live The Queen",
+        "url": "https://open.spotify.com/album/3eZUHvs9gYD82ywBkBI8x0"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lampanelli",
+          "url": "https://open.spotify.com/artist/0w9O7VRUY8j5p2Jbujli1U"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380040,
+      "name": "Bagging a Bear",
+      "url": "https://open.spotify.com/track/3w9lGx9GK4uiKJcCxTXj6I"
+    },
+    {
+      "album": {
+        "name": "Bronze Digger",
+        "url": "https://open.spotify.com/album/1Rr0vDS90WbqUTr2xN8QzZ"
+      },
+      "artists": [
+        {
+          "name": "Andi Smith",
+          "url": "https://open.spotify.com/artist/7r2RiE4MXUY1ICdA3gEHRv"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Baseball Cards",
+      "url": "https://open.spotify.com/track/2fV1HEpG1cE5QYlwvAo6kZ"
+    },
+    {
+      "album": {
+        "name": "The 20th Anniversary Show",
+        "url": "https://open.spotify.com/album/55xvqHaWB5UcxmFKK1kuPu"
+      },
+      "artists": [
+        {
+          "name": "Whoopi Goldberg",
+          "url": "https://open.spotify.com/artist/1ZsoHNxHMKTgliJcxSRlb5"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528800,
+      "name": "Beyonce/Hot Wax",
+      "url": "https://open.spotify.com/track/6kp6Nn35z1Cxb8Uufp2jVy"
+    },
+    {
+      "album": {
+        "name": "Butcher",
+        "url": "https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP"
+      },
+      "artists": [
+        {
+          "name": "River Butcher",
+          "url": "https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296629,
+      "name": "Bicycles and Baseball",
+      "url": "https://open.spotify.com/track/4kEmIkUry8dh8q0IS0LYnM"
+    },
+    {
+      "album": {
+        "name": "That's How We Do It!",
+        "url": "https://open.spotify.com/album/6t1hKHHrnYzUxYTLaEl9UL"
+      },
+      "artists": [
+        {
+          "name": "Anjelah Johnson",
+          "url": "https://open.spotify.com/artist/5uM0Xhxwo3D632eVABcctF"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101626,
+      "name": "Big Butt",
+      "url": "https://open.spotify.com/track/3VoruENe1K0v7vZHEuAbpc"
+    },
+    {
+      "album": {
+        "name": "Aisha Tyler Is Lit - Live At The Fillmore",
+        "url": "https://open.spotify.com/album/0P47GaiYciGJxtZnZ68Wxj"
+      },
+      "artists": [
+        {
+          "name": "Aisha Tyler",
+          "url": "https://open.spotify.com/artist/61KCQz5oO2VtckbzwooBTd"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299133,
+      "name": "Bikini Wax",
+      "url": "https://open.spotify.com/track/1VMqyn2NyQZP0bIBsGKBQD"
+    },
+    {
+      "album": {
+        "name": "Black Woman",
+        "url": "https://open.spotify.com/album/0HnCzTZxSRbmyTpn6KFmMh"
+      },
+      "artists": [
+        {
+          "name": "Mo'Nique",
+          "url": "https://open.spotify.com/artist/7sq1xblocppYJHqRbqpnT1"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 678060,
+      "name": "Black Woman",
+      "url": "https://open.spotify.com/track/7HJEUrrOK4nosmpw6J8Xtz"
+    },
+    {
+      "album": {
+        "name": "Just Putting It Out There",
+        "url": "https://open.spotify.com/album/66gyzy324PJAupRBmzPjsV"
+      },
+      "artists": [
+        {
+          "name": "Aparna Nancherla",
+          "url": "https://open.spotify.com/artist/0MNhNBdtGV2T0fKas8pY8J"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492480,
+      "name": "Blessed to Be Stressed",
+      "url": "https://open.spotify.com/track/1GbbYuOhlQSFQSUhJtl1uO"
+    },
+    {
+      "album": {
+        "name": "That's How We Do It!",
+        "url": "https://open.spotify.com/album/6t1hKHHrnYzUxYTLaEl9UL"
+      },
+      "artists": [
+        {
+          "name": "Anjelah Johnson",
+          "url": "https://open.spotify.com/artist/5uM0Xhxwo3D632eVABcctF"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230120,
+      "name": "Blue Shirt",
+      "url": "https://open.spotify.com/track/30B0xAVbKGTfshwBER7IJh"
+    },
+    {
+      "album": {
+        "name": "Marriage Material",
+        "url": "https://open.spotify.com/album/3aFnPqDjw0088KHVngoYWK"
+      },
+      "artists": [
+        {
+          "name": "Cameron Esposito",
+          "url": "https://open.spotify.com/artist/4nhlYI8HVe4BmpJDsNkT5X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294554,
+      "name": "Breaststroke Specialist",
+      "url": "https://open.spotify.com/track/0sz2OOFJ5bQmtQQjpFiw83"
+    },
+    {
+      "album": {
+        "name": "Good One",
+        "url": "https://open.spotify.com/album/77Jf2bocdaDjNaN6dmxh1M"
+      },
+      "artists": [
+        {
+          "name": "Tig Notaro",
+          "url": "https://open.spotify.com/artist/2qWOTC15qbAUKtaH477oLC"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94013,
+      "name": "Can You Believe It",
+      "url": "https://open.spotify.com/track/7lQLhJXNK6u757EkSBMQFH"
+    },
+    {
+      "album": {
+        "name": "Taste This",
+        "url": "https://open.spotify.com/album/7kN4Jq5w7tS7UaFBGMswdK"
+      },
+      "artists": [
+        {
+          "name": "Ellen DeGeneres",
+          "url": "https://open.spotify.com/artist/3P5VwmJXPSKTDK4JpK0HIy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246506,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/5z6Iwx4Kd8Vm2UpD7eZ3E6"
+    },
+    {
+      "album": {
+        "name": "Cutting",
+        "url": "https://open.spotify.com/album/4osPxzV87TSc3zaaFV5H6M"
+      },
+      "artists": [
+        {
+          "name": "Amy Schumer",
+          "url": "https://open.spotify.com/artist/45Ky007Gg9plnSyTZT1E7n"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256173,
+      "name": "Cockblock",
+      "url": "https://open.spotify.com/track/2yGW59d94dNOf90TKTyPhD"
+    },
+    {
+      "album": {
+        "name": "Comedy Death Ray",
+        "url": "https://open.spotify.com/album/1nXjYSKB4TMY4yMtRjK2tl"
+      },
+      "artists": [
+        {
+          "name": "Mindy Kaling",
+          "url": "https://open.spotify.com/artist/6QdHu2GqGkqM6ilUpkTEn7"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259360,
+      "name": "Comedy Death Ray",
+      "url": "https://open.spotify.com/track/7jxUvfjrmAt6xj0LXIAQby"
+    },
+    {
+      "album": {
+        "name": "Ask Me About My New God!",
+        "url": "https://open.spotify.com/album/3NDNvu4qTkb6gnh5XJJ1zi"
+      },
+      "artists": [
+        {
+          "name": "Maria Bamford",
+          "url": "https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135800,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/1QaZGn1Tszl3omBez0af1f"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4sJv8vpMFow4y3khAqQYCk"
+      },
+      "artists": [
+        {
+          "name": "Whitney Cummings",
+          "url": "https://open.spotify.com/artist/5nrXNyP5XC1DIgN1CPycmy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196256,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/64nxQiLpJoXmKoFCGxMML7"
+    },
+    {
+      "album": {
+        "name": "Bronze Digger",
+        "url": "https://open.spotify.com/album/1Rr0vDS90WbqUTr2xN8QzZ"
+      },
+      "artists": [
+        {
+          "name": "Andi Smith",
+          "url": "https://open.spotify.com/artist/7r2RiE4MXUY1ICdA3gEHRv"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Date Night at the St. Louis Funny Bone",
+      "url": "https://open.spotify.com/track/3Y2UJHcNmBC8fjGBL84PZv"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/2DmdKRHjFZHdZJk6JNUSFZ"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156426,
+      "name": "Daughter Of Immigrants",
+      "url": "https://open.spotify.com/track/37UoGVpsXwUf7osjicRTdA"
+    },
+    {
+      "album": {
+        "name": "Taste This",
+        "url": "https://open.spotify.com/album/7kN4Jq5w7tS7UaFBGMswdK"
+      },
+      "artists": [
+        {
+          "name": "Ellen DeGeneres",
+          "url": "https://open.spotify.com/artist/3P5VwmJXPSKTDK4JpK0HIy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134946,
+      "name": "Depend and Leg Warmers",
+      "url": "https://open.spotify.com/track/0YCUWDXurLPHxsaS7KH5MA"
+    },
+    {
+      "album": {
+        "name": "Only Whores Wear Purple",
+        "url": "https://open.spotify.com/album/3HhzJ6WXz2PyYKdR2Dq23O"
+      },
+      "artists": [
+        {
+          "name": "Rachel Feinstein",
+          "url": "https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140886,
+      "name": "Dick Pics",
+      "url": "https://open.spotify.com/track/4wrAQkDdJEe47gG0POLG1G"
+    },
+    {
+      "album": {
+        "name": "Only Whores Wear Purple",
+        "url": "https://open.spotify.com/album/3HhzJ6WXz2PyYKdR2Dq23O"
+      },
+      "artists": [
+        {
+          "name": "Rachel Feinstein",
+          "url": "https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174172,
+      "name": "Dirty Picture",
+      "url": "https://open.spotify.com/track/6nrVswFYuxcx8k1o2qx2Tn"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/2DmdKRHjFZHdZJk6JNUSFZ"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60573,
+      "name": "Dixie Chicks",
+      "url": "https://open.spotify.com/track/45kRd0reo8fTgJKbfIyuQP"
+    },
+    {
+      "album": {
+        "name": "Problem Child",
+        "url": "https://open.spotify.com/album/1ioEIWXCkJgIGlFX7YOrnn"
+      },
+      "artists": [
+        {
+          "name": "Leslie Jones (Aka: Big Les)",
+          "url": "https://open.spotify.com/artist/36BDZu6lR8EQPqNIB9AkwA"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112845,
+      "name": "Do I Look Submissive?",
+      "url": "https://open.spotify.com/track/6685F5dUNzRYLCbIodgUIt"
+    },
+    {
+      "album": {
+        "name": "Partly Yelling with a Chance of Breakdown",
+        "url": "https://open.spotify.com/album/5GvgaN4YhgFFRlPzNe9Fox"
+      },
+      "artists": [
+        {
+          "name": "Becky Donohue",
+          "url": "https://open.spotify.com/artist/6ctf3hgynHv24LV0OcYPc9"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31040,
+      "name": "Doritos",
+      "url": "https://open.spotify.com/track/44hRd1Wb3Ib7nvaWjdXwuG"
+    },
+    {
+      "album": {
+        "name": "Only Whores Wear Purple",
+        "url": "https://open.spotify.com/album/3HhzJ6WXz2PyYKdR2Dq23O"
+      },
+      "artists": [
+        {
+          "name": "Rachel Feinstein",
+          "url": "https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317943,
+      "name": "Douches vs. Tools",
+      "url": "https://open.spotify.com/track/6jQ6QSnpCyBKNNQDE7vOL3"
+    },
+    {
+      "album": {
+        "name": "What Is It You Can't Face?",
+        "url": "https://open.spotify.com/album/2tBagF7dskaIEHGaGreERx"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rhea",
+          "url": "https://open.spotify.com/artist/74pbjvGoRN1lgoio4rx04a"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156120,
+      "name": "Dragon At the Door?",
+      "url": "https://open.spotify.com/track/0MlLFUvcp0q9aVOZ2k31gT"
+    },
+    {
+      "album": {
+        "name": "Partly Yelling with a Chance of Breakdown",
+        "url": "https://open.spotify.com/album/5GvgaN4YhgFFRlPzNe9Fox"
+      },
+      "artists": [
+        {
+          "name": "Becky Donohue",
+          "url": "https://open.spotify.com/artist/6ctf3hgynHv24LV0OcYPc9"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115546,
+      "name": "Drunk Broads",
+      "url": "https://open.spotify.com/track/5pxSdGlTNsHJtEqHEssu8K"
+    },
+    {
+      "album": {
+        "name": "Taste This",
+        "url": "https://open.spotify.com/album/7kN4Jq5w7tS7UaFBGMswdK"
+      },
+      "artists": [
+        {
+          "name": "Ellen DeGeneres",
+          "url": "https://open.spotify.com/artist/3P5VwmJXPSKTDK4JpK0HIy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150266,
+      "name": "Embarrassing Moments",
+      "url": "https://open.spotify.com/track/2AiPqvaxtTsKkts2qPr4Up"
+    },
+    {
+      "album": {
+        "name": "Comedy Central Comics to Watch 2015",
+        "url": "https://open.spotify.com/album/4tZvDUDU2EjVbK6AsShIgv"
+      },
+      "artists": [
+        {
+          "name": "Sam Jay",
+          "url": "https://open.spotify.com/artist/2Ysmf5JLNDRdhjOvoKnnNh"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89189,
+      "name": "Embracing Stereotypes - Uncensored",
+      "url": "https://open.spotify.com/track/4HMC2Op4zE27FvfjnxhuU7"
+    },
+    {
+      "album": {
+        "name": "Only Whores Wear Purple",
+        "url": "https://open.spotify.com/album/3HhzJ6WXz2PyYKdR2Dq23O"
+      },
+      "artists": [
+        {
+          "name": "Rachel Feinstein",
+          "url": "https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260569,
+      "name": "Facebook and Judging People",
+      "url": "https://open.spotify.com/track/1mDLxhSlT91j985iG8dWwP"
+    },
+    {
+      "album": {
+        "name": "Thug Tears",
+        "url": "https://open.spotify.com/album/3YGSkc6OthsDYJAsu0GxHe"
+      },
+      "artists": [
+        {
+          "name": "Rachel Feinstein",
+          "url": "https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96440,
+      "name": "Fairytales and porn",
+      "url": "https://open.spotify.com/track/1lxte30EJT40yd90HCT61s"
+    },
+    {
+      "album": {
+        "name": "Long Live The Queen",
+        "url": "https://open.spotify.com/album/3eZUHvs9gYD82ywBkBI8x0"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lampanelli",
+          "url": "https://open.spotify.com/artist/0w9O7VRUY8j5p2Jbujli1U"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276946,
+      "name": "Fan Appreciation",
+      "url": "https://open.spotify.com/track/5qAos4wIMdBRFTv5vUPubn"
+    },
+    {
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/17lzCLhI2PFjB9ExyjA53v"
+      },
+      "artists": [
+        {
+          "name": "Michelle Buteau",
+          "url": "https://open.spotify.com/artist/6qIXmxBaIo8fXrURzqQAVE"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106496,
+      "name": "Fat Beyonc\u00e9 & Colonialism",
+      "url": "https://open.spotify.com/track/76b2iV2T5IN02chkhEQecF"
+    },
+    {
+      "album": {
+        "name": "Partly Yelling with a Chance of Breakdown",
+        "url": "https://open.spotify.com/album/5GvgaN4YhgFFRlPzNe9Fox"
+      },
+      "artists": [
+        {
+          "name": "Becky Donohue",
+          "url": "https://open.spotify.com/artist/6ctf3hgynHv24LV0OcYPc9"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48546,
+      "name": "Fat Skinny",
+      "url": "https://open.spotify.com/track/69BY81sD7lbY5nwVtC3f2J"
+    },
+    {
+      "album": {
+        "name": "Coke Money",
+        "url": "https://open.spotify.com/album/2B5ht1XGOeBvIxyfqNNOtr"
+      },
+      "artists": [
+        {
+          "name": "Natasha Leggero",
+          "url": "https://open.spotify.com/artist/7wHGioVXNK6WomD7nnT3Nt"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "Faux Fur, Diamonds & Jizz",
+      "url": "https://open.spotify.com/track/4eyr98HAV2khpsnWc2EJLc"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4sJv8vpMFow4y3khAqQYCk"
+      },
+      "artists": [
+        {
+          "name": "Whitney Cummings",
+          "url": "https://open.spotify.com/artist/5nrXNyP5XC1DIgN1CPycmy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156399,
+      "name": "Football",
+      "url": "https://open.spotify.com/track/6FjAwux7E0MOqbYDswuX32"
+    },
+    {
+      "album": {
+        "name": "Cutting",
+        "url": "https://open.spotify.com/album/4osPxzV87TSc3zaaFV5H6M"
+      },
+      "artists": [
+        {
+          "name": "Amy Schumer",
+          "url": "https://open.spotify.com/artist/45Ky007Gg9plnSyTZT1E7n"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279360,
+      "name": "French Guy",
+      "url": "https://open.spotify.com/track/6qK4QTzCdbv3yZHsIpKLTl"
+    },
+    {
+      "album": {
+        "name": "Smells Like Nerd Spirit",
+        "url": "https://open.spotify.com/album/5xpedwJH5ETPgZBcfBzJiV"
+      },
+      "artists": [
+        {
+          "name": "Erikka Innes",
+          "url": "https://open.spotify.com/artist/5t9fjdDBoGhMfjNlfnZJrH"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 20800,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/6JlBGbmqxSMnvzGhTpHZfV"
+    },
+    {
+      "album": {
+        "name": "Smells Like Nerd Spirit",
+        "url": "https://open.spotify.com/album/5xpedwJH5ETPgZBcfBzJiV"
+      },
+      "artists": [
+        {
+          "name": "Erikka Innes",
+          "url": "https://open.spotify.com/artist/5t9fjdDBoGhMfjNlfnZJrH"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83808,
+      "name": "G-Spot 4 and the Wii Video Game System",
+      "url": "https://open.spotify.com/track/25HJ43FEt0PILJLXBMsbl6"
+    },
+    {
+      "album": {
+        "name": "Unwanted Thoughts Syndrome",
+        "url": "https://open.spotify.com/album/1FAWsFvqHeoqTAE3iibXCz"
+      },
+      "artists": [
+        {
+          "name": "Maria Bamford",
+          "url": "https://open.spotify.com/artist/6s99GPG9mopI5PNippBKgO"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72720,
+      "name": "Getting Older",
+      "url": "https://open.spotify.com/track/5FWRSS8OQV0Jr30Gn53Tir"
+    },
+    {
+      "album": {
+        "name": "Partly Yelling with a Chance of Breakdown",
+        "url": "https://open.spotify.com/album/5GvgaN4YhgFFRlPzNe9Fox"
+      },
+      "artists": [
+        {
+          "name": "Becky Donohue",
+          "url": "https://open.spotify.com/artist/6ctf3hgynHv24LV0OcYPc9"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80053,
+      "name": "Gin N Goose",
+      "url": "https://open.spotify.com/track/2jC0kapB935PtDAtij7dBa"
+    },
+    {
+      "album": {
+        "name": "War Paint",
+        "url": "https://open.spotify.com/album/7fZ0DHmAEqnhezcbRpQWB7"
+      },
+      "artists": [
+        {
+          "name": "Iliza Shlesinger",
+          "url": "https://open.spotify.com/artist/62YT0QLaqrFT04TgRkN4El"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281440,
+      "name": "Girl GPS",
+      "url": "https://open.spotify.com/track/65XrdiiL2oCUOgMX71S3wL"
+    },
+    {
+      "album": {
+        "name": "War Paint",
+        "url": "https://open.spotify.com/album/7fZ0DHmAEqnhezcbRpQWB7"
+      },
+      "artists": [
+        {
+          "name": "Iliza Shlesinger",
+          "url": "https://open.spotify.com/artist/62YT0QLaqrFT04TgRkN4El"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328586,
+      "name": "Girl's Night",
+      "url": "https://open.spotify.com/track/0jtIlxqj0dGEmzFgYZZtLF"
+    },
+    {
+      "album": {
+        "name": "Coke Money",
+        "url": "https://open.spotify.com/album/2B5ht1XGOeBvIxyfqNNOtr"
+      },
+      "artists": [
+        {
+          "name": "Natasha Leggero",
+          "url": "https://open.spotify.com/artist/7wHGioVXNK6WomD7nnT3Nt"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336053,
+      "name": "Girl, You Ain't Got No Arms",
+      "url": "https://open.spotify.com/track/0Bw1lOGls2XMMUGXlEH89G"
+    },
+    {
+      "album": {
+        "name": "Only Whores Wear Purple",
+        "url": "https://open.spotify.com/album/3HhzJ6WXz2PyYKdR2Dq23O"
+      },
+      "artists": [
+        {
+          "name": "Rachel Feinstein",
+          "url": "https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69975,
+      "name": "Greenroom: Rachel and Amy",
+      "url": "https://open.spotify.com/track/0uEmXABtvrPc3GQmiACRdh"
+    },
+    {
+      "album": {
+        "name": "Irish Goodbye",
+        "url": "https://open.spotify.com/album/7dMMj8UD19TKITq1qDz7fm"
+      },
+      "artists": [
+        {
+          "name": "Morgan Murphy",
+          "url": "https://open.spotify.com/artist/5iI5JJjNYG1RaP6g1j6bgi"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87479,
+      "name": "Group Therapy",
+      "url": "https://open.spotify.com/track/1FJ0m0NGk47hMA2qxnCRLR"
+    },
+    {
+      "album": {
+        "name": "Same Sex Symbol",
+        "url": "https://open.spotify.com/album/5cUPNXGd5YeKw5jjYNBCSa"
+      },
+      "artists": [
+        {
+          "name": "Cameron Esposito",
+          "url": "https://open.spotify.com/artist/4nhlYI8HVe4BmpJDsNkT5X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316401,
+      "name": "Guacamole",
+      "url": "https://open.spotify.com/track/4GPAGpY23FnkGYXagC6cpd"
+    },
+    {
+      "album": {
+        "name": "Cutting",
+        "url": "https://open.spotify.com/album/4osPxzV87TSc3zaaFV5H6M"
+      },
+      "artists": [
+        {
+          "name": "Amy Schumer",
+          "url": "https://open.spotify.com/artist/45Ky007Gg9plnSyTZT1E7n"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234786,
+      "name": "H.S. Crush",
+      "url": "https://open.spotify.com/track/4bePXWlGoXiw3Gx2MzoMsP"
+    },
+    {
+      "album": {
+        "name": "Butcher",
+        "url": "https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP"
+      },
+      "artists": [
+        {
+          "name": "River Butcher",
+          "url": "https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Haircuts and Flight Attendants",
+      "url": "https://open.spotify.com/track/7MiPtkBHIZD24d3IVhB8Vh"
+    },
+    {
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/17lzCLhI2PFjB9ExyjA53v"
+      },
+      "artists": [
+        {
+          "name": "Michelle Buteau",
+          "url": "https://open.spotify.com/artist/6qIXmxBaIo8fXrURzqQAVE"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59572,
+      "name": "Happy Fucking Birthday Kevin",
+      "url": "https://open.spotify.com/track/6DYbvp0QnIcwOo7aAI0ScY"
+    },
+    {
+      "album": {
+        "name": "That's How We Do It!",
+        "url": "https://open.spotify.com/album/6t1hKHHrnYzUxYTLaEl9UL"
+      },
+      "artists": [
+        {
+          "name": "Anjelah Johnson",
+          "url": "https://open.spotify.com/artist/5uM0Xhxwo3D632eVABcctF"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36866,
+      "name": "Head Nod",
+      "url": "https://open.spotify.com/track/2kVIEflVnZVBCs7Rkvwy8o"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/2DmdKRHjFZHdZJk6JNUSFZ"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82133,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/54fODJX5rvcM6okh6lVAqf"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/2DmdKRHjFZHdZJk6JNUSFZ"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153266,
+      "name": "Her Pussy Exploded",
+      "url": "https://open.spotify.com/track/22LfbOTS3NfBL5b1nhS4XB"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4sJv8vpMFow4y3khAqQYCk"
+      },
+      "artists": [
+        {
+          "name": "Whitney Cummings",
+          "url": "https://open.spotify.com/artist/5nrXNyP5XC1DIgN1CPycmy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111557,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/5Mo0pV6gAMzOmA3ijMwfBV"
+    },
+    {
+      "album": {
+        "name": "Women Who Kill",
+        "url": "https://open.spotify.com/album/7HymEKb1Lb1Jo1O4dbg49s"
+      },
+      "artists": [
+        {
+          "name": "Nikki Glaser",
+          "url": "https://open.spotify.com/artist/0uLhSelHWVPHYhC4zMN4bn"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380106,
+      "name": "Hide Your Crazy",
+      "url": "https://open.spotify.com/track/3pJonY10tmMbJl3cr0bh8t"
+    },
+    {
+      "album": {
+        "name": "Coke Money",
+        "url": "https://open.spotify.com/album/2B5ht1XGOeBvIxyfqNNOtr"
+      },
+      "artists": [
+        {
+          "name": "Natasha Leggero",
+          "url": "https://open.spotify.com/artist/7wHGioVXNK6WomD7nnT3Nt"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165013,
+      "name": "Hip Hop",
+      "url": "https://open.spotify.com/track/3VXbNAMH4NbyciYBtUzZAK"
+    },
+    {
+      "album": {
+        "name": "Bronze Digger",
+        "url": "https://open.spotify.com/album/1Rr0vDS90WbqUTr2xN8QzZ"
+      },
+      "artists": [
+        {
+          "name": "Andi Smith",
+          "url": "https://open.spotify.com/artist/7r2RiE4MXUY1ICdA3gEHRv"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Holy Mother of God I Hate Baseball",
+      "url": "https://open.spotify.com/track/5rsGIcJBg4QwPoSjnUhRR4"
+    },
+    {
+      "album": {
+        "name": "Long Live The Queen",
+        "url": "https://open.spotify.com/album/3eZUHvs9gYD82ywBkBI8x0"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lampanelli",
+          "url": "https://open.spotify.com/artist/0w9O7VRUY8j5p2Jbujli1U"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338493,
+      "name": "Homos Are My Favorite People",
+      "url": "https://open.spotify.com/track/3CMX4XvITuOwo62Wkked1E"
+    },
+    {
+      "album": {
+        "name": "Just Putting It Out There",
+        "url": "https://open.spotify.com/album/66gyzy324PJAupRBmzPjsV"
+      },
+      "artists": [
+        {
+          "name": "Aparna Nancherla",
+          "url": "https://open.spotify.com/artist/0MNhNBdtGV2T0fKas8pY8J"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94453,
+      "name": "How Did We Get Here?",
+      "url": "https://open.spotify.com/track/5mzJOjBaduRq5lvO61IdeE"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/2DmdKRHjFZHdZJk6JNUSFZ"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "I Can't Run Up A Wall",
+      "url": "https://open.spotify.com/track/09dgPhwAEherwZPdO9bZwH"
+    },
+    {
+      "album": {
+        "name": "Problem Child",
+        "url": "https://open.spotify.com/album/1ioEIWXCkJgIGlFX7YOrnn"
+      },
+      "artists": [
+        {
+          "name": "Leslie Jones (Aka: Big Les)",
+          "url": "https://open.spotify.com/artist/36BDZu6lR8EQPqNIB9AkwA"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176041,
+      "name": "I Hate Pretty B*****s",
+      "url": "https://open.spotify.com/track/2mOGAglHheXaAlkw642TT8"
+    },
+    {
+      "album": {
+        "name": "Comedy Central Comics to Watch 2015",
+        "url": "https://open.spotify.com/album/4tZvDUDU2EjVbK6AsShIgv"
+      },
+      "artists": [
+        {
+          "name": "Jo Firestone",
+          "url": "https://open.spotify.com/artist/28Q332Py9a6CnNE988ZTCV"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123089,
+      "name": "I Have Been There",
+      "url": "https://open.spotify.com/track/6I6Vz1yxVzAMKAcOEZoeen"
+    },
+    {
+      "album": {
+        "name": "I Hear You Coming",
+        "url": "https://open.spotify.com/album/0ikevLYebyKTaZ4eVdXzzv"
+      },
+      "artists": [
+        {
+          "name": "Mo'Nique",
+          "url": "https://open.spotify.com/artist/7sq1xblocppYJHqRbqpnT1"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306076,
+      "name": "I Hear You Coming",
+      "url": "https://open.spotify.com/track/2tgr5xHE39CBIRfeU6U4nV"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/2DmdKRHjFZHdZJk6JNUSFZ"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155893,
+      "name": "I'm Not A Breeder",
+      "url": "https://open.spotify.com/track/60TPuBKP3OC1r9nQXfLEgt"
+    },
+    {
+      "album": {
+        "name": "Notorious C.H.O. [Live At Carnegie Hall]",
+        "url": "https://open.spotify.com/album/45sz3442HNK95S2469Bnqn"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79893,
+      "name": "If Gay Men Had Periods",
+      "url": "https://open.spotify.com/track/7DnFJ0sJWRtCz13rP8aIno"
+    },
+    {
+      "album": {
+        "name": "Notorious C.H.O. [Live At Carnegie Hall]",
+        "url": "https://open.spotify.com/album/45sz3442HNK95S2469Bnqn"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "If Straight Men Had Periods",
+      "url": "https://open.spotify.com/track/10G0HJgJzzlZxFuSXCIwNi"
+    },
+    {
+      "album": {
+        "name": "Bronze Digger",
+        "url": "https://open.spotify.com/album/1Rr0vDS90WbqUTr2xN8QzZ"
+      },
+      "artists": [
+        {
+          "name": "Andi Smith",
+          "url": "https://open.spotify.com/artist/7r2RiE4MXUY1ICdA3gEHRv"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "It Changes Everything",
+      "url": "https://open.spotify.com/track/4R7MYSJfwhtRhl7m8BgkDX"
+    },
+    {
+      "album": {
+        "name": "Women Who Kill",
+        "url": "https://open.spotify.com/album/7HymEKb1Lb1Jo1O4dbg49s"
+      },
+      "artists": [
+        {
+          "name": "Amy Schumer",
+          "url": "https://open.spotify.com/artist/45Ky007Gg9plnSyTZT1E7n"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265853,
+      "name": "I\u2019m Not Shallow, Just Really Pretty",
+      "url": "https://open.spotify.com/track/0Dp0rFbJv8276fSX4mNnNZ"
+    },
+    {
+      "album": {
+        "name": "Irish Goodbye",
+        "url": "https://open.spotify.com/album/7dMMj8UD19TKITq1qDz7fm"
+      },
+      "artists": [
+        {
+          "name": "Morgan Murphy",
+          "url": "https://open.spotify.com/artist/5iI5JJjNYG1RaP6g1j6bgi"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60190,
+      "name": "Joke's On You",
+      "url": "https://open.spotify.com/track/3pyXB8VeaP8pLw710LfTfD"
+    },
+    {
+      "album": {
+        "name": "Sex With Nerds",
+        "url": "https://open.spotify.com/album/44Ecw2QSP8fsx9yGq7sPDO"
+      },
+      "artists": [
+        {
+          "name": "Erikka Innes",
+          "url": "https://open.spotify.com/artist/5t9fjdDBoGhMfjNlfnZJrH"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80693,
+      "name": "Legal Prostitution",
+      "url": "https://open.spotify.com/track/1J3RbWiA8lN5pWQ1yEpw10"
+    },
+    {
+      "album": {
+        "name": "Good One",
+        "url": "https://open.spotify.com/album/77Jf2bocdaDjNaN6dmxh1M"
+      },
+      "artists": [
+        {
+          "name": "Tig Notaro",
+          "url": "https://open.spotify.com/artist/2qWOTC15qbAUKtaH477oLC"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101666,
+      "name": "Little Titties",
+      "url": "https://open.spotify.com/track/3CyBARF8GTywLHX567S8D3"
+    },
+    {
+      "album": {
+        "name": "Smells Like Nerd Spirit",
+        "url": "https://open.spotify.com/album/5xpedwJH5ETPgZBcfBzJiV"
+      },
+      "artists": [
+        {
+          "name": "Erikka Innes",
+          "url": "https://open.spotify.com/artist/5t9fjdDBoGhMfjNlfnZJrH"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166528,
+      "name": "Living, Dating, And Losing Weight in La",
+      "url": "https://open.spotify.com/track/1CiRiuJvOszalKRhzQdJx8"
+    },
+    {
+      "album": {
+        "name": "The Awkward Comedy Show",
+        "url": "https://open.spotify.com/album/4qGH07nj67tt1Bl5WpP7lZ"
+      },
+      "artists": [
+        {
+          "name": "Marina Franklin",
+          "url": "https://open.spotify.com/artist/0NEMfunOZ2o02fIRGzEuMz"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189480,
+      "name": "Looking For A Man",
+      "url": "https://open.spotify.com/track/17HdUIkKu0922OUcEeeV0J"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4sJv8vpMFow4y3khAqQYCk"
+      },
+      "artists": [
+        {
+          "name": "Whitney Cummings",
+          "url": "https://open.spotify.com/artist/5nrXNyP5XC1DIgN1CPycmy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166720,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0aVCsiq1y9TZ00q1XZd7Ry"
+    },
+    {
+      "album": {
+        "name": "Unwanted Thoughts Syndrome",
+        "url": "https://open.spotify.com/album/1FAWsFvqHeoqTAE3iibXCz"
+      },
+      "artists": [
+        {
+          "name": "Maria Bamford",
+          "url": "https://open.spotify.com/artist/6s99GPG9mopI5PNippBKgO"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241520,
+      "name": "Love Songs",
+      "url": "https://open.spotify.com/track/1nFJHxTilHASeWZNyuNcxd"
+    },
+    {
+      "album": {
+        "name": "What Is It You Can't Face?",
+        "url": "https://open.spotify.com/album/2tBagF7dskaIEHGaGreERx"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rhea",
+          "url": "https://open.spotify.com/artist/74pbjvGoRN1lgoio4rx04a"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232480,
+      "name": "Mammals & Starbucks",
+      "url": "https://open.spotify.com/track/3JWyA7He57I5a42HH4mc9f"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4sJv8vpMFow4y3khAqQYCk"
+      },
+      "artists": [
+        {
+          "name": "Whitney Cummings",
+          "url": "https://open.spotify.com/artist/5nrXNyP5XC1DIgN1CPycmy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156114,
+      "name": "Marriage",
+      "url": "https://open.spotify.com/track/2Jc2BNh1Z5224ecpeqT7Wd"
+    },
+    {
+      "album": {
+        "name": "That's How We Do It!",
+        "url": "https://open.spotify.com/album/6t1hKHHrnYzUxYTLaEl9UL"
+      },
+      "artists": [
+        {
+          "name": "Anjelah Johnson",
+          "url": "https://open.spotify.com/artist/5uM0Xhxwo3D632eVABcctF"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67373,
+      "name": "Married Couples",
+      "url": "https://open.spotify.com/track/5OUgLFrcH5e7bJxv5ftI8g"
+    },
+    {
+      "album": {
+        "name": "Cutting",
+        "url": "https://open.spotify.com/album/4osPxzV87TSc3zaaFV5H6M"
+      },
+      "artists": [
+        {
+          "name": "Amy Schumer",
+          "url": "https://open.spotify.com/artist/45Ky007Gg9plnSyTZT1E7n"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171480,
+      "name": "Masturbating",
+      "url": "https://open.spotify.com/track/6IXLbeoCISk1hhcYozWBGl"
+    },
+    {
+      "album": {
+        "name": "Aisha Tyler Is Lit - Live At The Fillmore",
+        "url": "https://open.spotify.com/album/0P47GaiYciGJxtZnZ68Wxj"
+      },
+      "artists": [
+        {
+          "name": "Aisha Tyler",
+          "url": "https://open.spotify.com/artist/61KCQz5oO2VtckbzwooBTd"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285933,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/30cXhcDoSCQyhNnno6I8ym"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40500,
+      "name": "Michelle Buteau on her Inspirations",
+      "url": "https://open.spotify.com/track/4CxZtjeToo41gdu8QXQw0M"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/2DmdKRHjFZHdZJk6JNUSFZ"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159266,
+      "name": "Monogamy Is So Weird",
+      "url": "https://open.spotify.com/track/1jHHw22J0ieElICCg5gu1m"
+    },
+    {
+      "album": {
+        "name": "Smells Like Nerd Spirit",
+        "url": "https://open.spotify.com/album/5xpedwJH5ETPgZBcfBzJiV"
+      },
+      "artists": [
+        {
+          "name": "Erikka Innes",
+          "url": "https://open.spotify.com/artist/5t9fjdDBoGhMfjNlfnZJrH"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27562,
+      "name": "Moving in With My Boyfriend",
+      "url": "https://open.spotify.com/track/2fyFoxeW8afm0z2Gs5MNmt"
+    },
+    {
+      "album": {
+        "name": "I Love Lucy/ My Favorite Husband",
+        "url": "https://open.spotify.com/album/0NWw7adTBhub9WicFElCIV"
+      },
+      "artists": [
+        {
+          "name": "Lucille Ball",
+          "url": "https://open.spotify.com/artist/4iHZOJwqINvw5RxPULuaEJ"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1773434,
+      "name": "My Favorite Husband",
+      "url": "https://open.spotify.com/track/3S1UsL6vPKHTWaVKZdVSH6"
+    },
+    {
+      "album": {
+        "name": "That's How We Do It!",
+        "url": "https://open.spotify.com/album/6t1hKHHrnYzUxYTLaEl9UL"
+      },
+      "artists": [
+        {
+          "name": "Anjelah Johnson",
+          "url": "https://open.spotify.com/artist/5uM0Xhxwo3D632eVABcctF"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150786,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/7pAmUliMHut9tBzTmUoOyK"
+    },
+    {
+      "album": {
+        "name": "Long Live The Queen",
+        "url": "https://open.spotify.com/album/3eZUHvs9gYD82ywBkBI8x0"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lampanelli",
+          "url": "https://open.spotify.com/artist/0w9O7VRUY8j5p2Jbujli1U"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338840,
+      "name": "My Reputation",
+      "url": "https://open.spotify.com/track/1xibpDCu1YOE3NBRQgNMOP"
+    },
+    {
+      "album": {
+        "name": "That's How We Do It!",
+        "url": "https://open.spotify.com/album/6t1hKHHrnYzUxYTLaEl9UL"
+      },
+      "artists": [
+        {
+          "name": "Anjelah Johnson",
+          "url": "https://open.spotify.com/artist/5uM0Xhxwo3D632eVABcctF"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391293,
+      "name": "Nail Salon",
+      "url": "https://open.spotify.com/track/0TUAU01UIr491RrxbGrtwz"
+    },
+    {
+      "album": {
+        "name": "Good One",
+        "url": "https://open.spotify.com/album/77Jf2bocdaDjNaN6dmxh1M"
+      },
+      "artists": [
+        {
+          "name": "Tig Notaro",
+          "url": "https://open.spotify.com/artist/2qWOTC15qbAUKtaH477oLC"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95920,
+      "name": "Names",
+      "url": "https://open.spotify.com/track/72lfS9YIND3BhoNs58eXrd"
+    },
+    {
+      "album": {
+        "name": "Just Putting It Out There",
+        "url": "https://open.spotify.com/album/66gyzy324PJAupRBmzPjsV"
+      },
+      "artists": [
+        {
+          "name": "Aparna Nancherla",
+          "url": "https://open.spotify.com/artist/0MNhNBdtGV2T0fKas8pY8J"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567200,
+      "name": "New Yawk City?!",
+      "url": "https://open.spotify.com/track/4FJFQTUK4DpL4h25HTm2vc"
+    },
+    {
+      "album": {
+        "name": "Irish Goodbye",
+        "url": "https://open.spotify.com/album/7dMMj8UD19TKITq1qDz7fm"
+      },
+      "artists": [
+        {
+          "name": "Morgan Murphy",
+          "url": "https://open.spotify.com/artist/5iI5JJjNYG1RaP6g1j6bgi"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83384,
+      "name": "Not Gay",
+      "url": "https://open.spotify.com/track/3EVpbNyWa8MWCgFxrUzpEd"
+    },
+    {
+      "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/1eP0gWwLK9E4inW3DTPJyX"
+      },
+      "artists": [
+        {
+          "name": "Kathy Griffin",
+          "url": "https://open.spotify.com/artist/7ahoEOUbXDm3vYTvOHWXbe"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379533,
+      "name": "Oprah's Favorite Things",
+      "url": "https://open.spotify.com/track/2eWzptOJ0zvN3pokKXvV6g"
+    },
+    {
+      "album": {
+        "name": "Ask Me About My New God!",
+        "url": "https://open.spotify.com/album/3NDNvu4qTkb6gnh5XJJ1zi"
+      },
+      "artists": [
+        {
+          "name": "Maria Bamford",
+          "url": "https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140106,
+      "name": "Over 40 and Dating",
+      "url": "https://open.spotify.com/track/7ERMoOq9btOum3LwAbnB88"
+    },
+    {
+      "album": {
+        "name": "Irish Goodbye",
+        "url": "https://open.spotify.com/album/7dMMj8UD19TKITq1qDz7fm"
+      },
+      "artists": [
+        {
+          "name": "Morgan Murphy",
+          "url": "https://open.spotify.com/artist/5iI5JJjNYG1RaP6g1j6bgi"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157402,
+      "name": "Penis In Your Mouth",
+      "url": "https://open.spotify.com/track/3LMnwMDc7DzKMk8vS0z48G"
+    },
+    {
+      "album": {
+        "name": "Partly Yelling with a Chance of Breakdown",
+        "url": "https://open.spotify.com/album/5GvgaN4YhgFFRlPzNe9Fox"
+      },
+      "artists": [
+        {
+          "name": "Becky Donohue",
+          "url": "https://open.spotify.com/artist/6ctf3hgynHv24LV0OcYPc9"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Phat Ass",
+      "url": "https://open.spotify.com/track/5DBAeT4XUD9RIIh0Txhopz"
+    },
+    {
+      "album": {
+        "name": "Good One",
+        "url": "https://open.spotify.com/album/77Jf2bocdaDjNaN6dmxh1M"
+      },
+      "artists": [
+        {
+          "name": "Tig Notaro",
+          "url": "https://open.spotify.com/artist/2qWOTC15qbAUKtaH477oLC"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62840,
+      "name": "Popular Phrases",
+      "url": "https://open.spotify.com/track/0azE3RmtC1P3Y6fRKJIDwY"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/2DmdKRHjFZHdZJk6JNUSFZ"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110506,
+      "name": "Pussy Write Letter",
+      "url": "https://open.spotify.com/track/2R1VcBJ7tQOeXrSkliso0B"
+    },
+    {
+      "album": {
+        "name": "Butcher",
+        "url": "https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP"
+      },
+      "artists": [
+        {
+          "name": "River Butcher",
+          "url": "https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Real Butcher",
+      "url": "https://open.spotify.com/track/0595kioxxL2vjY3VWzutfv"
+    },
+    {
+      "album": {
+        "name": "Relax Your Muscles",
+        "url": "https://open.spotify.com/album/5g08pm79CgnzbUQGejIufX"
+      },
+      "artists": [
+        {
+          "name": "Mo'Nique",
+          "url": "https://open.spotify.com/artist/7sq1xblocppYJHqRbqpnT1"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480078,
+      "name": "Relax Your Muscles",
+      "url": "https://open.spotify.com/track/3tpCMLXrDF4WgRYITwlJOI"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4sJv8vpMFow4y3khAqQYCk"
+      },
+      "artists": [
+        {
+          "name": "Whitney Cummings",
+          "url": "https://open.spotify.com/artist/5nrXNyP5XC1DIgN1CPycmy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102556,
+      "name": "Romantic Expectations",
+      "url": "https://open.spotify.com/track/2eklLiHeZZiKY5Spiw29yy"
+    },
+    {
+      "album": {
+        "name": "Ask Me About My New God!",
+        "url": "https://open.spotify.com/album/3NDNvu4qTkb6gnh5XJJ1zi"
+      },
+      "artists": [
+        {
+          "name": "Maria Bamford",
+          "url": "https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115760,
+      "name": "Romantic Expectations of Everyone",
+      "url": "https://open.spotify.com/track/632rEUly1PVmwnmRj1ZmeR"
+    },
+    {
+      "album": {
+        "name": "Marriage Material",
+        "url": "https://open.spotify.com/album/3aFnPqDjw0088KHVngoYWK"
+      },
+      "artists": [
+        {
+          "name": "Cameron Esposito",
+          "url": "https://open.spotify.com/artist/4nhlYI8HVe4BmpJDsNkT5X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258023,
+      "name": "Rudy",
+      "url": "https://open.spotify.com/track/2hObyBxqVTZ3YIWHj4orDu"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35750,
+      "name": "Sam Jay on Women in Comedy",
+      "url": "https://open.spotify.com/track/62tCerdEYFQLe7WCBJRbjf"
+    },
+    {
+      "album": {
+        "name": "Marriage Material",
+        "url": "https://open.spotify.com/album/3aFnPqDjw0088KHVngoYWK"
+      },
+      "artists": [
+        {
+          "name": "Cameron Esposito",
+          "url": "https://open.spotify.com/artist/4nhlYI8HVe4BmpJDsNkT5X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253305,
+      "name": "Saving Myself",
+      "url": "https://open.spotify.com/track/5B5PHLI4TK5jBDRfvw8Q4f"
+    },
+    {
+      "album": {
+        "name": "Taste This",
+        "url": "https://open.spotify.com/album/7kN4Jq5w7tS7UaFBGMswdK"
+      },
+      "artists": [
+        {
+          "name": "Ellen DeGeneres",
+          "url": "https://open.spotify.com/artist/3P5VwmJXPSKTDK4JpK0HIy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291600,
+      "name": "Scary Things",
+      "url": "https://open.spotify.com/track/5CbkAujrAEtP0Klm0bGzFE"
+    },
+    {
+      "album": {
+        "name": "Good One",
+        "url": "https://open.spotify.com/album/77Jf2bocdaDjNaN6dmxh1M"
+      },
+      "artists": [
+        {
+          "name": "Tig Notaro",
+          "url": "https://open.spotify.com/artist/2qWOTC15qbAUKtaH477oLC"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 757466,
+      "name": "Self Defense/Shark Attack",
+      "url": "https://open.spotify.com/track/4IbfUcBebUbp4NODo4PwaX"
+    },
+    {
+      "album": {
+        "name": "Only Whores Wear Purple",
+        "url": "https://open.spotify.com/album/3HhzJ6WXz2PyYKdR2Dq23O"
+      },
+      "artists": [
+        {
+          "name": "Rachel Feinstein",
+          "url": "https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309153,
+      "name": "Sexual Attorney",
+      "url": "https://open.spotify.com/track/3Ws9vyfQbjacczrmziCXMh"
+    },
+    {
+      "album": {
+        "name": "Women Who Kill",
+        "url": "https://open.spotify.com/album/7HymEKb1Lb1Jo1O4dbg49s"
+      },
+      "artists": [
+        {
+          "name": "Nikki Glaser",
+          "url": "https://open.spotify.com/artist/0uLhSelHWVPHYhC4zMN4bn"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298013,
+      "name": "Skype Breakup",
+      "url": "https://open.spotify.com/track/55uLNuvDiDABdiLe4QBjQO"
+    },
+    {
+      "album": {
+        "name": "War Paint",
+        "url": "https://open.spotify.com/album/7fZ0DHmAEqnhezcbRpQWB7"
+      },
+      "artists": [
+        {
+          "name": "Iliza Shlesinger",
+          "url": "https://open.spotify.com/artist/62YT0QLaqrFT04TgRkN4El"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Snootch",
+      "url": "https://open.spotify.com/track/3rtFNbn31gjBM0DgkLzWYD"
+    },
+    {
+      "album": {
+        "name": "Taste This",
+        "url": "https://open.spotify.com/album/7kN4Jq5w7tS7UaFBGMswdK"
+      },
+      "artists": [
+        {
+          "name": "Ellen DeGeneres",
+          "url": "https://open.spotify.com/artist/3P5VwmJXPSKTDK4JpK0HIy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262866,
+      "name": "Stupid Things",
+      "url": "https://open.spotify.com/track/63OiEe747bl8C4NNeLaLb5"
+    },
+    {
+      "album": {
+        "name": "Sex With Nerds",
+        "url": "https://open.spotify.com/album/44Ecw2QSP8fsx9yGq7sPDO"
+      },
+      "artists": [
+        {
+          "name": "Erikka Innes",
+          "url": "https://open.spotify.com/artist/5t9fjdDBoGhMfjNlfnZJrH"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82333,
+      "name": "Superman and Passive Aggressive Man",
+      "url": "https://open.spotify.com/track/5UQSGfPvWgLuoX0rFCmUTB"
+    },
+    {
+      "album": {
+        "name": "Bronze Digger",
+        "url": "https://open.spotify.com/album/1Rr0vDS90WbqUTr2xN8QzZ"
+      },
+      "artists": [
+        {
+          "name": "Andi Smith",
+          "url": "https://open.spotify.com/artist/7r2RiE4MXUY1ICdA3gEHRv"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Surprise!",
+      "url": "https://open.spotify.com/track/04P5Y93bIK1HRJ68hQdBCx"
+    },
+    {
+      "album": {
+        "name": "Cutting",
+        "url": "https://open.spotify.com/album/4osPxzV87TSc3zaaFV5H6M"
+      },
+      "artists": [
+        {
+          "name": "Amy Schumer",
+          "url": "https://open.spotify.com/artist/45Ky007Gg9plnSyTZT1E7n"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186693,
+      "name": "Swedes",
+      "url": "https://open.spotify.com/track/4Z2uDO3EM6xHYvxslOddg6"
+    },
+    {
+      "album": {
+        "name": "Don't Start With Me",
+        "url": "https://open.spotify.com/album/55ZTiXqhwRvzpMNyOcVegp"
+      },
+      "artists": [
+        {
+          "name": "Joan Rivers",
+          "url": "https://open.spotify.com/artist/6DRNKPm12DTL4k2XFkyiYb"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129120,
+      "name": "Swimming with Dolphins",
+      "url": "https://open.spotify.com/track/4eC8HjUQxZ09VYMejcefdr"
+    },
+    {
+      "album": {
+        "name": "Ask Me About My New God!",
+        "url": "https://open.spotify.com/album/3NDNvu4qTkb6gnh5XJJ1zi"
+      },
+      "artists": [
+        {
+          "name": "Maria Bamford",
+          "url": "https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114306,
+      "name": "Terrible Relationships",
+      "url": "https://open.spotify.com/track/3VsXfGdNSgUAy5SZCQ8h8T"
+    },
+    {
+      "album": {
+        "name": "That's How We Do It!",
+        "url": "https://open.spotify.com/album/6t1hKHHrnYzUxYTLaEl9UL"
+      },
+      "artists": [
+        {
+          "name": "Anjelah Johnson",
+          "url": "https://open.spotify.com/artist/5uM0Xhxwo3D632eVABcctF"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140226,
+      "name": "That's How We Do It",
+      "url": "https://open.spotify.com/track/1rQDJF8mcKUXKqgrh5rnwa"
+    },
+    {
+      "album": {
+        "name": "What Is It You Can't Face?",
+        "url": "https://open.spotify.com/album/2tBagF7dskaIEHGaGreERx"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rhea",
+          "url": "https://open.spotify.com/artist/74pbjvGoRN1lgoio4rx04a"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302360,
+      "name": "The Biggest Losers",
+      "url": "https://open.spotify.com/track/4l5eZIpIpXNmOiEQDtA1NA"
+    },
+    {
+      "album": {
+        "name": "Women Who Kill",
+        "url": "https://open.spotify.com/album/7HymEKb1Lb1Jo1O4dbg49s"
+      },
+      "artists": [
+        {
+          "name": "Marina Franklin",
+          "url": "https://open.spotify.com/artist/0NEMfunOZ2o02fIRGzEuMz"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333333,
+      "name": "The Desperate Look",
+      "url": "https://open.spotify.com/track/4MXUYzrJxZX74KVP3p98vb"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4sJv8vpMFow4y3khAqQYCk"
+      },
+      "artists": [
+        {
+          "name": "Whitney Cummings",
+          "url": "https://open.spotify.com/artist/5nrXNyP5XC1DIgN1CPycmy"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136164,
+      "name": "The female brain",
+      "url": "https://open.spotify.com/track/6hmx9X7xA2d3zQXXl8H45N"
+    },
+    {
+      "album": {
+        "name": "Aisha Tyler Is Lit - Live At The Fillmore",
+        "url": "https://open.spotify.com/album/0P47GaiYciGJxtZnZ68Wxj"
+      },
+      "artists": [
+        {
+          "name": "Aisha Tyler",
+          "url": "https://open.spotify.com/artist/61KCQz5oO2VtckbzwooBTd"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256880,
+      "name": "The Joys of Couplehood",
+      "url": "https://open.spotify.com/track/0iGZ5YpbjIkXyFcGXJ1wh6"
+    },
+    {
+      "album": {
+        "name": "Long Live The Queen",
+        "url": "https://open.spotify.com/album/3eZUHvs9gYD82ywBkBI8x0"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lampanelli",
+          "url": "https://open.spotify.com/artist/0w9O7VRUY8j5p2Jbujli1U"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255920,
+      "name": "The Luckiest Bitch",
+      "url": "https://open.spotify.com/track/32ef3FopceLxVLEV7RPiHX"
+    },
+    {
+      "album": {
+        "name": "Aisha Tyler Is Lit - Live At The Fillmore",
+        "url": "https://open.spotify.com/album/0P47GaiYciGJxtZnZ68Wxj"
+      },
+      "artists": [
+        {
+          "name": "Aisha Tyler",
+          "url": "https://open.spotify.com/artist/61KCQz5oO2VtckbzwooBTd"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169760,
+      "name": "The Miracle Of LIfe",
+      "url": "https://open.spotify.com/track/0z8ooXIjHRrIMtrNu2PDjV"
+    },
+    {
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/17lzCLhI2PFjB9ExyjA53v"
+      },
+      "artists": [
+        {
+          "name": "Michelle Buteau",
+          "url": "https://open.spotify.com/artist/6qIXmxBaIo8fXrURzqQAVE"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201240,
+      "name": "The Truth About Marriage",
+      "url": "https://open.spotify.com/track/3n5hb2QtHspMBK8Hfm9gEW"
+    },
+    {
+      "album": {
+        "name": "Bronze Digger",
+        "url": "https://open.spotify.com/album/1Rr0vDS90WbqUTr2xN8QzZ"
+      },
+      "artists": [
+        {
+          "name": "Andi Smith",
+          "url": "https://open.spotify.com/artist/7r2RiE4MXUY1ICdA3gEHRv"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "The Wasp",
+      "url": "https://open.spotify.com/track/3FD3lNsMEZHeiDW1WCynkU"
+    },
+    {
+      "album": {
+        "name": "Same Sex Symbol",
+        "url": "https://open.spotify.com/album/5cUPNXGd5YeKw5jjYNBCSa"
+      },
+      "artists": [
+        {
+          "name": "Cameron Esposito",
+          "url": "https://open.spotify.com/artist/4nhlYI8HVe4BmpJDsNkT5X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220347,
+      "name": "Threesome Proposition",
+      "url": "https://open.spotify.com/track/6hHGEW7zlpQzJd9R4l8QYV"
+    },
+    {
+      "album": {
+        "name": "More Comedy Caravan (Original)",
+        "url": "https://open.spotify.com/album/1Ad6p9Yep1JL2xxrq9XYLh"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Diller",
+          "url": "https://open.spotify.com/artist/6zpBaeCJhmfpQP6GrfoGwv"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298145,
+      "name": "Thrift Flight - Original",
+      "url": "https://open.spotify.com/track/0JkASYldoiy5zELPUyzgkh"
+    },
+    {
+      "album": {
+        "name": "Bronze Digger",
+        "url": "https://open.spotify.com/album/1Rr0vDS90WbqUTr2xN8QzZ"
+      },
+      "artists": [
+        {
+          "name": "Andi Smith",
+          "url": "https://open.spotify.com/artist/7r2RiE4MXUY1ICdA3gEHRv"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Unsolicited Advice",
+      "url": "https://open.spotify.com/track/10hjmwsswkBmLTR73XHWpX"
+    },
+    {
+      "album": {
+        "name": "What Is It You Can't Face?",
+        "url": "https://open.spotify.com/album/2tBagF7dskaIEHGaGreERx"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rhea",
+          "url": "https://open.spotify.com/artist/74pbjvGoRN1lgoio4rx04a"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Wally Walyy Ding Dong",
+      "url": "https://open.spotify.com/track/4tZh5ggqGswGi26gsO1ah7"
+    },
+    {
+      "album": {
+        "name": "Bronze Digger",
+        "url": "https://open.spotify.com/album/1Rr0vDS90WbqUTr2xN8QzZ"
+      },
+      "artists": [
+        {
+          "name": "Andi Smith",
+          "url": "https://open.spotify.com/artist/7r2RiE4MXUY1ICdA3gEHRv"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Wedding Bells",
+      "url": "https://open.spotify.com/track/6UOy0JFu0QqMwZjxQpMycs"
+    },
+    {
+      "album": {
+        "name": "Marriage Material",
+        "url": "https://open.spotify.com/album/3aFnPqDjw0088KHVngoYWK"
+      },
+      "artists": [
+        {
+          "name": "Cameron Esposito",
+          "url": "https://open.spotify.com/artist/4nhlYI8HVe4BmpJDsNkT5X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93528,
+      "name": "What Are You?",
+      "url": "https://open.spotify.com/track/3hfyz7qf8L6yx6KfMmkhN4"
+    },
+    {
+      "album": {
+        "name": "Smells Like Nerd Spirit",
+        "url": "https://open.spotify.com/album/5xpedwJH5ETPgZBcfBzJiV"
+      },
+      "artists": [
+        {
+          "name": "Erikka Innes",
+          "url": "https://open.spotify.com/artist/5t9fjdDBoGhMfjNlfnZJrH"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131120,
+      "name": "What Does a Fake Boob Feel Like",
+      "url": "https://open.spotify.com/track/26tEh43ope3kTdRtnkRYLO"
+    },
+    {
+      "album": {
+        "name": "Women Who Kill",
+        "url": "https://open.spotify.com/album/7HymEKb1Lb1Jo1O4dbg49s"
+      },
+      "artists": [
+        {
+          "name": "Rachel Feinstein",
+          "url": "https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406133,
+      "name": "What Vegas Is About",
+      "url": "https://open.spotify.com/track/09gLeejuYufKtfol6BkbqE"
+    },
+    {
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/17lzCLhI2PFjB9ExyjA53v"
+      },
+      "artists": [
+        {
+          "name": "Michelle Buteau",
+          "url": "https://open.spotify.com/artist/6qIXmxBaIo8fXrURzqQAVE"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142289,
+      "name": "White European People at the Beach",
+      "url": "https://open.spotify.com/track/3G2LKyfHcVjV4TRl2gCS39"
+    },
+    {
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/17lzCLhI2PFjB9ExyjA53v"
+      },
+      "artists": [
+        {
+          "name": "Michelle Buteau",
+          "url": "https://open.spotify.com/artist/6qIXmxBaIo8fXrURzqQAVE"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236558,
+      "name": "White Gold is Forever & Dutch Accents",
+      "url": "https://open.spotify.com/track/7rmsIWcl8F0pfEEtDEsxWQ"
+    },
+    {
+      "album": {
+        "name": "Aisha Tyler Is Lit - Live At The Fillmore",
+        "url": "https://open.spotify.com/album/0P47GaiYciGJxtZnZ68Wxj"
+      },
+      "artists": [
+        {
+          "name": "Aisha Tyler",
+          "url": "https://open.spotify.com/artist/61KCQz5oO2VtckbzwooBTd"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "Why I Got Married",
+      "url": "https://open.spotify.com/track/5beFB4ooWhRM7J6dNZRbWj"
+    },
+    {
+      "album": {
+        "name": "Same Sex Symbol",
+        "url": "https://open.spotify.com/album/5cUPNXGd5YeKw5jjYNBCSa"
+      },
+      "artists": [
+        {
+          "name": "Cameron Esposito",
+          "url": "https://open.spotify.com/artist/4nhlYI8HVe4BmpJDsNkT5X"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223510,
+      "name": "Woman Who Doesn't Sleep with Men",
+      "url": "https://open.spotify.com/track/3Pz27DBpBnAB42wsxH3dEB"
+    },
+    {
+      "album": {
+        "name": "Notorious C.H.O. [Live At Carnegie Hall]",
+        "url": "https://open.spotify.com/album/45sz3442HNK95S2469Bnqn"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106066,
+      "name": "Women's Magazines",
+      "url": "https://open.spotify.com/track/6od7ByvTywjRTpwHDAO55j"
+    },
+    {
+      "album": {
+        "name": "Coke Money",
+        "url": "https://open.spotify.com/album/2B5ht1XGOeBvIxyfqNNOtr"
+      },
+      "artists": [
+        {
+          "name": "Natasha Leggero",
+          "url": "https://open.spotify.com/artist/7wHGioVXNK6WomD7nnT3Nt"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171853,
+      "name": "Women's Movement",
+      "url": "https://open.spotify.com/track/4x60VisgAyn19mRvBUPQBg"
+    },
+    {
+      "album": {
+        "name": "What Is It You Can't Face?",
+        "url": "https://open.spotify.com/album/2tBagF7dskaIEHGaGreERx"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rhea",
+          "url": "https://open.spotify.com/artist/74pbjvGoRN1lgoio4rx04a"
+        }
+      ],
+      "date_added": "2018-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127133,
+      "name": "Xx Why?",
+      "url": "https://open.spotify.com/track/0yuxDBHla39KiLwejExcXD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9O8pzsnCkf6"
 }

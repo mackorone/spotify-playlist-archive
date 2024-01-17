@@ -1,289 +1,1249 @@
 {
-  "2023-03-20": 23274,
-  "2023-03-21": 23306,
-  "2023-03-22": 23346,
-  "2023-03-23": 23373,
-  "2023-03-24": 23373,
-  "2023-03-25": 23444,
-  "2023-03-26": 23494,
-  "2023-03-27": 23522,
-  "2023-03-28": 23540,
-  "2023-03-29": 23569,
-  "2023-03-30": 23619,
-  "2023-03-31": 23619,
-  "2023-04-01": 23638,
-  "2023-04-02": 23666,
-  "2023-04-03": 23687,
-  "2023-04-04": 23711,
-  "2023-04-05": 23730,
-  "2023-04-06": 23742,
-  "2023-04-07": 23758,
-  "2023-04-09": 23797,
-  "2023-04-10": 23810,
-  "2023-04-11": 23848,
-  "2023-04-12": 23848,
-  "2023-04-13": 23885,
-  "2023-04-14": 23922,
-  "2023-04-15": 23953,
-  "2023-04-16": 23972,
-  "2023-04-17": 23984,
-  "2023-04-18": 24004,
-  "2023-04-19": 24011,
-  "2023-04-20": 24034,
-  "2023-04-21": 24060,
-  "2023-04-22": 24071,
-  "2023-04-23": 24089,
-  "2023-04-24": 24100,
-  "2023-04-25": 24121,
-  "2023-04-26": 24142,
-  "2023-04-27": 24174,
-  "2023-04-28": 24213,
-  "2023-04-29": 24232,
-  "2023-04-30": 24257,
-  "2023-05-01": 24264,
-  "2023-05-02": 24284,
-  "2023-05-03": 24302,
-  "2023-05-04": 24323,
-  "2023-05-05": 24339,
-  "2023-05-06": 24357,
-  "2023-05-07": 24378,
-  "2023-05-08": 24390,
-  "2023-05-09": 24408,
-  "2023-05-10": 24425,
-  "2023-05-11": 24437,
-  "2023-05-12": 24457,
-  "2023-05-13": 24474,
-  "2023-05-14": 24499,
-  "2023-05-15": 24525,
-  "2023-05-16": 24542,
-  "2023-05-17": 24567,
-  "2023-05-18": 24589,
-  "2023-05-19": 24604,
-  "2023-05-20": 24638,
-  "2023-05-21": 24638,
-  "2023-05-22": 24638,
-  "2023-05-23": 24660,
-  "2023-05-24": 24696,
-  "2023-05-25": 24699,
-  "2023-05-26": 24720,
-  "2023-05-27": 24752,
-  "2023-05-28": 24772,
-  "2023-05-29": 24772,
-  "2023-05-30": 24821,
-  "2023-05-31": 24840,
-  "2023-06-01": 24863,
-  "2023-06-02": 24898,
-  "2023-06-03": 24914,
-  "2023-06-04": 24933,
-  "2023-06-05": 24949,
-  "2023-06-06": 24975,
-  "2023-06-07": 24994,
-  "2023-06-08": 25020,
-  "2023-06-09": 25035,
-  "2023-06-10": 25046,
-  "2023-06-11": 25068,
-  "2023-06-12": 25077,
-  "2023-06-13": 25092,
-  "2023-06-14": 25105,
-  "2023-06-15": 25122,
-  "2023-06-16": 25135,
-  "2023-06-17": 25172,
-  "2023-06-18": 25204,
-  "2023-06-19": 25229,
-  "2023-06-20": 25243,
-  "2023-06-21": 25299,
-  "2023-06-22": 25332,
-  "2023-06-23": 25389,
-  "2023-06-24": 25467,
-  "2023-06-25": 25523,
-  "2023-06-26": 25569,
-  "2023-06-27": 25629,
-  "2023-06-28": 25676,
-  "2023-06-29": 25727,
-  "2023-06-30": 25784,
-  "2023-07-01": 25873,
-  "2023-07-02": 25873,
-  "2023-07-03": 25906,
-  "2023-07-04": 25939,
-  "2023-07-05": 25981,
-  "2023-07-06": 26056,
-  "2023-07-07": 26056,
-  "2023-07-08": 26056,
-  "2023-07-09": 26113,
-  "2023-07-10": 26140,
-  "2023-07-11": 26163,
-  "2023-07-12": 26185,
-  "2023-07-13": 26211,
-  "2023-07-14": 26237,
-  "2023-07-15": 26256,
-  "2023-07-16": 26290,
-  "2023-07-17": 26305,
-  "2023-07-18": 26327,
-  "2023-07-19": 26343,
-  "2023-07-20": 26371,
-  "2023-07-21": 26400,
-  "2023-07-22": 26431,
-  "2023-07-23": 26460,
-  "2023-07-24": 26494,
-  "2023-07-25": 26529,
-  "2023-07-26": 26551,
-  "2023-07-27": 26585,
-  "2023-07-28": 26622,
-  "2023-07-29": 26665,
-  "2023-07-30": 26691,
-  "2023-07-31": 26718,
-  "2023-08-01": 26743,
-  "2023-08-02": 26777,
-  "2023-08-03": 26807,
-  "2023-08-04": 26832,
-  "2023-08-05": 26867,
-  "2023-08-06": 26908,
-  "2023-08-07": 26908,
-  "2023-08-08": 26937,
-  "2023-08-09": 26959,
-  "2023-08-10": 26987,
-  "2023-08-11": 27012,
-  "2023-08-12": 27012,
-  "2023-08-13": 27012,
-  "2023-08-14": 27066,
-  "2023-08-15": 27066,
-  "2023-08-16": 27066,
-  "2023-08-17": 27066,
-  "2023-08-18": 27066,
-  "2023-08-19": 27066,
-  "2023-08-20": 27351,
-  "2023-08-21": 27351,
-  "2023-08-22": 27454,
-  "2023-08-23": 27454,
-  "2023-08-24": 27454,
-  "2023-08-25": 27454,
-  "2023-08-26": 27647,
-  "2023-08-27": 27647,
-  "2023-08-28": 27724,
-  "2023-08-29": 27724,
-  "2023-08-30": 27724,
-  "2023-08-31": 27860,
-  "2023-09-01": 27905,
-  "2023-09-02": 27905,
-  "2023-09-03": 27905,
-  "2023-09-04": 27905,
-  "2023-09-05": 27905,
-  "2023-09-06": 27905,
-  "2023-09-07": 27905,
-  "2023-09-08": 27905,
-  "2023-09-09": 27905,
-  "2023-09-10": 28154,
-  "2023-09-11": 28154,
-  "2023-09-12": 28154,
-  "2023-09-13": 28154,
-  "2023-09-14": 28154,
-  "2023-09-15": 28154,
-  "2023-09-16": 28294,
-  "2023-09-17": 28294,
-  "2023-09-18": 28294,
-  "2023-09-19": 28361,
-  "2023-09-20": 28361,
-  "2023-09-21": 28361,
-  "2023-09-22": 28428,
-  "2023-09-23": 28428,
-  "2023-09-24": 28428,
-  "2023-09-25": 28428,
-  "2023-09-26": 28542,
-  "2023-09-27": 28542,
-  "2023-09-28": 28542,
-  "2023-09-29": 28542,
-  "2023-09-30": 28542,
-  "2023-10-01": 28542,
-  "2023-10-02": 28542,
-  "2023-10-03": 28542,
-  "2023-10-04": 28542,
-  "2023-10-05": 28542,
-  "2023-10-06": 28542,
-  "2023-10-07": 28542,
-  "2023-10-08": 28542,
-  "2023-10-09": 28542,
-  "2023-10-10": 28542,
-  "2023-10-11": 28907,
-  "2023-10-12": 28907,
-  "2023-10-13": 28907,
-  "2023-10-14": 28907,
-  "2023-10-15": 28907,
-  "2023-10-16": 28907,
-  "2023-10-17": 28907,
-  "2023-10-18": 28907,
-  "2023-10-19": 28907,
-  "2023-10-20": 28907,
-  "2023-10-21": 28907,
-  "2023-10-22": 28907,
-  "2023-10-23": 28907,
-  "2023-10-24": 28907,
-  "2023-10-25": 28907,
-  "2023-10-26": 28907,
-  "2023-10-27": 28907,
-  "2023-10-28": 28907,
-  "2023-10-29": 28907,
-  "2023-10-30": 28907,
-  "2023-10-31": 28907,
-  "2023-11-01": 28907,
-  "2023-11-02": 28907,
-  "2023-11-03": 28907,
-  "2023-11-04": 28907,
-  "2023-11-05": 28907,
-  "2023-11-06": 28907,
-  "2023-11-07": 28907,
-  "2023-11-08": 28907,
-  "2023-11-09": 28907,
-  "2023-11-10": 28907,
-  "2023-11-11": 29971,
-  "2023-11-12": 29971,
-  "2023-11-13": 29971,
-  "2023-11-14": 29971,
-  "2023-11-15": 29971,
-  "2023-11-16": 29971,
-  "2023-11-17": 29971,
-  "2023-11-18": 29971,
-  "2023-11-19": 29971,
-  "2023-11-20": 29971,
-  "2023-11-21": 29971,
-  "2023-11-22": 29971,
-  "2023-11-23": 29971,
-  "2023-11-24": 29971,
-  "2023-11-25": 29971,
-  "2023-11-26": 29971,
-  "2023-11-27": 29971,
-  "2023-11-28": 29971,
-  "2023-11-29": 29971,
-  "2023-11-30": 29971,
-  "2023-12-01": 29971,
-  "2023-12-02": 29971,
-  "2023-12-03": 29971,
-  "2023-12-04": 29971,
-  "2023-12-05": 29971,
-  "2023-12-06": 29971,
-  "2023-12-07": 29971,
-  "2023-12-08": 29971,
-  "2023-12-09": 29971,
-  "2023-12-10": 29971,
-  "2023-12-11": 29971,
-  "2023-12-12": 29971,
-  "2023-12-13": 29971,
-  "2023-12-14": 30649,
-  "2023-12-15": 30660,
-  "2023-12-16": 30672,
-  "2023-12-17": 30691,
-  "2023-12-18": 30707,
-  "2023-12-19": 30738,
-  "2023-12-20": 30763,
-  "2023-12-21": 30777,
-  "2023-12-22": 30785,
-  "2023-12-23": 30799,
-  "2023-12-24": 30803,
-  "2023-12-25": 30811,
-  "2023-12-26": 30812,
-  "2023-12-27": 30823,
-  "2023-12-30": 30843,
-  "2023-12-31": 30860,
-  "2024-01-01": 30876,
-  "2024-01-02": 30880,
-  "2024-01-03": 30887
+  "2024-01-17": 31136,
+  "date_first_scraped": "2023-03-20",
+  "description": "This is Esteman. The essential tracks, all in one playlist.",
+  "name": "This Is Esteman",
+  "tracks": [
+    {
+      "album": {
+        "name": "En Vivo desde el Teatro Metrop\u00f3litan",
+        "url": "https://open.spotify.com/album/2BDrVcGhof46VC0Bs0EaL4"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 375124,
+      "name": "(Intro) Milagrosa - Intro / En Vivo Desde El Teatro Metrop\u00f3litan",
+      "url": "https://open.spotify.com/track/2qnXOUjXw7I1f9Tr6EQvgu"
+    },
+    {
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "7 D\u00edas",
+      "url": "https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD"
+    },
+    {
+      "album": {
+        "name": "A qui\u00e9n le importa",
+        "url": "https://open.spotify.com/album/1iqyCZETxBHb57Mv4JqG1J"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lucrecia",
+          "url": "https://open.spotify.com/artist/2lylnjEoxCfNCh8LU6BQ14"
+        },
+        {
+          "name": "Edith Salazar",
+          "url": "https://open.spotify.com/artist/0WJz68BdO4VBwOom3W15EM"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX"
+        },
+        {
+          "name": "Amparo Sandino",
+          "url": "https://open.spotify.com/artist/3oegWGTjRuLbcou3oSUZ3C"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        },
+        {
+          "name": "NAIZA",
+          "url": "https://open.spotify.com/artist/64tOF1AuYOTyd0JSDLTyo0"
+        },
+        {
+          "name": "Luna Manzanares",
+          "url": "https://open.spotify.com/artist/6J4O8juzVNrJpZ0PNIGM6E"
+        },
+        {
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
+        },
+        {
+          "name": "Sandra Love",
+          "url": "https://open.spotify.com/artist/6G5tquDgGxnfOFjJ2ogXqm"
+        },
+        {
+          "name": "Juan Sueiro",
+          "url": "https://open.spotify.com/artist/0zVeeM7NYxVYxb453RXcL8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252727,
+      "name": "A qui\u00e9n le importa - Latin Pride Version by Juan Sueiro",
+      "url": "https://open.spotify.com/track/1qlUwEvjwotC8lvju3rR3u"
+    },
+    {
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268280,
+      "name": "Adelante",
+      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
+    },
+    {
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191680,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
+    },
+    {
+      "album": {
+        "name": "ANSIED\u00c1",
+        "url": "https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156482,
+      "name": "ANSIED\u00c1",
+      "url": "https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH"
+    },
+    {
+      "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226258,
+      "name": "Aqu\u00ed Estoy Yo (feat. Andrea Echeverri)",
+      "url": "https://open.spotify.com/track/1zPWXY9AdwainCdOSkmSUP"
+    },
+    {
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222573,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
+    },
+    {
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187697,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
+    },
+    {
+      "album": {
+        "name": "Besos y Pendientes",
+        "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "Besos y Pendientes",
+      "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
+    },
+    {
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "Burkina Faso",
+      "url": "https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR"
+    },
+    {
+      "album": {
+        "name": "Fin de la primera vida",
+        "url": "https://open.spotify.com/album/49r4PlotqmoaXEeEM9j1ku"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Cada paso (feat. Esteman) - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7ywq7yAzasSDAt0tbUwO1S"
+    },
+    {
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/7GPwM4cF2MgkHVS3aR9M8B"
+      },
+      "artists": [
+        {
+          "name": "Christian Jean",
+          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229653,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1fh9WwWRte40WcRUs7RvnB"
+    },
+    {
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237880,
+      "name": "Ca\u00f3tica Belleza",
+      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+    },
+    {
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "Como Vez Primera",
+      "url": "https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC"
+    },
+    {
+      "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190329,
+      "name": "De Otro Planeta",
+      "url": "https://open.spotify.com/track/15BmVmvT8ii39sqLZFbMtF"
+    },
+    {
+      "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 195913,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
+    },
+    {
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195026,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A"
+    },
+    {
+      "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236356,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP"
+    },
+    {
+      "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "El Distractor",
+      "url": "https://open.spotify.com/track/1x13V3LdzMq8XYjty7HhnN"
+    },
+    {
+      "album": {
+        "name": "El Noa Noa (Remix)",
+        "url": "https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        },
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204400,
+      "name": "El Noa Noa - Remix",
+      "url": "https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu"
+    },
+    {
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 264413,
+      "name": "El Pasado",
+      "url": "https://open.spotify.com/track/5PRvX4Rtw01lwywwBiA05Q"
+    },
+    {
+      "album": {
+        "name": "Cumbia del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2vfaAgiqzNxbHP14nIe0Ht"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Esa Parte de M\u00ed",
+      "url": "https://open.spotify.com/track/3dqMBQ70vjK7B0LWryJLzy"
+    },
+    {
+      "album": {
+        "name": "Esa Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 215200,
+      "name": "Esa Parte de M\u00ed",
+      "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
+    },
+    {
+      "album": {
+        "name": "Eso Que Me Das",
+        "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227658,
+      "name": "Eso Que Me Das",
+      "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
+    },
+    {
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232973,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl"
+    },
+    {
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212066,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e"
+    },
+    {
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249426,
+      "name": "Fuimos Amor",
+      "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
+    },
+    {
+      "album": {
+        "name": "Fuma",
+        "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Fuma",
+      "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
+    },
+    {
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 237320,
+      "name": "Hasta Que T\u00fa Me Quieras",
+      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
+    },
+    {
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221760,
+      "name": "Juan Y Paul",
+      "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
+    },
+    {
+      "album": {
+        "name": "En Vivo desde el Teatro Metrop\u00f3litan",
+        "url": "https://open.spotify.com/album/2BDrVcGhof46VC0Bs0EaL4"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228250,
+      "name": "Juan y Paul - En Vivo Desde El Teatro Metrop\u00f3litan",
+      "url": "https://open.spotify.com/track/3Q1iQm1YXgpS5xoD02z0vB"
+    },
+    {
+      "album": {
+        "name": "Ciegos Corazones",
+        "url": "https://open.spotify.com/album/31ZKtd3jQMw6nTVz6JzgbT"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 217440,
+      "name": "La Tierra Que Nos Quitaron (feat. Esteman)",
+      "url": "https://open.spotify.com/track/1sX1RtDoaaqEOxkRUOM2Ep"
+    },
+    {
+      "album": {
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 238253,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/6YQG62T687TCDrTVyK3DK2"
+    },
+    {
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226586,
+      "name": "Milagrosa",
+      "url": "https://open.spotify.com/track/7i0IAeWI5SLPWtwCHiS9kD"
+    },
+    {
+      "album": {
+        "name": "Mr. Trance",
+        "url": "https://open.spotify.com/album/423Y3cGYNATghsTaXy43b0"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169667,
+      "name": "Mr. Trance",
+      "url": "https://open.spotify.com/track/3SLIDzhExrfsvH6sVosiwn"
+    },
+    {
+      "album": {
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
+    },
+    {
+      "album": {
+        "name": "No Te Metas A Mi Facebook",
+        "url": "https://open.spotify.com/album/6LFKWnhCAXntAHAvfPHAx0"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 204440,
+      "name": "No Te Metas A Mi Facebook",
+      "url": "https://open.spotify.com/track/6tUFAewWAb5OkcYiwzSdr0"
+    },
+    {
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Noche Sensorial",
+      "url": "https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox"
+    },
+    {
+      "album": {
+        "name": "En Vivo desde el Teatro Metrop\u00f3litan",
+        "url": "https://open.spotify.com/album/2BDrVcGhof46VC0Bs0EaL4"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220124,
+      "name": "Noche sensorial - En Vivo Desde El Teatro Metrop\u00f3litan",
+      "url": "https://open.spotify.com/track/0w0OuWz42PHJ0Skzu0avXQ"
+    },
+    {
+      "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "Oh L\u00e0 L\u00e0! (feat. Monsieur Perin\u00e9)",
+      "url": "https://open.spotify.com/track/6NSScsNHjXxGQ78Uhpbknd"
+    },
+    {
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240853,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf"
+    },
+    {
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3HDXUs5CkHgPUaC5yBQcFg"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182798,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1PphVMUfQYZlr9D0jAZ2IQ"
+    },
+    {
+      "album": {
+        "name": "PORNOSTALGIA",
+        "url": "https://open.spotify.com/album/0BAbKM8PIcemaaW7tG1p2j"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "PORNOSTALGIA",
+      "url": "https://open.spotify.com/track/10WvWY5nn25dbS0AgIaJQF"
+    },
+    {
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 201666,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/0XrT0rxuSdLCblJh1M3X47"
+    },
+    {
+      "album": {
+        "name": "Reina Leona",
+        "url": "https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187506,
+      "name": "Reina Leona",
+      "url": "https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X"
+    },
+    {
+      "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259027,
+      "name": "Se Nos Perdi\u00f3",
+      "url": "https://open.spotify.com/track/64UtnXxfVtC0MjGt9wpJjs"
+    },
+    {
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Si Volviera A Nacer",
+      "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
+    },
+    {
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
+    },
+    {
+      "album": {
+        "name": "Solo (Remix)",
+        "url": "https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160573,
+      "name": "Solo - Remix",
+      "url": "https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b"
+    },
+    {
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "Te Alejas M\u00e1s De M\u00ed",
+      "url": "https://open.spotify.com/track/62xokumU0wMqOSsBuefhmB"
+    },
+    {
+      "album": {
+        "name": "Todos Quieren Ser Un Gato Jazz",
+        "url": "https://open.spotify.com/album/2p5JOVWwNGDUOFsf6WKDRT"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276933,
+      "name": "Todos Quieren Ser Un Gato Jazz",
+      "url": "https://open.spotify.com/track/7JFMaCszgik6Ay4WWeG1i3"
+    },
+    {
+      "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315859,
+      "name": "True Love (feat. Monsieur Perin\u00e9 & Juan Pablo Vega)",
+      "url": "https://open.spotify.com/track/6eCWx3wt0NsvGNMRbWGPQT"
+    },
+    {
+      "album": {
+        "name": "un d\u00eda en Par\u00eds",
+        "url": "https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242626,
+      "name": "un d\u00eda en Par\u00eds",
+      "url": "https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs"
+    },
+    {
+      "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o C\u00edtrico",
+        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202538,
+      "name": "Vencimiento",
+      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
+    },
+    {
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 236506,
+      "name": "Yo Te Dir\u00e9",
+      "url": "https://open.spotify.com/track/0fM8tfBFZDEtc9UMvrXHDv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kr0HV"
 }

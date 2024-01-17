@@ -1,131 +1,1021 @@
 {
-  "2023-08-26": 459,
-  "2023-08-27": 459,
-  "2023-08-28": 458,
-  "2023-08-29": 458,
-  "2023-08-30": 458,
-  "2023-08-31": 458,
-  "2023-09-01": 458,
-  "2023-09-02": 458,
-  "2023-09-03": 458,
-  "2023-09-04": 458,
-  "2023-09-05": 458,
-  "2023-09-06": 458,
-  "2023-09-07": 458,
-  "2023-09-08": 458,
-  "2023-09-09": 458,
-  "2023-09-10": 458,
-  "2023-09-11": 458,
-  "2023-09-12": 458,
-  "2023-09-13": 460,
-  "2023-09-14": 460,
-  "2023-09-15": 460,
-  "2023-09-16": 461,
-  "2023-09-17": 461,
-  "2023-09-18": 461,
-  "2023-09-19": 461,
-  "2023-09-20": 461,
-  "2023-09-21": 461,
-  "2023-09-22": 462,
-  "2023-09-23": 462,
-  "2023-09-24": 462,
-  "2023-09-25": 462,
-  "2023-09-26": 462,
-  "2023-09-27": 462,
-  "2023-09-28": 462,
-  "2023-09-29": 462,
-  "2023-09-30": 462,
-  "2023-10-01": 462,
-  "2023-10-02": 463,
-  "2023-10-03": 463,
-  "2023-10-04": 463,
-  "2023-10-05": 464,
-  "2023-10-06": 464,
-  "2023-10-07": 464,
-  "2023-10-08": 464,
-  "2023-10-09": 464,
-  "2023-10-10": 464,
-  "2023-10-11": 466,
-  "2023-10-12": 466,
-  "2023-10-13": 466,
-  "2023-10-14": 466,
-  "2023-10-15": 466,
-  "2023-10-16": 466,
-  "2023-10-17": 466,
-  "2023-10-18": 466,
-  "2023-10-19": 466,
-  "2023-10-20": 466,
-  "2023-10-21": 466,
-  "2023-10-22": 466,
-  "2023-10-23": 466,
-  "2023-10-24": 466,
-  "2023-10-25": 466,
-  "2023-10-26": 466,
-  "2023-10-27": 466,
-  "2023-10-28": 466,
-  "2023-10-29": 466,
-  "2023-10-30": 466,
-  "2023-10-31": 466,
-  "2023-11-01": 466,
-  "2023-11-02": 466,
-  "2023-11-03": 466,
-  "2023-11-04": 466,
-  "2023-11-05": 466,
-  "2023-11-06": 466,
-  "2023-11-07": 466,
-  "2023-11-08": 466,
-  "2023-11-09": 466,
-  "2023-11-10": 466,
-  "2023-11-11": 478,
-  "2023-11-12": 478,
-  "2023-11-13": 478,
-  "2023-11-14": 478,
-  "2023-11-15": 478,
-  "2023-11-16": 478,
-  "2023-11-17": 478,
-  "2023-11-18": 478,
-  "2023-11-19": 478,
-  "2023-11-20": 478,
-  "2023-11-21": 478,
-  "2023-11-22": 478,
-  "2023-11-23": 478,
-  "2023-11-24": 478,
-  "2023-11-25": 478,
-  "2023-11-26": 478,
-  "2023-11-27": 478,
-  "2023-11-28": 478,
-  "2023-11-29": 478,
-  "2023-11-30": 478,
-  "2023-12-01": 478,
-  "2023-12-02": 478,
-  "2023-12-03": 478,
-  "2023-12-04": 478,
-  "2023-12-05": 478,
-  "2023-12-06": 478,
-  "2023-12-07": 478,
-  "2023-12-08": 478,
-  "2023-12-09": 478,
-  "2023-12-10": 478,
-  "2023-12-11": 478,
-  "2023-12-12": 478,
-  "2023-12-13": 478,
-  "2023-12-14": 482,
-  "2023-12-15": 482,
-  "2023-12-16": 482,
-  "2023-12-17": 482,
-  "2023-12-18": 482,
-  "2023-12-19": 482,
-  "2023-12-20": 482,
-  "2023-12-21": 482,
-  "2023-12-22": 483,
-  "2023-12-23": 483,
-  "2023-12-24": 483,
-  "2023-12-25": 483,
-  "2023-12-26": 484,
-  "2023-12-27": 484,
-  "2023-12-30": 485,
-  "2023-12-31": 485,
-  "2024-01-01": 485,
-  "2024-01-02": 485,
-  "2024-01-03": 485
+  "2024-01-17": 487,
+  "date_first_scraped": "2023-08-26",
+  "description": "This is Campo De Almas.. The essential tracks, all in one playlist.",
+  "name": "This Is Campo De Almas.",
+  "tracks": [
+    {
+      "album": {
+        "name": "[Campo De Almas]",
+        "url": "https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Adicci\u00f3n",
+      "url": "https://open.spotify.com/track/4DcJxkEQQ3MmFmFciM7rDY"
+    },
+    {
+      "album": {
+        "name": "[Campo De Almas]",
+        "url": "https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207880,
+      "name": "Arial",
+      "url": "https://open.spotify.com/track/1iUIZ3YzihPt38gwiKcWoK"
+    },
+    {
+      "album": {
+        "name": "Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235333,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/5F7YXLSiFYPuVKXdVTb0N5"
+    },
+    {
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237918,
+      "name": "Boulevard",
+      "url": "https://open.spotify.com/track/3pIT9QlEnEyZ7OOlH6Snez"
+    },
+    {
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Cada Minuto",
+      "url": "https://open.spotify.com/track/4naVrZe4sSzvRdckhB6pBl"
+    },
+    {
+      "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227262,
+      "name": "Cine Star",
+      "url": "https://open.spotify.com/track/01qUPw8i09V8nDcD8SnzLO"
+    },
+    {
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212612,
+      "name": "Cuando Cierro Los Ojos",
+      "url": "https://open.spotify.com/track/5CJ5d66Yg9aJ864gYkILmE"
+    },
+    {
+      "album": {
+        "name": "[Campo De Almas]",
+        "url": "https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118893,
+      "name": "Cuando Pienso Y Estoy Solo",
+      "url": "https://open.spotify.com/track/2M9nq9rOFuyFKCMJLw7jlI"
+    },
+    {
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Cuenta Regresiva",
+      "url": "https://open.spotify.com/track/4AyoqOvOBnIwSP627N4i86"
+    },
+    {
+      "album": {
+        "name": "Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269706,
+      "name": "C\u00f3smica",
+      "url": "https://open.spotify.com/track/0ORO8tZyWlYPs7QRZSCoX5"
+    },
+    {
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 203160,
+      "name": "Desde Mi Lugar",
+      "url": "https://open.spotify.com/track/5oAq4v70t9K1WyBSSPkYKg"
+    },
+    {
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206138,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/1UWJrXldXtKPQrlgEIEsWi"
+    },
+    {
+      "album": {
+        "name": "De Angeles Y Dem\u00e1s Demonios",
+        "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "Despu\u00e9s De La Lluvia",
+      "url": "https://open.spotify.com/track/0PGn26byzGAOWa9aMH1BrW"
+    },
+    {
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 250880,
+      "name": "Disnei",
+      "url": "https://open.spotify.com/track/3HWakFXPrhNf8zSJzI77eN"
+    },
+    {
+      "album": {
+        "name": "De Angeles Y Dem\u00e1s Demonios",
+        "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307466,
+      "name": "Ecos De La Noche",
+      "url": "https://open.spotify.com/track/5AbeaaNXyUj2o9WciFfAxc"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Teatro Municipal De Lima",
+        "url": "https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "El Diablo (En Vivo)",
+      "url": "https://open.spotify.com/track/5JsWKLiaYIc0A7qKpyFc4x"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda (1994-2007)",
+        "url": "https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263413,
+      "name": "El D\u00eda Final",
+      "url": "https://open.spotify.com/track/1XolDtkpqrqUg5qZPlaVpL"
+    },
+    {
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278480,
+      "name": "El Olvido",
+      "url": "https://open.spotify.com/track/2wCGjgOObAwJL9j3Fkil6s"
+    },
+    {
+      "album": {
+        "name": "Siempre Estuviste Ah\u00ed",
+        "url": "https://open.spotify.com/album/0y40mqdz6q5YAcOZeUEV4R"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "El Secreto ( En Vivo)",
+      "url": "https://open.spotify.com/track/6IaXpvo7TDorwXLYdTcbW3"
+    },
+    {
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "El Silencio",
+      "url": "https://open.spotify.com/track/1rQXWoYkKm4VjYETDC2Gdc"
+    },
+    {
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "El Sue\u00f1o Acabo",
+      "url": "https://open.spotify.com/track/2zuFUTqPwwaTewxtOuiuQ3"
+    },
+    {
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254453,
+      "name": "Es Dif\u00edcil",
+      "url": "https://open.spotify.com/track/4mwbscb033Uwy6mNiMymZZ"
+    },
+    {
+      "album": {
+        "name": "Baladas",
+        "url": "https://open.spotify.com/album/5yp0cKV6jqbtjBZEgI5qQN"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283653,
+      "name": "Esa Noche",
+      "url": "https://open.spotify.com/track/7ysrGqCyoFVMSdHJxd2eHO"
+    },
+    {
+      "album": {
+        "name": "Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Esquizo",
+      "url": "https://open.spotify.com/track/52E6Qe8bIYYX28KT1ig93c"
+    },
+    {
+      "album": {
+        "name": "De Angeles Y Dem\u00e1s Demonios",
+        "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 171626,
+      "name": "Esquizo",
+      "url": "https://open.spotify.com/track/65P3S6xhm8KTEOvOPkweb6"
+    },
+    {
+      "album": {
+        "name": "Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/1xDTqhyb1FhvhCGjcaW6j5"
+    },
+    {
+      "album": {
+        "name": "De Angeles Y Dem\u00e1s Demonios",
+        "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286933,
+      "name": "Incomprensi\u00f3n",
+      "url": "https://open.spotify.com/track/6yvlcXWT0DdbU3u2z5J487"
+    },
+    {
+      "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152998,
+      "name": "Jam\u00e1s Dormir",
+      "url": "https://open.spotify.com/track/6Hj9iTGNgeYQXse9VTV5MJ"
+    },
+    {
+      "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336301,
+      "name": "Juliana",
+      "url": "https://open.spotify.com/track/6qwH1tErqu8MY2cGc9AqVS"
+    },
+    {
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256573,
+      "name": "Juro Que No Mor\u00ed",
+      "url": "https://open.spotify.com/track/6eiXpdDC7CzLtiglXi1SaF"
+    },
+    {
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "La Historia Entre Los Dos",
+      "url": "https://open.spotify.com/track/3O1AmaK3H3a9r2A1hUgxAS"
+    },
+    {
+      "album": {
+        "name": "De Angeles Y Dem\u00e1s Demonios",
+        "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "La Iglesia Abandonada",
+      "url": "https://open.spotify.com/track/7hIaJfsPNItg3HOG6MnD2L"
+    },
+    {
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226840,
+      "name": "La Nueva Ola",
+      "url": "https://open.spotify.com/track/0FKSQLCfGK9W3EUNBB48ER"
+    },
+    {
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254506,
+      "name": "Las Piedras Y El Mar",
+      "url": "https://open.spotify.com/track/4okjSLPKtwsJZ8zDnbsbrI"
+    },
+    {
+      "album": {
+        "name": "[Campo De Almas]",
+        "url": "https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Miedo a Volar",
+      "url": "https://open.spotify.com/track/5MPAv574bRIqyHoNEREzE8"
+    },
+    {
+      "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 229000,
+      "name": "Niebla",
+      "url": "https://open.spotify.com/track/6WQVbZqLH7hYZmTHMt1Gup"
+    },
+    {
+      "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        },
+        {
+          "name": "\u00c1lvaro Urquijo",
+          "url": "https://open.spotify.com/artist/0yiwWDdqEuLc99kyfJgOEP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239980,
+      "name": "No Tengas Miedo",
+      "url": "https://open.spotify.com/track/5hiiPTaXZMzCdfzcOFtkAw"
+    },
+    {
+      "album": {
+        "name": "Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224733,
+      "name": "Oscura Ni\u00f1a",
+      "url": "https://open.spotify.com/track/5BVI3hvrd4gU8ez6u9AqWE"
+    },
+    {
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295946,
+      "name": "Oscuro",
+      "url": "https://open.spotify.com/track/7Bd0qgZWx0PZvF6nIypxaz"
+    },
+    {
+      "album": {
+        "name": "Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161853,
+      "name": "Otra Tarde",
+      "url": "https://open.spotify.com/track/0iLwRAM4YXI76Mtzwwg20t"
+    },
+    {
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260480,
+      "name": "Plat\u00f3nica",
+      "url": "https://open.spotify.com/track/23Cf8htC7DSBhzOdqYyzkx"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Teatro Municipal De Lima",
+        "url": "https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 200779,
+      "name": "Prohibido (En Vivo)",
+      "url": "https://open.spotify.com/track/4e38Gxfa52p5oyaPjFs8qt"
+    },
+    {
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290573,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/3Ssagp8xrmFMnKogrLGtNn"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Teatro Municipal De Lima",
+        "url": "https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299761,
+      "name": "Solo (En Vivo)",
+      "url": "https://open.spotify.com/track/01kq9SxOF4oh8rMHxtXr48"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Teatro Municipal De Lima",
+        "url": "https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 187293,
+      "name": "Solo Busco Mi Libertad (En Vivo)",
+      "url": "https://open.spotify.com/track/4mLoYsCH10vWkbt6ubNWcr"
+    },
+    {
+      "album": {
+        "name": "Baladas",
+        "url": "https://open.spotify.com/album/5yp0cKV6jqbtjBZEgI5qQN"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213231,
+      "name": "Solo Hoy D\u00eda",
+      "url": "https://open.spotify.com/track/3bJM7hNIC71HGDMlhA7ZWb"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Teatro Municipal De Lima",
+        "url": "https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 200672,
+      "name": "Solo Para Mis Amigos (En Vivo)",
+      "url": "https://open.spotify.com/track/7csZrA6WpMWt77baVzk28M"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda (1994-2007)",
+        "url": "https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Sombra De Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/42rSEvWPF6GMvsNY5oqMjU"
+    },
+    {
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219242,
+      "name": "Stonepatty",
+      "url": "https://open.spotify.com/track/09ZzcDrbIHxdWSJBX3uZKc"
+    },
+    {
+      "album": {
+        "name": "[Campo De Almas]",
+        "url": "https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265760,
+      "name": "Tan Lejos",
+      "url": "https://open.spotify.com/track/5WRxU1lX6p0PpzR1L1ypUp"
+    },
+    {
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "Todo Me Aleja De Ti",
+      "url": "https://open.spotify.com/track/76SuvrOHwhVqcr0LEBnRsq"
+    },
+    {
+      "album": {
+        "name": "[Campo De Almas]",
+        "url": "https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340986,
+      "name": "Tus Alas Caer\u00e1n",
+      "url": "https://open.spotify.com/track/47RPhZOsbbgeSugavCkqtT"
+    },
+    {
+      "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180675,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/4jZ5rDnj9G1t2df1QTG33q"
+    },
+    {
+      "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257012,
+      "name": "Un Lugar en Tu Mente",
+      "url": "https://open.spotify.com/track/1wEBoL596AlzF1h2E6lkTr"
+    },
+    {
+      "album": {
+        "name": "Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 279973,
+      "name": "Ya No Es Igual",
+      "url": "https://open.spotify.com/track/6QfmiJIMxTAqo2bRVawfVB"
+    },
+    {
+      "album": {
+        "name": "De Angeles Y Dem\u00e1s Demonios",
+        "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282693,
+      "name": "Ya No Es Igual",
+      "url": "https://open.spotify.com/track/7ufquouRbnLHWJnnAvbIEu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kiYWz"
 }

@@ -1,274 +1,715 @@
 {
-  "2023-04-04": 106,
-  "2023-04-05": 116,
-  "2023-04-06": 125,
-  "2023-04-07": 138,
-  "2023-04-09": 157,
-  "2023-04-10": 165,
-  "2023-04-11": 175,
-  "2023-04-12": 175,
-  "2023-04-13": 177,
-  "2023-04-14": 182,
-  "2023-04-15": 188,
-  "2023-04-16": 194,
-  "2023-04-17": 202,
-  "2023-04-18": 204,
-  "2023-04-19": 215,
-  "2023-04-20": 222,
-  "2023-04-21": 229,
-  "2023-04-22": 232,
-  "2023-04-23": 239,
-  "2023-04-24": 243,
-  "2023-04-25": 251,
-  "2023-04-26": 254,
-  "2023-04-27": 259,
-  "2023-04-28": 259,
-  "2023-04-29": 266,
-  "2023-04-30": 272,
-  "2023-05-01": 277,
-  "2023-05-02": 281,
-  "2023-05-03": 282,
-  "2023-05-04": 288,
-  "2023-05-05": 292,
-  "2023-05-06": 292,
-  "2023-05-07": 293,
-  "2023-05-08": 294,
-  "2023-05-09": 294,
-  "2023-05-10": 295,
-  "2023-05-11": 296,
-  "2023-05-12": 296,
-  "2023-05-13": 296,
-  "2023-05-14": 296,
-  "2023-05-15": 296,
-  "2023-05-16": 295,
-  "2023-05-17": 296,
-  "2023-05-18": 296,
-  "2023-05-19": 297,
-  "2023-05-20": 297,
-  "2023-05-21": 297,
-  "2023-05-22": 297,
-  "2023-05-23": 299,
-  "2023-05-24": 299,
-  "2023-05-25": 299,
-  "2023-05-26": 300,
-  "2023-05-27": 300,
-  "2023-05-28": 300,
-  "2023-05-29": 300,
-  "2023-05-30": 300,
-  "2023-05-31": 300,
-  "2023-06-01": 300,
-  "2023-06-02": 301,
-  "2023-06-03": 301,
-  "2023-06-04": 302,
-  "2023-06-05": 303,
-  "2023-06-06": 302,
-  "2023-06-07": 301,
-  "2023-06-08": 300,
-  "2023-06-09": 298,
-  "2023-06-10": 298,
-  "2023-06-11": 299,
-  "2023-06-12": 299,
-  "2023-06-13": 299,
-  "2023-06-14": 299,
-  "2023-06-15": 299,
-  "2023-06-16": 299,
-  "2023-06-17": 299,
-  "2023-06-18": 298,
-  "2023-06-19": 298,
-  "2023-06-20": 298,
-  "2023-06-21": 300,
-  "2023-06-22": 300,
-  "2023-06-23": 300,
-  "2023-06-24": 301,
-  "2023-06-25": 301,
-  "2023-06-26": 301,
-  "2023-06-27": 303,
-  "2023-06-28": 304,
-  "2023-06-29": 305,
-  "2023-06-30": 306,
-  "2023-07-01": 306,
-  "2023-07-02": 306,
-  "2023-07-03": 308,
-  "2023-07-04": 308,
-  "2023-07-05": 309,
-  "2023-07-06": 310,
-  "2023-07-07": 310,
-  "2023-07-08": 311,
-  "2023-07-09": 313,
-  "2023-07-10": 314,
-  "2023-07-11": 316,
-  "2023-07-12": 315,
-  "2023-07-13": 316,
-  "2023-07-14": 317,
-  "2023-07-15": 317,
-  "2023-07-16": 317,
-  "2023-07-17": 317,
-  "2023-07-18": 317,
-  "2023-07-19": 317,
-  "2023-07-20": 317,
-  "2023-07-21": 319,
-  "2023-07-22": 319,
-  "2023-07-23": 320,
-  "2023-07-24": 320,
-  "2023-07-25": 321,
-  "2023-07-26": 322,
-  "2023-07-27": 323,
-  "2023-07-28": 323,
-  "2023-07-29": 323,
-  "2023-07-30": 324,
-  "2023-07-31": 324,
-  "2023-08-01": 324,
-  "2023-08-02": 323,
-  "2023-08-03": 323,
-  "2023-08-04": 325,
-  "2023-08-05": 326,
-  "2023-08-06": 327,
-  "2023-08-07": 327,
-  "2023-08-08": 327,
-  "2023-08-09": 326,
-  "2023-08-10": 326,
-  "2023-08-11": 326,
-  "2023-08-12": 326,
-  "2023-08-13": 326,
-  "2023-08-14": 328,
-  "2023-08-15": 328,
-  "2023-08-16": 328,
-  "2023-08-17": 328,
-  "2023-08-18": 328,
-  "2023-08-19": 328,
-  "2023-08-20": 329,
-  "2023-08-21": 329,
-  "2023-08-22": 329,
-  "2023-08-23": 329,
-  "2023-08-24": 329,
-  "2023-08-25": 329,
-  "2023-08-26": 329,
-  "2023-08-27": 329,
-  "2023-08-28": 329,
-  "2023-08-29": 329,
-  "2023-08-30": 329,
-  "2023-08-31": 331,
-  "2023-09-01": 331,
-  "2023-09-02": 331,
-  "2023-09-03": 330,
-  "2023-09-04": 330,
-  "2023-09-05": 330,
-  "2023-09-06": 332,
-  "2023-09-07": 332,
-  "2023-09-08": 332,
-  "2023-09-09": 332,
-  "2023-09-10": 333,
-  "2023-09-11": 333,
-  "2023-09-12": 333,
-  "2023-09-13": 334,
-  "2023-09-14": 334,
-  "2023-09-15": 334,
-  "2023-09-16": 335,
-  "2023-09-17": 335,
-  "2023-09-18": 335,
-  "2023-09-19": 338,
-  "2023-09-20": 338,
-  "2023-09-21": 338,
-  "2023-09-22": 338,
-  "2023-09-23": 338,
-  "2023-09-24": 338,
-  "2023-09-25": 338,
-  "2023-09-26": 338,
-  "2023-09-27": 338,
-  "2023-09-28": 338,
-  "2023-09-29": 338,
-  "2023-09-30": 338,
-  "2023-10-01": 338,
-  "2023-10-02": 340,
-  "2023-10-03": 340,
-  "2023-10-04": 340,
-  "2023-10-05": 340,
-  "2023-10-06": 340,
-  "2023-10-07": 340,
-  "2023-10-08": 340,
-  "2023-10-09": 340,
-  "2023-10-10": 340,
-  "2023-10-11": 342,
-  "2023-10-12": 342,
-  "2023-10-13": 342,
-  "2023-10-14": 342,
-  "2023-10-15": 342,
-  "2023-10-16": 342,
-  "2023-10-17": 342,
-  "2023-10-18": 342,
-  "2023-10-19": 342,
-  "2023-10-20": 342,
-  "2023-10-21": 342,
-  "2023-10-22": 342,
-  "2023-10-23": 342,
-  "2023-10-24": 342,
-  "2023-10-25": 342,
-  "2023-10-26": 342,
-  "2023-10-27": 342,
-  "2023-10-28": 342,
-  "2023-10-29": 342,
-  "2023-10-30": 342,
-  "2023-10-31": 342,
-  "2023-11-01": 342,
-  "2023-11-02": 342,
-  "2023-11-03": 342,
-  "2023-11-04": 342,
-  "2023-11-05": 342,
-  "2023-11-06": 342,
-  "2023-11-07": 342,
-  "2023-11-08": 342,
-  "2023-11-09": 342,
-  "2023-11-10": 342,
-  "2023-11-11": 355,
-  "2023-11-12": 355,
-  "2023-11-13": 355,
-  "2023-11-14": 355,
-  "2023-11-15": 355,
-  "2023-11-16": 355,
-  "2023-11-17": 355,
-  "2023-11-18": 355,
-  "2023-11-19": 355,
-  "2023-11-20": 355,
-  "2023-11-21": 355,
-  "2023-11-22": 355,
-  "2023-11-23": 355,
-  "2023-11-24": 355,
-  "2023-11-25": 355,
-  "2023-11-26": 355,
-  "2023-11-27": 355,
-  "2023-11-28": 355,
-  "2023-11-29": 355,
-  "2023-11-30": 355,
-  "2023-12-01": 355,
-  "2023-12-02": 355,
-  "2023-12-03": 355,
-  "2023-12-04": 355,
-  "2023-12-05": 355,
-  "2023-12-06": 355,
-  "2023-12-07": 355,
-  "2023-12-08": 355,
-  "2023-12-09": 355,
-  "2023-12-10": 355,
-  "2023-12-11": 355,
-  "2023-12-12": 355,
-  "2023-12-13": 355,
-  "2023-12-14": 368,
-  "2023-12-15": 368,
-  "2023-12-16": 369,
-  "2023-12-17": 371,
-  "2023-12-18": 370,
-  "2023-12-19": 369,
-  "2023-12-20": 371,
-  "2023-12-21": 373,
-  "2023-12-22": 374,
-  "2023-12-23": 374,
-  "2023-12-24": 375,
-  "2023-12-25": 375,
-  "2023-12-26": 375,
-  "2023-12-27": 375,
-  "2023-12-30": 375,
-  "2023-12-31": 377,
-  "2024-01-01": 378,
-  "2024-01-02": 379,
-  "2024-01-03": 379
+  "2024-01-17": 387,
+  "date_first_scraped": "2023-04-04",
+  "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
+  "name": "This Is Carlos Rafael Rivera",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 99962,
+      "name": "...Surprise",
+      "url": "https://open.spotify.com/track/44g4FlOQjnoAWDCthdYaZ5"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93191,
+      "name": "A Perfect Dinner",
+      "url": "https://open.spotify.com/track/5nYsEif2J6p4qhKzBHBVS7"
+    },
+    {
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 78942,
+      "name": "Am I Good Enough Now?",
+      "url": "https://open.spotify.com/track/15nXybW4WT99Z5nCvRMyJe"
+    },
+    {
+      "album": {
+        "name": "Just Beyond (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KXlP5OHXybdqq7ul913r1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 78674,
+      "name": "Arrival to School",
+      "url": "https://open.spotify.com/track/0uyHHhKlmYgwmUiEFi0Puk"
+    },
+    {
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 398320,
+      "name": "Atascadero (Denouement)",
+      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 106205,
+      "name": "Bedtime",
+      "url": "https://open.spotify.com/track/3DBkepkpBZRgk2yN0TAhCC"
+    },
+    {
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127615,
+      "name": "Beth's Story",
+      "url": "https://open.spotify.com/track/2hMmh9DiAcBjSw59vmYkTo"
+    },
+    {
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 132026,
+      "name": "Blackdom",
+      "url": "https://open.spotify.com/track/2IK8rm1hS9aR3d1WGYUaGQ"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83131,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
+    },
+    {
+      "album": {
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123190,
+      "name": "En B\u00fasqueda de Abuelo",
+      "url": "https://open.spotify.com/track/2gtVRYopZyYAxg6W7DIrlt"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 75689,
+      "name": "Fathers",
+      "url": "https://open.spotify.com/track/2G7dloi5KsYTFzV8aQFieG"
+    },
+    {
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72907,
+      "name": "First Day At School",
+      "url": "https://open.spotify.com/track/1qBXkDmnMZXaumaaxwmdYu"
+    },
+    {
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62733,
+      "name": "Godless Main Theme",
+      "url": "https://open.spotify.com/track/5wTpvQI8cLNl1MqQH9IHOA"
+    },
+    {
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72642,
+      "name": "Kentucky State Championship 1963",
+      "url": "https://open.spotify.com/track/5LuS85cUwjH3vXXjUPrbqW"
+    },
+    {
+      "album": {
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 70364,
+      "name": "La Cajita de M\u00fasica",
+      "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
+    },
+    {
+      "album": {
+        "name": "La Reina Del Sur: 3ra Temporada (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/6XXqh5TiNMYPeLUD4psRKN"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        },
+        {
+          "name": "Asuka Ito",
+          "url": "https://open.spotify.com/artist/0ibV1Dz0W1jtY1ByQv0iWD"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 97205,
+      "name": "La Hora Gris",
+      "url": "https://open.spotify.com/track/3dZSFxzwP6c1NYWBKnJiTf"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76850,
+      "name": "Lessons In Chemistry",
+      "url": "https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h"
+    },
+    {
+      "album": {
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58373,
+      "name": "Levantate Abuelo",
+      "url": "https://open.spotify.com/track/122XzF89QhYoZkPIj5p53f"
+    },
+    {
+      "album": {
+        "name": "Hacks: Season 1 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 61646,
+      "name": "Marcus And Wilson",
+      "url": "https://open.spotify.com/track/38KL6ie7NlCpJnw27cyuNT"
+    },
+    {
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81493,
+      "name": "Mary Agnes & Callie",
+      "url": "https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp"
+    },
+    {
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 184000,
+      "name": "Mcnue Leaves",
+      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
+    },
+    {
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74046,
+      "name": "Methuen Home For Children 1957",
+      "url": "https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB"
+    },
+    {
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 69386,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/5fLJks68YQXC1tPngFZn88"
+    },
+    {
+      "album": {
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 111270,
+      "name": "Primera Despedida",
+      "url": "https://open.spotify.com/track/5DtZrQUfxyRCNtis9Q4w87"
+    },
+    {
+      "album": {
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63248,
+      "name": "Quinn Persiste",
+      "url": "https://open.spotify.com/track/1VzTxjZoXavQIzjt299tQE"
+    },
+    {
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80493,
+      "name": "Roy's Gift",
+      "url": "https://open.spotify.com/track/2RA6or9ARt4HvluVyETjBo"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103158,
+      "name": "Saint Luke's",
+      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60983,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108178,
+      "name": "Supper at Six",
+      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
+    },
+    {
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 131637,
+      "name": "Sygrayem (Let's Play)",
+      "url": "https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 144739,
+      "name": "The Remsen",
+      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
+    },
+    {
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78496,
+      "name": "The Scholar's Mate",
+      "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
+    },
+    {
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166320,
+      "name": "Thirty Horses",
+      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
+    },
+    {
+      "album": {
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 68517,
+      "name": "Viajando a M\u00e9xico",
+      "url": "https://open.spotify.com/track/3q84OSJfhbpaQV7r0dE4nt"
+    },
+    {
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135493,
+      "name": "Welcome To LaBelle",
+      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
+    },
+    {
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 83013,
+      "name": "Whitey",
+      "url": "https://open.spotify.com/track/6jLxuzZXNR2XjD91OMJhUX"
+    },
+    {
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86546,
+      "name": "You Lost Your Shadow, Bill",
+      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
+    },
+    {
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66447,
+      "name": "You're Gloating",
+      "url": "https://open.spotify.com/track/6DiFE5a3ApjWhMGhMmKO9r"
+    },
+    {
+      "album": {
+        "name": "Hacks: Season 1 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 124424,
+      "name": "Young Deb When She Was Happy",
+      "url": "https://open.spotify.com/track/2VMMFfvVst1NTkjCSX63cD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Wf5EQ"
 }

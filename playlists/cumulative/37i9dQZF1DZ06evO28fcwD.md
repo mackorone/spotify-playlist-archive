@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-131 songs - 8 hr 42 min
+132 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 | 2022-10-24 |  |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 | 2021-12-28 | 2022-10-06 |
 | [Nomathemba](https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Spirit Of South Africa](https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy) | 3:32 | 2021-12-28 |  |
-| [Nonqonqo](https://open.spotify.com/track/3Wm6LF8NrVDdh2xiAGqCj4) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 2:20 | 2023-01-14 |  |
+| [Nonqonqo](https://open.spotify.com/track/3Wm6LF8NrVDdh2xiAGqCj4) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 2:20 | 2023-01-14 | 2024-01-05 |
 | [Oh Happy Day](https://open.spotify.com/track/0lLA7dsfDEuokYI0N6J4lw) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw) | 5:42 | 2022-10-24 | 2023-05-19 |
 | [Oh Happy Day](https://open.spotify.com/track/50yuka9B8lppoDIBsIwGLt) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5VuH0pVmWz1UHUNooKFuND) | 5:42 | 2021-12-28 | 2022-10-14 |
 | [Old MacDonald Zulu Style](https://open.spotify.com/track/73gBGz0ByDjEx8ZRhPOIjO) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 3:18 | 2021-12-28 | 2022-10-13 |
@@ -107,6 +107,7 @@
 | [River Of Dreams](https://open.spotify.com/track/3XCAO6v3Rkz4q2yzyMAauZ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 5:31 | 2021-12-28 | 2022-10-13 |
 | [Run \(Life is a Marathon\)](https://open.spotify.com/track/69rkmTYdCAamIWEzEFfTBt) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Ramdaz](https://open.spotify.com/artist/1kGBpsryGngo5XqyDwnQT0), [Stanley Glori](https://open.spotify.com/artist/2PRmMkvKBjmdsI1HQcihVz) | [Run \(Life is a Marathon\)](https://open.spotify.com/album/4HMHFwE9BONH2nKv6kSwH6) | 2:35 | 2023-06-05 | 2023-10-11 |
 | [She'd Say \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/2SPqhlmGmYCM4oU4HGCnsx) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:26 | 2021-12-28 | 2023-12-30 |
+| [She'd Say \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/7xvPMxwO6VmsPVqcdZDcWl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Naive](https://open.spotify.com/album/4pMctqBaropej7qhaX4Sar) | 3:26 | 2024-01-04 |  |
 | [Shosholoza](https://open.spotify.com/track/2O32KTWp8w2JO0v58wuNQa) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Long Walk to Freedom](https://open.spotify.com/album/2olJjVdkyXb7NebI6vegAK) | 4:52 | 2021-12-28 | 2022-10-14 |
 | [Siligugu Isiphambano](https://open.spotify.com/track/1NPc4dIbxgekcxpJIMa6A6) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Umthombo Wamanzi](https://open.spotify.com/album/0WhCJsx3LQ7hiZrIDlR1iM) | 3:37 | 2023-05-05 |  |
 | [Siligugu Isiphambano](https://open.spotify.com/track/7H3kEcq9CrYW2FqlXM4g6V) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 3:37 | 2022-04-11 | 2022-04-13 |

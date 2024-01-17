@@ -781,6 +781,28 @@
     },
     {
       "album": {
+        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170485,
+      "name": "Nomas No Se Pasen - En Vivo",
+      "url": "https://open.spotify.com/track/1zyUxUzC4fSQURhfqcaQuB"
+    },
+    {
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
@@ -1132,7 +1154,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 212999,
       "name": "Si Me Hubieras Olvidado",
       "url": "https://open.spotify.com/track/04TpibFGlH7XGN13e9vO5B"

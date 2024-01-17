@@ -1,110 +1,343 @@
 {
-  "2023-09-16": 17362,
-  "2023-09-17": 17362,
-  "2023-09-18": 17362,
-  "2023-09-19": 17564,
-  "2023-09-20": 17564,
-  "2023-09-21": 17564,
-  "2023-09-22": 17803,
-  "2023-09-23": 17803,
-  "2023-09-24": 17803,
-  "2023-09-25": 17803,
-  "2023-09-26": 18087,
-  "2023-09-27": 18087,
-  "2023-09-28": 18087,
-  "2023-09-29": 18087,
-  "2023-09-30": 18087,
-  "2023-10-01": 18087,
-  "2023-10-02": 18087,
-  "2023-10-03": 18087,
-  "2023-10-04": 18087,
-  "2023-10-05": 18759,
-  "2023-10-06": 18759,
-  "2023-10-07": 18759,
-  "2023-10-08": 18759,
-  "2023-10-09": 18759,
-  "2023-10-10": 18759,
-  "2023-10-11": 19136,
-  "2023-10-12": 19136,
-  "2023-10-13": 19136,
-  "2023-10-14": 19136,
-  "2023-10-15": 19136,
-  "2023-10-16": 19136,
-  "2023-10-17": 19136,
-  "2023-10-18": 19136,
-  "2023-10-19": 19136,
-  "2023-10-20": 19136,
-  "2023-10-21": 19136,
-  "2023-10-22": 19136,
-  "2023-10-23": 19136,
-  "2023-10-24": 19136,
-  "2023-10-25": 19136,
-  "2023-10-26": 19136,
-  "2023-10-27": 19136,
-  "2023-10-28": 19136,
-  "2023-10-29": 19136,
-  "2023-10-30": 19136,
-  "2023-10-31": 19136,
-  "2023-11-01": 19136,
-  "2023-11-02": 19136,
-  "2023-11-03": 19136,
-  "2023-11-04": 19136,
-  "2023-11-05": 19136,
-  "2023-11-06": 19136,
-  "2023-11-07": 19136,
-  "2023-11-08": 19136,
-  "2023-11-09": 19136,
-  "2023-11-10": 19136,
-  "2023-11-11": 20753,
-  "2023-11-12": 20753,
-  "2023-11-13": 20753,
-  "2023-11-14": 20753,
-  "2023-11-15": 20753,
-  "2023-11-16": 20753,
-  "2023-11-17": 20753,
-  "2023-11-18": 20753,
-  "2023-11-19": 20753,
-  "2023-11-20": 20753,
-  "2023-11-21": 20753,
-  "2023-11-22": 20753,
-  "2023-11-23": 20753,
-  "2023-11-24": 20753,
-  "2023-11-25": 20753,
-  "2023-11-26": 20753,
-  "2023-11-27": 20753,
-  "2023-11-28": 20753,
-  "2023-11-29": 20753,
-  "2023-11-30": 20753,
-  "2023-12-01": 20753,
-  "2023-12-02": 20753,
-  "2023-12-03": 20753,
-  "2023-12-04": 20753,
-  "2023-12-05": 20753,
-  "2023-12-06": 20753,
-  "2023-12-07": 20753,
-  "2023-12-08": 20753,
-  "2023-12-09": 20753,
-  "2023-12-10": 20753,
-  "2023-12-11": 20753,
-  "2023-12-12": 20753,
-  "2023-12-13": 20753,
-  "2023-12-14": 22192,
-  "2023-12-15": 22221,
-  "2023-12-16": 22270,
-  "2023-12-17": 22292,
-  "2023-12-18": 22316,
-  "2023-12-19": 22348,
-  "2023-12-20": 22384,
-  "2023-12-21": 22420,
-  "2023-12-22": 22448,
-  "2023-12-23": 22486,
-  "2023-12-24": 22525,
-  "2023-12-25": 22554,
-  "2023-12-26": 22576,
-  "2023-12-27": 22609,
-  "2023-12-30": 22727,
-  "2023-12-31": 22755,
-  "2024-01-01": 22868,
-  "2024-01-02": 22991,
-  "2024-01-03": 23050
+  "2024-01-17": 23636,
+  "date_first_scraped": "2023-09-16",
+  "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
+  "name": "This Is Bailey Zimmerman",
+  "tracks": [
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188254,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232058,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
+    },
+    {
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228270,
+      "name": "From The Fall",
+      "url": "https://open.spotify.com/track/1NYf23TIqL4hyIw8rppZ2S"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182465,
+      "name": "Get to Gettin\u2019 Gone",
+      "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
+    },
+    {
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/4U8SkKuNOZrgTR1NC9WYaC"
+    },
+    {
+      "album": {
+        "name": "Never Comin' Home",
+        "url": "https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194270,
+      "name": "Never Comin' Home",
+      "url": "https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI"
+    },
+    {
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207567,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/0glkts20NpDPX8sZEQpctJ"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Religiously",
+      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
+    },
+    {
+      "album": {
+        "name": "Small Town Crazy",
+        "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Small Town Crazy",
+      "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
+    },
+    {
+      "album": {
+        "name": "Strong Enough",
+        "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149284,
+      "name": "Strong Enough (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
+    },
+    {
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210869,
+      "name": "Trainwreck",
+      "url": "https://open.spotify.com/track/6uhtKcSdQMFpnX8Gj3QBxF"
+    },
+    {
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179294,
+      "name": "Where It Ends",
+      "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"
+    },
+    {
+      "album": {
+        "name": "FAST X (Sped Up / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135889,
+      "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Bailey Zimmerman & Dermot Kennedy) - Sped Up",
+      "url": "https://open.spotify.com/track/43KSFGpSKun6AX5GxKvQCR"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman) [FAST X / Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4CU2iotem1HERk9Rm3V8w6"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163257,
+      "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/7JODkWwpYsZt5racs1IiOJ"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "You Don\u2019t Want That Smoke",
+      "url": "https://open.spotify.com/track/5uPQjirx9C6MS47V556x46"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22SbM4"
 }

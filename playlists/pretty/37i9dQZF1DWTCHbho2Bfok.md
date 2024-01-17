@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,063 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,173 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-93 songs - 4 hr 55 min
+94 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Get Up and Dance](https://open.spotify.com/track/0OSFuTBZjruzU0AYNqhwM3) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Get Up and Dance](https://open.spotify.com/album/6nfatQiwBOwUH6jub9j9LD) | 2:17 | 2022-03-31 | 2022-07-29 |
 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 | 2022-03-31 |  |
 | [Glitter](https://open.spotify.com/track/0olyO3EpMpm4d5Sv64kYB3) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [My Jam](https://open.spotify.com/album/4RHlMYF4BAjd1zpVTmhaGj) | 2:49 | 2022-03-31 | 2022-07-29 |
+| [Glowin' Up](https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/7e9yA0WHIIdClfthaj2yTk) | 3:11 | 2023-06-02 | 2024-01-17 |
 | [Glowin' Up \- from the Netflix film My Little Pony: A New Generation](https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X) | 3:11 | 2022-03-31 | 2023-12-24 |
 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 | 2022-03-31 |  |
 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2022-08-17 |  |
@@ -82,7 +83,7 @@
 | [Shake \(with Ne\-Yo & Carmen DeLeon\)](https://open.spotify.com/track/3fI2VcjM78ZzEDe96SVKfR) | [L.L.A.M.A](https://open.spotify.com/artist/1XwXEE2TWmPt01haVFok2N), [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Shake \(with Ne\-Yo & Carmen DeLeon\)](https://open.spotify.com/album/3jO5b1PrRk1i9Yb8kiQszZ) | 2:43 | 2022-03-31 | 2022-07-18 |
 | [Shake Break](https://open.spotify.com/track/50jELX08A9U7fUFgC7cAWJ) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/6y0xVay2XCLcDK3HW6VdYs) | 1:35 | 2022-03-31 | 2022-07-29 |
 | [Shake Break](https://open.spotify.com/track/7w6RBPKhCaxZiyXb1ekdYy) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:35 | 2022-10-14 | 2023-04-15 |
-| [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 | 2022-03-31 | 2024-01-02 |
+| [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 | 2022-03-31 |  |
 | [Sharky Shuffle](https://open.spotify.com/track/39u8hIOvO92EaXnXN71NFp) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark Workout](https://open.spotify.com/album/3JubnncU4MHZxvcQrLaoJO) | 1:10 | 2022-03-31 | 2022-07-16 |
 | [STAY](https://open.spotify.com/track/2IKHl3w9vstJH5bGuFOKnf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [STAY](https://open.spotify.com/album/4beiC4EtRtovImB28vhtYk) | 2:19 | 2022-03-31 | 2022-07-28 |
 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-13 |  |
@@ -92,7 +93,7 @@
 | [Teddy Bear](https://open.spotify.com/track/2H8ohLFj7Q84FmeStZfQoZ) | [Jazzy Ash](https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ) | [Teddy Bear](https://open.spotify.com/album/23poQuS4E699Zg2FitvU7w) | 2:51 | 2022-03-31 | 2022-07-29 |
 | [The Chicken Dance](https://open.spotify.com/track/1c9dv4anUlofPLzIkQCxpA) | [Sing n Play](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) | [The Chicken Dance and Other Silly Songs](https://open.spotify.com/album/6uDInUcLuJElPuuW5kAKtZ) | 2:28 | 2022-03-31 | 2022-07-29 |
 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 | 2022-03-31 |  |
-| [The Loco\-Motion \- Remastered 2002](https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [Shinin' On \(Expanded Edition\)](https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA) | 2:45 | 2022-03-31 |  |
+| [The Loco\-Motion \- Remastered 2002](https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [Shinin' On \(Expanded Edition\)](https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA) | 2:45 | 2022-03-31 | 2024-01-09 |
 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 | 2022-03-31 |  |
 | [Thingamajig](https://open.spotify.com/track/5sXoGN56c1q4P4fGpk5iY0) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Lishy Lou and Lucky Too!](https://open.spotify.com/album/5eyeNOy5N5QvMa1ppNPdCY) | 3:25 | 2022-03-31 | 2022-07-29 |
 | [Togetherness](https://open.spotify.com/track/5zQKFfPXJQnHbtK29DwyFA) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Togetherness](https://open.spotify.com/album/0wxN6gRLSmWTnJovM1TsWY) | 2:33 | 2022-03-31 | 2022-07-29 |

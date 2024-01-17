@@ -1,289 +1,929 @@
 {
-  "2023-03-20": 676617,
-  "2023-03-21": 677080,
-  "2023-03-22": 677481,
-  "2023-03-23": 677880,
-  "2023-03-24": 677880,
-  "2023-03-25": 678685,
-  "2023-03-26": 679295,
-  "2023-03-27": 679841,
-  "2023-03-28": 680285,
-  "2023-03-29": 680805,
-  "2023-03-30": 681749,
-  "2023-03-31": 681749,
-  "2023-04-01": 682289,
-  "2023-04-02": 682741,
-  "2023-04-03": 683208,
-  "2023-04-04": 683703,
-  "2023-04-05": 684167,
-  "2023-04-06": 684653,
-  "2023-04-07": 685095,
-  "2023-04-09": 685813,
-  "2023-04-10": 686132,
-  "2023-04-11": 686921,
-  "2023-04-12": 686921,
-  "2023-04-13": 687389,
-  "2023-04-14": 687868,
-  "2023-04-15": 688321,
-  "2023-04-16": 688725,
-  "2023-04-17": 689216,
-  "2023-04-18": 689679,
-  "2023-04-19": 690092,
-  "2023-04-20": 690482,
-  "2023-04-21": 690939,
-  "2023-04-22": 691354,
-  "2023-04-23": 691700,
-  "2023-04-24": 692038,
-  "2023-04-25": 692367,
-  "2023-04-26": 692744,
-  "2023-04-27": 693115,
-  "2023-04-28": 693529,
-  "2023-04-29": 693909,
-  "2023-04-30": 694271,
-  "2023-05-01": 694598,
-  "2023-05-02": 694943,
-  "2023-05-03": 695539,
-  "2023-05-04": 696689,
-  "2023-05-05": 698577,
-  "2023-05-06": 699772,
-  "2023-05-07": 700648,
-  "2023-05-08": 701659,
-  "2023-05-09": 702552,
-  "2023-05-10": 703430,
-  "2023-05-11": 704005,
-  "2023-05-12": 704611,
-  "2023-05-13": 705258,
-  "2023-05-14": 705754,
-  "2023-05-15": 706248,
-  "2023-05-16": 706759,
-  "2023-05-17": 707265,
-  "2023-05-18": 707767,
-  "2023-05-19": 708219,
-  "2023-05-20": 708945,
-  "2023-05-21": 708945,
-  "2023-05-22": 708945,
-  "2023-05-23": 709526,
-  "2023-05-24": 710054,
-  "2023-05-25": 710102,
-  "2023-05-26": 710421,
-  "2023-05-27": 710650,
-  "2023-05-28": 711445,
-  "2023-05-29": 711445,
-  "2023-05-30": 712543,
-  "2023-05-31": 712961,
-  "2023-06-01": 713378,
-  "2023-06-02": 713742,
-  "2023-06-03": 714070,
-  "2023-06-04": 714419,
-  "2023-06-05": 714790,
-  "2023-06-06": 715164,
-  "2023-06-07": 715501,
-  "2023-06-08": 715809,
-  "2023-06-09": 716111,
-  "2023-06-10": 716425,
-  "2023-06-11": 716726,
-  "2023-06-12": 717009,
-  "2023-06-13": 717269,
-  "2023-06-14": 717269,
-  "2023-06-15": 717880,
-  "2023-06-16": 718178,
-  "2023-06-17": 718489,
-  "2023-06-18": 718790,
-  "2023-06-19": 719063,
-  "2023-06-20": 719344,
-  "2023-06-21": 719652,
-  "2023-06-22": 719996,
-  "2023-06-23": 720292,
-  "2023-06-24": 720632,
-  "2023-06-25": 720898,
-  "2023-06-26": 721140,
-  "2023-06-27": 721335,
-  "2023-06-28": 721544,
-  "2023-06-29": 721762,
-  "2023-06-30": 722018,
-  "2023-07-01": 722529,
-  "2023-07-02": 722529,
-  "2023-07-03": 722883,
-  "2023-07-04": 723204,
-  "2023-07-05": 723461,
-  "2023-07-06": 724037,
-  "2023-07-07": 724037,
-  "2023-07-08": 724288,
-  "2023-07-09": 724492,
-  "2023-07-10": 724687,
-  "2023-07-11": 724962,
-  "2023-07-12": 725197,
-  "2023-07-13": 725400,
-  "2023-07-14": 725640,
-  "2023-07-15": 725848,
-  "2023-07-16": 726115,
-  "2023-07-17": 726327,
-  "2023-07-18": 726481,
-  "2023-07-19": 726653,
-  "2023-07-20": 726865,
-  "2023-07-21": 727076,
-  "2023-07-22": 727307,
-  "2023-07-23": 727509,
-  "2023-07-24": 727576,
-  "2023-07-25": 727688,
-  "2023-07-26": 727736,
-  "2023-07-27": 727859,
-  "2023-07-28": 727965,
-  "2023-07-29": 728080,
-  "2023-07-30": 728192,
-  "2023-07-31": 728250,
-  "2023-08-01": 728357,
-  "2023-08-02": 728445,
-  "2023-08-03": 728559,
-  "2023-08-04": 728711,
-  "2023-08-05": 728870,
-  "2023-08-06": 729291,
-  "2023-08-07": 729291,
-  "2023-08-08": 729468,
-  "2023-08-09": 729616,
-  "2023-08-10": 729758,
-  "2023-08-11": 729893,
-  "2023-08-12": 729893,
-  "2023-08-13": 729893,
-  "2023-08-14": 730325,
-  "2023-08-15": 730325,
-  "2023-08-16": 730325,
-  "2023-08-17": 730786,
-  "2023-08-18": 730786,
-  "2023-08-19": 730786,
-  "2023-08-20": 731066,
-  "2023-08-21": 731066,
-  "2023-08-22": 731268,
-  "2023-08-23": 731268,
-  "2023-08-24": 731505,
-  "2023-08-25": 731505,
-  "2023-08-26": 731803,
-  "2023-08-27": 731803,
-  "2023-08-28": 732198,
-  "2023-08-29": 732198,
-  "2023-08-30": 732198,
-  "2023-08-31": 732681,
-  "2023-09-01": 732921,
-  "2023-09-02": 732921,
-  "2023-09-03": 733391,
-  "2023-09-04": 733391,
-  "2023-09-05": 733391,
-  "2023-09-06": 733927,
-  "2023-09-07": 733927,
-  "2023-09-08": 733927,
-  "2023-09-09": 733927,
-  "2023-09-10": 735088,
-  "2023-09-11": 735088,
-  "2023-09-12": 735088,
-  "2023-09-13": 735668,
-  "2023-09-14": 735668,
-  "2023-09-15": 735668,
-  "2023-09-16": 736027,
-  "2023-09-17": 736027,
-  "2023-09-18": 736027,
-  "2023-09-19": 736354,
-  "2023-09-20": 736354,
-  "2023-09-21": 736354,
-  "2023-09-22": 736723,
-  "2023-09-23": 736723,
-  "2023-09-24": 736723,
-  "2023-09-25": 736723,
-  "2023-09-26": 737157,
-  "2023-09-27": 737157,
-  "2023-09-28": 737157,
-  "2023-09-29": 737157,
-  "2023-09-30": 737157,
-  "2023-10-01": 737157,
-  "2023-10-02": 737862,
-  "2023-10-03": 737862,
-  "2023-10-04": 737862,
-  "2023-10-05": 738213,
-  "2023-10-06": 738213,
-  "2023-10-07": 738213,
-  "2023-10-08": 738213,
-  "2023-10-09": 738213,
-  "2023-10-10": 738213,
-  "2023-10-11": 754284,
-  "2023-10-12": 754284,
-  "2023-10-13": 754284,
-  "2023-10-14": 754284,
-  "2023-10-15": 754284,
-  "2023-10-16": 754284,
-  "2023-10-17": 754284,
-  "2023-10-18": 754284,
-  "2023-10-19": 754284,
-  "2023-10-20": 754284,
-  "2023-10-21": 754284,
-  "2023-10-22": 754284,
-  "2023-10-23": 754284,
-  "2023-10-24": 754284,
-  "2023-10-25": 754284,
-  "2023-10-26": 754284,
-  "2023-10-27": 754284,
-  "2023-10-28": 754284,
-  "2023-10-29": 754284,
-  "2023-10-30": 754284,
-  "2023-10-31": 754284,
-  "2023-11-01": 754284,
-  "2023-11-02": 754284,
-  "2023-11-03": 754284,
-  "2023-11-04": 754284,
-  "2023-11-05": 754284,
-  "2023-11-06": 754284,
-  "2023-11-07": 754284,
-  "2023-11-08": 754284,
-  "2023-11-09": 754284,
-  "2023-11-10": 754284,
-  "2023-11-11": 756694,
-  "2023-11-12": 756694,
-  "2023-11-13": 756694,
-  "2023-11-14": 756694,
-  "2023-11-15": 756694,
-  "2023-11-16": 756694,
-  "2023-11-17": 756694,
-  "2023-11-18": 756694,
-  "2023-11-19": 756694,
-  "2023-11-20": 756694,
-  "2023-11-21": 756694,
-  "2023-11-22": 756694,
-  "2023-11-23": 756694,
-  "2023-11-24": 756694,
-  "2023-11-25": 756694,
-  "2023-11-26": 756694,
-  "2023-11-27": 756694,
-  "2023-11-28": 756694,
-  "2023-11-29": 756694,
-  "2023-11-30": 756694,
-  "2023-12-01": 756694,
-  "2023-12-02": 756694,
-  "2023-12-03": 756694,
-  "2023-12-04": 756694,
-  "2023-12-05": 756694,
-  "2023-12-06": 756694,
-  "2023-12-07": 756694,
-  "2023-12-08": 756694,
-  "2023-12-09": 756694,
-  "2023-12-10": 756694,
-  "2023-12-11": 756694,
-  "2023-12-12": 756694,
-  "2023-12-13": 756694,
-  "2023-12-14": 760716,
-  "2023-12-15": 760789,
-  "2023-12-16": 760889,
-  "2023-12-17": 761024,
-  "2023-12-18": 761149,
-  "2023-12-19": 761208,
-  "2023-12-20": 761291,
-  "2023-12-21": 761380,
-  "2023-12-22": 761481,
-  "2023-12-23": 761605,
-  "2023-12-24": 761717,
-  "2023-12-25": 761793,
-  "2023-12-26": 761840,
-  "2023-12-27": 761921,
-  "2023-12-30": 762151,
-  "2023-12-31": 762231,
-  "2024-01-01": 762270,
-  "2024-01-02": 762316,
-  "2024-01-03": 762376
+  "2024-01-17": 762728,
+  "date_first_scraped": "2023-03-20",
+  "description": "This is The 1975. The essential tracks, all in one playlist.",
+  "name": "This Is The 1975",
+  "tracks": [
+    {
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283840,
+      "name": "A Change Of Heart",
+      "url": "https://open.spotify.com/track/49clMzwHdKb5f0awEH99pg"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/1RB8jMVr0eSo6ExOOvXavV"
+    },
+    {
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 74750,
+      "name": "An Encounter",
+      "url": "https://open.spotify.com/track/3Uuf7UQy96o8rkyEXSmAmv"
+    },
+    {
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256687,
+      "name": "Be My Mistake",
+      "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
+    },
+    {
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295151,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
+    },
+    {
+      "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224673,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD"
+    },
+    {
+      "album": {
+        "name": "Don't Play (feat. The 1975 & Big Sean)",
+        "url": "https://open.spotify.com/album/0CbBgFprmJ1LjDQDMKq6eS"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285954,
+      "name": "Don't Play (feat. The 1975 & Big Sean)",
+      "url": "https://open.spotify.com/track/2QKBvCMHdokPoy2b44dK2m"
+    },
+    {
+      "album": {
+        "name": "The 1975 (Deluxe)",
+        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240670,
+      "name": "Fallingforyou",
+      "url": "https://open.spotify.com/track/7LbUv7w2z7rEbNqp1uIL9U"
+    },
+    {
+      "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254620,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/5WSdMcWTKRdN1QYVJHJWxz"
+    },
+    {
+      "album": {
+        "name": "Guys",
+        "url": "https://open.spotify.com/album/5MHKEvcqdoIPoFvp9DOqyK"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 269929,
+      "name": "Guys",
+      "url": "https://open.spotify.com/track/1qQJWohzIrKMNIz6pyyKYw"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303903,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG"
+    },
+    {
+      "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202296,
+      "name": "Heart Out",
+      "url": "https://open.spotify.com/track/3xrwXWG4O9uhtRyAd3MCou"
+    },
+    {
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314662,
+      "name": "I Always Wanna Die (Sometimes)",
+      "url": "https://open.spotify.com/track/7iPlcFvOMOzt6v0QvcAueZ"
+    },
+    {
+      "album": {
+        "name": "Live From Real World Studios",
+        "url": "https://open.spotify.com/album/0g4Cr2AlU3ApdW8mJ5ZsjX"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224777,
+      "name": "I Like America & America Likes Me (Live From Real World Studios)",
+      "url": "https://open.spotify.com/track/24f76XiyZMXMlVSVz50Bfx"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5"
+    },
+    {
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319370,
+      "name": "If You\u2019re Too Shy (Let Me Know)",
+      "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ"
+    },
+    {
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248335,
+      "name": "It's Not Living (If It's Not With You)",
+      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
+    },
+    {
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178617,
+      "name": "Looking For Somebody (To Love)",
+      "url": "https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT"
+    },
+    {
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252925,
+      "name": "Love It If We Made It",
+      "url": "https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR"
+    },
+    {
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 275021,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/4GjRDgb77p27GQnbZpv1OJ"
+    },
+    {
+      "album": {
+        "name": "The 1975 (Deluxe)",
+        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275021,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/4w0joPRhKJsrzq1euxkpZ2"
+    },
+    {
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207223,
+      "name": "Me & You Together Song",
+      "url": "https://open.spotify.com/track/6SrvijeageGUiFu9iCDdmM"
+    },
+    {
+      "album": {
+        "name": "Milk",
+        "url": "https://open.spotify.com/album/5aUBFfdZTbRNKGACXD4ty8"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132546,
+      "name": "Milk",
+      "url": "https://open.spotify.com/track/0fzqnqxwSh5Bmq8sY9tFb9"
+    },
+    {
+      "album": {
+        "name": "RIP Indo Hisashi",
+        "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195501,
+      "name": "Narcissist (feat. The 1975)",
+      "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212568,
+      "name": "Oh Caroline",
+      "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
+    },
+    {
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293076,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6C88rHxXBlpcgtBY3HAF0E"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 260148,
+      "name": "Part Of The Band",
+      "url": "https://open.spotify.com/track/4S80oe7OJnBVlhNrbQTnt3"
+    },
+    {
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 221392,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3W4xpnA5BVg9qduchV1mQy"
+    },
+    {
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175117,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/2ymCaPd4ojF9H8hzIz2NJd"
+    },
+    {
+      "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254509,
+      "name": "Robbers",
+      "url": "https://open.spotify.com/track/73jVPicY2G9YHmzgjk69ae"
+    },
+    {
+      "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239893,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/5CgihnZO9To8wj7ALOoTPD"
+    },
+    {
+      "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207001,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/67ispalOAo3jnZWYSTTfZk"
+    },
+    {
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270104,
+      "name": "She's American",
+      "url": "https://open.spotify.com/track/5aV4HUW9RFOB0aXq0Ud9s0"
+    },
+    {
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 270106,
+      "name": "She's American",
+      "url": "https://open.spotify.com/track/51cd3bzVmLAjlnsSZn4ecW"
+    },
+    {
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225955,
+      "name": "Sincerity Is Scary",
+      "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
+    },
+    {
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347525,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
+    },
+    {
+      "album": {
+        "name": "Spinning (with Charli XCX & The 1975)",
+        "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172559,
+      "name": "Spinning (with Charli XCX & The 1975)",
+      "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
+    },
+    {
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285833,
+      "name": "The Birthday Party",
+      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
+    },
+    {
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248879,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh"
+    },
+    {
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127342,
+      "name": "Then Because She Goes",
+      "url": "https://open.spotify.com/track/1VP6X2WDJuBGvIZkTKFhF5"
+    },
+    {
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247265,
+      "name": "Tonight (I Wish I Was Your Boy)",
+      "url": "https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM"
+    },
+    {
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207851,
+      "name": "TOOTIMETOOTIMETOOTIME",
+      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
+    },
+    {
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 180026,
+      "name": "UGH!",
+      "url": "https://open.spotify.com/track/2T4oNTmPYTZTdIzeFdNNez"
+    },
+    {
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "UGH!",
+      "url": "https://open.spotify.com/track/5vgdeMt4uKUN2BeltZjoDh"
+    },
+    {
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 244653,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/1LD52Nzt9wg1vB3F6gelPH"
+    },
+    {
+      "album": {
+        "name": "The 1975 (Deluxe)",
+        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244653,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 216586,
+      "name": "When We Are Together",
+      "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165457,
+      "name": "Wintering",
+      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1X6Ic8"
 }

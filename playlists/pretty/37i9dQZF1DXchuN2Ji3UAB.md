@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchuN2Ji3UAB.md) - [plain]
 
 > Les classiques de la Motown à faire découvrir à vos enfants
 
-[Spotify](https://open.spotify.com/user/spotify) - 675 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 680 likes - 57 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

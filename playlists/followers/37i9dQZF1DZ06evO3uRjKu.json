@@ -1,432 +1,1065 @@
 {
-  "2022-10-27": 49308,
-  "2022-10-28": 49329,
-  "2022-10-29": 49357,
-  "2022-10-30": 49391,
-  "2022-10-31": 49420,
-  "2022-11-01": 49451,
-  "2022-11-02": 49469,
-  "2022-11-03": 49484,
-  "2022-11-04": 49519,
-  "2022-11-05": 49545,
-  "2022-11-06": 49590,
-  "2022-11-07": 49607,
-  "2022-11-08": 49626,
-  "2022-11-09": 49657,
-  "2022-11-10": 49702,
-  "2022-11-11": 49735,
-  "2022-11-12": 49768,
-  "2022-11-13": 49798,
-  "2022-11-14": 49844,
-  "2022-11-15": 49865,
-  "2022-11-16": 49884,
-  "2022-11-17": 49901,
-  "2022-11-18": 49901,
-  "2022-11-19": 49912,
-  "2022-11-20": 49940,
-  "2022-11-21": 49965,
-  "2022-11-22": 49979,
-  "2022-11-23": 50001,
-  "2022-11-24": 50042,
-  "2022-11-25": 50082,
-  "2022-11-26": 50106,
-  "2022-11-27": 50128,
-  "2022-11-28": 50151,
-  "2022-11-29": 50164,
-  "2022-11-30": 50181,
-  "2022-12-01": 50213,
-  "2022-12-02": 50225,
-  "2022-12-03": 50265,
-  "2022-12-04": 50295,
-  "2022-12-05": 50324,
-  "2022-12-06": 50347,
-  "2022-12-07": 50388,
-  "2022-12-08": 50413,
-  "2022-12-09": 50451,
-  "2022-12-10": 50470,
-  "2022-12-11": 50499,
-  "2022-12-12": 50537,
-  "2022-12-13": 50556,
-  "2022-12-14": 50573,
-  "2022-12-15": 50601,
-  "2022-12-16": 50633,
-  "2022-12-17": 50665,
-  "2022-12-18": 50705,
-  "2022-12-19": 50719,
-  "2022-12-20": 50760,
-  "2022-12-21": 50760,
-  "2022-12-22": 50789,
-  "2022-12-24": 50861,
-  "2022-12-25": 50895,
-  "2022-12-26": 50934,
-  "2022-12-27": 50958,
-  "2022-12-28": 50979,
-  "2022-12-29": 51006,
-  "2022-12-30": 51051,
-  "2022-12-31": 51110,
-  "2023-01-01": 51140,
-  "2023-01-02": 51182,
-  "2023-01-03": 51207,
-  "2023-01-04": 51240,
-  "2023-01-05": 51264,
-  "2023-01-06": 51291,
-  "2023-01-07": 51363,
-  "2023-01-08": 51373,
-  "2023-01-09": 51417,
-  "2023-01-10": 51442,
-  "2023-01-11": 51476,
-  "2023-01-12": 51511,
-  "2023-01-13": 51550,
-  "2023-01-14": 51593,
-  "2023-01-15": 51600,
-  "2023-01-16": 51633,
-  "2023-01-17": 51661,
-  "2023-01-18": 51685,
-  "2023-01-19": 51722,
-  "2023-01-20": 51751,
-  "2023-01-21": 51792,
-  "2023-01-22": 51839,
-  "2023-01-23": 51892,
-  "2023-01-24": 51918,
-  "2023-01-25": 51951,
-  "2023-01-26": 51978,
-  "2023-01-27": 52010,
-  "2023-01-28": 52043,
-  "2023-01-29": 52067,
-  "2023-01-30": 52104,
-  "2023-01-31": 52104,
-  "2023-02-01": 52143,
-  "2023-02-02": 52182,
-  "2023-02-03": 52216,
-  "2023-02-04": 52249,
-  "2023-02-05": 52282,
-  "2023-02-06": 52321,
-  "2023-02-07": 52350,
-  "2023-02-08": 52395,
-  "2023-02-09": 52395,
-  "2023-02-10": 52436,
-  "2023-02-11": 52470,
-  "2023-02-12": 52554,
-  "2023-02-13": 52572,
-  "2023-02-14": 52572,
-  "2023-02-15": 52603,
-  "2023-02-16": 52637,
-  "2023-02-17": 52678,
-  "2023-02-18": 52760,
-  "2023-02-19": 52771,
-  "2023-02-20": 52797,
-  "2023-02-21": 52828,
-  "2023-02-22": 52867,
-  "2023-02-23": 52900,
-  "2023-02-24": 52940,
-  "2023-02-25": 53000,
-  "2023-02-26": 53036,
-  "2023-02-27": 53105,
-  "2023-02-28": 53105,
-  "2023-03-01": 53143,
-  "2023-03-02": 53167,
-  "2023-03-03": 53207,
-  "2023-03-04": 53250,
-  "2023-03-05": 53333,
-  "2023-03-06": 53333,
-  "2023-03-07": 53362,
-  "2023-03-08": 53390,
-  "2023-03-09": 53422,
-  "2023-03-10": 53458,
-  "2023-03-11": 53489,
-  "2023-03-12": 53516,
-  "2023-03-13": 53551,
-  "2023-03-14": 53592,
-  "2023-03-15": 53617,
-  "2023-03-16": 53617,
-  "2023-03-17": 53617,
-  "2023-03-18": 53715,
-  "2023-03-19": 53715,
-  "2023-03-20": 53782,
-  "2023-03-21": 53800,
-  "2023-03-22": 53826,
-  "2023-03-23": 53861,
-  "2023-03-24": 53861,
-  "2023-03-25": 53917,
-  "2023-03-26": 53955,
-  "2023-03-27": 53997,
-  "2023-03-28": 54023,
-  "2023-03-29": 54056,
-  "2023-03-30": 54111,
-  "2023-03-31": 54111,
-  "2023-04-01": 54155,
-  "2023-04-02": 54196,
-  "2023-04-03": 54232,
-  "2023-04-04": 54254,
-  "2023-04-05": 54291,
-  "2023-04-06": 54328,
-  "2023-04-07": 54375,
-  "2023-04-09": 54441,
-  "2023-04-10": 54470,
-  "2023-04-11": 54521,
-  "2023-04-12": 54521,
-  "2023-04-13": 54549,
-  "2023-04-14": 54582,
-  "2023-04-15": 54615,
-  "2023-04-16": 54653,
-  "2023-04-17": 54676,
-  "2023-04-18": 54701,
-  "2023-04-19": 54722,
-  "2023-04-20": 54746,
-  "2023-04-21": 54770,
-  "2023-04-22": 54804,
-  "2023-04-23": 54831,
-  "2023-04-24": 54865,
-  "2023-04-25": 54885,
-  "2023-04-26": 54905,
-  "2023-04-27": 54931,
-  "2023-04-28": 54971,
-  "2023-04-29": 55015,
-  "2023-04-30": 55040,
-  "2023-05-01": 55086,
-  "2023-05-02": 55115,
-  "2023-05-03": 55141,
-  "2023-05-04": 55176,
-  "2023-05-05": 55205,
-  "2023-05-06": 55233,
-  "2023-05-07": 55267,
-  "2023-05-08": 55303,
-  "2023-05-09": 55346,
-  "2023-05-10": 55373,
-  "2023-05-11": 55394,
-  "2023-05-12": 55424,
-  "2023-05-13": 55453,
-  "2023-05-14": 55490,
-  "2023-05-15": 55518,
-  "2023-05-16": 55547,
-  "2023-05-17": 55568,
-  "2023-05-18": 55605,
-  "2023-05-19": 55642,
-  "2023-05-20": 55714,
-  "2023-05-21": 55714,
-  "2023-05-22": 55714,
-  "2023-05-23": 55776,
-  "2023-05-24": 55832,
-  "2023-05-25": 55844,
-  "2023-05-26": 55894,
-  "2023-05-27": 55939,
-  "2023-05-28": 55969,
-  "2023-05-29": 55969,
-  "2023-05-30": 56035,
-  "2023-05-31": 56068,
-  "2023-06-01": 56099,
-  "2023-06-02": 56131,
-  "2023-06-03": 56170,
-  "2023-06-04": 56205,
-  "2023-06-05": 56230,
-  "2023-06-06": 56259,
-  "2023-06-07": 56292,
-  "2023-06-08": 56332,
-  "2023-06-09": 56381,
-  "2023-06-10": 56424,
-  "2023-06-11": 56486,
-  "2023-06-12": 56523,
-  "2023-06-13": 56569,
-  "2023-06-14": 56569,
-  "2023-06-15": 56636,
-  "2023-06-16": 56678,
-  "2023-06-17": 56712,
-  "2023-06-18": 56744,
-  "2023-06-19": 56782,
-  "2023-06-20": 56810,
-  "2023-06-21": 56840,
-  "2023-06-22": 56874,
-  "2023-06-23": 56900,
-  "2023-06-24": 56933,
-  "2023-06-25": 56974,
-  "2023-06-26": 57000,
-  "2023-06-27": 57039,
-  "2023-06-28": 57068,
-  "2023-06-29": 57097,
-  "2023-06-30": 57124,
-  "2023-07-01": 57192,
-  "2023-07-02": 57192,
-  "2023-07-03": 57216,
-  "2023-07-04": 57245,
-  "2023-07-05": 57280,
-  "2023-07-06": 57345,
-  "2023-07-07": 57345,
-  "2023-07-08": 57345,
-  "2023-07-09": 57417,
-  "2023-07-10": 57452,
-  "2023-07-11": 57483,
-  "2023-07-12": 57506,
-  "2023-07-13": 57547,
-  "2023-07-14": 57576,
-  "2023-07-15": 57611,
-  "2023-07-16": 57651,
-  "2023-07-17": 57693,
-  "2023-07-18": 57723,
-  "2023-07-19": 57752,
-  "2023-07-20": 57752,
-  "2023-07-21": 57802,
-  "2023-07-22": 57840,
-  "2023-07-23": 57885,
-  "2023-07-24": 57909,
-  "2023-07-25": 57950,
-  "2023-07-26": 57994,
-  "2023-07-27": 58041,
-  "2023-07-28": 58086,
-  "2023-07-29": 58131,
-  "2023-07-30": 58131,
-  "2023-07-31": 58193,
-  "2023-08-01": 58242,
-  "2023-08-02": 58278,
-  "2023-08-03": 58324,
-  "2023-08-04": 58358,
-  "2023-08-05": 58404,
-  "2023-08-06": 58483,
-  "2023-08-07": 58483,
-  "2023-08-08": 58505,
-  "2023-08-09": 58543,
-  "2023-08-10": 58568,
-  "2023-08-11": 58613,
-  "2023-08-12": 58613,
-  "2023-08-13": 58613,
-  "2023-08-14": 58613,
-  "2023-08-15": 58613,
-  "2023-08-16": 58613,
-  "2023-08-17": 58613,
-  "2023-08-18": 58613,
-  "2023-08-19": 58613,
-  "2023-08-20": 58979,
-  "2023-08-21": 58979,
-  "2023-08-22": 59060,
-  "2023-08-23": 59060,
-  "2023-08-24": 59060,
-  "2023-08-25": 59060,
-  "2023-08-26": 59214,
-  "2023-08-27": 59214,
-  "2023-08-28": 59279,
-  "2023-08-29": 59279,
-  "2023-08-30": 59279,
-  "2023-08-31": 59388,
-  "2023-09-01": 59435,
-  "2023-09-02": 59435,
-  "2023-09-03": 59435,
-  "2023-09-04": 59435,
-  "2023-09-05": 59435,
-  "2023-09-06": 59435,
-  "2023-09-07": 59435,
-  "2023-09-08": 59435,
-  "2023-09-09": 59435,
-  "2023-09-10": 59435,
-  "2023-09-11": 59435,
-  "2023-09-12": 59435,
-  "2023-09-13": 59435,
-  "2023-09-14": 59435,
-  "2023-09-15": 59435,
-  "2023-09-16": 59969,
-  "2023-09-17": 59969,
-  "2023-09-18": 59969,
-  "2023-09-19": 60075,
-  "2023-09-20": 60075,
-  "2023-09-21": 60075,
-  "2023-09-22": 60149,
-  "2023-09-23": 60149,
-  "2023-09-24": 60149,
-  "2023-09-25": 60149,
-  "2023-09-26": 60276,
-  "2023-09-27": 60276,
-  "2023-09-28": 60276,
-  "2023-09-29": 60276,
-  "2023-09-30": 60276,
-  "2023-10-01": 60276,
-  "2023-10-02": 60276,
-  "2023-10-03": 60276,
-  "2023-10-04": 60276,
-  "2023-10-05": 60276,
-  "2023-10-06": 60276,
-  "2023-10-07": 60276,
-  "2023-10-08": 60276,
-  "2023-10-09": 60276,
-  "2023-10-10": 60276,
-  "2023-10-11": 60276,
-  "2023-10-12": 60276,
-  "2023-10-13": 60276,
-  "2023-10-14": 60276,
-  "2023-10-15": 60276,
-  "2023-10-16": 60276,
-  "2023-10-17": 60276,
-  "2023-10-18": 60276,
-  "2023-10-19": 60276,
-  "2023-10-20": 60276,
-  "2023-10-21": 60276,
-  "2023-10-22": 60276,
-  "2023-10-23": 60276,
-  "2023-10-24": 60276,
-  "2023-10-25": 60276,
-  "2023-10-26": 60276,
-  "2023-10-27": 60276,
-  "2023-10-28": 60276,
-  "2023-10-29": 60276,
-  "2023-10-30": 60276,
-  "2023-10-31": 60276,
-  "2023-11-01": 60276,
-  "2023-11-02": 60276,
-  "2023-11-03": 60276,
-  "2023-11-04": 60276,
-  "2023-11-05": 60276,
-  "2023-11-06": 60276,
-  "2023-11-07": 60276,
-  "2023-11-08": 60276,
-  "2023-11-09": 60276,
-  "2023-11-10": 60276,
-  "2023-11-11": 61790,
-  "2023-11-12": 61790,
-  "2023-11-13": 61790,
-  "2023-11-14": 61790,
-  "2023-11-15": 61790,
-  "2023-11-16": 61790,
-  "2023-11-17": 61790,
-  "2023-11-18": 61790,
-  "2023-11-19": 61790,
-  "2023-11-20": 61790,
-  "2023-11-21": 61790,
-  "2023-11-22": 61790,
-  "2023-11-23": 61790,
-  "2023-11-24": 61790,
-  "2023-11-25": 61790,
-  "2023-11-26": 61790,
-  "2023-11-27": 61790,
-  "2023-11-28": 61790,
-  "2023-11-29": 61790,
-  "2023-11-30": 61790,
-  "2023-12-01": 61790,
-  "2023-12-02": 61790,
-  "2023-12-03": 61790,
-  "2023-12-04": 61790,
-  "2023-12-05": 61790,
-  "2023-12-06": 61790,
-  "2023-12-07": 61790,
-  "2023-12-08": 61790,
-  "2023-12-09": 61790,
-  "2023-12-10": 61790,
-  "2023-12-11": 61790,
-  "2023-12-12": 61790,
-  "2023-12-13": 61790,
-  "2023-12-14": 62788,
-  "2023-12-15": 62819,
-  "2023-12-16": 62845,
-  "2023-12-17": 62878,
-  "2023-12-18": 62915,
-  "2023-12-19": 62953,
-  "2023-12-20": 62985,
-  "2023-12-21": 63009,
-  "2023-12-22": 63034,
-  "2023-12-23": 63068,
-  "2023-12-24": 63104,
-  "2023-12-25": 63145,
-  "2023-12-26": 63171,
-  "2023-12-27": 63202,
-  "2023-12-30": 63313,
-  "2023-12-31": 63364,
-  "2024-01-01": 63395,
-  "2024-01-02": 63432,
-  "2024-01-03": 63447
+  "2024-01-17": 63803,
+  "date_first_scraped": "2022-10-27",
+  "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
+  "name": "This Is Vilma Palma e Vampiros",
+  "tracks": [
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "Agarrate Fuerte",
+      "url": "https://open.spotify.com/track/3lUBSiPCNkJGVmd9jG6T39"
+    },
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "Animales Sueltos",
+      "url": "https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj"
+    },
+    {
+      "album": {
+        "name": "3980",
+        "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Auto Rojo",
+      "url": "https://open.spotify.com/track/5PSCWHpXi8I45NXURHyhBA"
+    },
+    {
+      "album": {
+        "name": "Bailalo",
+        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
+      },
+      "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
+    },
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "Bella Mujer",
+      "url": "https://open.spotify.com/track/5Vrc6YjRKhsR2Ee1bqKnNA"
+    },
+    {
+      "album": {
+        "name": "Besos en el Ascensor",
+        "url": "https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03"
+      },
+      "artists": [
+        {
+          "name": "Manu Pir\u00f3",
+          "url": "https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA"
+        },
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Besos en el Ascensor",
+      "url": "https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a"
+    },
+    {
+      "album": {
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252354,
+      "name": "Borracho Hasta El Amanecer",
+      "url": "https://open.spotify.com/track/33Oy56bS8e8QvxIyLd0L2d"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192546,
+      "name": "Bumerang",
+      "url": "https://open.spotify.com/track/5OAIDWC6OWeJFGS3KZPkLF"
+    },
+    {
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349506,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc"
+    },
+    {
+      "album": {
+        "name": "Vuelve a Comenzar",
+        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 235813,
+      "name": "Cambio Mi Dolor",
+      "url": "https://open.spotify.com/track/1bfAH3Bt7u1YlRNCUirYwD"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Carcaman",
+      "url": "https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "Centurion",
+      "url": "https://open.spotify.com/track/4CGt19vmFmyEKmWTnTXDcs"
+    },
+    {
+      "album": {
+        "name": "Vilma Palma E Vampiros, Grandes Exitos",
+        "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185080,
+      "name": "cumbia",
+      "url": "https://open.spotify.com/track/5Quu2pIGvboHPYxJaqFXyE"
+    },
+    {
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350712,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
+    },
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236146,
+      "name": "Ella lo Hace Mejor",
+      "url": "https://open.spotify.com/track/4BcslhiC50eygxnmF5Dq2d"
+    },
+    {
+      "album": {
+        "name": "Hecatombe Disco",
+        "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Est\u00fapida",
+      "url": "https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy"
+    },
+    {
+      "album": {
+        "name": "Vilma Palma E Vampiros, Grandes Exitos",
+        "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233147,
+      "name": "Fernet con coca",
+      "url": "https://open.spotify.com/track/5MChIGdXC12NGktlS4YGgs"
+    },
+    {
+      "album": {
+        "name": "Flaca",
+        "url": "https://open.spotify.com/album/7mVLJqjHL76zbPnk8a0DXd"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227178,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/4nrnvLDI4Gi1vr7y9kGARa"
+    },
+    {
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224973,
+      "name": "Fondo Profundo",
+      "url": "https://open.spotify.com/track/2g229Q3Relqxkj5CDnTjeE"
+    },
+    {
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273026,
+      "name": "Gin Tonic",
+      "url": "https://open.spotify.com/track/0FgZ5rpMveTUQjdozZ03HP"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300053,
+      "name": "Hechicera Crayon",
+      "url": "https://open.spotify.com/track/0HE9ttmrZ1Ir01F82oBKh7"
+    },
+    {
+      "album": {
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 302021,
+      "name": "Histeria",
+      "url": "https://open.spotify.com/track/0nRGbWXmLv56lPsR3dtB3y"
+    },
+    {
+      "album": {
+        "name": "Vuelve a Comenzar",
+        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256906,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp"
+    },
+    {
+      "album": {
+        "name": "Vuelve a Comenzar",
+        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 212280,
+      "name": "La Chica De Mi Ayer",
+      "url": "https://open.spotify.com/track/45SZZyXyZjs6aox30oGlQi"
+    },
+    {
+      "album": {
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257021,
+      "name": "La Noche Que Yo Te Vi",
+      "url": "https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9"
+    },
+    {
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281933,
+      "name": "La Pachanga",
+      "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
+    },
+    {
+      "album": {
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-01",
+      "duration_ms": 245086,
+      "name": "La Pu\u00f1alada",
+      "url": "https://open.spotify.com/track/63ZtQzrp4WNK6uYggoza7K"
+    },
+    {
+      "album": {
+        "name": "3980",
+        "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Me Vuelvo Loco por Vos",
+      "url": "https://open.spotify.com/track/0HXYqKxtdHB9HLhjwPozcF"
+    },
+    {
+      "album": {
+        "name": "3980",
+        "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367960,
+      "name": "Mojada",
+      "url": "https://open.spotify.com/track/5N5sbaoN8UvXw8ngNR9iUk"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "Nada Mas",
+      "url": "https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9"
+    },
+    {
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317413,
+      "name": "No Me Hagas Callar",
+      "url": "https://open.spotify.com/track/3ZjkflIADDBkA6jFm5WJBy"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 151773,
+      "name": "Pasemos a otro tema - en vivo",
+      "url": "https://open.spotify.com/track/19oeyrvbBfAcpgMEGQ3v3S"
+    },
+    {
+      "album": {
+        "name": "3980",
+        "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305546,
+      "name": "Perdiendo el Tiempo",
+      "url": "https://open.spotify.com/track/5Jf0hLSFRfZ3NTSD45hLuf"
+    },
+    {
+      "album": {
+        "name": "Psic\u00f3tico",
+        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
+      },
+      "artists": [
+        {
+          "name": "EL\u00cdAS",
+          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
+        },
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201596,
+      "name": "Psic\u00f3tico",
+      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
+    },
+    {
+      "album": {
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275466,
+      "name": "Quiero Llegar - En Vivo",
+      "url": "https://open.spotify.com/track/3C9cFMfZZb2SUWiiZaX0Wd"
+    },
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278480,
+      "name": "Reina del Club",
+      "url": "https://open.spotify.com/track/0MlWFjOxbBAHg9JuQNHZoH"
+    },
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339333,
+      "name": "Sabor Par\u00eds - Bossa Mix",
+      "url": "https://open.spotify.com/track/0Xb0JauqscZOOnziPSQmJr"
+    },
+    {
+      "album": {
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Salvando Vidas - En Vivo",
+      "url": "https://open.spotify.com/track/7LSJtOR7izWSEljRyLQb8n"
+    },
+    {
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257438,
+      "name": "Si Eso Te Pone Mejor",
+      "url": "https://open.spotify.com/track/1qVTpnGqccuRquqfGyvvBo"
+    },
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 291440,
+      "name": "Siempre Llega un Amor",
+      "url": "https://open.spotify.com/track/2gZjr9UZ97ZpuncfDeABtN"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 226157,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/194MLmAfHkno0HDVHbdM1m"
+    },
+    {
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162515,
+      "name": "Solo Es Otro Sabado",
+      "url": "https://open.spotify.com/track/6ihRQHClQC49RuYNiTTbFH"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246333,
+      "name": "Son tus ojos",
+      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286800,
+      "name": "Soy un loco",
+      "url": "https://open.spotify.com/track/5UmXB0hPoKr9JJOp5MttAx"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270054,
+      "name": "Te Puedo Enamorar",
+      "url": "https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ"
+    },
+    {
+      "album": {
+        "name": "3980",
+        "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209960,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/3okNQ9w68odjhNWXk6SY1n"
+    },
+    {
+      "album": {
+        "name": "Vilma Palma E Vampiros, Grandes Exitos",
+        "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319480,
+      "name": "Todo lo que fue",
+      "url": "https://open.spotify.com/track/323QM9uKGd3QmvH5G2JaBE"
+    },
+    {
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267654,
+      "name": "Todo por Esta Cancion",
+      "url": "https://open.spotify.com/track/583falna8SnSHTYDCMSVVx"
+    },
+    {
+      "album": {
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251013,
+      "name": "Todo Por un Sue\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/1bRzDCtPEodKoVaqaOmDMR"
+    },
+    {
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362920,
+      "name": "Toque de Queda",
+      "url": "https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW"
+    },
+    {
+      "album": {
+        "name": "3980",
+        "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231946,
+      "name": "Travestis",
+      "url": "https://open.spotify.com/track/2OZPsTM3DylfeX7K8UWLSI"
+    },
+    {
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338093,
+      "name": "Un Camino Hasta Vos",
+      "url": "https://open.spotify.com/track/5glk2ZR5FDNKWXWjb15om9"
+    },
+    {
+      "album": {
+        "name": "Un Minuto Con Vos",
+        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245467,
+      "name": "Un Minuto Con Vos",
+      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Vamos Linda",
+      "url": "https://open.spotify.com/track/6Ik6K1CUVXRSYHeWLveSbA"
+    },
+    {
+      "album": {
+        "name": "Vilma Palma E Vampiros, Grandes Exitos",
+        "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411947,
+      "name": "Verano traidor",
+      "url": "https://open.spotify.com/track/54b9f1JmWzssvXIvBogR2u"
+    },
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 203080,
+      "name": "Voy a Seguir Bailando",
+      "url": "https://open.spotify.com/track/6fOAa742Fu17tI39hrtnDN"
+    },
+    {
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343440,
+      "name": "Voy a Vos",
+      "url": "https://open.spotify.com/track/0aWGzetUTb4lJqy2m2nl1i"
+    },
+    {
+      "album": {
+        "name": "Vuelve a Comenzar",
+        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Vuelve A Comenzar",
+      "url": "https://open.spotify.com/track/7MrnizaZmYy9OPY6aAW12l"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3uRjKu"
 }

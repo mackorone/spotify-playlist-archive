@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,359 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,067 likes - 40 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 32 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 |
 | 33 | [Anuva's Sky](https://open.spotify.com/track/345H6NEZCjc7XKXaHtBXPd) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Nights in Shining Karma](https://open.spotify.com/album/7Hg5bidAjLakmk9T86sNvo) | 3:16 |
 | 34 | [Kabeera](https://open.spotify.com/track/4U7xldapTfEMmrNnWZd3yD) | [Mrigya](https://open.spotify.com/artist/0p5FLesLYt17BYby6Vjn43) | [Mrigya](https://open.spotify.com/album/2Q3TlImzYYIO54uQ6cwVqf) | 8:47 |
-| 35 | [Aro Ekbar](https://open.spotify.com/track/1cUq9SX7nQL1u0kKyhT7lX) | [Fossils](https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo) | [Fossils](https://open.spotify.com/album/5Il3OBfF2vxUbJXnRS4fzj) | 6:44 |
+| 35 | [Aaro Ekbar](https://open.spotify.com/track/0OM0yZX9mjzK1FuKraQWvU) | [Rupam Islam](https://open.spotify.com/artist/1pRruDTNcEFpBPvpFZU76o), [Fossils](https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo) | [Fossils, Vol\. 1](https://open.spotify.com/album/4LK7A9a8z4UFHAL5MNpPdb) | 6:44 |
 | 36 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/4CynbtCIynnanmhYj1FW7Q) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/4z3inK6h6bTRQJW2gozjjj) | 5:49 |
 | 37 | [Set Me Free](https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB) | [Soulmate](https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk) | [Moving On](https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP) | 4:55 |
 | 38 | [Fireflies](https://open.spotify.com/track/2ixrCwnrSfmUruH61rFVPC) | [Indus Creed](https://open.spotify.com/artist/29L00LK0aSCpgPBvMs483t) | [Evolve](https://open.spotify.com/album/7j7I0kYfuUvdFuSoGOjnqy) | 4:53 |
 | 39 | [Lokada Kalaji](https://open.spotify.com/track/2HHnW1zEozzxU9spZVGO5I) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Jag Changa](https://open.spotify.com/album/6zeb7EfUZzNJ6YJTmeIL0V) | 4:53 |
 | 40 | [Teri Meri Zindagi](https://open.spotify.com/track/3jHP1XTax79oBQN2WB2Zsv) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Kavya Jones](https://open.spotify.com/artist/1lydwiD3rVjbuurDYXpbXi) | [Teri Meri Zindagi](https://open.spotify.com/album/2AMpMNsHdraGYj1wigyZIm) | 3:28 |
 
-Snapshot ID: `MCw2MDYxYThjODk4YzZjMTNkNjRiMDkzMmJmZmI4YmE3YmQxYTdlNWM3`
+Snapshot ID: `MCwwYWRlZmU1NzQxZGI1N2JiMDJkMmY2YWEwYzkwMjMwMDQyMzg5YTBj`

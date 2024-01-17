@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 
 > This Is PSY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,546 likes - 106 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,657 likes - 106 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

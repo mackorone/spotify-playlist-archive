@@ -1,735 +1,845 @@
 {
-  "2021-12-25": 299,
-  "2021-12-26": 299,
-  "2021-12-27": 299,
-  "2021-12-28": 299,
-  "2021-12-29": 299,
-  "2021-12-30": 299,
-  "2021-12-31": 299,
-  "2022-01-01": 299,
-  "2022-01-02": 299,
-  "2022-01-03": 299,
-  "2022-01-04": 299,
-  "2022-01-05": 299,
-  "2022-01-06": 299,
-  "2022-01-07": 299,
-  "2022-01-08": 299,
-  "2022-01-09": 299,
-  "2022-01-10": 299,
-  "2022-01-11": 299,
-  "2022-01-12": 299,
-  "2022-01-13": 299,
-  "2022-01-14": 299,
-  "2022-01-15": 299,
-  "2022-01-16": 299,
-  "2022-01-17": 299,
-  "2022-01-18": 299,
-  "2022-01-19": 299,
-  "2022-01-20": 299,
-  "2022-01-21": 299,
-  "2022-01-22": 299,
-  "2022-01-23": 299,
-  "2022-01-24": 299,
-  "2022-01-25": 299,
-  "2022-01-26": 299,
-  "2022-01-27": 299,
-  "2022-01-28": 299,
-  "2022-01-29": 299,
-  "2022-01-30": 299,
-  "2022-01-31": 299,
-  "2022-02-01": 299,
-  "2022-02-02": 299,
-  "2022-02-03": 299,
-  "2022-02-04": 299,
-  "2022-02-05": 299,
-  "2022-02-06": 299,
-  "2022-02-07": 299,
-  "2022-02-08": 299,
-  "2022-02-09": 299,
-  "2022-02-10": 299,
-  "2022-02-11": 299,
-  "2022-02-12": 299,
-  "2022-02-13": 299,
-  "2022-02-14": 299,
-  "2022-02-15": 299,
-  "2022-02-16": 299,
-  "2022-02-17": 299,
-  "2022-02-18": 299,
-  "2022-02-19": 299,
-  "2022-02-20": 299,
-  "2022-02-21": 299,
-  "2022-02-22": 299,
-  "2022-02-23": 299,
-  "2022-02-24": 299,
-  "2022-02-25": 299,
-  "2022-02-26": 299,
-  "2022-02-27": 299,
-  "2022-02-28": 299,
-  "2022-03-01": 299,
-  "2022-03-02": 299,
-  "2022-03-03": 299,
-  "2022-03-04": 299,
-  "2022-03-05": 299,
-  "2022-03-06": 299,
-  "2022-03-07": 299,
-  "2022-03-08": 299,
-  "2022-03-09": 299,
-  "2022-03-10": 299,
-  "2022-03-11": 299,
-  "2022-03-12": 299,
-  "2022-03-13": 299,
-  "2022-03-14": 299,
-  "2022-03-15": 299,
-  "2022-03-16": 299,
-  "2022-03-17": 299,
-  "2022-03-18": 299,
-  "2022-03-19": 299,
-  "2022-03-20": 299,
-  "2022-03-21": 299,
-  "2022-03-22": 299,
-  "2022-03-23": 299,
-  "2022-03-24": 299,
-  "2022-03-25": 299,
-  "2022-03-26": 299,
-  "2022-03-27": 299,
-  "2022-03-28": 299,
-  "2022-03-30": 299,
-  "2022-03-31": 299,
-  "2022-04-01": 299,
-  "2022-04-02": 299,
-  "2022-04-03": 299,
-  "2022-04-04": 295,
-  "2022-04-05": 299,
-  "2022-04-06": 299,
-  "2022-04-07": 299,
-  "2022-04-08": 299,
-  "2022-04-09": 299,
-  "2022-04-10": 299,
-  "2022-04-11": 299,
-  "2022-04-12": 299,
-  "2022-04-13": 299,
-  "2022-04-14": 299,
-  "2022-04-15": 299,
-  "2022-04-16": 299,
-  "2022-04-17": 299,
-  "2022-04-18": 299,
-  "2022-04-19": 299,
-  "2022-04-20": 299,
-  "2022-04-21": 299,
-  "2022-04-22": 299,
-  "2022-04-23": 299,
-  "2022-04-24": 299,
-  "2022-04-25": 299,
-  "2022-04-26": 299,
-  "2022-04-27": 299,
-  "2022-04-28": 299,
-  "2022-04-29": 299,
-  "2022-04-30": 299,
-  "2022-05-01": 299,
-  "2022-05-02": 299,
-  "2022-05-03": 299,
-  "2022-05-04": 299,
-  "2022-05-05": 299,
-  "2022-05-06": 299,
-  "2022-05-07": 299,
-  "2022-05-08": 299,
-  "2022-05-09": 299,
-  "2022-05-10": 299,
-  "2022-05-11": 299,
-  "2022-05-12": 299,
-  "2022-05-13": 299,
-  "2022-05-14": 299,
-  "2022-05-15": 299,
-  "2022-05-16": 299,
-  "2022-05-17": 299,
-  "2022-05-18": 299,
-  "2022-05-19": 299,
-  "2022-05-20": 299,
-  "2022-05-21": 299,
-  "2022-05-22": 299,
-  "2022-05-23": 299,
-  "2022-05-24": 299,
-  "2022-05-25": 299,
-  "2022-05-26": 299,
-  "2022-05-27": 299,
-  "2022-05-28": 299,
-  "2022-05-29": 299,
-  "2022-05-30": 299,
-  "2022-05-31": 299,
-  "2022-06-01": 299,
-  "2022-06-02": 299,
-  "2022-06-03": 299,
-  "2022-06-04": 299,
-  "2022-06-05": 299,
-  "2022-06-06": 299,
-  "2022-06-07": 299,
-  "2022-06-08": 299,
-  "2022-06-09": 299,
-  "2022-06-10": 299,
-  "2022-06-11": 299,
-  "2022-06-12": 299,
-  "2022-06-13": 299,
-  "2022-06-14": 299,
-  "2022-06-15": 299,
-  "2022-06-16": 299,
-  "2022-06-17": 299,
-  "2022-06-18": 299,
-  "2022-06-19": 299,
-  "2022-06-20": 299,
-  "2022-06-21": 299,
-  "2022-06-22": 299,
-  "2022-06-23": 299,
-  "2022-06-24": 299,
-  "2022-06-25": 299,
-  "2022-06-26": 299,
-  "2022-06-27": 299,
-  "2022-06-28": 299,
-  "2022-06-29": 299,
-  "2022-06-30": 299,
-  "2022-07-01": 299,
-  "2022-07-02": 299,
-  "2022-07-03": 299,
-  "2022-07-04": 299,
-  "2022-07-05": 299,
-  "2022-07-06": 299,
-  "2022-07-07": 299,
-  "2022-07-08": 299,
-  "2022-07-09": 299,
-  "2022-07-10": 299,
-  "2022-07-11": 299,
-  "2022-07-12": 299,
-  "2022-07-13": 299,
-  "2022-07-14": 299,
-  "2022-07-15": 299,
-  "2022-07-16": 299,
-  "2022-07-17": 299,
-  "2022-07-18": 299,
-  "2022-07-19": 299,
-  "2022-07-20": 299,
-  "2022-07-21": 299,
-  "2022-07-22": 299,
-  "2022-07-23": 299,
-  "2022-07-24": 299,
-  "2022-07-25": 299,
-  "2022-07-26": 299,
-  "2022-07-27": 299,
-  "2022-07-28": 299,
-  "2022-07-29": 299,
-  "2022-07-30": 299,
-  "2022-07-31": 299,
-  "2022-08-01": 299,
-  "2022-08-02": 299,
-  "2022-08-03": 299,
-  "2022-08-04": 299,
-  "2022-08-05": 299,
-  "2022-08-06": 299,
-  "2022-08-07": 299,
-  "2022-08-08": 299,
-  "2022-08-09": 299,
-  "2022-08-10": 299,
-  "2022-08-11": 299,
-  "2022-08-12": 299,
-  "2022-08-13": 299,
-  "2022-08-14": 299,
-  "2022-08-15": 299,
-  "2022-08-16": 299,
-  "2022-08-17": 299,
-  "2022-08-18": 299,
-  "2022-08-19": 299,
-  "2022-08-20": 299,
-  "2022-08-21": 299,
-  "2022-08-22": 299,
-  "2022-08-23": 299,
-  "2022-08-24": 299,
-  "2022-08-25": 299,
-  "2022-08-26": 299,
-  "2022-08-27": 299,
-  "2022-08-28": 299,
-  "2022-08-29": 299,
-  "2022-08-30": 299,
-  "2022-08-31": 299,
-  "2022-09-01": 299,
-  "2022-09-02": 299,
-  "2022-09-03": 299,
-  "2022-09-04": 299,
-  "2022-09-05": 299,
-  "2022-09-06": 299,
-  "2022-09-07": 299,
-  "2022-09-09": 299,
-  "2022-09-10": 298,
-  "2022-09-11": 298,
-  "2022-09-12": 298,
-  "2022-09-13": 298,
-  "2022-09-15": 298,
-  "2022-09-16": 298,
-  "2022-09-17": 298,
-  "2022-09-18": 298,
-  "2022-09-19": 298,
-  "2022-09-20": 298,
-  "2022-09-21": 298,
-  "2022-09-22": 298,
-  "2022-09-23": 298,
-  "2022-09-24": 298,
-  "2022-09-25": 298,
-  "2022-09-26": 298,
-  "2022-09-27": 298,
-  "2022-09-28": 298,
-  "2022-09-29": 298,
-  "2022-09-30": 298,
-  "2022-10-01": 298,
-  "2022-10-02": 298,
-  "2022-10-03": 298,
-  "2022-10-04": 298,
-  "2022-10-05": 298,
-  "2022-10-06": 298,
-  "2022-10-07": 298,
-  "2022-10-08": 298,
-  "2022-10-09": 298,
-  "2022-10-10": 298,
-  "2022-10-11": 298,
-  "2022-10-12": 298,
-  "2022-10-13": 298,
-  "2022-10-14": 298,
-  "2022-10-15": 298,
-  "2022-10-16": 298,
-  "2022-10-17": 298,
-  "2022-10-18": 298,
-  "2022-10-19": 298,
-  "2022-10-20": 298,
-  "2022-10-21": 298,
-  "2022-10-22": 298,
-  "2022-10-23": 298,
-  "2022-10-24": 298,
-  "2022-10-25": 298,
-  "2022-10-26": 298,
-  "2022-10-27": 298,
-  "2022-10-28": 298,
-  "2022-10-29": 298,
-  "2022-10-30": 298,
-  "2022-10-31": 298,
-  "2022-11-01": 298,
-  "2022-11-02": 298,
-  "2022-11-03": 299,
-  "2022-11-04": 299,
-  "2022-11-05": 299,
-  "2022-11-06": 299,
-  "2022-11-07": 299,
-  "2022-11-08": 301,
-  "2022-11-09": 301,
-  "2022-11-10": 303,
-  "2022-11-11": 304,
-  "2022-11-12": 304,
-  "2022-11-13": 304,
-  "2022-11-14": 304,
-  "2022-11-15": 304,
-  "2022-11-16": 304,
-  "2022-11-17": 304,
-  "2022-11-18": 303,
-  "2022-11-19": 303,
-  "2022-11-20": 302,
-  "2022-11-21": 301,
-  "2022-11-22": 301,
-  "2022-11-23": 301,
-  "2022-11-24": 301,
-  "2022-11-25": 301,
-  "2022-11-26": 301,
-  "2022-11-27": 300,
-  "2022-11-28": 300,
-  "2022-11-29": 300,
-  "2022-11-30": 300,
-  "2022-12-01": 300,
-  "2022-12-02": 300,
-  "2022-12-03": 300,
-  "2022-12-04": 300,
-  "2022-12-05": 300,
-  "2022-12-06": 300,
-  "2022-12-07": 300,
-  "2022-12-08": 300,
-  "2022-12-09": 300,
-  "2022-12-10": 300,
-  "2022-12-11": 300,
-  "2022-12-12": 300,
-  "2022-12-13": 300,
-  "2022-12-14": 300,
-  "2022-12-15": 300,
-  "2022-12-16": 300,
-  "2022-12-17": 300,
-  "2022-12-18": 300,
-  "2022-12-19": 300,
-  "2022-12-20": 300,
-  "2022-12-21": 300,
-  "2022-12-22": 300,
-  "2022-12-24": 300,
-  "2022-12-25": 299,
-  "2022-12-26": 298,
-  "2022-12-27": 298,
-  "2022-12-28": 298,
-  "2022-12-29": 298,
-  "2022-12-30": 298,
-  "2022-12-31": 298,
-  "2023-01-01": 298,
-  "2023-01-02": 298,
-  "2023-01-03": 298,
-  "2023-01-04": 298,
-  "2023-01-05": 298,
-  "2023-01-06": 298,
-  "2023-01-07": 298,
-  "2023-01-08": 298,
-  "2023-01-09": 298,
-  "2023-01-10": 298,
-  "2023-01-11": 298,
-  "2023-01-12": 298,
-  "2023-01-13": 298,
-  "2023-01-14": 298,
-  "2023-01-15": 298,
-  "2023-01-16": 298,
-  "2023-01-17": 298,
-  "2023-01-18": 298,
-  "2023-01-19": 298,
-  "2023-01-20": 298,
-  "2023-01-21": 298,
-  "2023-01-22": 298,
-  "2023-01-23": 298,
-  "2023-01-24": 298,
-  "2023-01-25": 298,
-  "2023-01-26": 298,
-  "2023-01-27": 298,
-  "2023-01-28": 298,
-  "2023-01-29": 298,
-  "2023-01-30": 298,
-  "2023-01-31": 298,
-  "2023-02-01": 298,
-  "2023-02-02": 298,
-  "2023-02-03": 298,
-  "2023-02-04": 298,
-  "2023-02-05": 298,
-  "2023-02-06": 298,
-  "2023-02-07": 298,
-  "2023-02-08": 298,
-  "2023-02-09": 298,
-  "2023-02-10": 298,
-  "2023-02-11": 298,
-  "2023-02-12": 298,
-  "2023-02-13": 298,
-  "2023-02-14": 298,
-  "2023-02-15": 298,
-  "2023-02-16": 298,
-  "2023-02-17": 298,
-  "2023-02-18": 298,
-  "2023-02-19": 298,
-  "2023-02-20": 298,
-  "2023-02-21": 298,
-  "2023-02-22": 298,
-  "2023-02-23": 298,
-  "2023-02-24": 298,
-  "2023-02-25": 298,
-  "2023-02-26": 298,
-  "2023-02-27": 298,
-  "2023-02-28": 298,
-  "2023-03-01": 298,
-  "2023-03-02": 298,
-  "2023-03-03": 298,
-  "2023-03-04": 298,
-  "2023-03-05": 298,
-  "2023-03-06": 298,
-  "2023-03-07": 298,
-  "2023-03-08": 298,
-  "2023-03-09": 298,
-  "2023-03-10": 298,
-  "2023-03-11": 298,
-  "2023-03-12": 298,
-  "2023-03-13": 298,
-  "2023-03-14": 298,
-  "2023-03-15": 298,
-  "2023-03-16": 298,
-  "2023-03-17": 298,
-  "2023-03-18": 298,
-  "2023-03-19": 298,
-  "2023-03-20": 298,
-  "2023-03-21": 298,
-  "2023-03-22": 298,
-  "2023-03-23": 298,
-  "2023-03-24": 298,
-  "2023-03-25": 298,
-  "2023-03-26": 298,
-  "2023-03-27": 298,
-  "2023-03-28": 298,
-  "2023-03-29": 298,
-  "2023-03-30": 298,
-  "2023-03-31": 298,
-  "2023-04-01": 298,
-  "2023-04-02": 297,
-  "2023-04-03": 297,
-  "2023-04-04": 297,
-  "2023-04-05": 297,
-  "2023-04-06": 297,
-  "2023-04-07": 297,
-  "2023-04-09": 297,
-  "2023-04-10": 297,
-  "2023-04-11": 297,
-  "2023-04-12": 297,
-  "2023-04-13": 297,
-  "2023-04-14": 297,
-  "2023-04-15": 297,
-  "2023-04-16": 298,
-  "2023-04-17": 298,
-  "2023-04-18": 298,
-  "2023-04-19": 298,
-  "2023-04-20": 298,
-  "2023-04-21": 298,
-  "2023-04-22": 298,
-  "2023-04-23": 298,
-  "2023-04-24": 298,
-  "2023-04-25": 298,
-  "2023-04-26": 298,
-  "2023-04-27": 298,
-  "2023-04-28": 298,
-  "2023-04-29": 298,
-  "2023-04-30": 298,
-  "2023-05-01": 298,
-  "2023-05-02": 298,
-  "2023-05-03": 298,
-  "2023-05-04": 298,
-  "2023-05-05": 298,
-  "2023-05-06": 298,
-  "2023-05-07": 298,
-  "2023-05-08": 298,
-  "2023-05-09": 298,
-  "2023-05-10": 298,
-  "2023-05-11": 298,
-  "2023-05-12": 298,
-  "2023-05-13": 298,
-  "2023-05-14": 298,
-  "2023-05-15": 298,
-  "2023-05-16": 298,
-  "2023-05-17": 298,
-  "2023-05-18": 298,
-  "2023-05-19": 298,
-  "2023-05-20": 298,
-  "2023-05-21": 298,
-  "2023-05-22": 298,
-  "2023-05-23": 298,
-  "2023-05-24": 298,
-  "2023-05-25": 298,
-  "2023-05-26": 298,
-  "2023-05-27": 298,
-  "2023-05-28": 298,
-  "2023-05-29": 298,
-  "2023-05-30": 298,
-  "2023-05-31": 298,
-  "2023-06-01": 298,
-  "2023-06-02": 298,
-  "2023-06-03": 298,
-  "2023-06-04": 298,
-  "2023-06-05": 298,
-  "2023-06-06": 298,
-  "2023-06-07": 298,
-  "2023-06-08": 298,
-  "2023-06-09": 298,
-  "2023-06-10": 298,
-  "2023-06-11": 298,
-  "2023-06-12": 298,
-  "2023-06-13": 298,
-  "2023-06-14": 298,
-  "2023-06-15": 298,
-  "2023-06-16": 298,
-  "2023-06-17": 298,
-  "2023-06-18": 298,
-  "2023-06-19": 298,
-  "2023-06-20": 298,
-  "2023-06-21": 298,
-  "2023-06-22": 298,
-  "2023-06-23": 298,
-  "2023-06-24": 298,
-  "2023-06-25": 298,
-  "2023-06-26": 298,
-  "2023-06-27": 299,
-  "2023-06-28": 299,
-  "2023-06-29": 299,
-  "2023-06-30": 299,
-  "2023-07-01": 299,
-  "2023-07-02": 299,
-  "2023-07-03": 299,
-  "2023-07-04": 299,
-  "2023-07-05": 299,
-  "2023-07-06": 299,
-  "2023-07-07": 299,
-  "2023-07-08": 299,
-  "2023-07-09": 298,
-  "2023-07-10": 298,
-  "2023-07-11": 298,
-  "2023-07-12": 298,
-  "2023-07-13": 298,
-  "2023-07-14": 298,
-  "2023-07-15": 298,
-  "2023-07-16": 298,
-  "2023-07-17": 298,
-  "2023-07-18": 298,
-  "2023-07-19": 298,
-  "2023-07-20": 298,
-  "2023-07-21": 298,
-  "2023-07-22": 298,
-  "2023-07-23": 298,
-  "2023-07-24": 298,
-  "2023-07-25": 298,
-  "2023-07-26": 298,
-  "2023-07-27": 298,
-  "2023-07-28": 298,
-  "2023-07-29": 298,
-  "2023-07-30": 298,
-  "2023-07-31": 298,
-  "2023-08-01": 298,
-  "2023-08-02": 298,
-  "2023-08-03": 298,
-  "2023-08-04": 298,
-  "2023-08-05": 298,
-  "2023-08-06": 298,
-  "2023-08-07": 298,
-  "2023-08-08": 298,
-  "2023-08-09": 298,
-  "2023-08-10": 298,
-  "2023-08-11": 298,
-  "2023-08-12": 298,
-  "2023-08-13": 298,
-  "2023-08-14": 298,
-  "2023-08-15": 298,
-  "2023-08-16": 298,
-  "2023-08-17": 298,
-  "2023-08-18": 298,
-  "2023-08-19": 298,
-  "2023-08-20": 298,
-  "2023-08-21": 298,
-  "2023-08-22": 298,
-  "2023-08-23": 298,
-  "2023-08-24": 298,
-  "2023-08-25": 298,
-  "2023-08-26": 298,
-  "2023-08-27": 298,
-  "2023-08-28": 298,
-  "2023-08-29": 298,
-  "2023-08-30": 298,
-  "2023-08-31": 298,
-  "2023-09-01": 298,
-  "2023-09-02": 298,
-  "2023-09-03": 298,
-  "2023-09-04": 298,
-  "2023-09-05": 298,
-  "2023-09-06": 298,
-  "2023-09-07": 298,
-  "2023-09-08": 298,
-  "2023-09-09": 298,
-  "2023-09-10": 298,
-  "2023-09-11": 298,
-  "2023-09-12": 298,
-  "2023-09-13": 298,
-  "2023-09-14": 298,
-  "2023-09-15": 298,
-  "2023-09-16": 298,
-  "2023-09-17": 298,
-  "2023-09-18": 298,
-  "2023-09-19": 298,
-  "2023-09-20": 298,
-  "2023-09-21": 298,
-  "2023-09-22": 298,
-  "2023-09-23": 298,
-  "2023-09-24": 298,
-  "2023-09-25": 298,
-  "2023-09-26": 298,
-  "2023-09-27": 298,
-  "2023-09-28": 298,
-  "2023-09-29": 298,
-  "2023-09-30": 298,
-  "2023-10-01": 298,
-  "2023-10-02": 298,
-  "2023-10-03": 298,
-  "2023-10-04": 298,
-  "2023-10-05": 298,
-  "2023-10-06": 298,
-  "2023-10-07": 298,
-  "2023-10-08": 298,
-  "2023-10-09": 298,
-  "2023-10-10": 298,
-  "2023-10-11": 298,
-  "2023-10-12": 298,
-  "2023-10-13": 298,
-  "2023-10-14": 298,
-  "2023-10-15": 298,
-  "2023-10-16": 298,
-  "2023-10-17": 298,
-  "2023-10-18": 298,
-  "2023-10-19": 298,
-  "2023-10-20": 298,
-  "2023-10-21": 298,
-  "2023-10-22": 298,
-  "2023-10-23": 298,
-  "2023-10-24": 298,
-  "2023-10-25": 298,
-  "2023-10-26": 298,
-  "2023-10-27": 298,
-  "2023-10-28": 298,
-  "2023-10-29": 298,
-  "2023-10-30": 298,
-  "2023-10-31": 298,
-  "2023-11-01": 298,
-  "2023-11-02": 298,
-  "2023-11-03": 298,
-  "2023-11-04": 298,
-  "2023-11-05": 298,
-  "2023-11-06": 298,
-  "2023-11-07": 298,
-  "2023-11-08": 298,
-  "2023-11-09": 298,
-  "2023-11-10": 298,
-  "2023-11-11": 298,
-  "2023-11-12": 298,
-  "2023-11-13": 298,
-  "2023-11-14": 298,
-  "2023-11-15": 298,
-  "2023-11-16": 298,
-  "2023-11-17": 298,
-  "2023-11-18": 298,
-  "2023-11-19": 298,
-  "2023-11-20": 298,
-  "2023-11-21": 298,
-  "2023-11-22": 298,
-  "2023-11-23": 298,
-  "2023-11-24": 298,
-  "2023-11-25": 298,
-  "2023-11-26": 298,
-  "2023-11-27": 298,
-  "2023-11-28": 298,
-  "2023-11-29": 298,
-  "2023-11-30": 298,
-  "2023-12-01": 298,
-  "2023-12-02": 298,
-  "2023-12-03": 298,
-  "2023-12-04": 298,
-  "2023-12-05": 298,
-  "2023-12-06": 298,
-  "2023-12-07": 298,
-  "2023-12-08": 298,
-  "2023-12-09": 298,
-  "2023-12-10": 298,
-  "2023-12-11": 298,
-  "2023-12-12": 298,
-  "2023-12-13": 298,
-  "2023-12-14": 289,
-  "2023-12-15": 289,
-  "2023-12-16": 289,
-  "2023-12-17": 289,
-  "2023-12-18": 289,
-  "2023-12-19": 289,
-  "2023-12-20": 289,
-  "2023-12-21": 289,
-  "2023-12-22": 289,
-  "2023-12-23": 289,
-  "2023-12-24": 289,
-  "2023-12-25": 289,
-  "2023-12-26": 289,
-  "2023-12-27": 289,
-  "2023-12-30": 289,
-  "2023-12-31": 289,
-  "2024-01-01": 289,
-  "2024-01-02": 289,
-  "2024-01-03": 289
+  "2024-01-17": 285,
+  "date_first_scraped": "2021-12-21",
+  "description": "",
+  "name": "Happy Birthday Prince!",
+  "tracks": [
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379266,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359133,
+      "name": "All the Critics Love U in New York",
+      "url": "https://open.spotify.com/track/2k96E0L0SY9raNEVMBqbVL"
+    },
+    {
+      "album": {
+        "name": "The Hits/The B-Sides 3",
+        "url": "https://open.spotify.com/album/3Qe0ad5Yh6kRmA71bbkFF8"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339933,
+      "name": "Alphabet St.",
+      "url": "https://open.spotify.com/track/2sWaJvqTWlZibUvLJrtqSS"
+    },
+    {
+      "album": {
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222373,
+      "name": "America",
+      "url": "https://open.spotify.com/track/4me1ItKif2Ymxtey9T8iiO"
+    },
+    {
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/2tu27vtcDshsooh1x2KkJH"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262800,
+      "name": "Annie Christian",
+      "url": "https://open.spotify.com/track/4qmbBtdNQS0tiNjWeM0tkI"
+    },
+    {
+      "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/33BRH4AOQ69mih469MGz3Y"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 673160,
+      "name": "Come",
+      "url": "https://open.spotify.com/track/37boVGhMqQF129fn3jHQU4"
+    },
+    {
+      "album": {
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408026,
+      "name": "Condition of the Heart",
+      "url": "https://open.spotify.com/track/5Q4OzX7MSo3pTnpFdoBndI"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/2SIP8HxGEmb3uzaVZ0aFYy"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Crazy You",
+      "url": "https://open.spotify.com/track/5AB7HWf0NNTWzMyEzNUBhH"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497093,
+      "name": "D.M.S.R.",
+      "url": "https://open.spotify.com/track/1YpgRBDgD8ed7eb8i053Qt"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "Darling Nikki",
+      "url": "https://open.spotify.com/track/0khi86hc79RfsRC0rrkkA2"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/6hazdpTPlt5W2BTCGYKBoj"
+    },
+    {
+      "album": {
+        "name": "The Hits/The B-Sides 3",
+        "url": "https://open.spotify.com/album/3Qe0ad5Yh6kRmA71bbkFF8"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261200,
+      "name": "Diamonds And Pearls [Edit]",
+      "url": "https://open.spotify.com/track/3Awj4BdNVBHQwvk7T5aJfR"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/47twrlBwhTPYmLJI3ot7fX"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254866,
+      "name": "Dirty Mind",
+      "url": "https://open.spotify.com/track/5U0ZkwjCmPZMKomEw5bVFp"
+    },
+    {
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Do U Lie?",
+      "url": "https://open.spotify.com/track/3614lSqVEWhT7ERnGXBO4z"
+    },
+    {
+      "album": {
+        "name": "Music from Graffiti Bridge",
+        "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "Elephants & Flowers",
+      "url": "https://open.spotify.com/track/59SdqEimpcr0tLeLX4kEYC"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "Forever in My Life",
+      "url": "https://open.spotify.com/track/5MULwvoltCATOJ9bZYfxxB"
+    },
+    {
+      "album": {
+        "name": "Lotus Flow3r",
+        "url": "https://open.spotify.com/album/2G7OXoE01JCgbQbipMcFRr"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315213,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/0s0psVaUDNjwmBbI5fGMCw"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282106,
+      "name": "Housequake",
+      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
+    },
+    {
+      "album": {
+        "name": "The Hits/The B-Sides 3",
+        "url": "https://open.spotify.com/album/3Qe0ad5Yh6kRmA71bbkFF8"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389226,
+      "name": "I Could Never Take The Place Of Your Man",
+      "url": "https://open.spotify.com/track/4Obxh4BMzSBXNQvole1ntB"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Prince",
+        "url": "https://open.spotify.com/album/5oQClEU6YXiVoaz4ZTmOOO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "I Wanna Be Your Lover - Single Version",
+      "url": "https://open.spotify.com/track/1uxzFavoQSzR6NhzeSbHdM"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Prince",
+        "url": "https://open.spotify.com/album/5oQClEU6YXiVoaz4ZTmOOO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/6dHAJi8G7DSlNTdWZdwugw"
+    },
+    {
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/2KtjHTzbi9ugLRtUTUH1Uq"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327626,
+      "name": "It's Gonna Be Lonely",
+      "url": "https://open.spotify.com/track/1ehQEwen9vMq0BW6RpZhV2"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/2SIP8HxGEmb3uzaVZ0aFYy"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384866,
+      "name": "Just As Long As We're Together",
+      "url": "https://open.spotify.com/track/1A7HncgVbuX4umaX1Rtgkq"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499360,
+      "name": "Lady Cab Driver",
+      "url": "https://open.spotify.com/track/3olcbtUJV3xdHIfFjy8owe"
+    },
+    {
+      "album": {
+        "name": "The Hits/The B-Sides 3",
+        "url": "https://open.spotify.com/album/3Qe0ad5Yh6kRmA71bbkFF8"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Let's Go Crazy",
+      "url": "https://open.spotify.com/track/5R9OP7bzNf0CYmeFZl8Cjt"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Prince",
+        "url": "https://open.spotify.com/album/5oQClEU6YXiVoaz4ZTmOOO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303613,
+      "name": "Little Red Corvette",
+      "url": "https://open.spotify.com/track/76Gmfksb2uBzx5N72DcHT0"
+    },
+    {
+      "album": {
+        "name": "[Love Symbol]",
+        "url": "https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344986,
+      "name": "Love 2 the 9's",
+      "url": "https://open.spotify.com/track/11srC9vgOdRXZObN6UoxFF"
+    },
+    {
+      "album": {
+        "name": "The Hits/The B-Sides 3",
+        "url": "https://open.spotify.com/album/3Qe0ad5Yh6kRmA71bbkFF8"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304800,
+      "name": "Nothing Compares 2 U ( LP Version)",
+      "url": "https://open.spotify.com/track/3QMAfwI6grWepuWXb86nST"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/47twrlBwhTPYmLJI3ot7fX"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264400,
+      "name": "Partyup",
+      "url": "https://open.spotify.com/track/4q0Bau2IthK87z1S4u2uML"
+    },
+    {
+      "album": {
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225226,
+      "name": "Pop Life",
+      "url": "https://open.spotify.com/track/5frTNUfeDGOHRo8Cc7ny9R"
+    },
+    {
+      "album": {
+        "name": "The Hits/The B-Sides 3",
+        "url": "https://open.spotify.com/album/3Qe0ad5Yh6kRmA71bbkFF8"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285293,
+      "name": "Power Fantastic",
+      "url": "https://open.spotify.com/track/4XKIQNtZIrLecbq5gXq5eV"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/4ZW7TDJQMQ3RZl2qSlUEGv"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527826,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/78tohUCFtANyQCWrbGgHMH"
+    },
+    {
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/2tu27vtcDshsooh1x2KkJH"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261093,
+      "name": "Sexuality",
+      "url": "https://open.spotify.com/track/1Dgq9ddp6Zc34IZznd8gDd"
+    },
+    {
+      "album": {
+        "name": "Ultimate",
+        "url": "https://open.spotify.com/album/0AuSyAH7F1UAQbaMHDt0Cu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392306,
+      "name": "She's Always in My Hair - 12\" Version",
+      "url": "https://open.spotify.com/track/3Ohk8tDq99U1owjhLP0g6o"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Prince",
+        "url": "https://open.spotify.com/album/5oQClEU6YXiVoaz4ZTmOOO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "Sign 'O' the Times - Single Version",
+      "url": "https://open.spotify.com/track/5lHWWhuRtSBKfH2xS6YAUD"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91800,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/05ggCWQusGFRTaxqPh7eXP"
+    },
+    {
+      "album": {
+        "name": "The Hits/The B-Sides 3",
+        "url": "https://open.spotify.com/album/3Qe0ad5Yh6kRmA71bbkFF8"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Soft And Wet",
+      "url": "https://open.spotify.com/track/2PmJrRUlOqarj5Q5MQSDdV"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241133,
+      "name": "Strange Relationship",
+      "url": "https://open.spotify.com/track/2WwnFbWZ1DrTetqEqI1HUQ"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "Take Me with U",
+      "url": "https://open.spotify.com/track/765k9tDIFOnoOfkO2cgitB"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Prince",
+        "url": "https://open.spotify.com/album/5oQClEU6YXiVoaz4ZTmOOO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "U Got the Look",
+      "url": "https://open.spotify.com/track/1w2eruYH50BnPSIJ8yM8tQ"
+    },
+    {
+      "album": {
+        "name": "Gett Off",
+        "url": "https://open.spotify.com/album/1x4Z9O4TEoa8kPS1WezbtI"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "Eric Leeds",
+          "url": "https://open.spotify.com/artist/7bNJ8B2kMi9urGEfKPsBGP"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300413,
+      "name": "Violet the Organ Grinder (feat. Eric Leeds)",
+      "url": "https://open.spotify.com/track/09Om6c15poPyH0UNTpXJBu"
+    },
+    {
+      "album": {
+        "name": "Music from Graffiti Bridge",
+        "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
+      },
+      "artists": [
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328360,
+      "name": "We Can Funk",
+      "url": "https://open.spotify.com/track/0gUcx0XOc7w8tI70WFVVHp"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
+    },
+    {
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/2KtjHTzbi9ugLRtUTUH1Uq"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323440,
+      "name": "When We're Dancing Close And Slow",
+      "url": "https://open.spotify.com/track/1v6LhKZbIHPDJFdhQ5ZcOF"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/47twrlBwhTPYmLJI3ot7fX"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223560,
+      "name": "When You Were Mine",
+      "url": "https://open.spotify.com/track/1EOzB9DlPw2HzMf7c4wEV2"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2013-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300333,
+      "name": "Willing and Able",
+      "url": "https://open.spotify.com/track/2kQmLaGEh6pQLg1eonzrzr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/44uPoVqT6tOn5AphWVnSvu"
 }

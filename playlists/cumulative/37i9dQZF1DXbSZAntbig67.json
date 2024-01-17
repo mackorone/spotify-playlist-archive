@@ -1508,7 +1508,7 @@
     {
       "album": {
         "name": "Las Ardillitas: Paseo en Trineo, Vol. 1",
-        "url": "https://open.spotify.com/album/1rPVI2q16wVDSYnUGYPIQm"
+        "url": "https://open.spotify.com/album/4SRHTrhoMQlcDKupWrY0Mp"
       },
       "artists": [
         {
@@ -1519,6 +1519,24 @@
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Paseo en Trineo",
+      "url": "https://open.spotify.com/track/5ItdwQk3SqGcnyJkShiz3X"
+    },
+    {
+      "album": {
+        "name": "Las Ardillitas: Paseo en Trineo, Vol. 1",
+        "url": "https://open.spotify.com/album/1rPVI2q16wVDSYnUGYPIQm"
+      },
+      "artists": [
+        {
+          "name": "Las Ardillitas",
+          "url": "https://open.spotify.com/artist/6GthntuQGvG7F72j9850Td"
+        }
+      ],
+      "date_added": "2021-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
       "duration_ms": 160200,
       "name": "Paseo en Trineo",
       "url": "https://open.spotify.com/track/7A9lcwkCPrbsrWHeAPv9dG"

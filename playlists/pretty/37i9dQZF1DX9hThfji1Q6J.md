@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hThfji1Q6J.md) - [plain]
 
 > 2023年、海外で最も再生された日本人アーティストの楽曲別ランキング。Check out the top 50 tracks from Japanese artists, streamed globally in 2023!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,192 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,317 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Buju Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,376 likes - 55 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,214 likes - 55 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

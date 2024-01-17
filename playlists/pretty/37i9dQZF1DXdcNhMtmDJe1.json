@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 83154,
+  "num_followers": 83291,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
         "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 173493,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/62Xj6x2LSWv47PtRAXrg5Z"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 278000,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV"
+      "duration_ms": 305000,
+      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
+      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
-        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
-      },
-      "artists": [
-        {
-          "name": "Leon Bates",
-          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 78000,
-      "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
-      "url": "https://open.spotify.com/track/2e0YXuNYzhUb9dKpBnGmWq"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Wild: 7 Virtuoso Etudes: 1. I Got Rhythm (after G. Gershwin)",
         "url": "https://open.spotify.com/album/1i1I1Su34eDYOoKdT5x0hF"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 132826,
       "name": "7 Virtuoso Etudes: No. 1, I Got Rhythm (after G. Gershwin)",
       "url": "https://open.spotify.com/track/1MCCJo3HPgOZkGAd2BmTuZ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
+      },
+      "artists": [
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 78000,
+      "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
+      "url": "https://open.spotify.com/track/2e0YXuNYzhUb9dKpBnGmWq"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
-      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
+      "duration_ms": 278000,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -619,6 +619,30 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Manhattan Playboys - American Light Classics",
+        "url": "https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Iain Sutherland Concert Orchestra",
+          "url": "https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a"
+        },
+        {
+          "name": "Iain Sutherland",
+          "url": "https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Walking the Dog",
+      "url": "https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Mademoiselle in New York",
         "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
       },
@@ -739,54 +763,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Manhattan Playboys - American Light Classics",
-        "url": "https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Iain Sutherland Concert Orchestra",
-          "url": "https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a"
-        },
-        {
-          "name": "Iain Sutherland",
-          "url": "https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Walking the Dog",
-      "url": "https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
-        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Gil Shaham",
-          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 79226,
-      "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
-      "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Michael Tilson Thomas Conducts Gershwin",
         "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
       },
@@ -815,8 +791,8 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
-        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
+        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
+        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
       },
       "artists": [
         {
@@ -824,49 +800,17 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Don Rose",
-          "url": "https://open.spotify.com/artist/68I7vZsOjHhe5587Lk75WL"
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
         },
         {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
         }
       ],
-      "duration_ms": 417640,
-      "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
-      "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
-        "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Orion Weiss",
-          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 438560,
-      "name": "Piano Concerto in F Major: III. Allegro agitato",
-      "url": "https://open.spotify.com/track/533JRQYBlNy9qEBXGm8LeE"
+      "duration_ms": 79226,
+      "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
+      "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -899,6 +843,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 438560,
+      "name": "Piano Concerto in F Major: III. Allegro agitato",
+      "url": "https://open.spotify.com/track/533JRQYBlNy9qEBXGm8LeE"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin Take Two",
         "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
       },
@@ -915,6 +887,34 @@
       "duration_ms": 47426,
       "name": "I'll Build a Stairway to Paradise",
       "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
+        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Don Rose",
+          "url": "https://open.spotify.com/artist/68I7vZsOjHhe5587Lk75WL"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 417640,
+      "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
+      "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 131400,
+      "name": "Three-Quarter Blues",
+      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 762453,
       "name": "Piano Concerto in F Major: II. Adagio",
       "url": "https://open.spotify.com/track/24EDNyjGi0wUk6XgNtnYs7"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Three-Quarter Blues",
-      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
-        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
       },
       "artists": [
         {
@@ -1124,21 +1124,13 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Peter Jablonski",
-          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
         }
       ],
-      "duration_ms": 799826,
-      "name": "Piano Concerto in F: 2. Adagio",
-      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+      "duration_ms": 239693,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1171,8 +1163,8 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
-        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
+        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
+        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
       },
       "artists": [
         {
@@ -1180,13 +1172,21 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+          "name": "Peter Jablonski",
+          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
         }
       ],
-      "duration_ms": 239693,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
+      "duration_ms": 799826,
+      "name": "Piano Concerto in F: 2. Adagio",
+      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
     },
     {
       "added_at": "2022-08-05 04:02:00",

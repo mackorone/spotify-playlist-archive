@@ -4,7 +4,7 @@
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-79 songs - 5 hr 29 min
+80 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Like A Knife](https://open.spotify.com/track/3TsmYjwTE7PyLAJKn2lJLN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/3PbGozrGojiMRSQSjkPzGX) | 3:00 | 2021-10-28 | 2023-02-02 |
 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 | 2021-10-28 |  |
 | [Limousine Lies](https://open.spotify.com/track/6knXoLZCEFx4i9yAIScw56) | [Pirra](https://open.spotify.com/artist/3wPGh0biziAGs3SlOkgZ5M) | [Spirals \(Deluxe\)](https://open.spotify.com/album/1LU6OfLGm0ex7YqWLphHFd) | 3:27 | 2021-10-28 |  |
-| [Lovers](https://open.spotify.com/track/1D9ljonkp8XdH7xcS0cgqQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:23 | 2021-10-28 |  |
+| [Lovers](https://open.spotify.com/track/1D9ljonkp8XdH7xcS0cgqQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:23 | 2021-10-28 | 2024-01-13 |
+| [Lovers](https://open.spotify.com/track/4kFQXh6LIj7494T5w1q3sP) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 3:23 | 2021-10-28 |  |
 | [Mister Magic](https://open.spotify.com/track/2EDdM9Cd6gDzGGejBqxpse) | [Babylamb](https://open.spotify.com/artist/2eO9bZ9xHCINHEtl8vJPC8) | [Mister Magic](https://open.spotify.com/album/6rdKSNASXtIfyMcfsc35JD) | 3:33 | 2021-10-28 |  |
 | [Mr Blue](https://open.spotify.com/track/2PFM2HeWNP1omytVmtq9PQ) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Mr Blue \(Jadu Heart Mix\)](https://open.spotify.com/album/7m2SFt28E8jIawTtSBOW9F) | 4:32 | 2021-10-28 |  |
 | [No Forever](https://open.spotify.com/track/2VcKkrj7UKpUfep0RG9ZQV) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [MayKay](https://open.spotify.com/artist/3OalRjoYt3pFvLf8u37QFI) | [No Forever](https://open.spotify.com/album/4YRPQaPAFfgRXrB8maGWF3) | 3:43 | 2021-10-28 |  |

@@ -1,584 +1,1413 @@
 {
-  "2022-05-26": 60455,
-  "2022-05-27": 60476,
-  "2022-05-28": 60504,
-  "2022-05-29": 60530,
-  "2022-05-30": 60552,
-  "2022-05-31": 60572,
-  "2022-06-01": 60624,
-  "2022-06-02": 60627,
-  "2022-06-03": 60651,
-  "2022-06-04": 60680,
-  "2022-06-05": 60709,
-  "2022-06-06": 60729,
-  "2022-06-07": 60744,
-  "2022-06-08": 60770,
-  "2022-06-09": 60791,
-  "2022-06-10": 60819,
-  "2022-06-11": 60850,
-  "2022-06-12": 60877,
-  "2022-06-13": 60892,
-  "2022-06-14": 60923,
-  "2022-06-15": 60945,
-  "2022-06-16": 60964,
-  "2022-06-17": 60987,
-  "2022-06-18": 61021,
-  "2022-06-19": 61085,
-  "2022-06-20": 61085,
-  "2022-06-21": 61114,
-  "2022-06-22": 61159,
-  "2022-06-23": 61159,
-  "2022-06-24": 61182,
-  "2022-06-25": 61205,
-  "2022-06-26": 61224,
-  "2022-06-27": 61242,
-  "2022-06-28": 61257,
-  "2022-06-29": 61278,
-  "2022-06-30": 61299,
-  "2022-07-01": 61321,
-  "2022-07-02": 61344,
-  "2022-07-03": 61374,
-  "2022-07-04": 61399,
-  "2022-07-05": 61399,
-  "2022-07-06": 61399,
-  "2022-07-07": 61470,
-  "2022-07-08": 61494,
-  "2022-07-09": 61525,
-  "2022-07-10": 61545,
-  "2022-07-11": 61560,
-  "2022-07-12": 61583,
-  "2022-07-13": 61605,
-  "2022-07-14": 61623,
-  "2022-07-15": 61647,
-  "2022-07-16": 61678,
-  "2022-07-17": 61712,
-  "2022-07-18": 61735,
-  "2022-07-19": 61751,
-  "2022-07-20": 61791,
-  "2022-07-21": 61808,
-  "2022-07-22": 61831,
-  "2022-07-23": 61860,
-  "2022-07-24": 61878,
-  "2022-07-25": 61906,
-  "2022-07-26": 61924,
-  "2022-07-27": 61940,
-  "2022-07-28": 61960,
-  "2022-07-29": 61988,
-  "2022-07-30": 62054,
-  "2022-07-31": 62054,
-  "2022-08-01": 62072,
-  "2022-08-02": 62133,
-  "2022-08-03": 62133,
-  "2022-08-04": 62152,
-  "2022-08-05": 62182,
-  "2022-08-06": 62208,
-  "2022-08-07": 62229,
-  "2022-08-08": 62256,
-  "2022-08-09": 62280,
-  "2022-08-10": 62305,
-  "2022-08-11": 62328,
-  "2022-08-12": 62363,
-  "2022-08-13": 62396,
-  "2022-08-14": 62412,
-  "2022-08-15": 62443,
-  "2022-08-16": 62470,
-  "2022-08-17": 62494,
-  "2022-08-18": 62516,
-  "2022-08-19": 62543,
-  "2022-08-20": 62565,
-  "2022-08-21": 62592,
-  "2022-08-22": 62619,
-  "2022-08-23": 62644,
-  "2022-08-24": 62683,
-  "2022-08-25": 62715,
-  "2022-08-26": 62742,
-  "2022-08-27": 62767,
-  "2022-08-28": 62799,
-  "2022-08-29": 62832,
-  "2022-08-30": 62853,
-  "2022-08-31": 62893,
-  "2022-09-01": 62930,
-  "2022-09-02": 62959,
-  "2022-09-03": 63008,
-  "2022-09-04": 63030,
-  "2022-09-05": 63050,
-  "2022-09-06": 63077,
-  "2022-09-07": 63100,
-  "2022-09-09": 63152,
-  "2022-09-10": 63177,
-  "2022-09-11": 63203,
-  "2022-09-12": 63230,
-  "2022-09-13": 63253,
-  "2022-09-15": 63294,
-  "2022-09-16": 63322,
-  "2022-09-17": 63342,
-  "2022-09-18": 63365,
-  "2022-09-19": 63404,
-  "2022-09-20": 63425,
-  "2022-09-21": 63456,
-  "2022-09-22": 63487,
-  "2022-09-23": 63522,
-  "2022-09-24": 63522,
-  "2022-09-25": 63571,
-  "2022-09-26": 63585,
-  "2022-09-27": 63607,
-  "2022-09-28": 63633,
-  "2022-09-29": 63662,
-  "2022-09-30": 63696,
-  "2022-10-01": 63743,
-  "2022-10-02": 63764,
-  "2022-10-03": 63790,
-  "2022-10-04": 63819,
-  "2022-10-05": 63858,
-  "2022-10-06": 63884,
-  "2022-10-07": 63922,
-  "2022-10-08": 63974,
-  "2022-10-09": 64024,
-  "2022-10-10": 64033,
-  "2022-10-11": 64073,
-  "2022-10-12": 64114,
-  "2022-10-13": 64156,
-  "2022-10-14": 64194,
-  "2022-10-15": 64229,
-  "2022-10-16": 64271,
-  "2022-10-17": 64325,
-  "2022-10-18": 64360,
-  "2022-10-19": 64403,
-  "2022-10-20": 64440,
-  "2022-10-21": 64484,
-  "2022-10-22": 64525,
-  "2022-10-23": 64562,
-  "2022-10-24": 64583,
-  "2022-10-25": 64621,
-  "2022-10-26": 64655,
-  "2022-10-27": 64684,
-  "2022-10-28": 64729,
-  "2022-10-29": 64763,
-  "2022-10-30": 64794,
-  "2022-10-31": 64824,
-  "2022-11-01": 64862,
-  "2022-11-02": 64893,
-  "2022-11-03": 64912,
-  "2022-11-04": 64945,
-  "2022-11-05": 64976,
-  "2022-11-06": 65011,
-  "2022-11-07": 65034,
-  "2022-11-08": 65070,
-  "2022-11-09": 65115,
-  "2022-11-10": 65144,
-  "2022-11-11": 65175,
-  "2022-11-12": 65215,
-  "2022-11-13": 65241,
-  "2022-11-14": 65276,
-  "2022-11-15": 65304,
-  "2022-11-16": 65331,
-  "2022-11-17": 65353,
-  "2022-11-18": 65357,
-  "2022-11-19": 65362,
-  "2022-11-20": 65382,
-  "2022-11-21": 65409,
-  "2022-11-22": 65429,
-  "2022-11-23": 65453,
-  "2022-11-24": 65496,
-  "2022-11-25": 65531,
-  "2022-11-26": 65574,
-  "2022-11-27": 65597,
-  "2022-11-28": 65618,
-  "2022-11-29": 65648,
-  "2022-11-30": 65686,
-  "2022-12-01": 65712,
-  "2022-12-02": 65729,
-  "2022-12-03": 65782,
-  "2022-12-04": 65812,
-  "2022-12-05": 65834,
-  "2022-12-06": 65859,
-  "2022-12-07": 65895,
-  "2022-12-08": 65933,
-  "2022-12-09": 65967,
-  "2022-12-10": 65993,
-  "2022-12-11": 66020,
-  "2022-12-12": 66047,
-  "2022-12-13": 66074,
-  "2022-12-14": 66103,
-  "2022-12-15": 66126,
-  "2022-12-16": 66144,
-  "2022-12-17": 66179,
-  "2022-12-18": 66213,
-  "2022-12-19": 66234,
-  "2022-12-20": 66282,
-  "2022-12-21": 66282,
-  "2022-12-22": 66317,
-  "2022-12-24": 66392,
-  "2022-12-25": 66424,
-  "2022-12-26": 66445,
-  "2022-12-27": 66469,
-  "2022-12-28": 66495,
-  "2022-12-29": 66541,
-  "2022-12-30": 66573,
-  "2022-12-31": 66615,
-  "2023-01-01": 66642,
-  "2023-01-02": 66672,
-  "2023-01-03": 66707,
-  "2023-01-04": 66739,
-  "2023-01-05": 66775,
-  "2023-01-06": 66808,
-  "2023-01-07": 66864,
-  "2023-01-08": 66871,
-  "2023-01-09": 66903,
-  "2023-01-10": 66946,
-  "2023-01-11": 66974,
-  "2023-01-12": 67010,
-  "2023-01-13": 67050,
-  "2023-01-14": 67133,
-  "2023-01-15": 67138,
-  "2023-01-16": 67168,
-  "2023-01-17": 67191,
-  "2023-01-18": 67221,
-  "2023-01-19": 67245,
-  "2023-01-20": 67275,
-  "2023-01-21": 67309,
-  "2023-01-22": 67344,
-  "2023-01-23": 67383,
-  "2023-01-24": 67406,
-  "2023-01-25": 67440,
-  "2023-01-26": 67464,
-  "2023-01-27": 67510,
-  "2023-01-28": 67548,
-  "2023-01-29": 67583,
-  "2023-01-30": 67614,
-  "2023-01-31": 67614,
-  "2023-02-01": 67674,
-  "2023-02-02": 67698,
-  "2023-02-03": 67737,
-  "2023-02-04": 67778,
-  "2023-02-05": 67817,
-  "2023-02-06": 67858,
-  "2023-02-07": 67894,
-  "2023-02-08": 67970,
-  "2023-02-09": 67970,
-  "2023-02-10": 68018,
-  "2023-02-11": 68069,
-  "2023-02-12": 68149,
-  "2023-02-13": 68179,
-  "2023-02-14": 68179,
-  "2023-02-15": 68223,
-  "2023-02-16": 68266,
-  "2023-02-17": 68301,
-  "2023-02-18": 68381,
-  "2023-02-19": 68393,
-  "2023-02-20": 68416,
-  "2023-02-21": 68449,
-  "2023-02-22": 68478,
-  "2023-02-23": 68513,
-  "2023-02-24": 68548,
-  "2023-02-25": 68598,
-  "2023-02-26": 68637,
-  "2023-02-27": 68704,
-  "2023-02-28": 68704,
-  "2023-03-01": 68743,
-  "2023-03-02": 68773,
-  "2023-03-03": 68802,
-  "2023-03-04": 68844,
-  "2023-03-05": 68919,
-  "2023-03-06": 68919,
-  "2023-03-07": 68954,
-  "2023-03-08": 68979,
-  "2023-03-09": 69012,
-  "2023-03-10": 69053,
-  "2023-03-11": 69083,
-  "2023-03-12": 69125,
-  "2023-03-13": 69152,
-  "2023-03-14": 69183,
-  "2023-03-15": 69222,
-  "2023-03-16": 69222,
-  "2023-03-17": 69222,
-  "2023-03-18": 69320,
-  "2023-03-19": 69320,
-  "2023-03-20": 69395,
-  "2023-03-21": 69428,
-  "2023-03-22": 69452,
-  "2023-03-23": 69492,
-  "2023-03-24": 69492,
-  "2023-03-25": 69552,
-  "2023-03-26": 69597,
-  "2023-03-27": 69624,
-  "2023-03-28": 69647,
-  "2023-03-29": 69690,
-  "2023-03-30": 69741,
-  "2023-03-31": 69741,
-  "2023-04-01": 69784,
-  "2023-04-02": 69828,
-  "2023-04-03": 69856,
-  "2023-04-04": 69897,
-  "2023-04-05": 69930,
-  "2023-04-06": 69966,
-  "2023-04-07": 70005,
-  "2023-04-09": 70062,
-  "2023-04-10": 70095,
-  "2023-04-11": 70150,
-  "2023-04-12": 70150,
-  "2023-04-13": 70170,
-  "2023-04-14": 70194,
-  "2023-04-15": 70223,
-  "2023-04-16": 70264,
-  "2023-04-17": 70309,
-  "2023-04-18": 70340,
-  "2023-04-19": 70369,
-  "2023-04-20": 70394,
-  "2023-04-21": 70444,
-  "2023-04-22": 70491,
-  "2023-04-23": 70536,
-  "2023-04-24": 70567,
-  "2023-04-25": 70604,
-  "2023-04-26": 70650,
-  "2023-04-27": 70678,
-  "2023-04-28": 70708,
-  "2023-04-29": 70747,
-  "2023-04-30": 70781,
-  "2023-05-01": 70823,
-  "2023-05-02": 70844,
-  "2023-05-03": 70879,
-  "2023-05-04": 70918,
-  "2023-05-05": 70947,
-  "2023-05-06": 70982,
-  "2023-05-07": 71010,
-  "2023-05-08": 71035,
-  "2023-05-09": 71059,
-  "2023-05-10": 71081,
-  "2023-05-11": 71110,
-  "2023-05-12": 71145,
-  "2023-05-13": 71178,
-  "2023-05-14": 71214,
-  "2023-05-15": 71241,
-  "2023-05-16": 71266,
-  "2023-05-17": 71301,
-  "2023-05-18": 71333,
-  "2023-05-19": 71357,
-  "2023-05-20": 71407,
-  "2023-05-21": 71407,
-  "2023-05-22": 71407,
-  "2023-05-23": 71466,
-  "2023-05-24": 71512,
-  "2023-05-25": 71525,
-  "2023-05-26": 71549,
-  "2023-05-27": 71579,
-  "2023-05-28": 71616,
-  "2023-05-29": 71616,
-  "2023-05-30": 71663,
-  "2023-05-31": 71690,
-  "2023-06-01": 71714,
-  "2023-06-02": 71750,
-  "2023-06-03": 71774,
-  "2023-06-04": 71794,
-  "2023-06-05": 71811,
-  "2023-06-06": 71851,
-  "2023-06-07": 71881,
-  "2023-06-08": 71906,
-  "2023-06-09": 71931,
-  "2023-06-10": 71961,
-  "2023-06-11": 71997,
-  "2023-06-12": 72026,
-  "2023-06-13": 72049,
-  "2023-06-14": 72074,
-  "2023-06-15": 72104,
-  "2023-06-16": 72146,
-  "2023-06-17": 72183,
-  "2023-06-18": 72223,
-  "2023-06-19": 72249,
-  "2023-06-20": 72268,
-  "2023-06-21": 72302,
-  "2023-06-22": 72340,
-  "2023-06-23": 72371,
-  "2023-06-24": 72402,
-  "2023-06-25": 72438,
-  "2023-06-26": 72467,
-  "2023-06-27": 72491,
-  "2023-06-28": 72510,
-  "2023-06-29": 72551,
-  "2023-06-30": 72584,
-  "2023-07-01": 72645,
-  "2023-07-02": 72645,
-  "2023-07-03": 72669,
-  "2023-07-04": 72688,
-  "2023-07-05": 72713,
-  "2023-07-06": 72789,
-  "2023-07-07": 72789,
-  "2023-07-08": 72789,
-  "2023-07-09": 72833,
-  "2023-07-10": 72856,
-  "2023-07-11": 72887,
-  "2023-07-12": 72909,
-  "2023-07-13": 72926,
-  "2023-07-14": 72951,
-  "2023-07-15": 72970,
-  "2023-07-16": 73011,
-  "2023-07-17": 73044,
-  "2023-07-18": 73061,
-  "2023-07-19": 73081,
-  "2023-07-20": 73105,
-  "2023-07-21": 73141,
-  "2023-07-22": 73171,
-  "2023-07-23": 73195,
-  "2023-07-24": 73227,
-  "2023-07-25": 73245,
-  "2023-07-26": 73290,
-  "2023-07-27": 73324,
-  "2023-07-28": 73350,
-  "2023-07-29": 73380,
-  "2023-07-30": 73404,
-  "2023-07-31": 73436,
-  "2023-08-01": 73461,
-  "2023-08-02": 73489,
-  "2023-08-03": 73523,
-  "2023-08-04": 73564,
-  "2023-08-05": 73597,
-  "2023-08-06": 73662,
-  "2023-08-07": 73662,
-  "2023-08-08": 73681,
-  "2023-08-09": 73709,
-  "2023-08-10": 73738,
-  "2023-08-11": 73766,
-  "2023-08-12": 73766,
-  "2023-08-13": 73766,
-  "2023-08-14": 73876,
-  "2023-08-15": 73876,
-  "2023-08-16": 73876,
-  "2023-08-17": 73876,
-  "2023-08-18": 73876,
-  "2023-08-19": 73876,
-  "2023-08-20": 74039,
-  "2023-08-21": 74039,
-  "2023-08-22": 74102,
-  "2023-08-23": 74102,
-  "2023-08-24": 74102,
-  "2023-08-25": 74102,
-  "2023-08-26": 74239,
-  "2023-08-27": 74239,
-  "2023-08-28": 74298,
-  "2023-08-29": 74298,
-  "2023-08-30": 74298,
-  "2023-08-31": 74397,
-  "2023-09-01": 74440,
-  "2023-09-02": 74440,
-  "2023-09-03": 74440,
-  "2023-09-04": 74440,
-  "2023-09-05": 74440,
-  "2023-09-06": 74440,
-  "2023-09-07": 74440,
-  "2023-09-08": 74440,
-  "2023-09-09": 74440,
-  "2023-09-10": 74440,
-  "2023-09-11": 74440,
-  "2023-09-12": 74440,
-  "2023-09-13": 74440,
-  "2023-09-14": 74440,
-  "2023-09-15": 74440,
-  "2023-09-16": 74922,
-  "2023-09-17": 74922,
-  "2023-09-18": 74922,
-  "2023-09-19": 74996,
-  "2023-09-20": 74996,
-  "2023-09-21": 74996,
-  "2023-09-22": 75080,
-  "2023-09-23": 75080,
-  "2023-09-24": 75080,
-  "2023-09-25": 75080,
-  "2023-09-26": 75217,
-  "2023-09-27": 75217,
-  "2023-09-28": 75217,
-  "2023-09-29": 75217,
-  "2023-09-30": 75217,
-  "2023-10-01": 75217,
-  "2023-10-02": 75217,
-  "2023-10-03": 75217,
-  "2023-10-04": 75217,
-  "2023-10-05": 75217,
-  "2023-10-06": 75217,
-  "2023-10-07": 75217,
-  "2023-10-08": 75217,
-  "2023-10-09": 75217,
-  "2023-10-10": 75217,
-  "2023-10-11": 75640,
-  "2023-10-12": 75640,
-  "2023-10-13": 75640,
-  "2023-10-14": 75640,
-  "2023-10-15": 75640,
-  "2023-10-16": 75640,
-  "2023-10-17": 75640,
-  "2023-10-18": 75640,
-  "2023-10-19": 75640,
-  "2023-10-20": 75640,
-  "2023-10-21": 75640,
-  "2023-10-22": 75640,
-  "2023-10-23": 75640,
-  "2023-10-24": 75640,
-  "2023-10-25": 75640,
-  "2023-10-26": 75640,
-  "2023-10-27": 75640,
-  "2023-10-28": 75640,
-  "2023-10-29": 75640,
-  "2023-10-30": 75640,
-  "2023-10-31": 75640,
-  "2023-11-01": 75640,
-  "2023-11-02": 75640,
-  "2023-11-03": 75640,
-  "2023-11-04": 75640,
-  "2023-11-05": 75640,
-  "2023-11-06": 75640,
-  "2023-11-07": 75640,
-  "2023-11-08": 75640,
-  "2023-11-09": 75640,
-  "2023-11-10": 75640,
-  "2023-11-11": 76529,
-  "2023-11-12": 76529,
-  "2023-11-13": 76529,
-  "2023-11-14": 76529,
-  "2023-11-15": 76529,
-  "2023-11-16": 76529,
-  "2023-11-17": 76529,
-  "2023-11-18": 76529,
-  "2023-11-19": 76529,
-  "2023-11-20": 76529,
-  "2023-11-21": 76529,
-  "2023-11-22": 76529,
-  "2023-11-23": 76529,
-  "2023-11-24": 76529,
-  "2023-11-25": 76529,
-  "2023-11-26": 76529,
-  "2023-11-27": 76529,
-  "2023-11-28": 76529,
-  "2023-11-29": 76529,
-  "2023-11-30": 76529,
-  "2023-12-01": 76529,
-  "2023-12-02": 76529,
-  "2023-12-03": 76529,
-  "2023-12-04": 76529,
-  "2023-12-05": 76529,
-  "2023-12-06": 76529,
-  "2023-12-07": 76529,
-  "2023-12-08": 76529,
-  "2023-12-09": 76529,
-  "2023-12-10": 76529,
-  "2023-12-11": 76529,
-  "2023-12-12": 76529,
-  "2023-12-13": 76529,
-  "2023-12-14": 77448,
-  "2023-12-15": 77475,
-  "2023-12-16": 77499,
-  "2023-12-17": 77537,
-  "2023-12-18": 77562,
-  "2023-12-19": 77587,
-  "2023-12-20": 77603,
-  "2023-12-21": 77625,
-  "2023-12-22": 77660,
-  "2023-12-23": 77687,
-  "2023-12-24": 77721,
-  "2023-12-25": 77748,
-  "2023-12-26": 77766,
-  "2023-12-27": 77791,
-  "2023-12-30": 77879,
-  "2023-12-31": 77897,
-  "2024-01-01": 77903,
-  "2024-01-02": 77927,
-  "2024-01-03": 77946
+  "2024-01-17": 78207,
+  "date_first_scraped": "2022-05-26",
+  "description": "This is Gondwana. The essential tracks, all in one playlist.",
+  "name": "This Is Gondwana",
+  "tracks": [
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 237880,
+      "name": "Aire De Jah",
+      "url": "https://open.spotify.com/track/21a0hsGjEbG6hBl00N3I5g"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237880,
+      "name": "Aire de Jah",
+      "url": "https://open.spotify.com/track/5TXLP8oniNd1RvZOTnTDOB"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261493,
+      "name": "Alabanza",
+      "url": "https://open.spotify.com/track/6g0p5ZemM9FUKyNCqlkt69"
+    },
+    {
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246493,
+      "name": "Antonia",
+      "url": "https://open.spotify.com/track/51LZ2XHdETvNLQ6SKqTjWF"
+    },
+    {
+      "album": {
+        "name": "Gondwana",
+        "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234773,
+      "name": "Armonia De Amor",
+      "url": "https://open.spotify.com/track/2CfWRsmVFEIJA3t5HBMvry"
+    },
+    {
+      "album": {
+        "name": "CAHUITA",
+        "url": "https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215908,
+      "name": "CAHUITA",
+      "url": "https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt"
+    },
+    {
+      "album": {
+        "name": "Gondwana",
+        "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196186,
+      "name": "Chainga Langa",
+      "url": "https://open.spotify.com/track/1akpbkKct2FsbSE71IKHZR"
+    },
+    {
+      "album": {
+        "name": "Could You Be Loved",
+        "url": "https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 338653,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/4coC1sxorLlTOs26ppswjS"
+    },
+    {
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "Defendamos",
+      "url": "https://open.spotify.com/track/2KT2sqjXGxBY4YkWNX56XM"
+    },
+    {
+      "album": {
+        "name": "Made In Jamaica",
+        "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/6YjkpZPWoDnY2Xbvf9lSWn"
+    },
+    {
+      "album": {
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325450,
+      "name": "Divina verdad",
+      "url": "https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N"
+    },
+    {
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/7IgZXXTr4hSKXgkvjjky5U"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 224986,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4cUTAFvDn8BVMu69Gdb0UL"
+    },
+    {
+      "album": {
+        "name": "Cali Roots Riddim 2023",
+        "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
+    },
+    {
+      "album": {
+        "name": "La 100 Vivo! 2da Edici\u00f3n (Parte 2)",
+        "url": "https://open.spotify.com/album/028601b3iM0PZtzD76eKRv"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216865,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/6vDl3LpYcIkuqKM0XIbqBe"
+    },
+    {
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227493,
+      "name": "Dulce Amor (S\u00f3lo Un Latido)",
+      "url": "https://open.spotify.com/track/23d6sogOKvZOx7XtSEeNVs"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 208613,
+      "name": "El Beso Que Me da una Rosa",
+      "url": "https://open.spotify.com/track/5PYs43QuMcrqq2wVPN0pgu"
+    },
+    {
+      "album": {
+        "name": "Reggae N Roll",
+        "url": "https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 300906,
+      "name": "El Rito",
+      "url": "https://open.spotify.com/track/5iccBUGytEmsMoJhaFeRag"
+    },
+    {
+      "album": {
+        "name": "Made In Jamaica",
+        "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341026,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/3TilMZ5wdTBPrDYPNY9Kc8"
+    },
+    {
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278159,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI"
+    },
+    {
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Fluye",
+      "url": "https://open.spotify.com/track/2crdEEBy8ja6mBGjPxfpxZ"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 248506,
+      "name": "Fuego Bendito",
+      "url": "https://open.spotify.com/track/1K93QCRJlYigCeTG5SsfvY"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248506,
+      "name": "Fuego bendito",
+      "url": "https://open.spotify.com/track/5n5oi19eI8icBWVrHHECKw"
+    },
+    {
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221839,
+      "name": "Give Your Love",
+      "url": "https://open.spotify.com/track/6SCxbGzB7xJBPqkEvobpFf"
+    },
+    {
+      "album": {
+        "name": "Gondwana",
+        "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "Guerra",
+      "url": "https://open.spotify.com/track/6XkwfvohWsXv7B3GrDblaZ"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 238546,
+      "name": "Hasta Que Salga el Sol",
+      "url": "https://open.spotify.com/track/6sBTM191Y2Y9EIQnOGv7bf"
+    },
+    {
+      "album": {
+        "name": "Made In Jamaica",
+        "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276826,
+      "name": "Ignorancia",
+      "url": "https://open.spotify.com/track/0TzxVKHY0tpICeGNQQ2RLf"
+    },
+    {
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286853,
+      "name": "Jah Guide",
+      "url": "https://open.spotify.com/track/49HlZ78uRJkjYvUIed53Ko"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258252,
+      "name": "K-In",
+      "url": "https://open.spotify.com/track/33ZodQe3KOlVo1RCTznvVd"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 258253,
+      "name": "K-In",
+      "url": "https://open.spotify.com/track/46MPomoOJPWxItWUTOk4Fz"
+    },
+    {
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/2Qq4l3G6w6WdfM1rKrEqBe"
+    },
+    {
+      "album": {
+        "name": "Made In Jamaica",
+        "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 270560,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/7LTXQnitAcwSdZdl2t7E13"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 223173,
+      "name": "La Puerta Sigue Abierta",
+      "url": "https://open.spotify.com/track/59dzgc60efoAOFx0bywbi2"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 223173,
+      "name": "La puerta sigue abierta",
+      "url": "https://open.spotify.com/track/6crknC6n2C2wQ8zyy8pNcp"
+    },
+    {
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 240893,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/2wod4OhxL86a2qLBiTumLH"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 246986,
+      "name": "Me Ver\u00e1s",
+      "url": "https://open.spotify.com/track/4tnguLiUs6l0QtfcocbSdF"
+    },
+    {
+      "album": {
+        "name": "En Vivo Teatro Caupolic\u00e1n",
+        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209593,
+      "name": "Medley: Libros Sagrados / Orgullosa Mole - En Vivo en el Teatro Caupolic\u00e1n",
+      "url": "https://open.spotify.com/track/3DJDWiD41D6pVhC4gdt4NF"
+    },
+    {
+      "album": {
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233465,
+      "name": "Mejor que intentes otra vez",
+      "url": "https://open.spotify.com/track/3HCpsDMzAL3ksrPTP02KL8"
+    },
+    {
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263999,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo"
+    },
+    {
+      "album": {
+        "name": "Reggae N Roll",
+        "url": "https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238826,
+      "name": "Mucho Verso",
+      "url": "https://open.spotify.com/track/1pTDULhEDv0n8W6Aqnw5ro"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200693,
+      "name": "M\u00e1rtires",
+      "url": "https://open.spotify.com/track/2dgC2dinAbcyHW15OLeSPB"
+    },
+    {
+      "album": {
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229732,
+      "name": "Nada cambi\u00f3",
+      "url": "https://open.spotify.com/track/2fq4vfwSSywRKSQfz5bl71"
+    },
+    {
+      "album": {
+        "name": "Made In Jamaica",
+        "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247573,
+      "name": "Nadie Como Tu",
+      "url": "https://open.spotify.com/track/52sDXLOJz1y7Gjf3TJ5eWa"
+    },
+    {
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "No Desesperes",
+      "url": "https://open.spotify.com/track/4gvUtG1oO9EnXs5hk6UYjz"
+    },
+    {
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 219561,
+      "name": "No Es el Fin",
+      "url": "https://open.spotify.com/track/0O5IS3ScZsV9A3Z84eBHzy"
+    },
+    {
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 226560,
+      "name": "Nuestro Don",
+      "url": "https://open.spotify.com/track/5pJy4HaC21CyAF7SZ5XJ0B"
+    },
+    {
+      "album": {
+        "name": "Made In Jamaica",
+        "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275733,
+      "name": "Nuestros Sue\u00f1os",
+      "url": "https://open.spotify.com/track/0xAwZZmo9w1Rl5gaMkQ2lx"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Pedig\u00fce\u00f1o",
+      "url": "https://open.spotify.com/track/36Xd0R2zfa1r9Dk9z4Lcwd"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 285986,
+      "name": "Peque\u00f1a Dama",
+      "url": "https://open.spotify.com/track/4YPw9WEBa0xsfexCbXCTXo"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285986,
+      "name": "Peque\u00f1a dama",
+      "url": "https://open.spotify.com/track/5m5vk2GSAwfKCI4FNFiUsc"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "Piensame",
+      "url": "https://open.spotify.com/track/649bIUP229t1UR3KBAZdaF"
+    },
+    {
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
+    },
+    {
+      "album": {
+        "name": "Terc3ra Llamada",
+        "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        },
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Los Rastrillos",
+          "url": "https://open.spotify.com/artist/1NEJuKkyrGHKALbX1AaIoy"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155996,
+      "name": "Quiero acercarme a ti",
+      "url": "https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 166213,
+      "name": "Reflejos de Luz",
+      "url": "https://open.spotify.com/track/44iYQwUFs6s8rIk4H1TAi4"
+    },
+    {
+      "album": {
+        "name": "Gondwana",
+        "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Reggae Is Coming",
+      "url": "https://open.spotify.com/track/1yYq0GX9AKLb6yiN5pmyEw"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 256013,
+      "name": "Regreso",
+      "url": "https://open.spotify.com/track/4O5rHAUKMGT47CiZCN3wd2"
+    },
+    {
+      "album": {
+        "name": "T\u00f3tem",
+        "url": "https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys"
+      },
+      "artists": [
+        {
+          "name": "Shamanes Crew",
+          "url": "https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK"
+        },
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Tiano Bless",
+          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245624,
+      "name": "San\u00e1ndonos",
+      "url": "https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj"
+    },
+    {
+      "album": {
+        "name": "Gondwana",
+        "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "Sentimiento Original",
+      "url": "https://open.spotify.com/track/2dz5G8cubIlwFN6SJtj0rg"
+    },
+    {
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 218439,
+      "name": "Si No Fuera",
+      "url": "https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM"
+    },
+    {
+      "album": {
+        "name": "Si No Fuera - Single",
+        "url": "https://open.spotify.com/album/1HEw09m1UAKkfpD1RcAnuW"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218689,
+      "name": "Si No Fuera",
+      "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 226480,
+      "name": "Sigo Creyendo",
+      "url": "https://open.spotify.com/track/0LPoceKI0Idd2E90fNvL80"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226480,
+      "name": "Sigo creyendo",
+      "url": "https://open.spotify.com/track/5G27QQ1ydgYpI2FAKwSIot"
+    },
+    {
+      "album": {
+        "name": "Pericos & Friends",
+        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Tito Fuentes",
+          "url": "https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249916,
+      "name": "Sin Cadenas",
+      "url": "https://open.spotify.com/track/42PvpvCg7eaXJy89at6u8s"
+    },
+    {
+      "album": {
+        "name": "Gondwana",
+        "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273813,
+      "name": "Smile Souling",
+      "url": "https://open.spotify.com/track/3asfbDhnzUpEvMuhPxWaXI"
+    },
+    {
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276971,
+      "name": "Suave Pero Intenso",
+      "url": "https://open.spotify.com/track/2aIUhZGLfRpG1AYCy4oX9d"
+    },
+    {
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 194749,
+      "name": "Susurro",
+      "url": "https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR"
+    },
+    {
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 298173,
+      "name": "S\u00f3lo Es Verdadero (El Amor De Jah)",
+      "url": "https://open.spotify.com/track/5rbiiKLMsgT2m2pz57Hxaf"
+    },
+    {
+      "album": {
+        "name": "Made In Jamaica",
+        "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329573,
+      "name": "Te Recuerdo Amanda",
+      "url": "https://open.spotify.com/track/337eg34bKb97zZce5PUXQs"
+    },
+    {
+      "album": {
+        "name": "Alabanza Por La Fuerza De La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/7mzgCNDT0IVvixRnHKcGmj"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221506,
+      "name": "Traficantes De Fe",
+      "url": "https://open.spotify.com/track/10vTdkkK4noQfgt0oexX06"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-27",
+      "duration_ms": 230773,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/7bWoTRcz0lZoXbI5dtJ5dM"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 230773,
+      "name": "Tu amor",
+      "url": "https://open.spotify.com/track/7iUpn6Xyw552Anqgegla33"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 224413,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4hN7zGsnymEBrhUwLnaQbZ"
+    },
+    {
+      "album": {
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246333,
+      "name": "Verde, Amarillo Y Rojo",
+      "url": "https://open.spotify.com/track/4Q0y0SOAJ84PvR2Uu6tGXv"
+    },
+    {
+      "album": {
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 338146,
+      "name": "Verde, amarillo y rojo",
+      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
+    },
+    {
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "Vivo Esperandote",
+      "url": "https://open.spotify.com/track/0fmrLB98vvk3Z5wFTmkho9"
+    },
+    {
+      "album": {
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208718,
+      "name": "Volver a sentir",
+      "url": "https://open.spotify.com/track/35xXFaqG8xlx5x0HtHpzyv"
+    },
+    {
+      "album": {
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243330,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/7BXaBIZDHaUdAD7mcCSjH7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2z72hy"
 }

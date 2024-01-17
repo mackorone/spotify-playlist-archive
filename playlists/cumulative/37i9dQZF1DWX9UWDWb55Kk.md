@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-443 songs - 1 day 4 hr 4 min
+444 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Fixe](https://open.spotify.com/track/79tQkZPMkKpsfvrTIJC7Lz) | [Ora Cogan](https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY) | [Bells in the Ruins](https://open.spotify.com/album/0OnBWzcoWfsjKiRqHJ8Py4) | 4:38 | 2023-10-21 |  |
 | [Flerte Revival](https://open.spotify.com/track/2t2HDBOr6qB4BN5R3Pl0bF) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux em Noite de Climão](https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT) | 3:10 | 2022-04-08 |  |
 | [Floating](https://open.spotify.com/track/0WyioCJi9ox0PYMUR0NGxy) | [Lealani](https://open.spotify.com/artist/75tAH33KAd0BiKI23i27NK) | [Fantastic Planet](https://open.spotify.com/album/7bkPyT3AJXIUXCunkA0xun) | 2:38 | 2022-11-24 |  |
-| [Foolius Caesar](https://open.spotify.com/track/2Q50Nd5HhZl1A3u7Z96qUs) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:46 | 2022-11-24 |  |
+| [Foolius Caesar](https://open.spotify.com/track/2Q50Nd5HhZl1A3u7Z96qUs) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:46 | 2022-11-24 | 2024-01-13 |
+| [Foolius Caesar](https://open.spotify.com/track/6M0ezQOjP85le2b4VrFgyT) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/42anHsnzFORglZyMr9udzN) | 3:46 | 2022-11-24 |  |
 | [For My Love](https://open.spotify.com/track/7HTetd7ENGEiFSmnAvIulS) | [Saint Saviour](https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy) | [Tomorrow Again](https://open.spotify.com/album/5TVlqKjhOfn0mfjDLreXvG) | 3:50 | 2021-09-01 |  |
 | [Forever](https://open.spotify.com/track/5VJJE6CH2Re3GCcOuubmIB) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:44 | 2021-09-01 |  |
 | [Forever Young](https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd) | 3:59 | 2021-09-01 |  |

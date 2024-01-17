@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Hanifah, Doug O.
 
-178 songs - 9 hr 3 min
+179 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [perco o ar](https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [perco o ar](https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z) | 3:24 | 2023-06-30 |  |
 | [Peça Única](https://open.spotify.com/track/4IddWpa3qZQLPxaL8YiLq4) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Peça Única](https://open.spotify.com/album/6WsYX7kscbYVpcu3h07Grk) | 2:51 | 2023-06-23 | 2023-11-11 |
 | [PLAYLIST TRANSANTE 2.0](https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [PLAYLIST TRANSANTE 2.0](https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM) | 2:28 | 2023-08-25 | 2023-10-07 |
+| [Pode Ir](https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF) | [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU), [Grito Filmes](https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133) | [Pode Ir](https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2) | 2:33 | 2024-01-12 |  |
 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG) | 4:30 | 2022-11-18 | 2023-04-09 |
 | [Pontas Soltas](https://open.spotify.com/track/7ESVKGM7Vql3SGqejbJ3DQ) | [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Pontas Soltas](https://open.spotify.com/album/1WQgU6bnnSvV0KtkxHu2bQ) | 3:12 | 2022-11-18 | 2023-03-11 |
 | [Ponto de Equilíbrio](https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV) | [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Ponto de Equilíbrio](https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH) | 3:13 | 2023-04-07 | 2023-10-14 |
@@ -158,7 +159,7 @@
 | [Sinta\-me \(senta em mim\)](https://open.spotify.com/track/4VfNLTHVzGnFVJi9aDblOm) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [Sinta\-me \(senta em mim\)](https://open.spotify.com/album/7nqC8eBOULlhZFSjx3YabB) | 2:20 | 2023-12-04 |  |
 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 | 2023-09-01 |  |
 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 | 2022-11-18 |  |
-| [Solo](https://open.spotify.com/track/1bsY0ACuPKQiZoUL4Hjhms) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Solo](https://open.spotify.com/album/1wWN4O2u1uKhLPfevhtEsT) | 2:58 | 2023-11-10 |  |
+| [Solo](https://open.spotify.com/track/1bsY0ACuPKQiZoUL4Hjhms) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Solo](https://open.spotify.com/album/1wWN4O2u1uKhLPfevhtEsT) | 2:58 | 2023-11-10 | 2024-01-13 |
 | [Solo](https://open.spotify.com/track/1RNaYWa47ci3S75qifl7si) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk) | [Solo](https://open.spotify.com/album/08tpiPjnSV3WujNwdrGeeq) | 2:58 | 2023-10-20 | 2023-11-17 |
 | [Sozinho](https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j) | [Tállia](https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj), [Klismman](https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ) | [Sozinho](https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d) | 2:31 | 2022-11-18 |  |
 | [Suplicar](https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Suplicar](https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X) | 3:06 | 2022-11-18 | 2023-04-29 |

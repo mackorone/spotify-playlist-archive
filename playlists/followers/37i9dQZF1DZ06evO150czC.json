@@ -1,178 +1,1127 @@
 {
-  "2023-07-10": 16398,
-  "2023-07-11": 16408,
-  "2023-07-12": 16424,
-  "2023-07-13": 16439,
-  "2023-07-14": 16455,
-  "2023-07-15": 16470,
-  "2023-07-16": 16482,
-  "2023-07-17": 16487,
-  "2023-07-18": 16494,
-  "2023-07-19": 16504,
-  "2023-07-20": 16523,
-  "2023-07-21": 16538,
-  "2023-07-22": 16553,
-  "2023-07-23": 16566,
-  "2023-07-24": 16574,
-  "2023-07-25": 16587,
-  "2023-07-26": 16601,
-  "2023-07-27": 16619,
-  "2023-07-28": 16628,
-  "2023-07-29": 16641,
-  "2023-07-30": 16649,
-  "2023-07-31": 16662,
-  "2023-08-01": 16676,
-  "2023-08-02": 16690,
-  "2023-08-03": 16703,
-  "2023-08-04": 16721,
-  "2023-08-05": 16739,
-  "2023-08-06": 16765,
-  "2023-08-07": 16765,
-  "2023-08-08": 16772,
-  "2023-08-09": 16789,
-  "2023-08-10": 16806,
-  "2023-08-11": 16821,
-  "2023-08-12": 16821,
-  "2023-08-13": 16821,
-  "2023-08-14": 16843,
-  "2023-08-15": 16843,
-  "2023-08-16": 16843,
-  "2023-08-17": 16889,
-  "2023-08-18": 16889,
-  "2023-08-19": 16889,
-  "2023-08-20": 16939,
-  "2023-08-21": 16939,
-  "2023-08-22": 16968,
-  "2023-08-23": 16968,
-  "2023-08-24": 16998,
-  "2023-08-25": 16998,
-  "2023-08-26": 17021,
-  "2023-08-27": 17021,
-  "2023-08-28": 17052,
-  "2023-08-29": 17052,
-  "2023-08-30": 17052,
-  "2023-08-31": 17101,
-  "2023-09-01": 17136,
-  "2023-09-02": 17136,
-  "2023-09-03": 17153,
-  "2023-09-04": 17153,
-  "2023-09-05": 17153,
-  "2023-09-06": 17201,
-  "2023-09-07": 17201,
-  "2023-09-08": 17201,
-  "2023-09-09": 17201,
-  "2023-09-10": 17271,
-  "2023-09-11": 17271,
-  "2023-09-12": 17271,
-  "2023-09-13": 17305,
-  "2023-09-14": 17305,
-  "2023-09-15": 17305,
-  "2023-09-16": 17356,
-  "2023-09-17": 17356,
-  "2023-09-18": 17356,
-  "2023-09-19": 17396,
-  "2023-09-20": 17396,
-  "2023-09-21": 17396,
-  "2023-09-22": 17433,
-  "2023-09-23": 17433,
-  "2023-09-24": 17433,
-  "2023-09-25": 17433,
-  "2023-09-26": 17487,
-  "2023-09-27": 17487,
-  "2023-09-28": 17487,
-  "2023-09-29": 17487,
-  "2023-09-30": 17487,
-  "2023-10-01": 17487,
-  "2023-10-02": 17562,
-  "2023-10-03": 17562,
-  "2023-10-04": 17562,
-  "2023-10-05": 17586,
-  "2023-10-06": 17600,
-  "2023-10-07": 17600,
-  "2023-10-08": 17600,
-  "2023-10-09": 17600,
-  "2023-10-10": 17600,
-  "2023-10-11": 17666,
-  "2023-10-12": 17666,
-  "2023-10-13": 17666,
-  "2023-10-14": 17666,
-  "2023-10-15": 17666,
-  "2023-10-16": 17666,
-  "2023-10-17": 17666,
-  "2023-10-18": 17666,
-  "2023-10-19": 17666,
-  "2023-10-20": 17666,
-  "2023-10-21": 17666,
-  "2023-10-22": 17666,
-  "2023-10-23": 17666,
-  "2023-10-24": 17666,
-  "2023-10-25": 17666,
-  "2023-10-26": 17666,
-  "2023-10-27": 17666,
-  "2023-10-28": 17666,
-  "2023-10-29": 17666,
-  "2023-10-30": 17666,
-  "2023-10-31": 17666,
-  "2023-11-01": 17666,
-  "2023-11-02": 17666,
-  "2023-11-03": 17666,
-  "2023-11-04": 17666,
-  "2023-11-05": 17666,
-  "2023-11-06": 17666,
-  "2023-11-07": 17666,
-  "2023-11-08": 17666,
-  "2023-11-09": 17666,
-  "2023-11-10": 17666,
-  "2023-11-11": 18055,
-  "2023-11-12": 18055,
-  "2023-11-13": 18055,
-  "2023-11-14": 18055,
-  "2023-11-15": 18055,
-  "2023-11-16": 18055,
-  "2023-11-17": 18055,
-  "2023-11-18": 18055,
-  "2023-11-19": 18055,
-  "2023-11-20": 18055,
-  "2023-11-21": 18055,
-  "2023-11-22": 18055,
-  "2023-11-23": 18055,
-  "2023-11-24": 18055,
-  "2023-11-25": 18055,
-  "2023-11-26": 18055,
-  "2023-11-27": 18055,
-  "2023-11-28": 18055,
-  "2023-11-29": 18055,
-  "2023-11-30": 18055,
-  "2023-12-01": 18055,
-  "2023-12-02": 18055,
-  "2023-12-03": 18055,
-  "2023-12-04": 18055,
-  "2023-12-05": 18055,
-  "2023-12-06": 18055,
-  "2023-12-07": 18055,
-  "2023-12-08": 18055,
-  "2023-12-09": 18055,
-  "2023-12-10": 18055,
-  "2023-12-11": 18055,
-  "2023-12-12": 18055,
-  "2023-12-13": 18055,
-  "2023-12-14": 18425,
-  "2023-12-15": 18429,
-  "2023-12-16": 18440,
-  "2023-12-17": 18442,
-  "2023-12-18": 18447,
-  "2023-12-19": 18456,
-  "2023-12-20": 18468,
-  "2023-12-21": 18476,
-  "2023-12-22": 18489,
-  "2023-12-23": 18494,
-  "2023-12-24": 18505,
-  "2023-12-25": 18509,
-  "2023-12-26": 18514,
-  "2023-12-27": 18520,
-  "2023-12-30": 18538,
-  "2023-12-31": 18544,
-  "2024-01-01": 18550,
-  "2024-01-02": 18559,
-  "2024-01-03": 18565
+  "2024-01-17": 18655,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Midian Lima. The essential tracks, all in one playlist.",
+  "name": "This Is Midian Lima",
+  "tracks": [
+    {
+      "album": {
+        "name": "500 Graus - Drive In",
+        "url": "https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429708,
+      "name": "500 Graus - Drive In",
+      "url": "https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno"
+    },
+    {
+      "album": {
+        "name": "A B\u00ean\u00e7\u00e3o do Senhor",
+        "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250636,
+      "name": "A B\u00ean\u00e7\u00e3o do Senhor",
+      "url": "https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9"
+    },
+    {
+      "album": {
+        "name": "A Igreja Vem / Porque Ele Vive - Drive In",
+        "url": "https://open.spotify.com/album/0d10hWdSyBQ3JGCd822QNH"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581938,
+      "name": "A Igreja Vem / Porque Ele Vive - Drive In",
+      "url": "https://open.spotify.com/track/2wcrkFGIDMyHJlcxh5ShXy"
+    },
+    {
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307803,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
+    },
+    {
+      "album": {
+        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314542,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
+    },
+    {
+      "album": {
+        "name": "Aguenta Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273252,
+      "name": "Aguenta Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY"
+    },
+    {
+      "album": {
+        "name": "Aguente, Guerreiro",
+        "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307750,
+      "name": "Aguente, Guerreiro",
+      "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
+    },
+    {
+      "album": {
+        "name": "Atos 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319000,
+      "name": "Atos 2 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/46gZR9rY1vrujQsOm6Iflo"
+    },
+    {
+      "album": {
+        "name": "Desperta",
+        "url": "https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1"
+      },
+      "artists": [
+        {
+          "name": "Cleyde Jane",
+          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 228530,
+      "name": "Desperta",
+      "url": "https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO"
+    },
+    {
+      "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC"
+      },
+      "artists": [
+        {
+          "name": "Casa do Oleiro Adora\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310257,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B"
+    },
+    {
+      "album": {
+        "name": "Entre Para o Templo",
+        "url": "https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Entre Para o Templo",
+      "url": "https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM"
+    },
+    {
+      "album": {
+        "name": "Escolhidas",
+        "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Hellen Miranda",
+          "url": "https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247756,
+      "name": "Escolhidas",
+      "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277339,
+      "name": "Eu Vim Te Adorar",
+      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
+    },
+    {
+      "album": {
+        "name": "Celebra\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1rDYWku4mzowwmwg0l0lbJ"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 288902,
+      "name": "Eu Vou Viver Uma Virada (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5Iy6cU3emGAnZZGdzLfJN7"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
+    },
+    {
+      "album": {
+        "name": "Irresist\u00edvel Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275945,
+      "name": "Irresist\u00edvel Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
+    },
+    {
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220589,
+      "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
+      "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
+    },
+    {
+      "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229552,
+      "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
+      "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
+    },
+    {
+      "album": {
+        "name": "Job",
+        "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324893,
+      "name": "Job",
+      "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
+    },
+    {
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311936,
+      "name": "J\u00f3",
+      "url": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE"
+    },
+    {
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274274,
+      "name": "Lugar Seguro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+    },
+    {
+      "album": {
+        "name": "Mais Um Dia",
+        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "Mais Um Dia",
+      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
+    },
+    {
+      "album": {
+        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260342,
+      "name": "Mem\u00f3rias (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
+    },
+    {
+      "album": {
+        "name": "Meu Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rN0mzP5qJCoAI6SlSunXY"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        },
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298144,
+      "name": "Meu Milagre (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5JlfhpLoJTtsQNqrRs8OAa"
+    },
+    {
+      "album": {
+        "name": "Nasci Pra Deus",
+        "url": "https://open.spotify.com/album/0jYMssO9wqHGNRAtVbYTNg"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Nasci Pra Deus",
+      "url": "https://open.spotify.com/track/3q6YCfW9zSrlMC4HRwRJbU"
+    },
+    {
+      "album": {
+        "name": "No Pares",
+        "url": "https://open.spotify.com/album/3OKxWsolYmrGBYJjWGIH0H"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 286720,
+      "name": "No Pares",
+      "url": "https://open.spotify.com/track/6lhq52ulpv88jIYpqrZBFQ"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Haver\u00e1 Vergonha",
+        "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316673,
+      "name": "N\u00e3o Haver\u00e1 Vergonha",
+      "url": "https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293593,
+      "name": "N\u00e3o Pare",
+      "url": "https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J"
+    },
+    {
+      "album": {
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
+    },
+    {
+      "album": {
+        "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402770,
+      "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo"
+    },
+    {
+      "album": {
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+    },
+    {
+      "album": {
+        "name": "O Nome de Jesus (The Name Of Our God)",
+        "url": "https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413000,
+      "name": "O Nome de Jesus (The Name Of Our God)",
+      "url": "https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU"
+    },
+    {
+      "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276456,
+      "name": "O Pre\u00e7o Foi de Sangue",
+      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
+    },
+    {
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333067,
+      "name": "O Rei Est\u00e1 Voltando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle"
+    },
+    {
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268329,
+      "name": "Olharei Para o Alto",
+      "url": "https://open.spotify.com/track/6ZUd69R92Ao3V9yNRwY52M"
+    },
+    {
+      "album": {
+        "name": "Prioridad",
+        "url": "https://open.spotify.com/album/7b4NMbigXOZcFsPMSHXIwZ"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228112,
+      "name": "Prioridad",
+      "url": "https://open.spotify.com/track/30tXzCwahCEoAQreBgEfel"
+    },
+    {
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239211,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
+    },
+    {
+      "album": {
+        "name": "Em Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272697,
+      "name": "Prossiga (feat. Midian Lima)",
+      "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+    },
+    {
+      "album": {
+        "name": "Nasci Pra Voar",
+        "url": "https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309001,
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y"
+    },
+    {
+      "album": {
+        "name": "Que Tal",
+        "url": "https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 309001,
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4"
+    },
+    {
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286023,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
+    },
+    {
+      "album": {
+        "name": "Sinto o Teu Poder (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271539,
+      "name": "Sinto o Teu Poder (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv"
+    },
+    {
+      "album": {
+        "name": "Sarah Farias (Ao Vivo) - Live MK 10 MI",
+        "url": "https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281983,
+      "name": "Sobrevivi - Live MK 10 MI",
+      "url": "https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266193,
+      "name": "Soldado Ferido",
+      "url": "https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX"
+    },
+    {
+      "album": {
+        "name": "Sou Teu Deus",
+        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290481,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
+    },
+    {
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248035,
+      "name": "Tira-me do Vale",
+      "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
+    },
+    {
+      "album": {
+        "name": "Drive In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352064,
+      "name": "Todavia me Alegrarei (Ao Vivo)",
+      "url": "https://open.spotify.com/track/77QWHvsIPyV6dkkrJyuxRG"
+    },
+    {
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Rayssa Barros",
+          "url": "https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332416,
+      "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
+    },
+    {
+      "album": {
+        "name": "Vai Ter Vida A\u00ed",
+        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270512,
+      "name": "Vai Ter Vida A\u00ed",
+      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
+    },
+    {
+      "album": {
+        "name": "Vencer ou Vencer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325720,
+      "name": "Vencer ou Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
+    },
+    {
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302927,
+      "name": "Vida aos Sepulcros (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Imagina",
+        "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318020,
+      "name": "Voc\u00ea N\u00e3o Imagina",
+      "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
+    },
+    {
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314026,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+    },
+    {
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 389630,
+      "name": "Vou Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2bEUyLBEnPPo9LVc6ku1Lp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO150czC"
 }

@@ -1,99 +1,987 @@
 {
-  "2023-09-27": 14736,
-  "2023-09-28": 14792,
-  "2023-09-29": 14842,
-  "2023-09-30": 14901,
-  "2023-10-01": 14958,
-  "2023-10-02": 15021,
-  "2023-10-03": 15081,
-  "2023-10-04": 15142,
-  "2023-10-05": 15217,
-  "2023-10-06": 15274,
-  "2023-10-07": 15332,
-  "2023-10-08": 15405,
-  "2023-10-09": 15461,
-  "2023-10-10": 15500,
-  "2023-10-11": 15631,
-  "2023-10-12": 15631,
-  "2023-10-13": 15698,
-  "2023-10-14": 15755,
-  "2023-10-15": 15830,
-  "2023-10-16": 15908,
-  "2023-10-17": 15967,
-  "2023-10-18": 16020,
-  "2023-10-19": 16081,
-  "2023-10-20": 16153,
-  "2023-10-21": 16215,
-  "2023-10-22": 16274,
-  "2023-10-23": 16329,
-  "2023-10-24": 16397,
-  "2023-10-25": 16457,
-  "2023-10-26": 16527,
-  "2023-10-27": 16597,
-  "2023-10-28": 16651,
-  "2023-10-29": 16709,
-  "2023-10-30": 16820,
-  "2023-10-31": 16820,
-  "2023-11-01": 16882,
-  "2023-11-02": 16938,
-  "2023-11-03": 16989,
-  "2023-11-04": 17039,
-  "2023-11-05": 17086,
-  "2023-11-06": 17141,
-  "2023-11-07": 17203,
-  "2023-11-08": 17263,
-  "2023-11-09": 17309,
-  "2023-11-10": 17357,
-  "2023-11-11": 17404,
-  "2023-11-12": 17457,
-  "2023-11-13": 17514,
-  "2023-11-14": 17562,
-  "2023-11-15": 17562,
-  "2023-11-16": 17648,
-  "2023-11-17": 17744,
-  "2023-11-18": 17744,
-  "2023-11-19": 17805,
-  "2023-11-20": 17858,
-  "2023-11-21": 17908,
-  "2023-11-22": 17943,
-  "2023-11-23": 17999,
-  "2023-11-24": 18040,
-  "2023-11-25": 18067,
-  "2023-11-26": 18113,
-  "2023-11-27": 18171,
-  "2023-11-28": 18200,
-  "2023-11-29": 18279,
-  "2023-11-30": 18279,
-  "2023-12-01": 18319,
-  "2023-12-02": 18348,
-  "2023-12-03": 18402,
-  "2023-12-04": 18451,
-  "2023-12-05": 18476,
-  "2023-12-06": 18520,
-  "2023-12-07": 18568,
-  "2023-12-08": 18622,
-  "2023-12-09": 18673,
-  "2023-12-10": 18718,
-  "2023-12-11": 18763,
-  "2023-12-12": 18806,
-  "2023-12-13": 18860,
-  "2023-12-14": 18919,
-  "2023-12-15": 18956,
-  "2023-12-16": 18991,
-  "2023-12-17": 19036,
-  "2023-12-18": 19077,
-  "2023-12-19": 19114,
-  "2023-12-20": 19150,
-  "2023-12-21": 19181,
-  "2023-12-22": 19220,
-  "2023-12-23": 19250,
-  "2023-12-24": 19296,
-  "2023-12-25": 19325,
-  "2023-12-26": 19358,
-  "2023-12-27": 19406,
-  "2023-12-30": 19554,
-  "2023-12-31": 19616,
-  "2024-01-01": 19661,
-  "2024-01-02": 19701,
-  "2024-01-03": 19754
+  "2024-01-17": 20555,
+  "date_first_scraped": "2023-09-27",
+  "description": "Tu familia puede visitar a todos los animales en el zool\u00f3gico con estas divertidas canciones.",
+  "name": "Los Animalitos",
+  "tracks": [
+    {
+      "album": {
+        "name": "Zootopia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105866,
+      "name": "A Bunny Can Go Savage",
+      "url": "https://open.spotify.com/track/2ALNmcdQmMBk8WSDcnjZBA"
+    },
+    {
+      "album": {
+        "name": "Science Songs",
+        "url": "https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC"
+      },
+      "artists": [
+        {
+          "name": "Have Fun Teaching",
+          "url": "https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 379946,
+      "name": "Animal Song",
+      "url": "https://open.spotify.com/track/1MbACfYbcxgxJXDcNZqaE7"
+    },
+    {
+      "album": {
+        "name": "Animalitos",
+        "url": "https://open.spotify.com/album/4Ecf2bOwqdmvo1DbEuv5n4"
+      },
+      "artists": [
+        {
+          "name": "Ninan\u00e1",
+          "url": "https://open.spotify.com/artist/4dAAAhQyqbw0QsuaM4aBSd"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139853,
+      "name": "Animalitos",
+      "url": "https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt"
+    },
+    {
+      "album": {
+        "name": "La Granja de Zen\u00f3n Vol. 3",
+        "url": "https://open.spotify.com/album/5wEeBWYvl74dSxeRDMLnhT"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133314,
+      "name": "Bartolito",
+      "url": "https://open.spotify.com/track/0YP2zvKNM70QgRaHqUOtXG"
+    },
+    {
+      "album": {
+        "name": "Masha and the Bear Songs, Pt. 2",
+        "url": "https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0430\u0448\u0430 \u0438 \u043c\u0435\u0434\u0432\u0435\u0434\u044c",
+          "url": "https://open.spotify.com/artist/6CJDS6xbJlxbBTUgALlHJa"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83693,
+      "name": "Bear's Song",
+      "url": "https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq"
+    },
+    {
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Bichos",
+      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
+    },
+    {
+      "album": {
+        "name": "Fiesta En La Aldea Encantada",
+        "url": "https://open.spotify.com/album/69rQXystVGM2FksqbAO6M3"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116586,
+      "name": "Coco En Su Cueva",
+      "url": "https://open.spotify.com/track/7vy0eOdRqLxWJTIQqHPYcQ"
+    },
+    {
+      "album": {
+        "name": "Pez Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/02qZvX116VfuLdtIjwS49x"
+      },
+      "artists": [
+        {
+          "name": "Pez al Rev\u00e9s",
+          "url": "https://open.spotify.com/artist/027ItQs3vdLG019LNccXr2"
+        },
+        {
+          "name": "Leopoldo Caracoche",
+          "url": "https://open.spotify.com/artist/2NFttPRH6bAwbK8ELlwqIY"
+        },
+        {
+          "name": "Lucas Rosenwasser",
+          "url": "https://open.spotify.com/artist/6TztmvR2ifD2qbS2cbrCgW"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160384,
+      "name": "Como las Vacas",
+      "url": "https://open.spotify.com/track/6Qg8LyemcbXVnDWXnCcuQJ"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "Dos Oruguitas",
+      "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+    },
+    {
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141213,
+      "name": "El Baile de la Selva",
+      "url": "https://open.spotify.com/track/6wwpsEj8awdcbYAD0nuKNp"
+    },
+    {
+      "album": {
+        "name": "Canciones del Zoo Vol. 3",
+        "url": "https://open.spotify.com/album/3COabJotsgeogBvNsNpcok"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174954,
+      "name": "El Baile de los Animales",
+      "url": "https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0"
+    },
+    {
+      "album": {
+        "name": "Super \u00c9xitos",
+        "url": "https://open.spotify.com/album/1nXc5zDscyT89SnDFh7l1l"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162175,
+      "name": "El Baile del Gorila (Versi\u00f3n 2019)",
+      "url": "https://open.spotify.com/track/4M9MCJF2Nk9H9lYkwxQS9C"
+    },
+    {
+      "album": {
+        "name": "Super \u00c9xitos",
+        "url": "https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 162175,
+      "name": "El Baile del Gorila (Versi\u00f3n 2019)",
+      "url": "https://open.spotify.com/track/4j8g2MmU4KLn5ncFCSCyQq"
+    },
+    {
+      "album": {
+        "name": "En Vivo - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184304,
+      "name": "El baile del sapito - Remasterizado 2016",
+      "url": "https://open.spotify.com/track/6N8lbqrViGQ5v4Xe1MZe1C"
+    },
+    {
+      "album": {
+        "name": "Canta Baila Juega",
+        "url": "https://open.spotify.com/album/2pE7DwjBDzEiugaQ7iIKDv"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111124,
+      "name": "El Caballo Comisario",
+      "url": "https://open.spotify.com/track/2WblKc2kdC9h3IaRpoyNqr"
+    },
+    {
+      "album": {
+        "name": "Xuxa Em Espanhol",
+        "url": "https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi"
+      },
+      "artists": [
+        {
+          "name": "Xuxa",
+          "url": "https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC"
+    },
+    {
+      "album": {
+        "name": "\u00bfDonde Est\u00e1 el Sr. Sapo?",
+        "url": "https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG"
+      },
+      "artists": [
+        {
+          "name": "Atenci\u00f3n Atenci\u00f3n",
+          "url": "https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126026,
+      "name": "El Cocodrilo",
+      "url": "https://open.spotify.com/track/45ArinQcJRgEgyrtkGZbFN"
+    },
+    {
+      "album": {
+        "name": "Canciones del Zoo Vol. 4",
+        "url": "https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134285,
+      "name": "El Cocodrilo Dante",
+      "url": "https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ"
+    },
+    {
+      "album": {
+        "name": "Abrazos, Besos y Apapachos",
+        "url": "https://open.spotify.com/album/6yQ77MNa0YWbZJIcAPVoLS"
+      },
+      "artists": [
+        {
+          "name": "Mariana Mallol",
+          "url": "https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133466,
+      "name": "El Cocodrilo y el Orangut\u00e1n",
+      "url": "https://open.spotify.com/track/52kqFv5uzPoNTPPnbo7jYZ"
+    },
+    {
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136640,
+      "name": "El Gato Carpintero",
+      "url": "https://open.spotify.com/track/3osiguY3buNPqZlckyTonk"
+    },
+    {
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152013,
+      "name": "El Piojo y la Pulga",
+      "url": "https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA"
+    },
+    {
+      "album": {
+        "name": "Ronda Musical Infantil",
+        "url": "https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj"
+      },
+      "artists": [
+        {
+          "name": "Felix Canales",
+          "url": "https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190976,
+      "name": "El T\u00edo McDonald Ten\u00eda una Granja",
+      "url": "https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf"
+    },
+    {
+      "album": {
+        "name": "Ronda Musical Infantil",
+        "url": "https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj"
+      },
+      "artists": [
+        {
+          "name": "Felix Canales",
+          "url": "https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271664,
+      "name": "En el Arca de Noe",
+      "url": "https://open.spotify.com/track/6uw29DF8FcbWlvf7AqR1va"
+    },
+    {
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri, Vol. 2",
+        "url": "https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149386,
+      "name": "Escuela de Perritos",
+      "url": "https://open.spotify.com/track/1xaIfPBnOV3aWKx2nrEMBM"
+    },
+    {
+      "album": {
+        "name": "Zootopia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128626,
+      "name": "Foxy Fakeout",
+      "url": "https://open.spotify.com/track/6FPbEp2Q9QUh5SWTws5F9Y"
+    },
+    {
+      "album": {
+        "name": "La Amistad de Dos Avestruces",
+        "url": "https://open.spotify.com/album/1UXdVfE8AGD1y1idxwvCTv"
+      },
+      "artists": [
+        {
+          "name": "Hab\u00eda una Vez Cuentos Infantiles",
+          "url": "https://open.spotify.com/artist/18h7mbIvxGVV5pDxKR8glX"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83349,
+      "name": "La Amistad de Dos Avestruces",
+      "url": "https://open.spotify.com/track/4WiGlFMQsE0OoPR31OrKrA"
+    },
+    {
+      "album": {
+        "name": "El Payasito De La Tele Cepill\u00edn, Vol. 1",
+        "url": "https://open.spotify.com/album/0KIDmlACezipkHgQvcM0GR"
+      },
+      "artists": [
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195657,
+      "name": "La Carrera",
+      "url": "https://open.spotify.com/track/6mf8fK0U38QThgimPGGdTJ"
+    },
+    {
+      "album": {
+        "name": "La Granja de Zen\u00f3n Vol. 2",
+        "url": "https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98280,
+      "name": "La Gata",
+      "url": "https://open.spotify.com/track/0CTywuMKJ7BfTlUl4s5ntz"
+    },
+    {
+      "album": {
+        "name": "A cantar",
+        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67243,
+      "name": "La lechuza",
+      "url": "https://open.spotify.com/track/6e85kbIzZaMdOp4h7CZo7q"
+    },
+    {
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri, Vol. 2",
+        "url": "https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "La Patita",
+      "url": "https://open.spotify.com/track/1aGPWR1quPaIAtZ8fUlphA"
+    },
+    {
+      "album": {
+        "name": "Adelante",
+        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-16",
+      "duration_ms": 192065,
+      "name": "La Pequena Arana-Bonus",
+      "url": "https://open.spotify.com/track/5x7lPrav33GIfgBv2lVpQg"
+    },
+    {
+      "album": {
+        "name": "Canciones Infantiles Y Musica Infantil",
+        "url": "https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm"
+      },
+      "artists": [
+        {
+          "name": "Canciones Infantiles En Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "La Vaca Lola",
+      "url": "https://open.spotify.com/track/50jTH2CYOJdQaLSy0Xfmre"
+    },
+    {
+      "album": {
+        "name": "La Granja de Zen\u00f3n Vol. 2",
+        "url": "https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127520,
+      "name": "La Vaca Lola",
+      "url": "https://open.spotify.com/track/70NIwhQTnE2a4wuE0roHTM"
+    },
+    {
+      "album": {
+        "name": "Los Pollitos Dicen",
+        "url": "https://open.spotify.com/album/6mMAInUWQTrXwNQUTxtlgH"
+      },
+      "artists": [
+        {
+          "name": "Kids Music Box",
+          "url": "https://open.spotify.com/artist/0syRfepwQdWHmbxLiOqMbC"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99432,
+      "name": "Los Pollitos Dicen",
+      "url": "https://open.spotify.com/track/41yJCVpmgWB3SVVPF8WZRA"
+    },
+    {
+      "album": {
+        "name": "Morko y Mali - Aventuras en la selva (La m\u00fasica de la serie de Disney Junior)",
+        "url": "https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Morko y Mali",
+          "url": "https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130093,
+      "name": "Lumi, luminosos - De Morko y Mali",
+      "url": "https://open.spotify.com/track/3G5TF0y9HIZL6BMlCJnAOU"
+    },
+    {
+      "album": {
+        "name": "Gallina Pintadita, Vol. 2",
+        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
+      },
+      "artists": [
+        {
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Mariposita",
+      "url": "https://open.spotify.com/track/089Ck3bvQWvl15HUFvklv5"
+    },
+    {
+      "album": {
+        "name": "Animales con Blippi, Vol.1",
+        "url": "https://open.spotify.com/album/0vHxexw4c4CNfYvDoJO3RW"
+      },
+      "artists": [
+        {
+          "name": "Blippi Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/7ceSQbq8SfnNLlecfPpysV"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113040,
+      "name": "Me Encantan las Mascotas",
+      "url": "https://open.spotify.com/track/0zz7G0akn1b4eOrYLG0OUw"
+    },
+    {
+      "album": {
+        "name": "Canciones Infantiles Y Musica Infantil",
+        "url": "https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm"
+      },
+      "artists": [
+        {
+          "name": "Canciones Infantiles En Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/0ZdnI2t7hdmu2znvokiGbp"
+    },
+    {
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129440,
+      "name": "O Pato - El Pato",
+      "url": "https://open.spotify.com/track/7q2cOMu2tKxclf9iXDateo"
+    },
+    {
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "Pap\u00e1 Elefante - Remasterizado",
+      "url": "https://open.spotify.com/track/5E20c2Sv8JbguraSR9uhEh"
+    },
+    {
+      "album": {
+        "name": "Canciones Infantiles Y Musica Infantil",
+        "url": "https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm"
+      },
+      "artists": [
+        {
+          "name": "Canciones Infantiles En Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109500,
+      "name": "Patitos Cuacuacua",
+      "url": "https://open.spotify.com/track/35FQXso1fGAtmpJA0skQZt"
+    },
+    {
+      "album": {
+        "name": "Pez Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/02qZvX116VfuLdtIjwS49x"
+      },
+      "artists": [
+        {
+          "name": "Pez al Rev\u00e9s",
+          "url": "https://open.spotify.com/artist/027ItQs3vdLG019LNccXr2"
+        },
+        {
+          "name": "Cascacuerda",
+          "url": "https://open.spotify.com/artist/42JQQWzk1ZzwSbj9JqBUF3"
+        },
+        {
+          "name": "Juan Pablo Ezquerra",
+          "url": "https://open.spotify.com/artist/7jVd7dSHaEDxcZMyiZsQ23"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128511,
+      "name": "Pato Con Tres Patas",
+      "url": "https://open.spotify.com/track/79eWa4cjirSHSmKg8f3WTN"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb",
+        "url": "https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1"
+      },
+      "artists": [
+        {
+          "name": "Randy Crenshaw",
+          "url": "https://open.spotify.com/artist/1uYWNGwHu2d2au8iOXZROv"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47240,
+      "name": "Perry the Platypus Theme",
+      "url": "https://open.spotify.com/track/0gG4SZ5weal3dd11pf5SzV"
+    },
+    {
+      "album": {
+        "name": "La fiesta de cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49763,
+      "name": "Piquito pajarito",
+      "url": "https://open.spotify.com/track/14eG0RZsk1rp7dCOYkLbWK"
+    },
+    {
+      "album": {
+        "name": "Gallina Pintadita, Vol. 1",
+        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
+      },
+      "artists": [
+        {
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107674,
+      "name": "Pollito Amarillito",
+      "url": "https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx"
+    },
+    {
+      "album": {
+        "name": "A cantar",
+        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64876,
+      "name": "Pom pom gallinita",
+      "url": "https://open.spotify.com/track/4kL7BS01ZXtIsWFdkClJVA"
+    },
+    {
+      "album": {
+        "name": "En Vivo - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337923,
+      "name": "Popurr\u00ed de animales (El se\u00f1or don Gato - La cucaracha - Pollito chicken) - Remasterizado 2016",
+      "url": "https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy"
+    },
+    {
+      "album": {
+        "name": "CD5: Panam Y Circo 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/1ysyF0m2WSZfWZ5gxR2p6v"
+      },
+      "artists": [
+        {
+          "name": "Panam y Circo",
+          "url": "https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144346,
+      "name": "Que Titungui Titungui",
+      "url": "https://open.spotify.com/track/3Or7JwHqkmDck8IGAtOlYj"
+    },
+    {
+      "album": {
+        "name": "Por Ti y Para Ti",
+        "url": "https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH"
+      },
+      "artists": [
+        {
+          "name": "Payasitas Nifu Nifa",
+          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "Quiero un Perrito",
+      "url": "https://open.spotify.com/track/2iTTot0TDxXhnjV7fs4LMN"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb",
+        "url": "https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1"
+      },
+      "artists": [
+        {
+          "name": "2 Guys n the Parque",
+          "url": "https://open.spotify.com/artist/2HQvN6u2hFOIRsZOdXB6UM"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93600,
+      "name": "S.I.M.P. (Squirrels in My Pants)",
+      "url": "https://open.spotify.com/track/76Wrq73y3Ef7VNM4CGSZ0l"
+    },
+    {
+      "album": {
+        "name": "Canciones del Zoo Vol. 4",
+        "url": "https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R"
+      },
+      "artists": [
+        {
+          "name": "Duo Tiempo de Sol",
+          "url": "https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131217,
+      "name": "Soy Una Serpiente",
+      "url": "https://open.spotify.com/track/4FyCoKl2W6GnoVy8I9xMSE"
+    },
+    {
+      "album": {
+        "name": "The Chicken Dance and Other Silly Songs",
+        "url": "https://open.spotify.com/album/6uDInUcLuJElPuuW5kAKtZ"
+      },
+      "artists": [
+        {
+          "name": "Sing n Play",
+          "url": "https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148866,
+      "name": "The Chicken Dance",
+      "url": "https://open.spotify.com/track/1c9dv4anUlofPLzIkQCxpA"
+    },
+    {
+      "album": {
+        "name": "Rondas Infantiles",
+        "url": "https://open.spotify.com/album/40U4IxZZ5vPTZ3L9piyH38"
+      },
+      "artists": [
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146546,
+      "name": "Yo Tenia Diez Perritos",
+      "url": "https://open.spotify.com/track/3VzVFDEJ3cvOCDB08X5WIk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTruDfET03YK"
 }

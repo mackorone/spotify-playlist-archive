@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 
 > Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,440 likes - 92 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,472 likes - 92 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

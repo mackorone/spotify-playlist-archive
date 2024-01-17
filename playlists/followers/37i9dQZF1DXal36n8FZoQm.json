@@ -1,580 +1,3279 @@
 {
-  "2022-05-30": 49601,
-  "2022-05-31": 49640,
-  "2022-06-01": 49725,
-  "2022-06-02": 49733,
-  "2022-06-03": 49761,
-  "2022-06-04": 49812,
-  "2022-06-05": 49832,
-  "2022-06-06": 49871,
-  "2022-06-07": 49908,
-  "2022-06-08": 49951,
-  "2022-06-09": 49958,
-  "2022-06-10": 49976,
-  "2022-06-11": 50009,
-  "2022-06-12": 50027,
-  "2022-06-13": 50046,
-  "2022-06-14": 50066,
-  "2022-06-15": 50078,
-  "2022-06-16": 50088,
-  "2022-06-17": 50101,
-  "2022-06-18": 50103,
-  "2022-06-19": 50122,
-  "2022-06-20": 50122,
-  "2022-06-21": 50130,
-  "2022-06-22": 50153,
-  "2022-06-23": 50153,
-  "2022-06-24": 50158,
-  "2022-06-25": 50171,
-  "2022-06-26": 50176,
-  "2022-06-27": 50192,
-  "2022-06-28": 50201,
-  "2022-06-29": 50196,
-  "2022-06-30": 50209,
-  "2022-07-01": 50219,
-  "2022-07-02": 50237,
-  "2022-07-03": 50249,
-  "2022-07-04": 50255,
-  "2022-07-05": 50265,
-  "2022-07-06": 50278,
-  "2022-07-07": 50289,
-  "2022-07-08": 64299,
-  "2022-07-09": 64292,
-  "2022-07-10": 64280,
-  "2022-07-11": 64282,
-  "2022-07-12": 64276,
-  "2022-07-13": 64290,
-  "2022-07-14": 64289,
-  "2022-07-15": 64285,
-  "2022-07-16": 64279,
-  "2022-07-17": 64282,
-  "2022-07-18": 64297,
-  "2022-07-19": 64296,
-  "2022-07-20": 64308,
-  "2022-07-21": 64297,
-  "2022-07-22": 64306,
-  "2022-07-23": 64310,
-  "2022-07-24": 64316,
-  "2022-07-25": 64317,
-  "2022-07-26": 64314,
-  "2022-07-27": 64298,
-  "2022-07-28": 64300,
-  "2022-07-29": 64306,
-  "2022-07-30": 64316,
-  "2022-07-31": 64316,
-  "2022-08-01": 64316,
-  "2022-08-02": 64313,
-  "2022-08-03": 64313,
-  "2022-08-04": 64320,
-  "2022-08-05": 64310,
-  "2022-08-06": 64301,
-  "2022-08-07": 64308,
-  "2022-08-08": 64306,
-  "2022-08-09": 64310,
-  "2022-08-10": 64302,
-  "2022-08-11": 64324,
-  "2022-08-12": 64323,
-  "2022-08-13": 64325,
-  "2022-08-14": 64321,
-  "2022-08-15": 64339,
-  "2022-08-16": 64343,
-  "2022-08-17": 64354,
-  "2022-08-18": 64377,
-  "2022-08-19": 64381,
-  "2022-08-20": 64409,
-  "2022-08-21": 64434,
-  "2022-08-22": 64460,
-  "2022-08-23": 64474,
-  "2022-08-24": 64509,
-  "2022-08-25": 64510,
-  "2022-08-26": 64533,
-  "2022-08-27": 64581,
-  "2022-08-28": 64604,
-  "2022-08-29": 64637,
-  "2022-08-30": 64663,
-  "2022-08-31": 64663,
-  "2022-09-01": 64682,
-  "2022-09-02": 64685,
-  "2022-09-03": 64657,
-  "2022-09-04": 64670,
-  "2022-09-05": 64684,
-  "2022-09-06": 64698,
-  "2022-09-07": 64724,
-  "2022-09-09": 64804,
-  "2022-09-10": 64905,
-  "2022-09-11": 65114,
-  "2022-09-12": 65369,
-  "2022-09-13": 65633,
-  "2022-09-15": 66140,
-  "2022-09-16": 66358,
-  "2022-09-17": 66568,
-  "2022-09-18": 66801,
-  "2022-09-19": 67020,
-  "2022-09-20": 67179,
-  "2022-09-21": 67348,
-  "2022-09-22": 67515,
-  "2022-09-23": 67682,
-  "2022-09-24": 67818,
-  "2022-09-25": 67985,
-  "2022-09-26": 68112,
-  "2022-09-27": 68235,
-  "2022-09-28": 68338,
-  "2022-09-29": 68422,
-  "2022-09-30": 68535,
-  "2022-10-01": 68635,
-  "2022-10-02": 68725,
-  "2022-10-03": 68831,
-  "2022-10-04": 68904,
-  "2022-10-05": 68983,
-  "2022-10-06": 69062,
-  "2022-10-07": 69130,
-  "2022-10-08": 69212,
-  "2022-10-09": 69360,
-  "2022-10-10": 69390,
-  "2022-10-11": 69441,
-  "2022-10-12": 69501,
-  "2022-10-13": 69564,
-  "2022-10-14": 69630,
-  "2022-10-15": 69695,
-  "2022-10-16": 69773,
-  "2022-10-17": 69827,
-  "2022-10-18": 69870,
-  "2022-10-19": 69935,
-  "2022-10-20": 69965,
-  "2022-10-21": 70016,
-  "2022-10-22": 70036,
-  "2022-10-23": 70100,
-  "2022-10-24": 70134,
-  "2022-10-25": 70162,
-  "2022-10-26": 70213,
-  "2022-10-27": 70237,
-  "2022-10-28": 70254,
-  "2022-10-29": 70273,
-  "2022-10-30": 70333,
-  "2022-10-31": 70370,
-  "2022-11-01": 70385,
-  "2022-11-02": 70408,
-  "2022-11-03": 70435,
-  "2022-11-04": 70470,
-  "2022-11-05": 70506,
-  "2022-11-06": 70536,
-  "2022-11-07": 70573,
-  "2022-11-08": 70607,
-  "2022-11-09": 70649,
-  "2022-11-10": 70667,
-  "2022-11-11": 70700,
-  "2022-11-12": 70733,
-  "2022-11-13": 70762,
-  "2022-11-14": 70796,
-  "2022-11-15": 70836,
-  "2022-11-16": 70842,
-  "2022-11-17": 70876,
-  "2022-11-18": 70875,
-  "2022-11-19": 70873,
-  "2022-11-20": 70906,
-  "2022-11-21": 70937,
-  "2022-11-22": 70967,
-  "2022-11-23": 71003,
-  "2022-11-24": 71079,
-  "2022-11-25": 71121,
-  "2022-11-26": 71145,
-  "2022-11-27": 71182,
-  "2022-11-28": 71213,
-  "2022-11-29": 71237,
-  "2022-11-30": 71277,
-  "2022-12-01": 71279,
-  "2022-12-02": 71299,
-  "2022-12-03": 71328,
-  "2022-12-04": 71362,
-  "2022-12-05": 71401,
-  "2022-12-06": 71423,
-  "2022-12-07": 71445,
-  "2022-12-08": 71474,
-  "2022-12-09": 71504,
-  "2022-12-10": 71525,
-  "2022-12-11": 71564,
-  "2022-12-12": 71596,
-  "2022-12-13": 71599,
-  "2022-12-14": 71622,
-  "2022-12-15": 71644,
-  "2022-12-16": 71661,
-  "2022-12-17": 71703,
-  "2022-12-18": 71734,
-  "2022-12-19": 71757,
-  "2022-12-20": 71790,
-  "2022-12-21": 71790,
-  "2022-12-22": 71812,
-  "2022-12-24": 71856,
-  "2022-12-25": 71879,
-  "2022-12-26": 71911,
-  "2022-12-27": 71928,
-  "2022-12-28": 71955,
-  "2022-12-29": 71982,
-  "2022-12-30": 72007,
-  "2022-12-31": 72051,
-  "2023-01-01": 72067,
-  "2023-01-02": 72091,
-  "2023-01-03": 72113,
-  "2023-01-04": 72155,
-  "2023-01-05": 72217,
-  "2023-01-06": 72256,
-  "2023-01-07": 72310,
-  "2023-01-08": 72335,
-  "2023-01-09": 72372,
-  "2023-01-10": 72409,
-  "2023-01-11": 72451,
-  "2023-01-12": 72477,
-  "2023-01-13": 72522,
-  "2023-01-14": 72600,
-  "2023-01-15": 72608,
-  "2023-01-16": 72646,
-  "2023-01-17": 72680,
-  "2023-01-18": 72714,
-  "2023-01-19": 72749,
-  "2023-01-20": 72772,
-  "2023-01-21": 72834,
-  "2023-01-22": 72941,
-  "2023-01-23": 73030,
-  "2023-01-24": 73095,
-  "2023-01-25": 73122,
-  "2023-01-26": 73190,
-  "2023-01-27": 73236,
-  "2023-01-28": 73291,
-  "2023-01-29": 73333,
-  "2023-01-30": 73374,
-  "2023-01-31": 73374,
-  "2023-02-01": 73469,
-  "2023-02-02": 73494,
-  "2023-02-03": 73524,
-  "2023-02-04": 73555,
-  "2023-02-05": 73606,
-  "2023-02-06": 73668,
-  "2023-02-07": 73684,
-  "2023-02-08": 73811,
-  "2023-02-09": 73811,
-  "2023-02-10": 73869,
-  "2023-02-11": 73946,
-  "2023-02-12": 74203,
-  "2023-02-13": 74308,
-  "2023-02-14": 74308,
-  "2023-02-15": 74397,
-  "2023-02-16": 74480,
-  "2023-02-17": 74557,
-  "2023-02-18": 74697,
-  "2023-02-19": 74720,
-  "2023-02-20": 74788,
-  "2023-02-21": 74872,
-  "2023-02-22": 74957,
-  "2023-02-23": 75029,
-  "2023-02-24": 75105,
-  "2023-02-25": 75211,
-  "2023-02-26": 75290,
-  "2023-02-27": 75474,
-  "2023-02-28": 75474,
-  "2023-03-01": 75591,
-  "2023-03-02": 75674,
-  "2023-03-03": 75793,
-  "2023-03-04": 75890,
-  "2023-03-05": 76117,
-  "2023-03-06": 76117,
-  "2023-03-07": 76216,
-  "2023-03-08": 76322,
-  "2023-03-09": 76406,
-  "2023-03-10": 76501,
-  "2023-03-11": 76599,
-  "2023-03-12": 76702,
-  "2023-03-13": 76801,
-  "2023-03-14": 76872,
-  "2023-03-15": 76962,
-  "2023-03-16": 77053,
-  "2023-03-17": 77053,
-  "2023-03-18": 77223,
-  "2023-03-19": 77310,
-  "2023-03-20": 77421,
-  "2023-03-21": 77516,
-  "2023-03-22": 77616,
-  "2023-03-23": 77684,
-  "2023-03-24": 77684,
-  "2023-03-25": 77843,
-  "2023-03-26": 77968,
-  "2023-03-27": 78051,
-  "2023-03-28": 78126,
-  "2023-03-29": 78226,
-  "2023-03-30": 78373,
-  "2023-03-31": 78373,
-  "2023-04-01": 78440,
-  "2023-04-02": 78554,
-  "2023-04-03": 78635,
-  "2023-04-04": 78717,
-  "2023-04-05": 78797,
-  "2023-04-06": 78881,
-  "2023-04-07": 78969,
-  "2023-04-09": 79176,
-  "2023-04-10": 79293,
-  "2023-04-11": 79434,
-  "2023-04-12": 79434,
-  "2023-04-13": 79529,
-  "2023-04-14": 79631,
-  "2023-04-15": 79720,
-  "2023-04-16": 79810,
-  "2023-04-17": 79919,
-  "2023-04-18": 80027,
-  "2023-04-19": 80123,
-  "2023-04-20": 80219,
-  "2023-04-21": 80313,
-  "2023-04-22": 80420,
-  "2023-04-23": 80509,
-  "2023-04-24": 80573,
-  "2023-04-25": 80658,
-  "2023-04-26": 80737,
-  "2023-04-27": 80809,
-  "2023-04-28": 80903,
-  "2023-04-29": 80986,
-  "2023-04-30": 81078,
-  "2023-05-01": 81145,
-  "2023-05-02": 81236,
-  "2023-05-03": 81315,
-  "2023-05-04": 81379,
-  "2023-05-05": 81468,
-  "2023-05-06": 81524,
-  "2023-05-07": 81628,
-  "2023-05-08": 81712,
-  "2023-05-09": 81781,
-  "2023-05-10": 81855,
-  "2023-05-11": 81932,
-  "2023-05-12": 82016,
-  "2023-05-13": 82089,
-  "2023-05-14": 82179,
-  "2023-05-15": 82275,
-  "2023-05-16": 82355,
-  "2023-05-17": 82427,
-  "2023-05-18": 82500,
-  "2023-05-19": 82587,
-  "2023-05-20": 82748,
-  "2023-05-21": 82748,
-  "2023-05-22": 82748,
-  "2023-05-23": 82897,
-  "2023-05-24": 83037,
-  "2023-05-25": 83062,
-  "2023-05-26": 83132,
-  "2023-05-27": 83210,
-  "2023-05-28": 83294,
-  "2023-05-29": 83294,
-  "2023-05-30": 83452,
-  "2023-05-31": 83524,
-  "2023-06-01": 83570,
-  "2023-06-02": 83644,
-  "2023-06-03": 83706,
-  "2023-06-04": 83791,
-  "2023-06-05": 83867,
-  "2023-06-06": 83940,
-  "2023-06-07": 84005,
-  "2023-06-08": 84082,
-  "2023-06-09": 84145,
-  "2023-06-10": 84204,
-  "2023-06-11": 84281,
-  "2023-06-12": 84355,
-  "2023-06-13": 84415,
-  "2023-06-14": 84500,
-  "2023-06-15": 84560,
-  "2023-06-16": 84629,
-  "2023-06-17": 84715,
-  "2023-06-18": 84814,
-  "2023-06-19": 84883,
-  "2023-06-20": 84957,
-  "2023-06-21": 85023,
-  "2023-06-22": 85091,
-  "2023-06-23": 85163,
-  "2023-06-24": 85231,
-  "2023-06-25": 85300,
-  "2023-06-26": 85386,
-  "2023-06-27": 85457,
-  "2023-06-28": 85526,
-  "2023-06-29": 85583,
-  "2023-06-30": 85649,
-  "2023-07-01": 85803,
-  "2023-07-02": 85803,
-  "2023-07-03": 85852,
-  "2023-07-04": 85944,
-  "2023-07-05": 86022,
-  "2023-07-06": 86174,
-  "2023-07-07": 86174,
-  "2023-07-08": 86249,
-  "2023-07-09": 86334,
-  "2023-07-10": 86409,
-  "2023-07-11": 86472,
-  "2023-07-12": 86547,
-  "2023-07-13": 86612,
-  "2023-07-14": 86700,
-  "2023-07-15": 86767,
-  "2023-07-16": 86848,
-  "2023-07-17": 86930,
-  "2023-07-18": 87013,
-  "2023-07-19": 87071,
-  "2023-07-20": 87128,
-  "2023-07-21": 87217,
-  "2023-07-22": 87310,
-  "2023-07-23": 87387,
-  "2023-07-24": 87471,
-  "2023-07-25": 87553,
-  "2023-07-26": 87633,
-  "2023-07-27": 87729,
-  "2023-07-28": 87790,
-  "2023-07-29": 87863,
-  "2023-07-30": 87950,
-  "2023-07-31": 88049,
-  "2023-08-01": 88107,
-  "2023-08-02": 88189,
-  "2023-08-03": 88261,
-  "2023-08-04": 88340,
-  "2023-08-05": 88430,
-  "2023-08-06": 88610,
-  "2023-08-07": 88610,
-  "2023-08-08": 88706,
-  "2023-08-09": 88781,
-  "2023-08-10": 88854,
-  "2023-08-11": 88924,
-  "2023-08-12": 88995,
-  "2023-08-13": 89070,
-  "2023-08-14": 89157,
-  "2023-08-15": 89281,
-  "2023-08-16": 89281,
-  "2023-08-17": 89353,
-  "2023-08-18": 89431,
-  "2023-08-19": 89483,
-  "2023-08-20": 89552,
-  "2023-08-21": 89614,
-  "2023-08-22": 89676,
-  "2023-08-23": 89740,
-  "2023-08-24": 89822,
-  "2023-08-25": 89908,
-  "2023-08-26": 89964,
-  "2023-08-27": 90051,
-  "2023-08-28": 90116,
-  "2023-08-29": 90202,
-  "2023-08-30": 90273,
-  "2023-08-31": 90341,
-  "2023-09-01": 90454,
-  "2023-09-02": 90454,
-  "2023-09-03": 90524,
-  "2023-09-04": 90587,
-  "2023-09-05": 90631,
-  "2023-09-06": 90690,
-  "2023-09-07": 90737,
-  "2023-09-08": 90802,
-  "2023-09-09": 90857,
-  "2023-09-10": 90919,
-  "2023-09-11": 90980,
-  "2023-09-12": 91032,
-  "2023-09-13": 91079,
-  "2023-09-14": 91131,
-  "2023-09-15": 99999,
-  "2023-09-16": 100033,
-  "2023-09-17": 100087,
-  "2023-09-18": 100148,
-  "2023-09-19": 100205,
-  "2023-09-20": 100252,
-  "2023-09-21": 100313,
-  "2023-09-22": 100350,
-  "2023-09-23": 100392,
-  "2023-09-24": 100449,
-  "2023-09-25": 100499,
-  "2023-09-26": 100559,
-  "2023-09-27": 100584,
-  "2023-09-28": 100640,
-  "2023-09-29": 100680,
-  "2023-09-30": 100726,
-  "2023-10-01": 100785,
-  "2023-10-02": 100852,
-  "2023-10-03": 100892,
-  "2023-10-04": 100942,
-  "2023-10-05": 100968,
-  "2023-10-06": 101013,
-  "2023-10-07": 101073,
-  "2023-10-08": 101115,
-  "2023-10-09": 101156,
-  "2023-10-10": 101199,
-  "2023-10-11": 101270,
-  "2023-10-12": 101270,
-  "2023-10-13": 101300,
-  "2023-10-14": 101300,
-  "2023-10-15": 101300,
-  "2023-10-16": 101444,
-  "2023-10-17": 101444,
-  "2023-10-18": 101510,
-  "2023-10-19": 101554,
-  "2023-10-20": 101603,
-  "2023-10-21": 101637,
-  "2023-10-22": 101637,
-  "2023-10-23": 101678,
-  "2023-10-24": 101725,
-  "2023-10-25": 101757,
-  "2023-10-26": 101814,
-  "2023-10-27": 101857,
-  "2023-10-28": 101857,
-  "2023-10-29": 101857,
-  "2023-10-30": 101979,
-  "2023-10-31": 101979,
-  "2023-11-01": 102045,
-  "2023-11-02": 102070,
-  "2023-11-03": 102092,
-  "2023-11-04": 102092,
-  "2023-11-05": 102092,
-  "2023-11-06": 102217,
-  "2023-11-07": 102217,
-  "2023-11-08": 102303,
-  "2023-11-09": 102303,
-  "2023-11-10": 102407,
-  "2023-11-11": 102453,
-  "2023-11-12": 102494,
-  "2023-11-13": 102494,
-  "2023-11-14": 102494,
-  "2023-11-15": 102494,
-  "2023-11-16": 102627,
-  "2023-11-17": 102686,
-  "2023-11-18": 102686,
-  "2023-11-19": 102733,
-  "2023-11-20": 102733,
-  "2023-11-21": 102778,
-  "2023-11-22": 102822,
-  "2023-11-23": 102871,
-  "2023-11-24": 102871,
-  "2023-11-25": 102934,
-  "2023-11-26": 102934,
-  "2023-11-27": 102996,
-  "2023-11-28": 102996,
-  "2023-11-29": 103056,
-  "2023-11-30": 103056,
-  "2023-12-01": 103056,
-  "2023-12-02": 103087,
-  "2023-12-03": 103087,
-  "2023-12-04": 103087,
-  "2023-12-05": 103199,
-  "2023-12-06": 103233,
-  "2023-12-07": 103233,
-  "2023-12-08": 103233,
-  "2023-12-09": 103331,
-  "2023-12-10": 103331,
-  "2023-12-11": 103394,
-  "2023-12-12": 103394,
-  "2023-12-13": 103466,
-  "2023-12-14": 103508,
-  "2023-12-15": 103515,
-  "2023-12-16": 103549,
-  "2023-12-17": 103597,
-  "2023-12-18": 103636,
-  "2023-12-19": 103662,
-  "2023-12-20": 103690,
-  "2023-12-21": 103720,
-  "2023-12-22": 103744,
-  "2023-12-23": 103789,
-  "2023-12-24": 103835,
-  "2023-12-25": 103882,
-  "2023-12-26": 103926,
-  "2023-12-27": 103965,
-  "2023-12-30": 104118,
-  "2023-12-31": 104174,
-  "2024-01-01": 104224,
-  "2024-01-02": 104262,
-  "2024-01-03": 104320
+  "2024-01-17": 105050,
+  "date_first_scraped": "2022-05-30",
+  "description": "The official playlist for Cobra Kai. Watch on Netflix.",
+  "name": "Cobra Kai Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Cobra Kai: Season 4, Vol. 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144048,
+      "name": "A Storm of Senseis",
+      "url": "https://open.spotify.com/track/1z42EWv0uIgy4P132bkGMV"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 1 (Soundtrack from the Original Series)",
+        "url": "https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85231,
+      "name": "Ace Degenerate",
+      "url": "https://open.spotify.com/track/3wpPVJgAae0hZMDavXGpqe"
+    },
+    {
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 5, Vol 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131684,
+      "name": "All of Us",
+      "url": "https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO"
+    },
+    {
+      "album": {
+        "name": "Indie Pop 3",
+        "url": "https://open.spotify.com/album/0dFtvHEFcI6vaiV81ypqEg"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Garber",
+          "url": "https://open.spotify.com/artist/6eOoFc9rr8mDiH3UkvnDGT"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220469,
+      "name": "All These Moments",
+      "url": "https://open.spotify.com/track/7LekZscUfDhHimckl1pE64"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 1 (Soundtrack from the Original Series)",
+        "url": "https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126926,
+      "name": "Awake the Snake",
+      "url": "https://open.spotify.com/track/5kiMm4Xc8q6aOVfph937J3"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "album": {
+        "name": "Black Dog Barking (Special Edition)",
+        "url": "https://open.spotify.com/album/2ByV33s2Y1uJRAooa8ivrn"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "Back In the Game",
+      "url": "https://open.spotify.com/track/2XjeZEdPK7Qo66Z7ONp854"
+    },
+    {
+      "album": {
+        "name": "Black Dog Barking (Special Edition)",
+        "url": "https://open.spotify.com/album/4ulIP4JbW6KegM8KNC02k5"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205506,
+      "name": "Back In The Game",
+      "url": "https://open.spotify.com/track/5S5GRSDNdEPjNjj07gORMf"
+    },
+    {
+      "album": {
+        "name": "Black Dog Barking",
+        "url": "https://open.spotify.com/album/6AbeBnRjJOIQNojzrU4NMA"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205506,
+      "name": "Back In the Game",
+      "url": "https://open.spotify.com/track/7nXOn8lKqoN2bP35LfgIgL"
+    },
+    {
+      "album": {
+        "name": "Believe in Yourself",
+        "url": "https://open.spotify.com/album/1vD3R2jh5gGq3GP9jQkbKs"
+      },
+      "artists": [
+        {
+          "name": "REMMI",
+          "url": "https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188674,
+      "name": "Believe in Yourself",
+      "url": "https://open.spotify.com/track/0YVhUwdbwzGu9RVWRUQaWF"
+    },
+    {
+      "album": {
+        "name": "Life & Love",
+        "url": "https://open.spotify.com/album/5z3jT6EbMUQnS4Arl7LRVc"
+      },
+      "artists": [
+        {
+          "name": "Steven Cooper",
+          "url": "https://open.spotify.com/artist/4qFYJ5Gbp4DpskZDJ7LtAa"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195160,
+      "name": "Bigger",
+      "url": "https://open.spotify.com/track/3GUMnKnOBMnjJP0d9Sc6A7"
+    },
+    {
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2bc07yF2kvHSFM3WmhqyaZ"
+      },
+      "artists": [
+        {
+          "name": "Kari Kimmel",
+          "url": "https://open.spotify.com/artist/6w5nIAeqFbZa9qssSwPsyn"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231891,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/2g6BvZlBNESRZKQkbXnTZh"
+    },
+    {
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "Blaze Of Glory",
+      "url": "https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt"
+    },
+    {
+      "album": {
+        "name": "Boneshaker",
+        "url": "https://open.spotify.com/album/0qluDo8WVqgdZ4aSm1dm3T"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 210103,
+      "name": "Boneshaker",
+      "url": "https://open.spotify.com/track/1fvmljBBL2lsyewZBKYj93"
+    },
+    {
+      "album": {
+        "name": "Boneshaker",
+        "url": "https://open.spotify.com/album/1WEM7Gz0rj7InZfQ8HSnKT"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210103,
+      "name": "Boneshaker",
+      "url": "https://open.spotify.com/track/1i9mctpfTvkg0Yb1mJDQZE"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 4, Vol. 1 \"All Valley Tournament 51\" (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214860,
+      "name": "Bonsai Badass",
+      "url": "https://open.spotify.com/track/1Zw7J4bGDMH6eAbdN5Y46V"
+    },
+    {
+      "album": {
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg"
+    },
+    {
+      "album": {
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
+    },
+    {
+      "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Bring The Funk Back",
+      "url": "https://open.spotify.com/track/1N5Thcd7ECdY0z2gP7fNpi"
+    },
+    {
+      "album": {
+        "name": "Brighter Future (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2J3wrYqEccRSZ3QzmX5xbU"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 226909,
+      "name": "Bring The Funk Back",
+      "url": "https://open.spotify.com/track/3O3ZLTGdXxMm5TMpAO8EVj"
+    },
+    {
+      "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/39Emg3duoZHR4LrE7gziK3"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226909,
+      "name": "Bring The Funk Back",
+      "url": "https://open.spotify.com/track/7lVRyNg6jKsvgrbGkyyBj3"
+    },
+    {
+      "album": {
+        "name": "Kristine",
+        "url": "https://open.spotify.com/album/7McQf4SkP9hQpgB30agxUj"
+      },
+      "artists": [
+        {
+          "name": "KRISTINE",
+          "url": "https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255253,
+      "name": "Burning Fever",
+      "url": "https://open.spotify.com/track/5UqvhEIhVrnT4mTYFfEjhP"
+    },
+    {
+      "album": {
+        "name": "Survivor Greatest Hits",
+        "url": "https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230106,
+      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
+      "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a"
+    },
+    {
+      "album": {
+        "name": "Mexico and Mariachis",
+        "url": "https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9"
+      },
+      "artists": [
+        {
+          "name": "Antonio Banderas",
+          "url": "https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ"
+        },
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-12",
+      "duration_ms": 127226,
+      "name": "Cancion del Mariachi",
+      "url": "https://open.spotify.com/track/2WAHi5ZJwDZqGjnhZgZYmU"
+    },
+    {
+      "album": {
+        "name": "Mexico and Mariachis",
+        "url": "https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju"
+      },
+      "artists": [
+        {
+          "name": "Antonio Banderas/los Lobos",
+          "url": "https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127226,
+      "name": "Cancion Del Mariachi",
+      "url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Waitresses",
+        "url": "https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU"
+      },
+      "artists": [
+        {
+          "name": "The Waitresses",
+          "url": "https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320800,
+      "name": "Christmas Wrapping",
+      "url": "https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl"
+    },
+    {
+      "album": {
+        "name": "Cinderelly",
+        "url": "https://open.spotify.com/album/39zIVvbgkZLTQMqBiUChgW"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 128367,
+      "name": "Cinderelly",
+      "url": "https://open.spotify.com/track/1tj53uXJoc0uvWSF74KSx7"
+    },
+    {
+      "album": {
+        "name": "Cinderelly",
+        "url": "https://open.spotify.com/album/37UlnQ04FICxVBYaZ2uIWP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128367,
+      "name": "Cinderelly",
+      "url": "https://open.spotify.com/track/5KqcscxC2cHoq72DSypqIN"
+    },
+    {
+      "album": {
+        "name": "Cinderelly",
+        "url": "https://open.spotify.com/album/0l8Ensxv2GazTB0qT41773"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 128367,
+      "name": "Cinderelly",
+      "url": "https://open.spotify.com/track/5rZXfiBWXMHiXnNJLMezsx"
+    },
+    {
+      "album": {
+        "name": "Allele",
+        "url": "https://open.spotify.com/album/4VvfEgqTrePNoVTNQpjFwE"
+      },
+      "artists": [
+        {
+          "name": "Allele",
+          "url": "https://open.spotify.com/artist/3UmfLYwk2TowLt9YPvekT1"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204725,
+      "name": "Closer to Habit",
+      "url": "https://open.spotify.com/track/5BOPRGJqsckBRz17qzxqdL"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "Come Back to Us",
+      "url": "https://open.spotify.com/track/0sqh5vCr8U8XNt8Xd0IPms"
+    },
+    {
+      "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259573,
+      "name": "Consolation No. 3 in D-Flat Major, S. 172",
+      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 2 (Soundtrack from the Original Series)",
+        "url": "https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V"
+      },
+      "artists": [
+        {
+          "name": "Kari Kimmel",
+          "url": "https://open.spotify.com/artist/6w5nIAeqFbZa9qssSwPsyn"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146235,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/4wOGqIvn9FYbyZw3kRQkRr"
+    },
+    {
+      "album": {
+        "name": "80's Retro Party",
+        "url": "https://open.spotify.com/album/6g7ZJoXva7nVYCpI7pPUuR"
+      },
+      "artists": [
+        {
+          "name": "Wang Chung",
+          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236386,
+      "name": "Dance Hall Days",
+      "url": "https://open.spotify.com/track/32CRqtlfngVGXM5rh8rIMS"
+    },
+    {
+      "album": {
+        "name": "Everybody Wang Chung Tonight... Wang Chung's Greatest Hits",
+        "url": "https://open.spotify.com/album/5p0y8lkXH7hUsmrjtwzfPf"
+      },
+      "artists": [
+        {
+          "name": "Wang Chung",
+          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239133,
+      "name": "Dance Hall Days",
+      "url": "https://open.spotify.com/track/1Z6IVAyTC47I1wob7b3aOh"
+    },
+    {
+      "album": {
+        "name": "Points On The Curve",
+        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
+      },
+      "artists": [
+        {
+          "name": "Wang Chung",
+          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Dance Hall Days",
+      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+    },
+    {
+      "album": {
+        "name": "Cocktail Hour",
+        "url": "https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4"
+      },
+      "artists": [
+        {
+          "name": "Jeff Meegan",
+          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
+        },
+        {
+          "name": "David Tobin",
+          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272923,
+      "name": "Dinner For Two",
+      "url": "https://open.spotify.com/track/2KkuQEFHO2f3C3Z9fsgUKj"
+    },
+    {
+      "album": {
+        "name": "Dirty Deeds Done Dirt Cheap",
+        "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Dirty Deeds Done Dirt Cheap",
+      "url": "https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 4, Vol. 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59025,
+      "name": "Divide and Conquer",
+      "url": "https://open.spotify.com/track/04ogUiDHLHbxNYQemPB8ju"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110893,
+      "name": "Dojo From Hell",
+      "url": "https://open.spotify.com/track/6wcWfKhR6cVqhJXiSNMHcD"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/2bJalk1WMed8Z2CZca2zKp"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360333,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598560,
+      "name": "Duel of the Snakes (Mega-Edit)",
+      "url": "https://open.spotify.com/track/4s69std16qKEsvAa4ZHmmB"
+    },
+    {
+      "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "album": {
+        "name": "Bat Fangs",
+        "url": "https://open.spotify.com/album/72EmvI2TP4pLOCVizB13ih"
+      },
+      "artists": [
+        {
+          "name": "Bat Fangs",
+          "url": "https://open.spotify.com/artist/2D0ve7sq3V8gMiWa5JqTar"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217551,
+      "name": "Fangs Out",
+      "url": "https://open.spotify.com/track/0YPI0lpt5gFzpHwNASKbKi"
+    },
+    {
+      "album": {
+        "name": "Bat Fangs",
+        "url": "https://open.spotify.com/album/0kopRwEQgaL0fpQMrGO8tR"
+      },
+      "artists": [
+        {
+          "name": "Bat Fangs",
+          "url": "https://open.spotify.com/artist/2D0ve7sq3V8gMiWa5JqTar"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 217551,
+      "name": "Fangs Out",
+      "url": "https://open.spotify.com/track/5CrrcfYTyVgbkrbQL4Gl8P"
+    },
+    {
+      "album": {
+        "name": "Rock Up",
+        "url": "https://open.spotify.com/album/1dlvVo4PLSxqreUS9iCS4j"
+      },
+      "artists": [
+        {
+          "name": "Mark Alberts",
+          "url": "https://open.spotify.com/artist/6Qw9WWzh9KAngPFZpzxnkB"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148920,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/5zx4puSZ2s1SxzsxFUOTDB"
+    },
+    {
+      "album": {
+        "name": "The Karate Kid: The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH"
+      },
+      "artists": [
+        {
+          "name": "Baxter Robinson",
+          "url": "https://open.spotify.com/artist/6JmPvDxWnZ7iQJPhFj69Mr"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "Feel The Night",
+      "url": "https://open.spotify.com/track/1feLODy7BXa0tjkHJ2fOeQ"
+    },
+    {
+      "album": {
+        "name": "Now And Forever",
+        "url": "https://open.spotify.com/album/1UDaAmmTpoWWpkFIti7LGM"
+      },
+      "artists": [
+        {
+          "name": "Sister Sin",
+          "url": "https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241080,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9"
+    },
+    {
+      "album": {
+        "name": "Now and Forever",
+        "url": "https://open.spotify.com/album/3lOX8tvHmjj2EmnqBUyFy1"
+      },
+      "artists": [
+        {
+          "name": "Sister Sin",
+          "url": "https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241080,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/6SnokqeMmGKiOzMlhag3Mb"
+    },
+    {
+      "album": {
+        "name": "Cocktail Hour",
+        "url": "https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4"
+      },
+      "artists": [
+        {
+          "name": "Jeff Meegan",
+          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
+        },
+        {
+          "name": "David Tobin",
+          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287345,
+      "name": "Five Over Four",
+      "url": "https://open.spotify.com/track/0c946BQlEOYlcVq8n6pAKt"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4y0me4JaTG2bjBy8Scz8ek"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 270426,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/3xdwo1GK8KaXiT36sTLira"
+    },
+    {
+      "album": {
+        "name": "Girls, Girls, Girls (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 270426,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
+    },
+    {
+      "album": {
+        "name": "Girls, Girls, Girls",
+        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270426,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn"
+    },
+    {
+      "album": {
+        "name": "Girls, Girls, Girls",
+        "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270533,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
+      },
+      "artists": [
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        },
+        {
+          "name": "Freedom Williams",
+          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244093,
+      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
+    },
+    {
+      "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Gotta Get Into Something",
+      "url": "https://open.spotify.com/track/79JWiNwvgp6Z8I5TZln8Ld"
+    },
+    {
+      "album": {
+        "name": "Transcendental - Daniil Trifonov Plays Franz Liszt (Etudes S. 139, S. 141, S. 144, S. 145)",
+        "url": "https://open.spotify.com/album/1U7BErPHxIgtzsq05Wfj5E"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291440,
+      "name": "Grandes \u00c9tudes de Paganini, S. 141: No. 3 in G-Sharp Minor \"La Campanella\"",
+      "url": "https://open.spotify.com/track/5XBWQDLsTWj9uoVeKG2uuo"
+    },
+    {
+      "album": {
+        "name": "New York Jazz Cafe",
+        "url": "https://open.spotify.com/album/6uKUFWsDNSdiJKUrXJfgkj"
+      },
+      "artists": [
+        {
+          "name": "Simon Bates",
+          "url": "https://open.spotify.com/artist/0ZFJ7MsevtjRZpZkbdJ1TO"
+        },
+        {
+          "name": "Harry the Piano",
+          "url": "https://open.spotify.com/artist/6XB8nJhrhd5j8NQAGnIKMg"
+        },
+        {
+          "name": "David Kelly",
+          "url": "https://open.spotify.com/artist/0KJ4ltxkqHzASzmyJG9NqA"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180334,
+      "name": "Greenwich Village Mean Time",
+      "url": "https://open.spotify.com/track/2Nyio0BsD1UKkZlt7Pycrn"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 2 (Soundtrack from the Original Series)",
+        "url": "https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216669,
+      "name": "Hallway Hellscape",
+      "url": "https://open.spotify.com/track/6pzEnYa4JMd0b8pemXQY0S"
+    },
+    {
+      "album": {
+        "name": "Head Games",
+        "url": "https://open.spotify.com/album/05Z3MG7G3Vl5ThsFQkWjiJ"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217706,
+      "name": "Head Games",
+      "url": "https://open.spotify.com/track/5nk6wxUSFUBxUKxjz0fKD6"
+    },
+    {
+      "album": {
+        "name": "Vibe City",
+        "url": "https://open.spotify.com/album/5qB9fJHiKOpeUxiOkepKBj"
+      },
+      "artists": [
+        {
+          "name": "Midnight Mantics",
+          "url": "https://open.spotify.com/artist/0kcInZGL88CR9QoMeUsdwv"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244250,
+      "name": "Hear My Heart",
+      "url": "https://open.spotify.com/track/1PDkqKq5PtfjwsoqnQctAz"
+    },
+    {
+      "album": {
+        "name": "Vibe City",
+        "url": "https://open.spotify.com/album/6FtILJfVlycAU484t2GA1l"
+      },
+      "artists": [
+        {
+          "name": "Midnight Mantics",
+          "url": "https://open.spotify.com/artist/0kcInZGL88CR9QoMeUsdwv"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244250,
+      "name": "Hear My Heart",
+      "url": "https://open.spotify.com/track/7yl21WlxXzzYblzkxDyqE5"
+    },
+    {
+      "album": {
+        "name": "Dig! Rock Classics",
+        "url": "https://open.spotify.com/album/5LTC8pH1pEnDoPLhBO4AzZ"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308240,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/66yF4fCC4NiFZTjhegI90o"
+    },
+    {
+      "album": {
+        "name": "Saints & Sinners",
+        "url": "https://open.spotify.com/album/5HSdx1824FepWuf8NbG7B3"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-23",
+      "duration_ms": 308800,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/29pzjF6ZkzcW3ofgOVbF0t"
+    },
+    {
+      "album": {
+        "name": "Hallowed Ground",
+        "url": "https://open.spotify.com/album/7wbNlBcZ0b04oW8TwBfxLX"
+      },
+      "artists": [
+        {
+          "name": "I See Hawks In L.A.",
+          "url": "https://open.spotify.com/artist/1b5IKVz30ek0dp7zFOUdcQ"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314160,
+      "name": "Highway Down",
+      "url": "https://open.spotify.com/track/4QifC5kFkaDACx0vbfDwQo"
+    },
+    {
+      "album": {
+        "name": "Hold Steady",
+        "url": "https://open.spotify.com/album/3ORSmzn6M2xEIh0dZFnm8u"
+      },
+      "artists": [
+        {
+          "name": "Justin Forrest",
+          "url": "https://open.spotify.com/artist/0glyJh3jYJ2B2xlUPYgfbf"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Hold Steady",
+      "url": "https://open.spotify.com/track/0EsDXxLglW6znXTnJ4hCz3"
+    },
+    {
+      "album": {
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "I Wanna Be Somebody",
+      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
+    },
+    {
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+    },
+    {
+      "album": {
+        "name": "The Miracle",
+        "url": "https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-04",
+      "duration_ms": 272973,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/0GQo5VkiurD6HnVpaCNeMf"
+    },
+    {
+      "album": {
+        "name": "The Miracle (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280480,
+      "name": "I Want It All - Remastered 2011",
+      "url": "https://open.spotify.com/track/2htmMitogin6NMGABye6YG"
+    },
+    {
+      "album": {
+        "name": "Playtime",
+        "url": "https://open.spotify.com/album/5XoVGXTgsT3wVjByeDSfoz"
+      },
+      "artists": [
+        {
+          "name": "Fergus Hambleton",
+          "url": "https://open.spotify.com/artist/5AYpEyD8yqwt1U9GOfvxAl"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "I'm Gonna Be The One",
+      "url": "https://open.spotify.com/track/0RLZeSzRs9AuiUzcQ6PNVR"
+    },
+    {
+      "album": {
+        "name": "Playtime",
+        "url": "https://open.spotify.com/album/13zRIbjKcrLgHqvJLOzD85"
+      },
+      "artists": [
+        {
+          "name": "Fergus Hambleton",
+          "url": "https://open.spotify.com/artist/5AYpEyD8yqwt1U9GOfvxAl"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240466,
+      "name": "I'm Gonna Be The One",
+      "url": "https://open.spotify.com/track/50HFNjJcEp9bNMwVQZq9dO"
+    },
+    {
+      "album": {
+        "name": "In the Next Life",
+        "url": "https://open.spotify.com/album/6EhtuIQhSFmqRYUw7SUW7S"
+      },
+      "artists": [
+        {
+          "name": "Maria Taylor",
+          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300026,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/2N0GHE4miWevkfXX5ifuia"
+    },
+    {
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/3FSWIgpM4r649Pgr6KoMNf"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268546,
+      "name": "If You Leave - From \"Pretty In Pink\"",
+      "url": "https://open.spotify.com/track/05oFyvdztPdpwSwpoclD4c"
+    },
+    {
+      "album": {
+        "name": "Disco Pop 2",
+        "url": "https://open.spotify.com/album/7jW0A2xM7cWNiQIlzoegIJ"
+      },
+      "artists": [
+        {
+          "name": "Nine One One",
+          "url": "https://open.spotify.com/artist/0g3drvUd9hMx7PKYN4OQWy"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/4szIHLlonxnvu9WoR6Ifz6"
+    },
+    {
+      "album": {
+        "name": "The Cover Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2alFG2VsPE8xiozFQz3A0i"
+      },
+      "artists": [
+        {
+          "name": "The Protomen",
+          "url": "https://open.spotify.com/artist/2rVDi66o7gdeUq1OHUzM0W"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394453,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/5MAPt0beSbEQdPM5SfJwyl"
+    },
+    {
+      "album": {
+        "name": "In Your Eyes (Remix)",
+        "url": "https://open.spotify.com/album/2MouaLzzY4HnsUYJYSgu2o"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256551,
+      "name": "In Your Eyes (feat. Kenny G) - Remix",
+      "url": "https://open.spotify.com/track/1SySkCqhEG6Z68o2n07Bsr"
+    },
+    {
+      "album": {
+        "name": "Island Joint (As Heard In Cobra Kai)",
+        "url": "https://open.spotify.com/album/6jPq2og5WcG5hHcNMNf11I"
+      },
+      "artists": [
+        {
+          "name": "Honest Lee",
+          "url": "https://open.spotify.com/artist/1xJNFEIV410bUTaNUE7gpu"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208682,
+      "name": "Island Joint (As Heard In Cobra Kai)",
+      "url": "https://open.spotify.com/track/6FgCyTOBD2Mz8o6UD8Zfx6"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 4, Vol. 1 \"All Valley Tournament 51\" (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206820,
+      "name": "It's Karate Time",
+      "url": "https://open.spotify.com/track/2jS6zzIEg6i0Z7xmirjL8i"
+    },
+    {
+      "album": {
+        "name": "It's Karate Time (From the Cobra Kai: Season 4 Soundtrack)",
+        "url": "https://open.spotify.com/album/5NokilgU2QUhW3a1PEznxh"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206820,
+      "name": "It's Karate Time (from the Cobra Kai: Season 4 Soundtrack)",
+      "url": "https://open.spotify.com/track/3culNzZpsrFRMlQQQ3y1Q2"
+    },
+    {
+      "album": {
+        "name": "Perc Pop 2",
+        "url": "https://open.spotify.com/album/3FIG7MhtpdvkjRlFX8TOU4"
+      },
+      "artists": [
+        {
+          "name": "Rhys Fletcher",
+          "url": "https://open.spotify.com/artist/2bp9TWW21l3VDbLprItUud"
+        },
+        {
+          "name": "Georgina Daisy Birch",
+          "url": "https://open.spotify.com/artist/6fe9P31v3uFnfrZm9ZbQu1"
+        },
+        {
+          "name": "Rusty B",
+          "url": "https://open.spotify.com/artist/7DI4y02F2YrdSDw68dpYnU"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162171,
+      "name": "I\u2019m Feelin\u2019 it",
+      "url": "https://open.spotify.com/track/1EUkhXskMhltNATNWzUVvm"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 1 (Soundtrack from the Original Series)",
+        "url": "https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148460,
+      "name": "Johnny's Story",
+      "url": "https://open.spotify.com/track/0WoZrCjeAfrJi3SyZgQnG6"
+    },
+    {
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250792,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8"
+    },
+    {
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/54uX7vRtpbNTOwH3OsLU9a"
+      },
+      "artists": [
+        {
+          "name": "Julian Emery",
+          "url": "https://open.spotify.com/artist/4nbCme6RCJulaab14aFmqP"
+        },
+        {
+          "name": "Cenzo Townshend",
+          "url": "https://open.spotify.com/artist/4XQ6r7p6rFvDrE9mPmoQMm"
+        },
+        {
+          "name": "Jack Joy",
+          "url": "https://open.spotify.com/artist/3RZZPXWZw7RAnPIonwMGtJ"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215761,
+      "name": "Just Reach For The Sky",
+      "url": "https://open.spotify.com/track/060rDShhKz9WtjcikdeMmd"
+    },
+    {
+      "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+    },
+    {
+      "album": {
+        "name": "Dr. Feelgood",
+        "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4y0me4JaTG2bjBy8Scz8ek"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 284026,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/5ikj2Db37JYXL6RW5cTFWP"
+    },
+    {
+      "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 284026,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
+    },
+    {
+      "album": {
+        "name": "ROCKISDEAD",
+        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153351,
+      "name": "Kiss It",
+      "url": "https://open.spotify.com/track/6fUI7AyEG8jXtpJqv0cvsJ"
+    },
+    {
+      "album": {
+        "name": "LA / Alone",
+        "url": "https://open.spotify.com/album/0TiXa5oN4JwsV9rUbSRo0U"
+      },
+      "artists": [
+        {
+          "name": "SRRY",
+          "url": "https://open.spotify.com/artist/54AggBUiCq1Yo04s4EqXv2"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350093,
+      "name": "LA / Alone",
+      "url": "https://open.spotify.com/track/396DMhY0I2y5wSIIpirX4m"
+    },
+    {
+      "album": {
+        "name": "Cocktail Hour",
+        "url": "https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4"
+      },
+      "artists": [
+        {
+          "name": "Jeff Meegan",
+          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
+        },
+        {
+          "name": "David Tobin",
+          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318655,
+      "name": "Late Night Jazz",
+      "url": "https://open.spotify.com/track/12KH9ouW87OwGbnB16m7gx"
+    },
+    {
+      "album": {
+        "name": "Invasion of Your Privacy",
+        "url": "https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI"
+      },
+      "artists": [
+        {
+          "name": "Ratt",
+          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205560,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 2 (Soundtrack from the Original Series)",
+        "url": "https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Like a Dance",
+      "url": "https://open.spotify.com/track/6FtO9TV7VM1lmPiHMvYyqz"
+    },
+    {
+      "album": {
+        "name": "70s Sounds",
+        "url": "https://open.spotify.com/album/4UbnvDEcUaEhyDTgDYOeVl"
+      },
+      "artists": [
+        {
+          "name": "Alexander Rudd",
+          "url": "https://open.spotify.com/artist/02byKbTE2ZyrjUjT6uiTc0"
+        },
+        {
+          "name": "Zach Lemmon",
+          "url": "https://open.spotify.com/artist/1DqlgYeGygYV43IWmrISKA"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190435,
+      "name": "Like a Fighter",
+      "url": "https://open.spotify.com/track/1NLOotIFSAROiIyEz2jWWa"
+    },
+    {
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7"
+    },
+    {
+      "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/6VgN0Ib01UW2jIaW6eCKtX"
+      },
+      "artists": [
+        {
+          "name": "Ali Pierre",
+          "url": "https://open.spotify.com/artist/0HVFl59me8hw9a4mqQfks7"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328615,
+      "name": "Live It Up (Aaron Wayne Remix)",
+      "url": "https://open.spotify.com/track/5PMc7HZzdYUlowyUlxzON4"
+    },
+    {
+      "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/0vDYOAFOWUrlADVcS7nnJ4"
+      },
+      "artists": [
+        {
+          "name": "Ali Pierre",
+          "url": "https://open.spotify.com/artist/0HVFl59me8hw9a4mqQfks7"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 328615,
+      "name": "Live It Up (Aaron Wayne Remix)",
+      "url": "https://open.spotify.com/track/6QGdefzRvTLXxTFkUyKTHu"
+    },
+    {
+      "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/6EhpN4NRqVZZObgYWqjYpa"
+      },
+      "artists": [
+        {
+          "name": "Ali Pierre",
+          "url": "https://open.spotify.com/artist/0HVFl59me8hw9a4mqQfks7"
+        },
+        {
+          "name": "Aaron Wayne",
+          "url": "https://open.spotify.com/artist/51GqPiiVqeQzsVntoKXixa"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 329669,
+      "name": "Live It Up (Aaron Wayne Remix)",
+      "url": "https://open.spotify.com/track/0gSPaub8muOF2zFikracsk"
+    },
+    {
+      "album": {
+        "name": "No Wow",
+        "url": "https://open.spotify.com/album/1wPUWq21gP0rYhaSBqBaEp"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228720,
+      "name": "Love Is A Deserter",
+      "url": "https://open.spotify.com/track/5tT1aeBgz7kbAugGXNQZ7n"
+    },
+    {
+      "album": {
+        "name": "Outlaw Blues 2",
+        "url": "https://open.spotify.com/album/3TuVfQxuglQcS7qb2i9FpB"
+      },
+      "artists": [
+        {
+          "name": "Blues Saraceno",
+          "url": "https://open.spotify.com/artist/5AVBFCn4Hq4KY2Xjc5Gj4y"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245034,
+      "name": "Low Down Dirty Shame",
+      "url": "https://open.spotify.com/track/3VdlwXjm45dyy6B0v9GiB1"
+    },
+    {
+      "album": {
+        "name": "Might Find Love",
+        "url": "https://open.spotify.com/album/7fpx2paVple1TBRoXGtxba"
+      },
+      "artists": [
+        {
+          "name": "Hero The Band",
+          "url": "https://open.spotify.com/artist/2PZZXkVyUo7SV4wfKwa8FW"
+        },
+        {
+          "name": "Audio Chateau",
+          "url": "https://open.spotify.com/artist/4rtX2hxqvqi1IMDmA8dVDD"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200973,
+      "name": "Might Find Love",
+      "url": "https://open.spotify.com/track/3ygBWDtkVCCoeTQUstWbsT"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135501,
+      "name": "Miyagi Metal",
+      "url": "https://open.spotify.com/track/35gOPH2fuxgGdrDvnmZBK4"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 1 (Soundtrack from the Original Series)",
+        "url": "https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112722,
+      "name": "Miyagi-Do",
+      "url": "https://open.spotify.com/track/017dcJuCg52UEqKoZCGPuK"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 2 (Soundtrack from the Original Series)",
+        "url": "https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152657,
+      "name": "Miyagi-Do Fix-Up",
+      "url": "https://open.spotify.com/track/5aF1JGQ6Zu3Jwv5VdbvlFX"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 4, Vol. 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76901,
+      "name": "Miyaguel",
+      "url": "https://open.spotify.com/track/0wNBYJFmHLxTSbgrNuiOhu"
+    },
+    {
+      "album": {
+        "name": "Idolize Yourself: The Very Best Of Billy Idol",
+        "url": "https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300213,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/3GfGTJ2xzC0rqKgdjNJLOC"
+    },
+    {
+      "album": {
+        "name": "Standing Up, Falling Down",
+        "url": "https://open.spotify.com/album/4gV1NaoLg7VcqqNbyjVYnV"
+      },
+      "artists": [
+        {
+          "name": "The Stand Ups",
+          "url": "https://open.spotify.com/artist/7CwPZ0AFd8TMffs7Ko5jBk"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244570,
+      "name": "My Old Friend (Always Will) [feat. Antwaun Stanley]",
+      "url": "https://open.spotify.com/track/1haWKOqwKanmoPuecOnvbc"
+    },
+    {
+      "album": {
+        "name": "Classic Hits",
+        "url": "https://open.spotify.com/album/2N8ccUOSYseAHTkBWTmq8e"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278693,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3ApYSLmZkBGMY7Ahs7PGWM"
+    },
+    {
+      "album": {
+        "name": "The Karate Kid: The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH"
+      },
+      "artists": [
+        {
+          "name": "Broken Edge",
+          "url": "https://open.spotify.com/artist/51w118T3tZyeQwAye9iHrq"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "No Shelter",
+      "url": "https://open.spotify.com/track/04rLT4KBoCtGpJSTp1sPjR"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 4, Vol. 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56669,
+      "name": "Not Here to Fight",
+      "url": "https://open.spotify.com/track/5svpREkVOHwf8fPcwVlePs"
+    },
+    {
+      "album": {
+        "name": "Open Up And Say . . . Ahh!",
+        "url": "https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223406,
+      "name": "Nothin' But A Good Time",
+      "url": "https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR"
+    },
+    {
+      "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/2X923YDUN9MTWJ1vS4atnB"
+      },
+      "artists": [
+        {
+          "name": "Yello",
+          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186810,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/44IX8SM0fEWApOGlhUGAFc"
+    },
+    {
+      "album": {
+        "name": "Once Upon a Time in the Valley (From the Cobra Kai: Season 5 Soundtrack)",
+        "url": "https://open.spotify.com/album/6NNUyz4QLtYSJYToXpdgeV"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173524,
+      "name": "Once Upon a Time in the Valley (From the Cobra Kai: Season 5 Soundtrack)",
+      "url": "https://open.spotify.com/track/3OUmjWm8M9MO7qwWQ4sBK7"
+    },
+    {
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+    },
+    {
+      "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199320,
+      "name": "Open Arms (2022 Remaster)",
+      "url": "https://open.spotify.com/track/29vqBtjJTBLS1f8dKJS4Ht"
+    },
+    {
+      "album": {
+        "name": "Terror Metal",
+        "url": "https://open.spotify.com/album/0b9AcnezKScs42fsq1Jyqb"
+      },
+      "artists": [
+        {
+          "name": "Michael Spreitzer",
+          "url": "https://open.spotify.com/artist/0jzAvFtyoSpHWy0XLaVKP6"
+        },
+        {
+          "name": "John Boecklin",
+          "url": "https://open.spotify.com/artist/7dCwFv18oKHu6sV2XQBV8P"
+        },
+        {
+          "name": "Jeffrey Kendrick",
+          "url": "https://open.spotify.com/artist/6WX5ctm79NwhKNyjOZPTiP"
+        },
+        {
+          "name": "Carl Bensley",
+          "url": "https://open.spotify.com/artist/3TWStVknoPHw3tEf2Jm4Fj"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128313,
+      "name": "Path to Truth",
+      "url": "https://open.spotify.com/track/0R8MuYcefByzYmdyxzuTqx"
+    },
+    {
+      "album": {
+        "name": "Pelicans",
+        "url": "https://open.spotify.com/album/6AJuZuzvVu2N2JHKOwnL9z"
+      },
+      "artists": [
+        {
+          "name": "E.G.O.",
+          "url": "https://open.spotify.com/artist/7BTbMWAtRG6B6wRuGsztNU"
+        },
+        {
+          "name": "JF",
+          "url": "https://open.spotify.com/artist/2jHzwqnp8ghpB7QpnnWNKu"
+        },
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/43Q1i8pwT3uRuxJYr8AYRG"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Pelicans",
+      "url": "https://open.spotify.com/track/2fuKzSeYauXKyz2fyrlL4H"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210053,
+      "name": "Perm",
+      "url": "https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC"
+    },
+    {
+      "album": {
+        "name": "Pioneer",
+        "url": "https://open.spotify.com/album/0dWFb0mT7OSSuEZr6X5WMm"
+      },
+      "artists": [
+        {
+          "name": "Tom Aspaul",
+          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232142,
+      "name": "Pioneer",
+      "url": "https://open.spotify.com/track/1WEGo5CZafSDrtAmkuK7Qu"
+    },
+    {
+      "album": {
+        "name": "Pioneer",
+        "url": "https://open.spotify.com/album/2RDDgJdJR5bZlPJ0qv6afl"
+      },
+      "artists": [
+        {
+          "name": "Tom Aspaul",
+          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 232142,
+      "name": "Pioneer",
+      "url": "https://open.spotify.com/track/4nwpJ3Z6aPakk0EibboPdc"
+    },
+    {
+      "album": {
+        "name": "Glam Rock",
+        "url": "https://open.spotify.com/album/2rGcNlGZkpdpR9gxTTzvgh"
+      },
+      "artists": [
+        {
+          "name": "Daniel Farrant",
+          "url": "https://open.spotify.com/artist/59oUlUYF0ef44qArSKQBgK"
+        },
+        {
+          "name": "Paul Rawson",
+          "url": "https://open.spotify.com/artist/0ui5Du1TnlznRNTSP1psZ8"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208848,
+      "name": "Play With Fire",
+      "url": "https://open.spotify.com/track/3OgLpMNvRbbR7ef9a7EUi5"
+    },
+    {
+      "album": {
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239266,
+      "name": "Playing with the Boys - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/5mQYBoGU3BOAqiFq54b51i"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 4, Vol. 1 \"All Valley Tournament 51\" (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137086,
+      "name": "Queen Cobra",
+      "url": "https://open.spotify.com/track/6M4gicYnR0VwEOYZvyr4aa"
+    },
+    {
+      "album": {
+        "name": "The Other Side Of Life",
+        "url": "https://open.spotify.com/album/5dY18oz4mvg4ouRMz7oZTm"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289466,
+      "name": "Rock 'N' Roll Over You",
+      "url": "https://open.spotify.com/track/24ttxzDgbZoMHHSyhhSTOP"
+    },
+    {
+      "album": {
+        "name": "Glam Rock",
+        "url": "https://open.spotify.com/album/2rGcNlGZkpdpR9gxTTzvgh"
+      },
+      "artists": [
+        {
+          "name": "Blues Saraceno",
+          "url": "https://open.spotify.com/artist/5AVBFCn4Hq4KY2Xjc5Gj4y"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183265,
+      "name": "Rock n Roll Superstar",
+      "url": "https://open.spotify.com/track/2F55f2G0f8x8NH21aFkWoU"
+    },
+    {
+      "album": {
+        "name": "Out of the Cellar",
+        "url": "https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut"
+      },
+      "artists": [
+        {
+          "name": "Ratt",
+          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265893,
+      "name": "Round and Round",
+      "url": "https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC"
+    },
+    {
+      "album": {
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/0kNkrkBOlSqbcILQvceoZw"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 222240,
+      "name": "Runnin' Wild",
+      "url": "https://open.spotify.com/track/5XMnIXqKsjB4tWBYSqfUVm"
+    },
+    {
+      "album": {
+        "name": "Runnin' Wild (Special Edition)",
+        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222240,
+      "name": "Runnin' Wild",
+      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
+    },
+    {
+      "album": {
+        "name": "Sailing / Poor Shirley (Digital 45)",
+        "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 255453,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 256146,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
+    },
+    {
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258866,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
+    },
+    {
+      "album": {
+        "name": "Bloodsport (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21vQJECQGK9DBbSJulKZIf"
+      },
+      "artists": [
+        {
+          "name": "Paul Hertzog",
+          "url": "https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138624,
+      "name": "Samoan Balls",
+      "url": "https://open.spotify.com/track/1eFHUPqadgI1metnPICFNN"
+    },
+    {
+      "album": {
+        "name": "The Magic Touch",
+        "url": "https://open.spotify.com/album/72YUKu76KLFDaDdtP7s1Vx"
+      },
+      "artists": [
+        {
+          "name": "DJ Rodriguez",
+          "url": "https://open.spotify.com/artist/4bR1pY2AxqH9oRSVHz852L"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325026,
+      "name": "Saudagi",
+      "url": "https://open.spotify.com/track/6gFr62xznGSZuzE2nQEOpF"
+    },
+    {
+      "album": {
+        "name": "Riding On A New Wave",
+        "url": "https://open.spotify.com/album/2oeJB9YDHfVD98mT6tVoEx"
+      },
+      "artists": [
+        {
+          "name": "Le Bon",
+          "url": "https://open.spotify.com/artist/1AQ75osB6lFJwRWxdjLzIK"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223529,
+      "name": "Say You Don't Want Me",
+      "url": "https://open.spotify.com/track/3ioH4Hroyj5mpYVskBZqhS"
+    },
+    {
+      "album": {
+        "name": "Riding On A New Wave",
+        "url": "https://open.spotify.com/album/4DkgOa4BTwtU5wCUqgdykW"
+      },
+      "artists": [
+        {
+          "name": "Le Bon",
+          "url": "https://open.spotify.com/artist/1AQ75osB6lFJwRWxdjLzIK"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223529,
+      "name": "Say You Don't Want Me",
+      "url": "https://open.spotify.com/track/6LnFf7WFMkX9IGtwt4vQq8"
+    },
+    {
+      "album": {
+        "name": "Bad Twin",
+        "url": "https://open.spotify.com/album/0EMzo97TgJNHf0D7FDYMXU"
+      },
+      "artists": [
+        {
+          "name": "Sonic Graffiti",
+          "url": "https://open.spotify.com/artist/6g3uYH2AinRZRHtdWRpYt2"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117875,
+      "name": "Scallywag",
+      "url": "https://open.spotify.com/track/34FLj5RqgeXVViHSBrLWsX"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 4, Vol. 1 \"All Valley Tournament 51\" (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206322,
+      "name": "SDO",
+      "url": "https://open.spotify.com/track/32H1zxJTZpa0jD0p7NayiP"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 4, Vol. 1 \"All Valley Tournament 51\" (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119399,
+      "name": "Shirts Off",
+      "url": "https://open.spotify.com/track/1sjrA6EXjzZApgTRUZgndu"
+    },
+    {
+      "album": {
+        "name": "Eye In The Sky (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115280,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/4OV0sRTFrZLXaZZ1sS9hLn"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 1 (Soundtrack from the Original Series)",
+        "url": "https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113890,
+      "name": "Slither",
+      "url": "https://open.spotify.com/track/6YE7OXQA1kCQvZwfRlGhlN"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 2 (Soundtrack from the Original Series)",
+        "url": "https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138526,
+      "name": "Snake Fight",
+      "url": "https://open.spotify.com/track/52xVN3nPYTMro9ew90XakA"
+    },
+    {
+      "album": {
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
+    },
+    {
+      "album": {
+        "name": "The Hype",
+        "url": "https://open.spotify.com/album/2Tf6okz3AKF5NrhaTaoUPM"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178698,
+      "name": "Sushi",
+      "url": "https://open.spotify.com/track/5OGIJnhky1kQVQJz33QR2W"
+    },
+    {
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Switch 625",
+      "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 5, Vol 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192912,
+      "name": "Sworn Enemies",
+      "url": "https://open.spotify.com/track/5wEchT3RGkxMMsgyfhWBjc"
+    },
+    {
+      "album": {
+        "name": "Hi Infidelity (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239680,
+      "name": "Take It On the Run",
+      "url": "https://open.spotify.com/track/5gys5nzVQIYhgHIfiOJYva"
+    },
+    {
+      "album": {
+        "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204013,
+      "name": "That's My Girl",
+      "url": "https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "The Cobra Effect",
+      "url": "https://open.spotify.com/track/5rIPiNfzGNsycXlt5r5P26"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 5, Vol 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90271,
+      "name": "The Eagle and the Lion",
+      "url": "https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 5, Vol 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2dmsENyZefO9B1CRhRPci1"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310445,
+      "name": "The Fifth Battle of Kawanakajima",
+      "url": "https://open.spotify.com/track/1r4j2giTbbVtvoNWwlf9U0"
+    },
+    {
+      "album": {
+        "name": "The Food Stamp Stomp",
+        "url": "https://open.spotify.com/album/4z7FwtrmL2kRVHSrGEvCXC"
+      },
+      "artists": [
+        {
+          "name": "Backdrifter",
+          "url": "https://open.spotify.com/artist/51IvajBFHTEEYI3DsnuQuQ"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160421,
+      "name": "The Food Stamp Stomp",
+      "url": "https://open.spotify.com/track/79V3StSzZCWUCNFAHaDUWp"
+    },
+    {
+      "album": {
+        "name": "The Gold Cup",
+        "url": "https://open.spotify.com/album/3W3OSAwTEAYVIbxzwGFN4I"
+      },
+      "artists": [
+        {
+          "name": "Al Hazan",
+          "url": "https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112523,
+      "name": "The Gold Cup",
+      "url": "https://open.spotify.com/track/1wnySIU8k2Fkv9hCpiSIzB"
+    },
+    {
+      "album": {
+        "name": "You Can't Stop Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "The Kids Are Back",
+      "url": "https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz"
+    },
+    {
+      "album": {
+        "name": "The Karate Kid: The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224773,
+      "name": "The Moment Of The Truth",
+      "url": "https://open.spotify.com/track/0r02aCNepGuuVHQfG0v1jB"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 4, Vol. 1 \"All Valley Tournament 51\" (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227090,
+      "name": "The Moment of Truth (From the \"Cobra Kai\" Season 4 Soundtrack)",
+      "url": "https://open.spotify.com/track/6l80jvpzBXXMIqVyX98Fji"
+    },
+    {
+      "album": {
+        "name": "The Swamp Ep",
+        "url": "https://open.spotify.com/album/2RJuOOON0TSbUqzDmGkAsr"
+      },
+      "artists": [
+        {
+          "name": "Backdrifter",
+          "url": "https://open.spotify.com/artist/51IvajBFHTEEYI3DsnuQuQ"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252105,
+      "name": "The Swamp",
+      "url": "https://open.spotify.com/track/1W9R3gcmOw3R2DiL2KLxPp"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 5, Vol 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2dmsENyZefO9B1CRhRPci1"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148930,
+      "name": "The Tree Will Survive",
+      "url": "https://open.spotify.com/track/2iRwfxTNwwdaxct7ZiKyEq"
+    },
+    {
+      "album": {
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189130,
+      "name": "Tin Pan Boy",
+      "url": "https://open.spotify.com/track/5ome5OZg1JFNGXKEU9HGRO"
+    },
+    {
+      "album": {
+        "name": "Bill & Ted\u2019s Excellent Adventure",
+        "url": "https://open.spotify.com/album/7xNbBuDMwq9bLjvzCTZbWO"
+      },
+      "artists": [
+        {
+          "name": "Power Tool",
+          "url": "https://open.spotify.com/artist/14s8MMNRv0l1KtpdH0JzAt"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265866,
+      "name": "Two Heads Are Better Than One",
+      "url": "https://open.spotify.com/track/0qdvGRp9CezqI9vFrlhKRW"
+    },
+    {
+      "album": {
+        "name": "Best of Volume 1",
+        "url": "https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209840,
+      "name": "Unchained",
+      "url": "https://open.spotify.com/track/6riUkGZUqfuhGQNQ3jSBNx"
+    },
+    {
+      "album": {
+        "name": "Moderatto Greatest Hits",
+        "url": "https://open.spotify.com/album/4NJ7JAQ407WlP1J5YFbblc"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83373,
+      "name": "Villa Coapa",
+      "url": "https://open.spotify.com/track/184cJnHXXcSeO7Dhw84Kth"
+    },
+    {
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "We're Not Gonna Take It",
+      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
+    },
+    {
+      "album": {
+        "name": "Noise Rock 2",
+        "url": "https://open.spotify.com/album/4UdP6rUiljyhEuR9EJooRs"
+      },
+      "artists": [
+        {
+          "name": "Teddy Mac",
+          "url": "https://open.spotify.com/artist/3Xn49Qihn5s2xmV3F8pO6N"
+        },
+        {
+          "name": "Midnight Swami",
+          "url": "https://open.spotify.com/artist/1jQtOWiZrQWEei6yyCx53B"
+        },
+        {
+          "name": "Blake Blumenthal",
+          "url": "https://open.spotify.com/artist/5vYRJLaZhqOVpaHL8Ow85Z"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190466,
+      "name": "We\u2019re Not Harming Anyone",
+      "url": "https://open.spotify.com/track/1YyfiBy4RDLC9FPGHHFt28"
+    },
+    {
+      "album": {
+        "name": "Amazing Police",
+        "url": "https://open.spotify.com/album/0tmsIjtpvPOvQM7ppSXJLA"
+      },
+      "artists": [
+        {
+          "name": "Amazing Police",
+          "url": "https://open.spotify.com/artist/4JBMBRwrP1lwnF7EM7fgRA"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365375,
+      "name": "White Tape",
+      "url": "https://open.spotify.com/track/70GFuDDRVEdi4Yasu2p9dS"
+    },
+    {
+      "album": {
+        "name": "All-Star Sports Jams",
+        "url": "https://open.spotify.com/album/79sAKFjr7TWKw6A94kBKPL"
+      },
+      "artists": [
+        {
+          "name": "Sam The Sham & The Pharaohs",
+          "url": "https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 138746,
+      "name": "Wooly Bully",
+      "url": "https://open.spotify.com/track/40OYGdHoiYhFW4ALtY4onN"
+    },
+    {
+      "album": {
+        "name": "The MGM Singles",
+        "url": "https://open.spotify.com/album/5I2zgmTqg6qLVQ0j72BkZ3"
+      },
+      "artists": [
+        {
+          "name": "Sam The Sham & The Pharaohs",
+          "url": "https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 138866,
+      "name": "Wooly Bully",
+      "url": "https://open.spotify.com/track/0SRkuudTEWe2HOloI1Nssq"
+    },
+    {
+      "album": {
+        "name": "Wooly Bully",
+        "url": "https://open.spotify.com/album/43ohvLotIrT1cprKaXYMn8"
+      },
+      "artists": [
+        {
+          "name": "Sam The Sham & The Pharaohs",
+          "url": "https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141613,
+      "name": "Wooly Bully",
+      "url": "https://open.spotify.com/track/4GNmvOYZW11lGzcZm0FKGY"
+    },
+    {
+      "album": {
+        "name": "Wooly Bully (Remastered)",
+        "url": "https://open.spotify.com/album/3r5kCjEmsRUmpCbxcIL4iu"
+      },
+      "artists": [
+        {
+          "name": "Sam The Sham & The Pharaohs",
+          "url": "https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139001,
+      "name": "Wooly Bully - Remastered",
+      "url": "https://open.spotify.com/track/2mlYLbSQjh5bdbLeZe3yB1"
+    },
+    {
+      "album": {
+        "name": "Cobra Kai: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108226,
+      "name": "Work Together",
+      "url": "https://open.spotify.com/track/0E5z0Nen6gkcltoidnZv2a"
+    },
+    {
+      "album": {
+        "name": "Perc Pop 2",
+        "url": "https://open.spotify.com/album/3FIG7MhtpdvkjRlFX8TOU4"
+      },
+      "artists": [
+        {
+          "name": "Lee Richardson",
+          "url": "https://open.spotify.com/artist/16BxOX67lWcQpiglrMa2HY"
+        },
+        {
+          "name": "Jonathan Murrill",
+          "url": "https://open.spotify.com/artist/1koTy008UTQlXfupIGp0q5"
+        },
+        {
+          "name": "Tom Ford",
+          "url": "https://open.spotify.com/artist/16Hec1v49TSJCAwuXYcPn1"
+        },
+        {
+          "name": "James Cocozza",
+          "url": "https://open.spotify.com/artist/2MqahmsaUt6ZQhBDC4moBR"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143295,
+      "name": "Yeah We Do It Like",
+      "url": "https://open.spotify.com/track/3xkI9xyUrkl5UnQR8UpIus"
+    },
+    {
+      "album": {
+        "name": "Evolution: The Hits",
+        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Chicago: Only the Beginning",
+        "url": "https://open.spotify.com/album/0z3eL2W3UZVcBiOWwe461h"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230736,
+      "name": "You're the Inspiration",
+      "url": "https://open.spotify.com/track/1sUQJeihi2iSAQOXtxRjkz"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance",
+        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310066,
+      "name": "You've Got Another Thing Coming",
+      "url": "https://open.spotify.com/track/55cd3NlqktNjhAZcPvaUvk"
+    },
+    {
+      "album": {
+        "name": "The Karate Kid: The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH"
+      },
+      "artists": [
+        {
+          "name": "Commuter",
+          "url": "https://open.spotify.com/artist/3QyL66KqAuPAlSSF3PkEYk"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "Young Hearts",
+      "url": "https://open.spotify.com/track/7mmK2PxF4JJugHebLYwBQf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXal36n8FZoQm"
 }

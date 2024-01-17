@@ -1,577 +1,1283 @@
 {
-  "2022-06-02": 3772,
-  "2022-06-03": 3771,
-  "2022-06-04": 3772,
-  "2022-06-05": 3773,
-  "2022-06-06": 3773,
-  "2022-06-07": 3771,
-  "2022-06-08": 3771,
-  "2022-06-09": 3773,
-  "2022-06-10": 3774,
-  "2022-06-11": 3779,
-  "2022-06-12": 3781,
-  "2022-06-13": 3781,
-  "2022-06-14": 3781,
-  "2022-06-15": 3784,
-  "2022-06-16": 3787,
-  "2022-06-17": 3790,
-  "2022-06-18": 3795,
-  "2022-06-19": 3804,
-  "2022-06-20": 3804,
-  "2022-06-21": 3803,
-  "2022-06-22": 3808,
-  "2022-06-23": 3808,
-  "2022-06-24": 3809,
-  "2022-06-25": 3814,
-  "2022-06-26": 3814,
-  "2022-06-27": 3818,
-  "2022-06-28": 3817,
-  "2022-06-29": 3821,
-  "2022-06-30": 3822,
-  "2022-07-01": 3826,
-  "2022-07-02": 3830,
-  "2022-07-03": 3834,
-  "2022-07-04": 3835,
-  "2022-07-05": 3835,
-  "2022-07-06": 3835,
-  "2022-07-07": 3843,
-  "2022-07-08": 3843,
-  "2022-07-09": 3843,
-  "2022-07-10": 3844,
-  "2022-07-11": 3845,
-  "2022-07-12": 3848,
-  "2022-07-13": 3853,
-  "2022-07-14": 3854,
-  "2022-07-15": 3856,
-  "2022-07-16": 3858,
-  "2022-07-17": 3859,
-  "2022-07-18": 3867,
-  "2022-07-19": 3868,
-  "2022-07-20": 3871,
-  "2022-07-21": 3877,
-  "2022-07-22": 3885,
-  "2022-07-23": 3891,
-  "2022-07-24": 3890,
-  "2022-07-25": 3891,
-  "2022-07-26": 3894,
-  "2022-07-27": 3899,
-  "2022-07-28": 3904,
-  "2022-07-29": 3912,
-  "2022-07-30": 3931,
-  "2022-07-31": 3931,
-  "2022-08-01": 3936,
-  "2022-08-02": 3945,
-  "2022-08-03": 3945,
-  "2022-08-04": 3946,
-  "2022-08-05": 3954,
-  "2022-08-06": 3957,
-  "2022-08-07": 3964,
-  "2022-08-08": 3969,
-  "2022-08-09": 3971,
-  "2022-08-10": 3976,
-  "2022-08-11": 3979,
-  "2022-08-12": 3986,
-  "2022-08-13": 3992,
-  "2022-08-14": 3998,
-  "2022-08-15": 4002,
-  "2022-08-16": 4003,
-  "2022-08-17": 4008,
-  "2022-08-18": 4012,
-  "2022-08-19": 4018,
-  "2022-08-20": 4020,
-  "2022-08-21": 4025,
-  "2022-08-22": 4030,
-  "2022-08-23": 4028,
-  "2022-08-24": 4032,
-  "2022-08-25": 4035,
-  "2022-08-26": 4038,
-  "2022-08-27": 4041,
-  "2022-08-28": 4046,
-  "2022-08-29": 4051,
-  "2022-08-30": 4052,
-  "2022-08-31": 4057,
-  "2022-09-01": 4059,
-  "2022-09-02": 4062,
-  "2022-09-03": 4066,
-  "2022-09-04": 4071,
-  "2022-09-05": 4072,
-  "2022-09-06": 4078,
-  "2022-09-07": 4081,
-  "2022-09-09": 4086,
-  "2022-09-10": 4091,
-  "2022-09-11": 4091,
-  "2022-09-12": 4093,
-  "2022-09-13": 4095,
-  "2022-09-15": 4098,
-  "2022-09-16": 4099,
-  "2022-09-17": 4104,
-  "2022-09-18": 4108,
-  "2022-09-19": 4107,
-  "2022-09-20": 4108,
-  "2022-09-21": 4115,
-  "2022-09-22": 4114,
-  "2022-09-23": 4116,
-  "2022-09-24": 4116,
-  "2022-09-25": 4120,
-  "2022-09-26": 4123,
-  "2022-09-27": 4123,
-  "2022-09-28": 4126,
-  "2022-09-29": 4127,
-  "2022-09-30": 4130,
-  "2022-10-01": 4134,
-  "2022-10-02": 4137,
-  "2022-10-03": 4137,
-  "2022-10-04": 4142,
-  "2022-10-05": 4142,
-  "2022-10-06": 4144,
-  "2022-10-07": 4144,
-  "2022-10-08": 4149,
-  "2022-10-09": 4150,
-  "2022-10-10": 4153,
-  "2022-10-11": 4157,
-  "2022-10-12": 4159,
-  "2022-10-13": 4165,
-  "2022-10-14": 4168,
-  "2022-10-15": 4172,
-  "2022-10-16": 4179,
-  "2022-10-17": 4181,
-  "2022-10-18": 4183,
-  "2022-10-19": 4188,
-  "2022-10-20": 4191,
-  "2022-10-21": 4197,
-  "2022-10-22": 4202,
-  "2022-10-23": 4203,
-  "2022-10-24": 4207,
-  "2022-10-25": 4210,
-  "2022-10-26": 4209,
-  "2022-10-27": 4210,
-  "2022-10-28": 4211,
-  "2022-10-29": 4210,
-  "2022-10-30": 4217,
-  "2022-10-31": 4223,
-  "2022-11-01": 4227,
-  "2022-11-02": 4228,
-  "2022-11-03": 4238,
-  "2022-11-04": 4243,
-  "2022-11-05": 4247,
-  "2022-11-06": 4248,
-  "2022-11-07": 4250,
-  "2022-11-08": 4255,
-  "2022-11-09": 4261,
-  "2022-11-10": 4262,
-  "2022-11-11": 4265,
-  "2022-11-12": 4277,
-  "2022-11-13": 4286,
-  "2022-11-14": 4289,
-  "2022-11-15": 4291,
-  "2022-11-16": 4292,
-  "2022-11-17": 4296,
-  "2022-11-18": 4297,
-  "2022-11-19": 4297,
-  "2022-11-20": 4300,
-  "2022-11-21": 4304,
-  "2022-11-22": 4305,
-  "2022-11-23": 4306,
-  "2022-11-24": 4309,
-  "2022-11-25": 4316,
-  "2022-11-26": 4321,
-  "2022-11-27": 4326,
-  "2022-11-28": 4330,
-  "2022-11-29": 4333,
-  "2022-11-30": 4335,
-  "2022-12-01": 4335,
-  "2022-12-02": 4336,
-  "2022-12-03": 4341,
-  "2022-12-04": 4341,
-  "2022-12-05": 4345,
-  "2022-12-06": 4347,
-  "2022-12-07": 4351,
-  "2022-12-08": 4354,
-  "2022-12-09": 4358,
-  "2022-12-10": 4363,
-  "2022-12-11": 4366,
-  "2022-12-12": 4374,
-  "2022-12-13": 4382,
-  "2022-12-14": 4385,
-  "2022-12-15": 4389,
-  "2022-12-16": 4392,
-  "2022-12-17": 4395,
-  "2022-12-18": 4401,
-  "2022-12-19": 4405,
-  "2022-12-20": 4408,
-  "2022-12-21": 4408,
-  "2022-12-22": 4416,
-  "2022-12-24": 4424,
-  "2022-12-25": 4432,
-  "2022-12-26": 4435,
-  "2022-12-27": 4436,
-  "2022-12-28": 4439,
-  "2022-12-29": 4441,
-  "2022-12-30": 4446,
-  "2022-12-31": 4453,
-  "2023-01-01": 4458,
-  "2023-01-02": 4462,
-  "2023-01-03": 4467,
-  "2023-01-04": 4469,
-  "2023-01-05": 4472,
-  "2023-01-06": 4478,
-  "2023-01-07": 4483,
-  "2023-01-08": 4485,
-  "2023-01-09": 4493,
-  "2023-01-10": 4495,
-  "2023-01-11": 4495,
-  "2023-01-12": 4501,
-  "2023-01-13": 4507,
-  "2023-01-14": 4512,
-  "2023-01-15": 4513,
-  "2023-01-16": 4519,
-  "2023-01-17": 4523,
-  "2023-01-18": 4525,
-  "2023-01-19": 4529,
-  "2023-01-20": 4536,
-  "2023-01-21": 4538,
-  "2023-01-22": 4542,
-  "2023-01-23": 4544,
-  "2023-01-24": 4547,
-  "2023-01-25": 4553,
-  "2023-01-26": 4556,
-  "2023-01-27": 4559,
-  "2023-01-28": 4565,
-  "2023-01-29": 4574,
-  "2023-01-30": 4576,
-  "2023-01-31": 4576,
-  "2023-02-01": 4582,
-  "2023-02-02": 4584,
-  "2023-02-03": 4588,
-  "2023-02-04": 4593,
-  "2023-02-05": 4596,
-  "2023-02-06": 4597,
-  "2023-02-07": 4597,
-  "2023-02-08": 4606,
-  "2023-02-09": 4606,
-  "2023-02-10": 4612,
-  "2023-02-11": 4613,
-  "2023-02-12": 4616,
-  "2023-02-13": 4616,
-  "2023-02-14": 4616,
-  "2023-02-15": 4621,
-  "2023-02-16": 4624,
-  "2023-02-17": 4627,
-  "2023-02-18": 4633,
-  "2023-02-19": 4633,
-  "2023-02-20": 4635,
-  "2023-02-21": 4636,
-  "2023-02-22": 4638,
-  "2023-02-23": 4645,
-  "2023-02-24": 4648,
-  "2023-02-25": 4654,
-  "2023-02-26": 4657,
-  "2023-02-27": 4664,
-  "2023-02-28": 4664,
-  "2023-03-01": 4666,
-  "2023-03-02": 4668,
-  "2023-03-03": 4668,
-  "2023-03-04": 4673,
-  "2023-03-05": 4684,
-  "2023-03-06": 4684,
-  "2023-03-07": 4683,
-  "2023-03-08": 4684,
-  "2023-03-09": 4685,
-  "2023-03-10": 4689,
-  "2023-03-11": 4692,
-  "2023-03-12": 4695,
-  "2023-03-13": 4701,
-  "2023-03-14": 4706,
-  "2023-03-15": 4705,
-  "2023-03-16": 4705,
-  "2023-03-17": 4705,
-  "2023-03-18": 4719,
-  "2023-03-19": 4719,
-  "2023-03-20": 4725,
-  "2023-03-21": 4728,
-  "2023-03-22": 4727,
-  "2023-03-23": 4730,
-  "2023-03-24": 4730,
-  "2023-03-25": 4739,
-  "2023-03-26": 4746,
-  "2023-03-27": 4744,
-  "2023-03-28": 4748,
-  "2023-03-29": 4754,
-  "2023-03-30": 4762,
-  "2023-03-31": 4762,
-  "2023-04-01": 4764,
-  "2023-04-02": 4767,
-  "2023-04-03": 4767,
-  "2023-04-04": 4769,
-  "2023-04-05": 4773,
-  "2023-04-06": 4776,
-  "2023-04-07": 4785,
-  "2023-04-09": 4796,
-  "2023-04-10": 4801,
-  "2023-04-11": 4806,
-  "2023-04-12": 4806,
-  "2023-04-13": 4814,
-  "2023-04-14": 4813,
-  "2023-04-15": 4816,
-  "2023-04-16": 4820,
-  "2023-04-17": 4821,
-  "2023-04-18": 4824,
-  "2023-04-19": 4824,
-  "2023-04-20": 4828,
-  "2023-04-21": 4834,
-  "2023-04-22": 4834,
-  "2023-04-23": 4835,
-  "2023-04-24": 4841,
-  "2023-04-25": 4846,
-  "2023-04-26": 4850,
-  "2023-04-27": 4852,
-  "2023-04-28": 4856,
-  "2023-04-29": 4864,
-  "2023-04-30": 4866,
-  "2023-05-01": 4871,
-  "2023-05-02": 4874,
-  "2023-05-03": 4875,
-  "2023-05-04": 4879,
-  "2023-05-05": 4879,
-  "2023-05-06": 4886,
-  "2023-05-07": 4887,
-  "2023-05-08": 4894,
-  "2023-05-09": 4898,
-  "2023-05-10": 4902,
-  "2023-05-11": 4905,
-  "2023-05-12": 4910,
-  "2023-05-13": 4917,
-  "2023-05-14": 4922,
-  "2023-05-15": 4925,
-  "2023-05-16": 4932,
-  "2023-05-17": 4936,
-  "2023-05-18": 4939,
-  "2023-05-19": 4945,
-  "2023-05-20": 4953,
-  "2023-05-21": 4953,
-  "2023-05-22": 4953,
-  "2023-05-23": 4960,
-  "2023-05-24": 4970,
-  "2023-05-25": 4972,
-  "2023-05-26": 4975,
-  "2023-05-27": 4978,
-  "2023-05-28": 4983,
-  "2023-05-29": 4983,
-  "2023-05-30": 4988,
-  "2023-05-31": 4991,
-  "2023-06-01": 4993,
-  "2023-06-02": 4996,
-  "2023-06-03": 4995,
-  "2023-06-04": 4997,
-  "2023-06-05": 5001,
-  "2023-06-06": 5003,
-  "2023-06-07": 5007,
-  "2023-06-08": 5010,
-  "2023-06-09": 5011,
-  "2023-06-10": 5016,
-  "2023-06-11": 5022,
-  "2023-06-12": 5028,
-  "2023-06-13": 5037,
-  "2023-06-14": 5039,
-  "2023-06-15": 5045,
-  "2023-06-16": 5047,
-  "2023-06-17": 5048,
-  "2023-06-18": 5052,
-  "2023-06-19": 5056,
-  "2023-06-20": 5058,
-  "2023-06-21": 5062,
-  "2023-06-22": 5065,
-  "2023-06-23": 5069,
-  "2023-06-24": 5073,
-  "2023-06-25": 5080,
-  "2023-06-26": 5088,
-  "2023-06-27": 5089,
-  "2023-06-28": 5093,
-  "2023-06-29": 5098,
-  "2023-06-30": 5104,
-  "2023-07-01": 5110,
-  "2023-07-02": 5110,
-  "2023-07-03": 5115,
-  "2023-07-04": 5115,
-  "2023-07-05": 5119,
-  "2023-07-06": 5133,
-  "2023-07-07": 5133,
-  "2023-07-08": 5137,
-  "2023-07-09": 5141,
-  "2023-07-10": 5145,
-  "2023-07-11": 5146,
-  "2023-07-12": 5148,
-  "2023-07-13": 5157,
-  "2023-07-14": 5161,
-  "2023-07-15": 5164,
-  "2023-07-16": 5174,
-  "2023-07-17": 5176,
-  "2023-07-18": 5177,
-  "2023-07-19": 5182,
-  "2023-07-20": 5188,
-  "2023-07-21": 5189,
-  "2023-07-22": 5189,
-  "2023-07-23": 5193,
-  "2023-07-24": 5194,
-  "2023-07-25": 5201,
-  "2023-07-26": 5201,
-  "2023-07-27": 5204,
-  "2023-07-28": 5208,
-  "2023-07-29": 5210,
-  "2023-07-30": 5221,
-  "2023-07-31": 5228,
-  "2023-08-01": 5231,
-  "2023-08-02": 5237,
-  "2023-08-03": 5238,
-  "2023-08-04": 5242,
-  "2023-08-05": 5243,
-  "2023-08-06": 5251,
-  "2023-08-07": 5251,
-  "2023-08-08": 5253,
-  "2023-08-09": 5257,
-  "2023-08-10": 5258,
-  "2023-08-11": 5265,
-  "2023-08-12": 5265,
-  "2023-08-13": 5265,
-  "2023-08-14": 5281,
-  "2023-08-15": 5281,
-  "2023-08-16": 5281,
-  "2023-08-17": 5281,
-  "2023-08-18": 5281,
-  "2023-08-19": 5281,
-  "2023-08-20": 5300,
-  "2023-08-21": 5300,
-  "2023-08-22": 5303,
-  "2023-08-23": 5303,
-  "2023-08-24": 5303,
-  "2023-08-25": 5303,
-  "2023-08-26": 5326,
-  "2023-08-27": 5326,
-  "2023-08-28": 5331,
-  "2023-08-29": 5331,
-  "2023-08-30": 5331,
-  "2023-08-31": 5344,
-  "2023-09-01": 5346,
-  "2023-09-02": 5346,
-  "2023-09-03": 5363,
-  "2023-09-04": 5363,
-  "2023-09-05": 5363,
-  "2023-09-06": 5373,
-  "2023-09-07": 5373,
-  "2023-09-08": 5373,
-  "2023-09-09": 5373,
-  "2023-09-10": 5392,
-  "2023-09-11": 5392,
-  "2023-09-12": 5392,
-  "2023-09-13": 5403,
-  "2023-09-14": 5403,
-  "2023-09-15": 5403,
-  "2023-09-16": 5412,
-  "2023-09-17": 5412,
-  "2023-09-18": 5412,
-  "2023-09-19": 5425,
-  "2023-09-20": 5425,
-  "2023-09-21": 5425,
-  "2023-09-22": 5433,
-  "2023-09-23": 5433,
-  "2023-09-24": 5433,
-  "2023-09-25": 5433,
-  "2023-09-26": 5450,
-  "2023-09-27": 5450,
-  "2023-09-28": 5450,
-  "2023-09-29": 5450,
-  "2023-09-30": 5450,
-  "2023-10-01": 5450,
-  "2023-10-02": 5462,
-  "2023-10-03": 5462,
-  "2023-10-04": 5462,
-  "2023-10-05": 5473,
-  "2023-10-06": 5473,
-  "2023-10-07": 5473,
-  "2023-10-08": 5473,
-  "2023-10-09": 5473,
-  "2023-10-10": 5473,
-  "2023-10-11": 5484,
-  "2023-10-12": 5484,
-  "2023-10-13": 5484,
-  "2023-10-14": 5484,
-  "2023-10-15": 5484,
-  "2023-10-16": 5484,
-  "2023-10-17": 5484,
-  "2023-10-18": 5484,
-  "2023-10-19": 5484,
-  "2023-10-20": 5484,
-  "2023-10-21": 5484,
-  "2023-10-22": 5484,
-  "2023-10-23": 5484,
-  "2023-10-24": 5484,
-  "2023-10-25": 5484,
-  "2023-10-26": 5484,
-  "2023-10-27": 5484,
-  "2023-10-28": 5484,
-  "2023-10-29": 5484,
-  "2023-10-30": 5484,
-  "2023-10-31": 5484,
-  "2023-11-01": 5484,
-  "2023-11-02": 5484,
-  "2023-11-03": 5484,
-  "2023-11-04": 5484,
-  "2023-11-05": 5484,
-  "2023-11-06": 5484,
-  "2023-11-07": 5484,
-  "2023-11-08": 5484,
-  "2023-11-09": 5484,
-  "2023-11-10": 5484,
-  "2023-11-11": 5538,
-  "2023-11-12": 5538,
-  "2023-11-13": 5538,
-  "2023-11-14": 5538,
-  "2023-11-15": 5538,
-  "2023-11-16": 5538,
-  "2023-11-17": 5538,
-  "2023-11-18": 5538,
-  "2023-11-19": 5538,
-  "2023-11-20": 5538,
-  "2023-11-21": 5538,
-  "2023-11-22": 5538,
-  "2023-11-23": 5538,
-  "2023-11-24": 5538,
-  "2023-11-25": 5538,
-  "2023-11-26": 5538,
-  "2023-11-27": 5538,
-  "2023-11-28": 5538,
-  "2023-11-29": 5538,
-  "2023-11-30": 5538,
-  "2023-12-01": 5538,
-  "2023-12-02": 5538,
-  "2023-12-03": 5538,
-  "2023-12-04": 5538,
-  "2023-12-05": 5538,
-  "2023-12-06": 5538,
-  "2023-12-07": 5538,
-  "2023-12-08": 5538,
-  "2023-12-09": 5538,
-  "2023-12-10": 5538,
-  "2023-12-11": 5538,
-  "2023-12-12": 5538,
-  "2023-12-13": 5538,
-  "2023-12-14": 5601,
-  "2023-12-15": 5604,
-  "2023-12-16": 5607,
-  "2023-12-17": 5611,
-  "2023-12-18": 5613,
-  "2023-12-19": 5616,
-  "2023-12-20": 5621,
-  "2023-12-21": 5624,
-  "2023-12-22": 5630,
-  "2023-12-23": 5633,
-  "2023-12-24": 5640,
-  "2023-12-25": 5643,
-  "2023-12-26": 5646,
-  "2023-12-27": 5647,
-  "2023-12-30": 5653,
-  "2023-12-31": 5658,
-  "2024-01-01": 5661,
-  "2024-01-02": 5664,
-  "2024-01-03": 5665
+  "2024-01-17": 5696,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
+  "name": "This Is Banda Vallarta Show",
+  "tracks": [
+    {
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 162000,
+      "name": "Adorable Mentirosa",
+      "url": "https://open.spotify.com/track/5pdyC8dxuOxAIIZ0T8w0uP"
+    },
+    {
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 149040,
+      "name": "Amar Y Vivir",
+      "url": "https://open.spotify.com/track/7j7y45409vTBOFgGATgr21"
+    },
+    {
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "As\u00ed lo Quiso \u00c9l",
+      "url": "https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6"
+    },
+    {
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 179000,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/3hYcxOVvz56QOyqFSYkLOu"
+    },
+    {
+      "album": {
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/1MiPQr7yIqBOskWia7ZMIs"
+    },
+    {
+      "album": {
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157586,
+      "name": "Busca Amor",
+      "url": "https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 174106,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/7crQq7z0CQ2fbcyKS1mbs1"
+    },
+    {
+      "album": {
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177586,
+      "name": "Camar\u00f3n Pelao",
+      "url": "https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu"
+    },
+    {
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 184000,
+      "name": "Candela Verde",
+      "url": "https://open.spotify.com/track/4DCsgTNqInQ1EdHwHATiMr"
+    },
+    {
+      "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 223000,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/4EfuFU0nB3wVWFQjWg1CoA"
+    },
+    {
+      "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4U7i6KlRF6QwJlW3I9v6uT"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223040,
+      "name": "Celoso (Jealous Heart)",
+      "url": "https://open.spotify.com/track/2CXxdIDxuzxJniHU9aq9Zo"
+    },
+    {
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193194,
+      "name": "Charanga Coste\u00f1a",
+      "url": "https://open.spotify.com/track/3TQxsPoOgAzOQonz5tbxL5"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena....",
+        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-21",
+      "duration_ms": 203933,
+      "name": "Corrido De Los Perez",
+      "url": "https://open.spotify.com/track/6cWMgbBpfV4bNSKGSBLWit"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena....",
+        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144306,
+      "name": "Corrido De Nayarit",
+      "url": "https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU"
+    },
+    {
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195026,
+      "name": "Dicembre Del 63",
+      "url": "https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena....",
+        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 165506,
+      "name": "Domingo Corrales",
+      "url": "https://open.spotify.com/track/2WogPzSF1nbc0oA2bbPab9"
+    },
+    {
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 128000,
+      "name": "Donde Andara",
+      "url": "https://open.spotify.com/track/0AyrlaMKDLV7fA2w6vhA15"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena....",
+        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 158133,
+      "name": "El Amante Apasionado",
+      "url": "https://open.spotify.com/track/43yeCckECVY2axQt9qhaKq"
+    },
+    {
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/1Tmtcb57PhTfpsxEPCREXT"
+    },
+    {
+      "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157013,
+      "name": "El De La Quebradita",
+      "url": "https://open.spotify.com/track/0gepkxfyt2butMir2ZRdGl"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/2YKyj18wo1O8WOZVOs1PJ6"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 184040,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/6tgo5wDSNaVuqbCboIrCRb"
+    },
+    {
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 177000,
+      "name": "El Hombliguito",
+      "url": "https://open.spotify.com/track/3zGRGy0Db4640OrA0zRg6i"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164093,
+      "name": "El Huerfanito",
+      "url": "https://open.spotify.com/track/1GNazkIFj7nPl9NfzO2f6V"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 164946,
+      "name": "El Huerfnito",
+      "url": "https://open.spotify.com/track/4pOFtfV3QirO4aSdnrmtXh"
+    },
+    {
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "El Jaripeo",
+      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
+    },
+    {
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
+    },
+    {
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 235000,
+      "name": "El Noah, Noah",
+      "url": "https://open.spotify.com/track/4yRDlfMcaAnS10mvjGoxek"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 219240,
+      "name": "El Pobre Caminante",
+      "url": "https://open.spotify.com/track/7jYexhqsm6ZpasdPFVn4rO"
+    },
+    {
+      "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "El Tirador",
+      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena....",
+        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144480,
+      "name": "El Toro Moro",
+      "url": "https://open.spotify.com/track/3dK0G4fedpTO1yJ7z4WiZk"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 194026,
+      "name": "El Ultimo Rodeo",
+      "url": "https://open.spotify.com/track/41BavIqhW0j16R7w6QCYEg"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195893,
+      "name": "El \u00daltimo Rodeo",
+      "url": "https://open.spotify.com/track/2OoriUGBIdApEuKMkeDmTH"
+    },
+    {
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215947,
+      "name": "Esa Chica Me Vacila",
+      "url": "https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24"
+    },
+    {
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
+      "duration_ms": 204026,
+      "name": "Hueso No Ma",
+      "url": "https://open.spotify.com/track/3Sa8pP7ntuNmr4hkFYzJUP"
+    },
+    {
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 144440,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/4obs3aaHJMnCR71GqKmTIO"
+    },
+    {
+      "album": {
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200426,
+      "name": "La Banda Rock",
+      "url": "https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn"
+    },
+    {
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2BjQ7lWbTPAzqR5MjxjKql"
+    },
+    {
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 129000,
+      "name": "La Guacamaya",
+      "url": "https://open.spotify.com/track/3Wc1lnA2yNYEGaQoNRzoyl"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "La Negra Colora",
+      "url": "https://open.spotify.com/track/56NnF59xCRGPyP0qfDil0w"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 159653,
+      "name": "La Negra Colora",
+      "url": "https://open.spotify.com/track/723g6T7oEsGQiDQ5AQZ5Vq"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145293,
+      "name": "La Primera Caricia",
+      "url": "https://open.spotify.com/track/2aLJvoRq7TvOqw02j3yfZ2"
+    },
+    {
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141570,
+      "name": "La Vaquilla Prieta",
+      "url": "https://open.spotify.com/track/0jhRgpAn9jcs4zoJ7h7v1m"
+    },
+    {
+      "album": {
+        "name": "La V\u00edbora Peligrosa",
+        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149084,
+      "name": "La V\u00edbora Peligrosa",
+      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+    },
+    {
+      "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Maria Isabel",
+      "url": "https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l"
+    },
+    {
+      "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
+      "duration_ms": 168000,
+      "name": "Me Esta Esperando Mar\u00eda",
+      "url": "https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz"
+    },
+    {
+      "album": {
+        "name": "Meneaito",
+        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217234,
+      "name": "Meneaito",
+      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
+    },
+    {
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194538,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/3N4fXn95JzMo9slLuZWArp"
+    },
+    {
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
+      "duration_ms": 182026,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/4hgqP8VpweSME8P2m90XkM"
+    },
+    {
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181855,
+      "name": "Oh, Solitario",
+      "url": "https://open.spotify.com/track/2Xq6Sp3rBPCh4xlNflkzsF"
+    },
+    {
+      "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170986,
+      "name": "Pa'Yo",
+      "url": "https://open.spotify.com/track/3qgQfKKwAWbW6SMg82jsZt"
+    },
+    {
+      "album": {
+        "name": "Pa'Yo (29 Aniversario)",
+        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171135,
+      "name": "Pa'Yo (29 Aniversario)",
+      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena....",
+        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160266,
+      "name": "Palo Bonito",
+      "url": "https://open.spotify.com/track/7yldON0oRBFYzW4H1cz7au"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180626,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/6rGUVwXPZfeOAcqmFlhPua"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 183080,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/1L07qYzsQyoAH8yactEpLt"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena....",
+        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157306,
+      "name": "Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/7BXuEt4g7zQyRQ4d48gVN2"
+    },
+    {
+      "album": {
+        "name": "De Tuba Y Acordeon",
+        "url": "https://open.spotify.com/album/2L5CrSYs1TPtMi6SebSk0P"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 173000,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/6IqFKEgroCXz9dBWXz3qUe"
+    },
+    {
+      "album": {
+        "name": "Regalo Equivocado",
+        "url": "https://open.spotify.com/album/6JOATRxZMwB5ynab1lbmca"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 218000,
+      "name": "Regalo Equivocado",
+      "url": "https://open.spotify.com/track/757k8ihiJpyRpEYPdY9yk9"
+    },
+    {
+      "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Rock y Banda",
+      "url": "https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV"
+    },
+    {
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 187000,
+      "name": "Sangre Mexicana",
+      "url": "https://open.spotify.com/track/21AQG7xtw9UdHTH8Yy6pGN"
+    },
+    {
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
+      "duration_ms": 197000,
+      "name": "Siempre En Mi Mente",
+      "url": "https://open.spotify.com/track/0G1YgtrjrXQ5GHN8FeJP3r"
+    },
+    {
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124344,
+      "name": "Tabaco Mascao",
+      "url": "https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena...",
+        "url": "https://open.spotify.com/album/2ZOXz5yT9CkrDlZuABMDmg"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Te Ves Bien Buena",
+      "url": "https://open.spotify.com/track/1EuYHwXDrj771cIMKEHIzU"
+    },
+    {
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 180026,
+      "name": "Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/6eXRwbKnntPjOejDfmDUaf"
+    },
+    {
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 173040,
+      "name": "Tu Abandono",
+      "url": "https://open.spotify.com/track/1Y7kdmFXeDAbe5oqtPhDKY"
+    },
+    {
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 137000,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/1X7Hd8e5UMupAtXmMkAN9f"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena....",
+        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129440,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/1gwYPt8DMu4LxAAhpS3cWH"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 179040,
+      "name": "Tu Pum Pum",
+      "url": "https://open.spotify.com/track/20Iwdh4p7oylXnRjk3TNAS"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Tu Pum Pum",
+      "url": "https://open.spotify.com/track/3QBmioYx33GPY0aixqlGBG"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rZXin"
 }

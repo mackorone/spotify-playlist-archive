@@ -866,10 +866,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 248694,
       "name": "Flora",
       "url": "https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ"
+    },
+    {
+      "album": {
+        "name": "We're Starting to Look Like Each Other",
+        "url": "https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248694,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/6LGEAepdRhTsUW57oyOEHa"
     },
     {
       "album": {
@@ -1432,6 +1450,24 @@
     {
       "album": {
         "name": "Cold Blood",
+        "url": "https://open.spotify.com/album/0R4MzSUlneqJFXMccsmN1k"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "Lie With Me (EP Version)",
+      "url": "https://open.spotify.com/track/4XuWrAvxl3gySyz8bN35Ma"
+    },
+    {
+      "album": {
+        "name": "Cold Blood",
         "url": "https://open.spotify.com/album/3qddrnnY93q5krHvd3z5BY"
       },
       "artists": [
@@ -1442,7 +1478,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 189066,
       "name": "Lie with Me - EP Version",
       "url": "https://open.spotify.com/track/34bGkKfN3W2z2EdA4PjLFH"

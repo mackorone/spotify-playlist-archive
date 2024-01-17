@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e0a\u0e31\u0e48\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e04\u0e2d\u0e19\u0e40\u0e2a\u0e34\u0e23\u0e4c\u0e15 20 \u0e21.\u0e04. @Union Hall \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Lipta, fellow fellow, No One Else \u0e01\u0e32\u0e23\u0e23\u0e27\u0e21\u0e01\u0e31\u0e19\u0e02\u0e2d\u0e07\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e0a\u0e32\u0e23\u0e4c\u0e17",
   "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 244664,
       "name": "Hidden Track",
       "url": "https://open.spotify.com/track/1XfzWbu66N3Pl1Q8rOUmJH"
+    },
+    {
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/4n7uzGGK7Hm79baUqwEGa9"
+      },
+      "artists": [
+        {
+          "name": "Morvasu",
+          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/57bdxWnWc3uhzHXQ8Qf5Lq"
     },
     {
       "album": {
@@ -298,7 +316,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 220613,
       "name": "YOU YOU YOU",
       "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
@@ -320,7 +338,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 217750,
       "name": "\u0e01\u0e2d\u0e14\u0e43\u0e19\u0e43\u0e08",
       "url": "https://open.spotify.com/track/5OLQ6wJUkyVsqL13NpMZJ4"
@@ -847,6 +865,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e21\u0e35\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/0a37A7fgxqPMTuWULlMm8p"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e21\u0e35\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/1pM5kJtyghF1rnVqNFgBTa"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
         "url": "https://open.spotify.com/album/1rXb5s1tafG6YOlii5cGKS"
       },
@@ -862,7 +898,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 193894,
       "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
       "url": "https://open.spotify.com/track/0qMQZhDD8hjV7KvZ19Jm4n"
@@ -902,7 +938,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 175151,
       "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
       "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
@@ -1036,7 +1072,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 246935,
       "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
       "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
@@ -1264,7 +1300,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 245853,
       "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC"
@@ -1546,7 +1582,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 183300,
       "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
       "url": "https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor"
@@ -1666,6 +1702,24 @@
       "duration_ms": 215238,
       "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
       "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e19",
+        "url": "https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7"
+      },
+      "artists": [
+        {
+          "name": "BENT",
+          "url": "https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154965,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e19",
+      "url": "https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z"
     },
     {
       "album": {
@@ -1911,6 +1965,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e17\u0e1e\u0e2a\u0e23\u0e49\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/0F9GysAHBax9YYHPn6VV6N"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        {
+          "name": "guncharlie",
+          "url": "https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "\u0e40\u0e17\u0e1e\u0e2a\u0e23\u0e49\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/7E53M1dqmYivfFhXknFEmz"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
         "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
       },
@@ -2127,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 (Blooming)",
+        "url": "https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257566,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 - Blooming",
+      "url": "https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU"
+    },
+    {
+      "album": {
         "name": "nerd eye view",
         "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
       },
@@ -2236,7 +2330,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 292640,
       "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e43\u0e2b\u0e21\u0e48",
       "url": "https://open.spotify.com/track/0jKVrsyHlyEhH1JyKE45iT"
@@ -2445,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/31ubqGSxdq5FMpP3aiZ6yo"
+      },
+      "artists": [
+        {
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/4B0NkfQslFpixEMqNFPbBd"
+    },
+    {
+      "album": {
         "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
         "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
       },
@@ -2478,7 +2590,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 207500,
       "name": "\u0e41\u0e15\u0e48\u0e07\u0e04\u0e23\u0e31\u0e1a",
       "url": "https://open.spotify.com/track/7dCCicrhsZZ38arGWGTkLb"
@@ -2602,7 +2714,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": "2024-01-10",
       "duration_ms": 194500,
       "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a",
       "url": "https://open.spotify.com/track/7cLkKf5GpXdHAx9fJA77JY"
@@ -2726,6 +2838,24 @@
       "duration_ms": 265654,
       "name": "\u0e44\u0e21\u0e48\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e21\u0e37\u0e2d (Coming of Age) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
       "url": "https://open.spotify.com/track/3aqxAWiWENQZ1pSY3o0Q86"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
+        "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
+      "url": "https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2wrHNWlb0Eu"

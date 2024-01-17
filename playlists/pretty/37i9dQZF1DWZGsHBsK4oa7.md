@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain]
 
 > Music From "Pretty Guardian Sailor Moon"! 歴代シリーズの名曲と辿る「美少女戦士セーラームーン」の世界! ©武内直子・PNP／劇場版「美少女戦士セーラームーンCosmos」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,728 likes - 56 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,722 likes - 56 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

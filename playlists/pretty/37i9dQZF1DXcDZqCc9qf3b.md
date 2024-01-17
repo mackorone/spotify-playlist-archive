@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: My Dad the Bounty Hunter
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,633 likes - 85 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,380 likes - 85 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

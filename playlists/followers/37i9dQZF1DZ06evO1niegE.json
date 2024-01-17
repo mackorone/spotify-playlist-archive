@@ -1,284 +1,1013 @@
 {
-  "2023-03-25": 4612,
-  "2023-03-26": 4638,
-  "2023-03-27": 4661,
-  "2023-03-28": 4685,
-  "2023-03-29": 4709,
-  "2023-03-30": 4748,
-  "2023-03-31": 4748,
-  "2023-04-01": 4762,
-  "2023-04-02": 4773,
-  "2023-04-03": 4781,
-  "2023-04-04": 4795,
-  "2023-04-05": 4801,
-  "2023-04-06": 4809,
-  "2023-04-07": 4823,
-  "2023-04-09": 4846,
-  "2023-04-10": 4855,
-  "2023-04-11": 4883,
-  "2023-04-12": 4883,
-  "2023-04-13": 4896,
-  "2023-04-14": 4908,
-  "2023-04-15": 4925,
-  "2023-04-16": 4932,
-  "2023-04-17": 4942,
-  "2023-04-18": 4950,
-  "2023-04-19": 4959,
-  "2023-04-20": 4964,
-  "2023-04-21": 4969,
-  "2023-04-22": 4987,
-  "2023-04-23": 5000,
-  "2023-04-24": 5010,
-  "2023-04-25": 5020,
-  "2023-04-26": 5030,
-  "2023-04-27": 5037,
-  "2023-04-28": 5040,
-  "2023-04-29": 5049,
-  "2023-04-30": 5054,
-  "2023-05-01": 5064,
-  "2023-05-02": 5075,
-  "2023-05-03": 5082,
-  "2023-05-04": 5086,
-  "2023-05-05": 5101,
-  "2023-05-06": 5115,
-  "2023-05-07": 5124,
-  "2023-05-08": 5132,
-  "2023-05-09": 5143,
-  "2023-05-10": 5158,
-  "2023-05-11": 5164,
-  "2023-05-12": 5182,
-  "2023-05-13": 5188,
-  "2023-05-14": 5195,
-  "2023-05-15": 5208,
-  "2023-05-16": 5219,
-  "2023-05-17": 5234,
-  "2023-05-18": 5240,
-  "2023-05-19": 5254,
-  "2023-05-20": 5281,
-  "2023-05-21": 5281,
-  "2023-05-22": 5281,
-  "2023-05-23": 5303,
-  "2023-05-24": 5324,
-  "2023-05-25": 5331,
-  "2023-05-26": 5338,
-  "2023-05-27": 5353,
-  "2023-05-28": 5364,
-  "2023-05-29": 5364,
-  "2023-05-30": 5384,
-  "2023-05-31": 5393,
-  "2023-06-01": 5399,
-  "2023-06-02": 5411,
-  "2023-06-03": 5417,
-  "2023-06-04": 5419,
-  "2023-06-05": 5424,
-  "2023-06-06": 5435,
-  "2023-06-07": 5439,
-  "2023-06-08": 5445,
-  "2023-06-09": 5449,
-  "2023-06-10": 5461,
-  "2023-06-11": 5469,
-  "2023-06-12": 5473,
-  "2023-06-13": 5476,
-  "2023-06-14": 5485,
-  "2023-06-15": 5494,
-  "2023-06-16": 5499,
-  "2023-06-17": 5509,
-  "2023-06-18": 5518,
-  "2023-06-19": 5521,
-  "2023-06-20": 5527,
-  "2023-06-21": 5534,
-  "2023-06-22": 5548,
-  "2023-06-23": 5553,
-  "2023-06-24": 5561,
-  "2023-06-25": 5569,
-  "2023-06-26": 5572,
-  "2023-06-27": 5584,
-  "2023-06-28": 5611,
-  "2023-06-29": 5620,
-  "2023-06-30": 5625,
-  "2023-07-01": 5630,
-  "2023-07-02": 5630,
-  "2023-07-03": 5632,
-  "2023-07-04": 5636,
-  "2023-07-05": 5646,
-  "2023-07-06": 5655,
-  "2023-07-07": 5655,
-  "2023-07-08": 5659,
-  "2023-07-09": 5663,
-  "2023-07-10": 5666,
-  "2023-07-11": 5674,
-  "2023-07-12": 5680,
-  "2023-07-13": 5695,
-  "2023-07-14": 5696,
-  "2023-07-15": 5701,
-  "2023-07-16": 5711,
-  "2023-07-17": 5717,
-  "2023-07-18": 5722,
-  "2023-07-19": 5731,
-  "2023-07-20": 5741,
-  "2023-07-21": 5742,
-  "2023-07-22": 5748,
-  "2023-07-23": 5751,
-  "2023-07-24": 5749,
-  "2023-07-25": 5751,
-  "2023-07-26": 5758,
-  "2023-07-27": 5758,
-  "2023-07-28": 5766,
-  "2023-07-29": 5768,
-  "2023-07-30": 5771,
-  "2023-07-31": 5774,
-  "2023-08-01": 5778,
-  "2023-08-02": 5780,
-  "2023-08-03": 5785,
-  "2023-08-04": 5787,
-  "2023-08-05": 5790,
-  "2023-08-06": 5796,
-  "2023-08-07": 5796,
-  "2023-08-08": 5798,
-  "2023-08-09": 5801,
-  "2023-08-10": 5799,
-  "2023-08-11": 5803,
-  "2023-08-12": 5803,
-  "2023-08-13": 5803,
-  "2023-08-14": 5807,
-  "2023-08-15": 5807,
-  "2023-08-16": 5807,
-  "2023-08-17": 5807,
-  "2023-08-18": 5807,
-  "2023-08-19": 5807,
-  "2023-08-20": 5834,
-  "2023-08-21": 5834,
-  "2023-08-22": 5837,
-  "2023-08-23": 5837,
-  "2023-08-24": 5837,
-  "2023-08-25": 5837,
-  "2023-08-26": 5856,
-  "2023-08-27": 5856,
-  "2023-08-28": 5864,
-  "2023-08-29": 5864,
-  "2023-08-30": 5864,
-  "2023-08-31": 5870,
-  "2023-09-01": 5874,
-  "2023-09-02": 5874,
-  "2023-09-03": 5885,
-  "2023-09-04": 5885,
-  "2023-09-05": 5885,
-  "2023-09-06": 5899,
-  "2023-09-07": 5899,
-  "2023-09-08": 5899,
-  "2023-09-09": 5899,
-  "2023-09-10": 5918,
-  "2023-09-11": 5918,
-  "2023-09-12": 5918,
-  "2023-09-13": 5934,
-  "2023-09-14": 5934,
-  "2023-09-15": 5934,
-  "2023-09-16": 5956,
-  "2023-09-17": 5956,
-  "2023-09-18": 5956,
-  "2023-09-19": 5967,
-  "2023-09-20": 5967,
-  "2023-09-21": 5967,
-  "2023-09-22": 5977,
-  "2023-09-23": 5977,
-  "2023-09-24": 5977,
-  "2023-09-25": 5977,
-  "2023-09-26": 5998,
-  "2023-09-27": 5998,
-  "2023-09-28": 5998,
-  "2023-09-29": 5998,
-  "2023-09-30": 5998,
-  "2023-10-01": 5998,
-  "2023-10-02": 6025,
-  "2023-10-03": 6025,
-  "2023-10-04": 6025,
-  "2023-10-05": 6046,
-  "2023-10-06": 6046,
-  "2023-10-07": 6046,
-  "2023-10-08": 6046,
-  "2023-10-09": 6046,
-  "2023-10-10": 6046,
-  "2023-10-11": 6062,
-  "2023-10-12": 6062,
-  "2023-10-13": 6062,
-  "2023-10-14": 6062,
-  "2023-10-15": 6062,
-  "2023-10-16": 6062,
-  "2023-10-17": 6062,
-  "2023-10-18": 6062,
-  "2023-10-19": 6062,
-  "2023-10-20": 6062,
-  "2023-10-21": 6062,
-  "2023-10-22": 6062,
-  "2023-10-23": 6062,
-  "2023-10-24": 6062,
-  "2023-10-25": 6062,
-  "2023-10-26": 6062,
-  "2023-10-27": 6062,
-  "2023-10-28": 6062,
-  "2023-10-29": 6062,
-  "2023-10-30": 6062,
-  "2023-10-31": 6062,
-  "2023-11-01": 6062,
-  "2023-11-02": 6062,
-  "2023-11-03": 6062,
-  "2023-11-04": 6062,
-  "2023-11-05": 6062,
-  "2023-11-06": 6062,
-  "2023-11-07": 6062,
-  "2023-11-08": 6062,
-  "2023-11-09": 6062,
-  "2023-11-10": 6062,
-  "2023-11-11": 6134,
-  "2023-11-12": 6134,
-  "2023-11-13": 6134,
-  "2023-11-14": 6134,
-  "2023-11-15": 6134,
-  "2023-11-16": 6134,
-  "2023-11-17": 6134,
-  "2023-11-18": 6134,
-  "2023-11-19": 6134,
-  "2023-11-20": 6134,
-  "2023-11-21": 6134,
-  "2023-11-22": 6134,
-  "2023-11-23": 6134,
-  "2023-11-24": 6134,
-  "2023-11-25": 6134,
-  "2023-11-26": 6134,
-  "2023-11-27": 6134,
-  "2023-11-28": 6134,
-  "2023-11-29": 6134,
-  "2023-11-30": 6134,
-  "2023-12-01": 6134,
-  "2023-12-02": 6134,
-  "2023-12-03": 6134,
-  "2023-12-04": 6134,
-  "2023-12-05": 6134,
-  "2023-12-06": 6134,
-  "2023-12-07": 6134,
-  "2023-12-08": 6134,
-  "2023-12-09": 6134,
-  "2023-12-10": 6134,
-  "2023-12-11": 6134,
-  "2023-12-12": 6134,
-  "2023-12-13": 6134,
-  "2023-12-14": 6317,
-  "2023-12-15": 6318,
-  "2023-12-16": 6320,
-  "2023-12-17": 6323,
-  "2023-12-18": 6323,
-  "2023-12-19": 6324,
-  "2023-12-20": 6324,
-  "2023-12-21": 6325,
-  "2023-12-22": 6329,
-  "2023-12-23": 6331,
-  "2023-12-24": 6334,
-  "2023-12-25": 6337,
-  "2023-12-26": 6337,
-  "2023-12-27": 6338,
-  "2023-12-30": 6347,
-  "2023-12-31": 6351,
-  "2024-01-01": 6352,
-  "2024-01-02": 6355,
-  "2024-01-03": 6354
+  "2024-01-17": 6377,
+  "date_first_scraped": "2023-03-25",
+  "description": "This is RENEE. The essential tracks, all in one playlist.",
+  "name": "This Is RENEE",
+  "tracks": [
+    {
+      "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "2D",
+      "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
+    },
+    {
+      "album": {
+        "name": "mucho texto",
+        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178306,
+      "name": "adi\u00f3s",
+      "url": "https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn"
+    },
+    {
+      "album": {
+        "name": "AHORA O NUNCA",
+        "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156448,
+      "name": "AHORA O NUNCA",
+      "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+    },
+    {
+      "album": {
+        "name": "Alta Joya",
+        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Alta Joya",
+      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
+    },
+    {
+      "album": {
+        "name": "Amor Particular",
+        "url": "https://open.spotify.com/album/2b8kBGbX7j1q5hOSrjDy0S"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "Amor Particular",
+      "url": "https://open.spotify.com/track/41x3Zgm2LornuG311321J6"
+    },
+    {
+      "album": {
+        "name": "mucho texto",
+        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203280,
+      "name": "as\u00ed no funciona",
+      "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
+    },
+    {
+      "album": {
+        "name": "Rockea Bien Duro",
+        "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224533,
+      "name": "A\u00fan Hay Algo",
+      "url": "https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2"
+    },
+    {
+      "album": {
+        "name": "Bichota \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157666,
+      "name": "Bichota - Spotify Singles",
+      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
+    },
+    {
+      "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190053,
+      "name": "Casual (YTQDV)",
+      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
+    },
+    {
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
+    },
+    {
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276200,
+      "name": "Como Quisiera",
+      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
+    },
+    {
+      "album": {
+        "name": "DAMN!",
+        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117606,
+      "name": "DAMN!",
+      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+    },
+    {
+      "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177426,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
+    },
+    {
+      "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "D\u00eda De Abril",
+      "url": "https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ"
+    },
+    {
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "El Club",
+      "url": "https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG"
+    },
+    {
+      "album": {
+        "name": "El Club",
+        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 159453,
+      "name": "El Club",
+      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
+    },
+    {
+      "album": {
+        "name": "Enferma Despedida",
+        "url": "https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152960,
+      "name": "Enferma Despedida",
+      "url": "https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp"
+    },
+    {
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226586,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
+    },
+    {
+      "album": {
+        "name": "Extra\u00f1os de Nuevo",
+        "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Extra\u00f1os de Nuevo",
+      "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
+    },
+    {
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 159800,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/6cKuuY7SnsPvW4sQFisrk0"
+    },
+    {
+      "album": {
+        "name": "fior",
+        "url": "https://open.spotify.com/album/5zzz22tSzU3NHE85lzSkeq"
+      },
+      "artists": [
+        {
+          "name": "Efelante",
+          "url": "https://open.spotify.com/artist/2RBUJpND98jnw4EwFCJiiX"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 311675,
+      "name": "fior",
+      "url": "https://open.spotify.com/track/5BQUCm2vmsddy6AaHyn2Gi"
+    },
+    {
+      "album": {
+        "name": "fior",
+        "url": "https://open.spotify.com/album/6zbSHO2tNXiuCTOIjhgZnD"
+      },
+      "artists": [
+        {
+          "name": "Efelante",
+          "url": "https://open.spotify.com/artist/2RBUJpND98jnw4EwFCJiiX"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311675,
+      "name": "fior",
+      "url": "https://open.spotify.com/track/6GtWgDj1nK1TBahvOwYLvg"
+    },
+    {
+      "album": {
+        "name": "for good (with RENEE)",
+        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182481,
+      "name": "for good (with RENEE)",
+      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
+    },
+    {
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "Hoy Me Siento Bien",
+      "url": "https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y"
+    },
+    {
+      "album": {
+        "name": "Intenciones",
+        "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "Intenciones",
+      "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
+    },
+    {
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290040,
+      "name": "La Buena Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
+    },
+    {
+      "album": {
+        "name": "Viaje Al Amanecer",
+        "url": "https://open.spotify.com/album/0RdueA0736GBCbkYrLhWju"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 222840,
+      "name": "Lo Que Pudimos Ser",
+      "url": "https://open.spotify.com/track/2DnipHyX4rRFMH8pioJb4t"
+    },
+    {
+      "album": {
+        "name": "Hardinero Sound",
+        "url": "https://open.spotify.com/album/20CDeLYK9ZVLq1rUUv290j"
+      },
+      "artists": [
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "AYWA",
+          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183035,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2Zq5sYodvD0MbWAlqUMSfE"
+    },
+    {
+      "album": {
+        "name": "Me Desenamor\u00e9",
+        "url": "https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw"
+      },
+      "artists": [
+        {
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        },
+        {
+          "name": "Maena",
+          "url": "https://open.spotify.com/artist/4I0Qc20Ta3CCnZRkTl5EgM"
+        },
+        {
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208755,
+      "name": "Me Desenamor\u00e9",
+      "url": "https://open.spotify.com/track/2wHPbYYfVrJHHHur6WETtY"
+    },
+    {
+      "album": {
+        "name": "Mechero",
+        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155392,
+      "name": "Mechero",
+      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
+    },
+    {
+      "album": {
+        "name": "mucho texto",
+        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201453,
+      "name": "mucho texto",
+      "url": "https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4"
+    },
+    {
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163693,
+      "name": "Mundo Cruel",
+      "url": "https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq"
+    },
+    {
+      "album": {
+        "name": "M\u00cdO",
+        "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217232,
+      "name": "M\u00cdO",
+      "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
+    },
+    {
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 113440,
+      "name": "No Me Digas Qu\u00e9 Hacer",
+      "url": "https://open.spotify.com/track/1fBip2frsNLgliGzaZiYeI"
+    },
+    {
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 204426,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo"
+    },
+    {
+      "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "album": {
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152050,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
+    },
+    {
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181080,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 181240,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5"
+    },
+    {
+      "album": {
+        "name": "Quiero Quedarme para Siempre",
+        "url": "https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG"
+      },
+      "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 189310,
+      "name": "Quiero Quedarme para Siempre",
+      "url": "https://open.spotify.com/track/3du9ocej65TycajaDfw8j9"
+    },
+    {
+      "album": {
+        "name": "Blockbuster",
+        "url": "https://open.spotify.com/album/5a159rNIxq78lGa4qnoZBL"
+      },
+      "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189310,
+      "name": "Quiero Quedarme para Siempre",
+      "url": "https://open.spotify.com/track/78LESagKrWYm0P9E4cyRSj"
+    },
+    {
+      "album": {
+        "name": "Rakata",
+        "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182384,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
+    },
+    {
+      "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187573,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R"
+    },
+    {
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150760,
+      "name": "Tibio",
+      "url": "https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i"
+    },
+    {
+      "album": {
+        "name": "Tiki Tai",
+        "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
+      },
+      "artists": [
+        {
+          "name": "Amuna",
+          "url": "https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152316,
+      "name": "Tiki Tai",
+      "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
+    },
+    {
+      "album": {
+        "name": "Todo Te Da Igual",
+        "url": "https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU"
+      },
+      "artists": [
+        {
+          "name": "Soy Os",
+          "url": "https://open.spotify.com/artist/2J2jJ0c3IzSL7iF3UQ2pDb"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Todo Te Da Igual",
+      "url": "https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/4k34WNz27uYpifsREylsyx"
+    },
+    {
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238600,
+      "name": "Viaje Al Amanecer",
+      "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
+    },
+    {
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234253,
+      "name": "Vivir En Silencio",
+      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1niegE"
 }

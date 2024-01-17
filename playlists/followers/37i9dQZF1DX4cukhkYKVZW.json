@@ -1,735 +1,961 @@
 {
-  "2021-12-25": 295,
-  "2021-12-26": 295,
-  "2021-12-27": 295,
-  "2021-12-28": 295,
-  "2021-12-29": 295,
-  "2021-12-30": 295,
-  "2021-12-31": 295,
-  "2022-01-01": 295,
-  "2022-01-02": 295,
-  "2022-01-03": 295,
-  "2022-01-04": 295,
-  "2022-01-05": 295,
-  "2022-01-06": 295,
-  "2022-01-07": 295,
-  "2022-01-08": 295,
-  "2022-01-09": 295,
-  "2022-01-10": 295,
-  "2022-01-11": 295,
-  "2022-01-12": 295,
-  "2022-01-13": 295,
-  "2022-01-14": 295,
-  "2022-01-15": 295,
-  "2022-01-16": 295,
-  "2022-01-17": 295,
-  "2022-01-18": 295,
-  "2022-01-19": 295,
-  "2022-01-20": 295,
-  "2022-01-21": 295,
-  "2022-01-22": 295,
-  "2022-01-23": 295,
-  "2022-01-24": 295,
-  "2022-01-25": 295,
-  "2022-01-26": 295,
-  "2022-01-27": 295,
-  "2022-01-28": 295,
-  "2022-01-29": 295,
-  "2022-01-30": 295,
-  "2022-01-31": 295,
-  "2022-02-01": 295,
-  "2022-02-02": 295,
-  "2022-02-03": 295,
-  "2022-02-04": 295,
-  "2022-02-05": 294,
-  "2022-02-06": 294,
-  "2022-02-07": 294,
-  "2022-02-08": 294,
-  "2022-02-09": 294,
-  "2022-02-10": 294,
-  "2022-02-11": 294,
-  "2022-02-12": 294,
-  "2022-02-13": 294,
-  "2022-02-14": 294,
-  "2022-02-15": 294,
-  "2022-02-16": 294,
-  "2022-02-17": 294,
-  "2022-02-18": 294,
-  "2022-02-19": 294,
-  "2022-02-20": 294,
-  "2022-02-21": 294,
-  "2022-02-22": 294,
-  "2022-02-23": 294,
-  "2022-02-24": 294,
-  "2022-02-25": 294,
-  "2022-02-26": 294,
-  "2022-02-27": 294,
-  "2022-02-28": 294,
-  "2022-03-01": 294,
-  "2022-03-02": 293,
-  "2022-03-03": 293,
-  "2022-03-04": 293,
-  "2022-03-05": 293,
-  "2022-03-06": 293,
-  "2022-03-07": 293,
-  "2022-03-08": 293,
-  "2022-03-09": 293,
-  "2022-03-10": 293,
-  "2022-03-11": 293,
-  "2022-03-12": 293,
-  "2022-03-13": 293,
-  "2022-03-14": 293,
-  "2022-03-15": 293,
-  "2022-03-16": 293,
-  "2022-03-17": 293,
-  "2022-03-18": 293,
-  "2022-03-19": 293,
-  "2022-03-20": 293,
-  "2022-03-21": 293,
-  "2022-03-22": 293,
-  "2022-03-23": 293,
-  "2022-03-24": 293,
-  "2022-03-25": 293,
-  "2022-03-26": 293,
-  "2022-03-27": 293,
-  "2022-03-28": 293,
-  "2022-03-30": 293,
-  "2022-03-31": 293,
-  "2022-04-01": 293,
-  "2022-04-02": 293,
-  "2022-04-03": 293,
-  "2022-04-04": 293,
-  "2022-04-05": 293,
-  "2022-04-06": 293,
-  "2022-04-07": 293,
-  "2022-04-08": 293,
-  "2022-04-09": 293,
-  "2022-04-10": 293,
-  "2022-04-11": 293,
-  "2022-04-12": 293,
-  "2022-04-13": 293,
-  "2022-04-14": 293,
-  "2022-04-15": 293,
-  "2022-04-16": 293,
-  "2022-04-17": 293,
-  "2022-04-18": 293,
-  "2022-04-19": 293,
-  "2022-04-20": 293,
-  "2022-04-21": 293,
-  "2022-04-22": 293,
-  "2022-04-23": 293,
-  "2022-04-24": 293,
-  "2022-04-25": 293,
-  "2022-04-26": 293,
-  "2022-04-27": 293,
-  "2022-04-28": 293,
-  "2022-04-29": 293,
-  "2022-04-30": 293,
-  "2022-05-01": 293,
-  "2022-05-02": 293,
-  "2022-05-03": 293,
-  "2022-05-04": 293,
-  "2022-05-05": 293,
-  "2022-05-06": 293,
-  "2022-05-07": 293,
-  "2022-05-08": 293,
-  "2022-05-09": 293,
-  "2022-05-10": 293,
-  "2022-05-11": 293,
-  "2022-05-12": 293,
-  "2022-05-13": 293,
-  "2022-05-14": 293,
-  "2022-05-15": 293,
-  "2022-05-16": 293,
-  "2022-05-17": 293,
-  "2022-05-18": 293,
-  "2022-05-19": 293,
-  "2022-05-20": 293,
-  "2022-05-21": 293,
-  "2022-05-22": 293,
-  "2022-05-23": 293,
-  "2022-05-24": 293,
-  "2022-05-25": 293,
-  "2022-05-26": 293,
-  "2022-05-27": 293,
-  "2022-05-28": 293,
-  "2022-05-29": 293,
-  "2022-05-30": 293,
-  "2022-05-31": 293,
-  "2022-06-01": 293,
-  "2022-06-02": 293,
-  "2022-06-03": 293,
-  "2022-06-04": 293,
-  "2022-06-05": 293,
-  "2022-06-06": 293,
-  "2022-06-07": 293,
-  "2022-06-08": 293,
-  "2022-06-09": 293,
-  "2022-06-10": 293,
-  "2022-06-11": 293,
-  "2022-06-12": 293,
-  "2022-06-13": 293,
-  "2022-06-14": 293,
-  "2022-06-15": 293,
-  "2022-06-16": 293,
-  "2022-06-17": 293,
-  "2022-06-18": 293,
-  "2022-06-19": 293,
-  "2022-06-20": 293,
-  "2022-06-21": 293,
-  "2022-06-22": 293,
-  "2022-06-23": 293,
-  "2022-06-24": 293,
-  "2022-06-25": 293,
-  "2022-06-26": 293,
-  "2022-06-27": 293,
-  "2022-06-28": 293,
-  "2022-06-29": 293,
-  "2022-06-30": 293,
-  "2022-07-01": 293,
-  "2022-07-02": 293,
-  "2022-07-03": 293,
-  "2022-07-04": 293,
-  "2022-07-05": 293,
-  "2022-07-06": 293,
-  "2022-07-07": 293,
-  "2022-07-08": 293,
-  "2022-07-09": 293,
-  "2022-07-10": 293,
-  "2022-07-11": 293,
-  "2022-07-12": 293,
-  "2022-07-13": 293,
-  "2022-07-14": 293,
-  "2022-07-15": 293,
-  "2022-07-16": 293,
-  "2022-07-17": 293,
-  "2022-07-18": 293,
-  "2022-07-19": 293,
-  "2022-07-20": 293,
-  "2022-07-21": 293,
-  "2022-07-22": 293,
-  "2022-07-23": 293,
-  "2022-07-24": 293,
-  "2022-07-25": 293,
-  "2022-07-26": 293,
-  "2022-07-27": 293,
-  "2022-07-28": 293,
-  "2022-07-29": 293,
-  "2022-07-30": 293,
-  "2022-07-31": 293,
-  "2022-08-01": 293,
-  "2022-08-02": 293,
-  "2022-08-03": 293,
-  "2022-08-04": 293,
-  "2022-08-05": 293,
-  "2022-08-06": 293,
-  "2022-08-07": 293,
-  "2022-08-08": 293,
-  "2022-08-09": 293,
-  "2022-08-10": 293,
-  "2022-08-11": 293,
-  "2022-08-12": 293,
-  "2022-08-13": 293,
-  "2022-08-14": 293,
-  "2022-08-15": 293,
-  "2022-08-16": 293,
-  "2022-08-17": 293,
-  "2022-08-18": 293,
-  "2022-08-19": 293,
-  "2022-08-20": 293,
-  "2022-08-21": 293,
-  "2022-08-22": 293,
-  "2022-08-23": 293,
-  "2022-08-24": 293,
-  "2022-08-25": 293,
-  "2022-08-26": 293,
-  "2022-08-27": 293,
-  "2022-08-28": 293,
-  "2022-08-29": 293,
-  "2022-08-30": 293,
-  "2022-08-31": 293,
-  "2022-09-01": 293,
-  "2022-09-02": 293,
-  "2022-09-03": 293,
-  "2022-09-04": 293,
-  "2022-09-05": 293,
-  "2022-09-06": 293,
-  "2022-09-07": 293,
-  "2022-09-09": 293,
-  "2022-09-10": 293,
-  "2022-09-11": 293,
-  "2022-09-12": 293,
-  "2022-09-13": 293,
-  "2022-09-15": 293,
-  "2022-09-16": 293,
-  "2022-09-17": 293,
-  "2022-09-18": 293,
-  "2022-09-19": 293,
-  "2022-09-20": 293,
-  "2022-09-21": 293,
-  "2022-09-22": 293,
-  "2022-09-23": 293,
-  "2022-09-24": 293,
-  "2022-09-25": 293,
-  "2022-09-26": 293,
-  "2022-09-27": 293,
-  "2022-09-28": 293,
-  "2022-09-29": 293,
-  "2022-09-30": 293,
-  "2022-10-01": 293,
-  "2022-10-02": 293,
-  "2022-10-03": 293,
-  "2022-10-04": 293,
-  "2022-10-05": 293,
-  "2022-10-06": 293,
-  "2022-10-07": 293,
-  "2022-10-08": 293,
-  "2022-10-09": 293,
-  "2022-10-10": 293,
-  "2022-10-11": 293,
-  "2022-10-12": 293,
-  "2022-10-13": 293,
-  "2022-10-14": 293,
-  "2022-10-15": 293,
-  "2022-10-16": 293,
-  "2022-10-17": 293,
-  "2022-10-18": 293,
-  "2022-10-19": 293,
-  "2022-10-20": 293,
-  "2022-10-21": 293,
-  "2022-10-22": 293,
-  "2022-10-23": 293,
-  "2022-10-24": 293,
-  "2022-10-25": 293,
-  "2022-10-26": 293,
-  "2022-10-27": 293,
-  "2022-10-28": 293,
-  "2022-10-29": 293,
-  "2022-10-30": 293,
-  "2022-10-31": 293,
-  "2022-11-01": 293,
-  "2022-11-02": 293,
-  "2022-11-03": 293,
-  "2022-11-04": 293,
-  "2022-11-05": 293,
-  "2022-11-06": 293,
-  "2022-11-07": 293,
-  "2022-11-08": 293,
-  "2022-11-09": 293,
-  "2022-11-10": 293,
-  "2022-11-11": 293,
-  "2022-11-12": 293,
-  "2022-11-13": 293,
-  "2022-11-14": 293,
-  "2022-11-15": 293,
-  "2022-11-16": 293,
-  "2022-11-17": 293,
-  "2022-11-18": 293,
-  "2022-11-19": 293,
-  "2022-11-20": 293,
-  "2022-11-21": 293,
-  "2022-11-22": 293,
-  "2022-11-23": 293,
-  "2022-11-24": 293,
-  "2022-11-25": 293,
-  "2022-11-26": 293,
-  "2022-11-27": 293,
-  "2022-11-28": 293,
-  "2022-11-29": 293,
-  "2022-11-30": 293,
-  "2022-12-01": 293,
-  "2022-12-02": 293,
-  "2022-12-03": 293,
-  "2022-12-04": 293,
-  "2022-12-05": 293,
-  "2022-12-06": 293,
-  "2022-12-07": 293,
-  "2022-12-08": 293,
-  "2022-12-09": 293,
-  "2022-12-10": 293,
-  "2022-12-11": 293,
-  "2022-12-12": 293,
-  "2022-12-13": 293,
-  "2022-12-14": 293,
-  "2022-12-15": 293,
-  "2022-12-16": 293,
-  "2022-12-17": 293,
-  "2022-12-18": 293,
-  "2022-12-19": 293,
-  "2022-12-20": 293,
-  "2022-12-21": 293,
-  "2022-12-22": 293,
-  "2022-12-24": 293,
-  "2022-12-25": 293,
-  "2022-12-26": 293,
-  "2022-12-27": 293,
-  "2022-12-28": 293,
-  "2022-12-29": 293,
-  "2022-12-30": 293,
-  "2022-12-31": 293,
-  "2023-01-01": 293,
-  "2023-01-02": 293,
-  "2023-01-03": 293,
-  "2023-01-04": 293,
-  "2023-01-05": 293,
-  "2023-01-06": 293,
-  "2023-01-07": 293,
-  "2023-01-08": 293,
-  "2023-01-09": 293,
-  "2023-01-10": 293,
-  "2023-01-11": 293,
-  "2023-01-12": 293,
-  "2023-01-13": 293,
-  "2023-01-14": 293,
-  "2023-01-15": 293,
-  "2023-01-16": 293,
-  "2023-01-17": 293,
-  "2023-01-18": 293,
-  "2023-01-19": 293,
-  "2023-01-20": 293,
-  "2023-01-21": 293,
-  "2023-01-22": 293,
-  "2023-01-23": 293,
-  "2023-01-24": 293,
-  "2023-01-25": 293,
-  "2023-01-26": 293,
-  "2023-01-27": 293,
-  "2023-01-28": 293,
-  "2023-01-29": 293,
-  "2023-01-30": 293,
-  "2023-01-31": 293,
-  "2023-02-01": 293,
-  "2023-02-02": 293,
-  "2023-02-03": 293,
-  "2023-02-04": 293,
-  "2023-02-05": 293,
-  "2023-02-06": 293,
-  "2023-02-07": 293,
-  "2023-02-08": 293,
-  "2023-02-09": 293,
-  "2023-02-10": 293,
-  "2023-02-11": 293,
-  "2023-02-12": 293,
-  "2023-02-13": 293,
-  "2023-02-14": 293,
-  "2023-02-15": 293,
-  "2023-02-16": 293,
-  "2023-02-17": 293,
-  "2023-02-18": 293,
-  "2023-02-19": 293,
-  "2023-02-20": 293,
-  "2023-02-21": 293,
-  "2023-02-22": 293,
-  "2023-02-23": 293,
-  "2023-02-24": 293,
-  "2023-02-25": 293,
-  "2023-02-26": 293,
-  "2023-02-27": 293,
-  "2023-02-28": 293,
-  "2023-03-01": 293,
-  "2023-03-02": 293,
-  "2023-03-03": 293,
-  "2023-03-04": 293,
-  "2023-03-05": 293,
-  "2023-03-06": 293,
-  "2023-03-07": 293,
-  "2023-03-08": 293,
-  "2023-03-09": 293,
-  "2023-03-10": 293,
-  "2023-03-11": 293,
-  "2023-03-12": 293,
-  "2023-03-13": 293,
-  "2023-03-14": 293,
-  "2023-03-15": 293,
-  "2023-03-16": 293,
-  "2023-03-17": 293,
-  "2023-03-18": 293,
-  "2023-03-19": 293,
-  "2023-03-20": 293,
-  "2023-03-21": 293,
-  "2023-03-22": 293,
-  "2023-03-23": 293,
-  "2023-03-24": 293,
-  "2023-03-25": 293,
-  "2023-03-26": 293,
-  "2023-03-27": 293,
-  "2023-03-28": 293,
-  "2023-03-29": 293,
-  "2023-03-30": 293,
-  "2023-03-31": 293,
-  "2023-04-01": 293,
-  "2023-04-02": 293,
-  "2023-04-03": 293,
-  "2023-04-04": 293,
-  "2023-04-05": 293,
-  "2023-04-06": 293,
-  "2023-04-07": 293,
-  "2023-04-09": 293,
-  "2023-04-10": 293,
-  "2023-04-11": 293,
-  "2023-04-12": 293,
-  "2023-04-13": 293,
-  "2023-04-14": 293,
-  "2023-04-15": 293,
-  "2023-04-16": 293,
-  "2023-04-17": 293,
-  "2023-04-18": 293,
-  "2023-04-19": 293,
-  "2023-04-20": 293,
-  "2023-04-21": 293,
-  "2023-04-22": 293,
-  "2023-04-23": 293,
-  "2023-04-24": 293,
-  "2023-04-25": 293,
-  "2023-04-26": 293,
-  "2023-04-27": 293,
-  "2023-04-28": 293,
-  "2023-04-29": 293,
-  "2023-04-30": 293,
-  "2023-05-01": 293,
-  "2023-05-02": 293,
-  "2023-05-03": 293,
-  "2023-05-04": 293,
-  "2023-05-05": 293,
-  "2023-05-06": 293,
-  "2023-05-07": 293,
-  "2023-05-08": 293,
-  "2023-05-09": 293,
-  "2023-05-10": 293,
-  "2023-05-11": 293,
-  "2023-05-12": 293,
-  "2023-05-13": 293,
-  "2023-05-14": 293,
-  "2023-05-15": 293,
-  "2023-05-16": 293,
-  "2023-05-17": 293,
-  "2023-05-18": 293,
-  "2023-05-19": 293,
-  "2023-05-20": 293,
-  "2023-05-21": 293,
-  "2023-05-22": 293,
-  "2023-05-23": 293,
-  "2023-05-24": 293,
-  "2023-05-25": 293,
-  "2023-05-26": 293,
-  "2023-05-27": 293,
-  "2023-05-28": 293,
-  "2023-05-29": 293,
-  "2023-05-30": 293,
-  "2023-05-31": 293,
-  "2023-06-01": 293,
-  "2023-06-02": 293,
-  "2023-06-03": 293,
-  "2023-06-04": 293,
-  "2023-06-05": 293,
-  "2023-06-06": 293,
-  "2023-06-07": 293,
-  "2023-06-08": 293,
-  "2023-06-09": 293,
-  "2023-06-10": 293,
-  "2023-06-11": 293,
-  "2023-06-12": 293,
-  "2023-06-13": 293,
-  "2023-06-14": 293,
-  "2023-06-15": 293,
-  "2023-06-16": 293,
-  "2023-06-17": 293,
-  "2023-06-18": 293,
-  "2023-06-19": 293,
-  "2023-06-20": 293,
-  "2023-06-21": 293,
-  "2023-06-22": 293,
-  "2023-06-23": 293,
-  "2023-06-24": 293,
-  "2023-06-25": 293,
-  "2023-06-26": 293,
-  "2023-06-27": 293,
-  "2023-06-28": 293,
-  "2023-06-29": 293,
-  "2023-06-30": 293,
-  "2023-07-01": 293,
-  "2023-07-02": 293,
-  "2023-07-03": 293,
-  "2023-07-04": 293,
-  "2023-07-05": 293,
-  "2023-07-06": 293,
-  "2023-07-07": 293,
-  "2023-07-08": 293,
-  "2023-07-09": 293,
-  "2023-07-10": 293,
-  "2023-07-11": 293,
-  "2023-07-12": 293,
-  "2023-07-13": 293,
-  "2023-07-14": 293,
-  "2023-07-15": 293,
-  "2023-07-16": 293,
-  "2023-07-17": 293,
-  "2023-07-18": 293,
-  "2023-07-19": 293,
-  "2023-07-20": 293,
-  "2023-07-21": 293,
-  "2023-07-22": 293,
-  "2023-07-23": 293,
-  "2023-07-24": 293,
-  "2023-07-25": 293,
-  "2023-07-26": 293,
-  "2023-07-27": 293,
-  "2023-07-28": 293,
-  "2023-07-29": 293,
-  "2023-07-30": 293,
-  "2023-07-31": 293,
-  "2023-08-01": 293,
-  "2023-08-02": 293,
-  "2023-08-03": 293,
-  "2023-08-04": 293,
-  "2023-08-05": 293,
-  "2023-08-06": 293,
-  "2023-08-07": 293,
-  "2023-08-08": 293,
-  "2023-08-09": 293,
-  "2023-08-10": 293,
-  "2023-08-11": 293,
-  "2023-08-12": 293,
-  "2023-08-13": 293,
-  "2023-08-14": 293,
-  "2023-08-15": 293,
-  "2023-08-16": 293,
-  "2023-08-17": 293,
-  "2023-08-18": 293,
-  "2023-08-19": 293,
-  "2023-08-20": 293,
-  "2023-08-21": 293,
-  "2023-08-22": 293,
-  "2023-08-23": 293,
-  "2023-08-24": 293,
-  "2023-08-25": 293,
-  "2023-08-26": 293,
-  "2023-08-27": 293,
-  "2023-08-28": 293,
-  "2023-08-29": 293,
-  "2023-08-30": 293,
-  "2023-08-31": 293,
-  "2023-09-01": 293,
-  "2023-09-02": 293,
-  "2023-09-03": 293,
-  "2023-09-04": 293,
-  "2023-09-05": 293,
-  "2023-09-06": 293,
-  "2023-09-07": 293,
-  "2023-09-08": 293,
-  "2023-09-09": 293,
-  "2023-09-10": 293,
-  "2023-09-11": 293,
-  "2023-09-12": 293,
-  "2023-09-13": 293,
-  "2023-09-14": 293,
-  "2023-09-15": 293,
-  "2023-09-16": 293,
-  "2023-09-17": 293,
-  "2023-09-18": 293,
-  "2023-09-19": 293,
-  "2023-09-20": 293,
-  "2023-09-21": 293,
-  "2023-09-22": 293,
-  "2023-09-23": 293,
-  "2023-09-24": 293,
-  "2023-09-25": 293,
-  "2023-09-26": 293,
-  "2023-09-27": 293,
-  "2023-09-28": 293,
-  "2023-09-29": 293,
-  "2023-09-30": 293,
-  "2023-10-01": 293,
-  "2023-10-02": 293,
-  "2023-10-03": 293,
-  "2023-10-04": 293,
-  "2023-10-05": 293,
-  "2023-10-06": 293,
-  "2023-10-07": 293,
-  "2023-10-08": 293,
-  "2023-10-09": 293,
-  "2023-10-10": 293,
-  "2023-10-11": 293,
-  "2023-10-12": 293,
-  "2023-10-13": 293,
-  "2023-10-14": 293,
-  "2023-10-15": 293,
-  "2023-10-16": 293,
-  "2023-10-17": 293,
-  "2023-10-18": 293,
-  "2023-10-19": 293,
-  "2023-10-20": 293,
-  "2023-10-21": 293,
-  "2023-10-22": 293,
-  "2023-10-23": 293,
-  "2023-10-24": 293,
-  "2023-10-25": 293,
-  "2023-10-26": 293,
-  "2023-10-27": 293,
-  "2023-10-28": 293,
-  "2023-10-29": 293,
-  "2023-10-30": 293,
-  "2023-10-31": 293,
-  "2023-11-01": 293,
-  "2023-11-02": 293,
-  "2023-11-03": 293,
-  "2023-11-04": 293,
-  "2023-11-05": 293,
-  "2023-11-06": 293,
-  "2023-11-07": 293,
-  "2023-11-08": 293,
-  "2023-11-09": 293,
-  "2023-11-10": 293,
-  "2023-11-11": 293,
-  "2023-11-12": 293,
-  "2023-11-13": 293,
-  "2023-11-14": 293,
-  "2023-11-15": 293,
-  "2023-11-16": 293,
-  "2023-11-17": 293,
-  "2023-11-18": 293,
-  "2023-11-19": 293,
-  "2023-11-20": 293,
-  "2023-11-21": 293,
-  "2023-11-22": 293,
-  "2023-11-23": 293,
-  "2023-11-24": 293,
-  "2023-11-25": 293,
-  "2023-11-26": 293,
-  "2023-11-27": 293,
-  "2023-11-28": 293,
-  "2023-11-29": 293,
-  "2023-11-30": 293,
-  "2023-12-01": 293,
-  "2023-12-02": 293,
-  "2023-12-03": 293,
-  "2023-12-04": 293,
-  "2023-12-05": 293,
-  "2023-12-06": 293,
-  "2023-12-07": 293,
-  "2023-12-08": 293,
-  "2023-12-09": 293,
-  "2023-12-10": 293,
-  "2023-12-11": 293,
-  "2023-12-12": 293,
-  "2023-12-13": 293,
-  "2023-12-14": 293,
-  "2023-12-15": 293,
-  "2023-12-16": 293,
-  "2023-12-17": 293,
-  "2023-12-18": 293,
-  "2023-12-19": 293,
-  "2023-12-20": 293,
-  "2023-12-21": 293,
-  "2023-12-22": 293,
-  "2023-12-23": 293,
-  "2023-12-24": 293,
-  "2023-12-25": 293,
-  "2023-12-26": 293,
-  "2023-12-27": 293,
-  "2023-12-30": 293,
-  "2023-12-31": 293,
-  "2024-01-01": 293,
-  "2024-01-02": 293,
-  "2024-01-03": 293
+  "2024-01-17": 293,
+  "date_first_scraped": "2021-12-21",
+  "description": "Listen to the original demo tracks and stories behind Country&#x27;s biggest hits with acclaimed songwriter Shane McAnally, featuring the EXCLUSIVE release of Kacey Musgraves&#x27; Mama&#x27;s Broken Heart \u2013 only on Spotify!",
+  "name": "SongCraft",
+  "tracks": [
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99366,
+      "name": "A Day in the Life - Spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/1Mu9TQ1ADXNq2oDHesiHbD"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113343,
+      "name": "A Day in the Life - Spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/0bjP4bRrE9iKJbam2Oreha"
+    },
+    {
+      "album": {
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210973,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/2Xdatbm43IXEVi0wmKeJve"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos",
+        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0bsmuUBwDdNAPCcuV05gLF"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86968,
+      "name": "Alone With You - Spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/0W3nu2t2pXPkCTnDe5pT4L"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134163,
+      "name": "Alone With You - Spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/5w6vwaSYcmqwBSdvu9JcEX"
+    },
+    {
+      "album": {
+        "name": "Old Dominion Originals",
+        "url": "https://open.spotify.com/album/5khSHsmQhkTJ1iJr5FdAP8"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226480,
+      "name": "Chainsaw",
+      "url": "https://open.spotify.com/track/3botssMinOaf8gTihU6Kjo"
+    },
+    {
+      "album": {
+        "name": "Pioneer",
+        "url": "https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1"
+      },
+      "artists": [
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "Chainsaw",
+      "url": "https://open.spotify.com/track/6BstspHAG1DuMebrQJWPJY"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61624,
+      "name": "Chainsaw - Spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/7EyY3Ifj9B2StmuFzYhtC6"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92624,
+      "name": "Chainsaw - Spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/6Ly6CqQLJBqVpPHPJN1vFt"
+    },
+    {
+      "album": {
+        "name": "Fuse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232680,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/1W3nZ90b1u3jHB5leANsy8"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos",
+        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210326,
+      "name": "Come Back to Me",
+      "url": "https://open.spotify.com/track/4IkQTSK5Fou1pk9cwiJZAx"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95791,
+      "name": "Come Back to Me - Spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/1OW6YGLx26dFcmpq2KxJLK"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "Come Back to Me - Spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/2ecpktcbrJByrVJ6i2umOg"
+    },
+    {
+      "album": {
+        "name": "SongCraft - Dierks Bentley talking about Say You Do",
+        "url": "https://open.spotify.com/album/1Ol2jvnT1YhkePcW3rCF6m"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21500,
+      "name": "Dierks Bentley talking about Say You Do",
+      "url": "https://open.spotify.com/track/2Ie7gOpQPbsoy8GGCQVAY8"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/254bcFt3AV1O2B121GFD9S"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/4kY7rYtE4OQkJNq22OIYRI"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos",
+        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220714,
+      "name": "Downtown (feat. Natalie Hemby)",
+      "url": "https://open.spotify.com/track/6l6fsYZc1NHmp9p6tT2E3I"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73250,
+      "name": "Downtown - Spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/2EWa6w8Adtze0Td0GQdlOP"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82668,
+      "name": "Downtown - Spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/229cRDLmvKAxMqxIcwGCZa"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97174,
+      "name": "Downtown Extra - Spotify Interview",
+      "url": "https://open.spotify.com/track/0R7fnfE8J2ez4jaNSBuKxf"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25684,
+      "name": "Intro - Spotify Interview",
+      "url": "https://open.spotify.com/track/3kwCOFO7IaodOvPOpD08PM"
+    },
+    {
+      "album": {
+        "name": "SongCraft - Keith Urban talking about Come Back To Me",
+        "url": "https://open.spotify.com/album/25rXtC6q2k8wNzHEXW2hWc"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32727,
+      "name": "Keith Urban talking about Come Back To Me",
+      "url": "https://open.spotify.com/track/62nx2hSi0NwCcMQacgpzRP"
+    },
+    {
+      "album": {
+        "name": "Mama's Broken Heart",
+        "url": "https://open.spotify.com/album/2Moxdirkj2BTTo3AnfbvEh"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Mama's Broken Heart",
+      "url": "https://open.spotify.com/track/4R2H43dQWFHe8WGcGsDN8H"
+    },
+    {
+      "album": {
+        "name": "Four The Record (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/119X9tkbPTqambSALCUNdW"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177773,
+      "name": "Mama's Broken Heart",
+      "url": "https://open.spotify.com/track/0v1xRYqHE5N5bBi4db5RNR"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123114,
+      "name": "Mama's Broken Heart - Spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/67sszF0zds3wFLSlky2xfy"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106083,
+      "name": "Mama's Broken Heart - Spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/2UXGFr2qPxFLmEQzp8dDGb"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86291,
+      "name": "Mama's Broken Heart - Spotify Interview Part 3",
+      "url": "https://open.spotify.com/track/5kCBVoAvEJzyvgB6vUrpYr"
+    },
+    {
+      "album": {
+        "name": "SongCraft - Miranda Lambert talking about Smokin and Drinkin",
+        "url": "https://open.spotify.com/album/4fSItuwO36XVv8m7I2OLY8"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14772,
+      "name": "Miranda Lambert talking about Smokin and Drinkin",
+      "url": "https://open.spotify.com/track/2u0mVptKkiQvaYcVH8lZtz"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos",
+        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236146,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/7ceD2a18z92iMyPb5DTLHt"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111184,
+      "name": "Santa Monica - Spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/12I1CzlKKj1z1K99od8YdQ"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79117,
+      "name": "Santa Monica - Spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/2B5OcCQzUPPjt4WS6v4xh0"
+    },
+    {
+      "album": {
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219360,
+      "name": "Say You Do",
+      "url": "https://open.spotify.com/track/2sE61ZmvYH8wiOx5jygkHH"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos",
+        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        },
+        {
+          "name": "Matthew Ramsey",
+          "url": "https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207438,
+      "name": "Say You Do (feat. Matthew Ramsey)",
+      "url": "https://open.spotify.com/track/7hFrXzKRJkRNXa6575wCJZ"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90250,
+      "name": "Say You Do - Spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/4GmQQ03kaNNf54El6E9JhB"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119500,
+      "name": "Say You Do - Spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/3WqwBfpReQQPGpIcr6mdKN"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59288,
+      "name": "Say You Do Extra - Spotify Interview",
+      "url": "https://open.spotify.com/track/7dXXOjvp1Rsm4lvgbHpfbw"
+    },
+    {
+      "album": {
+        "name": "Shane McAnally - SongCraft Intro",
+        "url": "https://open.spotify.com/album/2hFFKccJXQW7YhLuV6Gt7o"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8411,
+      "name": "Shane McAnally - SongCraft Intro",
+      "url": "https://open.spotify.com/track/0ER55ltgeHaX0mMpWkrN7w"
+    },
+    {
+      "album": {
+        "name": "SongCraft - Shane McAnally says \"thanks for listening\"",
+        "url": "https://open.spotify.com/album/5YwfrhAqlYHy6Y2iMN73yt"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52818,
+      "name": "Shane McAnally says \"thanks for listening\"",
+      "url": "https://open.spotify.com/track/6HpQLq7QH69PAsVmnuV4mK"
+    },
+    {
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330693,
+      "name": "Smokin' and Drinkin' (feat. Little Big Town)",
+      "url": "https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos",
+        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246075,
+      "name": "Smokin' and Drinkin' (feat. Natalie Hemby)",
+      "url": "https://open.spotify.com/track/2bFcHKnxNL5nojlysWlcvl"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106500,
+      "name": "Smokin' and Drinkin' - spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/4JTF73N2TsCan3sZw0pCjb"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81095,
+      "name": "Smokin' and Drinkin' - spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/2hQGWe0aXrpG95wLByzFyh"
+    },
+    {
+      "album": {
+        "name": "Hemingway's Whiskey",
+        "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243520,
+      "name": "Somewhere With You",
+      "url": "https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos",
+        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193253,
+      "name": "Somewhere With You",
+      "url": "https://open.spotify.com/track/5qDzMkr3H14W0j6XAT5Mjl"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110458,
+      "name": "Somewhere With You - Spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/1tQqrOaYtgh5XjEc8YVSGb"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70000,
+      "name": "Somewhere With You - Spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/2se7v1HegCijt4ZaNpLNmc"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72513,
+      "name": "Song Holds - Spotify Interview",
+      "url": "https://open.spotify.com/track/3NHuVszYy6xgSpF4DSqzh2"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119277,
+      "name": "Songwriting - Spotify Interview",
+      "url": "https://open.spotify.com/track/5sjAPgIYamjdM3SaNUFBqY"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "Uncut Songs - Spotify Interview",
+      "url": "https://open.spotify.com/track/2UeWJE1Wg3nMXQvXAGmQbr"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Writing Retreats - Spotify Interview Part 1",
+      "url": "https://open.spotify.com/track/31oBPpbCuJ8jjCzSHAXu50"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141239,
+      "name": "Writing Retreats - Spotify Interview Part 2",
+      "url": "https://open.spotify.com/track/7gLu3yrG6xyoLuqrhRBdsm"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos: Spotify Interview",
+        "url": "https://open.spotify.com/album/052Ususf37VCmcxtw59WG4"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2014-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65472,
+      "name": "Writing Room - Spotify Interview",
+      "url": "https://open.spotify.com/track/3X2fnzPo1vlnPV4ZqS2s0Z"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4cukhkYKVZW"
 }

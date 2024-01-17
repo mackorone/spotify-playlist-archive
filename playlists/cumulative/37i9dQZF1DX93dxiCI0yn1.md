@@ -4,14 +4,14 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-114 songs - 5 hr 36 min
+115 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["23freestyle"](https://open.spotify.com/track/5INsevpkX2eEBTe6Wsz8ZZ) | [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | ["23freestyle"](https://open.spotify.com/album/41lrer5TP42nzqlxLdju8a) | 2:08 | 2023-11-07 |  |
 | ["bounce back and forth"](https://open.spotify.com/track/2jbk3OPHsmUaipBXSZxasa) | [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7) | ["bounce back and forth"](https://open.spotify.com/album/6S1Kg9bZTWsKfMJGpvgxoE) | 2:21 | 2023-10-24 |  |
 | [777](https://open.spotify.com/track/6DJ0s5bEUNmJBh7eWmjXcp) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [777](https://open.spotify.com/album/1U58aSWBRUT090ypxNX1nH) | 1:41 | 2023-10-24 |  |
-| [9's SOUL](https://open.spotify.com/track/4DTk4QENo1c0RtebuhHFPi) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [9's SOUL](https://open.spotify.com/album/1ZIlT9iY0JoCIm02obryyh) | 2:14 | 2023-10-24 |  |
+| [9's SOUL](https://open.spotify.com/track/4DTk4QENo1c0RtebuhHFPi) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [9's SOUL](https://open.spotify.com/album/1ZIlT9iY0JoCIm02obryyh) | 2:14 | 2023-10-24 | 2024-01-10 |
 | [AI](https://open.spotify.com/track/0dV2Oko9MulxkW3sxmdB3m) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [AI](https://open.spotify.com/album/1lbxJmXXiwvQgZ8nWaGW7a) | 4:08 | 2023-10-24 |  |
 | [Anthem](https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES DELUXE](https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ) | 2:50 | 2023-12-05 |  |
 | [As you are](https://open.spotify.com/track/4h6WxofpPYdffSul9zgh5I) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [As you are](https://open.spotify.com/album/7lizwS91vA2vdPKGEZWTx1) | 3:07 | 2023-10-24 |  |
@@ -79,6 +79,7 @@
 | [Morpheus](https://open.spotify.com/track/1TDzraj5stggv3ZB7Jgh2L) | [Itaq](https://open.spotify.com/artist/1eBA6L92jWU2DV4d5Jws1T) | [委託 Deluxe](https://open.spotify.com/album/7sJWrJQB3T0Q6S0QfmuM5E) | 3:43 | 2023-10-24 |  |
 | [Motivation](https://open.spotify.com/track/5k6nZ4WsWPmWoCcp4UZHCk) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Motivation](https://open.spotify.com/album/07H0yACN62c1QGEmJFbyzC) | 2:32 | 2023-10-24 |  |
 | [My Resort](https://open.spotify.com/track/3qd8u4YSnr6RPkllSzG0O7) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Jungle](https://open.spotify.com/album/0kSvP9odX4TIVxVkVRgYjA) | 2:12 | 2023-10-24 |  |
+| [NARI\-A\-GARI](https://open.spotify.com/track/1qu08a7i7udyKuzl1vN8tY) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NARI\-A\-GARI](https://open.spotify.com/album/62chPPgbtNWbyCoaU4AsyR) | 2:45 | 2024-01-09 |  |
 | [No Sleep](https://open.spotify.com/track/18ROmiSBCQeGqMtJ7x5Twj) | [SUMMER SNOWMAN](https://open.spotify.com/artist/2mKYPpaCdwd90HrdFllTQH), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ), [NOTYPE9](https://open.spotify.com/artist/724woTlC7w0SQdncNxxKvj), [Nododenpa](https://open.spotify.com/artist/2Ek3Oa0ottUuXGzhN0UURk) | [No Sleep](https://open.spotify.com/album/6eGJMkjNkq6heMchcl0gDH) | 3:52 | 2023-10-24 |  |
 | [No.1](https://open.spotify.com/track/3lVSCLiiHGsifa9B6gY3qe) | [Daia](https://open.spotify.com/artist/1hXnVDbddicc8RayfMIimk) | [PLAY](https://open.spotify.com/album/3CZO1h9ZuYYIX3j61OF1oH) | 2:46 | 2023-10-24 |  |
 | [One Love](https://open.spotify.com/track/5CDAva91X7wImJJ07puXeP) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [F4MILY](https://open.spotify.com/album/4jjKrBZLorZUgnxVc4qWvs) | 3:04 | 2023-10-24 |  |

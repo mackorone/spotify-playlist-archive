@@ -4,7 +4,7 @@
 
 > La nostalgia ochentera traída a la actualidad.
 
-63 songs - 3 hr 55 min
+65 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Fácil](https://open.spotify.com/track/3Ym9jqHDaDdootm1kKJIzL) | [Abbacook](https://open.spotify.com/artist/11teMrCZ2iEch5ufwIlKz5) | [Fácil](https://open.spotify.com/album/7BIVHxWqlfiM7eDIQlCg8g) | 2:42 | 2023-08-10 |  |
 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 | 2023-08-10 |  |
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-10 |  |
-| [Give Me a Reason](https://open.spotify.com/track/0c8QvbwhtQ9MGToNFua5eQ) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Give Me a Reason](https://open.spotify.com/album/1IzvcKEEFpfQQ5TWUwGAvK) | 4:25 | 2023-08-10 |  |
+| [Give Me a Reason](https://open.spotify.com/track/0c8QvbwhtQ9MGToNFua5eQ) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Give Me a Reason](https://open.spotify.com/album/1IzvcKEEFpfQQ5TWUwGAvK) | 4:25 | 2023-08-10 | 2024-01-13 |
+| [Give Me a Reason](https://open.spotify.com/track/4nTEiPwyWb4TrFewWkmys4) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5) | 4:25 | 2023-08-10 |  |
 | [Happiness \(Dance Floor Edit\)](https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 3:55 | 2023-08-10 |  |
 | [Head over Heels](https://open.spotify.com/track/1APPmyunmO442IibJrWhXG) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Brothertiger Plays: Tears for Fears' Songs from the Big Chair](https://open.spotify.com/album/2Zv6ExetUe6w00tINrreEO) | 4:01 | 2023-08-10 |  |
 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 | 2023-08-10 |  |
@@ -54,7 +55,8 @@
 | [Renegade](https://open.spotify.com/track/0tXzxt3aJcfKu9L5i7tgfK) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Reborn](https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner) | 3:18 | 2023-08-10 |  |
 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/05nmIjhawOHWTiA21xKpFE) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/3sx9ynPOj1lBDPrnwWkGD1) | 3:49 | 2023-08-10 |  |
 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-08-10 | 2023-11-19 |
-| [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 | 2023-08-10 |  |
+| [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 | 2023-08-10 | 2024-01-12 |
+| [See You Again](https://open.spotify.com/track/2Z8UT1hMeJlpCj1p7RUmcH) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 4:22 | 2023-08-10 |  |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-08-10 |  |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2023-08-10 |  |
 | [Stars](https://open.spotify.com/track/3243FROOYOzJUEMk8RbJYg) | [Tesla Boy](https://open.spotify.com/artist/0VSi6lAB9txdaW5VEmIx9b) | [The Universe Made of Darkness](https://open.spotify.com/album/64nzpFx3VlUA7XjHTgDYEw) | 4:40 | 2023-08-10 |  |

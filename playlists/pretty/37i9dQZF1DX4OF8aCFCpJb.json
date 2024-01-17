@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68744,
+  "num_followers": 68628,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "V\u00e5r betong",
-        "url": "https://open.spotify.com/album/5W1UoUi2OhzcnwIIBW2Ail"
-      },
-      "artists": [
-        {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "V\u00e5r betong",
-      "url": "https://open.spotify.com/track/5iLYWyAMSGqpL7NASZbR4w"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Min Tid",
         "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
       },
@@ -143,6 +127,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 226547,
+      "name": "1.000.000 Nollor",
+      "url": "https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "K\u00e4rlek & Revolt",
         "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
       },
@@ -155,26 +155,6 @@
       "duration_ms": 232586,
       "name": "12/12",
       "url": "https://open.spotify.com/track/3F2avOu7brXts7okal0BbK"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Hela Livet",
-        "url": "https://open.spotify.com/album/3ObxkdT65iK1fa2t5X7a8N"
-      },
-      "artists": [
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
-        }
-      ],
-      "duration_ms": 224551,
-      "name": "N\u00e5n Annan (feat. Jacco)",
-      "url": "https://open.spotify.com/track/0FDF7UebxnxtLZwJIsbnbB"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -199,22 +179,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 260399,
-      "name": "You Are My Angel",
-      "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Pang Pang",
         "url": "https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW"
       },
@@ -227,6 +191,42 @@
       "duration_ms": 245052,
       "name": "Pang Pang",
       "url": "https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "V\u00e5r betong",
+        "url": "https://open.spotify.com/album/5W1UoUi2OhzcnwIIBW2Ail"
+      },
+      "artists": [
+        {
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "V\u00e5r betong",
+      "url": "https://open.spotify.com/track/5iLYWyAMSGqpL7NASZbR4w"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Hela Livet",
+        "url": "https://open.spotify.com/album/3ObxkdT65iK1fa2t5X7a8N"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+        }
+      ],
+      "duration_ms": 224551,
+      "name": "N\u00e5n Annan (feat. Jacco)",
+      "url": "https://open.spotify.com/track/0FDF7UebxnxtLZwJIsbnbB"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 226547,
-      "name": "1.000.000 Nollor",
-      "url": "https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Min Tid",
         "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
       },
@@ -279,6 +263,54 @@
       "duration_ms": 226063,
       "name": "Polisen sla\u030ar",
       "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 260399,
+      "name": "You Are My Angel",
+      "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 179251,
+      "name": "In Kommer Ting",
+      "url": "https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Labababa",
+        "url": "https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 273813,
+      "name": "Tribulations",
+      "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -323,58 +355,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Labababa",
-        "url": "https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 273813,
-      "name": "Tribulations",
-      "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Ugly Girls",
-      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Helt Off",
-        "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
-      },
-      "artists": [
-        {
-          "name": "Helt Off",
-          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
-        },
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Babylonsjukan",
-      "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Kalibreraren",
         "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
       },
@@ -415,24 +395,8 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Dimman",
-        "url": "https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Dimman",
-      "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+        "name": "Rudeboy Love",
+        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
       },
       "artists": [
         {
@@ -440,9 +404,61 @@
           "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 179251,
-      "name": "In Kommer Ting",
-      "url": "https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6"
+      "duration_ms": 220201,
+      "name": "Rudeboy Love",
+      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Helt Off",
+        "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
+      },
+      "artists": [
+        {
+          "name": "Helt Off",
+          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Babylonsjukan",
+      "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Ugly Girls",
+      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "D\u00f6md att bli bed\u00f6md",
+        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Gillar din vibe",
+      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -467,18 +483,34 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Dancehall",
-        "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
+        "name": "Dimman",
+        "url": "https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r"
       },
       "artists": [
         {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 198805,
-      "name": "Som Bob Marley",
-      "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
+      "duration_ms": 217142,
+      "name": "Dimman",
+      "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "\u00d6ver Min D\u00f6da",
+        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 213019,
+      "name": "\u00d6ver Min D\u00f6da",
+      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -499,34 +531,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "D\u00f6md att bli bed\u00f6md",
-        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
+        "name": "Dancehall",
+        "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
       },
       "artists": [
         {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
         }
       ],
-      "duration_ms": 188773,
-      "name": "Gillar din vibe",
-      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Rudeboy Love",
-        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 220201,
-      "name": "Rudeboy Love",
-      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
+      "duration_ms": 198805,
+      "name": "Som Bob Marley",
+      "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -563,22 +579,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
-        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Snapphaneklanen",
-      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Rotl\u00f6sa Singlar",
         "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 237702,
       "name": "Jag Minns",
       "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
+        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Snapphaneklanen",
+      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -631,62 +647,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "\u00d6ver Min D\u00f6da",
-        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 213019,
-      "name": "\u00d6ver Min D\u00f6da",
-      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Kalibreraren",
-        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
-      },
-      "artists": [
-        {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        },
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Kontakt",
-      "url": "https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Folkets R\u00f6st",
-        "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        },
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 193908,
-      "name": "Enda V\u00e4gen Fram",
-      "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Slutpl\u00e4deringen",
         "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
       },
@@ -711,54 +671,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "G\u00f6r Det \u00c4nd\u00e5",
-        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Vakna",
-      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Wayback",
         "url": "https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B"
       },
@@ -779,18 +691,74 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Reggaestrerad",
-        "url": "https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG"
+        "name": "Kalibreraren",
+        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
+      },
+      "artists": [
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        },
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Kontakt",
+      "url": "https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Folkets R\u00f6st",
+        "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
       },
       "artists": [
         {
           "name": "General Knas",
           "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 223122,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i"
+      "duration_ms": 193908,
+      "name": "Enda V\u00e4gen Fram",
+      "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "G\u00f6r Det \u00c4nd\u00e5",
+        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -815,50 +783,54 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Resa Sig Opp",
-        "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
       },
       "artists": [
         {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Du Vill S\u00e5 Du Kan",
-      "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
+      "duration_ms": 222000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
     },
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Br\u00e5da dagar",
-        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+        "name": "SELFMADE",
+        "url": "https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Bulleribock",
-      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
+      "duration_ms": 240062,
+      "name": "Onda \u00f6gat",
+      "url": "https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC"
     },
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Du som snodde min cykel",
-        "url": "https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA"
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
       "artists": [
         {
-          "name": "Kronofogden",
-          "url": "https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ"
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 223515,
-      "name": "Du som snodde min cykel",
-      "url": "https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF"
+      "duration_ms": 233934,
+      "name": "Bida Din Tid",
+      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -879,6 +851,42 @@
       "duration_ms": 282124,
       "name": "Aina \u00c4lskar Reggae",
       "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "ANITYA",
+        "url": "https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        },
+        {
+          "name": "Partillo",
+          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
+        }
+      ],
+      "duration_ms": 205011,
+      "name": "Make Sense",
+      "url": "https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Br\u00e5da dagar",
+        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Bulleribock",
+      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
     }
   ],
   "unique_name": "Svensk Reggae",

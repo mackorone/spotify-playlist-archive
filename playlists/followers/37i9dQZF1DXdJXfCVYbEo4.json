@@ -1,549 +1,459 @@
 {
-  "2022-06-30": 36003,
-  "2022-07-01": 36030,
-  "2022-07-02": 36046,
-  "2022-07-03": 36075,
-  "2022-07-04": 36103,
-  "2022-07-05": 36126,
-  "2022-07-06": 36139,
-  "2022-07-07": 36167,
-  "2022-07-08": 36202,
-  "2022-07-09": 36226,
-  "2022-07-10": 36269,
-  "2022-07-11": 36314,
-  "2022-07-12": 36341,
-  "2022-07-13": 36361,
-  "2022-07-14": 36374,
-  "2022-07-15": 36392,
-  "2022-07-16": 36423,
-  "2022-07-17": 36449,
-  "2022-07-18": 36490,
-  "2022-07-19": 36522,
-  "2022-07-20": 36548,
-  "2022-07-21": 36579,
-  "2022-07-22": 36613,
-  "2022-07-23": 36636,
-  "2022-07-24": 36657,
-  "2022-07-25": 36686,
-  "2022-07-26": 36709,
-  "2022-07-27": 36726,
-  "2022-07-28": 36750,
-  "2022-07-29": 36774,
-  "2022-07-30": 36832,
-  "2022-07-31": 36832,
-  "2022-08-01": 36850,
-  "2022-08-02": 36891,
-  "2022-08-03": 36891,
-  "2022-08-04": 36918,
-  "2022-08-05": 36954,
-  "2022-08-06": 36986,
-  "2022-08-07": 37022,
-  "2022-08-08": 37076,
-  "2022-08-09": 37114,
-  "2022-08-10": 37151,
-  "2022-08-11": 37179,
-  "2022-08-12": 37216,
-  "2022-08-13": 37249,
-  "2022-08-14": 37297,
-  "2022-08-15": 37334,
-  "2022-08-16": 37371,
-  "2022-08-17": 37412,
-  "2022-08-18": 37450,
-  "2022-08-19": 37494,
-  "2022-08-20": 37526,
-  "2022-08-21": 37564,
-  "2022-08-22": 37591,
-  "2022-08-23": 37636,
-  "2022-08-24": 37670,
-  "2022-08-25": 37702,
-  "2022-08-26": 37737,
-  "2022-08-27": 37779,
-  "2022-08-28": 37815,
-  "2022-08-29": 37854,
-  "2022-08-30": 37881,
-  "2022-08-31": 37913,
-  "2022-09-01": 37955,
-  "2022-09-02": 37981,
-  "2022-09-03": 37995,
-  "2022-09-04": 38028,
-  "2022-09-05": 38066,
-  "2022-09-06": 38094,
-  "2022-09-07": 38128,
-  "2022-09-09": 38190,
-  "2022-09-10": 38226,
-  "2022-09-11": 38257,
-  "2022-09-12": 38274,
-  "2022-09-13": 38305,
-  "2022-09-15": 38352,
-  "2022-09-16": 38399,
-  "2022-09-17": 38443,
-  "2022-09-18": 38476,
-  "2022-09-19": 38508,
-  "2022-09-20": 38539,
-  "2022-09-21": 38564,
-  "2022-09-22": 38607,
-  "2022-09-23": 38637,
-  "2022-09-24": 38659,
-  "2022-09-25": 38693,
-  "2022-09-26": 38724,
-  "2022-09-27": 38759,
-  "2022-09-28": 38806,
-  "2022-09-29": 38847,
-  "2022-09-30": 38881,
-  "2022-10-01": 38918,
-  "2022-10-02": 38959,
-  "2022-10-03": 38991,
-  "2022-10-04": 39034,
-  "2022-10-05": 39063,
-  "2022-10-06": 39087,
-  "2022-10-07": 39115,
-  "2022-10-08": 39165,
-  "2022-10-09": 39232,
-  "2022-10-10": 39242,
-  "2022-10-11": 39254,
-  "2022-10-12": 39289,
-  "2022-10-13": 39318,
-  "2022-10-14": 39338,
-  "2022-10-15": 39383,
-  "2022-10-16": 39430,
-  "2022-10-17": 39468,
-  "2022-10-18": 39502,
-  "2022-10-19": 39528,
-  "2022-10-20": 39558,
-  "2022-10-21": 39590,
-  "2022-10-22": 39621,
-  "2022-10-23": 39654,
-  "2022-10-24": 39701,
-  "2022-10-25": 39739,
-  "2022-10-26": 39785,
-  "2022-10-27": 39823,
-  "2022-10-28": 39863,
-  "2022-10-29": 39898,
-  "2022-10-30": 39941,
-  "2022-10-31": 39971,
-  "2022-11-01": 39999,
-  "2022-11-02": 40035,
-  "2022-11-03": 40070,
-  "2022-11-04": 40110,
-  "2022-11-05": 40142,
-  "2022-11-06": 40180,
-  "2022-11-07": 40217,
-  "2022-11-08": 40246,
-  "2022-11-09": 40289,
-  "2022-11-10": 40335,
-  "2022-11-11": 40378,
-  "2022-11-12": 40426,
-  "2022-11-13": 40465,
-  "2022-11-14": 40505,
-  "2022-11-15": 40548,
-  "2022-11-16": 40581,
-  "2022-11-17": 40627,
-  "2022-11-18": 40638,
-  "2022-11-19": 40650,
-  "2022-11-20": 40674,
-  "2022-11-21": 40710,
-  "2022-11-22": 40749,
-  "2022-11-23": 40784,
-  "2022-11-24": 40845,
-  "2022-11-25": 40888,
-  "2022-11-26": 40920,
-  "2022-11-27": 40946,
-  "2022-11-28": 40979,
-  "2022-11-29": 41016,
-  "2022-11-30": 41042,
-  "2022-12-01": 41086,
-  "2022-12-02": 41104,
-  "2022-12-03": 41163,
-  "2022-12-04": 41202,
-  "2022-12-05": 41231,
-  "2022-12-06": 41279,
-  "2022-12-07": 41325,
-  "2022-12-08": 41361,
-  "2022-12-09": 41411,
-  "2022-12-10": 41440,
-  "2022-12-11": 41487,
-  "2022-12-12": 41531,
-  "2022-12-13": 41576,
-  "2022-12-14": 41610,
-  "2022-12-15": 41652,
-  "2022-12-16": 41693,
-  "2022-12-17": 41720,
-  "2022-12-18": 41747,
-  "2022-12-19": 41766,
-  "2022-12-20": 41846,
-  "2022-12-21": 41846,
-  "2022-12-22": 41885,
-  "2022-12-24": 41958,
-  "2022-12-25": 42007,
-  "2022-12-26": 42035,
-  "2022-12-27": 42079,
-  "2022-12-28": 42125,
-  "2022-12-29": 42166,
-  "2022-12-30": 42204,
-  "2022-12-31": 42250,
-  "2023-01-01": 42312,
-  "2023-01-02": 42335,
-  "2023-01-03": 42390,
-  "2023-01-04": 42431,
-  "2023-01-05": 42473,
-  "2023-01-06": 42533,
-  "2023-01-07": 42601,
-  "2023-01-08": 42624,
-  "2023-01-09": 42671,
-  "2023-01-10": 42728,
-  "2023-01-11": 42783,
-  "2023-01-12": 42818,
-  "2023-01-13": 42854,
-  "2023-01-14": 42920,
-  "2023-01-15": 42926,
-  "2023-01-16": 42984,
-  "2023-01-17": 43030,
-  "2023-01-18": 43063,
-  "2023-01-19": 43118,
-  "2023-01-20": 43158,
-  "2023-01-21": 43199,
-  "2023-01-22": 43258,
-  "2023-01-23": 43295,
-  "2023-01-24": 43339,
-  "2023-01-25": 43377,
-  "2023-01-26": 43415,
-  "2023-01-27": 43449,
-  "2023-01-28": 43485,
-  "2023-01-29": 43530,
-  "2023-01-30": 43575,
-  "2023-01-31": 43575,
-  "2023-02-01": 43672,
-  "2023-02-02": 43715,
-  "2023-02-03": 43765,
-  "2023-02-04": 43822,
-  "2023-02-05": 43863,
-  "2023-02-06": 43905,
-  "2023-02-07": 43939,
-  "2023-02-08": 44012,
-  "2023-02-09": 44012,
-  "2023-02-10": 44066,
-  "2023-02-11": 44103,
-  "2023-02-12": 44182,
-  "2023-02-13": 44218,
-  "2023-02-14": 44218,
-  "2023-02-15": 44267,
-  "2023-02-16": 44303,
-  "2023-02-17": 44340,
-  "2023-02-18": 44445,
-  "2023-02-19": 44453,
-  "2023-02-20": 44482,
-  "2023-02-21": 44527,
-  "2023-02-22": 44582,
-  "2023-02-23": 44611,
-  "2023-02-24": 44648,
-  "2023-02-25": 44697,
-  "2023-02-26": 44720,
-  "2023-02-27": 44786,
-  "2023-02-28": 44786,
-  "2023-03-01": 44816,
-  "2023-03-02": 44859,
-  "2023-03-03": 44908,
-  "2023-03-04": 44942,
-  "2023-03-05": 45017,
-  "2023-03-06": 45017,
-  "2023-03-07": 45065,
-  "2023-03-08": 45073,
-  "2023-03-09": 45100,
-  "2023-03-10": 45128,
-  "2023-03-11": 45165,
-  "2023-03-12": 45205,
-  "2023-03-13": 45237,
-  "2023-03-14": 45271,
-  "2023-03-15": 45302,
-  "2023-03-16": 45339,
-  "2023-03-17": 45339,
-  "2023-03-18": 45419,
-  "2023-03-19": 45459,
-  "2023-03-20": 45496,
-  "2023-03-21": 45542,
-  "2023-03-22": 45572,
-  "2023-03-23": 45609,
-  "2023-03-24": 45609,
-  "2023-03-25": 45674,
-  "2023-03-26": 45706,
-  "2023-03-27": 45733,
-  "2023-03-28": 45760,
-  "2023-03-29": 45802,
-  "2023-03-30": 45858,
-  "2023-03-31": 45858,
-  "2023-04-01": 45899,
-  "2023-04-02": 45934,
-  "2023-04-03": 45966,
-  "2023-04-04": 45992,
-  "2023-04-05": 46031,
-  "2023-04-06": 46064,
-  "2023-04-07": 46097,
-  "2023-04-09": 46187,
-  "2023-04-10": 46241,
-  "2023-04-11": 46312,
-  "2023-04-12": 46312,
-  "2023-04-13": 46344,
-  "2023-04-14": 46391,
-  "2023-04-15": 46438,
-  "2023-04-16": 46481,
-  "2023-04-17": 46535,
-  "2023-04-18": 46584,
-  "2023-04-19": 46627,
-  "2023-04-20": 46674,
-  "2023-04-21": 46712,
-  "2023-04-22": 46747,
-  "2023-04-23": 46795,
-  "2023-04-24": 46821,
-  "2023-04-25": 46854,
-  "2023-04-26": 46902,
-  "2023-04-27": 46952,
-  "2023-04-28": 46977,
-  "2023-04-29": 47012,
-  "2023-04-30": 47054,
-  "2023-05-01": 47087,
-  "2023-05-02": 47125,
-  "2023-05-03": 47177,
-  "2023-05-04": 47219,
-  "2023-05-05": 47279,
-  "2023-05-06": 47318,
-  "2023-05-07": 47367,
-  "2023-05-08": 47424,
-  "2023-05-09": 47474,
-  "2023-05-10": 47509,
-  "2023-05-11": 47541,
-  "2023-05-12": 47586,
-  "2023-05-13": 47620,
-  "2023-05-14": 47673,
-  "2023-05-15": 47724,
-  "2023-05-16": 47772,
-  "2023-05-17": 47827,
-  "2023-05-18": 47865,
-  "2023-05-19": 47922,
-  "2023-05-20": 48036,
-  "2023-05-21": 48036,
-  "2023-05-22": 48036,
-  "2023-05-23": 48150,
-  "2023-05-24": 48243,
-  "2023-05-25": 48263,
-  "2023-05-26": 48326,
-  "2023-05-27": 48366,
-  "2023-05-28": 48413,
-  "2023-05-29": 48413,
-  "2023-05-30": 48499,
-  "2023-05-31": 48527,
-  "2023-06-01": 48584,
-  "2023-06-02": 48627,
-  "2023-06-03": 48665,
-  "2023-06-04": 48711,
-  "2023-06-05": 48744,
-  "2023-06-06": 48787,
-  "2023-06-07": 48837,
-  "2023-06-08": 48881,
-  "2023-06-09": 48930,
-  "2023-06-10": 49005,
-  "2023-06-11": 49041,
-  "2023-06-12": 49075,
-  "2023-06-13": 49120,
-  "2023-06-14": 49208,
-  "2023-06-15": 49279,
-  "2023-06-16": 49314,
-  "2023-06-17": 49370,
-  "2023-06-18": 49437,
-  "2023-06-19": 49479,
-  "2023-06-20": 49532,
-  "2023-06-21": 49584,
-  "2023-06-22": 49631,
-  "2023-06-23": 49685,
-  "2023-06-24": 49746,
-  "2023-06-25": 49806,
-  "2023-06-26": 49862,
-  "2023-06-27": 49912,
-  "2023-06-28": 49963,
-  "2023-06-29": 50006,
-  "2023-06-30": 50068,
-  "2023-07-01": 50187,
-  "2023-07-02": 50187,
-  "2023-07-03": 50251,
-  "2023-07-04": 50313,
-  "2023-07-05": 50367,
-  "2023-07-06": 50461,
-  "2023-07-07": 50461,
-  "2023-07-08": 50529,
-  "2023-07-09": 50570,
-  "2023-07-10": 50618,
-  "2023-07-11": 50657,
-  "2023-07-12": 50705,
-  "2023-07-13": 50751,
-  "2023-07-14": 50784,
-  "2023-07-15": 50830,
-  "2023-07-16": 50895,
-  "2023-07-17": 50953,
-  "2023-07-18": 50995,
-  "2023-07-19": 51027,
-  "2023-07-20": 51055,
-  "2023-07-21": 51100,
-  "2023-07-22": 51152,
-  "2023-07-23": 51200,
-  "2023-07-24": 51251,
-  "2023-07-25": 51285,
-  "2023-07-26": 51329,
-  "2023-07-27": 51405,
-  "2023-07-28": 51456,
-  "2023-07-29": 51517,
-  "2023-07-30": 51569,
-  "2023-07-31": 51620,
-  "2023-08-01": 51662,
-  "2023-08-02": 51711,
-  "2023-08-03": 51756,
-  "2023-08-04": 51788,
-  "2023-08-05": 51838,
-  "2023-08-06": 51953,
-  "2023-08-07": 51953,
-  "2023-08-08": 52000,
-  "2023-08-09": 52052,
-  "2023-08-10": 52108,
-  "2023-08-11": 52162,
-  "2023-08-12": 52239,
-  "2023-08-13": 52313,
-  "2023-08-14": 52382,
-  "2023-08-15": 52526,
-  "2023-08-16": 52526,
-  "2023-08-17": 52579,
-  "2023-08-18": 52632,
-  "2023-08-19": 52703,
-  "2023-08-20": 52773,
-  "2023-08-21": 52855,
-  "2023-08-22": 52900,
-  "2023-08-23": 52948,
-  "2023-08-24": 53005,
-  "2023-08-25": 53067,
-  "2023-08-26": 53117,
-  "2023-08-27": 53189,
-  "2023-08-28": 53263,
-  "2023-08-29": 53323,
-  "2023-08-30": 53388,
-  "2023-08-31": 53450,
-  "2023-09-01": 53595,
-  "2023-09-02": 53595,
-  "2023-09-03": 53653,
-  "2023-09-04": 53724,
-  "2023-09-05": 53806,
-  "2023-09-06": 53894,
-  "2023-09-07": 53959,
-  "2023-09-08": 53959,
-  "2023-09-09": 54135,
-  "2023-09-10": 54223,
-  "2023-09-11": 54300,
-  "2023-09-12": 54300,
-  "2023-09-13": 54457,
-  "2023-09-14": 54457,
-  "2023-09-15": 54586,
-  "2023-09-16": 54646,
-  "2023-09-17": 54646,
-  "2023-09-18": 54646,
-  "2023-09-19": 54833,
-  "2023-09-20": 54894,
-  "2023-09-21": 54956,
-  "2023-09-22": 55021,
-  "2023-09-23": 55021,
-  "2023-09-24": 55021,
-  "2023-09-25": 55021,
-  "2023-09-26": 55292,
-  "2023-09-27": 55292,
-  "2023-09-28": 55401,
-  "2023-09-29": 55453,
-  "2023-09-30": 55453,
-  "2023-10-01": 55554,
-  "2023-10-02": 55597,
-  "2023-10-03": 55643,
-  "2023-10-04": 55713,
-  "2023-10-05": 55751,
-  "2023-10-06": 55799,
-  "2023-10-07": 55799,
-  "2023-10-08": 55928,
-  "2023-10-09": 55928,
-  "2023-10-10": 55928,
-  "2023-10-11": 56083,
-  "2023-10-12": 56083,
-  "2023-10-13": 56199,
-  "2023-10-14": 56199,
-  "2023-10-15": 56199,
-  "2023-10-16": 56199,
-  "2023-10-17": 56199,
-  "2023-10-18": 56199,
-  "2023-10-19": 56199,
-  "2023-10-20": 56199,
-  "2023-10-21": 56199,
-  "2023-10-22": 56199,
-  "2023-10-23": 56199,
-  "2023-10-24": 56812,
-  "2023-10-25": 56812,
-  "2023-10-26": 56812,
-  "2023-10-27": 56812,
-  "2023-10-28": 56812,
-  "2023-10-29": 56812,
-  "2023-10-30": 56812,
-  "2023-10-31": 56812,
-  "2023-11-01": 56812,
-  "2023-11-02": 56812,
-  "2023-11-03": 56812,
-  "2023-11-04": 56812,
-  "2023-11-05": 56812,
-  "2023-11-06": 56812,
-  "2023-11-07": 56812,
-  "2023-11-08": 56812,
-  "2023-11-09": 56812,
-  "2023-11-10": 56812,
-  "2023-11-11": 57731,
-  "2023-11-12": 57731,
-  "2023-11-13": 57731,
-  "2023-11-14": 57731,
-  "2023-11-15": 57731,
-  "2023-11-16": 57731,
-  "2023-11-17": 58036,
-  "2023-11-18": 58036,
-  "2023-11-19": 58036,
-  "2023-11-20": 58036,
-  "2023-11-21": 58036,
-  "2023-11-22": 58036,
-  "2023-11-23": 58233,
-  "2023-11-24": 58233,
-  "2023-11-25": 58233,
-  "2023-11-26": 58233,
-  "2023-11-27": 58233,
-  "2023-11-28": 58233,
-  "2023-11-29": 58233,
-  "2023-11-30": 58233,
-  "2023-12-01": 58233,
-  "2023-12-02": 58233,
-  "2023-12-03": 58233,
-  "2023-12-04": 58233,
-  "2023-12-05": 58233,
-  "2023-12-06": 58233,
-  "2023-12-07": 58233,
-  "2023-12-08": 58233,
-  "2023-12-09": 58233,
-  "2023-12-10": 58233,
-  "2023-12-11": 59144,
-  "2023-12-12": 59144,
-  "2023-12-13": 59144,
-  "2023-12-14": 59252,
-  "2023-12-15": 59284,
-  "2023-12-16": 59314,
-  "2023-12-17": 59351,
-  "2023-12-18": 59392,
-  "2023-12-19": 59413,
-  "2023-12-20": 59454,
-  "2023-12-21": 59497,
-  "2023-12-22": 59551,
-  "2023-12-23": 59596,
-  "2023-12-24": 59651,
-  "2023-12-25": 59691,
-  "2023-12-26": 59742,
-  "2023-12-27": 59782,
-  "2023-12-30": 59936,
-  "2023-12-31": 59997,
-  "2024-01-01": 60050,
-  "2024-01-02": 60098,
-  "2024-01-03": 60141
+  "2024-01-17": 60809,
+  "date_first_scraped": "2022-06-30",
+  "description": "Las canciones que consagraron a Soda Stereo en Latinoam\u00e9rica y m\u00e1s all\u00e1.",
+  "name": "Soda Stereo: 25 Esenciales",
+  "tracks": [
+    {
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263280,
+      "name": "(En) El S\u00e9ptimo D\u00eda - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/4xVZmLJtBTedcXbDB3qYdX"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247453,
+      "name": "Canci\u00f3n Animal - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/6PqMi24DPibrFj9Ioc4hKL"
+    },
+    {
+      "album": {
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312840,
+      "name": "Coraz\u00f3n Delator - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2zaZ81JI8KbYaL7210BB0U"
+    },
+    {
+      "album": {
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229160,
+      "name": "Cuando Pase El Temblor - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
+    },
+    {
+      "album": {
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Danza Rota - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/6WB3ovHYXvhXfXQnAeE5qj"
+    },
+    {
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "De M\u00fasica Ligera",
+      "url": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg"
+    },
+    {
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366266,
+      "name": "El Rito - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/61Hl37BKbYcSelJ3Sd8oU0"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269760,
+      "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
+    },
+    {
+      "album": {
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346053,
+      "name": "En La Ciudad De La Furia - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
+    },
+    {
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294146,
+      "name": "Entre Canibales - MTV Unplugged",
+      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
+    },
+    {
+      "album": {
+        "name": "Ruido Blanco (Remastered)",
+        "url": "https://open.spotify.com/album/6cu5hIiTmKPL61p8nhpXp6"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338533,
+      "name": "Final Caja Negra - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/6orWdjWmkkKQIqUdgCmx9P"
+    },
+    {
+      "album": {
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198106,
+      "name": "Juegos De Seducci\u00f3n - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t"
+    },
+    {
+      "album": {
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273933,
+      "name": "Lo Que Sangra (La C\u00fapula) - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/1Ssg0m4YjM10XVTXlblIg0"
+    },
+    {
+      "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330600,
+      "name": "Luna Roja - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX"
+    },
+    {
+      "album": {
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292573,
+      "name": "Nada Personal - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/4PBou1i63krEp3jKCPhxVD"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Paseando Por Roma - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7Dk43uYcLammTOb4kS7Q9g"
+    },
+    {
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+    },
+    {
+      "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140346,
+      "name": "Por Qu\u00e9 No Puedo Ser Del Jet Set? - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg"
+    },
+    {
+      "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "Primavera 0 - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6"
+    },
+    {
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317613,
+      "name": "Pr\u00f3fugos - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/1Tja3miBbbENpqIOAqGWXa"
+    },
+    {
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315346,
+      "name": "Signos - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/09L0jTQCVyvR07arr9Gn6u"
+    },
+    {
+      "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249053,
+      "name": "Sobredosis de T.V. - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/0aUATjSSGs7kJ7DK3J8x99"
+    },
+    {
+      "album": {
+        "name": "El Ultimo Concierto A (Remastered)",
+        "url": "https://open.spotify.com/album/3QTxxZucih0hympCczXXuO"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2LxyITcslKIKdMyYdHdA5l"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145493,
+      "name": "T\u00e9 Para 3 - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2ZWkWB5ZC9BOuPkVuLZs8p"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206306,
+      "name": "Zoom - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdJXfCVYbEo4"
 }

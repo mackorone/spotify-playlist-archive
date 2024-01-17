@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,651 likes - 45 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,233 likes - 45 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

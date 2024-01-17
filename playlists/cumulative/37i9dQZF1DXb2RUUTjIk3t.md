@@ -4,7 +4,7 @@
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-88 songs - 4 hr 48 min
+89 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Merry Midnight](https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 4:29 | 2022-11-30 |  |
 | [Meteorite](https://open.spotify.com/track/4FqAoONyMV4m0KLnoZ43im) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:14 | 2022-11-30 |  |
 | [Moon](https://open.spotify.com/track/06qc761kJm9KNfib0Uzofl) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Moon](https://open.spotify.com/album/60h4O4QjG72EGU9mFCbIg3) | 3:10 | 2022-11-30 |  |
-| [Másért](https://open.spotify.com/track/12ZSKLi4bF01rlyA0hOc4S) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [Másért](https://open.spotify.com/album/5J99Kn2B3HlcV7IY9uYla0) | 3:22 | 2022-11-30 |  |
+| [Másért](https://open.spotify.com/track/12ZSKLi4bF01rlyA0hOc4S) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [Másért](https://open.spotify.com/album/5J99Kn2B3HlcV7IY9uYla0) | 3:22 | 2022-11-30 | 2024-01-05 |
+| [Másért](https://open.spotify.com/track/5H7bt2n2OTzDBNrtT2slH3) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [Másért](https://open.spotify.com/album/0d839scyjs6HKG6pWEhvC0) | 3:22 | 2022-11-30 |  |
 | [Mélodie](https://open.spotify.com/track/2F8tzUI4guwXpszgwaRBCX) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 2:30 | 2022-11-30 |  |
 | [Nada Que Ver](https://open.spotify.com/track/3VSZNY35QyJVDqjYuSJ94K) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Nada Que Ver](https://open.spotify.com/album/19CbXgP9Dc5Z8lJld7dQvo) | 3:16 | 2022-11-30 |  |
 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 | 2022-11-30 |  |

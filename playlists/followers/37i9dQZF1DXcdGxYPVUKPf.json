@@ -1,641 +1,583 @@
 {
-  "2022-03-28": 411317,
-  "2022-03-30": 411474,
-  "2022-03-31": 411539,
-  "2022-04-01": 411569,
-  "2022-04-02": 411619,
-  "2022-04-03": 411646,
-  "2022-04-04": 411716,
-  "2022-04-05": 411774,
-  "2022-04-06": 411848,
-  "2022-04-07": 411933,
-  "2022-04-08": 412027,
-  "2022-04-09": 412061,
-  "2022-04-10": 412178,
-  "2022-04-11": 412235,
-  "2022-04-12": 412242,
-  "2022-04-13": 412281,
-  "2022-04-14": 412330,
-  "2022-04-15": 412355,
-  "2022-04-16": 412379,
-  "2022-04-17": 412416,
-  "2022-04-18": 412449,
-  "2022-04-19": 412482,
-  "2022-04-20": 412560,
-  "2022-04-21": 412600,
-  "2022-04-22": 412662,
-  "2022-04-23": 412715,
-  "2022-04-24": 412749,
-  "2022-04-25": 412776,
-  "2022-04-26": 412828,
-  "2022-04-27": 412913,
-  "2022-04-28": 412966,
-  "2022-04-29": 413020,
-  "2022-04-30": 413086,
-  "2022-05-01": 413151,
-  "2022-05-02": 413151,
-  "2022-05-03": 413236,
-  "2022-05-04": 413342,
-  "2022-05-05": 413402,
-  "2022-05-06": 413467,
-  "2022-05-07": 413533,
-  "2022-05-08": 413615,
-  "2022-05-09": 413627,
-  "2022-05-10": 413698,
-  "2022-05-11": 413783,
-  "2022-05-12": 413866,
-  "2022-05-13": 413980,
-  "2022-05-14": 414058,
-  "2022-05-15": 414126,
-  "2022-05-16": 414212,
-  "2022-05-17": 414285,
-  "2022-05-18": 414366,
-  "2022-05-19": 414407,
-  "2022-05-20": 414513,
-  "2022-05-21": 414638,
-  "2022-05-22": 414638,
-  "2022-05-23": 414689,
-  "2022-05-24": 414748,
-  "2022-05-25": 414808,
-  "2022-05-26": 414857,
-  "2022-05-27": 414901,
-  "2022-05-28": 414964,
-  "2022-05-29": 415016,
-  "2022-05-30": 415079,
-  "2022-05-31": 415118,
-  "2022-06-01": 415227,
-  "2022-06-02": 415238,
-  "2022-06-03": 415291,
-  "2022-06-04": 415329,
-  "2022-06-05": 415390,
-  "2022-06-06": 415449,
-  "2022-06-07": 415509,
-  "2022-06-08": 415600,
-  "2022-06-09": 415669,
-  "2022-06-10": 415754,
-  "2022-06-11": 415818,
-  "2022-06-12": 415873,
-  "2022-06-13": 415957,
-  "2022-06-14": 416025,
-  "2022-06-15": 416097,
-  "2022-06-16": 416141,
-  "2022-06-17": 416210,
-  "2022-06-18": 416268,
-  "2022-06-19": 416354,
-  "2022-06-20": 416354,
-  "2022-06-21": 416396,
-  "2022-06-22": 416500,
-  "2022-06-23": 416500,
-  "2022-06-24": 416570,
-  "2022-06-25": 416614,
-  "2022-06-26": 416663,
-  "2022-06-27": 416730,
-  "2022-06-28": 416791,
-  "2022-06-29": 416845,
-  "2022-06-30": 416894,
-  "2022-07-01": 416986,
-  "2022-07-02": 417045,
-  "2022-07-03": 417116,
-  "2022-07-04": 417190,
-  "2022-07-05": 417253,
-  "2022-07-06": 417337,
-  "2022-07-07": 417400,
-  "2022-07-08": 417454,
-  "2022-07-09": 417471,
-  "2022-07-10": 417500,
-  "2022-07-11": 417531,
-  "2022-07-12": 417589,
-  "2022-07-13": 417630,
-  "2022-07-14": 417596,
-  "2022-07-15": 417587,
-  "2022-07-16": 417560,
-  "2022-07-17": 417534,
-  "2022-07-18": 417506,
-  "2022-07-19": 417465,
-  "2022-07-20": 417428,
-  "2022-07-21": 417444,
-  "2022-07-22": 417464,
-  "2022-07-23": 417447,
-  "2022-07-24": 417438,
-  "2022-07-25": 417424,
-  "2022-07-26": 417401,
-  "2022-07-27": 417367,
-  "2022-07-28": 417324,
-  "2022-07-29": 417289,
-  "2022-07-30": 417233,
-  "2022-07-31": 417233,
-  "2022-08-01": 417214,
-  "2022-08-02": 417161,
-  "2022-08-03": 417161,
-  "2022-08-04": 417115,
-  "2022-08-05": 417076,
-  "2022-08-06": 417052,
-  "2022-08-07": 417039,
-  "2022-08-08": 416991,
-  "2022-08-09": 416963,
-  "2022-08-10": 416929,
-  "2022-08-11": 416894,
-  "2022-08-12": 416883,
-  "2022-08-13": 416860,
-  "2022-08-14": 416837,
-  "2022-08-15": 416833,
-  "2022-08-16": 416788,
-  "2022-08-17": 416744,
-  "2022-08-18": 416686,
-  "2022-08-19": 416651,
-  "2022-08-20": 416625,
-  "2022-08-21": 416621,
-  "2022-08-22": 416600,
-  "2022-08-23": 416617,
-  "2022-08-24": 416599,
-  "2022-08-25": 416585,
-  "2022-08-26": 416566,
-  "2022-08-27": 416543,
-  "2022-08-28": 416516,
-  "2022-08-29": 416501,
-  "2022-08-30": 416358,
-  "2022-08-31": 416064,
-  "2022-09-01": 415765,
-  "2022-09-02": 415497,
-  "2022-09-03": 415006,
-  "2022-09-04": 414781,
-  "2022-09-05": 414716,
-  "2022-09-06": 414695,
-  "2022-09-07": 414698,
-  "2022-09-09": 414783,
-  "2022-09-10": 414755,
-  "2022-09-11": 414755,
-  "2022-09-12": 414744,
-  "2022-09-13": 414754,
-  "2022-09-15": 414733,
-  "2022-09-17": 414690,
-  "2022-09-18": 414662,
-  "2022-09-19": 414620,
-  "2022-09-20": 414614,
-  "2022-09-21": 414613,
-  "2022-09-22": 414568,
-  "2022-09-23": 414529,
-  "2022-09-24": 414500,
-  "2022-09-25": 414475,
-  "2022-09-26": 414452,
-  "2022-09-27": 414428,
-  "2022-09-28": 414408,
-  "2022-09-29": 414378,
-  "2022-09-30": 414350,
-  "2022-10-01": 414321,
-  "2022-10-02": 414300,
-  "2022-10-03": 414303,
-  "2022-10-04": 414286,
-  "2022-10-05": 414263,
-  "2022-10-06": 414244,
-  "2022-10-07": 414237,
-  "2022-10-08": 414213,
-  "2022-10-09": 414221,
-  "2022-10-10": 414211,
-  "2022-10-11": 414187,
-  "2022-10-12": 414158,
-  "2022-10-13": 414141,
-  "2022-10-14": 414131,
-  "2022-10-15": 414123,
-  "2022-10-16": 414108,
-  "2022-10-17": 414072,
-  "2022-10-18": 414058,
-  "2022-10-19": 414044,
-  "2022-10-20": 414020,
-  "2022-10-21": 414017,
-  "2022-10-22": 414017,
-  "2022-10-23": 414002,
-  "2022-10-24": 413980,
-  "2022-10-25": 413960,
-  "2022-10-26": 413952,
-  "2022-10-27": 413956,
-  "2022-10-28": 413967,
-  "2022-10-29": 413998,
-  "2022-10-30": 414005,
-  "2022-10-31": 414017,
-  "2022-11-01": 414041,
-  "2022-11-02": 414046,
-  "2022-11-03": 414103,
-  "2022-11-04": 414127,
-  "2022-11-05": 414142,
-  "2022-11-06": 414160,
-  "2022-11-07": 414159,
-  "2022-11-08": 414157,
-  "2022-11-09": 414138,
-  "2022-11-10": 414157,
-  "2022-11-11": 414166,
-  "2022-11-12": 414155,
-  "2022-11-13": 414175,
-  "2022-11-14": 414165,
-  "2022-11-15": 414167,
-  "2022-11-16": 414191,
-  "2022-11-17": 414212,
-  "2022-11-18": 414177,
-  "2022-11-19": 414150,
-  "2022-11-20": 414150,
-  "2022-11-21": 414162,
-  "2022-11-22": 414172,
-  "2022-11-23": 414194,
-  "2022-11-24": 414284,
-  "2022-11-25": 414348,
-  "2022-11-26": 414359,
-  "2022-11-27": 414357,
-  "2022-11-28": 414388,
-  "2022-11-29": 414409,
-  "2022-11-30": 414418,
-  "2022-12-01": 414411,
-  "2022-12-02": 414418,
-  "2022-12-03": 414406,
-  "2022-12-04": 414399,
-  "2022-12-05": 414392,
-  "2022-12-06": 414409,
-  "2022-12-07": 414451,
-  "2022-12-08": 414468,
-  "2022-12-09": 414484,
-  "2022-12-10": 414676,
-  "2022-12-11": 414871,
-  "2022-12-12": 414880,
-  "2022-12-13": 414888,
-  "2022-12-14": 414905,
-  "2022-12-15": 414903,
-  "2022-12-16": 414906,
-  "2022-12-17": 414916,
-  "2022-12-18": 414936,
-  "2022-12-19": 414951,
-  "2022-12-20": 414970,
-  "2022-12-21": 414970,
-  "2022-12-22": 414973,
-  "2022-12-24": 414956,
-  "2022-12-25": 414973,
-  "2022-12-26": 414981,
-  "2022-12-27": 415018,
-  "2022-12-28": 415011,
-  "2022-12-29": 415016,
-  "2022-12-30": 415023,
-  "2022-12-31": 415045,
-  "2023-01-01": 415063,
-  "2023-01-02": 415089,
-  "2023-01-03": 415117,
-  "2023-01-04": 415118,
-  "2023-01-05": 415129,
-  "2023-01-06": 415121,
-  "2023-01-07": 415141,
-  "2023-01-08": 415142,
-  "2023-01-09": 415137,
-  "2023-01-10": 415142,
-  "2023-01-11": 415133,
-  "2023-01-12": 415123,
-  "2023-01-13": 415082,
-  "2023-01-14": 415103,
-  "2023-01-15": 415102,
-  "2023-01-16": 415107,
-  "2023-01-17": 415101,
-  "2023-01-18": 415104,
-  "2023-01-19": 415108,
-  "2023-01-20": 415094,
-  "2023-01-21": 415105,
-  "2023-01-22": 415118,
-  "2023-01-23": 415149,
-  "2023-01-24": 415154,
-  "2023-01-25": 415131,
-  "2023-01-26": 415135,
-  "2023-01-27": 415158,
-  "2023-01-28": 415157,
-  "2023-01-29": 415172,
-  "2023-01-30": 415183,
-  "2023-01-31": 415183,
-  "2023-02-01": 415179,
-  "2023-02-02": 415192,
-  "2023-02-03": 415249,
-  "2023-02-04": 415252,
-  "2023-02-05": 415247,
-  "2023-02-06": 415271,
-  "2023-02-07": 415259,
-  "2023-02-08": 415311,
-  "2023-02-09": 415311,
-  "2023-02-10": 415334,
-  "2023-02-11": 415366,
-  "2023-02-12": 415387,
-  "2023-02-13": 415385,
-  "2023-02-14": 415385,
-  "2023-02-15": 415391,
-  "2023-02-16": 415384,
-  "2023-02-17": 415364,
-  "2023-02-18": 415379,
-  "2023-02-19": 415380,
-  "2023-02-20": 415361,
-  "2023-02-21": 415361,
-  "2023-02-22": 415379,
-  "2023-02-23": 415393,
-  "2023-02-24": 415397,
-  "2023-02-25": 415408,
-  "2023-02-26": 415412,
-  "2023-02-27": 415410,
-  "2023-02-28": 415410,
-  "2023-03-01": 415420,
-  "2023-03-02": 415417,
-  "2023-03-03": 415416,
-  "2023-03-04": 415418,
-  "2023-03-05": 415401,
-  "2023-03-06": 415401,
-  "2023-03-07": 415402,
-  "2023-03-08": 415395,
-  "2023-03-09": 415374,
-  "2023-03-10": 415374,
-  "2023-03-11": 415371,
-  "2023-03-12": 415365,
-  "2023-03-13": 415354,
-  "2023-03-14": 415338,
-  "2023-03-15": 415335,
-  "2023-03-16": 415328,
-  "2023-03-17": 415328,
-  "2023-03-18": 415318,
-  "2023-03-19": 415330,
-  "2023-03-20": 415309,
-  "2023-03-21": 415318,
-  "2023-03-22": 415323,
-  "2023-03-23": 415318,
-  "2023-03-24": 415318,
-  "2023-03-25": 415289,
-  "2023-03-26": 415278,
-  "2023-03-27": 415289,
-  "2023-03-28": 415285,
-  "2023-03-29": 415274,
-  "2023-03-30": 415234,
-  "2023-03-31": 415234,
-  "2023-04-01": 415213,
-  "2023-04-02": 415195,
-  "2023-04-03": 415196,
-  "2023-04-04": 415184,
-  "2023-04-05": 415183,
-  "2023-04-06": 415185,
-  "2023-04-07": 415171,
-  "2023-04-09": 415133,
-  "2023-04-10": 415117,
-  "2023-04-11": 415123,
-  "2023-04-12": 415123,
-  "2023-04-13": 415148,
-  "2023-04-14": 415171,
-  "2023-04-15": 415222,
-  "2023-04-16": 415260,
-  "2023-04-17": 415268,
-  "2023-04-18": 415282,
-  "2023-04-19": 415284,
-  "2023-04-20": 415271,
-  "2023-04-21": 415252,
-  "2023-04-22": 415250,
-  "2023-04-23": 415235,
-  "2023-04-24": 415246,
-  "2023-04-25": 415242,
-  "2023-04-26": 415235,
-  "2023-04-27": 415247,
-  "2023-04-28": 415236,
-  "2023-04-29": 415245,
-  "2023-04-30": 415258,
-  "2023-05-01": 415252,
-  "2023-05-02": 415227,
-  "2023-05-03": 415236,
-  "2023-05-04": 415230,
-  "2023-05-05": 415232,
-  "2023-05-06": 415231,
-  "2023-05-07": 415236,
-  "2023-05-08": 415248,
-  "2023-05-09": 415252,
-  "2023-05-10": 415271,
-  "2023-05-11": 415259,
-  "2023-05-12": 415252,
-  "2023-05-13": 415259,
-  "2023-05-14": 415247,
-  "2023-05-15": 415244,
-  "2023-05-16": 415237,
-  "2023-05-17": 415248,
-  "2023-05-18": 415241,
-  "2023-05-19": 415245,
-  "2023-05-20": 415228,
-  "2023-05-21": 415228,
-  "2023-05-22": 415228,
-  "2023-05-23": 415244,
-  "2023-05-24": 415259,
-  "2023-05-25": 415257,
-  "2023-05-26": 415266,
-  "2023-05-27": 415248,
-  "2023-05-28": 415258,
-  "2023-05-29": 415258,
-  "2023-05-30": 415276,
-  "2023-05-31": 415251,
-  "2023-06-01": 415247,
-  "2023-06-02": 415239,
-  "2023-06-03": 415240,
-  "2023-06-04": 415252,
-  "2023-06-05": 415253,
-  "2023-06-06": 415255,
-  "2023-06-07": 415244,
-  "2023-06-08": 415227,
-  "2023-06-09": 415214,
-  "2023-06-10": 415218,
-  "2023-06-11": 415216,
-  "2023-06-12": 415220,
-  "2023-06-13": 415214,
-  "2023-06-14": 415211,
-  "2023-06-15": 415211,
-  "2023-06-16": 415200,
-  "2023-06-17": 415191,
-  "2023-06-18": 415180,
-  "2023-06-19": 415166,
-  "2023-06-20": 415157,
-  "2023-06-21": 415144,
-  "2023-06-22": 415137,
-  "2023-06-23": 415145,
-  "2023-06-24": 415158,
-  "2023-06-25": 415146,
-  "2023-06-26": 415146,
-  "2023-06-27": 415149,
-  "2023-06-28": 415171,
-  "2023-06-29": 415151,
-  "2023-06-30": 415150,
-  "2023-07-01": 415122,
-  "2023-07-02": 415122,
-  "2023-07-03": 415117,
-  "2023-07-04": 415132,
-  "2023-07-05": 415123,
-  "2023-07-06": 415107,
-  "2023-07-07": 415107,
-  "2023-07-08": 415113,
-  "2023-07-09": 415121,
-  "2023-07-10": 415127,
-  "2023-07-11": 415115,
-  "2023-07-12": 415113,
-  "2023-07-13": 415130,
-  "2023-07-14": 415142,
-  "2023-07-15": 415141,
-  "2023-07-16": 415147,
-  "2023-07-17": 415138,
-  "2023-07-18": 415141,
-  "2023-07-19": 415121,
-  "2023-07-20": 415107,
-  "2023-07-21": 415097,
-  "2023-07-22": 415089,
-  "2023-07-23": 415068,
-  "2023-07-24": 415058,
-  "2023-07-25": 415046,
-  "2023-07-26": 415032,
-  "2023-07-27": 415026,
-  "2023-07-28": 415027,
-  "2023-07-29": 415028,
-  "2023-07-30": 415015,
-  "2023-07-31": 415026,
-  "2023-08-01": 415033,
-  "2023-08-02": 415011,
-  "2023-08-03": 415013,
-  "2023-08-04": 415018,
-  "2023-08-05": 415030,
-  "2023-08-06": 415012,
-  "2023-08-07": 415012,
-  "2023-08-08": 415020,
-  "2023-08-09": 415017,
-  "2023-08-10": 414999,
-  "2023-08-11": 414993,
-  "2023-08-12": 414975,
-  "2023-08-13": 414969,
-  "2023-08-14": 414944,
-  "2023-08-15": 414938,
-  "2023-08-16": 414938,
-  "2023-08-17": 414930,
-  "2023-08-18": 414920,
-  "2023-08-19": 414939,
-  "2023-08-20": 414935,
-  "2023-08-21": 414929,
-  "2023-08-22": 414925,
-  "2023-08-23": 414923,
-  "2023-08-24": 414924,
-  "2023-08-25": 414938,
-  "2023-08-26": 414936,
-  "2023-08-27": 414931,
-  "2023-08-28": 414917,
-  "2023-08-29": 414912,
-  "2023-08-30": 414920,
-  "2023-08-31": 414934,
-  "2023-09-01": 414944,
-  "2023-09-02": 414944,
-  "2023-09-03": 414940,
-  "2023-09-04": 414943,
-  "2023-09-05": 414947,
-  "2023-09-06": 414965,
-  "2023-09-07": 414963,
-  "2023-09-08": 414963,
-  "2023-09-09": 414979,
-  "2023-09-10": 414978,
-  "2023-09-11": 414975,
-  "2023-09-12": 414977,
-  "2023-09-13": 414999,
-  "2023-09-14": 414999,
-  "2023-09-15": 415010,
-  "2023-09-16": 415012,
-  "2023-09-17": 415012,
-  "2023-09-18": 415046,
-  "2023-09-19": 415032,
-  "2023-09-20": 415051,
-  "2023-09-21": 415041,
-  "2023-09-22": 415059,
-  "2023-09-23": 415049,
-  "2023-09-24": 415049,
-  "2023-09-25": 415049,
-  "2023-09-26": 415076,
-  "2023-09-27": 415091,
-  "2023-09-28": 415102,
-  "2023-09-29": 415100,
-  "2023-09-30": 415100,
-  "2023-10-01": 415124,
-  "2023-10-02": 415135,
-  "2023-10-03": 415144,
-  "2023-10-04": 415162,
-  "2023-10-05": 415192,
-  "2023-10-06": 415198,
-  "2023-10-07": 415201,
-  "2023-10-08": 415219,
-  "2023-10-09": 415219,
-  "2023-10-10": 415237,
-  "2023-10-11": 415232,
-  "2023-10-12": 415232,
-  "2023-10-13": 415228,
-  "2023-10-14": 415228,
-  "2023-10-15": 415228,
-  "2023-10-16": 415228,
-  "2023-10-17": 415228,
-  "2023-10-18": 415228,
-  "2023-10-19": 415228,
-  "2023-10-20": 415228,
-  "2023-10-21": 415228,
-  "2023-10-22": 415228,
-  "2023-10-23": 415228,
-  "2023-10-24": 415208,
-  "2023-10-25": 415208,
-  "2023-10-26": 415208,
-  "2023-10-27": 415208,
-  "2023-10-28": 415208,
-  "2023-10-29": 415208,
-  "2023-10-30": 415208,
-  "2023-10-31": 415208,
-  "2023-11-01": 415208,
-  "2023-11-02": 415208,
-  "2023-11-03": 415208,
-  "2023-11-04": 415208,
-  "2023-11-05": 415208,
-  "2023-11-06": 415208,
-  "2023-11-07": 415208,
-  "2023-11-08": 415208,
-  "2023-11-09": 415208,
-  "2023-11-10": 415208,
-  "2023-11-11": 415248,
-  "2023-11-12": 415248,
-  "2023-11-13": 415248,
-  "2023-11-14": 415248,
-  "2023-11-15": 415248,
-  "2023-11-16": 415248,
-  "2023-11-17": 415298,
-  "2023-11-18": 415298,
-  "2023-11-19": 415298,
-  "2023-11-20": 415298,
-  "2023-11-21": 415298,
-  "2023-11-22": 415298,
-  "2023-11-23": 415311,
-  "2023-11-24": 415311,
-  "2023-11-25": 415311,
-  "2023-11-26": 415311,
-  "2023-11-27": 415311,
-  "2023-11-28": 415311,
-  "2023-11-29": 415311,
-  "2023-11-30": 415311,
-  "2023-12-01": 415311,
-  "2023-12-02": 415311,
-  "2023-12-03": 415311,
-  "2023-12-04": 415311,
-  "2023-12-05": 415311,
-  "2023-12-06": 415311,
-  "2023-12-07": 415311,
-  "2023-12-08": 415311,
-  "2023-12-09": 415167,
-  "2023-12-10": 415167,
-  "2023-12-11": 415175,
-  "2023-12-12": 415175,
-  "2023-12-13": 415175,
-  "2023-12-14": 415149,
-  "2023-12-15": 415156,
-  "2023-12-16": 415141,
-  "2023-12-17": 415138,
-  "2023-12-18": 415132,
-  "2023-12-19": 415118,
-  "2023-12-20": 415112,
-  "2023-12-21": 415087,
-  "2023-12-22": 415073,
-  "2023-12-23": 415068,
-  "2023-12-24": 415062,
-  "2023-12-25": 415052,
-  "2023-12-26": 415043,
-  "2023-12-27": 415031,
-  "2023-12-30": 414976,
-  "2023-12-31": 414963,
-  "2024-01-01": 414951,
-  "2024-01-02": 414948,
-  "2024-01-03": 414949
+  "2024-01-17": 414809,
+  "date_first_scraped": "2022-03-28",
+  "description": "Mental strength begins here\u2014Dwayne Johnson\u2019s Iron Paradise Tour.",
+  "name": "Dwayne Johnson's Iron Paradise Tour Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Eagles Live",
+        "url": "https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334773,
+      "name": "All Night Long - Live; 1999 Remaster",
+      "url": "https://open.spotify.com/track/36psUsoODcqVG52lQIzDNy"
+    },
+    {
+      "album": {
+        "name": "Black Adam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6QQ1bcCdI8RiiiAgXtK6nj"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236682,
+      "name": "Black Adam Theme (from \"Black Adam\")",
+      "url": "https://open.spotify.com/track/1YcqFdl5MQIfN4f8ulc73l"
+    },
+    {
+      "album": {
+        "name": "Black Adam Theme (from \"Black Adam\")",
+        "url": "https://open.spotify.com/album/1RGC1ShDXu9BKmnDlUj5OC"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 236682,
+      "name": "Black Adam Theme (from \"Black Adam\")",
+      "url": "https://open.spotify.com/track/6eqwueXTaHqXTRwbOpLmcJ"
+    },
+    {
+      "album": {
+        "name": "Ram Jam",
+        "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
+      },
+      "artists": [
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238973,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+    },
+    {
+      "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "Black Skinhead",
+      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+    },
+    {
+      "album": {
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229466,
+      "name": "Bulls On Parade",
+      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/1roiPYs5gYEy3kmT3C6vz1"
+      },
+      "artists": [
+        {
+          "name": "Eric Zayne",
+          "url": "https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "Exile",
+      "url": "https://open.spotify.com/track/6VM70wjJ8kl7AFMS1KaOgi"
+    },
+    {
+      "album": {
+        "name": "ASIN9NE",
+        "url": "https://open.spotify.com/album/3eYtzrCbHWAW0tRW93gaxj"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Joey Cool",
+          "url": "https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu"
+        },
+        {
+          "name": "King Iso",
+          "url": "https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle"
+        },
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219802,
+      "name": "Face Off",
+      "url": "https://open.spotify.com/track/0M5igzLuVkGfr76ezrAZI3"
+    },
+    {
+      "album": {
+        "name": "Get Up On My Level",
+        "url": "https://open.spotify.com/album/0retIMfRSCLdGiUUatMct8"
+      },
+      "artists": [
+        {
+          "name": "Mike Zombie",
+          "url": "https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ"
+        },
+        {
+          "name": "Aja Elan",
+          "url": "https://open.spotify.com/artist/5vSvL2GNm9anuyWiy9YZCL"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "Get Up On My Level",
+      "url": "https://open.spotify.com/track/7hXPF6mq76yeknggOnCNID"
+    },
+    {
+      "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/7rxQJ0HuHwWm0oPK0T1Eeg"
+      },
+      "artists": [
+        {
+          "name": "Walter French",
+          "url": "https://open.spotify.com/artist/1KIH0qMvrEdK5HrFtMieWE"
+        },
+        {
+          "name": "Lauren Hashian",
+          "url": "https://open.spotify.com/artist/0bchCUkOuvPSeazHgDsh0Y"
+        }
+      ],
+      "date_added": "2020-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189269,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/6v0WJXzW6jMO3q8ACPWgpp"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "Jesus Just Left Chicago - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
+    },
+    {
+      "album": {
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "date_added": "2020-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313573,
+      "name": "Killing In The Name",
+      "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
+    },
+    {
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Life by the Drop",
+      "url": "https://open.spotify.com/track/4baw6m9OhZ1W8fPqWinZ3L"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/1Mdy7hhoQRYdVrHzYnlUee"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 374800,
+      "name": "No More Pain",
+      "url": "https://open.spotify.com/track/1hJtNms8jQNDm1Cx9k2UR4"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374800,
+      "name": "No More Pain",
+      "url": "https://open.spotify.com/track/7xeh81c3bxTgqUgy2WN56u"
+    },
+    {
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/6wfUVm9aYFoYtLXCPugXrt"
+      },
+      "artists": [
+        {
+          "name": "Naz Tokio",
+          "url": "https://open.spotify.com/artist/2Ohz3BAbalahBYLuM836cd"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "On The Run",
+      "url": "https://open.spotify.com/track/4sLozZ8Weo81XhRrwqbqnJ"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183144,
+      "name": "POP STAR (feat. Kevin Gates)",
+      "url": "https://open.spotify.com/track/2TsD9kSbgYx5fSNRsoNURE"
+    },
+    {
+      "album": {
+        "name": "I Still Am",
+        "url": "https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276333,
+      "name": "Rake It Up (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/4knL4iPxPOZjQzTUlELGSY"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0ouBJG6m2VFeQFEvFv7Io2"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "Rock & Roll Band",
+      "url": "https://open.spotify.com/track/6Zqi66Qg8iBjco53F5QHcN"
+    },
+    {
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277840,
+      "name": "Show Me How to Live",
+      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
+    },
+    {
+      "album": {
+        "name": "Honky Tonk Till I Die",
+        "url": "https://open.spotify.com/album/7FOBfMubIyN5ywBlQQldth"
+      },
+      "artists": [
+        {
+          "name": "Eric Strickland & the B Sides",
+          "url": "https://open.spotify.com/artist/5ITwDrWvrtMxVRlR10QYFn"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212213,
+      "name": "Standing in the Headlights",
+      "url": "https://open.spotify.com/track/0C4NHwuJdQn6b5SZB0ewUF"
+    },
+    {
+      "album": {
+        "name": "Misery Loves Kompany",
+        "url": "https://open.spotify.com/album/6ZQsfsE3X900PjZeomO4VY"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne Collabos",
+          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
+        },
+        {
+          "name": "Big Krizz Kaliko",
+          "url": "https://open.spotify.com/artist/0BWaIw0Ns1a7e51l3DminD"
+        },
+        {
+          "name": "Greed",
+          "url": "https://open.spotify.com/artist/0rHMSWop2zjzzy8tDETdui"
+        },
+        {
+          "name": "Kutt Calhoun",
+          "url": "https://open.spotify.com/artist/78nL8LitGR7vO0qp2iZF9E"
+        },
+        {
+          "name": "Snug Brim",
+          "url": "https://open.spotify.com/artist/4qoda7nfDZu2VPP9MWPx2h"
+        },
+        {
+          "name": "Skatterman",
+          "url": "https://open.spotify.com/artist/7j737JHxqSvr0ELJXhHgNq"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349906,
+      "name": "That Box",
+      "url": "https://open.spotify.com/track/0s77c1ThyBrs35oXKGUUc4"
+    },
+    {
+      "album": {
+        "name": "S&M2",
+        "url": "https://open.spotify.com/album/4vxkHVyS6D66Rwt0mpz0cS"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "The Ecstasy of Gold (Live)",
+      "url": "https://open.spotify.com/track/0L5ZW54haCFM84is0UhLjj"
+    },
+    {
+      "album": {
+        "name": "The Gereg",
+        "url": "https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Wolf Totem",
+      "url": "https://open.spotify.com/track/4YV9G5dIiOBGtWNG6AMRgG"
+    },
+    {
+      "album": {
+        "name": "The Gereg",
+        "url": "https://open.spotify.com/album/6YIA45KnCATXRzPFOeA9S8"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 338000,
+      "name": "Wolf Totem",
+      "url": "https://open.spotify.com/track/5hISmTJXBXdOes4htbUhGk"
+    },
+    {
+      "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/7kkZyqCkWIOQs4JHuWFSTg"
+      },
+      "artists": [
+        {
+          "name": "Frankie Paul",
+          "url": "https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 220893,
+      "name": "Work Hard",
+      "url": "https://open.spotify.com/track/6DSdSwWlQF30DkuRPvBkQn"
+    },
+    {
+      "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/1Z6OZ6k6PkjiOC65QWiiQy"
+      },
+      "artists": [
+        {
+          "name": "Frankie Paul",
+          "url": "https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "Work Hard",
+      "url": "https://open.spotify.com/track/7AxLkHObRt76cLyte1VyGv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcdGxYPVUKPf"
 }

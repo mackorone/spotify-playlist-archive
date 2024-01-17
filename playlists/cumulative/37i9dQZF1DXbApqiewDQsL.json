@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Oscar Maydon & Tyga",
+  "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Mau y Ricky, Eden Mu\u00f1oz",
   "name": "Internacional Mexicano",
   "tracks": [
     {
@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": "2024-01-13",
       "duration_ms": 220090,
       "name": "Tranquilito - Remix",
       "url": "https://open.spotify.com/track/1nUj6NRv9nq9pEIdl6ZOoc"
@@ -2451,7 +2451,7 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182500,
+      "duration_ms": 183890,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
     },
@@ -2479,6 +2479,28 @@
     },
     {
       "album": {
+        "name": "Vas a Destrozarme (Versi\u00f3n Eden Mu\u00f1oz)",
+        "url": "https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177654,
+      "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
+      "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"
+    },
+    {
+      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
       },
@@ -2494,7 +2516,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 247080,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"

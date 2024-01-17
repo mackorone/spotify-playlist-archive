@@ -1,310 +1,279 @@
 {
-  "2023-02-27": 391,
-  "2023-02-28": 391,
-  "2023-03-01": 473,
-  "2023-03-02": 493,
-  "2023-03-03": 517,
-  "2023-03-04": 531,
-  "2023-03-05": 560,
-  "2023-03-06": 560,
-  "2023-03-07": 584,
-  "2023-03-08": 593,
-  "2023-03-09": 603,
-  "2023-03-10": 618,
-  "2023-03-11": 628,
-  "2023-03-12": 632,
-  "2023-03-13": 645,
-  "2023-03-14": 651,
-  "2023-03-15": 663,
-  "2023-03-16": 672,
-  "2023-03-17": 672,
-  "2023-03-18": 696,
-  "2023-03-19": 711,
-  "2023-03-20": 720,
-  "2023-03-21": 730,
-  "2023-03-22": 740,
-  "2023-03-23": 754,
-  "2023-03-24": 754,
-  "2023-03-25": 776,
-  "2023-03-26": 793,
-  "2023-03-27": 804,
-  "2023-03-28": 814,
-  "2023-03-29": 824,
-  "2023-03-30": 846,
-  "2023-03-31": 846,
-  "2023-04-01": 857,
-  "2023-04-02": 861,
-  "2023-04-03": 868,
-  "2023-04-04": 876,
-  "2023-04-05": 887,
-  "2023-04-06": 889,
-  "2023-04-07": 900,
-  "2023-04-09": 918,
-  "2023-04-10": 925,
-  "2023-04-11": 933,
-  "2023-04-12": 933,
-  "2023-04-13": 935,
-  "2023-04-14": 937,
-  "2023-04-15": 941,
-  "2023-04-16": 944,
-  "2023-04-17": 946,
-  "2023-04-18": 947,
-  "2023-04-19": 951,
-  "2023-04-20": 954,
-  "2023-04-21": 960,
-  "2023-04-22": 969,
-  "2023-04-23": 972,
-  "2023-04-24": 974,
-  "2023-04-25": 981,
-  "2023-04-26": 984,
-  "2023-04-27": 991,
-  "2023-04-28": 994,
-  "2023-04-29": 1000,
-  "2023-04-30": 1001,
-  "2023-05-01": 1006,
-  "2023-05-02": 1013,
-  "2023-05-03": 1020,
-  "2023-05-04": 1023,
-  "2023-05-05": 1030,
-  "2023-05-06": 1030,
-  "2023-05-07": 1031,
-  "2023-05-08": 1033,
-  "2023-05-09": 1032,
-  "2023-05-10": 1044,
-  "2023-05-11": 1049,
-  "2023-05-12": 1055,
-  "2023-05-13": 1057,
-  "2023-05-14": 1062,
-  "2023-05-15": 1070,
-  "2023-05-16": 1073,
-  "2023-05-17": 1078,
-  "2023-05-18": 1082,
-  "2023-05-19": 1087,
-  "2023-05-20": 1097,
-  "2023-05-21": 1097,
-  "2023-05-22": 1097,
-  "2023-05-23": 1111,
-  "2023-05-24": 1123,
-  "2023-05-25": 1126,
-  "2023-05-26": 1131,
-  "2023-05-27": 1139,
-  "2023-05-28": 1145,
-  "2023-05-29": 1145,
-  "2023-05-30": 1159,
-  "2023-05-31": 1163,
-  "2023-06-01": 1171,
-  "2023-06-02": 1174,
-  "2023-06-03": 1182,
-  "2023-06-04": 1190,
-  "2023-06-05": 1191,
-  "2023-06-06": 1194,
-  "2023-06-07": 1196,
-  "2023-06-08": 1199,
-  "2023-06-09": 1203,
-  "2023-06-10": 1204,
-  "2023-06-11": 1209,
-  "2023-06-12": 1214,
-  "2023-06-13": 1218,
-  "2023-06-14": 1223,
-  "2023-06-15": 1226,
-  "2023-06-16": 1232,
-  "2023-06-17": 1241,
-  "2023-06-18": 1244,
-  "2023-06-19": 1246,
-  "2023-06-20": 1247,
-  "2023-06-21": 1247,
-  "2023-06-22": 1249,
-  "2023-06-23": 1251,
-  "2023-06-24": 1260,
-  "2023-06-25": 1262,
-  "2023-06-26": 1265,
-  "2023-06-27": 1264,
-  "2023-06-28": 1265,
-  "2023-06-29": 1270,
-  "2023-06-30": 1273,
-  "2023-07-01": 1280,
-  "2023-07-02": 1280,
-  "2023-07-03": 1278,
-  "2023-07-04": 1281,
-  "2023-07-05": 1283,
-  "2023-07-06": 1293,
-  "2023-07-07": 1293,
-  "2023-07-08": 1299,
-  "2023-07-09": 1302,
-  "2023-07-10": 1305,
-  "2023-07-11": 1306,
-  "2023-07-12": 1311,
-  "2023-07-13": 1314,
-  "2023-07-14": 1319,
-  "2023-07-15": 1321,
-  "2023-07-16": 1326,
-  "2023-07-17": 1325,
-  "2023-07-18": 1326,
-  "2023-07-19": 1329,
-  "2023-07-20": 1330,
-  "2023-07-21": 1335,
-  "2023-07-22": 1339,
-  "2023-07-23": 1339,
-  "2023-07-24": 1339,
-  "2023-07-25": 1342,
-  "2023-07-26": 1344,
-  "2023-07-27": 1348,
-  "2023-07-28": 1352,
-  "2023-07-29": 1355,
-  "2023-07-30": 1359,
-  "2023-07-31": 1358,
-  "2023-08-01": 1361,
-  "2023-08-02": 1369,
-  "2023-08-03": 1371,
-  "2023-08-04": 1379,
-  "2023-08-05": 1381,
-  "2023-08-06": 1384,
-  "2023-08-07": 1384,
-  "2023-08-08": 1386,
-  "2023-08-09": 1389,
-  "2023-08-10": 1394,
-  "2023-08-11": 1397,
-  "2023-08-12": 1404,
-  "2023-08-13": 1410,
-  "2023-08-14": 1413,
-  "2023-08-15": 1417,
-  "2023-08-16": 1417,
-  "2023-08-17": 1416,
-  "2023-08-18": 1422,
-  "2023-08-19": 1425,
-  "2023-08-20": 1429,
-  "2023-08-21": 1428,
-  "2023-08-22": 1430,
-  "2023-08-23": 1434,
-  "2023-08-24": 1434,
-  "2023-08-25": 1435,
-  "2023-08-26": 1435,
-  "2023-08-27": 1436,
-  "2023-08-28": 1438,
-  "2023-08-29": 1439,
-  "2023-08-30": 1440,
-  "2023-08-31": 1440,
-  "2023-09-01": 1452,
-  "2023-09-02": 1452,
-  "2023-09-03": 1454,
-  "2023-09-04": 1458,
-  "2023-09-05": 1460,
-  "2023-09-06": 1472,
-  "2023-09-07": 1475,
-  "2023-09-08": 1486,
-  "2023-09-09": 1494,
-  "2023-09-10": 1506,
-  "2023-09-11": 1522,
-  "2023-09-12": 1537,
-  "2023-09-13": 1555,
-  "2023-09-14": 1568,
-  "2023-09-15": 1578,
-  "2023-09-16": 1586,
-  "2023-09-17": 1590,
-  "2023-09-18": 1595,
-  "2023-09-19": 1600,
-  "2023-09-20": 1615,
-  "2023-09-21": 1623,
-  "2023-09-22": 1633,
-  "2023-09-23": 1641,
-  "2023-09-24": 1650,
-  "2023-09-25": 1658,
-  "2023-09-26": 1670,
-  "2023-09-27": 1674,
-  "2023-09-28": 1680,
-  "2023-09-29": 1692,
-  "2023-09-30": 1701,
-  "2023-10-01": 1712,
-  "2023-10-02": 1721,
-  "2023-10-03": 1732,
-  "2023-10-04": 1736,
-  "2023-10-05": 1739,
-  "2023-10-06": 1744,
-  "2023-10-07": 1751,
-  "2023-10-08": 1756,
-  "2023-10-09": 1769,
-  "2023-10-10": 1775,
-  "2023-10-11": 1797,
-  "2023-10-12": 1797,
-  "2023-10-13": 1802,
-  "2023-10-14": 1807,
-  "2023-10-15": 1807,
-  "2023-10-16": 1813,
-  "2023-10-17": 1818,
-  "2023-10-18": 1826,
-  "2023-10-19": 1838,
-  "2023-10-20": 1842,
-  "2023-10-21": 1853,
-  "2023-10-22": 1859,
-  "2023-10-23": 1867,
-  "2023-10-24": 1870,
-  "2023-10-25": 1878,
-  "2023-10-26": 1883,
-  "2023-10-27": 1892,
-  "2023-10-28": 1903,
-  "2023-10-29": 1906,
-  "2023-10-30": 1922,
-  "2023-10-31": 1922,
-  "2023-11-01": 1926,
-  "2023-11-02": 1934,
-  "2023-11-03": 1942,
-  "2023-11-04": 1951,
-  "2023-11-05": 1954,
-  "2023-11-06": 1964,
-  "2023-11-07": 1964,
-  "2023-11-08": 1964,
-  "2023-11-09": 1964,
-  "2023-11-10": 1964,
-  "2023-11-11": 1964,
-  "2023-11-12": 1964,
-  "2023-11-13": 1964,
-  "2023-11-14": 1964,
-  "2023-11-15": 1964,
-  "2023-11-16": 1964,
-  "2023-11-17": 1964,
-  "2023-11-18": 1964,
-  "2023-11-19": 1964,
-  "2023-11-20": 1964,
-  "2023-11-21": 1964,
-  "2023-11-22": 1964,
-  "2023-11-23": 1964,
-  "2023-11-24": 1964,
-  "2023-11-25": 1964,
-  "2023-11-26": 1964,
-  "2023-11-27": 1964,
-  "2023-11-28": 1964,
-  "2023-11-29": 1964,
-  "2023-11-30": 1964,
-  "2023-12-01": 1964,
-  "2023-12-02": 1964,
-  "2023-12-03": 1964,
-  "2023-12-04": 1964,
-  "2023-12-05": 1964,
-  "2023-12-06": 1964,
-  "2023-12-07": 1964,
-  "2023-12-08": 1964,
-  "2023-12-09": 1964,
-  "2023-12-10": 1964,
-  "2023-12-11": 1964,
-  "2023-12-12": 1964,
-  "2023-12-13": 1964,
-  "2023-12-14": 1964,
-  "2023-12-15": 1964,
-  "2023-12-16": 1964,
-  "2023-12-17": 1964,
-  "2023-12-18": 1964,
-  "2023-12-19": 1964,
-  "2023-12-20": 1964,
-  "2023-12-21": 1964,
-  "2023-12-22": 1964,
-  "2023-12-23": 1964,
-  "2023-12-24": 1964,
-  "2023-12-25": 1964,
-  "2023-12-26": 1964,
-  "2023-12-27": 1964,
-  "2023-12-30": 1964,
-  "2023-12-31": 1964,
-  "2024-01-01": 1964,
-  "2024-01-02": 1964,
-  "2024-01-03": 1964
+  "2024-01-17": 1964,
+  "date_first_scraped": "2023-02-27",
+  "description": "Emerging producer & DJ, <a href=\"spotify:artist:3UlAQex8nw3vquHcmY8fpb\">Sinego</a> releases a Latin & Afro House infused mix that whisks you away to paradise.",
+  "name": "Sinego DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Bangalora (Mixed)",
+        "url": "https://open.spotify.com/album/0am1GN6z1WL5mKHCMR26fK"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Bangalora - Mixed",
+      "url": "https://open.spotify.com/track/1yGzbQg26jEUEnpfjsxTLR"
+    },
+    {
+      "album": {
+        "name": "Benjam\u00edn Carri\u00f3n (Mixed)",
+        "url": "https://open.spotify.com/album/1ypVpyEk5pkKEVGrsxiOVL"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Benjam\u00edn Carri\u00f3n - Mixed",
+      "url": "https://open.spotify.com/track/5vsaVOVdb1ISrhsd3cW0Td"
+    },
+    {
+      "album": {
+        "name": "Culto A La Vida (Mixed)",
+        "url": "https://open.spotify.com/album/0XAgB7pTt58AAc4LOkmNIy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Molinari",
+          "url": "https://open.spotify.com/artist/6MVmGh11Jf6bh8FfwiLblE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323757,
+      "name": "Culto A La Vida - Mixed",
+      "url": "https://open.spotify.com/track/4zqQ7y3enFoh6nuIKps41x"
+    },
+    {
+      "album": {
+        "name": "Damelo (Mixed)",
+        "url": "https://open.spotify.com/album/7L5Zm8yFzTpvohNmqpke8B"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Damelo - Mixed",
+      "url": "https://open.spotify.com/track/12eiq9b5wlLuH6jltMo5U2"
+    },
+    {
+      "album": {
+        "name": "Descalzo (Mixed)",
+        "url": "https://open.spotify.com/album/0sh6TJHkICw3IOXkf9BneI"
+      },
+      "artists": [
+        {
+          "name": "ARKADYAN",
+          "url": "https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI"
+        },
+        {
+          "name": "Derun",
+          "url": "https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "Descalzo - Mixed",
+      "url": "https://open.spotify.com/track/2vOOu3t6hopqGbEarxmaws"
+    },
+    {
+      "album": {
+        "name": "Eldorado (Mixed)",
+        "url": "https://open.spotify.com/album/0L3IsPc513OyQ4ZaH0xcp8"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Eldorado - Mixed",
+      "url": "https://open.spotify.com/track/3LRm3mWo1gWAmwSoeCRKQy"
+    },
+    {
+      "album": {
+        "name": "Les Gout (Mixed)",
+        "url": "https://open.spotify.com/album/6hqvE2qT09R8tY8NtvyUDN"
+      },
+      "artists": [
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "chuala",
+          "url": "https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Les Gout - Mixed",
+      "url": "https://open.spotify.com/track/3hllE3n68Lws8XqLdxFaOV"
+    },
+    {
+      "album": {
+        "name": "Mala (Mixed)",
+        "url": "https://open.spotify.com/album/1xnRxIrHLSpju2sSYFuFde"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Mala - Mixed",
+      "url": "https://open.spotify.com/track/6TkM9vgb7D4UoMECYpZuDi"
+    },
+    {
+      "album": {
+        "name": "Melodia - Mollono.Bass Remix (Mixed)",
+        "url": "https://open.spotify.com/album/0vfLZ5asZiDpblZsDFkQff"
+      },
+      "artists": [
+        {
+          "name": "Tibau Tavares",
+          "url": "https://open.spotify.com/artist/68nqiiRYrs28v1JAQfM0A9"
+        },
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Melodia - Mollono.Bass Remix - Mixed",
+      "url": "https://open.spotify.com/track/02ddcnlnKW8kZfXTTPPMfQ"
+    },
+    {
+      "album": {
+        "name": "Night Bell - Arizona (Mixed)",
+        "url": "https://open.spotify.com/album/5td9TwfYtrckjepXb2GdtW"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325000,
+      "name": "Night Bell - Arizona - Mixed",
+      "url": "https://open.spotify.com/track/53VcMMCj3TCnjscfpFDUip"
+    },
+    {
+      "album": {
+        "name": "Tropicana (La Noche) [Mixed]",
+        "url": "https://open.spotify.com/album/418Y0rUDGUoG0UwJRx0F9S"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Cucu Diamantes",
+          "url": "https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Tropicana (La Noche) - Mixed",
+      "url": "https://open.spotify.com/track/6SRnLdrj1Z2FSnBQSdynMg"
+    },
+    {
+      "album": {
+        "name": "Vamonos (Mixed)",
+        "url": "https://open.spotify.com/album/3uhifEpZH9m5L7Ryb2yI9k"
+      },
+      "artists": [
+        {
+          "name": "Gabsy",
+          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
+        },
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Vamonos - Mixed",
+      "url": "https://open.spotify.com/track/1eroPPfxLBRQDs4wy6BdJ3"
+    },
+    {
+      "album": {
+        "name": "Waiting (Mixed)",
+        "url": "https://open.spotify.com/album/2v9bTWrv9BPK7QjpTBnwyX"
+      },
+      "artists": [
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+        },
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347000,
+      "name": "Waiting - Mixed",
+      "url": "https://open.spotify.com/track/6I0sncQ4CmpllgWUyOLNkQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUXtqSbiMCVM"
 }

@@ -1,735 +1,4651 @@
 {
-  "2021-12-25": 12397,
-  "2021-12-26": 12396,
-  "2021-12-27": 12394,
-  "2021-12-28": 12394,
-  "2021-12-29": 12395,
-  "2021-12-30": 12395,
-  "2021-12-31": 12393,
-  "2022-01-01": 12390,
-  "2022-01-02": 12391,
-  "2022-01-03": 12393,
-  "2022-01-04": 12396,
-  "2022-01-05": 12397,
-  "2022-01-06": 12400,
-  "2022-01-07": 12400,
-  "2022-01-08": 12401,
-  "2022-01-09": 12401,
-  "2022-01-10": 12402,
-  "2022-01-11": 12402,
-  "2022-01-12": 12405,
-  "2022-01-13": 12405,
-  "2022-01-14": 12405,
-  "2022-01-15": 12406,
-  "2022-01-16": 12406,
-  "2022-01-17": 12407,
-  "2022-01-18": 12407,
-  "2022-01-19": 12409,
-  "2022-01-20": 12410,
-  "2022-01-21": 12408,
-  "2022-01-22": 12406,
-  "2022-01-23": 12409,
-  "2022-01-24": 12411,
-  "2022-01-25": 12408,
-  "2022-01-26": 12405,
-  "2022-01-27": 12406,
-  "2022-01-28": 12406,
-  "2022-01-29": 12405,
-  "2022-01-30": 12409,
-  "2022-01-31": 12409,
-  "2022-02-01": 12410,
-  "2022-02-02": 12411,
-  "2022-02-03": 12412,
-  "2022-02-04": 12413,
-  "2022-02-05": 12417,
-  "2022-02-06": 12419,
-  "2022-02-07": 12420,
-  "2022-02-08": 12425,
-  "2022-02-09": 12425,
-  "2022-02-10": 12427,
-  "2022-02-11": 12429,
-  "2022-02-12": 12430,
-  "2022-02-13": 12429,
-  "2022-02-14": 12431,
-  "2022-02-15": 12431,
-  "2022-02-16": 12425,
-  "2022-02-17": 12422,
-  "2022-02-18": 12420,
-  "2022-02-19": 12421,
-  "2022-02-20": 12423,
-  "2022-02-21": 12423,
-  "2022-02-22": 12427,
-  "2022-02-23": 12428,
-  "2022-02-24": 12427,
-  "2022-02-25": 12428,
-  "2022-02-26": 12432,
-  "2022-02-27": 12437,
-  "2022-02-28": 12437,
-  "2022-03-01": 12439,
-  "2022-03-02": 12441,
-  "2022-03-03": 12441,
-  "2022-03-04": 12439,
-  "2022-03-05": 12439,
-  "2022-03-06": 12439,
-  "2022-03-07": 12443,
-  "2022-03-08": 12444,
-  "2022-03-09": 12445,
-  "2022-03-10": 12443,
-  "2022-03-11": 12443,
-  "2022-03-12": 12445,
-  "2022-03-13": 12445,
-  "2022-03-14": 12443,
-  "2022-03-15": 12442,
-  "2022-03-16": 12440,
-  "2022-03-17": 12439,
-  "2022-03-18": 12437,
-  "2022-03-19": 12434,
-  "2022-03-20": 12434,
-  "2022-03-21": 12433,
-  "2022-03-22": 12435,
-  "2022-03-23": 12434,
-  "2022-03-24": 12436,
-  "2022-03-25": 12434,
-  "2022-03-26": 12436,
-  "2022-03-27": 12435,
-  "2022-03-28": 12436,
-  "2022-03-30": 12438,
-  "2022-03-31": 12442,
-  "2022-04-01": 12442,
-  "2022-04-02": 12442,
-  "2022-04-03": 12442,
-  "2022-04-04": 12442,
-  "2022-04-05": 12442,
-  "2022-04-06": 12442,
-  "2022-04-07": 12442,
-  "2022-04-08": 12442,
-  "2022-04-09": 12442,
-  "2022-04-10": 12442,
-  "2022-04-11": 12442,
-  "2022-04-12": 12442,
-  "2022-04-13": 12442,
-  "2022-04-14": 12442,
-  "2022-04-15": 12442,
-  "2022-04-16": 12442,
-  "2022-04-17": 12442,
-  "2022-04-18": 12442,
-  "2022-04-19": 12442,
-  "2022-04-20": 12442,
-  "2022-04-21": 12442,
-  "2022-04-22": 12442,
-  "2022-04-23": 12442,
-  "2022-04-24": 12442,
-  "2022-04-25": 12442,
-  "2022-04-26": 12442,
-  "2022-04-27": 12442,
-  "2022-04-28": 12442,
-  "2022-04-29": 12442,
-  "2022-04-30": 12442,
-  "2022-05-01": 12442,
-  "2022-05-02": 12442,
-  "2022-05-03": 12442,
-  "2022-05-04": 12442,
-  "2022-05-05": 12442,
-  "2022-05-06": 12442,
-  "2022-05-07": 12442,
-  "2022-05-08": 12442,
-  "2022-05-09": 12442,
-  "2022-05-10": 12442,
-  "2022-05-11": 12442,
-  "2022-05-12": 12442,
-  "2022-05-13": 12442,
-  "2022-05-14": 12442,
-  "2022-05-15": 12442,
-  "2022-05-16": 12442,
-  "2022-05-17": 12442,
-  "2022-05-18": 12442,
-  "2022-05-19": 12442,
-  "2022-05-20": 12442,
-  "2022-05-21": 12442,
-  "2022-05-22": 12442,
-  "2022-05-23": 12442,
-  "2022-05-24": 12442,
-  "2022-05-25": 12442,
-  "2022-05-26": 12442,
-  "2022-05-27": 12442,
-  "2022-05-28": 12442,
-  "2022-05-29": 12442,
-  "2022-05-30": 12442,
-  "2022-05-31": 12442,
-  "2022-06-01": 12442,
-  "2022-06-02": 12442,
-  "2022-06-03": 12442,
-  "2022-06-04": 12442,
-  "2022-06-05": 12442,
-  "2022-06-06": 12442,
-  "2022-06-07": 12442,
-  "2022-06-08": 12442,
-  "2022-06-09": 12442,
-  "2022-06-10": 12442,
-  "2022-06-11": 12442,
-  "2022-06-12": 12442,
-  "2022-06-13": 12442,
-  "2022-06-14": 12442,
-  "2022-06-15": 12442,
-  "2022-06-16": 12442,
-  "2022-06-17": 12442,
-  "2022-06-18": 12442,
-  "2022-06-19": 12442,
-  "2022-06-20": 12442,
-  "2022-06-21": 12442,
-  "2022-06-22": 12442,
-  "2022-06-23": 12442,
-  "2022-06-24": 12442,
-  "2022-06-25": 12442,
-  "2022-06-26": 12442,
-  "2022-06-27": 12442,
-  "2022-06-28": 12442,
-  "2022-06-29": 12442,
-  "2022-06-30": 12442,
-  "2022-07-01": 12442,
-  "2022-07-02": 12442,
-  "2022-07-03": 12442,
-  "2022-07-04": 12442,
-  "2022-07-05": 12442,
-  "2022-07-06": 12442,
-  "2022-07-07": 12442,
-  "2022-07-08": 12442,
-  "2022-07-09": 12442,
-  "2022-07-10": 12442,
-  "2022-07-11": 12442,
-  "2022-07-12": 12442,
-  "2022-07-13": 12442,
-  "2022-07-14": 12442,
-  "2022-07-15": 12442,
-  "2022-07-16": 12442,
-  "2022-07-17": 12442,
-  "2022-07-18": 12442,
-  "2022-07-19": 12442,
-  "2022-07-20": 12442,
-  "2022-07-21": 12442,
-  "2022-07-22": 12442,
-  "2022-07-23": 12442,
-  "2022-07-24": 12442,
-  "2022-07-25": 12442,
-  "2022-07-26": 12442,
-  "2022-07-27": 12442,
-  "2022-07-28": 12442,
-  "2022-07-29": 12442,
-  "2022-07-30": 12442,
-  "2022-07-31": 12442,
-  "2022-08-01": 12442,
-  "2022-08-02": 12442,
-  "2022-08-03": 12442,
-  "2022-08-04": 12442,
-  "2022-08-05": 12442,
-  "2022-08-06": 12442,
-  "2022-08-07": 12442,
-  "2022-08-08": 12442,
-  "2022-08-09": 12442,
-  "2022-08-10": 12442,
-  "2022-08-11": 12442,
-  "2022-08-12": 12442,
-  "2022-08-13": 12442,
-  "2022-08-14": 12442,
-  "2022-08-15": 12442,
-  "2022-08-16": 12442,
-  "2022-08-17": 12442,
-  "2022-08-18": 12442,
-  "2022-08-19": 12442,
-  "2022-08-20": 12442,
-  "2022-08-21": 12442,
-  "2022-08-22": 12442,
-  "2022-08-23": 12442,
-  "2022-08-24": 12442,
-  "2022-08-25": 12442,
-  "2022-08-26": 12442,
-  "2022-08-27": 12442,
-  "2022-08-28": 12442,
-  "2022-08-29": 12442,
-  "2022-08-30": 12442,
-  "2022-08-31": 12442,
-  "2022-09-01": 12442,
-  "2022-09-02": 12442,
-  "2022-09-03": 12442,
-  "2022-09-04": 12442,
-  "2022-09-05": 12442,
-  "2022-09-06": 12442,
-  "2022-09-07": 12442,
-  "2022-09-09": 12442,
-  "2022-09-10": 12442,
-  "2022-09-11": 12442,
-  "2022-09-12": 12442,
-  "2022-09-13": 12442,
-  "2022-09-15": 12442,
-  "2022-09-16": 12442,
-  "2022-09-17": 12442,
-  "2022-09-18": 12442,
-  "2022-09-19": 12442,
-  "2022-09-20": 12442,
-  "2022-09-21": 12442,
-  "2022-09-22": 12442,
-  "2022-09-23": 12442,
-  "2022-09-24": 12442,
-  "2022-09-25": 12442,
-  "2022-09-26": 12442,
-  "2022-09-27": 12442,
-  "2022-09-28": 12442,
-  "2022-09-29": 12442,
-  "2022-09-30": 12442,
-  "2022-10-01": 12442,
-  "2022-10-02": 12442,
-  "2022-10-03": 12442,
-  "2022-10-04": 12442,
-  "2022-10-05": 12442,
-  "2022-10-06": 12442,
-  "2022-10-07": 12442,
-  "2022-10-08": 12442,
-  "2022-10-09": 12442,
-  "2022-10-10": 12442,
-  "2022-10-11": 12442,
-  "2022-10-12": 12442,
-  "2022-10-13": 12442,
-  "2022-10-14": 12442,
-  "2022-10-15": 12442,
-  "2022-10-16": 12442,
-  "2022-10-17": 12442,
-  "2022-10-18": 12442,
-  "2022-10-19": 12442,
-  "2022-10-20": 12442,
-  "2022-10-21": 12442,
-  "2022-10-22": 12442,
-  "2022-10-23": 12442,
-  "2022-10-24": 12442,
-  "2022-10-25": 12442,
-  "2022-10-26": 12442,
-  "2022-10-27": 12442,
-  "2022-10-28": 12442,
-  "2022-10-29": 12442,
-  "2022-10-30": 12442,
-  "2022-10-31": 12442,
-  "2022-11-01": 12442,
-  "2022-11-02": 12442,
-  "2022-11-03": 12442,
-  "2022-11-04": 12442,
-  "2022-11-05": 12442,
-  "2022-11-06": 12442,
-  "2022-11-07": 12442,
-  "2022-11-08": 12442,
-  "2022-11-09": 12442,
-  "2022-11-10": 12442,
-  "2022-11-11": 12442,
-  "2022-11-12": 12442,
-  "2022-11-13": 12442,
-  "2022-11-14": 12442,
-  "2022-11-15": 12442,
-  "2022-11-16": 12442,
-  "2022-11-17": 12442,
-  "2022-11-18": 12442,
-  "2022-11-19": 12442,
-  "2022-11-20": 12442,
-  "2022-11-21": 12442,
-  "2022-11-22": 12442,
-  "2022-11-23": 12442,
-  "2022-11-24": 12442,
-  "2022-11-25": 12442,
-  "2022-11-26": 12442,
-  "2022-11-27": 12442,
-  "2022-11-28": 12442,
-  "2022-11-29": 12442,
-  "2022-11-30": 12442,
-  "2022-12-01": 12442,
-  "2022-12-02": 12442,
-  "2022-12-03": 12442,
-  "2022-12-04": 12442,
-  "2022-12-05": 12442,
-  "2022-12-06": 12442,
-  "2022-12-07": 12442,
-  "2022-12-08": 12442,
-  "2022-12-09": 12442,
-  "2022-12-10": 12442,
-  "2022-12-11": 12442,
-  "2022-12-12": 12442,
-  "2022-12-13": 12442,
-  "2022-12-14": 12442,
-  "2022-12-15": 12442,
-  "2022-12-16": 12442,
-  "2022-12-17": 12442,
-  "2022-12-18": 12442,
-  "2022-12-19": 12442,
-  "2022-12-20": 12442,
-  "2022-12-21": 12442,
-  "2022-12-22": 12442,
-  "2022-12-24": 12442,
-  "2022-12-25": 12442,
-  "2022-12-26": 12442,
-  "2022-12-27": 12442,
-  "2022-12-28": 12442,
-  "2022-12-29": 12442,
-  "2022-12-30": 12442,
-  "2022-12-31": 12442,
-  "2023-01-01": 12442,
-  "2023-01-02": 12442,
-  "2023-01-03": 12442,
-  "2023-01-04": 12442,
-  "2023-01-05": 12442,
-  "2023-01-06": 12442,
-  "2023-01-07": 12442,
-  "2023-01-08": 12442,
-  "2023-01-09": 12442,
-  "2023-01-10": 12442,
-  "2023-01-11": 12442,
-  "2023-01-12": 12442,
-  "2023-01-13": 12442,
-  "2023-01-14": 12442,
-  "2023-01-15": 12442,
-  "2023-01-16": 12442,
-  "2023-01-17": 12442,
-  "2023-01-18": 12442,
-  "2023-01-19": 12442,
-  "2023-01-20": 12442,
-  "2023-01-21": 12442,
-  "2023-01-22": 12442,
-  "2023-01-23": 12442,
-  "2023-01-24": 12442,
-  "2023-01-25": 12442,
-  "2023-01-26": 12442,
-  "2023-01-27": 12442,
-  "2023-01-28": 12442,
-  "2023-01-29": 12442,
-  "2023-01-30": 12442,
-  "2023-01-31": 12442,
-  "2023-02-01": 12442,
-  "2023-02-02": 12442,
-  "2023-02-03": 12442,
-  "2023-02-04": 12442,
-  "2023-02-05": 12442,
-  "2023-02-06": 12442,
-  "2023-02-07": 12442,
-  "2023-02-08": 12442,
-  "2023-02-09": 12442,
-  "2023-02-10": 12442,
-  "2023-02-11": 12442,
-  "2023-02-12": 12442,
-  "2023-02-13": 12442,
-  "2023-02-14": 12442,
-  "2023-02-15": 12442,
-  "2023-02-16": 12442,
-  "2023-02-17": 12442,
-  "2023-02-18": 12442,
-  "2023-02-19": 12442,
-  "2023-02-20": 12442,
-  "2023-02-21": 12442,
-  "2023-02-22": 12442,
-  "2023-02-23": 12442,
-  "2023-02-24": 12442,
-  "2023-02-25": 12442,
-  "2023-02-26": 12442,
-  "2023-02-27": 12442,
-  "2023-02-28": 12442,
-  "2023-03-01": 12442,
-  "2023-03-02": 12442,
-  "2023-03-03": 12442,
-  "2023-03-04": 12442,
-  "2023-03-05": 12442,
-  "2023-03-06": 12442,
-  "2023-03-07": 12442,
-  "2023-03-08": 12442,
-  "2023-03-09": 12442,
-  "2023-03-10": 12442,
-  "2023-03-11": 12442,
-  "2023-03-12": 12442,
-  "2023-03-13": 12442,
-  "2023-03-14": 12442,
-  "2023-03-15": 12442,
-  "2023-03-16": 12442,
-  "2023-03-17": 12442,
-  "2023-03-18": 12442,
-  "2023-03-19": 12442,
-  "2023-03-20": 12442,
-  "2023-03-21": 12442,
-  "2023-03-22": 12442,
-  "2023-03-23": 12442,
-  "2023-03-24": 12442,
-  "2023-03-25": 12442,
-  "2023-03-26": 12442,
-  "2023-03-27": 12442,
-  "2023-03-28": 12442,
-  "2023-03-29": 12442,
-  "2023-03-30": 12442,
-  "2023-03-31": 12442,
-  "2023-04-01": 12442,
-  "2023-04-02": 12442,
-  "2023-04-03": 12442,
-  "2023-04-04": 12442,
-  "2023-04-05": 12442,
-  "2023-04-06": 12442,
-  "2023-04-07": 12442,
-  "2023-04-09": 12442,
-  "2023-04-10": 12442,
-  "2023-04-11": 12442,
-  "2023-04-12": 12442,
-  "2023-04-13": 12442,
-  "2023-04-14": 12442,
-  "2023-04-15": 12442,
-  "2023-04-16": 12442,
-  "2023-04-17": 12442,
-  "2023-04-18": 12442,
-  "2023-04-19": 12442,
-  "2023-04-20": 12442,
-  "2023-04-21": 12442,
-  "2023-04-22": 12442,
-  "2023-04-23": 12442,
-  "2023-04-24": 12442,
-  "2023-04-25": 12442,
-  "2023-04-26": 12442,
-  "2023-04-27": 12442,
-  "2023-04-28": 12442,
-  "2023-04-29": 12442,
-  "2023-04-30": 12442,
-  "2023-05-01": 12442,
-  "2023-05-02": 12442,
-  "2023-05-03": 12442,
-  "2023-05-04": 12442,
-  "2023-05-05": 12442,
-  "2023-05-06": 12442,
-  "2023-05-07": 12442,
-  "2023-05-08": 12442,
-  "2023-05-09": 12442,
-  "2023-05-10": 12442,
-  "2023-05-11": 12442,
-  "2023-05-12": 12442,
-  "2023-05-13": 12442,
-  "2023-05-14": 12442,
-  "2023-05-15": 12442,
-  "2023-05-16": 12442,
-  "2023-05-17": 12442,
-  "2023-05-18": 12442,
-  "2023-05-19": 12442,
-  "2023-05-20": 12442,
-  "2023-05-21": 12442,
-  "2023-05-22": 12442,
-  "2023-05-23": 12442,
-  "2023-05-24": 12442,
-  "2023-05-25": 12442,
-  "2023-05-26": 12442,
-  "2023-05-27": 12442,
-  "2023-05-28": 12442,
-  "2023-05-29": 12442,
-  "2023-05-30": 12442,
-  "2023-05-31": 12442,
-  "2023-06-01": 12442,
-  "2023-06-02": 12442,
-  "2023-06-03": 12442,
-  "2023-06-04": 12442,
-  "2023-06-05": 12442,
-  "2023-06-06": 12442,
-  "2023-06-07": 12442,
-  "2023-06-08": 12442,
-  "2023-06-09": 12442,
-  "2023-06-10": 12442,
-  "2023-06-11": 12442,
-  "2023-06-12": 12442,
-  "2023-06-13": 12442,
-  "2023-06-14": 12442,
-  "2023-06-15": 12442,
-  "2023-06-16": 12442,
-  "2023-06-17": 12442,
-  "2023-06-18": 12442,
-  "2023-06-19": 12442,
-  "2023-06-20": 12442,
-  "2023-06-21": 12442,
-  "2023-06-22": 12442,
-  "2023-06-23": 12442,
-  "2023-06-24": 12442,
-  "2023-06-25": 12442,
-  "2023-06-26": 12442,
-  "2023-06-27": 12442,
-  "2023-06-28": 12442,
-  "2023-06-29": 12442,
-  "2023-06-30": 12442,
-  "2023-07-01": 12442,
-  "2023-07-02": 12442,
-  "2023-07-03": 12442,
-  "2023-07-04": 12442,
-  "2023-07-05": 12442,
-  "2023-07-06": 12442,
-  "2023-07-07": 12442,
-  "2023-07-08": 12442,
-  "2023-07-09": 12442,
-  "2023-07-10": 12442,
-  "2023-07-11": 12442,
-  "2023-07-12": 12442,
-  "2023-07-13": 12442,
-  "2023-07-14": 12442,
-  "2023-07-15": 12442,
-  "2023-07-16": 12442,
-  "2023-07-17": 12442,
-  "2023-07-18": 12442,
-  "2023-07-19": 12442,
-  "2023-07-20": 12442,
-  "2023-07-21": 12442,
-  "2023-07-22": 12442,
-  "2023-07-23": 12442,
-  "2023-07-24": 12442,
-  "2023-07-25": 12442,
-  "2023-07-26": 12442,
-  "2023-07-27": 12442,
-  "2023-07-28": 12442,
-  "2023-07-29": 12442,
-  "2023-07-30": 12442,
-  "2023-07-31": 12442,
-  "2023-08-01": 12442,
-  "2023-08-02": 12442,
-  "2023-08-03": 12442,
-  "2023-08-04": 12442,
-  "2023-08-05": 12442,
-  "2023-08-06": 12442,
-  "2023-08-07": 12442,
-  "2023-08-08": 12442,
-  "2023-08-09": 12442,
-  "2023-08-10": 12442,
-  "2023-08-11": 12442,
-  "2023-08-12": 12442,
-  "2023-08-13": 12442,
-  "2023-08-14": 12442,
-  "2023-08-15": 12442,
-  "2023-08-16": 12442,
-  "2023-08-17": 12442,
-  "2023-08-18": 12442,
-  "2023-08-19": 12442,
-  "2023-08-20": 12442,
-  "2023-08-21": 12442,
-  "2023-08-22": 12442,
-  "2023-08-23": 12442,
-  "2023-08-24": 12442,
-  "2023-08-25": 12442,
-  "2023-08-26": 12442,
-  "2023-08-27": 12442,
-  "2023-08-28": 12442,
-  "2023-08-29": 12442,
-  "2023-08-30": 12442,
-  "2023-08-31": 12442,
-  "2023-09-01": 12442,
-  "2023-09-02": 12442,
-  "2023-09-03": 12442,
-  "2023-09-04": 12442,
-  "2023-09-05": 12442,
-  "2023-09-06": 12442,
-  "2023-09-07": 12442,
-  "2023-09-08": 12442,
-  "2023-09-09": 12442,
-  "2023-09-10": 12442,
-  "2023-09-11": 12442,
-  "2023-09-12": 12442,
-  "2023-09-13": 12442,
-  "2023-09-14": 12442,
-  "2023-09-15": 12442,
-  "2023-09-16": 12442,
-  "2023-09-17": 12442,
-  "2023-09-18": 12442,
-  "2023-09-19": 12442,
-  "2023-09-20": 12442,
-  "2023-09-21": 12442,
-  "2023-09-22": 12442,
-  "2023-09-23": 12442,
-  "2023-09-24": 12442,
-  "2023-09-25": 12442,
-  "2023-09-26": 12442,
-  "2023-09-27": 12442,
-  "2023-09-28": 12442,
-  "2023-09-29": 12442,
-  "2023-09-30": 12442,
-  "2023-10-01": 12442,
-  "2023-10-02": 12442,
-  "2023-10-03": 12442,
-  "2023-10-04": 12442,
-  "2023-10-05": 12442,
-  "2023-10-06": 12442,
-  "2023-10-07": 12442,
-  "2023-10-08": 12442,
-  "2023-10-09": 12442,
-  "2023-10-10": 12442,
-  "2023-10-11": 12442,
-  "2023-10-12": 12442,
-  "2023-10-13": 12442,
-  "2023-10-14": 12442,
-  "2023-10-15": 12442,
-  "2023-10-16": 12442,
-  "2023-10-17": 12442,
-  "2023-10-18": 12442,
-  "2023-10-19": 12442,
-  "2023-10-20": 12442,
-  "2023-10-21": 12442,
-  "2023-10-22": 12442,
-  "2023-10-23": 12442,
-  "2023-10-24": 12442,
-  "2023-10-25": 12442,
-  "2023-10-26": 12442,
-  "2023-10-27": 12442,
-  "2023-10-28": 12442,
-  "2023-10-29": 12442,
-  "2023-10-30": 12442,
-  "2023-10-31": 12442,
-  "2023-11-01": 12442,
-  "2023-11-02": 12442,
-  "2023-11-03": 12442,
-  "2023-11-04": 12442,
-  "2023-11-05": 12442,
-  "2023-11-06": 12442,
-  "2023-11-07": 12442,
-  "2023-11-08": 12442,
-  "2023-11-09": 12442,
-  "2023-11-10": 12442,
-  "2023-11-11": 12442,
-  "2023-11-12": 12442,
-  "2023-11-13": 12442,
-  "2023-11-14": 12442,
-  "2023-11-15": 12442,
-  "2023-11-16": 12442,
-  "2023-11-17": 12442,
-  "2023-11-18": 12442,
-  "2023-11-19": 12442,
-  "2023-11-20": 12442,
-  "2023-11-21": 12442,
-  "2023-11-22": 12442,
-  "2023-11-23": 12442,
-  "2023-11-24": 12442,
-  "2023-11-25": 12442,
-  "2023-11-26": 12442,
-  "2023-11-27": 12442,
-  "2023-11-28": 12442,
-  "2023-11-29": 12442,
-  "2023-11-30": 12442,
-  "2023-12-01": 12442,
-  "2023-12-02": 12442,
-  "2023-12-03": 12442,
-  "2023-12-04": 12442,
-  "2023-12-05": 12442,
-  "2023-12-06": 12442,
-  "2023-12-07": 12442,
-  "2023-12-08": 12442,
-  "2023-12-09": 12442,
-  "2023-12-10": 12442,
-  "2023-12-11": 12442,
-  "2023-12-12": 12442,
-  "2023-12-13": 12442,
-  "2023-12-14": 12442,
-  "2023-12-15": 12442,
-  "2023-12-16": 12442,
-  "2023-12-17": 12442,
-  "2023-12-18": 12442,
-  "2023-12-19": 12442,
-  "2023-12-20": 12442,
-  "2023-12-21": 12442,
-  "2023-12-22": 12442,
-  "2023-12-23": 12442,
-  "2023-12-24": 12442,
-  "2023-12-25": 12442,
-  "2023-12-26": 12442,
-  "2023-12-27": 12442,
-  "2023-12-30": 12442,
-  "2023-12-31": 12442,
-  "2024-01-01": 12442,
-  "2024-01-02": 12442,
-  "2024-01-03": 12442
+  "2024-01-17": 12442,
+  "date_first_scraped": "2021-12-21",
+  "description": "A collection of classic and contemporary Irish short stories, novels, plays, poetry, and historical artifacts in English and Irish.",
+  "name": "Irish Lit",
+  "tracks": [
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60426,
+      "name": "'I Awake And Feel...'",
+      "url": "https://open.spotify.com/track/1wK11Q4v9feI0yAbbGR2HH"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "'That Nature Is An Heraclitean Fire...'",
+      "url": "https://open.spotify.com/track/7rZKo3W6TP28IePoqeg4PD"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73013,
+      "name": "'Thee God I Came From...'",
+      "url": "https://open.spotify.com/track/0pMN4dMIdu76ov8eTOqd6O"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65040,
+      "name": "'Thou Art Indeed Just...'",
+      "url": "https://open.spotify.com/track/7xgY1NbyeXtDf71MAbF0nR"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282120,
+      "name": "1901(Nineteen Hundred and One)",
+      "url": "https://open.spotify.com/track/5Wis3tKl8HTwT5lQqpo6Ic"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152626,
+      "name": "A Lady at a Party",
+      "url": "https://open.spotify.com/track/0uDgShbeAoEUKzAHFrzXKQ"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22840,
+      "name": "A Question of Values",
+      "url": "https://open.spotify.com/track/7I8SkkEWVbt4cvpfcH95yG"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48080,
+      "name": "A Theanga Seo Leath-Liom",
+      "url": "https://open.spotify.com/track/5U7n79F1QoKGITLkqlnfXy"
+    },
+    {
+      "album": {
+        "name": "Waiting For Godot",
+        "url": "https://open.spotify.com/album/5EdHPUCTTIMOkC0xBYCxPg"
+      },
+      "artists": [
+        {
+          "name": "Bert Lahr",
+          "url": "https://open.spotify.com/artist/6cvl2oguSPCBHeHXgHa6zh"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1850106,
+      "name": "Act 1, Part 1",
+      "url": "https://open.spotify.com/track/3Oydng5DJ5sBVMvpPomY0m"
+    },
+    {
+      "album": {
+        "name": "Waiting For Godot",
+        "url": "https://open.spotify.com/album/5EdHPUCTTIMOkC0xBYCxPg"
+      },
+      "artists": [
+        {
+          "name": "Bert Lahr",
+          "url": "https://open.spotify.com/artist/6cvl2oguSPCBHeHXgHa6zh"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1779533,
+      "name": "Act 1, Part 2",
+      "url": "https://open.spotify.com/track/7nGNOUXJpJMsBcKnvMRzaL"
+    },
+    {
+      "album": {
+        "name": "Waiting For Godot",
+        "url": "https://open.spotify.com/album/5EdHPUCTTIMOkC0xBYCxPg"
+      },
+      "artists": [
+        {
+          "name": "Bert Lahr",
+          "url": "https://open.spotify.com/artist/6cvl2oguSPCBHeHXgHa6zh"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1331000,
+      "name": "Act 2, Part 1",
+      "url": "https://open.spotify.com/track/5pO3N2C7AfaIa6mtYLdFY1"
+    },
+    {
+      "album": {
+        "name": "Waiting For Godot",
+        "url": "https://open.spotify.com/album/5EdHPUCTTIMOkC0xBYCxPg"
+      },
+      "artists": [
+        {
+          "name": "Bert Lahr",
+          "url": "https://open.spotify.com/artist/6cvl2oguSPCBHeHXgHa6zh"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1389800,
+      "name": "Act 2, Part 2",
+      "url": "https://open.spotify.com/track/34b1OgNmGI7FpnEKm86RAE"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "Adhlacadh Mo Mh\u00e1thar",
+      "url": "https://open.spotify.com/track/4B6lkskFIdhNliUpKGMjhR"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49640,
+      "name": "Amhr\u00e1n Gr\u00e1 Vietnam",
+      "url": "https://open.spotify.com/track/6yrq48VsMWKejEtJaVI66G"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57720,
+      "name": "Amhr\u00e9idh",
+      "url": "https://open.spotify.com/track/0hnIrlhAl5VqfAbxrNKBmr"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267720,
+      "name": "An Bonn\u00e1n Bu\u00ed",
+      "url": "https://open.spotify.com/track/39Qvk4VPVgxV7lKyrVLyDU"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40906,
+      "name": "An B\u00e1s",
+      "url": "https://open.spotify.com/track/62rr66By6buueaSsZ7rc30"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304093,
+      "name": "An Dialann (pr\u00f3s)",
+      "url": "https://open.spotify.com/track/18SjyPUKuo7zXdZyGuky5x"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101760,
+      "name": "An Feair\u00edn",
+      "url": "https://open.spotify.com/track/3CTEvsbKSwxyVko4T4txdW"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36306,
+      "name": "An Lacha",
+      "url": "https://open.spotify.com/track/1ObPCcbZ4imWuxJWEx2uuz"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147373,
+      "name": "An Old Song Re-Sung (As I went down through Dublin city)",
+      "url": "https://open.spotify.com/track/76BGou30HHG3B4Qde8spJF"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "An tSailchuach",
+      "url": "https://open.spotify.com/track/5ovqOnXsNaxMvE45Q1luOe"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56320,
+      "name": "At the Mid Hour of the Night",
+      "url": "https://open.spotify.com/track/0F2xWqfFTavHAH5G1dKga4"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35480,
+      "name": "Bagairt Na Marbh",
+      "url": "https://open.spotify.com/track/0aNBg9JiZM8Xg0PfEl7CBB"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84453,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5QD1FuatO1LDNtZIZmPT6m"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73613,
+      "name": "Binsey Poplars",
+      "url": "https://open.spotify.com/track/0An0beUgUJXlliZPhGup73"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44506,
+      "name": "Bird of Paradise",
+      "url": "https://open.spotify.com/track/68sAvyfioafPfwNKcnd720"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558586,
+      "name": "Blarney Castle",
+      "url": "https://open.spotify.com/track/2EDjFLERU7enlsMfUy9FnK"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "Brendan Behan",
+          "url": "https://open.spotify.com/artist/1OsqpxG1mezAG9BGfN5zkA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127333,
+      "name": "Brendan Behan Sings \"The Auld Triangle\" From His Play Quare Fellow (Circa 1960)",
+      "url": "https://open.spotify.com/track/75fKJX4TeCU5PxZ6TYc2QU"
+    },
+    {
+      "album": {
+        "name": "Spoken English and Broken English",
+        "url": "https://open.spotify.com/album/2RxarZBh5hM7oicBPRquHn"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 966960,
+      "name": "Broken English and Spoken English",
+      "url": "https://open.spotify.com/track/5Qk2yy7NTtlkVBQ3F5t6sK"
+    },
+    {
+      "album": {
+        "name": "Poems by W.B. Yeats: Spoken According to His Own Direction and Poems for Several Voices",
+        "url": "https://open.spotify.com/album/68n0CThkUGUm6WZuGIY2Ji"
+      },
+      "artists": [
+        {
+          "name": "Pauline Letts",
+          "url": "https://open.spotify.com/artist/04LJC57oSBKxdC6zJ1Ijp6"
+        },
+        {
+          "name": "V. C. Clinton-Baddeley",
+          "url": "https://open.spotify.com/artist/7CpH6I1FnPQKFG9P1paNGH"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50133,
+      "name": "C. Day Lewis: Is It Far to Go?",
+      "url": "https://open.spotify.com/track/3UxWzkayGlkEfkle9x9Xo1"
+    },
+    {
+      "album": {
+        "name": "Sea Legs",
+        "url": "https://open.spotify.com/album/3DuCuSRQQnIXSQaPwkzgtO"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        },
+        {
+          "name": "Ryan Vail",
+          "url": "https://open.spotify.com/artist/0vAfBmdtRZEAYgsoH66VhU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75918,
+      "name": "Ceol Na Mara",
+      "url": "https://open.spotify.com/track/18TEh8Wkhpxs2BMA1sl8AZ"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47933,
+      "name": "Claustrophobia",
+      "url": "https://open.spotify.com/track/019BLz2xX1sLikOhGwBPzb"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66053,
+      "name": "Condors",
+      "url": "https://open.spotify.com/track/0dbGWOtSHz2xMMiiQnktEp"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285160,
+      "name": "Curracha\u00ed Na Tr\u00e1 B\u00e1ine",
+      "url": "https://open.spotify.com/track/4g7LTbKNvUp2jrxU2LtP56"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87360,
+      "name": "C\u00fal An T\u00ed",
+      "url": "https://open.spotify.com/track/0518wZU3ipim8L6V5WNL95"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48773,
+      "name": "Daoirse",
+      "url": "https://open.spotify.com/track/4byAkcdu9NPfIJc7AE8jLd"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49026,
+      "name": "Dark Dark Head",
+      "url": "https://open.spotify.com/track/3Vl9WiX16xywduluhzbHtP"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91226,
+      "name": "Dark Rosaleen",
+      "url": "https://open.spotify.com/track/6r2QmSpvMaoAwlt3yYRByA"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148773,
+      "name": "Dh\u00e9",
+      "url": "https://open.spotify.com/track/4enBjTupUB2QEpr1MDGBwk"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86826,
+      "name": "Do Dhomhnall \u00d3 Corcora",
+      "url": "https://open.spotify.com/track/1iDS5iq0N84X6IwqUtCOyQ"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138293,
+      "name": "Do I believe",
+      "url": "https://open.spotify.com/track/1qQsshY1wX0xs5Lfyw3m3V"
+    },
+    {
+      "album": {
+        "name": "Don Juan in Hell By George Bernard Shaw",
+        "url": "https://open.spotify.com/album/4rVKyCf5BtEyUNrtb2cEGD"
+      },
+      "artists": [
+        {
+          "name": "Charles Boyer",
+          "url": "https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk"
+        },
+        {
+          "name": "Cedric Hardwicke",
+          "url": "https://open.spotify.com/artist/44eSJyD7rHSVZMKjOYZL2f"
+        },
+        {
+          "name": "Agnes Moorehead",
+          "url": "https://open.spotify.com/artist/21aCSm6yg12fbGFTd9oayQ"
+        },
+        {
+          "name": "Charles Laughton",
+          "url": "https://open.spotify.com/artist/74evDUMRVybeiMz6DJhSDs"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2691946,
+      "name": "Don Juan in Hell Part 1",
+      "url": "https://open.spotify.com/track/4gjFvavgE9Gt6MV9euJCVY"
+    },
+    {
+      "album": {
+        "name": "Don Juan in Hell By George Bernard Shaw",
+        "url": "https://open.spotify.com/album/4rVKyCf5BtEyUNrtb2cEGD"
+      },
+      "artists": [
+        {
+          "name": "Charles Boyer",
+          "url": "https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk"
+        },
+        {
+          "name": "Cedric Hardwicke",
+          "url": "https://open.spotify.com/artist/44eSJyD7rHSVZMKjOYZL2f"
+        },
+        {
+          "name": "Agnes Moorehead",
+          "url": "https://open.spotify.com/artist/21aCSm6yg12fbGFTd9oayQ"
+        },
+        {
+          "name": "Charles Laughton",
+          "url": "https://open.spotify.com/artist/74evDUMRVybeiMz6DJhSDs"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3070440,
+      "name": "Don Juan in Hell Part 2",
+      "url": "https://open.spotify.com/track/6gSjS1OhqNptdbzIQGz6iR"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/6gtGuaSp2Ak9cfZzdQStix"
+      },
+      "artists": [
+        {
+          "name": "Bram Stoker",
+          "url": "https://open.spotify.com/artist/3k5xs8ZMTW9LV35SAY90KR"
+        },
+        {
+          "name": "Christopher Lee",
+          "url": "https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2722400,
+      "name": "Dracula - Part 1",
+      "url": "https://open.spotify.com/track/2H3z8eEODnOmzSsjWA7N3G"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/6gtGuaSp2Ak9cfZzdQStix"
+      },
+      "artists": [
+        {
+          "name": "Bram Stoker",
+          "url": "https://open.spotify.com/artist/3k5xs8ZMTW9LV35SAY90KR"
+        },
+        {
+          "name": "Christopher Lee",
+          "url": "https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2598545,
+      "name": "Dracula - Part 2",
+      "url": "https://open.spotify.com/track/7dwXklekzmiro73FGbtotg"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/6gtGuaSp2Ak9cfZzdQStix"
+      },
+      "artists": [
+        {
+          "name": "Bram Stoker",
+          "url": "https://open.spotify.com/artist/3k5xs8ZMTW9LV35SAY90KR"
+        },
+        {
+          "name": "Christopher Lee",
+          "url": "https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2573113,
+      "name": "Dracula - Part 3",
+      "url": "https://open.spotify.com/track/6f8dU9CZPD4HqHzFwVkCjk"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/6gtGuaSp2Ak9cfZzdQStix"
+      },
+      "artists": [
+        {
+          "name": "Bram Stoker",
+          "url": "https://open.spotify.com/artist/3k5xs8ZMTW9LV35SAY90KR"
+        },
+        {
+          "name": "Christopher Lee",
+          "url": "https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2687338,
+      "name": "Dracula - Part 4",
+      "url": "https://open.spotify.com/track/22P83QQMdUqWF3lM6hTFxi"
+    },
+    {
+      "album": {
+        "name": "Bram Stoker - The Short Stories",
+        "url": "https://open.spotify.com/album/3eLidCFXwb7r3iVHuGPxSX"
+      },
+      "artists": [
+        {
+          "name": "Richard Mithchley",
+          "url": "https://open.spotify.com/artist/2EGeeTdFrjgRrxmJtF6VKd"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1684770,
+      "name": "Dracula's Guest",
+      "url": "https://open.spotify.com/track/2lDVtvoP6N88HU9CAREHUz"
+    },
+    {
+      "album": {
+        "name": "The Best of James Joyce",
+        "url": "https://open.spotify.com/album/3GJwneKZ36EZ3MMt2B7ucG"
+      },
+      "artists": [
+        {
+          "name": "Emma Hignett",
+          "url": "https://open.spotify.com/artist/2I31OmKUbh6WRIX3mG2KzN"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 758413,
+      "name": "Dubliners : The Araby",
+      "url": "https://open.spotify.com/track/4kagZllrs9lGO481xPdW31"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 20613,
+      "name": "D\u00e1n",
+      "url": "https://open.spotify.com/track/6eyvH7aGLbeVrwTAEXc1Xx"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316146,
+      "name": "D\u00f3nall \u00d3g",
+      "url": "https://open.spotify.com/track/7qWbz8rDyHdWE9XlgGpkTi"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119226,
+      "name": "Eileen Aroon",
+      "url": "https://open.spotify.com/track/7xK1AYfknoYKjqacsBZcfI"
+    },
+    {
+      "album": {
+        "name": "The Very Best Historic Voices",
+        "url": "https://open.spotify.com/album/7cmdYngBaNcgzi2QW3ShoM"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87133,
+      "name": "Einstein And The Jews",
+      "url": "https://open.spotify.com/track/1UmGJzTNE2k2PQ7k7F6iUo"
+    },
+    {
+      "album": {
+        "name": "James Joyce's Dubliners",
+        "url": "https://open.spotify.com/album/0Ghsvz1JEdd2MBJ1Ervvzj"
+      },
+      "artists": [
+        {
+          "name": "James Joyce",
+          "url": "https://open.spotify.com/artist/4rkN8qN37xzd16RwHWfn12"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 627227,
+      "name": "Eveline",
+      "url": "https://open.spotify.com/track/3A0kSaWo72pPmkxWOAQYfy"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44666,
+      "name": "Fan!",
+      "url": "https://open.spotify.com/track/1FxsdXZyS7wmeECFtndfQr"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66960,
+      "name": "Fiabhras",
+      "url": "https://open.spotify.com/track/3W8z16xTvunFhzPrXuXsyT"
+    },
+    {
+      "album": {
+        "name": "Cobwebs",
+        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62803,
+      "name": "Field Upon Field",
+      "url": "https://open.spotify.com/track/2PGIqwajMFtbSnKxMKfL1O"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79760,
+      "name": "Fill Ar\u00eds",
+      "url": "https://open.spotify.com/track/4JFaelrtCSoUio24xKXk3j"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "Frank O Connor",
+          "url": "https://open.spotify.com/artist/3hPBnOG3yBu6qEXVUArxRN"
+        },
+        {
+          "name": "Sean O'Faolain",
+          "url": "https://open.spotify.com/artist/3b9XIzwwJYwOlnM3LBMzNA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366066,
+      "name": "Frank O'connor & Sean O'faolain, Two Great Irish Writers Discuss W.B.Yeats's Legacy (1949)",
+      "url": "https://open.spotify.com/track/3hCDaavsG9Ksce4U6j0frh"
+    },
+    {
+      "album": {
+        "name": "The Story-Teller .. A Session With Charles Laughton",
+        "url": "https://open.spotify.com/album/7mYSs3HfAPZ1nwfQ4RYryp"
+      },
+      "artists": [
+        {
+          "name": "Charles Laughton",
+          "url": "https://open.spotify.com/artist/74evDUMRVybeiMz6DJhSDs"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 743865,
+      "name": "From \"Major Barbara\", By George Bernard Shaw",
+      "url": "https://open.spotify.com/track/0BtGADm4XJ6YuRsPGWu7Mf"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498240,
+      "name": "George Bernard Shaw Addresses the British Drama League Conference (1933)",
+      "url": "https://open.spotify.com/track/308MsS3JZPYT9WSAmq5nyx"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246760,
+      "name": "George Bernard Shaw Discusses the Perils of Gramophones (1927)",
+      "url": "https://open.spotify.com/track/4CNsBCDGP7NSTxBkx6Wvsb"
+    },
+    {
+      "album": {
+        "name": "Poems by W.B. Yeats: Spoken According to His Own Direction and Poems for Several Voices",
+        "url": "https://open.spotify.com/album/68n0CThkUGUm6WZuGIY2Ji"
+      },
+      "artists": [
+        {
+          "name": "Pauline Letts",
+          "url": "https://open.spotify.com/artist/04LJC57oSBKxdC6zJ1Ijp6"
+        },
+        {
+          "name": "Jill Balcon",
+          "url": "https://open.spotify.com/artist/0ENLBRzm2RkHvV6Xoh5FBt"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282400,
+      "name": "Gerard Manley Hopkins: The Leaden Echo and the Golden Echo",
+      "url": "https://open.spotify.com/track/5HHRr7PXaQ6yX4YGyV0pGF"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64040,
+      "name": "God's Grandeur",
+      "url": "https://open.spotify.com/track/2nYCb9oNmJztVFvhxICJBq"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31520,
+      "name": "Heaven-Haven",
+      "url": "https://open.spotify.com/track/6V0CkVzVHR61oG1lWDSsea"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104653,
+      "name": "Honey-Seller",
+      "url": "https://open.spotify.com/track/4ajr5RrF6JN7a1SRWuCltw"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238840,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/19THY7H9SfegWJ7kgvVman"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66586,
+      "name": "Hurrahing In Harvest",
+      "url": "https://open.spotify.com/track/00OHP5NSNzSnJ34o69Yiau"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43813,
+      "name": "I Am Raftery",
+      "url": "https://open.spotify.com/track/5dLcahYUyxSOd4LwdkwOdj"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60760,
+      "name": "Imp\u00ed",
+      "url": "https://open.spotify.com/track/2PorkZdEj45rynv5cQ5Hn0"
+    },
+    {
+      "album": {
+        "name": "Late Night Tales Nils Frahm",
+        "url": "https://open.spotify.com/album/7w4ibVLYJdUeiRCuWc3zmK"
+      },
+      "artists": [
+        {
+          "name": "Cillian Murphy",
+          "url": "https://open.spotify.com/artist/7hGvL6xgipAEutgDhyk5XB"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425226,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/1dxCB2G5CCwHiGxb4jEXKt"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57000,
+      "name": "Inversnaid",
+      "url": "https://open.spotify.com/track/0xxbfi6RNbZoaYWOSZuDxF"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122333,
+      "name": "Is Fada Mo Chosa Gan Br\u00f3ga",
+      "url": "https://open.spotify.com/track/3Ibhc3t9I7kQ6L98DGJBmz"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "James Joyce",
+          "url": "https://open.spotify.com/artist/4rkN8qN37xzd16RwHWfn12"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521293,
+      "name": "James Joyce Reads \"Anna Livia Plurabelle\" From Finnegan's Wake (1929)",
+      "url": "https://open.spotify.com/track/06fmOwyAZxVUvvX6kjIZDo"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "James Joyce",
+          "url": "https://open.spotify.com/artist/4rkN8qN37xzd16RwHWfn12"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254133,
+      "name": "James Joyce Reads an Extract from Ulysses (1924)",
+      "url": "https://open.spotify.com/track/4ka1PDNaG4v6JQL2dzk6cE"
+    },
+    {
+      "album": {
+        "name": "Short Stories",
+        "url": "https://open.spotify.com/album/5AVdl5FKD7L4n0Z8hLj4C4"
+      },
+      "artists": [
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 925760,
+      "name": "Jamie Freel & The Young Lady - By Leticia Maclintock",
+      "url": "https://open.spotify.com/track/4NNHvgsMLwj2DBdp2a3ht4"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144613,
+      "name": "John-John",
+      "url": "https://open.spotify.com/track/4ueKSBNx4yyRNVaV6xjQ1Q"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69733,
+      "name": "Lament for Sean MacDermott",
+      "url": "https://open.spotify.com/track/0ihw9VM5p1HevdvjwBmPId"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61266,
+      "name": "Let Us Be Merry Before We Go",
+      "url": "https://open.spotify.com/track/1mQnb5PIVfUocRWZIQJ86W"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211093,
+      "name": "Letter from the Seaside 1880",
+      "url": "https://open.spotify.com/track/2SaJr49UuwTKrtrGQQOt8d"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "Liam \u00d3 Raghallaigh",
+      "url": "https://open.spotify.com/track/0vp5pJmkxidEwXtCnFoNp8"
+    },
+    {
+      "album": {
+        "name": "Paroles et litt\u00e9ratures: Anglais, Husbands and Wives & Life in the Country (Mono Version)",
+        "url": "https://open.spotify.com/album/7chL9ZcPd1SbSYtrh6B7Fp"
+      },
+      "artists": [
+        {
+          "name": "Alan Adair",
+          "url": "https://open.spotify.com/artist/1o1SgU0p0qImZt04L18CbJ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244376,
+      "name": "Life in the Country: The Vicar of Wakefield, Extract",
+      "url": "https://open.spotify.com/track/1ADUGoLeKkASdVkQB0iq7X"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376866,
+      "name": "Liobar/R\u00f3is\u00edn Dubh",
+      "url": "https://open.spotify.com/track/3XpYX74xqUcl1d5UO7Ee0s"
+    },
+    {
+      "album": {
+        "name": "Lord Arthur Savile's Crime",
+        "url": "https://open.spotify.com/album/1UT7vXwWndR7kJrGxWEy7V"
+      },
+      "artists": [
+        {
+          "name": "Garard Green",
+          "url": "https://open.spotify.com/artist/5dFMHGmFZYANoc9DBzxCZp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4686390,
+      "name": "Lord Arthur Savile's Crime",
+      "url": "https://open.spotify.com/track/61257XMTNKiF4j0jo9X8iM"
+    },
+    {
+      "album": {
+        "name": "Hear Great Poets Read, v. 2: Auden, Bishop, cummings, Jackson, Jarrell, Larkin, Lowell, MacNeice, Millay, O'Hara, Thomas, Tolson",
+        "url": "https://open.spotify.com/album/77m42pjrYkrK10KhBk9FhL"
+      },
+      "artists": [
+        {
+          "name": "Louis MacNeice",
+          "url": "https://open.spotify.com/artist/7wgFEGRrYFP4dzH8aA80wi"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76493,
+      "name": "Louis MacNeice - Conversation",
+      "url": "https://open.spotify.com/track/1WT9EWkj7bWj5tbbqHQsUI"
+    },
+    {
+      "album": {
+        "name": "Hear Great Poets Read, v. 2: Auden, Bishop, cummings, Jackson, Jarrell, Larkin, Lowell, MacNeice, Millay, O'Hara, Thomas, Tolson",
+        "url": "https://open.spotify.com/album/77m42pjrYkrK10KhBk9FhL"
+      },
+      "artists": [
+        {
+          "name": "Louis MacNeice",
+          "url": "https://open.spotify.com/artist/7wgFEGRrYFP4dzH8aA80wi"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156440,
+      "name": "Louis MacNeice - Meeting Point",
+      "url": "https://open.spotify.com/track/1HxXVvMacNaepmenBayRhO"
+    },
+    {
+      "album": {
+        "name": "Anthology of 20th Century English Poetry (Part II): Read by Jill Balcon, Pauline Letts, V.C. Clinton-Baddeley, etc.",
+        "url": "https://open.spotify.com/album/71obBGIjaovC8bAtgXp1xD"
+      },
+      "artists": [
+        {
+          "name": "C. Day Lewis",
+          "url": "https://open.spotify.com/artist/7LcZAO4DobMl9jGusTaOHZ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72706,
+      "name": "Louis MacNeice: Conversation",
+      "url": "https://open.spotify.com/track/6r0rt30BiJgIGrlazYHqq7"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67000,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6uOEDwyCxi60mwWcFurLAx"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54053,
+      "name": "Malairt",
+      "url": "https://open.spotify.com/track/48VN4hTcd2vR8pCWE05Lzb"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78066,
+      "name": "Market Women's Cries",
+      "url": "https://open.spotify.com/track/2PdNICAi4ZH2xq7qE3Fn7j"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183760,
+      "name": "May Day",
+      "url": "https://open.spotify.com/track/5U8Vx3SvphaQelS7rU8ZFo"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243680,
+      "name": "Mianach Na Fil\u00edochta Agus Mianach Taibhrimh (pr\u00f3s)",
+      "url": "https://open.spotify.com/track/4rbrt7RT34mBCWYoh0UL2u"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89120,
+      "name": "Mo Dh\u00e1imh",
+      "url": "https://open.spotify.com/track/6ddBcOg9IW3xniKB1I0A52"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "Mrs Mallory",
+      "url": "https://open.spotify.com/track/5NGq3j24lLSNErpWZmq50x"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99560,
+      "name": "My Love is Like the Sun (Folk Song)",
+      "url": "https://open.spotify.com/track/28XcV2H56wxbODFswXLbWj"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53186,
+      "name": "Na Blascaoda\u00ed (sliocht)",
+      "url": "https://open.spotify.com/track/53UfCAlYx7GBNs3eP14K5X"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40306,
+      "name": "Na Bl\u00e1tha",
+      "url": "https://open.spotify.com/track/1Eurk3JvmxCiSC269NDizW"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83786,
+      "name": "Na Leamhain",
+      "url": "https://open.spotify.com/track/7nFWlcrH0etxsDYg6q7OBx"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81186,
+      "name": "Nothing is Lost",
+      "url": "https://open.spotify.com/track/4uRlE20YTnCObfwvDEX1jx"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166346,
+      "name": "Old Woman of the Roads",
+      "url": "https://open.spotify.com/track/60S1SltPKWtesib8vdmM5s"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126960,
+      "name": "Opera Notes",
+      "url": "https://open.spotify.com/track/70N3xwoSWk9Wu5H1guUvQ8"
+    },
+    {
+      "album": {
+        "name": "Irish Poets and Writers, Historic Readings and Commentary",
+        "url": "https://open.spotify.com/album/4F5FnJWWZaskzj7xQQMuFH"
+      },
+      "artists": [
+        {
+          "name": "Peter Duval Smith",
+          "url": "https://open.spotify.com/artist/0GhEMXhDUSKaNyMMLntL1B"
+        },
+        {
+          "name": "Patrick Kavanagh",
+          "url": "https://open.spotify.com/artist/2dyVIEIFoS1cQsFrisuM6D"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561483,
+      "name": "Peter Duval Smith Interviews Patrick Kavanagh",
+      "url": "https://open.spotify.com/track/00g036av8BW6aOKeyNQank"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39413,
+      "name": "Pied Beauty",
+      "url": "https://open.spotify.com/track/2qTOmVZBfkoN1tAmYgSj1D"
+    },
+    {
+      "album": {
+        "name": "Historic Voices XII",
+        "url": "https://open.spotify.com/album/3dkzoPoWiW2pncVRwdtX2v"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477146,
+      "name": "Public Address On His Ninetieth Birthday",
+      "url": "https://open.spotify.com/track/6rvdAr1RYlkS1V02SmBlXJ"
+    },
+    {
+      "album": {
+        "name": "Wake Up To Your Life, Vol. 2",
+        "url": "https://open.spotify.com/album/1arPIRkaAJhZ3Vo2fuQ5on"
+      },
+      "artists": [
+        {
+          "name": "Ken McLeod",
+          "url": "https://open.spotify.com/artist/59H5FmwvxXerJEF8zOq1Jh"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17693,
+      "name": "Quotation: Samuel Beckett",
+      "url": "https://open.spotify.com/track/0rKgwKkl4GFKSaI2J4WpYw"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56386,
+      "name": "Reminiscence II (I saw the wind to-day)",
+      "url": "https://open.spotify.com/track/4nCi3ckT0iO2QbNzJJoyOZ"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76480,
+      "name": "Reminiscence X (At the fore of the year)",
+      "url": "https://open.spotify.com/track/548EIBFbKWMtL5b4T3lMzo"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39880,
+      "name": "Reo",
+      "url": "https://open.spotify.com/track/6NYpNN2F4I13HrzPeexzNB"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129479,
+      "name": "Rian Na gCos",
+      "url": "https://open.spotify.com/track/6gvFTFPUIXzeBzLM4Zbb0t"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57066,
+      "name": "Roithle\u00e1n",
+      "url": "https://open.spotify.com/track/5LjFCOtNmqy6dkQiMNekM7"
+    },
+    {
+      "album": {
+        "name": "Saint Joan",
+        "url": "https://open.spotify.com/album/0I5nT3zTWqNA6whfZKKn38"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        },
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        },
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/5k0sKzZzLEmBzAiWQjJyo7"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1236040,
+      "name": "Saint Joan - Epilogue",
+      "url": "https://open.spotify.com/track/4JkOmOj5Dokcm0J232WMVX"
+    },
+    {
+      "album": {
+        "name": "Saint Joan",
+        "url": "https://open.spotify.com/album/0I5nT3zTWqNA6whfZKKn38"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        },
+        {
+          "name": "Siobahn McKenna",
+          "url": "https://open.spotify.com/artist/4VATHC7NWyJhbELok9CVyw"
+        },
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/5k0sKzZzLEmBzAiWQjJyo7"
+        },
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1221760,
+      "name": "Saint Joan - Scene I",
+      "url": "https://open.spotify.com/track/74GPKs9ghwzj9eqhY7MSGa"
+    },
+    {
+      "album": {
+        "name": "Saint Joan",
+        "url": "https://open.spotify.com/album/0I5nT3zTWqNA6whfZKKn38"
+      },
+      "artists": [
+        {
+          "name": "Bernard Shaw",
+          "url": "https://open.spotify.com/artist/7jT8CrPjYzgnxtYCqc3fyx"
+        },
+        {
+          "name": "Siobahn McKenna",
+          "url": "https://open.spotify.com/artist/4VATHC7NWyJhbELok9CVyw"
+        },
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/5k0sKzZzLEmBzAiWQjJyo7"
+        },
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1100866,
+      "name": "Saint Joan - Scene II",
+      "url": "https://open.spotify.com/track/3aDzv4mE46XTEWb6hTbbBY"
+    },
+    {
+      "album": {
+        "name": "Saint Joan",
+        "url": "https://open.spotify.com/album/0I5nT3zTWqNA6whfZKKn38"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        },
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        },
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/5k0sKzZzLEmBzAiWQjJyo7"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550146,
+      "name": "Saint Joan - Scene III",
+      "url": "https://open.spotify.com/track/09CbGAPuTJGqsYvDJCM36I"
+    },
+    {
+      "album": {
+        "name": "Saint Joan",
+        "url": "https://open.spotify.com/album/0I5nT3zTWqNA6whfZKKn38"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        },
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        },
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/5k0sKzZzLEmBzAiWQjJyo7"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1344213,
+      "name": "Saint Joan - Scene V",
+      "url": "https://open.spotify.com/track/6FbBHLHw1KHbIDfrVpvlgp"
+    },
+    {
+      "album": {
+        "name": "Saint Joan",
+        "url": "https://open.spotify.com/album/0I5nT3zTWqNA6whfZKKn38"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        },
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/5k0sKzZzLEmBzAiWQjJyo7"
+        },
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2181000,
+      "name": "Saint Joan - Scene VI",
+      "url": "https://open.spotify.com/track/7AYMMDqhzRgW1sSfWaxgrB"
+    },
+    {
+      "album": {
+        "name": "Saint Joan",
+        "url": "https://open.spotify.com/album/0I5nT3zTWqNA6whfZKKn38"
+      },
+      "artists": [
+        {
+          "name": "George Bernard Shaw",
+          "url": "https://open.spotify.com/artist/4wgM6HLMl0kExNAT9aojv8"
+        },
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/5k0sKzZzLEmBzAiWQjJyo7"
+        },
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1009933,
+      "name": "Saint Joan -Scene IV",
+      "url": "https://open.spotify.com/track/6pvDHCEhhK5fYpbfd33pZt"
+    },
+    {
+      "album": {
+        "name": "Irish Poets and Writers, Historic Readings and Commentary",
+        "url": "https://open.spotify.com/album/4F5FnJWWZaskzj7xQQMuFH"
+      },
+      "artists": [
+        {
+          "name": "Frank O Connor",
+          "url": "https://open.spotify.com/artist/3hPBnOG3yBu6qEXVUArxRN"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426147,
+      "name": "Saints and Soldiers (The Hermitage and Aengus the Spouse of God)",
+      "url": "https://open.spotify.com/track/3Bo6YV2WsxbcbeOg5qFhry"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Saoirse",
+      "url": "https://open.spotify.com/track/2C0LLqJt2vFn6ypIuVbQzN"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324306,
+      "name": "Scr\u00edobh Na Fill\u00edochta (pr\u00f3s)",
+      "url": "https://open.spotify.com/track/5XWk100sImjf3tnA0JlbQ2"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38453,
+      "name": "Seachtain",
+      "url": "https://open.spotify.com/track/5PEvt1Bf7EryCGScA6d2al"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "Sean O'Casey",
+          "url": "https://open.spotify.com/artist/5iKhP78vtuu9xqnzWI6P4h"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 964880,
+      "name": "Sean O'casey Discussing His Work (1962)",
+      "url": "https://open.spotify.com/track/2uy8GlQFXMeaBJRFKR4rRL"
+    },
+    {
+      "album": {
+        "name": "Paroles Et Litt\u00e9ratures: Anglais, At the Play & Sentiment (Mono Version)",
+        "url": "https://open.spotify.com/album/7f6EoEm8DwDGI1dHVe10PA"
+      },
+      "artists": [
+        {
+          "name": "Alan Adair",
+          "url": "https://open.spotify.com/artist/1o1SgU0p0qImZt04L18CbJ"
+        },
+        {
+          "name": "Alvys Maben",
+          "url": "https://open.spotify.com/artist/7qGmiGLXwa2dz0nPerfpM8"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346072,
+      "name": "Sentiment: The Life and Opinions of Tristram Shandy, Gentleman, \"The Ass\"",
+      "url": "https://open.spotify.com/track/3ac7JCdEsaq2rINHIt0qpe"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52280,
+      "name": "Siollabadh",
+      "url": "https://open.spotify.com/track/2YeRf9YYqIFywtlGGJD3fJ"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159920,
+      "name": "Sliocht As An Dialann (pr\u00f3s)",
+      "url": "https://open.spotify.com/track/3YnzGbsYF2RbdYl904sFyc"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56213,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/5hqZjcB6yOBrBIECAk2Mhs"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52000,
+      "name": "Spring & Fall",
+      "url": "https://open.spotify.com/track/5oXpwu86xq0Xr6S3HGifNg"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60560,
+      "name": "Starlight Night",
+      "url": "https://open.spotify.com/track/6lVyXur7x3Pc2bErF4YrqW"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Beach",
+          "url": "https://open.spotify.com/artist/0EB2MdUXn72jozNv8yGw4n"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469813,
+      "name": "Sylvia Beach Relates Her Involvement with the Two James Joyce Recordings Above and Her Day in the Studio with Him (1960)",
+      "url": "https://open.spotify.com/track/6HDJp7XRCM8BpEunKxSxZV"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71746,
+      "name": "S\u00faile Donna",
+      "url": "https://open.spotify.com/track/5m02hfLAWJ0uXI2TXqHL6a"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1260760,
+      "name": "The Apple Cart Interlude",
+      "url": "https://open.spotify.com/track/21o2UTyPDpieq4zgxX5kQl"
+    },
+    {
+      "album": {
+        "name": "Castles of Gold (Disc One)",
+        "url": "https://open.spotify.com/album/2RIptT2Eb2UjX755o24kEs"
+      },
+      "artists": [
+        {
+          "name": "Frank McCourt",
+          "url": "https://open.spotify.com/artist/00cwrbFzC9PwjFOIxTXyuU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517666,
+      "name": "The Arrival/Stormy Seas/The Highlander",
+      "url": "https://open.spotify.com/track/6o6GrJzsRQsan4D6sLkJjR"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.42: The Great Poets",
+        "url": "https://open.spotify.com/album/0ClwPt6RI1h4ZFwHFANlIJ"
+      },
+      "artists": [
+        {
+          "name": "Brendan Behan",
+          "url": "https://open.spotify.com/artist/1OsqpxG1mezAG9BGfN5zkA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127333,
+      "name": "The Auld Triangle by Brendan Behan",
+      "url": "https://open.spotify.com/track/6PVBeHGHLogktqHP0NyuvG"
+    },
+    {
+      "album": {
+        "name": "The Very Best Historic Voices",
+        "url": "https://open.spotify.com/album/7cmdYngBaNcgzi2QW3ShoM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Wilde",
+          "url": "https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26400,
+      "name": "The Ballad Of Reading Jail",
+      "url": "https://open.spotify.com/track/5w3GYfSXHKgKdtkgRb2Dq1"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "The Battle of Eve of the Irish Brigade",
+      "url": "https://open.spotify.com/track/4yQ3KnfOWDYd64ImvM52fd"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "The Bells of Shandon",
+      "url": "https://open.spotify.com/track/02Ib5C9vgkdNB1qFWH1GNp"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "The Bird of Jesus",
+      "url": "https://open.spotify.com/track/3rF3KAWIFch7nsSbV5Bx2X"
+    },
+    {
+      "album": {
+        "name": "Songs of the Scribe",
+        "url": "https://open.spotify.com/album/12605KwdVw12mTLr9KXQOP"
+      },
+      "artists": [
+        {
+          "name": "P\u00e1draig\u00edn N\u00ed Uallach\u00e1in",
+          "url": "https://open.spotify.com/artist/2sXfbQEBt3eN6revbpZQqN"
+        },
+        {
+          "name": "Seamus Heaney",
+          "url": "https://open.spotify.com/artist/0d5alJceng6gjXlMx7QgFt"
+        },
+        {
+          "name": "Ciaran Carson",
+          "url": "https://open.spotify.com/artist/1yjdpzztTfQl2BbWo2zEZR"
+        },
+        {
+          "name": "Helen Davies",
+          "url": "https://open.spotify.com/artist/0xkjJj4Kc8l65iTpXJRj6e"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222902,
+      "name": "The Blackbird of Belfast Lough (Int \u00e9n Bec) [feat. Seamus Heaney, Ciaran Carson & Helen Davies]",
+      "url": "https://open.spotify.com/track/3ZdSvzRL9SKOUeMkqjGJA7"
+    },
+    {
+      "album": {
+        "name": "George Bernard Shaw's The Apple Cart Interlude",
+        "url": "https://open.spotify.com/album/4rv8S4VkSwnNbRysa9UpP7"
+      },
+      "artists": [
+        {
+          "name": "Noel Coward",
+          "url": "https://open.spotify.com/artist/0qsb6mnN5e7ut4axY4wofX"
+        },
+        {
+          "name": "Margaret Leighton",
+          "url": "https://open.spotify.com/artist/5MWUiSDvTBFjsZDGnJl8Ps"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215080,
+      "name": "The Boy Actor",
+      "url": "https://open.spotify.com/track/4fFwT8wfxUclTszkAkMoMe"
+    },
+    {
+      "album": {
+        "name": "Bram Stoker - The Short Stories",
+        "url": "https://open.spotify.com/album/3eLidCFXwb7r3iVHuGPxSX"
+      },
+      "artists": [
+        {
+          "name": "Richard Mithchley",
+          "url": "https://open.spotify.com/artist/2EGeeTdFrjgRrxmJtF6VKd"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2096662,
+      "name": "The Burial of the Rats - Part 1",
+      "url": "https://open.spotify.com/track/53XkifhETl3zHFZl6n6aJF"
+    },
+    {
+      "album": {
+        "name": "Bram Stoker - The Short Stories",
+        "url": "https://open.spotify.com/album/3eLidCFXwb7r3iVHuGPxSX"
+      },
+      "artists": [
+        {
+          "name": "Richard Mithchley",
+          "url": "https://open.spotify.com/artist/2EGeeTdFrjgRrxmJtF6VKd"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1356064,
+      "name": "The Burial of the Rats - Part 2",
+      "url": "https://open.spotify.com/track/2bdk5S9G6RWRHH5tkSzUW2"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62640,
+      "name": "The Candle Indoors",
+      "url": "https://open.spotify.com/track/1BFBqTNHzDDU4zaciJGDA4"
+    },
+    {
+      "album": {
+        "name": "The Children of Odin - Padraic Colum",
+        "url": "https://open.spotify.com/album/1rWF0eu5zb5lrtARuXuMPF"
+      },
+      "artists": [
+        {
+          "name": "DBS Audiobooks",
+          "url": "https://open.spotify.com/artist/0AGYqur7KNfaJwyzMvIuRz"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 11327500,
+      "name": "The Children of Odin - Padraic Colum Part 1 of 2",
+      "url": "https://open.spotify.com/track/5v5sNU2f67sbFXxmEtwdUW"
+    },
+    {
+      "album": {
+        "name": "The Children of Odin - Padraic Colum",
+        "url": "https://open.spotify.com/album/1rWF0eu5zb5lrtARuXuMPF"
+      },
+      "artists": [
+        {
+          "name": "DBS Audiobooks",
+          "url": "https://open.spotify.com/artist/0AGYqur7KNfaJwyzMvIuRz"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 11191693,
+      "name": "The Children of Odin - Padraic Colum Part 2 of 2",
+      "url": "https://open.spotify.com/track/2IDuUR3H01IQ8R6u3HDM2j"
+    },
+    {
+      "album": {
+        "name": "The Countess Cathleen: A Verse Play By W. B. Yeats (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/2EUj3AJNY5aIbSm5zDJHGd"
+      },
+      "artists": [
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        },
+        {
+          "name": "John Neville",
+          "url": "https://open.spotify.com/artist/0wkgftJympgtHQcvmXmKuu"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1896120,
+      "name": "The Countess Cathleen - Side A",
+      "url": "https://open.spotify.com/track/0OAfOvr8LsRQyO352Fc4qt"
+    },
+    {
+      "album": {
+        "name": "The Countess Cathleen: A Verse Play By W. B. Yeats (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/2EUj3AJNY5aIbSm5zDJHGd"
+      },
+      "artists": [
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        },
+        {
+          "name": "John Neville",
+          "url": "https://open.spotify.com/artist/0wkgftJympgtHQcvmXmKuu"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1781280,
+      "name": "The Countess Cathleen - Side B",
+      "url": "https://open.spotify.com/track/6YBOZ5u9kHABJ8zJSFgBbJ"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82760,
+      "name": "The Country of Mayo",
+      "url": "https://open.spotify.com/track/6wzUx2WeGDpF9xiPwqE9fp"
+    },
+    {
+      "album": {
+        "name": "James Joyce's Dubliners",
+        "url": "https://open.spotify.com/album/0Ghsvz1JEdd2MBJ1Ervvzj"
+      },
+      "artists": [
+        {
+          "name": "James Joyce",
+          "url": "https://open.spotify.com/artist/4rkN8qN37xzd16RwHWfn12"
+        },
+        {
+          "name": "Barry McGovern",
+          "url": "https://open.spotify.com/artist/5iPxsk2MTWrnT2iDQUmw0Q"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2776840,
+      "name": "The Dead",
+      "url": "https://open.spotify.com/track/4Q7rOkKZyko9CmvcmpUmLv"
+    },
+    {
+      "album": {
+        "name": "The World's Greatest Poetry - Volume 4",
+        "url": "https://open.spotify.com/album/4JDyAbHxTQfjVX2Sbe7ZRb"
+      },
+      "artists": [
+        {
+          "name": "Robert Speaight",
+          "url": "https://open.spotify.com/artist/0Uuv01AM6LEGr8fQzf0R73"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1528026,
+      "name": "The Deserted Village by Oliver Goldsmith",
+      "url": "https://open.spotify.com/track/2J4Cx3s7neiFJS5yTQcv9Z"
+    },
+    {
+      "album": {
+        "name": "The Dubliners",
+        "url": "https://open.spotify.com/album/0bs8isHtaGMB0qJ0jRjgX9"
+      },
+      "artists": [
+        {
+          "name": "James Joyce",
+          "url": "https://open.spotify.com/artist/4rkN8qN37xzd16RwHWfn12"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2498002,
+      "name": "The Dubliners (A Little Cloud, Clay)",
+      "url": "https://open.spotify.com/track/3yoWHIybjcHHxqWMIlNN26"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266733,
+      "name": "The Fairy Thorn",
+      "url": "https://open.spotify.com/track/6hOPlcWG9UrsUbauKulrIV"
+    },
+    {
+      "album": {
+        "name": "Castles of Gold (Disc One)",
+        "url": "https://open.spotify.com/album/2RIptT2Eb2UjX755o24kEs"
+      },
+      "artists": [
+        {
+          "name": "Frank McCourt",
+          "url": "https://open.spotify.com/artist/00cwrbFzC9PwjFOIxTXyuU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462800,
+      "name": "The Goodbye/Greenfields Of Amerikay",
+      "url": "https://open.spotify.com/track/2d4e5n6m3WIskw0jFIXM1k"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87666,
+      "name": "The Habit Of Perfection",
+      "url": "https://open.spotify.com/track/3Yd2VmqTrNpnEIS86d5VwE"
+    },
+    {
+      "album": {
+        "name": "Fairy Tales",
+        "url": "https://open.spotify.com/album/5GyVBw9lACN0dbUJEqXoSl"
+      },
+      "artists": [
+        {
+          "name": "Oscar Wilde",
+          "url": "https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ"
+        },
+        {
+          "name": "Basil Rathbone",
+          "url": "https://open.spotify.com/artist/10CL0EkknPWZykQvIMemD6"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1237293,
+      "name": "The Happy Prince",
+      "url": "https://open.spotify.com/track/7eogDGI7DD7IBlJwLfTpgJ"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Irish Poetry & Prose",
+        "url": "https://open.spotify.com/album/4GopBto8v3KJK2EfcqDkDv"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57000,
+      "name": "The Harp That Once",
+      "url": "https://open.spotify.com/track/6i4h8ZeSBVnGSUjxuQdGQd"
+    },
+    {
+      "album": {
+        "name": "The Importance Of Being Earnest",
+        "url": "https://open.spotify.com/album/4GdzwqPboMD1J5tlxyhJQ1"
+      },
+      "artists": [
+        {
+          "name": "Oscar Wilde",
+          "url": "https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1700706,
+      "name": "The Importance Of Being Earnest Part 1",
+      "url": "https://open.spotify.com/track/7nzY2D9BpmEDAZQVRcH6D7"
+    },
+    {
+      "album": {
+        "name": "The Importance Of Being Earnest",
+        "url": "https://open.spotify.com/album/4GdzwqPboMD1J5tlxyhJQ1"
+      },
+      "artists": [
+        {
+          "name": "Oscar Wilde",
+          "url": "https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1407626,
+      "name": "The Importance Of Being Earnest Part 2",
+      "url": "https://open.spotify.com/track/1pV5XSh12tCY0TEnxsoSrq"
+    },
+    {
+      "album": {
+        "name": "The Importance Of Being Earnest",
+        "url": "https://open.spotify.com/album/4GdzwqPboMD1J5tlxyhJQ1"
+      },
+      "artists": [
+        {
+          "name": "Oscar Wilde",
+          "url": "https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1490240,
+      "name": "The Importance Of Being Earnest Part 3",
+      "url": "https://open.spotify.com/track/3Yo2GOntG8FKi2sCcrMf7f"
+    },
+    {
+      "album": {
+        "name": "The Importance Of Being Earnest",
+        "url": "https://open.spotify.com/album/4GdzwqPboMD1J5tlxyhJQ1"
+      },
+      "artists": [
+        {
+          "name": "Oscar Wilde",
+          "url": "https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1520786,
+      "name": "The Importance Of Being Earnest Part 4",
+      "url": "https://open.spotify.com/track/6VWZzfYsQNEPzaUhfk48CC"
+    },
+    {
+      "album": {
+        "name": "Bram Stoker - The Short Stories",
+        "url": "https://open.spotify.com/album/3eLidCFXwb7r3iVHuGPxSX"
+      },
+      "artists": [
+        {
+          "name": "Richard Mithchley",
+          "url": "https://open.spotify.com/artist/2EGeeTdFrjgRrxmJtF6VKd"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2551942,
+      "name": "The Judge's House",
+      "url": "https://open.spotify.com/track/6BrqNIXKkOo7MENHmyiXgb"
+    },
+    {
+      "album": {
+        "name": "Songs from \"The Hostage\" (Remastered)",
+        "url": "https://open.spotify.com/album/5dULZGieITZJSmyvx5LYr7"
+      },
+      "artists": [
+        {
+          "name": "Theatre Workshop Players",
+          "url": "https://open.spotify.com/artist/5nnX2R9yWSpvJLgwEuhUR0"
+        },
+        {
+          "name": "Brendan Behan",
+          "url": "https://open.spotify.com/artist/1OsqpxG1mezAG9BGfN5zkA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "The Laughing Boy",
+      "url": "https://open.spotify.com/track/1ytX4ZNDy0wLj9PmrmS1af"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298120,
+      "name": "The Leaden Eacho & The Golden Echo",
+      "url": "https://open.spotify.com/track/113OQJD83eOGfN08RaN1HL"
+    },
+    {
+      "album": {
+        "name": "The Very Best Classic Short Stories",
+        "url": "https://open.spotify.com/album/7l1ytpqu3Gan5IJSHU6Fo2"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        },
+        {
+          "name": "Oscar Wilde",
+          "url": "https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 745453,
+      "name": "The Model Millionaire",
+      "url": "https://open.spotify.com/track/5TuN8QTdNxfUquW5Cy3In4"
+    },
+    {
+      "album": {
+        "name": "Fairy Tales",
+        "url": "https://open.spotify.com/album/5GyVBw9lACN0dbUJEqXoSl"
+      },
+      "artists": [
+        {
+          "name": "Oscar Wilde",
+          "url": "https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ"
+        },
+        {
+          "name": "Basil Rathbone",
+          "url": "https://open.spotify.com/artist/10CL0EkknPWZykQvIMemD6"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 807173,
+      "name": "The Nightingale & The Rose",
+      "url": "https://open.spotify.com/track/1ZCX10j9lCuOKUEH4NKifs"
+    },
+    {
+      "album": {
+        "name": "Wilde: The Picture Of Dorian Gray",
+        "url": "https://open.spotify.com/album/63xKua4yCHo9pe3mwDpTnW"
+      },
+      "artists": [
+        {
+          "name": "Martin Shaw",
+          "url": "https://open.spotify.com/artist/26TXQVjPkiSt1wi5Yb83dU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1021306,
+      "name": "The Picture Of Dorian Gray: Chapter 1, A Wish Is Uttered",
+      "url": "https://open.spotify.com/track/0FpjBJW4f509tKBniy9Zcc"
+    },
+    {
+      "album": {
+        "name": "Wilde: The Picture Of Dorian Gray",
+        "url": "https://open.spotify.com/album/63xKua4yCHo9pe3mwDpTnW"
+      },
+      "artists": [
+        {
+          "name": "Martin Shaw",
+          "url": "https://open.spotify.com/artist/26TXQVjPkiSt1wi5Yb83dU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1145466,
+      "name": "The Picture Of Dorian Gray: Chapter 2, Young Love",
+      "url": "https://open.spotify.com/track/3Z3KLh7A0gSQhkQoSaOn2f"
+    },
+    {
+      "album": {
+        "name": "Wilde: The Picture Of Dorian Gray",
+        "url": "https://open.spotify.com/album/63xKua4yCHo9pe3mwDpTnW"
+      },
+      "artists": [
+        {
+          "name": "Martin Shaw",
+          "url": "https://open.spotify.com/artist/26TXQVjPkiSt1wi5Yb83dU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 889826,
+      "name": "The Picture Of Dorian Gray: Chapter 3, A Brief Engagement",
+      "url": "https://open.spotify.com/track/1ifHmxevbUHXWCXqKSK63J"
+    },
+    {
+      "album": {
+        "name": "Wilde: The Picture Of Dorian Gray",
+        "url": "https://open.spotify.com/album/63xKua4yCHo9pe3mwDpTnW"
+      },
+      "artists": [
+        {
+          "name": "Martin Shaw",
+          "url": "https://open.spotify.com/artist/26TXQVjPkiSt1wi5Yb83dU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1237573,
+      "name": "The Picture Of Dorian Gray: Chapter 4, The Portrait Starts To Sneer",
+      "url": "https://open.spotify.com/track/2Cvr7DQWt2Yb8CGenz3e00"
+    },
+    {
+      "album": {
+        "name": "Wilde: The Picture Of Dorian Gray",
+        "url": "https://open.spotify.com/album/63xKua4yCHo9pe3mwDpTnW"
+      },
+      "artists": [
+        {
+          "name": "Martin Shaw",
+          "url": "https://open.spotify.com/artist/26TXQVjPkiSt1wi5Yb83dU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 591200,
+      "name": "The Picture Of Dorian Gray: Chapter 5, A Picture Is Hidden",
+      "url": "https://open.spotify.com/track/1GhQGdNGtB8vgRJJ3h1w2q"
+    },
+    {
+      "album": {
+        "name": "Wilde: The Picture Of Dorian Gray",
+        "url": "https://open.spotify.com/album/63xKua4yCHo9pe3mwDpTnW"
+      },
+      "artists": [
+        {
+          "name": "Martin Shaw",
+          "url": "https://open.spotify.com/artist/26TXQVjPkiSt1wi5Yb83dU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1564866,
+      "name": "The Picture Of Dorian Gray: Chapter 6, The Road To Ruin",
+      "url": "https://open.spotify.com/track/0QB15kUhE9hedA8QRKsn26"
+    },
+    {
+      "album": {
+        "name": "Wilde: The Picture Of Dorian Gray",
+        "url": "https://open.spotify.com/album/63xKua4yCHo9pe3mwDpTnW"
+      },
+      "artists": [
+        {
+          "name": "Martin Shaw",
+          "url": "https://open.spotify.com/artist/26TXQVjPkiSt1wi5Yb83dU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 828560,
+      "name": "The Picture Of Dorian Gray: Chapter 7, The Coils Of Crime",
+      "url": "https://open.spotify.com/track/5dnDGs4Gvr7k7jchXvpSaa"
+    },
+    {
+      "album": {
+        "name": "Wilde: The Picture Of Dorian Gray",
+        "url": "https://open.spotify.com/album/63xKua4yCHo9pe3mwDpTnW"
+      },
+      "artists": [
+        {
+          "name": "Martin Shaw",
+          "url": "https://open.spotify.com/artist/26TXQVjPkiSt1wi5Yb83dU"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1332373,
+      "name": "The Picture Of Dorian Gray: Chapter 8, The Picture Restored",
+      "url": "https://open.spotify.com/track/1m7ENBILV4vBJL7ywzdS3j"
+    },
+    {
+      "album": {
+        "name": "John Millington Synge: The Playboy of the Western World",
+        "url": "https://open.spotify.com/album/6X4dGfmyHGbBTyNytn32Pq"
+      },
+      "artists": [
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        },
+        {
+          "name": "Cyril Cusak",
+          "url": "https://open.spotify.com/artist/4cS35HkgR0H1R6imMq26JD"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1711906,
+      "name": "The Playboy of the Western World: Act I",
+      "url": "https://open.spotify.com/track/0AIs8cgfvLXEttFCn7N5Yg"
+    },
+    {
+      "album": {
+        "name": "John Millington Synge: The Playboy of the Western World",
+        "url": "https://open.spotify.com/album/6X4dGfmyHGbBTyNytn32Pq"
+      },
+      "artists": [
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        },
+        {
+          "name": "Cyril Cusak",
+          "url": "https://open.spotify.com/artist/4cS35HkgR0H1R6imMq26JD"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1612346,
+      "name": "The Playboy of the Western World: Act II",
+      "url": "https://open.spotify.com/track/2TGi9AGYtaoMAhqYKu7OB2"
+    },
+    {
+      "album": {
+        "name": "John Millington Synge: The Playboy of the Western World",
+        "url": "https://open.spotify.com/album/6X4dGfmyHGbBTyNytn32Pq"
+      },
+      "artists": [
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        },
+        {
+          "name": "Cyril Cusak",
+          "url": "https://open.spotify.com/artist/4cS35HkgR0H1R6imMq26JD"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1932240,
+      "name": "The Playboy of the Western World: Act III",
+      "url": "https://open.spotify.com/track/0WJURipSNEYUFrERniBK5A"
+    },
+    {
+      "album": {
+        "name": "Irish Poets and Writers, Historic Readings and Commentary",
+        "url": "https://open.spotify.com/album/4F5FnJWWZaskzj7xQQMuFH"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508707,
+      "name": "The Pretty Maid (Paul Fort), Preludes [T.S. Eliot] and Two Songs, No. 1 [Cecil Day Lewis]",
+      "url": "https://open.spotify.com/track/0ihe8xC2yWWtEYz2qMuXnI"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55533,
+      "name": "The School for Scandal - A comedy in five acts, Act I, Scene 1 (At Lady Sneerwell's): Curtain music (Boyce: Symphony No. 2 in A - II. Vivace)",
+      "url": "https://open.spotify.com/track/1GhDcfhmx0mdd5onEP45sN"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327346,
+      "name": "The School for Scandal - A comedy in five acts, Act I, Scene 1 (At Lady Sneerwell's): Lady Sneerwell, I kiss your hand (Crabtree, Sir Benjamin, Lady Sneerwell, Mrs Candour, Surface, Maria)",
+      "url": "https://open.spotify.com/track/5vWQJpW7aMC67zYyuvKVqk"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128360,
+      "name": "The School for Scandal - A comedy in five acts, Act I, Scene 1 (At Lady Sneerwell's): Maria, my dear, how do you do? (Lady Sneerwell, Maria, Surface, Servant)",
+      "url": "https://open.spotify.com/track/6ty554WXlfoDLCj7tRMz3Z"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120426,
+      "name": "The School for Scandal - A comedy in five acts, Act I, Scene 1 (At Lady Sneerwell's): My dear Lady Sneerwell, how do you do today? (Surface, Lady Sneerwell, Snake)",
+      "url": "https://open.spotify.com/track/09lQa8vpg5CMIAc9Cwk4VM"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186826,
+      "name": "The School for Scandal - A comedy in five acts, Act I, Scene 1 (At Lady Sneerwell's): My dear Lady Sneerwell, how have you been this century? (Mrs Candour, Surface, Maria, Servant, Lady Sneerwell)",
+      "url": "https://open.spotify.com/track/4rxsfOQRIXrm0IVcSIDszg"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253813,
+      "name": "The School for Scandal - A comedy in five acts, Act I, Scene 1 (At Lady Sneerwell's): The paragraphs, you say, Mr Snake, were all inserted? (Lady Sneerwell, Snake, Servant)",
+      "url": "https://open.spotify.com/track/2X8zmidryHMZgqj6VjT9Zb"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231186,
+      "name": "The School for Scandal - A comedy in five acts, Act I, Scene 2 (At Sir Peter's): Oh, Sir Peter, your servant (Rowley, Sir Peter)",
+      "url": "https://open.spotify.com/track/382oiMv6GMI5k3Hfuw0tC5"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70093,
+      "name": "The School for Scandal - A comedy in five acts, Act I, Scene 2 (At Sir Peter's): When an old bachelor marries a young wife (Sir Peter)",
+      "url": "https://open.spotify.com/track/2vREuISnbIGVgHPmbCnSJo"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339346,
+      "name": "The School for Scandal - A comedy in five acts, Act II, Scene 1 (At Sir Peter's): Lady Teazle, Lady Teazle, I'll not bear it! (Sir Peter, Lady Teazle)",
+      "url": "https://open.spotify.com/track/0fnjzSt7UbMOhSrY5Wxf6m"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242320,
+      "name": "The School for Scandal - A comedy in five acts, Act II, Scene 2 (At Lady Sneerwell's): Ladies, your most obedient (Sir Peter, Mrs Candour, Lady Teazle, Lady Sneerwell, Crabtree, Sir Benjamin)",
+      "url": "https://open.spotify.com/track/3FhFK9VyQZTuZVUIjwLnq9"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101760,
+      "name": "The School for Scandal - A comedy in five acts, Act II, Scene 2 (At Lady Sneerwell's): Lady Teazle! I hope we shall see Sir Peter? (Lady Sneerwell, Lady Teazle, Maria, Mrs Candour, Crabtree, Sir Benjamin)",
+      "url": "https://open.spotify.com/track/7BKoJMc7gVAXrkerMSWvYd"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204013,
+      "name": "The School for Scandal - A comedy in five acts, Act II, Scene 2 (At Lady Sneerwell's): Maria, I see you have no satisfaction in this society (Surface, Maria, Lady Teazle)",
+      "url": "https://open.spotify.com/track/22NJ5dpuo1IbOSiRD3TVd5"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112893,
+      "name": "The School for Scandal - A comedy in five acts, Act II, Scene 3 (At Sir Peter's): Ha, ha, ha! So my old friend is married, hey? (Sir Oliver, Rowley)",
+      "url": "https://open.spotify.com/track/4w9mQHLrFLgyDRzKGsm5rX"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153986,
+      "name": "The School for Scandal - A comedy in five acts, Act II, Scene 3 (At Sir Peter's): Hah! Sir Oliver - my old friend (Sir Peter, Sir Oliver, Rowley)",
+      "url": "https://open.spotify.com/track/3sZ36U7PWuuHfRlcoByIhL"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287960,
+      "name": "The School for Scandal - A comedy in five acts, Act III, Scene 1 (At Sir Peter's): Lud, Sir Peter, I hope you haven't been quarrelling with Maria? (Lady Teazle, Sir Peter)",
+      "url": "https://open.spotify.com/track/0VljidFLKA6AMs1JaNuez2"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252413,
+      "name": "The School for Scandal - A comedy in five acts, Act III, Scene 1 (At Sir Peter's): Sir, I understand you have lately had great dealings with my nephew, Charles (Sir Oliver, Moses, Sir Peter, Rowley)",
+      "url": "https://open.spotify.com/track/0okZe0PRMC8iLgTrJ3m3qt"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107906,
+      "name": "The School for Scandal - A comedy in five acts, Act III, Scene 1 (At Sir Peter's): So, child, has Mr Surface returned with you? (Sir Peter, Maria)",
+      "url": "https://open.spotify.com/track/0GeSGUIuIlDlG3WEqsLQWs"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127146,
+      "name": "The School for Scandal - A comedy in five acts, Act III, Scene 1 (At Sir Peter's): Well well, we will see this fellow first and have our wine afterwards (Sir Peter, Rowley, Sir Oliver)",
+      "url": "https://open.spotify.com/track/3hJjMMC8hk00wf0MAf1s51"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164680,
+      "name": "The School for Scandal - A comedy in five acts, Act III, Scene 2 (At Charles's): Here, Master Moses! (Trip, Sir Oliver, Moses)",
+      "url": "https://open.spotify.com/track/2m3ZBabPwXiMo5Of2q6iZO"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89506,
+      "name": "The School for Scandal - A comedy in five acts, Act III, Scene 3 (A table at Charles's): 'Fore Heaven, 'tis true (Charles, Careless, First Gentleman, Second Gentleman, Sir Harry)",
+      "url": "https://open.spotify.com/track/3sxbdHvBWhRUzl9KmR09Eu"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55320,
+      "name": "The School for Scandal - A comedy in five acts, Act III, Scene 3 (A table at Charles's): Come, Charles; what keeps you? (Careless, Charles, Sir Oliver)",
+      "url": "https://open.spotify.com/track/1kLgrLUbl2FpCSb6539OZs"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290573,
+      "name": "The School for Scandal - A comedy in five acts, Act III, Scene 3 (A table at Charles's): Sir, this is Mr Premium (Moses, Charles, Sir Oliver)",
+      "url": "https://open.spotify.com/track/50bVkD2z4Sy0mUIQjKNRBp"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165053,
+      "name": "The School for Scandal - A comedy in five acts, Act III, Scene 3 (A table at Charles's): Song: Here's to the maiden of bashful fifteen (words Mr Vernon, music Thomas Linley) (Sir Harry, Careless, Charles, First Gentleman, Second Gentleman,",
+      "url": "https://open.spotify.com/track/3XudtnIvvGgT7vdqDvVMCW"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46186,
+      "name": "The School for Scandal - A comedy in five acts, Act IV, Scene 1 (Picture room at Charles's): Ha, old Rowley! (Charles, Rowley)",
+      "url": "https://open.spotify.com/track/6WMV4dtbNgc2xKhjjIj4Dx"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349733,
+      "name": "The School for Scandal - A comedy in five acts, Act IV, Scene 1 (Picture room at Charles's): Walk up, gentlemen, pray walk up (Charles, Sir Oliver, Careless, Moses)",
+      "url": "https://open.spotify.com/track/4hztQocGMDaC5hFyWNG1B1"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69853,
+      "name": "The School for Scandal - A comedy in five acts, Act IV, Scene 2 (The parlour at Charles's): Well, sir, I think, as Sir Peter said, you have seen Mr Charles in high glory (Moses, Sir Oliver, Rowley)",
+      "url": "https://open.spotify.com/track/2EHolxJHAERyFy22pjYx7j"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155973,
+      "name": "The School for Scandal - A comedy in five acts, Act IV, Scene 3 (The library at Surface's) (Screen Scene): Ah, Charles, if you associated more with your brother (Sir Peter, Charles)",
+      "url": "https://open.spotify.com/track/1vKWtNoQFppbjIEkJSn9OF"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302453,
+      "name": "The School for Scandal - A comedy in five acts, Act IV, Scene 3 (The library at Surface's) (Screen Scene): Aye, aye, ever improving himself! (Sir Peter, Surface, Servant)",
+      "url": "https://open.spotify.com/track/5bxvyGpFI3uzfjOLtGH3zX"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207493,
+      "name": "The School for Scandal - A comedy in five acts, Act IV, Scene 3 (The library at Surface's) (Screen Scene): Hullah, brother, what has been the matter? (Charles, Surface, Sir Peter)",
+      "url": "https://open.spotify.com/track/5rwGx2Lxg4kOOG7NIoNbHI"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326720,
+      "name": "The School for Scandal - A comedy in five acts, Act IV, Scene 3 (The library at Surface's) (Screen Scene): No letter from Lady Teazle? (Surface, Servant, Lady Teazle)",
+      "url": "https://open.spotify.com/track/2j4WkaLK0NEnOJlA5vpBLg"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103653,
+      "name": "The School for Scandal - A comedy in five acts, Act IV, Scene 3 (The library at Surface's) (Screen Scene): Prelude (Boyce: Symphony No. 5 in B flat - IV. Tempo di minuetto)",
+      "url": "https://open.spotify.com/track/2djMWr2PxIuVZODL6CI6Ek"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156426,
+      "name": "The School for Scandal - A comedy in five acts, Act IV, Scene 3 (The library at Surface's) (Screen Scene): Sir Peter, notwithstanding I confess that appearances are against me (Surface, Sir Peter, Lady Teazle)",
+      "url": "https://open.spotify.com/track/0MjkkqtIDyUv96L9xzFN1T"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125106,
+      "name": "The School for Scandal - A comedy in five acts, Act IV, Scene 3 (The library at Surface's) (Screen Scene): Sir!...Well, sir? (Servant, Sir Peter, Surface, Lady Teazle)",
+      "url": "https://open.spotify.com/track/4mkPitqGGQZWQJ4msqJ5GD"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46506,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 1 (The library at Surface's): Mr Stanley, sir (Servant, Surface)",
+      "url": "https://open.spotify.com/track/7n02HW22pzcUWSm2IccGMy"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257986,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 1 (The library at Surface's): Sir, I beg you ten thousand pardons (Surface, Sir Oliver, Rowley)",
+      "url": "https://open.spotify.com/track/7K2GvGD7haRmPzgdATYkK2"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69026,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 1 (The library at Surface's): What, Master Rowley, does he avoid us? (Sir Oliver, Rowley)",
+      "url": "https://open.spotify.com/track/5UjBClKBoqCH7IQ1myCveR"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249693,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 2 (At Sir Peter's): I heard high words (Rowley, Sir Peter, Sir Oliver)",
+      "url": "https://open.spotify.com/track/7690R0eMRmVdX7wLo8ahH5"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257200,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 2 (At Sir Peter's): Indeed, ma'am, Lady Teazle will see nobody at present (Maid, Mrs Candour, Sir Benjamin, Lady Sneerwell, Crabtree)",
+      "url": "https://open.spotify.com/track/2zthVg14wPkJmViRTsEY4l"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133360,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 2 (At Sir Peter's): Well, doctor, what hopes? (Crabtree, Mrs Candour, Sir Benjamin, Sir Oliver, Sir Peter)",
+      "url": "https://open.spotify.com/track/4Qu20pXGRjvk6Bw8NUWhpT"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230266,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 3 (The library at Surface's): Ah, my old friend, Sir Oliver - hey! (Sir Peter, Lady Teazle, Rowley, Sir Oliver, Surface, Charles, Maria)",
+      "url": "https://open.spotify.com/track/62RZIxg12upEpGeSzDnEAD"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55773,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 3 (The library at Surface's): Curtain music (Boyce: Symphony No. 2 in A - II. Vivace)",
+      "url": "https://open.spotify.com/track/4qxSUfHM3E9OJDNYMIj3cv"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93946,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 3 (The library at Surface's): Hey! What? This is not Sir Oliver (Surface, Sir Oliver, Charles)",
+      "url": "https://open.spotify.com/track/59huACbR0mfem2teWoj1KK"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123133,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 3 (The library at Surface's): Impossible! Will not Sir Peter immediately be reconciled to Charles (Lady Sneerwell, Surface)",
+      "url": "https://open.spotify.com/track/0htGPvzmUaM4eP6jLjWSxP"
+    },
+    {
+      "album": {
+        "name": "Richard Brinsley Sheridan: The School for Scandal",
+        "url": "https://open.spotify.com/album/5xZpsomjs9SqbdriewjXrm"
+      },
+      "artists": [
+        {
+          "name": "Richard Brinsley Sheridan",
+          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213320,
+      "name": "The School for Scandal - A comedy in five acts, Act V, Scene 3 (The library at Surface's): So another French milliner! (Sir Peter, Lady Sneerwell, Charles, Surface, Rowley, Snake, Lady Teazle, Sir Oliver, Maria)",
+      "url": "https://open.spotify.com/track/0XxfVRPSGkZilq6spL5wg0"
+    },
+    {
+      "album": {
+        "name": "Fairy Tales",
+        "url": "https://open.spotify.com/album/5GyVBw9lACN0dbUJEqXoSl"
+      },
+      "artists": [
+        {
+          "name": "Oscar Wilde",
+          "url": "https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ"
+        },
+        {
+          "name": "Basil Rathbone",
+          "url": "https://open.spotify.com/artist/10CL0EkknPWZykQvIMemD6"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568400,
+      "name": "The Selfish Giant",
+      "url": "https://open.spotify.com/track/5PwqHT4hiPfKxDXpdCsmgF"
+    },
+    {
+      "album": {
+        "name": "James Joyce's Dubliners",
+        "url": "https://open.spotify.com/album/0Ghsvz1JEdd2MBJ1Ervvzj"
+      },
+      "artists": [
+        {
+          "name": "James Joyce",
+          "url": "https://open.spotify.com/artist/4rkN8qN37xzd16RwHWfn12"
+        },
+        {
+          "name": "Barry McGovern",
+          "url": "https://open.spotify.com/artist/5iPxsk2MTWrnT2iDQUmw0Q"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 797426,
+      "name": "The Sisters",
+      "url": "https://open.spotify.com/track/2zYex8dShjlfW5MJUxx6zi"
+    },
+    {
+      "album": {
+        "name": "Irish Poets and Writers, Historic Readings and Commentary",
+        "url": "https://open.spotify.com/album/4F5FnJWWZaskzj7xQQMuFH"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85747,
+      "name": "The Song of the Old Mother and Introduction to a Faery Song",
+      "url": "https://open.spotify.com/track/6K9oAr5nVgZ8MXelyvszVW"
+    },
+    {
+      "album": {
+        "name": "Westminster Memorials - Volume 2",
+        "url": "https://open.spotify.com/album/7vhwqjqakZ9EVoqEKbbQdW"
+      },
+      "artists": [
+        {
+          "name": "Niamh Cusack",
+          "url": "https://open.spotify.com/artist/1fIldw40CRcORnxWVjXIhy"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106826,
+      "name": "The Village - Oliver Goldsmith",
+      "url": "https://open.spotify.com/track/4EDuF9UHGpIcE4gGGmumpW"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 945146,
+      "name": "The Wizard Earl",
+      "url": "https://open.spotify.com/track/39MjskcynMGctgenU3v9D4"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88226,
+      "name": "Tulyar",
+      "url": "https://open.spotify.com/track/21ZWGBetHcC5TLuXmSmsyM"
+    },
+    {
+      "album": {
+        "name": "Caitl\u00edn",
+        "url": "https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG"
+      },
+      "artists": [
+        {
+          "name": "Caitl\u00edn Maude",
+          "url": "https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250346,
+      "name": "Uileac\u00e1in Duibh \u00d3",
+      "url": "https://open.spotify.com/track/4RWsfGZJDi0dMKMiiP2MOX"
+    },
+    {
+      "album": {
+        "name": "Fil\u00edocht Agus Pr\u00f3s",
+        "url": "https://open.spotify.com/album/1YCbIDLpGpDU1Psqym3l49"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 R\u00edord\u00e1in",
+          "url": "https://open.spotify.com/artist/2GykvdcE8MfWSt0PveimHA"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77293,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/3bBtvcQA2B5F27gowU1fsm"
+    },
+    {
+      "album": {
+        "name": "Irish Poets and Writers, Historic Readings and Commentary",
+        "url": "https://open.spotify.com/album/4F5FnJWWZaskzj7xQQMuFH"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        },
+        {
+          "name": "V. C. Clinton-Baddeley",
+          "url": "https://open.spotify.com/artist/7CpH6I1FnPQKFG9P1paNGH"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1111203,
+      "name": "W B Yeats Commentary and Tarantella, The Rolling English Road, Off the Ground, The Sailor and the Lady and the Shark",
+      "url": "https://open.spotify.com/track/45djGrSmWVMTQ7jCtLzG56"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511186,
+      "name": "W B Yeats Reads and Discusses Poetry by Ts Eliot, Paul Fort and Cecil Day Lewis (1936)",
+      "url": "https://open.spotify.com/track/3gxNyxTNDn7kEAwH8oXIjX"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "W B Yeats Reads His Poem the Lake Isle of Innisfree (1937)",
+      "url": "https://open.spotify.com/track/0XL8hIjuZtQrSb2E5J2T8q"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88226,
+      "name": "W B Yeats Reads His Poem the Song of the Old Mother (1934)",
+      "url": "https://open.spotify.com/track/620YSoyrcf7xrn0ugyW5X8"
+    },
+    {
+      "album": {
+        "name": "Irish Poets and Writers, Historic Readings and Commentary",
+        "url": "https://open.spotify.com/album/4F5FnJWWZaskzj7xQQMuFH"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137290,
+      "name": "W B Yeats's Introduction (My Own Poetry)",
+      "url": "https://open.spotify.com/track/6faWWDzjXDqO5QX2VVEJ8w"
+    },
+    {
+      "album": {
+        "name": "Padraic Colum Reading His Irish Tales and Poems",
+        "url": "https://open.spotify.com/album/5W8LOyWDXxpnUMtWUbVt1U"
+      },
+      "artists": [
+        {
+          "name": "Padraic Colum",
+          "url": "https://open.spotify.com/artist/0dLdmLtXsRLEUeXSx0xCMM"
+        }
+      ],
+      "date_added": "2018-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74053,
+      "name": "Wild Ass",
+      "url": "https://open.spotify.com/track/3yhpLhvR2jvefsDWIkUAQ2"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWV1duDvis8iF"
 }

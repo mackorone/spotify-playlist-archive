@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 200357,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5"
+    },
+    {
+      "album": {
         "name": "HOLY GHOST",
         "url": "https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA"
       },
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 290237,
       "name": "HOLY GHOST",
       "url": "https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R"
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": "2024-01-16",
       "duration_ms": 192613,
       "name": "No Hurt",
       "url": "https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx"
@@ -2962,7 +2980,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 222985,
       "name": "Plans",
       "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 374437,
       "name": "Pursuit (As The Deer) - Live",
       "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": "2024-01-12",
       "duration_ms": 209262,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
@@ -3892,7 +3910,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 215800,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5"

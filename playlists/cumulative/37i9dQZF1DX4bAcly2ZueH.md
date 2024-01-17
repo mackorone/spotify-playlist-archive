@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-136 songs - 7 hr 11 min
+137 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Day Trip](https://open.spotify.com/track/3hrqbiVTLD6L0Q7MhPOmBr) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:17 | 2022-10-11 |  |
 | [Daybreak](https://open.spotify.com/track/5PMMr9QcrnOWf6ZHxYwMrt) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/3KoIxalt9ie7Kmfy2aFK0K) | 3:28 | 2022-10-11 |  |
 | [Daylight Blows into One Door](https://open.spotify.com/track/4UUK97XIT1y1TyBLgVi6Xc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/2Bl07S4w2tGi2F9qK346EW) | 3:28 | 2022-10-11 |  |
+| [Dragon Collection](https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt) | [Four Face](https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko) | [Dragon Collection](https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh) | 3:42 | 2024-01-11 |  |
 | [Elevate](https://open.spotify.com/track/5RSizqADue4KCSy1og5v7P) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Tel Père Tel Fils](https://open.spotify.com/album/0lU7hjTcAchfSYl45Z4TOz) | 2:19 | 2022-10-11 |  |
 | [Emi](https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Emi](https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM) | 2:29 | 2022-10-11 |  |
 | [End Credits](https://open.spotify.com/track/7JKNxNTc9GZMFLIT5fIWvg) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uu7KIkpPuQlmLrQQyzvNy) | 1:51 | 2022-10-11 |  |
@@ -50,7 +51,7 @@
 | [Home](https://open.spotify.com/track/4qNMY30sIrprrG2YZPXVRi) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Home](https://open.spotify.com/album/7gyxNfZNPV5W0gYRoj87GJ) | 2:36 | 2022-10-11 |  |
 | [Horizon](https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Nujabes PRAY Reflections](https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM) | 4:35 | 2022-10-11 |  |
 | [How You Been](https://open.spotify.com/track/3XyG9UY8Z5VEtqWucgWgsZ) | [Elijah Lee](https://open.spotify.com/artist/1wDDPEIVpcwXhPbCOkgPoi), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [How You Been](https://open.spotify.com/album/4x3QznGNIUqZrLphdbHFFP) | 2:37 | 2022-10-11 | 2023-02-09 |
-| [How You Been](https://open.spotify.com/track/0tSusFmbtXwd8VbrYq4CnG) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [How You Been](https://open.spotify.com/album/4YTl2R43JpQcrsmkXJNFjz) | 2:37 | 2023-09-26 |  |
+| [How You Been](https://open.spotify.com/track/0tSusFmbtXwd8VbrYq4CnG) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [How You Been](https://open.spotify.com/album/4YTl2R43JpQcrsmkXJNFjz) | 2:37 | 2023-09-26 | 2024-01-12 |
 | [How You Been](https://open.spotify.com/track/6dSa2i9AIEVT7JgFFAGCWi) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [How You Been](https://open.spotify.com/album/5DQzrFmc37ugVviEb4CX9C) | 2:37 | 2023-01-31 | 2023-10-15 |
 | [Human Related Accident](https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Chroma Velocity](https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo) | 2:38 | 2022-10-11 |  |
 | [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katu](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 | 2022-10-11 |  |

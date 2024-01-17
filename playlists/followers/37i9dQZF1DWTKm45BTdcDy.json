@@ -1,621 +1,1137 @@
 {
-  "2022-04-19": 1135,
-  "2022-04-20": 1137,
-  "2022-04-21": 1139,
-  "2022-04-22": 1139,
-  "2022-04-23": 1141,
-  "2022-04-24": 1144,
-  "2022-04-25": 1146,
-  "2022-04-26": 1148,
-  "2022-04-27": 1150,
-  "2022-04-28": 1151,
-  "2022-04-29": 1153,
-  "2022-04-30": 1155,
-  "2022-05-01": 1156,
-  "2022-05-02": 1156,
-  "2022-05-03": 1157,
-  "2022-05-04": 1162,
-  "2022-05-05": 1165,
-  "2022-05-06": 1168,
-  "2022-05-07": 1169,
-  "2022-05-08": 1168,
-  "2022-05-09": 1169,
-  "2022-05-10": 1171,
-  "2022-05-11": 1176,
-  "2022-05-12": 1179,
-  "2022-05-13": 1180,
-  "2022-05-14": 1181,
-  "2022-05-15": 1184,
-  "2022-05-16": 1184,
-  "2022-05-17": 1187,
-  "2022-05-18": 1190,
-  "2022-05-19": 1190,
-  "2022-05-20": 1191,
-  "2022-05-21": 1193,
-  "2022-05-22": 1193,
-  "2022-05-23": 1198,
-  "2022-05-24": 1199,
-  "2022-05-25": 1201,
-  "2022-05-26": 1203,
-  "2022-05-27": 1204,
-  "2022-05-28": 1208,
-  "2022-05-29": 1211,
-  "2022-05-30": 1211,
-  "2022-05-31": 1211,
-  "2022-06-01": 1214,
-  "2022-06-02": 1215,
-  "2022-06-03": 1216,
-  "2022-06-04": 1216,
-  "2022-06-05": 1216,
-  "2022-06-06": 1217,
-  "2022-06-07": 1219,
-  "2022-06-08": 1222,
-  "2022-06-09": 1221,
-  "2022-06-10": 1221,
-  "2022-06-11": 1224,
-  "2022-06-12": 1226,
-  "2022-06-13": 1228,
-  "2022-06-14": 1228,
-  "2022-06-15": 1231,
-  "2022-06-16": 1235,
-  "2022-06-17": 1233,
-  "2022-06-18": 1235,
-  "2022-06-19": 1240,
-  "2022-06-20": 1240,
-  "2022-06-21": 1241,
-  "2022-06-22": 1246,
-  "2022-06-23": 1246,
-  "2022-06-24": 1246,
-  "2022-06-25": 1249,
-  "2022-06-26": 1249,
-  "2022-06-27": 1251,
-  "2022-06-28": 1250,
-  "2022-06-29": 1250,
-  "2022-06-30": 1251,
-  "2022-07-01": 1253,
-  "2022-07-02": 1255,
-  "2022-07-03": 1257,
-  "2022-07-04": 1261,
-  "2022-07-05": 1263,
-  "2022-07-06": 1262,
-  "2022-07-07": 1261,
-  "2022-07-08": 1263,
-  "2022-07-09": 1265,
-  "2022-07-10": 1268,
-  "2022-07-11": 1270,
-  "2022-07-12": 1272,
-  "2022-07-13": 1272,
-  "2022-07-14": 1274,
-  "2022-07-15": 1276,
-  "2022-07-16": 1280,
-  "2022-07-17": 1280,
-  "2022-07-18": 1282,
-  "2022-07-19": 1282,
-  "2022-07-20": 1282,
-  "2022-07-21": 1284,
-  "2022-07-22": 1288,
-  "2022-07-23": 1289,
-  "2022-07-24": 1292,
-  "2022-07-25": 1293,
-  "2022-07-26": 1295,
-  "2022-07-27": 1296,
-  "2022-07-28": 1299,
-  "2022-07-29": 1299,
-  "2022-07-30": 1301,
-  "2022-07-31": 1301,
-  "2022-08-01": 1304,
-  "2022-08-02": 1308,
-  "2022-08-03": 1308,
-  "2022-08-04": 1309,
-  "2022-08-05": 1310,
-  "2022-08-06": 1313,
-  "2022-08-07": 1312,
-  "2022-08-08": 1313,
-  "2022-08-09": 1315,
-  "2022-08-10": 1315,
-  "2022-08-11": 1316,
-  "2022-08-12": 1317,
-  "2022-08-13": 1320,
-  "2022-08-14": 1323,
-  "2022-08-15": 1325,
-  "2022-08-16": 1327,
-  "2022-08-17": 1328,
-  "2022-08-18": 1330,
-  "2022-08-19": 1331,
-  "2022-08-20": 1331,
-  "2022-08-21": 1333,
-  "2022-08-22": 1334,
-  "2022-08-23": 1336,
-  "2022-08-24": 1337,
-  "2022-08-25": 1340,
-  "2022-08-26": 1343,
-  "2022-08-27": 1349,
-  "2022-08-28": 1348,
-  "2022-08-29": 1351,
-  "2022-08-30": 1349,
-  "2022-08-31": 1353,
-  "2022-09-01": 1356,
-  "2022-09-02": 1358,
-  "2022-09-03": 1361,
-  "2022-09-04": 1363,
-  "2022-09-05": 1365,
-  "2022-09-06": 1366,
-  "2022-09-07": 1368,
-  "2022-09-09": 1370,
-  "2022-09-10": 1371,
-  "2022-09-11": 1374,
-  "2022-09-12": 1376,
-  "2022-09-13": 1376,
-  "2022-09-15": 1377,
-  "2022-09-16": 1378,
-  "2022-09-17": 1377,
-  "2022-09-18": 1378,
-  "2022-09-19": 1380,
-  "2022-09-20": 1379,
-  "2022-09-21": 1379,
-  "2022-09-22": 1379,
-  "2022-09-23": 1378,
-  "2022-09-24": 1378,
-  "2022-09-25": 1383,
-  "2022-09-26": 1384,
-  "2022-09-27": 1386,
-  "2022-09-28": 1387,
-  "2022-09-29": 1389,
-  "2022-09-30": 1390,
-  "2022-10-01": 1391,
-  "2022-10-02": 1393,
-  "2022-10-03": 1392,
-  "2022-10-04": 1391,
-  "2022-10-05": 1391,
-  "2022-10-06": 1393,
-  "2022-10-07": 1395,
-  "2022-10-08": 1397,
-  "2022-10-09": 1397,
-  "2022-10-10": 1397,
-  "2022-10-11": 1400,
-  "2022-10-12": 1400,
-  "2022-10-13": 1400,
-  "2022-10-14": 1401,
-  "2022-10-15": 1404,
-  "2022-10-16": 1402,
-  "2022-10-17": 1403,
-  "2022-10-18": 1403,
-  "2022-10-19": 1403,
-  "2022-10-20": 1405,
-  "2022-10-21": 1404,
-  "2022-10-22": 1406,
-  "2022-10-23": 1410,
-  "2022-10-24": 1412,
-  "2022-10-25": 1412,
-  "2022-10-26": 1415,
-  "2022-10-27": 1416,
-  "2022-10-28": 1420,
-  "2022-10-29": 1421,
-  "2022-10-30": 1423,
-  "2022-10-31": 1426,
-  "2022-11-01": 1427,
-  "2022-11-02": 1427,
-  "2022-11-03": 1428,
-  "2022-11-04": 1430,
-  "2022-11-05": 1431,
-  "2022-11-06": 1432,
-  "2022-11-07": 1433,
-  "2022-11-08": 1436,
-  "2022-11-09": 1439,
-  "2022-11-10": 1440,
-  "2022-11-11": 1440,
-  "2022-11-12": 1443,
-  "2022-11-13": 1444,
-  "2022-11-14": 1445,
-  "2022-11-15": 1445,
-  "2022-11-16": 1448,
-  "2022-11-17": 1449,
-  "2022-11-18": 1449,
-  "2022-11-19": 1449,
-  "2022-11-20": 1449,
-  "2022-11-21": 1450,
-  "2022-11-22": 1453,
-  "2022-11-23": 1452,
-  "2022-11-24": 1451,
-  "2022-11-25": 1455,
-  "2022-11-26": 1457,
-  "2022-11-27": 1459,
-  "2022-11-28": 1460,
-  "2022-11-29": 1461,
-  "2022-11-30": 1461,
-  "2022-12-01": 1462,
-  "2022-12-02": 1462,
-  "2022-12-03": 1463,
-  "2022-12-04": 1464,
-  "2022-12-05": 1465,
-  "2022-12-06": 1465,
-  "2022-12-07": 1465,
-  "2022-12-08": 1465,
-  "2022-12-09": 1466,
-  "2022-12-10": 1466,
-  "2022-12-11": 1466,
-  "2022-12-12": 1468,
-  "2022-12-13": 1467,
-  "2022-12-14": 1468,
-  "2022-12-15": 1469,
-  "2022-12-16": 1470,
-  "2022-12-17": 1469,
-  "2022-12-18": 1471,
-  "2022-12-19": 1470,
-  "2022-12-20": 1472,
-  "2022-12-21": 1472,
-  "2022-12-22": 1470,
-  "2022-12-24": 1473,
-  "2022-12-25": 1473,
-  "2022-12-26": 1473,
-  "2022-12-27": 1478,
-  "2022-12-28": 1481,
-  "2022-12-29": 1482,
-  "2022-12-30": 1483,
-  "2022-12-31": 1484,
-  "2023-01-01": 1487,
-  "2023-01-02": 1487,
-  "2023-01-03": 1487,
-  "2023-01-04": 1487,
-  "2023-01-05": 1489,
-  "2023-01-06": 1491,
-  "2023-01-07": 1494,
-  "2023-01-08": 1494,
-  "2023-01-09": 1494,
-  "2023-01-10": 1495,
-  "2023-01-11": 1497,
-  "2023-01-12": 1500,
-  "2023-01-13": 1501,
-  "2023-01-14": 1504,
-  "2023-01-15": 1503,
-  "2023-01-16": 1502,
-  "2023-01-17": 1509,
-  "2023-01-18": 1510,
-  "2023-01-19": 1512,
-  "2023-01-20": 1513,
-  "2023-01-21": 1516,
-  "2023-01-22": 1515,
-  "2023-01-23": 1522,
-  "2023-01-24": 1526,
-  "2023-01-25": 1530,
-  "2023-01-26": 1531,
-  "2023-01-27": 1531,
-  "2023-01-28": 1533,
-  "2023-01-29": 1534,
-  "2023-01-30": 1534,
-  "2023-01-31": 1534,
-  "2023-02-01": 1538,
-  "2023-02-02": 1538,
-  "2023-02-03": 1540,
-  "2023-02-04": 1542,
-  "2023-02-05": 1544,
-  "2023-02-06": 1546,
-  "2023-02-07": 1544,
-  "2023-02-08": 1547,
-  "2023-02-09": 1547,
-  "2023-02-10": 1549,
-  "2023-02-11": 1548,
-  "2023-02-12": 1552,
-  "2023-02-13": 1555,
-  "2023-02-14": 1555,
-  "2023-02-15": 1556,
-  "2023-02-16": 1557,
-  "2023-02-17": 1558,
-  "2023-02-18": 1588,
-  "2023-02-19": 1591,
-  "2023-02-20": 1599,
-  "2023-02-21": 1620,
-  "2023-02-22": 1640,
-  "2023-02-23": 1651,
-  "2023-02-24": 1677,
-  "2023-02-25": 1700,
-  "2023-02-26": 1712,
-  "2023-02-27": 1746,
-  "2023-02-28": 1746,
-  "2023-03-01": 1759,
-  "2023-03-02": 1777,
-  "2023-03-03": 1793,
-  "2023-03-04": 1799,
-  "2023-03-05": 1831,
-  "2023-03-06": 1831,
-  "2023-03-07": 1849,
-  "2023-03-08": 1860,
-  "2023-03-09": 1876,
-  "2023-03-10": 1885,
-  "2023-03-11": 1897,
-  "2023-03-12": 1908,
-  "2023-03-13": 1925,
-  "2023-03-14": 1935,
-  "2023-03-15": 1954,
-  "2023-03-16": 1971,
-  "2023-03-17": 1971,
-  "2023-03-18": 1997,
-  "2023-03-19": 2011,
-  "2023-03-20": 2027,
-  "2023-03-21": 2037,
-  "2023-03-22": 2051,
-  "2023-03-23": 2068,
-  "2023-03-24": 2068,
-  "2023-03-25": 2094,
-  "2023-03-26": 2110,
-  "2023-03-27": 2124,
-  "2023-03-28": 2136,
-  "2023-03-29": 2150,
-  "2023-03-30": 2181,
-  "2023-03-31": 2181,
-  "2023-04-01": 2190,
-  "2023-04-02": 2205,
-  "2023-04-03": 2223,
-  "2023-04-04": 2234,
-  "2023-04-05": 2245,
-  "2023-04-06": 2260,
-  "2023-04-07": 2274,
-  "2023-04-09": 2303,
-  "2023-04-10": 2319,
-  "2023-04-11": 2358,
-  "2023-04-12": 2358,
-  "2023-04-13": 2378,
-  "2023-04-14": 2397,
-  "2023-04-15": 2417,
-  "2023-04-16": 2433,
-  "2023-04-17": 2454,
-  "2023-04-18": 2469,
-  "2023-04-19": 2493,
-  "2023-04-20": 2511,
-  "2023-04-21": 2530,
-  "2023-04-22": 2545,
-  "2023-04-23": 2566,
-  "2023-04-24": 2581,
-  "2023-04-25": 2592,
-  "2023-04-26": 2606,
-  "2023-04-27": 2623,
-  "2023-04-28": 2642,
-  "2023-04-29": 2660,
-  "2023-04-30": 2675,
-  "2023-05-01": 2686,
-  "2023-05-02": 2705,
-  "2023-05-03": 2714,
-  "2023-05-04": 2726,
-  "2023-05-05": 2743,
-  "2023-05-06": 2774,
-  "2023-05-07": 2790,
-  "2023-05-08": 2804,
-  "2023-05-09": 2820,
-  "2023-05-10": 2829,
-  "2023-05-11": 2841,
-  "2023-05-12": 2854,
-  "2023-05-13": 2866,
-  "2023-05-14": 2880,
-  "2023-05-15": 2895,
-  "2023-05-16": 2912,
-  "2023-05-17": 2920,
-  "2023-05-18": 2929,
-  "2023-05-19": 2941,
-  "2023-05-20": 2973,
-  "2023-05-21": 2973,
-  "2023-05-22": 2973,
-  "2023-05-23": 3012,
-  "2023-05-24": 3032,
-  "2023-05-25": 3042,
-  "2023-05-26": 3057,
-  "2023-05-27": 3084,
-  "2023-05-28": 3103,
-  "2023-05-29": 3103,
-  "2023-05-30": 3123,
-  "2023-05-31": 3141,
-  "2023-06-01": 3152,
-  "2023-06-02": 3158,
-  "2023-06-03": 3172,
-  "2023-06-04": 3184,
-  "2023-06-05": 3198,
-  "2023-06-06": 3216,
-  "2023-06-07": 3237,
-  "2023-06-08": 3247,
-  "2023-06-09": 3265,
-  "2023-06-10": 3279,
-  "2023-06-11": 3294,
-  "2023-06-12": 3310,
-  "2023-06-13": 3319,
-  "2023-06-14": 3334,
-  "2023-06-15": 3353,
-  "2023-06-16": 3361,
-  "2023-06-17": 3380,
-  "2023-06-18": 3395,
-  "2023-06-19": 3403,
-  "2023-06-20": 3413,
-  "2023-06-21": 3426,
-  "2023-06-22": 3434,
-  "2023-06-23": 3452,
-  "2023-06-24": 3456,
-  "2023-06-25": 3471,
-  "2023-06-26": 3481,
-  "2023-06-27": 3506,
-  "2023-06-28": 3513,
-  "2023-06-29": 3526,
-  "2023-06-30": 3532,
-  "2023-07-01": 3556,
-  "2023-07-02": 3556,
-  "2023-07-03": 3571,
-  "2023-07-04": 3576,
-  "2023-07-05": 3598,
-  "2023-07-06": 3611,
-  "2023-07-07": 3611,
-  "2023-07-08": 3630,
-  "2023-07-09": 3641,
-  "2023-07-10": 3654,
-  "2023-07-11": 3668,
-  "2023-07-12": 3687,
-  "2023-07-13": 3699,
-  "2023-07-14": 3714,
-  "2023-07-15": 3722,
-  "2023-07-16": 3734,
-  "2023-07-17": 3745,
-  "2023-07-18": 3764,
-  "2023-07-19": 3777,
-  "2023-07-20": 3792,
-  "2023-07-21": 3816,
-  "2023-07-22": 3835,
-  "2023-07-23": 3853,
-  "2023-07-24": 3872,
-  "2023-07-25": 3894,
-  "2023-07-26": 3908,
-  "2023-07-27": 3925,
-  "2023-07-28": 3941,
-  "2023-07-29": 3955,
-  "2023-07-30": 3969,
-  "2023-07-31": 3991,
-  "2023-08-01": 4002,
-  "2023-08-02": 4019,
-  "2023-08-03": 4029,
-  "2023-08-04": 4038,
-  "2023-08-05": 4048,
-  "2023-08-06": 4082,
-  "2023-08-07": 4082,
-  "2023-08-08": 4100,
-  "2023-08-09": 4113,
-  "2023-08-10": 4122,
-  "2023-08-11": 4136,
-  "2023-08-12": 4153,
-  "2023-08-13": 4169,
-  "2023-08-14": 4194,
-  "2023-08-15": 4222,
-  "2023-08-16": 4222,
-  "2023-08-17": 4236,
-  "2023-08-18": 4252,
-  "2023-08-19": 4276,
-  "2023-08-20": 4290,
-  "2023-08-21": 4304,
-  "2023-08-22": 4314,
-  "2023-08-23": 4325,
-  "2023-08-24": 4336,
-  "2023-08-25": 4344,
-  "2023-08-26": 4356,
-  "2023-08-27": 4376,
-  "2023-08-28": 4399,
-  "2023-08-29": 4406,
-  "2023-08-30": 4419,
-  "2023-08-31": 4434,
-  "2023-09-01": 4454,
-  "2023-09-02": 4454,
-  "2023-09-03": 4468,
-  "2023-09-04": 4478,
-  "2023-09-05": 4488,
-  "2023-09-06": 4503,
-  "2023-09-07": 4506,
-  "2023-09-08": 4511,
-  "2023-09-09": 4521,
-  "2023-09-10": 4530,
-  "2023-09-11": 4538,
-  "2023-09-12": 4543,
-  "2023-09-13": 4550,
-  "2023-09-14": 4562,
-  "2023-09-15": 4579,
-  "2023-09-16": 4597,
-  "2023-09-17": 4610,
-  "2023-09-18": 4624,
-  "2023-09-19": 4635,
-  "2023-09-20": 4641,
-  "2023-09-21": 4648,
-  "2023-09-22": 4659,
-  "2023-09-23": 4666,
-  "2023-09-24": 4677,
-  "2023-09-25": 4683,
-  "2023-09-26": 4694,
-  "2023-09-27": 4702,
-  "2023-09-28": 4709,
-  "2023-09-29": 4713,
-  "2023-09-30": 4729,
-  "2023-10-01": 4742,
-  "2023-10-02": 4752,
-  "2023-10-03": 4762,
-  "2023-10-04": 4765,
-  "2023-10-05": 4776,
-  "2023-10-06": 4781,
-  "2023-10-07": 4789,
-  "2023-10-08": 4803,
-  "2023-10-09": 4812,
-  "2023-10-10": 4823,
-  "2023-10-11": 4838,
-  "2023-10-12": 4838,
-  "2023-10-13": 4839,
-  "2023-10-14": 4846,
-  "2023-10-15": 4853,
-  "2023-10-16": 4861,
-  "2023-10-17": 4865,
-  "2023-10-18": 4874,
-  "2023-10-19": 4878,
-  "2023-10-20": 4887,
-  "2023-10-21": 4892,
-  "2023-10-22": 4899,
-  "2023-10-23": 4908,
-  "2023-10-24": 4910,
-  "2023-10-25": 4918,
-  "2023-10-26": 4924,
-  "2023-10-27": 4931,
-  "2023-10-28": 4939,
-  "2023-10-29": 4942,
-  "2023-10-30": 4955,
-  "2023-10-31": 4955,
-  "2023-11-01": 4957,
-  "2023-11-02": 4963,
-  "2023-11-03": 4970,
-  "2023-11-04": 4968,
-  "2023-11-05": 4979,
-  "2023-11-06": 4985,
-  "2023-11-07": 4992,
-  "2023-11-08": 4999,
-  "2023-11-09": 5007,
-  "2023-11-10": 5017,
-  "2023-11-11": 5022,
-  "2023-11-12": 5024,
-  "2023-11-13": 5034,
-  "2023-11-14": 5036,
-  "2023-11-15": 5036,
-  "2023-11-16": 5049,
-  "2023-11-17": 5060,
-  "2023-11-18": 5060,
-  "2023-11-19": 5063,
-  "2023-11-20": 5066,
-  "2023-11-21": 5074,
-  "2023-11-22": 5080,
-  "2023-11-23": 5089,
-  "2023-11-24": 5094,
-  "2023-11-25": 5096,
-  "2023-11-26": 5104,
-  "2023-11-27": 5104,
-  "2023-11-28": 5108,
-  "2023-11-29": 5123,
-  "2023-11-30": 5123,
-  "2023-12-01": 5126,
-  "2023-12-02": 5135,
-  "2023-12-03": 5135,
-  "2023-12-04": 5136,
-  "2023-12-05": 5144,
-  "2023-12-06": 5147,
-  "2023-12-07": 5150,
-  "2023-12-08": 5153,
-  "2023-12-09": 5160,
-  "2023-12-10": 5165,
-  "2023-12-11": 5169,
-  "2023-12-12": 5169,
-  "2023-12-13": 5174,
-  "2023-12-14": 5184,
-  "2023-12-15": 5187,
-  "2023-12-16": 5193,
-  "2023-12-17": 5198,
-  "2023-12-18": 5198,
-  "2023-12-19": 5200,
-  "2023-12-20": 5202,
-  "2023-12-21": 5206,
-  "2023-12-22": 5210,
-  "2023-12-23": 5217,
-  "2023-12-24": 5221,
-  "2023-12-25": 5227,
-  "2023-12-26": 5229,
-  "2023-12-27": 5236,
-  "2023-12-30": 5248,
-  "2023-12-31": 5254,
-  "2024-01-01": 5260,
-  "2024-01-02": 5264,
-  "2024-01-03": 5270
+  "2024-01-17": 5296,
+  "date_first_scraped": "2022-04-19",
+  "description": "Check out these young 'uns singing your favorite country tunes!",
+  "name": "Country Kids",
+  "tracks": [
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 187637,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/1wevRNu8wImvRIJprqHAwA"
+    },
+    {
+      "album": {
+        "name": "Classic Country Songs for Kids",
+        "url": "https://open.spotify.com/album/3aqKexhMyUGMqEglrH5ljl"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187637,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/5Lt6SLtIHia0Ug5Lldk46d"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237066,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/5z1a8JbS6hGafecEGyWjlT"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 164386,
+      "name": "Ballad of Davey Crockett",
+      "url": "https://open.spotify.com/track/28dHUJRIYtGqtFlNom8kT5"
+    },
+    {
+      "album": {
+        "name": "Country for Kids - 40 Yee-Haw Party Hits!",
+        "url": "https://open.spotify.com/album/1ATlIbqcNBQOyMysD7OIFs"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164386,
+      "name": "Ballad of Davey Crockett",
+      "url": "https://open.spotify.com/track/56YulO1vG4TS0yBiZtgzSZ"
+    },
+    {
+      "album": {
+        "name": "Be Anything",
+        "url": "https://open.spotify.com/album/4ERLeYZqdfNL1Hm7mpPYm0"
+      },
+      "artists": [
+        {
+          "name": "Jaden Michaels",
+          "url": "https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184197,
+      "name": "Be Anything",
+      "url": "https://open.spotify.com/track/0CaIWkfoMvhQ0t0mkfdXhU"
+    },
+    {
+      "album": {
+        "name": "Twang",
+        "url": "https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "Before I Knew It",
+      "url": "https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229160,
+      "name": "Better Life",
+      "url": "https://open.spotify.com/track/1wblvnJDt4vxvzuD9gy0eL"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 199810,
+      "name": "Coal Miner's Daughter",
+      "url": "https://open.spotify.com/track/3HlSKJnSPjaIAZUMlc7Vdc"
+    },
+    {
+      "album": {
+        "name": "Classic Country Songs for Kids",
+        "url": "https://open.spotify.com/album/3aqKexhMyUGMqEglrH5ljl"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199810,
+      "name": "Coal Miner's Daughter",
+      "url": "https://open.spotify.com/track/3v1EgUwc5aVaxWDb3imVnz"
+    },
+    {
+      "album": {
+        "name": "Country for Kids - 40 Yee-Haw Party Hits!",
+        "url": "https://open.spotify.com/album/1ATlIbqcNBQOyMysD7OIFs"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137093,
+      "name": "Deep in the Heart of Texas",
+      "url": "https://open.spotify.com/track/1XtsE6TtfABzJC42aCdUhT"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 137093,
+      "name": "Deep in the Heart of Texas",
+      "url": "https://open.spotify.com/track/6LRp5f8pa9E17eRYnBN8Ri"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 178120,
+      "name": "Don't Fence Me In",
+      "url": "https://open.spotify.com/track/0Fb26dGih4CeVvRo8SzzWY"
+    },
+    {
+      "album": {
+        "name": "Country for Kids - 40 Yee-Haw Party Hits!",
+        "url": "https://open.spotify.com/album/1ATlIbqcNBQOyMysD7OIFs"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178120,
+      "name": "Don't Fence Me In",
+      "url": "https://open.spotify.com/track/4MJmGtVowSpuOMkCZAALMn"
+    },
+    {
+      "album": {
+        "name": "Famous EP",
+        "url": "https://open.spotify.com/album/0uwi88sUbCRCvlwYEi6khZ"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/1lasE4yXQmZ5mwWdGQGn8E"
+    },
+    {
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/56Y7sj73J1tdMkXgRPSaMX"
+      },
+      "artists": [
+        {
+          "name": "Haley Mae Campbell",
+          "url": "https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/2qLlnVfkyIMtkViemtRtYb"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 109053,
+      "name": "Hey Good Lookin'",
+      "url": "https://open.spotify.com/track/29SU9RziPQse6ljhr0T1uv"
+    },
+    {
+      "album": {
+        "name": "Classic Country Songs for Kids",
+        "url": "https://open.spotify.com/album/3aqKexhMyUGMqEglrH5ljl"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109053,
+      "name": "Hey Good Lookin'",
+      "url": "https://open.spotify.com/track/7lurHMWoKlHZWCvCNCvx8k"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 174706,
+      "name": "Home On the Range",
+      "url": "https://open.spotify.com/track/0bIKiqZhVdqlyoxNtouq1v"
+    },
+    {
+      "album": {
+        "name": "Tom Arma - Animal Songs",
+        "url": "https://open.spotify.com/album/06UcVZn7kWTmlLIgg519jZ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "Home On The Range",
+      "url": "https://open.spotify.com/track/44jTStk8wCzQiPH3Myh4nq"
+    },
+    {
+      "album": {
+        "name": "I Don't Know What Is",
+        "url": "https://open.spotify.com/album/71I2oRpDOFdoLDyopWPC7L"
+      },
+      "artists": [
+        {
+          "name": "Tegan Marie",
+          "url": "https://open.spotify.com/artist/3Hb3tbO5BuOLQF6ehZvt4P"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "I Don't Know What Is",
+      "url": "https://open.spotify.com/track/3BklUBGO6YzQTPBTetGvrb"
+    },
+    {
+      "album": {
+        "name": "I Know How To Make A Boy Cry",
+        "url": "https://open.spotify.com/album/6YWzqp6aB45yuo8Mn3aTsy"
+      },
+      "artists": [
+        {
+          "name": "Tegan Marie",
+          "url": "https://open.spotify.com/artist/3Hb3tbO5BuOLQF6ehZvt4P"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202892,
+      "name": "I Know How To Make A Boy Cry",
+      "url": "https://open.spotify.com/track/048gT4gdvNyjFudVXCnvZV"
+    },
+    {
+      "album": {
+        "name": "I Should Probably Go To Bed",
+        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171826,
+      "name": "I Should Probably Go To Bed",
+      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 161240,
+      "name": "I Walk the Line",
+      "url": "https://open.spotify.com/track/2brpyFQnQXQ79WblAzh8Gm"
+    },
+    {
+      "album": {
+        "name": "Classic Country Songs for Kids",
+        "url": "https://open.spotify.com/album/3aqKexhMyUGMqEglrH5ljl"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "I Walk the Line",
+      "url": "https://open.spotify.com/track/6wQiZpCNPSAfE3L9inbB8c"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 133013,
+      "name": "I'm so Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/22Jc2F5WysZHwYreo8KJZV"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country",
+        "url": "https://open.spotify.com/album/5WKYJ7eHI9geTlk1K4HK0N"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133013,
+      "name": "I'm so Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/5UHSp6rSBnpNqJ0k6UtsUu"
+    },
+    {
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/2IuazAsyvbb3fFZb0Uvsmk"
+    },
+    {
+      "album": {
+        "name": "Real To Me",
+        "url": "https://open.spotify.com/album/5DyBJlrOGNzxvGPkKAS8b4"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "It\u2019s \u2018Cause I Am",
+      "url": "https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "Jesus Take The Wheel",
+      "url": "https://open.spotify.com/track/0gfgzAMjCwAXQEiOM453w3"
+    },
+    {
+      "album": {
+        "name": "Keep It Lit",
+        "url": "https://open.spotify.com/album/2SMyjtsdgcz2URnnpnp94R"
+      },
+      "artists": [
+        {
+          "name": "Tegan Marie",
+          "url": "https://open.spotify.com/artist/3Hb3tbO5BuOLQF6ehZvt4P"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197826,
+      "name": "Keep It Lit",
+      "url": "https://open.spotify.com/track/0JE0SAskbu1kRMND1Cd02M"
+    },
+    {
+      "album": {
+        "name": "Classic Country Songs for Kids",
+        "url": "https://open.spotify.com/album/3aqKexhMyUGMqEglrH5ljl"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153013,
+      "name": "King of the Road",
+      "url": "https://open.spotify.com/track/5Z0lOcuOtna6Asx1bAoRr3"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 153013,
+      "name": "King of the Road",
+      "url": "https://open.spotify.com/track/6DUFQAxhzhWkpu3F9dV6oU"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207640,
+      "name": "Leave The Pieces",
+      "url": "https://open.spotify.com/track/6UI5BTPXerMD6ssJdLbZaY"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223293,
+      "name": "Life Is A Highway",
+      "url": "https://open.spotify.com/track/2jnexyEDlFhq1KaBpfj8Ma"
+    },
+    {
+      "album": {
+        "name": "Like It's a Bad Thing",
+        "url": "https://open.spotify.com/album/331LZYRCqTUHENqQOD9GJY"
+      },
+      "artists": [
+        {
+          "name": "CB30",
+          "url": "https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175076,
+      "name": "Like It's a Bad Thing",
+      "url": "https://open.spotify.com/track/3r070oHba07eaXtb0YeozI"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Living In Fast Forward",
+      "url": "https://open.spotify.com/track/0ezple72j8qYACimzFya10"
+    },
+    {
+      "album": {
+        "name": "Love That About Her",
+        "url": "https://open.spotify.com/album/0M7fNCHp5OHtzPwiLj2fpZ"
+      },
+      "artists": [
+        {
+          "name": "CB30",
+          "url": "https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "Love That About Her",
+      "url": "https://open.spotify.com/track/3MCgZ7KxuZyLejqLJh8Z1W"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "Lucky One",
+      "url": "https://open.spotify.com/track/0GaAZ0rjSi8Xj7aSRWjLin"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205560,
+      "name": "Mr. Mom",
+      "url": "https://open.spotify.com/track/0HHjpGVtHOr2ELW8ELTS32"
+    },
+    {
+      "album": {
+        "name": "Old Town Road (Remix)",
+        "url": "https://open.spotify.com/album/0ycVaTFV4Me1jr7wM9Zqip"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Old Town Road - Remix",
+      "url": "https://open.spotify.com/track/6jmZlyf9DxcIoRrjw02YXm"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 124253,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/0WL3501sdG0agQ1s3Fh4wX"
+    },
+    {
+      "album": {
+        "name": "Classic Country Songs for Kids",
+        "url": "https://open.spotify.com/album/3aqKexhMyUGMqEglrH5ljl"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124253,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/2ADpvjrRzWn74kVvIFZVxw"
+    },
+    {
+      "album": {
+        "name": "Road Less Traveled",
+        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "Road Less Traveled",
+      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "Something's Got To Give",
+      "url": "https://open.spotify.com/track/2GKI8RSaM4GdNTu8lzq1PJ"
+    },
+    {
+      "album": {
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213386,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214573,
+      "name": "Suds In The Bucket",
+      "url": "https://open.spotify.com/track/3J1nb8QhO1ui9oMZFToJAs"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 181053,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/1I1fqVjPeuiw8aitSxH49k"
+    },
+    {
+      "album": {
+        "name": "Classic Country Songs for Kids",
+        "url": "https://open.spotify.com/album/3aqKexhMyUGMqEglrH5ljl"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181053,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/5Z9Ja87Iw9WX1bDs4gOq75"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 154533,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/2PnU37NKBjun3eXlqbKYaw"
+    },
+    {
+      "album": {
+        "name": "Classic Country Songs for Kids",
+        "url": "https://open.spotify.com/album/3aqKexhMyUGMqEglrH5ljl"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/4EEiUJsYCDOK6qinrrFdhu"
+    },
+    {
+      "album": {
+        "name": "That Moment When",
+        "url": "https://open.spotify.com/album/7l6zZxK6nTQoe7DQCOKgUH"
+      },
+      "artists": [
+        {
+          "name": "CB30",
+          "url": "https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183453,
+      "name": "That Moment When",
+      "url": "https://open.spotify.com/track/2wflHCIanMpLqj02bqvC5B"
+    },
+    {
+      "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
+    },
+    {
+      "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208760,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/3HMUn13BsDQDSnFUtMIHEE"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country Hits",
+        "url": "https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 183333,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/177bzjT4KBmsWH5ZGEPSjJ"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Country",
+        "url": "https://open.spotify.com/album/5WKYJ7eHI9geTlk1K4HK0N"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/5T84FaHbGjObeE0f60UZ7e"
+    },
+    {
+      "album": {
+        "name": "Twang",
+        "url": "https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "Twang",
+      "url": "https://open.spotify.com/track/6fLQhfYnGuBTbQDdqMZFRL"
+    },
+    {
+      "album": {
+        "name": "We Are Right Now",
+        "url": "https://open.spotify.com/album/0QoCd9mbqX5eADHsRbZnSU"
+      },
+      "artists": [
+        {
+          "name": "CB30",
+          "url": "https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "We Are Right Now",
+      "url": "https://open.spotify.com/track/4vscHxbNjAo7TkOlf7WsHb"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/4R5j8bVNPzaDCn84tmkQK8"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251400,
+      "name": "Who Says You Can't Go Home",
+      "url": "https://open.spotify.com/track/0w3wgiqpqD6mn5sFrrNOAW"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Country",
+        "url": "https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6dpGRBDEr0lMfiETOHQhz6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTKm45BTdcDy"
 }

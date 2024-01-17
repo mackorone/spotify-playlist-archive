@@ -1,131 +1,891 @@
 {
-  "2023-08-26": 7753,
-  "2023-08-27": 7753,
-  "2023-08-28": 7763,
-  "2023-08-29": 7763,
-  "2023-08-30": 7763,
-  "2023-08-31": 7774,
-  "2023-09-01": 7778,
-  "2023-09-02": 7778,
-  "2023-09-03": 7778,
-  "2023-09-04": 7778,
-  "2023-09-05": 7778,
-  "2023-09-06": 7778,
-  "2023-09-07": 7778,
-  "2023-09-08": 7778,
-  "2023-09-09": 7778,
-  "2023-09-10": 7778,
-  "2023-09-11": 7778,
-  "2023-09-12": 7778,
-  "2023-09-13": 7778,
-  "2023-09-14": 7778,
-  "2023-09-15": 7778,
-  "2023-09-16": 7778,
-  "2023-09-17": 7778,
-  "2023-09-18": 7778,
-  "2023-09-19": 7778,
-  "2023-09-20": 7778,
-  "2023-09-21": 7778,
-  "2023-09-22": 7778,
-  "2023-09-23": 7778,
-  "2023-09-24": 7778,
-  "2023-09-25": 7778,
-  "2023-09-26": 7884,
-  "2023-09-27": 7884,
-  "2023-09-28": 7884,
-  "2023-09-29": 7884,
-  "2023-09-30": 7884,
-  "2023-10-01": 7884,
-  "2023-10-02": 7884,
-  "2023-10-03": 7884,
-  "2023-10-04": 7884,
-  "2023-10-05": 7884,
-  "2023-10-06": 7884,
-  "2023-10-07": 7884,
-  "2023-10-08": 7884,
-  "2023-10-09": 7884,
-  "2023-10-10": 7884,
-  "2023-10-11": 7884,
-  "2023-10-12": 7884,
-  "2023-10-13": 7884,
-  "2023-10-14": 7884,
-  "2023-10-15": 7884,
-  "2023-10-16": 7884,
-  "2023-10-17": 7884,
-  "2023-10-18": 7884,
-  "2023-10-19": 7884,
-  "2023-10-20": 7884,
-  "2023-10-21": 7884,
-  "2023-10-22": 7884,
-  "2023-10-23": 7884,
-  "2023-10-24": 7884,
-  "2023-10-25": 7884,
-  "2023-10-26": 7884,
-  "2023-10-27": 7884,
-  "2023-10-28": 7884,
-  "2023-10-29": 7884,
-  "2023-10-30": 7884,
-  "2023-10-31": 7884,
-  "2023-11-01": 7884,
-  "2023-11-02": 7884,
-  "2023-11-03": 7884,
-  "2023-11-04": 7884,
-  "2023-11-05": 7884,
-  "2023-11-06": 7884,
-  "2023-11-07": 7884,
-  "2023-11-08": 7884,
-  "2023-11-09": 7884,
-  "2023-11-10": 7884,
-  "2023-11-11": 8022,
-  "2023-11-12": 8022,
-  "2023-11-13": 8022,
-  "2023-11-14": 8022,
-  "2023-11-15": 8022,
-  "2023-11-16": 8022,
-  "2023-11-17": 8022,
-  "2023-11-18": 8022,
-  "2023-11-19": 8022,
-  "2023-11-20": 8022,
-  "2023-11-21": 8022,
-  "2023-11-22": 8022,
-  "2023-11-23": 8022,
-  "2023-11-24": 8022,
-  "2023-11-25": 8022,
-  "2023-11-26": 8022,
-  "2023-11-27": 8022,
-  "2023-11-28": 8022,
-  "2023-11-29": 8022,
-  "2023-11-30": 8022,
-  "2023-12-01": 8022,
-  "2023-12-02": 8022,
-  "2023-12-03": 8022,
-  "2023-12-04": 8022,
-  "2023-12-05": 8022,
-  "2023-12-06": 8022,
-  "2023-12-07": 8022,
-  "2023-12-08": 8022,
-  "2023-12-09": 8022,
-  "2023-12-10": 8022,
-  "2023-12-11": 8022,
-  "2023-12-12": 8022,
-  "2023-12-13": 8022,
-  "2023-12-14": 8097,
-  "2023-12-15": 8102,
-  "2023-12-16": 8106,
-  "2023-12-17": 8110,
-  "2023-12-18": 8113,
-  "2023-12-19": 8117,
-  "2023-12-20": 8121,
-  "2023-12-21": 8123,
-  "2023-12-22": 8122,
-  "2023-12-23": 8123,
-  "2023-12-24": 8122,
-  "2023-12-25": 8128,
-  "2023-12-26": 8128,
-  "2023-12-27": 8128,
-  "2023-12-30": 8143,
-  "2023-12-31": 8147,
-  "2024-01-01": 8148,
-  "2024-01-02": 8154,
-  "2024-01-03": 8157
+  "2024-01-17": 8165,
+  "date_first_scraped": "2023-08-26",
+  "description": "This is Libido. The essential tracks, all in one playlist.",
+  "name": "This Is Libido",
+  "tracks": [
+    {
+      "album": {
+        "name": "Libido",
+        "url": "https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169040,
+      "name": "Cicuta",
+      "url": "https://open.spotify.com/track/4Ga2fkzCLM5VAbsO6vsbL8"
+    },
+    {
+      "album": {
+        "name": "Libido",
+        "url": "https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "Como un Perro",
+      "url": "https://open.spotify.com/track/2UiwYEIQXj4pNO4dSXfkXv"
+    },
+    {
+      "album": {
+        "name": "Libido en Vivo Coliseo Dib\u00f3s (En Vivo)",
+        "url": "https://open.spotify.com/album/4inRORxjogX7v75jCwCusy"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279297,
+      "name": "Criatura Misteriosa (En Vivo)",
+      "url": "https://open.spotify.com/track/1lNOh95xYwn0JmtECerJpt"
+    },
+    {
+      "album": {
+        "name": "Cuelgo el Tel\u00e9fono",
+        "url": "https://open.spotify.com/album/3btzsxko2imX9tsWIdBE5r"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205264,
+      "name": "Cuelgo el Tel\u00e9fono",
+      "url": "https://open.spotify.com/track/4LsSBw9Jey4ZW7F0LXb9WF"
+    },
+    {
+      "album": {
+        "name": "Lo \u00daltimo Que Habl\u00e9 Ayer",
+        "url": "https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157773,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/79tGltolVrUMbxy7NUdq2J"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico en el Gran Teatro Nacional (En vivo)",
+        "url": "https://open.spotify.com/album/4GhkQaLNEGLF22fxsn8kFV"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267733,
+      "name": "C\u00f3mo est\u00e1s (En vivo)",
+      "url": "https://open.spotify.com/track/1fHlONl6pMBC9zc4Qh76XQ"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Nuevo",
+        "url": "https://open.spotify.com/album/5cEeV7MdJVVfr20xKUCuYY"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162733,
+      "name": "Disparar",
+      "url": "https://open.spotify.com/track/5h21CIvNQTXy2Xh91hwVY6"
+    },
+    {
+      "album": {
+        "name": "Hembra",
+        "url": "https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272466,
+      "name": "En Esta Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/1gAB76RAMN8sZl0PjKyqXA"
+    },
+    {
+      "album": {
+        "name": "Pop*Porn",
+        "url": "https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Esther Fe",
+      "url": "https://open.spotify.com/track/6hBBssHaBL1h1bmUkkfECc"
+    },
+    {
+      "album": {
+        "name": "Corazones Blancos",
+        "url": "https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228734,
+      "name": "Estoy Tan Gris",
+      "url": "https://open.spotify.com/track/0I0QleAkiY1kPI8ZKm84EH"
+    },
+    {
+      "album": {
+        "name": "Lo \u00daltimo Que Habl\u00e9 Ayer",
+        "url": "https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/7zVdRFV3Uv2eiHXVcUx3fO"
+    },
+    {
+      "album": {
+        "name": "Pop*Porn",
+        "url": "https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4NkvNThbuHEwQ9elX0xtV9"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Nuevo",
+        "url": "https://open.spotify.com/album/5cEeV7MdJVVfr20xKUCuYY"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136866,
+      "name": "Hablar No Es Necesario",
+      "url": "https://open.spotify.com/track/3UYfq8kTp93CXHheiTKsN7"
+    },
+    {
+      "album": {
+        "name": "Libido en Vivo Coliseo Dib\u00f3s (En Vivo)",
+        "url": "https://open.spotify.com/album/4inRORxjogX7v75jCwCusy"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237714,
+      "name": "Hambre (En Vivo)",
+      "url": "https://open.spotify.com/track/0UJj05XrM71OCDuwYqPX88"
+    },
+    {
+      "album": {
+        "name": "Hembra",
+        "url": "https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251066,
+      "name": "Hembra",
+      "url": "https://open.spotify.com/track/16sX7ktvlTcYWjHlJtKxZ7"
+    },
+    {
+      "album": {
+        "name": "Amar o Matar",
+        "url": "https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "Igual Que Ayer",
+      "url": "https://open.spotify.com/track/4hkZKqqskYe2KzV9n8TOaT"
+    },
+    {
+      "album": {
+        "name": "Pop*Porn",
+        "url": "https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175506,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/0mYrJUHGtN009Z9A9LEymM"
+    },
+    {
+      "album": {
+        "name": "Libido",
+        "url": "https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156853,
+      "name": "La Casa de los Gritos",
+      "url": "https://open.spotify.com/track/0DhKIRnmgScffC5lhTulQ0"
+    },
+    {
+      "album": {
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/2EvrCdXPxTlvjBYzlDsJnT"
+    },
+    {
+      "album": {
+        "name": "Libido",
+        "url": "https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298826,
+      "name": "Libido",
+      "url": "https://open.spotify.com/track/1N394dXTpjm6UDHJ89koXK"
+    },
+    {
+      "album": {
+        "name": "Amar o Matar",
+        "url": "https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/4qr3HrKbAVrGRpVgbsmWbI"
+    },
+    {
+      "album": {
+        "name": "Lo \u00daltimo Que Habl\u00e9 Ayer",
+        "url": "https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159826,
+      "name": "Lo \u00daltimo Que Habl\u00e9 Ayer",
+      "url": "https://open.spotify.com/track/4BiAm7itPg0sS3Q4GbW1co"
+    },
+    {
+      "album": {
+        "name": "Lo \u00daltimo Que Habl\u00e9 Ayer",
+        "url": "https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226986,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5nHkLSgch1CXRLOgcRiB56"
+    },
+    {
+      "album": {
+        "name": "Lo \u00daltimo Que Habl\u00e9 Ayer",
+        "url": "https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240253,
+      "name": "Mabel",
+      "url": "https://open.spotify.com/track/47aqMJgnCnv2i88Yl0Kgb9"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Nuevo en Londres",
+        "url": "https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/6XE3FWj6GzwKK4o9MgupJj"
+    },
+    {
+      "album": {
+        "name": "Amar o Matar",
+        "url": "https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190613,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/6hRo9OaEvtE7fhxB6Bw9md"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Nuevo",
+        "url": "https://open.spotify.com/album/5cEeV7MdJVVfr20xKUCuYY"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161973,
+      "name": "Mundo Perfecto",
+      "url": "https://open.spotify.com/track/0y1kGKdRdrg8pTbSgI1XfT"
+    },
+    {
+      "album": {
+        "name": "Amar o Matar",
+        "url": "https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Nada Que Me Ate a Ti",
+      "url": "https://open.spotify.com/track/2mi7rEuUsGLzuMYLpN0Bk3"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Nuevo en Londres",
+        "url": "https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "Nadie Sabe Lo Que Vendr\u00e1",
+      "url": "https://open.spotify.com/track/5Tz6pxaj7kd5HqC25D9GEX"
+    },
+    {
+      "album": {
+        "name": "Lo \u00daltimo Que Habl\u00e9 Ayer",
+        "url": "https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160853,
+      "name": "Nicotina",
+      "url": "https://open.spotify.com/track/4NiarIbls5loepsjqdb2sc"
+    },
+    {
+      "album": {
+        "name": "Pop*Porn",
+        "url": "https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "No ser\u00e1 lo mismo si ti",
+      "url": "https://open.spotify.com/track/7LCa5BwjGUc7Dl0FyCPxaX"
+    },
+    {
+      "album": {
+        "name": "Hembra",
+        "url": "https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "No Voy a Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/5ILyT6kcx0NpBp7QTGWvml"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Nuevo en Londres",
+        "url": "https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223226,
+      "name": "Octubre",
+      "url": "https://open.spotify.com/track/3KlpVNhI3ofN0i4qYQp0Ss"
+    },
+    {
+      "album": {
+        "name": "Libido",
+        "url": "https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170213,
+      "name": "Ojos de \u00c1ngel",
+      "url": "https://open.spotify.com/track/3ucX0vTy8Zy95OwalNgu4D"
+    },
+    {
+      "album": {
+        "name": "Corazones Blancos",
+        "url": "https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264733,
+      "name": "Pero A\u00fan Sigo Vi\u00e9ndote",
+      "url": "https://open.spotify.com/track/5rkxLIdDPy22cbs0NJZLLd"
+    },
+    {
+      "album": {
+        "name": "Por Si Tratas de Volver",
+        "url": "https://open.spotify.com/album/3o4o40CkLE2l3QtuILhAWn"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278506,
+      "name": "Por Si Tratas de Volver",
+      "url": "https://open.spotify.com/track/23dmsItzqhsXLssh6bquTZ"
+    },
+    {
+      "album": {
+        "name": "Hembra",
+        "url": "https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Respirando",
+      "url": "https://open.spotify.com/track/2l3qedm1MaxGzFC9CmYXXx"
+    },
+    {
+      "album": {
+        "name": "Libido en Vivo Coliseo Dib\u00f3s (En Vivo)",
+        "url": "https://open.spotify.com/album/4inRORxjogX7v75jCwCusy"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216816,
+      "name": "Salvaciones (En Vivo)",
+      "url": "https://open.spotify.com/track/2Mkc4hDegyejz9zobFxXkr"
+    },
+    {
+      "album": {
+        "name": "Libido",
+        "url": "https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113680,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/4pAUE8Xf67tbhXK26TSAcQ"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Nuevo en Londres",
+        "url": "https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Sentir Que Hoy",
+      "url": "https://open.spotify.com/track/689JndbnnR4l3KeVE0dQlR"
+    },
+    {
+      "album": {
+        "name": "Pop*Porn",
+        "url": "https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279400,
+      "name": "Sin Rencor",
+      "url": "https://open.spotify.com/track/6SSJr60opa48UFAcbUCdGL"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Nuevo en Londres",
+        "url": "https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166106,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/0m76CdizGAfdk7ARAYIqlN"
+    },
+    {
+      "album": {
+        "name": "Corazones Blancos",
+        "url": "https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222347,
+      "name": "Tan Suave",
+      "url": "https://open.spotify.com/track/4zOjJYRwuUBpA58Rzs0Hxs"
+    },
+    {
+      "album": {
+        "name": "Hembra",
+        "url": "https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "Tiempos Tranquilos",
+      "url": "https://open.spotify.com/track/7eUWZNPCCqboNjdOWTidHv"
+    },
+    {
+      "album": {
+        "name": "Hembra",
+        "url": "https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222066,
+      "name": "Tres",
+      "url": "https://open.spotify.com/track/0cIxbSC4rzseQW4ohhnree"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Nuevo en Londres",
+        "url": "https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243053,
+      "name": "Un D\u00eda Nuevo",
+      "url": "https://open.spotify.com/track/5VYZqC5272yRi8tUPJXSxu"
+    },
+    {
+      "album": {
+        "name": "Pop*Porn",
+        "url": "https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/3tAmyOiJOpznwi9MvE3APj"
+    },
+    {
+      "album": {
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "Vientos y Amarguras",
+      "url": "https://open.spotify.com/track/3EMDgB880IOf11eZXSaw33"
+    },
+    {
+      "album": {
+        "name": "Amar o Matar",
+        "url": "https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224856,
+      "name": "Y Vuelves a Aparecerte",
+      "url": "https://open.spotify.com/track/24S0H05hCJtzasYcrm6ngJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4zOsk6"
 }

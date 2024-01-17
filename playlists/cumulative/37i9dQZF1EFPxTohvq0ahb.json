@@ -874,7 +874,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-15",
       "duration_ms": 224106,
       "name": "He Like That",
       "url": "https://open.spotify.com/track/3OSxuTajp0NtBrDbY0KRP6"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-16",
       "duration_ms": 187187,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/5Ap72TwyLi30ldAxevbZJi"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-17",
       "duration_ms": 221453,
       "name": "Lovin' So Hard",
       "url": "https://open.spotify.com/track/5EnCFISDzoIMWMaicJxxX9"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-11",
       "duration_ms": 232520,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/7CHIJREUYyM7vndBQE6iMy"
@@ -1714,7 +1714,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 193240,
       "name": "Right To Fall",
       "url": "https://open.spotify.com/track/2WnPynFxjMoEZ75KROnwFx"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 203960,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3qk4wRMDlaeagZGjSYbsOV"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3OpWBDIOsaYaDy9LhIaf1c"
@@ -2126,6 +2126,24 @@
     {
       "album": {
         "name": "Ugly Heart",
+        "url": "https://open.spotify.com/album/6cvanscbjwTlkleedLkWhC"
+      },
+      "artists": [
+        {
+          "name": "G.R.L.",
+          "url": "https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199580,
+      "name": "Ugly Heart",
+      "url": "https://open.spotify.com/track/1Vv0MPcooEoQzVZYfKMgKW"
+    },
+    {
+      "album": {
+        "name": "Ugly Heart",
         "url": "https://open.spotify.com/album/58y0kdRYWUTd3jibdw4QEh"
       },
       "artists": [
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 209728,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/44l4dGUdTC040Y66JBuDNS"

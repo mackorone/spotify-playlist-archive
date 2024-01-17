@@ -1,735 +1,1449 @@
 {
-  "2021-12-25": 471599,
-  "2021-12-26": 471684,
-  "2021-12-27": 471834,
-  "2021-12-28": 471834,
-  "2021-12-29": 471926,
-  "2021-12-30": 472042,
-  "2021-12-31": 472168,
-  "2022-01-01": 472321,
-  "2022-01-02": 472357,
-  "2022-01-03": 472419,
-  "2022-01-04": 472475,
-  "2022-01-05": 472558,
-  "2022-01-06": 472676,
-  "2022-01-07": 472793,
-  "2022-01-08": 472974,
-  "2022-01-09": 472979,
-  "2022-01-10": 473058,
-  "2022-01-11": 473163,
-  "2022-01-12": 473276,
-  "2022-01-13": 473403,
-  "2022-01-14": 473495,
-  "2022-01-15": 473692,
-  "2022-01-16": 473702,
-  "2022-01-17": 473917,
-  "2022-01-18": 473937,
-  "2022-01-19": 474025,
-  "2022-01-20": 474151,
-  "2022-01-21": 474261,
-  "2022-01-22": 474364,
-  "2022-01-23": 474471,
-  "2022-01-24": 474562,
-  "2022-01-25": 474663,
-  "2022-01-26": 474777,
-  "2022-01-27": 474888,
-  "2022-01-28": 475041,
-  "2022-01-29": 475151,
-  "2022-01-30": 475287,
-  "2022-01-31": 475398,
-  "2022-02-01": 475516,
-  "2022-02-02": 475646,
-  "2022-02-03": 475775,
-  "2022-02-04": 475888,
-  "2022-02-05": 476012,
-  "2022-02-06": 476113,
-  "2022-02-07": 476246,
-  "2022-02-08": 476366,
-  "2022-02-09": 476483,
-  "2022-02-10": 476593,
-  "2022-02-11": 476712,
-  "2022-02-12": 476849,
-  "2022-02-13": 476994,
-  "2022-02-14": 477132,
-  "2022-02-15": 477250,
-  "2022-02-16": 477376,
-  "2022-02-17": 477513,
-  "2022-02-18": 477670,
-  "2022-02-19": 477793,
-  "2022-02-20": 477909,
-  "2022-02-21": 478013,
-  "2022-02-22": 478098,
-  "2022-02-23": 478224,
-  "2022-02-24": 478360,
-  "2022-02-25": 478495,
-  "2022-02-26": 478631,
-  "2022-02-27": 478871,
-  "2022-02-28": 478871,
-  "2022-03-01": 478991,
-  "2022-03-02": 479111,
-  "2022-03-03": 479241,
-  "2022-03-04": 479349,
-  "2022-03-05": 479467,
-  "2022-03-06": 479586,
-  "2022-03-07": 479698,
-  "2022-03-08": 479802,
-  "2022-03-09": 479937,
-  "2022-03-10": 480046,
-  "2022-03-11": 480163,
-  "2022-03-12": 480306,
-  "2022-03-13": 480432,
-  "2022-03-14": 480549,
-  "2022-03-15": 480670,
-  "2022-03-16": 480796,
-  "2022-03-17": 480901,
-  "2022-03-18": 481062,
-  "2022-03-19": 481134,
-  "2022-03-20": 481134,
-  "2022-03-21": 481357,
-  "2022-03-22": 481451,
-  "2022-03-23": 481560,
-  "2022-03-24": 481682,
-  "2022-03-25": 481788,
-  "2022-03-26": 481915,
-  "2022-03-27": 482049,
-  "2022-03-28": 482143,
-  "2022-03-30": 482348,
-  "2022-03-31": 482471,
-  "2022-04-01": 482604,
-  "2022-04-02": 482705,
-  "2022-04-03": 482822,
-  "2022-04-04": 482923,
-  "2022-04-05": 483016,
-  "2022-04-06": 483128,
-  "2022-04-07": 483244,
-  "2022-04-08": 483374,
-  "2022-04-09": 483495,
-  "2022-04-10": 483758,
-  "2022-04-11": 483858,
-  "2022-04-12": 483874,
-  "2022-04-13": 483978,
-  "2022-04-14": 484075,
-  "2022-04-15": 484232,
-  "2022-04-16": 484362,
-  "2022-04-17": 484490,
-  "2022-04-18": 484615,
-  "2022-04-19": 484733,
-  "2022-04-20": 484899,
-  "2022-04-21": 485079,
-  "2022-04-22": 485228,
-  "2022-04-23": 485380,
-  "2022-04-24": 485503,
-  "2022-04-25": 485634,
-  "2022-04-26": 485823,
-  "2022-04-27": 486059,
-  "2022-04-28": 486236,
-  "2022-04-29": 486707,
-  "2022-04-30": 487023,
-  "2022-05-01": 487326,
-  "2022-05-02": 487326,
-  "2022-05-03": 487568,
-  "2022-05-04": 487842,
-  "2022-05-05": 488082,
-  "2022-05-06": 488313,
-  "2022-05-07": 488594,
-  "2022-05-08": 488875,
-  "2022-05-09": 488917,
-  "2022-05-10": 489078,
-  "2022-05-11": 489265,
-  "2022-05-12": 489476,
-  "2022-05-13": 489652,
-  "2022-05-14": 489848,
-  "2022-05-15": 490020,
-  "2022-05-16": 490171,
-  "2022-05-17": 490329,
-  "2022-05-18": 490497,
-  "2022-05-19": 490660,
-  "2022-05-20": 490843,
-  "2022-05-21": 491111,
-  "2022-05-22": 491111,
-  "2022-05-23": 491270,
-  "2022-05-24": 491436,
-  "2022-05-25": 491556,
-  "2022-05-26": 491733,
-  "2022-05-27": 491874,
-  "2022-05-28": 492051,
-  "2022-05-29": 492185,
-  "2022-05-30": 492301,
-  "2022-05-31": 492412,
-  "2022-06-01": 492658,
-  "2022-06-02": 492677,
-  "2022-06-03": 492842,
-  "2022-06-04": 492997,
-  "2022-06-05": 493121,
-  "2022-06-06": 493282,
-  "2022-06-07": 493439,
-  "2022-06-08": 493647,
-  "2022-06-09": 493780,
-  "2022-06-10": 493903,
-  "2022-06-11": 494072,
-  "2022-06-12": 494238,
-  "2022-06-13": 494343,
-  "2022-06-14": 494517,
-  "2022-06-15": 494661,
-  "2022-06-16": 494823,
-  "2022-06-17": 494968,
-  "2022-06-18": 495114,
-  "2022-06-19": 495378,
-  "2022-06-20": 495378,
-  "2022-06-21": 495532,
-  "2022-06-22": 495815,
-  "2022-06-23": 495815,
-  "2022-06-24": 495940,
-  "2022-06-25": 496052,
-  "2022-06-26": 496206,
-  "2022-06-27": 496352,
-  "2022-06-28": 496480,
-  "2022-06-29": 496643,
-  "2022-06-30": 496782,
-  "2022-07-01": 496933,
-  "2022-07-02": 497109,
-  "2022-07-03": 497271,
-  "2022-07-04": 497407,
-  "2022-07-05": 497564,
-  "2022-07-06": 497684,
-  "2022-07-07": 497852,
-  "2022-07-08": 497987,
-  "2022-07-09": 498122,
-  "2022-07-10": 498253,
-  "2022-07-11": 498380,
-  "2022-07-12": 498500,
-  "2022-07-13": 498658,
-  "2022-07-14": 498800,
-  "2022-07-15": 498947,
-  "2022-07-16": 499084,
-  "2022-07-17": 499198,
-  "2022-07-18": 499359,
-  "2022-07-19": 499471,
-  "2022-07-20": 499593,
-  "2022-07-21": 499750,
-  "2022-07-22": 499923,
-  "2022-07-23": 500083,
-  "2022-07-24": 500265,
-  "2022-07-25": 500410,
-  "2022-07-26": 500565,
-  "2022-07-27": 500720,
-  "2022-07-28": 500880,
-  "2022-07-29": 501027,
-  "2022-07-30": 501312,
-  "2022-07-31": 501312,
-  "2022-08-01": 501424,
-  "2022-08-02": 501694,
-  "2022-08-03": 501694,
-  "2022-08-04": 501847,
-  "2022-08-05": 501959,
-  "2022-08-06": 502071,
-  "2022-08-07": 502233,
-  "2022-08-08": 502346,
-  "2022-08-09": 502503,
-  "2022-08-10": 502630,
-  "2022-08-11": 502755,
-  "2022-08-12": 502876,
-  "2022-08-13": 502989,
-  "2022-08-14": 503116,
-  "2022-08-15": 503257,
-  "2022-08-16": 503382,
-  "2022-08-17": 503518,
-  "2022-08-18": 503666,
-  "2022-08-19": 503802,
-  "2022-08-20": 503949,
-  "2022-08-21": 504093,
-  "2022-08-22": 504237,
-  "2022-08-23": 504385,
-  "2022-08-24": 504531,
-  "2022-08-25": 504685,
-  "2022-08-26": 504840,
-  "2022-08-27": 505014,
-  "2022-08-28": 505158,
-  "2022-08-29": 505304,
-  "2022-08-30": 505379,
-  "2022-08-31": 505404,
-  "2022-09-01": 505408,
-  "2022-09-02": 505528,
-  "2022-09-03": 505559,
-  "2022-09-04": 505470,
-  "2022-09-05": 505469,
-  "2022-09-06": 505605,
-  "2022-09-07": 505747,
-  "2022-09-09": 506071,
-  "2022-09-10": 506265,
-  "2022-09-11": 506411,
-  "2022-09-12": 506570,
-  "2022-09-13": 506706,
-  "2022-09-15": 507008,
-  "2022-09-16": 507151,
-  "2022-09-17": 507287,
-  "2022-09-18": 507422,
-  "2022-09-19": 507550,
-  "2022-09-20": 507697,
-  "2022-09-21": 507849,
-  "2022-09-22": 508007,
-  "2022-09-23": 508158,
-  "2022-09-24": 508320,
-  "2022-09-25": 508476,
-  "2022-09-26": 508612,
-  "2022-09-27": 508790,
-  "2022-09-28": 508936,
-  "2022-09-29": 509099,
-  "2022-09-30": 509266,
-  "2022-10-01": 509435,
-  "2022-10-02": 509597,
-  "2022-10-03": 509730,
-  "2022-10-04": 509904,
-  "2022-10-05": 510056,
-  "2022-10-06": 510190,
-  "2022-10-07": 510367,
-  "2022-10-08": 510550,
-  "2022-10-09": 510811,
-  "2022-10-10": 510859,
-  "2022-10-11": 510991,
-  "2022-10-12": 511178,
-  "2022-10-13": 511347,
-  "2022-10-14": 511536,
-  "2022-10-15": 511691,
-  "2022-10-16": 511861,
-  "2022-10-17": 512028,
-  "2022-10-18": 512201,
-  "2022-10-19": 512342,
-  "2022-10-20": 512507,
-  "2022-10-21": 512699,
-  "2022-10-22": 512884,
-  "2022-10-23": 513062,
-  "2022-10-24": 513207,
-  "2022-10-25": 513353,
-  "2022-10-26": 513530,
-  "2022-10-27": 513693,
-  "2022-10-28": 513859,
-  "2022-10-29": 514007,
-  "2022-10-30": 514142,
-  "2022-10-31": 514299,
-  "2022-11-01": 514450,
-  "2022-11-02": 514605,
-  "2022-11-03": 514774,
-  "2022-11-04": 514966,
-  "2022-11-05": 515128,
-  "2022-11-06": 515294,
-  "2022-11-07": 515420,
-  "2022-11-08": 515587,
-  "2022-11-09": 515763,
-  "2022-11-10": 515913,
-  "2022-11-11": 516080,
-  "2022-11-12": 516246,
-  "2022-11-13": 516397,
-  "2022-11-14": 516542,
-  "2022-11-15": 516700,
-  "2022-11-16": 516882,
-  "2022-11-17": 517059,
-  "2022-11-18": 517097,
-  "2022-11-19": 517049,
-  "2022-11-20": 517120,
-  "2022-11-21": 517270,
-  "2022-11-22": 517625,
-  "2022-11-23": 517562,
-  "2022-11-24": 517854,
-  "2022-11-25": 518197,
-  "2022-11-26": 518429,
-  "2022-11-27": 518616,
-  "2022-11-28": 518754,
-  "2022-11-29": 518904,
-  "2022-11-30": 519067,
-  "2022-12-01": 519263,
-  "2022-12-02": 519586,
-  "2022-12-03": 519714,
-  "2022-12-04": 520036,
-  "2022-12-05": 520294,
-  "2022-12-06": 520544,
-  "2022-12-07": 520765,
-  "2022-12-08": 520990,
-  "2022-12-09": 521207,
-  "2022-12-10": 521412,
-  "2022-12-11": 521614,
-  "2022-12-12": 521775,
-  "2022-12-13": 521965,
-  "2022-12-14": 522170,
-  "2022-12-15": 522331,
-  "2022-12-16": 522542,
-  "2022-12-17": 522733,
-  "2022-12-18": 522942,
-  "2022-12-19": 523103,
-  "2022-12-20": 523534,
-  "2022-12-21": 523534,
-  "2022-12-22": 523756,
-  "2022-12-24": 524209,
-  "2022-12-25": 524409,
-  "2022-12-26": 524561,
-  "2022-12-27": 524733,
-  "2022-12-28": 524906,
-  "2022-12-29": 525104,
-  "2022-12-30": 525319,
-  "2022-12-31": 525566,
-  "2023-01-01": 525794,
-  "2023-01-02": 525948,
-  "2023-01-03": 526202,
-  "2023-01-04": 526430,
-  "2023-01-05": 526627,
-  "2023-01-06": 526908,
-  "2023-01-07": 527249,
-  "2023-01-08": 527326,
-  "2023-01-09": 527566,
-  "2023-01-10": 527812,
-  "2023-01-11": 528036,
-  "2023-01-12": 528325,
-  "2023-01-13": 528528,
-  "2023-01-14": 528934,
-  "2023-01-15": 528992,
-  "2023-01-16": 529159,
-  "2023-01-17": 529404,
-  "2023-01-18": 529629,
-  "2023-01-19": 529868,
-  "2023-01-20": 530135,
-  "2023-01-21": 530338,
-  "2023-01-22": 530574,
-  "2023-01-23": 530797,
-  "2023-01-24": 531053,
-  "2023-01-25": 531308,
-  "2023-01-26": 531504,
-  "2023-01-27": 531727,
-  "2023-01-28": 531972,
-  "2023-01-29": 532185,
-  "2023-01-30": 532370,
-  "2023-01-31": 532370,
-  "2023-02-01": 532792,
-  "2023-02-02": 532972,
-  "2023-02-03": 533213,
-  "2023-02-04": 533452,
-  "2023-02-05": 533657,
-  "2023-02-06": 533864,
-  "2023-02-07": 534111,
-  "2023-02-08": 534601,
-  "2023-02-09": 534601,
-  "2023-02-10": 534886,
-  "2023-02-11": 535098,
-  "2023-02-12": 535497,
-  "2023-02-13": 535701,
-  "2023-02-14": 535701,
-  "2023-02-15": 535931,
-  "2023-02-16": 536128,
-  "2023-02-17": 536360,
-  "2023-02-18": 536888,
-  "2023-02-19": 536936,
-  "2023-02-20": 537140,
-  "2023-02-21": 537360,
-  "2023-02-22": 537615,
-  "2023-02-23": 537859,
-  "2023-02-24": 538120,
-  "2023-02-25": 538453,
-  "2023-02-26": 538615,
-  "2023-02-27": 538999,
-  "2023-02-28": 538999,
-  "2023-03-01": 539236,
-  "2023-03-02": 539466,
-  "2023-03-03": 539736,
-  "2023-03-04": 539964,
-  "2023-03-05": 540342,
-  "2023-03-06": 540342,
-  "2023-03-07": 540574,
-  "2023-03-08": 540799,
-  "2023-03-09": 541056,
-  "2023-03-10": 541277,
-  "2023-03-11": 541553,
-  "2023-03-12": 541757,
-  "2023-03-13": 541990,
-  "2023-03-14": 542188,
-  "2023-03-15": 542433,
-  "2023-03-16": 542652,
-  "2023-03-17": 542652,
-  "2023-03-18": 543086,
-  "2023-03-19": 543300,
-  "2023-03-20": 543536,
-  "2023-03-21": 543736,
-  "2023-03-22": 543950,
-  "2023-03-23": 544180,
-  "2023-03-24": 544180,
-  "2023-03-25": 544568,
-  "2023-03-26": 544802,
-  "2023-03-27": 545020,
-  "2023-03-28": 545218,
-  "2023-03-29": 545453,
-  "2023-03-30": 545893,
-  "2023-03-31": 545893,
-  "2023-04-01": 546126,
-  "2023-04-02": 546343,
-  "2023-04-03": 546564,
-  "2023-04-04": 546801,
-  "2023-04-05": 547047,
-  "2023-04-06": 547317,
-  "2023-04-07": 547555,
-  "2023-04-09": 547983,
-  "2023-04-10": 548183,
-  "2023-04-11": 548634,
-  "2023-04-12": 548634,
-  "2023-04-13": 548881,
-  "2023-04-14": 549135,
-  "2023-04-15": 549432,
-  "2023-04-16": 549678,
-  "2023-04-17": 549895,
-  "2023-04-18": 550184,
-  "2023-04-19": 550460,
-  "2023-04-20": 550772,
-  "2023-04-21": 551064,
-  "2023-04-22": 551367,
-  "2023-04-23": 551657,
-  "2023-04-24": 551925,
-  "2023-04-25": 552219,
-  "2023-04-26": 552570,
-  "2023-04-27": 552880,
-  "2023-04-28": 553192,
-  "2023-04-29": 553527,
-  "2023-04-30": 553855,
-  "2023-05-01": 554096,
-  "2023-05-02": 554365,
-  "2023-05-03": 554626,
-  "2023-05-04": 554852,
-  "2023-05-05": 555095,
-  "2023-05-06": 555342,
-  "2023-05-07": 555616,
-  "2023-05-08": 555839,
-  "2023-05-09": 556062,
-  "2023-05-10": 556305,
-  "2023-05-11": 556592,
-  "2023-05-12": 556859,
-  "2023-05-13": 557122,
-  "2023-05-14": 557358,
-  "2023-05-15": 557585,
-  "2023-05-16": 557804,
-  "2023-05-17": 558031,
-  "2023-05-18": 558298,
-  "2023-05-19": 558511,
-  "2023-05-20": 559069,
-  "2023-05-21": 559069,
-  "2023-05-22": 559069,
-  "2023-05-23": 559565,
-  "2023-05-24": 560012,
-  "2023-05-25": 560091,
-  "2023-05-26": 560379,
-  "2023-05-27": 560608,
-  "2023-05-28": 560855,
-  "2023-05-29": 560855,
-  "2023-05-30": 561324,
-  "2023-05-31": 561530,
-  "2023-06-01": 561790,
-  "2023-06-02": 562063,
-  "2023-06-03": 562300,
-  "2023-06-04": 562550,
-  "2023-06-05": 562757,
-  "2023-06-06": 563021,
-  "2023-06-07": 563276,
-  "2023-06-08": 563566,
-  "2023-06-09": 563908,
-  "2023-06-10": 564247,
-  "2023-06-11": 564575,
-  "2023-06-12": 564909,
-  "2023-06-13": 565261,
-  "2023-06-14": 565261,
-  "2023-06-15": 565670,
-  "2023-06-16": 113609,
-  "2023-06-17": 113609,
-  "2023-06-18": 113609,
-  "2023-06-19": 113609,
-  "2023-06-20": 113609,
-  "2023-06-21": 113609,
-  "2023-06-22": 113609,
-  "2023-06-23": 113609,
-  "2023-06-24": 113609,
-  "2023-06-25": 113609,
-  "2023-06-26": 113609,
-  "2023-06-27": 113609,
-  "2023-06-28": 113609,
-  "2023-06-29": 113609,
-  "2023-06-30": 113609,
-  "2023-07-01": 113609,
-  "2023-07-02": 113609,
-  "2023-07-03": 113609,
-  "2023-07-04": 113609,
-  "2023-07-05": 113609,
-  "2023-07-06": 113609,
-  "2023-07-07": 113609,
-  "2023-07-08": 113609,
-  "2023-07-09": 113609,
-  "2023-07-10": 113609,
-  "2023-07-11": 113609,
-  "2023-07-12": 113609,
-  "2023-07-13": 113609,
-  "2023-07-14": 113609,
-  "2023-07-15": 113609,
-  "2023-07-16": 113609,
-  "2023-07-17": 113609,
-  "2023-07-18": 113609,
-  "2023-07-19": 113609,
-  "2023-07-20": 113609,
-  "2023-07-21": 113609,
-  "2023-07-22": 113609,
-  "2023-07-23": 113609,
-  "2023-07-24": 113609,
-  "2023-07-25": 113609,
-  "2023-07-26": 113609,
-  "2023-07-27": 113609,
-  "2023-07-28": 113609,
-  "2023-07-29": 113609,
-  "2023-07-30": 113609,
-  "2023-07-31": 113609,
-  "2023-08-01": 113609,
-  "2023-08-02": 113609,
-  "2023-08-03": 113609,
-  "2023-08-04": 113609,
-  "2023-08-05": 113609,
-  "2023-08-06": 113609,
-  "2023-08-07": 113609,
-  "2023-08-08": 113609,
-  "2023-08-09": 113609,
-  "2023-08-10": 113609,
-  "2023-08-11": 113609,
-  "2023-08-12": 113609,
-  "2023-08-13": 113609,
-  "2023-08-14": 113609,
-  "2023-08-15": 113609,
-  "2023-08-16": 113609,
-  "2023-08-17": 113609,
-  "2023-08-18": 113609,
-  "2023-08-19": 113609,
-  "2023-08-20": 113609,
-  "2023-08-21": 113609,
-  "2023-08-22": 113609,
-  "2023-08-23": 113609,
-  "2023-08-24": 113609,
-  "2023-08-25": 113609,
-  "2023-08-26": 113609,
-  "2023-08-27": 113609,
-  "2023-08-28": 113609,
-  "2023-08-29": 113609,
-  "2023-08-30": 113609,
-  "2023-08-31": 113609,
-  "2023-09-01": 113609,
-  "2023-09-02": 113609,
-  "2023-09-03": 113609,
-  "2023-09-04": 113609,
-  "2023-09-05": 113609,
-  "2023-09-06": 113609,
-  "2023-09-07": 113609,
-  "2023-09-08": 113609,
-  "2023-09-09": 113609,
-  "2023-09-10": 113609,
-  "2023-09-11": 113609,
-  "2023-09-12": 113609,
-  "2023-09-13": 113609,
-  "2023-09-14": 113609,
-  "2023-09-15": 113609,
-  "2023-09-16": 113609,
-  "2023-09-17": 113609,
-  "2023-09-18": 113609,
-  "2023-09-19": 113609,
-  "2023-09-20": 113609,
-  "2023-09-21": 113609,
-  "2023-09-22": 113609,
-  "2023-09-23": 113609,
-  "2023-09-24": 113609,
-  "2023-09-25": 113609,
-  "2023-09-26": 113609,
-  "2023-09-27": 113609,
-  "2023-09-28": 113609,
-  "2023-09-29": 113609,
-  "2023-09-30": 113609,
-  "2023-10-01": 113609,
-  "2023-10-02": 113609,
-  "2023-10-03": 113609,
-  "2023-10-04": 113609,
-  "2023-10-05": 113609,
-  "2023-10-06": 113609,
-  "2023-10-07": 113609,
-  "2023-10-08": 113609,
-  "2023-10-09": 113609,
-  "2023-10-10": 113609,
-  "2023-10-11": 113609,
-  "2023-10-12": 113609,
-  "2023-10-13": 113609,
-  "2023-10-14": 113609,
-  "2023-10-15": 113609,
-  "2023-10-16": 113609,
-  "2023-10-17": 113609,
-  "2023-10-18": 113609,
-  "2023-10-19": 113609,
-  "2023-10-20": 113609,
-  "2023-10-21": 113609,
-  "2023-10-22": 113609,
-  "2023-10-23": 113609,
-  "2023-10-24": 113609,
-  "2023-10-25": 113609,
-  "2023-10-26": 113609,
-  "2023-10-27": 113609,
-  "2023-10-28": 113609,
-  "2023-10-29": 113609,
-  "2023-10-30": 113609,
-  "2023-10-31": 113609,
-  "2023-11-01": 113609,
-  "2023-11-02": 113609,
-  "2023-11-03": 113609,
-  "2023-11-04": 113609,
-  "2023-11-05": 113609,
-  "2023-11-06": 113609,
-  "2023-11-07": 113609,
-  "2023-11-08": 113609,
-  "2023-11-09": 113609,
-  "2023-11-10": 113609,
-  "2023-11-11": 113609,
-  "2023-11-12": 113609,
-  "2023-11-13": 113609,
-  "2023-11-14": 113609,
-  "2023-11-15": 113609,
-  "2023-11-16": 113609,
-  "2023-11-17": 113609,
-  "2023-11-18": 113609,
-  "2023-11-19": 113609,
-  "2023-11-20": 113609,
-  "2023-11-21": 113609,
-  "2023-11-22": 113609,
-  "2023-11-23": 113609,
-  "2023-11-24": 113609,
-  "2023-11-25": 113609,
-  "2023-11-26": 113609,
-  "2023-11-27": 113609,
-  "2023-11-28": 113609,
-  "2023-11-29": 113609,
-  "2023-11-30": 113609,
-  "2023-12-01": 113609,
-  "2023-12-02": 113609,
-  "2023-12-03": 113609,
-  "2023-12-04": 113609,
-  "2023-12-05": 113609,
-  "2023-12-06": 113609,
-  "2023-12-07": 113609,
-  "2023-12-08": 113609,
-  "2023-12-09": 113609,
-  "2023-12-10": 113609,
-  "2023-12-11": 113609,
-  "2023-12-12": 113609,
-  "2023-12-13": 113609,
-  "2023-12-14": 113609,
-  "2023-12-15": 113609,
-  "2023-12-16": 113609,
-  "2023-12-17": 113609,
-  "2023-12-18": 113609,
-  "2023-12-19": 113609,
-  "2023-12-20": 113609,
-  "2023-12-21": 113609,
-  "2023-12-22": 113609,
-  "2023-12-23": 113609,
-  "2023-12-24": 113609,
-  "2023-12-25": 113609,
-  "2023-12-26": 113609,
-  "2023-12-27": 113609,
-  "2023-12-30": 113609,
-  "2023-12-31": 113609,
-  "2024-01-01": 113609,
-  "2024-01-02": 113609,
-  "2024-01-03": 113609
+  "2024-01-17": 113609,
+  "date_first_scraped": "2021-12-21",
+  "description": "The Atlanta-born <a href=\"spotify:artist:1RyvyyTE3xzB2ZywiAwp0i\">rapper</a>'s dopest songs plus his latest bangers.",
+  "name": "This Is Future",
+  "tracks": [
+    {
+      "album": {
+        "name": "Astronaut Status",
+        "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 158933,
+      "name": "(Bonus) Itchin",
+      "url": "https://open.spotify.com/track/53CUl8RvJqbBPm31SiSg7Q"
+    },
+    {
+      "album": {
+        "name": "Project E.T.",
+        "url": "https://open.spotify.com/album/3C3RvTGChyw9k6A2uaa2B3"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 265038,
+      "name": "100it Racks",
+      "url": "https://open.spotify.com/track/1XWcdNQvGrX32fH09CwuWI"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146986,
+      "name": "200",
+      "url": "https://open.spotify.com/track/5b06JZjts6dgyyuY1m7roq"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187748,
+      "name": "4 da Gang",
+      "url": "https://open.spotify.com/track/3IJ6BBFLD2I2CH3hHFQj3O"
+    },
+    {
+      "album": {
+        "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
+        "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192906,
+      "name": "7 Am Freestyle",
+      "url": "https://open.spotify.com/track/1hHe7cirScEJWgAS0JFqTL"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "all good (feat. Future)",
+      "url": "https://open.spotify.com/track/4tEArA9SQlyNrBHpjNZAWM"
+    },
+    {
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194240,
+      "name": "Blow a Bag",
+      "url": "https://open.spotify.com/track/6ycYqFnXnjMOwMvEMbEpUk"
+    },
+    {
+      "album": {
+        "name": "Campaign",
+        "url": "https://open.spotify.com/album/7bSsdgWDh5VRI3ZVOXQEj4"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237654,
+      "name": "Campaign (feat. Future)",
+      "url": "https://open.spotify.com/track/6JvHYmanlC8FdbeiCztcrR"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "CHICKENS (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 166466,
+      "name": "Cruise Ship",
+      "url": "https://open.spotify.com/track/3C4FUqrrjuvWoHwsumWfIu"
+    },
+    {
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149948,
+      "name": "Crushed Up",
+      "url": "https://open.spotify.com/track/7wcyO1rrH3Ru4t659IjG41"
+    },
+    {
+      "album": {
+        "name": "Crushed Up",
+        "url": "https://open.spotify.com/album/0l0F5iYVp3gnUOyIQuW82b"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 150323,
+      "name": "Crushed Up",
+      "url": "https://open.spotify.com/track/7AYuSG1LoaaFVKjOxsB6Vh"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199840,
+      "name": "Drip on Me",
+      "url": "https://open.spotify.com/track/2ya9d4B06EQ8Fpj5SSqiTH"
+    },
+    {
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246173,
+      "name": "Extra Luv (feat. YG)",
+      "url": "https://open.spotify.com/track/1tlBuoIRrtqFs9bE9dmli5"
+    },
+    {
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189427,
+      "name": "F&N",
+      "url": "https://open.spotify.com/track/5YP6yKgGGsXKukqxXypVAf"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "Feed Me Dope",
+      "url": "https://open.spotify.com/track/3lyeSiAIdLoZUHhV8psOTI"
+    },
+    {
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2019-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228366,
+      "name": "First Off (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3WRIaWsws011vHMd9uzPjG"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207933,
+      "name": "FOR A NUT (feat. Gunna & Young Thug)",
+      "url": "https://open.spotify.com/track/7HCX1Ch3mklJyEdpwPZBFW"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220426,
+      "name": "Grammys",
+      "url": "https://open.spotify.com/track/5e574bhjycX1eH2l4Auage"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 242053,
+      "name": "Group Home",
+      "url": "https://open.spotify.com/track/3kciYQvHGFkQYaZd0m1Pbc"
+    },
+    {
+      "album": {
+        "name": "Hold That Heat (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Hold That Heat (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
+    },
+    {
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "I Serve the Base",
+      "url": "https://open.spotify.com/track/1Rq4GtIucW9CAcF8B6PAbW"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271840,
+      "name": "I'M DAT N****",
+      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236186,
+      "name": "I'M ON ONE (feat. Drake)",
+      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
+    },
+    {
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261751,
+      "name": "I'm so Groovy",
+      "url": "https://open.spotify.com/track/2Nfd2ITp4WkI1aoZlYpZwg"
+    },
+    {
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 261751,
+      "name": "I'm so Groovy",
+      "url": "https://open.spotify.com/track/4lozYCMRLtEc46exlhoK2Q"
+    },
+    {
+      "album": {
+        "name": "HNDRXX",
+        "url": "https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248049,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/2qwn6whaZf7gax7SaqUZSC"
+    },
+    {
+      "album": {
+        "name": "HNDRXX",
+        "url": "https://open.spotify.com/album/1P8NvRvykmDrKyfglMerMv"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248049,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/3IJPE9ICRq5PxVZxdv1sEv"
+    },
+    {
+      "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205879,
+      "name": "Jumpman",
+      "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207213,
+      "name": "KEEP IT BURNIN (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/7rWCWzPRftzZTZtIyQtaDU"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-31",
+      "duration_ms": 220706,
+      "name": "Killed Before",
+      "url": "https://open.spotify.com/track/0jPLBur1qXRfj3pbuJSX03"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132986,
+      "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "url": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV"
+    },
+    {
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313546,
+      "name": "Low Life (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
+    },
+    {
+      "album": {
+        "name": "56 Nights",
+        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244511,
+      "name": "March Madness",
+      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
+    },
+    {
+      "album": {
+        "name": "March Madness",
+        "url": "https://open.spotify.com/album/17jrvK2s43hnAYpays9tyb"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244613,
+      "name": "March Madness",
+      "url": "https://open.spotify.com/track/6hVGw7yVUd2bpdHMPCWrtN"
+    },
+    {
+      "album": {
+        "name": "Project E.T.",
+        "url": "https://open.spotify.com/album/3C3RvTGChyw9k6A2uaa2B3"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130037,
+      "name": "Married To The Game",
+      "url": "https://open.spotify.com/track/4Kup1kDTLoJaUMgpGFPqau"
+    },
+    {
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+    },
+    {
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 178786,
+      "name": "Mink Flow",
+      "url": "https://open.spotify.com/track/1KF7iLK6wK3hjjtqxjRiym"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273577,
+      "name": "N 2 Deep",
+      "url": "https://open.spotify.com/track/34D6FJysnQioVingDKufuf"
+    },
+    {
+      "album": {
+        "name": "Pluto",
+        "url": "https://open.spotify.com/album/6vmsGTuTYTo5GDHkosmq2E"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262306,
+      "name": "Neva End",
+      "url": "https://open.spotify.com/track/4sX8e5VkqBWA7IIooImSsS"
+    },
+    {
+      "album": {
+        "name": "New Level REMIX (feat. Future, A$AP Rocky & Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/3c5lXufvveeuYbYnTNZxNl"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251194,
+      "name": "New Level REMIX (feat. Future, A$AP Rocky & Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/36evXa8bNvfBYNzePEWhG1"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 144142,
+      "name": "No Cap",
+      "url": "https://open.spotify.com/track/06Gyf2pFDVmN5K8XAawG96"
+    },
+    {
+      "album": {
+        "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
+        "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "Oxy (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/0nWMTq3fBceV1uZlhFn6of"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 189480,
+      "name": "Patek Water (feat. Offset)",
+      "url": "https://open.spotify.com/track/7r6LNJT2LqpLpEyZQJPygt"
+    },
+    {
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 172040,
+      "name": "Photo Copied",
+      "url": "https://open.spotify.com/track/4Fi7fihVNkHPfBZ7KeSXVH"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "PUFFIN ON ZOOTIEZ",
+      "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242346,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1OwNWr75pNTyhifOTT0uIG"
+    },
+    {
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "Real Sisters",
+      "url": "https://open.spotify.com/track/5GhJq5J9ZWIEDZdyw7EWzt"
+    },
+    {
+      "album": {
+        "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
+        "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 207866,
+      "name": "Red Bentley (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3fFBZvG777xoKyvcrBq7lc"
+    },
+    {
+      "album": {
+        "name": "Beautiful Thugger Girls",
+        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215306,
+      "name": "Relationship (feat. Future)",
+      "url": "https://open.spotify.com/track/25oOaleife6E2MIKmFkPvg"
+    },
+    {
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265366,
+      "name": "Rent Money",
+      "url": "https://open.spotify.com/track/4Zxdw0Hno7YDu0IzvY76Qo"
+    },
+    {
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265366,
+      "name": "Rent Money",
+      "url": "https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc"
+    },
+    {
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240160,
+      "name": "Rich $ex",
+      "url": "https://open.spotify.com/track/2onCHFrhTinyUc6OawwU4Z"
+    },
+    {
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116846,
+      "name": "Rocket Ship",
+      "url": "https://open.spotify.com/track/4HfaOznGhHYWqPtpLYz2PB"
+    },
+    {
+      "album": {
+        "name": "Roses Remix (feat. Future)",
+        "url": "https://open.spotify.com/album/1yhDNVAm4gq1TuYdSbpEar"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2020-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 187897,
+      "name": "Roses Remix (feat. Future)",
+      "url": "https://open.spotify.com/track/1KyZ4rUiW2lkqGNLQYKpcC"
+    },
+    {
+      "album": {
+        "name": "The Perfect LUV Tape",
+        "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182491,
+      "name": "Seven Million (feat. Future)",
+      "url": "https://open.spotify.com/track/6j0teRL3WdExzqmy334sh5"
+    },
+    {
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289786,
+      "name": "Sh!t",
+      "url": "https://open.spotify.com/track/0pT1DW5RUHelpBMyEgWwaU"
+    },
+    {
+      "album": {
+        "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
+        "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/5ExHDzOoOhC4xZGPh9zyQZ"
+    },
+    {
+      "album": {
+        "name": "HNDRXX",
+        "url": "https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265996,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4lH6nENd1y81jp7Yt9lTBX"
+    },
+    {
+      "album": {
+        "name": "HNDRXX",
+        "url": "https://open.spotify.com/album/1P8NvRvykmDrKyfglMerMv"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265996,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/73grS4MZ4rHwa7CJOihO73"
+    },
+    {
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-03",
+      "duration_ms": 132165,
+      "name": "Talk Shit Like a Preacher",
+      "url": "https://open.spotify.com/track/2aR4gdgyCgacqHGqUZ91YS"
+    },
+    {
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265213,
+      "name": "Thought It Was a Drought",
+      "url": "https://open.spotify.com/track/5ihDGnhQgMA0F0tk9fNLlA"
+    },
+    {
+      "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 159400,
+      "name": "Three",
+      "url": "https://open.spotify.com/track/4W598w0KcHVG5Nwqk0qMpj"
+    },
+    {
+      "album": {
+        "name": "Too Much Sauce (feat. Future & Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/1pwl3JoaTkC10tQkodV4CN"
+      },
+      "artists": [
+        {
+          "name": "DJ ESCO",
+          "url": "https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223093,
+      "name": "Too Much Sauce (feat. Future & Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5oyUurs28XRagLa8lgm6V3"
+    },
+    {
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Trap Niggas",
+      "url": "https://open.spotify.com/track/6elNeXUhiuHPD9hH5rocQi"
+    },
+    {
+      "album": {
+        "name": "High Off Life",
+        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2020-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167551,
+      "name": "Trillionaire (feat. Youngboy Never Broke Again)",
+      "url": "https://open.spotify.com/track/740kQ8xwSGloumdiKR5Cwz"
+    },
+    {
+      "album": {
+        "name": "Used to This (feat. Drake)",
+        "url": "https://open.spotify.com/album/0BR3ra3Bqf6ZBJbD8t4tIu"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Used to This (feat. Drake)",
+      "url": "https://open.spotify.com/track/3V8sM5OOG6YfDuDLa2IIYJ"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2019-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "Xanny Family",
+      "url": "https://open.spotify.com/track/0BzDQgmeRdA4V71VhfBvXT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVstK6FYh8Nw"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 731 songs - 2 day 8 hr 40 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 738 songs - 2 day 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -739,5 +739,12 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 729 | [C'est la ouate \- Radio Edit Original Version 1987](https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 3:48 |
 | 730 | [Campesina](https://open.spotify.com/track/2Fv8NLIkcVmYpegH90BcO4) | [Frank Harris](https://open.spotify.com/artist/4OFxfuBQMZXt0C0zdaKL3n), [Maria Marquez](https://open.spotify.com/artist/3zOkRbObx7ELfEpCzc8geE) | [Echoes](https://open.spotify.com/album/1ezmRzKDbp5Mkbo4YDlUJ5) | 3:48 |
 | 731 | [Camino Del Sol](https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q) | [Antena](https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc) | [Camino Del Sol](https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1) | 3:42 |
+| 732 | [Win Terram](https://open.spotify.com/track/21SdDged8mWRNvDnwPzxH1) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 4:07 |
+| 733 | [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 |
+| 734 | [Não Me Deixe Só](https://open.spotify.com/track/2ukW9zOr51AYeLSmCtTVqW) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vanessa da Mata](https://open.spotify.com/album/0nJlVbn9dl3amtTFETNX8j) | 3:09 |
+| 735 | [Gyae Su](https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC) | 4:12 |
+| 736 | [Tango Hustle](https://open.spotify.com/track/1qTQ7D2jxQKcPU3mbAUJQ0) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Kilowatt \(Expanded Version\)](https://open.spotify.com/album/0IZJ170J6qqNHDTgZ44Goa) | 4:29 |
+| 737 | [Habbanera](https://open.spotify.com/track/0OmFRQr31vUvAIDd1Hjg3v) | [James Senese](https://open.spotify.com/artist/1X8A68bKIKdFWmOWYs3Fch) | [James Senese \(Remastered\)](https://open.spotify.com/album/2jNgtUUP3XeF9YkiRHOvmL) | 3:53 |
+| 738 | [Va' Fanculo Con Chi Vuo' Tu](https://open.spotify.com/track/5jPIT1lfFqDX4jH9WxCr0M) | [Squallor](https://open.spotify.com/artist/3GugYoehnJyYjrWcOSZkUO) | [Squallor](https://open.spotify.com/album/7kOyOuz45JgKVaBSrzTiHx) | 3:43 |
 
-Snapshot ID: `ODIzLGViYTIwOWZiMmZhOTdmYjg4NmVhZGU2MTM2M2E2ZTUyYTQzYzY2ZWE=`
+Snapshot ID: `ODMwLGI5MDJkODg1YWJkYzQyOGIzY2U1MTEzOTNkNjk0YWZhMGMxY2Y2MDU=`

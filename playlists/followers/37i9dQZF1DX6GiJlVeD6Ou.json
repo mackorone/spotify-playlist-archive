@@ -1,735 +1,857 @@
 {
-  "2021-12-25": 106255,
-  "2021-12-26": 106286,
-  "2021-12-27": 106360,
-  "2021-12-28": 106360,
-  "2021-12-29": 106411,
-  "2021-12-30": 106436,
-  "2021-12-31": 106482,
-  "2022-01-01": 106587,
-  "2022-01-02": 106615,
-  "2022-01-03": 106669,
-  "2022-01-04": 106880,
-  "2022-01-05": 106937,
-  "2022-01-06": 106986,
-  "2022-01-07": 107020,
-  "2022-01-08": 107106,
-  "2022-01-09": 107109,
-  "2022-01-10": 107186,
-  "2022-01-11": 107186,
-  "2022-01-12": 107254,
-  "2022-01-13": 107254,
-  "2022-01-14": 107254,
-  "2022-01-15": 107254,
-  "2022-01-16": 107254,
-  "2022-01-17": 107254,
-  "2022-01-18": 107254,
-  "2022-01-19": 107254,
-  "2022-01-20": 107254,
-  "2022-01-21": 107254,
-  "2022-01-22": 107254,
-  "2022-01-23": 107254,
-  "2022-01-24": 107254,
-  "2022-01-25": 107254,
-  "2022-01-26": 107254,
-  "2022-01-27": 107254,
-  "2022-01-28": 107254,
-  "2022-01-29": 107254,
-  "2022-01-30": 107254,
-  "2022-01-31": 107254,
-  "2022-02-01": 107254,
-  "2022-02-02": 107254,
-  "2022-02-03": 107254,
-  "2022-02-04": 107254,
-  "2022-02-05": 107254,
-  "2022-02-06": 107254,
-  "2022-02-07": 107254,
-  "2022-02-08": 107254,
-  "2022-02-09": 107254,
-  "2022-02-10": 107254,
-  "2022-02-11": 107254,
-  "2022-02-12": 107254,
-  "2022-02-13": 107254,
-  "2022-02-14": 107254,
-  "2022-02-15": 107254,
-  "2022-02-16": 107254,
-  "2022-02-17": 107254,
-  "2022-02-18": 107254,
-  "2022-02-19": 107254,
-  "2022-02-20": 107254,
-  "2022-02-21": 107254,
-  "2022-02-22": 107254,
-  "2022-02-23": 107254,
-  "2022-02-24": 107254,
-  "2022-02-25": 107254,
-  "2022-02-26": 107254,
-  "2022-02-27": 107254,
-  "2022-02-28": 107254,
-  "2022-03-01": 107254,
-  "2022-03-02": 107254,
-  "2022-03-03": 107254,
-  "2022-03-04": 107254,
-  "2022-03-05": 107254,
-  "2022-03-06": 107254,
-  "2022-03-07": 107254,
-  "2022-03-08": 107254,
-  "2022-03-09": 107254,
-  "2022-03-10": 107254,
-  "2022-03-11": 107254,
-  "2022-03-12": 107254,
-  "2022-03-13": 107254,
-  "2022-03-14": 107254,
-  "2022-03-15": 107254,
-  "2022-03-16": 107254,
-  "2022-03-17": 107254,
-  "2022-03-18": 107254,
-  "2022-03-19": 107254,
-  "2022-03-20": 107254,
-  "2022-03-21": 107254,
-  "2022-03-22": 107254,
-  "2022-03-23": 107254,
-  "2022-03-24": 107254,
-  "2022-03-25": 107254,
-  "2022-03-26": 107254,
-  "2022-03-27": 107254,
-  "2022-03-28": 107254,
-  "2022-03-30": 107254,
-  "2022-03-31": 107254,
-  "2022-04-01": 107254,
-  "2022-04-02": 107254,
-  "2022-04-03": 107254,
-  "2022-04-04": 107254,
-  "2022-04-05": 107254,
-  "2022-04-06": 107254,
-  "2022-04-07": 107254,
-  "2022-04-08": 107254,
-  "2022-04-09": 107254,
-  "2022-04-10": 107254,
-  "2022-04-11": 107254,
-  "2022-04-12": 107254,
-  "2022-04-13": 107254,
-  "2022-04-14": 107254,
-  "2022-04-15": 107254,
-  "2022-04-16": 107254,
-  "2022-04-17": 107254,
-  "2022-04-18": 107254,
-  "2022-04-19": 107254,
-  "2022-04-20": 107254,
-  "2022-04-21": 107254,
-  "2022-04-22": 107254,
-  "2022-04-23": 107254,
-  "2022-04-24": 107254,
-  "2022-04-25": 107254,
-  "2022-04-26": 107254,
-  "2022-04-27": 107254,
-  "2022-04-28": 107254,
-  "2022-04-29": 107254,
-  "2022-04-30": 107254,
-  "2022-05-01": 107254,
-  "2022-05-02": 107254,
-  "2022-05-03": 107254,
-  "2022-05-04": 107254,
-  "2022-05-05": 107254,
-  "2022-05-06": 107254,
-  "2022-05-07": 107254,
-  "2022-05-08": 107254,
-  "2022-05-09": 107254,
-  "2022-05-10": 107254,
-  "2022-05-11": 107254,
-  "2022-05-12": 107254,
-  "2022-05-13": 107254,
-  "2022-05-14": 107254,
-  "2022-05-15": 107254,
-  "2022-05-16": 107254,
-  "2022-05-17": 107254,
-  "2022-05-18": 107254,
-  "2022-05-19": 107254,
-  "2022-05-20": 107254,
-  "2022-05-21": 107254,
-  "2022-05-22": 107254,
-  "2022-05-23": 107254,
-  "2022-05-24": 107254,
-  "2022-05-25": 107254,
-  "2022-05-26": 107254,
-  "2022-05-27": 107254,
-  "2022-05-28": 107254,
-  "2022-05-29": 107254,
-  "2022-05-30": 107254,
-  "2022-05-31": 107254,
-  "2022-06-01": 107254,
-  "2022-06-02": 107254,
-  "2022-06-03": 107254,
-  "2022-06-04": 107254,
-  "2022-06-05": 107254,
-  "2022-06-06": 107254,
-  "2022-06-07": 107254,
-  "2022-06-08": 107254,
-  "2022-06-09": 107254,
-  "2022-06-10": 107254,
-  "2022-06-11": 107254,
-  "2022-06-12": 107254,
-  "2022-06-13": 107254,
-  "2022-06-14": 107254,
-  "2022-06-15": 107254,
-  "2022-06-16": 107254,
-  "2022-06-17": 107254,
-  "2022-06-18": 107254,
-  "2022-06-19": 107254,
-  "2022-06-20": 107254,
-  "2022-06-21": 107254,
-  "2022-06-22": 107254,
-  "2022-06-23": 107254,
-  "2022-06-24": 107254,
-  "2022-06-25": 107254,
-  "2022-06-26": 107254,
-  "2022-06-27": 107254,
-  "2022-06-28": 107254,
-  "2022-06-29": 107254,
-  "2022-06-30": 107254,
-  "2022-07-01": 107254,
-  "2022-07-02": 107254,
-  "2022-07-03": 107254,
-  "2022-07-04": 107254,
-  "2022-07-05": 107254,
-  "2022-07-06": 107254,
-  "2022-07-07": 107254,
-  "2022-07-08": 107254,
-  "2022-07-09": 107254,
-  "2022-07-10": 107254,
-  "2022-07-11": 107254,
-  "2022-07-12": 107254,
-  "2022-07-13": 107254,
-  "2022-07-14": 107254,
-  "2022-07-15": 107254,
-  "2022-07-16": 107254,
-  "2022-07-17": 107254,
-  "2022-07-18": 107254,
-  "2022-07-19": 107254,
-  "2022-07-20": 107254,
-  "2022-07-21": 107254,
-  "2022-07-22": 107254,
-  "2022-07-23": 107254,
-  "2022-07-24": 107254,
-  "2022-07-25": 107254,
-  "2022-07-26": 107254,
-  "2022-07-27": 107254,
-  "2022-07-28": 107254,
-  "2022-07-29": 107254,
-  "2022-07-30": 107254,
-  "2022-07-31": 107254,
-  "2022-08-01": 107254,
-  "2022-08-02": 107254,
-  "2022-08-03": 107254,
-  "2022-08-04": 107254,
-  "2022-08-05": 107254,
-  "2022-08-06": 107254,
-  "2022-08-07": 107254,
-  "2022-08-08": 107254,
-  "2022-08-09": 107254,
-  "2022-08-10": 107254,
-  "2022-08-11": 107254,
-  "2022-08-12": 107254,
-  "2022-08-13": 107254,
-  "2022-08-14": 107254,
-  "2022-08-15": 107254,
-  "2022-08-16": 107254,
-  "2022-08-17": 107254,
-  "2022-08-18": 107254,
-  "2022-08-19": 107254,
-  "2022-08-20": 107254,
-  "2022-08-21": 107254,
-  "2022-08-22": 107254,
-  "2022-08-23": 107254,
-  "2022-08-24": 107254,
-  "2022-08-25": 107254,
-  "2022-08-26": 107254,
-  "2022-08-27": 107254,
-  "2022-08-28": 107254,
-  "2022-08-29": 107254,
-  "2022-08-30": 107254,
-  "2022-08-31": 107254,
-  "2022-09-01": 107254,
-  "2022-09-02": 107254,
-  "2022-09-03": 107254,
-  "2022-09-04": 107254,
-  "2022-09-05": 107254,
-  "2022-09-06": 107254,
-  "2022-09-07": 107254,
-  "2022-09-09": 107254,
-  "2022-09-10": 107254,
-  "2022-09-11": 107254,
-  "2022-09-12": 107254,
-  "2022-09-13": 107254,
-  "2022-09-15": 107254,
-  "2022-09-16": 107254,
-  "2022-09-17": 107254,
-  "2022-09-18": 107254,
-  "2022-09-19": 107254,
-  "2022-09-20": 107254,
-  "2022-09-21": 107254,
-  "2022-09-22": 107254,
-  "2022-09-23": 107254,
-  "2022-09-24": 107254,
-  "2022-09-25": 107254,
-  "2022-09-26": 107254,
-  "2022-09-27": 107254,
-  "2022-09-28": 107254,
-  "2022-09-29": 107254,
-  "2022-09-30": 107254,
-  "2022-10-01": 107254,
-  "2022-10-02": 107254,
-  "2022-10-03": 107254,
-  "2022-10-04": 107254,
-  "2022-10-05": 107254,
-  "2022-10-06": 107254,
-  "2022-10-07": 107254,
-  "2022-10-08": 107254,
-  "2022-10-09": 107254,
-  "2022-10-10": 107254,
-  "2022-10-11": 107254,
-  "2022-10-12": 107254,
-  "2022-10-13": 107254,
-  "2022-10-14": 107254,
-  "2022-10-15": 107254,
-  "2022-10-16": 107254,
-  "2022-10-17": 107254,
-  "2022-10-18": 107254,
-  "2022-10-19": 107254,
-  "2022-10-20": 107254,
-  "2022-10-21": 107254,
-  "2022-10-22": 107254,
-  "2022-10-23": 107254,
-  "2022-10-24": 107254,
-  "2022-10-25": 107254,
-  "2022-10-26": 107254,
-  "2022-10-27": 107254,
-  "2022-10-28": 107254,
-  "2022-10-29": 107254,
-  "2022-10-30": 107254,
-  "2022-10-31": 107254,
-  "2022-11-01": 107254,
-  "2022-11-02": 107254,
-  "2022-11-03": 107254,
-  "2022-11-04": 107254,
-  "2022-11-05": 107254,
-  "2022-11-06": 107254,
-  "2022-11-07": 107254,
-  "2022-11-08": 107254,
-  "2022-11-09": 107254,
-  "2022-11-10": 107254,
-  "2022-11-11": 107254,
-  "2022-11-12": 107254,
-  "2022-11-13": 107254,
-  "2022-11-14": 107254,
-  "2022-11-15": 107254,
-  "2022-11-16": 107254,
-  "2022-11-17": 107254,
-  "2022-11-18": 107254,
-  "2022-11-19": 107254,
-  "2022-11-20": 107254,
-  "2022-11-21": 107254,
-  "2022-11-22": 107254,
-  "2022-11-23": 107254,
-  "2022-11-24": 107254,
-  "2022-11-25": 107254,
-  "2022-11-26": 107254,
-  "2022-11-27": 107254,
-  "2022-11-28": 107254,
-  "2022-11-29": 107254,
-  "2022-11-30": 107254,
-  "2022-12-01": 107254,
-  "2022-12-02": 107254,
-  "2022-12-03": 107254,
-  "2022-12-04": 107254,
-  "2022-12-05": 107254,
-  "2022-12-06": 107254,
-  "2022-12-07": 107254,
-  "2022-12-08": 107254,
-  "2022-12-09": 107254,
-  "2022-12-10": 107254,
-  "2022-12-11": 107254,
-  "2022-12-12": 107254,
-  "2022-12-13": 107254,
-  "2022-12-14": 107254,
-  "2022-12-15": 107254,
-  "2022-12-16": 107254,
-  "2022-12-17": 107254,
-  "2022-12-18": 107254,
-  "2022-12-19": 107254,
-  "2022-12-20": 107254,
-  "2022-12-21": 107254,
-  "2022-12-22": 107254,
-  "2022-12-24": 107254,
-  "2022-12-25": 107254,
-  "2022-12-26": 107254,
-  "2022-12-27": 107254,
-  "2022-12-28": 107254,
-  "2022-12-29": 107254,
-  "2022-12-30": 107254,
-  "2022-12-31": 107254,
-  "2023-01-01": 107254,
-  "2023-01-02": 107254,
-  "2023-01-03": 107254,
-  "2023-01-04": 107254,
-  "2023-01-05": 107254,
-  "2023-01-06": 107254,
-  "2023-01-07": 107254,
-  "2023-01-08": 107254,
-  "2023-01-09": 107254,
-  "2023-01-10": 107254,
-  "2023-01-11": 107254,
-  "2023-01-12": 107254,
-  "2023-01-13": 107254,
-  "2023-01-14": 107254,
-  "2023-01-15": 107254,
-  "2023-01-16": 107254,
-  "2023-01-17": 107254,
-  "2023-01-18": 107254,
-  "2023-01-19": 107254,
-  "2023-01-20": 107254,
-  "2023-01-21": 107254,
-  "2023-01-22": 107254,
-  "2023-01-23": 107254,
-  "2023-01-24": 107254,
-  "2023-01-25": 107254,
-  "2023-01-26": 107254,
-  "2023-01-27": 107254,
-  "2023-01-28": 107254,
-  "2023-01-29": 107254,
-  "2023-01-30": 107254,
-  "2023-01-31": 107254,
-  "2023-02-01": 107254,
-  "2023-02-02": 107254,
-  "2023-02-03": 107254,
-  "2023-02-04": 107254,
-  "2023-02-05": 107254,
-  "2023-02-06": 107254,
-  "2023-02-07": 107254,
-  "2023-02-08": 107254,
-  "2023-02-09": 107254,
-  "2023-02-10": 107254,
-  "2023-02-11": 107254,
-  "2023-02-12": 107254,
-  "2023-02-13": 107254,
-  "2023-02-14": 107254,
-  "2023-02-15": 107254,
-  "2023-02-16": 107254,
-  "2023-02-17": 107254,
-  "2023-02-18": 107254,
-  "2023-02-19": 107254,
-  "2023-02-20": 107254,
-  "2023-02-21": 107254,
-  "2023-02-22": 107254,
-  "2023-02-23": 107254,
-  "2023-02-24": 107254,
-  "2023-02-25": 107254,
-  "2023-02-26": 107254,
-  "2023-02-27": 107254,
-  "2023-02-28": 107254,
-  "2023-03-01": 107254,
-  "2023-03-02": 107254,
-  "2023-03-03": 107254,
-  "2023-03-04": 107254,
-  "2023-03-05": 107254,
-  "2023-03-06": 107254,
-  "2023-03-07": 107254,
-  "2023-03-08": 107254,
-  "2023-03-09": 107254,
-  "2023-03-10": 107254,
-  "2023-03-11": 107254,
-  "2023-03-12": 107254,
-  "2023-03-13": 107254,
-  "2023-03-14": 107254,
-  "2023-03-15": 107254,
-  "2023-03-16": 107254,
-  "2023-03-17": 107254,
-  "2023-03-18": 107254,
-  "2023-03-19": 107254,
-  "2023-03-20": 107254,
-  "2023-03-21": 107254,
-  "2023-03-22": 107254,
-  "2023-03-23": 107254,
-  "2023-03-24": 107254,
-  "2023-03-25": 107254,
-  "2023-03-26": 107254,
-  "2023-03-27": 107254,
-  "2023-03-28": 107254,
-  "2023-03-29": 107254,
-  "2023-03-30": 107254,
-  "2023-03-31": 107254,
-  "2023-04-01": 107254,
-  "2023-04-02": 107254,
-  "2023-04-03": 107254,
-  "2023-04-04": 107254,
-  "2023-04-05": 107254,
-  "2023-04-06": 107254,
-  "2023-04-07": 107254,
-  "2023-04-09": 107254,
-  "2023-04-10": 107254,
-  "2023-04-11": 107254,
-  "2023-04-12": 107254,
-  "2023-04-13": 107254,
-  "2023-04-14": 107254,
-  "2023-04-15": 107254,
-  "2023-04-16": 107254,
-  "2023-04-17": 107254,
-  "2023-04-18": 107254,
-  "2023-04-19": 107254,
-  "2023-04-20": 107254,
-  "2023-04-21": 107254,
-  "2023-04-22": 107254,
-  "2023-04-23": 107254,
-  "2023-04-24": 107254,
-  "2023-04-25": 107254,
-  "2023-04-26": 107254,
-  "2023-04-27": 107254,
-  "2023-04-28": 107254,
-  "2023-04-29": 107254,
-  "2023-04-30": 107254,
-  "2023-05-01": 107254,
-  "2023-05-02": 107254,
-  "2023-05-03": 107254,
-  "2023-05-04": 107254,
-  "2023-05-05": 107254,
-  "2023-05-06": 107254,
-  "2023-05-07": 107254,
-  "2023-05-08": 107254,
-  "2023-05-09": 107254,
-  "2023-05-10": 107254,
-  "2023-05-11": 107254,
-  "2023-05-12": 107254,
-  "2023-05-13": 107254,
-  "2023-05-14": 107254,
-  "2023-05-15": 107254,
-  "2023-05-16": 107254,
-  "2023-05-17": 107254,
-  "2023-05-18": 107254,
-  "2023-05-19": 107254,
-  "2023-05-20": 107254,
-  "2023-05-21": 107254,
-  "2023-05-22": 107254,
-  "2023-05-23": 107254,
-  "2023-05-24": 107254,
-  "2023-05-25": 107254,
-  "2023-05-26": 107254,
-  "2023-05-27": 107254,
-  "2023-05-28": 107254,
-  "2023-05-29": 107254,
-  "2023-05-30": 107254,
-  "2023-05-31": 107254,
-  "2023-06-01": 107254,
-  "2023-06-02": 107254,
-  "2023-06-03": 107254,
-  "2023-06-04": 107254,
-  "2023-06-05": 107254,
-  "2023-06-06": 107254,
-  "2023-06-07": 107254,
-  "2023-06-08": 107254,
-  "2023-06-09": 107254,
-  "2023-06-10": 107254,
-  "2023-06-11": 107254,
-  "2023-06-12": 107254,
-  "2023-06-13": 107254,
-  "2023-06-14": 107254,
-  "2023-06-15": 107254,
-  "2023-06-16": 107254,
-  "2023-06-17": 107254,
-  "2023-06-18": 107254,
-  "2023-06-19": 107254,
-  "2023-06-20": 107254,
-  "2023-06-21": 107254,
-  "2023-06-22": 107254,
-  "2023-06-23": 107254,
-  "2023-06-24": 107254,
-  "2023-06-25": 107254,
-  "2023-06-26": 107254,
-  "2023-06-27": 107254,
-  "2023-06-28": 107254,
-  "2023-06-29": 107254,
-  "2023-06-30": 107254,
-  "2023-07-01": 107254,
-  "2023-07-02": 107254,
-  "2023-07-03": 107254,
-  "2023-07-04": 107254,
-  "2023-07-05": 107254,
-  "2023-07-06": 107254,
-  "2023-07-07": 107254,
-  "2023-07-08": 107254,
-  "2023-07-09": 107254,
-  "2023-07-10": 107254,
-  "2023-07-11": 107254,
-  "2023-07-12": 107254,
-  "2023-07-13": 107254,
-  "2023-07-14": 107254,
-  "2023-07-15": 107254,
-  "2023-07-16": 107254,
-  "2023-07-17": 107254,
-  "2023-07-18": 107254,
-  "2023-07-19": 107254,
-  "2023-07-20": 107254,
-  "2023-07-21": 107254,
-  "2023-07-22": 107254,
-  "2023-07-23": 107254,
-  "2023-07-24": 107254,
-  "2023-07-25": 107254,
-  "2023-07-26": 107254,
-  "2023-07-27": 107254,
-  "2023-07-28": 107254,
-  "2023-07-29": 107254,
-  "2023-07-30": 107254,
-  "2023-07-31": 107254,
-  "2023-08-01": 107254,
-  "2023-08-02": 107254,
-  "2023-08-03": 107254,
-  "2023-08-04": 107254,
-  "2023-08-05": 107254,
-  "2023-08-06": 107254,
-  "2023-08-07": 107254,
-  "2023-08-08": 107254,
-  "2023-08-09": 107254,
-  "2023-08-10": 107254,
-  "2023-08-11": 107254,
-  "2023-08-12": 107254,
-  "2023-08-13": 107254,
-  "2023-08-14": 107254,
-  "2023-08-15": 107254,
-  "2023-08-16": 107254,
-  "2023-08-17": 107254,
-  "2023-08-18": 107254,
-  "2023-08-19": 107254,
-  "2023-08-20": 107254,
-  "2023-08-21": 107254,
-  "2023-08-22": 107254,
-  "2023-08-23": 107254,
-  "2023-08-24": 107254,
-  "2023-08-25": 107254,
-  "2023-08-26": 107254,
-  "2023-08-27": 107254,
-  "2023-08-28": 107254,
-  "2023-08-29": 107254,
-  "2023-08-30": 107254,
-  "2023-08-31": 107254,
-  "2023-09-01": 107254,
-  "2023-09-02": 107254,
-  "2023-09-03": 107254,
-  "2023-09-04": 107254,
-  "2023-09-05": 107254,
-  "2023-09-06": 107254,
-  "2023-09-07": 107254,
-  "2023-09-08": 107254,
-  "2023-09-09": 107254,
-  "2023-09-10": 107254,
-  "2023-09-11": 107254,
-  "2023-09-12": 107254,
-  "2023-09-13": 107254,
-  "2023-09-14": 107254,
-  "2023-09-15": 107254,
-  "2023-09-16": 107254,
-  "2023-09-17": 107254,
-  "2023-09-18": 107254,
-  "2023-09-19": 107254,
-  "2023-09-20": 107254,
-  "2023-09-21": 107254,
-  "2023-09-22": 107254,
-  "2023-09-23": 107254,
-  "2023-09-24": 107254,
-  "2023-09-25": 107254,
-  "2023-09-26": 107254,
-  "2023-09-27": 107254,
-  "2023-09-28": 107254,
-  "2023-09-29": 107254,
-  "2023-09-30": 107254,
-  "2023-10-01": 107254,
-  "2023-10-02": 107254,
-  "2023-10-03": 107254,
-  "2023-10-04": 107254,
-  "2023-10-05": 107254,
-  "2023-10-06": 107254,
-  "2023-10-07": 107254,
-  "2023-10-08": 107254,
-  "2023-10-09": 107254,
-  "2023-10-10": 107254,
-  "2023-10-11": 107254,
-  "2023-10-12": 107254,
-  "2023-10-13": 107254,
-  "2023-10-14": 107254,
-  "2023-10-15": 107254,
-  "2023-10-16": 107254,
-  "2023-10-17": 107254,
-  "2023-10-18": 107254,
-  "2023-10-19": 107254,
-  "2023-10-20": 107254,
-  "2023-10-21": 107254,
-  "2023-10-22": 107254,
-  "2023-10-23": 107254,
-  "2023-10-24": 107254,
-  "2023-10-25": 107254,
-  "2023-10-26": 107254,
-  "2023-10-27": 107254,
-  "2023-10-28": 107254,
-  "2023-10-29": 107254,
-  "2023-10-30": 107254,
-  "2023-10-31": 107254,
-  "2023-11-01": 107254,
-  "2023-11-02": 107254,
-  "2023-11-03": 107254,
-  "2023-11-04": 107254,
-  "2023-11-05": 107254,
-  "2023-11-06": 107254,
-  "2023-11-07": 107254,
-  "2023-11-08": 107254,
-  "2023-11-09": 107254,
-  "2023-11-10": 107254,
-  "2023-11-11": 107254,
-  "2023-11-12": 107254,
-  "2023-11-13": 107254,
-  "2023-11-14": 107254,
-  "2023-11-15": 107254,
-  "2023-11-16": 107254,
-  "2023-11-17": 107254,
-  "2023-11-18": 107254,
-  "2023-11-19": 107254,
-  "2023-11-20": 107254,
-  "2023-11-21": 107254,
-  "2023-11-22": 107254,
-  "2023-11-23": 107254,
-  "2023-11-24": 107254,
-  "2023-11-25": 107254,
-  "2023-11-26": 107254,
-  "2023-11-27": 107254,
-  "2023-11-28": 107254,
-  "2023-11-29": 107254,
-  "2023-11-30": 107254,
-  "2023-12-01": 107254,
-  "2023-12-02": 107254,
-  "2023-12-03": 107254,
-  "2023-12-04": 107254,
-  "2023-12-05": 107254,
-  "2023-12-06": 107254,
-  "2023-12-07": 107254,
-  "2023-12-08": 107254,
-  "2023-12-09": 107254,
-  "2023-12-10": 107254,
-  "2023-12-11": 107254,
-  "2023-12-12": 107254,
-  "2023-12-13": 107254,
-  "2023-12-14": 107254,
-  "2023-12-15": 107254,
-  "2023-12-16": 107254,
-  "2023-12-17": 107254,
-  "2023-12-18": 107254,
-  "2023-12-19": 107254,
-  "2023-12-20": 107254,
-  "2023-12-21": 107254,
-  "2023-12-22": 107254,
-  "2023-12-23": 107254,
-  "2023-12-24": 107254,
-  "2023-12-25": 107254,
-  "2023-12-26": 107254,
-  "2023-12-27": 107254,
-  "2023-12-30": 107254,
-  "2023-12-31": 107254,
-  "2024-01-01": 107254,
-  "2024-01-02": 107254,
-  "2024-01-03": 107254
+  "2024-01-17": 107254,
+  "date_first_scraped": "2021-12-21",
+  "description": "Carole King's most essential tracks, all in one playlist.",
+  "name": "This is: Carole King",
+  "tracks": [
+    {
+      "album": {
+        "name": "Carole King: The Ode Collection",
+        "url": "https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/7oEIm5uvKfOeMwilOAYb32"
+    },
+    {
+      "album": {
+        "name": "The Essential Carole King",
+        "url": "https://open.spotify.com/album/0rGwxrM6v7wQaNm9aC5DSh"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217973,
+      "name": "Been to Canaan",
+      "url": "https://open.spotify.com/track/2zqZT1bhvu7Bdpq2RcL6jj"
+    },
+    {
+      "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "album": {
+        "name": "The Early Years",
+        "url": "https://open.spotify.com/album/3V4vij3xyf6O3HvY3WN2yy"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136293,
+      "name": "Breaking Up Is Hard to Do",
+      "url": "https://open.spotify.com/track/33KeXsyDvaJ9ycZuylMHXT"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2AAJvDeGHpya2YNDQLEqJz"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169293,
+      "name": "Carry Your Load",
+      "url": "https://open.spotify.com/track/6WLOgUxpUjnHovRYMqW5ie"
+    },
+    {
+      "album": {
+        "name": "Pearls: Song Of Goffin & King",
+        "url": "https://open.spotify.com/album/0KMcJ7cATwp6iWXbXmqr64"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/36oiWXwyBtAnyxWy7WU12w"
+    },
+    {
+      "album": {
+        "name": "Writer/Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/2m1egJNwIoP6R88tvWpib7"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242786,
+      "name": "Child Of Mine",
+      "url": "https://open.spotify.com/track/4c7uopYWFjmwi1XAQVJzhE"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4kuCVncEUlhFNahtruop4i"
+    },
+    {
+      "album": {
+        "name": "The Legendary Demos",
+        "url": "https://open.spotify.com/album/3qwVZSAZIRYRSTjqJybA8d"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108840,
+      "name": "Crying In The Rain",
+      "url": "https://open.spotify.com/track/77aum1SU94w0Av4E77RSJP"
+    },
+    {
+      "album": {
+        "name": "Pearls: Songs of Goffin & King",
+        "url": "https://open.spotify.com/album/0rwgfoVEgvcCvuwNsamaul"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Dancin' with Tears in My Eyes",
+      "url": "https://open.spotify.com/track/7IZKts0yjOguC78lwakLPX"
+    },
+    {
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2Wj4aipcgskjHrk2pXmERR"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/2PAEKuPg0JjJC7fFH9XJCC"
+    },
+    {
+      "album": {
+        "name": "Pearls: Song Of Goffin & King",
+        "url": "https://open.spotify.com/album/0KMcJ7cATwp6iWXbXmqr64"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/0lFFHGknJERNT8rL23sLcm"
+    },
+    {
+      "album": {
+        "name": "Tapestry (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7ggbiEJgwxJjdmKXiVj7yr"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149053,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/6jyh00Jiec4AYKrl948jfV"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
+    },
+    {
+      "album": {
+        "name": "The Best Of 1962 Vol 2",
+        "url": "https://open.spotify.com/album/2yYTBapPaNhiUyewomLT1W"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "It Might As Well Rain Until September",
+      "url": "https://open.spotify.com/track/6pXOoK5j1kKPzdxxNvWk08"
+    },
+    {
+      "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/4EkVnDDbtHhONUT0msphsH"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "It's Going To Take Some Time",
+      "url": "https://open.spotify.com/track/7kXdOQKvGT5TSFAti9gN3E"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "album": {
+        "name": "Wrap Around Joy",
+        "url": "https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223440,
+      "name": "Jazzman",
+      "url": "https://open.spotify.com/track/2wHvE5GdYhuTOAqPg4r0w4"
+    },
+    {
+      "album": {
+        "name": "Colour of Your Dreams",
+        "url": "https://open.spotify.com/album/6wfihscZlljyHekAqcX90J"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315106,
+      "name": "Lay Down My Life",
+      "url": "https://open.spotify.com/track/31lrDnJT9laP6buhR1ngrm"
+    },
+    {
+      "album": {
+        "name": "Pearls: Song Of Goffin & King",
+        "url": "https://open.spotify.com/album/0KMcJ7cATwp6iWXbXmqr64"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "Locomotion",
+      "url": "https://open.spotify.com/track/0BtuzmdDa6rChwkWLHmTOQ"
+    },
+    {
+      "album": {
+        "name": "Love Makes The World (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2qUbe76aaOS1LW2ZoucOFK"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263733,
+      "name": "Love Makes The World",
+      "url": "https://open.spotify.com/track/5oQgPie51cNP6LcxhCJE7F"
+    },
+    {
+      "album": {
+        "name": "Live At The Troubadour",
+        "url": "https://open.spotify.com/album/0Q8NLyYa3T8jlTPi8GAZ2l"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179293,
+      "name": "Machine Gun Kelly",
+      "url": "https://open.spotify.com/track/519xwiampoM1TQydKfMrPB"
+    },
+    {
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229906,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/63dTQ8K3mJKJWUZi5sMNRV"
+    },
+    {
+      "album": {
+        "name": "Wrap Around Joy",
+        "url": "https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216066,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/2RHjNgxFQMTrCLacGKEJwE"
+    },
+    {
+      "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/4EkVnDDbtHhONUT0msphsH"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273533,
+      "name": "No Easy Way Down",
+      "url": "https://open.spotify.com/track/25JDcUuM5hewkTlIlGnC4D"
+    },
+    {
+      "album": {
+        "name": "Colour Of Your Dreams",
+        "url": "https://open.spotify.com/album/5cdxyxPLnunQJVqhlFqZjP"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Now And Forever",
+      "url": "https://open.spotify.com/track/4k77gN6nozNqbsFGpAr6ol"
+    },
+    {
+      "album": {
+        "name": "Pearls: Songs of Goffin & King",
+        "url": "https://open.spotify.com/album/0rwgfoVEgvcCvuwNsamaul"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Oh No Not My Baby",
+      "url": "https://open.spotify.com/track/50OvjXRDMWPGolwBTm6tWI"
+    },
+    {
+      "album": {
+        "name": "Pearls: Song Of Goffin & King",
+        "url": "https://open.spotify.com/album/0KMcJ7cATwp6iWXbXmqr64"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150200,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6jkIw5DsGGZoEiqG7UbXYm"
+    },
+    {
+      "album": {
+        "name": "One Small Voice",
+        "url": "https://open.spotify.com/album/24R0VrFy5pG3h7fZ3jMaBh"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157640,
+      "name": "One Small Voice",
+      "url": "https://open.spotify.com/track/0BvYSYabRJb6IKHsalO2Xc"
+    },
+    {
+      "album": {
+        "name": "All About Chemistry",
+        "url": "https://open.spotify.com/album/5UbtGLIz66mZYB0tYnflpT"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        },
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230173,
+      "name": "One True Love",
+      "url": "https://open.spotify.com/track/5JbER7uSCN5oQERYMHbpua"
+    },
+    {
+      "album": {
+        "name": "Really Rosie",
+        "url": "https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128199,
+      "name": "One Was Johnny",
+      "url": "https://open.spotify.com/track/0c8SIKptqeB9qNC4g9c0jj"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/24LxaxqKn5tFTMAnHkSVBJ"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "Only Love Is Real",
+      "url": "https://open.spotify.com/track/6Ys8Z1lz6sP82LEzP3Kltz"
+    },
+    {
+      "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201560,
+      "name": "Peace In the Valley",
+      "url": "https://open.spotify.com/track/12BUnLZGAUBJ0KoZDaDFz7"
+    },
+    {
+      "album": {
+        "name": "The Legendary Demos",
+        "url": "https://open.spotify.com/album/3qwVZSAZIRYRSTjqJybA8d"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146066,
+      "name": "Pleasant Valley Sunday",
+      "url": "https://open.spotify.com/track/3ej47PLmPAigwPEQkZCLoC"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221880,
+      "name": "Smackwater Jack",
+      "url": "https://open.spotify.com/track/0PrW6YZOBGeukTkvJsSIV3"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/1JiKH7SywhaUeW79SR5vLJ"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235440,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/6BH3e153CURYMjp2sOnfqV"
+    },
+    {
+      "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/4EkVnDDbtHhONUT0msphsH"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Some Kind Of Wonderful",
+      "url": "https://open.spotify.com/track/0JMZmZFO0FV6NcrJlD8uNh"
+    },
+    {
+      "album": {
+        "name": "Live At The Troubadour",
+        "url": "https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244106,
+      "name": "Something In The Way She Moves - Live At The Troubadour / 2007",
+      "url": "https://open.spotify.com/track/2Iiy1VZNcFIA8PsPls9ZRY"
+    },
+    {
+      "album": {
+        "name": "Love Makes the World",
+        "url": "https://open.spotify.com/album/1F2U0WSicgaB8PwxBk3Tzo"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277533,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/7L3DhTkxyYcfxCoGKqW0fe"
+    },
+    {
+      "album": {
+        "name": "Carole King: The Ode Collection",
+        "url": "https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Up On The Roof",
+      "url": "https://open.spotify.com/track/7o5IiCS3cMTbS994RG9bVp"
+    },
+    {
+      "album": {
+        "name": "Carole King: The Ode Collection",
+        "url": "https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Wasn't Born To Follow",
+      "url": "https://open.spotify.com/track/0BLIXDvhaxZzAGuaBH2jwu"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/19VT4G1PQQRbK3BilCNCZX"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "Where You Lead",
+      "url": "https://open.spotify.com/track/5Wy68BE1GonocJJUcIb0p6"
+    },
+    {
+      "album": {
+        "name": "Love Makes the World",
+        "url": "https://open.spotify.com/album/3UtHwT5fv1CooKKEIXGGRb"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "Where You Lead I Will Follow",
+      "url": "https://open.spotify.com/track/5T2zFXAuqNfYFCwhQKJGHv"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252440,
+      "name": "Will You Love Me Tomorrow?",
+      "url": "https://open.spotify.com/track/7qVd0TKcUDUdVaUogsGm4H"
+    },
+    {
+      "album": {
+        "name": "The Essential Carole King",
+        "url": "https://open.spotify.com/album/0rGwxrM6v7wQaNm9aC5DSh"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "You Can Do Anything (with Babyface)",
+      "url": "https://open.spotify.com/track/2q1uH1rcCbWmgJRH8EudI3"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/1JiKH7SywhaUeW79SR5vLJ"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308773,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/0nxQwWMGFX6mXPQCVPKq2R"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6GiJlVeD6Ou"
 }

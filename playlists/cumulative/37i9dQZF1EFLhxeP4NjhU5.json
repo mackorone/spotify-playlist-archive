@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 226200,
       "name": "Aullando",
       "url": "https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 254314,
       "name": "Aullando",
       "url": "https://open.spotify.com/track/6YtzGJxuINhRXOLTIF3Zb9"
@@ -819,6 +819,32 @@
     },
     {
       "album": {
+        "name": "Condado",
+        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232813,
+      "name": "Condado",
+      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
+    },
+    {
+      "album": {
         "name": "La Movida",
         "url": "https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM"
       },
@@ -874,7 +900,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 231689,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/3KYuT5lWCNsuW2ZeDq86w8"
@@ -972,7 +998,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-15",
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
@@ -1806,7 +1832,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 232973,
       "name": "La F\u00f3rmula (feat. Chris Jedi)",
       "url": "https://open.spotify.com/track/55NwAn7bAl1edTEg1azLOW"
@@ -1836,7 +1862,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 235944,
       "name": "La f\u00f3rmula (feat. Chris Jedi)",
       "url": "https://open.spotify.com/track/4A1IqVYiEujgHrJO9NTTVK"
@@ -1884,7 +1910,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 255924,
       "name": "La Llevo Al Cielo",
       "url": "https://open.spotify.com/track/4uuQ7f0r0b9IkqJO6HFUap"
@@ -1932,7 +1958,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
@@ -2188,7 +2214,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-16",
       "duration_ms": 252466,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0ftNNfxBAJJeN0E7iq27fZ"
@@ -2560,7 +2586,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 246653,
       "name": "Mi tesoro (feat. Nicky Jam)",
       "url": "https://open.spotify.com/track/5HABnFSYvl6mTmg8nSdzHa"
@@ -2720,7 +2746,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
@@ -2742,7 +2768,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 220202,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/6oVRRFFyxTg1ybUz3iDHOq"
@@ -3404,7 +3430,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 190160,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
@@ -3426,7 +3452,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 216320,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/5XslJPC2aLkXxqyPCOtVsr"
@@ -3566,7 +3592,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 232320,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/4ZNZuZdM7VW7gmcJIClWlD"
@@ -3600,7 +3626,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 235413,
       "name": "SUBEME LA RADIO PORTUGUESE REMIX",
       "url": "https://open.spotify.com/track/4pbqnmsojSaZTW3tMeqok1"
@@ -3726,7 +3752,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-16",
       "duration_ms": 212500,
       "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
@@ -3872,7 +3898,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 192612,
       "name": "TO' ESTO ES TUYO",
       "url": "https://open.spotify.com/track/2KPo9aqUtpB8bNFSyPpLrh"
@@ -3890,7 +3916,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 192917,
       "name": "TO' ESTO ES TUYO",
       "url": "https://open.spotify.com/track/6NWkruDXIU0lsvfNVu2V1m"
@@ -4090,7 +4116,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-15",
       "duration_ms": 175573,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/2MDTFN5UrZYi6cutmgOoIg"
@@ -4378,7 +4404,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 191920,
       "name": "ZONA DEL PERREO",
       "url": "https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP"
@@ -4404,7 +4430,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 199008,
       "name": "ZONA DEL PERREO",
       "url": "https://open.spotify.com/track/6gQ5iqmArrmScljgWoPfBA"

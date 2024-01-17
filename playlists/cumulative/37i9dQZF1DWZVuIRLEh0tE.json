@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Los sonidos urbanos de RD, pa' lo t\u00edgueres de alta gama. En portada: Dilon Baby",
+  "description": "Porque no to' e' Dembow en RD loco. Portada: Dilon Baby",
   "name": "Flow Dominicano",
   "tracks": [
     {
@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Bad Bxtch",
+        "url": "https://open.spotify.com/album/2FP12DnDWJk9MG81zX0C7j"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140603,
+      "name": "Bad Bxtch",
+      "url": "https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R"
+    },
+    {
+      "album": {
         "name": "Baddu",
         "url": "https://open.spotify.com/album/6jU2huoNSRXf4CmU61iXzd"
       },
@@ -514,6 +532,32 @@
       "duration_ms": 148453,
       "name": "Bebi Demasiado",
       "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
+    },
+    {
+      "album": {
+        "name": "Bendiciones",
+        "url": "https://open.spotify.com/album/2oTmo1MnKHto4SzVM5bh48"
+      },
+      "artists": [
+        {
+          "name": "DJ Chulo NYC",
+          "url": "https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Bendiciones",
+      "url": "https://open.spotify.com/track/5Zg3Eq4cjcJ98MUADUBwTb"
     },
     {
       "album": {
@@ -1249,6 +1293,28 @@
     },
     {
       "album": {
+        "name": "Defiendo El Uniforme",
+        "url": "https://open.spotify.com/album/6phxllVdMlLJ6tgYfQPzW5"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1on Rap",
+          "url": "https://open.spotify.com/artist/6YWX0GdWgcDiiIvlqWepgC"
+        },
+        {
+          "name": "Big Tymers",
+          "url": "https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268562,
+      "name": "Defiendo El Uniforme",
+      "url": "https://open.spotify.com/track/0S1EYKiUbW6V66MAcHEqhB"
+    },
+    {
+      "album": {
         "name": "Delicioso",
         "url": "https://open.spotify.com/album/4n5362Z6upMKpnBTf95Joq"
       },
@@ -1373,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/6ktYpvMBy06liW00kKUxNB"
+      },
+      "artists": [
+        {
+          "name": "Yeisi MR",
+          "url": "https://open.spotify.com/artist/2CcLlmBb4uw7GjdZsHPiKe"
+        },
+        {
+          "name": "Paulus Music",
+          "url": "https://open.spotify.com/artist/6Fs3AKFsg15trpdu92f7WR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98400,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/551Obg2zJDyWg3AigjVyeG"
+    },
+    {
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/6mFKAOFq085ztxcnGII91s"
       },
@@ -1421,6 +1509,28 @@
     },
     {
       "album": {
+        "name": "EL REY DEL DEMBOW",
+        "url": "https://open.spotify.com/album/3ZONXDp5lBlScH7helYBko"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248869,
+      "name": "DOGGY DOGGY",
+      "url": "https://open.spotify.com/track/2ttPWsLqYc7AqxvZkMqxhw"
+    },
+    {
+      "album": {
         "name": "Dembow Worldwide Hits Teteo 42",
         "url": "https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL"
       },
@@ -1458,7 +1568,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 248869,
       "name": "DOGGY DOGGY",
       "url": "https://open.spotify.com/track/5CY9UF2QwwqSLZXruLrKif"
@@ -1502,7 +1612,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": "2024-01-12",
       "duration_ms": 248869,
       "name": "Doggy Doggy",
       "url": "https://open.spotify.com/track/5kDydFz5HSjsjAZFbj31Sp"
@@ -2721,6 +2831,46 @@
     },
     {
       "album": {
+        "name": "Lo Prende Sola",
+        "url": "https://open.spotify.com/album/60UU7AxCv6A4diEBK5FYRT"
+      },
+      "artists": [
+        {
+          "name": "Drako \"El Principe\"",
+          "url": "https://open.spotify.com/artist/68QwnaecWq3LnMelBdJqDT"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100500,
+      "name": "Lo Prende Sola",
+      "url": "https://open.spotify.com/track/5O7eUbzeG5BYrFrInNZmP3"
+    },
+    {
+      "album": {
+        "name": "Lo Que Yo Quiera",
+        "url": "https://open.spotify.com/album/3TJ4Tm3Bqo2SXmRL60MeTs"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1on Rap",
+          "url": "https://open.spotify.com/artist/6YWX0GdWgcDiiIvlqWepgC"
+        },
+        {
+          "name": "Big Tymers",
+          "url": "https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Lo Que Yo Quiera",
+      "url": "https://open.spotify.com/track/55ZxLcSmWYoSCwBhkuv1Tv"
+    },
+    {
+      "album": {
         "name": "Lo Rafaguie",
         "url": "https://open.spotify.com/album/0PNfohwBm4XqbY83CA39BV"
       },
@@ -3207,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Menor",
+        "url": "https://open.spotify.com/album/3EntNNAPD4YQj4MDYPECbq"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172045,
+      "name": "Menor",
+      "url": "https://open.spotify.com/track/2wn1x4Zr0oLP5IfyWFtmG7"
+    },
+    {
+      "album": {
         "name": "Mi Ciudad",
         "url": "https://open.spotify.com/album/76GBieZ9ccFvySoAUhJCer"
       },
@@ -3222,6 +3390,32 @@
       "duration_ms": 155781,
       "name": "Mi Ciudad",
       "url": "https://open.spotify.com/track/01fjnRkTRiCiP3C02LOW7s"
+    },
+    {
+      "album": {
+        "name": "Mi Componente",
+        "url": "https://open.spotify.com/album/0takQqrNpFl4DQIiMEpb13"
+      },
+      "artists": [
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        },
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Mi Componente",
+      "url": "https://open.spotify.com/track/0Wl3ADV3TTsg2NfqpcR6mC"
     },
     {
       "album": {
@@ -3562,6 +3756,24 @@
       "duration_ms": 151304,
       "name": "Mucha Nota",
       "url": "https://open.spotify.com/track/4zFwxrNKotK3UDnVxGVU23"
+    },
+    {
+      "album": {
+        "name": "Muchas Veces",
+        "url": "https://open.spotify.com/album/6OdJox1ycG5nDZLyGSMswX"
+      },
+      "artists": [
+        {
+          "name": "El Experimento (Macgyver)",
+          "url": "https://open.spotify.com/artist/2061nJAmY52Z8zAVjGFkTv"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145561,
+      "name": "Muchas Veces",
+      "url": "https://open.spotify.com/track/2Xlms0AGBAU6zsTJg5zdCl"
     },
     {
       "album": {
@@ -4050,7 +4262,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 134054,
       "name": "Perro que Ladra",
       "url": "https://open.spotify.com/track/3Iqzp0H9DWwaqfHMVQ6oHe"
@@ -4187,6 +4399,36 @@
     },
     {
       "album": {
+        "name": "Proyecto #1 (Deluxe)",
+        "url": "https://open.spotify.com/album/4BjVTD1pxX0j9MSlkvAGJY"
+      },
+      "artists": [
+        {
+          "name": "Ehybi M",
+          "url": "https://open.spotify.com/artist/47cl0pmEqzqCjVeUR53cGH"
+        },
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        },
+        {
+          "name": "Uriel Produce",
+          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
+        },
+        {
+          "name": "NandoX",
+          "url": "https://open.spotify.com/artist/4StQZdXheghLOk0pIpvGqk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103384,
+      "name": "Proyecto #1 - Deluxe",
+      "url": "https://open.spotify.com/track/5XJh56KGNY35VNaDjfVARB"
+    },
+    {
+      "album": {
         "name": "Quien Dijo",
         "url": "https://open.spotify.com/album/71APj7u0enlTCdHalW9tAa"
       },
@@ -4202,7 +4444,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 124137,
       "name": "Quien Dijo",
       "url": "https://open.spotify.com/track/1GlVvjF1q1NkP1gjB6NGTy"
@@ -4348,6 +4590,54 @@
       "duration_ms": 151875,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/3UCGlKuPc94uSRHFRLYDOB"
+    },
+    {
+      "album": {
+        "name": "Salida",
+        "url": "https://open.spotify.com/album/1a6tdnMxKaseyvfzhiAiUy"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Salida",
+      "url": "https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv"
+    },
+    {
+      "album": {
+        "name": "Salud",
+        "url": "https://open.spotify.com/album/3Zumd1KvfRx3jUQt3a5tOi"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        },
+        {
+          "name": "Dimelo Tyrone",
+          "url": "https://open.spotify.com/artist/6Q4JnBBGlOtBf6NUDzVxeu"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "Salud",
+      "url": "https://open.spotify.com/track/06znjlMut9bc16ZtnI9eOD"
     },
     {
       "album": {
@@ -4516,7 +4806,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 108000,
       "name": "Susana",
       "url": "https://open.spotify.com/track/1zFQCh4SlsnfIRL9HYcemL"
@@ -4560,7 +4850,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 100898,
       "name": "Ta Lindo Pa",
       "url": "https://open.spotify.com/track/5bZGq274SvZmJdQkQpkXjM"
@@ -4586,6 +4876,24 @@
       "duration_ms": 166500,
       "name": "Taka Taka Tun",
       "url": "https://open.spotify.com/track/0QVA4MUxafYeIXekJXrGQb"
+    },
+    {
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/4HbzKVVwvExqpWwsSyKKkM"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164838,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/6EIInxXOY71ZAB2GrPAPXr"
     },
     {
       "album": {
@@ -5196,6 +5504,24 @@
       "duration_ms": 206842,
       "name": "Vivo Por Palomo",
       "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
+    },
+    {
+      "album": {
+        "name": "Voy Despu\u00e9s",
+        "url": "https://open.spotify.com/album/1gzRiTyJJG9l8RDPc2YTr4"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202814,
+      "name": "Voy Despu\u00e9s",
+      "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"
     },
     {
       "album": {
