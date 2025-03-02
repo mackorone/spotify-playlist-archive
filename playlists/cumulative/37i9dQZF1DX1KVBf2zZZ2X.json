@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Blue Shadows",
+        "url": "https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E"
+      },
+      "artists": [
+        {
+          "name": "Maira",
+          "url": "https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Blue Shadows",
+      "url": "https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp"
+    },
+    {
+      "album": {
         "name": "Bogha Sound Bath",
         "url": "https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl"
       },
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 195500,
       "name": "Empathy Through Nature",
       "url": "https://open.spotify.com/track/4rZKmona0FutPWsrRZt00l"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 234988,
       "name": "Hiking With Friends",
       "url": "https://open.spotify.com/track/7v9Brf9lQzUXaAje1sKJ53"
@@ -2594,6 +2612,24 @@
       "duration_ms": 135000,
       "name": "Ra\u00f0lj\u00f3st",
       "url": "https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB"
+    },
+    {
+      "album": {
+        "name": "Red Oak Sapling",
+        "url": "https://open.spotify.com/album/4LTtzYRMIzQ7u2bh5cvh22"
+      },
+      "artists": [
+        {
+          "name": "Palm Reading",
+          "url": "https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194253,
+      "name": "Red Oak Sapling",
+      "url": "https://open.spotify.com/track/3kroc75PKIVClLdz8R6Ohu"
     },
     {
       "album": {

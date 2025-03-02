@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 93600,
+  "num_followers": 93645,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-02-28 17:29:54",
       "album": {
+        "name": "Noites Trai\u00e7oeiras",
+        "url": "https://open.spotify.com/album/4e4BIYWvAWGKdgI5bFxz8s"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 252063,
+      "name": "Noites Trai\u00e7oeiras",
+      "url": "https://open.spotify.com/track/0jcqQIp3hjuSAtYsQmTCcx"
+    },
+    {
+      "added_at": "2025-02-28 17:29:54",
+      "album": {
         "name": "Contigo At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 243714,
       "name": "Contigo At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R"
-    },
-    {
-      "added_at": "2025-02-28 17:29:54",
-      "album": {
-        "name": "Noites Trai\u00e7oeiras",
-        "url": "https://open.spotify.com/album/4e4BIYWvAWGKdgI5bFxz8s"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 252063,
-      "name": "Noites Trai\u00e7oeiras",
-      "url": "https://open.spotify.com/track/0jcqQIp3hjuSAtYsQmTCcx"
     },
     {
       "added_at": "2025-02-28 17:29:54",
@@ -527,18 +527,18 @@
     {
       "added_at": "2025-02-28 17:29:54",
       "album": {
-        "name": "Um Lugar \u00e0 Mesa",
-        "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
+        "name": "Aumente o Som (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36RFBF5WzYevP63BKWjYAF"
       },
       "artists": [
         {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 240569,
-      "name": "Um Lugar \u00e0 Mesa",
-      "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
+      "duration_ms": 360841,
+      "name": "Aumente o Som - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wzqDgOr0AN57nNIRDa8xP"
     },
     {
       "added_at": "2025-02-28 17:29:54",
@@ -579,18 +579,18 @@
     {
       "added_at": "2025-02-28 17:29:54",
       "album": {
-        "name": "Aumente o Som (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36RFBF5WzYevP63BKWjYAF"
+        "name": "Um Lugar \u00e0 Mesa",
+        "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
         }
       ],
-      "duration_ms": 360841,
-      "name": "Aumente o Som - Ao Vivo",
-      "url": "https://open.spotify.com/track/3wzqDgOr0AN57nNIRDa8xP"
+      "duration_ms": 240569,
+      "name": "Um Lugar \u00e0 Mesa",
+      "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
     },
     {
       "added_at": "2025-02-28 17:29:54",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-02-28 17:29:54",
       "album": {
+        "name": "Al\u00e9m da Medicina",
+        "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 286133,
+      "name": "Al\u00e9m da Medicina",
+      "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
+    },
+    {
+      "added_at": "2025-02-28 17:29:54",
+      "album": {
         "name": "Aquele Que Morreu na Cruz",
         "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
       },
@@ -747,38 +763,6 @@
     {
       "added_at": "2025-02-28 17:29:54",
       "album": {
-        "name": "Al\u00e9m da Medicina",
-        "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 286133,
-      "name": "Al\u00e9m da Medicina",
-      "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
-    },
-    {
-      "added_at": "2025-02-28 17:29:54",
-      "album": {
-        "name": "A Terra e o Lavrador",
-        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
-      },
-      "artists": [
-        {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
-        }
-      ],
-      "duration_ms": 200562,
-      "name": "A Terra e o Lavrador",
-      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
-    },
-    {
-      "added_at": "2025-02-28 17:29:54",
-      "album": {
         "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
         "url": "https://open.spotify.com/album/42bBUPfS1dzXucB3KaBrBc"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 297097,
       "name": "T\u00e1 Chorando Por Qu\u00ea? - Ao Vivo",
       "url": "https://open.spotify.com/track/68BauEEnD5SZeIjoPorwEF"
+    },
+    {
+      "added_at": "2025-02-28 17:29:54",
+      "album": {
+        "name": "A Terra e o Lavrador",
+        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
+      },
+      "artists": [
+        {
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+        }
+      ],
+      "duration_ms": 200562,
+      "name": "A Terra e o Lavrador",
+      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
     },
     {
       "added_at": "2025-02-28 17:29:54",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-02-28 17:29:54",
       "album": {
-        "name": "Meu Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
+        "name": "N\u00e3o Abandone A Sua Cruz",
+        "url": "https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ"
       },
       "artists": [
         {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
         }
       ],
-      "duration_ms": 239199,
-      "name": "Meu Filho (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
+      "duration_ms": 245464,
+      "name": "N\u00e3o Abandone A Sua Cruz",
+      "url": "https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3"
     },
     {
       "added_at": "2025-02-28 17:29:54",
@@ -879,6 +879,22 @@
       "duration_ms": 247449,
       "name": "Arma Forjada",
       "url": "https://open.spotify.com/track/3wgJ32iIfOTwFmd6zSL6dG"
+    },
+    {
+      "added_at": "2025-02-28 17:29:54",
+      "album": {
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 239199,
+      "name": "Meu Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
     },
     {
       "added_at": "2025-02-28 17:29:54",
@@ -911,22 +927,6 @@
       "duration_ms": 201191,
       "name": "Do Tamanho do Meu Deus",
       "url": "https://open.spotify.com/track/4bsgd7pMCr7ZmFtsLBF7iI"
-    },
-    {
-      "added_at": "2025-02-28 17:29:54",
-      "album": {
-        "name": "N\u00e3o Abandone A Sua Cruz",
-        "url": "https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 245464,
-      "name": "N\u00e3o Abandone A Sua Cruz",
-      "url": "https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3"
     },
     {
       "added_at": "2025-02-28 17:29:54",

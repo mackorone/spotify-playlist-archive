@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Ramengvrl\)
 
-2,659 songs - 5 day 14 hr 30 min
+2,660 songs - 5 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1050,7 +1050,8 @@
 | [HOW HIGH!? feat.RIP SLYME\(Stirred by サーヤ\)](https://open.spotify.com/track/5EHjffI0vCKIUitUBwmj1I) | [BACARDI RECORDS](https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA), [RIP SLYME](https://open.spotify.com/artist/5kgH3qVSSDPPmKnQfrkblH), [サーヤ](https://open.spotify.com/artist/3oVORymq7ZxbdxMnGggffw) | [HOW HIGH!? feat.RIP SLYME\(Stirred by サーヤ\)](https://open.spotify.com/album/2GOvGYQJdmWHjgYAuvZ0lr) | 2:53 | 2024-08-01 | 2024-09-13 |
 | [How Long](https://open.spotify.com/track/3tXrir3yIIl4si3OqZv6KA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [How Long](https://open.spotify.com/album/4biEI0rFdj9ZCUpIWKQQ9Q) | 2:58 | 2024-12-05 | 2025-01-25 |
 | [How Things Go](https://open.spotify.com/track/43eFhR58E5V6tykPRXjt56) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [How Things Go](https://open.spotify.com/album/0tgeWfDBAcA0Enbdzn3Erg) | 2:35 | 2023-07-06 | 2023-08-04 |
-| [How To Bip](https://open.spotify.com/track/4SjA9BJvk0lK1MevTf704C) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [How To Bip](https://open.spotify.com/album/1hjUrczTkZGAzpdhr10Tid) | 2:34 | 2025-02-27 |  |
+| [How To Bip](https://open.spotify.com/track/4SjA9BJvk0lK1MevTf704C) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [How To Bip](https://open.spotify.com/album/1hjUrczTkZGAzpdhr10Tid) | 2:34 | 2025-02-27 | 2025-03-02 |
+| [How To Bip](https://open.spotify.com/track/64rP4gEgmxJ8Jg5nN3fzDo) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [How To Bip](https://open.spotify.com/album/57xr0iFHq2QFiEjszdBZ8Z) | 2:34 | 2025-03-01 |  |
 | [How We Get It](https://open.spotify.com/track/7fUWdT1JMsoN0ZHOD9eXpi) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [How We Get It](https://open.spotify.com/album/1ClpBOmXZMVGBeN0pcPdoB) | 3:20 | 2024-01-05 | 2024-02-09 |
 | [How Would You Like It](https://open.spotify.com/track/50poSCEPSegJFt2Np1ycqB) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [How Would You Like It](https://open.spotify.com/album/0KrL6cUlXuWs9BzC9dejYo) | 2:45 | 2022-09-22 | 2022-11-06 |
 | [Howl \(Feat\. Yellowmane, Sahtyre, Junoflo, G2\)](https://open.spotify.com/track/24N9c3BdEQL2rrfJLggzka) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Yellowmane](https://open.spotify.com/artist/69DIWtgrZbIjorw3g1UqVy), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU), [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66) | [Howl](https://open.spotify.com/album/2DHChOTHjJzyY9RL0RKUlj) | 2:12 | 2022-06-08 | 2022-06-24 |

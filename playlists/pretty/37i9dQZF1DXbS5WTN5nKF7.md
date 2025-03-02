@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,292 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,398 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
 | 50 | [Le monde demain \- Version radio](https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6) | [Les Enfoirés](https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN) | [Le monde demain \(Version radio\)](https://open.spotify.com/album/4rWgy3CQjjhcKFtVL2ABcz) | 3:18 |
 
-Snapshot ID: `Z8DukAAAAAA8QJLpZVczwlXnmkBRCY89`
+Snapshot ID: `Z8DukAAAAABfLnKIWMbMqAm55gUnOAUK`

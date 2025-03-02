@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > Dedicada a todos aquellos amores muertos por Espinoza Paz
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,539 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,595 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 44 | [Quiero Estar Loco](https://open.spotify.com/track/5XfiSjURdoHge1mT2no4Ie) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Me Nacio Del Alma](https://open.spotify.com/album/4EoyPCA0FQxPe1d6C1BCN1) | 3:39 |
 | 45 | [¿En Dónde Estás Presumida?](https://open.spotify.com/track/7E0UR0Hi6PNNNPqAQzChR5) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Mujer](https://open.spotify.com/album/4SGYnoDQA3JfxaH1erAP3L) | 3:38 |
 
-Snapshot ID: `ZyJ7NAAAAABQ5ZpaH8QrIKHuilLG3W9C`
+Snapshot ID: `ZyJ7NAAAAADu2myEmcZmDmufKQP+aji0`

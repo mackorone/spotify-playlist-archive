@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Myke Towers, Junior H y The Rudeboyz y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,470 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,532 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 36 | [SI NO TE VAS](https://open.spotify.com/track/5WLlAZQNKglNoMJqQS63h8) | [MOL](https://open.spotify.com/artist/0kcjwgqgT7QdNONFwVgQQX), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [SI NO TE VAS](https://open.spotify.com/album/5S0BLMMhOItVqvcJnTvgr6) | 2:26 |
 | 37 | [Clean](https://open.spotify.com/track/6IornTNsanbB83d53LMbgR) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg), [Oktoba](https://open.spotify.com/artist/7iF9N7YIpnJGJ5aPfeWO7n) | [Clean](https://open.spotify.com/album/6zAGBdRLILrjYUIp6Suy5Z) | 3:03 |
 | 38 | [Ring Ring](https://open.spotify.com/track/1a5X2b3lmg31yLbdyrIqiH) | [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a) | [Black Opps](https://open.spotify.com/album/6JDCzKlGVdTmRrfdKm1Mau) | 2:42 |
-| 39 | [Real love](https://open.spotify.com/track/4350jmCn4y68GsQBKWOhQu) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb) | [Real love](https://open.spotify.com/album/0R0Zc5VhBJWpn14Xiqg37F) | 2:25 |
+| 39 | [Real Love](https://open.spotify.com/track/4350jmCn4y68GsQBKWOhQu) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb) | [Real Love](https://open.spotify.com/album/0R0Zc5VhBJWpn14Xiqg37F) | 2:25 |
 | 40 | [sé que me amarás](https://open.spotify.com/track/4KtiGbGOkrHz5lpQBW7U1a) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P) | [sé que me amarás](https://open.spotify.com/album/0C8iShZTakBTz0MuRSJeRp) | 2:55 |
 | 41 | [KUIKI](https://open.spotify.com/track/47WfnYQgBp1bum5hiwJNvO) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [KUIKI](https://open.spotify.com/album/4g3FDHTWReLwfILC7c4MII) | 2:23 |
 | 42 | [SUPERIOR](https://open.spotify.com/track/7xrV0xhGO5cFsAqBx7sIir) | [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [SUPERIOR](https://open.spotify.com/album/4iSKpldMxYkVigACe4HUvp) | 2:21 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 48 | [Superextraño](https://open.spotify.com/track/3PqIjhaeM3EHhKcRsILaxB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Superextraño](https://open.spotify.com/album/2kBcpKY13cIwUQDMrvrFrR) | 3:41 |
 | 49 | [Súbete el volumen](https://open.spotify.com/track/6mTJ8ZrdOgwfMmUdAPemff) | [Hermanos Martínez](https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x) | [Súbete el Volumen](https://open.spotify.com/album/00EJ4xDoTWWOgumNCzpDaS) | 2:57 |
 | 50 | [todo irá bien](https://open.spotify.com/track/23kgiZITdnuAVFlv70JmCj) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq) | [todo irá bien](https://open.spotify.com/album/4pIEE81Ghcm4JqdP0MRTUV) | 2:57 |
-| 51 | [Imaginate](https://open.spotify.com/track/0KhALH3iRzGP788FlTSBlS) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz), [Pikeras](https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G) | [Imaginate](https://open.spotify.com/album/1uqSTkTdEkyad122fXx1ln) | 2:47 |
+| 51 | [Imagínate](https://open.spotify.com/track/0KhALH3iRzGP788FlTSBlS) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz), [Pikeras](https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G) | [Imagínate](https://open.spotify.com/album/1uqSTkTdEkyad122fXx1ln) | 2:47 |
 | 52 | [Mediterráneo](https://open.spotify.com/track/1B064VYRpKqqwNhomrZIod) | [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mediterráneo](https://open.spotify.com/album/1tPcsEqILrCHg60l1xiioc) | 4:01 |
 | 53 | [KACHETE](https://open.spotify.com/track/265XsRHgR7ldBxzRtZ0bOA) | [Fran y Nico](https://open.spotify.com/artist/0MshSBlTe7LBnw17PsggdI) | [KACHETE](https://open.spotify.com/album/60wxxjRAYlFKNr8BBXhvhq) | 2:02 |
 | 54 | [Palabras De Papel](https://open.spotify.com/track/2bWs3oGp6GmxIwWmDbJecv) | [Lorena Santos](https://open.spotify.com/artist/5ACW0L3lAgfRihTOhV8awe) | [Palabras De Papel](https://open.spotify.com/album/69A7oKKLic66yhRM9yLkUI) | 3:16 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 80 | [Planeta DeAgostini](https://open.spotify.com/track/4CcenPekBydKwyRJKtvFcY) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [Joc de nens](https://open.spotify.com/album/5SoJX0KUIsSEv97sVVfn9P) | 2:50 |
 | 81 | [JOHATSU](https://open.spotify.com/track/6YBNoqmfANpeMxYP1PDqro) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm) | [JOHATSU](https://open.spotify.com/album/4FcgWrGtWjxVQbMxBjMro1) | 2:20 |
 
-Snapshot ID: `Z8GPpgAAAADpvgj6Ud8YQ6Nfe4xamTNA`
+Snapshot ID: `Z8GPpgAAAAC430jDbOcyIW/pn4n8cJDw`

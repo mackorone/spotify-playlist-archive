@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "The Standard School Broadcast Recordings",
+        "url": "https://open.spotify.com/album/1WluxAF05BgxgtR8C9o8ar"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568037,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/06DnjJY5VP8qRTOdFkDhFs"
+    },
+    {
+      "album": {
         "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
         "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
       },

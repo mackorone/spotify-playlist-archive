@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 派偉俊 \(Patrick Brasca\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,822 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,876 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [我喜歡你](https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [心跳保衛戰](https://open.spotify.com/album/7nGbf2KdoEMWtTKh3vViyK) | 3:27 |
 | 50 | [癡心無名氏](https://open.spotify.com/track/5WeLzVi9RxI22FrvtVKRSW) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [癡心無名氏](https://open.spotify.com/album/2yUoKabXW0fgi0RMxy2eHN) | 3:51 |
 
-Snapshot ID: `Z7Ko3wAAAACuBdNM7nAlSTrp0XKi78Fd`
+Snapshot ID: `Z7Ko3wAAAAAS1uKX2xLhcXFBQ8gh1+Fh`

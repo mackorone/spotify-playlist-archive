@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
-  "num_followers": 197599,
+  "num_followers": 197662,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -435,18 +435,26 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "Aut\u00f3ctono",
-        "url": "https://open.spotify.com/album/1E13GMn18U09eYcW34tjAk"
+        "name": "Xorieri",
+        "url": "https://open.spotify.com/album/6KsQoQXFXA44bTZjMjimxk"
       },
       "artists": [
         {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        },
+        {
+          "name": "IZARO",
+          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
+        },
+        {
+          "name": "Oreka Tx",
+          "url": "https://open.spotify.com/artist/6CalTOP7T1djV7BPNS5GxG"
         }
       ],
-      "duration_ms": 180874,
-      "name": "Aut\u00f3ctono",
-      "url": "https://open.spotify.com/track/1jHroiQTsNAUTbAaSGrIuN"
+      "duration_ms": 184760,
+      "name": "Xorieri",
+      "url": "https://open.spotify.com/track/6IUuX0l3RTSGMLRkojx6EZ"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -515,30 +523,6 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "Xorieri",
-        "url": "https://open.spotify.com/album/6KsQoQXFXA44bTZjMjimxk"
-      },
-      "artists": [
-        {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        },
-        {
-          "name": "IZARO",
-          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
-        },
-        {
-          "name": "Oreka Tx",
-          "url": "https://open.spotify.com/artist/6CalTOP7T1djV7BPNS5GxG"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Xorieri",
-      "url": "https://open.spotify.com/track/6IUuX0l3RTSGMLRkojx6EZ"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
         "name": "Lejos De M\u00e1s",
         "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
       },
@@ -559,22 +543,6 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "Me lo invento",
-        "url": "https://open.spotify.com/album/5OCLobbyMjMBXJ8Iv1ASYj"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 195149,
-      "name": "Me lo invento",
-      "url": "https://open.spotify.com/track/2ZEgEmU37LwtUBmFF8hYxV"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
         "name": "Life Is A Movie",
         "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
       },
@@ -587,6 +555,22 @@
       "duration_ms": 181573,
       "name": "Life Is A Movie",
       "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "Me lo invento",
+        "url": "https://open.spotify.com/album/5OCLobbyMjMBXJ8Iv1ASYj"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 195149,
+      "name": "Me lo invento",
+      "url": "https://open.spotify.com/track/2ZEgEmU37LwtUBmFF8hYxV"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -639,6 +623,22 @@
       "duration_ms": 159146,
       "name": "Necesito Curarme",
       "url": "https://open.spotify.com/track/1Iv7TzIDjf3ncyyscYpGUH"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "Aut\u00f3ctono",
+        "url": "https://open.spotify.com/album/1E13GMn18U09eYcW34tjAk"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "duration_ms": 180874,
+      "name": "Aut\u00f3ctono",
+      "url": "https://open.spotify.com/track/1jHroiQTsNAUTbAaSGrIuN"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "tu pel\u00edcula",
-        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 174467,
-      "name": "tu pel\u00edcula",
-      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
         "name": "Catro Cousas",
         "url": "https://open.spotify.com/album/6ids62t89U0VelXnAY1hHY"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 190127,
       "name": "( ali despierta )",
       "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "Qu\u00e9 L\u00e1stima",
-        "url": "https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3"
-      },
-      "artists": [
-        {
-          "name": "Maren",
-          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Desde El Otro Lado",
-      "url": "https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
         "name": "tormenta",
         "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 256423,
       "name": "tormenta",
       "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "Qu\u00e9 L\u00e1stima",
+        "url": "https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3"
+      },
+      "artists": [
+        {
+          "name": "Maren",
+          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Desde El Otro Lado",
+      "url": "https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
+        "name": "Tres Oto\u00f1os (feat. alberto.vela)",
+        "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+        },
+        {
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+        }
+      ],
+      "duration_ms": 231877,
+      "name": "Tres Oto\u00f1os (feat. alberto.vela)",
+      "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
         "name": "escocia",
         "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 174500,
       "name": "el hilo",
       "url": "https://open.spotify.com/track/33rHLwegnvFV4RE8jSmf9E"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
-        "name": "Tres Oto\u00f1os (feat. alberto.vela)",
-        "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "alberto.vela",
-          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
-        }
-      ],
-      "duration_ms": 231877,
-      "name": "Tres Oto\u00f1os (feat. alberto.vela)",
-      "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "Bail\u00f3dromo, Vol. 1",
-        "url": "https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL"
-      },
-      "artists": [
-        {
-          "name": "CARLANGAS",
-          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
-        }
-      ],
-      "duration_ms": 268253,
-      "name": "Siempre Vuelve",
-      "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
         "name": "Al infierno",
         "url": "https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA"
       },
@@ -1275,22 +1259,6 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "SI QUIERES",
-        "url": "https://open.spotify.com/album/2RxxIyw1NhReLgHtZ354gG"
-      },
-      "artists": [
-        {
-          "name": "Los Vinagres",
-          "url": "https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS"
-        }
-      ],
-      "duration_ms": 169557,
-      "name": "SI QUIERES",
-      "url": "https://open.spotify.com/track/1tnamj7qFl2qru2NWCtd8I"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
         "name": "SUSANA",
         "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
       },
@@ -1307,18 +1275,50 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "nada importa",
-        "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
+        "name": "Bail\u00f3dromo, Vol. 1",
+        "url": "https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
         }
       ],
-      "duration_ms": 178904,
-      "name": "nada importa",
-      "url": "https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW"
+      "duration_ms": 268253,
+      "name": "Siempre Vuelve",
+      "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "SI QUIERES",
+        "url": "https://open.spotify.com/album/2RxxIyw1NhReLgHtZ354gG"
+      },
+      "artists": [
+        {
+          "name": "Los Vinagres",
+          "url": "https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS"
+        }
+      ],
+      "duration_ms": 169557,
+      "name": "SI QUIERES",
+      "url": "https://open.spotify.com/track/1tnamj7qFl2qru2NWCtd8I"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "Abraxas!",
+        "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 249124,
+      "name": "Abraxas!",
+      "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "Abraxas!",
-        "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
+        "name": "nada importa",
+        "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
       },
       "artists": [
         {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 249124,
-      "name": "Abraxas!",
-      "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
+      "duration_ms": 178904,
+      "name": "nada importa",
+      "url": "https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI"
-      },
-      "artists": [
-        {
-          "name": "Embusteros",
-          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
-        }
-      ],
-      "duration_ms": 184739,
-      "name": "V\u00e9rtigo",
-      "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
         "name": "sangre y sal",
         "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 171921,
       "name": "n\u00fameros rojos",
       "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI"
+      },
+      "artists": [
+        {
+          "name": "Embusteros",
+          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
+        }
+      ],
+      "duration_ms": 184739,
+      "name": "V\u00e9rtigo",
+      "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
         "name": "Paris Hilton",
         "url": "https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 187128,
       "name": "Coraz\u00f3n vaquero",
       "url": "https://open.spotify.com/track/7eU3gSFZRfaX48jQ8tT1sd"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
     },
     {
       "added_at": "2025-02-27 23:00:32",

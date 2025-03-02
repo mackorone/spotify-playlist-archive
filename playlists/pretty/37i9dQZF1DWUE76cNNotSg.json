@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour \ud83c\udf1e",
-  "num_followers": 551875,
+  "num_followers": 551923,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1767,18 +1767,22 @@
     {
       "added_at": "2025-02-28 13:09:52",
       "album": {
-        "name": "If We Go Down",
-        "url": "https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY"
+        "name": "Blame It All On Love",
+        "url": "https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW"
       },
       "artists": [
         {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Ben Browning",
+          "url": "https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH"
         }
       ],
-      "duration_ms": 205395,
-      "name": "If We Go Down",
-      "url": "https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3"
+      "duration_ms": 254906,
+      "name": "Ride With You",
+      "url": "https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF"
     },
     {
       "added_at": "2025-02-28 13:09:52",
@@ -1815,22 +1819,18 @@
     {
       "added_at": "2025-02-28 13:09:52",
       "album": {
-        "name": "Blame It All On Love",
-        "url": "https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW"
+        "name": "If We Go Down",
+        "url": "https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Ben Browning",
-          "url": "https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH"
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
         }
       ],
-      "duration_ms": 254906,
-      "name": "Ride With You",
-      "url": "https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF"
+      "duration_ms": 205395,
+      "name": "If We Go Down",
+      "url": "https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3"
     }
   ],
   "unique_name": "golden hour",

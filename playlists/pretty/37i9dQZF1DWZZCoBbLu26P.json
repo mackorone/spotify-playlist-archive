@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 93353,
+  "num_followers": 93375,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Unapologetically",
-        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t X Change",
-          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
-        }
-      ],
-      "duration_ms": 176643,
-      "name": "Beyonc\u00e9",
-      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Werqin' Girl (Professional)",
         "url": "https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 222642,
       "name": "Werqin' Girl (Professional)",
       "url": "https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Unapologetically",
+        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t X Change",
+          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
+        }
+      ],
+      "duration_ms": 176643,
+      "name": "Beyonc\u00e9",
+      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Zubi Zubi Zubi",
-        "url": "https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF"
-      },
-      "artists": [
-        {
-          "name": "Raja",
-          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "Zubi Zubi Zubi",
-      "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Loving Me Like That",
         "url": "https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 173333,
       "name": "Burn Rubber",
       "url": "https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Zubi Zubi Zubi",
+        "url": "https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF"
+      },
+      "artists": [
+        {
+          "name": "Raja",
+          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "Zubi Zubi Zubi",
+      "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Outside In",
+        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 194361,
+      "name": "Outside In",
+      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 232636,
       "name": "My Pussy Is Like a Peach",
       "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Outside In",
-        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 194361,
-      "name": "Outside In",
-      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1007,6 +1007,38 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
+      },
+      "artists": [
+        {
+          "name": "Courtney Act",
+          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+        }
+      ],
+      "duration_ms": 202476,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F"
       },
@@ -1031,18 +1063,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
+        "name": "Sweet T",
+        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
       },
       "artists": [
         {
-          "name": "Courtney Act",
-          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
         }
       ],
-      "duration_ms": 202476,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
+      "duration_ms": 275175,
+      "name": "Ohh Lala Lala",
+      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1063,38 +1095,6 @@
       "duration_ms": 178064,
       "name": "Bitch On Heels - Kelvin Wood Radio Mix",
       "url": "https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Sweet T",
-        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
-      },
-      "artists": [
-        {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
-        }
-      ],
-      "duration_ms": 275175,
-      "name": "Ohh Lala Lala",
-      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Part 2: The Antidote",
         "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 186686,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Stars (Disco Mix)",
-        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Stars - Disco Mix",
-      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Part 1: The Damage",
         "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Stars (Disco Mix)",
+        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Stars - Disco Mix",
+      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
@@ -1387,8 +1387,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Straight Outta Oz (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb"
+        "name": "Straight Outta Oz",
+        "url": "https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0"
       },
       "artists": [
         {
@@ -1396,13 +1396,13 @@
           "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
         },
         {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+          "name": "Bob the Drag Queen",
+          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
         }
       ],
-      "duration_ms": 201904,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu"
+      "duration_ms": 158222,
+      "name": "Wrong Bitch",
+      "url": "https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv"
     },
     {
       "added_at": "2025-01-14 16:17:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Our editors' picks for best metal and hard rock songs of the year\.  Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,607 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,623 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 21 | [Cure](https://open.spotify.com/track/7g4KNqjq1cxWETeqVpKNKK) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CURE](https://open.spotify.com/album/1SOXDy18xKOgjygDKqCHWv) | 3:45 |
 | 22 | [Paralyzed](https://open.spotify.com/track/73EIurQGydymTCrHuxYt3q) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Paralyzed](https://open.spotify.com/album/2ZB3oyrG9aDyb6hFOOuYnd) | 3:15 |
 | 23 | [We Are Shadows](https://open.spotify.com/track/13D1YvBHi5iW4f7ChMQ5Wq) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:35 |
-| 24 | [These Scars Won't Define Us](https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [These Scars Won't Define Us](https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab) | 3:32 |
+| 24 | [These Scars Won't Define Us \- Tour Version](https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [These Scars Won't Define Us \(Tour Version\)](https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab) | 3:32 |
 | 25 | [Dream Stealer](https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Dream Stealer](https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld) | 4:29 |
 | 26 | [Sinners of the Seven Seas](https://open.spotify.com/track/5LDrzjiXepAwUibop6NWqy) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Wake Up The Wicked \(Deluxe Version\)](https://open.spotify.com/album/41XrkRQLSBThNGddZTKxiN) | 3:00 |
 | 27 | [Someone's Daughter](https://open.spotify.com/track/2ZGrOclH0r6CFvlVGNVUlO) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Someone's Daughter](https://open.spotify.com/album/43QTCpdlaIKgAVnCmaA0hh) | 4:17 |

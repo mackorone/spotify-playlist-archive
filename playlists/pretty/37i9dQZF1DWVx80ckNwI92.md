@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F?si=lrk3b\_7MRLOdKKZ8\-PG2kQ">Njoki Karu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,203 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,207 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heaven](https://open.spotify.com/track/0Ux6CyGdySGIvrzQ6Lx9ri) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Mwīhoko: Ûtheri wa Ngoro](https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg) | 3:19 |
+| 1 | [Heaven](https://open.spotify.com/track/0Ux6CyGdySGIvrzQ6Lx9ri) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Mwihoko: Utheri wa Ngoro](https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg) | 3:19 |
 | 2 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
 | 3 | [Nevermind.](https://open.spotify.com/track/31lU9LGAQ9UhrDBTwdvNm5) | [Leomile](https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW) | [Nevermind.](https://open.spotify.com/album/5vTrYfOMYC8Hh5Vpc9sjnY) | 2:31 |
 | 4 | [uBhubesi](https://open.spotify.com/track/5lMPmfeVPO8JBrVZN3qERJ) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [uBhubesi](https://open.spotify.com/album/0RhEwNHQ4TI1iZnKLeNrjf) | 3:37 |

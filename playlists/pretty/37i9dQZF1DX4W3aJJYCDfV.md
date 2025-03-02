@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Little Simz \(pictured\), Benson Boone, Gigi Perez and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,517 likes - 122 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,577 likes - 122 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 61 | [Cinderella](https://open.spotify.com/track/7JJT5XgtT9Fq7aLQ7MbAD7) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/0VGz6ni8TtIsZolCU3bsVm) | 4:34 |
 | 62 | [Unfrozen](https://open.spotify.com/track/5mn86PdI2D5TMtLrbEs0Y3) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Anile](https://open.spotify.com/artist/4EFQ72yLfJfWI3eEz59fkY), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Unfrozen](https://open.spotify.com/album/7M1Yr2TiE9Q1Skdz9GJfDc) | 4:58 |
 | 63 | [Strange Little Consequence](https://open.spotify.com/track/5cRO8vypa1jd8UCiL1Nsbo) | [Demise Of Love](https://open.spotify.com/artist/1NXsFjzcDPUKz6fuB9Qq6R), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Strange Little Consequence](https://open.spotify.com/album/2k376V4vbueVKx1YQDtuOd) | 3:44 |
-| 64 | [Date Nite \(feat\. Saint Demarcus\)](https://open.spotify.com/track/2XUITWhONcLpIq3y3MtJcj) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Moanbag](https://open.spotify.com/album/2wG8fupznmcEgmAQrPCrSp) | 2:31 |
+| 64 | [Date Nite](https://open.spotify.com/track/2XUITWhONcLpIq3y3MtJcj) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Moanbag](https://open.spotify.com/album/2wG8fupznmcEgmAQrPCrSp) | 2:31 |
 | 65 | [Falling Up](https://open.spotify.com/track/0yTjMXmYRi3YQNVO4h7Mef) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Falling Up](https://open.spotify.com/album/6h1MD0mbleCoPXg0FYAEzw) | 2:45 |
 | 66 | [Cheers](https://open.spotify.com/track/2bPm2KgdHwttB2ZRdL0jdZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Cheers](https://open.spotify.com/album/34r9RSSfxVG5pDXbfcuE8u) | 3:26 |
 | 67 | [RUDUMB?](https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [RUDUMB?](https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4) | 1:57 |

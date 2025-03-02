@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Michael Marcagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,564 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,570 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Audience of One](https://open.spotify.com/track/6hbMsSfvZND7EZeTrJitit) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Audience of One](https://open.spotify.com/album/7mbzYiuy6W2oquB6HbasxJ) | 3:55 |
 | 100 | [Risk](https://open.spotify.com/track/0gZGUAO42F1HmzZWHNPGAu) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:11 |
 
-Snapshot ID: `Z8FC/QAAAADsH9O4bw0V9tQdRLmyTGk3`
+Snapshot ID: `Z8FC/QAAAADBmcNRuu+bJ7qi4J02u0hz`

@@ -346,10 +346,32 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 227683,
       "name": "Lose My Focus",
       "url": "https://open.spotify.com/track/5zhmlyLla3YNdjpEyi3Amk"
+    },
+    {
+      "album": {
+        "name": "Where the Butterflies Go in the Rain (Deluxe)",
+        "url": "https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        },
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217506,
+      "name": "Lose My Focus",
+      "url": "https://open.spotify.com/track/6JIQgoFRn5JI2Kxc1B0QzY"
     },
     {
       "album": {
@@ -580,7 +602,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 334578,
       "name": "Rise",
       "url": "https://open.spotify.com/track/0ngdWWyCMCeCkMQNwUiN9o"
@@ -932,6 +954,24 @@
       "duration_ms": 319622,
       "name": "You Give Me That",
       "url": "https://open.spotify.com/track/4NVn2zloJfjSFQXpK2RhCP"
+    },
+    {
+      "album": {
+        "name": "Where the Butterflies Go in the Rain (Deluxe)",
+        "url": "https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "You're So Good To Me",
+      "url": "https://open.spotify.com/track/1w6dmAckr5t7Jloh0bxsUZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kFZpD"

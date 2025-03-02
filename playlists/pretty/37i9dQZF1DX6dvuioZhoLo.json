@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 310711,
+  "num_followers": 310748,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+      },
+      "artists": [
+        {
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 170960,
       "name": "Howard Hughes Blues",
       "url": "https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
-      },
-      "artists": [
-        {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Blue Jeans & Barstools",
-        "url": "https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k"
-      },
-      "artists": [
-        {
-          "name": "Elijah Ocean",
-          "url": "https://open.spotify.com/artist/0MulydXXWmaMh1GxLKXtrS"
-        }
-      ],
-      "duration_ms": 180946,
-      "name": "I Left My One Spot (Back at the 5 Spot)",
-      "url": "https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Kindness of Strangers",
         "url": "https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 210173,
       "name": "Kindness of Strangers",
       "url": "https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Blue Jeans & Barstools",
+        "url": "https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k"
+      },
+      "artists": [
+        {
+          "name": "Elijah Ocean",
+          "url": "https://open.spotify.com/artist/0MulydXXWmaMh1GxLKXtrS"
+        }
+      ],
+      "duration_ms": 180946,
+      "name": "I Left My One Spot (Back at the 5 Spot)",
+      "url": "https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Western Swing & Waltzes and Other Punchy Songs",
-        "url": "https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI"
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
       },
       "artists": [
         {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 192626,
-      "name": "Cowpoke",
-      "url": "https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F"
+      "duration_ms": 239803,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+        "name": "Western Swing & Waltzes and Other Punchy Songs",
+        "url": "https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI"
       },
       "artists": [
         {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 239803,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
+      "duration_ms": 192626,
+      "name": "Cowpoke",
+      "url": "https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F"
     },
     {
       "added_at": "2024-07-12 04:00:00",

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Haley Bridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,602 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,610 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Surface](https://open.spotify.com/track/6IXXt8w0QHyD6D3YI0mqE1) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Surface](https://open.spotify.com/album/7e0mKBPbOkOnSG1vghevn9) | 1:27 |
 | 2 | [Comatose](https://open.spotify.com/track/3OVRbAoAICN4qjqwVVuof1) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Comatose](https://open.spotify.com/album/5oW45EOmwutuwjI9Smeiiz) | 2:40 |
-| 3 | [Has It Entered Your Mind](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 |
+| 3 | [Has It Entered Your Mind?](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 |
 | 4 | [Breaking Hearts](https://open.spotify.com/track/0bd28vKHk7HDgdOF0gYowj) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Breaking Hearts](https://open.spotify.com/album/051gZSH5RHDuhX8VTzP2pW) | 3:26 |
 | 5 | [BusyBusyBusy](https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW) | [¡BangBang Watergun!](https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ) | [Nostalgia / Again It's On](https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG) | 3:51 |
 | 6 | [Body Pollution](https://open.spotify.com/track/5CJ7o2sPVSlmQLiqqgxqRk) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Body Pollution](https://open.spotify.com/album/4XFKZePkHnISCktM4Va4lq) | 3:52 |
 | 7 | [shut your mouth funny](https://open.spotify.com/track/5RaldtLaF3E1vsGWbKjoKz) | [REYA](https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE) | [shut your mouth funny](https://open.spotify.com/album/7Mfu4ZTxWX4C2b0g0D6JiS) | 2:45 |
 | 8 | [Ride](https://open.spotify.com/track/0bcNxMaqVrQQoTnwh35uqD) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Ride](https://open.spotify.com/album/0upNGBrIv5iJsOW0N114aN) | 2:53 |
 | 9 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 |
-| 10 | [Endless Summer](https://open.spotify.com/track/7BA1wNo0dJzxd2nRvBLAe5) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW), [DARKOWA](https://open.spotify.com/artist/02YWmrPe2DFyagloOo6lrF) | [Debbie's Songs](https://open.spotify.com/album/3gUeLeB7Wbi9Hvqg0gWgYY) | 3:20 |
+| 10 | [Endless Summer](https://open.spotify.com/track/7BA1wNo0dJzxd2nRvBLAe5) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW), [dark0wa](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53) | [Debbie's Songs](https://open.spotify.com/album/3gUeLeB7Wbi9Hvqg0gWgYY) | 3:20 |
 | 11 | [Beginning of the end](https://open.spotify.com/track/7hcaBE52IGte9DmvULYeY3) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Beginning of the end](https://open.spotify.com/album/4Y1iz8SPcwtT6fqJIwWMOg) | 3:10 |
 | 12 | [lemons](https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [lemons](https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2) | 3:14 |
 | 13 | [Four Lines](https://open.spotify.com/track/2scMtJuoUmvZSuoexUJptp) | [Enler & Tallen](https://open.spotify.com/artist/0PaXLR15yjwwYP0Ro5r6wo) | [Four Lines](https://open.spotify.com/album/4IDki5h2lFwF4H6rR7dhya) | 3:40 |

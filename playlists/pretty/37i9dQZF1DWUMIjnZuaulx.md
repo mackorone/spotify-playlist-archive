@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Todd Dulaney
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,296 likes - 103 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,309 likes - 103 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

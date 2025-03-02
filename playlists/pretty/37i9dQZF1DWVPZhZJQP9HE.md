@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,506 likes - 77 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,532 likes - 77 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sithira Puthiri \- From "Think Indie"](https://open.spotify.com/track/1uQU9b93tlMlMoZ0h2bRgf) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Sithira Puthiri \(From "Think Indie"\)](https://open.spotify.com/album/6545nscQNozQwGuO6AIabc) | 3:46 |
 | 2 | [Paiya Dei \- From "Think Indie"](https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di) | [Paiya Dei \(From "Think Indie"\)](https://open.spotify.com/album/64rBaqo05hIvSgN2cDMT40) | 2:35 |
 | 3 | [Nenjin Ezhuth](https://open.spotify.com/track/7Et1EN5V7xAyPjYOk8nSh3) | [Adarsh Krishnan N](https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG), [Vidya Lakshmi G](https://open.spotify.com/artist/3lzErVdKehpglGTvEUwDH8) | [Nenjin Ezhuth](https://open.spotify.com/album/4gwvLFWCnLtWvGHpW5SUoV) | 3:49 |
-| 4 | [Ethili Neeye](https://open.spotify.com/track/3okcBUyVoHK9XRiOtyh4dE) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [lil help](https://open.spotify.com/artist/0tmH5NAdScs6nl3rMCsfxv), [Baidurjya Banerjee](https://open.spotify.com/artist/2qnVYtcJJ7SzjuOJdxTuNZ) | [Ethili Neeye](https://open.spotify.com/album/4rRLJdyqfqaOO7xgvh2gjj) | 3:06 |
+| 4 | [Ethili Neeye](https://open.spotify.com/track/3okcBUyVoHK9XRiOtyh4dE) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [lil help](https://open.spotify.com/artist/3plLTzhqKbNQZAVxxnSDOs), [Baidurjya Banerjee](https://open.spotify.com/artist/2qnVYtcJJ7SzjuOJdxTuNZ), [Naveen Bharathi](https://open.spotify.com/artist/1B3EG1myMgdRwViPIA2p3S) | [Ethili Neeye](https://open.spotify.com/album/4rRLJdyqfqaOO7xgvh2gjj) | 3:06 |
 | 5 | [Dabbu Dabbu](https://open.spotify.com/track/0lwCAr7ISc1LHNdCqnZC6p) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Dabbu Dabbu](https://open.spotify.com/album/3g5SeWC3MKugu7122cYD2d) | 2:57 |
 | 6 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 |
 | 7 | [Naan Vaanil Parappen](https://open.spotify.com/track/1U4gHb6IjpHCZKZPfS0F6i) | [S\. J\. Jananiy](https://open.spotify.com/artist/0Rw5ubEtFD4cNhQUJUTXmI) | [Naan Vaanil Parappen](https://open.spotify.com/album/6v237G5WQAvvZ04NOcH7u7) | 3:46 |

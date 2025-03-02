@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Marie Davidson
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,881 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,965 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 22 | [Don't Be Seen With Me](https://open.spotify.com/track/1jNFU8ildH4gY9q4mbfjr3) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Don't Be Seen With Me](https://open.spotify.com/album/7F5HfT9IoL2JZEtYas8Dwz) | 4:25 |
 | 23 | [Fuck It](https://open.spotify.com/track/2EvTsqvQ1nT7Mp2xgPl1fm) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [Fuck It](https://open.spotify.com/album/1eg74Dv2l9Rq2fWvkici0w) | 2:16 |
 | 24 | [Fenderbender Heartrender](https://open.spotify.com/track/6AwsX4PLCEtyf1mLiZko9s) | [Talltale](https://open.spotify.com/artist/47bwOR6s1vZymFYFCfgsrZ) | [Fenderbender Heartrender](https://open.spotify.com/album/2Jz74mhQu7GHUaxFXpZo7r) | 2:44 |
-| 25 | [Has It Entered Your Mind](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 |
+| 25 | [Has It Entered Your Mind?](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 |
 | 26 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 |
 | 27 | [Fleuron](https://open.spotify.com/track/1Uoi7ozqHcSMIufOZgYwaL) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs) | [Nouveau Langage](https://open.spotify.com/album/5LPAqjB3dGnLJkvnJKJYO8) | 3:44 |
 | 28 | [Forever Yung](https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Forever Yung](https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [ANTI\-GUÉRISON](https://open.spotify.com/track/3dKLqqYzxWyFK54zhaGc5L) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [ANTI\-GUÉRISON](https://open.spotify.com/album/6hM7kqdd2WkEkQ7g17FMGi) | 3:51 |
 | 100 | [Beverly Drive](https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Beverly Drive](https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac) | 4:08 |
 
-Snapshot ID: `Z8FC8gAAAAASwGI3i/81Pb30x8kzCUGl`
+Snapshot ID: `Z8FC8gAAAABMuGWpWBxCGthiR1jxyHrR`

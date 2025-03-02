@@ -990,7 +990,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 157791,
       "name": "Hollywood Hills",
       "url": "https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 138632,
       "name": "Klisje",
       "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
@@ -1708,6 +1708,24 @@
       "duration_ms": 217960,
       "name": "Never Look Down",
       "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
+    },
+    {
+      "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
       "album": {
@@ -2934,6 +2952,28 @@
       "duration_ms": 194693,
       "name": "Uten d\u00e6",
       "url": "https://open.spotify.com/track/0KD6A1gjo4QOsk9x82XNR5"
+    },
+    {
+      "album": {
+        "name": "Venter du",
+        "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        },
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157360,
+      "name": "Venter du",
+      "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
     },
     {
       "album": {

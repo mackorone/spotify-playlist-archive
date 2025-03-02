@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Boom!",
+        "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
+      },
+      "artists": [
+        {
+          "name": "Lenha Music",
+          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182976,
+      "name": "Boom!",
+      "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
+    },
+    {
+      "album": {
         "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
         "url": "https://open.spotify.com/album/2nQY0SJ4s0mMjNSFgW0Bcx"
       },
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 136083,
       "name": "O Perfeito Mundo Imperfeito",
       "url": "https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw"

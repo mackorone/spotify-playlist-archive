@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn?si=zjUvrifvSVysFqZUimgxnQ>Nathaniel Bassey</a> and <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=\-ojC\_HqsTYaUE4cvVJYQHQ>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,598 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,810 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 |
 | 50 | [Morning Devotion/Amapiano Praise \- Live](https://open.spotify.com/track/1wBiGuowpm9ydzGtaCEkAV) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Morning Devotion/Amapiano Praise \(Live\)](https://open.spotify.com/album/4wDyN58e3WS3xuC06krqO5) | 13:26 |
 
-Snapshot ID: `Z8D83gAAAAChKSrDPjWt6ntIywmo2CHS`
+Snapshot ID: `Z8D83gAAAACvDUBKnbw26Vl6t9vOO9LR`

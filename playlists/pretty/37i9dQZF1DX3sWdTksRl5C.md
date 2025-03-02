@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sWdTksRl5C.md) - [plain]
 
 > Don't play the odds, play the man\. Listen to the music from Suits & NBC's Suits LA, streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 995 likes - 54 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,061 likes - 54 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

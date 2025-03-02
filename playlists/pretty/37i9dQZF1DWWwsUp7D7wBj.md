@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Bad Bunny brings the vibrant sounds of plena and salsa to the forefront, and we want you to tap into the new wave of today's salsa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,194 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,218 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 | 19 | [No Son Horas](https://open.spotify.com/track/3JOshySBmF3ngMe87GGoIy) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [No Son Horas](https://open.spotify.com/album/5tT7mhK6jeGnGFnxqU1UZE) | 4:01 |
 | 20 | [Y Si Mañana](https://open.spotify.com/track/5Uu8GM9LOeCxdxcvEqiMIY) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Y Si Mañana](https://open.spotify.com/album/3HWmFsK6dOTkwbrvanYKMp) | 4:20 |
 
-Snapshot ID: `Z5PxVAAAAABY4PhtXSn817px60yHgc2e`
+Snapshot ID: `Z5PxVAAAAAAWTHkA2WbqdmFt41M8pJJY`

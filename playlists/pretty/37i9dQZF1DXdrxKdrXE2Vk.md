@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: UPPERROOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,596 likes - 84 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,711 likes - 84 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 83 | [What Heaven Can't \- Live From VOUSCon](https://open.spotify.com/track/2HAAbyL9SkscxiehzOirdH) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [What Heaven Can't \(Live\)](https://open.spotify.com/album/4Tquepa8ljYAviI4EPyvKS) | 5:59 |
 | 84 | [Shalom](https://open.spotify.com/track/30mz7jGufwQ3YAvulUUi18) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK), [Setnick Sene](https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE) | [Shalom](https://open.spotify.com/album/0cudtQVYv29jw1Q4MOIUdU) | 5:22 |
 
-Snapshot ID: `Z68cjAAAAACRuXc2MdsWI3QBNW+L8oMV`
+Snapshot ID: `Z68cjAAAAAAg0S9gj+DzOX4f6/mAuK60`

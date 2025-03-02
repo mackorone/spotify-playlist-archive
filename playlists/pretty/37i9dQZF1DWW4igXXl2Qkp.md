@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:1SCrMreNPJYSRZIlRe9SUq">Paris Texas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,391 likes - 101 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,443 likes - 101 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 100 | [gogo dancer](https://open.spotify.com/track/4oeJi3JahNmLpGhM8sd8zO) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [VAYTRIX RELOADED](https://open.spotify.com/album/6rzQ2UIpcizzS0h1CWSsaY) | 1:50 |
 | 101 | [ILBB2](https://open.spotify.com/track/3l8JgWKQI8yYIJ5mW04rzC) | [Jorjiana](https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF) | [ILBB2](https://open.spotify.com/album/52i6crTmc33EctIHuDPKif) | 1:33 |
 
-Snapshot ID: `Z8CkwQAAAADmJcVH5yxflMtNnfYZK2/I`
+Snapshot ID: `Z8CkwQAAAAAjxbu6Aq8u61UXX0Htyrv7`

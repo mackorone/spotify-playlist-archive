@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,222 likes - 85 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,273 likes - 85 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 84 | [That's Why I Rejoice \(feat\. Dwan Hill\) \- Live](https://open.spotify.com/track/5I4JW7A5bN21ULJKjMIDzB) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ) | [That's Why I Rejoice \(feat\. Dwan Hill\) \(Live\)](https://open.spotify.com/album/7GDi2nH5pBvJOxHdctMQ28) | 3:56 |
 | 85 | [All My Hope](https://open.spotify.com/track/1qRi3izUu1fs4uJSF9QBhs) | [Jonathan Lee McElhenny](https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Jonathan Lee McElhenny](https://open.spotify.com/album/4yBWpV3WfeTT70zQlidoga) | 3:24 |
 
-Snapshot ID: `Z7lr8QAAAADEi6aYaxKSiloXMK4am1ri`
+Snapshot ID: `Z7lr8QAAAADcmDuMjZgKy5yHRrQ6Jeb+`

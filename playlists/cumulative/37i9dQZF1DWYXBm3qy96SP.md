@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: ONE OK ROCK
 
-1,520 songs - 3 day 15 hr 18 min
+1,522 songs - 3 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Bright Light](https://open.spotify.com/track/7wXJBljsXeoWnq4ziW6sfB) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [DARKFIGHTER](https://open.spotify.com/album/5drsoG7zv1wwOSnKBnW2EZ) | 4:33 | 2023-06-01 | 2023-06-09 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-09 | 2024-08-30 |
 | [Broke Zodiac](https://open.spotify.com/track/13VBnTHnLmgst3J4dF0zpH) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 2:45 | 2023-09-28 | 2023-10-06 |
-| [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-05 |  |
+| [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-05 | 2025-03-02 |
 | [BROKEN GAMES \- Remix](https://open.spotify.com/track/55QWScNHZIgJ6qXJc4ICGh) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [BROKEN GAMES \(Remix\)](https://open.spotify.com/album/4vmmbgywov4RSGDKbzr86D) | 3:15 | 2023-12-21 | 2024-01-12 |
 | [Broken Headphones](https://open.spotify.com/track/5eLvCWoVsiRkLGen6HMC4A) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Broken Headphones](https://open.spotify.com/album/6Z0NqW8Ww6x6nEeCCHqpd0) | 3:17 | 2024-12-19 | 2025-01-24 |
 | [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 | 2024-02-29 | 2024-05-18 |
@@ -289,6 +289,7 @@
 | [cheerleader \(ft\. Waterparks\)](https://open.spotify.com/track/2malYWL8GiAyoAqvLOeSrX) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [cheerleader \(ft\. Waterparks\)](https://open.spotify.com/album/2tWR94g7epMrZx7UAWeIsw) | 2:39 | 2024-02-29 | 2024-03-08 |
 | [Chemical \- Sick Viral Version](https://open.spotify.com/track/1xNnlcY6ok6o4KPMlRlcCx) | [MOLA BLUE](https://open.spotify.com/artist/1SBUZIyPfhVKkE8F7PlOmJ), [Sick Viral](https://open.spotify.com/artist/0HWjBjFaNg6YHozzC1gicb) | [Chemical \(Sick Viral Version\)](https://open.spotify.com/album/0HvFizXfoymrQSywT8mw25) | 2:44 | 2023-10-26 | 2023-11-03 |
 | [Chemicals](https://open.spotify.com/track/0CqxXGyujgwmX0Bfyy7an4) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Chemicals](https://open.spotify.com/album/1YT1X4pHlcMZbHuYrgLuRj) | 2:13 | 2023-12-28 | 2024-01-05 |
+| [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-27 |  |
 | [Cherryland](https://open.spotify.com/track/2CP5TuxVJD1IggS5rw0goV) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Cherryland](https://open.spotify.com/album/5RdopBmBV7XPu36hcHbrTX) | 2:34 | 2023-10-26 | 2023-11-10 |
 | [chicago](https://open.spotify.com/track/6SkptVZ2SEfSJRxV84TMsR) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [chicago](https://open.spotify.com/album/18wcMl1vO8YBg4Xrq0Dwm7) | 3:04 | 2024-01-11 | 2024-01-19 |
 | [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 | 2023-06-01 | 2023-06-09 |
@@ -791,7 +792,7 @@
 | [Looking Back](https://open.spotify.com/track/1me4mvO4AGRuM3qzTDm3Ln) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/2r9KyPO6O132r73Tj10bue) | 3:18 | 2024-02-29 | 2024-03-08 |
 | [Looking Back](https://open.spotify.com/track/3w1YzG6hm2ktsHxnlTzFVv) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/54W4CYSPA5PWfuFJzmwN5H) | 3:18 | 2024-02-29 | 2024-03-02 |
 | [Loser Kid 2.0](https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Loser Kid 2.0](https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny) | 3:43 | 2023-04-13 | 2023-04-21 |
-| [Losing Faith](https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Losing Faith](https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf) | 3:05 | 2024-11-14 |  |
+| [Losing Faith](https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Losing Faith](https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf) | 3:05 | 2024-11-14 | 2025-03-02 |
 | [Losing Game](https://open.spotify.com/track/5Hloo9hpO9fVbOBhyorNnT) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Losing Game](https://open.spotify.com/album/6XPjsxlgipjhdzzbDPsM9o) | 4:01 | 2023-09-28 | 2023-10-20 |
 | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/album/5Hx7U2s7DySYx1KYGJjIzR) | 2:47 | 2024-01-25 | 2024-02-02 |
 | [Losing My Sense Of Taste](https://open.spotify.com/track/4jx6y4zo67WjSDhCHTxAuz) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Relentless](https://open.spotify.com/album/7cSjOM6t4Sg5a8WJ4qW2hi) | 4:13 | 2023-09-15 | 2023-09-22 |
@@ -1119,6 +1120,7 @@
 | [Sacrifice](https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Sacrifice](https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN) | 2:47 | 2024-05-02 | 2024-05-10 |
 | [Sad Song](https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Sad Song](https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF) | 3:23 | 2023-08-24 | 2023-09-08 |
 | [Sad Song \- Mauldeth Road West Demo, Nov' 92](https://open.spotify.com/track/0dABTXRfWoMmWD43T66KZI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Sad Song \- Mauldeth Road West Demo, Nov' 92](https://open.spotify.com/album/4t3hIBsq1eZB5FVVw1Ti9W) | 4:34 | 2024-09-05 | 2024-09-07 |
+| [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-27 |  |
 | [Salivate](https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Salivate](https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g) | 2:27 | 2023-03-23 | 2023-03-31 |
 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 | 2023-03-30 | 2023-04-07 |
 | [Sanity \(Re: Jack Antonoff\)](https://open.spotify.com/track/7fdTX00771dvqvHcEKBEa6) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/7t4NiEDttnvbCSF0sREjds) | 3:27 | 2024-02-15 | 2024-03-22 |

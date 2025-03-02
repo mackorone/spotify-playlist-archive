@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Antony Szmierek
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,528 likes - 224 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,525 likes - 224 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

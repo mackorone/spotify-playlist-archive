@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,668 likes - 102 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,743 likes - 102 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 17 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 |
 | 18 | [Door En Door](https://open.spotify.com/track/7cATx9Gorgj9VCl97NCWRe) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Door En Door](https://open.spotify.com/album/4MM2s2BHa319dYoeSD4e9h) | 3:13 |
 | 19 | [Nooit Echt Van Mij](https://open.spotify.com/track/0QOU6ZXADvlZc7dyuG0uqS) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Nooit Echt Van Mij](https://open.spotify.com/album/4zMpCoxZcpE1sMjYzZI47y) | 2:17 |
-| 20 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief EP](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 |
+| 20 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 |
 | 21 | [Gekkenhuis](https://open.spotify.com/track/50YtDweB0gTi03ym25nF9J) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Gekkenhuis](https://open.spotify.com/album/3T4uVJnsaLcmXYSwIRuIl3) | 3:15 |
 | 22 | [Verliefd Zijn](https://open.spotify.com/track/7ppFwmjCXEE7PCdlskpMnM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Verliefd Zijn](https://open.spotify.com/album/78l6rFb1czRaVZ6cnJunGn) | 2:18 |
 | 23 | [Zaklamp](https://open.spotify.com/track/0QYuSEq5X49FpugEdEhOvC) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu) | [Zaklamp](https://open.spotify.com/album/6wST7fI4bioASASZTwDzIl) | 3:15 |

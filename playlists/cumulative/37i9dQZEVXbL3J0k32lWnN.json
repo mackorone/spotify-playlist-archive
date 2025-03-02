@@ -7403,6 +7403,24 @@
     },
     {
       "album": {
+        "name": "For Evigt I G\u00e5r",
+        "url": "https://open.spotify.com/album/7jLGoAldNIM7iBrZBK1oHu"
+      },
+      "artists": [
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177967,
+      "name": "Det \u00d8nsker Jeg For Dig",
+      "url": "https://open.spotify.com/track/3tqRWbqid8syEuHFnrpALx"
+    },
+    {
+      "album": {
         "name": "Jeg venter i lyset",
         "url": "https://open.spotify.com/album/75UBJvqh2C5R3UnY6Rp6jc"
       },
@@ -9736,6 +9754,24 @@
       "duration_ms": 137475,
       "name": "Et Sted Herude",
       "url": "https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm"
+    },
+    {
+      "album": {
+        "name": "Et sted hvor vi de f\u00f8rste",
+        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207639,
+      "name": "Et sted hvor vi de f\u00f8rste",
+      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
     },
     {
       "album": {
@@ -14518,7 +14554,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 152325,
       "name": "Hesties Besties",
       "url": "https://open.spotify.com/track/6SHq8eDDjwBsTdj0qVTOks"
@@ -29510,7 +29546,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 170084,
       "name": "Sig Det Bare",
       "url": "https://open.spotify.com/track/6nJwK9TsgYYCNqUBMVLhMV"
@@ -33876,7 +33912,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 116227,
       "name": "To Gange",
       "url": "https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD"
@@ -34798,7 +34834,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 149215,
       "name": "Ud Med Regler!",
       "url": "https://open.spotify.com/track/7CqXOs881vXfqJlX7xgttw"

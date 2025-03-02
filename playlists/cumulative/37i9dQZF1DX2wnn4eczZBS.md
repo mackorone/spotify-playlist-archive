@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Joost & Spinvis
 
-161 songs - 8 hr 29 min
+162 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Niets Is Voor Altijd](https://open.spotify.com/track/2xPGzCwyQTDZA6qnRxpEfu) | [ANNABELLE](https://open.spotify.com/artist/3Fn18Mw7IUWlzFCmfPzP7H) | [Niets Is Voor Altijd](https://open.spotify.com/album/1Ez2l3IlooHGbTRu9DsTZW) | 3:07 | 2024-06-26 | 2024-07-06 |
 | [Nieuw Begin](https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Naamloze Liefde](https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw) | 2:37 | 2025-01-10 |  |
 | [Odysseus](https://open.spotify.com/track/0ejJdwdiL6zfFzZc7E1NqL) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [Odysseus](https://open.spotify.com/album/3d0vgaxBeSvrstgy2fVNXQ) | 3:26 | 2024-06-26 | 2024-10-23 |
-| [Onderaan](https://open.spotify.com/track/5Pj28CGATQQ78LsVJ1ug5d) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Onderaan](https://open.spotify.com/album/4AcHfI9uHulK73ES6fyE0r) | 4:33 | 2025-02-07 |  |
+| [Onderaan](https://open.spotify.com/track/5Pj28CGATQQ78LsVJ1ug5d) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Onderaan](https://open.spotify.com/album/4AcHfI9uHulK73ES6fyE0r) | 4:33 | 2025-02-07 | 2025-03-02 |
 | [Onzichtbaar](https://open.spotify.com/track/6MadE1DxKrKN5QeUz5dz4M) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Onzichtbaar](https://open.spotify.com/album/5wHDgUd0gH8yXuiezp97pf) | 2:47 | 2025-01-16 | 2025-02-08 |
 | [Oog om Oog \(feat\. Spinvis\)](https://open.spotify.com/track/58eFsIty3d3vyNRmM9q9T7) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Oog om Oog \(feat\. Spinvis\)](https://open.spotify.com/album/5x5WE4VmjdXv7kLI1HIdOG) | 4:22 | 2024-06-26 | 2024-10-10 |
 | [Perfect voor een Ander](https://open.spotify.com/track/7g5D5cjHsmhb9yE1w43EB8) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Perfect voor een Ander](https://open.spotify.com/album/5xoTPUULJamW9d0p05zTMX) | 2:51 | 2024-07-05 | 2024-11-15 |
@@ -137,6 +137,7 @@
 | [Suicide Vest](https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Suicide Vest](https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ) | 4:02 | 2025-01-10 |  |
 | [Symptomen](https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Symptomen](https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f) | 3:42 | 2024-10-09 |  |
 | [Te Echt](https://open.spotify.com/track/33zJAMvzqHa7vMzK8oA9wZ) | [Nieuwe Gezichten](https://open.spotify.com/artist/4264rIV4BlBGXdk0R9so4c), [Bo Menning](https://open.spotify.com/artist/2k83szK3kujFBEO1icWht3) | [Te Echt](https://open.spotify.com/album/3vda2iqdmPnTyQ3vTMlRbW) | 4:08 | 2025-02-07 |  |
+| [Telefoon](https://open.spotify.com/track/7n76BZB7LkeM6DdIT1Y10i) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Dit Is Toch Geen Manier Van Leven](https://open.spotify.com/album/1UmqlrapZ8JKr7sED5Km46) | 2:32 | 2025-02-27 |  |
 | [Telkens Als Ik Jou Hier Zie](https://open.spotify.com/track/4jNi3dbpwO919Wlk0y1Krx) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm) | [Telkens Als Ik Jou Hier Zie](https://open.spotify.com/album/0Kh5Apkoc4KhW8KgGvHKYk) | 2:50 | 2024-06-26 | 2024-07-27 |
 | [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 | 2024-06-26 | 2024-08-30 |
 | [Très Heureux](https://open.spotify.com/track/3Iybyv19Ia1SnMO9q4kCYA) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Très Heureux](https://open.spotify.com/album/5lqubazpQwzdSX35eebdFm) | 2:58 | 2024-07-05 | 2024-09-14 |

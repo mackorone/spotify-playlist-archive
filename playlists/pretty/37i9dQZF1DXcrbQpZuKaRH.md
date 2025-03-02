@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,075 likes - 96 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,144 likes - 96 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 95 | [Tranquil Tides](https://open.spotify.com/track/0WEhSAvhYVCF2sNXVIdSLg) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Tranquil Tides](https://open.spotify.com/album/5GqwwHtZWQh2ieWHN3Uyyz) | 3:03 |
 | 96 | [Sálmur \(Sound Bath\)](https://open.spotify.com/track/5KASAZ937O4CSKQ3hYAMaB) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [Sálmur \(Sound Bath\)](https://open.spotify.com/album/0ouaxJpx3JvdUdMkjKbZFM) | 3:15 |
 
-Snapshot ID: `Z6N58gAAAABNaiJuM+5VJ5EH1AlLB4cK`
+Snapshot ID: `Z6N58gAAAABPfXzbNcvqS6qP5IiwCRtW`

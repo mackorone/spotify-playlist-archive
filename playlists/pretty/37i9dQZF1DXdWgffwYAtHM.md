@@ -2,19 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 ### [RADAR Brasil Creators](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5j7Xq0NEDtSOahTZK3bVLc">Colo de amiga por @sofidisse</a>
+> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:4bFXTB2DcMA4dy3CC27bKu">Em Busca da Rotina Perfeita, com Giu Tessitore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,823 likes - 8 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,823 likes - 11 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [pra você que espera sempre o pior ](https://open.spotify.com/episode/0WOTIBTjMgnB7w3AtBk5FM) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 23:31 |
-| 2 | [\#86\. Senta no sofá](https://open.spotify.com/episode/4D7NKgEB2LOcttCzk07rtE) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 1:11:44 |
-| 3 | [POGRAMA DE FERIAS \#33](https://open.spotify.com/episode/1zHJ3Nn6reqZ6GTQJomfxY) | [POGRAMA](https://open.spotify.com/show/4b5P4Tq5loWnl139Uw853q) | [POGRAMA](https://open.spotify.com/album/4b5P4Tq5loWnl139Uw853q) | 58:06 |
-| 4 | [MATCH O PAPO & CLUBE DO ERRO \#08 \- "Ele não tomou banho"](https://open.spotify.com/episode/7cFfInpCeoEs6JxgX3kbXW) | [Clube do Erro](https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s) | [Clube do Erro](https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s) | 39:27 |
-| 5 | [\#82 \- Diva do Interior com Dacota Monteiro \- Joguei no Grupo](https://open.spotify.com/episode/20OYOIb2XrA5lWKjU1Qh07) | [Joguei no Grupo](https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9) | [Joguei no Grupo](https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9) | 1:22:42 |
-| 6 | [ep\#102 Quais amores você nutre?](https://open.spotify.com/episode/3j57dmJcWfrD9gGPwF1IbM) | [Eu preciso falar de amor ](https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd) | [Eu preciso falar de amor ](https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd) | 34:57 |
-| 7 | [O PROCESSO DE ADAPTAÇÃO DA MOLLY \- Histórias pra Adulto Dormir](https://open.spotify.com/episode/60rvvblPpCanHFnpOQQ19d) | [Histórias pra adulto dormir](https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt) | [Histórias pra adulto dormir](https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt) | 16:57 |
-| 8 | [amizades depois de adulta \#41](https://open.spotify.com/episode/4g2tOtVx8b9tZfJTbKdjL6) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 46:20 |
+| 1 | [Como suas expectativas estão afetando sua felicidade? EP\#47](https://open.spotify.com/episode/6N16ntjEAOWGI4JWXiqY52) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/show/4bFXTB2DcMA4dy3CC27bKu) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/album/4bFXTB2DcMA4dy3CC27bKu) | 19:14 |
+| 2 | [eu jamais voltaria a ser criança ](https://open.spotify.com/episode/39kq31hiaHDSj5jZUlwHei) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 25:59 |
+| 3 | [\#93\. Babão](https://open.spotify.com/episode/3tsWPjIcyRsV3u6YqQSfwp) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 36:38 |
+| 4 | [Gabby Petito achava que ia viver a viagem dos sonhos](https://open.spotify.com/episode/55qjYcXs5eqT9uDVh2JGdE) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 24:44 |
+| 5 | [\#85 \- Infância Gospel com Samira Close \- Joguei no Grupo](https://open.spotify.com/episode/50yGVUiL62DAoYfB6kJcZ9) | [Joguei no Grupo](https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9) | [Joguei no Grupo](https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9) | 1:28:18 |
+| 6 | [para minha eu do passado \#43](https://open.spotify.com/episode/28d1l3NzNCGiGlbtw6wGXo) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 21:09 |
+| 7 | [O SILÊNCIO DO ABUSO](https://open.spotify.com/episode/5NHr3y14xjpv6b5lEydelT) | [vibes em análise](https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL) | [vibes em análise](https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL) | 1:18:28 |
+| 8 | [A SENHORA DE NAZARÉ E O MAR QUE CONTAVA HISTÓRIAS \- Histórias pra Adulto Dormir \(Barulho de Ondas e Gaivotas\)](https://open.spotify.com/episode/07TIR4kuvQZ5JED2DMmJgU) | [Histórias pra adulto dormir](https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt) | [Histórias pra adulto dormir](https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt) | 17:07 |
+| 9 | [POGRAMA DE BÊBO \#37](https://open.spotify.com/episode/3iXnvaZxa6uookXOlnI6Z5) | [POGRAMA](https://open.spotify.com/show/4b5P4Tq5loWnl139Uw853q) | [POGRAMA](https://open.spotify.com/album/4b5P4Tq5loWnl139Uw853q) | 1:18:00 |
+| 10 | [MATCH O PAPO & CLUBE DO ERRO \#09 \- RELAÇÕES SIGILOSAS E DE MUITO APRENDIZADO](https://open.spotify.com/episode/0Rhjqtm18kFV5XP40N2ksg) | [Clube do Erro](https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s) | [Clube do Erro](https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s) | 58:44 |
+| 11 | [Ep\#104 Amor romântico \(e suas complexidades\)](https://open.spotify.com/episode/6xH8tCVMaRErLxAIgOcZ4K) | [Eu preciso falar de amor ](https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd) | [Eu preciso falar de amor ](https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd) | 39:31 |
 
-Snapshot ID: `Z6ycdgAAAAAH4uA5oEHYIu5BjMIrtyNB`
+Snapshot ID: `Z8ME9gAAAADcPuGau8gzUvJVdZKrDsI5`

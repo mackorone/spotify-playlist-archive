@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BtzaRqOeJj.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:4FZ3j1oH43e7cukCALsCwf">Jack White's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BtzaRqOeJj.md) - [plain]
 | 29 | [000.000](https://open.spotify.com/track/2FnU6AXnhNmaCZz4YanhsS) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay \(Deluxe Edition\)](https://open.spotify.com/album/64vPyY759lLETSt8rvc7Sf) | 5:24 |
 | 30 | [4'33''](https://open.spotify.com/track/2bNCdW4rLnCTzgqUXTTDO1) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s) | [4'33''](https://open.spotify.com/album/6UCnARt06DDqBASaO8sBaz) | 4:33 |
 
-Snapshot ID: `Z7LCXQAAAAAA/HD6lq5Fk2SX0bd2QsMr`
+Snapshot ID: `Z7LCXQAAAADGvujzL2zPpDAhRW5raWGV`

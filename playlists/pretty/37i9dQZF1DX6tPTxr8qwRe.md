@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Nxdia
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,127 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,133 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [I'm So Happy](https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I'm So Happy](https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s) | 2:26 |
 | 50 | [Wings](https://open.spotify.com/track/1HpwlMAZx46pCOoJkqKFRA) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Wings](https://open.spotify.com/album/78Ji0FAkPNoEiXmryrDyhK) | 3:05 |
 
-Snapshot ID: `Z8FDCwAAAACG+cr/aqOyh3PfZ6tcfXh/`
+Snapshot ID: `Z8FDCwAAAAAAqYVKMTg3TaOkwWvc2iDn`

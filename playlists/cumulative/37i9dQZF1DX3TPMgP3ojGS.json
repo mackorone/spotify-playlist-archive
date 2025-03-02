@@ -4916,7 +4916,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 163027,
       "name": "Chanson d\u2019\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob"
@@ -6036,7 +6036,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 138181,
       "name": "Dancing Dreams",
       "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
@@ -19344,7 +19344,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 120268,
       "name": "Nouvelles Tentatives",
       "url": "https://open.spotify.com/track/6rvmhiAd5jtT5CzLIcnj4p"
@@ -26002,7 +26002,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 151829,
       "name": "Stille Sj\u00f8",
       "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
@@ -26366,6 +26366,28 @@
       "duration_ms": 135261,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/6S2rNFHmusMfzbibhyDXrb"
+      },
+      "artists": [
+        {
+          "name": "Moises Daniel",
+          "url": "https://open.spotify.com/artist/2Us8yrg0LpTXcp6KNfhSKL"
+        },
+        {
+          "name": "Cristian Vivaldi",
+          "url": "https://open.spotify.com/artist/3SVGtGLA9kap5qlxX4WyBb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4W4kAu3nU0Zp8WH7owpjbn"
     },
     {
       "album": {
@@ -32110,6 +32132,24 @@
       "duration_ms": 119521,
       "name": "Within the Light",
       "url": "https://open.spotify.com/track/5XEQ6jikGETqgv35kIKGZN"
+    },
+    {
+      "album": {
+        "name": "Without End",
+        "url": "https://open.spotify.com/album/7ICabDvPYVzaAOL0Nt7JxD"
+      },
+      "artists": [
+        {
+          "name": "Aksel Krystad",
+          "url": "https://open.spotify.com/artist/6HWqfAvhFGVzX04XxDZBVw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132416,
+      "name": "Without End",
+      "url": "https://open.spotify.com/track/5w3O0ONMHCM9YmTS96fplL"
     },
     {
       "album": {

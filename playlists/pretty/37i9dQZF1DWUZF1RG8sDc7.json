@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 146677,
+  "num_followers": 146743,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "M\u00e1s Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/25BjqOwuQ1L7MOBfB6Ksm7"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "El Original",
         "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 270666,
       "name": "Que No Se enteren",
       "url": "https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "M\u00e1s Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/25BjqOwuQ1L7MOBfB6Ksm7"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -199,6 +199,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "La 9a Batalla",
+        "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Rolando Ochoa",
+          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+        }
+      ],
+      "duration_ms": 214213,
+      "name": "Loco Paranoico",
+      "url": "https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
       },
@@ -223,26 +243,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "El Disco Que Me Gusta",
-        "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
-      },
-      "artists": [
-        {
-          "name": "Elder Day\u00e1n D\u00edaz",
-          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
-        },
-        {
-          "name": "Rolando Ochoa",
-          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Seguimos Por Lo Alto",
         "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
       },
@@ -259,22 +259,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "La 9a Batalla",
-        "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
+        "name": "El Disco Que Me Gusta",
+        "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
       },
       "artists": [
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
         },
         {
           "name": "Rolando Ochoa",
           "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
         }
       ],
-      "duration_ms": 214213,
-      "name": "Loco Paranoico",
-      "url": "https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw"
+      "duration_ms": 225840,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
-        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
-      },
-      "artists": [
-        {
-          "name": "Rafael Escalona",
-          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Jaime Molina",
-      "url": "https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "40 Vallenatos Poderosos",
         "url": "https://open.spotify.com/album/1Su3Xen1N683ZWf7dNVYPZ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 294746,
       "name": "Paro de Mi Corazon",
       "url": "https://open.spotify.com/track/1yFwCLlghy1oVAjVWs2plD"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
+        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
+      },
+      "artists": [
+        {
+          "name": "Rafael Escalona",
+          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
+        }
+      ],
+      "duration_ms": 248226,
+      "name": "Jaime Molina",
+      "url": "https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Siempre Gigantes",
-        "url": "https://open.spotify.com/album/4zKI0c9MaYbIiuwctHedOe"
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/7xFZU6WDMmFQy7ysqXmRbM"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
         }
       ],
-      "duration_ms": 293564,
-      "name": "Me Mata la Melancol\u00eda",
-      "url": "https://open.spotify.com/track/5jXt0cLk4bIuWkGoCyNOIa"
+      "duration_ms": 309890,
+      "name": "Despues del Adios",
+      "url": "https://open.spotify.com/track/5sYM2HkOgMeXhtqKhLRy8A"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
+        "name": "Siempre Gigantes",
+        "url": "https://open.spotify.com/album/4zKI0c9MaYbIiuwctHedOe"
       },
       "artists": [
         {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        },
-        {
-          "name": "Los Gigantes",
-          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
         }
       ],
-      "duration_ms": 246726,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
+      "duration_ms": 293564,
+      "name": "Me Mata la Melancol\u00eda",
+      "url": "https://open.spotify.com/track/5jXt0cLk4bIuWkGoCyNOIa"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

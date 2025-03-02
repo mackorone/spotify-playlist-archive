@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,678 likes - 97 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,747 likes - 97 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 52 | [Keep The Faith](https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV) | 3:13 |
 | 53 | [sonnenbrand](https://open.spotify.com/track/60odu1d4jqMAw7kMpvpVV4) | [BRUNKE](https://open.spotify.com/artist/5wkIrkK9SrKKa1Ki64wIXy) | [Sonnenbrand](https://open.spotify.com/album/5SRd3vko5fObFtFVkhzB82) | 2:40 |
 | 54 | [Where I Don't Have To Hide](https://open.spotify.com/track/6gEpV12POYXkksRcso1iGq) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Where I Don't Have To Hide](https://open.spotify.com/album/5sZhW1dCzXewCtWGpQwJ2b) | 2:38 |
-| 55 | [Mad About You](https://open.spotify.com/track/0dEIFLsRX15LgRqd4CTTCh) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [Mad About You](https://open.spotify.com/album/2q6QrqRlJUh7zzSOZLbvIo) | 2:44 |
+| 55 | [Mad About You \- Single Version](https://open.spotify.com/track/0dEIFLsRX15LgRqd4CTTCh) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [Mad About You](https://open.spotify.com/album/2q6QrqRlJUh7zzSOZLbvIo) | 2:44 |
 | 56 | [Übernächtigt](https://open.spotify.com/track/0PqMQWT80FQO27HtiUShzO) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Übernächtigt](https://open.spotify.com/album/4G3PhVQ01vSYRFnyRknGh2) | 2:02 |
 | 57 | [Loveless](https://open.spotify.com/track/19So3cXuMUSiffB8AXzr9r) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Loveless](https://open.spotify.com/album/1IsfgWTtfRYs3VyVQXll1s) | 2:54 |
 | 58 | [Apex](https://open.spotify.com/track/3KRHgcuEJbulgfvDq1KBMh) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Apex](https://open.spotify.com/album/1F8XXwq1JefxbNWsDcwsEm) | 2:07 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 96 | [Angel](https://open.spotify.com/track/06I8esuzkkpldIzX1XN9rU) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Angel](https://open.spotify.com/album/6RKB1HViVixHxxQj06LPUs) | 2:32 |
 | 97 | [Bussin Baby \(feat\. Lil Yachty\)](https://open.spotify.com/track/4TYORht21jPDhr7zqsfpeF) | [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Porch 2 The Pent](https://open.spotify.com/album/0F61AfpclDACL7540yHqY0) | 2:46 |
 
-Snapshot ID: `Z8F02QAAAADp9xHGCjQytQvi9dc3NSpC`
+Snapshot ID: `Z8F02QAAAABoQeXZe1oF8GAzefBmsM0q`

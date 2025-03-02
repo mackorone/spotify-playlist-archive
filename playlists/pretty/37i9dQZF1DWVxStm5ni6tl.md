@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Sebastian Gaskin, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,528 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,551 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 54 | [oulalala](https://open.spotify.com/track/0P4A8a4UNLRuPFbJbRnwwr) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [oulalala](https://open.spotify.com/album/1AgVyRrARoUSYT9I20Dxj4) | 3:15 |
 | 55 | [Proud](https://open.spotify.com/track/4FAGjc1L2iGkmHLTqxItda) | [Justine Tyrell](https://open.spotify.com/artist/0X4fb30ZeZnyuYILaXTxDd) | [Proud](https://open.spotify.com/album/78wIL4wdfklC0ZAYbOTaNs) | 2:48 |
 
-Snapshot ID: `Z79OdgAAAACdyVRVSyvQWfeD+4uYVRgc`
+Snapshot ID: `Z79OdgAAAABDk83sRFPvFrC8NbMIyM8k`

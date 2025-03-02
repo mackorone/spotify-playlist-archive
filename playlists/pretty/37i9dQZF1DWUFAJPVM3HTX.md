@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju?si=Wn\-FQhGdTiuZtW2jdm7Ljg"> JayDon</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,465 likes - 191 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,538 likes - 191 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

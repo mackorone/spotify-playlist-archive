@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 144133,
       "name": "Give Me a Heart to Love",
       "url": "https://open.spotify.com/track/5dGPjdbXzYKKm3nOWBqgOc"
@@ -4264,7 +4264,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 181760,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM"
@@ -4412,6 +4412,24 @@
       "duration_ms": 474033,
       "name": "Soldier's March",
       "url": "https://open.spotify.com/track/3WkhHCTYPDowmEUXCkGU3Y"
+    },
+    {
+      "album": {
+        "name": "The Sun of Our Life",
+        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313160,
+      "name": "Song",
+      "url": "https://open.spotify.com/track/3mg8Bw4u8SuPZRvW89S0Hc"
     },
     {
       "album": {
@@ -4948,7 +4966,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 163898,
       "name": "There Was a Time That I Was Blind",
       "url": "https://open.spotify.com/track/46SadSwrEqLAzLSSEvveW9"

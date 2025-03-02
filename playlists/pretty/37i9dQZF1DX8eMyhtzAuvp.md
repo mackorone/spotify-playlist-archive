@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > a misty winter in the romantic city awaits
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,513 likes - 40 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,485 likes - 40 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 39 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 |
 | 40 | [Weekend](https://open.spotify.com/track/3bPLkSt302FlxKlkgUTV2V) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Echo EP](https://open.spotify.com/album/6PRtferHHivsBUOzYZ04fz) | 3:54 |
 
-Snapshot ID: `Z6PiLwAAAADRbYhy7sIosoy5zzqwd8b4`
+Snapshot ID: `Z6PiLwAAAACitWgLHDPnV0JSxa0LP5EK`

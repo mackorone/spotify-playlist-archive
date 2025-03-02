@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287 likes - 529 songs - 1 day 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 288 likes - 529 songs - 1 day 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -538,4 +538,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 528 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 529 | [Amorzinho Meia Boca](https://open.spotify.com/track/64qDlct5yxqcZQkfSm7F8Q) | [Guto e Rafael](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Ao Vivo em Goiânia](https://open.spotify.com/album/0OFyjM0idm1n0AmVRaw9q6) | 2:43 |
 
-Snapshot ID: `Abq1KgAAAACH/zA4vyCx/TwncGhRddvK`
+Snapshot ID: `Abq6wAAAAACf0B7VlmQ47QsiSNBCa3Xv`

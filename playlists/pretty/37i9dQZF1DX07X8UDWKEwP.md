@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,482 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,490 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 2 | [Hello, What's Up](https://open.spotify.com/track/11GVewr1WRV4CFJtgrL5mK) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Hello,What's Up](https://open.spotify.com/album/6hDFSysxL72NCGP0mKHHeK) | 3:10 |
 | 3 | [Nada Más](https://open.spotify.com/track/1gRcJF4V0Mcw6MT7keHIEt) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Nada Más](https://open.spotify.com/album/6WMDYWIAJWQp6gv3yO8FXD) | 3:10 |
 | 4 | [Borrón y Cuenta Nueva](https://open.spotify.com/track/2s4qBR3yaAvuVSTRR23wzS) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Borrón y Cuenta Nueva](https://open.spotify.com/album/2K41UHPju1j3EWmoePHt4S) | 3:05 |
-| 5 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender \(Clean\)](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
+| 5 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
 | 6 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 | 7 | [La Foto](https://open.spotify.com/track/3PtyrGPCTOBEA4wgB09dkR) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [La Foto](https://open.spotify.com/album/3QmgsnJzvC3Iahck0d07XV) | 4:28 |
 | 8 | [Apego Emocional](https://open.spotify.com/track/3mYXBDTqUixQk4flZ3bbJO) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Apego Emocional](https://open.spotify.com/album/6Gr26CThK4xZ7ulKVkKsd2) | 3:22 |

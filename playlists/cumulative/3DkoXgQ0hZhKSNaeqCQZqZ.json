@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/4ku6hiP8aiueGRUtaDzwT0"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Case",
+          "url": "https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "Free Tonight",
+      "url": "https://open.spotify.com/track/6Y0rTVgEHLbyv2LaFHMbHB"
+    },
+    {
+      "album": {
         "name": "FURRIES JUST WANNA HAVE FUN!",
         "url": "https://open.spotify.com/album/2d9lTBrplUQSXxKXJGVI6b"
       },
@@ -4566,6 +4584,24 @@
       "duration_ms": 204709,
       "name": "Rose-Tinted Glasses",
       "url": "https://open.spotify.com/track/71ykIZT3YrrA4tCc1rGFng"
+    },
+    {
+      "album": {
+        "name": "ROYALTY",
+        "url": "https://open.spotify.com/album/7x8QpxqMPfoN2rOYP50QGx"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Case",
+          "url": "https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185886,
+      "name": "ROYALTY",
+      "url": "https://open.spotify.com/track/7km3vpKM3z7Febi2p69ij3"
     },
     {
       "album": {

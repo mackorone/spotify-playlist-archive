@@ -1193,6 +1193,28 @@
     },
     {
       "album": {
+        "name": "Shape Of My Heart",
+        "url": "https://open.spotify.com/album/1ZdRMznFSc4cLTNk2eTq2W"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Clive Hunt",
+          "url": "https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Shape Of My Heart",
+      "url": "https://open.spotify.com/track/3OqJ4t667BczIotFZULjIq"
+    },
+    {
+      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
       },

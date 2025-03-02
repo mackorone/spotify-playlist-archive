@@ -103,6 +103,36 @@
     },
     {
       "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/7GokiCOPcgKDsWaXUkjqli"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "M.K",
+          "url": "https://open.spotify.com/artist/6s6Ejw3hKQlTCi6yVHPMki"
+        },
+        {
+          "name": "Igni",
+          "url": "https://open.spotify.com/artist/5TZxii3VFeubJqXSWyAhkh"
+        },
+        {
+          "name": "Varga Norbi",
+          "url": "https://open.spotify.com/artist/3LQD7ygHka6JxAyllNLPta"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/29snt77VXxUpJqMOMDSUuo"
+    },
+    {
+      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -644,6 +674,24 @@
       "duration_ms": 149673,
       "name": "Inkassz\u00f3",
       "url": "https://open.spotify.com/track/7n5JBAnjVBTFgTEsd27bTU"
+    },
+    {
+      "album": {
+        "name": "2023",
+        "url": "https://open.spotify.com/album/6TGD1FXUBasDg8idQ9IGP5"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Jamaica pt. 1 (Apartman)",
+      "url": "https://open.spotify.com/track/0rvE94vL7lrFFpsM5UzgYh"
     },
     {
       "album": {

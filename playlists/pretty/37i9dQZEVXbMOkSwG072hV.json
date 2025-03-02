@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L1UmoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L1Z4IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "M\u00fasica em Divers\u00e3o",
         "url": "https://open.spotify.com/album/4M2PiD8XBzefdqnwm8t3UY"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7whyNvE57iC72fsLoM3lPL"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "a \u00faltima dan\u00e7a",
         "url": "https://open.spotify.com/album/2eooZYrJukknYGymvXdl5E"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/096gZM7wp5GKHBwtWY3d0z"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "O Que Bate \u00c9 Maluquice",
         "url": "https://open.spotify.com/album/4cFKT3iVF65cmcBbgw5FWJ"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/5wV5dO1GOI4srs4Um5cJXo"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Descer",
         "url": "https://open.spotify.com/album/3qVMMSS3JJjcYutCfHr38j"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2OMkXPz6pHdKJSkzxG0MwZ"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Tamb\u00e9m",
         "url": "https://open.spotify.com/album/7pAkOFYG9LALzbJZl1FVlc"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/3mR8h8YKamYcrzW6jZhLw3"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
         "url": "https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w"
@@ -153,27 +153,7 @@
       "url": "https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Jam #1",
-        "url": "https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR"
-      },
-      "artists": [
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 148420,
-      "name": "Jam #01 - Tudo Que Eu Fa\u00e7o",
-      "url": "https://open.spotify.com/track/16uCw1aj8Qbi03TlbGY2si"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "M\u00e9dio Versalico",
         "url": "https://open.spotify.com/album/68in7bmnv2YgoEFyx6hpD7"
@@ -193,7 +173,27 @@
       "url": "https://open.spotify.com/track/207HLdUVIdZEUMRX15BIwD"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Jam #1",
+        "url": "https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR"
+      },
+      "artists": [
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 148420,
+      "name": "Jam #01 - Tudo Que Eu Fa\u00e7o",
+      "url": "https://open.spotify.com/track/16uCw1aj8Qbi03TlbGY2si"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Sambas de Enredo Rio Carnaval 2025",
         "url": "https://open.spotify.com/album/2BdaFtjbJo0wrU8HFOjnP8"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/4LmmmKA36fx4k2Nw5T6m23"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Toma Jack do Urso e do Gardenal",
         "url": "https://open.spotify.com/album/0mWlulVf9MPZiHitCbzmki"
@@ -237,27 +237,7 @@
       "url": "https://open.spotify.com/track/2Y0G2WcI2PHbAtJZu1iZSc"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Vem Novinha pro Cafofo",
-        "url": "https://open.spotify.com/album/3jQam6Zyvx5hR1HRllI4vm"
-      },
-      "artists": [
-        {
-          "name": "Trov\u00e3o no Beat",
-          "url": "https://open.spotify.com/artist/6kS3lGSFbGHJbvsnD4MRl1"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Vem Novinha pro Cafofo",
-      "url": "https://open.spotify.com/track/2XB2Mq2J3695WoYrIOljUZ"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Resenha do Arrocha",
         "url": "https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt"
@@ -277,7 +257,27 @@
       "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Vem Novinha pro Cafofo",
+        "url": "https://open.spotify.com/album/3jQam6Zyvx5hR1HRllI4vm"
+      },
+      "artists": [
+        {
+          "name": "Trov\u00e3o no Beat",
+          "url": "https://open.spotify.com/artist/6kS3lGSFbGHJbvsnD4MRl1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "Vem Novinha pro Cafofo",
+      "url": "https://open.spotify.com/track/2XB2Mq2J3695WoYrIOljUZ"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Proibido Terminar (Ao Vivo)",
         "url": "https://open.spotify.com/album/2wOZJYlZoefQ4fWRSiz6R8"
@@ -293,107 +293,7 @@
       "url": "https://open.spotify.com/track/7shkORZD3NNi6waqw7eIqT"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Vou Raspar Seu Bigodin",
-        "url": "https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Vou Raspar Seu Bigodin",
-      "url": "https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "S\u00f3 Quero Ver",
-      "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Seresta Do Pai Das Crian\u00e7as (Ao Vivo / EP01)",
-        "url": "https://open.spotify.com/album/1le3fy7ZyCEjK2wkxu27LR"
-      },
-      "artists": [
-        {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
-        },
-        {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
-          "name": "Seresta do Rasta",
-          "url": "https://open.spotify.com/artist/76dRnYNyHy7h4hYQXyd2Oj"
-        },
-        {
-          "name": "erick woods",
-          "url": "https://open.spotify.com/artist/5G9IxzIIUedIgOgLwbBc9N"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tadala - Ao Vivo",
-      "url": "https://open.spotify.com/track/0WNwVKkUp2AvIlK6grc5Ra"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "MINHA PIKA TA DURA",
-        "url": "https://open.spotify.com/album/7Ivh75meI5snPkOssDWKgJ"
-      },
-      "artists": [
-        {
-          "name": "petrus.wav",
-          "url": "https://open.spotify.com/artist/0yvZFjUmr182h8ibQd1LrM"
-        },
-        {
-          "name": "Novin Yarp",
-          "url": "https://open.spotify.com/artist/5SubpKUMhws2xMDQQW84N8"
-        },
-        {
-          "name": "Mc Mary Maii",
-          "url": "https://open.spotify.com/artist/6znF2OanyBjad0ycfBUfGH"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "MINHA PIKA TA DURA",
-      "url": "https://open.spotify.com/track/2pM9IUZ9uIapAN6irpE9A4"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
@@ -417,10 +317,10 @@
       "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
-        "name": "Born Again (feat. Doja Cat & RAYE)",
-        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
       "artists": [
         {
@@ -438,42 +338,30 @@
       ],
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
-      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
+      "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+        "name": "Vou Raspar Seu Bigodin",
+        "url": "https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
-      },
-      "artists": [
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
         {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
         }
       ],
-      "duration_ms": 624000,
-      "name": "O Fogo Arder\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
+      "duration_ms": 104000,
+      "name": "Vou Raspar Seu Bigodin",
+      "url": "https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Novinha Patricinha",
         "url": "https://open.spotify.com/album/43BVjTZtlCOScYbjyDKYhT"
@@ -501,7 +389,7 @@
       "url": "https://open.spotify.com/track/17OVoKYoyVlIl8HtrdVDUH"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "MOTINHA 2.0 (Mete Marcha)",
         "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
@@ -521,23 +409,75 @@
       "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
         }
       ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+      "duration_ms": 169546,
+      "name": "S\u00f3 Quero Ver",
+      "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "duration_ms": 624000,
+      "name": "O Fogo Arder\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "MINHA PIKA TA DURA",
+        "url": "https://open.spotify.com/album/7Ivh75meI5snPkOssDWKgJ"
+      },
+      "artists": [
+        {
+          "name": "petrus.wav",
+          "url": "https://open.spotify.com/artist/0yvZFjUmr182h8ibQd1LrM"
+        },
+        {
+          "name": "Novin Yarp",
+          "url": "https://open.spotify.com/artist/5SubpKUMhws2xMDQQW84N8"
+        },
+        {
+          "name": "Mc Mary Maii",
+          "url": "https://open.spotify.com/artist/6znF2OanyBjad0ycfBUfGH"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "MINHA PIKA TA DURA",
+      "url": "https://open.spotify.com/track/2pM9IUZ9uIapAN6irpE9A4"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Rock do Ro\u00e7a Funk",
         "url": "https://open.spotify.com/album/2xV0swMFquEJfVcfyNRFqk"
@@ -561,7 +501,67 @@
       "url": "https://open.spotify.com/track/6BKf7AYlGEXC2vZ85tMCbt"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Seresta Do Pai Das Crian\u00e7as (Ao Vivo / EP01)",
+        "url": "https://open.spotify.com/album/1le3fy7ZyCEjK2wkxu27LR"
+      },
+      "artists": [
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        },
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Seresta do Rasta",
+          "url": "https://open.spotify.com/artist/76dRnYNyHy7h4hYQXyd2Oj"
+        },
+        {
+          "name": "erick woods",
+          "url": "https://open.spotify.com/artist/5G9IxzIIUedIgOgLwbBc9N"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tadala - Ao Vivo",
+      "url": "https://open.spotify.com/track/0WNwVKkUp2AvIlK6grc5Ra"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Quem \u00c9 Esse?",
         "url": "https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx"
@@ -577,27 +577,7 @@
       "url": "https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "A Nata de Tudo - A Ovelha Negra",
-        "url": "https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx"
-      },
-      "artists": [
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        }
-      ],
-      "duration_ms": 299076,
-      "name": "Medley de Igarat\u00e1 4",
-      "url": "https://open.spotify.com/track/6ejIcf1OdUmtOJ7fpFcEXo"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Fogo Que Consome (Ao Vivo)",
         "url": "https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj"
@@ -617,7 +597,27 @@
       "url": "https://open.spotify.com/track/2mXl01XyGFBLmZEv4M1dzf"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "A Nata de Tudo - A Ovelha Negra",
+        "url": "https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx"
+      },
+      "artists": [
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "duration_ms": 299076,
+      "name": "Medley de Igarat\u00e1 4",
+      "url": "https://open.spotify.com/track/6ejIcf1OdUmtOJ7fpFcEXo"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Pirocada Quente",
         "url": "https://open.spotify.com/album/1KhJdFsGysry0ClG5S8t16"
@@ -641,7 +641,23 @@
       "url": "https://open.spotify.com/track/2Z1DmmPWD3Lm0dWAxMfjxG"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "duration_ms": 519000,
+      "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
+      "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Nossas Fotos",
         "url": "https://open.spotify.com/album/3aVb56y4Uwa70qqEnlq4yi"
@@ -661,39 +677,23 @@
       "url": "https://open.spotify.com/track/7fW5TnCdNFhdPw7C2QakEO"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+        "name": "Monobloco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2tkOKOthHAVDIEyGwv0P32"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Monobloco",
+          "url": "https://open.spotify.com/artist/4EU2koSlyxLmiyslykCis5"
         }
       ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+      "duration_ms": 410493,
+      "name": "Taj Mahal / Filho Maravilha / Pa\u00eds Tropical - Ao Vivo",
+      "url": "https://open.spotify.com/track/5lHuWUt1vdpef2bl93mp3P"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
-      },
-      "artists": [
-        {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
-        }
-      ],
-      "duration_ms": 519000,
-      "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
-      "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Meu Carro nao tem Porta Luva (Remastered 2024)",
         "url": "https://open.spotify.com/album/2lspGbGOU0Bz2ZH4sfhN5b"
@@ -713,139 +713,7 @@
       "url": "https://open.spotify.com/track/0vYrfm0eUQyi6fWbYnBiDc"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Volume 15",
-        "url": "https://open.spotify.com/album/0eCNnoDXB1o1QVgw5azphB"
-      },
-      "artists": [
-        {
-          "name": "Silvanno Salles",
-          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
-        }
-      ],
-      "duration_ms": 219245,
-      "name": "Defeito Meu",
-      "url": "https://open.spotify.com/track/7kJ0GRHbVktMvLOCjXV7dn"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "NUNCA MUDA?",
-        "url": "https://open.spotify.com/album/6xUYw5goKIoyJQi9C27UBy"
-      },
-      "artists": [
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        },
-        {
-          "name": "NXGHT!",
-          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
-        }
-      ],
-      "duration_ms": 81500,
-      "name": "NUNCA MUDA?",
-      "url": "https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
-      },
-      "artists": [
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "name": "\u00cdcaro e Gilmar",
-          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "Baqueado - Ao Vivo",
-      "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Xonad\u00e3o",
-        "url": "https://open.spotify.com/album/7iymnfAgEwGuTNl5poUEQf"
-      },
-      "artists": [
-        {
-          "name": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "Xonad\u00e3o",
-      "url": "https://open.spotify.com/track/3JjHRSSvw4JttVKb7UTz62"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Tu \u00c9s Deus (A Ele)",
-        "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
-      },
-      "artists": [
-        {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
-        },
-        {
-          "name": "Lucas & Evelyn Cortazio",
-          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 304391,
-      "name": "Tu \u00c9s Deus - A Ele",
-      "url": "https://open.spotify.com/track/1Gol2VjZYbYBsptumlr8jy"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Speak for Yourself (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
-      },
-      "artists": [
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 215338,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Sambas de Enredo Rio Carnaval 2025",
         "url": "https://open.spotify.com/album/2BdaFtjbJo0wrU8HFOjnP8"
@@ -869,7 +737,247 @@
       "url": "https://open.spotify.com/track/7uWhHzNBn4OhfkaYyFWpk7"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Tu \u00c9s Deus (A Ele)",
+        "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
+      },
+      "artists": [
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        },
+        {
+          "name": "Lucas & Evelyn Cortazio",
+          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 304391,
+      "name": "Tu \u00c9s Deus - A Ele",
+      "url": "https://open.spotify.com/track/1Gol2VjZYbYBsptumlr8jy"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2025",
+        "url": "https://open.spotify.com/album/2BdaFtjbJo0wrU8HFOjnP8"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "Acad\u00eamicos Do Grande Rio",
+          "url": "https://open.spotify.com/artist/4lKJgJgxxqOB1OObclhQWA"
+        },
+        {
+          "name": "Evandro Malandro",
+          "url": "https://open.spotify.com/artist/0WyPGG1TqaUbw0HQaUYvRW"
+        }
+      ],
+      "duration_ms": 316864,
+      "name": "Pororocas Parawaras: As \u00c1guas dos Meus Encantos nas Contas dos Curimb\u00f3s",
+      "url": "https://open.spotify.com/track/00kfAOW2reisBFV5kJf0sf"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "NUNCA MUDA?",
+        "url": "https://open.spotify.com/album/6xUYw5goKIoyJQi9C27UBy"
+      },
+      "artists": [
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        }
+      ],
+      "duration_ms": 81500,
+      "name": "NUNCA MUDA?",
+      "url": "https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Baqueado - Ao Vivo",
+      "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Volume 15",
+        "url": "https://open.spotify.com/album/0eCNnoDXB1o1QVgw5azphB"
+      },
+      "artists": [
+        {
+          "name": "Silvanno Salles",
+          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
+        }
+      ],
+      "duration_ms": 219245,
+      "name": "Defeito Meu",
+      "url": "https://open.spotify.com/track/7kJ0GRHbVktMvLOCjXV7dn"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Montagem Totally Strange",
+        "url": "https://open.spotify.com/album/35e7by9KnpAKb01SCj5SHn"
+      },
+      "artists": [
+        {
+          "name": "MC Caja",
+          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
+        },
+        {
+          "name": "MC BN",
+          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
+        },
+        {
+          "name": "MC BF",
+          "url": "https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu"
+        },
+        {
+          "name": "DJ YUZAK",
+          "url": "https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS"
+        }
+      ],
+      "duration_ms": 145351,
+      "name": "Montagem Totally Strange",
+      "url": "https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "O Ver\u00e3o Bateu Em Minha Porta",
+        "url": "https://open.spotify.com/album/0l6yQrb01gmVs9HNJp7nta"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "O Ver\u00e3o Bateu Em Minha Porta - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Y1gfUWswhEKfGddd72XhF"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2025",
+        "url": "https://open.spotify.com/album/2BdaFtjbJo0wrU8HFOjnP8"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "Beija-Flor de Nil\u00f3polis",
+          "url": "https://open.spotify.com/artist/3NEtrqMCDzHr17K7OkO7MD"
+        },
+        {
+          "name": "Neguinho Da Beija Flor",
+          "url": "https://open.spotify.com/artist/799vto7KXqGNiIYGCiEFa1"
+        }
+      ],
+      "duration_ms": 367919,
+      "name": "La\u00edla de Todos os Santos, La\u00edla de Todos os Sambas",
+      "url": "https://open.spotify.com/track/5R43tAl5G6Vxm2dXZmCtDd"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Baile de Carnaval: As Melhores Marchinhas de Todos os Tempos",
+        "url": "https://open.spotify.com/album/2soSNWvOOVLzQutEEkXtIA"
+      },
+      "artists": [
+        {
+          "name": "Banda Gol",
+          "url": "https://open.spotify.com/artist/3wJpJ3peSD0wgw8cttrr8k"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Cabeleira Do Zez\u00e9",
+      "url": "https://open.spotify.com/track/7rwXwVOfULqhoa8vdOSLJx"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
+      "album": {
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 215338,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
+    },
+    {
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Algo Novo Vindo",
         "url": "https://open.spotify.com/album/6iANodkoYv17npqJBVfbo4"
@@ -905,47 +1013,7 @@
       "url": "https://open.spotify.com/track/6fP2IJGSEvzIFEGJDNWvf4"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Sambas de Enredo Rio Carnaval 2025",
-        "url": "https://open.spotify.com/album/2BdaFtjbJo0wrU8HFOjnP8"
-      },
-      "artists": [
-        {
-          "name": "Rio Carnaval",
-          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
-        },
-        {
-          "name": "Acad\u00eamicos Do Grande Rio",
-          "url": "https://open.spotify.com/artist/4lKJgJgxxqOB1OObclhQWA"
-        },
-        {
-          "name": "Evandro Malandro",
-          "url": "https://open.spotify.com/artist/0WyPGG1TqaUbw0HQaUYvRW"
-        }
-      ],
-      "duration_ms": 316864,
-      "name": "Pororocas Parawaras: As \u00c1guas dos Meus Encantos nas Contas dos Curimb\u00f3s",
-      "url": "https://open.spotify.com/track/00kfAOW2reisBFV5kJf0sf"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Nothing Breaks Like a Heart - Spotify Singles",
-        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218508,
-      "name": "Nothing Breaks Like a Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
@@ -961,96 +1029,20 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2025-02-28 15:15:01",
+      "added_at": "2025-03-01 14:41:40",
       "album": {
-        "name": "Kebrada Boyz",
-        "url": "https://open.spotify.com/album/3UjaJRBHx7Zf2j65TLtJJy"
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
       },
       "artists": [
         {
-          "name": "Link do Zap",
-          "url": "https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         }
       ],
-      "duration_ms": 166711,
-      "name": "Anti Her\u00f3i",
-      "url": "https://open.spotify.com/track/6MNNMBN1TbKm2hkRLmm243"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Montagem Totally Strange",
-        "url": "https://open.spotify.com/album/35e7by9KnpAKb01SCj5SHn"
-      },
-      "artists": [
-        {
-          "name": "MC Caja",
-          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
-        },
-        {
-          "name": "MC BN",
-          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
-        },
-        {
-          "name": "MC BF",
-          "url": "https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu"
-        },
-        {
-          "name": "DJ YUZAK",
-          "url": "https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS"
-        }
-      ],
-      "duration_ms": 145351,
-      "name": "Montagem Totally Strange",
-      "url": "https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Sambas de Enredo Rio Carnaval 2025",
-        "url": "https://open.spotify.com/album/2BdaFtjbJo0wrU8HFOjnP8"
-      },
-      "artists": [
-        {
-          "name": "Rio Carnaval",
-          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
-        },
-        {
-          "name": "Beija-Flor de Nil\u00f3polis",
-          "url": "https://open.spotify.com/artist/3NEtrqMCDzHr17K7OkO7MD"
-        },
-        {
-          "name": "Neguinho Da Beija Flor",
-          "url": "https://open.spotify.com/artist/799vto7KXqGNiIYGCiEFa1"
-        }
-      ],
-      "duration_ms": 367919,
-      "name": "La\u00edla de Todos os Santos, La\u00edla de Todos os Sambas",
-      "url": "https://open.spotify.com/track/5R43tAl5G6Vxm2dXZmCtDd"
-    },
-    {
-      "added_at": "2025-02-28 15:15:01",
-      "album": {
-        "name": "Observando Essa Salada",
-        "url": "https://open.spotify.com/album/3B0iWBDRvetLROpcfN8aya"
-      },
-      "artists": [
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Dj Yuri Pedrada",
-          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 181644,
-      "name": "Observando Essa Salada",
-      "url": "https://open.spotify.com/track/3WxetTBTlpfyknxJfPQ7eQ"
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

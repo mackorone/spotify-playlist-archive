@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-880 songs - 2 day 4 hr 13 min
+881 songs - 2 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,6 +553,7 @@
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-10-04 |  |
 | [Neo Surf](https://open.spotify.com/track/6XmT8fIEfcS3ZSVEz00U7m) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Neo Surf](https://open.spotify.com/album/2g3h5sHGcVvbvsit77Sbbb) | 3:20 | 2021-11-19 | 2023-02-21 |
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 | 2025-02-08 |
+| [Never Felt Better](https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Never Felt Better](https://open.spotify.com/album/6LgXtpkfa3VlhfPZhWGhem) | 4:27 | 2025-02-28 |  |
 | [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 2:47 | 2020-10-05\* | 2022-04-15 |
 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 | 2020-10-06 | 2022-04-14 |
 | [Next to You](https://open.spotify.com/track/2mKtxLxiekDg8kH64LtTHK) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [KAZU](https://open.spotify.com/artist/0prgQn2c68gb0HZvimE9bo) | [Next to You](https://open.spotify.com/album/0ZPq4mLSF1UqIAMw360jtV) | 4:25 | 2020-10-05\* | 2022-04-21 |
@@ -602,7 +603,7 @@
 | [Outside](https://open.spotify.com/track/4TX9ZeGeNol9GYTUqUAUSe) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [EP III](https://open.spotify.com/album/4DAEmnrLvgEYRWOVuAbqOn) | 4:10 | 2021-03-16 | 2022-04-01 |
 | [Outside Sublime](https://open.spotify.com/track/1N4JlfiTYPcC3b1SoVs3qs) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Outside Sublime](https://open.spotify.com/album/6tHq2166Kekr60uJly4sqT) | 3:31 | 2020-10-05\* | 2020-10-06 |
 | [Pack a Punch](https://open.spotify.com/track/2YmHg6zdtaGNYI31CkjN5p) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Pack a Punch](https://open.spotify.com/album/4Anv5S75ByF5yZlbh6Lgc8) | 3:42 | 2021-11-19 | 2022-06-04 |
-| [PARADISE](https://open.spotify.com/track/2TZo3UoRcB3F9CjeglnvS0) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/5xTqXvl7kekwLUaoZ0f3V1) | 2:21 | 2024-11-15 |  |
+| [PARADISE](https://open.spotify.com/track/2TZo3UoRcB3F9CjeglnvS0) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/5xTqXvl7kekwLUaoZ0f3V1) | 2:21 | 2024-11-15 | 2025-03-02 |
 | [PARADISE](https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy) | 2:21 | 2023-12-12 | 2024-04-06 |
 | [PARADISE](https://open.spotify.com/track/6rZjqLz4k7psYLWDgDTw8l) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/5oLudn7CAOILun2yHH48jB) | 2:21 | 2023-10-02 | 2023-12-09 |
 | [Pass The Hours](https://open.spotify.com/track/4EVpdoFt3L6sAa4hivmWz9) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/68oS2XnHyYFPwOeknwOabE) | 3:43 | 2020-10-05\* | 2022-04-18 |

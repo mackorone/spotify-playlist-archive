@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Dawid Tyszkowski
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,616 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,625 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wstyd](https://open.spotify.com/track/0YgKSJYoOyPWoyOoAOTkzk) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Mam szczęście](https://open.spotify.com/album/3UNZoZc7MNA1mcsREhVr43) | 2:44 |
 | 2 | [nie mam dla ciebie nic](https://open.spotify.com/track/0CrP2iqI8dOZG75eLtr2LX) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Piotr Rogucki](https://open.spotify.com/artist/6gG1FOW5CoylM7858JYboD) | [nie mam dla ciebie nic](https://open.spotify.com/album/2SOM72XykpsANO0wWmOoU0) | 2:41 |
 | 3 | [Gdybym \- MTV Unplugged \- Live](https://open.spotify.com/track/5O7rOd3fDcR7GU3DipcdnC) | [Wojciech Waglewski](https://open.spotify.com/artist/7JD5zcxm7BuEHC7fUiyVSN), [Voo Voo](https://open.spotify.com/artist/4vC1DrwqCb43puGttDWlwL), [Masha Natanson](https://open.spotify.com/artist/7JpXUkcIxxpvPSbcq8r7A5) | [Gdybym \- MTV Unplugged \(Live\)](https://open.spotify.com/album/5NkR2RPgySlWSbJGorQ0fJ) | 10:06 |
-| 4 | [Pomiędzy](https://open.spotify.com/track/47lFYYyNozHmGldFdHOeFJ) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Pomiędzy](https://open.spotify.com/album/3A6zksDKnaiIvQtkGuFxQ6) | 3:23 |
+| 4 | [Pomiędzy](https://open.spotify.com/track/47lFYYyNozHmGldFdHOeFJ) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Dan Diggas](https://open.spotify.com/artist/6846MCGHcWhiPzwI3eNLZF), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Pomiędzy](https://open.spotify.com/album/3A6zksDKnaiIvQtkGuFxQ6) | 3:23 |
 | 5 | [Kurz](https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Kurz](https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg) | 2:35 |
 | 6 | [🏡](https://open.spotify.com/track/0JSROfzwG7hb0eravi43wZ) | [Linia Nocna](https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe) | [🏡](https://open.spotify.com/album/1XucMSxaVRKeXu8bRlZv7d) | 2:02 |
 | 7 | [Niebo złote ci otworzę](https://open.spotify.com/track/16qDeTpZPexOEcbzeezF2V) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Kari Sal](https://open.spotify.com/artist/3xi3w2OT4QOfccHax94P3i), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH), [Andrzej Święs](https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Dawid Fortuna](https://open.spotify.com/artist/4xVlgpnFp1beopNgUNSIDk) | [Niebo złote ci otworzę](https://open.spotify.com/album/3yaDdC4AbZUTBqj8cw8kFD) | 5:18 |

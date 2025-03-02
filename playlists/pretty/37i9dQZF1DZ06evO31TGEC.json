@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 49435,
+  "num_followers": 49456,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAADJFWusKwP5cEcMUDQ2NcD0",
+  "snapshot_id": "Z8D8gAAAAAB/VbR8YU3hPDlS0kKV0kzP",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon de Nino",
-        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 162746,
-      "name": "Mi Todo",
-      "url": "https://open.spotify.com/track/11BkL2zleBIdQoaO8ycDfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corazon de Nino",
+        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 162746,
+      "name": "Mi Todo",
+      "url": "https://open.spotify.com/track/11BkL2zleBIdQoaO8ycDfA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Yo Y La Luna",
         "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
       },
@@ -235,22 +235,6 @@
       "duration_ms": 152960,
       "name": "T\u00fa, Yo Y La Luna",
       "url": "https://open.spotify.com/track/37Pq9KiFf4jMkIXXra7Jbt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "Terrenal",
-      "url": "https://open.spotify.com/track/64o66yfYs63e64sNqMKNJO"
     },
     {
       "added_at": null,
@@ -287,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Terrenal",
+      "url": "https://open.spotify.com/track/64o66yfYs63e64sNqMKNJO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Yo Y La Luna",
         "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Ap\u00e1rtame Esta Noche",
-      "url": "https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 218986,
       "name": "S\u00ed Te Llam\u00e9",
       "url": "https://open.spotify.com/track/0jSpFvnSfDN76zDtxXg4mW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Ap\u00e1rtame Esta Noche",
+      "url": "https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 171786,
-      "name": "Tengo Celos",
-      "url": "https://open.spotify.com/track/65Mn4u3S7pgxxn424KcuZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Rancheras Consentidas",
         "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 195600,
       "name": "El Paletero",
       "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 171786,
+      "name": "Tengo Celos",
+      "url": "https://open.spotify.com/track/65Mn4u3S7pgxxn424KcuZ5"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apasionado (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
-      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Aniversario Duetos",
         "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 174706,
       "name": "En La Misma Cama - Dueto Con El Chapo",
       "url": "https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apasionado (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
+      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Cuando Era Ni\u00f1o",
-      "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eran De Azucar Sus Labios",
         "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 187848,
       "name": "Eran De Azucar Sus Labios",
       "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Cuando Era Ni\u00f1o",
+      "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
     },
     {
       "added_at": null,

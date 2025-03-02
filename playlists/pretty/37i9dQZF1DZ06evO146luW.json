@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 47777,
+  "num_followers": 47786,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAABsejnxIU28d2Tg+ifxiphU",
+  "snapshot_id": "Z8D8gAAAAADdWIV+g/ftEKB1mXWXbB1/",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 274716,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
+      "duration_ms": 210576,
+      "name": "I'm Done",
+      "url": "https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 210576,
-      "name": "I'm Done",
-      "url": "https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE"
+      "duration_ms": 338346,
+      "name": "Honey Pain",
+      "url": "https://open.spotify.com/track/21dB5hK5tAJaGD3VTbQ7ly"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 338346,
-      "name": "Honey Pain",
-      "url": "https://open.spotify.com/track/21dB5hK5tAJaGD3VTbQ7ly"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 389972,
       "name": "Too High to Cry",
       "url": "https://open.spotify.com/track/3MntWcPyUZDILLsMCSrqTD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 260664,
+      "name": "FGA",
+      "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 260664,
-      "name": "FGA",
-      "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 180558,
       "name": "Nothing Left to Say",
       "url": "https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 232326,
+      "name": "Sundy or Mundy",
+      "url": "https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
       "duration_ms": 233226,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 232326,
-      "name": "Sundy or Mundy",
-      "url": "https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN"
     },
     {
       "added_at": null,

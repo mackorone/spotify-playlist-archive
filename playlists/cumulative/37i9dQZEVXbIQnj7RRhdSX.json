@@ -12426,7 +12426,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 214929,
       "name": "Dimenticarsi alle 7",
       "url": "https://open.spotify.com/track/3W1xZMEfi44Wxts9HMBJJS"
@@ -12444,7 +12444,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 214929,
       "name": "Dimenticarsi alle 7",
       "url": "https://open.spotify.com/track/3yxTuWxBZ2T7qKcj29l7xj"
@@ -17126,6 +17126,28 @@
       "duration_ms": 150769,
       "name": "Gazelle (feat. Ele A)",
       "url": "https://open.spotify.com/track/4vqY8SB6XArs7IkEpWHTw9"
+    },
+    {
+      "album": {
+        "name": "GDE WOW (feat. Shiva)",
+        "url": "https://open.spotify.com/album/0aN9q9vlaoVcuGaA3VirkC"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132347,
+      "name": "GDE WOW (feat. Shiva)",
+      "url": "https://open.spotify.com/track/5aKUmqW53tAZ2aslu5gV6l"
     },
     {
       "album": {
@@ -33156,7 +33178,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 168240,
       "name": "Oh Mamma Mia (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI"
@@ -37162,7 +37184,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 186600,
       "name": "Quando sarai piccola",
       "url": "https://open.spotify.com/track/0tNVbYUSaIAueDcwd2Pobz"
@@ -39954,10 +39976,28 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 190611,
       "name": "Se t'innamori muori",
       "url": "https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6"
+      },
+      "artists": [
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190611,
+      "name": "Se t'innamori muori",
+      "url": "https://open.spotify.com/track/6MlIhakM4I7fZa2iLpijrr"
     },
     {
       "album": {
@@ -45614,7 +45654,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 188151,
       "name": "Tu sei il mattino",
       "url": "https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 
 > Break up songs, the best cure for a broken heart!
 
-[Filtr Norway](https://open.spotify.com/user/sonymusic) - 444,547 likes - 347 songs - 19 hr 4 min
+[Filtr Norway](https://open.spotify.com/user/sonymusic) - 444,538 likes - 347 songs - 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -306,7 +306,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 | 296 | [two nights \(feat\. Aminé\)](https://open.spotify.com/track/1CPNoBoQIc0dgK8MQDyx0T) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:24 |
 | 297 | [Bleeding Love](https://open.spotify.com/track/4sVndKpExqG6Za4ZJf8oB3) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Valentine's Day \- R&B Love](https://open.spotify.com/album/6oUTqYPV88CVjpv2H4Noo9) | 4:22 |
 | 298 | [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 |
-| 299 | [Love Lies \(with Normani\)](https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Love Lies \(with Normani\)](https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9) | 3:21 |
+| 299 | [Love Lies](https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Love Lies](https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9) | 3:21 |
 | 300 | [Why Haven't I Met You?](https://open.spotify.com/track/5NACaWLnFkMDY5c4IUiqml) | [Cameron Dallas](https://open.spotify.com/artist/5s3rUylqooMyGsFE0rOFJT) | [Why Haven't I Met You?](https://open.spotify.com/album/1ZeuKG9jHoFWsAqImprRC4) | 3:00 |
 | 301 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6lzLjIOyWTyTJvk0jraYee) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her: The Prelude](https://open.spotify.com/album/3arnVIFA8u1Jy3p2tn4MFr) | 4:08 |
 | 302 | [Cloudy](https://open.spotify.com/track/5E382bXE9IMoomWdvvbLde) | [Tessa Odden](https://open.spotify.com/artist/5fWn9g8ERHtGKWdkAuomBx) | [Cloudy](https://open.spotify.com/album/0FkrQlfcUdolygkblDBnD1) | 2:53 |

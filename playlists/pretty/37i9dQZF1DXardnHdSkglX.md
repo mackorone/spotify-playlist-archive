@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,853 likes - 122 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,930 likes - 122 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 121 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 |
 | 122 | [Goodbyes](https://open.spotify.com/track/7M1wP7mlIZwtKTEwBunSjw) | [Lo Cabana](https://open.spotify.com/artist/3zyCvzirdRdVPVUeawuuwC) | [Goodbyes](https://open.spotify.com/album/6clGJ2qeydc7HuUlVPU6b7) | 2:10 |
 
-Snapshot ID: `ZzNZ/gAAAADTrWGkqAISgwA+4H7bTR5P`
+Snapshot ID: `ZzNZ/gAAAAAFob8e+Bk8/euQ5+hgdp1r`

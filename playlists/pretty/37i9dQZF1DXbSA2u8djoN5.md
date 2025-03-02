@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Spike
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,098 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,107 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 16 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
 | 17 | [ÎN MINTEA MEA](https://open.spotify.com/track/2UGbgXQqLG4oF4mg7SMLh0) | [Katarina](https://open.spotify.com/artist/4Ju3I6CoOGlMgRrTNFrBis), [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ÎN MINTEA MEA](https://open.spotify.com/album/1pMCSGYEvPVvrelAPHvVNV) | 3:17 |
 | 18 | [Banii](https://open.spotify.com/track/2jnkQQr7AkyBj5uaM9KTUL) | [Amuly](https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq), [Bocaseca](https://open.spotify.com/artist/2maZfxC0gHjyTWEqo78VTV) | [Banii](https://open.spotify.com/album/47jt2bk45SOOJpkcDQ59MM) | 3:32 |
-| 19 | [Lumea mea](https://open.spotify.com/track/0TwkCs1rPKlMXbt7RZDzDh) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk), [Angeles](https://open.spotify.com/artist/6rxQ2Ki8x6She8CbMIEMFV) | [Lumea mea](https://open.spotify.com/album/1Agi8hJnjaxJhgEvxIwchl) | 2:50 |
+| 19 | [Lumea mea](https://open.spotify.com/track/0TwkCs1rPKlMXbt7RZDzDh) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk), [Angeles](https://open.spotify.com/artist/3tdg8XqJcJxUs0wpeKywzs) | [Lumea mea](https://open.spotify.com/album/1Agi8hJnjaxJhgEvxIwchl) | 2:50 |
 | 20 | [Voila](https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Voila](https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP) | 2:19 |
 | 21 | [Grinch](https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Grinch](https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6) | 3:14 |
 | 22 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |

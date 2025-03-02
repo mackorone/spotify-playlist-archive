@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 818 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Така съм аз, така си ти](https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4) | [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK), [Ivayla](https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt) | [Така съм аз, така си ти](https://open.spotify.com/album/4LkLJgHZ9HnFHnLcHYn6Ed) | 2:52 |
 | 50 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
 
-Snapshot ID: `L1UmoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L1Z4IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

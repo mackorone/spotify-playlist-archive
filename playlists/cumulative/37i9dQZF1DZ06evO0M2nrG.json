@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Como Te Hago Entender",
+        "url": "https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208980,
+      "name": "Como Te Hago Entender",
+      "url": "https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8"
+    },
+    {
+      "album": {
         "name": "Contigo Hasta El Final",
         "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
       },

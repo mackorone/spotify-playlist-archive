@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: Francis Mercier
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,267 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,298 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 59 | [Unutmam](https://open.spotify.com/track/4xHsMJIOcpmcGHsiCo4arP) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Unutmam](https://open.spotify.com/album/7KNZEBv3ZufECaxejSzeWr) | 2:51 |
 | 60 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
 
-Snapshot ID: `Z8FPdAAAAADrhjbUVb7O0EzvDwB7hH3T`
+Snapshot ID: `Z8FPdAAAAABZI1uJJke7kVTxxudWIPr1`

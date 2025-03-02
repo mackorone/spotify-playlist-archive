@@ -1,13 +1,33 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 53584,
+  "num_followers": 53617,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAABSYuoVg2OQqm6IKifh79nj",
+  "snapshot_id": "Z8D8gAAAAAByjXetua18+MGHEEVdasB/",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo elegiste a \u00e9l (la renta 2)",
+        "url": "https://open.spotify.com/album/5jQT5UY5yJTHqYkkEkpuV3"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "Lo elegiste a \u00e9l (la renta 2)",
+      "url": "https://open.spotify.com/track/4s1zaDDDsJtpV975lTE53j"
+    },
     {
       "added_at": null,
       "album": {

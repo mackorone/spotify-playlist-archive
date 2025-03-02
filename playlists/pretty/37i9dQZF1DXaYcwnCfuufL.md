@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYcwnCfuufL.md) - [plain]
 
 > 우리의 얼과 소리가 담긴 국악음악을 즐겨보세요\. \(커버: 엄유정\(Eom Yu Jeong\)\) \(Enjoy Korean national music with our spirit and sound.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,724 likes - 57 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,743 likes - 57 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYcwnCfuufL.md) - [plain]
 | 56 | [The Jangmo taryeong\(mother in law song\)](https://open.spotify.com/track/0sU57ESEg9chbaBShRPbMA) | [namhaesori project](https://open.spotify.com/artist/4cgXvHd6tSQPhYGo99h0O0) | [Namhae Island Folklore](https://open.spotify.com/album/6vRoa0ZzPEfrcXsNzSP1u9) | 4:02 |
 | 57 | [육자배기](https://open.spotify.com/track/0e8pQNSVEjYJ2m8qVmwODm) | [이성현](https://open.spotify.com/artist/10M2AVHfEWbASOLtirmBNX) | [이성현 남도소리](https://open.spotify.com/album/4eWVwA1DoJGlXlYiVrj7dz) | 32:42 |
 
-Snapshot ID: `Z0mOjQAAAADhnoKsitPRRm+A8aToCDFh`
+Snapshot ID: `Z0mOjQAAAABxpT4q1eJH5F53r645z1J9`

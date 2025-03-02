@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM7w8HbieGZ.md) - [plain]
 
 > Enjoy music of Gian from Doraemon　テレビアニメ「ドラえもん」からジャイアンが歌う歌を中心にセレクトした公式プレイリスト！©︎藤子プロ・小学館・テレビ朝日・シンエイ・ADK
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,319 likes - 29 songs - 58 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 15,323 likes - 29 songs - 58 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM7w8HbieGZ.md) - [plain]
 | 28 | [ジャイアンボイス７](https://open.spotify.com/track/7hrMErEDGX66obpKOjJatL) | [ジャイアン\(CV:木村昴\)](https://open.spotify.com/artist/5sZj8DwbFGNLhahAZihqm4) | [ドラえもん／ジャイアンのうた\- Gian's Recital \-](https://open.spotify.com/album/2tidZAeKWlVy8WmNpuAoR4) | 0:08 |
 | 29 | [友達](https://open.spotify.com/track/04ioDAwmf3rIlUIFlgzR4S) | [木村 昴](https://open.spotify.com/artist/636MhiwBW0fyMDjnNWGX7o) | [ジャイアンのスーパーリサイタル](https://open.spotify.com/album/2dte56ghkrCaC2nlxiwknn) | 3:43 |
 
-Snapshot ID: `ZIxXiwAAAADA+GjO+RAVdZagP6ngMOM5`
+Snapshot ID: `ZIxXiwAAAABxU334WjjvQEE73SStx0ae`

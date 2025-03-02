@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 110225,
+  "num_followers": 110309,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAABrogCP/RGPF6O56mrHF6Eh",
+  "snapshot_id": "Z8D8gAAAAACv6wP1AOXIjtzzb5ulZqsW",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Genesis.",
+      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Of Your Life",
         "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 196170,
       "name": "Love Of Your Life",
       "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natalie Don\u2019t",
-        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Natalie Don't",
-      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
+        "name": "Natalie Don\u2019t",
+        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 420000,
-      "name": "Genesis.",
-      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
+      "duration_ms": 194346,
+      "name": "Natalie Don't",
+      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kids At Play- EP",
-        "url": "https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 213245,
-      "name": "Breaking News (with RAYE)",
-      "url": "https://open.spotify.com/track/4kL66iksPrNaqzKYlzDgoa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Snacks (Supersize)",
         "url": "https://open.spotify.com/album/4PBfH44I6nfqf3sibVoG8O"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 210967,
       "name": "Tequila - Jax Jones & Martin Solveig Present Europa",
       "url": "https://open.spotify.com/track/6fU55C7VdMSSkJ0ZGmX2Kg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kids At Play- EP",
+        "url": "https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 213245,
+      "name": "Breaking News (with RAYE)",
+      "url": "https://open.spotify.com/track/4kL66iksPrNaqzKYlzDgoa"
     },
     {
       "added_at": null,

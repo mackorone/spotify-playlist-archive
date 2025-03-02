@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 235146,
       "name": "Love Addiction",
       "url": "https://open.spotify.com/track/4mbsHpV6laiqSTv4Pgmen3"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 243720,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2hTddlDcHo4nghlfINF8Jt"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 228760,
       "name": "Secret utopIA",
       "url": "https://open.spotify.com/track/6P67pKk2XwDThCH0PI5xlW"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 212533,
       "name": "Timeless Shooting Star",
       "url": "https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 285800,
       "name": "Twinkle way",
       "url": "https://open.spotify.com/track/5U9EvPR8M5IrFTmyremxuZ"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 244073,
       "name": "VERY BERRY LOVE",
       "url": "https://open.spotify.com/track/7gzthuIzXzuEkd4YQXTOLk"
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 236866,
       "name": "Wandering Dream Chaser",
       "url": "https://open.spotify.com/track/1A7xGSCB67ITNPOIsJ2G1U"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 231093,
       "name": "\u3042\u304a\u305e\u3089\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl"
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 280346,
       "name": "\u3088\u308a\u307f\u3061\u30b5\u30f3\u30bb\u30c3\u30c8",
       "url": "https://open.spotify.com/track/2W314eFGeZXq122e15weQI"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 284288,
       "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
       "url": "https://open.spotify.com/track/0axy4UY8KsxBUxgytSeYx4"
@@ -2109,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna- (2022 Version)",
+        "url": "https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT"
+      },
+      "artists": [
+        {
+          "name": "Team.Luna",
+          "url": "https://open.spotify.com/artist/6yuybLpkGwdWrHT1Z8McZV"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214306,
+      "name": "\u30ea\u30d5\u30ec\u30af\u30c8\u30b5\u30a4\u30f3 - 2022 Version",
+      "url": "https://open.spotify.com/track/4gGz2TCwkSQZxGh4x5mjv3"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 04",
         "url": "https://open.spotify.com/album/5vFeizkVQA7PqDIuSr4cH6"
       },
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 217873,
       "name": "\u4e00\u9583\u306f\u541b\u304c\u5c0e\u304f",
       "url": "https://open.spotify.com/track/0RXHydlcC8JRkOWamsUzVn"
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 238986,
       "name": "\u4e94\u30c4\u5ea7\u6d41\u661f\u7fa4",
       "url": "https://open.spotify.com/track/4HR0875EE4qjzED6rcNJYr"
@@ -2228,7 +2246,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 232226,
       "name": "\u5922\u54b2\u304dAfter school",
       "url": "https://open.spotify.com/track/1FZNbQaBpxoOXRpqVWvxtC"
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 291520,
       "name": "\u592a\u967d\u30ad\u30c3\u30b9",
       "url": "https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M"
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 232520,
       "name": "\u5b66\u796d\u9769\u547d\u591c\u660e\u3051\u524d",
       "url": "https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C"
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 289986,
       "name": "\u6709\u5f69\u8272\u30e6\u30ea\u30a4\u30ab",
       "url": "https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK"
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 265173,
       "name": "\u76f8\u5408\u5b66\u820e",
       "url": "https://open.spotify.com/track/5HvlTedUOfCe0vW7gk1SjL"

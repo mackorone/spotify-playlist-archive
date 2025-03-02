@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT MOMENTUM</a>とSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,783 likes - 30 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,802 likes - 30 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [Sandu](https://open.spotify.com/track/53MLy9pwzIs6ZPQBYWT1gq) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em), [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Double Take](https://open.spotify.com/album/6BWfm2UUdAFwD3GDHe0IJJ) | 4:27 |
 | 30 | [Tariff \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/3WJpTTRFQr46ZF2Td29bTj) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [Detroit\-New York Junction](https://open.spotify.com/album/6lNbe1duzyK37MFoUeKqoy) | 5:30 |
 
-Snapshot ID: `ZynN9AAAAACgikVQ5Vt3ORG8SnX/LC+O`
+Snapshot ID: `ZynN9AAAAADCRafUxk1CgKQgeuw4svzN`

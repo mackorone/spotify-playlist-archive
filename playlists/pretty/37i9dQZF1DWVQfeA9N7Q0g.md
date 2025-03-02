@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 
 > Olly ha vinto il festival di Sanremo! 💐
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147,480 likes - 33 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,938 likes - 33 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 | 32 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 |
 | 33 | [Goodbye \(voglio good vibes\)](https://open.spotify.com/track/408NzSks0G1KXAcQMr2VvF) | [Maria Tomba](https://open.spotify.com/artist/37zHkEzE18MxYD5Mg1Hc69) | [Goodbye \(voglio good vibes\)](https://open.spotify.com/album/7iUzTmCb5Q9j4XkQ00Rp7r) | 2:22 |
 
-Snapshot ID: `Z8BoigAAAAALW87l3qn0fORxyvVfQou+`
+Snapshot ID: `Z8BoigAAAAAgAgyggNGdxDS27Ik8snPD`

@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 172024,
+  "num_followers": 172037,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAADTzMJkR766nC4mWNtRfh4g",
+  "snapshot_id": "Z8D8gAAAAAAm79X0jpZIFRRbcy1OPCjv",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Note To Self (Deluxe)",
+        "url": "https://open.spotify.com/album/0AfEmFAU5rR2dZbMPHu5cM"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Still That Cowboy (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/3MwXKXU4VhP3faG9fob310"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 197600,
       "name": "Fastest Girl in Town",
       "url": "https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Note To Self (Deluxe)",
-        "url": "https://open.spotify.com/album/0AfEmFAU5rR2dZbMPHu5cM"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Still That Cowboy (feat. Miranda Lambert)",
-      "url": "https://open.spotify.com/track/3MwXKXU4VhP3faG9fob310"
     },
     {
       "added_at": null,

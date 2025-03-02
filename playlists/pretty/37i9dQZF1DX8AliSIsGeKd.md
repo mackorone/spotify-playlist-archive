@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Einmusik, Solee
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,598 likes - 90 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,805 likes - 90 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 29 | [C.T.R.L](https://open.spotify.com/track/72y64fDkAGp7W2BnIWNE5X) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Dorian Parano](https://open.spotify.com/artist/4uwv20oGLdRZGUVjkOnWBR) | [C.T.R.L](https://open.spotify.com/album/6P4VQ6tvYvssJe5mZy12TP) | 3:21 |
 | 30 | [The Wall](https://open.spotify.com/track/2aEd1Die4SXwcYcCEYBNKO) | [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [The Wall](https://open.spotify.com/album/0VuvMn7XetzgeLXdun75bB) | 5:05 |
 | 31 | [Germina Speeder \- Radio Edit](https://open.spotify.com/track/0EN4dOW9skzzjpCj31uRq5) | [Sascha Funke](https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd) | [Germina Speeder](https://open.spotify.com/album/3WDE4IqUDA5SRnL9n6jyIw) | 3:47 |
-| 32 | [With Your Sleep \- Radio Edit](https://open.spotify.com/track/5q78sp1YZXPiUwE6nnw4qI) | [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [With Your Sleep \(Radio Edit\)](https://open.spotify.com/album/2CYPIyk3SKwa5W4ARyeKYZ) | 4:51 |
+| 32 | [With Your Sleep](https://open.spotify.com/track/5q78sp1YZXPiUwE6nnw4qI) | [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [With Your Sleep](https://open.spotify.com/album/2CYPIyk3SKwa5W4ARyeKYZ) | 4:51 |
 | 33 | [Where Are U Now](https://open.spotify.com/track/2MLxSmPF5KRXpmPe1SRVoX) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Where Are U Now](https://open.spotify.com/album/47JV0f1dhBkKkTwpCkUZY0) | 3:36 |
 | 34 | [Who You Talking To ? \- Radio\-Edit](https://open.spotify.com/track/44MUfjvDTzTHnosJSORMa1) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Who You Talking To ?](https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc) | 2:47 |
 | 35 | [Everybody \- Elisa Bee Remix](https://open.spotify.com/track/4QKFejQqV1jQ5eg6p8JzEo) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb), [Elisa Bee](https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX) | [Everybody](https://open.spotify.com/album/0QMX1XM9qd4n4SAmhlFaHT) | 5:14 |

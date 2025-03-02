@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,911 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,957 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 79 | [My Home](https://open.spotify.com/track/5IBOIoEsmORmCHhHUJa5qr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [coin collection](https://open.spotify.com/album/0x5PxA5MaxH53b2eK8wGVp) | 3:50 |
 | 80 | [Moonlight](https://open.spotify.com/track/3vuAHs82oPXgDYdQIDEciw) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Anthology](https://open.spotify.com/album/1Mxrx2PfSMBxZ8X5MakZCO) | 3:46 |
 
-Snapshot ID: `Z7g9mQAAAAC090/52NLUfyLSuHi5/bW4`
+Snapshot ID: `Z7g9mQAAAABk6GzHq/h4TONTiJx5B1dI`

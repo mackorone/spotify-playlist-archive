@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 紫 今
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,561 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,559 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [春、ふるえる](https://open.spotify.com/track/2hgwltkTJFZoi8cOisS4WR) | [GOHOBI](https://open.spotify.com/artist/3rUTguiMzTMxzTFPSytp6M) | [春、ふるえる](https://open.spotify.com/album/6INlnE8dvRlrJ73Vgn97nj) | 4:20 |
 | 80 | [純喫茶マウンテン](https://open.spotify.com/track/37wOHHMroJy7uYAUqwDGYB) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [純喫茶マウンテン](https://open.spotify.com/album/0ibncTM3ose4DLo0vMaWuO) | 1:03 |
 
-Snapshot ID: `Z75sagAAAAAfbSxLJwlzHt0bN9PqXBA7`
+Snapshot ID: `Z75sagAAAABFmZHmzfhcPEU6Hfu9iu2b`

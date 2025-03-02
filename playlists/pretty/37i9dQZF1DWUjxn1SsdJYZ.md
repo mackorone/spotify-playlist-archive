@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Nerve
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,505 likes - 101 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,500 likes - 101 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 6 | [PHONE CALL](https://open.spotify.com/track/6W96fdY4F8f7E25vVJ4kMg) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [PHONE CALL](https://open.spotify.com/album/3ZeJ9Lo4KfxPDzYD6GrW1M) | 3:09 |
 | 7 | [THREE65](https://open.spotify.com/track/5RbkBuNZtqYbD1aCWHZaJD) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [THREE65](https://open.spotify.com/album/43nJ3B8pcxHkQcOI8Ocq1R) | 2:31 |
 | 8 | [Envy Me](https://open.spotify.com/track/4jWluiYfXVQXNcleeodwUs) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Envy Me](https://open.spotify.com/album/1fVgwOgVmTb8nK3fvSFEjB) | 2:25 |
-| 9 | [Woosh](https://open.spotify.com/track/2QXPj7S2aBS889QL5Ishb2) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Woosh](https://open.spotify.com/album/3ftCEhgDoWQRd9zFLnnzIP) | 2:36 |
+| 9 | [Maestro](https://open.spotify.com/track/2QXPj7S2aBS889QL5Ishb2) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Maestro](https://open.spotify.com/album/3ftCEhgDoWQRd9zFLnnzIP) | 2:36 |
 | 10 | [ZIZOU](https://open.spotify.com/track/7xKhz7mg2TwIkbIL8OBdQO) | [RAAJ](https://open.spotify.com/artist/7dUyhRfyEsUTS7gySitrDc) | [ZIZOU](https://open.spotify.com/album/0mMCfD08eXsuBvHFfyGeCy) | 2:08 |
 | 11 | [Walk The Line](https://open.spotify.com/track/4rcvNSDihDNNj7OKr6ZoFU) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Walk The Line](https://open.spotify.com/album/6o1AQo0yiL0bJURZvjhQAc) | 3:02 |
 | 12 | [TOO MANY TIMES](https://open.spotify.com/track/4MAb1KCKwjjFmKGF9hu27N) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [TOO MANY TIMES](https://open.spotify.com/album/2yf5XhEgaW6gT4LjLIV16v) | 2:04 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 37 | [Atlaniz](https://open.spotify.com/track/5yptxdOYN9moHHZtMWB0by) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Atlaniz](https://open.spotify.com/album/6aAus1L5L8m71e7Y1mE0Bm) | 2:23 |
 | 38 | [DIRECTIONS](https://open.spotify.com/track/5i3HrRfp6MLIsWSUrPmPGI) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [DIRECTIONS](https://open.spotify.com/album/1iMQhjN7Jt8fhkf47pLYh3) | 3:02 |
 | 39 | [RNZŌ SZN](https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC) | [RNZŌ SZN](https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn) | 2:46 |
-| 40 | [Who We Are](https://open.spotify.com/track/0pT9UHOqUJPCHdnQVgRbKt) | [Ziggy Ramo](https://open.spotify.com/artist/068h92tgvxKyexVLhE75Q7), [vonn](https://open.spotify.com/artist/5dYIlMTVyP8TLlhi3pDWhl), [Atticus](https://open.spotify.com/artist/3LPYB28rPjgLA6MxMbU9DR) | [Who We Are](https://open.spotify.com/album/1FNefuXk2hVp6rD7ZQ0QeU) | 2:54 |
+| 40 | [Who We Are](https://open.spotify.com/track/0pT9UHOqUJPCHdnQVgRbKt) | [Ziggy Ramo](https://open.spotify.com/artist/068h92tgvxKyexVLhE75Q7), [Atticus](https://open.spotify.com/artist/3LPYB28rPjgLA6MxMbU9DR), [vonn](https://open.spotify.com/artist/5dYIlMTVyP8TLlhi3pDWhl) | [Who We Are](https://open.spotify.com/album/1FNefuXk2hVp6rD7ZQ0QeU) | 2:54 |
 | 41 | [BLAKT OUT](https://open.spotify.com/track/5gPo3PN9qnOmFU7A8S7Bw8) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Chiggz](https://open.spotify.com/artist/4rxcNC4Af5eSLoUb4XIK5J) | [BLAKT OUT](https://open.spotify.com/album/5IMHm1KXhWS0KREd2STvKV) | 3:06 |
 | 42 | [Freestyle](https://open.spotify.com/track/59tSlzMyLojsaLVYR0QRX7) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Freestyle](https://open.spotify.com/album/58UE9yrLxaQb1NGSbqim1O) | 2:02 |
 | 43 | [F THAT B](https://open.spotify.com/track/28U6wLXC6qNGnkkeWxS3si) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [F THAT B](https://open.spotify.com/album/2PQdyOq0AgFTnVjk4ZWuFk) | 2:01 |

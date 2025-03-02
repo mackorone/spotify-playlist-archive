@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 158646,
+  "num_followers": 158717,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 144760,
+      "name": "Disritmia",
+      "url": "https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J"
+    },
+    {
+      "added_at": "2025-02-28 17:15:34",
+      "album": {
         "name": "Vento De Maio",
         "url": "https://open.spotify.com/album/3GCQzHjGHSvtW99n7U7iD8"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 164000,
       "name": "Tiro Ao \u00c1lvaro",
       "url": "https://open.spotify.com/track/7f31hpuzCNIU0rX5E6Dr3g"
-    },
-    {
-      "added_at": "2025-02-28 17:15:34",
-      "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "Disritmia",
-      "url": "https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J"
     },
     {
       "added_at": "2025-02-28 17:15:34",
@@ -663,6 +663,30 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
+        "name": "Gina Canta Cazuza",
+        "url": "https://open.spotify.com/album/3v7Ci6DTaoUH3pTN8Qz6k3"
+      },
+      "artists": [
+        {
+          "name": "Gina Garcia",
+          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        },
+        {
+          "name": "Evelyn Castro",
+          "url": "https://open.spotify.com/artist/0WiXJNnWKqfx4xaEDmXNNG"
+        }
+      ],
+      "duration_ms": 179219,
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/2aPDZWJgpzRjntDwwvXQFd"
+    },
+    {
+      "added_at": "2025-02-28 17:15:34",
+      "album": {
         "name": "O Pai Da Alegria",
         "url": "https://open.spotify.com/album/4yTMLxojFOA6BYEsQzvx1T"
       },
@@ -699,22 +723,6 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
-        "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
-        "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cozza",
-          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Tristeza P\u00e9 No Ch\u00e3o",
-      "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
-    },
-    {
-      "added_at": "2025-02-28 17:15:34",
-      "album": {
         "name": "Minha Cara",
         "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
       },
@@ -743,6 +751,22 @@
       "duration_ms": 249706,
       "name": "Alegria / o Sol Nascer\u00e1",
       "url": "https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji"
+    },
+    {
+      "added_at": "2025-02-28 17:15:34",
+      "album": {
+        "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
+        "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cozza",
+          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Tristeza P\u00e9 No Ch\u00e3o",
+      "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
     },
     {
       "added_at": "2025-02-28 17:15:34",
@@ -779,22 +803,6 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
-        "name": "Ningu\u00e9m Pro\u00edbe o Amor",
-        "url": "https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Coisa de Louco",
-      "url": "https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4"
-    },
-    {
-      "added_at": "2025-02-28 17:15:34",
-      "album": {
         "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
         "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
       },
@@ -811,18 +819,18 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
-        "name": "NEKTAR",
-        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
+        "name": "Ningu\u00e9m Pro\u00edbe o Amor",
+        "url": "https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq"
       },
       "artists": [
         {
-          "name": "Ava Rocha",
-          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
         }
       ],
-      "duration_ms": 206442,
-      "name": "LONGE LONGE DE MIM",
-      "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
+      "duration_ms": 234093,
+      "name": "Coisa de Louco",
+      "url": "https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4"
     },
     {
       "added_at": "2025-02-28 17:15:34",
@@ -839,6 +847,22 @@
       "duration_ms": 149400,
       "name": "Dan\u00e7a Da Solid\u00e3o",
       "url": "https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw"
+    },
+    {
+      "added_at": "2025-02-28 17:15:34",
+      "album": {
+        "name": "NEKTAR",
+        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
+      },
+      "artists": [
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "duration_ms": 206442,
+      "name": "LONGE LONGE DE MIM",
+      "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
     },
     {
       "added_at": "2025-02-28 17:15:34",
@@ -1043,22 +1067,6 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
-        "name": "Ind\u00edcio de Amor",
-        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 208736,
-      "name": "Ind\u00edcio de Amor",
-      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
-    },
-    {
-      "added_at": "2025-02-28 17:15:34",
-      "album": {
         "name": "Urucungo",
         "url": "https://open.spotify.com/album/0lMmvVQva0pzeKH1aJ6r1p"
       },
@@ -1075,6 +1083,22 @@
       "duration_ms": 311590,
       "name": "Alquimias",
       "url": "https://open.spotify.com/track/0AXNgjMMwC79W7C3FtzkDP"
+    },
+    {
+      "added_at": "2025-02-28 17:15:34",
+      "album": {
+        "name": "Ind\u00edcio de Amor",
+        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
+      },
+      "artists": [
+        {
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+        }
+      ],
+      "duration_ms": 208736,
+      "name": "Ind\u00edcio de Amor",
+      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
     },
     {
       "added_at": "2025-02-28 17:15:34",
@@ -1127,34 +1151,18 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
-        "name": "E o Mundo N\u00e3o Se Acabou",
-        "url": "https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A"
+        "name": "Beba-Me Ao Vivo",
+        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
       },
       "artists": [
         {
-          "name": "Mimi Wankenne",
-          "url": "https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds"
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
         }
       ],
-      "duration_ms": 124880,
-      "name": "E o Mundo N\u00e3o Se Acabou",
-      "url": "https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ"
-    },
-    {
-      "added_at": "2025-02-28 17:15:34",
-      "album": {
-        "name": "Macieira",
-        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Macieira",
-      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
+      "duration_ms": 230173,
+      "name": "Exagero",
+      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
     },
     {
       "added_at": "2025-02-28 17:15:34",
@@ -1179,18 +1187,34 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
-        "name": "Beba-Me Ao Vivo",
-        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
+        "name": "Macieira",
+        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
       },
       "artists": [
         {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
         }
       ],
-      "duration_ms": 230173,
-      "name": "Exagero",
-      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
+      "duration_ms": 203680,
+      "name": "Macieira",
+      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
+    },
+    {
+      "added_at": "2025-02-28 17:15:34",
+      "album": {
+        "name": "E o Mundo N\u00e3o Se Acabou",
+        "url": "https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A"
+      },
+      "artists": [
+        {
+          "name": "Mimi Wankenne",
+          "url": "https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds"
+        }
+      ],
+      "duration_ms": 124880,
+      "name": "E o Mundo N\u00e3o Se Acabou",
+      "url": "https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ"
     },
     {
       "added_at": "2025-02-28 17:15:34",
@@ -1263,26 +1287,18 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
-        "name": "Gina Canta Cazuza",
-        "url": "https://open.spotify.com/album/3v7Ci6DTaoUH3pTN8Qz6k3"
+        "name": "Carioca da Gema (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
       },
       "artists": [
         {
-          "name": "Gina Garcia",
-          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        },
-        {
-          "name": "Evelyn Castro",
-          "url": "https://open.spotify.com/artist/0WiXJNnWKqfx4xaEDmXNNG"
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
         }
       ],
-      "duration_ms": 179219,
-      "name": "Exagerado",
-      "url": "https://open.spotify.com/track/2aPDZWJgpzRjntDwwvXQFd"
+      "duration_ms": 256506,
+      "name": "Malandro - Ao Vivo",
+      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
     },
     {
       "added_at": "2025-02-28 17:15:34",
@@ -1299,22 +1315,6 @@
       "duration_ms": 223799,
       "name": "Aprendi a Ser Feliz",
       "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
-    },
-    {
-      "added_at": "2025-02-28 17:15:34",
-      "album": {
-        "name": "Carioca da Gema (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Malandro - Ao Vivo",
-      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
     },
     {
       "added_at": "2025-02-28 17:15:34",

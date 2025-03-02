@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-516 songs - 1 day 7 hr 37 min
+517 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [everything's gunna be alright, niina said so](https://open.spotify.com/track/2rgN4YlCsfujwfmcL2UA12) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [100 dollar bill](https://open.spotify.com/album/1qynLst7OhBvksTgLTJZiw) | 4:15 | 2022-06-09 | 2022-07-22 |
 | [Everything’s Gonna Be Alright](https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:33 | 2022-09-02 | 2024-04-19 |
 | [Facelift](https://open.spotify.com/track/2oLdCJDUVBuCLH9XMsEYsa) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Facelift](https://open.spotify.com/album/36nDcLcdgq0YA08NnoFbKX) | 4:57 | 2022-01-14 | 2022-05-13 |
+| [Fallin In Love \- Butch Remix](https://open.spotify.com/track/66DYTXeYxDpK2z3YVwDRoP) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Fallin In Love \(Butch Remix\)](https://open.spotify.com/album/1MGUCWOLpxMsRoCCICVe2O) | 2:40 | 2025-02-28 |  |
 | [Fallin Luv](https://open.spotify.com/track/0TdwFKbgHrZY5zGciVm92c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Jeria](https://open.spotify.com/artist/7jwSU1Z0F86zcEi4GagibL) | [Fallin Luv](https://open.spotify.com/album/5i4zJnTFaIbVmZrZ0iFJYf) | 2:32 | 2024-04-19 |  |
 | [Family \(feat\. El Boogie\)](https://open.spotify.com/track/6X6HvqcAThorTz88ereWUF) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [El Boogie](https://open.spotify.com/artist/5W9f4y0yDpANo2fgQHMqKm) | [Family \(feat\. El Boogie\)](https://open.spotify.com/album/6MnVDBAW2mz8jWfXhbTCEW) | 2:31 | 2022-01-14 | 2022-07-01 |
 | [Fighting Love](https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Mark Dedross](https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ) | [Fighting Love](https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3) | 3:08 | 2025-02-14 |  |
@@ -290,7 +291,7 @@
 | [Love is Free](https://open.spotify.com/track/1yBSWwDsYAgAQ2nZfucgib) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Love is Free](https://open.spotify.com/album/5gwvKoVUGQbItVCjPIxfjX) | 5:13 | 2022-01-14 | 2022-07-28 |
 | [Love Is No Game \- Edit](https://open.spotify.com/track/5DnaTchFyfDq1IEBjYFNm4) | [HP Vince](https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW) | [Love Is No Game \(Edit\)](https://open.spotify.com/album/1UIiIaQXOjTxYuwajaLWtJ) | 2:29 | 2024-04-26 | 2024-05-18 |
 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 | 2024-01-12 |  |
-| [Love On Repeat](https://open.spotify.com/track/4FRfbY6QwgjK5ocCeAkx7U) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Love On Repeat](https://open.spotify.com/album/54tygP05azXX7rSkkj8dqQ) | 2:22 | 2024-11-30 |  |
+| [Love On Repeat](https://open.spotify.com/track/4FRfbY6QwgjK5ocCeAkx7U) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Love On Repeat](https://open.spotify.com/album/54tygP05azXX7rSkkj8dqQ) | 2:22 | 2024-11-30 | 2025-03-02 |
 | [Love Takeover](https://open.spotify.com/track/5dCh4pv5Bmay1CFeRt80YE) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Love Takeover](https://open.spotify.com/album/1ZrVMXLDZVW8elSjuqsHl6) | 2:48 | 2024-06-28 | 2024-09-01 |
 | [Love Trip](https://open.spotify.com/track/36T8YcNQzsrAq7okfOu7t5) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Love Trip / Hi Land Funk](https://open.spotify.com/album/42HAf1ATyAhcR6hwwNIG1p) | 6:53 | 2022-01-14 | 2022-07-03 |
 | [Love You Again \(feat\. Akua\)](https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Akua](https://open.spotify.com/artist/3Y4VaqWeDWuLEHqB0s4Vmi) | [Love You Again \(feat\. Akua\)](https://open.spotify.com/album/5F3slII7s40r8LCAplnBm8) | 2:56 | 2022-01-14 | 2022-07-28 |

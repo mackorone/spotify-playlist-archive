@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Haftanın en iyi yeni çıkışları\. Kapak: Mavi Gri
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,462 likes - 120 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,468 likes - 120 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 59 | [Ateşli Palmiyeler](https://open.spotify.com/track/6FowntZXQMUIQwRkPulLMc) | [Tuhan](https://open.spotify.com/artist/6jGOSwp1HD2Q4Z9mO8P20h) | [Ateşli Palmiyeler](https://open.spotify.com/album/0IYhlf7Mjl6kJs8JSw7ReY) | 2:13 |
 | 60 | [Uzaktan Biri](https://open.spotify.com/track/3EUbQ8gOVePK42p4AG6F4s) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [Uzaktan Biri](https://open.spotify.com/album/6T8Pt8JZFK22EGdec01fg9) | 3:41 |
 | 61 | [Solfa](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
-| 62 | [Deeper in Love](https://open.spotify.com/track/6DLW77q3GrRQDoQyNqVfzP) | [Ece Yilmaz](https://open.spotify.com/artist/2mo6FdmfDCgSaabtopylgl), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Deeper in Love](https://open.spotify.com/album/2hMuM7YGWhq7e2400uu83e) | 4:49 |
+| 62 | [Deeper in Love](https://open.spotify.com/track/6DLW77q3GrRQDoQyNqVfzP) | [Ece Yilmaz](https://open.spotify.com/artist/6QL4sw7mQfBDo0uuweEnAS), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Deeper in Love](https://open.spotify.com/album/2hMuM7YGWhq7e2400uu83e) | 4:49 |
 | 63 | [Yar Olmazmış](https://open.spotify.com/track/3zR4O8KxSUASJB3uosQnjP) | [Ahmet Aslan](https://open.spotify.com/artist/7nx9ts8pRmbvMQvnPwqDSS) | [Yar Olmazmış](https://open.spotify.com/album/4BK0KWy9ZXETNOLgj7iYUk) | 4:57 |
 | 64 | [Kayboldum](https://open.spotify.com/track/7ddwTAcTBSO1dlkAb91mi5) | [MEG](https://open.spotify.com/artist/1nYAWraDzyys1GsAfqzj7q) | [Kayboldum](https://open.spotify.com/album/4gZSwWD4oCKzN2krN1js9J) | 2:22 |
 | 65 | [Gece Boyu](https://open.spotify.com/track/3TmxBVYIHQr3khR7rSk0PU) | [Chef Bi](https://open.spotify.com/artist/6Cf83I8yeJUd9uIPEUV6IM) | [Gece Boyu](https://open.spotify.com/album/4GCpJE2DUHSWSjMNzO00Yh) | 2:25 |

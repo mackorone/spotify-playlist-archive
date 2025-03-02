@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 
 > All the best music from Classical New Releases in 2024\. Cover: Mao Fujita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,052 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,062 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 | 4 | [Anima II \- Sleep Rework](https://open.spotify.com/track/1djfZpYH75VCRTCk8XLSHP) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima Flow](https://open.spotify.com/album/0qLhUBUkxswF2VdJAwdg1X) | 3:24 |
 | 5 | [Mendelssohns Lieder, S\. 547: I\. Auf Flügeln des Gesanges \(After Op\. 34/2\)](https://open.spotify.com/track/4yFct4l0Iee76wsJZj3RbN) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Liszt: Mendelssohns Lieder, S\. 547: I\. Auf Flügeln des Gesanges \(After Op\. 34/2\)](https://open.spotify.com/album/4sCKlcSy9VpzkOWxFNU135) | 3:58 |
 | 6 | [Violin Concerto, Op\. 14: I\. Allegro](https://open.spotify.com/track/4Irgpr2Ovp8rYaBYfkDAuD) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Orchestre de Chambre de Lausanne](https://open.spotify.com/artist/0yYltyXzxr0Jqn9jM1Firq) | [Gabriel Fauré](https://open.spotify.com/album/73p9LSaL8FE4PoldUDsAOG) | 14:58 |
-| 7 | [Frauenliebe und Leben, Op\. 42 \(Arr\. Reimann for Soprano and String Quartet\): No\. 1, Seit ich ihn gesehen](https://open.spotify.com/track/2X1Poqds8nQ1sXVUEGXalb) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Claudia Barainsky](https://open.spotify.com/artist/1N502v7Z9y7wkWbhkA8jQz), [Delian Quartett](https://open.spotify.com/artist/2R98eZ50r6f8re177QYIPa) | [Im wachen Traume: Byrd, Schumann, Purcell](https://open.spotify.com/album/1D0PVaNH6g40lqv0K8ZSPI) | 2:16 |
+| 7 | [Frauenliebe und Leben, Op\. 42 \(Arr\. Reimann for Soprano & String Quartet\): No\. 1, Seit ich ihn gesehen](https://open.spotify.com/track/2X1Poqds8nQ1sXVUEGXalb) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Claudia Barainsky](https://open.spotify.com/artist/1N502v7Z9y7wkWbhkA8jQz), [Delian Quartett](https://open.spotify.com/artist/2R98eZ50r6f8re177QYIPa) | [Im wachen Traume: Byrd, Schumann, Purcell](https://open.spotify.com/album/1D0PVaNH6g40lqv0K8ZSPI) | 2:16 |
 | 8 | [Adieux](https://open.spotify.com/track/2lHRiPZ9BGevu7jnXDo7q8) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Experience](https://open.spotify.com/album/0VZo00CZ7kv8GH7fUzSqTr) | 2:55 |
 | 9 | [Paraphrase on the Prelude in C\-Sharp Major, BWV 872 \(Transcribed by Alexander Siloti\)](https://open.spotify.com/track/2bxakAEm9Qbete8HIW66AQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Bach Transcriptions](https://open.spotify.com/album/5s4J0DyaLTxFXjZ5uZQzkm) | 2:27 |
 | 10 | [The Wanderer](https://open.spotify.com/track/4cjnkyydNSHMYHfWDthjjd) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Legends, Myths and Lavender](https://open.spotify.com/album/5A2whd1HFhaMTAfDkPJci8) | 3:30 |

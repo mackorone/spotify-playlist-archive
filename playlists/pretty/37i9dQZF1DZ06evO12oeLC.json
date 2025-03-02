@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17610,
+  "num_followers": 17615,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAADa84yRbnud/ezPV1QC6QYJ",
+  "snapshot_id": "Z8D8gAAAAABabaLZKUgDLGs0Wg2dEIYe",
   "tracks": [
     {
       "added_at": null,
@@ -163,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BAD BOY",
-        "url": "https://open.spotify.com/album/1ooVF2ZgjNBCHiIgHCIRh4"
+        "name": "Off With Her Head",
+        "url": "https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8"
       },
       "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 274520,
-      "name": "BAD BOY",
-      "url": "https://open.spotify.com/track/2gJuY2L6eCxAfIXdXAWtm5"
+      "duration_ms": 161337,
+      "name": "Move (feat. Yseult)",
+      "url": "https://open.spotify.com/track/0kjVi4ts5drXg6GEN7tMfu"
     },
     {
       "added_at": null,
@@ -199,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleu",
-        "url": "https://open.spotify.com/album/6fpbdcvp2uiG3K28AaweQN"
+        "name": "BAD BOY",
+        "url": "https://open.spotify.com/album/1ooVF2ZgjNBCHiIgHCIRh4"
       },
       "artists": [
-        {
-          "name": "Claire Laffut",
-          "url": "https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC"
-        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 199009,
-      "name": "Nudes",
-      "url": "https://open.spotify.com/track/71J6q9BTYhMT4JOjcH9ea1"
+      "duration_ms": 274520,
+      "name": "BAD BOY",
+      "url": "https://open.spotify.com/track/2gJuY2L6eCxAfIXdXAWtm5"
     },
     {
       "added_at": null,
@@ -231,6 +231,26 @@
       "duration_ms": 238976,
       "name": "Un autre monde - Souvenirs d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/70g4w4evL3sFYzRZv2lfXg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleu",
+        "url": "https://open.spotify.com/album/6fpbdcvp2uiG3K28AaweQN"
+      },
+      "artists": [
+        {
+          "name": "Claire Laffut",
+          "url": "https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 199009,
+      "name": "Nudes",
+      "url": "https://open.spotify.com/track/71J6q9BTYhMT4JOjcH9ea1"
     },
     {
       "added_at": null,
@@ -659,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOUS ART : Masterpiece",
-        "url": "https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe"
-      },
-      "artists": [
-        {
-          "name": "Le Juiice",
-          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "LVMH",
-      "url": "https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRUT",
         "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 381226,
       "name": "101 REGRETS",
       "url": "https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOUS ART : Masterpiece",
+        "url": "https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe"
+      },
+      "artists": [
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "LVMH",
+      "url": "https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG"
     },
     {
       "added_at": null,
@@ -899,22 +919,6 @@
       "duration_ms": 278173,
       "name": "A part \u00eatre",
       "url": "https://open.spotify.com/track/41TvlfUIwDD0WwTujjtIi1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Le plus beau des astres",
-      "url": "https://open.spotify.com/track/3R0Fyc3glEJFQK8Aymu5Ge"
     }
   ],
   "unique_name": "This Is Yseult",

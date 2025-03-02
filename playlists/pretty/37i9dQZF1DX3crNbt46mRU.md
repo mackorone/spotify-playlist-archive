@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: ZIAN, Kings Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,715 likes - 113 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,726 likes - 113 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 78 | [sonnenbrand](https://open.spotify.com/track/60odu1d4jqMAw7kMpvpVV4) | [BRUNKE](https://open.spotify.com/artist/5wkIrkK9SrKKa1Ki64wIXy) | [Sonnenbrand](https://open.spotify.com/album/5SRd3vko5fObFtFVkhzB82) | 2:40 |
 | 79 | [Uf u drvo](https://open.spotify.com/track/3gaOHuVjYtTUD6yVXyiPdO) | [Jesse](https://open.spotify.com/artist/5nsgTvyEmAyvWJjmxprVt6) | [Uf u drvo](https://open.spotify.com/album/79kmVM5H7gJpbn8M8o0Z9H) | 2:40 |
 | 80 | [Where I Don't Have To Hide](https://open.spotify.com/track/6gEpV12POYXkksRcso1iGq) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Where I Don't Have To Hide](https://open.spotify.com/album/5sZhW1dCzXewCtWGpQwJ2b) | 2:38 |
-| 81 | [Mad About You](https://open.spotify.com/track/0dEIFLsRX15LgRqd4CTTCh) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [Mad About You](https://open.spotify.com/album/2q6QrqRlJUh7zzSOZLbvIo) | 2:44 |
+| 81 | [Mad About You \- Single Version](https://open.spotify.com/track/0dEIFLsRX15LgRqd4CTTCh) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [Mad About You](https://open.spotify.com/album/2q6QrqRlJUh7zzSOZLbvIo) | 2:44 |
 | 82 | [Flora nd Fauna \(feat\. MISS C\-LINE\)](https://open.spotify.com/track/6Q6GmVckCLWKIpUrhNh581) | [Rapture Boy](https://open.spotify.com/artist/43Edxwc4O5syVCcKP9biaN), [MISS C\-LINE](https://open.spotify.com/artist/5bV8ZGPcOGGa4GdagDCdBN) | [Flora nd Fauna \(feat\. MISS C\-LINE\)](https://open.spotify.com/album/4zwDzkP8yHw30E6Pwolzlb) | 3:37 |
 | 83 | [Übernächtigt](https://open.spotify.com/track/0PqMQWT80FQO27HtiUShzO) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Übernächtigt](https://open.spotify.com/album/4G3PhVQ01vSYRFnyRknGh2) | 2:02 |
 | 84 | [Loveless](https://open.spotify.com/track/19So3cXuMUSiffB8AXzr9r) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Loveless](https://open.spotify.com/album/1IsfgWTtfRYs3VyVQXll1s) | 2:54 |

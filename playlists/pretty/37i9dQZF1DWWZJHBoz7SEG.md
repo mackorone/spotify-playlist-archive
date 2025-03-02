@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > El álbum de la Trini, la nueva rola de Tito y más para disfrutar el finde! ✨ La Trinidad en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,674 likes - 61 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,416 likes - 61 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

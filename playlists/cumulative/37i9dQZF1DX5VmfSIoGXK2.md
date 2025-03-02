@@ -4,7 +4,7 @@
 
 > smooth, classy, soulful ✨ the best of Jazz House, featuring berlioz
 
-70 songs - 4 hr 56 min
+70 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Mari Ye Phepha \- Kedi Cruise Remix](https://open.spotify.com/track/3oFujGX5ogNeYA7Efr3AYs) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Jazz Cruise Series Vol\. 1](https://open.spotify.com/album/05PU51SCYUrmmFgV6Qvmvs) | 9:58 | 2025-02-21 |  |
 | [Metropolis](https://open.spotify.com/track/53Z2PO6u3LG9ba0A6EBaTI) | [AJ Hamilton](https://open.spotify.com/artist/6JvOEBar34Q5TQulmpLj3V) | [Metropolis](https://open.spotify.com/album/6ZiOldPmvjyuWcA9WwuVX9) | 3:54 | 2025-02-21 |  |
 | [Mon Coeur](https://open.spotify.com/track/0PAaJeO1U7Q4OgJk7Wx1j3) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh), [TABLE](https://open.spotify.com/artist/1oaW8KNT8qcEb4PsnFjFXm) | [Mon Coeur](https://open.spotify.com/album/3btmLGVI2AlqPtwoeBEt6K) | 4:34 | 2025-02-21 |  |
-| [Mr\. Particular](https://open.spotify.com/track/4B4acwDbCZkxNC9VmBOaE4) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Mr\. Particular](https://open.spotify.com/album/7FNjJhOGAR4eyIJp3bhzdC) | 5:25 | 2025-02-28 |  |
+| [Mr\. Particular](https://open.spotify.com/track/4B4acwDbCZkxNC9VmBOaE4) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Mr\. Particular](https://open.spotify.com/album/7FNjJhOGAR4eyIJp3bhzdC) | 3:58 | 2025-02-28 |  |
 | [Newness](https://open.spotify.com/track/2lcakwd3OkGq63LW9lfZMv) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Newness](https://open.spotify.com/album/0klrfwgPj1Yxed3OuOYmRE) | 6:02 | 2025-02-21 |  |
 | [nice to meet u](https://open.spotify.com/track/4KSVktisrvNgo1qIJDe1lh) | [geneva](https://open.spotify.com/artist/2o7hwM029oQciNt5pyaj3i) | [untitled](https://open.spotify.com/album/3zuMVGJKBDFOehhzatUuV7) | 3:50 | 2025-02-21 |  |
 | [Night Vision](https://open.spotify.com/track/0krhv81TlJ5qRGDJFoM76U) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Night Vision](https://open.spotify.com/album/3exg07Kc3pUCMX7FjB69vD) | 3:28 | 2025-02-21 |  |

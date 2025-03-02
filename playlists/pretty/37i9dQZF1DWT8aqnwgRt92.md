@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540,386 likes - 85 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540,482 likes - 85 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 39 | [Year N](https://open.spotify.com/track/4UMwc117Ipj55O0Y8Kfq4N) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Year N](https://open.spotify.com/album/0nxngxhjoywkXZtjyT6mia) | 3:24 |
 | 40 | [Enter](https://open.spotify.com/track/3JYRN7ijNHP1NNTE8XyGha) | [零](https://open.spotify.com/artist/7s4JAJwCa1wNKbJrrxvbjY) | [Enter](https://open.spotify.com/album/4B58Z9y8LBvDrcZUYlqILa) | 3:00 |
 | 41 | [ありがと、大好きになってくれて](https://open.spotify.com/track/7oKRqIJQoWcyd2kZvjwl1f) | [恋太郎ファミリー](https://open.spotify.com/artist/7usiekwkfBXIT1v92xDSAE) | [ありがと、大好きになってくれて](https://open.spotify.com/album/3mOBzEqO0nmWEL7LBTozsG) | 4:05 |
-| 42 | [HOPE for YOU](https://open.spotify.com/track/1FG7UsF2qZwQhheMe0fcAV) | [GRANRODEO](https://open.spotify.com/artist/7nC8veuCttVQlyjhueVUXj) | [DOUBLE DECADES OF GR](https://open.spotify.com/album/4Wm6Xhnv6ZeSUlZsSnwPf4) | 5:44 |
+| 42 | [HOPE for YOU](https://open.spotify.com/track/1FG7UsF2qZwQhheMe0fcAV) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [DOUBLE DECADES OF GR](https://open.spotify.com/album/4Wm6Xhnv6ZeSUlZsSnwPf4) | 5:44 |
 | 43 | [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 |
 | 44 | [NAKAMA feat\. AI \(Dragon Ball DAIMA Ending Theme \- Full Length\)](https://open.spotify.com/track/5Agpy9NpA42diOdIoSoJsJ) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [NAKAMA feat\. AI \(Dragon Ball DAIMA Ending Theme \- Full Length\)](https://open.spotify.com/album/4yBOzKyjU6biCO8hc3DwfJ) | 2:15 |
 | 45 | [笑顔のおかわり](https://open.spotify.com/track/6dd1VJ4LdT2TKXxhmpSWrZ) | [JELEE](https://open.spotify.com/artist/0MoyRRt294SPkAA4NU6Cf6) | [笑顔のおかわり](https://open.spotify.com/album/5E8EXVhQskEag8Lo0jhZvE) | 3:25 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [オーバーラップ](https://open.spotify.com/track/73ajM2Yj0ce3MiAz0sBpRG) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [オーバーラップ](https://open.spotify.com/album/7D3vhF0b956sGCSzh98sRV) | 3:14 |
 | 85 | [Bloody Liar](https://open.spotify.com/track/4i28PHh1RaifHQSq77Dd4X) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Bloody Liar](https://open.spotify.com/album/1oU9RnBIPknsbhA6timxeh) | 3:43 |
 
-Snapshot ID: `Z8B+BAAAAAAGdjZNjnNz6GNhXRmPB5CY`
+Snapshot ID: `Z8B+BAAAAADspI9eM38lMmmZis1K8WSz`

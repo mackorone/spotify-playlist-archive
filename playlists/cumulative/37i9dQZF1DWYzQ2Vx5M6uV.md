@@ -4,11 +4,11 @@
 
 > Heat that will make you sweat 🥵 Cover: Goyo
 
-238 songs - 12 hr 22 min
+239 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24](https://open.spotify.com/track/2ZJtRsJjRgzTAat3bStWx5) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [24](https://open.spotify.com/album/4N7weuortyMp5OTwwfbWvK) | 2:35 | 2025-01-31 |  |
+| [24](https://open.spotify.com/track/2ZJtRsJjRgzTAat3bStWx5) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [24](https://open.spotify.com/album/4N7weuortyMp5OTwwfbWvK) | 2:35 | 2025-01-31 | 2025-03-02 |
 | [24Hrs](https://open.spotify.com/track/2ezaZrLBCkPJXHOaKPBH6p) | [Claudy\-O](https://open.spotify.com/artist/5ClLwuv0gGLjZVFGwuokKn), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [24Hrs](https://open.spotify.com/album/3ViZYgCjma6pV45cnOmAZD) | 2:28 | 2024-10-11 |  |
 | [3 Noches](https://open.spotify.com/track/172obmKke2oySVKvoaGWXj) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:33 | 2024-09-20 |  |
 | [44](https://open.spotify.com/track/0NipDzamAtvro0HMcZD5DK) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Warm Up](https://open.spotify.com/album/7IJ4Cok2sQKI7JgpPyDIWr) | 3:05 | 2022-02-16 | 2022-04-14 |
@@ -103,6 +103,7 @@
 | [Jerusalema \(feat\. Micro TDH, Greeicy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Micro TDH, Greeicy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5) | 3:38 | 2022-03-31 | 2024-09-21 |
 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 | 2024-10-25 |  |
 | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny) | 2:28 | 2022-12-08 | 2024-09-21 |
+| [KUIKI](https://open.spotify.com/track/47WfnYQgBp1bum5hiwJNvO) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [KUIKI](https://open.spotify.com/album/4g3FDHTWReLwfILC7c4MII) | 2:23 | 2025-02-28 |  |
 | [LA BUENA VIDA](https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [LA BUENA VIDA](https://open.spotify.com/album/1LZfrEY6XrYpNDaM5hsEpG) | 2:20 | 2024-09-20 | 2025-02-08 |
 | [La Favorita de Mi Mama](https://open.spotify.com/track/6YBk9MOOX2DHKyuGwLvf33) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [La Favorita de Mi Mama](https://open.spotify.com/album/0DuO3Jyjb8Hr7hCrzNZRse) | 2:35 | 2025-01-31 |  |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 | 2025-02-24 |  |

@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 158266,
       "name": "1 Minuto - Ao Vivo",
       "url": "https://open.spotify.com/track/6Sa7wqUh5awzCd2lQPxboK"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 283636,
       "name": "A Danada Me Ligando",
       "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
@@ -18157,6 +18157,28 @@
     },
     {
       "album": {
+        "name": "M\u00f4naco Freestyle",
+        "url": "https://open.spotify.com/album/6Otfotttr4Eym1WvTyxk1z"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "M\u00f4naco Freestyle",
+      "url": "https://open.spotify.com/track/0d7oIw2t0f6oCXJUfWYw8E"
+    },
+    {
+      "album": {
         "name": "Nada Com Nada (Ao Vivo)",
         "url": "https://open.spotify.com/album/04sBatWiwPdPqgn5MGqZ8M"
       },
@@ -24716,7 +24738,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 262375,
       "name": "Sensa\u00e7\u00e3o No Batid\u00e3o - Solinho Envolvente",
       "url": "https://open.spotify.com/track/6IyQ5Jr4yiNACYI3TdFWbl"
@@ -26324,7 +26346,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 312240,
       "name": "S\u00f3 Rock 3",
       "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
@@ -28068,7 +28090,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 158790,
       "name": "Tu Xera",
       "url": "https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7"

@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40509,
+  "num_followers": 40512,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAADSPt0LNvMW26mm+g96W6wy",
+  "snapshot_id": "Z8D8gAAAAABMfmffMwXybnoJUj8uQYsX",
   "tracks": [
     {
       "added_at": null,
@@ -459,38 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
-        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Eiyu Fate's Song",
-      "url": "https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extra terrestrial Biological Entities",
-        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 271586,
-      "name": "LoveStruck",
-      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
         "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
       },
@@ -507,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extra terrestrial Biological Entities",
+        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Lovely Icecream Princess Sweetie",
+      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Departures - Anata Ni Okuru Ai No Uta",
         "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 95333,
       "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
       "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
+        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Eiyu Fate's Song",
+      "url": "https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Lovely Icecream Princess Sweetie",
-      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
+      "duration_ms": 271586,
+      "name": "LoveStruck",
+      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
     },
     {
       "added_at": null,

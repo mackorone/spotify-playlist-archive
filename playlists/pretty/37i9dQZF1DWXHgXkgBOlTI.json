@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: fox capture plan\n",
-  "num_followers": 30733,
+  "num_followers": 30742,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
-      },
-      "artists": [
-        {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
-    },
-    {
-      "added_at": "2025-02-20 15:00:33",
-      "album": {
         "name": "Ovall",
         "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 205480,
       "name": "Slow Motion Town",
       "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
+        "name": "Tangerine Peel Jam",
+        "url": "https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv"
+      },
+      "artists": [
+        {
+          "name": "Ear Candy Jazz Factory",
+          "url": "https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Tailwind",
+      "url": "https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
         "name": "AUTHENTIC",
         "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 260861,
       "name": "Ephemeral summer",
       "url": "https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0"
-    },
-    {
-      "added_at": "2025-02-20 15:00:33",
-      "album": {
-        "name": "Tangerine Peel Jam",
-        "url": "https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv"
-      },
-      "artists": [
-        {
-          "name": "Ear Candy Jazz Factory",
-          "url": "https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Tailwind",
-      "url": "https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "Phantasia",
-        "url": "https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ"
-      },
-      "artists": [
-        {
-          "name": "LITE",
-          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
-        }
-      ],
-      "duration_ms": 279013,
-      "name": "Infinite Mirror",
-      "url": "https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3"
-    },
-    {
-      "added_at": "2025-02-20 15:00:33",
-      "album": {
         "name": "Variety",
         "url": "https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2"
       },
@@ -667,18 +651,34 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "Defying",
-        "url": "https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq"
+        "name": "Phantasia",
+        "url": "https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ"
       },
       "artists": [
         {
-          "name": "TRI4TH",
-          "url": "https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia"
+          "name": "LITE",
+          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
         }
       ],
-      "duration_ms": 208026,
-      "name": "Sol Levante",
-      "url": "https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu"
+      "duration_ms": 279013,
+      "name": "Infinite Mirror",
+      "url": "https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "merry pitch'n",
+        "url": "https://open.spotify.com/album/1vA6gYERxgJGNTcr0SHLtl"
+      },
+      "artists": [
+        {
+          "name": "PIANO SHIFT",
+          "url": "https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "merry pitch'n",
+      "url": "https://open.spotify.com/track/13N5C1T7JzgtabFHDOVOlN"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
+        "name": "Defying",
+        "url": "https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq"
+      },
+      "artists": [
+        {
+          "name": "TRI4TH",
+          "url": "https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Sol Levante",
+      "url": "https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
         "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
         "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "merry pitch'n",
-        "url": "https://open.spotify.com/album/1vA6gYERxgJGNTcr0SHLtl"
-      },
-      "artists": [
-        {
-          "name": "PIANO SHIFT",
-          "url": "https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "merry pitch'n",
-      "url": "https://open.spotify.com/track/13N5C1T7JzgtabFHDOVOlN"
-    },
-    {
-      "added_at": "2025-02-20 15:00:33",
-      "album": {
         "name": "Oneself Likeness",
         "url": "https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 390680,
       "name": "Down In The Village",
       "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
-    },
-    {
-      "added_at": "2025-02-20 15:00:33",
-      "album": {
-        "name": "Ri:ng",
-        "url": "https://open.spotify.com/album/310atXDhjjKBNxP5rTVt8U"
-      },
-      "artists": [
-        {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
-        }
-      ],
-      "duration_ms": 264986,
-      "name": "Ri:ng",
-      "url": "https://open.spotify.com/track/0Kv39zmy409KWK8xZ3xpVs"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -827,18 +811,34 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
+        "name": "Ri:ng",
+        "url": "https://open.spotify.com/album/310atXDhjjKBNxP5rTVt8U"
       },
       "artists": [
         {
-          "name": "SANOVA",
-          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Liberty",
-      "url": "https://open.spotify.com/track/1craVn3h83RslIC0BZBiIS"
+      "duration_ms": 264986,
+      "name": "Ri:ng",
+      "url": "https://open.spotify.com/track/0Kv39zmy409KWK8xZ3xpVs"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Aromatic",
+        "url": "https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 294706,
+      "name": "El Ron Zacapa",
+      "url": "https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

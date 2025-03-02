@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "GODMOTHER OF ROCK N'ROLL",
+        "url": "https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155987,
+      "name": "Forgive Me Lord and Try Me One More Time",
+      "url": "https://open.spotify.com/track/7LzY6XaQI8Kyk7naBt5SHi"
+    },
+    {
+      "album": {
         "name": "Presenting Sister Rosetta Tharpe",
         "url": "https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm"
       },
@@ -692,6 +710,24 @@
       "duration_ms": 114681,
       "name": "He's Got the Whole World in His Hands - Live",
       "url": "https://open.spotify.com/track/1Vh3YDo7zs0dloAYuBpsfK"
+    },
+    {
+      "album": {
+        "name": "GODMOTHER OF ROCK N'ROLL",
+        "url": "https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160798,
+      "name": "Heaven Is Not My Home",
+      "url": "https://open.spotify.com/track/2zPbogViWWF7oIdXHM1KHg"
     },
     {
       "album": {
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 185480,
       "name": "In Bethlehem",
       "url": "https://open.spotify.com/track/56rxK4XwkM438ior5kxic9"

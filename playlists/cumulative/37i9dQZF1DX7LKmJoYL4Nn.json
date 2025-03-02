@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 204826,
       "name": "Little Romance",
       "url": "https://open.spotify.com/track/19ai05uR66WlKTb4M1sI4Z"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 244586,
       "name": "Promise Swords",
       "url": "https://open.spotify.com/track/4MU1VTQkwu9fOGf2rjGfPJ"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 248840,
       "name": "THE GENESIS",
       "url": "https://open.spotify.com/track/5tY74vouzdfyGYpTqFFmev"
@@ -2292,6 +2292,24 @@
       "duration_ms": 288293,
       "name": "\u30cf\u30f3\u30ba\u30af\u30e9\u30d5\u30c8",
       "url": "https://open.spotify.com/track/1NmE0ok9KopsDDVmvZbcwM"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Puffy\u2606Bunny\u300c\u30d1\u30e9\u30c0\u30a4\u30e0\u30fb\u30ea\u30d0\u30fc\u30b7! \u300d (Game Edit)",
+        "url": "https://open.spotify.com/album/7xbBxtVFkI3g9PKY1WwFLP"
+      },
+      "artists": [
+        {
+          "name": "Puffy\u2606Bunny/\u65e5\u3005\u6a39 \u6e09(CV.\u6c5f\u53e3 \u62d3\u4e5f)\u3001\u8475 \u3072\u306a\u305f(CV.\u6589\u85e4 \u58ee\u99ac)\u3001\u4ed9\u77f3 \u5fcd(CV.\u65b0\u7530 \u674f\u6a39)\u3001\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u5f71\u7247 \u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/7sjszWcNjZM6sAKH3PRfyn"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134793,
+      "name": "\u30d1\u30e9\u30c0\u30a4\u30e0\u30fb\u30ea\u30d0\u30fc\u30b7! - Game Edit",
+      "url": "https://open.spotify.com/track/7cYaHEeUt6Kdk1W7rLeah2"
     },
     {
       "album": {

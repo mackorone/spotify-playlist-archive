@@ -11475,6 +11475,24 @@
     },
     {
       "album": {
+        "name": "Hate You So Much",
+        "url": "https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U"
+      },
+      "artists": [
+        {
+          "name": "Saga Ludvigsson",
+          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156519,
+      "name": "Hate You So Much",
+      "url": "https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe"
+    },
+    {
+      "album": {
         "name": "Havanna",
         "url": "https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg"
       },
@@ -14206,7 +14224,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 176666,
       "name": "In kom en \u00e4ngel",
       "url": "https://open.spotify.com/track/31Ck0hJs7XKo78L5kjDcpZ"
@@ -24747,7 +24765,7 @@
     },
     {
       "album": {
-        "name": "Sista Ordet",
+        "name": "sista ordet",
         "url": "https://open.spotify.com/album/1kUhBiMtrokFAKJTfJduuW"
       },
       "artists": [
@@ -24760,7 +24778,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148577,
-      "name": "Sista Ordet",
+      "name": "sista ordet",
       "url": "https://open.spotify.com/track/267CfmuUf0qy8b0fPsGgTu"
     },
     {

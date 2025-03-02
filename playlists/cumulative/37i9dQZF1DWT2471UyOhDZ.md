@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Everything Is Recorded
 
-230 songs - 14 hr 40 min
+231 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Cro\-Magnon Man](https://open.spotify.com/track/1HrrotHTdlartBG4CdFCr1) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cro\-Magnon Man](https://open.spotify.com/album/5VL1958b50wIWuafmVofL6) | 4:07 | 2025-02-07 |  |
 | [Crossroads](https://open.spotify.com/track/3789vBg3jwebkGxaM8k8H5) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Crossroads](https://open.spotify.com/album/4zic3xAKCM4gAcQMKHkt18) | 3:57 | 2024-10-06 | 2024-10-31 |
 | [Damage Gets Done](https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:28 | 2024-06-14 |  |
-| [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2024-06-14 |  |
+| [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2024-06-14 | 2025-03-02 |
 | [Death Valley High](https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Death Valley High](https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb) | 2:40 | 2024-07-11 | 2025-01-31 |
 | [Devil in Your Shoes \- Liquid Gold Version](https://open.spotify.com/track/6rmJSvNyxwoOCZO18WoOge) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Devil in Your Shoes \(Liquid Gold version\)](https://open.spotify.com/album/5bTwfCnOVHtDSUjosfkZyD) | 4:20 | 2024-06-14 | 2024-08-15 |
 | [Dig feat\. Rhian Teasdale](https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA), [Rhian Teasdale](https://open.spotify.com/artist/3ceorkSx0PQZbkvQvWpXIF) | [Dig feat\. Rhian Teasdale](https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw) | 2:47 | 2024-06-14 | 2024-08-22 |
@@ -218,6 +218,7 @@
 | [Top Shelf](https://open.spotify.com/track/731pNCNomcFeK334hwlADK) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [Top Shelf](https://open.spotify.com/album/55mWKI0CDfU5v0qoBQWqfh) | 3:01 | 2024-11-15 | 2025-01-17 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-06 | 2024-10-18 |
 | [Trouble](https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Trouble](https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD) | 5:00 | 2025-01-17 |  |
+| [Tuesday](https://open.spotify.com/track/5Sqe9F65lHHLpkwPt1RYL4) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Tuesday](https://open.spotify.com/album/3iHof8TKLpT0XtVZl3sEHZ) | 3:36 | 2025-02-28 |  |
 | [Two Pairs Of Hands](https://open.spotify.com/track/0L5FTei1MmePVB9ECKOMwd) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:05 | 2024-08-14 |  |
 | [U R MINE](https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [U R MINE](https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7) | 3:11 | 2024-07-18 | 2025-02-08 |
 | [Under the Weight](https://open.spotify.com/track/0jWubqRD8vxtEIn8zRlTHF) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Under the Weight](https://open.spotify.com/album/7j1xBW8ZMgUhxViDi1WRnh) | 3:13 | 2024-10-17 | 2024-12-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 29222,
+  "num_followers": 29226,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAAAMEG26GLy2MYyyoK+LIXNn",
+  "snapshot_id": "Z8D8gAAAAADQxn/ift3JAjNoxrg068no",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 273162,
-      "name": "Me Cuesta Tanto",
-      "url": "https://open.spotify.com/track/0aMszifcdIAK9AYSaev409"
+      "duration_ms": 227918,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 289826,
-      "name": "Te Dar\u00e9 Mi Vida",
-      "url": "https://open.spotify.com/track/1Tuo4INhBf6J0jbMcKbZv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Te Dar\u00e9 Mi Vida",
+      "url": "https://open.spotify.com/track/1Tuo4INhBf6J0jbMcKbZv2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 227918,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
+      "duration_ms": 273162,
+      "name": "Me Cuesta Tanto",
+      "url": "https://open.spotify.com/track/0aMszifcdIAK9AYSaev409"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Cuando Te Vayas",
-      "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inquietos por el Mundo",
         "url": "https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 278053,
       "name": "No Te Olvides de Mi",
       "url": "https://open.spotify.com/track/0DbE1B9SW27XmoHPdGfJG5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Cuando Te Vayas",
+      "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
     },
     {
       "added_at": null,

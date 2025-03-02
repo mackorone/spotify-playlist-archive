@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Red Rocks Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,022,810 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,881 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 5 | [SING OF THIS \- Live](https://open.spotify.com/track/7wrjtqAy3q2781W9gJrVJW) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [SURVEY: Part 2, Live at St\. John at Hackney](https://open.spotify.com/album/48yxGLll2Kn9tmpFua5BBD) | 5:51 |
 | 6 | [My Labour is Not in Vain \- Live](https://open.spotify.com/track/26K5nTbirgaTT9SaEBYjx3) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Hear the Hallelujahs Roar \(Live\)](https://open.spotify.com/album/6vgvTv3D8U3thglUmwdGAA) | 4:29 |
 | 7 | [Hallelujah \(If Not For Your Love\)](https://open.spotify.com/track/3RARr0qocWgXFMAhBJs9jR) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Beyond Us \(Deluxe\)](https://open.spotify.com/album/2M55eh17kBBQURAGpGuDrA) | 3:11 |
-| 8 | [Marvelous](https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Marvelous](https://open.spotify.com/album/0y8KqMQunAIul7iMRcS67i) | 6:54 |
+| 8 | [MARVELOUS](https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [MARVELOUS](https://open.spotify.com/album/0y8KqMQunAIul7iMRcS67i) | 6:54 |
 | 9 | [One And Only](https://open.spotify.com/track/38eG7CWY62HKPQkjiSSWoD) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [One And Only](https://open.spotify.com/album/7psjjAFyfKCI3ZJDMxI4Yw) | 5:07 |
 | 10 | [Constant \- Live](https://open.spotify.com/track/0iNHti6FqdUvPEBvto6WsZ) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Anthony Gargiula](https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI) | [Live at Maverick City](https://open.spotify.com/album/6EuI4oABuEdqtebGSWwtJt) | 4:55 |
 | 11 | [Words We'll Sing Forever](https://open.spotify.com/track/52nHwiyey8yFvn9Wo4SXTt) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Words We'll Sing Forever](https://open.spotify.com/album/54WBbnfppn8JKOiMz4vgvy) | 4:28 |

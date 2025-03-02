@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,938 likes - 110 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,995 likes - 110 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 109 | [May Your Dreams Come True](https://open.spotify.com/track/0NWSjBvxmDU39tIm7z1EJk) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [May Your Dreams Come True](https://open.spotify.com/album/2iApYUYbAkkZa7inorBGrq) | 1:51 |
 | 110 | [The Blue Coloring Book](https://open.spotify.com/track/4rDU0qGUzyomeT3GgXH0QX) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [The Blue Coloring Book](https://open.spotify.com/album/2DtIFYiufejv0I6K0vijcX) | 2:56 |
 
-Snapshot ID: `Z5yYOAAAAADWrCjtes28Rliezdw4um4V`
+Snapshot ID: `Z5yYOAAAAAAf1JgAahPSjsmK2+5evs7n`

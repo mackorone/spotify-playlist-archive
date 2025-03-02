@@ -355,6 +355,32 @@
     },
     {
       "album": {
+        "name": "Arctic (Bushbaby Remix)",
+        "url": "https://open.spotify.com/album/6GjC305lPo3Q5ibsGafSLu"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        },
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182571,
+      "name": "Arctic - Bushbaby Remix",
+      "url": "https://open.spotify.com/track/1MkrUTYCWDl2wNzMFhfHiN"
+    },
+    {
+      "album": {
         "name": "B22s",
         "url": "https://open.spotify.com/album/5DdSHU4JHlD0d5Rk6Rhl8A"
       },
@@ -1112,7 +1138,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 285203,
       "name": "Circadian",
       "url": "https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE"

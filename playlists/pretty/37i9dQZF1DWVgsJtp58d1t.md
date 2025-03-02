@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Meet the collectives who are shaping the future of culture\. Cover: <a href="spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,099 likes - 175 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,271 likes - 175 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 60 | [War](https://open.spotify.com/track/0KFBeOOgwCtOgn8yucRy1X) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [War](https://open.spotify.com/album/5yiHTjdshcqtHKlmiJ5I6Y) | 2:50 |
 | 61 | [Hunting Nirvana](https://open.spotify.com/track/6l6vsrPwhBdjKx0deIENXd) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [FESTIVAL SEASON](https://open.spotify.com/album/676Sf6nD4W2V9oV1QxzpPK) | 2:58 |
 | 62 | [HBK \(feat\. 21 Savage\)](https://open.spotify.com/track/6wje3JOEzPz5TqiDNWTVXk) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WICK](https://open.spotify.com/album/7CDKWBqKdCCw0hN1Mmr6d4) | 3:49 |
-| 63 | [Wheels Fall Off \(feat\. Kanye West\)](https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Wheels Fall Off \(feat\. Kanye West\)](https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb) | 2:01 |
+| 63 | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yé](https://open.spotify.com/artist/6kE7ZdPoVgmtcwcIgm9QFr) | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb) | 2:01 |
 | 64 | [REAL](https://open.spotify.com/track/5MVt7cAKqG0I5yODHr2cT1) | [saveHXPE](https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp) | [REAL](https://open.spotify.com/album/176FORdyylHk6vo56X2Lac) | 2:25 |
 | 65 | [Stuck On Moments \(feat\. Kota The Friend & D'Anna Stewart\)](https://open.spotify.com/track/7Jv4RRzj1YVi3QtPUCBMmU) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [D'Anna Stewart](https://open.spotify.com/artist/4G8WNry9idyIpB106d2q22) | [I Love You Again](https://open.spotify.com/album/0VaQ1RXsmUHqIFzftegVbQ) | 3:24 |
 | 66 | [Back in the Lead](https://open.spotify.com/track/7mqwXNokEMrwZZyOBg3DLY) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Back in the Lead](https://open.spotify.com/album/5DEp2YJUvJTTeQgOLb3rM7) | 2:48 |

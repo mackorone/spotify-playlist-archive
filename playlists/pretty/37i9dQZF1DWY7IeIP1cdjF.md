@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Myke Towers, Junior H & The Rudeboyz, Bad Bunny, Anitta, and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,768,496 likes - 61 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,768,368 likes - 61 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

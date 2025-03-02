@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk menemanimu bersantap sahur
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,472 likes - 83 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,461 likes - 83 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

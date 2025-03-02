@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aEQIkO99yg.md) - [plain]
 
 > ¡Celebrando a Shakira y el paso del "Las Mujeres Ya No Lloran World Tour 2025" por Colombia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,365 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,600 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

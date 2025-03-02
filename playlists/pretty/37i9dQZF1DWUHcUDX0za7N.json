@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Pretty Boy D-O",
-  "num_followers": 59717,
+  "num_followers": 59741,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
+        "name": "Xistence.",
+        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 98964,
+      "name": "flavor.",
+      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
         "name": "Pawon Boy Vol.1",
         "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 135652,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "Xistence.",
-        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 98964,
-      "name": "flavor.",
-      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -851,26 +851,6 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "UPDATE",
-        "url": "https://open.spotify.com/album/1aWhxaiuigcJSg4OAPlSb7"
-      },
-      "artists": [
-        {
-          "name": "SuperWozzy",
-          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 145794,
-      "name": "UPDATE",
-      "url": "https://open.spotify.com/track/3MOIM8ODmal0b7N4m4VaBY"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
         "name": "Taya",
         "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 122666,
       "name": "Taya",
       "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
+        "name": "UPDATE",
+        "url": "https://open.spotify.com/album/1aWhxaiuigcJSg4OAPlSb7"
+      },
+      "artists": [
+        {
+          "name": "SuperWozzy",
+          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 145794,
+      "name": "UPDATE",
+      "url": "https://open.spotify.com/track/3MOIM8ODmal0b7N4m4VaBY"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "Yo My Gee",
-        "url": "https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3"
-      },
-      "artists": [
-        {
-          "name": "Vusic",
-          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Yo My Gee",
-      "url": "https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
         "name": "Aye / Ori-Ade",
         "url": "https://open.spotify.com/album/1c9ZxaswF2AYXlLss026tT"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 158928,
       "name": "Aye",
       "url": "https://open.spotify.com/track/4SllNixOIyCp7FSqaB1CvJ"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
+        "name": "TOSPI",
+        "url": "https://open.spotify.com/album/3hOmLqLQWvgD88omwdB5jz"
+      },
+      "artists": [
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        }
+      ],
+      "duration_ms": 155611,
+      "name": "TOSPI",
+      "url": "https://open.spotify.com/track/59dzzyVixSx3HY2o9DHE3f"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "TOSPI",
-        "url": "https://open.spotify.com/album/3hOmLqLQWvgD88omwdB5jz"
+        "name": "Yo My Gee",
+        "url": "https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3"
       },
       "artists": [
         {
-          "name": "Oladips",
-          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
         }
       ],
-      "duration_ms": 155611,
-      "name": "TOSPI",
-      "url": "https://open.spotify.com/track/59dzzyVixSx3HY2o9DHE3f"
+      "duration_ms": 154455,
+      "name": "Yo My Gee",
+      "url": "https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
+        "name": "original",
+        "url": "https://open.spotify.com/album/0nlBISQDS8BpUMnclrGOhh"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 172102,
+      "name": "original",
+      "url": "https://open.spotify.com/track/02KawWp49Z6cCWbJxN5pqC"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
         "name": "Shame On You",
         "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "original",
-        "url": "https://open.spotify.com/album/0nlBISQDS8BpUMnclrGOhh"
+        "name": "F**Ck Cu 2: Twilight Serenade",
+        "url": "https://open.spotify.com/album/5ysXLTzaB1KXHYIgekwzRl"
       },
       "artists": [
         {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
         }
       ],
-      "duration_ms": 172102,
-      "name": "original",
-      "url": "https://open.spotify.com/track/02KawWp49Z6cCWbJxN5pqC"
+      "duration_ms": 222671,
+      "name": "Chariots of Fire",
+      "url": "https://open.spotify.com/track/1buwbAgQwuMW6Sdm3NUyDX"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -1155,22 +1171,6 @@
       "duration_ms": 227256,
       "name": "LIKE",
       "url": "https://open.spotify.com/track/68te6KLnaeYkrAsAlzGGlD"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "F**Ck Cu 2: Twilight Serenade",
-        "url": "https://open.spotify.com/album/5ysXLTzaB1KXHYIgekwzRl"
-      },
-      "artists": [
-        {
-          "name": "EESKAY",
-          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
-        }
-      ],
-      "duration_ms": 222671,
-      "name": "Chariots of Fire",
-      "url": "https://open.spotify.com/track/1buwbAgQwuMW6Sdm3NUyDX"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -1241,6 +1241,26 @@
       "url": "https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG"
     },
     {
+      "added_at": "2025-02-28 09:01:02",
+      "album": {
+        "name": "The Big 6",
+        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "NFA (Feat. Phyno)",
+      "url": "https://open.spotify.com/track/33fmrAzAiCFBKO7ktWWWwc"
+    },
+    {
       "added_at": "2025-02-24 12:38:01",
       "album": {
         "name": "Lifestyle (feat. Pheelz)",
@@ -1291,6 +1311,22 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
+        "name": "Jumpin Bumpin",
+        "url": "https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw"
+      },
+      "artists": [
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Jumpin Bumpin",
+      "url": "https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
         "name": "Abanikanda",
         "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
       },
@@ -1307,22 +1343,6 @@
       "duration_ms": 207157,
       "name": "Abanikanda",
       "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "Jumpin Bumpin",
-        "url": "https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw"
-      },
-      "artists": [
-        {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Jumpin Bumpin",
-      "url": "https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -1359,22 +1379,6 @@
       "duration_ms": 141771,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7uuDAeMQrufj048z0D6ykf"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/2VwqhYq2mHTDtHPwYYNxab"
-      },
-      "artists": [
-        {
-          "name": "Dwillsharmony",
-          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
-        }
-      ],
-      "duration_ms": 113188,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/5erVR1Kb81BQH02BowvXH4"
     }
   ],
   "unique_name": "Naija Bars ",

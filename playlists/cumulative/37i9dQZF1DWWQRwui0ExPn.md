@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,242 songs - 11 day 10 hr 21 min
+7,243 songs - 11 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,6 +650,7 @@
 | [Bewildered](https://open.spotify.com/track/3zBW8HNLcaWxq4eb4UcmDr) | [Hanz](https://open.spotify.com/artist/1eL4DVwObeAZjGOVjASAXd) | [Leaving For Good](https://open.spotify.com/album/4MbL2phbfJeWMe9fFktZO0) | 2:35 | 2020-01-04 | 2020-08-20 |
 | [Beyond](https://open.spotify.com/track/158ZLsdUyy4Bz1IlWF0ARw) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Beyond](https://open.spotify.com/album/7BaDBc2oS00LGCH6dwNGT7) | 2:38 | 2022-10-14 | 2022-11-24 |
 | [Beyond](https://open.spotify.com/track/7mrhq5wKgleoTMEhPaYFVZ) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Beyond](https://open.spotify.com/album/5derbS2MszismcCTzBKEcI) | 2:38 | 2022-11-18 | 2022-12-16 |
+| [Beyond Horizon](https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6) | [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Beyond Horizon](https://open.spotify.com/album/7sFhglt5Ep3jpiKHKburpp) | 2:05 | 2025-02-28 |  |
 | [Beyond the Oak Trees](https://open.spotify.com/track/7lKqJYhKWmuxtHHSiGg9un) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Beyond the Oak Trees](https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph) | 2:53 | 2021-09-04 | 2022-04-08 |
 | [beyond the pines](https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [beyond the pines](https://open.spotify.com/album/53go6havwrx2e6kqQVvoM8) | 1:51 | 2022-08-19 | 2022-11-25 |
 | [Beyond Time](https://open.spotify.com/track/1OTg9m7xqP3mbTuvLetkJr) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Beyond Time](https://open.spotify.com/album/6ygdAyFkxkK6teDGbwwOcu) | 2:30 | 2022-09-30 | 2022-12-16 |
@@ -3403,7 +3404,7 @@
 | [Last Vacation](https://open.spotify.com/track/4f7MdpLF0XMTv9KsfBzTWR) | [Dolittlebeats](https://open.spotify.com/artist/3fk9GO2x9QE9ZHGmv1TTZz) | [Last Vacation](https://open.spotify.com/album/71NJnR9DvrOSFkXoPnBQQS) | 1:48 | 2022-09-23 | 2022-12-18 |
 | [last wave](https://open.spotify.com/track/2vdaSE2nAxYn5TuY2QsMYH) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [surf trip](https://open.spotify.com/album/2FCzOOYZc512CpXsu8PuSH) | 2:33 | 2023-08-10 | 2023-09-29 |
 | [Late Flight](https://open.spotify.com/track/2L3OQ23a2eu42ZD2jD8gLg) | [Anthony Drawn](https://open.spotify.com/artist/1TYsIU7QKwwZ3IieKIE6oo), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Late Flight](https://open.spotify.com/album/4XBXWF00gqlby0U8XuQh2B) | 2:42 | 2021-12-17 | 2022-07-01 |
-| [Late Flight](https://open.spotify.com/track/6DcweauFxkGQs9wHr7bcxb) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Late Flight](https://open.spotify.com/album/44WUQUU38aDSBQ9L0Hq9Pm) | 1:44 | 2023-10-06 | 2025-02-16 |
+| [Late Flight](https://open.spotify.com/track/6DcweauFxkGQs9wHr7bcxb) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Late Flight](https://open.spotify.com/album/44WUQUU38aDSBQ9L0Hq9Pm) | 1:44 | 2023-10-06 |  |
 | [Late Night](https://open.spotify.com/track/0EfrGzFyyN6dgVW1MMdp0o) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Clara Juan](https://open.spotify.com/artist/51x3hudbqkAWzaildDrAKa) | [Late Night](https://open.spotify.com/album/5ZPE0dkj0QmzVNnW1t0eDt) | 2:43 | 2024-04-26 | 2024-07-19 |
 | [Late Night](https://open.spotify.com/track/0GFfJME7086hArhVjiNHmt) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL) | [Late Night](https://open.spotify.com/album/2lKEAz4op4sdNalb5tMZL1) | 3:11 | 2022-10-14 | 2024-02-09 |
 | [Late Night Banger](https://open.spotify.com/track/5x2IE3MO8mk4GdNtkHsxuO) | [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Atamone](https://open.spotify.com/artist/4ewpGbPN16YHnt8CTfY9oY) | [Late Night Banger](https://open.spotify.com/album/4LCDMGhxwywuTk5TgutNLc) | 2:40 | 2021-07-01 | 2022-01-14 |
@@ -4576,7 +4577,7 @@
 | [On the sidelines](https://open.spotify.com/track/0BcQdPWVneIAFagbqh8zxn) | [Breaksky](https://open.spotify.com/artist/52h0l4myM9HU2UZAbUWsBt) | [My Soul](https://open.spotify.com/album/2AuqAek7cDXbjKxG5BuwZ4) | 2:40 | 2022-11-18 | 2023-01-07 |
 | [On the sidelines](https://open.spotify.com/track/51GetptvEgwYCxZUhzgJQx) | [Breaksky](https://open.spotify.com/artist/52h0l4myM9HU2UZAbUWsBt) | [My Soul](https://open.spotify.com/album/1Jaz9SU3E3l8cFDStIfi8d) | 2:40 | 2022-09-23 | 2022-11-20 |
 | [On The Sly](https://open.spotify.com/track/71Eug4c1AwKUNMcTXwV86x) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [On The Sly](https://open.spotify.com/album/27Wdgla1H2yAjAsO3Fu6JR) | 2:03 | 2024-02-16 |  |
-| [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 | 2024-10-04 |  |
+| [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 | 2024-10-04 | 2025-03-02 |
 | [On Weston Street](https://open.spotify.com/track/4ww6AfcDy7Ypoev7FlPbkF) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Plantasma](https://open.spotify.com/album/7kioH2iFPpgVbsJVAWvSiD) | 2:04 | 2022-10-07 | 2023-09-30 |
 | [Once in a While](https://open.spotify.com/track/5gFQbmmNupeEeiK7sG86vc) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Once in a While](https://open.spotify.com/album/6ZFh7PTsRsCjRDGGnpYxVe) | 2:37 | 2020-04-08 | 2021-10-02 |
 | [once upon a time](https://open.spotify.com/track/4h1kjj76abuzotO1l1b4UK) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [once upon a time](https://open.spotify.com/album/5YTL2uewGmx1D5GJcQSZ2w) | 2:24 | 2023-11-17 |  |
@@ -5482,7 +5483,7 @@
 | [shimmer](https://open.spotify.com/track/2x2z2DzZbEpO3BcdfNgadR) | [Music Otaku](https://open.spotify.com/artist/28OtlgPSu6CGemKKUUpZJf) | [shimmer](https://open.spotify.com/album/0EIAzjDUhr7RSu3rgscxMB) | 2:15 | 2021-11-20 | 2022-06-10 |
 | [Shimmering](https://open.spotify.com/track/2zrGYgP08Z7jodj5WUxuET) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [Monomo](https://open.spotify.com/artist/2dmpVwPMr9wEkPAgntGyqY), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Shimmering](https://open.spotify.com/album/7HFRSpivp5TCZ2HVOD3xEW) | 2:21 | 2022-08-26 | 2022-12-03 |
 | [Shinigami](https://open.spotify.com/track/7rc0xyHymWRp3JGajelI2k) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 2:14 | 2019-05-31 | 2020-10-21 |
-| [Shining Sun](https://open.spotify.com/track/4KOS347RAW9K2AuROIFNN9) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Shining Sun](https://open.spotify.com/album/2DwZp52SFzkEcTOV6s19t7) | 2:41 | 2024-01-19 |  |
+| [Shining Sun](https://open.spotify.com/track/4KOS347RAW9K2AuROIFNN9) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Shining Sun](https://open.spotify.com/album/2DwZp52SFzkEcTOV6s19t7) | 2:41 | 2024-01-19 | 2025-03-02 |
 | [Shinjuku Nights](https://open.spotify.com/track/4MRPwM1HeOHd76PjSffHAG) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Shinjuku Nights](https://open.spotify.com/album/3TVFIJvyZ3qOv9YQ3d0vGs) | 2:00 | 2023-10-13 |  |
 | [Shinrin\-yoku](https://open.spotify.com/track/2ByA0nEhebx6CD22wMmGM7) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL) | [Shinrin\-yoku](https://open.spotify.com/album/0IOnDUjJlSqQ1Vy9x6Vbfq) | 1:56 | 2021-10-02 | 2022-04-15 |
 | [Shiny](https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Shiny](https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi) | 2:09 | 2022-10-07 | 2023-01-13 |

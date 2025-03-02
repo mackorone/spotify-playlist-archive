@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:7nCIXUCqZmxntAGJMyls5c">Svea S</a> har album ude ❤️‍🔥 <a href="spotify:artist:1WLr84Nec3Bb8xuxgQZGb9">For Evigt I Går</a> ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,121 likes - 113 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,124 likes - 113 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 29 | [Tell Me](https://open.spotify.com/track/7KH7qQDC34EPT0sK3EJP3s) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Tell Me](https://open.spotify.com/album/3ZFyWbTnJbuAc2yCL4dHTQ) | 3:06 |
 | 30 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 |
 | 31 | [Vinder Ikke Mere](https://open.spotify.com/track/6idRbzcrBLHQjCJmTSaqLC) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Vinder Ikke Mere](https://open.spotify.com/album/2lmQ2oaFJjyjbJsock3zdw) | 3:06 |
-| 32 | [Endless Summer](https://open.spotify.com/track/7BA1wNo0dJzxd2nRvBLAe5) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW), [DARKOWA](https://open.spotify.com/artist/02YWmrPe2DFyagloOo6lrF) | [Debbie's Songs](https://open.spotify.com/album/3gUeLeB7Wbi9Hvqg0gWgYY) | 3:20 |
+| 32 | [Endless Summer](https://open.spotify.com/track/7BA1wNo0dJzxd2nRvBLAe5) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW), [dark0wa](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53) | [Debbie's Songs](https://open.spotify.com/album/3gUeLeB7Wbi9Hvqg0gWgYY) | 3:20 |
 | 33 | [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 |
 | 34 | [NRG](https://open.spotify.com/track/1Yz8xzdwt7G1ycQcsmkjiL) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [NRG](https://open.spotify.com/album/3oA8nvPoNme2PLz7pHvfpr) | 2:02 |
 | 35 | [Silhuetter](https://open.spotify.com/track/21fLEwiPUW79dXU1yjyyeH) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [For Evigt I Går](https://open.spotify.com/album/7jLGoAldNIM7iBrZBK1oHu) | 2:56 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 101 | [Jeg Er Den Jeg Er](https://open.spotify.com/track/6okjEUdk2SYbmyVvVRwrez) | [Luie](https://open.spotify.com/artist/5ihCplN5a8mzkdFhLM2WD6) | [Jeg Er Den Jeg Er](https://open.spotify.com/album/6vvMPhjh16SpjSeC73TlSk) | 2:24 |
 | 102 | [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [VS\-55](https://open.spotify.com/artist/2OkvEMID0ukuuRijJJwExF) | [ᚦ](https://open.spotify.com/album/0rVcW5vYBivXuERqeYF50o) | 4:58 |
 | 103 | [På Tid](https://open.spotify.com/track/1n7P0AGckfLD1yWaqJlgpA) | [Løsgænger](https://open.spotify.com/artist/2vGjImvRIcL0jbVJFYhUer) | [Alt Er Serveret](https://open.spotify.com/album/54UBd93yByuWMz2qNiHkA2) | 2:59 |
-| 104 | [Has It Entered Your Mind](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 |
+| 104 | [Has It Entered Your Mind?](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 |
 | 105 | [Like Dat](https://open.spotify.com/track/2ed7sJQBrVhxtQmA0RJTgw) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Like Dat](https://open.spotify.com/album/4JgzgZy7gXScx6hdm34zsL) | 5:47 |
 | 106 | [Sweet N’ Psycho](https://open.spotify.com/track/0UvVr7by4E5QEndoWl1Joo) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Sweet N’ Psycho](https://open.spotify.com/album/70dDazrZukBMHfE9scx0rU) | 2:56 |
 | 107 | [Wolf](https://open.spotify.com/track/1hIOttZmQV6aAi9Al7NYoU) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Wolf](https://open.spotify.com/album/0lUSsaAheHP7BXnktrZNlZ) | 3:08 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 112 | [Remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 |
 | 113 | [Clothes Off](https://open.spotify.com/track/338b5ZgLjuLr5S9Qk5bKrZ) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Clothes Off](https://open.spotify.com/album/5aN07Khrurpekp7Ur0Akma) | 3:08 |
 
-Snapshot ID: `Z8DukwAAAACs68EqeqymhLIhRcSsX2z0`
+Snapshot ID: `Z8DukwAAAAALR0xmKvu4uWsEOAvIRKXF`

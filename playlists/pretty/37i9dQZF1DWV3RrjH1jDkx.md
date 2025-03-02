@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,677 likes - 107 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,699 likes - 107 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 47 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 |
 | 48 | [Ultraøyer](https://open.spotify.com/track/4dMaweQHDB7RypT7kFgF9N) | [Honningbarna](https://open.spotify.com/artist/6G5StsdpEhbhdrmJG0WMMx) | [Soft Spot](https://open.spotify.com/album/5kAZDRUWcOKCp948RaF9nO) | 4:19 |
 | 49 | [happy place](https://open.spotify.com/track/3WexcBAuTg6p1XkaUqb3Td) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [happy place](https://open.spotify.com/album/3AVrDEyYGkcf6txru4yDKZ) | 3:31 |
-| 50 | [Has It Entered Your Mind](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 |
+| 50 | [Has It Entered Your Mind?](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 |
 | 51 | [Insane](https://open.spotify.com/track/1w5o0VfjZb4ID0xSkuSCYS) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Insane](https://open.spotify.com/album/0rJ7dffh1Xl3rOh9V1X7U8) | 1:56 |
 | 52 | [Runaway \- Orchestral](https://open.spotify.com/track/1RFSBDlPnpnzOHQnjm8178) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Runaway \(Orchestral\)](https://open.spotify.com/album/5q1rY3Fzu9uTHUYEnRQmiJ) | 4:08 |
 | 53 | [Jeg er gla](https://open.spotify.com/track/5bz5QoXFUlU2LCSWfw8muC) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Sanger i Havn](https://open.spotify.com/album/0Y4pn5gCTVFGKgWowVymnD) | 2:45 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 90 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 |
 | 91 | [Castle in the Sky](https://open.spotify.com/track/6OQtz7LGwya9AWut8nPf80) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Castle in the Sky](https://open.spotify.com/album/2ETx5sCbFg1DI0Jef7fW99) | 3:25 |
 | 92 | [Cheers](https://open.spotify.com/track/2bPm2KgdHwttB2ZRdL0jdZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Cheers](https://open.spotify.com/album/34r9RSSfxVG5pDXbfcuE8u) | 3:26 |
-| 93 | [Sista Ordet](https://open.spotify.com/track/267CfmuUf0qy8b0fPsGgTu) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Sista Ordet](https://open.spotify.com/album/1kUhBiMtrokFAKJTfJduuW) | 2:28 |
+| 93 | [sista ordet](https://open.spotify.com/track/267CfmuUf0qy8b0fPsGgTu) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [sista ordet](https://open.spotify.com/album/1kUhBiMtrokFAKJTfJduuW) | 2:28 |
 | 94 | [Anthem](https://open.spotify.com/track/38pfUvhqVyuvlgUBiNaZSo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Anthem](https://open.spotify.com/album/3C1Qcd5uy6v1Nbmo1DG8cW) | 3:05 |
 | 95 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 |
 | 96 | [Bruk og kast](https://open.spotify.com/track/4jAcYQrJqTfxq4vQBcyofn) | [Anne Fagermo](https://open.spotify.com/artist/0dVIr95DY0Ui1tL3p7ic3b) | [Bruk og kast](https://open.spotify.com/album/5S9BNVt1W9UiLPOdb2O3Vc) | 3:46 |

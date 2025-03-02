@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Gerardo Coronel en portada.
 
-452 songs - 23 hr 58 min
+453 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 | 2022-07-15 | 2024-04-19 |
 | [Provócame](https://open.spotify.com/track/7EhjgNLMiTYCh6ClCy3RIT) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/7nJVbjmvbcsnJvqtT1eXvK) | 3:00 | 2022-01-28 | 2022-07-29 |
 | [Psicólogo Privado](https://open.spotify.com/track/0mGNQ1AEqzeGARUkbUeGAK) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Psicólogo Privado](https://open.spotify.com/album/1QPGkBHOuIaU2xKAODMBN9) | 3:18 | 2022-07-01 | 2022-07-25 |
-| [Pude](https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Pude](https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI) | 3:30 | 2024-11-15 |  |
+| [Pude](https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Pude](https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI) | 3:30 | 2024-11-15 | 2025-03-02 |
 | [Punto Y Aparte](https://open.spotify.com/track/674KkMr78BLwDVfWnjkceE) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 3:00 | 2023-01-16 | 2023-08-12 |
 | [Que Falta Me Hace Mi Padre](https://open.spotify.com/track/1aEicowaVDN82dt0U1r3og) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Que Falta Me Hace Mi Padre](https://open.spotify.com/album/29l9FsZD7XBhdEs15Pb9a7) | 3:19 | 2022-11-03 | 2023-06-24 |
 | [Que Hay Que Hacer](https://open.spotify.com/track/11AS1e1BTVn9dBGk10kdAj) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Que Hay Que Hacer](https://open.spotify.com/album/4WEs7qbShxaXYMMJhSoZQV) | 3:33 | 2024-05-10 | 2025-03-01 |
@@ -430,6 +430,7 @@
 | [Volveré](https://open.spotify.com/track/26Wuw2ugVQCZdXCNU0M95x) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Volveré](https://open.spotify.com/album/0OegCeE6bu1HNDepUaUZKa) | 3:22 | 2022-11-03 | 2024-09-20 |
 | [Voy A Levantarme](https://open.spotify.com/track/7sQqPVaiEejICfZK08GI9H) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Voy A Levantarme](https://open.spotify.com/album/63F3VkReUeiOf1LSd2MicF) | 2:17 | 2024-09-20 |  |
 | [Voy Pa’Arriba Y Con Viada](https://open.spotify.com/track/3Ci2QXttB3371jfqJcmJcJ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Voy Pa’Arriba Y Con Viada](https://open.spotify.com/album/3CPelQDAucCTS0qDJllAHB) | 2:56 | 2023-05-05 | 2024-05-11 |
+| [Voy Queriéndote](https://open.spotify.com/track/5wbyzeqiYoM3JEaCDW8aX1) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:27 | 2025-02-28 |  |
 | [Y Así Fue](https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:46 | 2022-07-15 | 2022-11-22 |
 | [Y Me Da Vergüenza](https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:02 | 2022-06-20 |  |
 | [Y Que Soporten](https://open.spotify.com/track/0dXNs41HnOKdIkYtfmTNYB) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Y Que Soporten](https://open.spotify.com/album/6DWrKCUvFC2yGSSpOOzcO3) | 3:35 | 2023-11-10 | 2024-01-29 |

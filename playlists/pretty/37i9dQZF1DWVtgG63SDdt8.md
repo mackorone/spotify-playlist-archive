@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,165 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,242 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Marvelous](https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Marvelous](https://open.spotify.com/album/0y8KqMQunAIul7iMRcS67i) | 6:54 |
+| 1 | [MARVELOUS](https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [MARVELOUS](https://open.spotify.com/album/0y8KqMQunAIul7iMRcS67i) | 6:54 |
 | 2 | [Call Your Name](https://open.spotify.com/track/6DF7bbGc7yDdOjUhCULMud) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Call Your Name](https://open.spotify.com/album/4vaSuASnMqTwnG8wIAfAPg) | 3:06 |
 | 3 | [I've Got A Story \(feat\. Tori Kelly\)](https://open.spotify.com/track/36eSZRHIYEE1zFN3aAjjAN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season One\]](https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI) | 3:23 |
 | 4 | [NOTHING ELSE \(feat\. Thomas Rhett\)](https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [NOTHING ELSE \(feat\. Thomas Rhett\)](https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3) | 1:58 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 35 | [So Good To Me](https://open.spotify.com/track/5NAl3il27eS6TKM3JCw9Lc) | [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz), [LEONN](https://open.spotify.com/artist/6JWQbKP6N9mcGErWIj9XNw) | [So Good To Me](https://open.spotify.com/album/6vZMp7a2y3qugfzwcQa8KL) | 5:16 |
 | 36 | [Taking My Praise Back \- Live](https://open.spotify.com/track/4L6qpRdiOjUufmp3XFdQjP) | [Noel Robinson](https://open.spotify.com/artist/6NPIZtY6oJzY4q35IRa1Xa) | [Change the Atmosphere \(Live\)](https://open.spotify.com/album/7zoG76pYzfydc9Jq712MEu) | 6:48 |
 | 37 | [THANK YOU FOR BEING GOD](https://open.spotify.com/track/5vkYr5LARcSmBeBe72XoQH) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [THANK YOU FOR BEING GOD](https://open.spotify.com/album/5DxuuH3I49aT4DoQsfLFqQ) | 3:15 |
-| 38 | [Daily Ii](https://open.spotify.com/track/3WGasSM3lLRvq4nPi5LUGk) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [Daily Ii](https://open.spotify.com/album/1yYpLXtxqLgN4Mo9Wbwz11) | 3:19 |
+| 38 | [Daily II](https://open.spotify.com/track/3WGasSM3lLRvq4nPi5LUGk) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [Daily II](https://open.spotify.com/album/1yYpLXtxqLgN4Mo9Wbwz11) | 3:19 |
 | 39 | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/track/67K6tlpK5geck7OLZd5js9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/album/0PmiXhRIA1vUUSjHOKn1sq) | 2:28 |
 | 40 | [Motion](https://open.spotify.com/track/7z6wIHHx2OTpiOwoy56PFK) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Motion](https://open.spotify.com/album/3dFQXxmAFkW6kjAeKecMJC) | 2:59 |
 | 41 | [THE PRODIGAL SON](https://open.spotify.com/track/6GWI3an55iJE1iyYncgjMp) | [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [THE PRODIGAL SON](https://open.spotify.com/album/09Nzn4wlwkHfg5maL9HLPr) | 3:03 |

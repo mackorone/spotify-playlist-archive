@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34984,
+  "num_followers": 34985,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAACgLWQxaWmhtTGFI/anHjJN",
+  "snapshot_id": "Z8D8gAAAAAC58fF9Yg2FLZ8QjqJT7qHo",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
-      },
-      "artists": [
-        {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Cara do Abacaxi Classic",
         "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 145750,
       "name": "Empurra Empurra",
       "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
     },
     {
       "added_at": null,
@@ -503,6 +503,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ritmado 1.0 (feat. Mc Dricka)",
+        "url": "https://open.spotify.com/album/4sU7OcNOIq8MZtiq6dfv1y"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Mc Binn",
+          "url": "https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE"
+        },
+        {
+          "name": "Veiga no Beat",
+          "url": "https://open.spotify.com/artist/7Iojib0lifaGJnw2oip1pu"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 147072,
+      "name": "Ritmado 1.0 (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/1SITB4RMgsuEt50sXFhXDT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
         "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
@@ -539,34 +567,6 @@
       "duration_ms": 119376,
       "name": "Pede que Eu Te Dou (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/5nCU2l9qq9dYPgkASU8Lgo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ritmado 1.0 (feat. Mc Dricka)",
-        "url": "https://open.spotify.com/album/4sU7OcNOIq8MZtiq6dfv1y"
-      },
-      "artists": [
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Mc Binn",
-          "url": "https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE"
-        },
-        {
-          "name": "Veiga no Beat",
-          "url": "https://open.spotify.com/artist/7Iojib0lifaGJnw2oip1pu"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 147072,
-      "name": "Ritmado 1.0 (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/1SITB4RMgsuEt50sXFhXDT"
     },
     {
       "added_at": null,
@@ -815,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festa na Marina",
-        "url": "https://open.spotify.com/album/3YPoXNtm6t8D1zoeSJJ0Hm"
-      },
-      "artists": [
-        {
-          "name": "DJ Gabriel",
-          "url": "https://open.spotify.com/artist/3sU7tsAOhfPn0sCPE7z1PB"
-        },
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/3EtXD1ODCDVhaWv0gbBEt6"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 123316,
-      "name": "Festa na Marina",
-      "url": "https://open.spotify.com/track/1eXwKl0la1JN01oMjFEOmb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minha Ex de Volta",
         "url": "https://open.spotify.com/album/7ulQNsPAtcCeZMKwPSUluV"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 159692,
       "name": "Minha Ex de Volta",
       "url": "https://open.spotify.com/track/5ljvo0PWI0lqTN4NDVFurH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Festa na Marina",
+        "url": "https://open.spotify.com/album/3YPoXNtm6t8D1zoeSJJ0Hm"
+      },
+      "artists": [
+        {
+          "name": "DJ Gabriel",
+          "url": "https://open.spotify.com/artist/3sU7tsAOhfPn0sCPE7z1PB"
+        },
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/3EtXD1ODCDVhaWv0gbBEt6"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 123316,
+      "name": "Festa na Marina",
+      "url": "https://open.spotify.com/track/1eXwKl0la1JN01oMjFEOmb"
     },
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretinha do Peitin e do Bund\u00e3o",
-        "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 168922,
-      "name": "Pretinha do Peitin e do Bund\u00e3o",
-      "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pra Elas",
         "url": "https://open.spotify.com/album/6His16JzwBQ9Dx3a7VPm4n"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 179076,
       "name": "Minha Bunda N\u00e3o Para",
       "url": "https://open.spotify.com/track/6bqE6YvhWnTWHPAb0SRlmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretinha do Peitin e do Bund\u00e3o",
+        "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 168922,
+      "name": "Pretinha do Peitin e do Bund\u00e3o",
+      "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
     },
     {
       "added_at": null,
@@ -1143,78 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rel\u00edquias da Marketada",
-        "url": "https://open.spotify.com/album/5JIgWCYZs2KsvSllIfjjyZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
-        },
-        {
-          "name": "DJ DEIV\u00c3O",
-          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
-        },
-        {
-          "name": "DJ Biel Divulga",
-          "url": "https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o"
-        },
-        {
-          "name": "MC LEON",
-          "url": "https://open.spotify.com/artist/1knOHAH1uapqFXGgy6upjg"
-        },
-        {
-          "name": "DJ Rugal Original",
-          "url": "https://open.spotify.com/artist/0Po8wyMF4UI4YCzSdjqy5B"
-        },
-        {
-          "name": "DJ Salatiel",
-          "url": "https://open.spotify.com/artist/5t9AqmSUojIXlcw8vUEqDc"
-        },
-        {
-          "name": "Dj Erick Bernardo",
-          "url": "https://open.spotify.com/artist/4LkJmFKt5yOMRmiGAVoHe5"
-        },
-        {
-          "name": "Mc 7 Belo",
-          "url": "https://open.spotify.com/artist/48HM9dIFLIwnmNlXW5KBy7"
-        },
-        {
-          "name": "Mc Kitinho",
-          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
-        },
-        {
-          "name": "MC Neguin Original",
-          "url": "https://open.spotify.com/artist/5tppWY4xjBykM5Ze0DV7ZH"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Talib\u00e3",
-          "url": "https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG"
-        },
-        {
-          "name": "Silva Mc",
-          "url": "https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
-        },
-        {
-          "name": "MC MENOR DO DOZE",
-          "url": "https://open.spotify.com/artist/5bnpaWpiU7oX1gYenzcSQu"
-        }
-      ],
-      "duration_ms": 241899,
-      "name": "Rel\u00edquias da Marketada",
-      "url": "https://open.spotify.com/track/46rzoekJ9TnohJdBJcCUS3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quarentena do Trator",
         "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
       },
@@ -1283,6 +1211,78 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rel\u00edquias da Marketada",
+        "url": "https://open.spotify.com/album/5JIgWCYZs2KsvSllIfjjyZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Biel Divulga",
+          "url": "https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o"
+        },
+        {
+          "name": "MC LEON",
+          "url": "https://open.spotify.com/artist/1knOHAH1uapqFXGgy6upjg"
+        },
+        {
+          "name": "DJ Rugal Original",
+          "url": "https://open.spotify.com/artist/0Po8wyMF4UI4YCzSdjqy5B"
+        },
+        {
+          "name": "DJ Salatiel",
+          "url": "https://open.spotify.com/artist/5t9AqmSUojIXlcw8vUEqDc"
+        },
+        {
+          "name": "Dj Erick Bernardo",
+          "url": "https://open.spotify.com/artist/4LkJmFKt5yOMRmiGAVoHe5"
+        },
+        {
+          "name": "Mc 7 Belo",
+          "url": "https://open.spotify.com/artist/48HM9dIFLIwnmNlXW5KBy7"
+        },
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        },
+        {
+          "name": "MC Neguin Original",
+          "url": "https://open.spotify.com/artist/5tppWY4xjBykM5Ze0DV7ZH"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Talib\u00e3",
+          "url": "https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG"
+        },
+        {
+          "name": "Silva Mc",
+          "url": "https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        },
+        {
+          "name": "MC MENOR DO DOZE",
+          "url": "https://open.spotify.com/artist/5bnpaWpiU7oX1gYenzcSQu"
+        }
+      ],
+      "duration_ms": 241899,
+      "name": "Rel\u00edquias da Marketada",
+      "url": "https://open.spotify.com/track/46rzoekJ9TnohJdBJcCUS3"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 817016,
+  "num_followers": 817129,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-02-20 13:03:54",
       "album": {
-        "name": "she goes",
-        "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "she goes",
-      "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
-    },
-    {
-      "added_at": "2025-02-20 13:03:54",
-      "album": {
         "name": "Dumb Feeling",
         "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 190264,
       "name": "Dumb Feeling",
       "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
+    },
+    {
+      "added_at": "2025-02-20 13:03:54",
+      "album": {
+        "name": "she goes",
+        "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "she goes",
+      "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
     },
     {
       "added_at": "2025-02-20 13:03:54",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-02-20 13:03:54",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2025-02-20 13:03:54",
+      "album": {
         "name": "postcard from Berlin",
         "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 194092,
       "name": "grapejuice",
       "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
-    },
-    {
-      "added_at": "2025-02-20 13:03:54",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2025-02-20 13:03:54",
@@ -679,8 +679,8 @@
     {
       "added_at": "2025-02-20 13:03:54",
       "album": {
-        "name": "My Guitar is too Loud",
-        "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
+        "name": "Le temps se fuit",
+        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
         }
       ],
-      "duration_ms": 202000,
-      "name": "My Guitar is too Loud",
-      "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
+      "duration_ms": 210706,
+      "name": "Le temps se fuit",
+      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
     },
     {
       "added_at": "2025-02-20 13:03:54",
@@ -815,8 +815,8 @@
     {
       "added_at": "2025-02-20 13:03:54",
       "album": {
-        "name": "Le temps se fuit",
-        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
+        "name": "My Guitar is too Loud",
+        "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
         }
       ],
-      "duration_ms": 210706,
-      "name": "Le temps se fuit",
-      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
+      "duration_ms": 202000,
+      "name": "My Guitar is too Loud",
+      "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
     },
     {
       "added_at": "2025-02-20 13:03:54",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-02-20 13:03:54",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg"
-      },
-      "artists": [
-        {
-          "name": "Boatkeeper",
-          "url": "https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5"
-        }
-      ],
-      "duration_ms": 202361,
-      "name": "Breach",
-      "url": "https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj"
-    },
-    {
-      "added_at": "2025-02-20 13:03:54",
-      "album": {
         "name": "A.M. RADIO",
         "url": "https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 237320,
       "name": "A.M. RADIO",
       "url": "https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP"
+    },
+    {
+      "added_at": "2025-02-20 13:03:54",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg"
+      },
+      "artists": [
+        {
+          "name": "Boatkeeper",
+          "url": "https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5"
+        }
+      ],
+      "duration_ms": 202361,
+      "name": "Breach",
+      "url": "https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj"
     },
     {
       "added_at": "2025-02-20 13:03:54",

@@ -113857,6 +113857,24 @@
     },
     {
       "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/4kbKAHR2c0Bwu0k5PUS1R8"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223173,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/6NTE0EIOlM0YTdd9R9pI3Y"
+    },
+    {
+      "album": {
         "name": "Stupid and Famous",
         "url": "https://open.spotify.com/album/58riorwSTiBrDtCLgsYsv0"
       },

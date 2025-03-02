@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Jadson Moreno",
-  "num_followers": 1122517,
+  "num_followers": 1122786,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
+        "name": "\u00danico (Live)",
+        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 419280,
+      "name": "\u00danico - Live",
+      "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
         "name": "Eu Quero Ser Grato",
         "url": "https://open.spotify.com/album/6FTw5OQuXaNQzMKPkxM2D0"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 192403,
       "name": "Eu Quero Ser Grato",
       "url": "https://open.spotify.com/track/7v8Ui8MWtxBIBNtTgHWWwZ"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
-        "name": "\u00danico (Live)",
-        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 419280,
-      "name": "\u00danico - Live",
-      "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -343,6 +343,26 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
+        "name": "\u00danico (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 506122,
+      "name": "\u00danico - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
         "name": "Tetelestai (Ao Vivo)",
         "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
       },
@@ -383,26 +403,6 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "Esperan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 319866,
-      "name": "Esperan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
         "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
       },
@@ -435,22 +435,22 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "\u00danico (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
+        "name": "Esperan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         },
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 506122,
-      "name": "\u00danico - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+      "duration_ms": 319866,
+      "name": "Esperan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 523386,
-      "name": "Can\u00e7\u00e3o de Paulo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5tDZvfCT14AJW5sM1t81iD"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
         "name": "Tu \u00c9s Deus (A Ele)",
         "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 641142,
       "name": "Un\u00e7\u00e3o Pelo Ar - Ao Vivo",
       "url": "https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 523386,
+      "name": "Can\u00e7\u00e3o de Paulo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5tDZvfCT14AJW5sM1t81iD"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 431470,
-      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
         "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
         "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 519000,
       "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
       "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
+        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 431470,
+      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "O Nome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        },
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 426022,
-      "name": "O Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
         "name": "Estou Te Esperando (Ao Vivo)",
         "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 411745,
       "name": "Estou Te Esperando (Ao Vivo)",
       "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
+        "name": "O Nome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 426022,
+      "name": "O Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -855,26 +855,6 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "\u00danico (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 412747,
-      "name": "Brasa Viva - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
         "name": "Si\u00e3o / Derrama (Ao Vivo)",
         "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 508733,
       "name": "Si\u00e3o / Derrama - Ao Vivo",
       "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
+        "name": "\u00danico (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 412747,
+      "name": "Brasa Viva - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
+        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 390933,
+      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
         "name": "Teu Toque (Ao Vivo)",
         "url": "https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 390933,
-      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
         "name": "Peregrino (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 330220,
       "name": "Peregrino - Ao vivo",
       "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
         "name": "Para Ti Eu Vou (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo"
       },
@@ -1111,6 +1111,26 @@
       "duration_ms": 601544,
       "name": "Para Ti Eu Vou - Ao Vivo",
       "url": "https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
+        "name": "O C\u00e9u Responde Diferente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        }
+      ],
+      "duration_ms": 377246,
+      "name": "O C\u00e9u Responde Diferente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -1147,26 +1167,6 @@
       "duration_ms": 386420,
       "name": "Com Muito Louvor (Ao Vivo)",
       "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
-        "name": "O C\u00e9u Responde Diferente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        },
-        {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
-        }
-      ],
-      "duration_ms": 377246,
-      "name": "O C\u00e9u Responde Diferente - Ao Vivo",
-      "url": "https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
+        "name": "Livramento",
+        "url": "https://open.spotify.com/album/4lsUDMd1JGkCbeEoczP03s"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 425625,
+      "name": "Livramento",
+      "url": "https://open.spotify.com/track/5DQs4Xg23TO0zRzuwskitZ"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
         "name": "Deus N\u00e3o Falhar\u00e1",
         "url": "https://open.spotify.com/album/6WddTfFBjojKQZ7VMztSah"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 243252,
       "name": "Esp\u00edrito, Enche a Minha Vida",
       "url": "https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
-        "name": "Livramento",
-        "url": "https://open.spotify.com/album/4lsUDMd1JGkCbeEoczP03s"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 425625,
-      "name": "Livramento",
-      "url": "https://open.spotify.com/track/5DQs4Xg23TO0zRzuwskitZ"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "\u00danico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
-      },
-      "artists": [
-        {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "Marco Telles",
-          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
-        }
-      ],
-      "duration_ms": 456676,
-      "name": "\u00danico - Ao vivo",
-      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
         "name": "A Boa Parte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 350274,
       "name": "A Boa Parte - Ao Vivo",
       "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
+        "name": "\u00danico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        }
+      ],
+      "duration_ms": 456676,
+      "name": "\u00danico - Ao vivo",
+      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
     },
     {
       "added_at": "2025-02-21 16:17:21",

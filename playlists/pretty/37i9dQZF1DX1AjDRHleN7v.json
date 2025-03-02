@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 364848,
+  "num_followers": 365362,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
-        "name": "J\u00e1",
-        "url": "https://open.spotify.com/album/6TVsnE10smdfVGIEG5BFbM"
-      },
-      "artists": [
-        {
-          "name": "Maskavo",
-          "url": "https://open.spotify.com/artist/4wvAGBushcLkCZ1lEZsYMf"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Um Anjo do C\u00e9u",
-      "url": "https://open.spotify.com/track/2YgAAAq8h7nPIMVLVVSHtK"
-    },
-    {
-      "added_at": "2025-02-28 17:10:11",
-      "album": {
         "name": "Casinha",
         "url": "https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 179466,
       "name": "Pescador",
       "url": "https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD"
+    },
+    {
+      "added_at": "2025-02-28 17:10:11",
+      "album": {
+        "name": "J\u00e1",
+        "url": "https://open.spotify.com/album/6TVsnE10smdfVGIEG5BFbM"
+      },
+      "artists": [
+        {
+          "name": "Maskavo",
+          "url": "https://open.spotify.com/artist/4wvAGBushcLkCZ1lEZsYMf"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Um Anjo do C\u00e9u",
+      "url": "https://open.spotify.com/track/2YgAAAq8h7nPIMVLVVSHtK"
     },
     {
       "added_at": "2025-02-28 17:10:11",

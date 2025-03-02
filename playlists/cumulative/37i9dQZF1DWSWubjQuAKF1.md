@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kalina Kortas
 
-358 songs - 17 hr 10 min
+360 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,12 @@
 | [2/10](https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [2/10](https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6) | 3:50 | 2024-06-28 | 2024-07-05 |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-23 |  |
 | [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-06-28 | 2024-07-12 |
-| [8 am](https://open.spotify.com/track/1p8PD4ArjnUjLoapFKUn5B) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 3:03 | 2025-02-06 |  |
+| [8 am](https://open.spotify.com/track/1p8PD4ArjnUjLoapFKUn5B) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 3:03 | 2025-02-06 | 2025-03-02 |
 | [a może nie?](https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [a może nie?](https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm) | 2:42 | 2024-10-04 | 2025-01-10 |
 | [Adoruje](https://open.spotify.com/track/6iYHlyG64QyVqCmI5eMosJ) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A), [pik pik](https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY) | [Adoruje](https://open.spotify.com/album/4coeoHHAySMXfGt4PjGsAp) | 2:35 | 2024-06-28 | 2024-07-19 |
 | [Ale Boli!](https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Ale Boli!](https://open.spotify.com/album/4Lhi9Li8RsBAke2BM6sda9) | 1:53 | 2024-09-27 | 2024-11-08 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-23 |  |
+| [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 | 2025-02-27 |  |
 | [Ambiwalencje](https://open.spotify.com/track/6jiBhMEv34yXWzqG1tEbCL) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Ambiwalencje](https://open.spotify.com/album/1sFwhCJPNkPu572N4u6ANw) | 2:51 | 2024-06-28 | 2024-08-23 |
 | [AMORE](https://open.spotify.com/track/044O7GSnrUGZIGt2meiJdj) | [tomash](https://open.spotify.com/artist/3F4KehTGmSeMmPd2YQvmeY) | [AMORE](https://open.spotify.com/album/7A7Yg3CYOmOtM6XDJtOz8i) | 2:41 | 2024-06-28 | 2024-11-22 |
 | [apollo](https://open.spotify.com/track/0DoKEamrm3P13HItt9PTwM) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [apollo](https://open.spotify.com/album/3piWNDcYfXIPKcF4JFVr8d) | 2:19 | 2024-06-28 | 2024-08-02 |
@@ -223,6 +224,7 @@
 | [NINA](https://open.spotify.com/track/2P1QcxwtZlOa75rEG0v15I) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [DEMOLKA](https://open.spotify.com/album/4OTDkkILQUW0uQrfrOKvNK) | 2:47 | 2025-02-13 |  |
 | [No sorry](https://open.spotify.com/track/52a7a5SEgQp16NUUKTMOWC) | [Aria Martelle](https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K) | [No sorry](https://open.spotify.com/album/076dSxuEN0KF6I2O28AySr) | 2:14 | 2024-11-07 | 2025-01-24 |
 | [Noc Aniołów](https://open.spotify.com/track/4N9IE3251WOeuVkL9gYg3y) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Noc Aniołów](https://open.spotify.com/album/7ClftPSzzotBXbkm0qdzka) | 2:37 | 2024-08-01 | 2024-09-28 |
+| [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-27 |  |
 | [Nowa Era](https://open.spotify.com/track/4FdrZ3wiKbpIRoEKfRSDAB) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nowa Era](https://open.spotify.com/album/1l4RC3SFVx7g4JCe91lLpg) | 2:56 | 2024-06-28 | 2024-07-27 |
 | [obyś to była Ty](https://open.spotify.com/track/1PhWnzPIshK7800SDkfw9h) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [obyś to była Ty](https://open.spotify.com/album/67BbloXOMeYCYe0ECHuvRl) | 2:14 | 2024-11-21 | 2025-01-24 |
 | [Obłęd](https://open.spotify.com/track/2zgEt2hzvZmOFn5WcVieFF) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV) | [Obłęd](https://open.spotify.com/album/6oGm7MbUXDljtyXO8MLuKL) | 3:30 | 2025-01-23 |  |
@@ -291,7 +293,7 @@
 | [start all over](https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [start all over](https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW) | 3:25 | 2025-01-23 | 2025-02-07 |
 | [Stokrotka](https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Stokrotka](https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm) | 1:55 | 2025-01-30 |  |
 | [STOP!!](https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [STOP!!](https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP) | 2:34 | 2024-06-28 | 2024-09-14 |
-| [STOP!!](https://open.spotify.com/track/4HtvzBMWNsQqnhpF0UwZhk) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 2:34 | 2025-01-23 |  |
+| [STOP!!](https://open.spotify.com/track/4HtvzBMWNsQqnhpF0UwZhk) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 2:34 | 2025-01-23 | 2025-03-02 |
 | [Syriusz Black](https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Syriusz Black](https://open.spotify.com/album/6XSYlXmWtXDhuDzNYB0JfF) | 2:58 | 2024-07-11 | 2024-09-28 |
 | [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 | 2024-12-21 |
 | [szczeniak](https://open.spotify.com/track/5o2lw4fkXIqa7DAEVOhoZL) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [szczeniak](https://open.spotify.com/album/68aDKhVBwIXsX48odWmoe4) | 2:33 | 2024-09-13 | 2024-11-08 |

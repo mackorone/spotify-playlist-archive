@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 9220,
+  "num_followers": 9222,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAAAx2cfj2SlMkvTM04eNi3iP",
+  "snapshot_id": "Z8D8gAAAAACMzbKgU+IyO1ooQTHrkZYc",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 120163,
-      "name": "Lobo de Mar",
-      "url": "https://open.spotify.com/track/21r4YSbAOuJhzfmUBtPqTf"
+      "duration_ms": 169221,
+      "name": "Ahora Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/6XkOwRqgaa2sitZUEAc28d"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 169221,
-      "name": "Ahora Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/6XkOwRqgaa2sitZUEAc28d"
+      "duration_ms": 120163,
+      "name": "Lobo de Mar",
+      "url": "https://open.spotify.com/track/21r4YSbAOuJhzfmUBtPqTf"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdidos",
-        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "Blues del Borracho",
-      "url": "https://open.spotify.com/track/1rA5JzukQ5DVicpwZ5JxIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tex Tex 3",
         "url": "https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi"
       },
@@ -503,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque Magico",
-        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
       },
       "artists": [
         {
@@ -512,9 +496,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 317252,
-      "name": "La Calle 16",
-      "url": "https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf"
+      "duration_ms": 188786,
+      "name": "Blues del Borracho",
+      "url": "https://open.spotify.com/track/1rA5JzukQ5DVicpwZ5JxIS"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
       "duration_ms": 192208,
       "name": "Ya Te Rogu\u00e9",
       "url": "https://open.spotify.com/track/2MZAMKInHRqIIfMOPf6kGF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque Magico",
+        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 317252,
+      "name": "La Calle 16",
+      "url": "https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf"
     },
     {
       "added_at": null,
@@ -736,25 +736,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 320733,
-      "name": "Teor\u00eda de Caos",
-      "url": "https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "Asesinos del Rock",
-      "url": "https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB"
+      "duration_ms": 320960,
+      "name": "Vengador An\u00f3nimo",
+      "url": "https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
       "duration_ms": 165480,
       "name": "Esta en Su Mes",
       "url": "https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Asesinos del Rock",
+      "url": "https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 320960,
-      "name": "Vengador An\u00f3nimo",
-      "url": "https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp"
+      "duration_ms": 320733,
+      "name": "Teor\u00eda de Caos",
+      "url": "https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY"
     },
     {
       "added_at": null,

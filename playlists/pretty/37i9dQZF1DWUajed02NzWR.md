@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUajed02NzWR.md) - [plain]
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,664 likes - 55 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,715 likes - 55 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUajed02NzWR.md) - [plain]
 | 54 | [Quartet in G major / Sol majeur / G\-dur: I\. Largo \- Allegro \- Largo](https://open.spotify.com/track/2HDDWLNltnJLPN2xUsMjOE) | [Georg Philipp Telemann](https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj), [Petra Mullejans](https://open.spotify.com/artist/0JGI98ag3YDbM9SCHcnKXg), [Gottfried Von Der Goltz](https://open.spotify.com/artist/4Jq1SP0L2atkSMv5wNOU66), [Freiburger Barockorchester](https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai) | [Telemann: Complete Tafelmusik](https://open.spotify.com/album/5D10EAjaasKfPLtnKV6qAn) | 3:38 |
 | 55 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/5ESGW72VURk7fyX3cXrZcd) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh) | [Bach: Cello Suites, BWVV 1007\-1012](https://open.spotify.com/album/6LNSpqwdSSJ9cZH2uAJGsi) | 2:38 |
 
-Snapshot ID: `Z2qX8QAAAAAtdlGhxXfmjuR5M/ZyVee+`
+Snapshot ID: `Z2qX8QAAAADlZdl6HEGiG8tKaXiyYoO6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,682 likes - 75 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,820 likes - 75 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 74 | [While I Wait](https://open.spotify.com/track/1R9UC41siojWolyYYEohqN) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [While I Wait](https://open.spotify.com/album/0UDYVuIKNGT6hfvrsjrNBV) | 4:58 |
 | 75 | [Abundantly More](https://open.spotify.com/track/5bTpeUcpOLCbljyaAi1Grt) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Abundantly More](https://open.spotify.com/album/5bpYxnGoxznzUdncURUmnZ) | 4:01 |
 
-Snapshot ID: `Z8FwWQAAAABs7Oth2GqKNmQC6fsJMVDa`
+Snapshot ID: `Z8FwWQAAAAB3IysjhhZQCmS4N3b8ZkvD`

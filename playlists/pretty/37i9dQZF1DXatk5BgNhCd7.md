@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\.  Emanero & Angela Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,244 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,273 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 4 | [Lo Que Siento Por Ti](https://open.spotify.com/track/1OUpvfSlNI2uZYV18H0AWH) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Lo Que Siento Por Ti](https://open.spotify.com/album/5qS04vGQcavpikBHrhOULC) | 5:11 |
 | 5 | [La Foto](https://open.spotify.com/track/3PtyrGPCTOBEA4wgB09dkR) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [La Foto](https://open.spotify.com/album/3QmgsnJzvC3Iahck0d07XV) | 4:28 |
 | 6 | [La Última Granada](https://open.spotify.com/track/73TRoSpWNQfCRCsMRHMbJY) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [La Última Granada](https://open.spotify.com/album/5HjMHNfp5QO980YCIxlXO9) | 2:38 |
-| 7 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender \(Clean\)](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
+| 7 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
 | 8 | [Delincuente](https://open.spotify.com/track/23Uz2ciZdbZGaHxjrrgRJU) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Delincuente](https://open.spotify.com/album/4uwnMRL1jwJZrQbGoPHXAe) | 2:43 |
 | 9 | [Nana Triste \- En Vivo](https://open.spotify.com/track/0chWsPq4wnBsIgpz3QpjKZ) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Nana Triste \(En Vivo\)](https://open.spotify.com/album/6xL5c6dXKEtcV9Ct8ffe4H) | 3:03 |
 | 10 | [El Reclamo \- Balada](https://open.spotify.com/track/4CsIZr3XzQ0ooVRMJDYFuF) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [El Reclamo \(Balada\)](https://open.spotify.com/album/5g1rtguYS4ySISXd9QBFSn) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 99 | [Yo Soy JessMa](https://open.spotify.com/track/3KdM7iWKYM9ZbW98xQpZ6O) | [JessMa](https://open.spotify.com/artist/4UhCsAvZapeJmaUukS5NAG) | [Yo Soy JessMa](https://open.spotify.com/album/4WfLJv8NTFumXv9gLEsKGo) | 2:56 |
 | 100 | [Viaje a Mictlán](https://open.spotify.com/track/2zDKV6f0kiFDOWeWRc25aE) | [Panamá Cha\-Cha](https://open.spotify.com/artist/43zjLsaqlPKLQV6uRJPLlG) | [Viaje a Mictlán](https://open.spotify.com/album/7eGs4bK1jQOVKdR53py0f3) | 4:14 |
 
-Snapshot ID: `Z8EmzQAAAABcpuPKbQgCWYR1a73R1j+P`
+Snapshot ID: `Z8EmzQAAAABNIHOqMp64Z5qIH0KpbK8/`

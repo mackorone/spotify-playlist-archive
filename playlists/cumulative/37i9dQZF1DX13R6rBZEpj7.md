@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-292 songs - 17 hr 39 min
+293 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 | 2022-04-15 | 2022-11-27 |
 | [Anything](https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Anything](https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy) | 4:43 | 2022-04-15 | 2023-08-14 |
 | [Anytime](https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Anytime](https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943) | 2:03 | 2024-03-01 |  |
+| [Arctic \- Bushbaby Remix](https://open.spotify.com/track/1MkrUTYCWDl2wNzMFhfHiN) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Arctic \(Bushbaby Remix\)](https://open.spotify.com/album/6GjC305lPo3Q5ibsGafSLu) | 3:02 | 2025-02-28 |  |
 | [B22s](https://open.spotify.com/track/5LhxBJEa3bWhcrnyiF7qmv) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [B22s](https://open.spotify.com/album/5DdSHU4JHlD0d5Rk6Rhl8A) | 2:32 | 2023-08-10 | 2023-10-28 |
 | [Back](https://open.spotify.com/track/54qy9HFmqlgtngpatAAAPp) | [DubbleT](https://open.spotify.com/artist/0qFd9z9Shj28sgoLwKr0Af), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Back](https://open.spotify.com/album/4anFbEJ3IamNPrz66GJZpD) | 3:58 | 2022-07-14 | 2025-02-21 |
 | [Bad Bassline](https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline](https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH) | 3:11 | 2023-12-22 | 2024-10-28 |
@@ -60,7 +61,7 @@
 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 | 2022-04-15 | 2023-05-19 |
 | [Change \- bullet tooth Remix](https://open.spotify.com/track/7ngp1VaSLNoVRUAAwUShnH) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Change \(Remixes\)](https://open.spotify.com/album/2xKp7GrzlG15zTj2dfiU3X) | 3:31 | 2024-03-01 | 2024-11-20 |
 | [Check Yourself](https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR) | [909](https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Check Yourself](https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl) | 3:27 | 2022-10-28 | 2024-02-02 |
-| [Circadian](https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Gloom EP](https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y) | 4:45 | 2024-03-01 |  |
+| [Circadian](https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Gloom EP](https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y) | 4:45 | 2024-03-01 | 2025-03-02 |
 | [Closer](https://open.spotify.com/track/21xzkkfeDUsPXyxZmiGGpM) | [Bailey P](https://open.spotify.com/artist/7MJpKixo6xeRETtQC1KFHd) | [Images / Closer](https://open.spotify.com/album/0zRA2049WBLpWo0m90Fb6B) | 3:36 | 2022-09-05 | 2024-05-17 |
 | [Come Back](https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Night Bass Freshmen Vol 4](https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2) | 4:27 | 2022-04-15 | 2023-05-25 |
 | [CONTEXT](https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [CONTEXT](https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy) | 2:17 | 2024-06-28 |  |

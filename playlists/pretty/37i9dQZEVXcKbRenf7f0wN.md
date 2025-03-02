@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Graves of the Fathers](https://open.spotify.com/track/1Mh7z8pEz4JNH6PJZ7zgWe) | [Cryptopsy](https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN) | [None so Vile](https://open.spotify.com/album/1YydWUrZdIjcwjkQAGj2r2) | 4:11 |
 | 30 | [Bodies](https://open.spotify.com/track/7j0eQhCrpbOwucAolLJ0t8) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig III: How The Gods Kill](https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53) | 4:23 |
 
-Snapshot ID: `Z7vgsAAAAAAd+H/Vz/uHGiHUR0Aaj6br`
+Snapshot ID: `Z7vgsAAAAADtRVP6AP3TRx3lXuWlDfsG`

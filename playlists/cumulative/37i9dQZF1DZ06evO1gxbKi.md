@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-131 songs - 6 hr 33 min
+133 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Father Prepare Me](https://open.spotify.com/track/1JzOFnaBuWxnbtETqaotzh) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 2:10 | 2022-05-25 |  |
 | [Feed Me Jesus](https://open.spotify.com/track/2sVALcZ85tz1l9RE0Pe2Q9) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 3:03 | 2022-05-25 |  |
 | [Fly Away](https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:27 | 2022-05-25 |  |
+| [Forgive Me Lord and Try Me One More Time](https://open.spotify.com/track/7LzY6XaQI8Kyk7naBt5SHi) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [GODMOTHER OF ROCK N'ROLL](https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU) | 2:35 | 2025-03-02 |  |
 | [Forgive Me Lord and Try Me One More Time](https://open.spotify.com/track/3vHAgyKCQJBFgf5RpKa9nM) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 2:38 | 2023-04-01 | 2023-05-04 |
 | [Go Ahead](https://open.spotify.com/track/3iduBepxPdQzxUOCAz6b01) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 4:37 | 2022-05-25 | 2022-12-25 |
 | [Go Ahead \- Live](https://open.spotify.com/track/50fnUS19njK5kSzm9l0Whd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bound For Glory \(Live Stuttgart '58\)](https://open.spotify.com/album/1SbRXFU9vDp4OrQ4umcCGM) | 3:34 | 2023-08-08 | 2023-09-03 |
@@ -45,6 +46,7 @@
 | [God Is Wonderful](https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rosetta Tharpe Is Wonderful](https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb) | 2:04 | 2022-05-25 |  |
 | [Have A Little Talk With Jesus](https://open.spotify.com/track/7yfVEafYHPMvvdUb3fZPFp) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 5](https://open.spotify.com/album/7tvIxQ4NARYopPCeUARhcj) | 2:00 | 2023-10-04 | 2023-10-11 |
 | [He's Got the Whole World in His Hands \- Live](https://open.spotify.com/track/1Vh3YDo7zs0dloAYuBpsfK) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Live in 1960](https://open.spotify.com/album/3HySlTcJp61IznncKRWK50) | 1:54 | 2022-05-26 | 2022-10-25 |
+| [Heaven Is Not My Home](https://open.spotify.com/track/2zPbogViWWF7oIdXHM1KHg) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [GODMOTHER OF ROCK N'ROLL](https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU) | 2:40 | 2025-03-02 |  |
 | [His Eye Is On The Sparrow](https://open.spotify.com/track/5nJTO9vXW1w8AnwtW6V7wn) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 3:24 | 2023-02-08 | 2023-02-20 |
 | [How About You](https://open.spotify.com/track/6ZruOPBw97ZTTPeiNqMQny) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 3:32 | 2022-05-25 |  |
 | [How Far From God](https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 2:54 | 2022-05-25 |  |
@@ -62,7 +64,7 @@
 | [I Will Trust In The Lord](https://open.spotify.com/track/11FsQTMiB831KmQIbZHV55) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 4:05 | 2022-09-20 | 2022-09-22 |
 | [I've Done Wrong](https://open.spotify.com/track/4rcaNZcXnLx065xnf4X0oq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:45 | 2024-03-14 | 2024-07-14 |
 | [If I Can Help Somebody](https://open.spotify.com/track/61EpKrGU81sawyLmR5wcPS) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe](https://open.spotify.com/album/3y9w0vx1P3uMXolaoulLxy) | 2:41 | 2022-05-25 | 2023-02-25 |
-| [In Bethlehem](https://open.spotify.com/track/56rxK4XwkM438ior5kxic9) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 5](https://open.spotify.com/album/7tvIxQ4NARYopPCeUARhcj) | 3:05 | 2022-12-19 |  |
+| [In Bethlehem](https://open.spotify.com/track/56rxK4XwkM438ior5kxic9) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 5](https://open.spotify.com/album/7tvIxQ4NARYopPCeUARhcj) | 3:05 | 2022-12-19 | 2025-03-02 |
 | [Jericho](https://open.spotify.com/track/5m7sUVVbJoPYcWysXT4NcS) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:02 | 2022-05-25 |  |
 | [Jesus Is Everywhere](https://open.spotify.com/track/1kWjNTXRYHJFQq1d2HdJHR) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 2:47 | 2022-06-03 | 2022-10-01 |
 | [Jesus Taught Me How to Smile](https://open.spotify.com/track/4orwUKImGUn7QmZISjg9Ta) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 3:08 | 2023-05-11 | 2025-02-25 |

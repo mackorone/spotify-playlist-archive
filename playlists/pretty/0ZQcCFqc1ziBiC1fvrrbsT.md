@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,911 likes - 26 songs - 1 hr 41 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,914 likes - 26 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 6 | [Die in Denver](https://open.spotify.com/track/4A04Sd7GfZ2rrrOK0BX6lw) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Die in Denver](https://open.spotify.com/album/1E4Srp7xDtym6hn5PywVqn) | 2:44 |
 | 7 | [Dead Air](https://open.spotify.com/track/0JT2wUa15PpbeVpUfa7GxN) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Dead Air](https://open.spotify.com/album/2sCUdbB7YTp6tqoeKjq0UB) | 3:45 |
 | 8 | [Cadillac](https://open.spotify.com/track/5wkPrNPC9DFUCyLIJ9wytE) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [Cadillac](https://open.spotify.com/album/66hxxcnB5jqZm6wxgHUabu) | 3:16 |
-| 9 | [Fools Gold](https://open.spotify.com/track/1QCnaVAduEkJcBciBtNmhQ) | [Pyramids](https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6) | [Fools Gold](https://open.spotify.com/album/61XeOHuz0Af9E2Bmo2Gl2P) | 5:14 |
+| 9 | [Fools Gold \(Mi Vida Ha Ido Pa Atras\)](https://open.spotify.com/track/1QCnaVAduEkJcBciBtNmhQ) | [Pyramids](https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6) | [Fools Gold \(Mi Vida Ha Ido Pa Atras\)](https://open.spotify.com/album/61XeOHuz0Af9E2Bmo2Gl2P) | 5:14 |
 | 10 | [Low Tides](https://open.spotify.com/track/7zZoFvzX8EzUq1khFFYhXy) | [Thanya Iyer](https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P) | [Low Tides](https://open.spotify.com/album/3cUNsFP1veRnNS16Jp3SOb) | 4:22 |
 | 11 | [Clarkycat](https://open.spotify.com/track/0uFlHssJpokUUMkgHenDBz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Microtonic](https://open.spotify.com/album/48ssZqksqj4kz4VDaqufqX) | 5:41 |
 | 12 | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/track/7wWWl81H2Tr3Ix3yPIOl6P) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/album/4PcfDY2qPj6JzBVJYyiWqd) | 3:14 |

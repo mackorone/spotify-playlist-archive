@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,737 songs - 4 day 22 hr 43 min
+1,738 songs - 4 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1152,6 +1152,7 @@
 | [Our World](https://open.spotify.com/track/5PbNYwspE2n9nRj3BPO0pk) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Elmar](https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom) | [Our World](https://open.spotify.com/album/3vVKZcaF3qb82yN3cGWpZ5) | 3:40 | 2025-01-04 |  |
 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 | 2022-12-28 | 2023-01-06 |
 | [Out Of Love \- Devault Remix](https://open.spotify.com/track/5Gs8Ehu9sYcOdMaowtioa0) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Out Of Love \(Devault Remix\)](https://open.spotify.com/album/7KxdKU1okm92AyuKuKETht) | 4:42 | 2020-03-17 | 2020-10-09 |
+| [Out of Ten \- Shingo Nakamura & Before Saudade Remix](https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [before saudade](https://open.spotify.com/artist/0VgqFOFMDlGRpmcYzX4z6I) | [Out of Ten \(Shingo Nakamura & Before Saudade Remix\)](https://open.spotify.com/album/2muoiXwIB1Jw4JMXRFgrbz) | 2:33 | 2025-02-28 |  |
 | [Outbound](https://open.spotify.com/track/0g9GGxEJHYrMzUMG1RD8qZ) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Outbound](https://open.spotify.com/album/4UsBA6PxfOYEdd37i6G0fv) | 3:13 | 2022-12-28 | 2023-01-06 |
 | [Ova Nova \- Radio Edit](https://open.spotify.com/track/1VziLmorXUGxwBPplIy09f) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Ova Nova \(Remix\)](https://open.spotify.com/album/7C9hIoCA3BGkI7x3VGSoLF) | 3:30 | 2020-05-22 | 2021-01-16 |
 | [Over The Water](https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Over The Water](https://open.spotify.com/album/2HcOB7CmgTbZu3fPAvTHeL) | 3:30 | 2022-09-09 | 2022-12-29 |
@@ -1188,7 +1189,7 @@
 | [Photograph](https://open.spotify.com/track/1KCcvAYh4blypKDA575DFk) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Photograph EP](https://open.spotify.com/album/7L4Gq7fzGcWT5LNaR1rMri) | 4:44 | 2020-03-19 | 2022-01-05 |
 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2020-05-18 | 2020-10-09 |
 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-26 | 2022-09-10 |
-| [Pieces](https://open.spotify.com/track/7DQ8QCkHfLLPILmDnQCvzG) | [BangLoud](https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Pieces](https://open.spotify.com/album/1taAHUvfsRj7BYIkPO06zc) | 2:36 | 2024-09-20 |  |
+| [Pieces](https://open.spotify.com/track/7DQ8QCkHfLLPILmDnQCvzG) | [BangLoud](https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Pieces](https://open.spotify.com/album/1taAHUvfsRj7BYIkPO06zc) | 2:36 | 2024-09-20 | 2025-03-02 |
 | [Pieces](https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Pieces](https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC) | 4:17 | 2024-04-05 | 2024-11-26 |
 | [Pipi Dormir](https://open.spotify.com/track/0ba74twsUUtdjG6nTc1b83) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Pipi Dormir](https://open.spotify.com/album/38FvCoA5CE5mO9PY7CHqtU) | 6:34 | 2023-10-20 | 2025-01-25 |
 | [Places](https://open.spotify.com/track/1FxZblJPTjTl7SWSOwdmBk) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Places](https://open.spotify.com/album/4f941DhLsNiB6DsqOojyhY) | 3:05 | 2021-03-19 | 2022-04-23 |

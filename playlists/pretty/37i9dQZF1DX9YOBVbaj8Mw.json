@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14868,
+  "num_followers": 14866,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "BRESLAU HARDCORE",
+        "url": "https://open.spotify.com/album/7d3sWhON26NwIUIuoVELTm"
+      },
+      "artists": [
+        {
+          "name": "Zdech\u0142y Osa",
+          "url": "https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz"
+        }
+      ],
+      "duration_ms": 196138,
+      "name": "SUMMER SONG",
+      "url": "https://open.spotify.com/track/30snd5cTiUVngr70zOe8RQ"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "BOKKA HITS 10",
         "url": "https://open.spotify.com/album/4lpEIOhjPlV3ACNCQahbne"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "BRESLAU HARDCORE",
-        "url": "https://open.spotify.com/album/7d3sWhON26NwIUIuoVELTm"
+        "name": "Music We Like To Dance To",
+        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
       },
       "artists": [
         {
-          "name": "Zdech\u0142y Osa",
-          "url": "https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz"
+          "name": "Tomasz Chy\u0142a Quintet",
+          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
         }
       ],
-      "duration_ms": 196138,
-      "name": "SUMMER SONG",
-      "url": "https://open.spotify.com/track/30snd5cTiUVngr70zOe8RQ"
+      "duration_ms": 458733,
+      "name": "Thousand Yard Stare",
+      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Cykl",
-        "url": "https://open.spotify.com/album/4E4u0bpAPC0XebcqwQB2U7"
-      },
-      "artists": [
-        {
-          "name": "Marika",
-          "url": "https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "Patataj",
-      "url": "https://open.spotify.com/track/0FXzxYSvqtuYVo2eby0sKd"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Piosenki domowe",
         "url": "https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 136500,
       "name": "Klucz",
       "url": "https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Cykl",
+        "url": "https://open.spotify.com/album/4E4u0bpAPC0XebcqwQB2U7"
+      },
+      "artists": [
+        {
+          "name": "Marika",
+          "url": "https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "Patataj",
+      "url": "https://open.spotify.com/track/0FXzxYSvqtuYVo2eby0sKd"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Matecki",
-        "url": "https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe"
-      },
-      "artists": [
-        {
-          "name": "Matecki",
-          "url": "https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w"
-        }
-      ],
-      "duration_ms": 181548,
-      "name": "Summerland",
-      "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Wicher",
         "url": "https://open.spotify.com/album/064J59XhoaytObENeSH9fJ"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 216840,
       "name": "Wicher",
       "url": "https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Matecki",
+        "url": "https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe"
+      },
+      "artists": [
+        {
+          "name": "Matecki",
+          "url": "https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w"
+        }
+      ],
+      "duration_ms": 181548,
+      "name": "Summerland",
+      "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1439,22 +1455,6 @@
       "duration_ms": 211047,
       "name": "Serce Otwarte Na P\u00f3\u0142",
       "url": "https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Music We Like To Dance To",
-        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Chy\u0142a Quintet",
-          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
-        }
-      ],
-      "duration_ms": 458733,
-      "name": "Thousand Yard Stare",
-      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
     },
     {
       "added_at": "2024-03-25 08:52:09",

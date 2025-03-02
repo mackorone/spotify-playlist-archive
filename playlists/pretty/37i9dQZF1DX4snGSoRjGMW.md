@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,668 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,674 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 79 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 |
 | 80 | [Say What You Mean](https://open.spotify.com/track/7moJNXUN9kWKhUYgE55pKG) | [Robert Ward](https://open.spotify.com/artist/2EhEsO2w9hIRm84aiy6sla) | [Rhythm Of The People](https://open.spotify.com/album/63srEUyuzfcMeuSBQn5fvB) | 4:21 |
 
-Snapshot ID: `ZQ0RfAAAAABd3OSlAtd48StojAjawVvS`
+Snapshot ID: `ZQ0RfAAAAADApNn1/ExMnOMNtDO7v6HA`

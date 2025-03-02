@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 226285,
       "name": "Clearing",
       "url": "https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 143902,
       "name": "Imitating Reflections",
       "url": "https://open.spotify.com/track/0SETmmxlQchBbRxvJpZTp3"
@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Rising Up",
+        "url": "https://open.spotify.com/album/02AhYeStIFGhVazWU4Xx6Q"
+      },
+      "artists": [
+        {
+          "name": "Flora Fossils",
+          "url": "https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Rising Up",
+      "url": "https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp"
+    },
+    {
+      "album": {
         "name": "River Breath",
         "url": "https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP"
       },
@@ -3156,7 +3174,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 169482,
       "name": "Soothing Ripples",
       "url": "https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct"

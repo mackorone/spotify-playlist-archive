@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Grill Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,215 likes - 111 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,217 likes - 111 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Che Guevara](https://open.spotify.com/track/1oEp2BlXfAjlgDG5tHHMjs) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [Che Guevara](https://open.spotify.com/album/6nNYs8poSdcok9kB4BGk7P) | 3:04 |
 | 2 | [Riconoscimi](https://open.spotify.com/track/04RpjFlIhKO73O27kuXOxm) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [Riconoscimi](https://open.spotify.com/album/2JgbFbgWYuo0JXD005nmGf) | 2:19 |
-| 3 | [Beauty Star \(feat\. ELASI\)](https://open.spotify.com/track/3C7il7dWDBrw98S67rSyBg) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Beauty Star](https://open.spotify.com/album/7JYCPIrgcjGoEFdyfyxV7Z) | 4:00 |
+| 3 | [Beauty Star \(feat\. ELASI\)](https://open.spotify.com/track/3C7il7dWDBrw98S67rSyBg) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Beauty Star \(feat\. ELASI\)](https://open.spotify.com/album/7JYCPIrgcjGoEFdyfyxV7Z) | 4:00 |
 | 4 | [Seia](https://open.spotify.com/track/6WAhQ3jjp09O82E9phHVwo) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [Seia](https://open.spotify.com/album/3WAoNWDrL6pc5B9H7vAjOX) | 4:52 |
 | 5 | [LA SOCIETÀ DEGLI APERITIVI](https://open.spotify.com/track/5XRfiEjHsgRWidb1ESdnlt) | [SAMUEL COSTA](https://open.spotify.com/artist/1DE8FISOdzyiTkQuYahig2) | [LA SOCIETÀ DEGLI APERITIVI](https://open.spotify.com/album/3o60Vd9Ca9aTGtqAlTk7BB) | 1:57 |
 | 6 | [Bugatti](https://open.spotify.com/track/2apryPbnyXcLiZi2rNMODg) | [GIMA](https://open.spotify.com/artist/2mWd2GZ0OtmKom3LSqvjcH) | [Bugatti](https://open.spotify.com/album/2zYSivNQ6vyYMgA8SvZtfo) | 2:57 |

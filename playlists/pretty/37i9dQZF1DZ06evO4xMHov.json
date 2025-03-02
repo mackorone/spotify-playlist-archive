@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 62131,
+  "num_followers": 62137,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAADka6mo8x2lrRgYkEZYDo2L",
+  "snapshot_id": "Z8D8gAAAAABzKmvsS3sK0RW4C0qPZvWV",
   "tracks": [
     {
       "added_at": null,
@@ -319,30 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jireh",
-        "url": "https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Bruno Gra\u00e7a",
-          "url": "https://open.spotify.com/artist/4XNkLWO4TBqVlmJSDQMZyx"
-        },
-        {
-          "name": "Coral Black To Black",
-          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
-        }
-      ],
-      "duration_ms": 575587,
-      "name": "Jireh",
-      "url": "https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jireh",
+        "url": "https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Bruno Gra\u00e7a",
+          "url": "https://open.spotify.com/artist/4XNkLWO4TBqVlmJSDQMZyx"
+        },
+        {
+          "name": "Coral Black To Black",
+          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
+        }
+      ],
+      "duration_ms": 575587,
+      "name": "Jireh",
+      "url": "https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00edvea Soares 10 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 417573,
-      "name": "Me Esvaziar",
-      "url": "https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9s Bem-Vindo \u00e0 Mesa",
         "url": "https://open.spotify.com/album/79XQ40MyFbpEpTZU1lnPRS"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 534000,
       "name": "\u00c9s Bem-Vindo \u00e0 Mesa - Ao Vivo",
       "url": "https://open.spotify.com/track/6YRT4mFA0s5I5UYoKnit7C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00edvea Soares 10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 417573,
+      "name": "Me Esvaziar",
+      "url": "https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo"
     },
     {
       "added_at": null,

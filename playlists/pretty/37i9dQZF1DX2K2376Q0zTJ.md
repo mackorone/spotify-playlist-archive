@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: LANA, Medusa Aria, E.V.P, IFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,020 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,024 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 38 | [ウラメシヤ](https://open.spotify.com/track/5nh0KvBHyjBoPUA2hhB5jm) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [ウラメシヤ](https://open.spotify.com/album/1dRVcBzh2FG3uqOQFk6V3W) | 3:36 |
 | 39 | [Kakumei Zenya](https://open.spotify.com/track/76DBtBel5B2u8qvUszcj9f) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 3:08 |
 | 40 | [NEW ERA](https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [NEW ERA](https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2) | 3:05 |
-| 41 | [拝啓生きとし愛おしきあなた](https://open.spotify.com/track/5TPDyjoG3MRjWHltxXkYXu) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [拝啓生きとし愛おしきあなた](https://open.spotify.com/album/5mGXQXpwzEmRor7HouC1zF) | 3:39 |
+| 41 | [拝啓生きとし愛おしきあなた \(feat\. Zatta\)](https://open.spotify.com/track/5TPDyjoG3MRjWHltxXkYXu) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [Zatta](https://open.spotify.com/artist/2MVinmnGbmuRr47Rx9ZSPx) | [拝啓生きとし愛おしきあなた \(feat\. Zatta\)](https://open.spotify.com/album/5mGXQXpwzEmRor7HouC1zF) | 3:39 |
 | 42 | [Show Me How](https://open.spotify.com/track/27gA5keIlQKx0dRCUYawQy) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Show Me How](https://open.spotify.com/album/6fEvIJCPAcJnfslkrXtdHF) | 3:00 |
 | 43 | [予感](https://open.spotify.com/track/5KNP39R2DEshipc9QjzPiT) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [タオルケットは穏やかな](https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU) | 2:43 |
 | 44 | [lonely night](https://open.spotify.com/track/4AKKCEedcW2LbYOGy3MxAp) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [lonely night](https://open.spotify.com/album/0stQuNmMAxDmrffku01ZZ0) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,580 likes - 87 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,583 likes - 87 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 86 | [モラトリアムダンスフロア \- LIVE](https://open.spotify.com/track/5zoEXErkzxvHbDuotTawrn) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [モラトリアムダンスフロア\(LIVE\)](https://open.spotify.com/album/31qQoDx2qkhXliD6QAkL6V) | 3:54 |
 | 87 | [オトモダチフィルム \- LIVE](https://open.spotify.com/track/2mDicvEvRUrjPnXsCX5T1t) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [オトモダチフィルム\(LIVE\)](https://open.spotify.com/album/2x5IUxXHtck6qHWxAZfV0Z) | 3:33 |
 
-Snapshot ID: `ZcJeoQAAAABjAQc/JVESeLUeBthPo+Ed`
+Snapshot ID: `ZcJeoQAAAAAPgkdjFjAwbMoBoP4ybGnG`

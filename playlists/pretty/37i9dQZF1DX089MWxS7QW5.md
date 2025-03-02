@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: t024\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,168 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,180 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Call me more sometimes](https://open.spotify.com/track/4lKOkt7lH8lJyPP7tSBa0Y) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Call me more sometimes](https://open.spotify.com/album/1afLJlSObs6o8OvbIOserN) | 3:49 |
 | 50 | [Ballet Shoes](https://open.spotify.com/track/6PfSvKBzJVO87R4uyrM77h) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Ballet Shoes](https://open.spotify.com/album/5zj2aR0juFDhyAJMeDJspG) | 2:55 |
 
-Snapshot ID: `Z7bYRgAAAADVjtYxvXsj5hPO62h62o/o`
+Snapshot ID: `Z7bYRgAAAAD/MlSB5Wl44BT4rgjkOXfK`

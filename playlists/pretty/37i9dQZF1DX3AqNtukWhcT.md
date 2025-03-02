@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,368 likes - 113 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,408 likes - 113 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 112 | [The Soul Of The River](https://open.spotify.com/track/6uQUHdOi2oVCXK1COOrfnA) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [The Soul Of The River](https://open.spotify.com/album/7cmnDVld1JljGcOcQpVA5d) | 3:12 |
 | 113 | [Blue Reef](https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Beneath The Waves](https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17) | 3:06 |
 
-Snapshot ID: `Z63lEQAAAAC98VnDMI40/8CBYcBr4nNY`
+Snapshot ID: `Z63lEQAAAABmsdMQo5z8qgZViezbPQqU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,161 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,180 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 6 | [Valinnu mun tien](https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Valinnu mun tien](https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp) | 3:01 |
 | 7 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
 | 8 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
-| 9 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
-| 10 | [Suomileijona](https://open.spotify.com/track/2VrulJUteGq31RtnshZ495) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Suomileijona](https://open.spotify.com/album/4zPKNrGSYD766Dyr8jAsf5) | 2:38 |
-| 11 | [Musta hevonen](https://open.spotify.com/track/1JA6J5kzRNUYagv2WmjxqY) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Musta hevonen](https://open.spotify.com/album/2WnDVAp5xi9mUOKbrBLvZG) | 2:42 |
-| 12 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
-| 13 | [Love Doctor's](https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love Doctor's](https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY) | 3:32 |
-| 14 | [Totti Freestyle \(feat\. Ares\)](https://open.spotify.com/track/4YnIOIdNBEwosJdAoePC08) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Totti Freestyle \(feat\. Ares\)](https://open.spotify.com/album/0Y7hVwith6ptAnydV4muHY) | 2:06 |
-| 15 | [Ei hyvää ilman pahaa \(feat\. Jami Faltin\)](https://open.spotify.com/track/7M5FtK02ZXpfuWxQvLghZH) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Ei hyvää ilman pahaa \(feat\. Jami Faltin\)](https://open.spotify.com/album/4AiGX40bV04dmI9Fq2a08y) | 2:37 |
-| 16 | [Paha Äijä](https://open.spotify.com/track/0VyEtWYB677PHsvPBaLxYS) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Paha Äijä](https://open.spotify.com/album/1rXDtCewmnlLbybYx1Csgh) | 2:24 |
-| 17 | [Nirvanaan](https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nirvanaan](https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130) | 2:41 |
+| 9 | [Nirvanaan](https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nirvanaan](https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130) | 2:41 |
+| 10 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
+| 11 | [Suomileijona](https://open.spotify.com/track/2VrulJUteGq31RtnshZ495) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Suomileijona](https://open.spotify.com/album/4zPKNrGSYD766Dyr8jAsf5) | 2:38 |
+| 12 | [Musta hevonen](https://open.spotify.com/track/1JA6J5kzRNUYagv2WmjxqY) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Musta hevonen](https://open.spotify.com/album/2WnDVAp5xi9mUOKbrBLvZG) | 2:42 |
+| 13 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
+| 14 | [Love Doctor's](https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love Doctor's](https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY) | 3:32 |
+| 15 | [Totti Freestyle \(feat\. Ares\)](https://open.spotify.com/track/4YnIOIdNBEwosJdAoePC08) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Totti Freestyle \(feat\. Ares\)](https://open.spotify.com/album/0Y7hVwith6ptAnydV4muHY) | 2:06 |
+| 16 | [Ei hyvää ilman pahaa \(feat\. Jami Faltin\)](https://open.spotify.com/track/7M5FtK02ZXpfuWxQvLghZH) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Ei hyvää ilman pahaa \(feat\. Jami Faltin\)](https://open.spotify.com/album/4AiGX40bV04dmI9Fq2a08y) | 2:37 |
+| 17 | [Paha Äijä](https://open.spotify.com/track/0VyEtWYB677PHsvPBaLxYS) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Paha Äijä](https://open.spotify.com/album/1rXDtCewmnlLbybYx1Csgh) | 2:24 |
 | 18 | [Se Nainen](https://open.spotify.com/track/1KGRYDGIkt2DOwjXdPicxF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Se Nainen](https://open.spotify.com/album/1hdUbyu29r7EJEG5M9WIFr) | 2:50 |
 | 19 | [Me ollaan nuoriso pt.2 \(feat\. MD$\)](https://open.spotify.com/track/5LhoiY5ynoyZrto4jao4fV) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS), [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944) | [Me ollaan nuoriso pt.2 \(feat\. MD$\)](https://open.spotify.com/album/3Mi1VyGwqs05ow8jqg2Iwl) | 3:02 |
 | 20 | [Hän](https://open.spotify.com/track/4gmir4Q2IHvYB94pPP1TYW) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Hän](https://open.spotify.com/album/4f2MOfbDo4XYLKkrrmknrB) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Luodit](https://open.spotify.com/track/2I3d4RxgWghBjlhpbglyrd) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Luodit](https://open.spotify.com/album/4CVgkAsb0C7IUqz4EgaW29) | 2:53 |
 | 50 | [Pääs Kii](https://open.spotify.com/track/0cR8kk0BKbJzgNNTEMJjqZ) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Pääs Kii](https://open.spotify.com/album/4BQz5hrEspZCCVBMqM2UAh) | 2:28 |
 
-Snapshot ID: `Z8DguQAAAABA5Oozw4iNatoH+D/nUAPO`
+Snapshot ID: `Z8MN2wAAAAC4JSmo4fKIN2CdaZVdJ1oD`

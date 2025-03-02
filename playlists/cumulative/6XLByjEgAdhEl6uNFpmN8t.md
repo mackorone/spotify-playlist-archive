@@ -4,7 +4,7 @@
 
 > 
 
-96 songs - 4 hr 56 min
+98 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [aight](https://open.spotify.com/track/37kI8bPlN5iN37kSFTyKCY) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:07 | 2024-10-17 |  |
 | [Apály](https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Apály](https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX) | 2:10 | 2024-10-17 |  |
 | [BAKPAKK](https://open.spotify.com/track/6dd2fGbktU3zOHHWK58nto) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [BAKPAKK](https://open.spotify.com/album/0oCPs1829LWGJUVlx50BNE) | 2:47 | 2024-10-17 |  |
+| [Bambi](https://open.spotify.com/track/29snt77VXxUpJqMOMDSUuo) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [M.K](https://open.spotify.com/artist/6s6Ejw3hKQlTCi6yVHPMki), [Igni](https://open.spotify.com/artist/5TZxii3VFeubJqXSWyAhkh), [Varga Norbi](https://open.spotify.com/artist/3LQD7ygHka6JxAyllNLPta) | [Bambi](https://open.spotify.com/album/7GokiCOPcgKDsWaXUkjqli) | 2:48 | 2025-03-01 |  |
 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 | 2025-01-21 |  |
 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 5:54 | 2025-02-01 |  |
 | [bulbaba](https://open.spotify.com/track/7xdiiqtQPUXrKcd6BoFyYd) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 2:05 | 2024-12-23 |  |
@@ -41,6 +42,7 @@
 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 | 2025-02-13 |  |
 | [Hátmasszázs](https://open.spotify.com/track/29MOrJUChg9gigKjgMMGEP) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Paranoia](https://open.spotify.com/album/40oR75NLHfJOhC3gSX5khZ) | 2:17 | 2024-12-29 |  |
 | [Inkasszó](https://open.spotify.com/track/7n5JBAnjVBTFgTEsd27bTU) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Inkasszó](https://open.spotify.com/album/2IiR6Ip9HYivEVScMaLpmv) | 2:29 | 2024-10-30 |  |
+| [Jamaica pt\. 1 \(Apartman\)](https://open.spotify.com/track/0rvE94vL7lrFFpsM5UzgYh) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [2023](https://open.spotify.com/album/6TGD1FXUBasDg8idQ9IGP5) | 2:46 | 2025-03-01 |  |
 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 | 2025-02-18 |  |
 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:59 | 2025-02-01 |  |
 | [Kisbalu](https://open.spotify.com/track/7dwK560f7DRNn5Ub4Emezf) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:43 | 2024-10-17 |  |

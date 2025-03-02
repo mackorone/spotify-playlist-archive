@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUog0OWGDgtd.md) - [plain]
 
 > Music from "Bungo Stray Dogs"\. ©朝 霧 カフ カ・春 河 35 /ＫＡＤＯＫＡＷＡ /文 豪 ストレイドッ グス 製 作 委 員 会
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,983 likes - 42 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,044 likes - 42 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [鉄の檻](https://open.spotify.com/track/72Ssvonm3MdboS2EVssX5R) | [GRANRODEO](https://open.spotify.com/artist/7nC8veuCttVQlyjhueVUXj) | [鉄の檻](https://open.spotify.com/album/5XuQ3aHlkeBIkmyS3mBIEC) | 4:25 |
+| 1 | [鉄の檻](https://open.spotify.com/track/72Ssvonm3MdboS2EVssX5R) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [鉄の檻](https://open.spotify.com/album/5XuQ3aHlkeBIkmyS3mBIEC) | 4:25 |
 | 2 | [軌跡](https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [軌跡](https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV) | 3:21 |
 | 3 | [TRUE STORY](https://open.spotify.com/track/2vWbGXnMCl4vvoUYZt202W) | [SCREEN mode](https://open.spotify.com/artist/44CA4qMx5IOMDQOTg7G6KN) | [TRUE STORY](https://open.spotify.com/album/4h4woOf4hcnWWcfER8dOpG) | 3:56 |
 | 4 | [しるし](https://open.spotify.com/track/5jSR1EJai9xHvDEAq2rPt9) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [しるし](https://open.spotify.com/album/4MxZof46XxfA0UmmuY4HWM) | 4:12 |
-| 5 | [TRASH CANDY](https://open.spotify.com/track/0FuFovPx3x77CRFtt22Q3H) | [GRANRODEO](https://open.spotify.com/artist/7nC8veuCttVQlyjhueVUXj) | [TRASH CANDY](https://open.spotify.com/album/30TUo5MR0OsxBTfR23xivP) | 4:46 |
+| 5 | [TRASH CANDY](https://open.spotify.com/track/0FuFovPx3x77CRFtt22Q3H) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [TRASH CANDY](https://open.spotify.com/album/30TUo5MR0OsxBTfR23xivP) | 4:46 |
 | 6 | [名前を呼ぶよ](https://open.spotify.com/track/2Gpl7Fr4Mx0gmBfjmMjSNi) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Life is beautiful](https://open.spotify.com/album/3rAxrn66XBImYdGJnPCx4S) | 4:32 |
 | 7 | [WRIGHT LEFT](https://open.spotify.com/track/1PBQxkb41oo4iPdyO7HP3I) | [SCREEN mode](https://open.spotify.com/artist/44CA4qMx5IOMDQOTg7G6KN) | [With You](https://open.spotify.com/album/7zneLijvWofRLhmvxhTZlH) | 5:05 |
 | 8 | [Reason Living](https://open.spotify.com/track/2gLgkVniFLbKiklW4taLOj) | [SCREEN mode](https://open.spotify.com/artist/44CA4qMx5IOMDQOTg7G6KN) | [1/1](https://open.spotify.com/album/1uoYYk6TfIeGUDbXvmEP6V) | 4:04 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUog0OWGDgtd.md) - [plain]
 | 10 | [Deadly Drive](https://open.spotify.com/track/2ZSDd4CGzdAKZydSl2M2mA) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Deadly Drive](https://open.spotify.com/album/09YTyinnaKJIuKH9hy6Z9t) | 3:59 |
 | 11 | [僕ら](https://open.spotify.com/track/0c2W5Tzp2iye2HXmKU9NCG) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [僕ら](https://open.spotify.com/album/0oHxAtCiq1jK5YfvTUvnd4) | 5:05 |
 | 12 | [Lily](https://open.spotify.com/track/6Bt6EU8gtqCCiz18Z19mfn) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Lily](https://open.spotify.com/album/1tdJ768pqkxcgBMF5x4vFI) | 4:23 |
-| 13 | [セツナの愛](https://open.spotify.com/track/6GppTDfQGwYVT8N9mtUQA8) | [GRANRODEO](https://open.spotify.com/artist/7nC8veuCttVQlyjhueVUXj) | [セツナの愛](https://open.spotify.com/album/13NAoduFqCvDmjIwMTEmE2) | 4:33 |
+| 13 | [セツナの愛](https://open.spotify.com/track/6GppTDfQGwYVT8N9mtUQA8) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [セツナの愛](https://open.spotify.com/album/13NAoduFqCvDmjIwMTEmE2) | 4:33 |
 | 14 | [少年よ月下を疾走れ](https://open.spotify.com/track/49apHAp2zfErDlj608Vp5j) | [中島 敦 \(CV.上村祐翔\)](https://open.spotify.com/artist/0yV4MhS5uohiPKoBijvIYE) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/4JR1vC5StcdisXOVUHknoW) | 4:09 |
 | 15 | [永遠未遂にグッド･バイ](https://open.spotify.com/track/3Ifgd8AstVzpwe5v6GTLi0) | [太宰 治 \(CV.宮野真守\)](https://open.spotify.com/artist/67V4M0fBokE5dqx4vavdqS) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/4JR1vC5StcdisXOVUHknoW) | 5:02 |
 | 16 | [我が理想に曇り無し](https://open.spotify.com/track/4VSmlwwCuqv48fWzcZSr9m) | [国木田独歩 \(CV.細谷佳正\)](https://open.spotify.com/artist/7JsyA31PxY0jlkTnKqeXQo) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/4JR1vC5StcdisXOVUHknoW) | 4:08 |

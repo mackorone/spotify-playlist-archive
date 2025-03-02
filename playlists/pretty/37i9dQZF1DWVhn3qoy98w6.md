@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Ku!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,417 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,419 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [Siempre nos Quedará](https://open.spotify.com/track/7e4JvCRmBdkbsXeP3hLqVZ) | [Ruge Boreal](https://open.spotify.com/artist/40gFCPKBd19uDtnMg1OL6O) | [Siempre nos Quedará](https://open.spotify.com/album/2TDKwFaBPpFkMG1ShBz1Lr) | 3:16 |
 | 60 | [NOSTALGIA](https://open.spotify.com/track/5Rq5cXQJY6VNCiyfiwddwi) | [MYGUEL](https://open.spotify.com/artist/6H7PaS7sX2NuUhLt5V075R) | [NOSTALGIA](https://open.spotify.com/album/3uZBPcWDIfYExWTK6KqCF9) | 2:49 |
 
-Snapshot ID: `Z75LeQAAAADPuqNZACXsmwuqdd8ztmQB`
+Snapshot ID: `Z75LeQAAAABL7wCYSZm+dJ4BrgS4aCcE`

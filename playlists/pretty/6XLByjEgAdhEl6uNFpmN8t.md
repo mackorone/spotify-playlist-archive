@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 
 > 
 
-[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 96 songs - 4 hr 56 min
+[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 98 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 | 94 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 |
 | 95 | [Trónfosztó](https://open.spotify.com/track/1k5srHy6QKbhOCApsBRFYu) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Trónfosztó](https://open.spotify.com/album/4N8b0i798ZKaMDpAXvMhj6) | 2:48 |
 | 96 | [Gurulgatok](https://open.spotify.com/track/3tYdb1HYnrqcq9bdwsuxfg) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Gurulgatok](https://open.spotify.com/album/4MXiWo5vhU1I3N9k72bu7F) | 2:27 |
+| 97 | [Bambi](https://open.spotify.com/track/29snt77VXxUpJqMOMDSUuo) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [M.K](https://open.spotify.com/artist/6s6Ejw3hKQlTCi6yVHPMki), [Igni](https://open.spotify.com/artist/5TZxii3VFeubJqXSWyAhkh), [Varga Norbi](https://open.spotify.com/artist/3LQD7ygHka6JxAyllNLPta) | [Bambi](https://open.spotify.com/album/7GokiCOPcgKDsWaXUkjqli) | 2:48 |
+| 98 | [Jamaica pt\. 1 \(Apartman\)](https://open.spotify.com/track/0rvE94vL7lrFFpsM5UzgYh) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [2023](https://open.spotify.com/album/6TGD1FXUBasDg8idQ9IGP5) | 2:46 |
 
-Snapshot ID: `AAAAtxfsbupbN9ptKzXNxrbg2aw85/hm`
+Snapshot ID: `AAAAuUMs5xda9GV4lq58nuPiayO0aHgo`

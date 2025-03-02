@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Tim Hecker
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,123 likes - 100 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,295 likes - 100 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 11 | [La Hormiga](https://open.spotify.com/track/0pwuRwjgzeOFF8FmB3pjyM) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [La Hormiga](https://open.spotify.com/album/14jVdvucxcnyMieoKd1rwb) | 2:13 |
 | 12 | [Second Harvest](https://open.spotify.com/track/2To5sfZUDbK9xlbHT9weRX) | [Takeshi Kurihara](https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK) | [KLAMAUK](https://open.spotify.com/album/3H6tjwSunpKqPMug5RSLcb) | 7:07 |
 | 13 | [A Sense Of Getting Closer](https://open.spotify.com/track/7CJmELMbZPoiW5f0bpUF2v) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [On Being](https://open.spotify.com/album/3Ue4fvhNQLBXsQIhnIy57B) | 7:52 |
-| 14 | [Asleep On The Wing \- Edit](https://open.spotify.com/track/5ajogm28j2j2NhauxNzVgb) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Asleep On The Wing \(Edit\)](https://open.spotify.com/album/6nHf8GnrRHhsUoC13myBhH) | 6:36 |
+| 14 | [Asleep On The Wing \- Edit](https://open.spotify.com/track/5ajogm28j2j2NhauxNzVgb) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Freya Goldmark](https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1) | [Asleep On The Wing \(Edit\)](https://open.spotify.com/album/6nHf8GnrRHhsUoC13myBhH) | 6:36 |
 | 15 | [A Requiem](https://open.spotify.com/track/4AjmRc8wqgmMayhwWLYoXl) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [A Requiem](https://open.spotify.com/album/1bXQFRiD2l4PY3Fije46QR) | 5:26 |
 | 16 | [A Light That Never Goes Out](https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Perennial Grace](https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ) | 3:22 |
 | 17 | [The Way of the Wind \- Rework](https://open.spotify.com/track/2MtikpqTKFlrARQoEPhDBG) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod) | [The Way of the Wind \(Rework\)](https://open.spotify.com/album/3nZE7xM3ausnWxWtbMOmlS) | 3:32 |

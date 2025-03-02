@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Ramengvrl\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,933 likes - 102 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,936 likes - 102 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 22 | [Hey Sarah Pt\. 2](https://open.spotify.com/track/5fwf3pT6O1WjXRcEjQRTUD) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Hey Sarah Pt\. 2](https://open.spotify.com/album/0wxVrtqECa6WZsGUbUb8PT) | 5:46 |
 | 23 | [2Much 2Fast \(feat\. Landon Cube\)](https://open.spotify.com/track/2QpAdnOzTNkjVrOOxXndH4) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [2Much 2Fast \(feat\. Landon Cube\)](https://open.spotify.com/album/0DdZ1V6pvT3hYnYwhP3hQj) | 2:37 |
 | 24 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 |
-| 25 | [How To Bip](https://open.spotify.com/track/4SjA9BJvk0lK1MevTf704C) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [How To Bip](https://open.spotify.com/album/1hjUrczTkZGAzpdhr10Tid) | 2:34 |
+| 25 | [How To Bip](https://open.spotify.com/track/64rP4gEgmxJ8Jg5nN3fzDo) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [How To Bip](https://open.spotify.com/album/57xr0iFHq2QFiEjszdBZ8Z) | 2:34 |
 | 26 | [WOKE UP](https://open.spotify.com/track/11JSTlSpQZbqbPLtwww8fW) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [WOKE UP](https://open.spotify.com/album/5bSVXn0a60q4pOpw9RTewh) | 2:08 |
 | 27 | [GLORY!](https://open.spotify.com/track/4K15LipOtHAdNYCcipGbbO) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [GLORY!](https://open.spotify.com/album/0namZz1IsaVWyxjmyfUFLh) | 3:38 |
 | 28 | [Red Mug](https://open.spotify.com/track/17yYNiYFHWHZFjR90nFKj2) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Red Mug](https://open.spotify.com/album/6IFCZmMeSWopbn7NigDriu) | 2:00 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 101 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 |
 | 102 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
 
-Snapshot ID: `Z8FjWAAAAAB9c5ZKv8+8cWwzHJjQRojs`
+Snapshot ID: `Z8KoYQAAAACkLx7CGjfUZzbdeph8qhTD`

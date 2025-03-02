@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Alison Krauss & Union Station
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,511 likes - 115 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,585 likes - 115 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 114 | [Never Did No Wanderin'](https://open.spotify.com/track/5zvSiE2396f9YHVX2ISM4I) | [Nick Chandler and Delivered](https://open.spotify.com/artist/1lNDYzrFp3Uue175h7EK9K) | [Never Did No Wanderin'](https://open.spotify.com/album/1TNQYSgDNcRRjaLVLyBeQ5) | 2:41 |
 | 115 | [Better Angels](https://open.spotify.com/track/2dQq2f0X4cWIfS9VddMDI3) | [Nefesh Mountain](https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mark Schatz](https://open.spotify.com/artist/4yjdTR89mb4cyFd7VCO5S1), [Stuart Duncan](https://open.spotify.com/artist/3oFYKR4CwLh4Xenic81bIJ) | [Better Angels](https://open.spotify.com/album/6bPWLqdjxDEaHq2zxVU3U2) | 5:04 |
 
-Snapshot ID: `Z8FDCwAAAABzmbquCVJjiuS1BfYJeLmq`
+Snapshot ID: `Z8FDCwAAAADw2MvHIfeluhMEBMSC8KZr`

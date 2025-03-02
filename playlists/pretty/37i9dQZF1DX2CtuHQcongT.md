@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,078 likes - 53 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,101 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 52 | [Perfect \(SDI\)](https://open.spotify.com/track/4RghwSF6G9qkMp1ZsESFjy) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SDI & カルテット SEGA SYSTEM 16 COLLECTION](https://open.spotify.com/album/2jSsCQAD2xydTXHTpYaBtB) | 0:07 |
 | 53 | [LAST WAVE \(Out Run\)](https://open.spotify.com/track/3rwlvRk2caSs3iYwVqwSXj) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [アウトラン オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/38PUHL4Ab0rky3W6Lnmp4r) | 1:31 |
 
-Snapshot ID: `ZRmJcAAAAADm3bXaw3ChUA9W53OT/NVR`
+Snapshot ID: `ZRmJcAAAAAAWd+t4/MkN/w0ad+88xcLt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatt4t2roo4R.md) - [plain]
 
 > Enjoy theTWICE fan meeting LIVE SET including the voices of them on stage! \(트와이스의 무대 멘트와 목소리가 포함된 서울 팬미팅 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,905 likes - 18 songs - 35 min 22 sec
+[Spotify](https://open.spotify.com/user/spotify) - 29,904 likes - 18 songs - 35 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

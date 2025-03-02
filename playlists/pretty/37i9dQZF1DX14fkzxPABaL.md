@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Ricardo Arjona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,285 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,427 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 99 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
 | 100 | [No Hay Más](https://open.spotify.com/track/0uf97jURvAdpFCmM0hdK7w) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [No Hay Más](https://open.spotify.com/album/7hZuz2n7O4UH39agFYIje6) | 3:13 |
 
-Snapshot ID: `Z8Em0AAAAACKrLsnkrM4esjDiubT4RqY`
+Snapshot ID: `Z8Em0AAAAAAtrC4SgSF3H/qnFVoYnmQ4`

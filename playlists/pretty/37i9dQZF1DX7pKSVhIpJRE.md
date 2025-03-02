@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,918 likes - 152 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,945 likes - 152 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 151 | [Funeral Preparations](https://open.spotify.com/track/6YuNYDXgCLO85VPPekQH94) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 4:29 |
 | 152 | [Leave You to It \(Sleep Dearie Sleep\)](https://open.spotify.com/track/4FlMsldsHgNCxaYCgkjCtC) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 4:18 |
 
-Snapshot ID: `ZXygBQAAAAAwRYLtOpZYJICbzJwHJov9`
+Snapshot ID: `ZXygBQAAAABcAWPSpjSV02IzwA8F6K7c`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно із renie cares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,556 likes - 45 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,557 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 44 | [Rise](https://open.spotify.com/track/63zgeEVwTQYZz4zZ6lYeB8) | [Starykova Hrystyna](https://open.spotify.com/artist/3LqWp9ksT2mJXdonoCxOLk) | [Rise](https://open.spotify.com/album/0pthcUwtwabZAJ58AdK3pi) | 2:47 |
 | 45 | [Не вийде](https://open.spotify.com/track/4TPRLs6zp0rWeeSyyuF5LL) | [Sofira](https://open.spotify.com/artist/6IsIXhoZSxqf4BKGKGiN88) | [Не вийде](https://open.spotify.com/album/5DO3D54VZowQIZ3CeZ4sJW) | 2:22 |
 
-Snapshot ID: `Z6KN+gAAAAC0cWUog7vqEUvx/AmhH7zr`
+Snapshot ID: `Z6KN+gAAAAAbiZmeeeOhL2lx5FRI7mMl`

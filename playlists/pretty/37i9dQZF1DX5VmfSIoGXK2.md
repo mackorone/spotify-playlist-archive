@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > smooth, classy, soulful ✨ the best of Jazz House, featuring berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,310 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,453 likes - 70 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 11 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
 | 12 | [Brooklyn 9:00am](https://open.spotify.com/track/0YrhuzbViNhtseDz6H4JCw) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Brooklyn 9:00am](https://open.spotify.com/album/4b7mMlruldC2R7w71vzyTg) | 2:40 |
 | 13 | [@ tha jazz club](https://open.spotify.com/track/24E9lAXzbPTO7fYjmcsLiq) | [geneva](https://open.spotify.com/artist/2o7hwM029oQciNt5pyaj3i) | [@ tha jazz club](https://open.spotify.com/album/0TlTqm0js7xR8p0NsBToQS) | 3:46 |
-| 14 | [Mr\. Particular](https://open.spotify.com/track/4B4acwDbCZkxNC9VmBOaE4) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Mr\. Particular](https://open.spotify.com/album/7FNjJhOGAR4eyIJp3bhzdC) | 5:25 |
+| 14 | [Mr\. Particular](https://open.spotify.com/track/4B4acwDbCZkxNC9VmBOaE4) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Mr\. Particular](https://open.spotify.com/album/7FNjJhOGAR4eyIJp3bhzdC) | 3:58 |
 | 15 | [breathing in](https://open.spotify.com/track/5SQFF77hbKu61zAhuofSx9) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [feel it yet?](https://open.spotify.com/album/73TPblj9INiaI87pRaV5EW) | 3:01 |
 | 16 | [The Road is Long](https://open.spotify.com/track/6QZPF2qAWRlKcvWksumlZh) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg), [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8) | [The Road is Long](https://open.spotify.com/album/0gHCl3TDVNHxR1FA6FPq5t) | 7:29 |
 | 17 | [Blanc](https://open.spotify.com/track/06BAAawbsllT2PAhsqIsiJ) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Blanc](https://open.spotify.com/album/5klbjenisysJ9KqsgLm4r1) | 6:18 |

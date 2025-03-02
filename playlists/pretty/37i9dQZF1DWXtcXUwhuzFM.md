@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Mikael Gabriel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,742 likes - 102 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,767 likes - 102 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,6 +109,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 99 | [Festen som aldri stopper](https://open.spotify.com/track/0SwT5GTfvOaQwOVrzWXQY8) | [Honningbarna](https://open.spotify.com/artist/6G5StsdpEhbhdrmJG0WMMx) | [Soft Spot](https://open.spotify.com/album/5kAZDRUWcOKCp948RaF9nO) | 3:20 |
 | 100 | [Lazy](https://open.spotify.com/track/4uFSthUW4PTiYT89ShAvpC) | [Ameli Dot](https://open.spotify.com/artist/6rX000PthIdtHGAlvGZODh) | [Lazy](https://open.spotify.com/album/2xjF3kxMxZtgPYGc3amcQu) | 2:16 |
 | 101 | [Kuolematon Laulunhenki](https://open.spotify.com/track/6RhyW0kTqUeyi1DokUJeJ9) | [Havukruunu](https://open.spotify.com/artist/2ccokPZoXdXaj4yiZqMxIJ) | [Tavastland](https://open.spotify.com/album/5eZepzGtcfe5C94lkdeiYz) | 7:10 |
-| 102 | [Endless Summer](https://open.spotify.com/track/7BA1wNo0dJzxd2nRvBLAe5) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW), [DARKOWA](https://open.spotify.com/artist/02YWmrPe2DFyagloOo6lrF) | [Debbie's Songs](https://open.spotify.com/album/3gUeLeB7Wbi9Hvqg0gWgYY) | 3:20 |
+| 102 | [Endless Summer](https://open.spotify.com/track/7BA1wNo0dJzxd2nRvBLAe5) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW), [dark0wa](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53) | [Debbie's Songs](https://open.spotify.com/album/3gUeLeB7Wbi9Hvqg0gWgYY) | 3:20 |
 
 Snapshot ID: `Z8DguAAAAAD9X26YLbvViHn9KxkvugK2`

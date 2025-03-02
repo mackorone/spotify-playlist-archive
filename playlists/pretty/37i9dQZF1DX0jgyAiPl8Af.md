@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,235,398 likes - 209 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,235,648 likes - 209 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 208 | [Laguna Blanca](https://open.spotify.com/track/17GnGJcqKS8JzbwDkWUcIh) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Laguna Blanca](https://open.spotify.com/album/6jQ90op173u5KInBVXVLCl) | 3:00 |
 | 209 | [Melhor Coisa](https://open.spotify.com/track/5DcUfrX3AbVu3pnHLJbwaf) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Melhor Coisa](https://open.spotify.com/album/4O7k3nDZOsevNAy6cRNegZ) | 2:12 |
 
-Snapshot ID: `Z7yctQAAAACDrRJIfLLBKOYGTDisQMiS`
+Snapshot ID: `Z7yctQAAAABwG+oLYNQLtqguo3xJD8t9`

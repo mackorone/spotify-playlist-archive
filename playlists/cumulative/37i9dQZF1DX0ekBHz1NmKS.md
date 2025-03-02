@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,765 songs - 3 day 19 hr 35 min
+1,766 songs - 3 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Hatar att du lät oss gå](https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Hatar att du lät oss gå](https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO) | 2:49 | 2022-10-27 | 2023-10-06 |
 | [Hate Me](https://open.spotify.com/track/65yDVnxFoCHz57JdgzRpcG) | [MAZEN AWAD](https://open.spotify.com/artist/5dwPMLSka611grrtrJwJ8T) | [Hate Me](https://open.spotify.com/album/1iaASqwDUGEpJGmIdOG9vq) | 2:36 | 2024-05-02 | 2024-06-01 |
 | [Hate My Guts](https://open.spotify.com/track/3WM7HwJAxhlI87PAzuuvyB) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Hate My Guts](https://open.spotify.com/album/3KQgYkwicq99p0p0u1Dy4K) | 2:53 | 2022-03-24 | 2022-04-02 |
+| [Hate You So Much](https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hate You So Much](https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U) | 2:36 | 2025-02-27 |  |
 | [Havanna](https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Havanna](https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg) | 3:31 | 2021-12-16 | 2022-03-10 |
 | [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2023-10-13 | 2024-01-26 |
 | [Hear Me Out](https://open.spotify.com/track/2DPvoJDAidOfXnB0QuFQiy) | [San Sebastian](https://open.spotify.com/artist/3i5CinvLDgkzioyuI1oa1E) | [Hear Me Out](https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa) | 3:04 | 2024-06-13 | 2024-08-16 |
@@ -767,7 +768,7 @@
 | [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 | 2023-10-20 |
 | [Imagine Paradise](https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Imagine Paradise](https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b) | 3:57 | 2024-06-07 | 2024-08-09 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |
-| [In kom en ängel](https://open.spotify.com/track/31Ck0hJs7XKo78L5kjDcpZ) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [In kom en ängel](https://open.spotify.com/album/7LewFkBppvrPUZsnGLK8Hg) | 2:56 | 2024-10-17 |  |
+| [In kom en ängel](https://open.spotify.com/track/31Ck0hJs7XKo78L5kjDcpZ) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [In kom en ängel](https://open.spotify.com/album/7LewFkBppvrPUZsnGLK8Hg) | 2:56 | 2024-10-17 | 2025-03-02 |
 | [In My Mind](https://open.spotify.com/track/4ywvtcOycSYXx7LOMQ2bW4) | [MIRA](https://open.spotify.com/artist/5phaV5dbc32e9OHxThLIg2) | [In My Mind](https://open.spotify.com/album/77ug7vI9azTaDP9fILrBHl) | 1:44 | 2024-04-18 | 2024-04-21 |
 | [In The End](https://open.spotify.com/track/3UGZ9VUAZAJeIN1p0V7v8j) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [In The End](https://open.spotify.com/album/3Yp86nU21Kw0lMSBCL8iwO) | 3:18 | 2022-03-10 | 2022-04-21 |
 | [In The Sunrise](https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [OMR](https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH) | 2:20 | 2022-05-30 | 2023-02-24 |
@@ -1331,7 +1332,7 @@
 | [Siri](https://open.spotify.com/track/6TpiEC8TyqjUqhX29msNFB) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Siri](https://open.spotify.com/album/7mUoHkdkOSw6SRU6Zms8P8) | 4:03 | 2023-11-16 | 2024-02-09 |
 | [Sista dan på sommarn](https://open.spotify.com/track/0WPQFNeOCqgPdDkeIv4LG3) | [Nathalie Brydolf](https://open.spotify.com/artist/1c9W4FJpTKvklYHfyNzAPl) | [Sista dan på sommarn](https://open.spotify.com/album/2BRU9uzdvlkQpSDIB5dr5s) | 3:51 | 2024-08-15 | 2024-09-13 |
 | [Sista gången](https://open.spotify.com/track/6VEHZjdc9WLeyJjTBN3Lzm) | [råsa](https://open.spotify.com/artist/7xt4XwzlemR8yD2e3M26Wj) | [Sista gången](https://open.spotify.com/album/7oGmIcZOWuH4BYfyh8F7Wz) | 3:00 | 2021-12-16 | 2022-03-11 |
-| [Sista Ordet](https://open.spotify.com/track/267CfmuUf0qy8b0fPsGgTu) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Sista Ordet](https://open.spotify.com/album/1kUhBiMtrokFAKJTfJduuW) | 2:28 | 2025-02-27 |  |
+| [sista ordet](https://open.spotify.com/track/267CfmuUf0qy8b0fPsGgTu) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [sista ordet](https://open.spotify.com/album/1kUhBiMtrokFAKJTfJduuW) | 2:28 | 2025-02-27 |  |
 | [Sjunde himlen](https://open.spotify.com/track/3aYYlA41rjSIhKjGjRU21S) | [Lellow](https://open.spotify.com/artist/2pKGHbm0UKKTMOaiMMGtPM), [NEZS](https://open.spotify.com/artist/6GERmAfI3ernnroEuU4Nt4) | [Sjunde himlen](https://open.spotify.com/album/5al1GAzVu91SnMa7Q2KaiX) | 2:19 | 2024-01-18 | 2024-03-15 |
 | [Sjung om](https://open.spotify.com/track/4pKUmlSbhRAuPXp9PSsvB9) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Sjung om](https://open.spotify.com/album/0UIqHlwrA85a3f5Ypm7vAe) | 3:28 | 2024-04-19 | 2024-05-24 |
 | [Sjunger om dig](https://open.spotify.com/track/1p1o0IUQ6mzcs0olE68Xdz) | [Nova & Alice](https://open.spotify.com/artist/47xzLBfVFBzKigbAptUy6q), [Hedda Stiernstedt](https://open.spotify.com/artist/7ufHZQlaLAAdycYQi6PlxK), [Josefin Asplund](https://open.spotify.com/artist/19I8GRzEEuwcjzfLy6HKzH) | [Sjunger om dig](https://open.spotify.com/album/4Lp3A9vDo0BLS5nKHkJ1T4) | 2:31 | 2024-08-08 | 2024-09-27 |

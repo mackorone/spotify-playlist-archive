@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,748 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,807 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [Amélia](https://open.spotify.com/track/6hwIYHgb4Xl4grmY8cojzx) | [Richard Birman](https://open.spotify.com/artist/2voWjJRm5QFln1Rve9xvbs) | [Zouker, Vol\. 1](https://open.spotify.com/album/7wvjwgc0vxdZESnX0fkIgC) | 4:45 |
 | 50 | [Siwo](https://open.spotify.com/track/0femCfvGe5cE3kyRnRd9jK) | [Jocelyne Beroard](https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB) | [Siwo](https://open.spotify.com/album/1rAvDlrzslwA4SEffA2rYv) | 4:29 |
 
-Snapshot ID: `Z2L6jQAAAAAZA7ee6rfjWmbY2wvuV331`
+Snapshot ID: `Z2L6jQAAAABYLGGu+upE/CyQY5lm/Pr0`

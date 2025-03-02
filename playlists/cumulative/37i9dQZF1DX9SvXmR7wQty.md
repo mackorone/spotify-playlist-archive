@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Naomi
 
-3,142 songs - 6 day 22 hr 45 min
+3,143 songs - 6 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1105,6 +1105,7 @@
 | [Haut Contre Bas](https://open.spotify.com/track/7gjy5JBi17p56khgO0fN6Z) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [Rong Weicknes](https://open.spotify.com/album/6PPLCyHL015tBNHY0GQuc0) | 3:39 | 2024-10-25 | 2024-11-02 |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-02-25 | 2022-03-12 |
 | [Henry Rodriguez](https://open.spotify.com/track/1lQhdnHu4nnGGgJejyQNR9) | [St\-Saoul](https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ) | [Henry Rodriguez](https://open.spotify.com/album/6lz0hnIzS4ZDs0EogCSNtf) | 4:55 | 2022-11-11 | 2022-11-26 |
+| [HERMES](https://open.spotify.com/track/7DZSBDz3YMRWehPTLE1xOs) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [HERMES](https://open.spotify.com/album/1StXBGTd2q23LGN6rQdXlE) | 1:47 | 2025-02-28 |  |
 | [Heureux comme ça](https://open.spotify.com/track/1beumnMJjECxbkF6o0WkVT) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Heureux comme ça](https://open.spotify.com/album/4sI3aKZhpwWd8wLEPeASqm) | 2:49 | 2024-09-06 | 2024-09-14 |
 | [Heureux infidèles](https://open.spotify.com/track/5nOl6RJKPDlXrgxmLst4Yr) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [Heureux infidèles](https://open.spotify.com/album/4J23D2h8q0B82j9hOsGvAJ) | 3:05 | 2022-04-29 | 2022-05-14 |
 | [Hey Sophia](https://open.spotify.com/track/46PQokbJBAJB7Nz2sAPNw6) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Hey Sophia](https://open.spotify.com/album/6l45hR6O8aeBETmpw1smw7) | 3:16 | 2024-05-17 | 2024-05-25 |
@@ -1320,7 +1321,7 @@
 | [Je te dirai tout](https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Je te dirai tout](https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2) | 2:50 | 2024-02-02 | 2024-02-10 |
 | [Je te promets](https://open.spotify.com/track/2WQSqRICLiUVaQHT7QQ0We) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Je te promets](https://open.spotify.com/album/6e3k8dGR9n0i8ILS37puwR) | 3:40 | 2023-09-08 | 2023-10-16 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 | 2022-09-24 |
-| [Je veux](https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Je veux](https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7) | 2:12 | 2025-01-10 |  |
+| [Je veux](https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Je veux](https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7) | 2:12 | 2025-01-10 | 2025-03-02 |
 | [JeanLeloup](https://open.spotify.com/track/5gflFNsfB3kTS2qjbsJBLg) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [JeanLeloup](https://open.spotify.com/album/30LlafjSzTHf3ofmTtOuOY) | 2:50 | 2022-04-29 | 2022-06-04 |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2021-12-31 | 2022-01-15 |
 | [Jericho](https://open.spotify.com/track/0EReTW8JFj00nBZszTFivN) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Dans cent ans](https://open.spotify.com/album/5GbVEUDKSF372hQLZMcbUb) | 2:19 | 2023-03-17 | 2023-04-15 |

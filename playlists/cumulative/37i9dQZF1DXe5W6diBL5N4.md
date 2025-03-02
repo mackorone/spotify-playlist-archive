@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ZEROBASEONE\(제로베이스원\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-11,537 songs - 27 day 13 hr 32 min
+11,538 songs - 27 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7279,6 +7279,7 @@
 | [Play](https://open.spotify.com/track/2eOKRPK5ShMn9B4a0XeZnl) | [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj) | [Stealer : The treasure keeper, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yffRNp0hKE1DznHnTn8Np) | 2:43 | 2023-04-20 | 2023-06-20 |
 | [Play \(feat\. Sion\) \[Original Television Soundtrack From "Duty After School"\]](https://open.spotify.com/track/4k3wtHeshonyd9RWJOHcm6) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Play \(feat\. Sion\) \[Original Television Soundtrack From "Duty After School"\]](https://open.spotify.com/album/5r2gn0St4o9aaO1ruCKdM6) | 3:07 | 2023-03-31 | 2023-05-03 |
 | [PLAY DUMB](https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Story Written in Music](https://open.spotify.com/album/6ZpvLJfgF2S4NlUbrh0TIo) | 3:25 | 2022-06-15 | 2022-06-23 |
+| [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 |  |
 | [Play Hide & Seek](https://open.spotify.com/track/3a7ISYHtA4un5aGvoVza5R) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [Bridge of Dreams](https://open.spotify.com/album/7l19KsnZJdODCoo1cS2Slu) | 3:01 | 2022-04-28 | 2022-05-04 |
 | [Play With Me](https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif) | [Pagaehun](https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7), [KKANBYEONGZ](https://open.spotify.com/artist/5RUKj25Ytovoun2IlCE7Zt) | [Play With Me](https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd) | 2:49 | 2024-04-09 | 2024-05-10 |
 | [Playback](https://open.spotify.com/track/5WYd0z7A4nLkm6sGc1iqTj) | [Hitten](https://open.spotify.com/artist/2oKA6qrgCD1QKEiBRkakKH) | [Playback](https://open.spotify.com/album/5ewvkxVOehE4V2AY1gGUS9) | 3:10 | 2024-02-07 | 2024-05-01 |

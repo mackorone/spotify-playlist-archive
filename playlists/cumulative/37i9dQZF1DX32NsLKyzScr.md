@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,207 songs - 2 day 17 hr 32 min
+1,208 songs - 2 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,6 +575,7 @@
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-12 |  |
 | [Life Is One](https://open.spotify.com/track/5kGVL2l2eEqaFPuYU1mdbl) | [Ludovica Pagani](https://open.spotify.com/artist/0Ab61kRJ0CWyfeVQ4ckek2), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Life Is One](https://open.spotify.com/album/3QSMGCTqNNUziypWujExxP) | 3:04 | 2021-01-05 | 2021-07-24 |
 | [Life Like This](https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Life Like This](https://open.spotify.com/album/3awL1PVJHVHzC3IK2pMQzM) | 3:07 | 2022-07-01 | 2022-09-05 |
+| [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 | 2025-02-28 |  |
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-01-26 |  |
 | [Lights Down Low](https://open.spotify.com/track/4j8l7PDZ9Y6J4XaKiAJMDo) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Lights Down Low](https://open.spotify.com/album/0CNI0GdthKzauEeT0BJYQe) | 2:52 | 2021-09-25 | 2022-03-12 |
 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 | 2024-07-12 |  |
@@ -739,7 +740,7 @@
 | [One Night Away](https://open.spotify.com/track/63iTZ9zpkQOTYYbzWDSFdp) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [One Night Away](https://open.spotify.com/album/21LVbYbk6Dupy1cmlgqsed) | 3:30 | 2021-06-12 | 2021-09-18 |
 | [Ones You Miss](https://open.spotify.com/track/4cFeXui0uAhC2f4fTwN4P7) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss](https://open.spotify.com/album/1OEEVoyaZUt6yCncONcQZr) | 2:13 | 2021-01-05 | 2021-07-24 |
 | [Only For A Night](https://open.spotify.com/track/6FWNDcdJr58TPSTIdpIyx6) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Only For A Night](https://open.spotify.com/album/3Gf5wI0fMmFh4K3Bo1mzM1) | 2:47 | 2021-07-07 | 2021-09-18 |
-| [Only I](https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Only I](https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d) | 3:48 | 2024-11-08 |  |
+| [Only I](https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Only I](https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d) | 3:48 | 2024-11-08 | 2025-03-02 |
 | [Only One](https://open.spotify.com/track/6ipiRXjKsTcqLAigNmnbmv) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Only One](https://open.spotify.com/album/7CGYzuw78v8gVvaMyVedPd) | 3:11 | 2021-05-15 | 2021-09-04 |
 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 | 2022-04-08 | 2023-01-06 |
 | [Original Sin \- Felix Jaehn Remix](https://open.spotify.com/track/0bczsNCHpJzjUnI45UShrx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Original Sin \(Felix Jaehn Remix\)](https://open.spotify.com/album/77FbpXGyS9pbEaiHymovlP) | 3:07 | 2022-05-13 | 2022-07-29 |

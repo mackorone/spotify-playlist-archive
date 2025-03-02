@@ -1019,6 +1019,28 @@
     },
     {
       "album": {
+        "name": "Voyagers",
+        "url": "https://open.spotify.com/album/5z1HWgNfc2nMbSt1S0aKKS"
+      },
+      "artists": [
+        {
+          "name": "7apes",
+          "url": "https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv"
+        },
+        {
+          "name": "Smoke Trees",
+          "url": "https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175071,
+      "name": "Chiang Mai",
+      "url": "https://open.spotify.com/track/3H5YOvm8wjCHLwcusAgGxo"
+    },
+    {
+      "album": {
         "name": "Chime",
         "url": "https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW"
       },
@@ -1136,7 +1158,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 156601,
       "name": "Colossal",
       "url": "https://open.spotify.com/track/68oGqtxHckvCtcDp3LqDeh"
@@ -2528,7 +2550,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 66122,
       "name": "Flyin'",
       "url": "https://open.spotify.com/track/6Ab1BJstlIzERvLh7N80n9"
@@ -2994,7 +3016,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 124137,
       "name": "Grey Sky",
       "url": "https://open.spotify.com/track/2AEhxIKFfvjxk1NTMP1bR0"

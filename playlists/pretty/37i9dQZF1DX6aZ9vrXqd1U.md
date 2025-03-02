@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,018 likes - 138 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,077 likes - 138 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 74 | [Survivor](https://open.spotify.com/track/3lkE110ALuqH3ciBGf7d1R) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/0FNINkrhIgTtEUQyaf9MB7) | 3:40 |
 | 75 | [STEEL \-鉄血の絆\-](https://open.spotify.com/track/20VdkamdRMOeJWJygL2bHh) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Around the TRUE](https://open.spotify.com/album/15uHffJGg720NSYqceFyMG) | 5:21 |
 | 76 | [RAGE OF DUST](https://open.spotify.com/track/32THUNL57330TYg9eBkLAX) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/5UM3PN38AoAxvvoB3hui0b) | 3:22 |
-| 77 | [少年の果て](https://open.spotify.com/track/4mp8QXLV50D7AObrjKNUAs) | [GRANRODEO](https://open.spotify.com/artist/7nC8veuCttVQlyjhueVUXj) | [少年の果て](https://open.spotify.com/album/1lQprvL2hJQDAQKxXNRpry) | 5:03 |
+| 77 | [少年の果て](https://open.spotify.com/track/4mp8QXLV50D7AObrjKNUAs) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [少年の果て](https://open.spotify.com/album/1lQprvL2hJQDAQKxXNRpry) | 5:03 |
 | 78 | [Fighter](https://open.spotify.com/track/2VHu0O2U8EWjxBfDlzakd2) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [NAMiDA](https://open.spotify.com/album/4wmDOZJSFjcwZcLcZ9PJle) | 3:45 |
 | 79 | [フリージア](https://open.spotify.com/track/6lvAS3R2GWczHHOIyKEEzV) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [モノクローム \(Special Edition\)](https://open.spotify.com/album/0EJJO0KH1iY80ryDdU8f7z) | 5:36 |
 | 80 | [DAYBREAK'S BELL](https://open.spotify.com/track/0GapIKOkapTtO6cR6IM31x) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/3Cb9NZFOkVRqUjvhcggkSA) | 4:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Descer e os funks mais 🔑 do Brasil\. Foto: Kew, DJ LK da Escócia
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,503,318 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,504,662 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [De 10 Mulher 11 É Maluca](https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [De 10 Mulher 11 É Maluca](https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe) | 1:55 |
 | 50 | [A Culpa Não É Minha](https://open.spotify.com/track/6RqEGo7zvc8g31ZyG1Mm6Q) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [A Culpa Não É Minha](https://open.spotify.com/album/5ILsdU09Tv2lw6X7LFLxg2) | 2:17 |
 
-Snapshot ID: `Z8Hx2gAAAACNAnbkDHJFaWEvE8loIlvL`
+Snapshot ID: `Z8Hx2gAAAACSLr+p4543gh9vxUbjTP03`

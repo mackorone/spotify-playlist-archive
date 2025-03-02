@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Don Louis, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,137 likes - 116 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,163 likes - 116 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 115 | [Adeline](https://open.spotify.com/track/06bAZKQYLX8jHCd5H69vD8) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Adeline](https://open.spotify.com/album/4gRanRR0aFhSekiS60Un7o) | 2:41 |
 | 116 | [Slow Game](https://open.spotify.com/track/6fe4Edkzn24kUoaKst5j0v) | [Zay Wilson](https://open.spotify.com/artist/18oAmSziX1QQWo6rxEASxv) | [Slow Game](https://open.spotify.com/album/0oBWy0tJDLLi8WWTKfdYc8) | 2:35 |
 
-Snapshot ID: `Z79qawAAAADsFzd/D2oMaEo68XzODoYa`
+Snapshot ID: `Z79qawAAAADSSyTK2zvVUFC53Cij+JC0`

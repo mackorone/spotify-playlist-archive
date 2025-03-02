@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Isaac Hong \(홍이삭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,412 songs - 3 day 19 hr 19 min
+1,413 songs - 3 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,6 +903,7 @@
 | [Phantom Pain](https://open.spotify.com/track/2DFxgbXJzTe8P7DJ5wjDeD) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:38 | 2022-03-29 | 2022-04-14 |
 | [Pieces of You](https://open.spotify.com/track/2JAK4EVBo5hkj7u9Ed1JuX) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [\[Pieces of \_\]](https://open.spotify.com/album/1Q7d6j21ErInY0s4guwJUx) | 3:42 | 2022-11-16 | 2023-01-21 |
 | [Plant](https://open.spotify.com/track/3oTeu6YzKhXQIogBgzJr9w) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Plant](https://open.spotify.com/album/5aUgxOcv6bo9gvuMZweqNb) | 3:27 | 2021-12-23 | 2022-07-04 |
+| [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 |  |
 | [Please](https://open.spotify.com/track/4YVTnGm2zKcfeQQg5K5N45) | [Fil](https://open.spotify.com/artist/7m8uiaaNYL1PY7zRCfnLgU) | [Please](https://open.spotify.com/album/50lF4DUf7JS2r3Vq10m4BW) | 3:53 | 2023-11-02 | 2024-02-02 |
 | [Please](https://open.spotify.com/track/4HQfCVd0qzkFhk5pVVaau3) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Behind you touch OST Part 7](https://open.spotify.com/album/0IIYULQmzQs1sNIPTH1Y3h) | 3:56 | 2023-10-20 | 2023-11-16 |
 | [Please Don't Cry](https://open.spotify.com/track/5pmhDbaeNG5Y31mCGK07JE) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6ZGUvD476odOT0J0SdK8L5) | 3:55 | 2021-12-23 | 2022-07-08 |

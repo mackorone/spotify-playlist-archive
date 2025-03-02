@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Leanna Crawford
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,373 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,488 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 79 | [Dancing With The Spirit](https://open.spotify.com/track/0KxL7D6y1TiLaGqZHXiowk) | [John Swinton](https://open.spotify.com/artist/4LbC44j7bgwWsQwEWY2Wry) | [Beautiful Songs About Difficult Things](https://open.spotify.com/album/6TvUBFhAcDH1u8L6dV8web) | 5:34 |
 | 80 | [Giving Up](https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [A New Reality \(Deluxe Version\)](https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf) | 3:35 |
 
-Snapshot ID: `Z7ll3AAAAADSNfzq+CtzQYyuppjf6/Yx`
+Snapshot ID: `Z7ll3AAAAABZnKnpD+7J8RZMp+ST2eTl`

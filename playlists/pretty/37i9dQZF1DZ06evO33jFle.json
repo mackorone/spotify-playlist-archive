@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 496287,
+  "num_followers": 496407,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAADqdX0s9pFiLX1fMHQbfYiP",
+  "snapshot_id": "Z8D8gAAAAAAB2CAxq1k7ox988X3ynoIi",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 309506,
-      "name": "Porque Me Gusta a Morir - Pop",
-      "url": "https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje a las Grandes",
         "url": "https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 309506,
+      "name": "Porque Me Gusta a Morir - Pop",
+      "url": "https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simplemente la Mejor",
         "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
@@ -811,30 +811,6 @@
       "duration_ms": 224533,
       "name": "Cuando Abras los Ojos",
       "url": "https://open.spotify.com/track/7DgqG1GwFqEN5tsNpCbTEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Misi\u00f3n Cumplida",
-        "url": "https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Jacqie Rivera",
-          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Pedacito de M\u00ed",
-      "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
     }
   ],
   "unique_name": "This Is Jenni Rivera",

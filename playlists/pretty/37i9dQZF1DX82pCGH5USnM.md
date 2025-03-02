@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,351,388 likes - 210 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,351,704 likes - 210 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 209 | [sugar coated](https://open.spotify.com/track/0VVYRDwTeoxoaN5Nlja1uC) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [sugar coated](https://open.spotify.com/album/2IHhxvmj4BJJmXrHDhfxfB) | 2:35 |
 | 210 | [Clues](https://open.spotify.com/track/5SMh7T6OHAemmIOZQtAAVt) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Clues](https://open.spotify.com/album/1iuVeUdGre6nzcKZ2UBiI0) | 2:48 |
 
-Snapshot ID: `Z7h1kQAAAAC7SZGbWEZ4JsEg2O2edgaE`
+Snapshot ID: `Z7h1kQAAAABUFA7j7PkLcH7KebUqnPjF`

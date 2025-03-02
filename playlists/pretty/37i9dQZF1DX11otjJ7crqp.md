@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: ADELA
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,503 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,761 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 60 | [Have to Know](https://open.spotify.com/track/3xcAR1HuL1QHSWfK0K9WQe) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [Have to Know](https://open.spotify.com/album/3d8eXK1rH361BG4aPrjkd5) | 2:16 |
 | 61 | [Say Something](https://open.spotify.com/track/0BXumCgm0URFmvr1lDnMZI) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Say Something](https://open.spotify.com/album/5OovV8k5IcxufGdpCSke9T) | 3:32 |
 | 62 | [the thought of you](https://open.spotify.com/track/7soIWeuH8iDZcqPVZv0zdq) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [the thought of you](https://open.spotify.com/album/7bKdJCihY713LPi5oqWL3X) | 3:39 |
-| 63 | [Trillion$ \(feat\. Bludnymph\)](https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Trillion$ \(feat\. Bludnymph\)](https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q) | 2:03 |
+| 63 | [Trillion$ \(feat\. bludnymph\)](https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Trillion$ \(feat\. bludnymph\)](https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q) | 2:03 |
 | 64 | [Feelin' Me](https://open.spotify.com/track/4r1jTs1lmktcQancAYdpLT) | [Kode](https://open.spotify.com/artist/6yEYr68BReibuoeyXQw79n) | [Feelin' Me](https://open.spotify.com/album/0s9puACwNBnVZU5xjyHNt9) | 2:52 |
 | 65 | [Magic or Medicine](https://open.spotify.com/track/634ImWy00OkeHFIg6exzKe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Magic or Medicine](https://open.spotify.com/album/2EAloEJnfnqiZJExj0gre2) | 3:03 |
 | 66 | [Say You Can Hear Me](https://open.spotify.com/track/0wdJdLpeDRC5OPf6idFNNh) | [June](https://open.spotify.com/artist/0j4sh69ln8Ga7IrQxIoxP5) | [Say You Can Hear Me](https://open.spotify.com/album/7N0kjonDLTmynfHo9j1OU7) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [New Beginnings](https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [New Beginnings](https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv) | 3:04 |
 | 100 | [Golden Years](https://open.spotify.com/track/6eBrf40nsRUyMlnVaqgfqH) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Golden Years](https://open.spotify.com/album/3aFNbp4ci5Q9bWgNOmzxjw) | 2:42 |
 
-Snapshot ID: `Z8ITmgAAAABzJeNXr/jrBy+oUDpvYZAb`
+Snapshot ID: `Z8ITmgAAAAChEgM7Ys8sfmY8UrkAWr1j`

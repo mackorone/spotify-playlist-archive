@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 3985007,
+  "num_followers": 3985509,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAABeomhso1Xnb8hnvqYc9Jtd",
+  "snapshot_id": "Z8D8gAAAAACR0KSu4PAlYtFAh/f4gTzT",
   "tracks": [
     {
       "added_at": null,
@@ -951,22 +951,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Murdergram Deux",
-        "url": "https://open.spotify.com/album/0XoE5ChBCxDA1oYfoJ8PtH"
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
       },
       "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 185456,
-      "name": "Murdergram Deux (feat. Eminem)",
-      "url": "https://open.spotify.com/track/7gXM8fCGg0SmRzAVySp3ie"
+      "duration_ms": 278640,
+      "name": "Space Bound",
+      "url": "https://open.spotify.com/track/0sHW1jXe6Sou3437gJQNGA"
     }
   ],
   "unique_name": "This Is Eminem",

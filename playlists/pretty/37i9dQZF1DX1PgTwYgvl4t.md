@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=DeEgaTTBRIOjMi1FQhK4nw>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,311 likes - 100 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,492 likes - 100 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 11 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 |
 | 12 | [God of Vengeance](https://open.spotify.com/track/49uKEYQfVMvvXdrKVskMhd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 9:17 |
 | 13 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
-| 14 | [Izurukeme](https://open.spotify.com/track/5K0wzd1xT77UkkTHHEtrxt) | [Grace Akakam](https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Izurukeme](https://open.spotify.com/album/7jl1P747R49lZOXW9nfFsO) | 5:38 |
+| 14 | [Izurukeme \- Live](https://open.spotify.com/track/5K0wzd1xT77UkkTHHEtrxt) | [Grace Akakam](https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Izurukeme \(Live\)](https://open.spotify.com/album/7jl1P747R49lZOXW9nfFsO) | 5:38 |
 | 15 | [Eze Ebube II](https://open.spotify.com/track/1qK1fMPy2pmY8igTDT6WQ6) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Nothing but the Gospel](https://open.spotify.com/album/0op0nK45r5sr0KiE8UGoRr) | 7:12 |
 | 16 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 |
 | 17 | [Oghene Do](https://open.spotify.com/track/3O0Wf0GHDyV2AAZQO0KSPz) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Unlimited \- Verse 1](https://open.spotify.com/album/3cBoClyLmO7nWQAVcPigPI) | 4:52 |

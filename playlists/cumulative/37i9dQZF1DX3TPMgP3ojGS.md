@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,808 songs - 3 day 9 hr 1 min
+1,810 songs - 3 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Chair](https://open.spotify.com/track/3lJdgFLbcFKLYWWBMCGjES) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Chair](https://open.spotify.com/album/3vbaSNyRCbwEi2kP6PxZo9) | 4:48 | 2022-01-26 | 2022-07-29 |
 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 | 2022-04-14 | 2022-04-20 |
 | [Changing Winds](https://open.spotify.com/track/2ISfaG0rITEpAUG2fe15UY) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Changing Winds](https://open.spotify.com/album/6mLB8sXi7oQRNEG1aIScPJ) | 3:13 | 2021-03-07 | 2021-05-06 |
-| [Chanson d’été](https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Chanson d’été](https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp) | 2:43 | 2023-09-05 |  |
+| [Chanson d’été](https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Chanson d’été](https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp) | 2:43 | 2023-09-05 | 2025-03-02 |
 | [Chasing Stars](https://open.spotify.com/track/0Ngo7SiCaF52cyNQWghHs1) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:22 | 2021-03-22 | 2022-04-18 |
 | [Che ricordarsi del tempo felice](https://open.spotify.com/track/0F2IGd7OdrD3P8yM2TJb2z) | [Seraghi](https://open.spotify.com/artist/1IBCumHV8JTujZVeLEaAGD) | [Che ricordarsi del tempo felice](https://open.spotify.com/album/5uDkSxYNFljm25qH820ux5) | 1:59 | 2021-03-10 | 2022-03-27 |
 | [Cherry Trees 桜](https://open.spotify.com/track/4YNhjGtSnzvyZCo3Gd5GPT) | [Asuka Eiko](https://open.spotify.com/artist/63uZjpJB9MlWSGMMlar4sK) | [Cherry Trees 桜](https://open.spotify.com/album/7ELmHiPBbnqSxEU1aIIaJ9) | 2:06 | 2021-05-30 | 2022-07-28 |
@@ -340,7 +340,7 @@
 | [Dahlias](https://open.spotify.com/track/0r0z0VyDa8X5fu3Kl6ybYi) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Dahlias](https://open.spotify.com/album/22hBdp6pvyZzEI3Fu8x58n) | 2:11 | 2022-03-29 | 2022-07-29 |
 | [Daj spokój](https://open.spotify.com/track/1pfOIDiq6T9lxMZdkk5Fhj) | [Aleksy Wysocki](https://open.spotify.com/artist/3GXTl6tHXIzPcthbBCEskf) | [Daj spokój](https://open.spotify.com/album/5QaOxxJw9QzOHgrWAnd8TK) | 2:15 | 2022-03-29 | 2022-03-31 |
 | [Dalur](https://open.spotify.com/track/35NEt3JvQshGEElCbF3bQx) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Brasstríó Mosfellsdals](https://open.spotify.com/artist/0ycyuU76SAJFSQPH4PjHHz) | [Island Songs](https://open.spotify.com/album/5CcftaBCfWfGMRnF2MwDic) | 3:59 | 2021-03-11 | 2022-04-16 |
-| [Dancing Dreams](https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Dancing Dreams](https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO) | 2:18 | 2024-01-04 |  |
+| [Dancing Dreams](https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Dancing Dreams](https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO) | 2:18 | 2024-01-04 | 2025-03-02 |
 | [Dancing Elves](https://open.spotify.com/track/4tR0kFyGPZHEsQLKQD6xGP) | [Stellan Johnson](https://open.spotify.com/artist/3aa8jvvUHqn1Bq6qASkzSF) | [Dancing Elves](https://open.spotify.com/album/2JrEFb6L7QvCnGssoq6QH0) | 3:15 | 2021-03-07 | 2022-04-20 |
 | [Dancing In The Moonlight](https://open.spotify.com/track/2Zb1tVGStQBP9nY6eZFtQF) | [Paula Davis](https://open.spotify.com/artist/6esB7tEDorg5rOaUqdkBic) | [Dancing In The Moonlight](https://open.spotify.com/album/5rwwrKxa71k5RNRBsGZDLZ) | 3:32 | 2021-03-21 | 2022-06-09 |
 | [Dandelions](https://open.spotify.com/track/3qjDHeV5JdvlSnYfs6PbpA) | [Enno Aare](https://open.spotify.com/artist/7eHcKVhaxOOTKJFZuu3x1h) | [Enno Aare](https://open.spotify.com/album/4bwyjd0Zmh114Y1tth2Vjv) | 1:38 | 2021-05-25 | 2022-04-03 |
@@ -1076,7 +1076,7 @@
 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2021-06-16 | 2022-07-28 |
 | [Notturno](https://open.spotify.com/track/6XhO3CKHqmmHVyIZQCAt1C) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Notturno](https://open.spotify.com/album/4ugobTFZdHqpUH1wbGiaJG) | 2:52 | 2021-04-23 | 2022-04-20 |
 | [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 | 2021-05-23 | 2022-04-10 |
-| [Nouvelles Tentatives](https://open.spotify.com/track/6rvmhiAd5jtT5CzLIcnj4p) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Nouvelles Tentatives](https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d) | 2:00 | 2022-12-22 | 2024-01-05 |
+| [Nouvelles Tentatives](https://open.spotify.com/track/6rvmhiAd5jtT5CzLIcnj4p) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Nouvelles Tentatives](https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d) | 2:00 | 2022-12-22 |  |
 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 | 2022-12-22 | 2023-04-26 |
 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 | 2021-03-23 | 2022-07-29 |
 | [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-12-22 | 2023-10-18 |
@@ -1443,7 +1443,7 @@
 | [Sternennacht](https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Wolken Traum](https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6) | 2:32 | 2023-01-17 | 2023-04-16 |
 | [Still](https://open.spotify.com/track/7Myr2rQatgwZshajT4pOCj) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Still](https://open.spotify.com/album/3Ko0u1P4mxYYrCHKgx5OdE) | 2:16 | 2021-10-01 | 2022-07-20 |
 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2022-03-29 | 2023-04-16 |
-| [Stille Sjø](https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Stille Sjø](https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI) | 2:31 | 2023-07-27 |  |
+| [Stille Sjø](https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Stille Sjø](https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI) | 2:31 | 2023-07-27 | 2025-03-02 |
 | [Stillness Speaks](https://open.spotify.com/track/0stOujjyKr7cENepVqUyaY) | [Yuki Sakura](https://open.spotify.com/artist/1p5jb8JeNI3MudhAnDbCKK) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 2:47 | 2022-04-14 | 2022-04-18 |
 | [Stone On The Water](https://open.spotify.com/track/0tIoyFgdXlOLdWD2kqTXvV) | [Silver And Nothing](https://open.spotify.com/artist/5VcqvbSVYMJWhhaSbF2LlY) | [Fog](https://open.spotify.com/album/6GDXHvXAZitbxqWasaWpD2) | 2:46 | 2021-05-13 | 2021-12-21 |
 | [Stopping Time](https://open.spotify.com/track/0js14vR9MeVM9Cg4EMTcYb) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Carousel](https://open.spotify.com/album/2QYvsvHJdg9V3mcxDXzTMH) | 2:27 | 2021-05-23 | 2022-04-14 |
@@ -1464,6 +1464,7 @@
 | [Sunday Stroll](https://open.spotify.com/track/21WB4fVPMcelZNbU5rJkXd) | [Benny Treskow](https://open.spotify.com/artist/2cmnSOigupTavZv9krPs4I) | [Sunday Stroll](https://open.spotify.com/album/0hgrTJHMZ0UEWfqmEeWevU) | 3:18 | 2021-03-16 | 2022-04-06 |
 | [Sunday Walk](https://open.spotify.com/track/16weBcKoT5JR4PjgFywQPO) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Sunday Walk](https://open.spotify.com/album/1BYrkKeypnXI3MzODZaSZC) | 2:22 | 2021-08-17 | 2022-07-21 |
 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 | 2021-03-07 | 2021-03-08 |
+| [Sunrise](https://open.spotify.com/track/4W4kAu3nU0Zp8WH7owpjbn) | [Moises Daniel](https://open.spotify.com/artist/2Us8yrg0LpTXcp6KNfhSKL), [Cristian Vivaldi](https://open.spotify.com/artist/3SVGtGLA9kap5qlxX4WyBb) | [Sunrise](https://open.spotify.com/album/6S2rNFHmusMfzbibhyDXrb) | 2:01 | 2025-02-28 |  |
 | [Sunset](https://open.spotify.com/track/2DJQoV3oQqlWAwWUK3f5Xk) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Sunset](https://open.spotify.com/album/4p9U3xJQgLvujcLd6SXeBo) | 4:11 | 2021-03-10 | 2022-06-20 |
 | [supine](https://open.spotify.com/track/7IMGJM5S0YYcQhvtdeJH14) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [hopes](https://open.spotify.com/album/2XdFgoXMYe0EXNtvJv3VA8) | 3:28 | 2021-03-08 | 2022-07-28 |
 | [Suvi](https://open.spotify.com/track/180sqT5oq8Vcxob0B39CIu) | [Oscar Sundberg](https://open.spotify.com/artist/6dqgUbsMsMRsWoRnuibxwl) | [Suvi](https://open.spotify.com/album/4bLauhS6WHuvbXKKhpb7X4) | 5:04 | 2021-03-06\* | 2022-04-21 |
@@ -1782,6 +1783,7 @@
 | [Wishful Wanderer](https://open.spotify.com/track/5husUYtd9ElDB9PD4HydC0) | [Echo Whisperer](https://open.spotify.com/artist/7KOsbhLZ2NZUBx6VNOJSjK) | [Spaces EP](https://open.spotify.com/album/6GKOSpGxG4x0G0Bo75pdcW) | 2:54 | 2021-05-06 | 2022-04-09 |
 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 | 2021-05-23 | 2022-04-05 |
 | [Within the Light](https://open.spotify.com/track/5XEQ6jikGETqgv35kIKGZN) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Within the Light](https://open.spotify.com/album/1FcJUiNxamA08n20zaHHMT) | 1:59 | 2021-03-19 | 2022-01-12 |
+| [Without End](https://open.spotify.com/track/5w3O0ONMHCM9YmTS96fplL) | [Aksel Krystad](https://open.spotify.com/artist/6HWqfAvhFGVzX04XxDZBVw) | [Without End](https://open.spotify.com/album/7ICabDvPYVzaAOL0Nt7JxD) | 2:12 | 2025-02-28 |  |
 | [Wonder](https://open.spotify.com/track/0LRjR9cx8rJDYTRIHq7rxp) | [Arelius](https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH) | [Lucid Dreamin' II](https://open.spotify.com/album/7jufASRTIagXI2lw0SYz6W) | 2:42 | 2021-03-17 | 2022-07-29 |
 | [Wonderful](https://open.spotify.com/track/0soyvMFsfcmtWeHdjVyqZt) | [Felix Brady](https://open.spotify.com/artist/4L69gOibhFyjFlwzH2uSOf) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 1:45 | 2021-04-30 | 2022-04-18 |
 | [Wonderland](https://open.spotify.com/track/6E5PacZi1ckJC126CCOG30) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Distant Lovers](https://open.spotify.com/album/3GhSTFSSS851A5sykAVh0T) | 3:46 | 2021-05-12 | 2022-05-07 |

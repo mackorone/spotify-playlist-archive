@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Maria Marçal
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,788 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,838 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 26 | [O Senhor Cuida \- Ao Vivo](https://open.spotify.com/track/3Gy6wsIXphXDuAfncLWYuX) | [Dilson e Débora](https://open.spotify.com/artist/3i21tba5PzQz8F5HuwyIHV) | [O Senhor Cuida \(Ao Vivo\)](https://open.spotify.com/album/3MryD2WKvAtS6cYBlJXZEw) | 3:58 |
 | 27 | [Minhas Guerras \- Ao Vivo](https://open.spotify.com/track/1fW8xtqSVDNpu4Cd7wPHnk) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Minhas Guerras \(Ao Vivo\)](https://open.spotify.com/album/3IDPCbBPLlIxvleR1o9rYs) | 6:02 |
 | 28 | [Poderoso Deus Eterno \- Acústico, Ao Vivo](https://open.spotify.com/track/1Zr8kCDiHfUz6pp5HWYx92) | [Davi Silva](https://open.spotify.com/artist/37MmnavknAY8Z2ICERRshR) | [Poderoso Deus Eterno \(Acústico, Ao Vivo\)](https://open.spotify.com/album/67DVYznMJw7YLG90ejp4cU) | 8:36 |
-| 29 | [Abba](https://open.spotify.com/track/5mOddgnUBZpcrBAkWHAT0a) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Alda Cristina](https://open.spotify.com/artist/0bZdkwbru9Rl3FhR88Fqjn) | [Abba](https://open.spotify.com/album/7o9KH1OFVlNSln5CAY4ZSD) | 3:57 |
+| 29 | [Abba](https://open.spotify.com/track/5mOddgnUBZpcrBAkWHAT0a) | [Bridge Music](https://open.spotify.com/artist/2lJWeO8o4Khn1VYEATXCGu), [Alda Cristina](https://open.spotify.com/artist/0bZdkwbru9Rl3FhR88Fqjn) | [Abba](https://open.spotify.com/album/7o9KH1OFVlNSln5CAY4ZSD) | 3:57 |
 | 30 | [Doce Espírito Santo](https://open.spotify.com/track/162jojYSuMs6bcx5PTdHqx) | [Voz da Verdade](https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71) | [Adoração Ao Vivo](https://open.spotify.com/album/56qYbYLWPXO0rkVGnbZf90) | 4:46 |
 | 31 | [Pras Ruas](https://open.spotify.com/track/5sAxbzHGL30TKkhANWi2ba) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Bruninho Music](https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH) | [Pras Ruas](https://open.spotify.com/album/5TaW5Rl4zs4SEEMu1Js791) | 2:02 |
 | 32 | [Se Deixe Esperar](https://open.spotify.com/track/5hEAmlJ02hoS4YZkJFpwcB) | [Ramon Souza](https://open.spotify.com/artist/3bqS6A6x0RAu3CBVqO2LZ6), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Luzêro Música](https://open.spotify.com/artist/2uiFA0jjuiJz49cIKMZJ5F), [Marcellus Alexandria](https://open.spotify.com/artist/4Y9eiLQ0hICayn0fad1Aym), [Bennett Oliveira](https://open.spotify.com/artist/4oGDlPgfUGrDRr63uRnRb0) | [Se Deixe Esperar](https://open.spotify.com/album/6oNL2wfpeUMj7UBld7a9xH) | 3:26 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 42 | [Tu És Adorado \(Ao Vivo\)](https://open.spotify.com/track/2x1LrvS6AfBi6GrvThO1Dq) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Tu És Adorado \(Ao Vivo\)](https://open.spotify.com/album/1DPWHuAlBBR6F2rPP2MRSA) | 6:09 |
 | 43 | [Quanto Amor](https://open.spotify.com/track/0ESdbWX5FlQzG3qk4Yxcte) | [Lydia Moisés](https://open.spotify.com/artist/08zojAOoMjfirGuUAN0QZ2) | [Quanto Amor](https://open.spotify.com/album/2F8rLZkbsYYjjB5vL9D0s0) | 4:23 |
 | 44 | [Yahweh, Te Amamos \- Ao Vivo](https://open.spotify.com/track/4RAz01RHYWyn0AeYCmEvm2) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Get Global](https://open.spotify.com/artist/4KCvIoI7ZAoF3BiwEtueSM), [Lucas Torres](https://open.spotify.com/artist/29WMpX77gzc1kqZDApsy8n) | [Yahweh, Te Amamos \(Ao Vivo\)](https://open.spotify.com/album/10lx2QFoas3aRg8sSCzUQK) | 7:21 |
-| 45 | [Deus na Minha História \- Cover](https://open.spotify.com/track/01DYbmbEQmxZ4g0FH7R2Sn) | [Mari Rocha](https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6) | [Deus na Minha História \(Cover\)](https://open.spotify.com/album/0AZMTlAIXhWO6j6tHStBKo) | 3:49 |
+| 45 | [Deus na Minha História](https://open.spotify.com/track/01DYbmbEQmxZ4g0FH7R2Sn) | [Mari Rocha](https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6) | [Deus na Minha História](https://open.spotify.com/album/0AZMTlAIXhWO6j6tHStBKo) | 3:49 |
 | 46 | [Deus Cuida \(Feat\. Junior e Danielle dos Passos\)](https://open.spotify.com/track/5VWVFF5mX1eLzXzA4iVJlU) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt) | [Deus Cuida \(Feat\. Junior e Danielle dos Passos\)](https://open.spotify.com/album/1zkJUFgN4XfCVEimT4egqu) | 4:27 |
 | 47 | [Quero Mergulhar](https://open.spotify.com/track/6iQFVUszmArhHxrJUBRwSL) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6), [André Cavalcante](https://open.spotify.com/artist/7LNwdGKKXpM9DXEx3TagtG) | [Sobre a Rocha, Vol.1](https://open.spotify.com/album/0mU9HvEibUSI6H11KjaGMJ) | 3:13 |
 | 48 | [Faz uma Obra](https://open.spotify.com/track/5hzHKK9HRPbd9DvZcyDQqT) | [Tiago Rocha](https://open.spotify.com/artist/7nzXefZIeFGsKLMIQoFeIY) | [Coisas Boas](https://open.spotify.com/album/4YsPZk1lAGfbOSAqpAH312) | 4:43 |

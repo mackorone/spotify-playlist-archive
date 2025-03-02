@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Lefty Gunplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,804 likes - 40 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,822 likes - 40 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 39 | [2+2](https://open.spotify.com/track/3JB3u2A7BrgIn0y3WvNm64) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [2+2](https://open.spotify.com/album/7qjNk2utrc3cKe5d3fMpuV) | 3:25 |
 | 40 | [City Lights](https://open.spotify.com/track/2nxbZP0frGbngtmhon31M5) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw) | [City Lights](https://open.spotify.com/album/6wzAOADNQiJazo1RbGevMT) | 2:27 |
 
-Snapshot ID: `Z5yZRwAAAAAQgfIseSqOsStUb3oSMkq1`
+Snapshot ID: `Z5yZRwAAAADEJBgQZmAetS6Q3TWvoonc`

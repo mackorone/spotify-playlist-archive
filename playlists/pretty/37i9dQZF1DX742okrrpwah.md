@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Benson Boone au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,576 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,614 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 89 | [Macondo](https://open.spotify.com/track/1oOTr5BciioYUpnj2hCtDR) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [VEGETAL DIGITAL](https://open.spotify.com/album/3Krl6CyMlkfAVnVhSyCmiO) | 3:55 |
 | 90 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 |
 
-Snapshot ID: `Z8FrxgAAAACSMHARIIzMM0+PYf9Sqd8B`
+Snapshot ID: `Z8FrxgAAAACbDvwLc0golMCOzjXPR5u/`

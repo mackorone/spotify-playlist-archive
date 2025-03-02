@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > At the top of this playlist, we're honoring the rising artist who are carrying their family's musical legacy\. Cover: <a href="spotify:artist:0n4Fao9kbjgM76RmVlfSwr">YG Marley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,454 likes - 65 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,528 likes - 65 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

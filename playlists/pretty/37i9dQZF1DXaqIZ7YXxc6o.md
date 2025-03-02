@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,834 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,836 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Hey Mama](https://open.spotify.com/track/72LAj7rRuaTYgABJwjfYZe) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Hey Mama](https://open.spotify.com/album/0dkX3ahs8NzfJrLWIFnOFX) | 3:06 |
 | 100 | [volar](https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [The Driving Towards The Sunset Tapes](https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL) | 3:59 |
 
-Snapshot ID: `Z8BiIwAAAACl0zUXVwUxyNeAcavFijRK`
+Snapshot ID: `Z8BiIwAAAACGZgrCPVPcBddYD9lixyB+`

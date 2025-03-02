@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 BURNART FESTIVAL 2월 1일\(토\) 18:20 @ 킨텍스 1전시장 5홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,532 likes - 19 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,539 likes - 19 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 18 | [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 |
 | 19 | [ocean waves](https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [ocean waves](https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT) | 3:40 |
 
-Snapshot ID: `Z5jeEAAAAACXA5AoKpWDXeq/8e0z3hHC`
+Snapshot ID: `Z5jeEAAAAACSDrwF0stvZmf4INdQ76L4`

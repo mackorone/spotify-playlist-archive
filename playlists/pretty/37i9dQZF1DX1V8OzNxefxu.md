@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 
 > Quelques chansons tranquilles pour des moments tendres et complices
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,043 likes - 68 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,044 likes - 68 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 37 | [Pourtant](https://open.spotify.com/track/2Y53CuS1lihvQPh2kQrpea) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Bliss](https://open.spotify.com/album/5ks6A7kl0RWnqejf2k5cnu) | 3:36 |
 | 38 | [La bonne étoile \(Duo dub\) \[feat\. Ariane Moffat\]](https://open.spotify.com/track/65XxFc7ir5H4iUWlfCfBRW) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Ariane Moffat](https://open.spotify.com/artist/6WCfv3ApgE7lAYwW9NY8GO) | [La bonne étoile](https://open.spotify.com/album/5m5Qe4fwmXtLjlADVsO0bB) | 4:12 |
 | 39 | [La vie c'est quoi ?](https://open.spotify.com/track/2ApNTgwQpO1X64nCT8sXWn) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Malou Harel](https://open.spotify.com/artist/6ttO3F8QBMsaaEA7NCPLTI) | [Enfantillages 3](https://open.spotify.com/album/77kv2o5PJeW3mim1yWPiMA) | 3:04 |
-| 40 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [La tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
+| 40 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
 | 41 | [Il y a](https://open.spotify.com/track/0F6ju9gPE2nUiqOgixQFZ9) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 3:03 |
 | 42 | [J'm'en fous](https://open.spotify.com/track/51kz0pS0t6ZjcKX1quyQAK) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 4:21 |
 | 43 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 51 | [La sieste](https://open.spotify.com/track/0Hac68gGmbJEDbcWsOQReb) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Le Soldat Rose 2](https://open.spotify.com/album/0VoSSoBOjDUqrUZDxEQ7Br) | 3:17 |
 | 52 | [Le baiser](https://open.spotify.com/track/5mVzrfnZncbgZsUGcj2DkU) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 4:10 |
 | 53 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
-| 54 | [L'opéra](https://open.spotify.com/track/6xv4Qaypw08v8OceC9cXrY) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Yves Duteil chante les enfants](https://open.spotify.com/album/5zdcIJG9qVGmKL7qb1Wjx3) | 2:35 |
+| 54 | [L'Opéra](https://open.spotify.com/track/6xv4Qaypw08v8OceC9cXrY) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Chante les enfants](https://open.spotify.com/album/5zdcIJG9qVGmKL7qb1Wjx3) | 2:35 |
 | 55 | [Nombreux](https://open.spotify.com/track/59HKbTnmmFONvKLAPuc9rF) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:12 |
 | 56 | [Berceuse](https://open.spotify.com/track/6mnMwe0WKllbqt5rnQfOBj) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur De Pirate](https://open.spotify.com/album/71fry0hY8cte1dlWqIhPM3) | 2:03 |
 | 57 | [Maman la plus belle du monde](https://open.spotify.com/track/0ukbu6NoORtz3cXYMIYHU7) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chante Pour Les Enfants](https://open.spotify.com/album/1cm600Ii9ImBKz8EY9uego) | 3:12 |

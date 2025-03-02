@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > El amor según Tino El Pingüino
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,164 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,146 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 49 | [SHIPEA2](https://open.spotify.com/track/5WubwFeDNEzOw9wZm5VKdg) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [EL DISKO](https://open.spotify.com/album/7tZMfTQrPSM7STInq5mDed) | 3:27 |
 | 50 | [La Asimetría Según Cardin](https://open.spotify.com/track/4U09Dsa20zQ5ducUTJEmB8) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF), [Old Boy](https://open.spotify.com/artist/51Hzg7o9NLB2aCWX7YK4Nt) | [Tu Antihéroe Favorito](https://open.spotify.com/album/19ntSsV1bPOl8Twys0bZIr) | 5:16 |
 
-Snapshot ID: `Z65eFQAAAABcsMzSPJS4fd/G1jAirCVj`
+Snapshot ID: `Z65eFQAAAAADXAFQhLTJVdXNM3ebbems`

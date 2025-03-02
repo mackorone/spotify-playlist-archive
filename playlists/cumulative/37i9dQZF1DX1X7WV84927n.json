@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "90 Seconds To Midnight",
+        "url": "https://open.spotify.com/album/2rzgXrtLDm0MSy1xCns9yV"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "90 Seconds To Midnight",
+      "url": "https://open.spotify.com/track/2AiR5oaCmZX5pEQwZda4IY"
+    },
+    {
+      "album": {
         "name": "A Banger A Day Keeps The Doctor Away",
         "url": "https://open.spotify.com/album/44YwGDqhcIbzprf301vs2Q"
       },
@@ -16922,7 +16940,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 180625,
       "name": "SOWHAT1999",
       "url": "https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q"

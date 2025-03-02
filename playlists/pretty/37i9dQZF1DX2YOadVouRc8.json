@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 32771,
+  "num_followers": 32797,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Z8F6RwAAAABFxh3BGOtzvoG9uqR7nKa7",
   "tracks": [
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
+        "name": "Arike",
+        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 124286,
+      "name": "Arike",
+      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
+    },
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
@@ -47,22 +63,6 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
-        "name": "Arike",
-        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 124286,
-      "name": "Arike",
-      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -136,7 +136,7 @@
           "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "Bnxn",
+          "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 202958,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 205373,
       "name": "Slow (feat. Ana\u00efs Cardot)",
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 202958,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -328,29 +328,13 @@
       },
       "artists": [
         {
-          "name": "Bnxn",
+          "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
       "duration_ms": 202861,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "A Million Blessings",
-      "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -407,6 +391,22 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "A Million Blessings",
+      "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
         "name": "original",
         "url": "https://open.spotify.com/album/0nlBISQDS8BpUMnclrGOhh"
       },
@@ -459,22 +459,22 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Piece of My Heart (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+        "name": "Compose",
+        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 259354,
-      "name": "Piece of My Heart (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+      "duration_ms": 144000,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -495,26 +495,6 @@
       "duration_ms": 124865,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/4elt86Mgijb74wnuO1nTcG"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
-        "name": "Compose",
-        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Compose",
-      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -595,6 +575,26 @@
       "duration_ms": 182727,
       "name": "Saint Tropez",
       "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 178310,
       "name": "Timing",
       "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
+        "name": "No Games",
+        "url": "https://open.spotify.com/album/28CpcoXaOfvnzgNsY9xB5B"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 169843,
+      "name": "No Games",
+      "url": "https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
         "name": "It'll All Make Sense Later",
         "url": "https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "No Games",
-        "url": "https://open.spotify.com/album/28CpcoXaOfvnzgNsY9xB5B"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 169843,
-      "name": "No Games",
-      "url": "https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/2TRDihrw7kDXw7Gu5mrJ7E"
       },
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Yo My Gee",
-        "url": "https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3"
+        "name": "Dis Kain Luv",
+        "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
       },
       "artists": [
         {
-          "name": "Vusic",
-          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
         }
       ],
-      "duration_ms": 154455,
-      "name": "Yo My Gee",
-      "url": "https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3"
+      "duration_ms": 152565,
+      "name": "Dis Kain Luv",
+      "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Dis Kain Luv",
-        "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
+        "name": "Yo My Gee",
+        "url": "https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3"
       },
       "artists": [
         {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
         }
       ],
-      "duration_ms": 152565,
-      "name": "Dis Kain Luv",
-      "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
+      "duration_ms": 154455,
+      "name": "Yo My Gee",
+      "url": "https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
         }
       ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+      "duration_ms": 167052,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
       },
       "artists": [
         {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 167052,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 129576,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1183,6 +1167,22 @@
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 129576,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Finding Nimo Series: The Capsule",
-        "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 156212,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
         "name": "With The Most & Friends (Vol 1)",
         "url": "https://open.spotify.com/album/4pjFTm9bnvxBIhdhWcUxR8"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 153531,
       "name": "In You",
       "url": "https://open.spotify.com/track/6eXJJ8cGBTTIJFXC3Wn9Sq"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
+        "name": "Finding Nimo Series: The Capsule",
+        "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 156212,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
     },
     {
       "added_at": "2025-02-28 08:56:39",

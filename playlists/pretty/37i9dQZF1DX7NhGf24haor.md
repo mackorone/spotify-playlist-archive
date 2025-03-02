@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Lady Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,213 likes - 87 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,360 likes - 87 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Law \- \(Lady Faith Remix\)](https://open.spotify.com/track/0rPhT8Ix80LaO0JtagvlgK) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Lady Faith](https://open.spotify.com/artist/1va2Hj3SvWvu3L6jAN6k01) | [Untamed](https://open.spotify.com/album/0PRpOoWY4btRBY5zWNk5f3) | 4:11 |
+| 1 | [The Law \- Lady Faith Remix](https://open.spotify.com/track/0rPhT8Ix80LaO0JtagvlgK) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Lady Faith](https://open.spotify.com/artist/1va2Hj3SvWvu3L6jAN6k01) | [Untamed](https://open.spotify.com/album/0PRpOoWY4btRBY5zWNk5f3) | 4:11 |
 | 2 | [Gekkenhuis](https://open.spotify.com/track/50YtDweB0gTi03ym25nF9J) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Gekkenhuis](https://open.spotify.com/album/3T4uVJnsaLcmXYSwIRuIl3) | 3:15 |
 | 3 | [New Beginning](https://open.spotify.com/track/7wyIElZrbbRYejRmRAoHn4) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [New Beginning](https://open.spotify.com/album/0AbqHKp7II87GJzFz6ULk5) | 3:21 |
 | 4 | [Created By Legends](https://open.spotify.com/track/18cS9a6ZBrENeIwZrYOLwh) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4) | [Created By Legends](https://open.spotify.com/album/6RmTDMfzE27rfRgpP5RHa4) | 3:41 |

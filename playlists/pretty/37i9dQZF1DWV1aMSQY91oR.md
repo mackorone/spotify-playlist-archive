@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,909 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,930 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 40 | [Something About You Freestyle](https://open.spotify.com/track/1A7vpMKOV569xd7mNW6rTG) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Something About You Freestyle](https://open.spotify.com/album/6AimioywwONh1yJrJjw7BT) | 1:59 |
 | 41 | [No Chase](https://open.spotify.com/track/3NBu3BVe2Ao4F2QZTvTpH2) | [Derin Falana](https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG) | [No Chase](https://open.spotify.com/album/5EOQow1sEKGdbzujev3VJg) | 2:43 |
 | 42 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 |
-| 43 | [Sunniest of Days](https://open.spotify.com/track/2M67lkdHNlwa8b7ZI9YspZ) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [FRANKY](https://open.spotify.com/artist/04AxUrBccFZ7tZGk7AdLfp) | [Sunniest of Days](https://open.spotify.com/album/7aCkvaO4dkckNpOTQKt9ys) | 2:55 |
+| 43 | [Sunniest of Days](https://open.spotify.com/track/2M67lkdHNlwa8b7ZI9YspZ) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [FRANKY](https://open.spotify.com/artist/04d71X1nlWEjnTEhKH64wf) | [Sunniest of Days](https://open.spotify.com/album/7aCkvaO4dkckNpOTQKt9ys) | 2:55 |
 | 44 | [Raw](https://open.spotify.com/track/2ODZahqHNBFnD2WVzKYhT6) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Raw](https://open.spotify.com/album/0JHzXBYhpe1yFcieMfjxfC) | 2:07 |
 | 45 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 46 | [Histoire vraie](https://open.spotify.com/track/1F2nAQXGgdOEbsoqWfsIRA) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Ronto Beats](https://open.spotify.com/artist/4QB9j29y54NT50Z6ysCn4w) | [Histoire vraie](https://open.spotify.com/album/1lMHnRNhrgCjfX3MANu8ZY) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Lamb Talk](https://open.spotify.com/track/0iAyNYSbZaeG3p8L4iwxue) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Lamb Talk](https://open.spotify.com/album/0qRLa7PmcNJ8nsc9nseXYk) | 2:38 |
 | 50 | [Ya Get Dat](https://open.spotify.com/track/3rEL8kOlF1Ppxn8QoK6HOk) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Ya Get Dat](https://open.spotify.com/album/3gc5hhDCc1sl7BCGGUpSwx) | 2:10 |
 
-Snapshot ID: `Z8I+9gAAAACli/HQjcgXTX7ONRjFLZ/L`
+Snapshot ID: `Z8I+9gAAAAD8aeVja6WfBzIok/w8erh1`

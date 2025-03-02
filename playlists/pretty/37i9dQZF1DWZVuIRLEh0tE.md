@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Lil Naay
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,175 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,301 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 47 | [Si Tu Quieres](https://open.spotify.com/track/4h3XCMbwm3rR1PTYcT336q) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Si Tu Quieres](https://open.spotify.com/album/5B24tq54Yl9gCYrqHW0Idz) | 2:30 |
 | 48 | [Otra Nota](https://open.spotify.com/track/0LDPdiPQrUzrZttGLtFlpc) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Otra Nota](https://open.spotify.com/album/3b44DcOGa7bUdBvri8wSQ9) | 3:12 |
 | 49 | [Privado](https://open.spotify.com/track/1B05xJqRRDKnbOfdXmHuny) | [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu) | [Privado](https://open.spotify.com/album/74vIGlSsoJ9x2NtnJ0Wyog) | 3:32 |
-| 50 | [Corazón de Acero](https://open.spotify.com/track/1giogPOaw2sIYirvppUSbZ) | [D Jam Saw](https://open.spotify.com/artist/0aUQapby1rTJ1qTkcyx6XQ), [Santos Dinasty](https://open.spotify.com/artist/10XNbmHoSZL0m1KZ9NWTID) | [Corazón de Acero](https://open.spotify.com/album/3pByvWUBQ2B08ZS4bW5mh0) | 2:02 |
+| 50 | [Corazón de Acero](https://open.spotify.com/track/1giogPOaw2sIYirvppUSbZ) | [D Jam Saw](https://open.spotify.com/artist/0aUQapby1rTJ1qTkcyx6XQ), [Santo Dinasty](https://open.spotify.com/artist/7fRLPKwkbzrSsPSh7RlDCz) | [Corazón de Acero](https://open.spotify.com/album/3pByvWUBQ2B08ZS4bW5mh0) | 2:02 |
 | 51 | [Me Hace Falta](https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Hace Falta](https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO) | 3:01 |
 | 52 | [Soltera](https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Soltera](https://open.spotify.com/album/4BrGUL0D3eHAvh1Xc3btqP) | 2:26 |
 | 53 | [Bad Boy](https://open.spotify.com/track/0TIpK09GXJWlpnmNxVU7VH) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Tayrel](https://open.spotify.com/artist/3SSHYMpZjG2zWw5YfOUsFV) | [Sagitario II](https://open.spotify.com/album/2HSaamuCEebY0DMQQEGm5x) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 99 | [Aparentas](https://open.spotify.com/track/3PQ2dI48s5BCDsFXIMPkSl) | [Prisy Pcoreta](https://open.spotify.com/artist/1K7muR7t7FX1p7iHH1z3fL), [JBD JBD](https://open.spotify.com/artist/6Vb569o8eCrfzHV3YAW8SK) | [Aparentas](https://open.spotify.com/album/7pVwboiIwH1hG6muFBWwha) | 2:49 |
 | 100 | [Hay Bobo Mami](https://open.spotify.com/track/3OPrjDe1ymWchYz2JFa7Ae) | [26 Music](https://open.spotify.com/artist/2k245hS7oLmevgWH1ngZ28), [Rochy Rd](https://open.spotify.com/artist/2toUCqO30OxM1cS5U3uZW5), [El Virus El Preso](https://open.spotify.com/artist/4auf953JHxsrrQTY0G9RzL) | [Hay Bobo Mami](https://open.spotify.com/album/31Bfwm5u1AABrnLMYi9DOG) | 2:22 |
 
-Snapshot ID: `Z8FC+wAAAADuaO14qyj6i+Kufb7Vj9FK`
+Snapshot ID: `Z8FC+wAAAAD7n+OLw40p0mfIwC/Xpamo`

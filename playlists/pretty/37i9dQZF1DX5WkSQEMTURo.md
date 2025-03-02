@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WkSQEMTURo.md) - [plain]
 
 > Everyone deserves a happy ending\. Listen to the music from the Deadpool series, including Deadpool & Wolverine, now playing in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,690 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,746 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WkSQEMTURo.md) - [plain]
 | 75 | [Four Or Five Moments](https://open.spotify.com/track/54xdRclgMURz3qDo00y7V9) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Deadpool \(Original Soundtrack Album\)](https://open.spotify.com/album/6VYJa5gmoecpJavlgh0BHH) | 0:54 |
 | 76 | [A Face I Would Sit On](https://open.spotify.com/track/5UrcQeUlODNVern9Dk9w5b) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Deadpool \(Original Soundtrack Album\)](https://open.spotify.com/album/6VYJa5gmoecpJavlgh0BHH) | 3:07 |
 
-Snapshot ID: `ZrueqgAAAADK1bfllTvnHn9g/Pt+U1RS`
+Snapshot ID: `ZrueqgAAAAAxClM67mtpEUTv4umo2Q4y`

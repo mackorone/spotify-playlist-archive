@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Dei V, Myke Towers, Tito Double P, RaiNao and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,182 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,054 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 18 | [LAS LOCAS](https://open.spotify.com/track/5hL5HGnYdu5jwhvphRZMpT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [LAS LOCAS](https://open.spotify.com/album/15FgU4bKkshUdxg8oyDnuk) | 3:12 |
 | 19 | [adioseuropa:\(](https://open.spotify.com/track/1XKf9wemYKvd1AUfRT5BYk) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [adioseuropa:\(](https://open.spotify.com/album/14Ov5lz4PLUgligb4ORBW3) | 3:40 |
 | 20 | [Superextraño](https://open.spotify.com/track/3PqIjhaeM3EHhKcRsILaxB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Superextraño](https://open.spotify.com/album/2kBcpKY13cIwUQDMrvrFrR) | 3:41 |
-| 21 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender \(Clean\)](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
+| 21 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
 | 22 | [Lo Que Siento Por Ti](https://open.spotify.com/track/1OUpvfSlNI2uZYV18H0AWH) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Lo Que Siento Por Ti](https://open.spotify.com/album/5qS04vGQcavpikBHrhOULC) | 5:11 |
 | 23 | [Daddy \(feat\. Sexyy Red\) \- Vandalized Edit](https://open.spotify.com/track/2sb27UopO5ME6MdymutVnV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\) \[Vandalized Edit\]](https://open.spotify.com/album/2k0tmoYn3bI1hmIjeIbWQl) | 3:12 |
 | 24 | [LUV ALLERGIC](https://open.spotify.com/track/06aWFkZu8fuSmNTJ5hOjL2) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [LUV ALLERGIC RELOADED](https://open.spotify.com/album/4LwJs7StXzrwsQTAuGhu6G) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana ✨ cover: centomilacarie
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,190 likes - 104 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,199 likes - 104 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 3 | [solite cose](https://open.spotify.com/track/5q49W8e8ZOy1wO9MIpL8RR) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:00 |
 | 4 | [il ritmo delle cose.](https://open.spotify.com/track/2BptnzpcLO9NAdNdKh2rZy) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [il ritmo delle cose.](https://open.spotify.com/album/14o2gMXu5mcQehz5n3YnfU) | 3:12 |
 | 5 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 |
-| 6 | [Beauty Star \(feat\. ELASI\)](https://open.spotify.com/track/3C7il7dWDBrw98S67rSyBg) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Beauty Star](https://open.spotify.com/album/7JYCPIrgcjGoEFdyfyxV7Z) | 4:00 |
+| 6 | [Beauty Star \(feat\. ELASI\)](https://open.spotify.com/track/3C7il7dWDBrw98S67rSyBg) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Beauty Star \(feat\. ELASI\)](https://open.spotify.com/album/7JYCPIrgcjGoEFdyfyxV7Z) | 4:00 |
 | 7 | [Arrogante](https://open.spotify.com/track/3UuwtjGqAUXecKbpoLrrpp) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [Arrogante](https://open.spotify.com/album/0UWo2I8q76plSrf6V8emw8) | 2:23 |
 | 8 | [Saracinesche](https://open.spotify.com/track/1hIPsGnGDIHzqqU7T9T6VD) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/7Gwomavjv5whQupOwjbzgP) | 3:31 |
 | 9 | [FEBBRE](https://open.spotify.com/track/2no1HLYjXuCpr4Gf4XVhXg) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [FEBBRE](https://open.spotify.com/album/5RetRrT1ek0vcw7ppAEVAN) | 3:12 |

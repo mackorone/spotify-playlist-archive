@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Emilia y Luisa Sonza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,882 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,005 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Corazón](https://open.spotify.com/track/5VuD8P5uxdmMtEqilaD9ei) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [Corazón](https://open.spotify.com/album/20nHeRAh2CAtRAMw2jyAXh) | 2:20 |
 | 100 | [humo](https://open.spotify.com/track/0iWfvASJzzcbFDgmJxNkGP) | [Crash](https://open.spotify.com/artist/5AIFs6bO6XZLbfeTplCHkL) | [humo](https://open.spotify.com/album/3f3VgchcFmVzhPMYeLiNTQ) | 1:58 |
 
-Snapshot ID: `Z7fsTwAAAAD7HR0yYcQkRj54Xpw3ZOBg`
+Snapshot ID: `Z7fsTwAAAAAXUt1Wk+uoG5XmZ+4x6aAS`

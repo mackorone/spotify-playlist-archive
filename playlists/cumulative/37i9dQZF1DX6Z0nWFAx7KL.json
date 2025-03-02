@@ -379,6 +379,32 @@
     },
     {
       "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        },
+        {
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143161,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g"
+    },
+    {
+      "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
       },
@@ -1082,7 +1108,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 146730,
       "name": "Can't Stop Thinking",
       "url": "https://open.spotify.com/track/2myJ5PdhaDCRV2KUUIDEr6"
@@ -1932,7 +1958,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 232991,
       "name": "Everything Changes But Us",
       "url": "https://open.spotify.com/track/1ASSOK89dWkRbMNIbNgIT8"
@@ -2152,6 +2178,28 @@
       "duration_ms": 157401,
       "name": "Feel Alive (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS"
+    },
+    {
+      "album": {
+        "name": "Feel Like It",
+        "url": "https://open.spotify.com/album/1KidEC954PkrMmsD1ZOL43"
+      },
+      "artists": [
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140716,
+      "name": "Feel Like It",
+      "url": "https://open.spotify.com/track/6vej5gKy4oOEXQvovSZA6P"
     },
     {
       "album": {

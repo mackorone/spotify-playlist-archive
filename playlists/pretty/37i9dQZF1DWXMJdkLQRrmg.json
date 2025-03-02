@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 348729,
+  "num_followers": 348785,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Deep End (Stripped)",
-        "url": "https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 210929,
-      "name": "Deep End - Stripped",
-      "url": "https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Best Of Blind Melon",
         "url": "https://open.spotify.com/album/4Kr7DLs5Ds3e4VAqlo2vqZ"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Complete Collapse (Acoustic)",
-        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
+        "name": "Deep End (Stripped)",
+        "url": "https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA"
       },
       "artists": [
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 184426,
-      "name": "Complete Collapse - Acoustic",
-      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
+      "duration_ms": 210929,
+      "name": "Deep End - Stripped",
+      "url": "https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -723,6 +707,22 @@
       "duration_ms": 198400,
       "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
       "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Complete Collapse (Acoustic)",
+        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Complete Collapse - Acoustic",
+      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
     },
     {
       "added_at": "2024-07-05 19:40:49",

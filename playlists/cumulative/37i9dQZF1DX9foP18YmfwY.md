@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva
 
-201 songs - 16 hr 6 min
+202 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Para Sempre Cantarei \- Ao Vivo](https://open.spotify.com/track/61kfrlgOMGQYnLiMgYrxnZ) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Para Sempre Cantarei](https://open.spotify.com/album/6bBo76VDOgEjXwWJjXfdew) | 5:21 | 2023-02-10 | 2023-03-25 |
 | [Pedi E Recebereis](https://open.spotify.com/track/0WOAuYFuEKzwJzgMu73EMe) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Pedi E Recebereis](https://open.spotify.com/album/05Qt3oJMg0TfNxS5dWwZtO) | 3:55 | 2022-09-02 | 2024-07-13 |
 | [Pelas Mãos de Maria](https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Pelas Mãos de Maria](https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm) | 3:19 | 2022-09-02 | 2024-11-30 |
+| [Perfume \- Acústico](https://open.spotify.com/track/5T4jd2BhpNRenNNKvHof2Y) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Perfume \(Acústico\)](https://open.spotify.com/album/6e9cyOE11x6J0H9gY9n9WK) | 6:54 | 2025-03-01 |  |
 | [Ponto de Partida](https://open.spotify.com/track/05Teec4me0ieroW0A3CWTN) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Ponto de Partida](https://open.spotify.com/album/1Us1TQdylueuubkB3r86gs) | 3:34 | 2023-10-20 | 2023-11-25 |
 | [Pra Frente](https://open.spotify.com/track/52qLfp7U4lfJHcj5V083WV) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Pra Frente](https://open.spotify.com/album/0hTQ34wFWWg7MflujJDfft) | 3:49 | 2023-12-22 | 2024-07-19 |
 | [Pra Te Ver Feliz](https://open.spotify.com/track/53oVXkxQalQSjP11ML8qmD) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Pra Te Ver Feliz](https://open.spotify.com/album/0geKasDgvcEy4LFKxZna9z) | 3:26 | 2023-11-24 | 2023-12-23 |
@@ -175,7 +176,7 @@
 | [Santa Maria das Criancinhas](https://open.spotify.com/track/7JHagjKO0odXVQAwHfjJjk) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Júlia Melo](https://open.spotify.com/artist/2AcaqHSl3NYQZORUxnUygt), [Nilton Duarte](https://open.spotify.com/artist/7KrQ1ROzmauhfaevQDXwG3) | [Santa Maria das Criancinhas](https://open.spotify.com/album/2JgGFjBhY7pPOfBlfhtTwC) | 5:02 | 2023-05-12 | 2023-06-03 |
 | [Sara Esta Nação](https://open.spotify.com/track/0DK1wETxHVvJAcMAKe5pVK) | [Emanuel Stênio](https://open.spotify.com/artist/7wkcbRxRtbBmYPpyvXpH1D), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU), [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Sara Esta Nação](https://open.spotify.com/album/0Syjy40Sj9HR9dRMsP6ulM) | 6:26 | 2022-09-02 | 2022-12-10 |
 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 | 2022-09-02 |  |
-| [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 | 2022-09-02 |  |
+| [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 | 2022-09-02 | 2025-03-02 |
 | [Seguir Viagem](https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg) | [Raquel Carpejani](https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW) | [Seguir Viagem](https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW) | 3:38 | 2024-12-20 |  |
 | [Seja Bem\-Vindo Jesus](https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Seja Bem\-Vindo Jesus](https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua) | 5:10 | 2022-09-02 | 2023-03-18 |
 | [Seja Elevado \- Ao Vivo](https://open.spotify.com/track/6Ffb2kWofzil2OjrVnr6WA) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Seja Elevado \(Ao Vivo\)](https://open.spotify.com/album/22OWLgCGsjWOO2NAgm2v42) | 3:55 | 2025-01-31 | 2025-02-17 |

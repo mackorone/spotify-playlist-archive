@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,366 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,393 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 59 | [never left my mind](https://open.spotify.com/track/7poognNe9Kt1y5PwzEYx8F) | [Ash Leone](https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK) | [never left my mind](https://open.spotify.com/album/5kafxdckNetRMbLcPtWCex) | 2:59 |
 | 60 | [LoveLikeThat](https://open.spotify.com/track/7c9AlqTaJkP6bX8uxa1ICs) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [LoveLikeThat](https://open.spotify.com/album/6rLaKsz6BJfaz1VMA5RbdS) | 3:52 |
 
-Snapshot ID: `Z8HPggAAAAAnMXtqyaycowW62caH9qnS`
+Snapshot ID: `Z8HPggAAAAC3quDZDwllB5BAjRFRG9to`

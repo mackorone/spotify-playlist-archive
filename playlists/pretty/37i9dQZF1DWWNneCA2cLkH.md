@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Charlie Needs Braces
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,738 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,735 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 4 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
 | 5 | [Total Freefall \(Simona Castricum Remix\)](https://open.spotify.com/track/4f6oAm0V8V2ypSNuaL1jMb) | [Hydra Fashion Week](https://open.spotify.com/artist/7KDqvb3BmTuHEuRdIl2tJg), [Simona Castricum](https://open.spotify.com/artist/0eNPmXReFLJMJVh1sJ1SIv) | [Total Freefall \(Simona Castricum Remix\)](https://open.spotify.com/album/0qeleL6rWB3WARMV36gHde) | 4:40 |
 | 6 | [Dowatchalike](https://open.spotify.com/track/6F6695VxHTBkSqPsHPAPqw) | [Wrong Way Up](https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe) | [Totally Right](https://open.spotify.com/album/0IQItDLkJepF2lBzxDXyam) | 5:02 |
-| 7 | [Mad About You](https://open.spotify.com/track/0dEIFLsRX15LgRqd4CTTCh) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [Mad About You](https://open.spotify.com/album/2q6QrqRlJUh7zzSOZLbvIo) | 2:44 |
+| 7 | [Mad About You \- Single Version](https://open.spotify.com/track/0dEIFLsRX15LgRqd4CTTCh) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [Mad About You](https://open.spotify.com/album/2q6QrqRlJUh7zzSOZLbvIo) | 2:44 |
 | 8 | [Let's Go Swimming](https://open.spotify.com/track/2f7IZQDBK8uCckTPRn4XdJ) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Let's Go Swimming](https://open.spotify.com/album/4CKsINjnNa1hfJjSpyNqi8) | 4:14 |
 | 9 | [The Edge](https://open.spotify.com/track/6NT3ynBjdIUPwfTbd9IgYI) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [The Edge](https://open.spotify.com/album/5oEUCJUYJoJv4QvDG36tFj) | 4:38 |
 | 10 | [Never Felt Better](https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Never Felt Better](https://open.spotify.com/album/6LgXtpkfa3VlhfPZhWGhem) | 4:27 |

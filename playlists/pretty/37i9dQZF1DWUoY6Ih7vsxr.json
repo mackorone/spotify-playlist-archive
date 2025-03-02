@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 303880,
+  "num_followers": 303982,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Mr.",
-      "url": "https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Hoot - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 199626,
       "name": "Hoot",
       "url": "https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Mr.",
+      "url": "https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Again 1977",
-        "url": "https://open.spotify.com/album/08wUc4fBRDP5MHmtadEjZ5"
+        "name": "TTL (Time To Love)",
+        "url": "https://open.spotify.com/album/03vGxLZasfe2LdJFuB4fpq"
       },
       "artists": [
         {
           "name": "T-ARA",
           "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+        },
+        {
+          "name": "\ucd08\uc2e0\uc131",
+          "url": "https://open.spotify.com/artist/0buWcDodnGf3u36oAQPHzW"
         }
       ],
-      "duration_ms": 228725,
-      "name": "\ub118\ubc84\ub098\uc778",
-      "url": "https://open.spotify.com/track/7CEWoh31m3nePP2Oz8joqo"
+      "duration_ms": 218347,
+      "name": "TTL (Time To Love)",
+      "url": "https://open.spotify.com/track/4Mpl9b4soNq6nILUkDTZZv"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1163,38 +1167,34 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "TTL (Time To Love)",
-        "url": "https://open.spotify.com/album/03vGxLZasfe2LdJFuB4fpq"
+        "name": "Again 1977",
+        "url": "https://open.spotify.com/album/08wUc4fBRDP5MHmtadEjZ5"
       },
       "artists": [
         {
           "name": "T-ARA",
           "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
-        },
-        {
-          "name": "\ucd08\uc2e0\uc131",
-          "url": "https://open.spotify.com/artist/0buWcDodnGf3u36oAQPHzW"
         }
       ],
-      "duration_ms": 218347,
-      "name": "TTL (Time To Love)",
-      "url": "https://open.spotify.com/track/4Mpl9b4soNq6nILUkDTZZv"
+      "duration_ms": 228725,
+      "name": "\ub118\ubc84\ub098\uc778",
+      "url": "https://open.spotify.com/track/7CEWoh31m3nePP2Oz8joqo"
     },
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "No.1 - The 2nd Album",
-        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 193226,
-      "name": "No.1",
-      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
+      "duration_ms": 213400,
+      "name": "Kiss (Dara)",
+      "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "To Anyone",
-        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
+        "name": "No.1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
       },
       "artists": [
         {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Kiss (Dara)",
-      "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
+      "duration_ms": 193226,
+      "name": "No.1",
+      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "DESTINY",
-        "url": "https://open.spotify.com/album/6QXXHoQo4VxMuoZQlL1tK1"
-      },
-      "artists": [
-        {
-          "name": "INFINITE",
-          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
-        }
-      ],
-      "duration_ms": 232718,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/7tYs4B4jm8E8UmvDG9iMVc"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 194235,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/7FLHZtNqn4PfSs6DwtWdY3"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "DESTINY",
+        "url": "https://open.spotify.com/album/6QXXHoQo4VxMuoZQlL1tK1"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "duration_ms": 232718,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/7tYs4B4jm8E8UmvDG9iMVc"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "LIPSTICK",
-        "url": "https://open.spotify.com/album/1r2yoS5HLPjmz5j1ii5a3r"
-      },
-      "artists": [
-        {
-          "name": "Orange Caramel",
-          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
-        }
-      ],
-      "duration_ms": 201221,
-      "name": "LIPSTICK",
-      "url": "https://open.spotify.com/track/1fSQVc8qsBj6mYTkEdfK8s"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Snow Pink",
         "url": "https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 234967,
       "name": "My My",
       "url": "https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "LIPSTICK",
+        "url": "https://open.spotify.com/album/1r2yoS5HLPjmz5j1ii5a3r"
+      },
+      "artists": [
+        {
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+        }
+      ],
+      "duration_ms": 201221,
+      "name": "LIPSTICK",
+      "url": "https://open.spotify.com/track/1fSQVc8qsBj6mYTkEdfK8s"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Seven Springs Of Apink",
-        "url": "https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "I don't Know",
-      "url": "https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "After School The 6th Maxi Single 'First Love'",
         "url": "https://open.spotify.com/album/6dIwlMT5nRODXU03vPs1lv"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 217738,
       "name": "First Love",
       "url": "https://open.spotify.com/track/2LdOm1BBfBbQjw9LrqmfuC"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Seven Springs Of Apink",
+        "url": "https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "I don't Know",
+      "url": "https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn"
     },
     {
       "added_at": "2024-03-27 14:24:46",

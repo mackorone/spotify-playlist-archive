@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 235186,
+  "num_followers": 235302,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Mal\u00fa",
-          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "Te Equivocaste (Primera Fila) (feat. Mal\u00fa) - En Vivo",
-      "url": "https://open.spotify.com/track/7wadwcnZoJEU2b3pgApUDv"
-    },
-    {
-      "added_at": "2024-08-01 22:06:14",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
         "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 271000,
       "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
       "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
+    },
+    {
+      "added_at": "2024-08-01 22:06:14",
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Mal\u00fa",
+          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "Te Equivocaste (Primera Fila) (feat. Mal\u00fa) - En Vivo",
+      "url": "https://open.spotify.com/track/7wadwcnZoJEU2b3pgApUDv"
     },
     {
       "added_at": "2024-08-01 22:06:14",

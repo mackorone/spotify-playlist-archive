@@ -21547,6 +21547,24 @@
     },
     {
       "album": {
+        "name": "HERMES",
+        "url": "https://open.spotify.com/album/1StXBGTd2q23LGN6rQdXlE"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107868,
+      "name": "HERMES",
+      "url": "https://open.spotify.com/track/7DZSBDz3YMRWehPTLE1xOs"
+    },
+    {
+      "album": {
         "name": "Heureux comme \u00e7a",
         "url": "https://open.spotify.com/album/4sI3aKZhpwWd8wLEPeASqm"
       },
@@ -25712,7 +25730,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 132000,
       "name": "Je veux",
       "url": "https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS"

@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-316 songs - 16 hr 45 min
+318 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [FOOL FOR YOU](https://open.spotify.com/track/4NEkuzx5DgSNL7buwNsvCi) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:05 | 2025-02-03 |  |
 | [Fox Boy](https://open.spotify.com/track/6Znko1vwkXU7ebLmQ0Nl4E) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Fox Boy](https://open.spotify.com/album/68m9JFPkoH54ntMsCh2niB) | 4:00 | 2023-06-14 |  |
 | [Fratricide](https://open.spotify.com/track/7a6Q9vKtA9oPU08XZSOGR9) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [Fratricide](https://open.spotify.com/album/6yzq6H3QI7ylehs1yZ4z3G) | 3:40 | 2023-08-07 |  |
+| [Free Tonight](https://open.spotify.com/track/6Y0rTVgEHLbyv2LaFHMbHB) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [Another](https://open.spotify.com/album/4ku6hiP8aiueGRUtaDzwT0) | 2:58 | 2025-03-01 |  |
 | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/track/4t5vhVmALRs8rkakMGZYjk) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/album/2d9lTBrplUQSXxKXJGVI6b) | 2:35 | 2024-11-17 | 2025-02-06 |
 | [Galaxy](https://open.spotify.com/track/7H1riDF2BhjeUP0Gvfvt1L) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Galaxy](https://open.spotify.com/album/5mOYMAiHKtV9HOP2K9JMv9) | 3:43 | 2023-06-27 |  |
 | [gen3mlp](https://open.spotify.com/track/2pq1qNcFLdWKas7DLNsOMF) | [lulamoon](https://open.spotify.com/artist/0DAelTYQOImud40A6DFnYR), [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G) | [opal](https://open.spotify.com/album/34Zr3RTwjMsQcTAedwWwpg) | 3:16 | 2025-01-25 |  |
@@ -240,6 +241,7 @@
 | [Road Kill](https://open.spotify.com/track/7gOG5mzKRrjTAQgyU1KAFP) | [Rhythm Bastard](https://open.spotify.com/artist/54yG5HnJWjSbO8VAfbmY64) | [Road Kill](https://open.spotify.com/album/5BoqrMvG5TafdTPb5RhUdr) | 3:06 | 2024-03-06 |  |
 | [Robin Hood](https://open.spotify.com/track/6K9smrlakXex53vhl5r5dC) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [Robin Hood](https://open.spotify.com/album/5lx5UeqilTSBCzoPh6v87E) | 3:19 | 2025-01-25 |  |
 | [Rose\-Tinted Glasses](https://open.spotify.com/track/71ykIZT3YrrA4tCc1rGFng) | [Anthemics](https://open.spotify.com/artist/5Resf7AxjXHnKIYgsDgPlv) | [Hiraeth](https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5) | 3:24 | 2023-12-15 |  |
+| [ROYALTY](https://open.spotify.com/track/7km3vpKM3z7Febi2p69ij3) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [ROYALTY](https://open.spotify.com/album/7x8QpxqMPfoN2rOYP50QGx) | 3:05 | 2025-03-01 |  |
 | [rubicon](https://open.spotify.com/track/4la9cJckhhANFdSIMlycTw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:46 | 2024-12-06 |  |
 | [RUSH!](https://open.spotify.com/track/5qXCO06nIc5y70qxieIL7X) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [2bagBreezoo](https://open.spotify.com/artist/2E2XL9Qlb1osAU441gxBYf) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 3:08 | 2025-02-03 |  |
 | [RUSH!](https://open.spotify.com/track/6fbkYgGPkflSxMPOXSqrKW) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [2bagBreezoo](https://open.spotify.com/artist/2E2XL9Qlb1osAU441gxBYf) | [RUSH!](https://open.spotify.com/album/2LeHZqC5P8Ma1V26G6oA8d) | 3:08 | 2024-08-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,066 likes - 206 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,075 likes - 206 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 17 | [The Return](https://open.spotify.com/track/1XtqZcOVMbs0PMmXDgLSl2) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [The Return \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5k9WjeS35446JBmWdawZtm) | 2:40 |
 | 18 | [Way forward](https://open.spotify.com/track/03uTGTsHWo4LpE218khj7N) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 4:04 |
 | 19 | [The Piano Lesson](https://open.spotify.com/track/1CcqtG3Tj4SzDDlTVMVie2) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Piano Lesson \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4wwkB9uplG3M2JKzqeyti4) | 3:53 |
-| 20 | [Dune II Suite: Part 2, A Time of Quiet Between the Storms](https://open.spotify.com/track/5ryKPoh8DrQK3aUgXYXH1B) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Juan Garcia Herreros](https://open.spotify.com/artist/4VuZZ0AqoOhIoVopAufsei), [Aleksandra Suklar](https://open.spotify.com/artist/7dlXCPxGlyp55rTDEk3ynP), [Odessa Orchestra & Friends](https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [Dune II Suite](https://open.spotify.com/album/2JClso06MGoGSjCBkULGtP) | 4:27 |
+| 20 | [Dune II Suite: Part 2, A Time of Quiet Between the Storms](https://open.spotify.com/track/5ryKPoh8DrQK3aUgXYXH1B) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Snow Owl](https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua), [Aleksandra Suklar](https://open.spotify.com/artist/7dlXCPxGlyp55rTDEk3ynP), [Odessa Orchestra & Friends](https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [Dune II Suite](https://open.spotify.com/album/2JClso06MGoGSjCBkULGtP) | 4:27 |
 | 21 | [Perfect Place](https://open.spotify.com/track/52sZwYRTc2UqWoARa5ejpZ) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Perfect Place](https://open.spotify.com/album/5NqSGgq912xZU4vpfakmqK) | 2:26 |
 | 22 | [A Breakthrough](https://open.spotify.com/track/4PxnDEV28lyce1RfesfbTL) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP), [Roahn Hylton](https://open.spotify.com/artist/6XGdnREo5oKfrNf4tcbj31) | [Brave The Dark \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1qRKyijC10onnbxiLtJ96D) | 1:03 |
 | 23 | [The Pool](https://open.spotify.com/track/028wjZrbWmzJcmdEb81nEy) | [Johannes Ringen](https://open.spotify.com/artist/7c16TShAemRcpdBNSfji0I) | [La Palma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7EJhzSLlRhrQsfTGuxDdRh) | 2:27 |

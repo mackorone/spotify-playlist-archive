@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Flaco G, Shiva e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,785 likes - 120 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,789 likes - 120 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 44 | [Abracadabra](https://open.spotify.com/track/1x5p8d4Kb2Hhr2WgmgauKK) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Africa Jungle Part.1](https://open.spotify.com/album/4OsnnplK0ncl5jJk64wB17) | 2:41 |
 | 45 | [NUOVA RAGAZZA \(feat\. Elmatadormc7\)](https://open.spotify.com/track/5dyQof5hSlUMaqLIFVh6yb) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb), [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [TOSSICO](https://open.spotify.com/album/1CITkDv4nqiq5J1xb5c2Z3) | 2:37 |
 | 46 | [28 Febbraio \(feat\. DDM 80146\)](https://open.spotify.com/track/2U8V7znA9iBZbMXCVx7iQV) | [BigMadWolf](https://open.spotify.com/artist/0SpnEvoZverwQVYtU9RrkE), [DDM 80146](https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV) | [28 Febbraio \(feat\. DDM 80146\)](https://open.spotify.com/album/2VtITRSOU2aPkzNjtRpSqA) | 2:46 |
-| 47 | [SARAJEVO](https://open.spotify.com/track/0L6jvaIFvt1Mu6TFD4lRCq) | [Shaka Muni](https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY) | [SARAJEVO](https://open.spotify.com/album/2V8c50T8yQTXosDWyLpQfS) | 2:06 |
+| 47 | [SARAJEVO](https://open.spotify.com/track/0L6jvaIFvt1Mu6TFD4lRCq) | [Shaka Muni](https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY), [Manerre](https://open.spotify.com/artist/2nuiMd2OKi9w052MfRims6) | [SARAJEVO](https://open.spotify.com/album/2V8c50T8yQTXosDWyLpQfS) | 2:06 |
 | 48 | [Mammoriri \(feat\. L'Elfo\)](https://open.spotify.com/track/78868wBpuC1K05jz3cTpd8) | [BLACK PRINCE](https://open.spotify.com/artist/2FDNkx2RMUJjWaMlj8sfew), [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ) | [Mammoriri \(feat\. L'Elfo\)](https://open.spotify.com/album/7wt8Kas2EyP4ZO9rr09dAV) | 2:17 |
 | 49 | [Still Mazza](https://open.spotify.com/track/46kvFTko4XXqx6p0RgY5T7) | [Bratha](https://open.spotify.com/artist/1qJypTGC8AGNrxr1dz1edF) | [Still Mazza](https://open.spotify.com/album/1AAEkgTfziX792dAcArnI3) | 2:04 |
 | 50 | [IO E LA tWIN](https://open.spotify.com/track/2n5mBhALuFsM468IrdED20) | [sindolls](https://open.spotify.com/artist/2oh0q4ovIP8rTuzdydiCSP) | [IO E LA tWIN](https://open.spotify.com/album/4Daavt68QWzlUIPdN5Rhfl) | 2:04 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 74 | [OSCURO](https://open.spotify.com/track/6c6JYLeI2ooSs7pfXHYKLy) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [OSCURO](https://open.spotify.com/album/1Gz1WRAN8ctLUrVHMeq3HA) | 2:30 |
 | 75 | [\#XKIAMA](https://open.spotify.com/track/0tgJFjj2mr4hqxUGTeRXBw) | [Gelso](https://open.spotify.com/artist/4AQEvBR32zQGjl0xlef3OL) | [\#XKIAMA](https://open.spotify.com/album/0xXp9Fx7Y6MFuL72AY6UYk) | 2:45 |
 | 76 | [Damn Shorty \(feat\. Over Lapa\)](https://open.spotify.com/track/6AS0kRDGf3EncHxSsnKk9X) | [Lewa Jr](https://open.spotify.com/artist/2uBSvdDSgAKx06rwQkhadm), [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [Damn Shorty \(feat\. Over Lapa\)](https://open.spotify.com/album/2DoEDSgPwezNkOL62mAFI4) | 2:39 |
-| 77 | [KILLER](https://open.spotify.com/track/6UHiMQV7R6N9GHFKpYIiw3) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [KILLER](https://open.spotify.com/album/0TcilQFUp2BCdr7c4wwpsa) | 2:40 |
+| 77 | [KILLER](https://open.spotify.com/track/6UHiMQV7R6N9GHFKpYIiw3) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [KILLER](https://open.spotify.com/album/0TcilQFUp2BCdr7c4wwpsa) | 2:40 |
 | 78 | [EQUIPAGGIO](https://open.spotify.com/track/1H2rbyEQFmkUMmsPP1PJhz) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [EQUIPAGGIO](https://open.spotify.com/album/1OcqVx68akxq0sm8nwIJzw) | 3:01 |
 | 79 | [CCPP](https://open.spotify.com/track/3rUbMldGK2t1a4FHqEbvJu) | [Youngsta](https://open.spotify.com/artist/5sWoRb9aAxdPnjpDcZST60), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [CCPP](https://open.spotify.com/album/7bh97AGPgWbibPf6KsHDGC) | 1:52 |
 | 80 | [Muah Muah](https://open.spotify.com/track/33RKQ7bpyMfRMwxyyE8q9t) | [Totem](https://open.spotify.com/artist/4S3jg23v1gg17rTKI952fK), [LLEDRI™](https://open.spotify.com/artist/1GZcNesL6zyEwpfdDJJf6O) | [Muah Muah](https://open.spotify.com/album/5GhqDnU3NahFq7eJlbsDda) | 2:15 |

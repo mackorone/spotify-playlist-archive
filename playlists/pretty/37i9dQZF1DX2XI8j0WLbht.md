@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Carla Morrison en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,963 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,972 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 99 | [Son Tus Ojos Tranquilos](https://open.spotify.com/track/1nrTJhwBJcoxKdtyqSXUJl) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG), [Mixe Represent](https://open.spotify.com/artist/5qrOGN6UnfGEE9VgznHrBF) | [Son Tus Ojos Tranquilos](https://open.spotify.com/album/6aUP0uecjAjkY7kIZ0bpl2) | 4:56 |
 | 100 | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/track/6Jv5QIyxHtBLvKB8U84Ae2) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/album/3qqiuCVd7j8bLEICEmycNC) | 3:11 |
 
-Snapshot ID: `Z4FGywAAAACgeiAOEziynGJ5ofYT6PPd`
+Snapshot ID: `Z4FGywAAAABS8SE4qjpmEy4MGopbATQx`

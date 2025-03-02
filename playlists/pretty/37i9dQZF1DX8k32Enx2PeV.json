@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 12533,
+  "num_followers": 12546,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -917,26 +917,6 @@
       "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
     },
     {
-      "added_at": "2024-10-25 03:08:26",
-      "album": {
-        "name": "Museo",
-        "url": "https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        },
-        {
-          "name": "Kabasaki",
-          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
-        }
-      ],
-      "duration_ms": 165923,
-      "name": "Museo",
-      "url": "https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg"
-    },
-    {
       "added_at": "2024-08-09 04:23:31",
       "album": {
         "name": "M\u00e1quina Del Tiempo",
@@ -955,6 +935,26 @@
       "duration_ms": 213893,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
+    },
+    {
+      "added_at": "2024-10-25 03:08:26",
+      "album": {
+        "name": "Museo",
+        "url": "https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "duration_ms": 165923,
+      "name": "Museo",
+      "url": "https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg"
     },
     {
       "added_at": "2024-08-09 04:23:31",

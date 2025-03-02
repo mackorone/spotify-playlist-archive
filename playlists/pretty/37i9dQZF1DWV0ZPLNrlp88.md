@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,328 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,335 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [洒落たmelody](https://open.spotify.com/track/2zxLp56UV7uCGnxBq8Wy36) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [洒落たmelody](https://open.spotify.com/album/0VrkwLwrnsnUbXJ8WULVbc) | 3:25 |
 | 40 | [Ozone](https://open.spotify.com/track/6f1gUCBXKNq9FN1GCpjyLV) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Ozone](https://open.spotify.com/album/0uICw6NVHNg1vyrzfQNBkE) | 3:14 |
 
-Snapshot ID: `Z8HPggAAAAB0+zXG+Z9NPD1CwEwy2YWR`
+Snapshot ID: `Z8HPggAAAAAg1GUARRmeeZ8ZNbR7xdX+`

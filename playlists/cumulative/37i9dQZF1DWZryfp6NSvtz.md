@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Viagra Boys
 
-8,007 songs - 18 day 23 hr 13 min
+8,008 songs - 18 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6202,6 +6202,7 @@
 | [So Far Gone](https://open.spotify.com/track/4cbddQdsUFiLhkzExl3pUq) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [So Far Gone](https://open.spotify.com/album/4X8DoEYl1asbYioajgmO6S) | 4:22 | 2022-11-18 | 2022-11-26 |
 | [So Good](https://open.spotify.com/track/7CmQstSaFUUifaXRX9oJhV) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [So Good](https://open.spotify.com/album/1CtFaIslYATo3SQ4J1Q1qu) | 3:42 | 2022-09-01 | 2022-09-09 |
 | [So Long](https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [So Long](https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm) | 3:01 | 2022-12-09 | 2022-12-17 |
+| [So Long](https://open.spotify.com/track/6NTE0EIOlM0YTdd9R9pI3Y) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [So Long](https://open.spotify.com/album/4kbKAHR2c0Bwu0k5PUS1R8) | 3:43 | 2025-03-01 |  |
 | [So Long](https://open.spotify.com/track/1mQYvjPXigBBxEyM6VfPPp) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Stupid and Famous](https://open.spotify.com/album/58riorwSTiBrDtCLgsYsv0) | 1:54 | 2023-10-06 | 2023-10-14 |
 | [So Much Happened Since You Came](https://open.spotify.com/track/3SgHuDyd87vm6Sm6iMjRzz) | [Polar States](https://open.spotify.com/artist/5RGGmYAO7dbltAYiaGpIOw) | [So Much Happened Since You Came](https://open.spotify.com/album/25NDuxDmiS8ErqCZe42PoC) | 2:43 | 2022-01-20 | 2022-01-28 |
 | [So Numb](https://open.spotify.com/track/2HA5vCyCfrVliuDSkYpnA4) | [Glimmer](https://open.spotify.com/artist/4ldTJbQ7TIIjZYgUtH5RwT) | [So Numb](https://open.spotify.com/album/2rS3F64BXeKqjeoRtG8vas) | 3:32 | 2024-10-25 | 2024-11-02 |

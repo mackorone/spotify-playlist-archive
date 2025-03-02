@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84313,
+  "num_followers": 84324,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Conto do Pescador (Speed Version)",
+        "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
+      },
+      "artists": [
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        },
+        {
+          "name": "Jorgin Dejhaay",
+          "url": "https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV"
+        }
+      ],
+      "duration_ms": 174701,
+      "name": "Conto do Pescador (Speed Version)",
+      "url": "https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Levante",
         "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 115714,
       "name": "SUV - Remix",
       "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Conto do Pescador (Speed Version)",
-        "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
-      },
-      "artists": [
-        {
-          "name": "MC Menor da VG",
-          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
-        },
-        {
-          "name": "Jorgin Dejhaay",
-          "url": "https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV"
-        }
-      ],
-      "duration_ms": 174701,
-      "name": "Conto do Pescador (Speed Version)",
-      "url": "https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
-        "url": "https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u"
-      },
-      "artists": [
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        }
-      ],
-      "duration_ms": 166305,
-      "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
-      "url": "https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "BOMBEI AQUELA MSC DO INVEJOSO",
         "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 149538,
       "name": "BOMBEI AQUELA MSC DO INVEJOSO",
       "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
+        "url": "https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "duration_ms": 166305,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
+      "url": "https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7"
     },
     {
       "added_at": "2024-07-08 19:10:57",

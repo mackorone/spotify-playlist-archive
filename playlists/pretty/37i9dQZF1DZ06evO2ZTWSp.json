@@ -1,13 +1,29 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 485034,
+  "num_followers": 485032,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAAD4WjkUc/aChYH0iKK80eJA",
+  "snapshot_id": "Z8D8gAAAAADmiGmf6N1ESd+34f81zsdk",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love in Real Life",
+        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 22615,
+      "name": "Everything Was So Much Simpler\u2026",
+      "url": "https://open.spotify.com/track/5JrEV1dM9byPkTjVhqTvGc"
+    },
     {
       "added_at": null,
       "album": {
@@ -75,6 +91,22 @@
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love in Real Life",
+        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 154297,
+      "name": "Love in Real Life",
+      "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
     },
     {
       "added_at": null,
@@ -791,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Basement Queens",
-        "url": "https://open.spotify.com/album/4eu9RYtdnxNJJWr9cW84nV"
-      },
-      "artists": [
-        {
-          "name": "Sad13",
-          "url": "https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 183362,
-      "name": "Basement Queens",
-      "url": "https://open.spotify.com/track/6TbfAkoPe5RJztOFaAl4cG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chill, dummy",
         "url": "https://open.spotify.com/album/1Jlt2mp0aew89zqL1S6l86"
       },
@@ -855,6 +867,26 @@
       "duration_ms": 528480,
       "name": "Sleepdrone/Superposition",
       "url": "https://open.spotify.com/track/3F2KI6FI5w8WadLKkJvyLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Basement Queens",
+        "url": "https://open.spotify.com/album/4eu9RYtdnxNJJWr9cW84nV"
+      },
+      "artists": [
+        {
+          "name": "Sad13",
+          "url": "https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 183362,
+      "name": "Basement Queens",
+      "url": "https://open.spotify.com/track/6TbfAkoPe5RJztOFaAl4cG"
     },
     {
       "added_at": null,
@@ -931,42 +963,6 @@
       "duration_ms": 195670,
       "name": "T-Baby",
       "url": "https://open.spotify.com/track/5huAmqGGPjKQDztp1gd22J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lizzobangers",
-        "url": "https://open.spotify.com/album/32UJ8XJogn6T8JSENLETMS"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 163903,
-      "name": "Wat U Mean",
-      "url": "https://open.spotify.com/track/3pBwF537Mhh1NgZcxi9vbf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lizzobangers",
-        "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Sophia Eris",
-          "url": "https://open.spotify.com/artist/0p6NrdHl8dQQALGIqVcrjt"
-        }
-      ],
-      "duration_ms": 203422,
-      "name": "Batches & Cookies",
-      "url": "https://open.spotify.com/track/1HgwseKCKrBgL7By8ZcU9M"
     }
   ],
   "unique_name": "This Is Lizzo",

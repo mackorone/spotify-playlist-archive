@@ -1,6 +1,6 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 87208,
+  "num_followers": 87212,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
+        "name": "nightmares",
+        "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
+      },
+      "artists": [
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 207003,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
         "name": "Historian",
         "url": "https://open.spotify.com/album/01GO03odsNlNLtvNETukWT"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 189246,
       "name": "Say, Can You Hear",
       "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Cheetah Tongue",
-      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
     }
   ],
   "unique_name": "Best of Indie 2018",

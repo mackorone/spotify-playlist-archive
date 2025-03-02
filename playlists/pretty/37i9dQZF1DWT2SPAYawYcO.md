@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,794 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,843 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 46 | [WE'RE ALL MADE OF STARS](https://open.spotify.com/track/6bWurhoy9GXw6cBVQhjfhq) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [We Always Had Tomorrow](https://open.spotify.com/album/0AQL4gTk7w6UdaNqQCz4ih) | 4:31 |
 | 47 | [Say My Name](https://open.spotify.com/track/3zUFhEvekJ3Y0OkpCMsO31) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Say My Name](https://open.spotify.com/album/0HnO1FfIgIhEGGv0NbyVyR) | 3:00 |
 | 48 | [Replay](https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Replay](https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc) | 3:40 |
-| 49 | [Who We Are](https://open.spotify.com/track/0pT9UHOqUJPCHdnQVgRbKt) | [Ziggy Ramo](https://open.spotify.com/artist/068h92tgvxKyexVLhE75Q7), [vonn](https://open.spotify.com/artist/5dYIlMTVyP8TLlhi3pDWhl), [Atticus](https://open.spotify.com/artist/3LPYB28rPjgLA6MxMbU9DR) | [Who We Are](https://open.spotify.com/album/1FNefuXk2hVp6rD7ZQ0QeU) | 2:54 |
+| 49 | [Who We Are](https://open.spotify.com/track/0pT9UHOqUJPCHdnQVgRbKt) | [Ziggy Ramo](https://open.spotify.com/artist/068h92tgvxKyexVLhE75Q7), [Atticus](https://open.spotify.com/artist/3LPYB28rPjgLA6MxMbU9DR), [vonn](https://open.spotify.com/artist/5dYIlMTVyP8TLlhi3pDWhl) | [Who We Are](https://open.spotify.com/album/1FNefuXk2hVp6rD7ZQ0QeU) | 2:54 |
 | 50 | [Retrospective](https://open.spotify.com/track/0TXQZY8iAZ5PmHoRvYObJh) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Retrospective](https://open.spotify.com/album/6aOjJmgQLKZCypztrfByNH) | 3:06 |
 | 51 | [pretty](https://open.spotify.com/track/7zku2rvsa345C0kwQ4OEyZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [pretty](https://open.spotify.com/album/4w5TWeEWxzS7qhsAUR5xE5) | 2:30 |
 | 52 | [BABYMAN](https://open.spotify.com/track/0ijCqg7FRUx5RPcEAESmGY) | [Sonic Reducer](https://open.spotify.com/artist/4fSqBIjaypPHHyGIkrebEL) | [BABYMAN](https://open.spotify.com/album/3LMtIYgD4rorW666pMFqbc) | 2:49 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 82 | [There's No Rush](https://open.spotify.com/track/6MWkEW76cWg525TFAnMJN5) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [There's No Rush](https://open.spotify.com/album/2nNUB55npuDmGdPTost3t8) | 5:01 |
 | 83 | [Save My Soul](https://open.spotify.com/track/5UDjFwpvWWkK31VyJKLAMk) | [360](https://open.spotify.com/artist/3vn7rk7VNMfDhuZNB9sDYP) | [Save My Soul](https://open.spotify.com/album/1UdQLYrIxjzeYUp3NILp0N) | 3:28 |
 | 84 | [Stay II](https://open.spotify.com/track/3Lq1JjRD6yI2lVPHZ2OcPk) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Wondah](https://open.spotify.com/artist/50wjYs46G3Shz0PmVlcrLX), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Stay II](https://open.spotify.com/album/7HMAk4JmesyBN7rms8HtrB) | 5:52 |
-| 85 | [Woosh](https://open.spotify.com/track/2QXPj7S2aBS889QL5Ishb2) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Woosh](https://open.spotify.com/album/3ftCEhgDoWQRd9zFLnnzIP) | 2:36 |
+| 85 | [Maestro](https://open.spotify.com/track/2QXPj7S2aBS889QL5Ishb2) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Maestro](https://open.spotify.com/album/3ftCEhgDoWQRd9zFLnnzIP) | 2:36 |
 | 86 | [Solfa](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
 | 87 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 88 | [Dirt Rich](https://open.spotify.com/track/5T2kyB7H1UZniHfG97IuSX) | [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Dirt Rich](https://open.spotify.com/album/7KPrzVFs4tEQbZvKgAWrmm) | 2:58 |

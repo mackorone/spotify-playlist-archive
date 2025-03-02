@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS?si=HkbN3Nm0QoSSWijqvRCibQ">Malumz on Decks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,167 likes - 65 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,185 likes - 65 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 3 | [Teka](https://open.spotify.com/track/0LWuf8FourkvpHgdlEv3fy) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS), [Mpho.Wav](https://open.spotify.com/artist/5R03BvS4NIjVqXTQz9nf2O) | [Teka](https://open.spotify.com/album/3A8PQrckIYzOvciSds7Ewa) | 6:32 |
 | 4 | [Nomvula \(feat\. Nia Pearl & Bontle Smith\)](https://open.spotify.com/track/43yHwDUgHXuRx4Ntur15dL) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC) | [Nomvula \(feat\. Nia Pearl & Bontle Smith\)](https://open.spotify.com/album/7kvszdC2oRoR9eQzlKT8DM) | 4:22 |
 | 5 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 |
-| 6 | [iThemba Lami \(feat\. Khanya De Vocalist\)](https://open.spotify.com/track/2NbiFZ0IUP5RRHvFSf8bTe) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS), [Kopoy Zukar](https://open.spotify.com/artist/4p43XFab3SjRplV3ekEGal), [Khanya De Vocalist](https://open.spotify.com/artist/2CtrdOqCvIGCN4W26IUHoU) | [iThemba Lami \(feat\. Khanya De Vocalist\)](https://open.spotify.com/album/7k7XNu5L5SwtoI8oN0dxk0) | 7:08 |
+| 6 | [iThemba \(feat\. Khanya De Vocalist\)](https://open.spotify.com/track/2NbiFZ0IUP5RRHvFSf8bTe) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS), [Kopoy Zukar](https://open.spotify.com/artist/4p43XFab3SjRplV3ekEGal), [Khanya De Vocalist](https://open.spotify.com/artist/2CtrdOqCvIGCN4W26IUHoU) | [iThemba \(feat\. Khanya De Vocalist\)](https://open.spotify.com/album/7k7XNu5L5SwtoI8oN0dxk0) | 7:08 |
 | 7 | [Ndisize](https://open.spotify.com/track/2ZdiSdC1ElfhEsFanMlpdO) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Caiiro](https://open.spotify.com/album/4cfFuaEI2426cLK0mCuXKQ) | 5:15 |
 | 8 | [Classified Information](https://open.spotify.com/track/361hffq6c7Lo2u2umTNacB) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [Dv que](https://open.spotify.com/artist/1Ae3DnQn8BghTxZrNY5Ie4) | [Classified Information](https://open.spotify.com/album/1JeIIu4tGhcTaR24DUViVF) | 5:42 |
 | 9 | [Digane](https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Digane](https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v) | 2:42 |

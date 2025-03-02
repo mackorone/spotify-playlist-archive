@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Fionn
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,309 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,313 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Island on Fire](https://open.spotify.com/track/0O6Rd5malIbuSchc3M3GQv) | [illScarlett](https://open.spotify.com/artist/7wifMhiQRkNVGDL3habHha) | [Island on Fire](https://open.spotify.com/album/2o9CVMoe45teZg4pkgdhCO) | 3:27 |
 | 100 | [If I'm Being Honest...](https://open.spotify.com/track/0md9cavRB4oUI3kG2OXdEO) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [The Best Part About Being Human \(Deluxe\)](https://open.spotify.com/album/3f4elT62cMuAA0MwN4OfhR) | 2:19 |
 
-Snapshot ID: `Z8FC8gAAAABI3roBfxlpCU9fLHwdwW1o`
+Snapshot ID: `Z8FC8gAAAAB2k8Pe5d6f13icf9ISZEQm`

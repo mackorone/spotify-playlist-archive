@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-[paige](https://open.spotify.com/user/paigebethanyy) - 36,779 likes - 119 songs - 6 hr 9 min
+[paige](https://open.spotify.com/user/paigebethanyy) - 36,777 likes - 119 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

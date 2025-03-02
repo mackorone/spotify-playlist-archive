@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW!",
-  "num_followers": 24176,
+  "num_followers": 24197,
   "original_name": "OTW Iftar",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-02-28 04:04:56",
       "album": {
+        "name": "KuasaMu",
+        "url": "https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 234502,
+      "name": "KuasaMu",
+      "url": "https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo"
+    },
+    {
+      "added_at": "2025-02-28 04:04:56",
+      "album": {
         "name": "Mengejar Matahari",
         "url": "https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 227602,
       "name": "Masa Depan",
       "url": "https://open.spotify.com/track/6ZWRvS1VpmqA2ap3bMI4dY"
-    },
-    {
-      "added_at": "2025-02-28 04:04:56",
-      "album": {
-        "name": "KuasaMu",
-        "url": "https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 234502,
-      "name": "KuasaMu",
-      "url": "https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo"
     },
     {
       "added_at": "2025-02-28 04:04:56",

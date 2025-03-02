@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 119171,
+  "num_followers": 119183,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAAADcz4P57IKhkzpvLjqMJYk",
+  "snapshot_id": "Z8D8gAAAAABRQO/Ux/BWHb+H7KtkZkpP",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "American Soldier",
-      "url": "https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clancy's Tavern",
         "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 223386,
       "name": "Red Solo Cup",
       "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "American Soldier",
+      "url": "https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "He Ain't Worth Missing",
-      "url": "https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clancy's Tavern",
         "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 193133,
       "name": "Made in America",
       "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "He Ain't Worth Missing",
+      "url": "https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 166600,
-      "name": "I'm Just Talkin' About Tonight",
-      "url": "https://open.spotify.com/track/6nN58NDV8VnjvtBmR00qq4"
+      "duration_ms": 200973,
+      "name": "My List",
+      "url": "https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 200973,
-      "name": "My List",
-      "url": "https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj"
+      "duration_ms": 166600,
+      "name": "I'm Just Talkin' About Tonight",
+      "url": "https://open.spotify.com/track/6nN58NDV8VnjvtBmR00qq4"
     },
     {
       "added_at": null,

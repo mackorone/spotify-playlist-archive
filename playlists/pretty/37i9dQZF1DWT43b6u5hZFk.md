@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT43b6u5hZFk.md) - [plain]
 
 > Listen to JENNIE's greatest hits, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,130 likes - 18 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,510 likes - 18 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT43b6u5hZFk.md) - [plain]
 | 17 | [GG Be](https://open.spotify.com/track/5MPGtk7Ni67f76w0RV79GO) | [SEUNGRI](https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Let's Talk about Love](https://open.spotify.com/album/61nJoBqpC5qaF0g0Np0Ucw) | 3:37 |
 | 18 | [One Of The Girls \- Instrumental](https://open.spotify.com/track/7zNS5065xzKyhOBMOj7pCr) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 4:04 |
 
-Snapshot ID: `Z7gX7AAAAABCGG+oA79fdJ3pusoFx8cJ`
+Snapshot ID: `Z7gX7AAAAAChc8ocCW/sZQ58qfOfVSEu`

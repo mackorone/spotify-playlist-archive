@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,290 likes - 56 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,315 likes - 56 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 55 | [She’s Gone, Dance On \(Carlita Remix\)](https://open.spotify.com/track/5GFXl6uAUANwLkTeZmyr2R) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [She’s Gone, Dance On \(Carlita Remix\)](https://open.spotify.com/album/3SrOkzgu1SmZ8CiChMbKSt) | 3:34 |
 | 56 | [A SUNDAY AFTERNOON](https://open.spotify.com/track/0oNIpSBShJDvtNGRZ9H2E4) | [TREASURE SERIES](https://open.spotify.com/artist/5kcocqSSO8W0rpoNjuzXU1) | [A SUNDAY AFTERNOON](https://open.spotify.com/album/6GDxY4FOj3sVTyKmsWjVb6) | 3:13 |
 
-Snapshot ID: `Z3Pq8QAAAACD5l1gBDzizmbABj8Q7+fy`
+Snapshot ID: `Z3Pq8QAAAAA4YaAJgj3DfKBg4WBI/YoJ`

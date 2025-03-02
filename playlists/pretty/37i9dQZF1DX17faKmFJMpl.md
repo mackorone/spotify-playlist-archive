@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,271 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,276 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 34 | [The Movement](https://open.spotify.com/track/77tm4bsQ9boEXrlIOtI4eC) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:47 |
 | 35 | [Movement Ⅲ](https://open.spotify.com/track/5j4ZSzlf2kcP3gxs6bIVlf) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 4:27 |
 | 36 | [피해망상 Pt.3 \(with TBNY\)](https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [TBNY](https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j) | [High Society](https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq) | 3:56 |
-| 37 | [눈을 뜨면](https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:14 |
-| 38 | [It’s Me \(feat\. Epik High & MYK\)](https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Epik High & MYK](https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 4:15 |
+| 37 | [It’s Me \(feat\. Epik High & MYK\)](https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Epik High & MYK](https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 4:15 |
+| 38 | [눈을 뜨면](https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:14 |
 | 39 | [Handalas](https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Handalas](https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8) | 3:36 |
 | 40 | [선문답](https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Yangdonggeun a.k.a Madman](https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R) | 4:03 |
 | 41 | [Overclass \- 2021 Remaster](https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:43 |

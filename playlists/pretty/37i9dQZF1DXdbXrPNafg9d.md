@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Panda Bear
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,289,338 likes - 179 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289,390 likes - 179 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

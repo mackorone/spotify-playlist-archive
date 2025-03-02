@@ -1,13 +1,45 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 509,
+  "num_followers": 510,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADR4Oj8gW76UH1aw95vUQA0OcJB/+X",
+  "snapshot_id": "AAADSVTWmRaJf3+KT+FxNCUDn8ZDXNIX",
   "tracks": [
+    {
+      "added_at": "2025-03-01 12:37:45",
+      "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/4ku6hiP8aiueGRUtaDzwT0"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Case",
+          "url": "https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Free Tonight",
+      "url": "https://open.spotify.com/track/6Y0rTVgEHLbyv2LaFHMbHB"
+    },
+    {
+      "added_at": "2025-03-01 06:06:11",
+      "album": {
+        "name": "ROYALTY",
+        "url": "https://open.spotify.com/album/7x8QpxqMPfoN2rOYP50QGx"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Case",
+          "url": "https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt"
+        }
+      ],
+      "duration_ms": 185886,
+      "name": "ROYALTY",
+      "url": "https://open.spotify.com/track/7km3vpKM3z7Febi2p69ij3"
+    },
     {
       "added_at": "2025-02-28 23:20:11",
       "album": {

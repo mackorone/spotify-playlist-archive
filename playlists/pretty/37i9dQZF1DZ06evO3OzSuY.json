@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24514,
+  "num_followers": 24515,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAADf+wD7m4QxoPs0vsibDM5O",
+  "snapshot_id": "Z8D8gAAAAACXC6gL6pik9vDmg0NvQ2sy",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "X (feat. Zendaya)",
+      "url": "https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake It Up: Break It Down",
         "url": "https://open.spotify.com/album/18c2h2tjmiJYSFVe144llF"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 175546,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/6i2AmqDwaicOn2NGFsd5nn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "X (feat. Zendaya)",
-      "url": "https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 177586,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
+      "duration_ms": 218733,
+      "name": "Bottle You Up",
+      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 218733,
-      "name": "Bottle You Up",
-      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
+      "duration_ms": 177586,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
     },
     {
       "added_at": null,

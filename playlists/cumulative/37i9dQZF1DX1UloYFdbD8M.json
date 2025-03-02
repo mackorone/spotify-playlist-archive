@@ -1637,6 +1637,36 @@
     },
     {
       "album": {
+        "name": "Hridayam",
+        "url": "https://open.spotify.com/album/0BNMDoYVh5kJhlD0YeFrqI"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Aromal Chekaver",
+          "url": "https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa"
+        },
+        {
+          "name": "daszi",
+          "url": "https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp"
+        },
+        {
+          "name": "Achayan",
+          "url": "https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262736,
+      "name": "Hridayam",
+      "url": "https://open.spotify.com/track/3dP8bympjd6bjXnvDp1mVr"
+    },
+    {
+      "album": {
         "name": "HubB - Song Of Love",
         "url": "https://open.spotify.com/album/1irZV7ojma8ojEwuUgJSb0"
       },
@@ -3144,7 +3174,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-02",
       "duration_ms": 221395,
       "name": "Muthaane Chankaane",
       "url": "https://open.spotify.com/track/5X527N2Czc8NjGunkSLzjn"

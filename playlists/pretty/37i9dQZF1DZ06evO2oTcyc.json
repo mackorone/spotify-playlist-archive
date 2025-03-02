@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 215108,
+  "num_followers": 215170,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7+rAAAAAAAF/NJuJ09n8yZzO9bp7tY2",
+  "snapshot_id": "Z8D8gAAAAADLI6nPklfzZ78Mkys0GBgR",
   "tracks": [
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk/Spin",
-        "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 166039,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -951,22 +935,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Skii",
-        "url": "https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi"
+        "name": "Walk/Spin",
+        "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
       },
       "artists": [
         {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 166039,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold Off",
+        "url": "https://open.spotify.com/album/2WE7FKWBKFDzVWOIvJq1r9"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
         },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 183491,
-      "name": "7 AM in Munich (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/0gCyzW9xyAWSGtyHZ9g9bE"
+      "duration_ms": 186577,
+      "name": "I Don't Fuck With This Beat (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/5G3e5U4Dw0pZq4Y9y7mRSN"
     }
   ],
   "unique_name": "This Is Kodak Black",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Ochungulo family
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,978 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,985 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 7 | [KINARE](https://open.spotify.com/track/0B3KgzCTluFTPHsF54MbR6) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [mtap3li](https://open.spotify.com/artist/5u7wv4T187JbZSulLdVMYJ) | [KINARE](https://open.spotify.com/album/59RCYnLluTVay2gvf2VWa4) | 2:34 |
 | 8 | [Cheza Na Topa](https://open.spotify.com/track/397fL80iPmZjus6jDn2xFJ) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Cheza Na Topa](https://open.spotify.com/album/6v8glt0x5nXy4pRJxJ1AjP) | 3:33 |
 | 9 | [Weh Decide](https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Weh Decide](https://open.spotify.com/album/4OLUbUFLHsMaJzU06h98XL) | 2:34 |
-| 10 | [ANGUKA NAYO](https://open.spotify.com/track/4WuxxGa7qAMBpNFFyHsLlE) | [From The Hood Music](https://open.spotify.com/artist/40DnLKC6FCKwUjxBtQR1a0), [Wadagliz](https://open.spotify.com/artist/09anIildhJurE3DtSp8WLn) | [ANGUKA NAYO](https://open.spotify.com/album/3HWqTYcW19gYAjNUUfhPwm) | 3:15 |
+| 10 | [ANGUKA NAYO](https://open.spotify.com/track/4WuxxGa7qAMBpNFFyHsLlE) | [From The Hood Music](https://open.spotify.com/artist/40DnLKC6FCKwUjxBtQR1a0), [Wadaglizke](https://open.spotify.com/artist/4ekM2KeOiAJ5KzPUkxaTTZ) | [ANGUKA NAYO](https://open.spotify.com/album/3HWqTYcW19gYAjNUUfhPwm) | 3:15 |
 | 11 | [Khartoum](https://open.spotify.com/track/6HExKbPw3TLaw6DYzH3oY5) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [Khartoum](https://open.spotify.com/album/6GFcYdy32ZmkNf8fQ1vPzL) | 3:04 |
 | 12 | [Nionjeshe](https://open.spotify.com/track/1KhxioYFOjG4Mi3Y2Qkb3b) | [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Nionjeshe](https://open.spotify.com/album/6I55fFk9CefFgZXuSfn511) | 2:55 |
 | 13 | [Tumia Kichwa](https://open.spotify.com/track/00HWRumuMCgTOkHOZfpDl9) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [Tumia Kichwa](https://open.spotify.com/album/7miyTXPcc7MWLRRGYaA9JV) | 2:43 |

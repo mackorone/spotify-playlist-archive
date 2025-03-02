@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,426 likes - 382 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,427 likes - 382 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,7 +169,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 159 | [Fools Fall In Love \- Studio](https://open.spotify.com/track/6b9cSiYGzRUCHkYEdwxFa0) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3), [Stan Freeman](https://open.spotify.com/artist/4TGfwQOz95BUCCi8vJVjgu), [Cy Walter](https://open.spotify.com/artist/1PuSmNQqhL15IPZHByO08T) | [The Total \- Vol\. 1](https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH) | 3:00 |
 | 160 | [Along Came Ruth](https://open.spotify.com/track/1mxnYeXABJj2SmCN7DsJTc) | [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1) | [Irving Berlin's Easter Parade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2WUGy3NCzX96ACiUa98hty) | 1:05 |
 | 161 | [Tell Me a Bedtime Story](https://open.spotify.com/track/7aNxRJk1QPPUkGylONFQEg) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Imagine This](https://open.spotify.com/album/2pdT816OGENvHCI3HxTrbv) | 3:55 |
-| 162 | [Berlin: Dancing With Fred Astaire](https://open.spotify.com/track/5TjJnkRAdxPmycr2km00PK) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Jerome Kern](https://open.spotify.com/artist/09E7wcrEyqU2n1rnhzVT0h), [Arthur Schwarz](https://open.spotify.com/artist/4D1RdYEajBp4mBXnxb8Zyj), [Con Conrad](https://open.spotify.com/artist/7kTR6UIhWHADHW8DZfJbL9), [Vincent Youmans](https://open.spotify.com/artist/0kibIwgAWgIDqaIa0u3Ypf), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Salute To Hollywood](https://open.spotify.com/album/7iBNGfSgSONJwi9KOTKqGL) | 9:38 |
+| 162 | [Dancing With Fred Astaire](https://open.spotify.com/track/5TjJnkRAdxPmycr2km00PK) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Jerome Kern](https://open.spotify.com/artist/09E7wcrEyqU2n1rnhzVT0h), [Arthur Schwarz](https://open.spotify.com/artist/4D1RdYEajBp4mBXnxb8Zyj), [Con Conrad](https://open.spotify.com/artist/7kTR6UIhWHADHW8DZfJbL9), [Vincent Youmans](https://open.spotify.com/artist/0kibIwgAWgIDqaIa0u3Ypf), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Salute To Hollywood](https://open.spotify.com/album/7iBNGfSgSONJwi9KOTKqGL) | 9:38 |
 | 163 | [Mambo Five](https://open.spotify.com/track/5YKub7wA1oyjhMn7lII616) | [REMIX LE CLUB](https://open.spotify.com/artist/5cxSdNbcJ1PqO8wdvpSl05) | [Latino Dance Tracks](https://open.spotify.com/album/5Fc33y0SA18TyhTu2iwkC6) | 3:34 |
 | 164 | [Roof Garden \- Drum Crazy Reprise](https://open.spotify.com/track/4DZ40512IFfVjjK7Xf6V3O) | [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1) | [Irving Berlin's Easter Parade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2WUGy3NCzX96ACiUa98hty) | 1:06 |
 | 165 | [That Society Bear](https://open.spotify.com/track/4qD8d9llYy7kwnGlYzqTsN) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [The Mad Twenties](https://open.spotify.com/album/0VGFYIbdHUhfCtdAfixyWI) | 2:29 |
@@ -391,4 +391,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 381 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/7JFvWX08SxV1pJ4c1owVGy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 382 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `Abq1UgAAAAAwHczI9t754Exndb/uCZBl`
+Snapshot ID: `Abq68gAAAADeaUlcj8FHFJuT3LDRDuiC`

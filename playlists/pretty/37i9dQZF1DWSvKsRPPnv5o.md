@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Ty Dolla $ign, Mustard and YG
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,290 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,361 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 14 | [Intro](https://open.spotify.com/track/4arEh3ZrPb0XqHjNfcp101) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [My Evil Thoughts](https://open.spotify.com/album/7dpPnvmvx6aO07j685ayg2) | 2:19 |
 | 15 | [Tweaker \(feat\. Lil Wayne\) \- Remix](https://open.spotify.com/track/16m5nuykE5WbvIjSAFvK6E) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tweaker \(Remix\)](https://open.spotify.com/album/6bBfMv4a8sG6Qj8N1naxuX) | 3:38 |
 | 16 | [1 Drink 2 Many](https://open.spotify.com/track/1TlCkk6DxbS41hTVQEjhhf) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Halfway There](https://open.spotify.com/album/70u9s1ZchOeK4YFEMYPdKZ) | 4:03 |
-| 17 | [Wheels Fall Off \(feat\. Kanye West\)](https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Wheels Fall Off \(feat\. Kanye West\)](https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb) | 2:01 |
+| 17 | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yé](https://open.spotify.com/artist/6kE7ZdPoVgmtcwcIgm9QFr) | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb) | 2:01 |
 | 18 | [I Might Be \(feat\. Michael Prince\)](https://open.spotify.com/track/7M4kPlrBBAafltT5tY3DLf) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Mike G Beatz](https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb), [Michael Prince](https://open.spotify.com/artist/2fHlRBNOU7dkeZ2nOFBewO) | [I Might Be \(feat\. Michael Prince\)](https://open.spotify.com/album/1zr37zJFBR9r0uYDa7YDfz) | 3:28 |
 | 19 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 |
 | 20 | [All 10](https://open.spotify.com/track/7iCkpEdPra4Dwex4nwguaD) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Tweaker Mode](https://open.spotify.com/album/5JOH23VgkXBfaGPjVTPcux) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [STAY SAFE](https://open.spotify.com/track/6zF0upolmiaThxNs8tnb6n) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [BlueBucksClan](https://open.spotify.com/artist/04gIf2ntjvCBuhkFrkeiqH), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [STAY SAFE](https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt) | 3:02 |
 | 100 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
 
-Snapshot ID: `Z8FC/gAAAADoolXdmMnCEL1r2Vjkm9EU`
+Snapshot ID: `Z8FC/gAAAAASB1vFrEeZdKeQjoQenUqV`

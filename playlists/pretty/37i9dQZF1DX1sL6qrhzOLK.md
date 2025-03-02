@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 > 가장 트렌디한 예술 경험 Sync Next 24의 참여 아티스트의 추천곡과 대표곡을 즐겨보세요! \(Enjoy recommended and representative songs from participating artists of Sync Next 24, the trendiest art experience!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,164 likes - 22 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,166 likes - 22 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 84 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 84 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 83 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 84 | [Bullseye](https://open.spotify.com/track/57lxmFu1GsHgz6TCQg3iOl) | [Lukas](https://open.spotify.com/artist/3uZKKQew2u0fACpUypBGLO) | [Bullseye](https://open.spotify.com/album/3UScZ0tLexrUir6uAqbo18) | 3:00 |
 
-Snapshot ID: `Abq1UgAAAAChhegZ2qmme9ofprQzkthy`
+Snapshot ID: `Abq66AAAAAAeXbJwNoSBlnJ7+aGdTHl+`

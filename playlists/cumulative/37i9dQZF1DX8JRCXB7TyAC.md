@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-136 songs - 6 hr 46 min
+137 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Badmash](https://open.spotify.com/track/2LAeibIZBqlCD3HrlLSjjE) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Badmash](https://open.spotify.com/album/1UdeL0ma0I1LT1PAO4ut2B) | 2:33 | 2023-07-24 | 2023-08-01 |
 | [Badmash Bateu](https://open.spotify.com/track/2jnwvcGoSIxuY4xLAnJuzT) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB), [Kehar Kharkiya](https://open.spotify.com/artist/0BZEgC6IsnbuFOIOAu802I) | [Badmash Bateu](https://open.spotify.com/album/3vDXarnLcnZRmmahYwatq2) | 2:30 | 2023-07-24 | 2024-08-31 |
 | [Badmashan Ka Gaam](https://open.spotify.com/track/4iPqNt6wKhJUJXD5qm9bQu) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Badmashan Ka Gaam](https://open.spotify.com/album/6LND3ww5b7PjfvcOzXl7xv) | 2:24 | 2023-07-24 | 2024-02-23 |
-| [Bair Jaat Ka](https://open.spotify.com/track/7hXYsFmI2JpK1G71rAnaDA) | [CK Nara](https://open.spotify.com/artist/1TFtilwVj1KoItcly7EVHH), [Pratham The Haryanvi](https://open.spotify.com/artist/0Ye88zGXqHc6rQKninU0uZ) | [Bair Jaat Ka](https://open.spotify.com/album/4XzXLy32rzaaWfyd0Tf181) | 2:33 | 2024-04-17 |  |
+| [Bair Jaat Ka](https://open.spotify.com/track/7hXYsFmI2JpK1G71rAnaDA) | [CK Nara](https://open.spotify.com/artist/1TFtilwVj1KoItcly7EVHH), [Pratham The Haryanvi](https://open.spotify.com/artist/0Ye88zGXqHc6rQKninU0uZ) | [Bair Jaat Ka](https://open.spotify.com/album/4XzXLy32rzaaWfyd0Tf181) | 2:33 | 2024-04-17 | 2025-03-02 |
 | [Banda 2 Numbri](https://open.spotify.com/track/0U1QaF0SEwqSugoqMrOu1k) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB), [R K Crew](https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT) | [Banda 2 Numbri](https://open.spotify.com/album/7dkaPHQKE9BrttpGDcGkQr) | 2:49 | 2023-07-24 | 2024-08-31 |
 | [Bhaichara](https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bhaichara](https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb) | 3:26 | 2024-01-05 | 2024-03-09 |
 | [Binde](https://open.spotify.com/track/3dduicyXRRc56JhQyWvNPj) | [Sapna Choudhary](https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Binde](https://open.spotify.com/album/3GLVHpysgsLtisASRLPmWt) | 2:19 | 2023-07-24 | 2023-08-31 |
@@ -67,6 +67,7 @@
 | [Gym Flow](https://open.spotify.com/track/4PYajXxJ4lmVcuMKaev2rs) | [Najuk](https://open.spotify.com/artist/2MH0HWTkymqBj0bdVrMRIK), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Gym Flow](https://open.spotify.com/album/2odFnnbdCS2alv5Y7h9kKF) | 3:32 | 2025-02-15 |  |
 | [Ha Ha Ha](https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ha Ha Ha](https://open.spotify.com/album/5gxztKpDmQc00vuOCE9NtV) | 3:09 | 2024-04-17 |  |
 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 | 2023-07-24 |  |
+| [Haryana Side](https://open.spotify.com/track/7fHUxpAV4YIPnk0QIzmtGP) | [Ash Bhardwaj](https://open.spotify.com/artist/3S0GVWEMxgcQgMM7EScrX5), [Dhruv Balyan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Haryana Side](https://open.spotify.com/album/0Io4qN1ciIoZwubHch7Use) | 2:46 | 2025-02-27 |  |
 | [Haryana Style](https://open.spotify.com/track/29wpqIo0iw9JSJIFQMR7Re) | [Akash Dixit](https://open.spotify.com/artist/18BiZ5E9NLa7HYmdhaQcrn) | [Haryana Style](https://open.spotify.com/album/4E1YtRYy4RSm9MCuXQn6un) | 2:55 | 2023-07-24 | 2023-08-01 |
 | [Haryanvi Swag](https://open.spotify.com/track/3pnigHrG7LXFjnH3lbUcTz) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Haryanvi Swag](https://open.spotify.com/album/3PslA9S2V2vUDqRJo8z23C) | 2:23 | 2023-07-24 | 2024-08-01 |
 | [Hashtag](https://open.spotify.com/track/24zHwk9jgxzOHnOPuYIqAJ) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Hashtag](https://open.spotify.com/album/3bGxx8NysaqVYt3pR6r7de) | 3:09 | 2023-07-24 | 2023-08-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Sam Fender
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,784 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,797 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 74 | [Time Waited](https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Time Waited](https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF) | 3:39 |
 | 75 | [I Hate Myself](https://open.spotify.com/track/0KUsKZkRFZYkxUYgtvUBck) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [I Hate Myself](https://open.spotify.com/album/0QvAysHhIdFK1IC72MRueR) | 3:15 |
 
-Snapshot ID: `Z8Bh3AAAAAD6JjRQs+N8BkCc55mDb03c`
+Snapshot ID: `Z8Bh3AAAAADl6cBJtmwuu9mtslzVOghK`

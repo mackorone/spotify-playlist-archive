@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Charles Wesley Godwin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,852 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,040 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Something to You](https://open.spotify.com/track/21eiOnxVlk996lavh1nrW5) | [McCoy Moore](https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO) | [Something to You](https://open.spotify.com/album/3VOErOnbkiq9ZadCRxX5vm) | 3:09 |
 | 100 | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 |
 
-Snapshot ID: `Z8FC/gAAAABXg5ebsIirkIqfdkxjdulf`
+Snapshot ID: `Z8FC/gAAAAAc/3q9fenBS2dMJ9KI5K84`

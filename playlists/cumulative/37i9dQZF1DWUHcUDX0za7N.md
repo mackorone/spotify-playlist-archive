@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Pretty Boy D\-O
 
-551 songs - 1 day 2 hr 3 min
+552 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [LEAN!](https://open.spotify.com/track/0VSLiEDoFqM40mHGduBAWO) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ECEE](https://open.spotify.com/artist/4Fjy32nOkX6jFJlDjSjabL), [Rhoma BTW](https://open.spotify.com/artist/2J7GsZDs3M7SRN81uJvHPH), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Osapa London \- Deluxe](https://open.spotify.com/album/38SLubt4uf3dQJcLpRapoa) | 3:19 | 2023-12-08 | 2024-01-15 |
 | [Left Right](https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1) | [Left Right](https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK) | 2:40 | 2024-03-22 | 2024-11-22 |
 | [Legendary](https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:27 | 2022-06-23 | 2023-06-03 |
-| [Let Me Go](https://open.spotify.com/track/5erVR1Kb81BQH02BowvXH4) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm) | [Let Me Go](https://open.spotify.com/album/2VwqhYq2mHTDtHPwYYNxab) | 1:53 | 2025-02-14 |  |
+| [Let Me Go](https://open.spotify.com/track/5erVR1Kb81BQH02BowvXH4) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm) | [Let Me Go](https://open.spotify.com/album/2VwqhYq2mHTDtHPwYYNxab) | 1:53 | 2025-02-14 | 2025-03-02 |
 | [LETTER 222 DELE](https://open.spotify.com/track/5Mbo8cFWYs0Ww2MvoMWdwV) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [ROCK, PAPER, SCISSORS](https://open.spotify.com/album/6PeVBL2DDJgqkVyNUaHy2j) | 2:40 | 2024-10-25 | 2024-11-16 |
 | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA) | 2:18 | 2022-11-15 | 2024-07-19 |
 | [Lifestyle](https://open.spotify.com/track/0KOKyqR6sW9CporoouYTJV) | [88 Shades](https://open.spotify.com/artist/1OFgO1xhsc0JBIKXmcn6KZ), [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Lifestyle](https://open.spotify.com/album/4Zg6fQKeY8NZfPa27af2hq) | 3:08 | 2024-09-20 | 2024-11-16 |
@@ -337,6 +337,7 @@
 | [Never stopping](https://open.spotify.com/track/7bsexASUxrALdLNClTjjvJ) | [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [World Citizens](https://open.spotify.com/album/7rQGIVZH1sptr2Hq3Lqcy4) | 3:06 | 2022-06-23 | 2023-03-25 |
 | [New Wave](https://open.spotify.com/track/7HEvEpAXXzeqyb4VWbrGUS) | [Boy Rey](https://open.spotify.com/artist/1JPIT8C5kRpF7whVGxSGf9) | [New Wave](https://open.spotify.com/album/716KuiFuvH1gsBkE7j1J1I) | 2:30 | 2023-03-11 | 2023-03-18 |
 | [Next to Me](https://open.spotify.com/track/1dRcJH6gdBPnXKcvVU8SiB) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Beautiful Lies](https://open.spotify.com/album/2mPFn6vASk3VVP1M3nTeCM) | 3:16 | 2023-10-13 | 2023-10-27 |
+| [NFA \(Feat\. Phyno\)](https://open.spotify.com/track/33fmrAzAiCFBKO7ktWWWwc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:38 | 2025-02-28 |  |
 | [NI NIGERIA](https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf) | [Tomi Tribe](https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [NI NIGERIA](https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K) | 2:25 | 2023-05-04 | 2023-05-13 |
 | [NO CAP](https://open.spotify.com/track/2QH6xWPxHauaum2WJK6m6O) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [MOJO AF](https://open.spotify.com/artist/0O0V4TRjySfTG6HugFLY92) | [RELOAD X NO CAP](https://open.spotify.com/album/107Z1g0gYhZWLi2NFfhhVv) | 2:58 | 2023-05-19 | 2023-05-27 |
 | [No Gree For Anybody](https://open.spotify.com/track/3n4RST5zDQxlWEO1RimMVe) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [No Gree For Anybody](https://open.spotify.com/album/2XSghG0PK3xIgovbRiOq1N) | 2:57 | 2024-01-19 | 2024-01-26 |

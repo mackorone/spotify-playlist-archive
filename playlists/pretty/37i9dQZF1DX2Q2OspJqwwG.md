@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,551 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,569 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 53 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
 | 54 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
 | 55 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
-| 56 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 |
-| 57 | [delulu](https://open.spotify.com/track/1SE81pYo16nzr3vWfNzNlB) | [NESYA](https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp) | [Never Truly Happy](https://open.spotify.com/album/3pY25wIBpCPoLQFMES1Ahs) | 2:16 |
+| 56 | [delulu](https://open.spotify.com/track/1SE81pYo16nzr3vWfNzNlB) | [NESYA](https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp) | [Never Truly Happy](https://open.spotify.com/album/3pY25wIBpCPoLQFMES1Ahs) | 2:16 |
+| 57 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 |
 | 58 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:30 |
 | 59 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 |
 | 60 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
@@ -97,15 +97,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 87 | [X6](https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6](https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3) | 2:29 |
 | 88 | [Ia\-ma Du\-ma](https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Ia\-ma Du\-ma](https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG) | 2:48 |
 | 89 | [Fana](https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn) | [Jador](https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Fana](https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg) | 2:38 |
-| 90 | [ZODIAC](https://open.spotify.com/track/2uJnvTPC2FPmEGt9rgr003) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [ZODIAC](https://open.spotify.com/album/13rtFvvqeMf1YytUsuZhlN) | 3:16 |
-| 91 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 |
-| 92 | [Paharul sus](https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Paharul sus](https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z) | 2:49 |
-| 93 | [Scrum](https://open.spotify.com/track/0WY8Quy5XCZENngfyBrH4B) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Dhali](https://open.spotify.com/artist/5dJZz1wDTaRM9UBo1AODI2) | [Scrum](https://open.spotify.com/album/3zKY2z1eZxocc5MVb9kBjj) | 3:24 |
-| 94 | [Maria, Maria](https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Maria, Maria](https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE) | 2:40 |
-| 95 | [paradyse](https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [paradyse](https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e) | 3:31 |
-| 96 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 |
-| 97 | [Capu' sus](https://open.spotify.com/track/1qLJZttYKon9YHjyVCqcU3) | [Oana Radu](https://open.spotify.com/artist/2br2VHpIb5S6LIO9gz8P88), [Leo de la Rosiori](https://open.spotify.com/artist/1jA2b2NGlnvvoENpJt7To6) | [Capu' sus](https://open.spotify.com/album/3p3mmL7bmbZmIH6HEAwncQ) | 2:58 |
-| 98 | [Ador, Ador](https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Ador, Ador](https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K) | 2:30 |
+| 90 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 |
+| 91 | [ZODIAC](https://open.spotify.com/track/2uJnvTPC2FPmEGt9rgr003) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [ZODIAC](https://open.spotify.com/album/13rtFvvqeMf1YytUsuZhlN) | 3:16 |
+| 92 | [Maria, Maria](https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Maria, Maria](https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE) | 2:40 |
+| 93 | [Paharul sus](https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Paharul sus](https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z) | 2:49 |
+| 94 | [Scrum](https://open.spotify.com/track/0WY8Quy5XCZENngfyBrH4B) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Dhali](https://open.spotify.com/artist/5dJZz1wDTaRM9UBo1AODI2) | [Scrum](https://open.spotify.com/album/3zKY2z1eZxocc5MVb9kBjj) | 3:24 |
+| 95 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 |
+| 96 | [Capu' sus](https://open.spotify.com/track/1qLJZttYKon9YHjyVCqcU3) | [Oana Radu](https://open.spotify.com/artist/2br2VHpIb5S6LIO9gz8P88), [Leo de la Rosiori](https://open.spotify.com/artist/1jA2b2NGlnvvoENpJt7To6) | [Capu' sus](https://open.spotify.com/album/3p3mmL7bmbZmIH6HEAwncQ) | 2:58 |
+| 97 | [Ador, Ador](https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Ador, Ador](https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K) | 2:30 |
+| 98 | [paradyse](https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [paradyse](https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e) | 3:31 |
 | 99 | [Habibi](https://open.spotify.com/track/4EBATplQoU295eNOeONlAP) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Habibi](https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy) | 2:10 |
 | 100 | [Noaptea ne fură iubiri](https://open.spotify.com/track/7FWtSZefQHwgo6SJha7U0B) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Noaptea ne fură iubiri](https://open.spotify.com/album/6w8ToTBQfwsY7NqNgDUmHP) | 2:46 |
 
