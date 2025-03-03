@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,613 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,610 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Die falsche Alice](https://open.spotify.com/track/2pi0ozwKdDXhQNfnBencUE) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Die falsche Alice](https://open.spotify.com/album/5xusGtDXRfE99prBwN5l3z) | 2:43 |
 | 14 | [Ich fühl alles](https://open.spotify.com/track/5XE72unEySdfH6DYPu3qOE) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ich fühl alles](https://open.spotify.com/album/0UVl5ZvXuisLNeyMKj2IwA) | 2:37 |
 | 15 | [twotwentytwo](https://open.spotify.com/track/2zzSawnYOXqBlBUjnM3Qw8) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [twotwentytwo](https://open.spotify.com/album/0uXHkdz38QdvSb5NalVzUX) | 4:01 |
-| 16 | [Feel it](https://open.spotify.com/track/15V6a172Lx1oPZdBHoRjvx) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Feel zu spät](https://open.spotify.com/album/2GOXho7n1Z66yYaz1VyoD5) | 3:22 |
-| 17 | [swim](https://open.spotify.com/track/3z0wu0aE5CGRKyklWuBV6H) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [swim](https://open.spotify.com/album/6ac199VGYaOpv21gYAd3Ya) | 4:42 |
-| 18 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
-| 19 | [Whatever Happens](https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Whatever Happens](https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu) | 3:14 |
-| 20 | [Verstand](https://open.spotify.com/track/132hYYFSQrvbEscKmAiMF4) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Verstand](https://open.spotify.com/album/4WiWDDdZkQBglxFem1EzC5) | 3:11 |
+| 16 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
+| 17 | [Feel it](https://open.spotify.com/track/15V6a172Lx1oPZdBHoRjvx) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Feel zu spät](https://open.spotify.com/album/2GOXho7n1Z66yYaz1VyoD5) | 3:22 |
+| 18 | [swim](https://open.spotify.com/track/3z0wu0aE5CGRKyklWuBV6H) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [swim](https://open.spotify.com/album/6ac199VGYaOpv21gYAd3Ya) | 4:42 |
+| 19 | [Verstand](https://open.spotify.com/track/132hYYFSQrvbEscKmAiMF4) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Verstand](https://open.spotify.com/album/4WiWDDdZkQBglxFem1EzC5) | 3:11 |
+| 20 | [Whatever Happens](https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Whatever Happens](https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu) | 3:14 |
 | 21 | [Rodeo](https://open.spotify.com/track/3AK1IvwhjvgOAWhl7wuhe6) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Rodeo](https://open.spotify.com/album/6RDWlOjG7KfF1vKnqXr77Z) | 3:48 |
 | 22 | [Lumen](https://open.spotify.com/track/4Mm00zTo9ZWp6SAGBwyafq) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Lumen](https://open.spotify.com/album/2RRFD49K7raiEzRqDCEAjp) | 2:23 |
 | 23 | [Self Sabotage](https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MADWOMAN](https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4) | 2:55 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 31 | [Alrighter](https://open.spotify.com/track/5EjKXX2MhPDhc9ZAN4jb0v) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Alrighter](https://open.spotify.com/album/77gIRxGo9KuhAy2zDEQjDW) | 2:18 |
 | 32 | [Raketendicht](https://open.spotify.com/track/33f1v9SQeiMLIa6F1J9z5G) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Raketendicht](https://open.spotify.com/album/5EtYWAAiAoFQVMwRcRWhYt) | 2:13 |
 | 33 | [silbertablett](https://open.spotify.com/track/3d5uy1dirx1L8zaNf2crD4) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [silbertablett](https://open.spotify.com/album/1qeNOzoSIRT9HcV728CBFh) | 3:15 |
-| 34 | [Haven](https://open.spotify.com/track/3Ga9IAW9YXepKjjPe90QG2) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Haven](https://open.spotify.com/album/2awfGPTU1Hwk3PbT9vRuln) | 3:28 |
-| 35 | [Günlerdir](https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Günlerdir](https://open.spotify.com/album/7hsY9iNJdBikkPtNwjwAWt) | 2:45 |
+| 34 | [Günlerdir](https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Günlerdir](https://open.spotify.com/album/7hsY9iNJdBikkPtNwjwAWt) | 2:45 |
+| 35 | [Haven](https://open.spotify.com/track/3Ga9IAW9YXepKjjPe90QG2) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Haven](https://open.spotify.com/album/2awfGPTU1Hwk3PbT9vRuln) | 3:28 |
 | 36 | [ich würde dich nie bereuen](https://open.spotify.com/track/6713t6b4uZcp7GpIM0K5Mk) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [ich würde dich nie bereuen](https://open.spotify.com/album/3u7LxCDUx741Q0JLe991HL) | 2:44 |
 | 37 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 |
 | 38 | [A.D.H.D](https://open.spotify.com/track/05NRzMMliU7KUQ0ffT1grm) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [A.D.H.D](https://open.spotify.com/album/5TbX4x7ZtxtEaRK1QFY1J7) | 2:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 46 | [Mondlicht](https://open.spotify.com/track/6Y8I0EChdGc7SOfL7yUy43) | [ANNA YUNA](https://open.spotify.com/artist/69NHshm7qWQWGOURezT9b5) | [Mondlicht](https://open.spotify.com/album/0YCSfDr5wwILrPBsSOCVBv) | 3:03 |
 | 47 | [state of mind](https://open.spotify.com/track/1ghVvUCAvQqRX2NWCIgRsC) | [Caterina Lee](https://open.spotify.com/artist/6zl6Aka2rXHKuj8res8Byw) | [state of mind](https://open.spotify.com/album/0hvXDgdGeGBWjsGX57wGEI) | 3:07 |
 | 48 | [Pretty Garden](https://open.spotify.com/track/2bQn0Gy1EJpfKle1kq1h1n) | [Emma Elisabeth](https://open.spotify.com/artist/2VUB65X1Ejr1VWUKRUyCoq) | [Pretty Garden](https://open.spotify.com/album/70pjrDbm2asI2dPLiFBkP0) | 3:34 |
-| 49 | [Power](https://open.spotify.com/track/7ce8V90wpaseWbPudzbmp6) | [Laini](https://open.spotify.com/artist/4WdjNB2ZFJ3beIF1MmY8eQ) | [Power](https://open.spotify.com/album/6SPIl9SkURZIpxi0Kxx4OD) | 4:24 |
-| 50 | [Warten](https://open.spotify.com/track/3Jv39bT5Hrmky8GhqZ2rJW) | [YUILA](https://open.spotify.com/artist/3BvAlKnT4q1WKf3UqhLJP3) | [Warten](https://open.spotify.com/album/6Bgxinb5nr5IshryaHlvFj) | 3:57 |
+| 49 | [Warten](https://open.spotify.com/track/3Jv39bT5Hrmky8GhqZ2rJW) | [YUILA](https://open.spotify.com/artist/3BvAlKnT4q1WKf3UqhLJP3) | [Warten](https://open.spotify.com/album/6Bgxinb5nr5IshryaHlvFj) | 3:57 |
+| 50 | [Power](https://open.spotify.com/track/7ce8V90wpaseWbPudzbmp6) | [Laini](https://open.spotify.com/artist/4WdjNB2ZFJ3beIF1MmY8eQ) | [Power](https://open.spotify.com/album/6SPIl9SkURZIpxi0Kxx4OD) | 4:24 |
 
 Snapshot ID: `Z6KcFwAAAAD83nMiclcY7GMSSoUsT6ji`

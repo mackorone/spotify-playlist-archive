@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,260 likes - 190 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,535 likes - 190 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 189 | [Clouds & Rainbows](https://open.spotify.com/track/6srEPAMJQ8JaVK9IvXmlCS) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 3:09 |
 | 190 | [Rain Moves Aside](https://open.spotify.com/track/2qpyDvBNKE9uSaWL0H8cuM) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Rain Moves Aside](https://open.spotify.com/album/2ePJcR2LULuHH4hplAlkTE) | 3:16 |
 
-Snapshot ID: `Z8GGAwAAAADSz0CO5IUoNYfT8p7nbWUU`
+Snapshot ID: `Z8GGAwAAAADOxZC0cizbIZGCJVZkh2/T`

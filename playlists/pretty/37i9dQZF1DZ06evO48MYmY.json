@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 340621,
+  "num_followers": 340651,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8D8gAAAAAA+TtbQHxs44YOmq921ZQza",
+  "snapshot_id": "Z8JOAAAAAADpnEkaYW8vmkBjCZE8ChJl",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 142293,
-      "name": "At the Zoo",
-      "url": "https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Friends Live On Stage",
         "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 194346,
       "name": "Citizen of the Planet",
       "url": "https://open.spotify.com/track/1ir7Or967weO0kwfatM7W5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 142293,
+      "name": "At the Zoo",
+      "url": "https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX"
     },
     {
       "added_at": null,

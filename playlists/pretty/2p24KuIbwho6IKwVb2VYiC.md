@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Jonas Blue, Izzy Bizu
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,123 likes - 101 songs - 5 hr 13 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,129 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

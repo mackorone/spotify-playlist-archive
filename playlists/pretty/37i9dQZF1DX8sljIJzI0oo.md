@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Yan Block is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,932,938 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,933,002 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [111](https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [111](https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ) | 2:33 |
 | 2 | [BADDIE](https://open.spotify.com/track/0ZYNhBbIJP1N9Jak1evA9s) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [BADDIE](https://open.spotify.com/album/7hp1Q0RrnHgSU9G5sMFxGp) | 4:54 |
 | 3 | [FANTASÍA](https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [FANTASÍA](https://open.spotify.com/album/0qotDgu0CuYiWrg2JvaTSs) | 3:06 |
-| 4 | [Chulx](https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Chulx](https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu) | 3:03 |
+| 4 | [Chulx](https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Chulx](https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu) | 3:03 |
 | 5 | [PROTAGONISTA](https://open.spotify.com/track/2IzSUbDjTU9Mce7dDac9VK) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIIKE \(DELUXE\)](https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj) | 2:41 |
 | 6 | [Pensándote](https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:36 |
 | 7 | [BITCH](https://open.spotify.com/track/1A52hRsdNSKGG9kk2KjoJa) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5) | [BITCH](https://open.spotify.com/album/4Otta360UtYGlUraxL2YDt) | 2:57 |

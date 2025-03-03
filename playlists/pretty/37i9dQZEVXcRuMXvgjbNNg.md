@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
 | 30 | [To All of You](https://open.spotify.com/track/7yC7FWZz24L43brXzNpLWT) | [Syd Matters](https://open.spotify.com/artist/4kDmwaDsfY9hcvz7K0otLJ) | [Someday We Will Foresee Obstacles](https://open.spotify.com/album/3T5qThuaH5w6bDNCxZxv0X) | 4:43 |
 
-Snapshot ID: `Z7v80AAAAAAbPC45EHpxtBhSuRM/fRzg`
+Snapshot ID: `Z7v80AAAAABQnDHNIJh63Yp/my9GEzL2`

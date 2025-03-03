@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-42 songs - 4 hr 26 min
+43 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Lost In Your Love \- Live](https://open.spotify.com/track/5sKovJKHO8vXmY6sXb2LMo) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 4:15 | 2024-06-13 |  |
 | [Made for This](https://open.spotify.com/track/2H1vftx4WiRdjS62Xt8eAR) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [Garage Sessions](https://open.spotify.com/album/7sYRMyfJUnM4mmtq1RU3jf) | 5:36 | 2025-01-09 |  |
 | [Mark My Hands](https://open.spotify.com/track/5WzwrBudvjpvUn3kR2vte8) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Garage Sessions](https://open.spotify.com/album/7sYRMyfJUnM4mmtq1RU3jf) | 5:43 | 2025-01-09 |  |
+| [MARVELOUS](https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [MARVELOUS](https://open.spotify.com/album/0y8KqMQunAIul7iMRcS67i) | 6:54 | 2025-03-02 |  |
 | [No One Else \(Tear Down The Idols\) \- Live](https://open.spotify.com/track/2BrWJMN0CXvsHiaJRY7HFP) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 10:36 | 2024-06-13 |  |
 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2bc8dK2VSBuLHMkqDfT8k1) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y) | [No One Like The Lord \(We Crown You\) \[Live\]](https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ) | 6:01 | 2024-07-03 |  |
 | [No Orphans In Heaven \(Let It Be So On Earth\)](https://open.spotify.com/track/3zffhEA1Pf2wXz3sCJZ9fb) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [No Orphans In Heaven \(Let It Be So On Earth\)](https://open.spotify.com/album/0ZrAHRRR8NIaoXdXQ1G0ju) | 5:17 | 2024-06-13 |  |

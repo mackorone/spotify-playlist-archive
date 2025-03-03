@@ -1,6 +1,6 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 917634,
+  "num_followers": 917748,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
+        "name": "Nature's Peaceful Sounds",
+        "url": "https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Peninsula Rain",
+      "url": "https://open.spotify.com/track/3I07DM1i1NtRP3F458yQgs"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
         "name": "Emerald Meadows (Green Noise)",
         "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 143406,
       "name": "Oceanic",
       "url": "https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
-        "name": "Nature's Peaceful Sounds",
-        "url": "https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y"
-      },
-      "artists": [
-        {
-          "name": "The Nature Soundscapes",
-          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Peninsula Rain",
-      "url": "https://open.spotify.com/track/3I07DM1i1NtRP3F458yQgs"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Sunday Night Waves",
-        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
-      },
-      "artists": [
-        {
-          "name": "Microdynamic Recordings",
-          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
-        }
-      ],
-      "duration_ms": 180777,
-      "name": "Calm Pouring Ocean",
-      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Scandinavian waters",
         "url": "https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 172960,
       "name": "Distant Waves Pt. 1",
       "url": "https://open.spotify.com/track/1a02pxK7AH63PZhGMUCUCh"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
+        "name": "Sunday Night Waves",
+        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
+      },
+      "artists": [
+        {
+          "name": "Microdynamic Recordings",
+          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
+        }
+      ],
+      "duration_ms": 180777,
+      "name": "Calm Pouring Ocean",
+      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
+        "name": "Ocean HD Vol. 2",
+        "url": "https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Morning By The Ocean",
+      "url": "https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
         "name": "Timed Tibetan Bowl Meditation (Loopable)",
         "url": "https://open.spotify.com/album/0YskWkpftquyWyCwvbAWCQ"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Ocean HD Vol. 2",
-        "url": "https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU"
+        "name": "Chill Day by the River",
+        "url": "https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv"
       },
       "artists": [
         {
-          "name": "Worldwide Nature Studios",
-          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+          "name": "Calming Water Sounds",
+          "url": "https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx"
         }
       ],
-      "duration_ms": 188374,
-      "name": "Morning By The Ocean",
-      "url": "https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju"
+      "duration_ms": 147586,
+      "name": "Beruhigender Bach",
+      "url": "https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Coastal Relaxation",
-        "url": "https://open.spotify.com/album/2P2hdKyXirmgc60wEMylrL"
-      },
-      "artists": [
-        {
-          "name": "California Coast Sound Recordings",
-          "url": "https://open.spotify.com/artist/3m9UYzHMMeHADsX91DgQ4V"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Morning Waves Monterey County",
-      "url": "https://open.spotify.com/track/1d7oQ7sOvgUFiq6G7X3eIO"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Rain Day",
         "url": "https://open.spotify.com/album/7H7Mh2c47UIakZJlkwEYAs"
       },
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Chill Day by the River",
-        "url": "https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv"
+        "name": "Coastal Relaxation",
+        "url": "https://open.spotify.com/album/2P2hdKyXirmgc60wEMylrL"
       },
       "artists": [
         {
-          "name": "Calming Water Sounds",
-          "url": "https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx"
+          "name": "California Coast Sound Recordings",
+          "url": "https://open.spotify.com/artist/3m9UYzHMMeHADsX91DgQ4V"
         }
       ],
-      "duration_ms": 147586,
-      "name": "Beruhigender Bach",
-      "url": "https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N"
+      "duration_ms": 190250,
+      "name": "Morning Waves Monterey County",
+      "url": "https://open.spotify.com/track/1d7oQ7sOvgUFiq6G7X3eIO"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Rain Dance Sounds",
-        "url": "https://open.spotify.com/album/1CKrMwqgoOHP51S6EqC65q"
-      },
-      "artists": [
-        {
-          "name": "Lullaby Rain",
-          "url": "https://open.spotify.com/artist/5wIxFf9jir05erRCw4Jyr1"
-        }
-      ],
-      "duration_ms": 131535,
-      "name": "Rain Dance Sounds",
-      "url": "https://open.spotify.com/track/4PI3a6dZjAYoHp1zI0pIOW"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Rain Temperature",
         "url": "https://open.spotify.com/album/1u5TyUwxUZCDh7ioaiLFzS"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 150836,
       "name": "Why Not Rain",
       "url": "https://open.spotify.com/track/0qWVYFo7HO1cUDXDgnGSE5"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
+        "name": "Rain Dance Sounds",
+        "url": "https://open.spotify.com/album/1CKrMwqgoOHP51S6EqC65q"
+      },
+      "artists": [
+        {
+          "name": "Lullaby Rain",
+          "url": "https://open.spotify.com/artist/5wIxFf9jir05erRCw4Jyr1"
+        }
+      ],
+      "duration_ms": 131535,
+      "name": "Rain Dance Sounds",
+      "url": "https://open.spotify.com/track/4PI3a6dZjAYoHp1zI0pIOW"
     },
     {
       "added_at": "2025-02-19 14:39:42",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-02-19 14:39:42",
       "album": {
-        "name": "Noises Of Ambience",
-        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
-      },
-      "artists": [
-        {
-          "name": "Noises Of Ambience",
-          "url": "https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "Natures White Noise",
-      "url": "https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd"
-    },
-    {
-      "added_at": "2025-02-19 14:39:42",
-      "album": {
         "name": "Augmentation De La Temp\u00e9rature",
         "url": "https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 138205,
       "name": "\u00c9lev\u00e9 Naturel",
       "url": "https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG"
+    },
+    {
+      "added_at": "2025-02-19 14:39:42",
+      "album": {
+        "name": "Noises Of Ambience",
+        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
+      },
+      "artists": [
+        {
+          "name": "Noises Of Ambience",
+          "url": "https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316"
+        }
+      ],
+      "duration_ms": 145635,
+      "name": "Natures White Noise",
+      "url": "https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd"
     },
     {
       "added_at": "2025-02-19 14:39:42",

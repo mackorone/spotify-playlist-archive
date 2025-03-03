@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Myke Towers, Junior H y The Rudeboyz y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,532 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,553 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 80 | [Planeta DeAgostini](https://open.spotify.com/track/4CcenPekBydKwyRJKtvFcY) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [Joc de nens](https://open.spotify.com/album/5SoJX0KUIsSEv97sVVfn9P) | 2:50 |
 | 81 | [JOHATSU](https://open.spotify.com/track/6YBNoqmfANpeMxYP1PDqro) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm) | [JOHATSU](https://open.spotify.com/album/4FcgWrGtWjxVQbMxBjMro1) | 2:20 |
 
-Snapshot ID: `Z8GPpgAAAAC430jDbOcyIW/pn4n8cJDw`
+Snapshot ID: `Z8GPpgAAAABYC3b6wN7PhxFlUGX8TdiG`

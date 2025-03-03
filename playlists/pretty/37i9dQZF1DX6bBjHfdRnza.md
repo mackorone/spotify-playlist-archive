@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Tiffy Vera\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,345 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,406 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Give U \(All The Love\)](https://open.spotify.com/track/10g3i4raFjBaSGTqhqvuoz) | [ELTE](https://open.spotify.com/artist/0lJnzsWsM8QkTBEk3JYtSv), [Poppie de Paris](https://open.spotify.com/artist/4VnXwuwgVaDjzncgoFPEJo) | [FROM LUST TO YOU](https://open.spotify.com/album/4cGoaOJxdB86dCMSOi1Y4v) | 2:51 |
 | 100 | [HIGHER](https://open.spotify.com/track/7bzlFabE42gI3jTP5Wtc9u) | [Fraxy](https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa) | [HIGHER](https://open.spotify.com/album/5mZnnmsDpQMxhkwPkibBxp) | 2:14 |
 
-Snapshot ID: `Z8G4UAAAAADBQGpMo5J3bBwe53CPoPsz`
+Snapshot ID: `Z8G4UAAAAAAgpiUcsCWz0zvH3HPLaZH0`

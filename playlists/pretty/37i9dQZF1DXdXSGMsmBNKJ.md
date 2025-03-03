@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXSGMsmBNKJ.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Interest of Love\. \(JTBC 드라마 사랑의 이해의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들도 플레이리스트와 클립스를 통해 확인하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,478 likes - 74 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,477 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXSGMsmBNKJ.md) - [plain]
 | 73 | [Symphony \- Instrumental](https://open.spotify.com/track/2yrOenSlzZek32tNuLj7TZ) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [The Interest of Love \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/1X2QS86OFJhd77rBC1bwCo) | 3:11 |
 | 74 | [Happiness \- Instrumental](https://open.spotify.com/track/1saKju02GllZrcXOSHaP8B) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
 
-Snapshot ID: `ZIsTwAAAAAC0rnaj/7ZdwKehI4TfN81F`
+Snapshot ID: `ZIsTwAAAAADwMHZGvO4kOhz6oSrPF4nb`

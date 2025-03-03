@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "EDM Gaming Energy Boost",
+        "url": "https://open.spotify.com/album/6gRDEE1FXYgblES7yADmu1"
+      },
+      "artists": [
+        {
+          "name": "Le Delacroix",
+          "url": "https://open.spotify.com/artist/3P6sbTAoScXwESIgUG0PmH"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/3R8hu5b33Pq2ucV4V7fPqv"
+    },
+    {
+      "album": {
         "name": "Alibi (feat. Rudimental)",
         "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,826 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,830 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 61 | [Door En Door](https://open.spotify.com/track/7cATx9Gorgj9VCl97NCWRe) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Door En Door](https://open.spotify.com/album/4MM2s2BHa319dYoeSD4e9h) | 3:13 |
 | 62 | [Baanvast](https://open.spotify.com/track/57FSnx08Q8nerwakSleflV) | [Fabiow](https://open.spotify.com/artist/1ajwQHm69MonB1oaH6ZPBH) | [RODEO DELUXE](https://open.spotify.com/album/5GRwkcoiJS5IU0W6aeJ1Xm) | 2:16 |
 | 63 | [Respire](https://open.spotify.com/track/6625f1ieygN1RJWPyYL1YZ) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P) | [Respire](https://open.spotify.com/album/4cTrZ66iQt2uLMBx9BSJwT) | 2:47 |
-| 64 | [Maybach \(feat\. 1PLIKÉ140\)](https://open.spotify.com/track/5d3i2SqCrICPjZdGoGcEHP) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [Maybach \(feat\. 1PLIKÉ140\)](https://open.spotify.com/album/6xkK9flghyvucdNFOEba1W) | 2:10 |
+| 64 | [Maybach](https://open.spotify.com/track/5d3i2SqCrICPjZdGoGcEHP) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [Maybach](https://open.spotify.com/album/6xkK9flghyvucdNFOEba1W) | 2:10 |
 | 65 | [GAUCHE DROITE](https://open.spotify.com/track/3g1CbQIhd6HeCg6bzy3jDB) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [GAUCHE DROITE](https://open.spotify.com/album/41IZhPYwPPIhejAcFiaIOW) | 3:25 |
 | 66 | [Bring it on](https://open.spotify.com/track/4vAyxUQAASVlWXsDr3tMyh) | [WIM](https://open.spotify.com/artist/1uaxMtVqqBxUr3wt8wcUky), [Nag](https://open.spotify.com/artist/70BkuJ1yvxLPxLtckPTZOC), [Toma Beats](https://open.spotify.com/artist/53nbN19i6xpB92POL1DKXZ) | [Bring it on](https://open.spotify.com/album/1ASAxhW9hA0R7qlsfOVLwd) | 3:33 |
 | 67 | [BROKEN MEMORY](https://open.spotify.com/track/0J1SDgfuweuPywDSDqYEXf) | [Loyk](https://open.spotify.com/artist/018KlCBuuEPsRQRWu2AJ27) | [BROKEN MEMORY](https://open.spotify.com/album/53epiQ72ShkhjDgNxCKlWO) | 2:59 |

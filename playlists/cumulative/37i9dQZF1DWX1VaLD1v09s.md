@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-495 songs - 1 day 16 hr 53 min
+496 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Made Alive](https://open.spotify.com/track/7zb6qjGi5l9cgUjYaoYI3Y) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Citizens](https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE) | 3:26 | 2022-04-02 |  |
 | [Man Of Sorrows \- Live](https://open.spotify.com/track/7tURQQhMTcJXIVe1dvji7v) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Glorious Ruins \(Live\)](https://open.spotify.com/album/7xLjYHAsg4pe76OLFWGFks) | 5:14 | 2021-04-04 | 2022-07-29 |
 | [Mary Don't You Weep](https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO) | [Trin\-I\-Tee 5:7](https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I) | [Trin\-i\-tee 5:7](https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj) | 5:08 | 2022-04-02 | 2024-12-22 |
-| [Mary, Don't You Weep \- Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72](https://open.spotify.com/track/7hqesNgWCx8NZTHl4MXkPF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Amazing Grace \(Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72\)](https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0) | 7:26 | 2022-04-02 |  |
+| [Mary, Don't You Weep \- Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72](https://open.spotify.com/track/7hqesNgWCx8NZTHl4MXkPF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Amazing Grace \(Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72\)](https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0) | 7:26 | 2022-04-02 | 2025-03-03 |
 | [Mercy \- Live](https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Your Grace Finds Me \(Live\)](https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU) | 5:34 | 2021-04-04 |  |
 | [Messiah / You're Beautiful](https://open.spotify.com/track/0W5TB5VNs0J16suh3r67P1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/52PYPu1gsuo3r27WDWTnb2) | 4:53 | 2021-04-04 | 2022-07-18 |
 | [Messiah / You're Beautiful](https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC) | 4:53 | 2022-04-17 | 2024-04-19 |
@@ -338,6 +338,7 @@
 | [Praise The Lord \(Evermore\)](https://open.spotify.com/track/6WcsemtdQ28Zv0BgyNMlqf) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt) | [Mercy Road](https://open.spotify.com/album/1F4VHbkuzttYQWTH1aUckk) | 4:44 | 2022-04-02 | 2022-04-19 |
 | [Precious Blood](https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:41 | 2023-04-02 | 2024-08-02 |
 | [Precious Love \- Live](https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Sing! The Great Commission \- World Tour \(Live\)](https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF) | 5:02 | 2024-03-20 |  |
+| [Prepare The Way](https://open.spotify.com/track/6b9SUi3Kc19DKilrsGzLe0) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Grace In The Wilderness](https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w) | 4:15 | 2024-07-02 |  |
 | [Rain / Reign](https://open.spotify.com/track/2pYthXNB2BrOeqtd5bwPym) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:34 | 2022-04-02 | 2022-04-21 |
 | [Raised to Life](https://open.spotify.com/track/30RW68MDzmo1S9WHJLxoW1) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Raised to Life](https://open.spotify.com/album/2YHfI6VhuGzyHre59GZRDq) | 4:21 | 2022-04-02 | 2022-04-21 |
 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 | 2021-04-04 | 2024-10-31 |

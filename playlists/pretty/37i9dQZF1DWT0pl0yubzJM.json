@@ -1,6 +1,6 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 17067,
+  "num_followers": 17074,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+      },
+      "artists": [
+        {
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "Siempre Acampa",
+      "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
         "name": "Amor Amarillo",
         "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
       },
@@ -155,54 +171,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "ANDATE",
-      "url": "https://open.spotify.com/track/3LQ4SNMbPBpVY5XYxQloCT"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
-      },
-      "artists": [
-        {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "Siempre Acampa",
-      "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Vida Modelo",
-        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
-      },
-      "artists": [
-        {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Vida Modelo",
-      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Fabrico Cuero",
         "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
       },
@@ -215,22 +183,6 @@
       "duration_ms": 178493,
       "name": "Fabrico Cuero",
       "url": "https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Amor Amarillo",
-        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 263093,
-      "name": "Rombos (Un Cuarto Lleno de Rombos)",
-      "url": "https://open.spotify.com/track/3Y1HyEI4ommUvkLuhMm7Sn"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -251,18 +203,34 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
       },
       "artists": [
         {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
         }
       ],
-      "duration_ms": 173293,
-      "name": "Escafandra",
-      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
+      "duration_ms": 250000,
+      "name": "ANDATE",
+      "url": "https://open.spotify.com/track/3LQ4SNMbPBpVY5XYxQloCT"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Vida Modelo",
+        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
+      },
+      "artists": [
+        {
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Vida Modelo",
+      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -299,18 +267,34 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Todos Tus Muertos",
-        "url": "https://open.spotify.com/album/58GZrNOJyanBdSRnKqrJfK"
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
       },
       "artists": [
         {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 158026,
-      "name": "Gente Que No",
-      "url": "https://open.spotify.com/track/0nShxrQfMcHl2sTcUst04Q"
+      "duration_ms": 263093,
+      "name": "Rombos (Un Cuarto Lleno de Rombos)",
+      "url": "https://open.spotify.com/track/3Y1HyEI4ommUvkLuhMm7Sn"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+      },
+      "artists": [
+        {
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "Escafandra",
+      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -327,38 +311,6 @@
       "duration_ms": 158786,
       "name": "Agujeros Negros",
       "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Emporio Bizarro",
-        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
-      },
-      "artists": [
-        {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "Desaparecedor",
-      "url": "https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Los 7 Delfines",
-        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
-      },
-      "artists": [
-        {
-          "name": "Los Siete Delfines",
-          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Post Crucifixion",
-      "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -395,6 +347,54 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
+        "name": "Todos Tus Muertos",
+        "url": "https://open.spotify.com/album/58GZrNOJyanBdSRnKqrJfK"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 158026,
+      "name": "Gente Que No",
+      "url": "https://open.spotify.com/track/0nShxrQfMcHl2sTcUst04Q"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Emporio Bizarro",
+        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
+      },
+      "artists": [
+        {
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "Desaparecedor",
+      "url": "https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Los 7 Delfines",
+        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
+      },
+      "artists": [
+        {
+          "name": "Los Siete Delfines",
+          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Post Crucifixion",
+      "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
         "name": "Colores Santos",
         "url": "https://open.spotify.com/album/4erCMQs14Tol0V6EyaR5du"
       },
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
+        "name": "Chaco (Serie Rock Nacional 2004)",
+        "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Remisero",
+      "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
         "name": "A Un Mill\u00f3n De A\u00f1os Blues",
         "url": "https://open.spotify.com/album/3MCGoXzDyQPl6rvbFwerHI"
       },
@@ -427,38 +443,6 @@
       "duration_ms": 167133,
       "name": "Pr\u00edncipe Oscuro",
       "url": "https://open.spotify.com/track/42tVa3K9P6LrWxCStRlVXL"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 y Yo Sigo Volando",
-        "url": "https://open.spotify.com/album/6oCgx5mp3ZK7AbMKmMLBUz"
-      },
-      "artists": [
-        {
-          "name": "Jaime Sin Tierra",
-          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "Marmota",
-      "url": "https://open.spotify.com/track/2uBslBzniJrOGbVBuUeFjB"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "SE QUE NO/REKEBRA",
-      "url": "https://open.spotify.com/track/1S8nrL6kv2sVdmcVkBBJAM"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -479,6 +463,22 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
+        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 y Yo Sigo Volando",
+        "url": "https://open.spotify.com/album/6oCgx5mp3ZK7AbMKmMLBUz"
+      },
+      "artists": [
+        {
+          "name": "Jaime Sin Tierra",
+          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Marmota",
+      "url": "https://open.spotify.com/track/2uBslBzniJrOGbVBuUeFjB"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
         "name": "Emporio Bizarro",
         "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
@@ -491,6 +491,38 @@
       "duration_ms": 234613,
       "name": "Microman",
       "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Manzana De Metal",
+        "url": "https://open.spotify.com/album/3NzIeLgS5p4zsUe57ySoPj"
+      },
+      "artists": [
+        {
+          "name": "Altocamet",
+          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+        }
+      ],
+      "duration_ms": 263187,
+      "name": "Atl\u00e1ntico",
+      "url": "https://open.spotify.com/track/5SBHe1oW1CsVw1hQp28bTy"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SE QUE NO/REKEBRA",
+      "url": "https://open.spotify.com/track/1S8nrL6kv2sVdmcVkBBJAM"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -511,54 +543,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Chaco (Serie Rock Nacional 2004)",
-        "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Remisero",
-      "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Trece",
-      "url": "https://open.spotify.com/track/485OU7VBMjCAAFL2JYAsoH"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Miss Universo",
-        "url": "https://open.spotify.com/album/1jwoX5cSB5SVcSt0onPYw4"
-      },
-      "artists": [
-        {
-          "name": "Carca",
-          "url": "https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Emoci\u00f3n Diamante",
-      "url": "https://open.spotify.com/track/4jVnGWG8LDOEbD7iOcWb2V"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Colores Santos",
         "url": "https://open.spotify.com/album/4erCMQs14Tol0V6EyaR5du"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 323640,
       "name": "Pudo Ser",
       "url": "https://open.spotify.com/track/26lEheREspOWbnNdHyXYp9"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Modelo 96",
+        "url": "https://open.spotify.com/album/2uGNKMnLRyyBPNFh7X1qho"
+      },
+      "artists": [
+        {
+          "name": "Demonios de Tasmania",
+          "url": "https://open.spotify.com/artist/0mARcA4ibtJXGnWhEJa9Z0"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/1OsyjumiWfSmFY8XQqNxAo"
     }
   ],
   "unique_name": "Rock S\u00f3nico",

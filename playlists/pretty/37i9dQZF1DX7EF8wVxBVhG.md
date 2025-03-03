@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,056 likes - 92 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,288 likes - 92 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 91 | [Gamma Waves 89 + 86 hz](https://open.spotify.com/track/1C5ODl6oza5zRbwngivAK8) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Gamma Waves](https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z) | 3:01 |
 | 92 | [Blank Caves Gamma 49\-80hz](https://open.spotify.com/track/75l8dDBK9BVNrJF7sH8m0U) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Blank Caves Gamma 49\-80hz](https://open.spotify.com/album/5oPu9eYDXAj0yXBxQjCsYq) | 3:00 |
 
-Snapshot ID: `Z6naEwAAAACPVfPaMDb0Hio9vy4th5P7`
+Snapshot ID: `Z6naEwAAAADmfbQpQosS8FwTfMUBf6OJ`

@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "The Afterlife Anthology",
+        "url": "https://open.spotify.com/album/2sXd6DbNyawKMdYddgHuZZ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352197,
+      "name": "The Afterlife, Pt. 2",
+      "url": "https://open.spotify.com/track/0NSDbDkrH1KhtKC5WSfMHU"
+    },
+    {
+      "album": {
         "name": "The Afterlife",
         "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
       },
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 352197,
       "name": "The Afterlife, Pt. 2",
       "url": "https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 2113024,
       "name": "The Afterlife, Pt. 3",
       "url": "https://open.spotify.com/track/1SUUGoKJE1kXMaLnAYeHBv"

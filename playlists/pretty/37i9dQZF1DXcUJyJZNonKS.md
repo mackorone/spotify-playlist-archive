@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,003 likes - 76 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,031 likes - 76 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 75 | [EGOIST](https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [EGOIST](https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d) | 3:12 |
 | 76 | [しあわせえぼりゅ～しょん♡ ～ユキ＆まゆVer.～](https://open.spotify.com/track/4PYNK0uZtAJZcOt3HmhXm9) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV), [後本萌葉](https://open.spotify.com/artist/7ibiDlu55lnB2tumGzajcc), [わんだふるぷりきゅあ！](https://open.spotify.com/artist/4eCEDhxN1YKL8KxRwzc3el) | [わんだふるぷりきゅあ！ 後期主題歌シングル【通常盤】](https://open.spotify.com/album/59T7BAUTd6LuzPkBeJbqI3) | 3:51 |
 
-Snapshot ID: `Z6DU5gAAAACCs1NoAJ2O1RfoTOYMyux1`
+Snapshot ID: `Z6DU5gAAAAB2p0PmSOVrkvTHAt/9ndP3`

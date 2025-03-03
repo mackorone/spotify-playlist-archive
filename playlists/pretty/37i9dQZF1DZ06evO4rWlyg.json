@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 142453,
+  "num_followers": 142489,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8D8gAAAAACJd5t/PEJ3i+N40h43So4r",
+  "snapshot_id": "Z8JOAAAAAABbNs3qd6RhvO+LufI+njhk",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 44405,
+      "name": "Fagurt Er \u00ed Fj\u00f6r\u00f0um",
+      "url": "https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vulnicura",
         "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 409320,
       "name": "Stonemilker",
       "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selma Songs",
-        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 329360,
-      "name": "I\u2019ve Seen It All",
-      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
       "duration_ms": 353266,
       "name": "All Neon Like",
       "url": "https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 329360,
+      "name": "I\u2019ve Seen It All",
+      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
       "duration_ms": 244213,
       "name": "Triumph Of A Heart",
       "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 44405,
-      "name": "Fagurt Er \u00ed Fj\u00f6r\u00f0um",
-      "url": "https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

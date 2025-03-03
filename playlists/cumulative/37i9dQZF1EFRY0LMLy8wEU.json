@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "MARVELOUS",
+        "url": "https://open.spotify.com/album/0y8KqMQunAIul7iMRcS67i"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414363,
+      "name": "MARVELOUS",
+      "url": "https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP"
+    },
+    {
+      "album": {
         "name": "Why Not Right Now? (Live)",
         "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
       },

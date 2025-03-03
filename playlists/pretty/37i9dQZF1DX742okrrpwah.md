@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Benson Boone au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,614 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,639 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 8 | [Commitment](https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Commitment](https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd) | 3:11 |
 | 9 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 10 | [PERFORMANTE](https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [KINTSUGI](https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf) | 3:26 |
-| 11 | [Maybach \(feat\. 1PLIKÉ140\)](https://open.spotify.com/track/5d3i2SqCrICPjZdGoGcEHP) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [Maybach \(feat\. 1PLIKÉ140\)](https://open.spotify.com/album/6xkK9flghyvucdNFOEba1W) | 2:10 |
+| 11 | [Maybach](https://open.spotify.com/track/5d3i2SqCrICPjZdGoGcEHP) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [Maybach](https://open.spotify.com/album/6xkK9flghyvucdNFOEba1W) | 2:10 |
 | 12 | [100K à l'heure](https://open.spotify.com/track/0ZgvkcqpfrjlU3wBQduEwT) | [Tibz](https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF) | [100K à l'heure](https://open.spotify.com/album/6zcuD7hPUFftsrtanWEX0B) | 3:14 |
 | 13 | [Keep The Faith](https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV) | 3:13 |
 | 14 | [Tout le monde est fou](https://open.spotify.com/track/23gjnzrBdrhmEiN49pFY4k) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Tout le monde est fou](https://open.spotify.com/album/121NvqR0PtSYNe3rFP6KnV) | 3:25 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 89 | [Macondo](https://open.spotify.com/track/1oOTr5BciioYUpnj2hCtDR) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [VEGETAL DIGITAL](https://open.spotify.com/album/3Krl6CyMlkfAVnVhSyCmiO) | 3:55 |
 | 90 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 |
 
-Snapshot ID: `Z8FrxgAAAACbDvwLc0golMCOzjXPR5u/`
+Snapshot ID: `Z8FrxgAAAACSMHARIIzMM0+PYf9Sqd8B`

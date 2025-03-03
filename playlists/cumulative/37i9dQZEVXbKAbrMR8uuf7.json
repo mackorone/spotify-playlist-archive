@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 139742,
       "name": "Back To Back",
       "url": "https://open.spotify.com/track/14ljxdLzjTxpfSA5oPee59"
@@ -10168,7 +10168,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 146479,
       "name": "Ella",
       "url": "https://open.spotify.com/track/4Z64NtDGD0nuIbUXCXCHnQ"
@@ -10896,7 +10896,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 130810,
       "name": "Escalade",
       "url": "https://open.spotify.com/track/0OLa8sv2EKv71cPnKPeWRJ"
@@ -10976,7 +10976,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 113125,
       "name": "Eso E Eso",
       "url": "https://open.spotify.com/track/1N7DEhFD6dPSPyOqwTdJnU"
@@ -14864,7 +14864,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 169411,
       "name": "Juguete",
       "url": "https://open.spotify.com/track/3vuElNsrvp6f7XzrF6HqyT"
@@ -17956,7 +17956,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 98399,
       "name": "LO MALO MALO MALO",
       "url": "https://open.spotify.com/track/7mkAnbBANmsJtLs06lUDJt"
@@ -24000,7 +24000,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 170000,
       "name": "Papa Dios",
       "url": "https://open.spotify.com/track/32fRlil8Pdjrnfyar39VWz"
@@ -26578,6 +26578,40 @@
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
+    },
+    {
+      "album": {
+        "name": "Que Arrebate",
+        "url": "https://open.spotify.com/album/5hvzQKasYaXtHIxCt1VysV"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        },
+        {
+          "name": "Sugarhill Ddot",
+          "url": "https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Que Arrebate",
+      "url": "https://open.spotify.com/track/35SYYvWMpHSBxbJUv3Md0L"
     },
     {
       "album": {
@@ -29850,7 +29884,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -30604,7 +30638,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 158372,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/0Mv8tLl5YjMCu3JUY7yxsv"

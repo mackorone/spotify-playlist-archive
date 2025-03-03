@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-58 songs - 2 hr 51 min
+61 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [11:11](https://open.spotify.com/track/6XIerJ9V7H9byQFRZiqyCv) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [11:11](https://open.spotify.com/album/6II0CjU8B2JyEgWBBVvtjN) | 3:00 | 2024-05-11 | 2025-03-01 |
 | [Always on the run](https://open.spotify.com/track/3BJ0uXKEz9fUxCbZle1rCE) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Always on the run](https://open.spotify.com/album/61t1CVlAIr7HWUkS0KcF3K) | 3:29 | 2024-05-11 | 2025-03-01 |
 | [Asteromata](https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA) | 2:55 | 2025-02-28 |  |
+| [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 | 2025-03-02 |  |
 | [BEFORE THE PARTY'S OVER](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [BEFORE THE PARTY'S OVER](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 | 2024-05-11 | 2025-03-01 |
 | [Bird of Pray](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 | 2025-02-28 |  |
 | [Bur man laimi](https://open.spotify.com/track/6oGrwxJItvG261mLBk6DmK) | [Tautumeitas](https://open.spotify.com/artist/65Q6uD7cHhu4QYbGxEU9dF) | [Bur man laimi](https://open.spotify.com/album/0uiDNzus7TjUtTl45qL07g) | 2:58 | 2025-02-28 |  |
@@ -26,6 +27,7 @@
 | [Firefighter](https://open.spotify.com/track/5Ekw4o2ecrOCBF5rGB7KXs) | [Nutsa](https://open.spotify.com/artist/28BY95cMOgoVJrJK9YLS7Z) | [Firefighter](https://open.spotify.com/album/1uZCKKz6GFG8RXXQhRZ9vv) | 3:03 | 2024-05-11 | 2025-03-01 |
 | [GAJA \- Eurovision Edit](https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP) | [GAJA \(Eurovision Edit\)](https://open.spotify.com/album/5c5XVlbDvejnJUm3eEdN2N) | 3:00 | 2025-02-28 |  |
 | [Grito](https://open.spotify.com/track/2zhBeIoGEqISdQOu4HtQZc) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Festival da Canção 2024](https://open.spotify.com/album/4EQbuZ20BLzc1AenXH2dt5) | 2:56 | 2024-05-11 | 2025-03-01 |
+| [Hallucination](https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws) | [Sissal](https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP) | [Hallucination](https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ) | 3:03 | 2025-03-02 |  |
 | [Hollow](https://open.spotify.com/track/6lvDhgHLeC9wBOOVKGCfJi) | [Dons](https://open.spotify.com/artist/3DjJiiOy3bJ9JFn81mxbWS) | [Hollow](https://open.spotify.com/album/0voSkEDsdL2nmPZiX3toXG) | 2:51 | 2024-05-11 | 2025-03-01 |
 | [How Much Time Do We Have Left](https://open.spotify.com/track/104QgPphJUPg86IWYnAnL7) | [Klemen](https://open.spotify.com/artist/5MlZJ1fBb4ZX5JN2dRhwQE) | [How Much Time Do We Have Left](https://open.spotify.com/album/3EcfRhql3A4hTbt4Z3i7N5) | 3:03 | 2025-02-28 |  |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-11 | 2025-03-01 |
@@ -40,6 +42,7 @@
 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 | 2025-02-28 |  |
 | [Loop](https://open.spotify.com/track/3DlWvRuHXQ3iQicBauinOd) | [Sarah Bonnici](https://open.spotify.com/artist/6qOSxtFkI6TBjXcWygwvzk) | [Loop](https://open.spotify.com/album/5hN2xd6oN8k9yLPFfBTje0) | 2:59 | 2024-05-11 | 2025-03-01 |
 | [Luktelk](https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2) | 2:41 | 2024-05-11 | 2025-03-01 |
+| [Mila](https://open.spotify.com/track/30ivP0TxQ9owZotAbhbiGt) | [Princ](https://open.spotify.com/artist/06NQCNZajDFb15rJLcotRc) | [Mila](https://open.spotify.com/album/0mOdQScFDTA144bk5nt8AX) | 2:57 | 2025-03-02 |  |
 | [Milkshake Man](https://open.spotify.com/track/0TWdO0ephIotzHvGuv2pGC) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Milkshake Man](https://open.spotify.com/album/5LX9MOOXXd7ThnJDGGg7Mh) | 2:52 | 2025-02-28 |  |
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2024-05-11 | 2025-03-01 |
 | [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-05-11 | 2025-03-01 |

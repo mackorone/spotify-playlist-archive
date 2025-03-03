@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,890 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,964 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 48 | [Do It All \- Radio Edit](https://open.spotify.com/track/5O58Oniu6trSIPCJwNpsoE) | [Funk Cartel](https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0) | [Cartel Cuts Vol\. 1 \(Radio Edit\)](https://open.spotify.com/album/0ZyEEZPWM7TdRphIO8vs09) | 3:01 |
 | 49 | [Deright \- Radio Mix](https://open.spotify.com/track/2tDxRJuCgfDf9rcb00B3Hs) | [Alonso Bierg](https://open.spotify.com/artist/32Apq7bkLTi0XnADTMj4qt), [Andre Butano](https://open.spotify.com/artist/1d8saXrZBqwtB9yQmqckWS) | [Deright](https://open.spotify.com/album/3NuJqENsjCkvQKyPWxxyAE) | 3:04 |
 | 50 | [Still Trusttt](https://open.spotify.com/track/1kE0B65Zqg2yijQV3ABJYq) | [Slugg](https://open.spotify.com/artist/5Q2x75NUXnoDOXCKItVxZ0) | [Still Trusttt](https://open.spotify.com/album/1WpkQWkwligT5YOpG4u7g6) | 6:04 |
-| 51 | [Secret Place](https://open.spotify.com/track/61YNlY6LVxvpKcuwgWTMrB) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Secret Place EP](https://open.spotify.com/album/5E1ePlhMmlCuzgJ95Cv4b3) | 2:56 |
+| 51 | [Secret Place](https://open.spotify.com/track/61YNlY6LVxvpKcuwgWTMrB) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP), [Mz BURN](https://open.spotify.com/artist/1KOzZuPs9tPmpCOElsa6lx) | [Secret Place EP](https://open.spotify.com/album/5E1ePlhMmlCuzgJ95Cv4b3) | 2:56 |
 | 52 | [Disco Tetris \- Edit](https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2) | 3:18 |
 | 53 | [Midnight Voices](https://open.spotify.com/track/3HZ0223CDfroDCFTshq1Zc) | [Rupert Ellis](https://open.spotify.com/artist/1GJ64xNLJPXfxJDFAXAw1T) | [Midnight Voices](https://open.spotify.com/album/1Q36yRBq0D2uegppsXoVua) | 6:40 |
 | 54 | [W Up](https://open.spotify.com/track/4sD8IER4xBNH6Onug5klHU) | [EdiP](https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE) | [W Up EP](https://open.spotify.com/album/1aG9J0UUaOLXdiKQnJ2gnk) | 3:15 |

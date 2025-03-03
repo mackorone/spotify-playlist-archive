@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Franky Wah
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,732 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,756 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Pearl](https://open.spotify.com/track/1l4fsop2H0buZdcYaa7KM1) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/7uyyNpmNR8yE1MqPNnxik0) | 3:54 |
 | 100 | [Slay The Beast](https://open.spotify.com/track/51F6fC9PaCAbFScUjU64vG) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Trusting Theta](https://open.spotify.com/album/5jQu29iTC5O5tZ4GD99y2o) | 3:42 |
 
-Snapshot ID: `Z8D8mQAAAACPqMCzyk677n0PNW6PkLqX`
+Snapshot ID: `Z8D8mQAAAACvNi69eGcMmGUC4hCas9GO`

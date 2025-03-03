@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:1SCrMreNPJYSRZIlRe9SUq">Paris Texas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,443 likes - 101 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,490 likes - 101 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

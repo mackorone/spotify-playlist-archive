@@ -14,4 +14,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain]
 | 4 | [S1\-Episodio 1: La storia di Perseo](https://open.spotify.com/episode/7MnW2zdWMvwVSKITXo9oXI) | [Mitologia Gettata](https://open.spotify.com/show/0q6XFafImEbql2vbW03fbt) | [Mitologia Gettata](https://open.spotify.com/album/0q6XFafImEbql2vbW03fbt) | 14:25 |
 | 5 | [Ep\. 7 \- La Scienza Contro I Falsi Miti Con Dario Bressanini e Beatrice Mautino](https://open.spotify.com/episode/6Y8MDmqgydDUialJpP5PoX) | [PIANETA B12](https://open.spotify.com/show/6ato4Pxlc1zadiTjOW2PrT) | [PIANETA B12](https://open.spotify.com/album/6ato4Pxlc1zadiTjOW2PrT) | 1:39:05 |
 
-Snapshot ID: `Z1GmwAAAAAAKF6HqEQRe+p81SC2CEZPg`
+Snapshot ID: `Z1GmwAAAAABExZy/m5l9so2xPAemVziw`

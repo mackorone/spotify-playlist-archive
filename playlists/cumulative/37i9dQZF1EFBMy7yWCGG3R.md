@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-337 songs - 18 hr 37 min
+338 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Apple](https://open.spotify.com/track/56bbqIxsAzzNX28hYl8wRL) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:44 | 2023-12-30 |  |
 | [Are You](https://open.spotify.com/track/7wHOe00vTfOqi8WX3Hr82v) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:31 | 2023-12-30 |  |
 | [Area Code](https://open.spotify.com/track/32IiIVnt5emxQNPDm6ZsgO) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 2:41 | 2023-12-30 |  |
-| [Asking](https://open.spotify.com/track/1fEo3ZZxtHh20Ow3z3wqvZ) | [Trinity Lake](https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs) | [Asking](https://open.spotify.com/album/345oRmDqLTHWoeY7O3yBcM) | 3:53 | 2025-01-09 |  |
+| [Asking](https://open.spotify.com/track/1fEo3ZZxtHh20Ow3z3wqvZ) | [Trinity Lake](https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs) | [Asking](https://open.spotify.com/album/345oRmDqLTHWoeY7O3yBcM) | 3:53 | 2025-01-09 | 2025-03-03 |
+| [Asking](https://open.spotify.com/track/5k8zW2xt8iP7rTPPYJe0UU) | [Trinity Lake](https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs) | [Youth](https://open.spotify.com/album/1xuX4ovI9QRy0ZkVjze53Y) | 3:53 | 2025-03-02 |  |
 | [Asking 4 It](https://open.spotify.com/track/42MC4Kh9LtGCUnjfUyY6S2) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:30 | 2023-12-30 |  |
 | [Attached To You](https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:36 | 2024-05-18 |  |
 | [Back to Beautiful](https://open.spotify.com/track/5wbrX8xNwkrNdXf6lBWvP0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Back to Beautiful](https://open.spotify.com/album/4CNA4ZgPRexRwmcouZaCSp) | 3:22 | 2023-12-30 |  |

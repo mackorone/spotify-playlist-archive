@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,249 songs - 3 day 13 hr 44 min
+2,250 songs - 3 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,7 @@
 | [dancing lights](https://open.spotify.com/track/6zYY5IxKrQqlq1gZvMiflo) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [dancing lights](https://open.spotify.com/album/1yFc2Vo2a91Gk2OcaQnAYX) | 2:24 | 2024-09-27 | 2024-11-20 |
 | [Dark Places](https://open.spotify.com/track/0JSQbdSkJ5xKu8OQB3g5wO) | [Kiabits](https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Dark Places](https://open.spotify.com/album/3hpc6SGom48hjionKuXgjZ) | 2:18 | 2022-07-29 | 2022-08-12 |
 | [DaSpritzers](https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [DaSpritzers](https://open.spotify.com/album/4yfR0jwF5CrWmy6U02rgsU) | 2:24 | 2022-11-18 | 2025-02-20 |
-| [Daunout](https://open.spotify.com/track/2NpcAVGqqapVHBPae0vwSb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Daunout](https://open.spotify.com/album/0KypY3PnGTQyr5nz79njeR) | 1:54 | 2023-01-20 |  |
+| [Daunout](https://open.spotify.com/track/2NpcAVGqqapVHBPae0vwSb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Daunout](https://open.spotify.com/album/0KypY3PnGTQyr5nz79njeR) | 1:54 | 2023-01-20 | 2025-03-03 |
 | [Daydream](https://open.spotify.com/track/01lS197HXZ7HwSd7LVy1ce) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Daydream](https://open.spotify.com/album/3gFsPMTHGuOB5N4ZUiXkVZ) | 2:08 | 2022-04-22 | 2022-11-12 |
 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 | 2023-09-08 |  |
 | [Daydreaming](https://open.spotify.com/track/4EON13xU5v3CsQG6C5BZcO) | [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0), [Chiljalo](https://open.spotify.com/artist/5FshA6iHVcvQYwaPafaWjO) | [Daydreaming](https://open.spotify.com/album/7DbRuyDxuJTVIIUKvPFgb9) | 2:33 | 2022-09-16 | 2023-01-07 |
@@ -2118,6 +2118,7 @@
 | [until tomorrow](https://open.spotify.com/track/7MNksDnfbhw9Dd1xaGFN2Q) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO) | [until tomorrow](https://open.spotify.com/album/4B71U95fiuqTiJS4VEq2B9) | 1:34 | 2023-07-13 | 2023-10-27 |
 | [until we meet again](https://open.spotify.com/track/4WwnDyJgETzTG7tjHdlM27) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [until we meet again](https://open.spotify.com/album/1uMajXkpkeVrHAwJd3DKTR) | 2:05 | 2023-12-08 |  |
 | [Until Winter Ends](https://open.spotify.com/track/2igFrHcEsUfgJt2FbiN47p) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Monkey Sunset](https://open.spotify.com/artist/1oXijIpxdYOXNgz2rPZKlI) | [Until Winter Ends](https://open.spotify.com/album/4bACavj3GW43JWX6eLXByu) | 2:27 | 2022-09-23 | 2023-01-07 |
+| [Unwind](https://open.spotify.com/track/4INlGADt1s5LuKaqbU9UKH) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Unwind](https://open.spotify.com/album/7LIsZFGPVlLmhNN1eC1rOg) | 2:25 | 2025-02-28 |  |
 | [Up In The Clouds Again](https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Up In The Clouds Again](https://open.spotify.com/album/5LGOpvqw4CDDEHLGlZi5Po) | 2:07 | 2024-07-12 |  |
 | [urban souls](https://open.spotify.com/track/6AQUO1Nblsmz7BW0wvFCgt) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [urban souls](https://open.spotify.com/album/5YvHSBgHmflcRqJyBopsaK) | 2:46 | 2022-04-15 | 2022-05-27 |
 | [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 | 2022-10-01 |  |

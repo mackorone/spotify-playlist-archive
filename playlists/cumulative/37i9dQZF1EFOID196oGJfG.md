@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/65nBq6bgZmJvMvlnrFxyud">Rory Adams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-47 songs - 2 hr 27 min
+48 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Scared to Be Happy](https://open.spotify.com/track/22gqgp77iH9XnPTjs4U6JM) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Scared to Be Happy](https://open.spotify.com/album/3jwBuaG80L637u5zCIYegb) | 2:37 | 2024-11-11 |  |
 | [Scared to Be Happy](https://open.spotify.com/track/65iJBVVAcYGNeTnpFU8T09) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Scared to Be Happy](https://open.spotify.com/album/0UshNP4GGmz8xVW9mvtXBc) | 2:37 | 2024-06-13 | 2024-11-12 |
 | [Slip](https://open.spotify.com/track/7zQTYsNMzkF9qPx2W8E9Id) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Slip](https://open.spotify.com/album/4uYUxozATit05Y6JLBqrLK) | 3:03 | 2024-06-13 |  |
-| [Standing In The Fire](https://open.spotify.com/track/26FYWtfqCJLTz00ZV8VFcz) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [you taught me to read between the lines](https://open.spotify.com/album/51rJr1CW5K5BhIM0mkouxh) | 2:55 | 2024-10-26 |  |
+| [Standing In The Fire](https://open.spotify.com/track/26FYWtfqCJLTz00ZV8VFcz) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [you taught me to read between the lines](https://open.spotify.com/album/51rJr1CW5K5BhIM0mkouxh) | 2:55 | 2024-10-26 | 2025-03-03 |
+| [Standing In The Fire](https://open.spotify.com/track/51xtT2Bxh8W3V5kSqPKB4P) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [you taught me to read between the lines](https://open.spotify.com/album/7zfRFOppB570UYNLe3wgkU) | 2:55 | 2025-03-02 |  |
 | [Stare](https://open.spotify.com/track/3qJolzSTXB91zil3ZXwspT) | [Rory Adams](https://open.spotify.com/artist/5nf5lJ3cik78BBntVGecWx) | [Stare](https://open.spotify.com/album/4JOgEZjd8KPfqIXwblB7Z1) | 3:24 | 2024-06-13 |  |
 | [Stupid](https://open.spotify.com/track/32ltNjetvrzgPGNsTEX898) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Stupid](https://open.spotify.com/album/0W2UFoxAILbiUYZX5zvPRI) | 2:48 | 2024-06-13 |  |
 | [Taylor For President](https://open.spotify.com/track/2zJa1AVV5yrajZeNMkmllc) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Taylor For President](https://open.spotify.com/album/0FIkW4RQ8GTyCfo0COl5gT) | 2:12 | 2025-02-26 |  |

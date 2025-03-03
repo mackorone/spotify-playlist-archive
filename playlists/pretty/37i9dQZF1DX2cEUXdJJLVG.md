@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,660 likes - 123 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,654 likes - 123 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 122 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 |
 | 123 | [Soul Caliber \(Remix\)](https://open.spotify.com/track/455v0kWFW362VlD22VJFvz) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [h0wdy](https://open.spotify.com/artist/2Cub16XBwQ5vWVzVveNLH1), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Quintin Gulledge](https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf) | [Soul Caliber \(Remix\)](https://open.spotify.com/album/6hEiPo9qf1SegYq6l6f3tF) | 3:44 |
 
-Snapshot ID: `Z8DunwAAAADCUoaQgk06DKZkCpn7hKAF`
+Snapshot ID: `Z8DunwAAAABpLblCoEJRB29iaDjl65+h`

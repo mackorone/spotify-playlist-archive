@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: THEY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,180 likes - 167 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,194 likes - 167 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

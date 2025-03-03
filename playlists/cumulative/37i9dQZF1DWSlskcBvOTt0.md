@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-863 songs - 3 day 3 hr 16 min
+864 songs - 3 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Can't Let You Go](https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Can't Let You Go](https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw) | 2:34 | 2024-11-15 |  |
 | [Candela](https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Candela](https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA) | 6:08 | 2023-07-28 | 2024-09-28 |
 | [Candidasa](https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Candidasa EP](https://open.spotify.com/album/6WXn29FqzQK2dW4M8DNPC4) | 10:21 | 2023-07-28 | 2023-09-18 |
+| [CANT U HEAR ME](https://open.spotify.com/track/6XoQvX8EGLfv7EAvAWCVJr) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [CAY \(DE\)](https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K) | [CANT U HEAR ME / TRUST](https://open.spotify.com/album/4uRiSVOVct41ZgGIDcUosu) | 4:46 | 2025-02-28 |  |
 | [Canto Al Sol](https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Upahl](https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl) | 4:37 | 2021-05-07 | 2023-07-01 |
 | [Canto del Pilón \- Meines Remix](https://open.spotify.com/track/4eGGJGQY0UUx7lrPG2Y3Ww) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Meines](https://open.spotify.com/artist/58J4dcCu15dtqMbtQu94K3) | [Milk & Sugar Summer Sessions 2021](https://open.spotify.com/album/4ASxdmE6WZosAoxv2FkjVs) | 3:49 | 2021-07-02 | 2022-04-21 |
 | [Caramel](https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Caramel](https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC) | 7:28 | 2022-07-28 | 2022-09-26 |
@@ -334,7 +335,7 @@
 | [I'm Everything \- Chemical Surf Remix](https://open.spotify.com/track/41BjRZdMm0EPMGuKRYX757) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [EREZ](https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa), [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [I'm Everything \(Chemical Surf Remix\)](https://open.spotify.com/album/0zjihCPRpi10Q3zcFuzpnq) | 3:36 | 2023-05-26 | 2023-07-02 |
 | [I'm the Answer \- Reznik Remix](https://open.spotify.com/track/5stMg84t6MtsLJknILVTIU) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl), [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ) | [I'm the Answer \(Reznik Remix\)](https://open.spotify.com/album/3Uv9n5y27CRjYFmZT0anav) | 6:46 | 2023-08-25 | 2023-09-05 |
 | [If I Could Stop The Sunset](https://open.spotify.com/track/75gHYLYjhFCbtKS1gWkGr4) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [If I Could Stop The Sunset](https://open.spotify.com/album/3ZZEi1BSdN7nre48mHwMSJ) | 6:38 | 2023-11-17 | 2024-04-15 |
-| [If I Live Forever \- Arodes Remix](https://open.spotify.com/track/7bRYAHnP7t9zkB0ZE8k4zb) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [If I Live Forever \(Arodes Remix\)](https://open.spotify.com/album/4zdiSlhmtrvSSqSB8WUDsk) | 6:41 | 2024-12-06 |  |
+| [If I Live Forever \- Arodes Remix](https://open.spotify.com/track/7bRYAHnP7t9zkB0ZE8k4zb) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [If I Live Forever \(Arodes Remix\)](https://open.spotify.com/album/4zdiSlhmtrvSSqSB8WUDsk) | 6:41 | 2024-12-06 | 2025-03-03 |
 | [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 | 2023-03-24 | 2024-04-13 |
 | [Ihorere](https://open.spotify.com/track/2Y91ewDpHxmaWCEw4ysBkm) | [Roo \(JO\)](https://open.spotify.com/artist/1MDcfE7XhDXPCyyZYW4WU0), [Starving Yet Full](https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a) | [Ihorere](https://open.spotify.com/album/2VaXdbEP4A97q7RAszP3ew) | 6:53 | 2024-06-28 | 2024-09-21 |
 | [Ikigai \- Radio Edit](https://open.spotify.com/track/3QIGv8VZqZ18JbtihrmaDI) | [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Sediis](https://open.spotify.com/artist/19t8pcz4HC33dy1MbAkZc9) | [Ikigai \(Radio Edit\)](https://open.spotify.com/album/1Tg917lfjEH1VE9Id0RAGt) | 4:08 | 2022-05-06 | 2022-07-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRbdKqFtIef.md) - [plain]
 
 > This is Chappell Roan\. The essential tracks all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,971 likes - 22 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,622 likes - 22 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

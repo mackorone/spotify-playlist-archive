@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: JENNIE, Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,287,557 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287,613 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Let Me Down Easy](https://open.spotify.com/track/0VA4cCl0VCKzAstFBTRQSW) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Plain Girl](https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP) | 3:04 |
 | 50 | [Second Wind](https://open.spotify.com/track/2gTneFmEt5ycP3sxYENcEj) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/6LCUa6ZtfjsP21VZRoCjTT) | 2:49 |
 
-Snapshot ID: `Z7vblgAAAADmQvoPovBhLtZ9hK2y/kxp`
+Snapshot ID: `Z7vblgAAAAAmy1uYhuBohMUL+3vWXppg`

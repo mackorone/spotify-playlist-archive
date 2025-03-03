@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,048 likes - 106 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,037 likes - 106 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 105 | [skitdag \(feat\. Clayton\)](https://open.spotify.com/track/5Eocjojgyk5o9aGbxcLtIu) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q), [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [skitdag \(feat\. Clayton\)](https://open.spotify.com/album/4R9DcKWekG05uTxiApLD5T) | 2:52 |
 | 106 | [GÅ VIDARE](https://open.spotify.com/track/1b5FGpT5U0eC1wvElhFPGH) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [GÅ VIDARE](https://open.spotify.com/album/1dRgTbPkrEKJ1KEYBipP8S) | 2:25 |
 
-Snapshot ID: `Z8E5PAAAAABy79wi1uEXabcgUAkwlKsQ`
+Snapshot ID: `Z8E5PAAAAABlpsf7KEK1cHz6kpyiNFhW`

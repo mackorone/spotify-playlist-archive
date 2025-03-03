@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,215 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,216 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 59 | [$Onho$ Vazios de Preenchimento](https://open.spotify.com/track/01hzi86HOA67Fz6Wfzoqtg) | [fullheart](https://open.spotify.com/artist/6sWR2TvEwkQcCBXLxQkOnw) | [Algo Sobre Nós](https://open.spotify.com/album/2A74JVfUF5GlG3JmED3ef7) | 3:18 |
 | 60 | [Última Canção de Amor](https://open.spotify.com/track/3kLflOI6vXdx8GUdGwZRTJ) | [Hill Valleys](https://open.spotify.com/artist/3wVosBmSz90RTWawTngLeL) | [Rua dos Perdedores, Esquina dos Corações Quebrados](https://open.spotify.com/album/5GF1agGJD07nFCmcuGSFJQ) | 2:41 |
 
-Snapshot ID: `Zg9pbAAAAACj1Oz4162bGq8Thlf/up3G`
+Snapshot ID: `Zg9pbAAAAAAdFIN/BD4ASHcPAboOMBBV`

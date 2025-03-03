@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: jaschu
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,110 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,136 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Alles Illusion](https://open.spotify.com/track/5yJdjgXIZUEBP1O6Yas46F) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Alles Illusion](https://open.spotify.com/album/2jtbYTFLK9oOKCdHHRQ2Wl) | 1:44 |
 | 75 | [scotty](https://open.spotify.com/track/2vu49yQzAnfPSz4jYkdQbE) | [PAUL FALC](https://open.spotify.com/artist/0ryxCmymTyz0myAGR4WnC1) | [scotty](https://open.spotify.com/album/7sxsbGt7sXSQt75Zg3pnNP) | 2:09 |
 
-Snapshot ID: `Z8GNtgAAAAD48ko0MWnsptzJsvmY5iSi`
+Snapshot ID: `Z8GNtgAAAAAnJo/sauWXajrOmxAhLjTZ`

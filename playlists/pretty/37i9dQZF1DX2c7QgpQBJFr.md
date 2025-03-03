@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana ✨ cover: centomilacarie
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,199 likes - 104 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,200 likes - 104 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 |
+| 1 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 |
 | 2 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
 | 3 | [solite cose](https://open.spotify.com/track/5q49W8e8ZOy1wO9MIpL8RR) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:00 |
 | 4 | [il ritmo delle cose.](https://open.spotify.com/track/2BptnzpcLO9NAdNdKh2rZy) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [il ritmo delle cose.](https://open.spotify.com/album/14o2gMXu5mcQehz5n3YnfU) | 3:12 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 60 | [Camilla \(una canzone non d'amore\)](https://open.spotify.com/track/4fokeaDTupkU8tu8Log3H0) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Camilla \(una canzone non d'amore\)](https://open.spotify.com/album/539KQ4fJ6FOXD1Pwc2eTRb) | 2:24 |
 | 61 | [UP](https://open.spotify.com/track/0lEcmsS175dpaOBvGFMvoh) | [Kay](https://open.spotify.com/artist/6XLj9BXn0pnWlFMVGk1utU) | [UP](https://open.spotify.com/album/37D4xeFm2WXkN4nMyQXN1C) | 1:49 |
 | 62 | [my baby!](https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [my baby!](https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD) | 2:57 |
-| 63 | [Quei ricordi là](https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
+| 63 | [Quei ricordi là](https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
 | 64 | [vinted](https://open.spotify.com/track/5aeRga1CrUYlFN1BnFehjr) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [vinted](https://open.spotify.com/album/0KnCtilyg4On6hKMEvcsjt) | 2:29 |
 | 65 | [Abissi](https://open.spotify.com/track/3smy1msq7GesCIYDgkQIWv) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl), [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Abissi](https://open.spotify.com/album/0lnZeaIZQcFfEC2kDj4QjW) | 2:30 |
 | 66 | [Lady Milano](https://open.spotify.com/track/4Pw9CXg7QJPSbHAvXoNP9Y) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [Lady Milano](https://open.spotify.com/album/6lDj6yS9zcHmynTnHIbEBi) | 2:20 |

@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-169 songs - 9 hr 34 min
+170 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Nurture \(feat\. Brenna Myers\)](https://open.spotify.com/track/4BS3fZmMRf0F8SWalBVIrH) | [Glacier](https://open.spotify.com/artist/7DS9AJjKnseiE7nVofoULL), [Brenna Myers](https://open.spotify.com/artist/3e7DdPcZ2V4XKuImuZnraI) | [Nurture \(feat\. Brenna Myers\)](https://open.spotify.com/album/64UNqUqWunukFp9KuOvTEx) | 3:39 | 2019-01-17 |  |
 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 | 2019-03-31 |  |
 | [Paradise Plaza \(feat\. TOFUKU\) \- TOFUKU Remix](https://open.spotify.com/track/759W36MHTZwVO8Fd1cu1Jm) | [BLOOD CODE](https://open.spotify.com/artist/3yNDCk0iRKefkfpiPhaVPv), [Cosmicosmo](https://open.spotify.com/artist/6JtJWLtwanDAmk4UMLFJ2v), [TOFUKU](https://open.spotify.com/artist/3hg9J1p0uyzhuLwMic8pvW) | [Paradise Plaza \(feat\. TOFUKU\): The Remixes](https://open.spotify.com/album/1TXmMU7aszrjpr70BjJnmB) | 2:38 | 2025-01-25 |  |
+| [PASS THAT POOLTOY](https://open.spotify.com/track/0EEm7WqTGLXQoFrDM3bYIx) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:42 | 2025-03-02 |  |
 | [Paws to the Walls \(Album Version\)](https://open.spotify.com/track/3F6W10MmpGNvuaVHRgHoqm) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:01 | 2018-12-12 |  |
 | [Peanut Butter Jelly](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:23 | 2018-12-06 |  |
 | [PERCEPTION CHECK](https://open.spotify.com/track/6o2nroFoqAxj7kSWLo6AGb) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [PERCEPTION CHECK](https://open.spotify.com/album/1oDeKWqb4qnYVUcIcFLkIk) | 1:49 | 2024-05-15 |  |

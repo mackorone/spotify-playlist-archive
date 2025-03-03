@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Jaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,878 likes - 118 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,900 likes - 118 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: コレサワ
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,137 likes - 83 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,149 likes - 83 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

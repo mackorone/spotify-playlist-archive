@@ -2211,6 +2211,32 @@
     },
     {
       "album": {
+        "name": "Oldschool Love",
+        "url": "https://open.spotify.com/album/26v323ywa2JvWlkSnCiNmI"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Meduza",
+          "url": "https://open.spotify.com/artist/3tUl9Z2ksc5mfR76FmfIYR"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168928,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6J04RlJQTHlMFFVuki2shi"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/2xMPelJZHWTtNzPsEVVnNv"
       },
@@ -2248,7 +2274,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 168928,
       "name": "Fire - Official UEFA EURO 2024 Song",
       "url": "https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny"

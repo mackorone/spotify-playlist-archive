@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "AIJAG",
+        "url": "https://open.spotify.com/album/1wmBXbc3FmuAswqvDwhycq"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Koi",
+          "url": "https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Buffet",
+      "url": "https://open.spotify.com/track/5LYXZwcmOvSus9nnO1vDPe"
+    },
+    {
+      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },

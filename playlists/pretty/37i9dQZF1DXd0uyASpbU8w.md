@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e?si=5LsJnu0ASPWYZnspFmk40A">K.Keed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,173 likes - 77 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,201 likes - 77 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

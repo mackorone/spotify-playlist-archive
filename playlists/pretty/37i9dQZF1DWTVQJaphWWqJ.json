@@ -1,6 +1,6 @@
 {
   "description": "S\u00f3lo cl\u00e1sicos tropicales.",
-  "num_followers": 15377,
+  "num_followers": 15376,
   "original_name": "Salsa, Vallenato & Merengue",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq"
+        "name": "El Hombre Mas Famoso De La Tierra",
+        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
         }
       ],
-      "duration_ms": 274040,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/36gbETWFHYOhKagApK6spF"
+      "duration_ms": 205333,
+      "name": "Guallando",
+      "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "El Hombre Mas Famoso De La Tierra",
-        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq"
       },
       "artists": [
         {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Guallando",
-      "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
+      "duration_ms": 274040,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/36gbETWFHYOhKagApK6spF"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 303306,
-      "name": "Tu Con El",
-      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "Pintame",
         "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 259066,
       "name": "P\u00edntame",
       "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 303306,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 305139,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1r2EerxDMVQbXxqsqnjUhy"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "Sin Medir Distancia",
         "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 279266,
       "name": "Era Mentira",
       "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 305139,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1r2EerxDMVQbXxqsqnjUhy"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -431,38 +431,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Alma de Cantante Errante",
-        "url": "https://open.spotify.com/album/79dxsQGu6nJoSWN5Tqyp4S"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 300600,
-      "name": "Paginas de Amor",
-      "url": "https://open.spotify.com/track/1UaejyfrYuAdGMXCwwwMpg"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Entre La Espada Y La Pared",
-        "url": "https://open.spotify.com/album/6BfyCa897cBsKTTRqqnD1E"
-      },
-      "artists": [
-        {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
-        }
-      ],
-      "duration_ms": 337664,
-      "name": "Entre La Espada y La Pared",
-      "url": "https://open.spotify.com/track/0342wDs42Efmi0BuaWO6zA"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "T\u00fa Me Vuelves Loco (Baile Total)",
         "url": "https://open.spotify.com/album/7kt8nJfzerlsCFzYyFiuz5"
       },
@@ -479,6 +447,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "Alma de Cantante Errante",
+        "url": "https://open.spotify.com/album/79dxsQGu6nJoSWN5Tqyp4S"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 300600,
+      "name": "Paginas de Amor",
+      "url": "https://open.spotify.com/track/1UaejyfrYuAdGMXCwwwMpg"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "Mi Propuesta 1996",
         "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 279680,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Entre La Espada Y La Pared",
+        "url": "https://open.spotify.com/album/6BfyCa897cBsKTTRqqnD1E"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 337664,
+      "name": "Entre La Espada y La Pared",
+      "url": "https://open.spotify.com/track/0342wDs42Efmi0BuaWO6zA"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Historia de \u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 393012,
-      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
-      "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "Grandes Hits - Los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 288194,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Historia de \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 393012,
+      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
+      "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "En Tiempo de Amor",
         "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 214346,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "La Tanga",
-      "url": "https://open.spotify.com/track/3LaiCiYtMqNvspJ6kXyfSa"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "Diomedes D\u00edaz - 56 A\u00f1os, 56 Exitos, Una Historia",
         "url": "https://open.spotify.com/album/5PlIQfRlU2GOmxhnmRNYsa"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Siempre Peleando",
-        "url": "https://open.spotify.com/album/4vTMGP0L4QfPIhdEdI7nTR"
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
         }
       ],
-      "duration_ms": 259657,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/4WCQuqYrqCVyIKKdZQRe2S"
+      "duration_ms": 266760,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/3LaiCiYtMqNvspJ6kXyfSa"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -839,6 +823,22 @@
       "duration_ms": 305826,
       "name": "Buscar\u00e9 Otro Amor",
       "url": "https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Siempre Peleando",
+        "url": "https://open.spotify.com/album/4vTMGP0L4QfPIhdEdI7nTR"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 259657,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/4WCQuqYrqCVyIKKdZQRe2S"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -887,6 +887,22 @@
       "duration_ms": 264733,
       "name": "Sombra Perdida",
       "url": "https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Pa Que No Me Anden Contando",
+        "url": "https://open.spotify.com/album/7yecZ34RSzocHqSVflyT2u"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 129930,
+      "name": "Pa Que No Me Anden Contando",
+      "url": "https://open.spotify.com/track/5EYgWasC1IhuAiiAi5T3mK"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -943,22 +959,6 @@
       "duration_ms": 259473,
       "name": "Me Toc\u00f3 Perderte",
       "url": "https://open.spotify.com/track/6nmqpo8xhxYF6ILwsWIbaV"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Pa Que No Me Anden Contando",
-        "url": "https://open.spotify.com/album/7yecZ34RSzocHqSVflyT2u"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 129930,
-      "name": "Pa Que No Me Anden Contando",
-      "url": "https://open.spotify.com/track/5EYgWasC1IhuAiiAi5T3mK"
     },
     {
       "added_at": "2024-06-25 16:18:42",

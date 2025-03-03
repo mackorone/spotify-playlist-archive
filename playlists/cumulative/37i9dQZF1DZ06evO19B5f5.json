@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Latest Ghost",
+      "url": "https://open.spotify.com/track/1eH3x83ILpL75tdfPBQqq0"
+    },
+    {
+      "album": {
         "name": "Ghost World (Piano Versions)",
         "url": "https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T"
       },
@@ -312,7 +330,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 171438,
       "name": "Latest Ghost - Piano Version",
       "url": "https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 111780,
       "name": "Teenage Self",
       "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"

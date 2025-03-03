@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Tiwa Savage x Craig David
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,513 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,581 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Only U](https://open.spotify.com/track/69dbq3SQ9bHDK0qxD2mWUz) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [A2 & Only U](https://open.spotify.com/album/0hOkExE7NxT1wmlRhco5OP) | 2:22 |
 | 50 | [Broken](https://open.spotify.com/track/1dSWxiAta2Khk71alwiI68) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Broken](https://open.spotify.com/album/2HWVA1WrbftVD71PPy4WwG) | 2:47 |
 
-Snapshot ID: `Z8DujgAAAADkcL2/DGaYis0/a9mnTjhv`
+Snapshot ID: `Z8DujgAAAABhchJWE5tW7+kmlO+NsJnF`

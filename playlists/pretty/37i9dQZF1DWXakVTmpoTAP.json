@@ -1,6 +1,6 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 18371,
+  "num_followers": 18372,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
+        "name": "Hits Alive",
+        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Anything Like Me",
+      "url": "https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda"
+    },
+    {
+      "added_at": "2024-06-16 15:20:38",
+      "album": {
         "name": "Latest Greatest Straitest Hits",
         "url": "https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 226568,
       "name": "Not All Heroes Wear Capes",
       "url": "https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM"
-    },
-    {
-      "added_at": "2024-06-16 15:20:38",
-      "album": {
-        "name": "Hits Alive",
-        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Anything Like Me",
-      "url": "https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda"
     },
     {
       "added_at": "2024-06-16 15:20:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Joe Kay, Isaiah Falls, Cruza and D'Mile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,163 likes - 201 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,245 likes - 201 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 200 | [Wait So Yeah](https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:21 |
 | 201 | [watch it all fall](https://open.spotify.com/track/4dHI6744n697CKwis0vhT5) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [watch it all fall](https://open.spotify.com/album/2IQilFWhwiowCzcdNN0xiG) | 2:50 |
 
-Snapshot ID: `Z8FcxgAAAABVRH4/bD/XPbmEJclGmJrg`
+Snapshot ID: `Z8FcxgAAAAC0TGtgU8Na6auMnPnwlhf0`

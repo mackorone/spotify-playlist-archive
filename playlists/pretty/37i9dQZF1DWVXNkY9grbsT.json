@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 106018,
+  "num_followers": 106064,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-02-28 05:57:21",
       "album": {
-        "name": "Fond",
-        "url": "https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh"
-      },
-      "artists": [
-        {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
-        }
-      ],
-      "duration_ms": 160362,
-      "name": "Fond",
-      "url": "https://open.spotify.com/track/5wwmFhVGRTVEfftMcb3HGp"
-    },
-    {
-      "added_at": "2025-02-28 05:57:21",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 241862,
       "name": "Abandon",
       "url": "https://open.spotify.com/track/2pSvA8nCTZZaVMi8pap1kf"
+    },
+    {
+      "added_at": "2025-02-28 05:57:21",
+      "album": {
+        "name": "Fond",
+        "url": "https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh"
+      },
+      "artists": [
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+        }
+      ],
+      "duration_ms": 160362,
+      "name": "Fond",
+      "url": "https://open.spotify.com/track/5wwmFhVGRTVEfftMcb3HGp"
     },
     {
       "added_at": "2025-02-28 05:57:21",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2025-02-28 05:57:21",
       "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+        "name": "Songs of Silence",
+        "url": "https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
         }
       ],
-      "duration_ms": 155472,
-      "name": "Winter Cop",
-      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+      "duration_ms": 227033,
+      "name": "Scarper",
+      "url": "https://open.spotify.com/track/2qOAJNW4ExNsbLvvcMRZbe"
     },
     {
       "added_at": "2025-02-28 05:57:21",
@@ -1139,18 +1139,42 @@
     {
       "added_at": "2025-02-28 05:57:21",
       "album": {
-        "name": "Songs of Silence",
-        "url": "https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t"
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
       },
       "artists": [
         {
-          "name": "Vince Clarke",
-          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 227033,
-      "name": "Scarper",
-      "url": "https://open.spotify.com/track/2qOAJNW4ExNsbLvvcMRZbe"
+      "duration_ms": 155472,
+      "name": "Winter Cop",
+      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+    },
+    {
+      "added_at": "2025-02-28 05:57:21",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        },
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        },
+        {
+          "name": "James Underwood",
+          "url": "https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ"
+        }
+      ],
+      "duration_ms": 413977,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/2fRj10zHMEuzwNCGOirFmb"
     },
     {
       "added_at": "2025-02-28 05:57:21",
@@ -1207,30 +1231,6 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
-    },
-    {
-      "added_at": "2025-02-28 05:57:21",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        },
-        {
-          "name": "Lucy Railton",
-          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
-        },
-        {
-          "name": "James Underwood",
-          "url": "https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ"
-        }
-      ],
-      "duration_ms": 413977,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/2fRj10zHMEuzwNCGOirFmb"
     },
     {
       "added_at": "2025-02-28 05:57:21",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-02-28 05:57:21",
       "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 482771,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
+    },
+    {
+      "added_at": "2025-02-28 05:57:21",
+      "album": {
         "name": "Reflections 06",
         "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 391750,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ"
-    },
-    {
-      "added_at": "2025-02-28 05:57:21",
-      "album": {
-        "name": "Tempora",
-        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 482771,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
     },
     {
       "added_at": "2025-02-28 05:57:21",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-02-28 05:57:21",
       "album": {
+        "name": "Melting Hazard",
+        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 306676,
+      "name": "Melting Hazard",
+      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
+    },
+    {
+      "added_at": "2025-02-28 05:57:21",
+      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2025-02-28 05:57:21",
       "album": {
-        "name": "Melting Hazard",
-        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 306676,
-      "name": "Melting Hazard",
-      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
-    },
-    {
-      "added_at": "2025-02-28 05:57:21",
-      "album": {
         "name": "Burst / Glimmer",
         "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 316293,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
-    },
-    {
-      "added_at": "2025-02-28 05:57:21",
-      "album": {
-        "name": "Statik",
-        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 334589,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
     },
     {
       "added_at": "2025-02-28 05:57:21",
@@ -1563,6 +1547,22 @@
       "duration_ms": 278174,
       "name": "Sine Waves",
       "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "added_at": "2025-02-28 05:57:21",
+      "album": {
+        "name": "Statik",
+        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 334589,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
     },
     {
       "added_at": "2025-02-28 05:57:21",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2025-02-28 05:57:21",
       "album": {
-        "name": "Daze",
-        "url": "https://open.spotify.com/album/2L8CyJKXjKp0ohDGgHhCOg"
-      },
-      "artists": [
-        {
-          "name": "Stilhed",
-          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
-        },
-        {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/0ueQD35KaDdJ5gSmLebaIa"
-    },
-    {
-      "added_at": "2025-02-28 05:57:21",
-      "album": {
         "name": "Pelikan (Aukai Rework)",
         "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 332633,
       "name": "Pelikan - Aukai Rework",
       "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
+    },
+    {
+      "added_at": "2025-02-28 05:57:21",
+      "album": {
+        "name": "Daze",
+        "url": "https://open.spotify.com/album/2L8CyJKXjKp0ohDGgHhCOg"
+      },
+      "artists": [
+        {
+          "name": "Stilhed",
+          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
+        },
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0ueQD35KaDdJ5gSmLebaIa"
     },
     {
       "added_at": "2025-02-28 05:57:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,242 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,322 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [Redemption Has Come](https://open.spotify.com/track/5PDczKkEPzpTzY0ZPxembL) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Redemption Has Come](https://open.spotify.com/album/2byoHazug8SGKvlGWqoVJi) | 4:03 |
 | 16 | [You Are My All In All](https://open.spotify.com/track/5IOBHJfYkgOsNu4J8r9WSp) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Brooke Voland](https://open.spotify.com/artist/61pdcjqHVQyj2TMUXYiChJ) | [You Are My All In All](https://open.spotify.com/album/65APhzttPEascS7l44Husz) | 5:25 |
 | 17 | [We Won’t Stop](https://open.spotify.com/track/0AcJXqpqmLxCu48GZ74Lzw) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [We Won’t Stop / Healing Rain](https://open.spotify.com/album/4oQe1UyLrbIv6UDCd0o3q7) | 4:45 |
-| 18 | [All I Want Is You](https://open.spotify.com/track/6hCIzfVmg2SJeQi9eeZ6mb) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [All I Want Is You](https://open.spotify.com/album/6amZU5bzNVepimuU1Qx8lS) | 7:16 |
+| 18 | [All I Want Is You \- Live](https://open.spotify.com/track/6hCIzfVmg2SJeQi9eeZ6mb) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [All I Want Is You \(Live\)](https://open.spotify.com/album/6amZU5bzNVepimuU1Qx8lS) | 7:16 |
 | 19 | [Still Saving Me](https://open.spotify.com/track/4dBlPgp64TwPDie3ZVCSfB) | [One Voice INT Music](https://open.spotify.com/artist/6c6GqErJ4d8zV8EjLIQAe7), [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [Still Saving Me / More Like Jesus](https://open.spotify.com/album/0HgQjIo4SgenpUoeP0w6U8) | 6:52 |
 | 20 | [It's Gonna Happen](https://open.spotify.com/track/2MXZ46dCwvEkjuZIdnsf77) | [Charles Weems](https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab), [Janelle Balasquide](https://open.spotify.com/artist/6Ajv6pzvHsGFCDuHWvAb2k) | [It's Gonna Happen](https://open.spotify.com/album/2GBUzDVZLIpY1MqzTmpz45) | 5:20 |
 | 21 | [Dust](https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr) | [Seth Carpenter](https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt) | [Dust](https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0) | 4:50 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 26 | [Give Him Praise \- Live](https://open.spotify.com/track/05RRiQVTtIiwACyDwJTtLw) | [Lifepoint Worship](https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo) | [Give Him Praise \(Live\)](https://open.spotify.com/album/5Acr0thx3UiN2a7AEjGGi9) | 4:32 |
 | 27 | [For The Lord \(Live\)](https://open.spotify.com/track/4rgKvZXHn2SC6P1gpR3GNY) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [For The Lord \(Live\)](https://open.spotify.com/album/6MOKsTjVj7D17QHgC26hHb) | 6:01 |
 | 28 | [The Good Confession \- Live](https://open.spotify.com/track/4zARFZho1FZ2C9AjNgokJM) | [Southeast Worship](https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99) | [The Good Confession \(Live\)](https://open.spotify.com/album/0eiqsLv7hZcIsluXYw4olx) | 6:07 |
-| 29 | [Not To Us \- Live](https://open.spotify.com/track/0A6sl9r6Z0CePyei5f4drG) | [North Palm Worship](https://open.spotify.com/artist/1oSrA2oH5V1Qo4jNPD0BMF), [Deborah Hong](https://open.spotify.com/artist/5m2lVUGIlAlnt0HgxH66UW) | [Not To Us \(The Throne is Yours\)](https://open.spotify.com/album/1EqXOZg6Mpp6iVfA9gliZF) | 4:33 |
+| 29 | [Not To Us \(The Throne is Yours\) \- Live](https://open.spotify.com/track/0A6sl9r6Z0CePyei5f4drG) | [North Palm Worship](https://open.spotify.com/artist/1oSrA2oH5V1Qo4jNPD0BMF), [Deborah Hong](https://open.spotify.com/artist/5m2lVUGIlAlnt0HgxH66UW) | [Not To Us \(The Throne is Yours\) \[Live\]](https://open.spotify.com/album/1EqXOZg6Mpp6iVfA9gliZF) | 4:33 |
 | 30 | [Praise You Still](https://open.spotify.com/track/6hNxIddDniaiD2HMyKA9oz) | [Sound Chapel](https://open.spotify.com/artist/4yAyAH2xJ5HMDCqdlS2VGP), [Kendall Schmidt](https://open.spotify.com/artist/5soX951GediIpOZ49PafO1) | [Praise You Still](https://open.spotify.com/album/2ZZUrE0vshBcYgQZ9MQHgT) | 4:43 |
 | 31 | [This Is The Kingdom](https://open.spotify.com/track/5YI1jvFZpSikpaujA9BMyN) | [Salt](https://open.spotify.com/artist/4ZfFwJ9iuFIrg9rF5K0xXv) | [This Is The Kingdom](https://open.spotify.com/album/7Gvyn9Uzses5k2cQVltwNQ) | 3:24 |
 | 32 | [Song To The Lamb \- Live](https://open.spotify.com/track/06WlwvDwIGg0BRtnnj4G0K) | [Danielle Burns](https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk), [Chris Burns](https://open.spotify.com/artist/3E4c1Fq51LkCGfVngrEHlm), [Leonard Ray Jarman](https://open.spotify.com/artist/6o1flHceho6J3t1Nhhn7Tt) | [Song To The Lamb \(Live\)](https://open.spotify.com/album/6Y4yVQr840VjdiDHTupBMG) | 8:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [HOW BEAUTIFUL THE WOUNDS](https://open.spotify.com/track/1h44aPt56vVzxxkcimK3tn) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [HOW BEAUTIFUL THE WOUNDS](https://open.spotify.com/album/1dNeM9Eg9F5sfPRMHt8Cob) | 3:52 |
 | 100 | [The Lamb's Book of Life \- Live From Passion 2025](https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call On Heaven \(Come, Lord Jesus\) \- Live](https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY) | 6:02 |
 
-Snapshot ID: `Z8FneQAAAAACMgQ6eR5Dt4nDS7rvt5Ml`
+Snapshot ID: `Z8FneQAAAAAoqReQ8YvL2Ad0bYN3U8+g`

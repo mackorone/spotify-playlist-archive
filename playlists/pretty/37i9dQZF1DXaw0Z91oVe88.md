@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 2024년 대한민국을 빛낸 팝 트랙들을 만나보세요! \(커버: Taylor Swift\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [Ranger \(remix\. BIGBOY\) \- BIGBOY Remix Version](https://open.spotify.com/track/46ppcLCDTDYWnoLBHhQjmw) | [MAXIMIZER](https://open.spotify.com/artist/4RuSFN63u6KDUloJxYIXpk), [BIGBOY](https://open.spotify.com/artist/1UA9cDd7cktmM5MwaoteEP) | [Ranger](https://open.spotify.com/album/76P6Q1REJU3N2wr4bX6Vi1) | 2:31 |
 | 50 | [yes, and?](https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:34 |
 
-Snapshot ID: `Z1BTwQAAAAD7Dp2iiSp+HUWLINvNp6f7`
+Snapshot ID: `Z1BTwQAAAADuCR683BrCKpumjgsAqjty`

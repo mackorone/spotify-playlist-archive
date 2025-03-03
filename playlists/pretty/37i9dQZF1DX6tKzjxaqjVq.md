@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tKzjxaqjVq.md) - [plain]
 
 > Enjoy music from "Shangri\-La Frontier"!  TVアニメ『シャングリラ・フロンティア』シリーズの楽曲を1つのプレイリストに。©硬梨菜・不二涼介・講談社／「シャングリラ・フロンティア」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 555 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 566 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tKzjxaqjVq.md) - [plain]
 | 49 | [和やか](https://open.spotify.com/track/5lRljp5hEuN0ozxxBZr69x) | [高田龍一](https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ), [帆足圭吾](https://open.spotify.com/artist/62WlmMYBs1kbHHvlDpML1z) | [「シャングリラ・フロンティア」オリジナル・サウンドトラック](https://open.spotify.com/album/7uuUV6a85bp6sLlvzq84sC) | 2:09 |
 | 50 | [目的地](https://open.spotify.com/track/1yOK3VAo1Et1nVLSoPZrXa) | [帆足圭吾](https://open.spotify.com/artist/62WlmMYBs1kbHHvlDpML1z), [高橋邦幸](https://open.spotify.com/artist/3xJc4Cgo0ftwI5JPP48qdg) | [「シャングリラ・フロンティア」オリジナル・サウンドトラック](https://open.spotify.com/album/7uuUV6a85bp6sLlvzq84sC) | 2:21 |
 
-Snapshot ID: `Z44QpAAAAAA0uy6KQoZeDUTezM2cBmGZ`
+Snapshot ID: `Z44QpAAAAACK16jtaGPy32yyLqCXHcPU`

@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14866,
+  "num_followers": 14868,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Z\u0142ote Bloki",
-        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
-      },
-      "artists": [
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        }
-      ],
-      "duration_ms": 191653,
-      "name": "Z\u0142oto",
-      "url": "https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Lisek i przyjaciele",
         "url": "https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 133442,
       "name": "Mopsik klopsik",
       "url": "https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Z\u0142ote Bloki",
+        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        }
+      ],
+      "duration_ms": 191653,
+      "name": "Z\u0142oto",
+      "url": "https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "HHULTRAS",
-        "url": "https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b"
-      },
-      "artists": [
-        {
-          "name": "W\u0142odi",
-          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
-        }
-      ],
-      "duration_ms": 167034,
-      "name": "HHULTRAS",
-      "url": "https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "EROTIK ERA",
         "url": "https://open.spotify.com/album/6KXlPEuTkJITCD6zzCeAjF"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 180293,
       "name": "MARIA PRZED O\u0141TARZEM",
       "url": "https://open.spotify.com/track/4cAlhZl3ytWpHKkAosthiB"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "HHULTRAS",
+        "url": "https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b"
+      },
+      "artists": [
+        {
+          "name": "W\u0142odi",
+          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
+        }
+      ],
+      "duration_ms": 167034,
+      "name": "HHULTRAS",
+      "url": "https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Music We Like To Dance To",
-        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Chy\u0142a Quintet",
-          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
-        }
-      ],
-      "duration_ms": 458733,
-      "name": "Thousand Yard Stare",
-      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "ID.Entity",
         "url": "https://open.spotify.com/album/3cv5w51uGOU0ItpaSkATZX"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 448639,
       "name": "Friend or Foe?",
       "url": "https://open.spotify.com/track/6AUa8qlzlPVYzpgLLdGLw9"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Music We Like To Dance To",
+        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Chy\u0142a Quintet",
+          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
+        }
+      ],
+      "duration_ms": 458733,
+      "name": "Thousand Yard Stare",
+      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Some Old Songs",
-        "url": "https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee"
-      },
-      "artists": [
-        {
-          "name": "Tomek Zi\u0119tek",
-          "url": "https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy"
-        }
-      ],
-      "duration_ms": 206415,
-      "name": "Your Kiss",
-      "url": "https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "W Ogniu \u015awiat",
         "url": "https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 471480,
       "name": "W Ogniu \u015awiat",
       "url": "https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Some Old Songs",
+        "url": "https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee"
+      },
+      "artists": [
+        {
+          "name": "Tomek Zi\u0119tek",
+          "url": "https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy"
+        }
+      ],
+      "duration_ms": 206415,
+      "name": "Your Kiss",
+      "url": "https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL"
     },
     {
       "added_at": "2024-03-25 08:52:09",

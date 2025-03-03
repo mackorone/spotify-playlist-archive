@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-509 songs - 1 day 0 hr 50 min
+510 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [I Wanna](https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [I Wanna](https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR) | 2:35 | 2022-12-02 |  |
 | [I Wanna Talk](https://open.spotify.com/track/0ql60H0AnQOdxiC7Oh3pJN) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [I Wanna Talk](https://open.spotify.com/album/5Xd5xwTvOltxDikPLTEcw5) | 2:57 | 2024-10-04 | 2025-01-13 |
 | [I WANT](https://open.spotify.com/track/6tkQHOd8Wgf2ZpecK9sXGs) | [G\-Pol](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Lambi](https://open.spotify.com/artist/0kcZZU0MJOYaosYfTfAa0H) | [I WANT](https://open.spotify.com/album/3TxoC4oZUoxlGAXa6qNfWO) | 2:50 | 2022-01-21 | 2022-02-02 |
-| [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 | 2023-08-04 |  |
+| [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 | 2023-08-04 | 2025-03-03 |
 | [IDGAF](https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Rell Rock](https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq) | [IDGAF](https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG) | 3:00 | 2022-06-10 |  |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 | 2023-01-06 |
 | [ILY](https://open.spotify.com/track/3vE4BK9rlQRRCnuguRTCuT) | [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [BASS RELATED VOL\. 1](https://open.spotify.com/album/6atF5QM5DJdbqtJqFlyLsN) | 2:48 | 2024-11-08 |  |
@@ -273,6 +273,7 @@
 | [Like That](https://open.spotify.com/track/0NUDi4qhj9lDtwNJqgFuXv) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [Like That](https://open.spotify.com/album/5zSaFQQH5vAw5TfaDYXj9U) | 2:27 | 2022-04-15 | 2023-03-08 |
 | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/album/1U1xk9VZDquRwDoUeBAtvd) | 2:48 | 2023-06-30 | 2023-07-28 |
 | [Like This \(feat\. AMY MIYÚ\) \- Carta Edit](https://open.spotify.com/track/3Ej9gFp9x29QEpU0TDUueh) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Like This \(feat\. AMY MIYÚ\) \[Carta Edit\]](https://open.spotify.com/album/7E9ci5D1kdxQO9uPCRlKMI) | 2:22 | 2021-10-29 | 2022-05-15 |
+| [Like This Like That](https://open.spotify.com/track/2a2Uo0NDUHw5VvnaIh6sSn) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P) | [Like This Like That](https://open.spotify.com/album/0s054o1OV21GhzXFbJSyKa) | 2:54 | 2025-02-28 |  |
 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-09-16 |  |
 | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Robbie Rise](https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A) | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7) | 3:46 | 2022-12-16 |  |
 | [Listen Up](https://open.spotify.com/track/0qYS0cbvf7Ey5Hb0Af9pt3) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Listen Up](https://open.spotify.com/album/4LwxOAjsdpro1lF8gfw1yN) | 2:03 | 2022-09-16 | 2023-05-13 |

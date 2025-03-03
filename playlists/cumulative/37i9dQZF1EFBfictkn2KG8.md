@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-48 songs - 2 hr 14 min
+49 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 | 2024-06-13 |  |
 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 | 2024-06-13 |  |
 | [How \(Do I Love You\)](https://open.spotify.com/track/1wNC6sLBGiN6WdnhCvE9SF) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How \(Do I Love You\)](https://open.spotify.com/album/2ELOXw40fZeu3WxJDlNa9S) | 2:34 | 2024-06-13 |  |
+| [How To Stop It](https://open.spotify.com/track/1C1zYsvtEw9nROGnQL40wh) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How To Stop It](https://open.spotify.com/album/1x880PZgDNpeG3M67BmCpX) | 2:44 | 2025-03-02 |  |
 | [Just Wanna Be With You](https://open.spotify.com/track/2MJKbbjmQSU80KA27ozSU7) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Just Wanna Be With You](https://open.spotify.com/album/5CtSAySz886wilKOAf6IfY) | 2:31 | 2024-06-13 |  |
 | [Life](https://open.spotify.com/track/1HgjoA630jkSVIaEae16hW) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Life](https://open.spotify.com/album/3bNuNikQV86Lj8DrdvDYCr) | 2:54 | 2024-06-13 |  |
 | [Little Hollywood](https://open.spotify.com/track/3tKZrYDtkte1E68aNozR75) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:03 | 2024-06-13 |  |

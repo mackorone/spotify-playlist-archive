@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:2nJYGgfTf2846LtVB3AES8">Plested</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,701 likes - 26 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,727 likes - 26 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 25 | [Supernova](https://open.spotify.com/track/0n3nkCQVWJNDNIXw1U08Gw) | [KENNEDY](https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R) | [Supernova](https://open.spotify.com/album/2lmVjrA39ngMJ5G7xUMRTf) | 3:33 |
 | 26 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
 
-Snapshot ID: `Z6ZBSAAAAACYET1vTTfEssSddqbFA1Fo`
+Snapshot ID: `Z6ZBSAAAAACT8Qy6465RIXF0y5LxJdU6`

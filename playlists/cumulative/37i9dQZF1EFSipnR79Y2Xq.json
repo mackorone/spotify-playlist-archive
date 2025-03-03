@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "El Rey del Despecho",
+        "url": "https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202392,
+      "name": "No Se Dice",
+      "url": "https://open.spotify.com/track/5fzeebAg9ZJUwCbhkIIgiZ"
+    },
+    {
+      "album": {
         "name": "No Se Dice",
         "url": "https://open.spotify.com/album/29LyF83XhiMW3aPYuYTHEw"
       },
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 202392,
       "name": "No Se Dice",
       "url": "https://open.spotify.com/track/7I0jAVymRNBhPkz2XQV0bl"

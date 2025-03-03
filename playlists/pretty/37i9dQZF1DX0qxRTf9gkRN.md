@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 
 > The best and finest 00s Funk\. Cover: Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,924 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,946 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 | 69 | [Live Without You](https://open.spotify.com/track/6ALfwwJfZKxnN2kjK3ngU1) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Ray Ray](https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl) | 4:49 |
 | 70 | [MRG](https://open.spotify.com/track/6sh7wSqZL1xDKWvo20qcYl) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Ten Years On](https://open.spotify.com/album/5Ippa7TZRnICT1d1Eewp3d) | 4:17 |
 
-Snapshot ID: `ZowxKgAAAABg4yYjJZXvKrmWAFFfk3Nl`
+Snapshot ID: `ZowxKgAAAACn6GaGi8OGzvgnUlJ7qZEf`

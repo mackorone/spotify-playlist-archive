@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Myke Towers, Junior H, The Rudeboyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,319 likes - 61 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,330 likes - 61 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 60 | [N.I.T.](https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [N.I.T.](https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr) | 3:29 |
 | 61 | [Luz de Luna](https://open.spotify.com/track/74f3f2OeIyXFvxSs2xk5IG) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Rozalén por Chavela](https://open.spotify.com/album/25dLCScmY71x60dbg002J2) | 3:22 |
 
-Snapshot ID: `Z8HPOAAAAADXp1pzzFJtOXMwwkw/nEGj`
+Snapshot ID: `Z8HPOAAAAADFVZfi2s5QMNQ8jxnz0MFe`

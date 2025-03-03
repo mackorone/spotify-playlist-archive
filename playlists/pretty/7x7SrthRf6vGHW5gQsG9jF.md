@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 like - 827 songs - 2 day 4 hr 56 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 like - 828 songs - 2 day 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -835,5 +835,6 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 825 | [Kimitoodoretara](https://open.spotify.com/track/24GbufnTBREN9hgFtZ2a07) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Kimitoodoretara](https://open.spotify.com/album/3XklcVqYvveUoTsLNaVbP3) | 3:31 |
 | 826 | [爆弾魔 \- Re\-Recording](https://open.spotify.com/track/4wufVE3ELYSfNRBIjvSi5D) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 3:35 |
 | 827 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
+| 828 | [サラバ青春](https://open.spotify.com/track/0rzpfStMhpjX8gQ9qagZOL) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [サラバ青春](https://open.spotify.com/album/1WtzRUR7xstZM3hAWIhOVi) | 5:15 |
 
-Snapshot ID: `AAAEyTB1fED6PEqaiEmoMabVpCqkRHHD`
+Snapshot ID: `AAAEynA2zvRHNzvHEmrlyb8hLFbwyUmE`

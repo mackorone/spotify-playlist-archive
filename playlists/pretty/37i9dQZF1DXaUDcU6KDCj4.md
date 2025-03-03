@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Nathaniel Rateliff & Gregory Alan Isakov
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,083 likes - 149 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,249 likes - 149 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 148 | [Still Young](https://open.spotify.com/track/7fezOJX0vwzGYoUvdbBVLn) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Still Young](https://open.spotify.com/album/6rrFkvxymdBSoeJZsYfLcg) | 3:11 |
 | 149 | [Breathing](https://open.spotify.com/track/4c7QjLPvkrtvKFHlIBrXYl) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Breathing](https://open.spotify.com/album/5wq15TYfzXlZMbVBGceVhV) | 4:07 |
 
-Snapshot ID: `Z8FDBgAAAADia5RghVWCrxhSO4jZXQI1`
+Snapshot ID: `Z8FDBgAAAABcE7Jer0SSrsiRvk8tGzWr`

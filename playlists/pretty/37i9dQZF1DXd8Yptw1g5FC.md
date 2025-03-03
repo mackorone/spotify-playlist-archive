@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Haftanın en iyi yeni çıkışları\. Kapak: Mavi Gri
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,468 likes - 120 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,462 likes - 120 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

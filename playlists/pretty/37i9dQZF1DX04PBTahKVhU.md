@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX04PBTahKVhU.md) - [plain]
 
 > When love is your biggest risk, is it worth taking? Listen to the music from My Fault: London, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,934 likes - 27 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,240 likes - 27 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX04PBTahKVhU.md) - [plain]
 | 26 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 |
 | 27 | [Feel The Rush](https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Feel The Rush](https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0) | 3:13 |
 
-Snapshot ID: `Z6+jWgAAAAAU9RqzVKRzUtK7ZEK9KTOF`
+Snapshot ID: `Z6+jWgAAAADtxzNMNABgh5Hg1/YwvOlb`

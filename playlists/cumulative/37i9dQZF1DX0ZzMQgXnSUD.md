@@ -2,7 +2,7 @@
 
 ### [Best of Bond](https://open.spotify.com/playlist/37i9dQZF1DX0ZzMQgXnSUD)
 
-> "Bond..\. James Bond." Cover: <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">Billie Eilish</a>
+> "Bond..\. James Bond." Cover: Doja Cat
 
 52 songs - 3 hr 5 min
 

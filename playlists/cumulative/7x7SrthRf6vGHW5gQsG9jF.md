@@ -4,7 +4,7 @@
 
 > mostly rock
 
-827 songs - 2 day 4 hr 56 min
+828 songs - 2 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [コンタクト](https://open.spotify.com/track/2tKEEiuxTUJqT57KG49vUj) | [Mowmow Lulu Gyaban](https://open.spotify.com/artist/3oyqpQcFZHn1eEAkigzsNB) | [野口、久津川で爆死](https://open.spotify.com/album/76078eqdqo2iROalBLsBU9) | 4:25 | 2023-09-12 |  |
 | [サイケな恋人](https://open.spotify.com/track/3ShTQT4QvhkeWmPPGBbIT2) | [Mowmow Lulu Gyaban](https://open.spotify.com/artist/3oyqpQcFZHn1eEAkigzsNB) | [野口、久津川で爆死](https://open.spotify.com/album/76078eqdqo2iROalBLsBU9) | 6:47 | 2023-08-18 |  |
 | [サマースクール](https://open.spotify.com/track/28oSjVeTIM8v1LrXmoo2GA) | [SEAPOOL](https://open.spotify.com/artist/0iuh3bi0fF2wlYvZG01vZn) | [スイート Q ラブ](https://open.spotify.com/album/0fZRULe28oLLCVJPrwoUXw) | 3:04 | 2023-08-04 |  |
+| [サラバ青春](https://open.spotify.com/track/0rzpfStMhpjX8gQ9qagZOL) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [サラバ青春](https://open.spotify.com/album/1WtzRUR7xstZM3hAWIhOVi) | 5:15 | 2025-03-02 |  |
 | [サーカスナイト](https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [サーカスナイト](https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR) | 5:27 | 2024-04-25 |  |
 | [シニヨンの兵隊](https://open.spotify.com/track/3pOMYl2mpXKMqqSDkLokXY) | [Doctrine Doctrine](https://open.spotify.com/artist/4Oj5eE3XxUZkyXxWA3rQkn) | [Darlington](https://open.spotify.com/album/0GQQ6r5JSABPSFJMaACcsP) | 4:14 | 2023-10-24 |  |
 | [シワの種](https://open.spotify.com/track/5hgva5ggFCtCTKCUGidfqa) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [Fool](https://open.spotify.com/album/5DYGmpzZJvoeOWPh23LQtX) | 3:05 | 2024-05-18 |  |

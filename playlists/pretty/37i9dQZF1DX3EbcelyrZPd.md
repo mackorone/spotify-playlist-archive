@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Kusah
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,347 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,388 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 79 | [Nafunga Mwaka](https://open.spotify.com/track/1M3ICM2DALtaw0FKnXlnTa) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Nafunga Mwaka](https://open.spotify.com/album/1VcdR7v9dKUUZ2IWUi7ur2) | 2:55 |
 | 80 | [Fallen Angel \(feat\. Billnass\)](https://open.spotify.com/track/1uxoH5vs4qnyMUt5Omb6nD) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Fallen Angel \(feat\. Billnass\)](https://open.spotify.com/album/4H1Lh115qAiFHuGRWvc5Uf) | 4:20 |
 
-Snapshot ID: `Z8D8UAAAAAD6BXk/SF1THomz2NFSLSfY`
+Snapshot ID: `Z8D8UAAAAAAyzJwgAgdLVxFqlC0zSD2h`

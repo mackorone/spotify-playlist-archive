@@ -1,6 +1,6 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
-  "num_followers": 441409,
+  "num_followers": 441625,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "2 Future 4 U",
         "url": "https://open.spotify.com/album/00XVrVh53A6ENcRbErr81y"
       },
@@ -239,6 +255,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Big Fun",
+      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Turn Around - Single",
         "url": "https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ"
       },
@@ -259,34 +291,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
       },
       "artists": [
         {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 247001,
-      "name": "Everybody Everybody",
-      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
-      },
-      "artists": [
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        },
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+          "name": "A. Manetta",
+          "url": "https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Big Fun",
-      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
+      "duration_ms": 215226,
+      "name": "Don't Stop Movin' - Radio Mix",
+      "url": "https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -335,26 +355,6 @@
       "duration_ms": 231840,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        },
-        {
-          "name": "A. Manetta",
-          "url": "https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "Don't Stop Movin' - Radio Mix",
-      "url": "https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Everybody (All Over The World)",
-        "url": "https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg"
-      },
-      "artists": [
-        {
-          "name": "FPI Project",
-          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
-        }
-      ],
-      "duration_ms": 313813,
-      "name": "Everybody (All over the World) - Dance Version",
-      "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "First Floor",
         "url": "https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 435800,
       "name": "Sweet Sticky",
       "url": "https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Everybody (All Over The World)",
+        "url": "https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg"
+      },
+      "artists": [
+        {
+          "name": "FPI Project",
+          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
+        }
+      ],
+      "duration_ms": 313813,
+      "name": "Everybody (All over the World) - Dance Version",
+      "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Do You Want Me Baby",
-        "url": "https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy"
-      },
-      "artists": [
-        {
-          "name": "Cloud 9",
-          "url": "https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6"
-        }
-      ],
-      "duration_ms": 482445,
-      "name": "Do You Want Me Baby - Original Club Mix",
-      "url": "https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Club Classics",
         "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 516533,
       "name": "Love Come Down - Club Vocal Mix",
       "url": "https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Do You Want Me Baby",
+        "url": "https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy"
+      },
+      "artists": [
+        {
+          "name": "Cloud 9",
+          "url": "https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6"
+        }
+      ],
+      "duration_ms": 482445,
+      "name": "Do You Want Me Baby - Original Club Mix",
+      "url": "https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7"
     },
     {
       "added_at": "2024-10-25 04:00:00",

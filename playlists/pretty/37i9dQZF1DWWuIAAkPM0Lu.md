@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:7nCIXUCqZmxntAGJMyls5c">Svea S</a> har album ude ❤️‍🔥 <a href="spotify:artist:1WLr84Nec3Bb8xuxgQZGb9">For Evigt I Går</a> ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,124 likes - 113 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,134 likes - 113 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 112 | [Remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 |
 | 113 | [Clothes Off](https://open.spotify.com/track/338b5ZgLjuLr5S9Qk5bKrZ) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Clothes Off](https://open.spotify.com/album/5aN07Khrurpekp7Ur0Akma) | 3:08 |
 
-Snapshot ID: `Z8DukwAAAAALR0xmKvu4uWsEOAvIRKXF`
+Snapshot ID: `Z8DukwAAAACs68EqeqymhLIhRcSsX2z0`

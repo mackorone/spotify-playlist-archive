@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: alberto.vela.
 
-765 songs - 1 day 21 hr 37 min
+766 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [El Primer Beso de Verdad](https://open.spotify.com/track/5QmV6BH60x7BLqYLrjCHcm) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Fotografías de España](https://open.spotify.com/album/2hob96jwRqls6wbZuqfppl) | 2:51 | 2024-03-01 | 2024-03-23 |
 | [El Primero](https://open.spotify.com/track/3etMSQSq1ynkQ4Vb9QO99U) | [Parade](https://open.spotify.com/artist/1peNOv8TAlb3Lu1IqaNf56), [Nacho Casado](https://open.spotify.com/artist/3Kk2OzzEbuWFgWdZy2cy5N) | [Parade & Nacho Casado](https://open.spotify.com/album/44w7etmPnXkSB4qnJ4p9ZY) | 3:14 | 2024-10-11 | 2024-12-14 |
 | [El primero](https://open.spotify.com/track/3yFlsxRaK7TuIByEWGPdlw) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Las manos](https://open.spotify.com/album/1LKDk8RQ588oxmj4tBK39i) | 3:11 | 2022-11-25 | 2022-12-27 |
+| [El Ratón \(Live\)](https://open.spotify.com/track/015OKJ6Vokg2Caflo5jxoQ) | [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Payaso Triste](https://open.spotify.com/album/3XDOfJBFQf3UHm0EJlapmx) | 3:03 | 2025-02-27 |  |
 | [El Sitio](https://open.spotify.com/track/5eh20XbXOPiFgDz8XXo9WY) | [Lo Lamento](https://open.spotify.com/artist/08I7fke1XRwIgC0orK1pRN) | [El Sitio](https://open.spotify.com/album/1aXGNKkRQoHwE6RJacP5kE) | 3:19 | 2023-05-19 | 2023-06-17 |
 | [El Sol Está Mojado](https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [El Sol Está Mojado](https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY) | 4:15 | 2024-09-24 | 2024-11-22 |
 | [El Tambor](https://open.spotify.com/track/6Ohp9GIMDh0mvDGo87KWY8) | [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN), [Matías Rada](https://open.spotify.com/artist/5e5vdboKmw4s7QAMPRUI1N) | [Candombe](https://open.spotify.com/album/02tFQcbgaxEs6RRiGs6qCl) | 2:53 | 2024-10-04 | 2024-11-12 |
@@ -349,7 +350,7 @@
 | [La Profecía](https://open.spotify.com/track/4SalVML4kHX3Kjlbq24EgZ) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [La Profecía](https://open.spotify.com/album/0E6iE7Z2TREMlOcCdxsR2x) | 3:37 | 2021-12-24 | 2022-07-29 |
 | [La Quimerita](https://open.spotify.com/track/7Cvvi9V0dEnpGeY3axVNGP) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [La Quimerita](https://open.spotify.com/album/24iqwRhlBDcDlkUwDFZqL9) | 3:10 | 2021-12-24 | 2022-01-13 |
 | [la raíz](https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la raíz](https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh) | 3:44 | 2022-10-15 |  |
-| [La recena](https://open.spotify.com/track/0VjWPWeATCwgzjLGu0GGVq) | [Ángela González](https://open.spotify.com/artist/2of8Ssl5Swezw05mhySC8X) | [La recena](https://open.spotify.com/album/0f1ZpHwCjMYMglYZBCqs2u) | 2:54 | 2025-02-13 |  |
+| [La recena](https://open.spotify.com/track/0VjWPWeATCwgzjLGu0GGVq) | [Ángela González](https://open.spotify.com/artist/2of8Ssl5Swezw05mhySC8X) | [La recena](https://open.spotify.com/album/0f1ZpHwCjMYMglYZBCqs2u) | 2:54 | 2025-02-13 | 2025-03-03 |
 | [La Serrana](https://open.spotify.com/track/01h6ipg9kKVRfBpTywnKhb) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [La Serrana](https://open.spotify.com/album/5l0f2RgDat84Z7xWUM5zgS) | 4:25 | 2024-01-26 | 2024-06-01 |
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2023-01-06 | 2023-01-17 |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-05-13 | 2022-10-20 |

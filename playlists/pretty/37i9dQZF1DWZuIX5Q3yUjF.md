@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Federico Di Napoli in cover della playlist dell'R&B italiano 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,233 likes - 76 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,228 likes - 76 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 75 | [tutte le mie notti](https://open.spotify.com/track/4VfUYdqzEyN7B90jPEAmJY) | [main](https://open.spotify.com/artist/1c7qYAfX0Rwg1woBsqpCzz), [bless](https://open.spotify.com/artist/51omrX2a1LfghTD6LIAPkN) | [tutte le mie notti](https://open.spotify.com/album/1kTreH9Rqi48aRpAa4sC4u) | 2:56 |
 | 76 | [Perdonarci](https://open.spotify.com/track/03BBcJYJLyobrUtAA3p50I) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Perdonarci](https://open.spotify.com/album/1fi0JDT6VMXOkJ0w6pHJCb) | 2:38 |
 
-Snapshot ID: `Z8DuxwAAAACpuHe1r6KaPBBfbcT/NSjX`
+Snapshot ID: `Z8DuxwAAAAAN1Owdkclrp8WluShom/Qw`

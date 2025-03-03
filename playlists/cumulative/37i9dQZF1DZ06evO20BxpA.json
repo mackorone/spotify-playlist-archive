@@ -14,6 +14,24 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179213,
+      "name": "25th July 1978",
+      "url": "https://open.spotify.com/track/2wihunTud3FGEbccyWhdc6"
+    },
+    {
+      "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
       "date_removed": "2025-02-22",
@@ -88,7 +106,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 103546,
       "name": "A Good Choice",
       "url": "https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 78866,
       "name": "There Is No Justice In Law",
       "url": "https://open.spotify.com/track/7lDUIo9A8BIlbLeDq5d1S5"
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 161240,
       "name": "Wolfblood",
       "url": "https://open.spotify.com/track/4MMNVs1Xg1pQ9mdDBNNV4V"

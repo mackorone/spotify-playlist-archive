@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,306 likes - 69 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,443 likes - 69 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 62 | [Make Me a Channel of Your Peace \- Arr\. by Simon Lole](https://open.spotify.com/track/0qGEX3pbraLFW5sew7k9zV) | [Sebastian Temple](https://open.spotify.com/artist/46w8xOElBo4gXRJ1BnLmNx), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [Back in Harmony](https://open.spotify.com/album/4W9JQsHKofQ6Cya0naM8jj) | 3:41 |
 | 63 | [A Man Without Love](https://open.spotify.com/track/4SlFhuKLrdMxyjP2XXHfuQ) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [A Man Without Love](https://open.spotify.com/album/6VidERJoBxZm4sPQFkPQvX) | 3:31 |
 | 64 | [Air en sol](https://open.spotify.com/track/6mP0PMfnTzvf4dSNU8W1ts) | [Giorgia Fumanti](https://open.spotify.com/artist/19Jsb6i9xKolWGXZznN93N) | [Essence](https://open.spotify.com/album/4paZQWd1xdBnBAsVwROUIt) | 3:50 |
-| 65 | [To Believe](https://open.spotify.com/track/7cA6XIZ5VD67qmIhwDTQeM) | [Matthew Evancho](https://open.spotify.com/artist/4I3QoCZEyVR3xhyct3WIa3), [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [Dream With Me](https://open.spotify.com/album/4DELT3MlaCsncDA5KODmKo) | 4:27 |
+| 65 | [To Believe](https://open.spotify.com/track/7cA6XIZ5VD67qmIhwDTQeM) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [Dream With Me](https://open.spotify.com/album/4DELT3MlaCsncDA5KODmKo) | 4:27 |
 | 66 | [En Aranjuez Con Tu Amor](https://open.spotify.com/track/1YO3Bwr2S9kTfdkCu56qUx) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI) | 3:50 |
 | 67 | [Veni Creator Spiritus](https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ) | [Juliette Pochin](https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Poor Clare Sisters Arundel](https://open.spotify.com/artist/2yEndu1Rs4a7uBoFUSZPla) | [Light for the World](https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy) | 2:13 |
 | 68 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |

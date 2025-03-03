@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Yura Yunita
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,886 likes - 62 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,935 likes - 62 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

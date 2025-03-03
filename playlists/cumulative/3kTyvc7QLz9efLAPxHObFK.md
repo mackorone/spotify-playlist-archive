@@ -4,7 +4,7 @@
 
 > 
 
-2,082 songs - 4 day 14 hr 19 min
+2,083 songs - 4 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Drive Me Crazy](https://open.spotify.com/track/2h2dxgRx6SyklEFHEPFDXo) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Drive Me Crazy](https://open.spotify.com/album/4nOOfQ7lhwVMwyuuaOLaIC) | 3:10 | 2023-04-28 |  |
 | [Drop It](https://open.spotify.com/track/6YlC7u2ZzUHIdftwlKpp6N) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Bassline Breaker](https://open.spotify.com/album/45jLKb3skKjKw5XMKFxOHT) | 2:32 | 2023-05-25 |  |
 | [Drop It \- Original Mix](https://open.spotify.com/track/2YH2qTSiCGvVexz8Zv21HN) | [3 Steps Ahead](https://open.spotify.com/artist/2aSXpRYCcgBPTVCMX3qyjA) | [Drop It](https://open.spotify.com/album/5p1MzjdSFoxYvhv6OSvRni) | 4:21 | 2023-10-13 |  |
+| [Drop It Hard](https://open.spotify.com/track/1qDyPiqctcoZfHSlzIrAwY) | [Synapze](https://open.spotify.com/artist/1jW6LuIyqoqeVThJeuG8QK) | [Drop It Hard](https://open.spotify.com/album/0WEei61n72xzVUJhjOm3xa) | 2:22 | 2025-03-02 |  |
 | [Drop That Shit](https://open.spotify.com/track/5xbA9CEdLZabXdGilUNQZL) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [PIEP vs ZAAG](https://open.spotify.com/album/0kWH8jodQkcUYvKWsdGY5H) | 3:04 | 2024-11-21 |  |
 | [Drop The Bass](https://open.spotify.com/track/4UNHfelpfXVebSFNu0kVYp) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Drop The Bass](https://open.spotify.com/album/04Q0lTXiPIEG7xV7WPROvF) | 2:59 | 2023-10-27 |  |
 | [DROP THE BASS](https://open.spotify.com/track/66jWBuhex9PX3CGAK5UlRG) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [DROP THE BASS](https://open.spotify.com/album/3SYsMSPNdUObfj4OdAaw97) | 4:07 | 2024-10-20 |  |

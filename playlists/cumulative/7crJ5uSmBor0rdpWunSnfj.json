@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Red of Tooth and Claw",
+        "url": "https://open.spotify.com/album/3H78W1uHinGlB6Kprp2OzK"
+      },
+      "artists": [
+        {
+          "name": "Murder By Death",
+          "url": "https://open.spotify.com/artist/3yrQJxTTj7xS2deLcXiEM3"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215560,
+      "name": "Comin' Home",
+      "url": "https://open.spotify.com/track/0aK0NO0XEApqsssSfmV88H"
+    },
+    {
+      "album": {
         "name": "Beat the Champ",
         "url": "https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB"
       },

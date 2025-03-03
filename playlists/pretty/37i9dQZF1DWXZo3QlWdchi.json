@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 319959,
+  "num_followers": 320302,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "duration_ms": 240799,
+      "name": "Malandragem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PIHTeccvbpmrSeYrlWkfx"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -172,38 +188,6 @@
       "added_at": "2025-02-28 17:10:40",
       "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        }
-      ],
-      "duration_ms": 240799,
-      "name": "Malandragem - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PIHTeccvbpmrSeYrlWkfx"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
-        "name": "Ac\u00fastico Ira!",
-        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
-      },
-      "artists": [
-        {
-          "name": "Ira!",
-          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
       },
       "artists": [
@@ -251,6 +235,22 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
+        "name": "Ac\u00fastico Ira!",
+        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
+      },
+      "artists": [
+        {
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 438583,
-      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
-      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "Live / Unplugged",
         "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 233946,
       "name": "Ironic - Live / Unplugged",
       "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 438583,
+      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
+      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
-      },
-      "artists": [
-        {
-          "name": "Detonautas",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 215898,
-      "name": "Aposta - Ao Vivo",
-      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 141136,
       "name": "Dias de Luta, Dias de Gl\u00f3ria - Ao Vivo - Chegou Quem Faltava",
       "url": "https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
+      },
+      "artists": [
+        {
+          "name": "Detonautas",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 215898,
+      "name": "Aposta - Ao Vivo",
+      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "What's My Age Again? (Acoustic)",
-        "url": "https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr"
-      },
-      "artists": [
-        {
-          "name": "Jota John",
-          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
-        }
-      ],
-      "duration_ms": 146105,
-      "name": "What's My Age Again? - Acoustic",
-      "url": "https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
         "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 190651,
       "name": "Guerra e Paz - Ac\u00fastico Live",
       "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "What's My Age Again? (Acoustic)",
+        "url": "https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr"
+      },
+      "artists": [
+        {
+          "name": "Jota John",
+          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
+        }
+      ],
+      "duration_ms": 146105,
+      "name": "What's My Age Again? - Acoustic",
+      "url": "https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "Are You Gonna Be My Girl",
-        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Are You Gonna Be My Girl - Acoustic",
-      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "Cabrobro (Ac\u00fastico) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5dJz65iTYrIFhAoe4E424N"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 220600,
       "name": "Cabrobro (Ac\u00fastico) - Ao Vivo",
       "url": "https://open.spotify.com/track/6GfqBkse7JgaIndolRQy1u"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "Are You Gonna Be My Girl",
+        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Are You Gonna Be My Girl - Acoustic",
+      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 183052,
-      "name": "Stand by Me - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "A C\u00e9u Aberto (Ao Vivo)",
         "url": "https://open.spotify.com/album/2oX5IyR0rz8gSsEMRdv8Ju"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/28R1dlvV3yiNktmnnYflK5"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
         }
       ],
-      "duration_ms": 283800,
-      "name": "Every Time I Look At You - Live",
-      "url": "https://open.spotify.com/track/33D1kuSjM8e8rwHrzGeSkm"
+      "duration_ms": 183052,
+      "name": "Stand by Me - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -1167,6 +1151,22 @@
       "duration_ms": 222826,
       "name": "Take On Me - MTV Unplugged / Edit",
       "url": "https://open.spotify.com/track/6UyPTgKXxsFeQExGml9x21"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/28R1dlvV3yiNktmnnYflK5"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Every Time I Look At You - Live",
+      "url": "https://open.spotify.com/track/33D1kuSjM8e8rwHrzGeSkm"
     },
     {
       "added_at": "2025-02-28 17:10:40",

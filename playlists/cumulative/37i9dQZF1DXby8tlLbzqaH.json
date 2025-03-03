@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Dreams in White",
+        "url": "https://open.spotify.com/album/2MU5F73KbDspAV3MW3nCJm"
+      },
+      "artists": [
+        {
+          "name": "Titan Pulse",
+          "url": "https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309475,
+      "name": "Dreams in White",
+      "url": "https://open.spotify.com/track/0llaJPP8m0VLRSDIgeFLKa"
+    },
+    {
+      "album": {
         "name": "Dreaming Of Brown Noise",
         "url": "https://open.spotify.com/album/4fI20ufVMSoJuJ2AKZLFsE"
       },
@@ -4956,7 +4974,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 167763,
       "name": "Vliegtuiglawaai",
       "url": "https://open.spotify.com/track/5YuFQoMrfSG3o4Hn2Gn2m1"

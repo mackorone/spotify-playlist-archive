@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 74977,
+  "num_followers": 75000,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-02-25 15:00:30",
       "album": {
-        "name": "TARINAI/\u30c8\u30ec\u30e2\u30ed\u30a2\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I"
+        "name": "ELEMENTS",
+        "url": "https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx"
       },
       "artists": [
         {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
         }
       ],
-      "duration_ms": 219633,
-      "name": "TARINAI",
-      "url": "https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK"
+      "duration_ms": 285665,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v"
     },
     {
       "added_at": "2025-02-25 15:00:30",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-02-25 15:00:30",
       "album": {
-        "name": "ELEMENTS",
-        "url": "https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx"
-      },
-      "artists": [
-        {
-          "name": "Ave Mujica",
-          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
-        }
-      ],
-      "duration_ms": 285665,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
         "name": "\u4e21\u7ffc\u306eBrilliance",
         "url": "https://open.spotify.com/album/5AtHehANdflNwC5rcEyfsW"
       },
@@ -435,6 +419,118 @@
       "duration_ms": 239900,
       "name": "\u4e21\u7ffc\u306eBrilliance",
       "url": "https://open.spotify.com/track/7IV0vuX4nTrPxH08lNrZ0Q"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "TARINAI/\u30c8\u30ec\u30e2\u30ed\u30a2\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 219633,
+      "name": "TARINAI",
+      "url": "https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Butter-Fly - Cover",
+      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "Pastel \u00e0 la mode",
+        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "DISCOTHEQUE - Cover",
+      "url": "https://open.spotify.com/track/5FFBLmADzoKasxORMErCd4"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "THRONE OF ROSE",
+        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 232433,
+      "name": "\u4e00\u9022\u306eFull Glory",
+      "url": "https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "THE WAY OF LIFE",
+        "url": "https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "DEAD HEAT BEAT",
+      "url": "https://open.spotify.com/track/70oZ9paZhQYkYAd5nganwI"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 215968,
+      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
+      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 276300,
+      "name": "\u72ec\u5275\u53ce\u5dee",
+      "url": "https://open.spotify.com/track/5qs2hDCiRA3fZcCnEwDf3Y"
     },
     {
       "added_at": "2025-02-25 15:00:30",
@@ -519,118 +615,6 @@
     {
       "added_at": "2025-02-25 15:00:30",
       "album": {
-        "name": "STAY GLOW",
-        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Butter-Fly - Cover",
-      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "THRONE OF ROSE",
-        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 232433,
-      "name": "\u4e00\u9022\u306eFull Glory",
-      "url": "https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 215968,
-      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
-      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "Pastel \u00e0 la mode",
-        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "DISCOTHEQUE - Cover",
-      "url": "https://open.spotify.com/track/5FFBLmADzoKasxORMErCd4"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "\u590f\u306b\u9589\u3058\u3053\u3081\u3066",
-        "url": "https://open.spotify.com/album/42rOQUNEaZ2pjNlT6N0x67"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 261635,
-      "name": "\u590f\u306b\u9589\u3058\u3053\u3081\u3066",
-      "url": "https://open.spotify.com/track/61Y9W12NmToaKokLMtJ6Y0"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "THE WAY OF LIFE",
-        "url": "https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "DEAD HEAT BEAT",
-      "url": "https://open.spotify.com/track/70oZ9paZhQYkYAd5nganwI"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "\u30b3\u30df\u30e5\u7740\u706bFire!",
-        "url": "https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9"
-      },
-      "artists": [
-        {
-          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
-          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
-        }
-      ],
-      "duration_ms": 220017,
-      "name": "\u30b3\u30cf\u30af",
-      "url": "https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
         "name": "QUINTET",
         "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
@@ -643,58 +627,6 @@
       "duration_ms": 255000,
       "name": "\u8a93\u3044\u306eWingbeat",
       "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "\u512a\u52dd",
-        "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 271013,
-      "name": "\u512a\u52dd",
-      "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "F\u00fcr immer",
-        "url": "https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "Floral Haven",
-      "url": "https://open.spotify.com/track/25CbX0dHAeQq8HUwSSLyfC"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "STAY GLOW",
-        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 276300,
-      "name": "\u72ec\u5275\u53ce\u5dee",
-      "url": "https://open.spotify.com/track/5qs2hDCiRA3fZcCnEwDf3Y"
     },
     {
       "added_at": "2025-02-25 15:00:30",
@@ -731,6 +663,22 @@
     {
       "added_at": "2025-02-25 15:00:30",
       "album": {
+        "name": "F\u00fcr immer",
+        "url": "https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "Floral Haven",
+      "url": "https://open.spotify.com/track/25CbX0dHAeQq8HUwSSLyfC"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
         "name": "SAVAGE",
         "url": "https://open.spotify.com/album/4or1XUBWoANxo0vINF2LIT"
       },
@@ -747,34 +695,22 @@
     {
       "added_at": "2025-02-25 15:00:30",
       "album": {
-        "name": "\u3046\u3043\u30fc\u304d\u3083\u3093\u2606\u30d5\u30ec\u30d5\u30ec\u3063!",
-        "url": "https://open.spotify.com/album/0l8Ay8vHgLHxtE1fKgVqhH"
+        "name": "\u512a\u52dd",
+        "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
       },
       "artists": [
         {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 269866,
-      "name": "\u3048\u304c\u304a\u3001\u307f\uff5e\u3063\u3051\u305f!",
-      "url": "https://open.spotify.com/track/58qgn1BHFxLaVPbrUtaSA6"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "\u3069\u304d\u3069\u304dSING OUT!",
-        "url": "https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm"
-      },
-      "artists": [
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
         {
-          "name": "\u6238\u5c71\u9999\u6f84(CAST:\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 249146,
-      "name": "\u3069\u304d\u3069\u304dSING OUT!",
-      "url": "https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g"
+      "duration_ms": 271013,
+      "name": "\u512a\u52dd",
+      "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
     },
     {
       "added_at": "2025-02-25 15:00:30",
@@ -807,6 +743,86 @@
       "duration_ms": 259833,
       "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa - Cover",
       "url": "https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "\u30b3\u30df\u30e5\u7740\u706bFire!",
+        "url": "https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9"
+      },
+      "artists": [
+        {
+          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
+          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
+        }
+      ],
+      "duration_ms": 220017,
+      "name": "\u30b3\u30cf\u30af",
+      "url": "https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "\u3046\u3043\u30fc\u304d\u3083\u3093\u2606\u30d5\u30ec\u30d5\u30ec\u3063!",
+        "url": "https://open.spotify.com/album/0l8Ay8vHgLHxtE1fKgVqhH"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 269866,
+      "name": "\u3048\u304c\u304a\u3001\u307f\uff5e\u3063\u3051\u305f!",
+      "url": "https://open.spotify.com/track/58qgn1BHFxLaVPbrUtaSA6"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "POPIGENIC",
+        "url": "https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "\u30a4\u30f3\u30c8\u30ed\u30c0\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/6XWdcMK2pfSjDkFbRtiwIk"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "\u3069\u304d\u3069\u304dSING OUT!",
+        "url": "https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u5c71\u9999\u6f84(CAST:\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "\u3069\u304d\u3069\u304dSING OUT!",
+      "url": "https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "Pastel \u00e0 la mode",
+        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 228833,
+      "name": "SAKURA\u30b9\u30ad\u30c3\u30d7 - Cover",
+      "url": "https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x"
     },
     {
       "added_at": "2025-02-25 15:00:30",
@@ -859,38 +875,6 @@
     {
       "added_at": "2025-02-25 15:00:30",
       "album": {
-        "name": "Pastel \u00e0 la mode",
-        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 228833,
-      "name": "SAKURA\u30b9\u30ad\u30c3\u30d7 - Cover",
-      "url": "https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
-      },
-      "artists": [
-        {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
-        }
-      ],
-      "duration_ms": 211366,
-      "name": "Glee! Glee! Glee!",
-      "url": "https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
         "name": "STAY GLOW",
         "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
       },
@@ -903,22 +887,6 @@
       "duration_ms": 196666,
       "name": "\u30ab\u30b5\u30d6\u30bf - Cover",
       "url": "https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "\u306b\u3053\u306b\u3053\u306d\u304f\u3068\uff01",
-        "url": "https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 242200,
-      "name": "\u30ad\u30df\u304c\u3044\u306a\u304f\u3061\u3083\u3063\uff01",
-      "url": "https://open.spotify.com/track/3cOWBAxUo6w2kCEHLvKNlr"
     },
     {
       "added_at": "2025-02-25 15:00:30",
@@ -939,6 +907,22 @@
     {
       "added_at": "2025-02-25 15:00:30",
       "album": {
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
+      },
+      "artists": [
+        {
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+        }
+      ],
+      "duration_ms": 211366,
+      "name": "Glee! Glee! Glee!",
+      "url": "https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
         "name": "Pastel \u00e0 la mode",
         "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 250566,
       "name": "\u305d\u3070\u304b\u3059 - Cover",
       "url": "https://open.spotify.com/track/2daUZPAd5e8QdN2bOzC9js"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "\u306b\u3053\u306b\u3053\u306d\u304f\u3068\uff01",
+        "url": "https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "\u30ad\u30df\u304c\u3044\u306a\u304f\u3061\u3083\u3063\uff01",
+      "url": "https://open.spotify.com/track/3cOWBAxUo6w2kCEHLvKNlr"
     },
     {
       "added_at": "2025-02-25 15:00:30",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2025-02-25 15:00:30",
       "album": {
-        "name": "\u30b4\u30fc\u30ab!\u3054\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
-        "url": "https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 233960,
-      "name": "YAPPY! SCHOOL CARNIVAL\u2606\u5f61",
-      "url": "https://open.spotify.com/track/1vpQNpxodWPEL69zLaCVAw"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
-      },
-      "artists": [
-        {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Don't be afraid!",
-      "url": "https://open.spotify.com/track/6xdaAj70Cp5XSSuEIuzWef"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
         "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
         "url": "https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR"
       },
@@ -1063,6 +1031,22 @@
       "duration_ms": 175033,
       "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
       "url": "https://open.spotify.com/track/0qwLal0qRdLuLlCpbCJabF"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "\u30b4\u30fc\u30ab!\u3054\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
+        "url": "https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 233960,
+      "name": "YAPPY! SCHOOL CARNIVAL\u2606\u5f61",
+      "url": "https://open.spotify.com/track/1vpQNpxodWPEL69zLaCVAw"
     },
     {
       "added_at": "2025-02-25 15:00:30",
@@ -1115,6 +1099,38 @@
     {
       "added_at": "2025-02-25 15:00:30",
       "album": {
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
+      },
+      "artists": [
+        {
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Don't be afraid!",
+      "url": "https://open.spotify.com/track/6xdaAj70Cp5XSSuEIuzWef"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
+        "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
+          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!",
+      "url": "https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
         "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
         "url": "https://open.spotify.com/album/6ySP0mPO2c9WiCBDUkoREy"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 295746,
       "name": "\u590f\u7a7a SUN! SUN! SEVEN! - Acoustic Ver.",
       "url": "https://open.spotify.com/track/7wWMCByLoIOpRtxAAOQ0gb"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
-        "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
-          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!",
-      "url": "https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7"
     },
     {
       "added_at": "2025-02-25 15:00:30",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-02-25 15:00:30",
       "album": {
+        "name": "POPIGENIC",
+        "url": "https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "DOKI DOKI SCARY",
+      "url": "https://open.spotify.com/track/59nmwMUOGWvypaoHkiYgS3"
+    },
+    {
+      "added_at": "2025-02-25 15:00:30",
+      "album": {
         "name": "QUINTET",
         "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 271233,
       "name": "\u91d1\u8272\u3078\u306e\u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
       "url": "https://open.spotify.com/track/224WuVYXY6jHhWartnLxyG"
-    },
-    {
-      "added_at": "2025-02-25 15:00:30",
-      "album": {
-        "name": "\u4e59\u5973\u89e3\u5256 (Cover)",
-        "url": "https://open.spotify.com/album/0wNBh9mdnn8mm4xIWEHnDi"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 224100,
-      "name": "\u4e59\u5973\u89e3\u5256 - Cover",
-      "url": "https://open.spotify.com/track/1SakT3NRW0kb03W7v4hXBV"
     }
   ],
   "unique_name": "BanG Dream!",

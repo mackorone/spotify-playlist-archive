@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-204 songs - 9 hr 13 min
+205 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Queen Anointed \- From "Frozen: The Broadway Musical"](https://open.spotify.com/track/5yvW6ctZVMEEfIQS4lje2i) | [Original Broadway Cast of Frozen](https://open.spotify.com/artist/6aOlzketCXmixrHCtNmX8j) | [Frozen: The Broadway Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2rCCUNn3PUaTsKRAKBIzh4) | 1:26 | 2024-07-26 |  |
 | [Reindeer\(s\) Are Better Than People \(Cont.\)](https://open.spotify.com/track/1AHAYbZklQkUj7wgxhQPIo) | [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 0:26 | 2024-07-26 |  |
 | [Reindeer\(s\) Are Better Than People \- From "Frozen" / Soundtrack Version](https://open.spotify.com/track/4C463MZrXGxq3t7A3wlGuV) | [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 0:50 | 2024-07-26 |  |
-| [Remember Me \(Dúo\)](https://open.spotify.com/track/48HBOFsmgIZI5GR3VnIzWL) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:44 | 2024-07-26 |  |
+| [Remember Me \(Dúo\)](https://open.spotify.com/track/48HBOFsmgIZI5GR3VnIzWL) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:44 | 2024-07-26 | 2025-03-03 |
+| [Remember Me \(Lullaby\)](https://open.spotify.com/track/2cFGv8v5DcbJXHEdzouFne) | [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p), [Gabriella Flores](https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS), [Libertad García Fonzi](https://open.spotify.com/artist/1jQ4JIz6HwngSsLWnzgPxA) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:09 | 2025-03-02 |  |
 | [Sad Clown](https://open.spotify.com/track/6dXgd9fAFuvPZClNaldbLe) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:46 | 2024-07-26 |  |
 | [Sal Tlay Ka Siti](https://open.spotify.com/track/6n7FyFONGtwL0XdGALhXMJ) | [Nikki M\. James](https://open.spotify.com/artist/5HHdJNyLkf5ZmTcxId47jT) | [The Book Of Mormon \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI) | 3:41 | 2024-07-26 |  |
 | [Salem's Seven](https://open.spotify.com/track/5rvidR0va32M5VSxT5iWXT) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha All Along: Vol\. 1 \(Episodes 1\-5\) \[Original Soundtrack\]](https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX) | 2:48 | 2024-10-10 |  |

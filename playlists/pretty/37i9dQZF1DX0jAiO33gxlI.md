@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Flora Matos
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,545 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,548 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Similar](https://open.spotify.com/track/7m5mXRMzqIzi1McY2fsTQd) | [Igor Bidi](https://open.spotify.com/artist/1oCAVVaWwRObYk7fDJFNwr), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Similar](https://open.spotify.com/album/6yaLrfaNQcCOPQQWp6b5tc) | 1:52 |
 | 75 | [Mais Uma Vez](https://open.spotify.com/track/2djU8IM4dpKriTh0uhzLg5) | [Viso](https://open.spotify.com/artist/7aV0SKrXwTDeX1OdcIRWqF), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Mais Uma Vez](https://open.spotify.com/album/4xhpWYlRHONoWTAnlnjPcF) | 2:40 |
 
-Snapshot ID: `Z8Em8QAAAADzUKhiZFam4+eJdj4lFZOb`
+Snapshot ID: `Z8Em8QAAAACLxsHaoSgitY3qGoLnr68X`

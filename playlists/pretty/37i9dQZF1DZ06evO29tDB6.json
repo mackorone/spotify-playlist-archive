@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 138976,
+  "num_followers": 139006,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8D8gAAAAAAK/WoqO8w3yFOjNOSrsLiz",
+  "snapshot_id": "Z8JOAAAAAAAZSGdOrWr4f3O4BQNNQ+gX",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 258120,
-      "name": "Mente rockera",
-      "url": "https://open.spotify.com/track/09DBgWM8izjfcoPpjCQZmc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard to Handle",
         "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 190632,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 258120,
+      "name": "Mente rockera",
+      "url": "https://open.spotify.com/track/09DBgWM8izjfcoPpjCQZmc"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "Nunca digas que no",
-      "url": "https://open.spotify.com/track/1PfgTzxz8fqqOjIIO81ZXy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 246786,
       "name": "Perro negro - Live",
       "url": "https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "Nunca digas que no",
+      "url": "https://open.spotify.com/track/1PfgTzxz8fqqOjIIO81ZXy"
     },
     {
       "added_at": null,
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En vivo y a todo calor (En el Hollywood Palladium)",
-        "url": "https://open.spotify.com/album/30XSCjeJiHkWqEUrWvx6o3"
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 442800,
-      "name": "Encuentros cercanos del 3er. sexo - En vivo",
-      "url": "https://open.spotify.com/track/1hAExu07HNO7SkljuiUUfm"
+      "duration_ms": 185066,
+      "name": "El maldito ritmo",
+      "url": "https://open.spotify.com/track/47pJwRC50gCROwO6TnFV7m"
     }
   ],
   "unique_name": "This Is El Tri",

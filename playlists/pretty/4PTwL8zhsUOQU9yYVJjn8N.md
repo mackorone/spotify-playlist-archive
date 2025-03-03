@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > 
 
-[beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 211 likes - 174 songs - 5 hr 30 min
+[beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 210 likes - 174 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

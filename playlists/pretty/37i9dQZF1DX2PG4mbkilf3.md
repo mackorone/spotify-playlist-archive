@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Avenoir from Edmonton, AB.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,018 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,053 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 74 | [Peace](https://open.spotify.com/track/3LqO6oyw9GdcfqK9JGnDHN) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [War&Peace](https://open.spotify.com/album/1ty3W8po9fRjvOcrSwu3Xa) | 2:57 |
 | 75 | [Crimes of Passion](https://open.spotify.com/track/0VpnVQR9hn6PNYNhXesVfw) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Crimes of Passion](https://open.spotify.com/album/33h8JrJLwpY2Zvylh0EjjQ) | 3:54 |
 
-Snapshot ID: `Z8I8uwAAAACH1zbQMZfwrxV/AW3lgYPD`
+Snapshot ID: `Z8I8uwAAAADUEsckJu/3rKoMOfWEC1wa`

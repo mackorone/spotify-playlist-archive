@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,104 likes - 400 songs - 14 hr 6 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,100 likes - 400 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,7 +284,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 274 | [New Orleans](https://open.spotify.com/track/4PnoAHfjICNa5rCzAyieQ5) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [New Orleans](https://open.spotify.com/album/0OIdsBrxYN3XqPfe2cIRz8) | 1:49 |
 | 275 | [watercolors](https://open.spotify.com/track/6JPUMQ4Ag5MsJ0kR7LJkw0) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [watercolors](https://open.spotify.com/album/724wqrORQbH3xiMGmVHlHU) | 2:41 |
 | 276 | [Oceans](https://open.spotify.com/track/7IFC2faOpxFKBwRPxPlQnG) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [Moments](https://open.spotify.com/album/4ZXCnbeqhydwZTbYHBU5LH) | 2:00 |
-| 277 | [Questions](https://open.spotify.com/track/51KIk5df6YBcstGnV7LO6R) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms) | [Flow State](https://open.spotify.com/album/35NUAslJVpXIeO543V32Kq) | 1:27 |
+| 277 | [Questions](https://open.spotify.com/track/51KIk5df6YBcstGnV7LO6R) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms) | [Flow State](https://open.spotify.com/album/35NUAslJVpXIeO543V32Kq) | 1:31 |
 | 278 | [Breathe](https://open.spotify.com/track/03fAshlHVXZ030E0iaUyHM) | [awaikaze](https://open.spotify.com/artist/4IOOoTGIXuV3J7jxOJTQh1), [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd), [Psylone](https://open.spotify.com/artist/1VsZq5rWtH7U1E3M2lpud2) | [Breathe](https://open.spotify.com/album/1izD2hg9LrbKaee9Cd5WWQ) | 2:05 |
 | 279 | [Simple Thoughts](https://open.spotify.com/track/3JsDcHLt18CsV813OTfh8P) | [Miifu](https://open.spotify.com/artist/3K4EBpQlKPkYB1hz2jhDmg) | [Simple Thoughts](https://open.spotify.com/album/52OkJQ7prMRHSylnjgBhZa) | 2:01 |
 | 280 | [Full Effect](https://open.spotify.com/track/2hRgXo5GRW8GjM5KKUzeIz) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Upper East](https://open.spotify.com/album/21la26UTnfxpiVZcryXG6a) | 1:43 |

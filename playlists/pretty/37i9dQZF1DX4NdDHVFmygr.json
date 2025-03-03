@@ -1,12 +1,12 @@
 {
   "description": "Made in Morocco, 100% hits marocains.",
-  "num_followers": 31405,
+  "num_followers": 31451,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8MsGwAAAAA9lKrr/YTNCcUF3LVgtgiu",
+  "snapshot_id": "Z8R+ygAAAAAkI0aC9i5vGn9ugtwLmGzr",
   "tracks": [
     {
       "added_at": "2025-03-01 15:47:39",
@@ -87,26 +87,6 @@
       "duration_ms": 165057,
       "name": "Badadi",
       "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
-    },
-    {
-      "added_at": "2025-03-01 15:47:39",
-      "album": {
-        "name": "DIARY OF A DEAD MAN (ALIVE SESSION)",
-        "url": "https://open.spotify.com/album/4mQeK8UfZQgMkxtynqJXli"
-      },
-      "artists": [
-        {
-          "name": "Tchubi",
-          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
-        },
-        {
-          "name": "Lina Guessoussi",
-          "url": "https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd"
-        }
-      ],
-      "duration_ms": 265403,
-      "name": "OFF MY MIND REWORK (ALIVE SESSION)",
-      "url": "https://open.spotify.com/track/28azhH8rcRQvoJn4btylPF"
     },
     {
       "added_at": "2025-03-01 15:47:39",
@@ -343,6 +323,26 @@
     {
       "added_at": "2025-03-01 15:47:39",
       "album": {
+        "name": "DIARY OF A DEAD MAN (ALIVE SESSION)",
+        "url": "https://open.spotify.com/album/4mQeK8UfZQgMkxtynqJXli"
+      },
+      "artists": [
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        },
+        {
+          "name": "Lina Guessoussi",
+          "url": "https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd"
+        }
+      ],
+      "duration_ms": 265403,
+      "name": "OFF MY MIND REWORK (ALIVE SESSION)",
+      "url": "https://open.spotify.com/track/28azhH8rcRQvoJn4btylPF"
+    },
+    {
+      "added_at": "2025-03-01 15:47:39",
+      "album": {
         "name": "Matgheltech",
         "url": "https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-03-01 15:47:39",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q"
-      },
-      "artists": [
-        {
-          "name": "Fetah",
-          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5"
-    },
-    {
-      "added_at": "2025-03-01 15:47:39",
-      "album": {
         "name": "Bomba Internationale",
         "url": "https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW"
       },
@@ -519,22 +503,6 @@
       "duration_ms": 192000,
       "name": "Magdar",
       "url": "https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7"
-    },
-    {
-      "added_at": "2025-03-01 15:47:39",
-      "album": {
-        "name": "SUE\u00d1O MAGNIFICO",
-        "url": "https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7"
-      },
-      "artists": [
-        {
-          "name": "Najm",
-          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
-        }
-      ],
-      "duration_ms": 136968,
-      "name": "LOTSOFLOVE",
-      "url": "https://open.spotify.com/track/6x4eiL3u5iWWDVumT8JSqd"
     },
     {
       "added_at": "2025-03-01 15:47:39",
@@ -587,22 +555,6 @@
     {
       "added_at": "2025-03-01 15:47:39",
       "album": {
-        "name": "Slahi",
-        "url": "https://open.spotify.com/album/6OVVUX1DvBtnsMtCF0UvqB"
-      },
-      "artists": [
-        {
-          "name": "Mocci",
-          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
-        }
-      ],
-      "duration_ms": 195903,
-      "name": "Slahi",
-      "url": "https://open.spotify.com/track/6lZFFlcjp7inSNs7j5GVp2"
-    },
-    {
-      "added_at": "2025-03-01 15:47:39",
-      "album": {
         "name": "3DABI",
         "url": "https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r"
       },
@@ -639,22 +591,6 @@
     {
       "added_at": "2025-03-01 15:47:39",
       "album": {
-        "name": "Ghanili",
-        "url": "https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI"
-      },
-      "artists": [
-        {
-          "name": "Kawtar",
-          "url": "https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Ghanili",
-      "url": "https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0"
-    },
-    {
-      "added_at": "2025-03-01 15:47:39",
-      "album": {
         "name": "Cagoul\u00e9",
         "url": "https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0"
       },
@@ -671,22 +607,18 @@
     {
       "added_at": "2025-03-01 15:47:39",
       "album": {
-        "name": "Docteur (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q"
       },
       "artists": [
         {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Kartman",
-          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
         }
       ],
-      "duration_ms": 196206,
-      "name": "Docteur - Spotify Singles",
-      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
+      "duration_ms": 128000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5"
     },
     {
       "added_at": "2025-03-01 15:47:39",

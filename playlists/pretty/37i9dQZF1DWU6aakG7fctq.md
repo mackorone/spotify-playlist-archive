@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Andrea Bejar
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,629 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,643 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [NO SALES DE MI CABEZA](https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [LE CHILL 2](https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9) | 2:52 |
 | 50 | [el fin de los tiempos](https://open.spotify.com/track/78iQ5yHXGhIJD59QOFL3YW) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [el fin de los tiempos](https://open.spotify.com/album/4X13vjFX72SD9wUTWd2iYq) | 1:11 |
 
-Snapshot ID: `Z8FDBQAAAADcwHXkmpJ9GQxKnLZ3KbQe`
+Snapshot ID: `Z8FDBQAAAAAqpACTxDMOfqcBkQqWNjp7`

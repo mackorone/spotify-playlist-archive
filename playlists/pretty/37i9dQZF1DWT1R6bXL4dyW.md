@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,690 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,740 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 53 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
 | 54 | [Italian Restaurant for One](https://open.spotify.com/track/4zuic4CVOHN9shgFcVIjw7) | [Italian Social Club](https://open.spotify.com/artist/05TCFEjumGZHwHezCWNwK0) | [Italian Café: Traditional Romantic Dinner Music from Italy](https://open.spotify.com/album/7hHYu4VO064qljJ4oKdjrD) | 3:25 |
 
-Snapshot ID: `Z7TFxAAAAACCeaVfzyOTCQRjPfmfSpGr`
+Snapshot ID: `Z7TFxAAAAAAsorM8nKDOwCZcHz5+80L8`

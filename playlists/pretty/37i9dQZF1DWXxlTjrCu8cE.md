@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,573 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,761 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Quatro Da Manhã](https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [Pagode Urbano \#01](https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM) | 2:59 |
 | 50 | [Coração Quebrado](https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg) | [Ley](https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP) | [Coração Quebrado](https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL) | 3:13 |
 
-Snapshot ID: `Z1BHxAAAAACa/QGt9IfsMBq1Mo5sm4cI`
+Snapshot ID: `Z1BHxAAAAADZtU0/hxbk5R/yHd/89zfe`

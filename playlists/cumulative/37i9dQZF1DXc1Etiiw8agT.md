@@ -4,7 +4,7 @@
 
 > Continuous brown noise to sleep longer.
 
-280 songs - 13 hr 56 min
+281 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Brown Noise of Autumn](https://open.spotify.com/track/100AqXdj8P1efDl4Q9rfrZ) | [Wandering Decibel](https://open.spotify.com/artist/5xmx9PoyVfm1ECDJwPlvUm) | [Brown Noise of Autumn](https://open.spotify.com/album/4TS1k3kDVGRGaosv0IR8Af) | 2:31 | 2023-05-25 | 2025-02-28 |
 | [Brown Noise Rainy Day](https://open.spotify.com/track/42tuQIMDziPvRY91zkoIed) | [Dreams Made](https://open.spotify.com/artist/0hGBfohzgZXOnLuYHG9CQ0) | [Brown Noise Tranquil Sounds](https://open.spotify.com/album/6JMD1xSSfI9LXEYwIeHuC9) | 2:08 | 2023-06-28 | 2025-02-28 |
 | [Brown Noise Relaxation](https://open.spotify.com/track/7B2NN0WqqfO2qypdg1ygss) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Steady Brown Noise](https://open.spotify.com/album/5ovoVmC46xmJ7mjb4PN0a1) | 3:17 | 2023-10-26 |  |
-| [Brown Noise Relaxation](https://open.spotify.com/track/6LGqTES8rFuDHbn0y40iGX) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise Relaxation](https://open.spotify.com/album/03sa3kRpeh8gyYEmThUstR) | 3:43 | 2023-05-25 |  |
+| [Brown Noise Relaxation](https://open.spotify.com/track/6LGqTES8rFuDHbn0y40iGX) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise Relaxation](https://open.spotify.com/album/03sa3kRpeh8gyYEmThUstR) | 3:43 | 2023-05-25 | 2025-03-03 |
 | [Brown Noise REM](https://open.spotify.com/track/6i0UjMkl7g9TcP7cLGyMND) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Brown Noise Deep Sleep](https://open.spotify.com/album/1TVk7P9fQqEmHbUlDkyvWj) | 3:00 | 2023-05-25 |  |
 | [Brown Noise Revolution](https://open.spotify.com/track/3R0FpW9Cdoiesu5ExGknEW) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Brown Noise in Paradise](https://open.spotify.com/album/1YYm48Jbl1AHGhz0prnD4i) | 3:53 | 2023-05-25 |  |
 | [Brown Noise River](https://open.spotify.com/track/3vQOmQzXu7NTj989yxonZt) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise Chill](https://open.spotify.com/album/3ci5cgq0RIVpMB7ZTWubIh) | 3:34 | 2023-05-25 |  |
@@ -220,6 +220,7 @@
 | [Lush Brown Noise](https://open.spotify.com/track/5qbc7tczapYOQejaoAMztQ) | [W\-Noise](https://open.spotify.com/artist/1WyYW2KP02ZOzDl4e9HBuB) | [Lush Brown Noise](https://open.spotify.com/album/6tlBTXJBfObNuAxqUTEJ0H) | 2:27 | 2023-05-25 | 2025-02-28 |
 | [Luxe Brown Noise](https://open.spotify.com/track/55PN68Zou0tRu2Flp3NhW4) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Luxe Brown Noise](https://open.spotify.com/album/3TBnUhL78F9bMAHnEf93QP) | 6:33 | 2025-02-27 |  |
 | [Machine Brown Noise](https://open.spotify.com/track/3DEcCBYZ6wvBEIwSWld6LS) | [Construidor](https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG) | [Machine Brown Noise](https://open.spotify.com/album/0s6i6UdOJqJV1JDLyzqHDy) | 2:26 | 2023-10-26 |  |
+| [Mahogany Bliss](https://open.spotify.com/track/02QZRAFclbqjGYggaRQ8L6) | [Soundverb](https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo) | [Mahogany Bliss](https://open.spotify.com/album/161X81p43BMypeBWkKbz1U) | 3:41 | 2025-02-27 |  |
 | [Meditative Brown Noise](https://open.spotify.com/track/1AmRa0N5eKc7OLsam5GOdb) | [Noise Eternity](https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD) | [Tranquil Brown Noise](https://open.spotify.com/album/0VSQtAxsuUSEKmIfQnPhbD) | 2:54 | 2023-10-26 |  |
 | [Meditative Noise](https://open.spotify.com/track/7xXP9ysqubm7UfxmZfv63x) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Meditative Noise](https://open.spotify.com/album/2gc9kWLQhE5kbxZFBNnoEM) | 2:00 | 2023-05-25 | 2025-02-28 |
 | [Mid\-Side Brown Noise](https://open.spotify.com/track/2cadajANWKttRb6nDlPUDM) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Mid\-Side](https://open.spotify.com/album/6i2LFCKG2lJVFRk569ecxl) | 2:02 | 2023-05-25 | 2023-11-11 |

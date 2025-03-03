@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With glitterpop!, Joshua Lanuarii, STYXVII and more",
+  "description": "With glitterpop!, Joshua Lanuarii, salv the dog and more",
   "name": "Kittydog Radio",
   "tracks": [
+    {
+      "album": {
+        "name": "2.2X.2X",
+        "url": "https://open.spotify.com/album/4aKMogyoSRqmjbbSsnxp8r"
+      },
+      "artists": [
+        {
+          "name": "AXIE",
+          "url": "https://open.spotify.com/artist/3aGcyUfKO5lAKGyFY0MSyF"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121974,
+      "name": "2.20.20",
+      "url": "https://open.spotify.com/track/43FE6cGAMmBrNXxa4nyQ88"
+    },
     {
       "album": {
         "name": "2007",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 157935,
       "name": "2007",
       "url": "https://open.spotify.com/track/07cum2wxyGkgFFsbhD3t9L"
@@ -110,7 +128,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 140400,
       "name": "all my frens r rainbowz, but i'm still DEAD INSIDE!!!",
       "url": "https://open.spotify.com/track/7seEwSO5nqdoCdLnKsqy4g"
@@ -212,6 +230,28 @@
       "duration_ms": 271673,
       "name": "As Above So Below",
       "url": "https://open.spotify.com/track/6sUAyxFUx9Fw8i2mUmpWTZ"
+    },
+    {
+      "album": {
+        "name": "baby birdy",
+        "url": "https://open.spotify.com/album/48gqo3igU1Dg7Bfb4yUr1m"
+      },
+      "artists": [
+        {
+          "name": "little purr man",
+          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+        },
+        {
+          "name": "Lesperado",
+          "url": "https://open.spotify.com/artist/5d0eETVtfyVBrCXsOtf2ZH"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175396,
+      "name": "baby birdy",
+      "url": "https://open.spotify.com/track/0PcrooTb1M0xlett6YNB7P"
     },
     {
       "album": {
@@ -372,7 +412,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 98482,
       "name": "c.e.d. (manic)",
       "url": "https://open.spotify.com/track/0Vji7774dqXL6TihvdLEEx"
@@ -528,7 +568,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 109557,
       "name": "COPE",
       "url": "https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M"
@@ -590,10 +630,28 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 201456,
       "name": "DEATHRAVE",
       "url": "https://open.spotify.com/track/6AcE5etPybYmRF656WUsae"
+    },
+    {
+      "album": {
+        "name": "Despair's Hand",
+        "url": "https://open.spotify.com/album/7ikqZPc1F7biYIwkmaAiFl"
+      },
+      "artists": [
+        {
+          "name": "thquib",
+          "url": "https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194885,
+      "name": "Despair's Hand",
+      "url": "https://open.spotify.com/track/2E52b8uEee0bNMr1oThH9y"
     },
     {
       "album": {
@@ -608,7 +666,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 175609,
       "name": "Digital Hell (KinitoPET Song)",
       "url": "https://open.spotify.com/track/2Ydn79hWyJuzElWRk0sO0Z"
@@ -644,7 +702,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 127500,
       "name": "DOKTORSPIELE 4 SPARKLEFURS!!!",
       "url": "https://open.spotify.com/track/5wbUoMt6kW0E4l1VWotlA4"
@@ -764,7 +822,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
@@ -818,7 +876,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 155897,
       "name": "FURRIES JUST WANNA HAVE FUN!",
       "url": "https://open.spotify.com/track/4t5vhVmALRs8rkakMGZYjk"
@@ -884,6 +942,24 @@
       "duration_ms": 70024,
       "name": "i only got one",
       "url": "https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL"
+    },
+    {
+      "album": {
+        "name": "i talk to the stars",
+        "url": "https://open.spotify.com/album/0hqEde2VTtd8c0qkcJ13yf"
+      },
+      "artists": [
+        {
+          "name": "little purr man",
+          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140020,
+      "name": "i talk to the stars",
+      "url": "https://open.spotify.com/track/1l3ZxNNw5rtuYa4mI3laJ0"
     },
     {
       "album": {
@@ -1132,7 +1208,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 128957,
       "name": "ITS NOT ME ITS YOU",
       "url": "https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G"
@@ -1168,7 +1244,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 92322,
       "name": "jus make it go boom remake",
       "url": "https://open.spotify.com/track/5uvFhFuHy9sI9ZXf05mOn9"
@@ -1234,7 +1310,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 185838,
       "name": "la la la",
       "url": "https://open.spotify.com/track/4tOldBiUddGycEB8bO9ezl"
@@ -1328,7 +1404,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 150000,
       "name": "luv u FUREVR!!!",
       "url": "https://open.spotify.com/track/41VoSLujxqqwkKeZobMepl"
@@ -1368,7 +1444,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 96625,
       "name": "MANICa",
       "url": "https://open.spotify.com/track/4xGQ1u0EbqIwcmv9ViuowJ"
@@ -1604,7 +1680,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 123245,
       "name": "One Day You'll Die (I do not like this)",
       "url": "https://open.spotify.com/track/7wuwuepA7yWz9lKBUle8xE"
@@ -1846,7 +1922,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 173333,
       "name": "pretty boys in pretty skirts",
       "url": "https://open.spotify.com/track/5ZDBaavUKppyIbim097YC2"
@@ -1882,7 +1958,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 160733,
       "name": "rainbowz x3!!!",
       "url": "https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1"
@@ -1900,7 +1976,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "re:ARRANGEMENT",
       "url": "https://open.spotify.com/track/13F6tG0As0WV4fSx6WX9NP"
@@ -1918,7 +1994,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 108500,
       "name": "Remember when i was 14 that was so CRiNGE lol",
       "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
@@ -1994,7 +2070,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 125036,
       "name": "Senpai, Won't You Notice Me?",
       "url": "https://open.spotify.com/track/6dVGWdfE1ug3g1MH6KuYmP"
@@ -2196,7 +2272,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 150395,
       "name": "Therian Wolf",
       "url": "https://open.spotify.com/track/6hRwN3qQhShGulba210gTC"
@@ -2424,7 +2500,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 186666,
       "name": "your boyfriend's corpse",
       "url": "https://open.spotify.com/track/5hHtzlcsFEWEjGcPO1KjmR"

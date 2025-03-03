@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: CéJae \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,966 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,982 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [The Well](https://open.spotify.com/track/2VQ1jiPB2LEjm1SOWylYWa) | [Campus Rush Music](https://open.spotify.com/artist/4v3pVN73q2WOhM5Ne9hOSP), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Sewa](https://open.spotify.com/artist/5YZNJOxEzikNEQryLfqwxD), [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr) | [The Well](https://open.spotify.com/album/0bWehUL6mhonc542LlBWVg) | 8:17 |
 | 100 | [Kingdom](https://open.spotify.com/track/5ZrVYQcBHz57P1kX7uWMe7) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Kingdom](https://open.spotify.com/album/5GaqWeRvThKfnD7hPUX2df) | 3:06 |
 
-Snapshot ID: `Z76f2QAAAABkel5ly6pS1OuJ1dW/g/UW`
+Snapshot ID: `Z76f2QAAAAAAS0ywdW0ETWIeTPw9LFNR`

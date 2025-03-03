@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 98389,
+  "num_followers": 98426,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Essentiels",
+        "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Nino Ferrer",
         "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
       },
@@ -181,24 +197,8 @@
         }
       ],
       "duration_ms": 187746,
-      "name": "Tous les gar\u00e7ons et les filles - Slow",
+      "name": "Tous les gar\u00e7ons et les filles - Stereo Mix",
       "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Essentiels",
-        "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "Mon amour",
-      "url": "https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -215,22 +215,6 @@
       "duration_ms": 210093,
       "name": "Couleur menthe \u00e0 l'eau",
       "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Les chemins de traverse (Remastered)",
-        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "Je l'aime \u00e0 mourir - Remastered",
-      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -283,6 +267,22 @@
       "duration_ms": 255573,
       "name": "Lucie",
       "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Les chemins de traverse (Remastered)",
+        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "Je l'aime \u00e0 mourir - Remastered",
+      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Voyou (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Diego libre dans sa t\u00eate - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Babacar (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 206626,
       "name": "Evidemment - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Voyou (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Diego libre dans sa t\u00eate - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Marc Lavoine",
-        "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        },
-        {
-          "name": "Claire Keim",
-          "url": "https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Je ne veux qu'elle",
-      "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Jamais Content",
         "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 141106,
       "name": "Aimer \u00e0 perdre la raison",
       "url": "https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Marc Lavoine",
+        "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        },
+        {
+          "name": "Claire Keim",
+          "url": "https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Je ne veux qu'elle",
+      "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Jours Heureux",
-        "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
-      },
-      "artists": [
-        {
-          "name": "Volo",
-          "url": "https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "T'es Belle",
-      "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 211613,
       "name": "Belle-\u00cele-en-Mer, Marie-Galante",
       "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Jours Heureux",
+        "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
+      },
+      "artists": [
+        {
+          "name": "Volo",
+          "url": "https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "T'es Belle",
+      "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Les sunlights des tropiques",
-        "url": "https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6"
-      },
-      "artists": [
-        {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
-        }
-      ],
-      "duration_ms": 220066,
-      "name": "Les sunlights des tropiques",
-      "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Singles Collection (2001 - 2021)",
         "url": "https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 294826,
       "name": "Le grand secret (feat. Melissa Auf der Maur) - Les pianos voix",
       "url": "https://open.spotify.com/track/5X5xWnr5e7bDpfIXqipcBw"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Les sunlights des tropiques",
+        "url": "https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6"
+      },
+      "artists": [
+        {
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+        }
+      ],
+      "duration_ms": 220066,
+      "name": "Les sunlights des tropiques",
+      "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
     },
     {
       "added_at": "2024-10-03 14:22:43",

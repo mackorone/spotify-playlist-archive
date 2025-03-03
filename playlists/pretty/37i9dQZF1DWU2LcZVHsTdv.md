@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Jelly Roll and Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,298 likes - 203 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,357 likes - 203 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

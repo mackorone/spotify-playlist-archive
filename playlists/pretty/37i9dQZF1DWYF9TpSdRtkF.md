@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,706 likes - 75 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,703 likes - 75 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 71 | [I did I will](https://open.spotify.com/track/2Motple8xZGNmLv81DfWry) | [Roco \(CV: Atsuki Nakamura\)](https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh), [舞浜 歩 \(CV.戸田めぐみ\)](https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF), [永吉 昴 \(CV.斉藤佑圭\)](https://open.spotify.com/artist/12BeMVM21khHV571rElt0X), [Momoko Suou \(CV: Keiko Watanabe\)](https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr) | [THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans](https://open.spotify.com/album/0aF69rLzzjsSOJzErPvdAQ) | 4:37 |
 | 72 | [きまぐれユモレスク](https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY) | [箱崎星梨花 \(CV.麻倉もも\)](https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09](https://open.spotify.com/album/5BlRVFC9TliHQRWVAmnBjx) | 4:05 |
 | 73 | [Sweet Sweet Soul](https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti) | [大神 環 \(CV.稲川英里\)](https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn), [野々原 茜 \(CV.小笠原早紀\)](https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U), [箱崎星梨花 \(CV.麻倉もも\)](https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2) | [THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody](https://open.spotify.com/album/0dqNWSJ8ePef1E2HbmmnNH) | 4:52 |
-| 74 | [スペードのQ](https://open.spotify.com/track/31t7Rmuha95vaNBrnw2SwP) | [永吉 昴 \(CV.斉藤佑圭\)](https://open.spotify.com/artist/12BeMVM21khHV571rElt0X), [双海亜美 \(CV.下田麻美\)](https://open.spotify.com/artist/6aRf6AwexFXihb7EKmzbx9), [エミリー スチュアート \(CV.郁原ゆう\)](https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K), [北沢志保 \(CV.雨宮 天\)](https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6) | 3:52 |
-| 75 | [Raise the FLAG](https://open.spotify.com/track/4DiglNq5mWTAjbAvLqd0e6) | [所 恵美 \(CV.藤井ゆきよ\)](https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G), [舞浜 歩 \(CV.戸田めぐみ\)](https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF), [真壁瑞希 \(CV.阿部里果\)](https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg) | [THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony](https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi) | 3:30 |
+| 74 | [Raise the FLAG](https://open.spotify.com/track/4DiglNq5mWTAjbAvLqd0e6) | [所 恵美 \(CV.藤井ゆきよ\)](https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G), [舞浜 歩 \(CV.戸田めぐみ\)](https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF), [真壁瑞希 \(CV.阿部里果\)](https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg) | [THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony](https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi) | 3:30 |
+| 75 | [スペードのQ](https://open.spotify.com/track/31t7Rmuha95vaNBrnw2SwP) | [永吉 昴 \(CV.斉藤佑圭\)](https://open.spotify.com/artist/12BeMVM21khHV571rElt0X), [双海亜美 \(CV.下田麻美\)](https://open.spotify.com/artist/6aRf6AwexFXihb7EKmzbx9), [エミリー スチュアート \(CV.郁原ゆう\)](https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K), [北沢志保 \(CV.雨宮 天\)](https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6) | 3:52 |
 
 Snapshot ID: `Z4aJygAAAABcvciL0Ctyk/O8Y6w/9Ue+`

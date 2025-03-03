@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Yufu
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,716 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,715 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 |
 | 100 | [The Thrill](https://open.spotify.com/track/4gYB4auWSM4VgzRzP1zv9p) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [The Thrill](https://open.spotify.com/album/3rYxWi7wVzwBfkQWrr5Mya) | 3:32 |
 
-Snapshot ID: `Z8DuoAAAAABw3peq99JNlVU7hwcaxhLs`
+Snapshot ID: `Z8DuoAAAAAAPtsOWoIhmWdunopKeWCwc`

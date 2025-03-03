@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Skrilla, BossMan Dlow, Youngboy Never Broke Again and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,845 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,961 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 9 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 |
 | 10 | [How To Bip](https://open.spotify.com/track/64rP4gEgmxJ8Jg5nN3fzDo) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [How To Bip](https://open.spotify.com/album/57xr0iFHq2QFiEjszdBZ8Z) | 2:34 |
 | 11 | [2Much 2Fast \(feat\. Landon Cube\)](https://open.spotify.com/track/2QpAdnOzTNkjVrOOxXndH4) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [2Much 2Fast \(feat\. Landon Cube\)](https://open.spotify.com/album/0DdZ1V6pvT3hYnYwhP3hQj) | 2:37 |
-| 12 | [Bottles N Bitches](https://open.spotify.com/track/2cRPsh2awypYNmILFLt4oU) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Bottles N Bitches](https://open.spotify.com/album/62SM9UASaYSZR80IZxqNGs) | 2:11 |
+| 12 | [BNB 2](https://open.spotify.com/track/2cRPsh2awypYNmILFLt4oU) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [BNB 2](https://open.spotify.com/album/62SM9UASaYSZR80IZxqNGs) | 2:11 |
 | 13 | [Feel Me \(Rare Mix\)](https://open.spotify.com/track/1tzHk1XRirUDBM6FSObTN8) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Feel Me \(Rare Mix\)](https://open.spotify.com/album/1aiQJ5rIS8Q8wiTpEfRDz3) | 2:10 |
 | 14 | [Milan](https://open.spotify.com/track/3xPyiX4vxnYe6maxrNz5yc) | [Hoodrich Keem](https://open.spotify.com/artist/4XmzcMETyb1ReFvx5SMTI1), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Milan](https://open.spotify.com/album/0L6mBIxIbzZTMdEcRvMjT1) | 2:03 |
 | 15 | [Missing Ur Love](https://open.spotify.com/track/0aMgCW6bYnvzmwRpQsu0P9) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Missing Ur Love](https://open.spotify.com/album/5MYUL0TOj9khaMyhNLsMCK) | 2:54 |

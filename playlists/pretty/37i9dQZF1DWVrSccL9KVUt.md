@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,068 likes - 67 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,105 likes - 67 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 66 | [Highlands \(Song of Ascent\)](https://open.spotify.com/track/3Zyz8rGBTpSlCUUwIROIPe) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Songs I've Needed](https://open.spotify.com/album/3qmGo2mmcMfwD1wBaGD8JO) | 6:31 |
 | 67 | [6:12](https://open.spotify.com/track/63r3KVVPQQqiYyogfKilWF) | [Martina Marie](https://open.spotify.com/artist/42Tsa4pAqU1FYWER3Mnria) | [6:12](https://open.spotify.com/album/4t5LBNJtZWBuSYDivhrzGp) | 2:50 |
 
-Snapshot ID: `Z7AfaQAAAACykHa+XBQkCCEZn3DbA43w`
+Snapshot ID: `Z7AfaQAAAABCx+H2fsUZKLqBwyLK+yPf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005 likes - 172 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006 likes - 172 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 133 | [Pata' Abajo](https://open.spotify.com/track/20JHbTe5ZP7liePg7wJ7xQ) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 4:05 |
 | 134 | [Goteras](https://open.spotify.com/track/2fJLZcn8hM9teXw8T3lsCb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 2:52 |
 | 135 | [Arriba](https://open.spotify.com/track/1FDtqX1XWBVkozyGOc07Ry) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:10 |
-| 136 | [Piedritas En Los Dientes](https://open.spotify.com/track/21D7otvMoANy44qgXC205a) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:36 |
-| 137 | [Cafecito](https://open.spotify.com/track/00GEGVGTD3gB4ZMawC5CB9) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:34 |
+| 136 | [Cafecito](https://open.spotify.com/track/00GEGVGTD3gB4ZMawC5CB9) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:34 |
+| 137 | [Piedritas En Los Dientes](https://open.spotify.com/track/21D7otvMoANy44qgXC205a) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:36 |
 | 138 | [Esta Noche](https://open.spotify.com/track/0I4Gu91Kaz9xeluA4Xrc5m) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:36 |
 | 139 | [Pa’ Que Sude](https://open.spotify.com/track/30vMTdUJCBlQCO8c9f34e7) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 2:36 |
 | 140 | [Dios Te Guarde](https://open.spotify.com/track/2ct9MlcNGAnhH4VCV1A0WA) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 2:43 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 171 | [Interludio](https://open.spotify.com/track/6I2aC9x6YVtBh07da38dbN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 0:48 |
 | 172 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `Abq6wAAAAABj5zWieVS/Q96i36UP03gi`
+Snapshot ID: `AbrAYAAAAAAJfcFqDDjaQCGrnaDinwpW`

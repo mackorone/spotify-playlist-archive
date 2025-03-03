@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 32569,
+  "num_followers": 32571,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2025-02-25 13:32:45",
+      "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
-    },
-    {
-      "added_at": "2025-02-25 13:32:45",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
       "added_at": "2025-02-25 13:32:45",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 237908,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
-    },
-    {
-      "added_at": "2025-02-25 13:32:45",
-      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "added_at": "2025-02-25 13:32:45",
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     },
     {
       "added_at": "2025-02-25 13:32:45",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
+        "name": "Love Is The Answer",
+        "url": "https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        }
+      ],
+      "duration_ms": 212076,
+      "name": "Love Is The Answer",
+      "url": "https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6"
+    },
+    {
+      "added_at": "2025-02-25 13:32:45",
+      "album": {
         "name": "Hai sa ne iubim ca nemtii",
         "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
       },
@@ -1227,18 +1243,22 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
-        "name": "Love Is The Answer",
-        "url": "https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD"
+        "name": "Merhaba (Stil Turcesc)",
+        "url": "https://open.spotify.com/album/184PJI3t6mfGCFlZ2h6Lbm"
       },
       "artists": [
         {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+          "name": "Denis Ramniceanu",
+          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 212076,
-      "name": "Love Is The Answer",
-      "url": "https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6"
+      "duration_ms": 154960,
+      "name": "Merhaba (Stil Turcesc)",
+      "url": "https://open.spotify.com/track/5gGT2pleKQwQuiKxz5wYfe"
     },
     {
       "added_at": "2025-02-25 13:32:45",
@@ -1279,6 +1299,22 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
+        "name": "Turbo Orange",
+        "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Turbo Orange",
+      "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
+    },
+    {
+      "added_at": "2025-02-25 13:32:45",
+      "album": {
         "name": "P\u0103i naa",
         "url": "https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q"
       },
@@ -1299,26 +1335,6 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
-        "name": "Merhaba (Stil Turcesc)",
-        "url": "https://open.spotify.com/album/184PJI3t6mfGCFlZ2h6Lbm"
-      },
-      "artists": [
-        {
-          "name": "Denis Ramniceanu",
-          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Merhaba (Stil Turcesc)",
-      "url": "https://open.spotify.com/track/5gGT2pleKQwQuiKxz5wYfe"
-    },
-    {
-      "added_at": "2025-02-25 13:32:45",
-      "album": {
         "name": "Spania",
         "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 159194,
       "name": "Spania",
       "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
-    },
-    {
-      "added_at": "2025-02-25 13:32:45",
-      "album": {
-        "name": "Turbo Orange",
-        "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Turbo Orange",
-      "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
     },
     {
       "added_at": "2025-02-25 13:32:45",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
-        "name": "Amo, Amo",
-        "url": "https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 147477,
-      "name": "Amo, Amo",
-      "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
-    },
-    {
-      "added_at": "2025-02-25 13:32:45",
-      "album": {
         "name": "\u00cenc\u0103 Ne Iubim",
         "url": "https://open.spotify.com/album/4DEzKPDY8wGsp1topuKhUi"
       },
@@ -1467,26 +1447,6 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
-        "name": "Eee Aaa | Burj Khalifa",
-        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Sheik",
-          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
-        }
-      ],
-      "duration_ms": 151099,
-      "name": "Eee Aaa | Burj Khalifa",
-      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
-    },
-    {
-      "added_at": "2025-02-25 13:32:45",
-      "album": {
         "name": "Taramul interzis",
         "url": "https://open.spotify.com/album/5CqQHsNVSPFpkBGCAwh4Ud"
       },
@@ -1499,6 +1459,62 @@
       "duration_ms": 170898,
       "name": "Taramul interzis",
       "url": "https://open.spotify.com/track/1wAfxPzDicgCr70eTTY1Lr"
+    },
+    {
+      "added_at": "2025-02-25 13:32:45",
+      "album": {
+        "name": "Amo, Amo",
+        "url": "https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 147477,
+      "name": "Amo, Amo",
+      "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
+    },
+    {
+      "added_at": "2025-02-25 13:32:45",
+      "album": {
+        "name": "Au!",
+        "url": "https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8"
+      },
+      "artists": [
+        {
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
+        },
+        {
+          "name": "Moza Kaliza",
+          "url": "https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Au!",
+      "url": "https://open.spotify.com/track/3JnQ9tk30e7xI9uAvSnXtF"
+    },
+    {
+      "added_at": "2025-02-25 13:32:45",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
+      },
+      "artists": [
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
     },
     {
       "added_at": "2025-02-25 13:32:45",
@@ -1527,42 +1543,6 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
-      },
-      "artists": [
-        {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
-    },
-    {
-      "added_at": "2025-02-25 13:32:45",
-      "album": {
-        "name": "Au!",
-        "url": "https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8"
-      },
-      "artists": [
-        {
-          "name": "B.U.G. Mafia",
-          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
-        },
-        {
-          "name": "Moza Kaliza",
-          "url": "https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Au!",
-      "url": "https://open.spotify.com/track/3JnQ9tk30e7xI9uAvSnXtF"
-    },
-    {
-      "added_at": "2025-02-25 13:32:45",
-      "album": {
         "name": "X6",
         "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
       },
@@ -1579,18 +1559,22 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
-        "name": "Ia-ma Du-ma",
-        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
+        "name": "Eee Aaa | Burj Khalifa",
+        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
       },
       "artists": [
         {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Sheik",
+          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Ia-ma Du-ma",
-      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
+      "duration_ms": 151099,
+      "name": "Eee Aaa | Burj Khalifa",
+      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
     },
     {
       "added_at": "2025-02-25 13:32:45",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
+        "name": "Ia-ma Du-ma",
+        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Ia-ma Du-ma",
+      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
+    },
+    {
+      "added_at": "2025-02-25 13:32:45",
+      "album": {
         "name": "Paharul sus",
         "url": "https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z"
       },
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
+        "name": "Ador, Ador",
+        "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
+      },
+      "artists": [
+        {
+          "name": "AMI",
+          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
+        }
+      ],
+      "duration_ms": 150965,
+      "name": "Ador, Ador",
+      "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
+    },
+    {
+      "added_at": "2025-02-25 13:32:45",
+      "album": {
         "name": "Capu' sus",
         "url": "https://open.spotify.com/album/3p3mmL7bmbZmIH6HEAwncQ"
       },
@@ -1747,18 +1763,18 @@
     {
       "added_at": "2025-02-25 13:32:45",
       "album": {
-        "name": "Ador, Ador",
-        "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy"
       },
       "artists": [
         {
-          "name": "AMI",
-          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
         }
       ],
-      "duration_ms": 150965,
-      "name": "Ador, Ador",
-      "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
+      "duration_ms": 130754,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
     },
     {
       "added_at": "2025-02-25 13:32:45",
@@ -1775,22 +1791,6 @@
       "duration_ms": 211063,
       "name": "paradyse",
       "url": "https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh"
-    },
-    {
-      "added_at": "2025-02-25 13:32:45",
-      "album": {
-        "name": "Habibi",
-        "url": "https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        }
-      ],
-      "duration_ms": 130754,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
     },
     {
       "added_at": "2025-02-25 13:32:45",

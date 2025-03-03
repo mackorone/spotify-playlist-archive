@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8591,
+  "num_followers": 8594,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8D8gAAAAAD04Qap7MhByz0JQsdYyTJ/",
+  "snapshot_id": "Z8JOAAAAAABr4GGBmcNZxpoY+0fslsIl",
   "tracks": [
     {
       "added_at": null,
@@ -534,11 +534,15 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Anthony Raneri",
+          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
+      "duration_ms": 198066,
+      "name": "Spray Paint It Black",
+      "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
     },
     {
       "added_at": null,
@@ -602,15 +606,11 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Anthony Raneri",
-          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 198066,
-      "name": "Spray Paint It Black",
-      "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
     },
     {
       "added_at": null,
@@ -647,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sandpaper and Silk",
-        "url": "https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u"
+        "name": "Nine Reasons To Say Goodbye",
+        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
       "artists": [
+        {
+          "name": "A Day In The Life",
+          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
+        },
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 208518,
-      "name": "Gold Econoline",
-      "url": "https://open.spotify.com/track/1JfyMRSL41EA1J4B2IbfRT"
+      "duration_ms": 152346,
+      "name": "The Girl That Destroyed Me",
+      "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
     },
     {
       "added_at": null,
@@ -679,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nine Reasons To Say Goodbye",
-        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
+        "name": "Sandpaper and Silk",
+        "url": "https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u"
       },
       "artists": [
-        {
-          "name": "A Day In The Life",
-          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
-        },
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 152346,
-      "name": "The Girl That Destroyed Me",
-      "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
+      "duration_ms": 208518,
+      "name": "Gold Econoline",
+      "url": "https://open.spotify.com/track/1JfyMRSL41EA1J4B2IbfRT"
     },
     {
       "added_at": null,

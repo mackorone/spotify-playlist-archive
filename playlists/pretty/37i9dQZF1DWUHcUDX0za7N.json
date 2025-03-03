@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Pretty Boy D-O",
-  "num_followers": 59741,
+  "num_followers": 59761,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -247,26 +263,6 @@
       "duration_ms": 179478,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -303,18 +299,22 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "Free Service",
-        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 156473,
-      "name": "Free Service",
-      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
-        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 136732,
-      "name": "Hello Habibi",
-      "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
         "name": "NOTHING CHANGED",
         "url": "https://open.spotify.com/album/3WzeQmmXZLjWi7VMt7Pl7S"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 180530,
       "name": "ASAMPETE",
       "url": "https://open.spotify.com/track/1J9cc7U4jyaOgoCJ7Nssmf"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 136732,
+      "name": "Hello Habibi",
+      "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -519,26 +519,6 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "Hello Habibi",
-        "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 194661,
-      "name": "Hello Habibi",
-      "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 164760,
       "name": "Jehovah",
       "url": "https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
+        "name": "Hello Habibi",
+        "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 194661,
+      "name": "Hello Habibi",
+      "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
+        "name": "Idan Buruku (Freestyle)",
+        "url": "https://open.spotify.com/album/2s6XjErO2LqXTXgvFUVfD8"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 91546,
+      "name": "Idan Buruku (Freestyle)",
+      "url": "https://open.spotify.com/track/5DfbRtg9E4jx7SuCTbUUq6"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
         "name": "O.U.A.T",
         "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
       },
@@ -663,6 +679,22 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
+        "name": "Pookie",
+        "url": "https://open.spotify.com/album/6X1yNc6oCLtW9THe9shuNr"
+      },
+      "artists": [
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Pookie",
+      "url": "https://open.spotify.com/track/5Q7AAQv0YGXEKRy9bTs8nz"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
         "name": "Refund (Part 2)",
         "url": "https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN"
       },
@@ -687,34 +719,46 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "Pookie",
-        "url": "https://open.spotify.com/album/6X1yNc6oCLtW9THe9shuNr"
-      },
-      "artists": [
-        {
-          "name": "Fimi",
-          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Pookie",
-      "url": "https://open.spotify.com/track/5Q7AAQv0YGXEKRy9bTs8nz"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "Idan Buruku (Freestyle)",
-        "url": "https://open.spotify.com/album/2s6XjErO2LqXTXgvFUVfD8"
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
       "artists": [
         {
           "name": "Olamide",
           "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
         }
       ],
-      "duration_ms": 91546,
-      "name": "Idan Buruku (Freestyle)",
-      "url": "https://open.spotify.com/track/5DfbRtg9E4jx7SuCTbUUq6"
+      "duration_ms": 163468,
+      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
+      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -739,22 +783,6 @@
       "duration_ms": 151578,
       "name": "EKWE",
       "url": "https://open.spotify.com/track/35sIpW2RtmVPZLbSsQCyJF"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -891,34 +919,6 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
-        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 163468,
-      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
-      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
         "name": "Aye / Ori-Ade",
         "url": "https://open.spotify.com/album/1c9ZxaswF2AYXlLss026tT"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 158928,
       "name": "Aye",
       "url": "https://open.spotify.com/track/4SllNixOIyCp7FSqaB1CvJ"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "TOSPI",
-        "url": "https://open.spotify.com/album/3hOmLqLQWvgD88omwdB5jz"
-      },
-      "artists": [
-        {
-          "name": "Oladips",
-          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
-        }
-      ],
-      "duration_ms": 155611,
-      "name": "TOSPI",
-      "url": "https://open.spotify.com/track/59dzzyVixSx3HY2o9DHE3f"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -967,6 +951,22 @@
       "duration_ms": 230016,
       "name": "Pinterest",
       "url": "https://open.spotify.com/track/3tBWJXPBzqYGkE8I4K7suN"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
+        "name": "TOSPI",
+        "url": "https://open.spotify.com/album/3hOmLqLQWvgD88omwdB5jz"
+      },
+      "artists": [
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        }
+      ],
+      "duration_ms": 155611,
+      "name": "TOSPI",
+      "url": "https://open.spotify.com/track/59dzzyVixSx3HY2o9DHE3f"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -1081,6 +1081,26 @@
       "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
     },
     {
+      "added_at": "2025-02-28 09:01:02",
+      "album": {
+        "name": "The Big 6",
+        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "NFA (Feat. Phyno)",
+      "url": "https://open.spotify.com/track/33fmrAzAiCFBKO7ktWWWwc"
+    },
+    {
       "added_at": "2025-02-24 12:38:01",
       "album": {
         "name": "original",
@@ -1095,6 +1115,22 @@
       "duration_ms": 172102,
       "name": "original",
       "url": "https://open.spotify.com/track/02KawWp49Z6cCWbJxN5pqC"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
+        "name": "F**Ck Cu 2: Twilight Serenade",
+        "url": "https://open.spotify.com/album/5ysXLTzaB1KXHYIgekwzRl"
+      },
+      "artists": [
+        {
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+        }
+      ],
+      "duration_ms": 222671,
+      "name": "Chariots of Fire",
+      "url": "https://open.spotify.com/track/1buwbAgQwuMW6Sdm3NUyDX"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -1115,22 +1151,6 @@
       "duration_ms": 186796,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "F**Ck Cu 2: Twilight Serenade",
-        "url": "https://open.spotify.com/album/5ysXLTzaB1KXHYIgekwzRl"
-      },
-      "artists": [
-        {
-          "name": "EESKAY",
-          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
-        }
-      ],
-      "duration_ms": 222671,
-      "name": "Chariots of Fire",
-      "url": "https://open.spotify.com/track/1buwbAgQwuMW6Sdm3NUyDX"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -1175,6 +1195,30 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
+        "name": "Confirm Parole",
+        "url": "https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 209738,
+      "name": "Gbege",
+      "url": "https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
         "name": "Warning!",
         "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
       },
@@ -1215,50 +1259,6 @@
       "duration_ms": 138461,
       "name": "Bomaye",
       "url": "https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "Confirm Parole",
-        "url": "https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 209738,
-      "name": "Gbege",
-      "url": "https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG"
-    },
-    {
-      "added_at": "2025-02-28 09:01:02",
-      "album": {
-        "name": "The Big 6",
-        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "NFA (Feat. Phyno)",
-      "url": "https://open.spotify.com/track/33fmrAzAiCFBKO7ktWWWwc"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6VQtVcmETaiNEN7OZmlX3L"
+        "name": "[escapism]",
+        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
       },
       "artists": [
         {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        },
-        {
-          "name": "C-Mart",
-          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
         }
       ],
-      "duration_ms": 141771,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7uuDAeMQrufj048z0D6ykf"
+      "duration_ms": 154983,
+      "name": "[escapism]",
+      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
     }
   ],
   "unique_name": "Naija Bars ",

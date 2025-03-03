@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 422134,
+  "num_followers": 422215,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 290280,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Future Shock",
         "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 261840,
       "name": "You Gots To Chill",
       "url": "https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Peter Piper",
-      "url": "https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "It's A Big Daddy Thing",
         "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
       },
@@ -299,22 +283,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Strictly Business",
-        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "Strictly Business",
-      "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "The Magic Number",
         "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
       },
@@ -327,6 +295,38 @@
       "duration_ms": 195883,
       "name": "The Magic Number",
       "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Peter Piper",
+      "url": "https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Strictly Business",
+        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 285413,
+      "name": "Strictly Business",
+      "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "Hey DJ",
         "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 206081,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "So Wat Cha Sayin'",
-      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "So Wat Cha Sayin'",
+      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1"
       },
@@ -491,6 +507,22 @@
       "duration_ms": 266026,
       "name": "Colors - 2014 Remaster",
       "url": "https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "How Ya Like Me Now (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI"
+      },
+      "artists": [
+        {
+          "name": "Kool Moe Dee",
+          "url": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "Wild Wild West",
+      "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -511,34 +543,18 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         }
       ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "How Ya Like Me Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI"
-      },
-      "artists": [
-        {
-          "name": "Kool Moe Dee",
-          "url": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
-        }
-      ],
-      "duration_ms": 280840,
-      "name": "Wild Wild West",
-      "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -575,18 +591,18 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
+      "duration_ms": 232893,
+      "name": "I Ain't No Joke",
+      "url": "https://open.spotify.com/track/3IxqPuIsNbuudNO3cT9n8P"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -619,22 +635,6 @@
       "duration_ms": 279866,
       "name": "Friends",
       "url": "https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "I Ain't No Joke",
-      "url": "https://open.spotify.com/track/3IxqPuIsNbuudNO3cT9n8P"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284506,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/53eSPiEnq4XkQSxczX7iKA"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "The Chief",
         "url": "https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 308373,
       "name": "I'll Take Your Man",
       "url": "https://open.spotify.com/track/1o19erG7MurnvFf76zsX41"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 284506,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/53eSPiEnq4XkQSxczX7iKA"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Sir Vicious: The Best of Just-Ice",
+        "url": "https://open.spotify.com/album/400dfNwNSiUjJoNlxVIEeS"
+      },
+      "artists": [
+        {
+          "name": "Just-Ice",
+          "url": "https://open.spotify.com/artist/4o2YVQGcx3e2L4c95B3ZcU"
+        },
+        {
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        }
+      ],
+      "duration_ms": 303933,
+      "name": "Going Way Back",
+      "url": "https://open.spotify.com/track/0BXKyFXlqi7s2qC7Jvr1Um"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "The Great Adventures Of Slick Rick",
         "url": "https://open.spotify.com/album/0A9vjIMCxgEhfiyRfvj6WW"
       },
@@ -1127,22 +1147,6 @@
       "duration_ms": 239266,
       "name": "Children's Story",
       "url": "https://open.spotify.com/track/1uNYPqgrxPrvujVMnVDjna"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Break Dance - Electric Boogie",
-        "url": "https://open.spotify.com/album/7dFQDsjoGaJEEKG7mQhiow"
-      },
-      "artists": [
-        {
-          "name": "West Street Mob",
-          "url": "https://open.spotify.com/artist/1DF9I8WTbKvhEifX7RwXbO"
-        }
-      ],
-      "duration_ms": 311026,
-      "name": "Break Dance - Electric Boogie",
-      "url": "https://open.spotify.com/track/5gs8ySYMZyiGdVGbNcGlbx"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

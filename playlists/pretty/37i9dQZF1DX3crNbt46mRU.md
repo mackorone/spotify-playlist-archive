@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: ZIAN, Kings Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,726 likes - 113 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,723 likes - 113 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 23 | [Frieden](https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Frieden](https://open.spotify.com/album/6KChMYkGsRpK2xmq24Eiut) | 3:37 |
 | 24 | [Anthem](https://open.spotify.com/track/38pfUvhqVyuvlgUBiNaZSo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Anthem](https://open.spotify.com/album/3C1Qcd5uy6v1Nbmo1DG8cW) | 3:05 |
 | 25 | [Let It Talk To Me](https://open.spotify.com/track/7seSCZywUZjXb9DXEfCQae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Let It Talk To Me](https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl) | 2:36 |
-| 26 | [Maybach \(feat\. 1PLIKÉ140\)](https://open.spotify.com/track/5d3i2SqCrICPjZdGoGcEHP) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [Maybach \(feat\. 1PLIKÉ140\)](https://open.spotify.com/album/6xkK9flghyvucdNFOEba1W) | 2:10 |
+| 26 | [Maybach](https://open.spotify.com/track/5d3i2SqCrICPjZdGoGcEHP) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [Maybach](https://open.spotify.com/album/6xkK9flghyvucdNFOEba1W) | 2:10 |
 | 27 | [Dile a ÉL](https://open.spotify.com/track/6cIqskfnJeXgfltCuas8lx) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sunshine](https://open.spotify.com/album/31Msggk5KAwDs5xCLflufg) | 3:12 |
 | 28 | [Jealousy](https://open.spotify.com/track/1sAmU9Iz3rlkiz74qz18HM) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Jealousy](https://open.spotify.com/album/66j7fRH4x9RmyEFNX44gcb) | 3:28 |
 | 29 | [Träum von dir](https://open.spotify.com/track/0fXqthbZNv9drezTvlJNpa) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Träum von dir](https://open.spotify.com/album/0MqyQlAf69y8Hpob4DsnnL) | 4:07 |

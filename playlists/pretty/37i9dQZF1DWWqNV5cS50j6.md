@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,699 likes - 97 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,672 likes - 97 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 96 | [Day In The Life](https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB) | [BABYKIRA](https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX) | [Day In The Life](https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B) | 3:00 |
 | 97 | [No One Cares](https://open.spotify.com/track/2cy0X5lmmob7Orr6HvDEWt) | [Isaiah Stone](https://open.spotify.com/artist/29bBPfqgwilBBNnJAHjwkz) | [No One Cares](https://open.spotify.com/album/6gQgnOT6UYA9Ilb2qtFZvT) | 3:55 |
 
-Snapshot ID: `Z8INkgAAAADGyQQgz5UbDNxLuLYPJSbF`
+Snapshot ID: `Z8INkgAAAAAfuGXWunTSiJOOyKlurpse`

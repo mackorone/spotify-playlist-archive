@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-649 songs - 1 day 3 hr 3 min
+650 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Clear View](https://open.spotify.com/track/23NtrwTLLL3NUw3QVYVwJs) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Luuk Van Dijk](https://open.spotify.com/artist/3wBqFOsRiw0tvIgZzO6CxB), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Clear View](https://open.spotify.com/album/1eSa1CKjMbCOI5ZbPkrgGA) | 1:39 | 2023-10-29 | 2024-04-14 |
 | [Closer To You](https://open.spotify.com/track/2Op2ahKSUazKZ9drhtwgbO) | [astral.atmos](https://open.spotify.com/artist/2thf6HRyll029GBqn9Crko) | [Gentle Winds](https://open.spotify.com/album/2FeTTxOqnB7GLsbZLpOryn) | 1:17 | 2024-09-06 |  |
 | [Closing Time](https://open.spotify.com/track/57b8FvUqnDN7SS2NfnLtKT) | [Eliza Ukko](https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn) | [Closing Time](https://open.spotify.com/album/2DGf83Jg0Cmb4V0DMeSAdm) | 2:57 | 2023-10-29 | 2025-02-01 |
-| [Cloud Chasing](https://open.spotify.com/track/40qorFLdhh4RPVGiKF34CT) | [Re:Imagine](https://open.spotify.com/artist/4VwpVXEXhfbmpwJKIBFrFi) | [This is Peaceful Piano](https://open.spotify.com/album/6h88J1mzeP9ov0JJcXuZWC) | 2:25 | 2024-12-06 |  |
+| [Cloud Chasing](https://open.spotify.com/track/40qorFLdhh4RPVGiKF34CT) | [Re:Imagine](https://open.spotify.com/artist/4VwpVXEXhfbmpwJKIBFrFi) | [This is Peaceful Piano](https://open.spotify.com/album/6h88J1mzeP9ov0JJcXuZWC) | 2:25 | 2024-12-06 | 2025-03-03 |
 | [cloud dance](https://open.spotify.com/track/7mVMtlLrzxVD8yuBRreH06) | [moonstone beach](https://open.spotify.com/artist/689WgVDqchqAEciHYc7xiz) | [cloud dance](https://open.spotify.com/album/1I5St2F5WgrybYhOMQfgb0) | 2:27 | 2024-05-11 | 2025-03-01 |
 | [cloud watching](https://open.spotify.com/track/2MSD6VZVfw2N8H7GQ3VzKA) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [cloud watching](https://open.spotify.com/album/4EZbsFj0PkhTos5DW3gk1L) | 2:09 | 2023-10-29 | 2024-12-14 |
 | [Colors of the Wind](https://open.spotify.com/track/4uEFwVkFCkKRPMY6YkJAbb) | [Julian Byrd](https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC) | [Colors of the Wind](https://open.spotify.com/album/0DoR4wQZ1heGpvRacZUUJI) | 3:31 | 2023-10-29 | 2025-02-15 |
@@ -431,6 +431,7 @@
 | [Piano Peace](https://open.spotify.com/track/2XF9NUpHwCYk7IDoeKOuQE) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Piano Peace](https://open.spotify.com/album/4z5HA8e4copgHDHSwBg70o) | 39:45 | 2023-10-29 | 2024-11-16 |
 | [Picture perfect](https://open.spotify.com/track/2LOoKjBC5kbOss9Q9cJCOD) | [Thayer](https://open.spotify.com/artist/1GAHD2clwrr7wsSgUqHw5b) | [Picture perfect](https://open.spotify.com/album/0VcHD4LGKzh6r6k4FUF9Tk) | 1:39 | 2024-12-06 |  |
 | [Pieces](https://open.spotify.com/track/2cIhSKzpS7q2ZHo1n2OTah) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Lighthouse](https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e) | 2:08 | 2024-07-12 | 2025-02-01 |
+| [Pieridae](https://open.spotify.com/track/5N11kPR1E94OEDz6GCQBXf) | [Valentin Scholl](https://open.spotify.com/artist/31nziFCQXhUjs3mURgkS3j) | [Pieridae](https://open.spotify.com/album/06imvOwLGlL95iNRadY2ZF) | 2:49 | 2025-03-02 |  |
 | [Pinewood](https://open.spotify.com/track/2CZLmqQlbf8roxIP7nPN0W) | [Noah Crisostomo](https://open.spotify.com/artist/3S4zNbot33nn46Rpi4cEnu) | [Pinewood](https://open.spotify.com/album/434IlBfJXbufAFWMoodCxL) | 2:00 | 2025-02-14 |  |
 | [Pink Lightning](https://open.spotify.com/track/3uzRLP6BmoemR6P4j4WUrA) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Luuk Van Dijk](https://open.spotify.com/artist/3wBqFOsRiw0tvIgZzO6CxB), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Pink Lightning](https://open.spotify.com/album/4gLfnUHU8nujvU7h6pvxfl) | 1:45 | 2023-10-29 | 2024-04-14 |
 | [Place to Hide](https://open.spotify.com/track/5rSEN68P9sAGmWrRSzxuWx) | [Fairyfair](https://open.spotify.com/artist/4LQHwRId6D7vhiNHc5Qkv5) | [Place to Hide](https://open.spotify.com/album/7yBq6HN0y3coHXsZTSaMEZ) | 2:58 | 2025-02-14 |  |

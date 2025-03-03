@@ -9537,6 +9537,32 @@
     },
     {
       "album": {
+        "name": "Dead People",
+        "url": "https://open.spotify.com/album/1Ac1Lvd5YQo5Ce4nqaAtoB"
+      },
+      "artists": [
+        {
+          "name": "Wax'a'don",
+          "url": "https://open.spotify.com/artist/0xUuNDQNsWvCnNI0fg1ilW"
+        },
+        {
+          "name": "DTL",
+          "url": "https://open.spotify.com/artist/7KV7mzL4m3BMHMeAh7oxT7"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Dead People",
+      "url": "https://open.spotify.com/track/2OygSE4PXPYBtb9HgwLtDp"
+    },
+    {
+      "album": {
         "name": "THE MECCA",
         "url": "https://open.spotify.com/album/0RY8zed11Ckbv5nlttHQ2F"
       },
@@ -18318,10 +18344,36 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 133365,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/1YJH4lAW9sG1ikquhwxTdV"
+    },
+    {
+      "album": {
+        "name": "Have You Ever Seen The Rain",
+        "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
+      },
+      "artists": [
+        {
+          "name": "Outliers",
+          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
+        },
+        {
+          "name": "John Fogerty",
+          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
+        },
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125109,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
     },
     {
       "album": {
@@ -36410,7 +36462,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 118204,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/7emFGIffdzQy2VV6cX001D"

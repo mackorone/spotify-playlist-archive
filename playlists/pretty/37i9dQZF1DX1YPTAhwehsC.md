@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,064 likes - 101 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,091 likes - 101 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 7 | [MISS ME?](https://open.spotify.com/track/19T5c0CENOO6K32TJTUg7r) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [MISS ME?](https://open.spotify.com/album/3cJ0inyTwpiEqKRxnPpeJ9) | 2:06 |
 | 8 | [What's Going On](https://open.spotify.com/track/0UAMCiReTElBhwpQPS5efO) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [At the Church Steps](https://open.spotify.com/album/4tLWhQpJdmm85tLzNyotDv) | 2:56 |
 | 9 | [PlaqueBoyMax](https://open.spotify.com/track/3LYXwZsL3SUwZGEvOqYCKI) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [PlaqueBoyMax](https://open.spotify.com/album/5xUIDwmQwT7HChkNTr9peO) | 1:53 |
-| 10 | [Bottles N Bitches](https://open.spotify.com/track/2cRPsh2awypYNmILFLt4oU) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Bottles N Bitches](https://open.spotify.com/album/62SM9UASaYSZR80IZxqNGs) | 2:11 |
+| 10 | [BNB 2](https://open.spotify.com/track/2cRPsh2awypYNmILFLt4oU) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [BNB 2](https://open.spotify.com/album/62SM9UASaYSZR80IZxqNGs) | 2:11 |
 | 11 | [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 |
 | 12 | [Baddie Decisions](https://open.spotify.com/track/15DFymferHXLgfrYowTVFl) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Baddie Decisions](https://open.spotify.com/album/4Y3SXDyYi8Uxikp4YTqtsI) | 2:04 |
 | 13 | [Get Jiggy](https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Get Jiggy](https://open.spotify.com/album/1y8KPFWhfmZ3LGeLDf4AOu) | 1:58 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 100 | [Sunday](https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Sunday](https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA) | 1:53 |
 | 101 | [TTSO.](https://open.spotify.com/track/3lQ445vGDKzQqBkTkHdRvr) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [TTSO.](https://open.spotify.com/album/7pkoyUUelUQjFGwx6tt3Pa) | 3:00 |
 
-Snapshot ID: `Z8FDHwAAAACbyc02wwAcSZTPjysoVbqh`
+Snapshot ID: `Z8FDHwAAAACpXF0OQ8ug+R1RcY2a/zY0`

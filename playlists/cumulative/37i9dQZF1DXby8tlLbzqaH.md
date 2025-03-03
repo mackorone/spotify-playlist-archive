@@ -4,7 +4,7 @@
 
 > White noise to help babies fall asleep.
 
-395 songs - 18 hr 20 min
+396 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Dream Noise 700hz](https://open.spotify.com/track/70qJ45oLqsC1LVao9niNFB) | [Cosy Noise Place](https://open.spotify.com/artist/4jzdQVt7yP9el87xAqmUKO) | [Noise for Airline Sleep](https://open.spotify.com/album/6UHgp2KYS7X1MIwS1PKHYy) | 1:55 | 2022-03-21 | 2023-06-28 |
 | [Dream On](https://open.spotify.com/track/5G4Mq7nCzVySjx3lCijQVQ) | [noiZzz in the dark](https://open.spotify.com/artist/6vB7nFsvEuozFD6z9WLaO3) | [Brown Noise = Baby Sleep](https://open.spotify.com/album/4rZbMOTW58WcrC9DgpNdvM) | 3:39 | 2022-03-21 |  |
 | [Dreams & Calmness](https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Dreams & Calmness](https://open.spotify.com/album/2HOETaIk01hB0glxrTVk39) | 2:39 | 2023-06-28 |  |
+| [Dreams in White](https://open.spotify.com/track/0llaJPP8m0VLRSDIgeFLKa) | [Titan Pulse](https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY) | [Dreams in White](https://open.spotify.com/album/2MU5F73KbDspAV3MW3nCJm) | 5:09 | 2025-02-04 |  |
 | [Dreamsound 200 hz](https://open.spotify.com/track/72U94rKx5RwNX1XTJBjwdK) | [Dreamsound](https://open.spotify.com/artist/3Ck26BVvvBgOPbjvkO9b3g) | [Dreaming Of Brown Noise](https://open.spotify.com/album/4fI20ufVMSoJuJ2AKZLFsE) | 2:34 | 2022-03-21 | 2022-06-10 |
 | [Dreamy Noise](https://open.spotify.com/track/5u7BfGhAyEdDOuE7SwKmPn) | [Peaceful Me](https://open.spotify.com/artist/0kqpe0tVo45rneU3mFLheu) | [White Dream Noise](https://open.spotify.com/album/7mrF4ggROKkyntvBLEl590) | 2:22 | 2022-03-21 |  |
 | [Dull White Noise](https://open.spotify.com/track/2NbKo7vh9ysSALZTCb2wiw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:04 | 2022-10-27 |  |
@@ -282,7 +283,7 @@
 | [Underneath the Stars](https://open.spotify.com/track/1oFhAF9AP4kV7uimscgcyn) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Sleep Sleep Sleep](https://open.spotify.com/album/5mLxtlBQ1Yl9wZGTySvIvK) | 3:36 | 2022-03-21 |  |
 | [Velara \(White Noise\)](https://open.spotify.com/track/3LdVk4lYL4OgNINqmHSbJp) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:36 | 2022-10-27 | 2023-04-13 |
 | [Verby Brown Noise](https://open.spotify.com/track/6JsQZv4ESmDGB7NpuKkSjt) | [noiZzz in the dark](https://open.spotify.com/artist/6vB7nFsvEuozFD6z9WLaO3) | [Brown Noise = Baby Sleep](https://open.spotify.com/album/4rZbMOTW58WcrC9DgpNdvM) | 3:37 | 2022-03-21 | 2022-06-10 |
-| [Vliegtuiglawaai](https://open.spotify.com/track/5YuFQoMrfSG3o4Hn2Gn2m1) | [Volgorde](https://open.spotify.com/artist/4An4kwjdOiPnaT77Z2v8YA) | [Vliegtuiglawaai](https://open.spotify.com/album/3BOt4O4LVbT9NNTXH98iIL) | 2:47 | 2022-03-21 |  |
+| [Vliegtuiglawaai](https://open.spotify.com/track/5YuFQoMrfSG3o4Hn2Gn2m1) | [Volgorde](https://open.spotify.com/artist/4An4kwjdOiPnaT77Z2v8YA) | [Vliegtuiglawaai](https://open.spotify.com/album/3BOt4O4LVbT9NNTXH98iIL) | 2:47 | 2022-03-21 | 2025-03-03 |
 | [W\-Noise FX](https://open.spotify.com/track/3DgC6dMvMSU72n4D3SSPMF) | [FX Soundtrap](https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo) | [Calmed By The White Noise](https://open.spotify.com/album/3yNmTVNqVdF3cR5Rg2vnqU) | 2:04 | 2022-04-28 | 2022-06-10 |
 | [Waterfall Frequencies Part 3](https://open.spotify.com/track/7iXOGEf9zvaMXIuUvzB7Eu) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Waterfall Frequencies](https://open.spotify.com/album/4EAqpA6NyIVyO6ZJEbvmrz) | 2:30 | 2022-03-21 |  |
 | [waterfall noise](https://open.spotify.com/track/4fYskLkVHdV2rHHV9IQ0cQ) | [noisenoisenoise](https://open.spotify.com/artist/520IgJZ2NunNadFVU1JCDq) | [waterfall noise](https://open.spotify.com/album/4iZSwPLWwbpK5RaD64KyaB) | 2:02 | 2022-03-21 | 2022-06-10 |

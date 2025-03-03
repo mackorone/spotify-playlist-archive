@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-395 songs - 20 hr 55 min
+396 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [I See Blue](https://open.spotify.com/track/7McmRLT362Fss7WAUk670c) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Papaya Island](https://open.spotify.com/album/7y8NL266HSryni6nAYmdHK) | 4:07 | 2021-10-29 | 2022-01-21 |
 | [I Should Go Home \(feat\. Philip Rustad\)](https://open.spotify.com/track/2IH2C9uhbhvfMnUbfvdHlL) | [Davai](https://open.spotify.com/artist/0xZvYTiM5QT94j1abOm0nC), [Philip Rustad](https://open.spotify.com/artist/5U5Wgc7sVVNuUlLckaYMGr) | [I Should Go Home \(feat\. Philip Rustad\)](https://open.spotify.com/album/37Gm8Ovojuc443hvViW9mu) | 2:55 | 2021-10-29 | 2022-03-26 |
 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 | 2021-10-29 | 2024-07-10 |
-| [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-08 |  |
+| [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-08 | 2025-03-03 |
 | [I'd Love to Be Okay](https://open.spotify.com/track/6J7OHWdBeNbGmH82fqnabL) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH) | [I'd Love to Be Okay](https://open.spotify.com/album/3gOCeUPs6Y1COmCRnDEvvJ) | 2:14 | 2022-04-15 | 2022-05-27 |
 | [I've Arrived \(with Tomike\)](https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [I've Arrived \(with Tomike\)](https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM) | 2:30 | 2024-08-16 |  |
 | [Ibiza](https://open.spotify.com/track/0FDOviIZNbcgIQ5Djypzwv) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Ibiza](https://open.spotify.com/album/44O6Lmy2iJtJMNxar2nnlo) | 2:25 | 2021-10-29 | 2022-07-29 |
@@ -327,6 +327,7 @@
 | [Summertime With You](https://open.spotify.com/track/5b6zREc57MnDHRh2EjVHbw) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Summertime With You](https://open.spotify.com/album/5NQ9nE5nfn78rpz8o97rZp) | 2:20 | 2022-07-08 | 2022-08-08 |
 | [Sun Is Shining](https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sun Is Shining](https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK) | 3:05 | 2021-10-29 | 2023-01-28 |
 | [Sun Screen](https://open.spotify.com/track/3noJl0ag90pcZMSUTbDt4q) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sun Screen](https://open.spotify.com/album/3B3oVJJzRieSTbS8Q8hPut) | 2:12 | 2021-10-29 | 2022-06-04 |
+| [Sunday Best](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Sunday Best](https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe) | 2:51 | 2025-02-21 |  |
 | [Sunrise](https://open.spotify.com/track/1BN5SY8Dkwljias6JUo15a) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise](https://open.spotify.com/album/752ym7DLJyAhI9pHKhN1xT) | 2:18 | 2023-07-14 | 2023-07-19 |
 | [Sunrise](https://open.spotify.com/track/4ViSS2rvk9hFbmyFg3s33k) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise \(Club Mix\)](https://open.spotify.com/album/6KN6uHKN0og1gY1uaowVAm) | 2:18 | 2023-08-04 | 2023-09-07 |
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2023-09-15 |  |

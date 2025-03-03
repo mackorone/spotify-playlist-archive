@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen: un homenaje a Violeta Parra. ",
-  "num_followers": 14115,
+  "num_followers": 14116,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "Lev\u00edtico 20:9",
+      "url": "https://open.spotify.com/track/0l3zOe0a5HH4uAw6ZS89dn"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
         "name": "Porte\u00f1a",
         "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
       },
@@ -151,22 +167,6 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Lev\u00edtico 20:9",
-      "url": "https://open.spotify.com/track/0l3zOe0a5HH4uAw6ZS89dn"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
         "name": "Loza",
         "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
       },
@@ -199,34 +199,18 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Sopita de pan",
-        "url": "https://open.spotify.com/album/1XobnPbudhBcVUhdvosE7g"
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
       },
       "artists": [
         {
-          "name": "Evelyn Cornejo",
-          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
         }
       ],
-      "duration_ms": 264000,
-      "name": "La Mariposa",
-      "url": "https://open.spotify.com/track/3RTWU4ApWqWGZu3rBrG0oa"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
-        "name": "De Canciones Tristes y Otras Sutilezas",
-        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 204312,
-      "name": "Canci\u00f3n para Acunar",
-      "url": "https://open.spotify.com/track/72vh5bshCrmUNZ1ijYfrDf"
+      "duration_ms": 182599,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -247,6 +231,22 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
+        "name": "De Canciones Tristes y Otras Sutilezas",
+        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 204312,
+      "name": "Canci\u00f3n para Acunar",
+      "url": "https://open.spotify.com/track/72vh5bshCrmUNZ1ijYfrDf"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
         "name": "Las \u00daltimas Composiciones",
         "url": "https://open.spotify.com/album/6hCWXZNwVtLk8vcEFiCmfE"
       },
@@ -263,18 +263,18 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
+        "name": "Sopita de pan",
+        "url": "https://open.spotify.com/album/1XobnPbudhBcVUhdvosE7g"
       },
       "artists": [
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "Evelyn Cornejo",
+          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
         }
       ],
-      "duration_ms": 182599,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
+      "duration_ms": 264000,
+      "name": "La Mariposa",
+      "url": "https://open.spotify.com/track/3RTWU4ApWqWGZu3rBrG0oa"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx"
-      },
-      "artists": [
-        {
-          "name": "Nicole Bunout",
-          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
-        }
-      ],
-      "duration_ms": 252257,
-      "name": "Permiso",
-      "url": "https://open.spotify.com/track/1hs8eutktH2210mudKOo2Z"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
         "name": "Loza",
         "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 176599,
       "name": "A la Mar Fui por Naranjas",
       "url": "https://open.spotify.com/track/55vHYlcaslpFY3ZTSkYT48"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx"
+      },
+      "artists": [
+        {
+          "name": "Nicole Bunout",
+          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
+        }
+      ],
+      "duration_ms": 252257,
+      "name": "Permiso",
+      "url": "https://open.spotify.com/track/1hs8eutktH2210mudKOo2Z"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx"
-      },
-      "artists": [
-        {
-          "name": "Nicole Bunout",
-          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
-        }
-      ],
-      "duration_ms": 198954,
-      "name": "Ser jazm\u00edn, ser golondrina",
-      "url": "https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
         "name": "Los Ojos del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 208666,
       "name": "Una pena y un cari\u00f1o",
       "url": "https://open.spotify.com/track/2AtHrzS1aqODE7eoILb1he"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx"
+      },
+      "artists": [
+        {
+          "name": "Nicole Bunout",
+          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
+        }
+      ],
+      "duration_ms": 198954,
+      "name": "Ser jazm\u00edn, ser golondrina",
+      "url": "https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
+        "name": "Que me des tu cari\u00f1o",
+        "url": "https://open.spotify.com/album/0xbWZ29zelFd3pRliOx3K6"
+      },
+      "artists": [
+        {
+          "name": "laia",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+        }
+      ],
+      "duration_ms": 210823,
+      "name": "Que me des tu cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UFrpHowqX4yrcHuAsXem7"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
         "name": "Petronila",
         "url": "https://open.spotify.com/album/6gyKGERNhWJWIL76C9VRq6"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 211500,
       "name": "Petronila",
       "url": "https://open.spotify.com/track/3mBj9zNLz4AvSEIauquNt7"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
-        "name": "Las palabras que no sientes",
-        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
-      },
-      "artists": [
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 148339,
-      "name": "Las palabras que no sientes",
-      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
     }
   ],
   "unique_name": "EQUAL Chile",

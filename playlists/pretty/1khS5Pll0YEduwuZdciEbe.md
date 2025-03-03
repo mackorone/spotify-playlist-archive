@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1khS5Pll0YEduwuZdciEbe.md) - [plain]
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Mae Martin
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 8,538 likes - 80 songs - 4 hr 46 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 8,537 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

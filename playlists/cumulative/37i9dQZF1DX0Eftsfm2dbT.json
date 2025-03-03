@@ -6147,6 +6147,32 @@
     },
     {
       "album": {
+        "name": "VEILED (LIVE at TOKYO GARDEN THEATER)",
+        "url": "https://open.spotify.com/album/6IG5bF6enCdrJgIFV2PyKF"
+      },
+      "artists": [
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        },
+        {
+          "name": "Gottz",
+          "url": "https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199016,
+      "name": "Daydreamin' - LIVE at TOKYO GARDEN THEATER",
+      "url": "https://open.spotify.com/track/3A5t1utrWjEntrUnhcVxgd"
+    },
+    {
+      "album": {
         "name": "Daydreaming pt.2",
         "url": "https://open.spotify.com/album/1V2U75OB6cF5sGTUMB8Nct"
       },
@@ -27392,7 +27418,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 244414,
       "name": "Vanilla (feat. FLA$H, Kidwing & Fuzzy)",
       "url": "https://open.spotify.com/track/0pgMhzPyVYqbaff94GVadB"

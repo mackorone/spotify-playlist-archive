@@ -1,6 +1,6 @@
 {
   "description": "The biggest crossover songs from the islands and the diaspora. Cover: Amanda Reifer",
-  "num_followers": 644964,
+  "num_followers": 644966,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "Gvnman Shift",
+        "url": "https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Gvnman Shift",
+      "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "Higher Life",
         "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
       },
@@ -307,38 +323,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Call Me If",
-      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Gvnman Shift",
-        "url": "https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Gvnman Shift",
-      "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "You're Perfect",
         "url": "https://open.spotify.com/album/6vZbWkCUqbIbEZnPaoDBFF"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 196973,
       "name": "You're Perfect",
       "url": "https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Call Me If",
+      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN"
       },
       "artists": [
         {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
         }
       ],
-      "duration_ms": 207157,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
+      "duration_ms": 148636,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Vibes Weekend",
-        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
       },
       "artists": [
         {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Vibes Weekend",
-      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+      "duration_ms": 207157,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN"
+        "name": "Vibes Weekend",
+        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
       },
       "artists": [
         {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 148636,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E"
+      "duration_ms": 173266,
+      "name": "Vibes Weekend",
+      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -539,6 +539,46 @@
       "duration_ms": 181115,
       "name": "Whap Whap (feat. F.S.)",
       "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Talibhan",
+        "url": "https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Talibhan",
+      "url": "https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "WiFi",
+        "url": "https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        },
+        {
+          "name": "Drumma Boy",
+          "url": "https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh"
+        }
+      ],
+      "duration_ms": 213840,
+      "name": "WiFi",
+      "url": "https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -599,62 +639,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "WiFi",
-        "url": "https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        },
-        {
-          "name": "Drumma Boy",
-          "url": "https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh"
-        }
-      ],
-      "duration_ms": 213840,
-      "name": "WiFi",
-      "url": "https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "History",
-      "url": "https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Talibhan",
-        "url": "https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        },
-        {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Talibhan",
-      "url": "https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "Bwoii Affi\" Watch Eh Style",
         "url": "https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor"
       },
@@ -675,6 +659,38 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "Likkle Miss",
+        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 134452,
+      "name": "Likkle Miss",
+      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "History",
+      "url": "https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "Born Fighter",
         "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 208928,
       "name": "Born Fighter",
       "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Reggae Gold 2018: 25th Anniversary",
-        "url": "https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220964,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
       },
@@ -799,6 +783,54 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Reggae Gold 2018: 25th Anniversary",
+        "url": "https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220964,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/616VWAHOKzHETulvW0RJNA"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 151456,
+      "name": "London",
+      "url": "https://open.spotify.com/track/69GzHJZKbGZnYaEpHYaC4n"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "Third Time's The Charm",
         "url": "https://open.spotify.com/album/2twm4yeL6jW6SqZ2S0YaS7"
       },
@@ -815,22 +847,6 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/5Zzh3jIDIvCb6bllZjfuL4"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Likkle Miss",
-        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 134452,
-      "name": "Likkle Miss",
-      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -887,26 +903,6 @@
       "duration_ms": 198671,
       "name": "Tack Back",
       "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Out Of This World",
-        "url": "https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Out Of This World",
-      "url": "https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X"
     },
     {
       "added_at": "2024-07-16 11:23:58",

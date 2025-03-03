@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 3817,
+  "num_followers": 3818,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8D8gAAAAAC3RnDL4egHe1MiJfwNau59",
+  "snapshot_id": "Z8JOAAAAAAAgUm9Sf9fEVkEosdb7/fTr",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 202631,
-      "name": "Come to Life",
-      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Story Your Glory (Expanded Edition)",
         "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 188544,
       "name": "My Story Your Glory - Micah Tyler Collab Version",
       "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Come to Life",
+      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
     },
     {
       "added_at": null,

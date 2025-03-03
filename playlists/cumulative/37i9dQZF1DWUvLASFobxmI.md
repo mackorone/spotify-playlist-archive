@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, Adrian L Santos en portada.
 
-653 songs - 1 day 10 hr 31 min
+654 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 | 2022-07-01 | 2022-11-05 |
 | [Bailando \- Live](https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Bailando \(Live\)](https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP) | 3:09 | 2024-11-08 | 2024-12-21 |
 | [Bajo Mil Llaves](https://open.spotify.com/track/2UnVe9XBmhrCi63CQVugfL) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Bajo Mil Llaves](https://open.spotify.com/album/2wMrrozHZP74wIrUmlXV0O) | 2:25 | 2022-07-01 | 2022-07-29 |
+| [Bandera Mexicana](https://open.spotify.com/track/6esgHFKVfaNq0RWplhBjvl) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Bandera Mexicana](https://open.spotify.com/album/5EFAkOVA89QTmvTVBGGGMq) | 2:10 | 2025-02-28 |  |
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2022-12-22 |  |
 | [Belleza de Cantina](https://open.spotify.com/track/78q5BxQZLz31sY9gHqe47w) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Belleza de Cantina](https://open.spotify.com/album/2jaZ1eJRgLLHhxSFHc35Hf) | 3:05 | 2023-12-08 | 2023-12-16 |
 | [Beso \- Spotify Singles](https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Beso \- Spotify Singles](https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs) | 2:23 | 2024-08-24 |  |
@@ -554,7 +555,7 @@
 | [Si Me Sueñas \(En Vivo\)](https://open.spotify.com/track/6nLrfnFHH0fYfrTDbJjuEa) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Si Me Sueñas \(En Vivo\)](https://open.spotify.com/album/0XSzgt5KX9uLFLwz136sL4) | 2:40 | 2024-12-20 |  |
 | [Si Nos Faltara Amor](https://open.spotify.com/track/0Wdz2Awms2UVvl1tf05iYN) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Si Nos Faltara Amor](https://open.spotify.com/album/31OddkUcXCYsrrKZ0BHlS2) | 3:10 | 2022-07-01 | 2022-08-06 |
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2022-07-01 | 2024-12-21 |
-| [Siempre](https://open.spotify.com/track/0Nhh75wKrxe9qKGXw5mAqX) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Siempre](https://open.spotify.com/album/0FhNkVsF06mBEzRCFsugDg) | 3:22 | 2025-01-31 |  |
+| [Siempre](https://open.spotify.com/track/0Nhh75wKrxe9qKGXw5mAqX) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Siempre](https://open.spotify.com/album/0FhNkVsF06mBEzRCFsugDg) | 3:22 | 2025-01-31 | 2025-03-03 |
 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 | 2021-12-17 | 2024-10-19 |
 | [Siempre Estoy Pa´Ti](https://open.spotify.com/track/7tdu9DVtHAxWapgPtnuZkM) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Siempre Estoy Pa´Ti](https://open.spotify.com/album/4xYCQogPWyemOhsaSLQkre) | 3:53 | 2022-07-01 | 2023-07-01 |
 | [Siempre Fajada La 701](https://open.spotify.com/track/5O64Lu1WgliJDTK3Q4pqXj) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [Siempre Fajada La 701](https://open.spotify.com/album/2MCeGljHZ1mdDeNc3yYI6c) | 3:00 | 2023-10-21 | 2023-11-18 |

@@ -4,7 +4,7 @@
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Sam Akpro
 
-1,832 songs - 4 day 5 hr 0 min
+1,834 songs - 4 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Cruel](https://open.spotify.com/track/03i4J9UDZWMKhc0Cp5tAGp) | [FRANKIIE](https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD) | [Between Dreams](https://open.spotify.com/album/3GTqMCAw41hLRXwZBiCHlr) | 3:13 | 2023-05-31 | 2023-07-27 |
 | [Cruel](https://open.spotify.com/track/6ilStGJwy7nzQe2HqKjeik) | [FRANKIIE](https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD) | [Cruel](https://open.spotify.com/album/3QGmQeSXDZn2DvmEcmDVgP) | 3:13 | 2023-05-10 | 2023-06-05 |
 | [Cruise](https://open.spotify.com/track/2HxGutaMBJvIF8qRh3yBjl) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK), [Chris Vincent](https://open.spotify.com/artist/2TP5gePc0SBG8sOpRp8ymQ) | [Cruise](https://open.spotify.com/album/7Ks5QNF8Ea61IGRbzJVfwA) | 2:43 | 2024-03-27 | 2024-04-24 |
+| [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-03-02 |  |
 | [Crumbling](https://open.spotify.com/track/2EJgEVwGWA0tvt3xgDUAOh) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Crumbling](https://open.spotify.com/album/5k67HhKmzB4FrsIk7PUkzy) | 3:13 | 2023-04-12 | 2023-06-29 |
 | [Crush](https://open.spotify.com/track/2fGrNRKLkWJqGuzEST3pYX) | [Blush](https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW) | [Crush](https://open.spotify.com/album/0QkcgSGcNz3p0DocnmvCUR) | 4:46 | 2023-09-20 | 2024-01-25 |
 | [CRUSH](https://open.spotify.com/track/7CwB5ImBPfsDFkRgztPcGy) | [Morning Forever](https://open.spotify.com/artist/5riC6DSrRyrhO8rTMe5lfX) | [CRUSH](https://open.spotify.com/album/1c9O6QP9oQpEegAccNFACs) | 2:31 | 2025-02-26 |  |
@@ -529,6 +530,7 @@
 | [Ecig](https://open.spotify.com/track/4s2jY1IybI3jhgw8ybldlX) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Ecig](https://open.spotify.com/album/3egipHAXK3exglLBf0Fs31) | 6:06 | 2024-06-19 | 2024-09-12 |
 | [Eclipse](https://open.spotify.com/track/1Hx2nUUnTyk5ewgKZt1lSI) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Eclipse](https://open.spotify.com/album/6B0pRDdQ8Udrosv4NMscW3) | 4:07 | 2022-08-31 | 2023-01-12 |
 | [Effie's Song](https://open.spotify.com/track/5pMxCZjsdHMPBsXQI5hajM) | [Pretty Uglys](https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9) | [Effie's Song](https://open.spotify.com/album/5xD8j5GoY9di0y44fWu6su) | 2:58 | 2025-02-26 |  |
+| [Eggshellz](https://open.spotify.com/track/7gcrZVEHDPJV8t37qso41D) | [Wes Parker](https://open.spotify.com/artist/2o7k9CBUdlkyWt4qyFAdvm) | [Splinter](https://open.spotify.com/album/3FJMLegSNIpX4sZsCsZ6oA) | 3:14 | 2025-03-02 |  |
 | [Egyptian Walls](https://open.spotify.com/track/4lbWSK2R6f44weepWjxsYN) | [Reme](https://open.spotify.com/artist/0OmHs6TGDJEJjZ1hUdPlHr) | [Egyptian Walls](https://open.spotify.com/album/6jzkRjnyRewZNwqV99t6Mc) | 3:11 | 2023-09-27 | 2023-11-30 |
 | [Electric Cowboy](https://open.spotify.com/track/7Gzcpc6ptwBLuQ8qrpbV3z) | [Drumming Bird](https://open.spotify.com/artist/3x2gRycOH4rmXmGnXwiR2K) | [Electric Cowboy](https://open.spotify.com/album/5tS5TNCj1haHeH8E8O3qzo) | 2:58 | 2022-08-03 | 2022-10-13 |
 | [Elon Musk As The Crucified Christ](https://open.spotify.com/track/1j2PhmI5GlHkLMyZ0iHz2y) | [Twin Pigs](https://open.spotify.com/artist/6jLmOnefDYHnIEEcirbItM) | [Elon Musk As The Crucified Christ](https://open.spotify.com/album/7CwyigFJRXEqwvF34DgVk5) | 2:06 | 2022-01-19 | 2022-02-03 |

@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gurnam Bhullar &  Geet Goraya
 
-238 songs - 12 hr 27 min
+239 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Apne Vyah De Vich](https://open.spotify.com/track/7bJDvpRGCMBOJyHc0IGlkz) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Apne Vyah De Vich](https://open.spotify.com/album/33nY8dfVBBoKeuyjO8LrlD) | 3:34 | 2025-01-08 | 2025-01-11 |
 | [Ask About Me](https://open.spotify.com/track/1IRqRr6FnqMPPMPgjz7bef) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 4:19 | 2022-07-05 | 2023-07-27 |
 | [Ask About Me](https://open.spotify.com/track/2xXZwpCUwaotGISP5rSmVE) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:19 | 2021-12-18 | 2022-07-29 |
-| [Att \- Ep Explode](https://open.spotify.com/track/7BlQn9LXhvKrZIuQS3BQJk) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Att](https://open.spotify.com/album/5YthgfCg0humXLWsSIYFzz) | 2:58 | 2025-01-28 |  |
+| [Att \- Ep Explode](https://open.spotify.com/track/7BlQn9LXhvKrZIuQS3BQJk) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Att](https://open.spotify.com/album/5YthgfCg0humXLWsSIYFzz) | 2:58 | 2025-01-28 | 2025-03-03 |
 | [Avocado](https://open.spotify.com/track/3r9h4gft5xGvLQ1s8u6Svy) | [Daljeet Chahal](https://open.spotify.com/artist/5hsk207hlLQShvs9BkolVl), [KV Mohali](https://open.spotify.com/artist/0QqTe613U00gNnvMk8gqgC), [Kabal Saroopwali](https://open.spotify.com/artist/2Svq3W9xsbXflRBA8yhrV2) | [Avocado](https://open.spotify.com/album/5fRjZWNEgWApa8d4ifnWPm) | 2:25 | 2024-11-04 | 2025-01-09 |
 | [Babe Bhangra Paunde Ne](https://open.spotify.com/track/3mSTEc5jfuaQ6Hz3uXPlTV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Simmu Dhillon](https://open.spotify.com/artist/4YW1vkeLrmK8sf48aT9HeP) | [Babe Bhangra Paunde Ne \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63zguPGRWX1sxdCc4Jl2MF) | 1:54 | 2022-10-07 | 2022-11-13 |
 | [Babe Bhangra Paunde Ne \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/track/1whtXubWCdWMhvZiymscRH) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Simmu Dhillon](https://open.spotify.com/artist/4YW1vkeLrmK8sf48aT9HeP) | [Babe Bhangra Paunde Ne \(From "Babe Bhangra Paunde Ne"\) \- Single](https://open.spotify.com/album/0p1TPVG9FeMFXXV9CXvq2e) | 1:54 | 2022-10-07 | 2024-04-19 |
@@ -240,6 +240,7 @@
 | [Video Call](https://open.spotify.com/track/3lqOcc7LKwXwbbCAIihRPc) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 3:06 | 2022-02-01 | 2023-05-26 |
 | [Wang Da Naap](https://open.spotify.com/track/5r7k55M31Q22AEJkF1GTyw) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sonam Bajwa](https://open.spotify.com/artist/2SyZp7V9vbRK1crDWxy4Ds) | [Wang Da Naap](https://open.spotify.com/album/5rN9PlTcL6fcYHZ25DXkTl) | 2:38 | 2025-01-28 |  |
 | [Wang Tut Gayi](https://open.spotify.com/track/4zKsTcWcNpe62JvN2UKQ75) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Imagination](https://open.spotify.com/album/22Q14TeolmZFvnE7HjH503) | 3:08 | 2025-01-08 | 2025-02-28 |
+| [Wardaat 2](https://open.spotify.com/track/1m19oybJSfGtSrLrOZZ8EY) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Ellde Fazilka](https://open.spotify.com/artist/1d4aAalhBQWy4cyyorxNHc) | [Wardaat 2](https://open.spotify.com/album/3nF4DVZlZdOXBnmCQrZMSo) | 3:40 | 2025-02-28 |  |
 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 | 2022-01-10 | 2024-11-21 |
 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 | 2023-07-26 |  |
 | [Wrong Report](https://open.spotify.com/track/36CCkZjcXOfcztsCJAi7nU) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Wrong Report](https://open.spotify.com/album/1G7hhMpVeGDYJrbtH8G2JK) | 3:41 | 2025-01-08 | 2025-01-25 |

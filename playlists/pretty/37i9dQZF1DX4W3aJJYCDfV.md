@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Little Simz \(pictured\), Benson Boone, Gigi Perez and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,577 likes - 122 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,608 likes - 122 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

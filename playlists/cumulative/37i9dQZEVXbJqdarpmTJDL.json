@@ -5669,6 +5669,28 @@
     },
     {
       "album": {
+        "name": "BLAH BLAH",
+        "url": "https://open.spotify.com/album/1KbcwiM66id7Kj3e6IzKkA"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Skinny",
+          "url": "https://open.spotify.com/artist/2SNpazMULZY6pliFiC1bCy"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126451,
+      "name": "BLAH BLAH",
+      "url": "https://open.spotify.com/track/1p9wQ8QRSnY4i6jfSBapr9"
+    },
+    {
+      "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/4Q9oW9CToVGcsXmkgj1ykP"
       },
@@ -6914,7 +6936,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 233239,
       "name": "CAPITANO",
       "url": "https://open.spotify.com/track/729Ne1ELu7rgfg0izCWIMV"
@@ -12416,6 +12438,24 @@
       "duration_ms": 148106,
       "name": "Etsi",
       "url": "https://open.spotify.com/track/73d7q3kVVIgfCUK07bVIVH"
+    },
+    {
+      "album": {
+        "name": "ETSI DE GINETE",
+        "url": "https://open.spotify.com/album/1KC4msEl1UmvQSfJOcNRxu"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154480,
+      "name": "ETSI DE GINETE",
+      "url": "https://open.spotify.com/track/5sQVqxvMimtLqi6p1d9tby"
     },
     {
       "album": {
@@ -18952,7 +18992,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 155166,
       "name": "KAPOTE",
       "url": "https://open.spotify.com/track/5URFlr95zjPSDpKdZTpTBi"
@@ -27944,7 +27984,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 172500,
       "name": "ODIGAO STIN VROXI",
       "url": "https://open.spotify.com/track/4wMR1bMmnh0d9nRVFItM1F"
@@ -36254,7 +36294,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 145788,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/4j9wksjhBvSuRq1ibXUfAK"
@@ -40600,7 +40640,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 189622,
       "name": "Vorias",
       "url": "https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY"
@@ -42442,7 +42482,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-03",
       "duration_ms": 351000,
       "name": "\u0398' \u03b1\u03c1\u03b3\u03ae\u03c3\u03c9 \u03b1\u03c0\u03cc\u03c8\u03b5",
       "url": "https://open.spotify.com/track/5XxuMJhJU2t88WO6FqdP9V"
