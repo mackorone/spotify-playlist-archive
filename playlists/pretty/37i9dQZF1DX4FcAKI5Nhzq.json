@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: Gyubin",
-  "num_followers": 818987,
+  "num_followers": 819083,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z77KQQAAAACbMHilMCnK0BgjYy/YI4jo",
+  "snapshot_id": "Z8UdxgAAAABUJ8C1S7ywn8NCxmg0TzaP",
   "tracks": [
+    {
+      "added_at": "2025-03-03 03:11:02",
+      "album": {
+        "name": "I DO ME",
+        "url": "https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 190556,
+      "name": "I DO ME",
+      "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
+    },
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
@@ -25,36 +41,20 @@
       "url": "https://open.spotify.com/track/25ujeTA1Ma2rYzxr7ozdrP"
     },
     {
-      "added_at": "2025-02-26 08:01:05",
+      "added_at": "2025-03-03 03:11:02",
       "album": {
-        "name": "ONF:MY IDENTITY",
-        "url": "https://open.spotify.com/album/4LCtoxSKDHcUilR9nM9teK"
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
       },
       "artists": [
         {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 183493,
-      "name": "The Stranger",
-      "url": "https://open.spotify.com/track/4YAgji0t2oRqsu2HJ8YtBD"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "Glow Up",
-        "url": "https://open.spotify.com/album/0Ka3xa6oOWmW1hIjjjxEW0"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 148386,
-      "name": "Glow Up",
-      "url": "https://open.spotify.com/track/12tWYSmupB8x0B4HyalBAm"
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
       "added_at": "2025-02-26 08:01:05",
@@ -107,50 +107,18 @@
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
-        "name": "Lovely Runner, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37"
+        "name": "Glow Up",
+        "url": "https://open.spotify.com/album/0Ka3xa6oOWmW1hIjjjxEW0"
       },
       "artists": [
         {
-          "name": "ECLIPSE",
-          "url": "https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve"
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
         }
       ],
-      "duration_ms": 233031,
-      "name": "Sudden Shower",
-      "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "Caligo Pt.1",
-        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Dash",
-      "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "N/a",
-        "url": "https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko"
-      },
-      "artists": [
-        {
-          "name": "izna",
-          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "IZNA",
-      "url": "https://open.spotify.com/track/1Lid3Sc6luHWuiauUM6Ckt"
+      "duration_ms": 148386,
+      "name": "Glow Up",
+      "url": "https://open.spotify.com/track/12tWYSmupB8x0B4HyalBAm"
     },
     {
       "added_at": "2025-02-26 08:01:05",
@@ -171,6 +139,22 @@
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
+        "name": "N/a",
+        "url": "https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "IZNA",
+      "url": "https://open.spotify.com/track/1Lid3Sc6luHWuiauUM6Ckt"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
         "name": "<ASSEMBLE24>",
         "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 187920,
       "name": "Girls Never Die",
       "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "Lovely Runner, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37"
+      },
+      "artists": [
+        {
+          "name": "ECLIPSE",
+          "url": "https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve"
+        }
+      ],
+      "duration_ms": 233031,
+      "name": "Sudden Shower",
+      "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
     },
     {
       "added_at": "2025-02-26 08:01:05",
@@ -203,18 +203,18 @@
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL"
+        "name": "ONF:MY IDENTITY",
+        "url": "https://open.spotify.com/album/4LCtoxSKDHcUilR9nM9teK"
       },
       "artists": [
         {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
         }
       ],
-      "duration_ms": 177106,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5"
+      "duration_ms": 183493,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/4YAgji0t2oRqsu2HJ8YtBD"
     },
     {
       "added_at": "2025-02-26 08:01:05",
@@ -231,6 +231,150 @@
       "duration_ms": 143773,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0GqHe3PHWp2t5Pxkn0lCqD"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "Caligo Pt.1",
+        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "NEMONEMO",
+        "url": "https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "NEMONEMO",
+      "url": "https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "OVERSTEP",
+        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "duration_ms": 189283,
+      "name": "BADVILLAIN",
+      "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 190187,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "TWS 1st Single 'Last Bell'",
+        "url": "https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Last Festival",
+      "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "TTYL",
+        "url": "https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg"
+      },
+      "artists": [
+        {
+          "name": "Loossemble",
+          "url": "https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "TTYL",
+      "url": "https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "R.E.M",
+        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "R.E.M",
+      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "Kep1going On",
+        "url": "https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "LAST NIGHT",
+        "url": "https://open.spotify.com/album/5PKgx56vcw0Yuq30Gqyzsd"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 178771,
+      "name": "LAST NIGHT",
+      "url": "https://open.spotify.com/track/0wj6YvMyjLLcGKJtG0GIRR"
     },
     {
       "added_at": "2025-02-26 08:01:05",
@@ -255,50 +399,70 @@
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
-        "name": "TWS 1st Single 'Last Bell'",
-        "url": "https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL"
       },
       "artists": [
         {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
         }
       ],
-      "duration_ms": 191706,
-      "name": "Last Festival",
-      "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
+      "duration_ms": 177106,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5"
     },
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k"
+        "name": "Strawberry Rush",
+        "url": "https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
         }
       ],
-      "duration_ms": 190187,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ"
+      "duration_ms": 176240,
+      "name": "Strawberry Rush",
+      "url": "https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1"
     },
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
-        "name": "OVERSTEP",
-        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
+        "name": "CURIOUS",
+        "url": "https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM"
       },
       "artists": [
         {
-          "name": "BADVILLAIN",
-          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
         }
       ],
-      "duration_ms": 189283,
-      "name": "BADVILLAIN",
-      "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
+      "duration_ms": 191093,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "LOOP",
+        "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "LOOP (feat. Lil Cherry)",
+      "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
     },
     {
       "added_at": "2025-02-26 08:01:05",
@@ -319,18 +483,130 @@
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
-        "name": "LAST NIGHT",
-        "url": "https://open.spotify.com/album/5PKgx56vcw0Yuq30Gqyzsd"
+        "name": "LOVESTRUCK SISTERS Episode 5",
+        "url": "https://open.spotify.com/album/5bH5jDdREPIt5uxyGx955M"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "MYTRO",
+          "url": "https://open.spotify.com/artist/03hzPQyRS7Rd6v6oGnYTzZ"
         }
       ],
-      "duration_ms": 178771,
-      "name": "LAST NIGHT",
-      "url": "https://open.spotify.com/track/0wj6YvMyjLLcGKJtG0GIRR"
+      "duration_ms": 207040,
+      "name": "Bomb Bomb Bomb",
+      "url": "https://open.spotify.com/track/2rnmV5epJdodKpmFVJmbDL"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/6V2oR8AiaAdSk4kYjvDQk6"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 275173,
+      "name": "Coming Of Age Story",
+      "url": "https://open.spotify.com/track/71Q946KeXZ9NRbq0FlyNhY"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "Kep1er The 6th Mini Album <TIPI-TAP>",
+        "url": "https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 172670,
+      "name": "TIPI-TAP",
+      "url": "https://open.spotify.com/track/5ufLXgP0f4GTghZO05XMpy"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/1AHut3kK0ewXAhujWEhnhF"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/1BB29yzN0aKzyxiNFMveuA"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "Derre",
+        "url": "https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 156474,
+      "name": "Derre",
+      "url": "https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "ATE THAT EP",
+        "url": "https://open.spotify.com/album/0SUJCQGGE2SMg1ziHwGFHK"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "duration_ms": 180236,
+      "name": "ATE THAT",
+      "url": "https://open.spotify.com/track/6spCL6M22BQACNDd70Gov3"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "I Did",
+        "url": "https://open.spotify.com/album/1q2JFgioSFXUGv2twp27n7"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "duration_ms": 175573,
+      "name": "Viola",
+      "url": "https://open.spotify.com/track/4ZfaL1CGxoK5LiBDYZ2AKm"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "Every Moment With You",
+        "url": "https://open.spotify.com/album/3lqsRjiQWCyXoDHPGH5vhw"
+      },
+      "artists": [
+        {
+          "name": "JAESSBEE",
+          "url": "https://open.spotify.com/artist/17RX24onuwf8gksn9Xa8hq"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Every Moment With You",
+      "url": "https://open.spotify.com/track/04HGddGSz9qgxiFJkR7oMy"
     },
     {
       "added_at": "2025-02-26 08:01:05",
@@ -355,86 +631,6 @@
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
-        "name": "LOVESTRUCK SISTERS Episode 5",
-        "url": "https://open.spotify.com/album/5bH5jDdREPIt5uxyGx955M"
-      },
-      "artists": [
-        {
-          "name": "MYTRO",
-          "url": "https://open.spotify.com/artist/03hzPQyRS7Rd6v6oGnYTzZ"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Bomb Bomb Bomb",
-      "url": "https://open.spotify.com/track/2rnmV5epJdodKpmFVJmbDL"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "R.E.M",
-        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "R.E.M",
-      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "NEMONEMO",
-        "url": "https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "NEMONEMO",
-      "url": "https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "TTYL",
-        "url": "https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg"
-      },
-      "artists": [
-        {
-          "name": "Loossemble",
-          "url": "https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "TTYL",
-      "url": "https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "Kep1going On",
-        "url": "https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez"
-      },
-      "artists": [
-        {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
         "name": "CONNECTION",
         "url": "https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH"
       },
@@ -447,6 +643,22 @@
       "duration_ms": 183186,
       "name": "Winner",
       "url": "https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "LIVE and FALL",
+        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 205571,
+      "name": "Night before the end",
+      "url": "https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc"
     },
     {
       "added_at": "2025-02-26 08:01:05",
@@ -483,106 +695,6 @@
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
-        "name": "Strawberry Rush",
-        "url": "https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "Strawberry Rush",
-      "url": "https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "Derre",
-        "url": "https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 156474,
-      "name": "Derre",
-      "url": "https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "Every Moment With You",
-        "url": "https://open.spotify.com/album/3lqsRjiQWCyXoDHPGH5vhw"
-      },
-      "artists": [
-        {
-          "name": "JAESSBEE",
-          "url": "https://open.spotify.com/artist/17RX24onuwf8gksn9Xa8hq"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Every Moment With You",
-      "url": "https://open.spotify.com/track/04HGddGSz9qgxiFJkR7oMy"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "LOOP",
-        "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
-      },
-      "artists": [
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        },
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "LOOP (feat. Lil Cherry)",
-      "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "I Did",
-        "url": "https://open.spotify.com/album/1q2JFgioSFXUGv2twp27n7"
-      },
-      "artists": [
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        }
-      ],
-      "duration_ms": 175573,
-      "name": "Viola",
-      "url": "https://open.spotify.com/track/4ZfaL1CGxoK5LiBDYZ2AKm"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "CURIOUS",
-        "url": "https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM"
-      },
-      "artists": [
-        {
-          "name": "UNIS",
-          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
         "name": "Winter Glow",
         "url": "https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu"
       },
@@ -595,86 +707,6 @@
       "duration_ms": 211626,
       "name": "When You Say My Name",
       "url": "https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "ZOOM",
-        "url": "https://open.spotify.com/album/1AHut3kK0ewXAhujWEhnhF"
-      },
-      "artists": [
-        {
-          "name": "BADVILLAIN",
-          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "ZOOM",
-      "url": "https://open.spotify.com/track/1BB29yzN0aKzyxiNFMveuA"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "ATE THAT EP",
-        "url": "https://open.spotify.com/album/0SUJCQGGE2SMg1ziHwGFHK"
-      },
-      "artists": [
-        {
-          "name": "YOUNG POSSE",
-          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "ATE THAT",
-      "url": "https://open.spotify.com/track/6spCL6M22BQACNDd70Gov3"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "Kep1er The 6th Mini Album <TIPI-TAP>",
-        "url": "https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7"
-      },
-      "artists": [
-        {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
-        }
-      ],
-      "duration_ms": 172670,
-      "name": "TIPI-TAP",
-      "url": "https://open.spotify.com/track/5ufLXgP0f4GTghZO05XMpy"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "Street Carol\u2026(With John Park)",
-        "url": "https://open.spotify.com/album/3yZN6pvPBptmsRrhkwkhLi"
-      },
-      "artists": [
-        {
-          "name": "YOUNG POSSE",
-          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
-        }
-      ],
-      "duration_ms": 198153,
-      "name": "Street Carol\u2026(With John Park)",
-      "url": "https://open.spotify.com/track/5WlKecfnuvTHdydDRgvZ7z"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/6V2oR8AiaAdSk4kYjvDQk6"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 275173,
-      "name": "Coming Of Age Story",
-      "url": "https://open.spotify.com/track/71Q946KeXZ9NRbq0FlyNhY"
     },
     {
       "added_at": "2025-02-26 08:01:05",
@@ -695,18 +727,34 @@
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
-        "name": "LIVE and FALL",
-        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7n9NPWpOsSKrGO1yJrssEB"
       },
       "artists": [
         {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 205571,
-      "name": "Night before the end",
-      "url": "https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc"
+      "duration_ms": 189335,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6SzXlH7Xy7RlUSPx5Obbe3"
+    },
+    {
+      "added_at": "2025-02-26 08:01:05",
+      "album": {
+        "name": "Visionary Vision <Performante>",
+        "url": "https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "Hit the Floor",
+      "url": "https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7"
     },
     {
       "added_at": "2025-02-26 08:01:05",
@@ -759,70 +807,18 @@
     {
       "added_at": "2025-02-26 08:01:05",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/7n9NPWpOsSKrGO1yJrssEB"
+        "name": "Street Carol\u2026(With John Park)",
+        "url": "https://open.spotify.com/album/3yZN6pvPBptmsRrhkwkhLi"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
         }
       ],
-      "duration_ms": 189335,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/6SzXlH7Xy7RlUSPx5Obbe3"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "Visionary Vision <Performante>",
-        "url": "https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "Hit the Floor",
-      "url": "https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "STAGE FIGHTER(STF) Original, Vol. 5",
-        "url": "https://open.spotify.com/album/47hFMgaVVpElZtUiTxtORs"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Addiction (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/7MaaYNvsQybaRhn5usk5K3"
-    },
-    {
-      "added_at": "2025-02-26 08:01:05",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/1U7TBNZQc0GMPVzrYRm1VO"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        },
-        {
-          "name": "LOGOS",
-          "url": "https://open.spotify.com/artist/6K4uiMkjEU95mAxbKUcd82"
-        }
-      ],
-      "duration_ms": 194214,
-      "name": "Star (prod.LOGOS)",
-      "url": "https://open.spotify.com/track/0hOZNu7W8cI1Mf5qLhBmhT"
+      "duration_ms": 198153,
+      "name": "Street Carol\u2026(With John Park)",
+      "url": "https://open.spotify.com/track/5WlKecfnuvTHdydDRgvZ7z"
     }
   ],
   "unique_name": "K-Pop Rising",

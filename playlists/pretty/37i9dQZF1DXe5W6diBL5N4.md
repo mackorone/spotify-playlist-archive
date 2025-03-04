@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ZEROBASEONE\(제로베이스원\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,537 likes - 203 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,570 likes - 203 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 202 | [SF LOVE](https://open.spotify.com/track/5JbNUwC2JBMIwNc1q0oNGZ) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [SF LOVE](https://open.spotify.com/album/3hfJX59AKPdErpLK0A6mQ0) | 3:00 |
 | 203 | [Frost](https://open.spotify.com/track/67MOlOhWOxq2hiK32nphc9) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Naturous Album](https://open.spotify.com/album/6Ow6ZukVE8reCHVZU7W5NK) | 3:14 |
 
-Snapshot ID: `Z8MSdQAAAACD6hOsO46lkOOO0GdNgSUR`
+Snapshot ID: `Z8MSdQAAAACQaaDXrloUeqXOrg0sAEc/`

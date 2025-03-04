@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Antony Szmierek
 
-276 songs - 17 hr 28 min
+277 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Dark Rain](https://open.spotify.com/track/6nFeqs4DACn0ldbumEshsg) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dark Rain](https://open.spotify.com/album/0qAXFwj59i4PcQyyYMiPP5) | 3:01 | 2021-10-28 | 2024-07-27 |
 | [Day We Met \- Betonkust Remix](https://open.spotify.com/track/1VdeCgpIm4qRcSDvtIK5Jv) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP), [Betonkust](https://open.spotify.com/artist/0wtoN4C5b7fBp8GLT8DYXo) | [Day We Met \(Remixes\)](https://open.spotify.com/album/3tKegcGPlaRUk9bbaP7X75) | 5:05 | 2021-10-28 | 2024-03-02 |
 | [Designer Shapes](https://open.spotify.com/track/78I2iQC5jeCQNVBlaHqaxu) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Designer Shapes / Buzzers](https://open.spotify.com/album/6fS7FZ0R9GPGyyhGBGs8xM) | 5:47 | 2024-08-15 | 2025-02-14 |
-| [Devil](https://open.spotify.com/track/39y33UuT4HDrMVWk2jY61F) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW), [Chicago Hustle](https://open.spotify.com/artist/4bY0OXeVVpfjDpPcEINBHR) | [Devil](https://open.spotify.com/album/2vmLA0MTcRva2ZJfsC5ZIr) | 2:52 | 2024-08-15 |  |
+| [Devil](https://open.spotify.com/track/39y33UuT4HDrMVWk2jY61F) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW), [Chicago Hustle](https://open.spotify.com/artist/4bY0OXeVVpfjDpPcEINBHR) | [Devil](https://open.spotify.com/album/2vmLA0MTcRva2ZJfsC5ZIr) | 2:52 | 2024-08-15 | 2025-03-04 |
 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 | 2024-03-29 | 2025-02-14 |
 | [Discotheque](https://open.spotify.com/track/1yRhh10n3BaaLCqGqanViI) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Discotheque](https://open.spotify.com/album/12XCd9YPgSOFOsCzw2PW04) | 6:45 | 2024-03-01 | 2025-01-17 |
 | [Distractions \- Edit](https://open.spotify.com/track/6FDnxADtwOPmBXk4P3jGid) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Distractions](https://open.spotify.com/album/7qreiiOotAmwHtw7JbesnX) | 2:26 | 2025-02-28 |  |
@@ -228,6 +228,7 @@
 | [Space Between Us](https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Space Between Us](https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9) | 3:45 | 2025-01-31 |  |
 | [SPEAKING OUT LOUD](https://open.spotify.com/track/68O9CSbx1oZ4nuRSYxPBmn) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [SPEAKING OUT LOUD](https://open.spotify.com/album/5uO8W71W2Zabn4wBtC7d5o) | 2:53 | 2024-02-02 | 2024-07-04 |
 | [Start up Nation](https://open.spotify.com/track/32fXe6Ppdj45aop3hsqFtK) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Embrace](https://open.spotify.com/album/0HdSPq0RQFpkJiEiYAdKGg) | 3:19 | 2021-10-28 | 2024-03-02 |
+| [stay alive](https://open.spotify.com/track/1bP6FLHUIUjfecYLsNPK16) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [stay alive](https://open.spotify.com/album/3FE6DDUtqAM7HrKueMyXAZ) | 2:10 | 2025-02-28 |  |
 | [Still Here](https://open.spotify.com/track/0ohx2z14GguzZPmd3Xn7Xy) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/3VtEYbEgLnLwJPml2lOYLi) | 3:34 | 2021-10-28 | 2024-03-01 |
 | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/track/4EnqqwxwKavuv0mQMMgFE5) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/album/5DObus73yw027Z2SM972b3) | 3:08 | 2024-07-03 |  |
 | [Stranger \(feat\. Elkka\)](https://open.spotify.com/track/4Ym9kUhwyIgms5DhCH1PAO) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp), [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Stranger \(feat\. Elkka\)](https://open.spotify.com/album/3W0rAY4LLL7rDbGY41I1HE) | 3:29 | 2024-07-18 | 2025-02-14 |

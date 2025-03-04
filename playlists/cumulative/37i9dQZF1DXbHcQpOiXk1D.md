@@ -2,7 +2,7 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Ezra Collective
+> The best from Britain's vibrant scene\. Cover: Ezra Collective at The Brits 2025
 
 693 songs - 2 day 0 hr 31 min
 
@@ -52,7 +52,7 @@
 | [As You Are](https://open.spotify.com/track/4rCM8A21DZdVKhAYZHGTI8) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/6oS2nHFKjnGoctJBziOa9r) | 2:03 | 2021-12-17 | 2022-05-20 |
 | [Ascent](https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Ascent](https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0) | 4:40 | 2022-02-25 | 2023-09-22 |
 | [At Least a Double Fold](https://open.spotify.com/track/5MXEtN3vIrRzZHjnR9FAkM) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI) | [At Least a Double Fold](https://open.spotify.com/album/7KvPRMY4Ds9Q4M0sl4vlZR) | 3:27 | 2022-02-11 | 2022-07-18 |
-| [Aurora](https://open.spotify.com/track/7mqfcqAl6KdHv3Hk6iVILJ) | [Leif Maine](https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Volte\-Face](https://open.spotify.com/album/42Zh1ftsN4bR2zwJXEtCoE) | 2:42 | 2024-09-05 |  |
+| [Aurora](https://open.spotify.com/track/7mqfcqAl6KdHv3Hk6iVILJ) | [Leif Maine](https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Volte\-Face](https://open.spotify.com/album/42Zh1ftsN4bR2zwJXEtCoE) | 2:42 | 2024-09-05 | 2025-03-04 |
 | [Automaton](https://open.spotify.com/track/0Kc1jnf1LPo04Jc8hLADFt) | [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F), [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Automaton](https://open.spotify.com/album/6JLTZDZtdxDuSyIoFmgB6Y) | 4:15 | 2023-05-12 | 2023-07-09 |
 | [avery](https://open.spotify.com/track/6eGEc1s8krSYpJdvyFR2TY) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [avery](https://open.spotify.com/album/0KgMudHwHfZcI2E9NFjHXK) | 2:30 | 2021-12-17 | 2022-07-29 |
 | [Awake Indigo](https://open.spotify.com/track/49NJZmQXQKBCK3ZHUP7Uaz) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Ruby Wood](https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK) | [Strange Beauty](https://open.spotify.com/album/6B6gOrixifjbpJ8oLOIB6X) | 4:23 | 2022-02-04 | 2022-07-17 |
@@ -402,7 +402,7 @@
 | [Much Better \(Suitcase\)](https://open.spotify.com/track/3zNK6buz7vo1Kkp0yGCbES) | [Halfpenny](https://open.spotify.com/artist/5VjfZxLgu20M5RiLtSn8q3) | [Much Better \(Suitcase\)](https://open.spotify.com/album/4uPaDfrZnYmcvxMCGzH2vN) | 5:12 | 2022-03-08 | 2022-04-18 |
 | [My Life \(feat\. James Coleman\)](https://open.spotify.com/track/3b4LQJFtUKK1Ax947YouHl) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [James Coleman](https://open.spotify.com/artist/5WOmgJ1aLsF878tbEMpSD9) | [My Life \(feat\. James Coleman\)](https://open.spotify.com/album/3nXnB05LKorXxehY5QevoA) | 7:47 | 2021-12-17 | 2022-07-29 |
 | [My Love](https://open.spotify.com/track/0xV9H4ED3bpdTQwYLy75D0) | [Hagan](https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU), [Meron T](https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb) | [My Love](https://open.spotify.com/album/1iOsZjDI58pcyADCBrk1gJ) | 4:27 | 2022-09-16 | 2022-10-15 |
-| [My Type](https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [My Type](https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl) | 3:52 | 2024-07-18 | 2024-11-22 |
+| [My Type](https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [My Type](https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl) | 3:52 | 2024-07-18 |  |
 | [Mystics \(feat\. Venna\) \- Live at Joshua Tree](https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC) | 3:47 | 2023-11-17 | 2024-04-12 |
 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-08-18 | 2023-03-12 |
 | [N29](https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 3:22 | 2024-10-03 | 2025-02-21 |

@@ -490,7 +490,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 68433,
       "name": "Be Rahmet Rabenna",
       "url": "https://open.spotify.com/track/2y4MZpQqbiBBhlz7ggvKb9"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 77709,
       "name": "Kullo Al Qoloub",
       "url": "https://open.spotify.com/track/6jFuWfc79CIl8qJ2c5H2dv"
@@ -1112,6 +1112,24 @@
       "duration_ms": 391456,
       "name": "Madad - Nasimi Arabic Version",
       "url": "https://open.spotify.com/track/1KKNAcJNtdBrOM1TbN0ls6"
+    },
+    {
+      "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/0hZwt0aSEEiwUByVQuxntK"
+      },
+      "artists": [
+        {
+          "name": "Maher Zain",
+          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292066,
+      "name": "Mawlaya",
+      "url": "https://open.spotify.com/track/6u2hOGlFVf1pxMsixyLkxb"
     },
     {
       "album": {
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 228351,
       "name": "Salla Alayka Rahman",
       "url": "https://open.spotify.com/track/2JVRBAOAXAcNM21EyziBLj"

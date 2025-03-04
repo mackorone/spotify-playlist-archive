@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: Lindsay Chia, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,945 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,935 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Female YN Flow](https://open.spotify.com/track/1ElfB9M3yEz07Yvwa0AeIX) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Female YN Flow](https://open.spotify.com/album/1cYSZYewosaVkAKLTU0iBw) | 2:05 |
 | 100 | [Work It Out](https://open.spotify.com/track/5E2ICBHVmUSuVyyXUF3U9l) | [Ania Hoo](https://open.spotify.com/artist/141bAnJhsORNsCW1biNRvL) | [VENUS](https://open.spotify.com/album/5O2sbFlZjkt6dvxdHWVyUm) | 2:38 |
 
-Snapshot ID: `Z8DFHwAAAACXCrABhlQXpy+THGPoSfAx`
+Snapshot ID: `Z8DFHwAAAAAFcoZCOwu4swpysoR3WPUa`

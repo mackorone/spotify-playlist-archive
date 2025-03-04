@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Gloomie
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,527 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,538 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Last To Admit](https://open.spotify.com/track/3aqkLgX6Xoyjga2EOEQiRW) | [Lottie](https://open.spotify.com/artist/4E6BZQvE45nfy5h60pYFBn) | [Last To Admit](https://open.spotify.com/album/6whiCHI626WN822V20t77T) | 3:32 |
 | 100 | [SCREWDRIVA](https://open.spotify.com/track/15R1h4OhjHDcIkz4WSTaMh) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [SCREWDRIVA](https://open.spotify.com/album/7yTAO0STY56zMRXPJsxINA) | 3:02 |
 
-Snapshot ID: `Z72+5gAAAABTuFvJBo9qXILTTUzdsPjr`
+Snapshot ID: `Z72+5gAAAAAURjeZNheu9UXBHKnXWJGh`

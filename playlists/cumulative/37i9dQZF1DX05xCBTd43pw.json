@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 170146,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC"
@@ -1508,6 +1508,28 @@
       "duration_ms": 201255,
       "name": "Home - The Voice Of Switzerland",
       "url": "https://open.spotify.com/track/1VZXG6QgMBOgyxtkTflRM7"
+    },
+    {
+      "album": {
+        "name": "February",
+        "url": "https://open.spotify.com/album/1aS4Ymw0GPsZI5sASa0Bq1"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        },
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131528,
+      "name": "Honolulu",
+      "url": "https://open.spotify.com/track/5pW5kURQgNzOgNLtYBhFxh"
     },
     {
       "album": {

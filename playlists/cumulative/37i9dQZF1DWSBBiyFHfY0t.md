@@ -2,7 +2,7 @@
 
 ### [Frolic](https://open.spotify.com/playlist/37i9dQZF1DWSBBiyFHfY0t)
 
-> For frolicking joyously, freely and theatrically in this world.
+> For frolicking joyously, freely and theatrically in this world\. Cover: TLDP at The BRITs 2025
 
 113 songs - 7 hr 7 min
 

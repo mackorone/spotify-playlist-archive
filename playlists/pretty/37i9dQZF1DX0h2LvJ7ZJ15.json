@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1488920,
+  "num_followers": 1489278,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
+        "name": "Daylight (Reimagined)",
+        "url": "https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "Daylight - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/0hy0avC3ZHXuSmob8ymMXD"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
         "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
         "url": "https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 83576,
       "name": "MONTAGEM - PR FUNK - Slowed & Reveerb",
       "url": "https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
-        "name": "Daylight (Reimagined)",
-        "url": "https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "Daylight - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/0hy0avC3ZHXuSmob8ymMXD"
     },
     {
       "added_at": "2024-05-24 04:38:40",

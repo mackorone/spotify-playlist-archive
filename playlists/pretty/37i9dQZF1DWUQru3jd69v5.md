@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > SaintPaul in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,347 likes - 70 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,333 likes - 70 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 3 | [Marco e Margherita](https://open.spotify.com/track/5tfTI5Wy3iokCfEm9m8Kme) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT) | [Marco e Margherita](https://open.spotify.com/album/1cOaVZzdbIvm25zJrp5gia) | 2:36 |
 | 4 | [KETCH](https://open.spotify.com/track/766LXUTL0IfWmgyvKj02LE) | [WhyTrevxr](https://open.spotify.com/artist/644fFvMFDTe89XjvV4u0kR) | [KETCH](https://open.spotify.com/album/208yefzFNhC8rZeUdb5o9P) | 1:34 |
 | 5 | [Input \(feat\. Astro\)](https://open.spotify.com/track/5Z7F5RYpM15OVIR8LrjHeS) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO), [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [PER LA GLORIA](https://open.spotify.com/album/38LERft8hsVwW04qXYmOf5) | 2:50 |
-| 6 | [CONTALI](https://open.spotify.com/track/3lLS7eOIc0EmvAUN3xkKcD) | [Coco93](https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf), [Keyone](https://open.spotify.com/artist/2TkKn78OSOnL27lul8B6Kx) | [CONTALI](https://open.spotify.com/album/3NVEQxGmIqfWwoWGzFihCj) | 2:03 |
+| 6 | [CONTALI](https://open.spotify.com/track/3lLS7eOIc0EmvAUN3xkKcD) | [Coco93](https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf) | [CONTALI](https://open.spotify.com/album/3NVEQxGmIqfWwoWGzFihCj) | 2:03 |
 | 7 | [Pronto](https://open.spotify.com/track/0SQPprghGodZN7XxalqzDy) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Pronto](https://open.spotify.com/album/2XWhhI9IuTS9cm7TtvivdD) | 2:04 |
 | 8 | [Stellina](https://open.spotify.com/track/59ToSWwKmlwI6TIgZkw60M) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Stellina](https://open.spotify.com/album/5IKV5k9xXPyN1siJYoX3ku) | 3:02 |
 | 9 | [FENOMENO](https://open.spotify.com/track/1bXj6bnP3GjzFBi6GfKnym) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [FENOMENO](https://open.spotify.com/album/5mI1urp2LXNSx0KAJOpTS2) | 3:31 |

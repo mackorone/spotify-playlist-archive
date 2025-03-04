@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Los Hijos de García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,314 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,419 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [La Vida Es Un Juego](https://open.spotify.com/track/19f1DwILx7UIS8hVAFXM5q) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Corridos Metafísicos](https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw) | 2:51 |
 | 75 | [Blackjack](https://open.spotify.com/track/21u72Pe9uaOlLOhk6LGkcf) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Blackjack](https://open.spotify.com/album/4meU6vwQy6izFIInCZTPOm) | 2:53 |
 
-Snapshot ID: `Z8FQ4QAAAAABeK9M6rs9s4pabdTefSSw`
+Snapshot ID: `Z8FQ4QAAAACOJ0cf8rk8TRFJzrZxD0nz`

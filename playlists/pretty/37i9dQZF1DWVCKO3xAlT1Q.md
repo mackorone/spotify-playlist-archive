@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2025 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060,283 likes - 24 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,060,389 likes - 24 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 23 | [Run With U](https://open.spotify.com/track/4NdNOrfHfNIprOJ3Uq1l43) | [Mamagama](https://open.spotify.com/artist/7rAUDsrUfeAnDw8ubOPh2W) | [Run With U](https://open.spotify.com/album/7cqQuVvLZ1wiw4l372uPMU) | 3:03 |
 | 24 | [Mila](https://open.spotify.com/track/30ivP0TxQ9owZotAbhbiGt) | [Princ](https://open.spotify.com/artist/06NQCNZajDFb15rJLcotRc) | [Mila](https://open.spotify.com/album/0mOdQScFDTA144bk5nt8AX) | 2:57 |
 
-Snapshot ID: `Z8QDxgAAAAChmpRKgJWgJNrUaqkUjfPN`
+Snapshot ID: `Z8QDxgAAAABKyM1/X9iDuoBjQnrAXF16`

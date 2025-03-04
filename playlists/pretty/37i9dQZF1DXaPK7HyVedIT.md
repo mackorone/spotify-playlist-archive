@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz, Rooftime
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,327 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,335 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 74 | [coca](https://open.spotify.com/track/2J6xmGcSPDHl6cG02zbxl0) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [coca](https://open.spotify.com/album/2KB1lo0690KCVimTNzJWF1) | 3:21 |
 | 75 | [Sinergia](https://open.spotify.com/track/1jAAv68G63cvQJKfwlOqtJ) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Sinergia](https://open.spotify.com/album/4eRkKoh1huliKOC9clcgcv) | 2:48 |
 
-Snapshot ID: `Z8Hu6AAAAABeATt65Dm+eccKCHjHwxla`
+Snapshot ID: `Z8Hu6AAAAABKKvoMWuof8mPRGE84rPJ9`

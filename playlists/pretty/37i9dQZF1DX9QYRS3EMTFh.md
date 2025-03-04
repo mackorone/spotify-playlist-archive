@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Maureen x Blaiz Fayah
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,823 likes - 40 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,883 likes - 40 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Lajol](https://open.spotify.com/track/16ljuzPM0hfUTW8SalghpZ) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Lajol](https://open.spotify.com/album/7dvPfbZpyEAPlzYQXWbVVp) | 1:55 |
 | 40 | [Elle](https://open.spotify.com/track/3RHJUXBNxOHdfOG9xYSTt1) | [K\-Rosif](https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV) | [Elle](https://open.spotify.com/album/06ZzrqTvbYZhNQdPDvTaVp) | 2:26 |
 
-Snapshot ID: `Z8DujwAAAABpqyHecYrrP7HBkd4/pbQO`
+Snapshot ID: `Z8DujwAAAAB8IDhFkOXpJP7xSnwC9R6f`

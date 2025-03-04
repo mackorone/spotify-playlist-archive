@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,222 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,236 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,17 +45,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 35 | [PadaMu Kubersujud \- Religi Islam](https://open.spotify.com/track/7zEfPbCxwSJXB4DGDBOrjc) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [PadaMu Kubersujud \(Religi Islam\)](https://open.spotify.com/album/3WbSafPqolU1eH5O38cBuL) | 3:24 |
 | 36 | [bagai bintang bulan](https://open.spotify.com/track/6pk0iPvgjY4zLlVVcAh153) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [2016](https://open.spotify.com/album/3nrEhteC4SHPiLCSHvod71) | 4:42 |
 | 37 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
-| 38 | [Hal Hebat](https://open.spotify.com/track/7JL2BYNeSbvaom6vk1ktij) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Hal Hebat \(Cover\)](https://open.spotify.com/album/3uokqKRBBG16lrgwUNVIO0) | 5:19 |
-| 39 | [KuasaMu](https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [KuasaMu](https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE) | 3:54 |
-| 40 | [Mengejar Matahari](https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Mengejar Matahari](https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U) | 4:07 |
-| 41 | [Bismillah Cinta](https://open.spotify.com/track/42OdOz68Ti3lKXVNcHZtxb) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bismillah Cinta](https://open.spotify.com/album/6cQPu618zKobCABvuqBLbs) | 4:03 |
+| 38 | [KuasaMu](https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [KuasaMu](https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE) | 3:54 |
+| 39 | [Hal Hebat](https://open.spotify.com/track/7JL2BYNeSbvaom6vk1ktij) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Hal Hebat \(Cover\)](https://open.spotify.com/album/3uokqKRBBG16lrgwUNVIO0) | 5:19 |
+| 40 | [Bismillah Cinta](https://open.spotify.com/track/42OdOz68Ti3lKXVNcHZtxb) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bismillah Cinta](https://open.spotify.com/album/6cQPu618zKobCABvuqBLbs) | 4:03 |
+| 41 | [Mengejar Matahari](https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Mengejar Matahari](https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U) | 4:07 |
 | 42 | [Masa Depan](https://open.spotify.com/track/6ZWRvS1VpmqA2ap3bMI4dY) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Masa Depan](https://open.spotify.com/album/649hYz14PcCd78FLTC84mb) | 3:47 |
 | 43 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 |
 | 44 | [Ku Mohon](https://open.spotify.com/track/6ZypUMclVIm3YziM9cDCVR) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ku Mohon](https://open.spotify.com/album/5maxDRWhSlXbln4effsPPD) | 4:37 |
 | 45 | [Sahabat](https://open.spotify.com/track/1Akc1GcXsLGa8SLSJw4zUU) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Sahabat \- Single](https://open.spotify.com/album/65fwfs24nGOQu5YGh4SSzz) | 3:08 |
 | 46 | [Ikhlas](https://open.spotify.com/track/56UcBDMGMiDzbLilbuddxM) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU), [Nissa Sabyan](https://open.spotify.com/artist/58FxAw8gQz34r2lewLrFZU), [Taufik Batisah](https://open.spotify.com/artist/2lUOtL7ynpi6qacshqiA5m) | [Ikhlas](https://open.spotify.com/album/71plkNyCVZxYzRX2vaBshv) | 4:00 |
-| 47 | [SurgaMu](https://open.spotify.com/track/32esdG9DqNblHD4iUKazgc) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Top Hits Religi UNGU](https://open.spotify.com/album/5LUvKmNlUENvnHrqDW4Xqn) | 4:18 |
-| 48 | [Bila Kemarin](https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR) | [Bila Kemarin](https://open.spotify.com/album/31Hr5swnJx4Lr5Ppu2vObe) | 3:03 |
+| 47 | [Bila Kemarin](https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR) | [Bila Kemarin](https://open.spotify.com/album/31Hr5swnJx4Lr5Ppu2vObe) | 3:03 |
+| 48 | [SurgaMu](https://open.spotify.com/track/32esdG9DqNblHD4iUKazgc) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Top Hits Religi UNGU](https://open.spotify.com/album/5LUvKmNlUENvnHrqDW4Xqn) | 4:18 |
 | 49 | [Lagu Untuk Hari Ini](https://open.spotify.com/track/18FWPrC6EO02vBKI29F1N9) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Lagu Untuk Hari Ini](https://open.spotify.com/album/7Kp8QzGujjdNQdYFrPCKwf) | 3:38 |
 | 50 | [Mata Hati Telinga](https://open.spotify.com/track/0CflRiqtl8oVKuvscVgy6F) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Mata Hati Telinga](https://open.spotify.com/album/1DynZXJq0QLlWT4LYLBDxC) | 4:27 |
 

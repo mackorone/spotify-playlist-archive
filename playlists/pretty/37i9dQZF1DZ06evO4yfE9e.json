@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2186,
+  "num_followers": 2189,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8JOAAAAAAD5dja5Xg8XORnfc3ZA3J7H",
+  "snapshot_id": "Z8OfgAAAAABR0JmnOECT4MLGjAcvRTK1",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mozart",
-        "url": "https://open.spotify.com/album/4dWzLbeZF84liXgNUEJiRn"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 97272,
-      "name": "Mozart",
-      "url": "https://open.spotify.com/track/3MMDi1qBwOB8Zq6l5Hbhdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRACE",
         "url": "https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 224541,
       "name": "Praise",
       "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/4dWzLbeZF84liXgNUEJiRn"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 97272,
+      "name": "Mozart",
+      "url": "https://open.spotify.com/track/3MMDi1qBwOB8Zq6l5Hbhdh"
     },
     {
       "added_at": null,

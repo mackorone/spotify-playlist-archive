@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 
 > Tutti i brani in gara a Sanremo Giovani 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,893 likes - 26 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,900 likes - 26 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 | 25 | [Se fossi felice](https://open.spotify.com/track/7IOnuW5JgEr3Amkfdhnn08) | [Sea John](https://open.spotify.com/artist/4ac42KSaxzBjIzXsRZ0kw4) | [Se fossi felice](https://open.spotify.com/album/2NLv9mwVTSKZplm6EmyJZx) | 3:31 |
 | 26 | [TRINACRIA](https://open.spotify.com/track/4hOHbdp6d2YcYKcUFNdsHv) | [Moska Drunkard](https://open.spotify.com/artist/3XCxWOrknPlwIWghiIAACI), [Giordan](https://open.spotify.com/artist/6se3eQdBHUIz6PrFishR3E), [LaVavolo](https://open.spotify.com/artist/04HQPqAWLdHEAFgmU6MlZD) | [TRINACRIA](https://open.spotify.com/album/1ieARvtVA2i94gdvRtctfR) | 2:46 |
 
-Snapshot ID: `Z6rZtwAAAAAGdhjPT+5OjNjbPoCEb7pp`
+Snapshot ID: `Z6rZtwAAAAA0L6sQADnba1WZ/kMm4y1y`

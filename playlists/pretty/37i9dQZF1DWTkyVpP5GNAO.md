@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Barak
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,335 likes - 75 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,468 likes - 75 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 16 | [Toda lengua y toda nación](https://open.spotify.com/track/7peTmtAnLDHaraSDxe2tS4) | [TOMATULUGAR](https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Jan Earle](https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N) | [Toda lengua y toda nación](https://open.spotify.com/album/7lD9VJb44DRilryE9jY0ys) | 7:06 |
 | 17 | [Libre \- Versión Español](https://open.spotify.com/track/3CRtdQVwTgWs0D9Nwfqlm8) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Cales Louima](https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP) | [Libre \(Versión Español\)](https://open.spotify.com/album/6WGjrHQ1DU491pVUPT5anm) | 4:19 |
 | 18 | [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 |
-| 19 | [Al Estar Aquí](https://open.spotify.com/track/2fmfXlSSXJWxDVhZn3snuk) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [TAYA](https://open.spotify.com/artist/3BSxwiVD3Pw2Vw8edigkHE) | [Al Estar Aquí](https://open.spotify.com/album/2ctVrNinE7Ix0EC5i3Z7j6) | 4:12 |
+| 19 | [Al Estar Aquí](https://open.spotify.com/track/2fmfXlSSXJWxDVhZn3snuk) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Al Estar Aquí](https://open.spotify.com/album/2ctVrNinE7Ix0EC5i3Z7j6) | 4:12 |
 | 20 | [La Gloria de Dios](https://open.spotify.com/track/0FdSlQwlCWyQkf3NmO5TIa) | [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l) | [La Gloria de Dios](https://open.spotify.com/album/45PuiNYqTXdVOZgrwnU5JA) | 5:10 |
 | 21 | [No Nos Callaremos](https://open.spotify.com/track/3S2RAv4Cd4vcXMZIjtAkU1) | [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Revive \(Spanish Version\)](https://open.spotify.com/album/2FSUcDiAhV0xtPDgznZktw) | 4:27 |
 | 22 | [Tan Tan Bueno](https://open.spotify.com/track/4t7XGKYW4GX0QGyizFfSCr) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Tan Tan Bueno](https://open.spotify.com/album/24WMh1cv0pHkXDybeLznOM) | 7:28 |

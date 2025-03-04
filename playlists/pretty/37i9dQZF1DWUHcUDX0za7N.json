@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Pretty Boy D-O",
-  "num_followers": 59761,
+  "num_followers": 59793,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -79,26 +79,18 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "JUJU (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+        "name": "Laho",
+        "url": "https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ"
       },
       "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
         {
           "name": "Shallipopi",
           "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 157756,
-      "name": "JUJU (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
+      "duration_ms": 144000,
+      "name": "Laho",
+      "url": "https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -123,18 +115,26 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "Laho",
-        "url": "https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ"
+        "name": "JUJU (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
       "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
         {
           "name": "Shallipopi",
           "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Laho",
-      "url": "https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy"
+      "duration_ms": 157756,
+      "name": "JUJU (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
     },
     {
       "added_at": "2025-02-28 09:01:02",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
-        "name": "Bhad Boi",
-        "url": "https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Chocolate & Caramel",
-      "url": "https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
         "name": "Xistence.",
         "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 98964,
       "name": "flavor.",
       "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
+        "name": "Bhad Boi",
+        "url": "https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Chocolate & Caramel",
+      "url": "https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -1021,6 +1021,26 @@
       "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
     },
     {
+      "added_at": "2025-02-28 09:01:02",
+      "album": {
+        "name": "The Big 6",
+        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "NFA (Feat. Phyno)",
+      "url": "https://open.spotify.com/track/33fmrAzAiCFBKO7ktWWWwc"
+    },
+    {
       "added_at": "2025-02-24 12:38:01",
       "album": {
         "name": "AMERICA",
@@ -1079,26 +1099,6 @@
       "duration_ms": 186191,
       "name": "Accidentally (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
-    },
-    {
-      "added_at": "2025-02-28 09:01:02",
-      "album": {
-        "name": "The Big 6",
-        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "NFA (Feat. Phyno)",
-      "url": "https://open.spotify.com/track/33fmrAzAiCFBKO7ktWWWwc"
     },
     {
       "added_at": "2025-02-24 12:38:01",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2025-02-24 12:38:01",
       "album": {
+        "name": "Warning!",
+        "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 164827,
+      "name": "Warning!",
+      "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
+    },
+    {
+      "added_at": "2025-02-24 12:38:01",
+      "album": {
         "name": "Confirm Parole",
         "url": "https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 209738,
       "name": "Gbege",
       "url": "https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG"
-    },
-    {
-      "added_at": "2025-02-24 12:38:01",
-      "album": {
-        "name": "Warning!",
-        "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
-      },
-      "artists": [
-        {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 164827,
-      "name": "Warning!",
-      "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
     },
     {
       "added_at": "2025-02-24 12:38:01",

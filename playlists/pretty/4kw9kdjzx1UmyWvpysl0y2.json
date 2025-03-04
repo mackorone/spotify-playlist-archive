@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125414,
+  "num_followers": 125410,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATvbt+bHdawGHD/a11RtwbPz4TXmeq",
+  "snapshot_id": "AAATvwpWqgA3W1NDrwkx7u/dBewFNDMr",
   "tracks": [
+    {
+      "added_at": "2025-03-03 14:48:52",
+      "album": {
+        "name": "WONKY",
+        "url": "https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "duration_ms": 172682,
+      "name": "WONKY",
+      "url": "https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw"
+    },
     {
       "added_at": "2025-02-28 15:31:03",
       "album": {
@@ -1175,46 +1195,6 @@
       "duration_ms": 179468,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5oGYQBgAZHvdAaWTw59eWb"
-    },
-    {
-      "added_at": "2024-11-25 13:08:41",
-      "album": {
-        "name": "S.O.S",
-        "url": "https://open.spotify.com/album/0z7xVubreIoeySVXQuAPN3"
-      },
-      "artists": [
-        {
-          "name": "Andrea Botez",
-          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
-        },
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 206498,
-      "name": "S.O.S",
-      "url": "https://open.spotify.com/track/6GILOzBgkTHtyinx0SvI4r"
-    },
-    {
-      "added_at": "2024-11-22 12:42:59",
-      "album": {
-        "name": "SWEAT!",
-        "url": "https://open.spotify.com/album/3cKyGMHm0XKQN5Bvx4l0Vu"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        }
-      ],
-      "duration_ms": 159103,
-      "name": "SWEAT!",
-      "url": "https://open.spotify.com/track/6Qab7nnQ1JLtpvSvkzB07q"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Samantha Barrón & Leonel García
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,073 likes - 170 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,097 likes - 170 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

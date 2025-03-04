@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > ouro no pescoço tb ouro no dente, 22 é o vulgo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,995 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,943 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [ESPAÇONAVE](https://open.spotify.com/track/4pwKy99a1IhAwjekz8Zf0c) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [CEO](https://open.spotify.com/album/5AuY1calKQYOa9JBEicUoW) | 3:39 |
 | 55 | [Bag](https://open.spotify.com/track/56wZGer3DfhZXC6v30Ya1w) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Cassin](https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Bag](https://open.spotify.com/album/4qvdAVnIVYQ82Gl7l4OpeP) | 3:44 |
 
-Snapshot ID: `Z8I1lQAAAACQHTNV5y4kUGzEdUAVTL2u`
+Snapshot ID: `Z8I1lQAAAADSsiJQTbWBc7P2jpue00qG`

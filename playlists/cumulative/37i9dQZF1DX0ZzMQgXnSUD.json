@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\"Bond... James Bond.\" Cover: Doja Cat ",
+  "description": "Shaken, not stirred... Cover: Doja Cat",
   "name": "Best of Bond",
   "tracks": [
     {
@@ -377,6 +377,28 @@
     },
     {
       "album": {
+        "name": "All The Best (UK Version)",
+        "url": "https://open.spotify.com/album/0jXLd4eGxSh8TIGEdRbdH4"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Live And Let Die - Main Title",
+      "url": "https://open.spotify.com/track/2cHbN7OosXb4pA20G9Jcyg"
+    },
+    {
+      "album": {
         "name": "Wings Greatest",
         "url": "https://open.spotify.com/album/7vvo1go8wl2NEmvcvjE4Dh"
       },
@@ -388,7 +410,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 191426,
       "name": "Live And Let Die - Remastered 1993",
       "url": "https://open.spotify.com/track/6Z1zJjEXLrszqTPol6bfFV"

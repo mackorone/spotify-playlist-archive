@@ -2417,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "Downtown Atlanta",
+        "url": "https://open.spotify.com/album/5PaDg1Jv4obLLefdTowTpP"
+      },
+      "artists": [
+        {
+          "name": "Ilse Fisher",
+          "url": "https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Downtown Atlanta",
+      "url": "https://open.spotify.com/track/1UgnRdxDACdfP5AlYKNArY"
+    },
+    {
+      "album": {
         "name": "Doyers Street",
         "url": "https://open.spotify.com/album/5KGaVLyPCekCDxkeq3vnIk"
       },
@@ -3587,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "Good Night My Love",
+        "url": "https://open.spotify.com/album/1XRcJXl7Vog98zHq8YI1Q1"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192129,
+      "name": "Good Night My Love",
+      "url": "https://open.spotify.com/track/2eFOwHmDqSq3CCGG6pdpjB"
+    },
+    {
+      "album": {
         "name": "Midnight Solo Sessions",
         "url": "https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV"
       },
@@ -4624,7 +4660,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 173709,
       "name": "I've got a crush on you",
       "url": "https://open.spotify.com/track/2xXLKAXQHnr3sBg37JvqWZ"
@@ -5776,7 +5812,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 149377,
       "name": "Let's Stay In",
       "url": "https://open.spotify.com/track/2ztch9UdIaDbUjnBkSLQMs"
@@ -5906,6 +5942,24 @@
       "duration_ms": 177278,
       "name": "Long Ago And Far Away",
       "url": "https://open.spotify.com/track/17lWkPWGTjin8gQ85FGQer"
+    },
+    {
+      "album": {
+        "name": "Look at the Moon",
+        "url": "https://open.spotify.com/album/1yAUVbxGkA3JqvijlHPmtW"
+      },
+      "artists": [
+        {
+          "name": "Portiere Woodtar",
+          "url": "https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168966,
+      "name": "Look at the Moon",
+      "url": "https://open.spotify.com/track/50UZdAaPu71v0haQr2vLKg"
     },
     {
       "album": {
@@ -6136,7 +6190,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 147856,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6flWLUPwiaN9FkPm6CVzZz"
@@ -6766,7 +6820,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 170620,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/16ux8DXCSRapY8mxHavplM"
@@ -7666,7 +7720,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 193000,
       "name": "Peace",
       "url": "https://open.spotify.com/track/5TbGgNC1yyV9NGEQqA9myW"
@@ -8462,7 +8516,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 197382,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0I4fzEcHoiQTuvWw928Z6C"
@@ -9812,7 +9866,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 129959,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT"
@@ -11252,7 +11306,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 190466,
       "name": "Winter love",
       "url": "https://open.spotify.com/track/73psKdGPhTArtQyovKbyhO"

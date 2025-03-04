@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,056 likes - 199 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,121 likes - 199 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 198 | [Poolside](https://open.spotify.com/track/7MwdpC8XHqrQuk8PZS0H7t) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Poolside](https://open.spotify.com/album/6ZNvoxhhS4FY1nTZg1OpAj) | 2:54 |
 | 199 | [Nomade](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [Nomade](https://open.spotify.com/album/7B1MFYFEIxirQuLFahhqmC) | 2:12 |
 
-Snapshot ID: `Z5emYgAAAAAHKFcreQc5sieM/c8VoolS`
+Snapshot ID: `Z5emYgAAAACIu5xzyR8Uu1/u055Nhxzp`

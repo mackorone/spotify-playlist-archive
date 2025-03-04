@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : USKY
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,710 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,706 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [LA GESTION](https://open.spotify.com/track/68Dm47Jv9FiT303iGfqKdN) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk) | [LA GESTION](https://open.spotify.com/album/1dXoX8jcqow1DvRZ9qXXHZ) | 2:27 |
 | 40 | [ENDIABLÉ](https://open.spotify.com/track/2KiWTROXdDLUjhrbswMfT1) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [ENDIABLÉ](https://open.spotify.com/album/4b6DIlesckixl2tPq7NLoy) | 2:59 |
 
-Snapshot ID: `Z8DuiwAAAAAZIOuDYTcrWZajYgM5Nl/G`
+Snapshot ID: `Z8DuiwAAAADZBXfXidmzchUVZSjc5qOT`

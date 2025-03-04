@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: ONE OK ROCK
 
-1,522 songs - 3 day 15 hr 25 min
+1,523 songs - 3 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,7 +985,7 @@
 | [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-06-01 | 2023-06-05 |
 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 | 2024-12-05 | 2025-02-12 |
 | [Oslo \(feat\. Démira\)](https://open.spotify.com/track/6jwgHppeFp9IIr7f1AySJs) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Race the Night](https://open.spotify.com/album/5TmUKuohnkb7ndRNKdCgBE) | 4:29 | 2023-09-15 | 2023-09-22 |
-| [Other People](https://open.spotify.com/track/3P1kMuiZGH7dTItGObGKTA) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Other People](https://open.spotify.com/album/75L5T6Dt03DU6dowoKX5v0) | 3:37 | 2024-09-05 |  |
+| [Other People](https://open.spotify.com/track/3P1kMuiZGH7dTItGObGKTA) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Other People](https://open.spotify.com/album/75L5T6Dt03DU6dowoKX5v0) | 3:37 | 2024-09-05 | 2025-03-04 |
 | [Our World](https://open.spotify.com/track/5nPryXH2QLYZgtUs1iyF31) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Our World](https://open.spotify.com/album/7fhagsTbXxAqAXFJ6PQuPO) | 4:16 | 2024-02-29 | 2024-04-12 |
 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 | 2024-02-29 | 2024-05-10 |
 | [Out of Here](https://open.spotify.com/track/3B2yKoPSPTpJMkeWkKKBEI) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Out of Here](https://open.spotify.com/album/0KsIXZG5hCdJvd9OAaxrNU) | 3:30 | 2023-09-07 | 2023-09-15 |
@@ -1390,6 +1390,7 @@
 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-05-18 | 2023-10-13 |
 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 | 2023-09-21 | 2024-03-01 |
 | [Undergrowth](https://open.spotify.com/track/31zmH5Bcd0CDRxcdw2M23D) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Undergrowth](https://open.spotify.com/album/6stBQmw0qjPeRjLnvypEn7) | 6:35 | 2023-04-20 | 2023-04-28 |
+| [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-27 |  |
 | [Untidy Creature](https://open.spotify.com/track/5iFAQbY63p9Wbpc8XGU84a) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Untidy Creature](https://open.spotify.com/album/7iB1U6TK6DtjX7Jt69SEPB) | 3:28 | 2024-01-04 | 2024-01-12 |
 | [Up In The Sky \(Monnow Valley Version\)](https://open.spotify.com/track/09PXFjvDB0uB4jYEuu70N3) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Up In The Sky \(Monnow Valley Version\)](https://open.spotify.com/album/0aLybeSnxTwUCI1AB2pA9E) | 4:57 | 2024-07-18 | 2024-08-10 |
 | [Used To Care](https://open.spotify.com/track/0RKGd2KuowZbWOtTfVjl4s) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Used To Care](https://open.spotify.com/album/5pDbJPnDmvpm7oBNO8r1li) | 2:57 | 2024-01-04 | 2024-01-12 |

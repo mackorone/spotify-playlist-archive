@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Vacuous \| Artwork: Nejc Prah
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,607 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,651 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 59 | [Inquietude](https://open.spotify.com/track/1f3yvqRp7XQMFvk4pcbN2c) | [Tenue](https://open.spotify.com/artist/4lHTvhSBYET8vaavUNzps0) | [Arcos, bóvedas, pórticos](https://open.spotify.com/album/3nsJzjRfQRfWER2GWw5vy9) | 9:10 |
 | 60 | [Amputated Satisfaction](https://open.spotify.com/track/2lPS42gFcs8Sr3X91PGWFw) | [CRUCIFICTION](https://open.spotify.com/artist/1yf1dC29po0p4GRKzrcxGS) | [Will To Power](https://open.spotify.com/album/06wESQykn7vrMX6OsYIogr) | 3:24 |
 
-Snapshot ID: `Z76f2QAAAAACKeKnxwCIMAP+pfY87Tzx`
+Snapshot ID: `Z76f2QAAAAA+oqXABsZNBuT6u58UyAyY`

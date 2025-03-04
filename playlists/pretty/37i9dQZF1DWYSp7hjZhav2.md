@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,688 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,733 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 49 | [The Answer](https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 4:09 |
 | 50 | [Sentient](https://open.spotify.com/track/2b02PKAw1WU0W9RigoAP1Q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Sentient EP](https://open.spotify.com/album/5Nxfg3K5QxTGiHS1ky8cUS) | 4:34 |
 
-Snapshot ID: `Z6+uFgAAAACQvOOpyQuM3H6BaQFvYbbi`
+Snapshot ID: `Z6+uFgAAAAAA/ejdEjpmTu85HfBMPT2q`

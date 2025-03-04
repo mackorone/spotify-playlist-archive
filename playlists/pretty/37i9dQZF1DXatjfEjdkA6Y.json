@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: Sandie Shaw",
-  "num_followers": 4439,
+  "num_followers": 4441,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-05-05 17:23:47",
       "album": {
+        "name": "Lo Mejor de Jos\u00e9 Velez",
+        "url": "https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Velez",
+          "url": "https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Bailemos un Vals",
+      "url": "https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj"
+    },
+    {
+      "added_at": "2023-05-05 17:23:47",
+      "album": {
         "name": "Swiss Lady",
         "url": "https://open.spotify.com/album/033LXpLUFi89URJiEqc2qf"
       },
@@ -267,18 +283,18 @@
     {
       "added_at": "2023-05-05 17:23:47",
       "album": {
-        "name": "Lo Mejor de Jos\u00e9 Velez",
-        "url": "https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8"
+        "name": "Disco Tango [Remastered]",
+        "url": "https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Velez",
-          "url": "https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm"
+          "name": "Tommy Seebach",
+          "url": "https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Bailemos un Vals",
-      "url": "https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj"
+      "duration_ms": 170173,
+      "name": "Disco Tango",
+      "url": "https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj"
     },
     {
       "added_at": "2023-05-05 17:23:47",
@@ -295,22 +311,6 @@
       "duration_ms": 172240,
       "name": "Occhi di ragazza",
       "url": "https://open.spotify.com/track/1w7ID6DNVqWTkFigG5bHgE"
-    },
-    {
-      "added_at": "2023-05-05 17:23:47",
-      "album": {
-        "name": "Disco Tango [Remastered]",
-        "url": "https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY"
-      },
-      "artists": [
-        {
-          "name": "Tommy Seebach",
-          "url": "https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Disco Tango",
-      "url": "https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj"
     },
     {
       "added_at": "2023-05-05 17:23:47",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-05 17:23:47",
       "album": {
-        "name": "Tommy K\u00f6rberg - Judy min v\u00e4n (Remastered 2011)",
-        "url": "https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI"
-      },
-      "artists": [
-        {
-          "name": "Tommy K\u00f6rberg",
-          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
-        }
-      ],
-      "duration_ms": 140053,
-      "name": "Judy min v\u00e4n",
-      "url": "https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t"
-    },
-    {
-      "added_at": "2023-05-05 17:23:47",
-      "album": {
         "name": "16 Hits",
         "url": "https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 177293,
       "name": "Dansevise",
       "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
+    },
+    {
+      "added_at": "2023-05-05 17:23:47",
+      "album": {
+        "name": "Tommy K\u00f6rberg - Judy min v\u00e4n (Remastered 2011)",
+        "url": "https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI"
+      },
+      "artists": [
+        {
+          "name": "Tommy K\u00f6rberg",
+          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
+        }
+      ],
+      "duration_ms": 140053,
+      "name": "Judy min v\u00e4n",
+      "url": "https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t"
     },
     {
       "added_at": "2023-05-05 17:23:47",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-05-05 17:23:47",
       "album": {
-        "name": "Musik vi minns... / Lasse Berghagen",
-        "url": "https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH"
-      },
-      "artists": [
-        {
-          "name": "Lasse Berghagen",
-          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Jennie Jennie",
-      "url": "https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh"
-    },
-    {
-      "added_at": "2023-05-05 17:23:47",
-      "album": {
         "name": "nous les amoureux",
         "url": "https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 187106,
       "name": "Nous les amoureux",
       "url": "https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw"
+    },
+    {
+      "added_at": "2023-05-05 17:23:47",
+      "album": {
+        "name": "Musik vi minns... / Lasse Berghagen",
+        "url": "https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH"
+      },
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Jennie Jennie",
+      "url": "https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh"
     },
     {
       "added_at": "2023-05-05 17:23:47",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-05-05 17:23:47",
       "album": {
+        "name": "Golden Girls",
+        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
+      },
+      "artists": [
+        {
+          "name": "Silver Convention",
+          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Telegram",
+      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
+    },
+    {
+      "added_at": "2023-05-05 17:23:47",
+      "album": {
         "name": "Quelle merveille! (Remastered)",
         "url": "https://open.spotify.com/album/4dSUMxgJ3aJ2OrB2srxFm8"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-05-05 17:23:47",
       "album": {
-        "name": "Golden Girls",
-        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
+        "name": "40 A\u00f1os de No. 1 en Espa\u00f1ol : Los 50's, 60's, 70's y 80's",
+        "url": "https://open.spotify.com/album/4cuKRJ2hkJy13J7ml7NHu8"
       },
       "artists": [
         {
-          "name": "Silver Convention",
-          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
+          "name": "Micky",
+          "url": "https://open.spotify.com/artist/0etbSXXNUU5ryv8SxnYQht"
         }
       ],
-      "duration_ms": 183373,
-      "name": "Telegram",
-      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
+      "duration_ms": 207986,
+      "name": "Ense\u00f1ame a Cantar",
+      "url": "https://open.spotify.com/track/0U44GbCt9x8s7KW5VEVSV6"
     },
     {
       "added_at": "2023-05-05 17:23:47",
@@ -1107,22 +1123,6 @@
       "duration_ms": 166186,
       "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mej",
       "url": "https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl"
-    },
-    {
-      "added_at": "2023-05-05 17:23:47",
-      "album": {
-        "name": "40 A\u00f1os de No. 1 en Espa\u00f1ol : Los 50's, 60's, 70's y 80's",
-        "url": "https://open.spotify.com/album/4cuKRJ2hkJy13J7ml7NHu8"
-      },
-      "artists": [
-        {
-          "name": "Micky",
-          "url": "https://open.spotify.com/artist/0etbSXXNUU5ryv8SxnYQht"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Ense\u00f1ame a Cantar",
-      "url": "https://open.spotify.com/track/0U44GbCt9x8s7KW5VEVSV6"
     },
     {
       "added_at": "2023-05-05 17:23:47",

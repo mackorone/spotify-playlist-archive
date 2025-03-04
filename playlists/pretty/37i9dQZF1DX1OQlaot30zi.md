@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Flaco G, Shiva e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,787 likes - 120 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,791 likes - 120 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 7 | [FENOMENO](https://open.spotify.com/track/1bXj6bnP3GjzFBi6GfKnym) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [FENOMENO](https://open.spotify.com/album/5mI1urp2LXNSx0KAJOpTS2) | 3:31 |
 | 8 | [Stellina](https://open.spotify.com/track/59ToSWwKmlwI6TIgZkw60M) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Stellina](https://open.spotify.com/album/5IKV5k9xXPyN1siJYoX3ku) | 3:02 |
 | 9 | [L'Estremità del Cerchio \(feat\. Tormento\)](https://open.spotify.com/track/6suCH3IeVX9fO1ggKd73Vj) | [9ova](https://open.spotify.com/artist/40ScoYJJAlWfFVrBmIQvJO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [L'Estremità del Cerchio \(feat\. Tormento\)](https://open.spotify.com/album/1r0BwwNCGlbWBpM8yghDwy) | 2:10 |
-| 10 | [CONTALI](https://open.spotify.com/track/3lLS7eOIc0EmvAUN3xkKcD) | [Coco93](https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf), [Keyone](https://open.spotify.com/artist/2TkKn78OSOnL27lul8B6Kx) | [CONTALI](https://open.spotify.com/album/3NVEQxGmIqfWwoWGzFihCj) | 2:03 |
+| 10 | [CONTALI](https://open.spotify.com/track/3lLS7eOIc0EmvAUN3xkKcD) | [Coco93](https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf) | [CONTALI](https://open.spotify.com/album/3NVEQxGmIqfWwoWGzFihCj) | 2:03 |
 | 11 | [Orione](https://open.spotify.com/track/759gGga5QA0Ll9UJclJ98D) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO) | [PER LA GLORIA](https://open.spotify.com/album/38LERft8hsVwW04qXYmOf5) | 3:24 |
 | 12 | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw) | 2:50 |
 | 13 | [Diva](https://open.spotify.com/track/0AOZQM1yc4Mfh5B1myt7TF) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Diva](https://open.spotify.com/album/60xvbHHenIHXiHIUrQqmfF) | 2:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Despedimos a Paquita la del Barrio, ícono y referente mexa, te vamos a extrañar 🥺❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,862 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,909 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

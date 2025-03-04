@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-206 songs - 19 hr 23 min
+208 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Birth of Venus](https://open.spotify.com/track/2vPnvgESdFMTvMVVIwoRPs) | [disruption](https://open.spotify.com/artist/2JeB267MeU0Yo8QeclACpM) | [Abyss of Hell](https://open.spotify.com/album/6mlH1YFr7UF4C8G1Z7tlkE) | 5:54 | 2022-12-02 | 2023-01-28 |
 | [Blood Hound](https://open.spotify.com/track/0YtHhGMzyctGst9tY7QVOc) | [Milo Spykers](https://open.spotify.com/artist/3FGLVtY3sNKFgkkmQ05AXl) | [Belgian Bass EP](https://open.spotify.com/album/7wwQfDERvRZmYVbePr65NP) | 6:40 | 2022-12-02 | 2023-01-28 |
 | [BONZAI](https://open.spotify.com/track/0gDfZQksdHrXAQ3DE9wO0X) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [BONZAI](https://open.spotify.com/album/79l8b27ykmajDqCbVzcian) | 3:36 | 2023-10-06 |  |
-| [Breathe](https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Breathe](https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG) | 3:43 | 2024-03-22 |  |
+| [Breathe](https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Breathe](https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG) | 3:43 | 2024-03-22 | 2025-03-04 |
 | [Broken World](https://open.spotify.com/track/10prDqeTXIdBgd7sQq5XWz) | [SAMOH](https://open.spotify.com/artist/4PmjWX9nSc8SKi29i10Coi) | [ACID\-19](https://open.spotify.com/album/04RYU5wGgoFWFXBI9Jf5Wa) | 7:19 | 2023-10-06 |  |
 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 | 2023-10-06 | 2024-12-28 |
 | [Catch The Light](https://open.spotify.com/track/205tYWo8M6qvK3Sop2a1LY) | [TASSERY](https://open.spotify.com/artist/4ezVmV5ppzmFl5ypOJiCCY) | [Walking Alone In The Dark](https://open.spotify.com/album/55QHJxqz6cW0GVLBPfackX) | 6:30 | 2024-12-27 |  |
@@ -131,6 +131,7 @@
 | [MëLL \- I met SOPHIE in Berghain \- NTBR Remix](https://open.spotify.com/track/1vXSdZWevvjyqAv1lMc25p) | [NTBR](https://open.spotify.com/artist/1Ye4UZN2QjBlSyZF1Ts2CR) | [MëLL \- I met SOPHIE in Berghain \(NTBR Remix\)](https://open.spotify.com/album/1icfXeXiKrPPaWZlanXrTU) | 4:13 | 2023-01-27 | 2023-10-07 |
 | [Naked Light](https://open.spotify.com/track/1bK4zhjl3OpDEpP6BkFY98) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU) | [Blesssed](https://open.spotify.com/album/5uuW7OVeTJ82at4DTbq69d) | 4:42 | 2023-06-02 | 2023-10-07 |
 | [Nasty Boys](https://open.spotify.com/track/2Riv1HOSR9JMjoBUHLU5wZ) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Nasty Boys](https://open.spotify.com/album/1uO278F0iznhGFJhWZa3wg) | 6:41 | 2023-01-27 | 2023-10-07 |
+| [No Lover](https://open.spotify.com/track/5su8Hl3YmYuiirnAptsYOI) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [No Lover](https://open.spotify.com/album/3qSZoTiOsJFTgtpQXrYoOU) | 2:22 | 2025-03-03 |  |
 | [No Sleep](https://open.spotify.com/track/4qCw12VA1ghMYBH78mWQKE) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [No Sleep](https://open.spotify.com/album/0zqtGVtrcM2qNxWY1U2WPu) | 5:51 | 2022-12-02 | 2023-10-07 |
 | [NRG](https://open.spotify.com/track/4OCAw0wZ9wDemyYdUIZKFv) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz) | [Chippy Nonstop & dj genderfluid](https://open.spotify.com/album/3Vhrt89XhIFEKsRGnZldYF) | 3:41 | 2023-06-02 | 2023-10-07 |
 | [Oboro](https://open.spotify.com/track/0QSO7rn7YAzEpgtzCI8oow) | [Marcal](https://open.spotify.com/artist/6XVtxL4WRwoEqB1BpLel6y) | [Time is What a Clock Reads](https://open.spotify.com/album/1UVLwXf3K1mu3pNIvezxQf) | 5:35 | 2022-12-02 | 2023-01-28 |
@@ -209,9 +210,10 @@
 | [We Both Lost](https://open.spotify.com/track/2MVpbHw9fKYXi0hcYpjdUF) | [B2](https://open.spotify.com/artist/0vpOUJDr3cALJ5AiRFdv2S) | [Heavy Machine](https://open.spotify.com/album/10zEodY1CT4TKevzj78lm4) | 5:36 | 2022-12-02 | 2023-10-07 |
 | [West Coast Love](https://open.spotify.com/track/6IdsEMXOA9i8efy41OlFB4) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Blicz](https://open.spotify.com/artist/3PnWOaMJ1XWctt7UBJuwz0) | [RCKLSS006](https://open.spotify.com/album/44g3plYDtTn9MB3FTjvkrc) | 6:12 | 2023-01-27 | 2023-10-07 |
 | [When I Rock \- A.D.H.S\. Remix](https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [When I Rock \(A.D.H.S\. Remix\)](https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic) | 4:19 | 2024-06-20 |  |
+| [Where Do We Go](https://open.spotify.com/track/1pjq6HahAijFavvVOVRP3E) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 4:59 | 2025-03-03 |  |
 | [Witch Doctor \- Original Mix](https://open.spotify.com/track/5tjPpvhaP6WAhTdTWnZVta) | [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Dance With Me EP](https://open.spotify.com/album/7yM16V22VOujgezbM9bUHg) | 4:45 | 2023-10-06 |  |
 | [World of Magic \- Original Mix](https://open.spotify.com/track/4KjgynSXWOLeo3QGMS5zY7) | [Nika Key](https://open.spotify.com/artist/6PMYdlBji0qnyKvhAKydGv) | [World of Magic](https://open.spotify.com/album/4mXUHr646P99aa02c5o5El) | 7:22 | 2023-10-06 |  |
-| [You and Me](https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [You and Me](https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt) | 3:11 | 2023-11-16 |  |
+| [You and Me](https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [You and Me](https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt) | 3:11 | 2023-11-16 | 2025-03-04 |
 | [You Want More](https://open.spotify.com/track/79eTTS35Pkav11RYByADD7) | [Analect](https://open.spotify.com/artist/5oMo0oEwNSokwvVOrX2FTk) | [One Step Further](https://open.spotify.com/album/30sbfn8qrOUr1qtqvUtOdq) | 5:25 | 2022-12-02 | 2023-01-28 |
 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 | 2023-10-06 | 2024-12-28 |
 

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2aEQIkO99yg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2aEQIkO99yg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2aEQIkO99yg)
 
-### [Colombia..\. ya Estoy Aquí](https://open.spotify.com/playlist/37i9dQZF1DX2aEQIkO99yg)
+### [Día de Shakira](https://open.spotify.com/playlist/37i9dQZF1DX2aEQIkO99yg)
 
-> ¡Celebrando a Shakira y el paso del "Las Mujeres Ya No Lloran World Tour 2025" por Colombia!
+> El 29 de Septiembre celebramos a la reina\. \#DiaDeShakira
 
 63 songs - 3 hr 32 min
 

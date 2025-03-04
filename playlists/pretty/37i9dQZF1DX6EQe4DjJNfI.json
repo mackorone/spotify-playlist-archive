@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 177159,
+  "num_followers": 177156,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2025-03-01 19:34:15",
-      "album": {
         "name": "Imaturos",
         "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 212000,
       "name": "Imaturos",
       "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
+    },
+    {
+      "added_at": "2025-03-01 19:34:15",
+      "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
-    },
-    {
-      "added_at": "2025-03-01 19:34:15",
-      "album": {
         "name": "Daqui pra Frente - Dread Session, Vol. 1",
         "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 181514,
       "name": "Daqui pra Frente - Dread Session, Vol. 1",
       "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
+    },
+    {
+      "added_at": "2025-03-01 19:34:15",
+      "album": {
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
+        "name": "Sobrenome",
+        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
+      },
+      "artists": [
+        {
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+        },
+        {
+          "name": "Dodoin",
+          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
+        }
+      ],
+      "duration_ms": 134476,
+      "name": "Sobrenome",
+      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
+    },
+    {
+      "added_at": "2025-03-01 19:34:15",
+      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 144578,
       "name": "Novela",
       "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
-    },
-    {
-      "added_at": "2025-03-01 19:34:15",
-      "album": {
-        "name": "Porto Seguro",
-        "url": "https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ"
-      },
-      "artists": [
-        {
-          "name": "Caio G",
-          "url": "https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5"
-        },
-        {
-          "name": "Netto Galdino",
-          "url": "https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Porto Seguro",
-      "url": "https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "Sobrenome",
-        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
+        "name": "Porto Seguro",
+        "url": "https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ"
       },
       "artists": [
         {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+          "name": "Caio G",
+          "url": "https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5"
         },
         {
-          "name": "Dodoin",
-          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
+          "name": "Netto Galdino",
+          "url": "https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS"
         }
       ],
-      "duration_ms": 134476,
-      "name": "Sobrenome",
-      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
+      "duration_ms": 168205,
+      "name": "Porto Seguro",
+      "url": "https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2025-03-01 19:34:15",
-      "album": {
         "name": "Assome",
         "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 179498,
       "name": "Assome",
       "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
+    },
+    {
+      "added_at": "2025-03-01 19:34:15",
+      "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "sexysong.mp3",
-        "url": "https://open.spotify.com/album/7JNCO1lYxnADzxsFx5mH52"
-      },
-      "artists": [
-        {
-          "name": "Calena",
-          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
-        },
-        {
-          "name": "Arcanjo Beat",
-          "url": "https://open.spotify.com/artist/6Ya4Wxa4p2uiMTmCAIj91V"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "sexysong.mp3",
-      "url": "https://open.spotify.com/track/35benEOWm4edq3z3D11Aqo"
-    },
-    {
-      "added_at": "2025-03-01 19:34:15",
-      "album": {
         "name": "A\u00e7a\u00ed e Amendo\u00edm",
         "url": "https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 193414,
       "name": "A\u00e7a\u00ed e Amendo\u00edm",
       "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
+    },
+    {
+      "added_at": "2025-03-01 19:34:15",
+      "album": {
+        "name": "sexysong.mp3",
+        "url": "https://open.spotify.com/album/7JNCO1lYxnADzxsFx5mH52"
+      },
+      "artists": [
+        {
+          "name": "Calena",
+          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
+        },
+        {
+          "name": "Arcanjo Beat",
+          "url": "https://open.spotify.com/artist/6Ya4Wxa4p2uiMTmCAIj91V"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "sexysong.mp3",
+      "url": "https://open.spotify.com/track/35benEOWm4edq3z3D11Aqo"
     },
     {
       "added_at": "2025-03-01 19:34:15",

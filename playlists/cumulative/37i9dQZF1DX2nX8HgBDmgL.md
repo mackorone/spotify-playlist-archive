@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Atif Aslam
 
-308 songs - 16 hr 40 min
+309 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Karma](https://open.spotify.com/track/5mowfsyfcMHPljgxVMjtQL) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 4:00 | 2024-04-29 | 2024-06-14 |
 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 | 2024-08-09 |  |
 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 | 2024-11-26 | 2024-12-13 |
+| [Khwabeeda](https://open.spotify.com/track/2hYgz7q5qhBeRiKIdChC83) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Khwabeeda](https://open.spotify.com/album/7oE5nV1wTd9wvEZbM8qi02) | 2:43 | 2025-03-03 |  |
 | [Ki Kargeyi](https://open.spotify.com/track/0giHB6YKuecRFIQEwxXHsN) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Glass Ceiling](https://open.spotify.com/album/7pFnY7YB2jQw9lIJpauU5B) | 3:35 | 2021-11-11 | 2022-07-19 |
 | [Killer](https://open.spotify.com/track/5IR7yIqbK4qe1oEGyoLO4z) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Killer](https://open.spotify.com/album/19rYlPITwNhvi2dpsTSE2b) | 3:27 | 2021-11-11 | 2022-07-19 |
 | [Killer](https://open.spotify.com/track/1lnNez6rjrsKaQOAsBpC94) | [Jay Kadn](https://open.spotify.com/artist/14Fcx9KYayNdC1wvHVtjUn) | [Killer](https://open.spotify.com/album/7aWP5dlb1ZgIfDfKdIRU7B) | 3:06 | 2021-11-11 | 2022-07-19 |

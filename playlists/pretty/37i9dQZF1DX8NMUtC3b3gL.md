@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,767 likes - 235 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,765 likes - 235 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 234 | [Maresia](https://open.spotify.com/track/07WwRg1LaExVDTOZfnXKcE) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [Lofi Brasil](https://open.spotify.com/artist/6n23H3ngSwihsDpjBaAANQ) | [Um Beatzinho, Um Violão](https://open.spotify.com/album/21HS9OgSpqZFzeXrJFNumP) | 2:40 |
 | 235 | [Nocturn Doubts](https://open.spotify.com/track/5zVTc85gPq1ncILKdK9vXc) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Night Times](https://open.spotify.com/album/7wIa2SC3g2x4YvVzTFO3xd) | 2:18 |
 
-Snapshot ID: `ZvYtwAAAAADmPArP0fIlBVahn5zfw8F8`
+Snapshot ID: `ZvYtwAAAAAANQQlEUnV4pPHJItKkURfX`

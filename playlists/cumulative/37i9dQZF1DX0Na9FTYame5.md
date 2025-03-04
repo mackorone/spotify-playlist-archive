@@ -2,9 +2,9 @@
 
 ### [Rap in deep](https://open.spotify.com/playlist/37i9dQZF1DX0Na9FTYame5)
 
-> Deutschrap für die emotions\. Cover: badchieff
+> Deutschrap für die emotions\. Cover: Florentina, FOURTY
 
-181 songs - 8 hr 11 min
+183 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 | 2024-12-09 |  |
 | [Feuer](https://open.spotify.com/track/4vipRzDpYDtuRjWSL5UxO0) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Feuer](https://open.spotify.com/album/7GOJSTT1IGYEpbaNyNRRJF) | 2:37 | 2024-06-28 | 2025-02-28 |
 | [French Nails](https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [French Nails](https://open.spotify.com/album/27MfpZoTZHr8OWIsgjCXCB) | 2:13 | 2025-02-03 |  |
+| [Frieden](https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Frieden](https://open.spotify.com/album/6KChMYkGsRpK2xmq24Eiut) | 3:37 | 2025-03-03 |  |
 | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz) | [Nio](https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6) | 2:24 | 2024-06-28 | 2024-09-21 |
 | [Gar nicht mal so glücklich \(feat\. Estikay\)](https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Estikay](https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6) | [PAUL](https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D) | 2:45 | 2024-06-28 | 2025-02-09 |
 | [Garten vorm Haus](https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Garten vorm Haus](https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn) | 1:54 | 2024-11-11 |  |
@@ -96,6 +97,7 @@
 | [Lamborghini Pink](https://open.spotify.com/track/3BHtvqkiJwrI1AZwiKs90U) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Lamborghini Pink](https://open.spotify.com/album/5I73xqCOth2YG4eixevKZr) | 2:48 | 2024-06-28 | 2024-08-21 |
 | [Larger than Life](https://open.spotify.com/track/5d1L98CM3w4ouxP9QQ4udD) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Larger than Life](https://open.spotify.com/album/54AnB7UXKB7RHR46Xs6xI3) | 3:31 | 2024-06-28 | 2024-08-13 |
 | [Lautlos](https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Lautlos](https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW) | 2:53 | 2024-06-28 |  |
+| [LEERER MAGEN](https://open.spotify.com/track/00XmE56Q9wZ6ztUrCRYW4D) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [WINTERALBUM](https://open.spotify.com/album/0aCmXX2zKcQQ0JY6YBhvlh) | 2:25 | 2025-03-03 |  |
 | [Let me love you](https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Let me love you](https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX) | 2:47 | 2024-06-28 |  |
 | [LEUCHTTURM](https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [LEUCHTTURM](https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus) | 2:33 | 2024-12-09 |  |
 | [LICHTER AUS](https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LICHTER AUS](https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS) | 3:23 | 2025-02-06 |  |
@@ -132,7 +134,7 @@
 | [OMG](https://open.spotify.com/track/48VxUAyrLAnOr39ck1cJV5) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [OMG](https://open.spotify.com/album/29JfpcRRhV7vspCooH2pIM) | 2:41 | 2024-08-12 | 2025-01-21 |
 | [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 | 2024-06-28 |  |
 | [Panikweiß](https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Panikweiß](https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5) | 2:50 | 2024-06-28 | 2025-02-12 |
-| [Party Allein](https://open.spotify.com/track/0OU4O2hTL2PtjzZ1yg8o2G) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Lost Tapes Teil 2](https://open.spotify.com/album/2QCQLyr5RnqZdikUD3cDbn) | 2:05 | 2025-02-27 |  |
+| [Party Allein](https://open.spotify.com/track/0OU4O2hTL2PtjzZ1yg8o2G) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Lost Tapes Teil 2](https://open.spotify.com/album/2QCQLyr5RnqZdikUD3cDbn) | 2:05 | 2025-02-27 | 2025-03-04 |
 | [Passion \(feat\. Paula Hartmann\)](https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:40 | 2024-06-28 |  |
 | [Pflaster](https://open.spotify.com/track/62rSz1cp8u66zl9CkieV7v) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i) | [Pflaster](https://open.spotify.com/album/6C8d69W6aVlkUg9cDbqkw2) | 2:13 | 2024-11-25 | 2025-02-04 |
 | [Plastikblumen](https://open.spotify.com/track/3xlGxCgwVwU08zL3Hrna95) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Helldunkel](https://open.spotify.com/album/2zGXSLw6MPbYn5eyUAkbaa) | 1:48 | 2024-08-26 | 2024-11-13 |
@@ -171,7 +173,7 @@
 | [VORBEI](https://open.spotify.com/track/2dESh9c89uVcszcd7TcUBz) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3), [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [VORBEI](https://open.spotify.com/album/1v3Spz88JnZRm9y9tzGe1Q) | 2:34 | 2025-02-06 |  |
 | [War das schon alles](https://open.spotify.com/track/6FgAH2lOrWWcFhXRDjhKrT) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [War das schon alles](https://open.spotify.com/album/56JoFMEfYoSx912WyLmQ14) | 2:58 | 2024-06-28 | 2024-09-30 |
 | [Was du nicht siehst \(feat\. ela.\)](https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Was du nicht siehst \(feat\. ela.\)](https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8) | 2:31 | 2024-06-28 |  |
-| [Was Es Braucht](https://open.spotify.com/track/6hDWXSeWkjGiWW4qC94UKB) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Was Es Braucht](https://open.spotify.com/album/0iRjf9T50CSIzm4yLrOfCk) | 2:47 | 2024-11-11 |  |
+| [Was Es Braucht](https://open.spotify.com/track/6hDWXSeWkjGiWW4qC94UKB) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Was Es Braucht](https://open.spotify.com/album/0iRjf9T50CSIzm4yLrOfCk) | 2:47 | 2024-11-11 | 2025-03-04 |
 | [Was wäre wenn du nicht wärst?](https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy) | [Was wäre wenn du nicht wärst?](https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe) | 2:47 | 2024-07-25 |  |
 | [Weg zu weit](https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Weg zu weit](https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag) | 2:31 | 2024-12-16 |  |
 | [Wegen Dir](https://open.spotify.com/track/6e8jTJ7CE1Kt4M2mlooZ5J) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [FRIO](https://open.spotify.com/artist/2Z7cjLnzuXsFlU4D5Pz05c) | [Wegen Dir](https://open.spotify.com/album/5R1Nffl5bcDFWDwIKbJctl) | 3:10 | 2024-06-28 | 2024-10-26 |

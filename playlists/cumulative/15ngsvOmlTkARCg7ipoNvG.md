@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,914 songs - 1 day 15 hr 1 min
+1,915 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1441,6 +1441,7 @@
 | [Serene \- Cello Version](https://open.spotify.com/track/5rBgsbVvDcPAyuhYFWkSft) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Again](https://open.spotify.com/album/4ocM7Lg4DZPKwlJV7pFXyU) | 1:00 | 2024-03-08 |  |
 | [Serene Sun](https://open.spotify.com/track/487hoXAuoV9CCu6HI9wVph) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace](https://open.spotify.com/album/79RFghU00Bo4qMQOfx8ygk) | 1:03 | 2024-01-29 |  |
 | [Serenity In Spring](https://open.spotify.com/track/0a00KnbzsE9kGcgzvmtRsP) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Serenity In Spring](https://open.spotify.com/album/3RZMHBvNL4Fdbb42zVhEi6) | 1:00 | 2023-02-15 |  |
+| [Serenity In Winter Arr\. For Piano](https://open.spotify.com/track/0imRkGlYi4HLq0rZZvE1u2) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Serenity In Winter Arr\. For Piano](https://open.spotify.com/album/4235d5t7n9EzdNWF7trfna) | 1:00 | 2025-03-03 |  |
 | [Setting Sun](https://open.spotify.com/track/1Q8a0QbVDGyoQCsbb3sBvj) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios, Vol\. 2](https://open.spotify.com/album/61EfeMvitQ0F6lSdE4ILT2) | 1:09 | 2024-01-29 |  |
 | [Shaded](https://open.spotify.com/track/7KojjLpJlpcdLRJp1nhQl8) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Shaded](https://open.spotify.com/album/0WNpzNXV5Ey5qqcaiCabzN) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Shaded Arr\. For Cello And Grand Piano](https://open.spotify.com/track/3hVqMfLAdYnA9TUd9ypq4F) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Shaded Arr\. For Cello And Grand Piano](https://open.spotify.com/album/2DnUagol1DWlhG3JUGqgGI) | 1:01 | 2023-04-19 | 2024-02-13 |

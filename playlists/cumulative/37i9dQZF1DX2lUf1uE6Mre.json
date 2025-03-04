@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 140508,
       "name": "BANDIT",
       "url": "https://open.spotify.com/track/3ThmZJ7LQ3C20FpxU5kXJB"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 166179,
       "name": "KELOKE",
       "url": "https://open.spotify.com/track/70APe9yigyCVZ9bDIv51y3"
@@ -2422,6 +2422,24 @@
       "duration_ms": 142608,
       "name": "Malaga",
       "url": "https://open.spotify.com/track/7wc5sF6gVT8KCeamMlcMWf"
+    },
+    {
+      "album": {
+        "name": "me & you",
+        "url": "https://open.spotify.com/album/2KbDjW2XjpgFC6VTfwkTYu"
+      },
+      "artists": [
+        {
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138376,
+      "name": "me & you",
+      "url": "https://open.spotify.com/track/2qX5NeJHw3LGR2cNoY8qbK"
     },
     {
       "album": {
@@ -3774,6 +3792,32 @@
       "duration_ms": 153722,
       "name": "VIP",
       "url": "https://open.spotify.com/track/1MzSOhTWEPzy18WT0hzcK9"
+    },
+    {
+      "album": {
+        "name": "Vorbei",
+        "url": "https://open.spotify.com/album/2Bsmpx7TWZs6ZxHIfSNOY8"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Azu",
+          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
+        },
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Vorbei",
+      "url": "https://open.spotify.com/track/1y8vW1vAODsbIUC7xyn2Tv"
     },
     {
       "album": {

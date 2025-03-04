@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Promoting exciting artists from the Benelux: <a href="spotify:artist:6TSjJlhB2taxea58rCkMkj">The Vices</a> \(cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,207 likes - 28 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,204 likes - 28 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

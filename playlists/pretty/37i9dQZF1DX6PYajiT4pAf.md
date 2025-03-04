@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Myke Towers, Junior H y The Rudeboyz y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,553 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,780 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 18 | [DÍSELO \(Cap\. 3\)](https://open.spotify.com/track/19SpPDTrRB5OyzXB7j1huD) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [DÍSELO \(Cap\. 3\)](https://open.spotify.com/album/2o48FBQSdpHf1UVu3XOXed) | 3:31 |
 | 19 | [ÉLITE](https://open.spotify.com/track/5Za4Ocbq6E0qAYOYiKEV9R) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [ÉLITE](https://open.spotify.com/album/7xutb4C0MWLlUNMWXrSHY4) | 2:30 |
 | 20 | [PPC](https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [PPC](https://open.spotify.com/album/4V5HyefyVSF15kOhuy11up) | 4:00 |
-| 21 | [logout de riíto con la gata](https://open.spotify.com/track/5TJjnb0e3yc6T32Ziy5tpF) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [CAPICÚ \(Aniversario\)](https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8) | 2:23 |
+| 21 | [logout de riíto con la gata](https://open.spotify.com/track/5TJjnb0e3yc6T32Ziy5tpF) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [CAPICÚ](https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8) | 2:23 |
 | 22 | [Let It Talk To Me](https://open.spotify.com/track/7seSCZywUZjXb9DXEfCQae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Let It Talk To Me](https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl) | 2:36 |
 | 23 | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs) | 3:31 |
 | 24 | [Soy mayor](https://open.spotify.com/track/6uC3eXqRbVeWZe3xyWylTX) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Soy mayor](https://open.spotify.com/album/7DK8k5i3GtXtbbYiWNHnzv) | 3:33 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Deutschrap f\u00fcr die emotions. Cover: badchieff",
+  "description": "Deutschrap f\u00fcr die emotions. Cover: Florentina, FOURTY",
   "name": "Rap in deep",
   "tracks": [
     {
@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Frieden",
+        "url": "https://open.spotify.com/album/6KChMYkGsRpK2xmq24Eiut"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "Frieden",
+      "url": "https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR"
+    },
+    {
+      "album": {
         "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
         "url": "https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6"
       },
@@ -1782,6 +1800,28 @@
       "duration_ms": 173000,
       "name": "Lautlos",
       "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
+    },
+    {
+      "album": {
+        "name": "WINTERALBUM",
+        "url": "https://open.spotify.com/album/0aCmXX2zKcQQ0JY6YBhvlh"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "LEERER MAGEN",
+      "url": "https://open.spotify.com/track/00XmE56Q9wZ6ztUrCRYW4D"
     },
     {
       "album": {
@@ -2516,7 +2556,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 125100,
       "name": "Party Allein",
       "url": "https://open.spotify.com/track/0OU4O2hTL2PtjzZ1yg8o2G"
@@ -3322,7 +3362,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 167671,
       "name": "Was Es Braucht",
       "url": "https://open.spotify.com/track/6hDWXSeWkjGiWW4qC94UKB"

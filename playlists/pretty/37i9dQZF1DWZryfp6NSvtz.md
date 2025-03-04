@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,883 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,953 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 55 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |
 | 56 | [Dead Air](https://open.spotify.com/track/0JT2wUa15PpbeVpUfa7GxN) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Dead Air](https://open.spotify.com/album/2sCUdbB7YTp6tqoeKjq0UB) | 3:45 |
 
-Snapshot ID: `Z8OE4wAAAACwv6Nx2TVlvmDnCPx+UJ0o`
+Snapshot ID: `Z8OE4wAAAAAnrqvHkpG4gtf93d0Xyeom`

@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-245 songs - 17 hr 59 min
+246 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,12 +153,13 @@
 | [Long Road](https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Global Kiss](https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp) | 4:21 | 2022-01-17 |  |
 | [Love Crazy](https://open.spotify.com/track/1D7EnBNWyqNaCUjoFlc9z9) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/2Jw4nAqHycfds4vWYlVWEV) | 3:54 | 2023-05-30 | 2024-04-09 |
 | [Love Crazy](https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G) | 3:54 | 2021-12-27 |  |
-| [Low and Slow](https://open.spotify.com/track/04fVzUHhEBwEHOOtWeKEUA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/0vHob9cPz7DqegoGiAtQgJ) | 4:08 | 2021-12-27 |  |
+| [Low and Slow](https://open.spotify.com/track/04fVzUHhEBwEHOOtWeKEUA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/0vHob9cPz7DqegoGiAtQgJ) | 4:08 | 2021-12-27 | 2025-03-04 |
 | [Low And Slow](https://open.spotify.com/track/7pRfQ35Qo8a9mZ8TfbTjVA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:08 | 2022-07-18 | 2024-04-19 |
 | [Lucy](https://open.spotify.com/track/0FfrrAKzUYC5VuTks5RNqp) | [Dave Sereny](https://open.spotify.com/artist/4FkXwKa3Rv8DozYGUxGymX), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Take This Ride](https://open.spotify.com/album/4119Hr2ZozWvGSKWMAetDD) | 3:20 | 2023-12-22 | 2024-04-19 |
 | [Lucy](https://open.spotify.com/track/51WHHNT2v0XYUAWoBGeMdx) | [Dave Sereny](https://open.spotify.com/artist/4FkXwKa3Rv8DozYGUxGymX), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Take This Ride](https://open.spotify.com/album/5YVME781lbKgHkGiYdMOQc) | 3:20 | 2022-01-03 |  |
 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 | 2023-11-15 |  |
 | [Magic Hour](https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Magic Hour](https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz) | 4:15 | 2021-12-27 |  |
+| [Mister Magic](https://open.spotify.com/track/1UI2LPIMEHa3ptE0S5Ta1O) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Mister Magic](https://open.spotify.com/album/1wcjK3JMtVRUXQO6DbAOK8) | 5:20 | 2025-03-03 |  |
 | [Mr Kool](https://open.spotify.com/track/5svERXp8eoh8MydumgnC0J) | [Jim Richter](https://open.spotify.com/artist/0NZ0vDGLWAN5RgDz8sJTAC), [Chris Otts](https://open.spotify.com/artist/411efB7y7mz05itJYp0pZZ), [Jack Jones](https://open.spotify.com/artist/1MJs5ZkhogG4lo7yq3cr0l), [John Rathbone](https://open.spotify.com/artist/0ij5DHsvTubb5S6xQ3BKSN), [Michael Cornett](https://open.spotify.com/artist/0vrRGCpdPXGcgQbLa8wSWC) | [Mr\. Kool](https://open.spotify.com/album/1gkxk0diBxNzEwqOwjiISl) | 4:29 | 2021-12-27 |  |
 | [My Song for You](https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP) | 4:38 | 2021-12-27 |  |
 | [Never Enough](https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 3:59 | 2021-12-27 |  |

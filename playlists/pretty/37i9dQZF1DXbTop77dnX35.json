@@ -1,12 +1,12 @@
 {
   "description": "New Music from Young Jonn  and more ",
-  "num_followers": 106258,
+  "num_followers": 106323,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8F6XgAAAAC5wcVs0fsT81qD9Vp+Eo3T",
+  "snapshot_id": "Z8WlewAAAAAnW8/pWeAidZzzRJX+pHGR",
   "tracks": [
     {
       "added_at": "2025-02-28 00:01:36",
@@ -103,7 +103,7 @@
     {
       "added_at": "2025-02-28 00:01:36",
       "album": {
-        "name": "W For Wetego (feat. Young Jonn & Phyno)",
+        "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
         "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
       },
       "artists": [
@@ -118,10 +118,14 @@
         {
           "name": "Phyno",
           "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
         }
       ],
       "duration_ms": 217718,
-      "name": "W For Wetego (feat. Young Jonn & Phyno)",
+      "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
     },
     {
@@ -309,20 +313,24 @@
       "url": "https://open.spotify.com/track/3yFzNF4k2wLI38aoniKut7"
     },
     {
-      "added_at": "2025-02-28 00:01:36",
+      "added_at": "2025-03-03 12:50:03",
       "album": {
         "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q"
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
       "artists": [
         {
           "name": "LISA",
           "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 175215,
-      "name": "FXCK UP THE WORLD (Vixi Solo Version)",
-      "url": "https://open.spotify.com/track/3axyOG0Z7zBwRzOkQWtBEJ"
+      "duration_ms": 184155,
+      "name": "FXCK UP THE WORLD (feat. Future)",
+      "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
     },
     {
       "added_at": "2025-02-28 00:01:36",
@@ -639,7 +647,7 @@
     {
       "added_at": "2025-02-28 00:01:36",
       "album": {
-        "name": "Mwihoko: Utheri wa Ngoro",
+        "name": "Mw\u012bhoko: \u00dbtheri wa Ngoro",
         "url": "https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg"
       },
       "artists": [

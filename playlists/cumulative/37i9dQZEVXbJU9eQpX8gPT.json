@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -3268,7 +3268,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 165057,
       "name": "Badadi",
       "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
@@ -6482,7 +6482,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 192000,
       "name": "Concentrado",
       "url": "https://open.spotify.com/track/3eLKMeC4o5Tqt7WNgE5fWx"
@@ -8436,7 +8436,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Douwi Douwi",
       "url": "https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz"
@@ -10952,7 +10952,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 179897,
       "name": "Ghali",
       "url": "https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3"
@@ -12650,7 +12650,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 223278,
       "name": "HWASI",
       "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
@@ -17156,7 +17156,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -24348,7 +24348,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 190786,
       "name": "Qui sait ? (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
@@ -24586,6 +24586,24 @@
       "duration_ms": 205000,
       "name": "RALLY DAKAR",
       "url": "https://open.spotify.com/track/6RFjHcQlq5ielUHwYec9xS"
+    },
+    {
+      "album": {
+        "name": "Singles & Duets",
+        "url": "https://open.spotify.com/album/4U7712IFFZo2fqWFozK2rv"
+      },
+      "artists": [
+        {
+          "name": "Maher Zain",
+          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248186,
+      "name": "Ramadan - English Version",
+      "url": "https://open.spotify.com/track/3AztiK5cDOBwEgumRMTFic"
     },
     {
       "album": {
@@ -31642,7 +31660,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 224611,
       "name": "Winter Ahead (with PARK HYO SHIN) : YUNSEOKCHEOL TRIO Ver.",
       "url": "https://open.spotify.com/track/2C39jkUPAsQzwBSshsaCfX"

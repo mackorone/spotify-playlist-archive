@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 조하\(JOHA\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,846 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,847 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [dudndudndudn](https://open.spotify.com/track/6l5HTEXfhpcGAGqigEpLSb) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb) | [dudndudndudn](https://open.spotify.com/album/6lTeQXswOMjX1E2Le2YduD) | 3:36 |
 | 50 | [good night](https://open.spotify.com/track/02lIFleazWrZtb0Kta00Pn) | [Joo Hyunmin](https://open.spotify.com/artist/7I4EANWzax0oiEtNrNmlx7) | [good night](https://open.spotify.com/album/5KIqiwGOhqWS7IGcnRE4uA) | 3:16 |
 
-Snapshot ID: `Z8EnOgAAAABNmR+ed/yAt6VYM1k2PCXi`
+Snapshot ID: `Z8EnOgAAAACY2p3hx0D10oZIoX2HZwSB`

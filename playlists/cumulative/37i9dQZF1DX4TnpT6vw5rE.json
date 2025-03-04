@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Contrasts",
+        "url": "https://open.spotify.com/album/0lYMr1xleQ7RD4oqvt5ERq"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Dreams",
+          "url": "https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "Contrasts",
+      "url": "https://open.spotify.com/track/7c1hx3D2NzJo4yCCuhde6W"
+    },
+    {
+      "album": {
         "name": "Cordium",
         "url": "https://open.spotify.com/album/3e2AjDN08jKM6SuuTLO2nI"
       },
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 135100,
       "name": "Crystal Clear",
       "url": "https://open.spotify.com/track/66GTXFs0Q12Z2xsk4Uvc8e"
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 184186,
       "name": "Glaciers",
       "url": "https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD"
@@ -3827,6 +3845,24 @@
     },
     {
       "album": {
+        "name": "Planisphere",
+        "url": "https://open.spotify.com/album/0KLDFB02OJIOfekbHVyJVq"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Planisphere",
+      "url": "https://open.spotify.com/track/1W0YP2A8OtX5QuZsmhWTJQ"
+    },
+    {
+      "album": {
         "name": "Substrata",
         "url": "https://open.spotify.com/album/6jeIzUv8Bff4fFElZwwA4B"
       },
@@ -5307,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "Underlying Cause",
+        "url": "https://open.spotify.com/album/38Lsf8bDz8BsQ0zzNUzEwn"
+      },
+      "artists": [
+        {
+          "name": "Experia",
+          "url": "https://open.spotify.com/artist/5NTXP9El0Kk8oAEIaKZZfZ"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190073,
+      "name": "Underlying Cause",
+      "url": "https://open.spotify.com/track/42eEBz1XT0b0uvZDZPisyL"
+    },
+    {
+      "album": {
         "name": "Unkai",
         "url": "https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt"
       },
@@ -5588,7 +5642,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 173892,
       "name": "Weightless Dreams",
       "url": "https://open.spotify.com/track/5UfsYYVyxWRpJ5sBA32Rns"

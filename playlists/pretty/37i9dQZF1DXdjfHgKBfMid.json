@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc83\ud83c\udffd\ud83d\udd7a\ud83c\udffc\ud83e\ude87\ud83c\udfba\ud83e\ude98",
-  "num_followers": 40746,
+  "num_followers": 40755,
   "original_name": "Full Tropical",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Por lo que yo te quiero",
+      "url": "https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9"
+    },
+    {
+      "added_at": "2024-06-14 18:45:21",
+      "album": {
         "name": "Fr\u00edo, Fr\u00edo (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana)",
         "url": "https://open.spotify.com/album/1ZWyjI1yAFQGQqsQxxFb9S"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 235880,
       "name": "Fr\u00edo, Fr\u00edo - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ"
-    },
-    {
-      "added_at": "2024-06-14 18:45:21",
-      "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Por lo que yo te quiero",
-      "url": "https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9"
     },
     {
       "added_at": "2024-06-14 18:45:21",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 376213,
-      "name": "Yerba Mala",
-      "url": "https://open.spotify.com/track/6DAZuerCWNL5TtgKo8M2jl"
-    },
-    {
-      "added_at": "2024-06-14 18:45:21",
-      "album": {
         "name": "A Pura Sangre",
         "url": "https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 234933,
       "name": "Adicto A Ti",
       "url": "https://open.spotify.com/track/53p8lIxLmoCoBINK0zuQ4G"
+    },
+    {
+      "added_at": "2024-06-14 18:45:21",
+      "album": {
+        "name": "Lo Mejor del Le\u00f3n",
+        "url": "https://open.spotify.com/album/2whwckDILym1HJqJAH971i"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 68560,
+      "name": "Carta Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/32Fd3j4mqUBJ3w2LGMTmNK"
     },
     {
       "added_at": "2024-06-14 18:45:21",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
-        "name": "Lo Mejor del Le\u00f3n",
-        "url": "https://open.spotify.com/album/2whwckDILym1HJqJAH971i"
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 68560,
-      "name": "Carta Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/32Fd3j4mqUBJ3w2LGMTmNK"
+      "duration_ms": 376213,
+      "name": "Yerba Mala",
+      "url": "https://open.spotify.com/track/6DAZuerCWNL5TtgKo8M2jl"
     },
     {
       "added_at": "2024-06-14 18:45:21",

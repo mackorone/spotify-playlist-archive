@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come with OVERSIZE \(pictured\), Superheaven, Split Chain, Glixen, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,533 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,483 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 84 | [Borrowed](https://open.spotify.com/track/2oq0G2o0KHuyKxBoSEM6DN) | [Skeever](https://open.spotify.com/artist/2hwZtNH1ykR4CFp9xTY0VQ) | [Needle & Thread](https://open.spotify.com/album/5FzC8wCjWmXjQZ73HgKJVU) | 3:39 |
 | 85 | [Sliver](https://open.spotify.com/track/5CzXwnIdde1PNkV3NByQXU) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Sliver](https://open.spotify.com/album/498Sr7Fxlid1v57fhEjBSy) | 3:18 |
 
-Snapshot ID: `Z8IplgAAAABDjlYL4nZCiZhNw8COxz71`
+Snapshot ID: `Z8IplgAAAABkPvk0Xxn7nGIyFxBTNVUu`

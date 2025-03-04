@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Ecca Vandal.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,860 likes - 347 songs - 20 hr 57 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,862 likes - 347 songs - 20 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

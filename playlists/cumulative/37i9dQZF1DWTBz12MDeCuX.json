@@ -3235,6 +3235,32 @@
     },
     {
       "album": {
+        "name": "Angels Sippen Mashup",
+        "url": "https://open.spotify.com/album/4mid0yp51I21JxnnH9UlCw"
+      },
+      "artists": [
+        {
+          "name": "Der Heimer",
+          "url": "https://open.spotify.com/artist/1KuYRlMHWNMKyP6bjqwEDO"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        },
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Angels Sippen Mashup",
+      "url": "https://open.spotify.com/track/7CwJ8o9FdExCbIuLCnsHK8"
+    },
+    {
+      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/4MO43IoaFoxVFcNk2yAPP3"
       },
@@ -8402,7 +8428,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 133733,
       "name": "Chlodwigplatz",
       "url": "https://open.spotify.com/track/5Fikxs7RowWr6I4RHzYHaV"
@@ -29801,6 +29827,24 @@
     },
     {
       "album": {
+        "name": "Ms. Whitman",
+        "url": "https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw"
+      },
+      "artists": [
+        {
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126036,
+      "name": "Ms. Whitman",
+      "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"
+    },
+    {
+      "album": {
         "name": "mund zu mund",
         "url": "https://open.spotify.com/album/2FzbNkp7DebWDas3H9bW2c"
       },
@@ -48188,7 +48232,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 163402,
       "name": "WENN DU DUMM BiST",
       "url": "https://open.spotify.com/track/6IFqLvemScAOurr8RxZ50B"

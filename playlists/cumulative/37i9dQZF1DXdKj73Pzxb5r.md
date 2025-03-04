@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Rangkai
 
-278 songs - 17 hr 41 min
+279 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Lekas](https://open.spotify.com/track/0gO6RgFJZC3UTXJujA68aA) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn) | [Lekas](https://open.spotify.com/album/33Pxh19anFo5M8rwpVTajB) | 4:21 | 2025-01-31 |  |
 | [less sugar, please](https://open.spotify.com/track/3ECxqDL216DPm4nghJAbx6) | [Anggia Anggun](https://open.spotify.com/artist/0bTtZmXdVmIitQl9b9ihKz) | [less sugar, please](https://open.spotify.com/album/7vcvikSFeiYY61Dnthuy8y) | 3:52 | 2024-06-27 | 2024-07-05 |
 | [Let Go](https://open.spotify.com/track/1drOwW01nQm3HRZ7yDVP5i) | [Stereocase](https://open.spotify.com/artist/1H8zzYCYxryALUVj91EYgs) | [Let Go](https://open.spotify.com/album/1RfqRTWsDJE1Ta78rRwVno) | 3:28 | 2024-06-27 | 2024-07-25 |
+| [Let's Go To The Beach \(I Will Bring You\)](https://open.spotify.com/track/2TvVi3hAKPhUsox6TcgAcg) | [Ocean Beach Vibration](https://open.spotify.com/artist/3ELIP8n3uOx5yGfsJ1g2T8) | [Let's Go To The Beach \(I Will Bring You\)](https://open.spotify.com/album/2vCXALDSdpVMTPUyIv1ckt) | 2:14 | 2025-03-03 |  |
 | [Lionel](https://open.spotify.com/track/0ahxXloiXety15M48Jgxsi) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Lionel](https://open.spotify.com/album/1RQyw3gtJMQD7xxfk9SqWS) | 3:31 | 2024-08-16 | 2024-11-01 |
 | [Lost](https://open.spotify.com/track/6RJIX0DfN4TAhxZCf8v8rE) | [re:NAN](https://open.spotify.com/artist/1JtMRbvX7bgGBifCBhgPFW) | [Lost Consciousness, Pt​.​2](https://open.spotify.com/album/5ADuz65F3CITmNYen4Bx9v) | 2:42 | 2024-07-19 | 2024-08-30 |
 | [Lost \- Remastered](https://open.spotify.com/track/2T01si7GbNoELB3pMG4GSj) | [Frys](https://open.spotify.com/artist/4lCBdUlETFSzE8JhSHyhyJ) | [La Journée](https://open.spotify.com/album/6MwK3P1HHWGBQAK7Wl9yq8) | 2:52 | 2024-11-28 | 2025-01-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2488,
+  "num_followers": 2490,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8JOAAAAAADcqp5k9slRr7E5At8/Kv8v",
+  "snapshot_id": "Z8OfgAAAAABv5n8D9pKSQqkBYCaYVb6n",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
       "duration_ms": 284351,
       "name": "Suns and Lovers",
       "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Downward Years to Come",
-        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 301240,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb"
     }
   ],
   "unique_name": "This Is Nothing",

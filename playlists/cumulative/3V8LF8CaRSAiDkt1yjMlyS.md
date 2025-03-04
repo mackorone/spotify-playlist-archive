@@ -4,11 +4,12 @@
 
 > 
 
-163 songs - 8 hr 49 min
+167 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(dream\)](https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 1:24 | 2023-08-01 |  |
+| [1000 Miles](https://open.spotify.com/track/4g4iSLrHZjWFAjvi6g9T8Z) | [Sean Stephens](https://open.spotify.com/artist/0QbI65VwQiRpHKqkEdobGM) | [1000 Miles](https://open.spotify.com/album/55Am28AJFk8BRPZiocqUyz) | 1:56 | 2025-03-04 |  |
 | [7 Weeks & 3 Days](https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:14 | 2023-01-13 |  |
 | [A Love Song](https://open.spotify.com/track/3qi9p1dFlp687667d1n3kj) | [Jeremy Hines](https://open.spotify.com/artist/5ZtcY72Q8tDQv8OUEykYMn), [Jelayne](https://open.spotify.com/artist/0YOOUGJYrHdcTTuURiNzZS), [Dana Rose](https://open.spotify.com/artist/5PbjmNVXVFk6n7J5r9eZp0) | [A Love Song](https://open.spotify.com/album/41vdgyRsJNvBpEOt1OKGqF) | 2:42 | 2025-02-28 |  |
 | [A Voice from Afar](https://open.spotify.com/track/3aZYpIYjqbbyE1R1QWvbkX) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB) | [Back to Myself](https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e) | 2:54 | 2024-12-10 |  |
@@ -104,9 +105,10 @@
 | [Monday](https://open.spotify.com/track/1vMzM0hgM3Sp3LdTKPC2Fb) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:52 | 2023-05-26 |  |
 | [Monolithic](https://open.spotify.com/track/71Z5pRSM9oHMa59WW5ifHq) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Host](https://open.spotify.com/album/7rCZkblbmpN2sd7OPDCYct) | 3:39 | 2023-09-02 |  |
 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 | 2023-09-21 |  |
-| [Must I Die Alone](https://open.spotify.com/track/5ep2yEklcNmthqmCByaZUD) | [Steady Rollin](https://open.spotify.com/artist/2f7imcAJGFFABC2Y7dHtK2) | [Stories](https://open.spotify.com/album/05j9IHFwDZzciV90kl10F6) | 3:38 | 2025-02-24 |  |
+| [Must I Die Alone](https://open.spotify.com/track/5ep2yEklcNmthqmCByaZUD) | [Steady Rollin](https://open.spotify.com/artist/2f7imcAJGFFABC2Y7dHtK2) | [Stories](https://open.spotify.com/album/05j9IHFwDZzciV90kl10F6) | 3:38 | 2025-02-24 | 2025-03-04 |
 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 | 2023-09-07 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-09-08 |  |
+| [Night Time Lover \(NTL\)](https://open.spotify.com/track/1DETyIa65IiEPejhCjCcB7) | [BadboyJayl](https://open.spotify.com/artist/1AL9vPmQ6pp7G05r1Pg40z) | [Night Time Lover \(NTL\)](https://open.spotify.com/album/6ZeZio1f4vYUDKclguuToN) | 3:22 | 2025-03-04 |  |
 | [no way out](https://open.spotify.com/track/7D3VAPd2nvxzPxZNKworii) | [White Wtch](https://open.spotify.com/artist/6WRxMmR9XlAmcpku81EJwz) | [no way out](https://open.spotify.com/album/4tKoOYBp5XfyPp5H3Yo3RF) | 2:10 | 2025-02-26 |  |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2024-02-01 |  |
 | [Ode to Vivian](https://open.spotify.com/track/5fqYqPWlfQhIkcUY3XAJlm) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 1:29 | 2024-01-22 |  |
@@ -164,11 +166,13 @@
 | [What Did You See](https://open.spotify.com/track/2EdjKHU1kfEM1ZFJ3R44dS) | [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV) | [The Wilderness](https://open.spotify.com/album/0zOn2WhJAtVcsvUUk9Ips7) | 4:24 | 2023-09-21 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2024-03-04 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2023-08-08 |  |
+| [Whine For Me](https://open.spotify.com/track/2OlideyYZKnQkHSIpwiPUC) | [BadboyJayl](https://open.spotify.com/artist/1AL9vPmQ6pp7G05r1Pg40z) | [Whine For Me](https://open.spotify.com/album/3cW6oddMAkPG2EKl3MegzP) | 2:06 | 2025-03-04 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-12-01 |  |
 | [Witness Reprise](https://open.spotify.com/track/27CDPbGNgkMaKxYKbAAZMM) | [Deny Hanz](https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh) | [Witness](https://open.spotify.com/album/4Za0P7gc45f8ABtjBbNA69) | 3:13 | 2024-12-05 |  |
 | [Worn out Shoes](https://open.spotify.com/track/2fO2YSbkT6gvGLjcqkCpMr) | [Glassir](https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9) | [Headed Down](https://open.spotify.com/album/5LLsZ8uICGZa34gXc4UJno) | 3:48 | 2025-02-26 |  |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2023-09-21 |  |
 | [Ylang Ylang](https://open.spotify.com/track/6lAMnXLVCBPMXXWAK4lGSL) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [Ylang Ylang EP](https://open.spotify.com/album/0A13mnL2iaAoke3GXWsvB1) | 3:33 | 2023-07-27 |  |
+| [You](https://open.spotify.com/track/6af43E8V4cce3VWf8pSsFx) | [Twwen!](https://open.spotify.com/artist/5mMwhdvbKM3KjevtSJhPnz) | [TIMING](https://open.spotify.com/album/3E8Dx5wzIZxJ3XsSLI0dXC) | 1:53 | 2025-03-04 |  |
 | [you not the same](https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh) | [TileKid](https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4) | [you not the same](https://open.spotify.com/album/2oWrvVt4fIMO5DEHXSUrhS) | 2:08 | 2023-09-25 |  |
 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 | 2023-01-13 |  |
 

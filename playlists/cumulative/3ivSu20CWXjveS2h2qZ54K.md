@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,275 songs - 7 day 12 hr 23 min
+3,276 songs - 7 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,6 +832,7 @@
 | [Dreamstate](https://open.spotify.com/track/6jpMHF5tzxRdWExRDoDG87) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Dreamstate](https://open.spotify.com/album/4OL7O0xoj0xjyRrTA3clwd) | 5:30 | 2024-10-18 | 2024-10-26 |
 | [Dressed Down](https://open.spotify.com/track/4p8bd4AU5lykxLs1RbifYp) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Dressed Down](https://open.spotify.com/album/4LA74VwF6cJIPhJj4G410l) | 3:10 | 2025-02-14 | 2025-02-22 |
 | [Drift](https://open.spotify.com/track/75psyfokDgEGACe1wurFPa) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Sunnysoposted](https://open.spotify.com/artist/0U3uMh2JMp81V2hup0bJdt) | [Drift / Long Story Short](https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx) | 4:06 | 2024-06-06 | 2024-06-15 |
+| [DRiP DONA](https://open.spotify.com/track/3aEFnWehtnlM7esFCKdeEK) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [curtice](https://open.spotify.com/artist/5Gn6E1VcXkKRGLA5f9yoHq) | [DRiP DONA](https://open.spotify.com/album/5WBXqqEu8jsnO2kbGz0i87) | 2:14 | 2025-03-03 |  |
 | [Drip Sweat \(feat\. Channel Tres\)](https://open.spotify.com/track/4r7e8yV4Xem3iC4hkkI4Hn) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Drip Sweat \(feat\. Channel Tres\)](https://open.spotify.com/album/4mtQMpdkHZx366JCQKTgOg) | 2:27 | 2024-06-06 | 2024-06-15 |
 | [Drive](https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Drive](https://open.spotify.com/album/5YE4RbWYJXkRWQAXqNiNBv) | 3:43 | 2024-07-19 | 2024-07-27 |
 | [Driver](https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Driver](https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg) | 4:12 | 2024-09-12 | 2024-09-21 |

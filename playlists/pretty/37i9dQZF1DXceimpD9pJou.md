@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Emanuel Lara
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,186 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,202 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 14 | [SELAH](https://open.spotify.com/track/5ukwQDjHm1GPLIdDd5S998) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be) | [SELAH](https://open.spotify.com/album/0TYgitTFZebhn30pDuC5Vy) | 5:30 |
 | 15 | [Dia Glorioso](https://open.spotify.com/track/359YDH8Jfz2irKwdBwLOGK) | [Celeste & Wilber](https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF) | [Dia Glorioso](https://open.spotify.com/album/5osfKlq78ORX5jax4w5lj3) | 3:16 |
 | 16 | [Majestad y Poder](https://open.spotify.com/track/1g67qLImjjYIDwcxToasWw) | [Altar Vivo](https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr), [Genesis Benavides](https://open.spotify.com/artist/263vDSDm2KrjNixcgZunAr) | [Majestad y Poder](https://open.spotify.com/album/1nvLaQF949Ym5moBx663NM) | 3:51 |
-| 17 | [Al Estar Aquí](https://open.spotify.com/track/2fmfXlSSXJWxDVhZn3snuk) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [TAYA](https://open.spotify.com/artist/3BSxwiVD3Pw2Vw8edigkHE) | [Al Estar Aquí](https://open.spotify.com/album/2ctVrNinE7Ix0EC5i3Z7j6) | 4:12 |
+| 17 | [Al Estar Aquí](https://open.spotify.com/track/2fmfXlSSXJWxDVhZn3snuk) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Al Estar Aquí](https://open.spotify.com/album/2ctVrNinE7Ix0EC5i3Z7j6) | 4:12 |
 | 18 | [Dios Fuerte](https://open.spotify.com/track/4SnT5pKPCu4pHOHt7vP5QB) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Dios Fuerte](https://open.spotify.com/album/7ksMtOqkJt5urr5XejIDOH) | 7:40 |
 | 19 | [Bendice Alma Mía](https://open.spotify.com/track/11NxjpwM9llBmbo3XAYDwW) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Bendice Alma Mía](https://open.spotify.com/album/0sMclJaxwKDWAozmU1ENAe) | 4:44 |
 | 20 | [Aquí Habita](https://open.spotify.com/track/7Jj9m2skG6PQhSXGtoaEIQ) | [Dahaira](https://open.spotify.com/artist/3nIeDI9YmzJ4iWAoerBQVR), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Aquí Habita](https://open.spotify.com/album/2bnlTzTwl1xdPV263gBohI) | 8:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Ven](https://open.spotify.com/track/5g4xWZyWUvJO77ErzKCQp6) | [Jennifer Hurtado](https://open.spotify.com/artist/4F1wRYU0CoLIhLMjdmoEXx) | [Ven](https://open.spotify.com/album/6vymLz78TdmyamLIktfB4t) | 3:34 |
 | 100 | [Nuestro Encuentro](https://open.spotify.com/track/5NfZgn7kUeQfcvVdBKvvW6) | [Cita Con el Padre](https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a) | [Nuestro Encuentro](https://open.spotify.com/album/7rV2espjneZ7Ws14ebdyd5) | 12:29 |
 
-Snapshot ID: `Z8FQSAAAAAAHnpLTJd2unl5z5CLUOOaP`
+Snapshot ID: `Z8FQSAAAAABmzbSRUZUbgmMNDJ5Hb0dC`

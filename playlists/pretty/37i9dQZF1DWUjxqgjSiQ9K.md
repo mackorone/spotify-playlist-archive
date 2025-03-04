@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Art Aguilera
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Marcela Gandara
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,209 likes - 100 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,365 likes - 100 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Yeshua](https://open.spotify.com/track/5rkKRSgIXnbSG08vhALLxE) | [Amara Rodes](https://open.spotify.com/artist/41iUVjv0FJlo5wlyhmG7Uq), [Agustin Rodes](https://open.spotify.com/artist/5nVZrbP8yLBMAf2nEt4hQU), [Jony Losada](https://open.spotify.com/artist/7tLRxSmyYKHtaop8PtawRz) | [Yeshua](https://open.spotify.com/album/6J0WDj6gZjFLtCfuK4ZNj9) | 3:41 |
 | 100 | [Es Con Tus Fuerzas](https://open.spotify.com/track/6DNl0jMpEvYsWAaKZZWkV2) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [Es Con Tus Fuerzas](https://open.spotify.com/album/1wsJWGmpZhoPKFvBfpwzg1) | 3:52 |
 
-Snapshot ID: `Z8FcRwAAAAA4E18oAGCVcPGWkimq/con`
+Snapshot ID: `Z8XbjgAAAACK6pK0Ah/FeBbOlMU5k7ae`

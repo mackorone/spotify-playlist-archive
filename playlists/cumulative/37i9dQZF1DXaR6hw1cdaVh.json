@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6"
+      },
+      "artists": [
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141961,
+      "name": "Tutto il resto \u00e8 noia (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/2PmuzC0gr5Za1ubhKV5r0d"
+    },
+    {
+      "album": {
         "name": "Non Escludo Il Ritorno",
         "url": "https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk"
       },

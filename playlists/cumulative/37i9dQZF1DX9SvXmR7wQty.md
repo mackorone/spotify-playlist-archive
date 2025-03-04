@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Naomi
 
-3,143 songs - 6 day 22 hr 47 min
+3,144 songs - 6 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -864,6 +864,7 @@
 | [Enfantôme \- Radio edit](https://open.spotify.com/track/49PUrNvfMIGLKQlWeuyhoH) | [Feu la nuit](https://open.spotify.com/artist/68zfHjuBHS2StJIhmlr0iZ) | [Feu la nuit](https://open.spotify.com/album/6sSau2uCJFQd9ShExnfxXB) | 2:46 | 2022-10-28 | 2022-11-12 |
 | [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 | 2023-08-25 | 2023-10-08 |
 | [Engraisser](https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Engraisser](https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII) | 3:03 | 2023-03-31 | 2023-04-09 |
+| [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 | 2025-02-28 |  |
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 | 2023-09-02 |
 | [Ensemble](https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:52 | 2024-11-08 | 2024-12-14 |
 | [Ensemble](https://open.spotify.com/track/5OMUo67LDz7JxLmMLZc2c3) | [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1), [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Sacrifices](https://open.spotify.com/album/3vvxyLnpm3jmgFGQegkrP9) | 2:47 | 2022-02-04 | 2022-02-12 |
@@ -1175,7 +1176,7 @@
 | [Il faut partir maintenant](https://open.spotify.com/track/4iu1AMk5zFfnveFmk1jzId) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Il faut partir maintenant](https://open.spotify.com/album/0xr6PaYYMZMXKfAsOxiWAt) | 3:05 | 2022-11-04 | 2022-11-26 |
 | [Il faut que je migre](https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [Il faut que je migre](https://open.spotify.com/album/4jRzUZY5FBu937fnIlv7em) | 3:00 | 2024-06-14 | 2024-06-22 |
 | [Il faut s'accorder](https://open.spotify.com/track/0xQI6hfuMIGaViAEFRLH7K) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Il faut s'accorder](https://open.spotify.com/album/5QktmuqaCrs2i3oH8i6dG3) | 4:08 | 2022-10-14 | 2022-10-29 |
-| [Il le fallait](https://open.spotify.com/track/489YjHsmah1LZmAk0AXKr1) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [ULTIMATUM](https://open.spotify.com/album/74T7gPVoBbJsfg59Nf6vlR) | 2:41 | 2025-02-14 |  |
+| [Il le fallait](https://open.spotify.com/track/489YjHsmah1LZmAk0AXKr1) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [ULTIMATUM](https://open.spotify.com/album/74T7gPVoBbJsfg59Nf6vlR) | 2:41 | 2025-02-14 | 2025-03-04 |
 | [Il n'y a rien que je ne suis pas](https://open.spotify.com/track/4wsURCIHVHSVsPK8yRP46I) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 4:53 | 2023-10-20 | 2023-10-30 |
 | [Il neige](https://open.spotify.com/track/35LIQh2kzLVenu6axeq01S) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Marc Papillon](https://open.spotify.com/artist/1EHCypLoz39aHYBcCvJ9Fq) | [Il neige](https://open.spotify.com/album/5Hi5WlCk47BlQrU1qctnaX) | 4:17 | 2022-03-04 | 2022-03-18 |
 | [Il ou Elle](https://open.spotify.com/track/6YxwMA7VZj8952QyY13fEA) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Il ou Elle](https://open.spotify.com/album/2oBgOYrxGNKIzbhMv6Pcql) | 2:41 | 2022-06-03 | 2022-06-11 |

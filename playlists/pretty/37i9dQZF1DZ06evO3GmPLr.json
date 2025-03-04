@@ -1,29 +1,13 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 48719,
+  "num_followers": 48751,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8JOAAAAAAAlLBEKzQ+FolJy5xQMQarv",
+  "snapshot_id": "Z8OfgAAAAADqEbQsmKM3oid/od+Rjvvg",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Love You, I Hate You",
-        "url": "https://open.spotify.com/album/75ncNW4YUYAZ1WsHLpR3sf"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "I Love You, I Hate You",
-      "url": "https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 167544,
       "name": "Flood",
       "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love You, I Hate You",
+        "url": "https://open.spotify.com/album/75ncNW4YUYAZ1WsHLpR3sf"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "I Love You, I Hate You",
+      "url": "https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 107533,
-      "name": "I Ain't Feelin It",
-      "url": "https://open.spotify.com/track/0e0tBV3cm7RiTPzMCEegT1"
+      "duration_ms": 131253,
+      "name": "Torch",
+      "url": "https://open.spotify.com/track/676854Mu9sVS1vfoBqk7S2"
     },
     {
       "added_at": null,

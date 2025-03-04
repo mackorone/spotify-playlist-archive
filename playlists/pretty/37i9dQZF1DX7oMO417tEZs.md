@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Marie Davidson
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,048 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,159 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [ANTI\-GUÉRISON](https://open.spotify.com/track/3dKLqqYzxWyFK54zhaGc5L) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [ANTI\-GUÉRISON](https://open.spotify.com/album/6hM7kqdd2WkEkQ7g17FMGi) | 3:51 |
 | 100 | [Beverly Drive](https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Beverly Drive](https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac) | 4:08 |
 
-Snapshot ID: `Z8FC8gAAAABMuGWpWBxCGthiR1jxyHrR`
+Snapshot ID: `Z8FC8gAAAABD9loGYDelgkpjVmh+BdOW`

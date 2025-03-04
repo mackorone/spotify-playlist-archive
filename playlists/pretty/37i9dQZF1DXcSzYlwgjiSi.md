@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,445 likes - 153 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,455 likes - 153 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 152 | [Toes](https://open.spotify.com/track/5kjyiH6but1t2UDXq15aeS) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS) | 4:22 |
 | 153 | [Bad Day To Be A Beer](https://open.spotify.com/track/1l2x572l1wPcxxiL2wVAO7) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Bad Day To Be A Beer](https://open.spotify.com/album/50JKRfkmUelooaPmg5p1v1) | 3:01 |
 
-Snapshot ID: `Z6urKgAAAACQRW5vLerHgN7hQ6JMoMAu`
+Snapshot ID: `Z6urKgAAAADYdxyhyjw8gLkhxQ4muKXe`

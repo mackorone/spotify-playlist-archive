@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Jonna Fraser
 
-1,264 songs - 2 day 8 hr 35 min
+1,266 songs - 2 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-10-24 | 2024-11-15 |
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-11-18 | 2023-04-07 |
 | [Crazy Voor Je](https://open.spotify.com/track/1v4iJIzIG7s24gFHkkRqZ3) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt) | [Crazy Voor Je](https://open.spotify.com/album/7tr5ueYHoryHonldC6JNG8) | 2:16 | 2024-02-22 | 2024-05-10 |
+| [Crazy Voor Jouw Love](https://open.spotify.com/track/0OVm3ZW7MU66lNcBOlDt5w) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG) | [Crazy Voor Jouw Love](https://open.spotify.com/album/7MFj2HK5NDz8PU2y0Et40Q) | 2:30 | 2025-03-03 |  |
 | [Criminal](https://open.spotify.com/track/18cF0f2BcZJNQDHLsc6fWh) | [KARYO](https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59), [Bandolera](https://open.spotify.com/artist/6iFmzXMBX8z3Egytb0JRii) | [Criminal](https://open.spotify.com/album/7CZgWFavJsC6Xw1BJMusdx) | 2:10 | 2023-02-16 | 2023-03-01 |
 | [Criminal](https://open.spotify.com/track/4VQrJat2MItnL0LFV4nPLh) | [Stevy](https://open.spotify.com/artist/5zjk9uB67qJbv36gEYPLB5), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B), [¥ami](https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT) | [Criminal](https://open.spotify.com/album/1bVBtbblyGjF4FbJWqDU3d) | 2:37 | 2022-07-21 | 2022-10-14 |
 | [Criminal](https://open.spotify.com/track/1tEulLqSCX3Q9DOXxoRugI) | [Stevy](https://open.spotify.com/artist/5zjk9uB67qJbv36gEYPLB5), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [¥ami](https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B) | [Criminal](https://open.spotify.com/album/3xOLShtc9JC735vtyQRlyl) | 2:37 | 2022-07-14 | 2022-07-29 |
@@ -688,6 +689,7 @@
 | [Madness](https://open.spotify.com/track/2Pu3Ux9Gv1e2UixicsUeLo) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Madness](https://open.spotify.com/album/1B6JEWEFeYzO4iRj0NQex7) | 2:04 | 2023-01-19 | 2023-03-03 |
 | [Mafioso \(feat\. Henkie T & Eves Laurent\)](https://open.spotify.com/track/4yNHc6EU5G7dFtg775usCD) | [Hakmadafack](https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Mafioso](https://open.spotify.com/album/0Y2N4LZj8PKiJiLTMiUnd0) | 2:28 | 2024-07-04 | 2024-11-05 |
 | [Makka Nakki](https://open.spotify.com/track/2saCQt4Ls4GzuEyNpRYjlF) | [Shockman](https://open.spotify.com/artist/1yqwpsovt61So9S0YfoEss) | [Makka Nakki](https://open.spotify.com/album/1SAboJlUpxxScikS0FWXCv) | 3:05 | 2023-05-18 | 2023-06-09 |
+| [MAL DE AMORES](https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [MAL DE AMORES](https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO) | 3:30 | 2025-03-03 |  |
 | [Malika](https://open.spotify.com/track/6i5UMe6HmUHloexLDxAQQc) | [Pietju Bell](https://open.spotify.com/artist/1u93ZA92GfXqLgNv4x8uJv) | [Malika](https://open.spotify.com/album/6AmpLxFKpl3p1tP5OVqTPr) | 2:28 | 2023-09-07 | 2023-09-22 |
 | [MALO](https://open.spotify.com/track/6rrvp92Tq5z4BgZp7fCyA2) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG) | [MALO](https://open.spotify.com/album/1mGgtzDE8CO86ApVNvKUVN) | 2:39 | 2022-08-18 | 2022-09-02 |
 | [Mamacita](https://open.spotify.com/track/7mrhc9jiOHMuP10wZGKHoA) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Mamacita](https://open.spotify.com/album/11kWdWt8YL8h7nKcNKB9p3) | 2:18 | 2023-06-22 | 2023-07-28 |

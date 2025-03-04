@@ -2,9 +2,9 @@
 
 ### [needle drop](https://open.spotify.com/playlist/37i9dQZF1DXbLzW15wHm9R)
 
-> Original and synced songs that will stay with you long after the credits roll...Cover: My Fault: London
+> Original and synced songs that will stay with you long after the credits roll...Cover: Anora
 
-111 songs - 6 hr 9 min
+112 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Disclaimer](https://open.spotify.com/track/0ynCHtvhUYkbcLB2mJ64x2) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF) | [Disclaimer \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7wRoNLFkn4AbAvOauKvHW8) | 0:49 | 2024-10-18 | 2025-02-25 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/11VrJD8qYi3S0nPSVugSec) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Idol Episode 2 \(Music from the HBO Original Series\)](https://open.spotify.com/album/2SQvwkhFgWxdf2q0ZZvpQi) | 4:28 | 2024-01-13 | 2024-07-11 |
 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 | 2024-06-14 |  |
+| [El Mal](https://open.spotify.com/track/0mKR0vmt8jj6Z3mWpxITF1) | [Zoe Saldana](https://open.spotify.com/artist/6p59yGapoBAiuGKKu7Plw1), [Karla Sofía Gascón](https://open.spotify.com/artist/1yQuyUJsonCoCj6QJnmLcM), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Emilia Pérez \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bY3PJREfxHbBIzDMEIb2r) | 3:38 | 2025-03-03 |  |
 | [Enlightenment \(Main Title Theme\) \- from "The White Lotus: Season 3"](https://open.spotify.com/track/2IGWD7cCtMJMfCBlXSIbz1) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [Enlightenment \(Main Title Theme\) \[from "The White Lotus: Season 3"\]](https://open.spotify.com/album/68Tez3SUB1FkgpwfoTpaLY) | 1:46 | 2025-02-25 |  |
 | [Father Figure \- Remastered \- featured in 'Babygirl'](https://open.spotify.com/track/6eL7t6s1AL4l982wfAU8pv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:40 | 2025-01-09 |  |
 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-04-17 |  |
@@ -117,7 +118,7 @@
 | [Yeah x10](https://open.spotify.com/track/0kqLsYEktElJRKFprEiJsI) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Challengers \(Original Score\)](https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv) | 2:38 | 2024-05-03 | 2024-06-15 |
 | [Yes No Okay](https://open.spotify.com/track/6GQzzmWX9hUV23fyhbFNm7) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BOTTOMS \(Original Motion Picture Score\)](https://open.spotify.com/album/48ZXLW2ZEThXeScpsxelMa) | 3:04 | 2024-01-13 | 2024-01-31 |
 | [You Belong With Me](https://open.spotify.com/track/6dpjJIWTgTJQyviasKWjk4) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Three \(Covers from the Netflix Series\)](https://open.spotify.com/album/2euYqZ4wqxj9dPRzkkZxgd) | 4:01 | 2024-06-14 | 2024-11-13 |
-| [You'll Be OK, Kid \- From the Original Documentary “Child Star”](https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [You'll Be OK, Kid \(From the Original Documentary “Child Star”\)](https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK) | 2:46 | 2024-09-13 |  |
+| [You'll Be OK, Kid \- From the Original Documentary “Child Star”](https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [You'll Be OK, Kid \(From the Original Documentary “Child Star”\)](https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK) | 2:46 | 2024-09-13 | 2025-03-04 |
 | [Your Man](https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 2:43 | 2025-02-25 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

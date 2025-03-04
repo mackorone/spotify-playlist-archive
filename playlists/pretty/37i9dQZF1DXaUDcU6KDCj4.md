@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Nathaniel Rateliff & Gregory Alan Isakov
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,249 likes - 149 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,361 likes - 149 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

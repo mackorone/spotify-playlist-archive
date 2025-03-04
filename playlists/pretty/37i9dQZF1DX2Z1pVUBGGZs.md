@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring matilda mann  ☁️
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,968 likes - 88 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,959 likes - 88 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

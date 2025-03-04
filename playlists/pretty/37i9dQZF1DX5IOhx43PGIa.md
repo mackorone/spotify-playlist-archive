@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\.  Cover: Tiger La Flor
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,300 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,296 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [troy](https://open.spotify.com/track/0G0LDsxvVish4579MADppT) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [tiny shiny beautiful](https://open.spotify.com/album/5vZ5Ozvnz98s9pgh3pU014) | 3:08 |
 | 100 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
 
-Snapshot ID: `Z8IhFQAAAAAjQ54AXx0TSPC6WvBNtFFA`
+Snapshot ID: `Z8IhFQAAAADv2tYr+dGpELWcNCcUAXLK`

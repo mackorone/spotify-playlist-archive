@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Gabby's Dollhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,020 likes - 355 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,231 likes - 355 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -364,4 +364,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 354 | [Open Shut Them](https://open.spotify.com/track/2bo8EzJS1zfT2AbnntJpuE) | [ItsyBitsyKids](https://open.spotify.com/artist/69sRWANSmSFxBlJ7yfx3Au) | [Open Shut Them](https://open.spotify.com/album/3BTzETecI6nG1FieG6dJWk) | 2:02 |
 | 355 | [Why Do We Sing?](https://open.spotify.com/track/5rLyfu4AnRcGoL4N6BM4hx) | [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Casey Breves](https://open.spotify.com/artist/5Mbw0q0VWmUbNrqqmQrSN0) | [Why Do We Sing? \(The Official Soundtrack\)](https://open.spotify.com/album/3W2eSspksMacyMqKOc1lTS) | 3:15 |
 
-Snapshot ID: `Z8FC/QAAAABwIG2cR4MGegNOXe1QtdKd`
+Snapshot ID: `Z8FC/QAAAACqNDdPnrV9XQHLGR4Z7tvA`

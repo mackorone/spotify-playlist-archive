@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,848 likes - 178 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,883 likes - 178 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 177 | [Hidden Valley](https://open.spotify.com/track/7L1Q7yKHRHZ2dQFr1jjhTn) | [neon cosmo](https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV) | [Hidden Valley](https://open.spotify.com/album/1xMahjlI61f6O6DBDFPfP3) | 2:58 |
 | 178 | [Hiemal](https://open.spotify.com/track/7EZKkc9CWvBoB52E2g2rFP) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Hiemal](https://open.spotify.com/album/7oKLhCmpADNtLE1j2v8f3i) | 2:47 |
 
-Snapshot ID: `Z5pWvgAAAABnZso5nNt+RI9LCjhpbZXA`
+Snapshot ID: `Z5pWvgAAAADstUkADBjedKZySJ6GfFMy`

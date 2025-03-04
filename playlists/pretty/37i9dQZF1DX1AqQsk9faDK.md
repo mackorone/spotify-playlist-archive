@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Aline Barros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,969 likes - 25 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,990 likes - 25 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 24 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y) | 5:12 |
 | 25 | [Eu Sou Teu \- Ao Vivo](https://open.spotify.com/track/6kwSqxf0fZSYs5FZ74z1gb) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Saudade \(Ao Vivo\)](https://open.spotify.com/album/40yQbd3fUiPcKbNKM3oJqX) | 7:04 |
 
-Snapshot ID: `Z2WEiAAAAAA/tuye5BFopHQsN2Dd+mxP`
+Snapshot ID: `Z2WEiAAAAAAz/TszVkfih6aWjFd22gM8`

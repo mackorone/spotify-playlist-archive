@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-52 songs - 3 hr 0 min
+53 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [GOT IT GOOD \(feat\. Craig David\)](https://open.spotify.com/track/2xyi5jBkaQ741tXWTiqyr0) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 3:48 | 2024-01-29 |  |
 | [HAPPINESS IN LIMBO](https://open.spotify.com/track/7GlCuPNA2ARZ93sHgK7Kpi) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 2:31 | 2024-01-29 |  |
 | [Heart Eyes](https://open.spotify.com/track/3dkelZbHXxqpdgVueyQtoT) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Heart Eyes](https://open.spotify.com/album/4C2HRJSaZwBzwIpcxCdKhN) | 2:58 | 2024-01-29 |  |
-| [High \(feat\. Lauren Faith\)](https://open.spotify.com/track/0jwGWqhXgfS8KAg4CkHEAh) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Cervendos](https://open.spotify.com/artist/3DZRro0HzRPtZ5UxJzf6gZ), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [High \(feat\. Lauren Faith\)](https://open.spotify.com/album/3U9B6PXoVMTvtpK7mHzUnG) | 6:41 | 2024-01-29 |  |
+| [High](https://open.spotify.com/track/31EN3aJtDh5Tpd8fWSqLhO) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Cervendos](https://open.spotify.com/artist/3DZRro0HzRPtZ5UxJzf6gZ), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [High](https://open.spotify.com/album/274RjiIvWoIG9TyyaMjOTL) | 6:41 | 2025-03-03 |  |
+| [High \(feat\. Lauren Faith\)](https://open.spotify.com/track/0jwGWqhXgfS8KAg4CkHEAh) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Cervendos](https://open.spotify.com/artist/3DZRro0HzRPtZ5UxJzf6gZ), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [High \(feat\. Lauren Faith\)](https://open.spotify.com/album/3U9B6PXoVMTvtpK7mHzUnG) | 6:41 | 2024-01-29 | 2025-03-04 |
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2024-01-29 |  |
 | [Hold You Close](https://open.spotify.com/track/6XUqh81UVxLLp9AUGoUW0E) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:47 | 2024-01-29 |  |
 | [It's All A Blur](https://open.spotify.com/track/77tvzb6cRvtpoesYfJHhgC) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:14 | 2024-01-29 |  |

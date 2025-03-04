@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Tim Maia",
-  "num_followers": 1385767,
+  "num_followers": 1386127,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
+      "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 246492,
       "name": "Relic\u00e1rio - Ao Vivo",
       "url": "https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
-      "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -359,18 +359,18 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
       "artists": [
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
         }
       ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+      "duration_ms": 140426,
+      "name": "Gente Aberta",
+      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -391,18 +391,18 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
       "artists": [
         {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Gente Aberta",
-      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
-      },
-      "artists": [
-        {
-          "name": "Secos & Molhados",
-          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Sangue latino",
-      "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 200240,
       "name": "O B\u00eabado e a Equilibrista",
       "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
+      },
+      "artists": [
+        {
+          "name": "Secos & Molhados",
+          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Sangue latino",
+      "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "Carnav\u00e1lia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 270029,
-      "name": "Carnav\u00e1lia - Ao Vivo",
-      "url": "https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
         "name": "Os Primeiros Anos",
         "url": "https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 122760,
       "name": "Canto de Ossanha",
       "url": "https://open.spotify.com/track/5N8wA5SKIlFk2gtQR7NGqT"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
+        "name": "Carnav\u00e1lia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 270029,
+      "name": "Carnav\u00e1lia - Ao Vivo",
+      "url": "https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
+        "name": "Dr\u00e3o (Remasterizado)",
+        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 311745,
+      "name": "Dr\u00e3o - Remasterizado",
+      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
         "name": "Couvert Art\u00edstico JB FM: Fagner",
         "url": "https://open.spotify.com/album/0bAb2GnNJrS8AQUOJJvpue"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 276480,
       "name": "Noturno (Cora\u00e7\u00e3o Alado)",
       "url": "https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
-        "name": "Dr\u00e3o (Remasterizado)",
-        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 311745,
-      "name": "Dr\u00e3o - Remasterizado",
-      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
     },
     {
       "added_at": "2025-01-31 13:44:06",

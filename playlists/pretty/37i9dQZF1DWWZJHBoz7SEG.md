@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > El álbum de la Trini, la nueva rola de Tito y más para disfrutar el finde! ✨ La Trinidad en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,619 likes - 61 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,721 likes - 61 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 60 | [Starlight](https://open.spotify.com/track/6QRzoZsudSIAA0vwZSrqe7) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Starlight](https://open.spotify.com/album/1Tx0nvD2lCBrjgWvBJ2IXB) | 3:49 |
 | 61 | [Un Trato Es Un Trato](https://open.spotify.com/track/4cRC8dthMvjgxjx74DjwkT) | [Dimitri y las brujas](https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr) | [Un Trato Es Un Trato](https://open.spotify.com/album/5Eqa3Ec8hlvv6l2CTR3hzh) | 2:38 |
 
-Snapshot ID: `Z8FQ4AAAAADpS7xNFsl92urlLoTDpjpc`
+Snapshot ID: `Z8FQ4AAAAADfSkFt71ywpqajmk3lat1e`

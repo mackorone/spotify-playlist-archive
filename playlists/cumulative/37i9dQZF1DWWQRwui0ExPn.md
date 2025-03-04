@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,243 songs - 11 day 10 hr 23 min
+7,244 songs - 11 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,7 +650,7 @@
 | [Bewildered](https://open.spotify.com/track/3zBW8HNLcaWxq4eb4UcmDr) | [Hanz](https://open.spotify.com/artist/1eL4DVwObeAZjGOVjASAXd) | [Leaving For Good](https://open.spotify.com/album/4MbL2phbfJeWMe9fFktZO0) | 2:35 | 2020-01-04 | 2020-08-20 |
 | [Beyond](https://open.spotify.com/track/158ZLsdUyy4Bz1IlWF0ARw) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Beyond](https://open.spotify.com/album/7BaDBc2oS00LGCH6dwNGT7) | 2:38 | 2022-10-14 | 2022-11-24 |
 | [Beyond](https://open.spotify.com/track/7mrhq5wKgleoTMEhPaYFVZ) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Beyond](https://open.spotify.com/album/5derbS2MszismcCTzBKEcI) | 2:38 | 2022-11-18 | 2022-12-16 |
-| [Beyond Horizon](https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6) | [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Beyond Horizon](https://open.spotify.com/album/7sFhglt5Ep3jpiKHKburpp) | 2:05 | 2025-02-28 |  |
+| [Beyond Horizon](https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6) | [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Beyond Horizon](https://open.spotify.com/album/7sFhglt5Ep3jpiKHKburpp) | 2:05 | 2025-02-28 | 2025-03-04 |
 | [Beyond the Oak Trees](https://open.spotify.com/track/7lKqJYhKWmuxtHHSiGg9un) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Beyond the Oak Trees](https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph) | 2:53 | 2021-09-04 | 2022-04-08 |
 | [beyond the pines](https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [beyond the pines](https://open.spotify.com/album/53go6havwrx2e6kqQVvoM8) | 1:51 | 2022-08-19 | 2022-11-25 |
 | [Beyond Time](https://open.spotify.com/track/1OTg9m7xqP3mbTuvLetkJr) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Beyond Time](https://open.spotify.com/album/6ygdAyFkxkK6teDGbwwOcu) | 2:30 | 2022-09-30 | 2022-12-16 |
@@ -2074,7 +2074,7 @@
 | [feathertop forests](https://open.spotify.com/track/4Go7t9xd8jlcGL1X4FB8fv) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Rhoda](https://open.spotify.com/artist/3WJm3V66gZQu1jdr63fWkO) | [inward isles](https://open.spotify.com/album/5e47DYxTRX5SNzwKiv8Gdx) | 2:24 | 2019-06-24 | 2019-11-29 |
 | [february blue](https://open.spotify.com/track/5NZ8vxOcuyjcLmjCnjzTrw) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [february blue](https://open.spotify.com/album/3VEvkmVVk4m3g0aJT8482L) | 2:30 | 2023-12-15 |  |
 | [feel](https://open.spotify.com/track/27mDTC0vlah03ezVsuWRfi) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/0OTvxFZwmfmKoDGyFKWWNe) | 1:44 | 2019-06-06 | 2020-03-17 |
-| [Feel Again](https://open.spotify.com/track/3NgaKZhxtToeKgvZF0bmU3) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Feel Again](https://open.spotify.com/album/4NfYIDEiwrsnnY7mCxcJpp) | 3:12 | 2024-11-29 | 2025-02-13 |
+| [Feel Again](https://open.spotify.com/track/3NgaKZhxtToeKgvZF0bmU3) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Feel Again](https://open.spotify.com/album/4NfYIDEiwrsnnY7mCxcJpp) | 3:12 | 2024-11-29 |  |
 | [Feel Free](https://open.spotify.com/track/6L8gNflQsaNQv7uY8IVjE4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Feel Free](https://open.spotify.com/album/2rMoeNbx0m4q9dhVDfxgBF) | 2:19 | 2022-04-23 | 2022-09-16 |
 | [Feel Jolly](https://open.spotify.com/track/2X7IEYH1ani18XiYyhFYaY) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Feel Jolly](https://open.spotify.com/album/43mTxTivOAECBc4LcAaHz5) | 2:52 | 2021-10-20 | 2022-04-24 |
 | [Feel like that](https://open.spotify.com/track/1wmyRW1C7MIFJR7Wb8xXHM) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Feel like that](https://open.spotify.com/album/0LeeMJ2aOUhgEf0cFDi13N) | 2:07 | 2023-03-24 | 2023-06-08 |
@@ -2128,6 +2128,7 @@
 | [Fire Pit](https://open.spotify.com/track/7Avn0yIRmJDSNDcAFavjPp) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [Fire Pit](https://open.spotify.com/album/6BxnC4fI2KZPA0XE3rUwlr) | 1:46 | 2021-12-03 | 2022-06-24 |
 | [Fireflies](https://open.spotify.com/track/1yhJ91ZV3HHHeyMh6PWdWb) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Moving On](https://open.spotify.com/album/4eEnMogQrztnJDxfO9lWtV) | 2:20 | 2022-12-23 | 2023-12-01 |
 | [Fireflies](https://open.spotify.com/track/4pjPfP4YXFfynRTQGtmARQ) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Fireflies](https://open.spotify.com/album/4wFCeuxaBeLLMVE6qCUwtn) | 1:58 | 2024-03-15 | 2024-10-17 |
+| [Fireflies](https://open.spotify.com/track/3GFItUfLkiLY3x7jDAklZ1) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Fireflies](https://open.spotify.com/album/0gwN9YRYyiDSVQZdfoFjzl) | 2:15 | 2025-02-28 |  |
 | [fireflies](https://open.spotify.com/track/1fGClKBNkOaUpln9iJBDeW) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [fireflies](https://open.spotify.com/album/03Hs17HNkxoBHA0YoxE0oy) | 2:08 | 2022-01-07 | 2022-07-08 |
 | [Fireflies](https://open.spotify.com/track/31oqOyJpDvqXTmXvkK0N2a) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [Silhouettes](https://open.spotify.com/album/4lc9tBibPzBlF0tPBXJShn) | 1:52 | 2021-10-20 | 2022-04-24 |
 | [Firekeeper](https://open.spotify.com/track/0dsIqcTXyUK8RaF7Ki3CWn) | [Corduroy Egg](https://open.spotify.com/artist/5E21RC40PseknqTaydpYNS) | [Firekeeper](https://open.spotify.com/album/5aV5Y2s84V4hVyTomDexSz) | 2:08 | 2021-12-03 | 2022-06-24 |
@@ -3524,7 +3525,7 @@
 | [Light Blue](https://open.spotify.com/track/1MR84S2jOKu98U48pUIFQA) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Light Blue](https://open.spotify.com/album/46cEmEYX7yPfkwyFVAEBCh) | 2:37 | 2022-09-02 | 2022-11-20 |
 | [Light Blue](https://open.spotify.com/track/2RTfUv4FdLK04d2oasfaND) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Light Blue](https://open.spotify.com/album/7EmayVIg0jsQZeCJrlpSAn) | 2:37 | 2022-11-18 | 2022-12-09 |
 | [light breeze](https://open.spotify.com/track/2Q6U5dHI5X0k4jG8Zbww8F) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [light breeze](https://open.spotify.com/album/6tNzcgbxRRZaLctoLugAX7) | 2:49 | 2022-08-26 | 2022-11-25 |
-| [Light Breeze](https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Light Breeze](https://open.spotify.com/album/3cGiW50UTCjwTrUDV0Vtth) | 2:05 | 2023-09-22 |  |
+| [Light Breeze](https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Light Breeze](https://open.spotify.com/album/3cGiW50UTCjwTrUDV0Vtth) | 2:05 | 2023-09-22 | 2025-03-04 |
 | [Light It Up](https://open.spotify.com/track/0UnxuUzeW8LAAgQFbOgOwS) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Light It Up](https://open.spotify.com/album/2lDFPAiVZclsLncjbYjlrh) | 2:35 | 2023-08-10 | 2023-09-20 |
 | [Light Time](https://open.spotify.com/track/6GykzEBOn6H9QNmEYhjK6q) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ) | [Light Time](https://open.spotify.com/album/4xtCLh67I4JlB7wUKwG5vS) | 1:15 | 2022-07-29 | 2022-11-11 |
 | [Light Tower](https://open.spotify.com/track/1j5iv2pHY6bhK3FNPqduhS) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Textures, Vol\. 1](https://open.spotify.com/album/12kYlTM2a3e5ONRZD5XsUl) | 1:28 | 2019-11-20 | 2020-06-24 |

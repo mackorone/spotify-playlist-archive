@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 225994,
       "name": "Alto Troyanaje",
       "url": "https://open.spotify.com/track/50qm2o9IDiRpn62f3NMzw8"
@@ -7809,6 +7809,36 @@
     },
     {
       "album": {
+        "name": "Gyal Ushh",
+        "url": "https://open.spotify.com/album/6gF3wFF2KgzMd7Rl1OKg1r"
+      },
+      "artists": [
+        {
+          "name": "Sossa",
+          "url": "https://open.spotify.com/artist/27popMcDKX0XWFqlq4vTXZ"
+        },
+        {
+          "name": "Bruno Marcelo",
+          "url": "https://open.spotify.com/artist/2Kw8bTqfGNAH3hOmR0aSsm"
+        },
+        {
+          "name": "Young Kelly",
+          "url": "https://open.spotify.com/artist/2gt9UmEFr4DcLDPvVRRNYT"
+        },
+        {
+          "name": "Jey Joe",
+          "url": "https://open.spotify.com/artist/5Uzhr0fuwAsA0yXCNK9MuV"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "Gyal Ushh",
+      "url": "https://open.spotify.com/track/6BYjRROXYtoCHxiGLh2tbZ"
+    },
+    {
+      "album": {
         "name": "HABLAME CLARO",
         "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
       },
@@ -10714,7 +10744,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 186521,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4eLDmhsJW3JoZTXCAozHor"
@@ -11910,7 +11940,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 256640,
       "name": "Melissa & Julissa",
       "url": "https://open.spotify.com/track/0QMnlDSfdLaSaEVdgAtthL"
@@ -14320,9 +14350,9 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 255164,
-      "name": "Peluchito (Remix)",
+      "name": "Peluchito - Remix",
       "url": "https://open.spotify.com/track/1ttLLA1I2CaTQ2i2tvE8gb"
     },
     {
@@ -15076,7 +15106,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 183673,
       "name": "PONTE LOKITA",
       "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
@@ -17296,7 +17326,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
@@ -19288,7 +19318,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
@@ -20270,7 +20300,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
@@ -20550,7 +20580,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"

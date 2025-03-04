@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Everything Broadway-adjacent. Cover:  Ariana Grande & Cynthia Erivo",
+  "description": "Everything Broadway-adjacent. Cover:  Ariana Grande ",
   "name": "Off Broadway",
   "tracks": [
     {
@@ -870,10 +870,32 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 226405,
       "name": "Carried Away - From the \u201cLyle Lyle Crocodile\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/7GsdXZI26fL2mFqAhGDGZr"
+    },
+    {
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149706,
+      "name": "City Of Stars - From \"La La Land\" Soundtrack",
+      "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
     },
     {
       "album": {
@@ -906,7 +928,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 249413,
       "name": "Come to Your Senses - end credit version",
       "url": "https://open.spotify.com/track/2iCHrDnD5neO0bNAsN71TK"
@@ -1156,7 +1178,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 178429,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/73QEmww7TRmy7zF3qV5DAE"
@@ -1218,7 +1240,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 191226,
       "name": "Everybody's Coming Together",
       "url": "https://open.spotify.com/track/5t2IHN1tkZOGT7WzfPJZsq"
@@ -1244,7 +1266,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 256010,
       "name": "Everything's Alright",
       "url": "https://open.spotify.com/track/63V7zJBnSrPEqKJtcJtruQ"
@@ -1487,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "The Wiz",
+        "url": "https://open.spotify.com/album/2QrINaaKpAWNtQfjzNaP5y"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242533,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/43IpC2t4If3yLz6IWc4m3f"
+    },
+    {
+      "album": {
         "name": "Together At A Distance",
         "url": "https://open.spotify.com/album/59ninoXyrak9KxDAeGqVVi"
       },
@@ -1606,7 +1646,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 216973,
       "name": "I See You",
       "url": "https://open.spotify.com/track/7e0UPfaj00fm8KtJsA7jtX"
@@ -2222,7 +2262,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 225720,
       "name": "Love Me for an Hour",
       "url": "https://open.spotify.com/track/3SyqGwrw1VZjKSe8V1JP5b"
@@ -2538,7 +2578,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 211964,
       "name": "Nose to Nose",
       "url": "https://open.spotify.com/track/7vczAHzfnUqcsRcUbHKZKW"
@@ -2744,6 +2784,24 @@
       "duration_ms": 226700,
       "name": "Out Alpha The Alpha",
       "url": "https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm"
+    },
+    {
+      "album": {
+        "name": "The Wizard of Oz (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6YJkcbbY6GiUGBzgE8AFxr"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165240,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/568SEFtDjKr7N2PytpA6D5"
     },
     {
       "album": {
@@ -2966,7 +3024,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 182980,
       "name": "Rhythm Of My Heart (From \"Pacemaker\") [Original Soundtrack]",
       "url": "https://open.spotify.com/track/5cAiboYMkTsZKJFFShGVf7"
@@ -3332,7 +3390,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 202533,
       "name": "Song About You",
       "url": "https://open.spotify.com/track/01Dmc9x1ogPGsk80kWK4nY"
@@ -3420,7 +3478,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 170471,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/7KjIhqpp6bpUc4W9sllJud"
@@ -3502,7 +3560,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 256328,
       "name": "Survive The Night",
       "url": "https://open.spotify.com/track/25YJpVrQBDAh6Zu8frDwgp"
@@ -3520,7 +3578,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 178582,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/5Z0WrP05lXzIDFmq104Knq"
@@ -4437,6 +4495,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241776,
+      "name": "You'll Be in My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
+    },
+    {
+      "album": {
         "name": "You're A Good Man, Charlie Brown",
         "url": "https://open.spotify.com/album/2nprV770V4gyXUYuOQ7jPz"
       },
@@ -4492,7 +4568,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 314765,
       "name": "You\u2019re Not Here",
       "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"

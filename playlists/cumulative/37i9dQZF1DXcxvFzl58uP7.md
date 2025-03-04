@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-1,009 songs - 2 day 4 hr 23 min
+1,012 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Bends](https://open.spotify.com/track/31hlhFQVLQS4VADMTPl59i) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Bends](https://open.spotify.com/album/3LIYf4uhGMwW4ccnXLWPpQ) | 2:35 | 2020-06-29 | 2022-07-29 |
 | [Bends](https://open.spotify.com/track/7neXef29cogkuASB5rTafo) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Cut Out](https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB) | 2:35 | 2021-02-27 | 2022-12-15 |
 | [BERNADETTE](https://open.spotify.com/track/1Vr58OrTTkru2xyFEwEf6z) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [BERNADETTE](https://open.spotify.com/album/753cAFVuIEKz16wM8K7B38) | 2:24 | 2021-03-19 | 2022-04-29 |
-| [best day ever](https://open.spotify.com/track/1dDxFfGse3z7OuWSM6ApL8) | [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [best day ever](https://open.spotify.com/album/6TMVATY5T9p1vFTrvYVvas) | 3:29 | 2024-08-02 |  |
+| [best day ever](https://open.spotify.com/track/1dDxFfGse3z7OuWSM6ApL8) | [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [best day ever](https://open.spotify.com/album/6TMVATY5T9p1vFTrvYVvas) | 3:29 | 2024-08-02 | 2025-03-04 |
 | [Best Friend](https://open.spotify.com/track/6YM4q2BaSNMQZgSVsMT2ar) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 2:30 | 2020-06-12 | 2021-03-21 |
 | [Best Person You Know](https://open.spotify.com/track/4lGu6pGvisz3Zvv1ThCEPd) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Best Person You Know](https://open.spotify.com/album/40f3HSi3lKHsv84Cu15xYX) | 4:21 | 2022-01-11 | 2022-07-27 |
 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-07-18 |  |
@@ -369,7 +369,7 @@
 | [golden feeling since june](https://open.spotify.com/track/4ALuKkHjcduEJq9wll2uEJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Over Grey Skies](https://open.spotify.com/album/0lR03Yi5SSu0IeFMkE7jG1) | 2:27 | 2019-07-30\* | 2021-05-03 |
 | [Golden Light](https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L) | 4:43 | 2024-04-23 |  |
 | [Good Dog](https://open.spotify.com/track/5T0Y9lMJNNA50FswxRPkmX) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [Good Dog](https://open.spotify.com/album/3OFQDp9qEGZvI9QeAZqCYK) | 2:58 | 2021-04-30 | 2021-08-25 |
-| [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 | 2024-07-05 |  |
+| [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 | 2024-07-05 | 2025-03-04 |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-10 | 2024-11-20 |
 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 | 2019-07-30\* | 2022-07-29 |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2021-02-27 | 2024-04-19 |
@@ -466,6 +466,7 @@
 | [i'm yours](https://open.spotify.com/track/2OXpbQZOHOFS9GWEuBmxEY) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [i'm yours](https://open.spotify.com/album/42XuqxZBSzbHBw8swRqMsZ) | 3:45 | 2023-09-29 | 2024-02-05 |
 | [i'm yours](https://open.spotify.com/track/5zQsdone0i50L5BbjmrrBU) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [i'm yours](https://open.spotify.com/album/4WjUW5sV61gIzwBuvy2Bwi) | 3:45 | 2023-04-17 | 2023-10-24 |
 | [if it's not you](https://open.spotify.com/track/6jInHQJR01A97PbhwCwMzP) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:46 | 2024-11-25 |  |
+| [If Only With You](https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [If Only With You](https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ) | 3:14 | 2025-03-03 |  |
 | [ill live forever](https://open.spotify.com/track/6xRRUo0VWVFMprRwXvR18R) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX), [recycleBin](https://open.spotify.com/artist/1qB8BJOcuJuNQw0cPy5RZ2) | [ill live forever](https://open.spotify.com/album/4txfuIr7OZ9qCtaDZOmLUS) | 2:46 | 2022-03-04 | 2022-07-10 |
 | [IN A DREAM](https://open.spotify.com/track/1Lrm01aadgKEkg1uTPRRu7) | [Jack Omstead](https://open.spotify.com/artist/3o9Z1zKnJEIuPtu20rQ8Br) | [IN A DREAM](https://open.spotify.com/album/1KxpWvbvntMFQW7G5OzJLa) | 2:02 | 2021-10-29 | 2022-04-21 |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2024-04-23 |  |
@@ -708,7 +709,7 @@
 | [Rare](https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Moonlight/Rare](https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv) | 3:04 | 2022-03-04 | 2025-01-13 |
 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 | 2021-04-12 | 2022-04-21 |
 | [Real Life](https://open.spotify.com/track/5aqslHfDoGviK5vRwyQQgd) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [Real Life](https://open.spotify.com/album/4QEaQ0w17wI48QSvnrR2Fq) | 3:11 | 2019-08-11 | 2022-07-16 |
-| [Really good cry](https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 1:54 | 2024-04-23 |  |
+| [Really good cry](https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 1:54 | 2024-04-23 | 2025-03-04 |
 | [Red Light](https://open.spotify.com/track/4MrYs5bPQYkLjx0TZxzvSR) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Red Light](https://open.spotify.com/album/6Whcc2P1zUjqH3xos7Aeam) | 4:07 | 2020-04-21 | 2021-07-07 |
 | [Rendezvous](https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Rendezvous](https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl) | 3:12 | 2024-04-23 | 2024-11-26 |
 | [reruN](https://open.spotify.com/track/6awVH99PHaNfzVyrE04JQq) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [reruN](https://open.spotify.com/album/2D51CHmzMP99e2XlHpkcpM) | 3:09 | 2020-09-25 | 2021-05-28 |
@@ -807,6 +808,7 @@
 | [Sore Throat](https://open.spotify.com/track/0RIytgkROdfZLR87vkquo8) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Sore Throat](https://open.spotify.com/album/3LVfHCrY81FRJBhgj8At35) | 2:01 | 2019-10-31 | 2022-04-12 |
 | [Sorry](https://open.spotify.com/track/7LHp74RcZNzo19YH6ZX3mL) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Sorry](https://open.spotify.com/album/16ZPZhvDZa9poswDtxxhtw) | 2:25 | 2021-03-19 | 2021-05-19 |
 | [Sorry](https://open.spotify.com/track/7Hs4BDVWvKvKzfr5A0pI9K) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Sorry // Single](https://open.spotify.com/album/34ywWzeLG8WVOwgyV6vLUY) | 3:31 | 2019-08-02 | 2021-05-26 |
+| [sorrynotsorry](https://open.spotify.com/track/1TI8NKAfjMvvx6P5M0u1Iy) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [sorrynotsorry](https://open.spotify.com/album/3Py8BTTA0sId5dkgSRNYOH) | 1:54 | 2025-03-03 |  |
 | [Sour Switchblade](https://open.spotify.com/track/39d1cTisYJIbQE3BJNB5KY) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Sour Switchblade](https://open.spotify.com/album/08604CFDc915v2omjreOry) | 2:28 | 2021-09-10 | 2022-04-19 |
 | [Sour Switchblade](https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Sour Switchblade](https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4) | 2:28 | 2021-09-10 | 2022-12-15 |
 | [Speak \(Future Generations Remix\)](https://open.spotify.com/track/7DFfKlTQcyY4W3EVGMQfE2) | [Gracie and Rachel](https://open.spotify.com/artist/4jKFMEVOa9uon9utRFsLLX), [Future Generations](https://open.spotify.com/artist/3wKj5PmSpnrtz9n9hG2QCA) | [Speak \(Up\)](https://open.spotify.com/album/106iB8oMm45pg0B3lZwymf) | 3:00 | 2021-03-02 | 2021-05-28 |
@@ -818,6 +820,7 @@
 | [Still Beating](https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 3:01 | 2019-07-30\* | 2022-07-29 |
 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 | 2021-02-27 | 2024-04-19 |
 | [Still Got You](https://open.spotify.com/track/4YqhexywnAsA3fiIb1mdGl) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY) | [Still Got You](https://open.spotify.com/album/4WYoDZAUzdn2ArmyrfUcT8) | 2:13 | 2019-07-31 | 2019-10-17 |
+| [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Tulips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 | 2025-03-03 |  |
 | [Stop Staring](https://open.spotify.com/track/26dMPg9O1lmT45wqdBu85t) | [Japan, Man](https://open.spotify.com/artist/54MEW8n5kP8oN7qSvb72Nb) | [Stop Staring](https://open.spotify.com/album/0vhMDWRssPFuGmFGBLf5xq) | 3:27 | 2019-07-30\* | 2020-04-24 |
 | [strawberry cheeks](https://open.spotify.com/track/4zaLAS8k38OrOzcixofzwj) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [strawberry cheeks](https://open.spotify.com/album/0qy7ydTLwBmQeHbJMHL88t) | 2:14 | 2021-05-14 | 2022-04-16 |
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-03-04 | 2022-07-27 |

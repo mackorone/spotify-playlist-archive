@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-344 songs - 20 hr 9 min
+345 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,8 @@
 | [Wait 'Till You See Him](https://open.spotify.com/track/3UiVOSQ8iFw8xIdaogXsSe) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Movin' With Nancy](https://open.spotify.com/album/5iiFf9TUtdMZOP0atl9gnJ) | 2:06 | 2024-07-26 |  |
 | [Way Out West](https://open.spotify.com/track/3VMFwHnd3FBPO2FmZUXxee) | [Melissa Rain Anderson](https://open.spotify.com/artist/5B8FUR0fqCirI9mY65JHBa), [Peter Eldridge](https://open.spotify.com/artist/0b4wBqOadiwtAZGq6mUUUE), [Mark Lanyon](https://open.spotify.com/artist/7F159CSp7IyLPFbfb4tOL8), [Daniel C\. Levine](https://open.spotify.com/artist/2IeX4XLOg9R0cgPUPnvWDR), [Ben Saypol](https://open.spotify.com/artist/549mdXKQKbX4DaBjSxoU1q), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [Babes In Arms \(1999 New York Cast Recording\)](https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1) | 4:50 | 2024-07-26 |  |
 | [We Kiss In A Shadow](https://open.spotify.com/track/0XBnhPCz2TDrIDgdWs66Ab) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [We Kiss In A Shadow](https://open.spotify.com/album/2Pbz2vEA3HhvZK5K20lK1P) | 2:43 | 2024-07-26 |  |
-| [What Can You Do With A Man](https://open.spotify.com/track/7nOD3lmGJjZPLOmdigso7w) | [Original Broadway Cast "Boys From Syracuse"](https://open.spotify.com/artist/04lk9uOaB66os7drkb8GeJ) | [Boys From Syracuse](https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI) | 3:13 | 2024-07-26 |  |
+| [What Can You Do With A Man](https://open.spotify.com/track/7nOD3lmGJjZPLOmdigso7w) | [Original Broadway Cast "Boys From Syracuse"](https://open.spotify.com/artist/04lk9uOaB66os7drkb8GeJ) | [Boys From Syracuse](https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI) | 3:13 | 2024-07-26 | 2025-03-04 |
+| [What Can You Do With A Man?](https://open.spotify.com/track/3tZWiMDVu8NUZo8UC8yTTV) | [Debbie Gravitte](https://open.spotify.com/artist/2JpR9gbNPF9CetFECCP7RD), [Michael McGrath](https://open.spotify.com/artist/3tzL9uNO4ATOzc31NhWi0O), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [The Boys From Syracuse: A Musical Comedy Sensation \(1997 Original New York Recording\)](https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp) | 3:00 | 2025-03-03 |  |
 | [What Is A Man](https://open.spotify.com/track/51PdHQxpI1WMVctMkNM3wu) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Pal Joey](https://open.spotify.com/album/7n1TDAd9pEPui46oT4jaFU) | 5:05 | 2024-12-11 |  |
 | [What Is a Man](https://open.spotify.com/track/5mpodYF5YDVbITmyB9DwiA) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Presenting Kenny Drew](https://open.spotify.com/album/5guNS5BbQS4HKuChj9vLDB) | 5:08 | 2024-07-26 | 2024-12-12 |
 | [What's the Use of Talking](https://open.spotify.com/track/6yTykOnTYKkXVTWpuA67IW) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [Command Performance](https://open.spotify.com/album/542GUcilC0dJm7di1mdJpI) | 2:57 | 2024-07-26 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan. Cover: Bayaan",
+  "description": "The hottest tracks trending in Pakistan. Cover: Farhan Saeed",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -4346,6 +4346,28 @@
       "duration_ms": 162018,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
+    },
+    {
+      "album": {
+        "name": "Khwabeeda",
+        "url": "https://open.spotify.com/album/7oE5nV1wTd9wvEZbM8qi02"
+      },
+      "artists": [
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        },
+        {
+          "name": "Nirmaan",
+          "url": "https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163297,
+      "name": "Khwabeeda",
+      "url": "https://open.spotify.com/track/2hYgz7q5qhBeRiKIdChC83"
     },
     {
       "album": {
@@ -8858,6 +8880,36 @@
       "duration_ms": 269268,
       "name": "Vitamin D",
       "url": "https://open.spotify.com/track/1Sy1Y7Kug6XseJi7Oy7enX"
+    },
+    {
+      "album": {
+        "name": "WASTED",
+        "url": "https://open.spotify.com/album/2cLii93QG7J7w3DHMiwcyG"
+      },
+      "artists": [
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "WASTED",
+      "url": "https://open.spotify.com/track/2KtIu2BonbDSi3tZKDxePU"
     },
     {
       "album": {

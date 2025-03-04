@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 88548,
+  "num_followers": 88551,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC9QAAAACp2nh7cc00Uy4zkGJozJkI",
+  "snapshot_id": "Z8Xa4AAAAAD3nKea2dGbhzCrdDkDwfqv",
   "tracks": [
     {
       "added_at": "2025-02-28 05:00:37",
@@ -155,6 +155,22 @@
       "duration_ms": 217232,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+    },
+    {
+      "added_at": "2025-03-03 16:37:52",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7axYw9E8XyrWEX4rqeV9aW"
+      },
+      "artists": [
+        {
+          "name": "Zola Simone",
+          "url": "https://open.spotify.com/artist/62EOPpT45FPsh7wWpWnv9K"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Running Dry",
+      "url": "https://open.spotify.com/track/0BDnLfRDvmTW609urDbWcv"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 176888,
       "name": "Anyways",
       "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
       "added_at": "2024-10-11 04:00:00",

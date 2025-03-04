@@ -1,6 +1,6 @@
 {
   "description": "big d com a senha da cena, fenomenal!",
-  "num_followers": 64547,
+  "num_followers": 64566,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,26 @@
     {
       "added_at": "2025-02-21 17:25:54",
       "album": {
+        "name": "APEDIDO",
+        "url": "https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 119360,
+      "name": "APEDIDO",
+      "url": "https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb"
+    },
+    {
+      "added_at": "2025-02-21 17:25:54",
+      "album": {
         "name": "Nega Doce",
         "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 133608,
       "name": "Meu Vulgo",
       "url": "https://open.spotify.com/track/1Gua866aqCYEVVRvAfZr3t"
-    },
-    {
-      "added_at": "2025-02-21 17:25:54",
-      "album": {
-        "name": "APEDIDO",
-        "url": "https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI"
-      },
-      "artists": [
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 119360,
-      "name": "APEDIDO",
-      "url": "https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb"
     },
     {
       "added_at": "2025-02-21 17:25:54",
@@ -647,26 +647,6 @@
     {
       "added_at": "2025-02-21 17:25:54",
       "album": {
-        "name": "Regras",
-        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        },
-        {
-          "name": "Plvco",
-          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "Regras",
-      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
-    },
-    {
-      "added_at": "2025-02-21 17:25:54",
-      "album": {
         "name": "Nega Doce",
         "url": "https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 149333,
       "name": "Fitas",
       "url": "https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2"
+    },
+    {
+      "added_at": "2025-02-21 17:25:54",
+      "album": {
+        "name": "Regras",
+        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        },
+        {
+          "name": "Plvco",
+          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "Regras",
+      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
     },
     {
       "added_at": "2025-02-21 17:25:54",

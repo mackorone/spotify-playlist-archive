@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: ShowyVICTOR
 
-1,458 songs - 3 day 2 hr 40 min
+1,459 songs - 3 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [BANDS! \(feat\. ShowyVICTOR & Nyture\)](https://open.spotify.com/track/2130kEjZH8rs1gGGO2maev) | [Riribeatz](https://open.spotify.com/artist/4vZkqsvZNwDxGpqq9AlbZ7), [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Nyture](https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ) | [BANDS! \(feat\. ShowyVICTOR & Nyture\)](https://open.spotify.com/album/055AvOcWEetDQadSXlFUxg) | 2:47 | 2024-11-29 | 2024-12-13 |
 | [Banger \(feat\. Bank.Somsaart\)](https://open.spotify.com/track/5xWYysqcPJilNMEcKHiXZr) | [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Bank.Somsaart](https://open.spotify.com/artist/27EDDxaWCpX0SBLJacciXv) | [Banger \(feat\. Bank.Somsaart\)](https://open.spotify.com/album/2czNGVjRuVfDVpIZj7B0Zi) | 2:46 | 2024-11-19 | 2024-11-27 |
 | [BANGER KING](https://open.spotify.com/track/1iNJfIjmcpQ5PtljpgJCrX) | [hamma](https://open.spotify.com/artist/7sz6bDQFBV3wCdidLrfev1), [CoCo.Jee](https://open.spotify.com/artist/2uDa5Oj2YIkl4CK9Rw41Ak) | [BANGER KING](https://open.spotify.com/album/5cYy2vX1MOVQOeZtgrgGFa) | 3:00 | 2025-02-04 | 2025-02-19 |
+| [BANK](https://open.spotify.com/track/2rSy4IAa5FRLaR3af8NzuN) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [BANK](https://open.spotify.com/album/3cn84lrkx2rbn4gioOdeAo) | 3:21 | 2025-03-03 |  |
 | [BANSOMA](https://open.spotify.com/track/1anxFeyoABXIhXkjYkgyu7) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [BANSOMA](https://open.spotify.com/album/0HPd25QuskQjhCQ0gykusK) | 1:47 | 2024-06-18 | 2024-07-03 |
 | [BARI](https://open.spotify.com/track/2trTAYylWgXMaheP9OqXqr) | [T\-K TONY](https://open.spotify.com/artist/477kGCPUFTq18HY1B7dcNP), [eyezen](https://open.spotify.com/artist/5BcJpRblTAzBQV0Qp0jewW), [Zetton](https://open.spotify.com/artist/18zXwh1qgQsB78SOB5Kbn0) | [BARI](https://open.spotify.com/album/0BOYQ4lbrVuxczIx4PenXD) | 3:12 | 2023-12-12 | 2023-12-20 |
 | [Bars of My Life](https://open.spotify.com/track/0oKVg7X4dkfdovXnUKHcTa) | [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [Bars of My Life](https://open.spotify.com/album/5XWKtAvyJarKUBt7b9BjmE) | 3:13 | 2024-03-12 | 2024-03-22 |
@@ -374,7 +375,7 @@
 | [Existe feat\. Daichi Yamamoto \(Blended by tofubeats\)](https://open.spotify.com/track/0pLl928xEqbPDjByzdwuqV) | [BACARDI RECORDS](https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Existe feat\. Daichi Yamamoto \(Blended by tofubeats\)](https://open.spotify.com/album/5OO4rVydstHpmDrDepnkmB) | 3:45 | 2023-09-21 | 2023-10-18 |
 | [EXP](https://open.spotify.com/track/33j62l1PKa9dT2xXLGXPI3) | [VOLOJZA](https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md) | [EXP](https://open.spotify.com/album/0vElABnBWWkPTPio87QMEJ) | 3:10 | 2024-08-28 | 2024-09-04 |
 | [EXPRESS](https://open.spotify.com/track/3s66CjZ1flfIbIch29B8b4) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [EXPRESS](https://open.spotify.com/album/7805X9EzHV0FNXaLQAkjaY) | 1:56 | 2024-08-30 | 2024-09-25 |
-| [Eyes](https://open.spotify.com/track/50serZyxwPIVyE9GIXFTnV) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Eyes](https://open.spotify.com/album/6jhSg450E4zkB6OD0scliO) | 2:37 | 2024-12-10 |  |
+| [Eyes](https://open.spotify.com/track/50serZyxwPIVyE9GIXFTnV) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Eyes](https://open.spotify.com/album/6jhSg450E4zkB6OD0scliO) | 2:37 | 2024-12-10 | 2025-03-04 |
 | [Eyes on you \(feat\. Masato Hayashi\)](https://open.spotify.com/track/3bBuFud7OatqgOA7u8J8De) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [Eyes on you \(feat\. Masato Hayashi\)](https://open.spotify.com/album/5FFTFUZvWI1qiPg9476ZHs) | 2:51 | 2024-11-19 | 2024-12-11 |
 | [F\*ck School](https://open.spotify.com/track/18R6ijzad78BrtTW3nIkX1) | [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [F\*ck School](https://open.spotify.com/album/3Vjg3DZHH0feE6wliz2i9V) | 1:47 | 2023-12-20 | 2023-12-21 |
 | [F\*ck School](https://open.spotify.com/track/7E7y5zIrk60pb7wrypa9gU) | [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [F\*ck School](https://open.spotify.com/album/3260XjsZgdJjJc8Hz3kc5v) | 1:47 | 2023-12-20 | 2024-01-17 |

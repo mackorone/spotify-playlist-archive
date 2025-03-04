@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Timo Kämäräinen ja Arppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,354 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,357 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 3 | [Siinä sä nyt oot](https://open.spotify.com/track/5qVqn8H1kLo3w7UvOdg4Db) | [Tammela 33100](https://open.spotify.com/artist/2iHRsXZ3WBWIsbd8vWb0y3) | [Siinä sä nyt oot](https://open.spotify.com/album/51iluio0Fl3zsyCvL0Nwts) | 3:15 |
 | 4 | [Jos vielä yhdet](https://open.spotify.com/track/4ltsv4aQqH5qtFTKNHh6qp) | [Sonja Selene](https://open.spotify.com/artist/5xhxgugC1UFNupTURflnZX) | [Pimeä pää](https://open.spotify.com/album/0NmKCd0HS8X81QphML3zp4) | 3:37 |
 | 5 | [Julle, Tupu, Hanski ja minä](https://open.spotify.com/track/08Yexy7B8HrzfHt8HZv8tY) | [Poni](https://open.spotify.com/artist/7tYOgz9oVProU4grzmiS0z) | [Julle, Tupu, Hanski ja minä](https://open.spotify.com/album/4RUXXCrDY13U1YiXtvUiDC) | 3:52 |
-| 6 | [Muuttolintu](https://open.spotify.com/track/5XXSqZd96vY7yNBdblu8EA) | [Viitasen Piia](https://open.spotify.com/artist/2WpScmc4G7o82KSp8grFer) | [Muuttolintu](https://open.spotify.com/album/05FaWb4qOXOHh2m9kAcIIi) | 3:23 |
-| 7 | [Tokyo No Go](https://open.spotify.com/track/4gtFoBXTXmjMCj8jq58Rdw) | [Tinyhawk & Bizzarro](https://open.spotify.com/artist/2ZJ203WZjSAIeeKJgcdElj) | [Tokyo No Go](https://open.spotify.com/album/32sWqnQPstmiKMl3gopVUe) | 4:21 |
+| 6 | [Tokyo No Go](https://open.spotify.com/track/4gtFoBXTXmjMCj8jq58Rdw) | [Tinyhawk & Bizzarro](https://open.spotify.com/artist/2ZJ203WZjSAIeeKJgcdElj) | [Tokyo No Go](https://open.spotify.com/album/32sWqnQPstmiKMl3gopVUe) | 4:21 |
+| 7 | [Muuttolintu](https://open.spotify.com/track/5XXSqZd96vY7yNBdblu8EA) | [Viitasen Piia](https://open.spotify.com/artist/2WpScmc4G7o82KSp8grFer) | [Muuttolintu](https://open.spotify.com/album/05FaWb4qOXOHh2m9kAcIIi) | 3:23 |
 | 8 | [Thank You](https://open.spotify.com/track/5AZEM801pHz7NoEm3hqrZV) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Thank you](https://open.spotify.com/album/4xlS0Sdn9HyERoDpYnfSSx) | 3:03 |
 | 9 | [Action Man \- The Greatest Hero of All](https://open.spotify.com/track/6iPk4LbYViadWPRSxBo9Gv) | [Zombit lomalla](https://open.spotify.com/artist/1bQLxB5BbeT6AkgayWXrVm) | [Action Man \- The Greatest Hero of All](https://open.spotify.com/album/4rB0PBzrYciQm8DpuVQIW5) | 3:09 |
 | 10 | [Kalifornia](https://open.spotify.com/track/2u1zcDgo3R8rECKgYzrY5L) | [Wilma](https://open.spotify.com/artist/3wPhusWO7C4rrktncRk3JA) | [Kalifornia](https://open.spotify.com/album/5OOUbn3h9quxYIJSpzHpBY) | 4:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Kuka keksi rakkauden](https://open.spotify.com/track/5AJFC550ASoPhQkTxG3BCy) | [Jere Ijäs](https://open.spotify.com/artist/1jzz3jZOBjI9ipSG1k1O8q) | [Kuka keksi rakkauden](https://open.spotify.com/album/6j0femd25mRM2sIYjBdzxT) | 4:12 |
 | 80 | [Jos alkaa saan uudelleen](https://open.spotify.com/track/3ETvZjC9p1RV8UHokrjBdM) | [Jani Matti Juhani](https://open.spotify.com/artist/68XqQfLoVgplwesDOKhU0a), [Knipi](https://open.spotify.com/artist/4wLgqkai4BYWNKbHcQJi7c) | [Jos alkaa saan uudelleen](https://open.spotify.com/album/3Wg2cVxspa7N5KgXxtC0vC) | 2:17 |
 
-Snapshot ID: `Z8DguQAAAAB1iScdsxQRtfsFS8+MRRZe`
+Snapshot ID: `Z8XUSAAAAAAOyjQGzuIY9UozarH2FNFH`

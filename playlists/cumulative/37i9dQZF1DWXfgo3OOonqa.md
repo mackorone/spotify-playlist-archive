@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,781 songs - 3 day 5 hr 3 min
+1,782 songs - 3 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1220,6 +1220,7 @@
 | [OTR \(On The Road\)](https://open.spotify.com/track/1tN35VXKqqilry2wxZ9XQB) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [OTR \(On The Road\)](https://open.spotify.com/album/6F5ACT5GB1yKHapZ0iPPG5) | 2:16 | 2024-02-08 | 2024-07-27 |
 | [OuOu \- Spotify Studio 100 Recording](https://open.spotify.com/track/44EsiFbw1i2wSvYMvC76pJ) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [OuOu \(Spotify Studio 100 Recording\)](https://open.spotify.com/album/7n9tKJ15sySDyVOJxrl4xo) | 2:33 | 2021-12-16 | 2022-11-25 |
 | [OUTSIDE](https://open.spotify.com/track/1n7QjDjOEMJ2FvRYKnlFPA) | [LKay](https://open.spotify.com/artist/0ao2HCPhWbdBSA6Sa94xTa), [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [OUTSIDE](https://open.spotify.com/album/6zMwudWhuAcG51ZkHxZQLC) | 2:14 | 2024-05-23 | 2024-09-27 |
+| [Outside](https://open.spotify.com/track/0Y1jsBgsY8JMWqR6SgDfvA) | [Sinnesro](https://open.spotify.com/artist/59VSWqLge7r0Rp2Ia9RMyf), [Tado](https://open.spotify.com/artist/4qc3USZURjRYYS8PTyRimP) | [Outside](https://open.spotify.com/album/33QqoyvGT7vy46Qv1Hi6Df) | 2:05 | 2025-03-03 |  |
 | [Overseas](https://open.spotify.com/track/4c8w1nIzzbNiWtnlhsiNyS) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [Overseas](https://open.spotify.com/album/61vVdu7kFrzSNXSo1swX5W) | 2:21 | 2022-07-21 | 2022-08-19 |
 | [Oväder](https://open.spotify.com/track/7AH3T4FNaH52h2a0ynpRdF) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Oväder](https://open.spotify.com/album/2g6QNlZkkLupIErj0WnJvH) | 2:06 | 2023-06-29 | 2023-08-04 |
 | [Oy](https://open.spotify.com/track/5mzIExDN53eOEAWMhWkcTv) | [Dennis Doff](https://open.spotify.com/artist/0xz4qcJAttwdoIDkWrzuqm) | [Oy](https://open.spotify.com/album/782uUd9vNisWKnbXIfiIK7) | 2:51 | 2022-06-17 | 2022-07-08 |

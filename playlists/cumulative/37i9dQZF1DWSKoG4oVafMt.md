@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,008 songs - 2 day 6 hr 18 min
+1,009 songs - 2 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,7 +824,7 @@
 | [Sohniye](https://open.spotify.com/track/3o1JBywODxE6eEToF3y33U) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Romeo](https://open.spotify.com/artist/4VrVEWJyZO0X5A4mjgqVfk) | [Summer Daze](https://open.spotify.com/album/1srOF2YIQ1dvb2lDqbJDSg) | 2:44 | 2024-08-30 | 2024-09-14 |
 | [Sohnya](https://open.spotify.com/track/52cc24uy7m4Q4oY3MqOWgm) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Sohnya](https://open.spotify.com/album/2Ethee7YbtzP5uJJzSV7ss) | 3:14 | 2022-07-21 | 2022-08-18 |
 | [Solitaire](https://open.spotify.com/track/7lM5z5YFdIuAUwnumqToHL) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [Solitaire](https://open.spotify.com/album/6TKjg5iROAg06oD7m1IOSb) | 3:06 | 2022-11-07 | 2023-02-04 |
-| [Soniye Je Tere Naal](https://open.spotify.com/track/3n9kEOy2x74Ioxb9dkJ2Ig) | [Prabhjot Singh](https://open.spotify.com/artist/3UFVnXtJwuHkR4wDryvGMt) | [Soniye Je Tere Naal](https://open.spotify.com/album/5Xc9LgYBHH8pRoQxXZYQ46) | 4:12 | 2025-01-08 |  |
+| [Soniye Je Tere Naal](https://open.spotify.com/track/3n9kEOy2x74Ioxb9dkJ2Ig) | [Prabhjot Singh](https://open.spotify.com/artist/3UFVnXtJwuHkR4wDryvGMt) | [Soniye Je Tere Naal](https://open.spotify.com/album/5Xc9LgYBHH8pRoQxXZYQ46) | 4:12 | 2025-01-08 | 2025-03-04 |
 | [Sorry](https://open.spotify.com/track/47AWxFFocq2DekndowAVLR) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Vinder Nathu Majra](https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN) | [Sorry](https://open.spotify.com/album/6Bq5uSzuLLsKX3nsPrqgxA) | 3:53 | 2022-05-12 | 2022-05-20 |
 | [SPAIN](https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 1:44 | 2023-02-13 |  |
 | [Stalk](https://open.spotify.com/track/4Yh6MCJEnplgYz9Ywj20oK) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Stalk](https://open.spotify.com/album/1ZUIGjIgI9oaFMTy5jjQid) | 2:17 | 2022-03-18 | 2023-10-10 |
@@ -945,6 +945,7 @@
 | [Tu Tan Main](https://open.spotify.com/track/4QooqUadhw5LMMhkik7zJ8) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Luvdeep Saini Aka LDS](https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs) | [Tu Tan Main \- Single](https://open.spotify.com/album/267NrowQgB4r2cNpLB3IWL) | 3:08 | 2022-12-16 | 2023-01-20 |
 | [Tu Te Main](https://open.spotify.com/track/7KxdPXIVFd3duEorQHYLHi) | [Gursanj](https://open.spotify.com/artist/6BJ2cExwgsqjBf6QfJvg6H) | [Tu Te Main](https://open.spotify.com/album/4jJmqUDEfmn6EiuyNWOg1B) | 2:58 | 2024-04-05 | 2024-05-24 |
 | [Tu Te Main](https://open.spotify.com/track/6Pyf5cGrN16BkOPyIdEhEd) | [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN) | [Tu Te Main](https://open.spotify.com/album/0VB9eBkk1qqChet8XkimVs) | 3:30 | 2022-07-29 | 2022-08-18 |
+| [U & I](https://open.spotify.com/track/4csJV7NY0u7FoBjDwBv96I) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [U & I](https://open.spotify.com/album/1TG6eUZ3IiI173LUoe0oRI) | 3:24 | 2025-03-03 |  |
 | [Uche Uche Paunche](https://open.spotify.com/track/2GRerbOFlewgeat5rubxWk) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Uche Uche Paunche](https://open.spotify.com/album/4ZRHTGDeYYTgdVc2lAIN1d) | 3:22 | 2022-01-13 | 2022-02-01 |
 | [Uchiyaan Dewaraan](https://open.spotify.com/track/1CYn0jiSz0gubTpYJbuTMS) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Uchiyaan Dewaraan](https://open.spotify.com/album/6MyTdWlbXDZcpGDXDBGW0G) | 3:47 | 2021-12-02 | 2022-04-06 |
 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 | 2022-03-15 | 2023-12-16 |

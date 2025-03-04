@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,939 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,949 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Lamb Talk](https://open.spotify.com/track/0iAyNYSbZaeG3p8L4iwxue) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Lamb Talk](https://open.spotify.com/album/0qRLa7PmcNJ8nsc9nseXYk) | 2:38 |
 | 50 | [Ya Get Dat](https://open.spotify.com/track/3rEL8kOlF1Ppxn8QoK6HOk) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Ya Get Dat](https://open.spotify.com/album/3gc5hhDCc1sl7BCGGUpSwx) | 2:10 |
 
-Snapshot ID: `Z8I+9gAAAACli/HQjcgXTX7ONRjFLZ/L`
+Snapshot ID: `Z8I+9gAAAAD8aeVja6WfBzIok/w8erh1`

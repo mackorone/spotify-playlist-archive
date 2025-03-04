@@ -2,7 +2,7 @@
 
 ### [Ensisoitossa](https://open.spotify.com/playlist/37i9dQZF1DXbsb4MvKbVAY)
 
-> Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa MELO ja TIPPA.
+> Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa TIPPA ja MELO.
 
 911 songs - 1 day 21 hr 22 min
 

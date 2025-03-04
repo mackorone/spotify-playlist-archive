@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: <a href="spotify:artist:2FgooFaZzZy6PUyJImk0kG">Jada Kingdom</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,025 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,115 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 99 | [Fry Plantain \(with Joey Bada$$\)](https://open.spotify.com/track/1pmXeu9cAF2at62I3m5VKE) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fry Plantain \(with Joey Bada$$\)](https://open.spotify.com/album/34FbQTA8MX6dNQKyTSZPMy) | 4:12 |
 | 100 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 |
 
-Snapshot ID: `Z8FDCAAAAACLk8jFaBNx4gQicwvqowJ7`
+Snapshot ID: `Z8FDCAAAAABOyeWxuzi5LdRPspxcFh4U`

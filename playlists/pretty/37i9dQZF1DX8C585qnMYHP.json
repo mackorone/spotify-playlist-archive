@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 185395,
+  "num_followers": 185425,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-09-11 15:31:53",
       "album": {
+        "name": "+puzzle",
+        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "duration_ms": 254561,
+      "name": "+puzzle",
+      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
+    },
+    {
+      "added_at": "2024-09-11 15:31:53",
+      "album": {
         "name": "Everything Squared",
         "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
       },
@@ -757,20 +773,20 @@
       "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
     },
     {
-      "added_at": "2024-09-11 15:31:53",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "+puzzle",
-        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
+        "name": "nothing or something to die for",
+        "url": "https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7"
       },
       "artists": [
         {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
         }
       ],
-      "duration_ms": 254561,
-      "name": "+puzzle",
-      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
+      "duration_ms": 141960,
+      "name": "the mould",
+      "url": "https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -803,22 +819,6 @@
       "duration_ms": 275253,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "nothing or something to die for",
-        "url": "https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7"
-      },
-      "artists": [
-        {
-          "name": "mui zyu",
-          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "the mould",
-      "url": "https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Joachim",
-          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
-        }
-      ],
-      "duration_ms": 320409,
-      "name": "Ki moun ou ye",
-      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Zionic Mud",
         "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 301445,
       "name": "Hounds",
       "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        }
+      ],
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
     },
     {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
-        "name": "LA Silhouettes",
-        "url": "https://open.spotify.com/album/4hULFOhBo22y1hbNsGNJuZ"
-      },
-      "artists": [
-        {
-          "name": "Kanako Yamamoto",
-          "url": "https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "In Your Orbit",
-      "url": "https://open.spotify.com/track/3PjfRbq69mblRZpx2AL7eM"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "lavender's love",
@@ -1099,6 +1083,22 @@
       "duration_ms": 160000,
       "name": "lavender's love",
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
+    },
+    {
+      "added_at": "2025-01-15 18:16:36",
+      "album": {
+        "name": "LA Silhouettes",
+        "url": "https://open.spotify.com/album/4hULFOhBo22y1hbNsGNJuZ"
+      },
+      "artists": [
+        {
+          "name": "Kanako Yamamoto",
+          "url": "https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E"
+        }
+      ],
+      "duration_ms": 204294,
+      "name": "In Your Orbit",
+      "url": "https://open.spotify.com/track/3PjfRbq69mblRZpx2AL7eM"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
     },
     {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
-        "name": "Pordeno Me",
-        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 149457,
-      "name": "Pordeno Me",
-      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
-    },
-    {
       "added_at": "2025-01-29 04:37:38",
       "album": {
         "name": "Whatever The Weather",
@@ -1197,20 +1181,20 @@
       "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
     },
     {
-      "added_at": "2024-10-23 05:18:13",
+      "added_at": "2025-01-15 18:16:36",
       "album": {
-        "name": "Oxido En El Espejo",
-        "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
+        "name": "Pordeno Me",
+        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
       },
       "artists": [
         {
-          "name": "Boundary",
-          "url": "https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS"
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 283000,
-      "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
-      "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
+      "duration_ms": 149457,
+      "name": "Pordeno Me",
+      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1227,6 +1211,22 @@
       "duration_ms": 194200,
       "name": "Processional",
       "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
+    },
+    {
+      "added_at": "2024-10-23 05:18:13",
+      "album": {
+        "name": "Oxido En El Espejo",
+        "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
+      },
+      "artists": [
+        {
+          "name": "Boundary",
+          "url": "https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
+      "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 173525,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 229602,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 173525,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
     },
     {
       "added_at": "2024-12-04 12:15:00",

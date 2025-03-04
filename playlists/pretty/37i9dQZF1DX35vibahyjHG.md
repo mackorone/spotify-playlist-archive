@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=5R5WrXP1SQ2eFd27RuNVUg"> Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,293 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,347 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

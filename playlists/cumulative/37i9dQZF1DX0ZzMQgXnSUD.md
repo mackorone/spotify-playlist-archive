@@ -2,9 +2,9 @@
 
 ### [Best of Bond](https://open.spotify.com/playlist/37i9dQZF1DX0ZzMQgXnSUD)
 
-> "Bond..\. James Bond." Cover: Doja Cat
+> Shaken, not stirred..\. Cover: Doja Cat
 
-52 songs - 3 hr 5 min
+53 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Licence To Kill](https://open.spotify.com/track/2ytwDkF0RLOi6qL2uJ2cQG) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [Licence To Kill](https://open.spotify.com/album/5V870FgJNzMTiLAGo6OMmE) | 5:14 | 2022-04-14 | 2024-04-19 |
 | [Live And Let Die](https://open.spotify.com/track/6AbaUu4XtHu7pGkPE94Tat) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings Greatest](https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5) | 3:13 | 2022-04-14 | 2022-11-13 |
 | [Live And Let Die \- 2018 Remaster](https://open.spotify.com/track/0VV8wkOM4w78A2OHZOTzNP) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway \(Archive Collection\)](https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy) | 3:12 | 2022-04-14 | 2024-04-19 |
-| [Live And Let Die \- Remastered 1993](https://open.spotify.com/track/6Z1zJjEXLrszqTPol6bfFV) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings Greatest](https://open.spotify.com/album/7vvo1go8wl2NEmvcvjE4Dh) | 3:11 | 2021-10-14 |  |
+| [Live And Let Die \- Main Title](https://open.spotify.com/track/2cHbN7OosXb4pA20G9Jcyg) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [All The Best \(UK Version\)](https://open.spotify.com/album/0jXLd4eGxSh8TIGEdRbdH4) | 3:11 | 2025-03-03 |  |
+| [Live And Let Die \- Remastered 1993](https://open.spotify.com/track/6Z1zJjEXLrszqTPol6bfFV) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings Greatest](https://open.spotify.com/album/7vvo1go8wl2NEmvcvjE4Dh) | 3:11 | 2021-10-14 | 2025-03-04 |
 | [Main Title \- From "Thunderball"](https://open.spotify.com/track/0yaLrtLWGYWVmvvNOlRZDj) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Movie Night: Famous Soundtracks](https://open.spotify.com/album/2ryZgGxfvRhpbtIHF2FEAR) | 3:03 | 2022-12-29 | 2024-04-19 |
 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 | 2022-04-14 | 2024-04-19 |
 | [Moonraker](https://open.spotify.com/track/3fmYId4SqzuLFQkCXPRWjg) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [James Bond 007 13 Original Themes](https://open.spotify.com/album/1BIkw8IbCvCsZ942czLa4K) | 3:10 | 2021-10-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 444336,
+  "num_followers": 444441,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8JOAAAAAACD7oxTLoGCq282b6qMhIhl",
+  "snapshot_id": "Z8OfgAAAAABydFjJWteQW9medO4lODXs",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 124680,
-      "name": "Y No Me Lo Das",
-      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mejor Colecci\u00f3n De Corridos",
         "url": "https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ"
       },
@@ -767,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
       "artists": [
         {
@@ -776,9 +760,25 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 207933,
-      "name": "Hola Y Adios",
-      "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
+      "duration_ms": 124680,
+      "name": "Y No Me Lo Das",
+      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 250146,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs"
+      "duration_ms": 207933,
+      "name": "Hola Y Adios",
+      "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
     },
     {
       "added_at": null,

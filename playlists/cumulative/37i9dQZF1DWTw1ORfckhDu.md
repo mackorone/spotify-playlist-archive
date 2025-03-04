@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Averagekidluke.
 
-818 songs - 1 day 14 hr 49 min
+819 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Leffa](https://open.spotify.com/track/0TkPbqfKtI0rUoKSaxkOfH) | [Matti Tamonen](https://open.spotify.com/artist/4R2nP25H9wk0D3HSZZgn9t), [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D), [Super Janne](https://open.spotify.com/artist/4h5u41FZIH9q75XLH1DJjM) | [Ankka LP](https://open.spotify.com/album/0PXzNRCaCTTEPMKKVf6a1Y) | 2:57 | 2023-11-09 | 2023-11-17 |
 | [Legacy](https://open.spotify.com/track/03ljkHRJBO6x9YPooHmwOo) | [Timo Pieni Huijaus](https://open.spotify.com/artist/3QhMkujlcwd5TqLp4p3KUR), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [Kalle Kinos](https://open.spotify.com/artist/5bGcZ1xdf9Y65oh7iSimi6), [Joniveli](https://open.spotify.com/artist/6H6ATP3FGWryNEYxLluUtL) | [Legacy](https://open.spotify.com/album/0FdyVIjDwRStEFRgxzQNXf) | 4:10 | 2024-06-06 | 2024-07-02 |
 | [Leggero](https://open.spotify.com/track/2nH6q3u5StxRFzmNDiqwqL) | [FIBO](https://open.spotify.com/artist/4akZye3PyZpeOF9MojgI8f), [Leo Luthando](https://open.spotify.com/artist/5XJUyK4GPxQx9744MvnFy6) | [Leggero](https://open.spotify.com/album/2wRheamvwmlBNAPFU7k6AX) | 1:55 | 2023-10-19 | 2023-11-10 |
+| [Leijonamieli](https://open.spotify.com/track/7skVGT7c49qEKGp9njGwjl) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Teen Mitä Täytyy](https://open.spotify.com/album/4plXzLtRVhQRVwdeHYw8q6) | 3:08 | 2025-03-03 |  |
 | [Lelele](https://open.spotify.com/track/7I3Xl5hke7MhAOzT49iNoD) | [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Lelele](https://open.spotify.com/album/306Ocz6iNw64BognJiy7ax) | 2:44 | 2024-05-30 | 2024-07-02 |
 | [Lentoi](https://open.spotify.com/track/7CogTl76ZQ1amD04YAxF45) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [Lentoi](https://open.spotify.com/album/4mg96xe915Svxv7f1h3pB9) | 2:14 | 2024-11-07 | 2024-11-29 |
 | [Lentoon](https://open.spotify.com/track/3bDHdPqcCD1qu8Yy58KCsF) | [Aivovuoto](https://open.spotify.com/artist/0vIwzLRr3uDumTBaCmU0fm), [Shaka](https://open.spotify.com/artist/1VAeoyXiJfFPPsljLAtC3i) | [SEITSEMAN](https://open.spotify.com/album/6epynlBanMUlrqlzmGc40X) | 3:26 | 2024-03-21 | 2024-04-05 |
@@ -698,7 +699,7 @@
 | [Taskut täyn](https://open.spotify.com/track/6xcEOAIcuApQ3HsEH3Zrip) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Taskut täyn](https://open.spotify.com/album/6zoNewBjXxXxOq4YNjpz6K) | 2:18 | 2024-04-04 | 2024-06-21 |
 | [Taulut \(feat\. Costi\)](https://open.spotify.com/track/150cifhtXjdhDdr07scSVG) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Taulut \(feat\. Costi\)](https://open.spotify.com/album/7iOPxPm0nJsc5lHX3fBg6F) | 3:17 | 2023-09-21 | 2024-01-19 |
 | [Taustapeili](https://open.spotify.com/track/0Z0Y0HYw1LyhPh6JHUn8iz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Taustapeili](https://open.spotify.com/album/588S0BacJGFA4PIZvjWinP) | 3:03 | 2024-05-30 | 2024-09-06 |
-| [Teen mitä täytyy](https://open.spotify.com/track/1f1XMgqGipqx8VN23xj1Pq) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Teen Mitä Täytyy](https://open.spotify.com/album/4plXzLtRVhQRVwdeHYw8q6) | 2:48 | 2025-02-27 |  |
+| [Teen mitä täytyy](https://open.spotify.com/track/1f1XMgqGipqx8VN23xj1Pq) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Teen Mitä Täytyy](https://open.spotify.com/album/4plXzLtRVhQRVwdeHYw8q6) | 2:48 | 2025-02-27 | 2025-03-04 |
 | [Tehny hynää](https://open.spotify.com/track/0hqpQw7U3M1a04vKGsmIYx) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Tehny hynää](https://open.spotify.com/album/2BgteV6yb99VuqRBhDYILL) | 3:00 | 2024-05-09 | 2024-07-02 |
 | [Tehtiin tää \(feat\. Sexmane\)](https://open.spotify.com/track/6vV1vh8tZyklW01nLAljcJ) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Tehtiin tää \(feat\. Sexmane\)](https://open.spotify.com/album/04f65nN6wxZzrTPkk63lrb) | 4:05 | 2024-04-25 | 2024-07-05 |
 | [Tekijä](https://open.spotify.com/track/3jza1T7ZtlMrPClQI4qL5M) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tekijä](https://open.spotify.com/album/5ZCj2wxRxuDJiMQEuesZSy) | 2:50 | 2024-04-25 | 2024-06-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,336 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,482 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [異議なし](https://open.spotify.com/track/3KBEHEIakrZyndL4sh28v6) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [EP!!!!NI\-HAO!!!!](https://open.spotify.com/album/0VgkAbqypRDe2ryOnf9rtF) | 1:57 |
 | 75 | [I am not maternal](https://open.spotify.com/track/51aTV71knVrYu9b5r5w8XV) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 2:04 |
 
-Snapshot ID: `Z8B+AgAAAAABtmgljkCYv7Ijd6+ngJIk`
+Snapshot ID: `Z8B+AgAAAABVDmMRcVPUHtVWZkor5teV`

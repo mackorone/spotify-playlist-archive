@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Yves Jarvis
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,507 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,515 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 |
 | 100 | [Indifferent](https://open.spotify.com/track/3q87UDUZ3aq3mk1TGleO2s) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [Sprig](https://open.spotify.com/album/5N9ULyK2ntVIQLdw9Kw1nS) | 3:00 |
 
-Snapshot ID: `Z8FE4AAAAACwwNQmSXUc/zYn2Z3oiuzP`
+Snapshot ID: `Z8FE4AAAAAC9ii5ewM0czGp2srC2hOnJ`

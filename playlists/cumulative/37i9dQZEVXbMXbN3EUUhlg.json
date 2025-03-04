@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 184320,
       "name": "ALUGA-SE - Ao Vivo",
       "url": "https://open.spotify.com/track/2yx7F8ISwZ3VMEi9VptQGm"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
@@ -9110,7 +9110,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 192554,
       "name": "Energia de Gostosa",
       "url": "https://open.spotify.com/track/7nxo5gRHpcsIZy7n0mdCv7"
@@ -13612,6 +13612,32 @@
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+    },
+    {
+      "album": {
+        "name": "Jet em Balne\u00e1rio",
+        "url": "https://open.spotify.com/album/5Nmtne8zOhKgK4p8jCAbRV"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132461,
+      "name": "Jet em Balne\u00e1rio",
+      "url": "https://open.spotify.com/track/6cwgSRunEtZnmnNZogBub7"
     },
     {
       "album": {
@@ -22084,7 +22110,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 111044,
       "name": "Porsche Azul",
       "url": "https://open.spotify.com/track/5vT4pYzoIJHEZhkBx2BgOU"
@@ -24778,7 +24804,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 262375,
       "name": "Sensa\u00e7\u00e3o No Batid\u00e3o - Solinho Envolvente",
       "url": "https://open.spotify.com/track/6IyQ5Jr4yiNACYI3TdFWbl"
@@ -25998,7 +26024,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 178983,
       "name": "Sujeito Homem - Ao Vivo",
       "url": "https://open.spotify.com/track/2cGRf9skACWnKRK1eLYBJn"
@@ -30016,7 +30042,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 104000,
       "name": "Vou Raspar Seu Bigodin",
       "url": "https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1"

@@ -3853,6 +3853,24 @@
     },
     {
       "album": {
+        "name": "CRUISING TO SELF SOOTHE",
+        "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "CRUISING TO SELF SOOTHE",
+      "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
+    },
+    {
+      "album": {
         "name": "Crush The Mirrors (feat. Chunk! No, Captain Chunk!)",
         "url": "https://open.spotify.com/album/54wXLq9h6wGR36g1HZuDE9"
       },
@@ -10334,7 +10352,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 218384,
       "name": "Leave Me to Bleed (feat. Brandon Saller)",
       "url": "https://open.spotify.com/track/6QfrQzppJ3yVqrDLS6L3L4"

@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-293 songs - 17 hr 42 min
+294 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 | 2022-04-15 | 2023-05-19 |
 | [Change \- bullet tooth Remix](https://open.spotify.com/track/7ngp1VaSLNoVRUAAwUShnH) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Change \(Remixes\)](https://open.spotify.com/album/2xKp7GrzlG15zTj2dfiU3X) | 3:31 | 2024-03-01 | 2024-11-20 |
 | [Check Yourself](https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR) | [909](https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Check Yourself](https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl) | 3:27 | 2022-10-28 | 2024-02-02 |
-| [Circadian](https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Gloom EP](https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y) | 4:45 | 2024-03-01 |  |
+| [Circadian](https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Gloom EP](https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y) | 4:45 | 2024-03-01 | 2025-03-04 |
 | [Closer](https://open.spotify.com/track/21xzkkfeDUsPXyxZmiGGpM) | [Bailey P](https://open.spotify.com/artist/7MJpKixo6xeRETtQC1KFHd) | [Images / Closer](https://open.spotify.com/album/0zRA2049WBLpWo0m90Fb6B) | 3:36 | 2022-09-05 | 2024-05-17 |
 | [Come Back](https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Night Bass Freshmen Vol 4](https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2) | 4:27 | 2022-04-15 | 2023-05-25 |
 | [CONTEXT](https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [CONTEXT](https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy) | 2:17 | 2024-06-28 |  |
@@ -216,6 +216,7 @@
 | [Perfect Crime](https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J) | [Spence](https://open.spotify.com/artist/12QXpIHNMNQzZaCfBTVx0L), [S\-70](https://open.spotify.com/artist/2ADNw1kE3nu2uXTtEodACQ) | [Perfect Crime](https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV) | 3:30 | 2022-04-15 | 2023-03-10 |
 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 | 2024-02-02 |  |
 | [Phone Line Crew](https://open.spotify.com/track/7e6FQw24bmpOrpaniB5MjC) | [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Phone Line Crew](https://open.spotify.com/album/1JWbHpm5BXZe08CZUL2DBe) | 3:31 | 2022-04-15 | 2022-07-18 |
+| [Pretty & Plump](https://open.spotify.com/track/14wKQXw7pRc5nCqrqgbSJ0) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [Pretty & Plump](https://open.spotify.com/album/6iPArDxTfZDMtj0Ync4SD3) | 2:24 | 2025-02-28 |  |
 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 | 2022-04-15 | 2024-10-23 |
 | [Put It On Me \(feat\. Mila Falls\)](https://open.spotify.com/track/1VO8LC2PyM13d1LxE6KLSc) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Put It On Me \(feat\. Mila Falls\)](https://open.spotify.com/album/23vTWjk8a8kz5XaH9Z2Z2U) | 3:10 | 2022-04-15 | 2023-08-11 |
 | [Pyro](https://open.spotify.com/track/5DTLWS56vrnEKtWjMQbW2C) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Pyro](https://open.spotify.com/album/0GEePO06fLMiXXIVQ7XkDc) | 4:12 | 2024-02-02 | 2024-02-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Kchiporros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,708 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,723 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Combustión espontánea](https://open.spotify.com/track/3fjgBwd8pRqeuqFBVc2sxy) | [Hostia Pedagógica](https://open.spotify.com/artist/4HNNkJyfZVm2MpsWq3EkzB) | [Hostia Pedagógica](https://open.spotify.com/album/2n4XxwighWPBK4lCdjaO9F) | 3:37 |
 | 50 | [Jodido](https://open.spotify.com/track/7yjImRdjVK4X33X406xI3x) | [Supercremalleras](https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15) | [Jodido](https://open.spotify.com/album/6mzNDH5BrSSsKMQhMMcozc) | 2:54 |
 
-Snapshot ID: `Z8EmywAAAABk2LPJ704QQObIHPid0ja6`
+Snapshot ID: `Z8EmywAAAAA/wLAqmca7aPxN3bMiEeAr`

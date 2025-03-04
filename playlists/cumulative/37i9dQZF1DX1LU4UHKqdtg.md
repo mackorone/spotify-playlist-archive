@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: G\-DRAGON
 
-1,362 songs - 3 day 0 hr 49 min
+1,363 songs - 3 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Do It Like This \- English Version](https://open.spotify.com/track/5Z0k8KRK0Xy0metItGplGo) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Do It Like This \(English Version\)](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) | 3:12 | 2022-03-10 | 2022-05-11 |
 | [Do not touch](https://open.spotify.com/track/1w6b63TmaXFk1jhPOY0FkY) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Do not touch](https://open.spotify.com/album/2A7JiOErRUS6Sw9YneA6Hq) | 3:05 | 2023-07-13 | 2024-06-20 |
 | [Do or Die](https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Do or Die](https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts) | 3:25 | 2023-10-12 | 2023-11-08 |
+| [Do What You Do](https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Do What You Do](https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S) | 2:59 | 2025-03-03 |  |
 | [Doctor! Doctor!](https://open.spotify.com/track/7MJjY4KS5rK4WoZJ9AKkN6) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/1jLQUudsTV4ShkDMFEFlls) | 2:32 | 2025-01-20 | 2025-02-25 |
 | [DOMINO \~ butterfly effect \- Japanese ver\. \-](https://open.spotify.com/track/67zYH1gIIX4tQHhJyOMhlo) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Knock\-on Effect](https://open.spotify.com/album/1bklyCTtSDF0jdIaRcJCEi) | 2:59 | 2024-02-06 | 2024-03-27 |
 | [DOMINO \~ butterfly effect \- Japanese ver\. \-](https://open.spotify.com/track/6wVjnSrZvJubZcz1cbFrfF) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Knock\-on Effect](https://open.spotify.com/album/0EKa8nv4JNlFQnPJYPHCg6) | 2:59 | 2024-02-06 | 2024-02-08 |

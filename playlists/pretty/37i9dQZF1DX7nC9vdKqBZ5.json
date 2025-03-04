@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1515445,
+  "num_followers": 1515449,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Ac\u00fastico MTV",
+        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "Os Cegos do Castelo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Eu Feat. Voc\u00ea",
         "url": "https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 214249,
       "name": "Cabelo De Anjo",
       "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Ac\u00fastico MTV",
-        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 296773,
-      "name": "Os Cegos do Castelo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Zeeba - Reset",
-        "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 214741,
-      "name": "Tudo Que Importa (Acoustic)",
-      "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Amor Pra Recome\u00e7ar",
         "url": "https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 207861,
       "name": "Amor Pra Recome\u00e7ar",
       "url": "https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Zeeba - Reset",
+        "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 214741,
+      "name": "Tudo Que Importa (Acoustic)",
+      "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Maia Sessions",
-        "url": "https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS"
-      },
-      "artists": [
-        {
-          "name": "Maia",
-          "url": "https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 137960,
-      "name": "Cigana (Maia Sessions)",
-      "url": "https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Gostosin (Acoustic)",
         "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 180333,
       "name": "Gostosin (Acoustic)",
       "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Maia Sessions",
+        "url": "https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS"
+      },
+      "artists": [
+        {
+          "name": "Maia",
+          "url": "https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "Cigana (Maia Sessions)",
+      "url": "https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Linguagem N\u00e3o Verbal",
+        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Linguagem N\u00e3o Verbal",
+      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Essas Can\u00e7\u00f5es de Amor (N\u00e3o Reclamo)",
         "url": "https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 259058,
       "name": "Essas Can\u00e7\u00f5es de Amor (N\u00e3o Reclamo)",
       "url": "https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Linguagem N\u00e3o Verbal",
-        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Linguagem N\u00e3o Verbal",
-      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1223,8 +1223,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Valeu a Pena (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
+        "name": "N\u00f3s 3 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
       },
       "artists": [
         {
@@ -1232,9 +1232,9 @@
           "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
         }
       ],
-      "duration_ms": 184062,
-      "name": "Valeu a Pena - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs"
+      "duration_ms": 266250,
+      "name": "N\u00f3s 3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1347,8 +1347,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "N\u00f3s 3 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
+        "name": "Valeu a Pena (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
       },
       "artists": [
         {
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
         }
       ],
-      "duration_ms": 266250,
-      "name": "N\u00f3s 3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
+      "duration_ms": 184062,
+      "name": "Valeu a Pena - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs"
     },
     {
       "added_at": "2024-08-02 18:37:00",

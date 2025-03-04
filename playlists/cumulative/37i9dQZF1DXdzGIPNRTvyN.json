@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/1S2gpUQc7spDKkgly5pws3"
+      },
+      "artists": [
+        {
+          "name": "Spacetiming",
+          "url": "https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159890,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/5Y3GhXRH3wfUGzsq8IAfQA"
+    },
+    {
+      "album": {
         "name": "Mountain Streams",
         "url": "https://open.spotify.com/album/77vCHsHSqYLFrh7RRm7EwB"
       },
@@ -4294,7 +4312,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 154134,
       "name": "Silver Stream",
       "url": "https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc"

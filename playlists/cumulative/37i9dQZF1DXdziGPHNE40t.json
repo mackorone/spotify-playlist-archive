@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 148901,
       "name": "A Quiet Place",
       "url": "https://open.spotify.com/track/2sOncurUkrw3CYWliyxYSU"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 223074,
       "name": "Black Sun",
       "url": "https://open.spotify.com/track/0l0fG0jd2lAYXexpUktwfc"
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 195064,
       "name": "Down Central Street",
       "url": "https://open.spotify.com/track/2kZYbwSeW5z3aB2Lyixdys"
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 193831,
       "name": "Face to face",
       "url": "https://open.spotify.com/track/5lqAVs7UBlE7zWIDcxkckj"
@@ -3430,7 +3430,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 192573,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3"
@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 208500,
       "name": "Golden Moments",
       "url": "https://open.spotify.com/track/21G8HryJ6LWITBPNU9o2e1"
@@ -4662,7 +4662,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 152736,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/2Vgv1afjHX3aXK40VWMS3j"
@@ -5839,6 +5839,24 @@
     },
     {
       "album": {
+        "name": "Lost in Serenade",
+        "url": "https://open.spotify.com/album/1qzxB6x51gOZrYksOin1Ir"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177127,
+      "name": "Lost in Serenade",
+      "url": "https://open.spotify.com/track/06lueVswINSC56TcUtFs9j"
+    },
+    {
+      "album": {
         "name": "Lots of It",
         "url": "https://open.spotify.com/album/1YeXV9XSa6jgeA493IzYeO"
       },
@@ -6012,7 +6030,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 290168,
       "name": "Magnolia Tree",
       "url": "https://open.spotify.com/track/61AogUlvzPjV9VE8AHlvsi"
@@ -7002,7 +7020,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 254400,
       "name": "Nevermore",
       "url": "https://open.spotify.com/track/4nrB8V4gpLyHcQNDUsMWDJ"
@@ -7730,7 +7748,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 170145,
       "name": "Part of the moment",
       "url": "https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A"
@@ -7748,7 +7766,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 222545,
       "name": "Pass the Salt",
       "url": "https://open.spotify.com/track/6c7YlCeNwLuua6LDeflx1U"
@@ -8026,7 +8044,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 220403,
       "name": "Promenade With You",
       "url": "https://open.spotify.com/track/3Dz2EW0ND8Mfc41DxtoWQH"
@@ -9241,6 +9259,24 @@
     },
     {
       "album": {
+        "name": "Spring Can Really Hang You Up The Most",
+        "url": "https://open.spotify.com/album/7jLLNt8BKEh0GuB9vXTyWc"
+      },
+      "artists": [
+        {
+          "name": "Webb Trio",
+          "url": "https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218265,
+      "name": "Spring Can Really Hang You Up The Most",
+      "url": "https://open.spotify.com/track/5sWTcqdCKz7TRkNmpzzugO"
+    },
+    {
+      "album": {
         "name": "Spring Feelings",
         "url": "https://open.spotify.com/album/29LIAF8yItrGpGJToDvRI9"
       },
@@ -9252,7 +9288,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 190558,
       "name": "Spring Feelings",
       "url": "https://open.spotify.com/track/2ljRjL6yNdeBPVityJweAU"
@@ -9547,6 +9583,24 @@
     },
     {
       "album": {
+        "name": "Sunshine in Vermont",
+        "url": "https://open.spotify.com/album/3uPfZBaOayqefC99TZ5BYs"
+      },
+      "artists": [
+        {
+          "name": "Saphena Trio",
+          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180822,
+      "name": "Sunshine in Vermont",
+      "url": "https://open.spotify.com/track/3X9XRg4DPw5NmJDefP9JBZ"
+    },
+    {
+      "album": {
         "name": "Swaying Shadows",
         "url": "https://open.spotify.com/album/0td3uSBMDcvtSI4XEonj6L"
       },
@@ -9630,7 +9684,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 196000,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/5dnf9JbsZFMsiXzQuZ22Tz"
@@ -10296,7 +10350,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 206945,
       "name": "The Workers",
       "url": "https://open.spotify.com/track/1oXb2a7joQ4cre3t2W24hu"
@@ -10440,7 +10494,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 238538,
       "name": "Things You Should Mention",
       "url": "https://open.spotify.com/track/6YgAO785fxKfWRI7fx6c6S"
@@ -10476,7 +10530,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 166114,
       "name": "This isn\u2019t home",
       "url": "https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4"
@@ -11254,6 +11308,24 @@
       "duration_ms": 163962,
       "name": "Went Another Way",
       "url": "https://open.spotify.com/track/6ytZNOW8k2wQ8kdFLZPzsC"
+    },
+    {
+      "album": {
+        "name": "Westholme Serenade",
+        "url": "https://open.spotify.com/album/7L0JTNOgWALeLIuFOiNHj6"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182743,
+      "name": "Westholme Serenade",
+      "url": "https://open.spotify.com/track/3Fv9CTe6H2RHfOnTo94n9R"
     },
     {
       "album": {

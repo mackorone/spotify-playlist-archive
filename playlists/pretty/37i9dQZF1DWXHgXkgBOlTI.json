@@ -191,22 +191,6 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "qualia",
-        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
-      },
-      "artists": [
-        {
-          "name": "PRIMITIVE ART ORCHESTRA",
-          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "qualia",
-      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
-    },
-    {
-      "added_at": "2025-02-20 15:00:33",
-      "album": {
         "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
         "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 427000,
       "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
       "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "qualia",
+        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
+      },
+      "artists": [
+        {
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "qualia",
+      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
-      },
-      "artists": [
-        {
-          "name": "SANOVA",
-          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "\u67af\u8449 \uff5eAutumn Leaves\uff5e (jazz standard)",
-      "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
-    },
-    {
-      "added_at": "2025-02-20 15:00:33",
-      "album": {
         "name": "Tangerine Peel Jam",
         "url": "https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 275000,
       "name": "Tailwind",
       "url": "https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
+      },
+      "artists": [
+        {
+          "name": "SANOVA",
+          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "\u67af\u8449 \uff5eAutumn Leaves\uff5e (jazz standard)",
+      "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -507,18 +507,18 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "SET FREE",
-        "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
       "artists": [
         {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 228106,
-      "name": "The Piano",
-      "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
+      "duration_ms": 241333,
+      "name": "\u30cf\u30eb\u30b7\u30e5\u30e9",
+      "url": "https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -539,18 +539,18 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+        "name": "SET FREE",
+        "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
       },
       "artists": [
         {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
         }
       ],
-      "duration_ms": 241333,
-      "name": "\u30cf\u30eb\u30b7\u30e5\u30e9",
-      "url": "https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR"
+      "duration_ms": 228106,
+      "name": "The Piano",
+      "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -571,18 +571,18 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "Keep on Going",
-        "url": "https://open.spotify.com/album/0VLVwijg2EzNbHRYJO7PMH"
+        "name": "Susanna",
+        "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Keep on Going",
-      "url": "https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM"
+      "duration_ms": 195106,
+      "name": "On My Way Home",
+      "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -603,56 +603,8 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "Susanna",
-        "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
-      },
-      "artists": [
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "On My Way Home",
-      "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
-    },
-    {
-      "added_at": "2025-02-20 15:00:33",
-      "album": {
-        "name": "Variety",
-        "url": "https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Normal Life",
-      "url": "https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT"
-    },
-    {
-      "added_at": "2025-02-20 15:00:33",
-      "album": {
-        "name": "debut",
-        "url": "https://open.spotify.com/album/1zqQSutLk34XtF5jHWGCuj"
-      },
-      "artists": [
-        {
-          "name": "POLYPLUS",
-          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "tokyo class",
-      "url": "https://open.spotify.com/track/347ncFkne4BCG7q9ZFLHCb"
-    },
-    {
-      "added_at": "2025-02-20 15:00:33",
-      "album": {
-        "name": "PIANO CRAZE",
-        "url": "https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B"
+        "name": "Keep on Going",
+        "url": "https://open.spotify.com/album/0VLVwijg2EzNbHRYJO7PMH"
       },
       "artists": [
         {
@@ -660,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 350680,
-      "name": "Dancing in the mood",
-      "url": "https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn"
+      "duration_ms": 214000,
+      "name": "Keep on Going",
+      "url": "https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -683,18 +635,34 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "Phantasia",
-        "url": "https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ"
+        "name": "debut",
+        "url": "https://open.spotify.com/album/1zqQSutLk34XtF5jHWGCuj"
       },
       "artists": [
         {
-          "name": "LITE",
-          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
         }
       ],
-      "duration_ms": 279013,
-      "name": "Infinite Mirror",
-      "url": "https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3"
+      "duration_ms": 292333,
+      "name": "tokyo class",
+      "url": "https://open.spotify.com/track/347ncFkne4BCG7q9ZFLHCb"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Variety",
+        "url": "https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Normal Life",
+      "url": "https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -711,6 +679,38 @@
       "duration_ms": 245093,
       "name": "Acceleration",
       "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "PIANO CRAZE",
+        "url": "https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 350680,
+      "name": "Dancing in the mood",
+      "url": "https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Phantasia",
+        "url": "https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ"
+      },
+      "artists": [
+        {
+          "name": "LITE",
+          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+        }
+      ],
+      "duration_ms": 279013,
+      "name": "Infinite Mirror",
+      "url": "https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3"
     },
     {
       "added_at": "2025-02-20 15:00:33",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
+        "name": "Color & Monochrome 3",
+        "url": "https://open.spotify.com/album/5qZgX7UnSf2lY1cej9u6Ev"
       },
       "artists": [
         {
-          "name": "SANOVA",
-          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Liberty",
-      "url": "https://open.spotify.com/track/1craVn3h83RslIC0BZBiIS"
+      "duration_ms": 256136,
+      "name": "after heat",
+      "url": "https://open.spotify.com/track/5HIuPHs5AtD3yYEJO5kEfc"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

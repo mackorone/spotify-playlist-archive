@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Dei V, Myke Towers, Tito Double P, RaiNao and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,943 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,933 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 4 | [ÉLITE](https://open.spotify.com/track/5Za4Ocbq6E0qAYOYiKEV9R) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [ÉLITE](https://open.spotify.com/album/7xutb4C0MWLlUNMWXrSHY4) | 2:30 |
 | 5 | [TATTOO](https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [TATTOO](https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE) | 2:47 |
 | 6 | [Dile a ÉL](https://open.spotify.com/track/6cIqskfnJeXgfltCuas8lx) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sunshine](https://open.spotify.com/album/31Msggk5KAwDs5xCLflufg) | 3:12 |
-| 7 | [logout de riíto con la gata](https://open.spotify.com/track/5TJjnb0e3yc6T32Ziy5tpF) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [CAPICÚ \(Aniversario\)](https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8) | 2:23 |
+| 7 | [logout de riíto con la gata](https://open.spotify.com/track/5TJjnb0e3yc6T32Ziy5tpF) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [CAPICÚ](https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8) | 2:23 |
 | 8 | [Una Amenaza](https://open.spotify.com/track/73E6NlBIxB7PR97hAqTkeP) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Una Amenaza](https://open.spotify.com/album/49vzqdS8FB5hFm4QUiz19P) | 2:35 |
 | 9 | [PPC](https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [PPC](https://open.spotify.com/album/4V5HyefyVSF15kOhuy11up) | 4:00 |
 | 10 | [Apego Emocional](https://open.spotify.com/track/3mYXBDTqUixQk4flZ3bbJO) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Apego Emocional](https://open.spotify.com/album/6Gr26CThK4xZ7ulKVkKsd2) | 3:22 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [LADIOSA](https://open.spotify.com/track/1vVODrP3pOYHmJ3wiG6E2i) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [LADIOSA](https://open.spotify.com/album/7bs9A7hnR4rgi4MeztXYPS) | 3:17 |
 | 56 | [Sirena](https://open.spotify.com/track/2aP0SLnuLCnBJFOkdPFPkL) | [Fiamma](https://open.spotify.com/artist/4wOu4vVTBMgHkts7CQJhZb), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [Sirena](https://open.spotify.com/album/0ySBJT3MDM9WTDTOCxpmTF) | 3:09 |
 
-Snapshot ID: `Z8IG9AAAAACaFyq0uJ27cOS73NqidMpz`
+Snapshot ID: `Z8IG9AAAAABAJb/xIBdotfSh8K3QXAtt`

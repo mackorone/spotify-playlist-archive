@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,684 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,753 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Wild in Secret](https://open.spotify.com/track/2lVISXKXcgsD5MQL9KUZJt) | [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Play This At My Funerals](https://open.spotify.com/album/3ODPrRxYM7JDGiIRCBEZ4B) | 2:23 |
 | 60 | [Born To Make It](https://open.spotify.com/track/6kTN5hzVv7v7OBWkadx3IP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Born To Make It](https://open.spotify.com/album/6HlysPNeaDNbptK2EGKBiU) | 2:10 |
 
-Snapshot ID: `Z8DuogAAAAApLaBYUUeIfbR7fS7Pc1AN`
+Snapshot ID: `Z8DuogAAAABWJjZEASrzEmSW8Dr06VrS`

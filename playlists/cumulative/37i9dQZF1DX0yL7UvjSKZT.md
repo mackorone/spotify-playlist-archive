@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-499 songs - 1 day 6 hr 52 min
+500 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Adelaide](https://open.spotify.com/track/5c6PDFgP3O7vBrmCvXKJjC) | [Brenna MacMillan](https://open.spotify.com/artist/4AFECWlZxQj0hZXvKdOi3x) | [Dear Life](https://open.spotify.com/album/03vcGUsrnngDA1CgTlM62G) | 3:03 | 2024-12-27 |  |
 | [Afterlifer](https://open.spotify.com/track/5HW5jLtQTiwCIP7szHFogB) | [JD Pinkus](https://open.spotify.com/artist/3kjDglROBT39WUVvPtDSEX), [Tall Tall Trees](https://open.spotify.com/artist/7E4RVv4JRB5EkgWFBmlcKx) | [Afterlifer](https://open.spotify.com/album/17YbIbl57XahxyBP9pTcn7) | 5:01 | 2023-06-09 | 2024-03-09 |
 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 | 2021-10-01 | 2023-05-16 |
+| [All Around You](https://open.spotify.com/track/5S1kM0JFOhktFalTjOZH0L) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [All Around You](https://open.spotify.com/album/1N2018a6LgCjSaZbuyTzSR) | 3:13 | 2025-03-03 |  |
 | [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 | 2023-08-18 |  |
 | [All Day All Night](https://open.spotify.com/track/7fea0ovRcsLj0OkFNN6i8u) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [All Day All Night](https://open.spotify.com/album/5V9fvMfnhzIGCEmfAUjBvw) | 3:33 | 2021-10-01 | 2022-01-22 |
 | [All For the Song](https://open.spotify.com/track/2u7z8YKuEj4WzVGnooSKKs) | [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [All For the Song](https://open.spotify.com/album/1jQNrctvxHMZM0cuFYumiz) | 5:28 | 2022-04-22 | 2022-07-16 |

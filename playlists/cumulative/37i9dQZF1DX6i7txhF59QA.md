@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Song Ga In\(송가인\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-983 songs - 2 day 8 hr 8 min
+984 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Because of the money \(feat\. Zerotak\)](https://open.spotify.com/track/2WQqDPKcuS2zc8O138hakE) | [SUNGWONEE](https://open.spotify.com/artist/17jksOlvBqNq50CuFWT0g2), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Because of the money](https://open.spotify.com/album/4VLRHXiyQqExb7yiivNdnQ) | 3:10 | 2022-04-22 | 2023-04-12 |
 | [Becoming dust](https://open.spotify.com/track/7CCzcbuy4t09kxNqCDlyZl) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART2](https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O) | 3:30 | 2022-04-07 | 2024-05-19 |
 | [Beep beep](https://open.spotify.com/track/4jdHvaycEfGXglKXdWqUd0) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART6](https://open.spotify.com/album/13HpqMqyjzlWI8lfNWxHUh) | 3:42 | 2022-07-22 | 2022-07-26 |
-| [Better Man](https://open.spotify.com/track/5BG8RereCrmoklTXkYs9qK) | [MISTER T](https://open.spotify.com/artist/0vb3mPf5n9zyFMJ3PThOCI) | [Better Man](https://open.spotify.com/album/2AC0r52mB5DprJPJbZBx3O) | 3:02 | 2022-04-22 |  |
+| [Better Man](https://open.spotify.com/track/5BG8RereCrmoklTXkYs9qK) | [MISTER T](https://open.spotify.com/artist/0vb3mPf5n9zyFMJ3PThOCI) | [Better Man](https://open.spotify.com/album/2AC0r52mB5DprJPJbZBx3O) | 3:02 | 2022-04-22 | 2025-03-04 |
 | [Beyond the Years](https://open.spotify.com/track/1HrOy9rkn3qISHDXDmLy5w) | [Im Chan](https://open.spotify.com/artist/2rKMspg61zWki0oiUwgoW1) | [Music Source of Mr\. Trot3 Preliminary Match Best PART2](https://open.spotify.com/album/7BdjjF2NXAZ0XMrRNtwGGz) | 3:04 | 2025-02-11 |  |
 | [Binari](https://open.spotify.com/track/4J8YNjfmC36LxgLob5o51V) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART17](https://open.spotify.com/album/3koMaEVHRnRL3NW5WZRrs1) | 4:08 | 2022-05-03 | 2022-05-28 |
 | [Binari](https://open.spotify.com/track/0fbohArx2LsmWgHcSgO3Bd) | [Son Tae jin](https://open.spotify.com/artist/7w3dpNEHUV9vTN2EPtJBhf), [Hwang Young woong](https://open.spotify.com/artist/2aFQLd0AjUaJFHeIc3xl7L) | [Fire Trot Semi\-Finals, Three Legends Round PART 1](https://open.spotify.com/album/1p6USvw5YBXUa55J7n7QM6) | 5:20 | 2024-08-13 | 2025-02-12 |
@@ -479,6 +479,7 @@
 | [Meaning of you](https://open.spotify.com/track/4jJAnR4GMpcpV1nKTlFrWG) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART17](https://open.spotify.com/album/3koMaEVHRnRL3NW5WZRrs1) | 3:33 | 2022-04-22 | 2022-07-29 |
 | [Meet him among them](https://open.spotify.com/track/1D6UzRmTrtZwDF7L5NSgZQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART21](https://open.spotify.com/album/5KVlaX4w5qg5rRa9zrsWxZ) | 3:43 | 2022-04-07 | 2022-07-22 |
 | [Men are Ships, Women are Harbors](https://open.spotify.com/track/6wYZglDbCJwCCfbWua8wOP) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART2](https://open.spotify.com/album/6ehOtKwnhQ1ZIsoDWJl5cJ) | 3:00 | 2022-06-18 | 2022-07-23 |
+| [Mercury Lamp](https://open.spotify.com/track/5ujRScgbcdQs7XExUfEKux) | [Chun Gil](https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR) | [Music Source of Mr\. Trot3 1:1 Death Match Best PART2](https://open.spotify.com/album/3AX4e6raYqfhN2ITaNbuH2) | 3:38 | 2025-02-20 |  |
 | [Mercury lamp](https://open.spotify.com/track/6nvENCgjOxWCYtsRYffwD9) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART8](https://open.spotify.com/album/5foFjCTKaWf5je3HLOvx8C) | 2:56 | 2022-05-03 | 2022-07-15 |
 | [Miss Camellia](https://open.spotify.com/track/341zFr0Vl9NH7jlLhMNYTG) | [Jung Seo Joo](https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00) | [Music Source of Ms.Trot3 1:1 Survival Best PART2](https://open.spotify.com/album/3IGqtH1o3B3BEnrLZwqOxI) | 2:48 | 2024-08-13 |  |
 | [Miss the one](https://open.spotify.com/track/1R5QQhMPR1j1uVyYBtjzyc) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART24](https://open.spotify.com/album/5mGrSafaWHAkJ6sCzY8nmG) | 3:25 | 2022-05-03 | 2022-05-28 |

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc :  \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
-  "num_followers": 31518,
+  "num_followers": 31527,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-02-27 22:00:20",
       "album": {
-        "name": "\u05d9\u05d5\u05de\u05d4",
-        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
-      },
-      "artists": [
-        {
-          "name": "Tohar Gadasi",
-          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "\u05d9\u05d5\u05de\u05d4",
-      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
-    },
-    {
-      "added_at": "2025-02-27 22:00:20",
-      "album": {
         "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d0'",
         "url": "https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 222811,
       "name": "\u05e0\u05d5\u05e8\u05d9",
       "url": "https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s"
+    },
+    {
+      "added_at": "2025-02-27 22:00:20",
+      "album": {
+        "name": "\u05d9\u05d5\u05de\u05d4",
+        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
+      },
+      "artists": [
+        {
+          "name": "Tohar Gadasi",
+          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "\u05d9\u05d5\u05de\u05d4",
+      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
     },
     {
       "added_at": "2025-02-27 22:00:20",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-02-27 22:00:20",
       "album": {
-        "name": "\u05e0\u05e9\u05de\u05d4",
-        "url": "https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ"
-      },
-      "artists": [
-        {
-          "name": "Liron Amram",
-          "url": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "\u05e0\u05e9\u05de\u05d4",
-      "url": "https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3"
-    },
-    {
-      "added_at": "2025-02-27 22:00:20",
-      "album": {
         "name": "\u05e9\u05dc\u05d5\u05e9\u05ea \u05d4\u05e7\u05d5\u05e4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/2fIXRjTLxp7tdgon5ZARD4"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 180224,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+    },
+    {
+      "added_at": "2025-02-27 22:00:20",
+      "album": {
+        "name": "\u05e0\u05e9\u05de\u05d4",
+        "url": "https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ"
+      },
+      "artists": [
+        {
+          "name": "Liron Amram",
+          "url": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "\u05e0\u05e9\u05de\u05d4",
+      "url": "https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3"
     },
     {
       "added_at": "2025-02-27 22:00:20",

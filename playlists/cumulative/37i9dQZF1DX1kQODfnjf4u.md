@@ -2,7 +2,7 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Yzomandias, P T K
+> 50 nejžhavějších hitů v České republice\. Cover: Calin
 
 98 songs - 4 hr 46 min
 

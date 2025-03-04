@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Mazaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,899 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,928 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Kya Lafda \(From "Double ISMART"\)\(Telugu\)](https://open.spotify.com/track/1LAp48f6hb6LYqYFFb4EHV) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Kya Lafda \(From "Double ISMART"\)\(Telugu\)](https://open.spotify.com/album/1m2T5YHndF1qX7r1xBFaho) | 4:31 |
 | 50 | [Sitar Song \(From "Mr\. Bachchan"\)](https://open.spotify.com/track/05EF4pLoo5dHCbFVm5ImJ7) | [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sitar Song \(From "Mr\. Bachchan"\)](https://open.spotify.com/album/28DA8Z7PABy6BaLtdimMSG) | 4:09 |
 
-Snapshot ID: `Z8CB1gAAAACFJJbS78yLGTGkJFYy/+E6`
+Snapshot ID: `Z8CB1gAAAADW4FilCxURjI4IjU8teQm/`

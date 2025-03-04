@@ -3123,6 +3123,28 @@
     },
     {
       "album": {
+        "name": "Khwabeeda",
+        "url": "https://open.spotify.com/album/7oE5nV1wTd9wvEZbM8qi02"
+      },
+      "artists": [
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        },
+        {
+          "name": "Nirmaan",
+          "url": "https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163297,
+      "name": "Khwabeeda",
+      "url": "https://open.spotify.com/track/2hYgz7q5qhBeRiKIdChC83"
+    },
+    {
+      "album": {
         "name": "Glass Ceiling",
         "url": "https://open.spotify.com/album/7pFnY7YB2jQw9lIJpauU5B"
       },

@@ -417,6 +417,32 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/274RjiIvWoIG9TyyaMjOTL"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Cervendos",
+          "url": "https://open.spotify.com/artist/3DZRro0HzRPtZ5UxJzf6gZ"
+        },
+        {
+          "name": "Lauren Faith",
+          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401623,
+      "name": "High",
+      "url": "https://open.spotify.com/track/31EN3aJtDh5Tpd8fWSqLhO"
+    },
+    {
+      "album": {
         "name": "High (feat. Lauren Faith)",
         "url": "https://open.spotify.com/album/3U9B6PXoVMTvtpK7mHzUnG"
       },
@@ -436,7 +462,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 401623,
       "name": "High (feat. Lauren Faith)",
       "url": "https://open.spotify.com/track/0jwGWqhXgfS8KAg4CkHEAh"

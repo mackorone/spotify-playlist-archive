@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 487 songs - 1 day 6 hr 42 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 488 songs - 1 day 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -495,5 +495,6 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 485 | [SRXT](https://open.spotify.com/track/3PnEF1gxuHcF2mHyxFNFWB) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:51 |
 | 486 | [Selfish Son](https://open.spotify.com/track/32qYJIgErnGqHszAVaGxFe) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:58 |
 | 487 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/35SRuRfp5BvD1yArmXKNHO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:37 |
+| 488 | [Blue Demon](https://open.spotify.com/track/1GxaEkfGQrN6cuUOMJ8yqi) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Blue Demon](https://open.spotify.com/album/4EjU3mNmfEVljQgGbuZz1l) | 3:45 |
 
-Snapshot ID: `AAANtJQR2x9BO0Jz3PTrD9XvjS3SrteK`
+Snapshot ID: `AAANtdMPooObJK3+hiW4umfS8AzVSPDT`

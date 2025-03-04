@@ -2,7 +2,7 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Art Aguilera
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Marcela Gandara
 
 721 songs - 2 day 8 hr 40 min
 

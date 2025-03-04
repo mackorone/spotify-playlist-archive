@@ -4,7 +4,7 @@
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-100 songs - 4 hr 11 min
+104 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Lacero Puttanesca 2](https://open.spotify.com/track/0zrcqRc0tIRGA2w7RxHUt9) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR), [Kim Neundorf](https://open.spotify.com/artist/4a7mPbeyyu6OIO7xoJCiBH) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 2:17 | 2023-02-17 |  |
 | [Lacero Puttanesca 3](https://open.spotify.com/track/5YtNQ4mT8QZGJ6AANdMxWy) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR), [Kim Neundorf](https://open.spotify.com/artist/4a7mPbeyyu6OIO7xoJCiBH) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 0:42 | 2023-02-17 |  |
 | [Lacero Puttanesca 4](https://open.spotify.com/track/6Y1GmsSLAxPKdL8w4Zw1CX) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR), [Kim Neundorf](https://open.spotify.com/artist/4a7mPbeyyu6OIO7xoJCiBH) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:14 | 2023-02-17 |  |
+| [Lam Plearn Toh Lom Nhao](https://open.spotify.com/track/4GgEfq84P2s3mH5BrPcD1P) | [Yenjit Porntawi](https://open.spotify.com/artist/4aD784ii2Sro67nN09SzjY) | [Sound of Siam, Vol\. 1 \- Leftfield Luk Thung, Jazz & Molam in Thailand 1964\-1975](https://open.spotify.com/album/0fnDkJkDLNyv7kGDoxhSyR) | 4:08 | 2025-03-03 |  |
 | [Let's Fun More!](https://open.spotify.com/track/5UtNUbBGiiGv520jIXNm7L) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 2:15 | 2023-02-17 |  |
 | [Let's Fun!](https://open.spotify.com/track/5dBzp91ZIRNttUSAcN28kS) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 2:41 | 2023-02-17 |  |
 | [Lotus Aria](https://open.spotify.com/track/21X4ngvlbpdlQGuEDAJMxu) | [Kim Neundorf](https://open.spotify.com/artist/4a7mPbeyyu6OIO7xoJCiBH) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:49 | 2023-02-17 |  |
@@ -106,7 +107,10 @@
 | [Welcome to America](https://open.spotify.com/track/2qvvGKce6P7bOqjdhm1rd1) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:00 | 2023-02-17 |  |
 | [What's Gonna Happen to Us?](https://open.spotify.com/track/7dKzfKQKBo2WpzLmpn1Zyx) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 2:05 | 2023-02-17 |  |
 | [Wtf!](https://open.spotify.com/track/4YNWupot2LrDYPYMCuaTnP) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 0:34 | 2023-02-17 |  |
+| [ข้อยเว้าแม่นบ่](https://open.spotify.com/track/6E4l6FE1s1avn94R8wFN61) | [Nantida Kaewbuasai](https://open.spotify.com/artist/0BjogS1PYYrm9hO9nEChcK) | [ข้อยเว้าแม่นบ่ \(Original Vinyl Sound\)](https://open.spotify.com/album/10dx9XOLWMQFqGLw24YL73) | 3:46 | 2025-03-03 |  |
 | [พี่สาวครับ](https://open.spotify.com/track/5v7pw1hpLZpQIdMhkgTM6A) | [Charan Manophet](https://open.spotify.com/artist/0UlBSF0yRVV3QUSZ3yYemW) | [โฟล์คซองคำเมือง Audiophile Remastered](https://open.spotify.com/album/4Tp2P3Y2nmu9wUoEiCa6RV) | 2:48 | 2025-02-17 |  |
+| [สามช่าคาราบาว](https://open.spotify.com/track/0q3evbLMFwykdzaUJWYYuk) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9) | [คาราบาวซุปเปอร์ 3 ช่า Non\-Stop Vol.2](https://open.spotify.com/album/2UzoII0TGhsk3FGoUlOR4n) | 4:33 | 2025-03-03 |  |
 | [เมด อิน ไทยแลนด์](https://open.spotify.com/track/2Ntjw1C9E7XJYEaTd2xDEC) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9) | [เมด อิน ไทยแลนด์](https://open.spotify.com/album/4u0zQGYsODkKOqmVLO572V) | 4:11 | 2025-02-17 |  |
+| [ラム・キアオ\(ターン・ニャーオ\)](https://open.spotify.com/track/6v6Dl3YSMK5suVPcllEYGB) | [Chawiwan Damnoen](https://open.spotify.com/artist/7gC3jgnNKJdzJkt0eW58gh) | [THE WORLD ROOTS MUSIC LIBRARY: タイ/イサーンの音楽～モーラムとポーンラーン](https://open.spotify.com/album/1QdIKIVu6WJckuRjtm7J8M) | 3:45 | 2025-03-03 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

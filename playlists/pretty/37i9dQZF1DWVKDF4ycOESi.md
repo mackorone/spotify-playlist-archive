@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Noemi in cover + tutte le migliori uscite della settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,333 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,454 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 31 | [Hooligans](https://open.spotify.com/track/31v4wB0mU8e2D2sijFXTfM) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Hooligans](https://open.spotify.com/album/1PyF7HnieKGg8HtJHdYl0J) | 3:02 |
 | 32 | [per sentirmi vivo](https://open.spotify.com/track/0kQTEgvdQqLxN47dr09we8) | [lowlow](https://open.spotify.com/artist/5tBnK7LvBMgvkXuePtfywp) | [per sentirmi vivo](https://open.spotify.com/album/3k2xdTzlRhT554E9QX01bh) | 3:25 |
 | 33 | [Orione](https://open.spotify.com/track/759gGga5QA0Ll9UJclJ98D) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO) | [PER LA GLORIA](https://open.spotify.com/album/38LERft8hsVwW04qXYmOf5) | 3:24 |
-| 34 | [CONTALI](https://open.spotify.com/track/3lLS7eOIc0EmvAUN3xkKcD) | [Coco93](https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf), [Keyone](https://open.spotify.com/artist/2TkKn78OSOnL27lul8B6Kx) | [CONTALI](https://open.spotify.com/album/3NVEQxGmIqfWwoWGzFihCj) | 2:03 |
+| 34 | [CONTALI](https://open.spotify.com/track/3lLS7eOIc0EmvAUN3xkKcD) | [Coco93](https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf) | [CONTALI](https://open.spotify.com/album/3NVEQxGmIqfWwoWGzFihCj) | 2:03 |
 | 35 | [KETCH](https://open.spotify.com/track/766LXUTL0IfWmgyvKj02LE) | [WhyTrevxr](https://open.spotify.com/artist/644fFvMFDTe89XjvV4u0kR) | [KETCH](https://open.spotify.com/album/208yefzFNhC8rZeUdb5o9P) | 1:34 |
 | 36 | [Million Miles Away](https://open.spotify.com/track/4wDM0nGseA8k7Eh6fHMk5w) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [P.O.U](https://open.spotify.com/artist/04vxVTBTwAFFbMFl1cvcZs), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Million Miles Away](https://open.spotify.com/album/1Cs6V1AmIKa9pXTcxnfX6v) | 4:15 |
 | 37 | [Keep The Faith](https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV) | 3:13 |

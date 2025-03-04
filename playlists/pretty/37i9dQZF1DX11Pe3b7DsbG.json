@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 231992,
+  "num_followers": 231998,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,38 @@
     {
       "added_at": "2025-02-14 03:01:17",
       "album": {
+        "name": "Gostoso Veneno",
+        "url": "https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "Gostoso Veneno",
+      "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
+    },
+    {
+      "added_at": "2025-02-14 03:01:17",
+      "album": {
+        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
+        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
+      },
+      "artists": [
+        {
+          "name": "Nelson Cavaquinho",
+          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Quando Eu Me Chamar Saudade",
+      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
+    },
+    {
+      "added_at": "2025-02-14 03:01:17",
+      "album": {
         "name": "Sambabook Jo\u00e3o Nogueira, 2",
         "url": "https://open.spotify.com/album/6FOkfUj1Mv1ySctRjW3GY0"
       },
@@ -387,38 +419,6 @@
     {
       "added_at": "2025-02-14 03:01:17",
       "album": {
-        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
-        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
-      },
-      "artists": [
-        {
-          "name": "Nelson Cavaquinho",
-          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Quando Eu Me Chamar Saudade",
-      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
-    },
-    {
-      "added_at": "2025-02-14 03:01:17",
-      "album": {
-        "name": "Gostoso Veneno",
-        "url": "https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "Gostoso Veneno",
-      "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
-    },
-    {
-      "added_at": "2025-02-14 03:01:17",
-      "album": {
         "name": "Sentimento Brasileiro",
         "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-02-14 03:01:17",
       "album": {
-        "name": "Xande Canta Caetano",
-        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
-      },
-      "artists": [
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 235180,
-      "name": "Gente",
-      "url": "https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc"
-    },
-    {
-      "added_at": "2025-02-14 03:01:17",
-      "album": {
         "name": "Nova Bis - Clara Nunes",
         "url": "https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 181466,
       "name": "\u00ca Baiana",
       "url": "https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP"
+    },
+    {
+      "added_at": "2025-02-14 03:01:17",
+      "album": {
+        "name": "Xande Canta Caetano",
+        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 235180,
+      "name": "Gente",
+      "url": "https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc"
     },
     {
       "added_at": "2025-02-14 03:01:17",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-02-14 03:01:17",
       "album": {
-        "name": "Da M\u00fasica",
-        "url": "https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM"
-      },
-      "artists": [
-        {
-          "name": "Arlindo Cruz & Sombrinha",
-          "url": "https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE"
-        }
-      ],
-      "duration_ms": 264466,
-      "name": "Pintou uma Lua L\u00e1",
-      "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
-    },
-    {
-      "added_at": "2025-02-14 03:01:17",
-      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+    },
+    {
+      "added_at": "2025-02-14 03:01:17",
+      "album": {
+        "name": "Da M\u00fasica",
+        "url": "https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM"
+      },
+      "artists": [
+        {
+          "name": "Arlindo Cruz & Sombrinha",
+          "url": "https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE"
+        }
+      ],
+      "duration_ms": 264466,
+      "name": "Pintou uma Lua L\u00e1",
+      "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
     },
     {
       "added_at": "2025-02-14 03:01:17",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-02-14 03:01:17",
       "album": {
+        "name": "Mundu\u00ea",
+        "url": "https://open.spotify.com/album/6kJ0JRouLgeP9Pg45kev9v"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 211059,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/1Pt5sw50mjvMMCsN71R1Q9"
+    },
+    {
+      "added_at": "2025-02-14 03:01:17",
+      "album": {
         "name": "M\u00fasicas Para Churrasco Vol.1 Ao Vivo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3RnUHSj1pNqVeWvQbEvqzI"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 176573,
       "name": "Eu Vou Chegando",
       "url": "https://open.spotify.com/track/0MlLbRZYmBLd2sWKECh6zA"
-    },
-    {
-      "added_at": "2025-02-14 03:01:17",
-      "album": {
-        "name": "Mundu\u00ea",
-        "url": "https://open.spotify.com/album/6kJ0JRouLgeP9Pg45kev9v"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 211059,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/1Pt5sw50mjvMMCsN71R1Q9"
     },
     {
       "added_at": "2025-02-14 03:01:17",

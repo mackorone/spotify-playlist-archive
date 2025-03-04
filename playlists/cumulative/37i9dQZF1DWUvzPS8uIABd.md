@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Bee.
 
-456 songs - 22 hr 48 min
+457 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Laulumme](https://open.spotify.com/track/7FI30NKEjSkRAA0HS8So9t) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Laulumme](https://open.spotify.com/album/1RZmPwJdlBFNoE4qOIbeZW) | 3:39 | 2025-02-13 |  |
 | [LE LE LE](https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [LE LE LE](https://open.spotify.com/album/4pw34ehZjeYt0fzHSLWtfV) | 3:19 | 2024-09-26 | 2024-10-25 |
 | [Lehdetön Puu \- Vain elämää kausi 15](https://open.spotify.com/track/1309KRJQF1uL6n0A3suSUS) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Lehdetön Puu \(Vain elämää kausi 15\)](https://open.spotify.com/album/2lD7zP8OW86YNhpjchomFa) | 5:23 | 2024-10-31 | 2024-11-08 |
+| [Leijonamieli](https://open.spotify.com/track/7skVGT7c49qEKGp9njGwjl) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Teen Mitä Täytyy](https://open.spotify.com/album/4plXzLtRVhQRVwdeHYw8q6) | 3:08 | 2025-03-03 |  |
 | [Leijonanruokaa](https://open.spotify.com/track/2gYKkaZDgonVODfPQBQtW3) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Leijonanruokaa](https://open.spotify.com/album/3pbw8Ifw6yayhXGLnc1pWj) | 3:14 | 2025-02-20 |  |
 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 | 2024-12-19 |  |
 | [Liian lähel aurinkoo](https://open.spotify.com/track/3g11Jm4Im7mEOUGJfsgay1) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Liian lähel aurinkoo](https://open.spotify.com/album/2bLwEBPZKGkZyM0mAZZa7m) | 2:39 | 2024-07-11 | 2024-08-23 |
@@ -388,7 +389,7 @@
 | [Talviuni](https://open.spotify.com/track/1g1SPkB4o2RYpoHrD6TNjA) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Talviuni](https://open.spotify.com/album/4MuUNi9HdZVMje4ivNSwmk) | 2:49 | 2024-11-28 | 2025-01-10 |
 | [Tapahtui elämä](https://open.spotify.com/track/3ts74b1mm3a1gIqPnVwJNy) | [Ida Paul & Kalle Lindroth](https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0), [Kalle Lindroth](https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi) | [Tapahtui elämä](https://open.spotify.com/album/47Ha0ca6mwGlBPmr2qjiPt) | 3:55 | 2024-09-26 | 2024-11-15 |
 | [Taustapeili](https://open.spotify.com/track/0Z0Y0HYw1LyhPh6JHUn8iz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Taustapeili](https://open.spotify.com/album/588S0BacJGFA4PIZvjWinP) | 3:03 | 2024-07-02 | 2024-08-16 |
-| [Teen mitä täytyy](https://open.spotify.com/track/1f1XMgqGipqx8VN23xj1Pq) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Teen Mitä Täytyy](https://open.spotify.com/album/4plXzLtRVhQRVwdeHYw8q6) | 2:48 | 2025-02-27 |  |
+| [Teen mitä täytyy](https://open.spotify.com/track/1f1XMgqGipqx8VN23xj1Pq) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Teen Mitä Täytyy](https://open.spotify.com/album/4plXzLtRVhQRVwdeHYw8q6) | 2:48 | 2025-02-27 | 2025-03-04 |
 | [The Islander \(Vain elämää kausi 15\)](https://open.spotify.com/track/78qcak7x9dVCapzlxt0yDG) | [Jussi Rainio](https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD), [Neon 2](https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN) | [The Islander \(Vain elämää kausi 15\)](https://open.spotify.com/album/35MQVa39LOlpsmIq7GkkHA) | 3:32 | 2024-11-14 | 2024-11-26 |
 | [Tili tuli, tili meni](https://open.spotify.com/track/62fvSFu3kdDzTd0z5LQcnX) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tili tuli, tili meni](https://open.spotify.com/album/6N1NMvekc9JN5miaabjIRr) | 2:33 | 2025-01-09 | 2025-02-28 |
 | [Tinasormus \(feat\. Janne Hurme\)](https://open.spotify.com/track/5O76Qhhq088kM5g0RxT3Tp) | [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k), [Janne Hurme](https://open.spotify.com/artist/3zxooYS5gwpE15xpjX0N1A) | [Tinasormus \(feat\. Janne Hurme\)](https://open.spotify.com/album/105mwQbyQbZUMxxKlS1sRk) | 3:12 | 2024-07-02 | 2024-07-19 |

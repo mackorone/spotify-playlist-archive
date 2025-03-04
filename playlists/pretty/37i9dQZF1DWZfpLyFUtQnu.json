@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 98426,
+  "num_followers": 98467,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Barbara - N\u00b02",
+        "url": "https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd"
+      },
+      "artists": [
+        {
+          "name": "Barbara",
+          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+        }
+      ],
+      "duration_ms": 161786,
+      "name": "G\u00f6ttingen",
+      "url": "https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Beau (feat. Julien Dor\u00e9) [Version acoustique]",
         "url": "https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 153866,
       "name": "Beau (feat. Julien Dor\u00e9) - Version acoustique",
       "url": "https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Barbara - N\u00b02",
-        "url": "https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd"
-      },
-      "artists": [
-        {
-          "name": "Barbara",
-          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
-        }
-      ],
-      "duration_ms": 161786,
-      "name": "G\u00f6ttingen",
-      "url": "https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe"
     },
     {
       "added_at": "2024-10-03 14:22:43",

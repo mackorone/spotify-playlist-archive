@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 19 min
+64 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Maulla](https://open.spotify.com/track/63duS6SnYV6lKzv79zINUH) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:37 | 2024-07-12 | 2024-09-12 |
 | [Mi Camino](https://open.spotify.com/track/4mcljCYLS037Sae13QhJcE) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Mi Camino](https://open.spotify.com/album/0jJzHJf7e8az1HOKA4EmIz) | 2:47 | 2024-06-19 | 2024-09-23 |
 | [Mi Camino](https://open.spotify.com/track/6RJWcYvINrYamu3sfW7a9T) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:47 | 2024-09-30 | 2024-12-31 |
-| [Nota de Pasion](https://open.spotify.com/track/6PvMAswOFbnZwWD6UYJV4f) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion](https://open.spotify.com/album/1OmgUO1NEPBKKKMCXmI71d) | 3:32 | 2024-12-10 |  |
+| [Nota de Pasion](https://open.spotify.com/track/6PvMAswOFbnZwWD6UYJV4f) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion](https://open.spotify.com/album/1OmgUO1NEPBKKKMCXmI71d) | 3:32 | 2024-12-10 | 2025-03-04 |
+| [Nota de Pasion](https://open.spotify.com/track/6WXOXKQ0pDfdGQvh5XT7dI) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion](https://open.spotify.com/album/5IMNETxS7NHq8izdlrgdsm) | 3:32 | 2025-03-04 |  |
 | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e) | 3:32 | 2024-06-19 | 2024-12-07 |
 | [Olvidando el pasado](https://open.spotify.com/track/67DMzakKxJSRiambD0Lk9F) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Olvidando el pasado](https://open.spotify.com/album/7gOVVDzY5VVW0Jf5tch32u) | 3:18 | 2024-06-19 | 2024-10-08 |
 | [Olvidando el pasado](https://open.spotify.com/track/0cTbIsZvSVAvZ3Jv6xOAIN) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Olvidando el pasado](https://open.spotify.com/album/5swUIdqddJrIsrMALM6fmb) | 3:18 | 2024-10-08 |  |

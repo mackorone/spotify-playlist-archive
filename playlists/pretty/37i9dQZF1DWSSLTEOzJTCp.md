@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > Our editors' picks for the best bass songs of 2024! Cover: ISOKNOCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,884 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,917 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [Boarding Party](https://open.spotify.com/track/73mJVsxtk0oXxhxr0GqgeA) | [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H) | [Boarding Party](https://open.spotify.com/album/2hG59Objv4njdYDRnM3wvr) | 2:53 |
 | 50 | [Throw It Back](https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Throw It Back](https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x) | 2:20 |
 
-Snapshot ID: `Z1BHxAAAAADunTd7ZUQg1d6PUjMNdTtH`
+Snapshot ID: `Z1BHxAAAAACnLrwVtmBtFT8/poNvHFDK`

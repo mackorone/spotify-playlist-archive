@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-459 songs - 1 day 1 hr 13 min
+460 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [Ninnolavina Aasare](https://open.spotify.com/track/3x3Esiey1grIJ0edTcpxAh) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Ninnolavina Aasare](https://open.spotify.com/album/4ADpZeIj6CBNRZ3jVYLVkd) | 1:36 | 2023-05-25 | 2023-06-01 |
 | [No Filter](https://open.spotify.com/track/6CnlSin1nGk5D1V4OzTq4m) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [No Filter](https://open.spotify.com/album/4cD3N1DB3lvV7YIJabNq60) | 3:20 | 2022-12-09 | 2024-02-02 |
 | [O Priya](https://open.spotify.com/track/0zM0oVvm8YBCdirTyPMAx2) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31) | [O Priya](https://open.spotify.com/album/1nZighCTs9RhIBA5gGlxsK) | 5:08 | 2023-06-08 | 2023-09-01 |
-| [OAT Tintira](https://open.spotify.com/track/1PlkA1vBE0B0p0AQ2V0v4T) | [Dhaivat](https://open.spotify.com/artist/5g10TzJGCNyh2pcaeaQolx) | [OAT Tintira](https://open.spotify.com/album/4VL3t80nEymzsAUz14vWs3) | 3:27 | 2024-11-19 |  |
+| [OAT Tintira](https://open.spotify.com/track/1PlkA1vBE0B0p0AQ2V0v4T) | [Dhaivat](https://open.spotify.com/artist/5g10TzJGCNyh2pcaeaQolx) | [OAT Tintira](https://open.spotify.com/album/4VL3t80nEymzsAUz14vWs3) | 3:27 | 2024-11-19 | 2025-03-04 |
 | [Obbane](https://open.spotify.com/track/4PgSjxPTZTopXOoUV5B6Hf) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [Obbane](https://open.spotify.com/album/6aO488rTrHix487YZHxF4W) | 4:07 | 2023-05-16 | 2024-01-30 |
 | [Olave](https://open.spotify.com/track/58M7CKziZOVtMsXkRYH5GY) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/097cY3W3vTxc59lHJO8OCf) | 3:02 | 2023-11-20 | 2024-04-19 |
 | [Olave](https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO) | 3:02 | 2023-11-20 | 2024-05-14 |
@@ -366,6 +366,7 @@
 | [Oo Jeevave](https://open.spotify.com/track/3oVtDUiXOdiJNeZ9GdkE7Q) | [Girish Prabhu](https://open.spotify.com/artist/3gwJq0GldUL2tNtdeaG7gN) | [Oo Jeevave](https://open.spotify.com/album/5qfB377p8oXyR0yDG9RRwA) | 3:06 | 2024-05-21 | 2024-11-09 |
 | [Padave](https://open.spotify.com/track/7jeb8vTbfTLSQbQ0YkrpqO) | [Adarsh Iyengar](https://open.spotify.com/artist/0ZB0jEtwxWDtdPUH5c2U88), [Hemanth Jois](https://open.spotify.com/artist/1jGipgLVgmbinZ30YgvYwN), [Rakshith Thirthahalli](https://open.spotify.com/artist/7M7PqSzAHEMpIwHnB43kTS) | [Padave](https://open.spotify.com/album/6WEXnjMsioBRJRKiGqJKIt) | 4:16 | 2024-10-14 |  |
 | [Pade Pade](https://open.spotify.com/track/63eNczU8Mm6NXK6qb2GhJr) | [Akshay Pattanshetti](https://open.spotify.com/artist/4aDW9nSPFchayJfx8qrur8), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Pade Pade](https://open.spotify.com/album/6iCiUYkdLka3GrO8cpuTuf) | 3:04 | 2024-04-01 | 2024-09-18 |
+| [Paisa](https://open.spotify.com/track/6GnCmGYCBKPe5PZSe2TnP4) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Paisa](https://open.spotify.com/album/2PZsne4TWitMBuKSpW11pX) | 2:09 | 2025-03-03 |  |
 | [Pakshi](https://open.spotify.com/track/0fszASeFYOvRttPCKxTaYm) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/6jvpwdvIC7KR6MbD5vEFHl) | 2:57 | 2023-07-14 | 2024-02-15 |
 | [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 | 2023-07-14 | 2024-01-05 |
 | [Parashuram](https://open.spotify.com/track/3I7elSzdAYqPovLgNe5V6D) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/5ZdIgrGncQ7ojJCgfZ4YiN) | 4:09 | 2023-11-14 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Nina Chuba
 
-2,535 songs - 4 day 23 hr 6 min
+2,537 songs - 4 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [aneinander vorbei](https://open.spotify.com/track/5j8Zxqv3HdWAOh4IhbF5jN) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [aneinander vorbei](https://open.spotify.com/album/7tLkOPBp3hwymhk56KFep0) | 4:19 | 2024-02-01 | 2024-02-16 |
 | [Angel \(From Barbie The Album\)](https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Angel \(From Barbie The Album\)](https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V) | 2:03 | 2023-06-08 | 2023-06-30 |
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-12-01 | 2024-01-26 |
+| [Angels Sippen Mashup](https://open.spotify.com/track/7CwJ8o9FdExCbIuLCnsHK8) | [Der Heimer](https://open.spotify.com/artist/1KuYRlMHWNMKyP6bjqwEDO), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Angels Sippen Mashup](https://open.spotify.com/album/4mid0yp51I21JxnnH9UlCw) | 2:08 | 2025-03-03 |  |
 | [Angst](https://open.spotify.com/track/5M5kGo3XKHte94y3Jf7qxi) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Angst](https://open.spotify.com/album/4MO43IoaFoxVFcNk2yAPP3) | 3:34 | 2024-08-22 | 2024-11-15 |
 | [ANGST>LIEBE](https://open.spotify.com/track/6KiPf8zHwaBK7VMHZZ1ReL) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [ANGST>LIEBE](https://open.spotify.com/album/6MXxm5A1n2rI3n0sGBrnF3) | 2:59 | 2023-10-19 | 2023-12-22 |
 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 | 2022-10-06 | 2023-03-03 |
@@ -427,7 +428,7 @@
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-13 | 2023-04-28 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-27 | 2023-05-05 |
 | [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 | 2024-10-31 | 2024-12-06 |
-| [Chlodwigplatz](https://open.spotify.com/track/5Fikxs7RowWr6I4RHzYHaV) | [JASCHA](https://open.spotify.com/artist/3QO7jPqvNV67rM86QQmc9i) | [Chlodwigplatz](https://open.spotify.com/album/6oAxx1eskXZnagKZR04DLi) | 2:13 | 2025-01-16 |  |
+| [Chlodwigplatz](https://open.spotify.com/track/5Fikxs7RowWr6I4RHzYHaV) | [JASCHA](https://open.spotify.com/artist/3QO7jPqvNV67rM86QQmc9i) | [Chlodwigplatz](https://open.spotify.com/album/6oAxx1eskXZnagKZR04DLi) | 2:13 | 2025-01-16 | 2025-03-04 |
 | [Chopard](https://open.spotify.com/track/4U5QQLxxig0D7dipnsGzBQ) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv) | [Chopard](https://open.spotify.com/album/7MIXNwtuzp7rJYrRoBvkW8) | 2:09 | 2024-10-24 | 2024-11-29 |
 | [Chrysanthemen](https://open.spotify.com/track/15i5jSYn8X8NdXMIJEUr2X) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Chrysanthemen](https://open.spotify.com/album/6igORa4loN6Ym7IDED0dO7) | 3:04 | 2023-02-23 | 2023-03-31 |
 | [Church \(feat\. Teddy Verseti\)](https://open.spotify.com/track/7cyBdix7HId2onf99SrJBV) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Teddy Verseti](https://open.spotify.com/artist/4Jl5W4ETxUCyEDgOEnqI4z) | [Epiphany \(Expanded Edition\)](https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h) | 4:01 | 2023-10-26 | 2024-03-08 |
@@ -1492,6 +1493,7 @@
 | [Mrs\. Potato Head](https://open.spotify.com/track/3K1tdhoeE6koNnWgAxEK9Y) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:37 | 2024-06-06 | 2024-07-02 |
 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2023-09-07 | 2023-09-22 |
 | [Ms\. Jackson](https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Ms\. Jackson](https://open.spotify.com/album/54ehmIjPv8SskzrJrNBGln) | 2:27 | 2023-08-24 | 2023-11-17 |
+| [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 | 2025-03-03 |  |
 | [mund zu mund](https://open.spotify.com/track/5IrYhQj2ej1EvxFxf0ke0i) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [mund zu mund](https://open.spotify.com/album/2FzbNkp7DebWDas3H9bW2c) | 1:41 | 2024-11-14 | 2024-11-29 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-06-09 | 2022-12-02 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-04 | 2024-02-09 |
@@ -2402,7 +2404,7 @@
 | [Wenn Das Liebe Ist](https://open.spotify.com/track/4X3ZmvXHgjuXywDBN1qzrA) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Wenn Das Liebe Ist](https://open.spotify.com/album/3jGeDSgeQBXkJXyP8zo3Vf) | 2:37 | 2024-07-04 | 2024-07-12 |
 | [wenn dein ego zu laut schreit](https://open.spotify.com/track/49eb2RSB0Ppwm2BS96sV9f) | [CRS](https://open.spotify.com/artist/1AIAI5HLnPGnPRRDVec6Qr), [Keule](https://open.spotify.com/artist/4YAtpT87My3LTvpLWWvG3Y) | [wenn dein ego zu laut schreit](https://open.spotify.com/album/30x72Zn0WU5eFmRvdVV8l1) | 3:10 | 2024-08-01 | 2024-08-09 |
 | [wenn die sonne hier scheint](https://open.spotify.com/track/0mHCdDjCDCWN0EVyUamTfS) | [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm), [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA) | [ZU VIEL PASSIERT](https://open.spotify.com/album/5RUrqEoAaGmROzRFAlndRu) | 2:30 | 2023-10-05 | 2023-10-13 |
-| [WENN DU DUMM BiST](https://open.spotify.com/track/6IFqLvemScAOurr8RxZ50B) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [WENN DU DUMM BiST](https://open.spotify.com/album/2vh0CBECdbufukqBXpT9fP) | 2:43 | 2025-01-27 |  |
+| [WENN DU DUMM BiST](https://open.spotify.com/track/6IFqLvemScAOurr8RxZ50B) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [WENN DU DUMM BiST](https://open.spotify.com/album/2vh0CBECdbufukqBXpT9fP) | 2:43 | 2025-01-27 | 2025-03-04 |
 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 | 2024-12-16 | 2025-01-28 |
 | [WENN DU MICH VERMISST](https://open.spotify.com/track/7EtfwHVS8FcciOBU1VnT8G) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [WENN DU MICH VERMISST](https://open.spotify.com/album/6d4QrOkN7QZd4Aay3koF7a) | 2:32 | 2022-06-09 | 2022-06-14 |
 | [Wenn du weinst](https://open.spotify.com/track/4P3DSLxQLg0il3pEBKsPTJ) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Wenn du weinst / Einmal verliebt \(Outro\)](https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas) | 3:22 | 2023-11-30 | 2024-01-26 |

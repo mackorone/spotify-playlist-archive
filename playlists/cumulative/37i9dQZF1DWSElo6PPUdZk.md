@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
-185 songs - 9 hr 31 min
+186 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Gerhe](https://open.spotify.com/track/32vevf8YHQp6YXsX3gcXTd) | [Harmanpreet Kaur](https://open.spotify.com/artist/514AvNhszo9vWHoG732hEG) | [Gerhe](https://open.spotify.com/album/0yN3IYKGYq5kJPlvh7UTla) | 3:14 | 2024-10-08 | 2024-12-04 |
 | [Ghori](https://open.spotify.com/track/2NNBsoC80svL6FU8mIhn82) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Mahi Da Viyah](https://open.spotify.com/album/799pGvv7ev2JMIMMy8GJCR) | 4:31 | 2023-03-18 | 2023-04-20 |
 | [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 | 2024-09-28 |  |
+| [Girl Anthem](https://open.spotify.com/track/5Achtd7j1uSUvJlIPHIL8q) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Girl Anthem](https://open.spotify.com/album/69Jud0DQ8GwV4C3zokKtYY) | 3:25 | 2025-03-03 |  |
 | [Good Luck](https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Good Luck](https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N) | 3:31 | 2023-04-19 | 2024-04-19 |
 | [Good Luck](https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Good Luck](https://open.spotify.com/album/5VzvS0APXNfXoYwUPZetPg) | 3:31 | 2024-01-30 | 2024-04-24 |
 | [Haaniya](https://open.spotify.com/track/01rsvFmtiW3Cr5oMW1RA9m) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Haaniya](https://open.spotify.com/album/6EMMY5bwElZSSlwzw8XNA7) | 3:08 | 2023-03-18 | 2023-04-20 |
@@ -161,7 +162,7 @@
 | [So Toxic](https://open.spotify.com/track/3Hdy2hhpz7oRPJ6keQbslz) | [SHATAKSHI SHARMA](https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO) | [So Toxic](https://open.spotify.com/album/04e1U06TRC5ZecmA4hwbUL) | 3:32 | 2024-11-22 |  |
 | [Sohna Lagda](https://open.spotify.com/track/3DIHLEEI2qMVvUi7HNFUWF) | [Divya Sharma](https://open.spotify.com/artist/6JbAd8GIWUoAwKjJfKx3oR) | [Sohna Lagda](https://open.spotify.com/album/50wVYIfIIi0TssIiqHcCxH) | 2:50 | 2023-03-18 | 2023-10-10 |
 | [Sohne Lagde](https://open.spotify.com/track/6bS5auVyy9XwoBi1AOr6xq) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Juss Musik](https://open.spotify.com/artist/0ORf1J39MnmYnM3Q8d6tCs) | [Sohne Lagde](https://open.spotify.com/album/7ei0BisjSCAEGShnf6KUtM) | 2:25 | 2024-08-30 | 2024-10-08 |
-| [Sohneya](https://open.spotify.com/track/0tWNV0VUiKRqaY2qt1v61x) | [Jaskiran](https://open.spotify.com/artist/64IqjXuiYufItWOummzCVL), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi) | [Sohneya](https://open.spotify.com/album/43MiyD2v5kbnakfz8DVJF1) | 2:55 | 2024-12-02 |  |
+| [Sohneya](https://open.spotify.com/track/0tWNV0VUiKRqaY2qt1v61x) | [Jaskiran](https://open.spotify.com/artist/64IqjXuiYufItWOummzCVL), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi) | [Sohneya](https://open.spotify.com/album/43MiyD2v5kbnakfz8DVJF1) | 2:55 | 2024-12-02 | 2025-03-04 |
 | [Suhagan](https://open.spotify.com/track/2UN5ayAAWWfdHI6I33eehA) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 5:14 | 2023-10-12 | 2023-11-18 |
 | [Sukoon](https://open.spotify.com/track/4tYzK8WBdYB609O0jKRVGC) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Eemaan](https://open.spotify.com/artist/5LolCWDYhmwWp7mfmbF4XX), [Love Jeet Singh Bhullar](https://open.spotify.com/artist/0pEvJdl0b4YNdMRYiQPBvg) | [Sukoon](https://open.spotify.com/album/3DIeuVx4Sqw1HDty8t5qsg) | 3:20 | 2024-10-22 | 2024-11-26 |
 | [Sukoon](https://open.spotify.com/track/2Z9d3935U8kg8cExrI33jd) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA), [Babbu Brar](https://open.spotify.com/artist/5iVo4PE7XoDT1eDEh65gKj), [Navdeesh Arora](https://open.spotify.com/artist/7kU8gQOzNhp7JsuEFBic7R) | [Sukoon](https://open.spotify.com/album/305KJcXEeB9RCZuYxZess4) | 3:43 | 2025-01-07 |  |

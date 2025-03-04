@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: RØRY
 
-476 songs - 23 hr 43 min
+477 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 | 2021-12-20 | 2022-04-05 |
 | [Soak](https://open.spotify.com/track/1yTAMGYb5hcJXBRJh4oqMj) | [Waxflower](https://open.spotify.com/artist/6ZIpcOBGC8WtihYI8n7hf8) | [Soak](https://open.spotify.com/album/3Jj07iZX7NzaWpOI5qVTBm) | 2:41 | 2021-12-20 | 2022-01-15 |
 | [sober](https://open.spotify.com/track/7qhIVH6Vov1CxFX7X7s8RM) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [BOYFRIENDZ](https://open.spotify.com/artist/0iZ1Gwx0L2YqRDBTF3JzqT) | [sober](https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf) | 3:06 | 2021-12-20 | 2022-10-14 |
-| [Some Girls](https://open.spotify.com/track/7JGdB1AC0LQmbR9gswFIdn) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Some Girls](https://open.spotify.com/album/2dvZmyHj13wcxdWPHAq4oD) | 3:26 | 2025-02-21 |  |
+| [Some Girls](https://open.spotify.com/track/7JGdB1AC0LQmbR9gswFIdn) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Some Girls](https://open.spotify.com/album/2dvZmyHj13wcxdWPHAq4oD) | 3:26 | 2025-02-21 | 2025-03-04 |
 | [Songs on the Radio](https://open.spotify.com/track/5rrq3Q48Zh8kZ38mhC6rAm) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [Songs on the Radio](https://open.spotify.com/album/3zRLuo2FVdTAP0MozqAiOL) | 3:28 | 2023-05-15 | 2023-09-15 |
 | [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 | 2022-05-20 | 2023-07-07 |
 | [sorry i'm a downer](https://open.spotify.com/track/5HthgwQJXeulWos92AfIrg) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [sorry i'm a downer](https://open.spotify.com/album/3pWZUapSZN36eiXNEdnM9z) | 2:50 | 2021-12-20 | 2023-02-10 |
@@ -389,6 +389,7 @@
 | [Split in Two](https://open.spotify.com/track/2Jfzv5UDSKUqlFncSabFy7) | [Stuck Out](https://open.spotify.com/artist/64Q80rDAedUbxhgMAJzyjI) | [Split in Two](https://open.spotify.com/album/1DEWsFXqaBdn7Udm2vz8A1) | 3:32 | 2022-04-04 | 2022-07-29 |
 | [Split In Two](https://open.spotify.com/track/2hFBaF0pqujZAStfrOEqIh) | [Stuck Out](https://open.spotify.com/artist/64Q80rDAedUbxhgMAJzyjI) | [Split In Two](https://open.spotify.com/album/6iGEygjKxyNc6E44PeZ8Kh) | 3:32 | 2022-07-18 | 2022-08-26 |
 | [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 | 2022-07-04 | 2022-08-26 |
+| [stabilizer](https://open.spotify.com/track/00AHMF1iGP9X5XU25rcRQh) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [stabilizer](https://open.spotify.com/album/2hLepkhTt2ccC0RBJ6rXMu) | 2:46 | 2025-02-21 |  |
 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 | 2024-02-05 | 2024-06-12 |
 | [Stick Season](https://open.spotify.com/track/7eBvIvbcUHJqra750YuQpg) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Stick Season](https://open.spotify.com/album/5lK5ePFyZ0EQo7RE38ENhm) | 3:20 | 2024-07-18 |  |
 | [Stickers of Brian](https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Stickers of Brian](https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW) | 2:41 | 2024-03-22 |  |

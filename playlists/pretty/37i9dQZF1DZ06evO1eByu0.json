@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 161638,
+  "num_followers": 161648,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8JOAAAAAABq6RVSi7vp2w2nqtwP5A3C",
+  "snapshot_id": "Z8OfgAAAAACaV9aQnzMH3dTbgXhRVliD",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Bem Mais Que Tudo",
-      "url": "https://open.spotify.com/track/6MeYawJ2Iaapjfq3Ncxkz6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reino",
         "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 295360,
       "name": "Autor da Vida",
       "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 286373,
+      "name": "Bem Mais Que Tudo",
+      "url": "https://open.spotify.com/track/6MeYawJ2Iaapjfq3Ncxkz6"
     },
     {
       "added_at": null,
@@ -739,54 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "Sem Limites",
-      "url": "https://open.spotify.com/track/0ipoF7Fraw4gW6QQf2bZcs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 272741,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/39haoAQl6lLuaSrZDelpAg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo Sobre Ele",
-        "url": "https://open.spotify.com/album/4FYo2VRJYru3XbUySDd7tA"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 220747,
-      "name": "Emanuel (Emmanuel)",
-      "url": "https://open.spotify.com/track/26kG2cBsRkvadJPHaShsbK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habr\u00e1 Victoria",
         "url": "https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU"
       },
@@ -803,6 +755,38 @@
       "duration_ms": 247376,
       "name": "Habr\u00e1 Victoria",
       "url": "https://open.spotify.com/track/1M8ItKWPgaCm0x2wvtdoCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "Sem Limites",
+      "url": "https://open.spotify.com/track/0ipoF7Fraw4gW6QQf2bZcs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo Sobre Ele",
+        "url": "https://open.spotify.com/album/4FYo2VRJYru3XbUySDd7tA"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 220747,
+      "name": "Emanuel (Emmanuel)",
+      "url": "https://open.spotify.com/track/26kG2cBsRkvadJPHaShsbK"
     },
     {
       "added_at": null,
@@ -883,6 +867,22 @@
       "duration_ms": 202524,
       "name": "Pisa na Muralha",
       "url": "https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 178329,
+      "name": "A Dan\u00e7a do Quaquito",
+      "url": "https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug"
     }
   ],
   "unique_name": "This Is Aline Barros",

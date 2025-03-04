@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9clsLxKiY3Z.md) - [plain]
 
 > Early Noise 2019選出アーティスト「ずとまよ」こと、ずっと真夜中でいいのに。のオールタイム・ベスト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,492 likes - 58 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,519 likes - 58 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9clsLxKiY3Z.md) - [plain]
 | 57 | [サターン](https://open.spotify.com/track/3Vd6MNEn1aLRvddvuNWYw1) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [正しい偽りからの起床](https://open.spotify.com/album/61fHzNeb76p8ATYvlhO4rI) | 4:10 |
 | 58 | [優しくLAST SMILE](https://open.spotify.com/track/3mQtVWxMaTkRZNScWVh9co) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 4:05 |
 
-Snapshot ID: `Z4+ctQAAAABZrBhRbLUosNHrTxGohF5s`
+Snapshot ID: `Z4+ctQAAAAAhFb9fXDljoJkaYnA1j/ra`

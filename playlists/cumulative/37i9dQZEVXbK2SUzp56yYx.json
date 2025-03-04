@@ -3267,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Gypsy Punk",
+        "url": "https://open.spotify.com/album/4Ccl3OLyyrZROudBjArZzp"
+      },
+      "artists": [
+        {
+          "name": "Nik Ammar",
+          "url": "https://open.spotify.com/artist/4cDrPgbp1NzHryskyc9Hn1"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182560,
+      "name": "Diskovery",
+      "url": "https://open.spotify.com/track/0glgTkbSgskHVjGj2Hdy8A"
+    },
+    {
+      "album": {
         "name": "I AM...SASHA FIERCE - Platinum Edition",
         "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
       },
@@ -4184,7 +4202,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 237093,
       "name": "Est-ce que tu m'aimes ? - Pilule bleue",
       "url": "https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy"
@@ -7098,7 +7116,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 236266,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
@@ -17716,7 +17734,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 210076,
       "name": "\u0413\u0430\u0438\u0442\u0438",
       "url": "https://open.spotify.com/track/61CGqJNNOTZ1zTWRIKTxs7"
@@ -19138,7 +19156,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 176400,
       "name": "\u043a\u0430\u043a \u0434\u0435\u043b\u0430?",
       "url": "https://open.spotify.com/track/3zkSzAFtkcW9xbhAcHR16Z"
@@ -20972,7 +20990,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 208493,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/6m5c79CcIpHvcUt6fGHIXD"

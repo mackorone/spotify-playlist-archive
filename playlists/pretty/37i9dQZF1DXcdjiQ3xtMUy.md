@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Klavdia
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,819 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,833 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Sirens](https://open.spotify.com/track/12NC6AUBdYdyAaKpTaToa8) | [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Sirens](https://open.spotify.com/album/2ymczzSSd10YyCyBd0RrC5) | 2:52 |
 | 50 | [14/02](https://open.spotify.com/track/1qQ6AroqA7ArCcLfq5Lmvn) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [14/02](https://open.spotify.com/album/2lHIdw2ByqII7cLHw1kBiH) | 3:01 |
 
-Snapshot ID: `Z8DgdQAAAABku/Jw18T9/1JCnKjG5+b2`
+Snapshot ID: `Z8DgdQAAAAARvyvR6BKvbzPl9eYhgG7w`

@@ -2821,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "BANK",
+        "url": "https://open.spotify.com/album/3cn84lrkx2rbn4gioOdeAo"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "BANK",
+      "url": "https://open.spotify.com/track/2rSy4IAa5FRLaR3af8NzuN"
+    },
+    {
+      "album": {
         "name": "BANSOMA",
         "url": "https://open.spotify.com/album/0HPd25QuskQjhCQ0gykusK"
       },
@@ -8324,7 +8342,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 157660,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/50serZyxwPIVyE9GIXFTnV"

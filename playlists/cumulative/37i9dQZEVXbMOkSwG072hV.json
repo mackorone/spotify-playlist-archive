@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 420708,
       "name": "Algo Novo Vindo",
       "url": "https://open.spotify.com/track/6fP2IJGSEvzIFEGJDNWvf4"
@@ -15516,7 +15516,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-04",
       "duration_ms": 219245,
       "name": "Defeito Meu",
       "url": "https://open.spotify.com/track/7kJ0GRHbVktMvLOCjXV7dn"
@@ -43767,6 +43767,28 @@
     },
     {
       "album": {
+        "name": "N\u00d3S TA POR AE",
+        "url": "https://open.spotify.com/album/4gPssKmluCqm6jsVwJhu8i"
+      },
+      "artists": [
+        {
+          "name": "F7.",
+          "url": "https://open.spotify.com/artist/5cs55nxzrFHagGKoW96o8n"
+        },
+        {
+          "name": "T\u00c1 RAUL EM BIGODE",
+          "url": "https://open.spotify.com/artist/6rkoEo25v1MHZ87g8ZkbQT"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "N\u00d3S TA POR AE",
+      "url": "https://open.spotify.com/track/4kUGkDkfqnlFmfqW9XprvY"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -45446,7 +45468,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
@@ -48710,6 +48732,24 @@
       "duration_ms": 163141,
       "name": "Pix ou Presente",
       "url": "https://open.spotify.com/track/2bwEs5CP234z3SaQkqVLEL"
+    },
+    {
+      "album": {
+        "name": "Pix Pra Mainha",
+        "url": "https://open.spotify.com/album/6h70tamjjuw4KBtFylFQEx"
+      },
+      "artists": [
+        {
+          "name": "Rarbbie",
+          "url": "https://open.spotify.com/artist/2KhPhXDeUZLMIXL6BLy3Tx"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115325,
+      "name": "Pix Pra Mainha",
+      "url": "https://open.spotify.com/track/7beMFLhYoAjMbhfD60pDsH"
     },
     {
       "album": {

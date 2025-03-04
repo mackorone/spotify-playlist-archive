@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,392 likes - 52 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,407 likes - 52 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 51 | [The Same](https://open.spotify.com/track/5fTCU82IwY3barEA7iYjHg) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:19 |
 | 52 | [slob air](https://open.spotify.com/track/4unSjjB9Jkx234FSFiR900) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [slob air](https://open.spotify.com/album/03gSWmiZSv4alvJoNPtYH9) | 12:28 |
 
-Snapshot ID: `Z4p1BQAAAABot6iB3OR3fogESqAxD0HM`
+Snapshot ID: `Z4p1BQAAAACI+9zn53atu5hAlmzbmBzx`

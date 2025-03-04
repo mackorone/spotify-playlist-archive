@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. Cover: ALEXSUCKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,550,662 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,550,520 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Backseat Banton](https://open.spotify.com/track/7DQq9q2C6Vba0OYYGtdKo0) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Backseat Banton](https://open.spotify.com/album/1dhLbhrh8xN725CzupxtGg) | 3:31 |
 | 75 | [Model Train Town](https://open.spotify.com/track/2jBIykPZwAGSFnnAY6cP6B) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [Model Train Town](https://open.spotify.com/album/0qKvhhwA6wd5IpHNgofkwG) | 2:39 |
 
-Snapshot ID: `Z8FC/AAAAACOUAG+/WWB+FEPqXaaCn2m`
+Snapshot ID: `Z8FC/AAAAAAel577zKfIZ7XVZxoA4vLe`

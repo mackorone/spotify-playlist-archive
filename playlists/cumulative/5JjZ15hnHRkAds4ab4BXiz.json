@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Blue Demon",
+        "url": "https://open.spotify.com/album/4EjU3mNmfEVljQgGbuZz1l"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "Blue Demon",
+      "url": "https://open.spotify.com/track/1GxaEkfGQrN6cuUOMJ8yqi"
+    },
+    {
+      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
       },

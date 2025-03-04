@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Platform
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,061 likes - 58 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,062 likes - 58 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

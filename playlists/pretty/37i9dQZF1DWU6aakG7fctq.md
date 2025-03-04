@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Andrea Bejar
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,643 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,641 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 41 | [Call It Freestyle](https://open.spotify.com/track/6WQNf0QRuTYi89J18GSY5U) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Call It Freestyle](https://open.spotify.com/album/535eXEJNnPRGmvHdYzIe7Z) | 4:22 |
 | 42 | [Bendecirte](https://open.spotify.com/track/4xCMyP2DtS1pR6SFgS1pIp) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Ángel Dumile](https://open.spotify.com/artist/4ZzO86sXj3tDSszrlCdL9o) | [Bendecirte](https://open.spotify.com/album/1IXQZ5cj2Gn5A4IVEfp4iY) | 2:48 |
 | 43 | [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 |
-| 44 | [ECHO](https://open.spotify.com/track/2aXtezQFExcQnXIFmxUnMk) | [Sara Ángel](https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna) | [ECHO](https://open.spotify.com/album/0FBYi7MVUOMn8pwaHGfyuF) | 3:36 |
-| 45 | [Arena](https://open.spotify.com/track/6nN7T3jfgM9PttuXVDqjro) | [Constantino](https://open.spotify.com/artist/7JXB79cwLMZDYTwbDe7lfb) | [Arena](https://open.spotify.com/album/4cvZPjLYqA5aiUq8Xhe4hL) | 3:44 |
-| 46 | [Casa](https://open.spotify.com/track/5H5pVq8yNelXXMtoM895Sw) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Casa](https://open.spotify.com/album/2yUitHKO0gAujSNkCHT9ry) | 3:23 |
-| 47 | [Terminar Mal](https://open.spotify.com/track/7JyELzKIPeuFWPZEJ6Xvtt) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Donde Duele](https://open.spotify.com/album/3BiIJ3UNYkwnhcb0Zmd8Bo) | 3:38 |
-| 48 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
-| 49 | [NO SALES DE MI CABEZA](https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [LE CHILL 2](https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9) | 2:52 |
-| 50 | [el fin de los tiempos](https://open.spotify.com/track/78iQ5yHXGhIJD59QOFL3YW) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [el fin de los tiempos](https://open.spotify.com/album/4X13vjFX72SD9wUTWd2iYq) | 1:11 |
+| 44 | [Arena](https://open.spotify.com/track/6nN7T3jfgM9PttuXVDqjro) | [Constantino](https://open.spotify.com/artist/7JXB79cwLMZDYTwbDe7lfb) | [Arena](https://open.spotify.com/album/4cvZPjLYqA5aiUq8Xhe4hL) | 3:44 |
+| 45 | [Casa](https://open.spotify.com/track/5H5pVq8yNelXXMtoM895Sw) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Casa](https://open.spotify.com/album/2yUitHKO0gAujSNkCHT9ry) | 3:23 |
+| 46 | [Terminar Mal](https://open.spotify.com/track/7JyELzKIPeuFWPZEJ6Xvtt) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Donde Duele](https://open.spotify.com/album/3BiIJ3UNYkwnhcb0Zmd8Bo) | 3:38 |
+| 47 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
+| 48 | [NO SALES DE MI CABEZA](https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [LE CHILL 2](https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9) | 2:52 |
+| 49 | [el fin de los tiempos](https://open.spotify.com/track/78iQ5yHXGhIJD59QOFL3YW) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [el fin de los tiempos](https://open.spotify.com/album/4X13vjFX72SD9wUTWd2iYq) | 1:11 |
 
-Snapshot ID: `Z8FDBQAAAAAqpACTxDMOfqcBkQqWNjp7`
+Snapshot ID: `Z8X3rAAAAADlkMISpQxgeXOo2Xym9v2k`

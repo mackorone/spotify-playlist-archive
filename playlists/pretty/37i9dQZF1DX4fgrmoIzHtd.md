@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,370 likes - 52 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,383 likes - 52 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 51 | [Tundra](https://open.spotify.com/track/1UgOnzhPO9rF0yL6MVvDvn) | [Dorisburg](https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6) | [Tundra](https://open.spotify.com/album/23OJnqEAd4JZ1dOtLbyIXr) | 8:37 |
 | 52 | [Rigormortiz](https://open.spotify.com/track/7A70vXpEnca9jxBThGakKT) | [Yungruzt](https://open.spotify.com/artist/3GR1QMA6ZB4yXPVymUqBrS) | [Rigormortiz](https://open.spotify.com/album/3v68VgJ8ZomiO8hqiXkt16) | 6:31 |
 
-Snapshot ID: `Z240fAAAAABv2UIXCa1LL2Zlsz21nC8C`
+Snapshot ID: `Z240fAAAAAB5xPzS/jGgQ8DpjAzJTqFo`

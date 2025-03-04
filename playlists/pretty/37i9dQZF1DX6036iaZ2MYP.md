@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Tiwa Savage x Craig David
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,581 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,650 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 6 | [Tsunami](https://open.spotify.com/track/2wA8FxoYNLqnxEBUDNmbsD) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Tsunami](https://open.spotify.com/album/2j2iLEhv90kjq66vEnOZVV) | 2:07 |
 | 7 | [Gear](https://open.spotify.com/track/1zbfB0DHDtMLR8YZrtTqjU) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gear](https://open.spotify.com/album/5FcfOy05bLckasiQQHpR1X) | 2:38 |
 | 8 | [T'es à moi](https://open.spotify.com/track/05lsiP7uOT7VHocgg7k7Do) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [T'es à moi](https://open.spotify.com/album/7GWi9UIzOxgBsdi36coVv4) | 2:48 |
-| 9 | [W For Wetego \(feat\. Young Jonn & Phyno\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [W For Wetego \(feat\. Young Jonn & Phyno\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 |
+| 9 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 |
 | 10 | [Reine](https://open.spotify.com/track/3pOYXHP7nQbcIaL2WE40Iy) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Reine](https://open.spotify.com/album/4XC3hMkH0guciHOP84kMyL) | 2:13 |
 | 11 | [Fall In Love \(feat\. Ayo Jay\)](https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Fall In Love \(feat\. Ayo Jay\)](https://open.spotify.com/album/6Df2qCBg6t8oSSpqWkb5pE) | 3:25 |
 | 12 | [Obimo](https://open.spotify.com/track/0YfgKt9WlVCXPEx0HGvrds) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Obimo](https://open.spotify.com/album/029jK5j2qqcKKn4vMTm5o9) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Only U](https://open.spotify.com/track/69dbq3SQ9bHDK0qxD2mWUz) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [A2 & Only U](https://open.spotify.com/album/0hOkExE7NxT1wmlRhco5OP) | 2:22 |
 | 50 | [Broken](https://open.spotify.com/track/1dSWxiAta2Khk71alwiI68) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Broken](https://open.spotify.com/album/2HWVA1WrbftVD71PPy4WwG) | 2:47 |
 
-Snapshot ID: `Z8DujgAAAABhchJWE5tW7+kmlO+NsJnF`
+Snapshot ID: `Z8DujgAAAADkcL2/DGaYis0/a9mnTjhv`

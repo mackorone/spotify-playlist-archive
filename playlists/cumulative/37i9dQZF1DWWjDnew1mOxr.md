@@ -2,7 +2,7 @@
 
 ### [Proper Belters](https://open.spotify.com/playlist/37i9dQZF1DWWjDnew1mOxr)
 
-> Boss music for boss people\. Cover: Sam Fender
+> Boss music for boss people\. Cover: Sam Fender at The BRITs 2025
 
 371 songs - 21 hr 0 min
 

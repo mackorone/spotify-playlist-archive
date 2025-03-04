@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4vqBYwt9I3UMHhzFZHylRT?si=QgKGLLg9TOO6RK\-fQnF2aQ"> Breyan Bliss</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,606 likes - 230 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,656 likes - 230 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Little Simz \(pictured\), Benson Boone, Gigi Perez and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,608 likes - 122 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,629 likes - 122 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 121 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
 | 122 | [Near\-hearted](https://open.spotify.com/track/5vUGOdQxiPWVbeCQEfyhUt) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Near\-hearted](https://open.spotify.com/album/2GaymFwMlPI5fzvxqlApwP) | 3:25 |
 
-Snapshot ID: `Z8D8mAAAAAA805BK9CIb9kCmZtPTVUim`
+Snapshot ID: `Z8D8mAAAAACY29V5E/7nYLCi66BplWVv`

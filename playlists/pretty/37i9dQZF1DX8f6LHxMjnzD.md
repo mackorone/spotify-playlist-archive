@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,110 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,126 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS) | 2:13 |
 | 40 | [I'd Be Delighted](https://open.spotify.com/track/6jS8b3W99Sa21l0WSl5poF) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [I'd Be Delighted](https://open.spotify.com/album/5g2DpCsAsxxgth6kcSmXQX) | 3:46 |
 
-Snapshot ID: `Z740mAAAAACimg4xkLpT9i8wnVDOk6CM`
+Snapshot ID: `Z740mAAAAAAdHZ9z898NhDPVXE9e3Z0G`

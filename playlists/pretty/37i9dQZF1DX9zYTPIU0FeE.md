@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU?si=mM5w6oMwTv\-OFMlrOIxyAQ">Rorisang Sechele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,207 likes - 53 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,215 likes - 53 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Takeover: Nu Metal Revolution
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,480 likes - 36 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,474 likes - 36 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 35 | [Cold \- 2022 Remaster](https://open.spotify.com/track/6BZ5pRMvPfxsJLLeztmme5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine \(20th Anniversary Edition\) \[2022 Remaster\]](https://open.spotify.com/album/2uKoZMZW6vohzkd5lnYeJ4) | 3:41 |
 | 36 | [I'm the One](https://open.spotify.com/track/3DzlyoElcod4wd6KXziElp) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Start a War](https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO) | 2:36 |
 
-Snapshot ID: `ZxbxpwAAAADs6lrpxwh5IoEKmJcjyu+O`
+Snapshot ID: `ZxbxpwAAAABQJdkPYMH9ffhXWDs43qZy`
