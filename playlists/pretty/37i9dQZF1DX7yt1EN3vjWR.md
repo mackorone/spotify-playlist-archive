@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2025年5月24日\(土\), 25日\(日\)に幕張メッセで開催！国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のラインナップをチェック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,081 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,091 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 26 | [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 |
 | 27 | [Sagging My Jeans \(feat\. Lil Ash 懺悔 & Tohji\)](https://open.spotify.com/track/4W1GT9Vt2f27oVc2nfWKNj) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Lil Ash 懺悔](https://open.spotify.com/artist/5HyNuT1PVK3iFwukNreo0L), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Sagging My Jeans \(feat\. Lil Ash 懺悔 & Tohji\)](https://open.spotify.com/album/6zhvJo1OHj7E7BxzqKmCP1) | 3:16 |
 | 28 | [DOSHABURI \(feat\. JUMADIBA\)](https://open.spotify.com/track/2gMbyTElV5M3tLyxj1ByUQ) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DESTRUCTION](https://open.spotify.com/album/6J2XUL32G6s74SoTCmURpD) | 2:41 |
-| 29 | [花・魁 \- feat\. Medusa, E.V.P & IFE](https://open.spotify.com/track/6octouOHHwAcyeWCMYvAhU) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Medusa](https://open.spotify.com/artist/2yLzEJX16DA53MYJDP5Wrr), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5) | [花・魁 \(feat\. Medusa, E.V.P & IFE\)](https://open.spotify.com/album/7kCFvoPirTF7lPnUQyUUAQ) | 3:15 |
+| 29 | [花・魁 \- feat\. Medusa, E.V.P & IFE](https://open.spotify.com/track/6octouOHHwAcyeWCMYvAhU) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Medusa](https://open.spotify.com/artist/1TzyeS338hV4LOl9GW22tA), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5) | [花・魁 \(feat\. Medusa, E.V.P & IFE\)](https://open.spotify.com/album/7kCFvoPirTF7lPnUQyUUAQ) | 3:15 |
 | 30 | [No.5](https://open.spotify.com/track/55TarCmm2umLi8nd0db4tZ) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20](https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS) | 3:05 |
 | 31 | [Boss Bitch \- Remix](https://open.spotify.com/track/35KNZlorV8tFWaOCGyWa49) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [LANA](https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [7 \(Boss Bitch Edition\)](https://open.spotify.com/album/7wVZvzhAREfRwhVcxi2ik5) | 3:32 |
 | 32 | [777](https://open.spotify.com/track/7rc4LM94BAPwdMK2GHjmWb) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [777](https://open.spotify.com/album/2zxe9UJRT9bE7slnhqqf39) | 1:41 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 35998,
+  "num_followers": 36026,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAACYY9eRy4xvdBwMBi4tsW7Y",
+  "snapshot_id": "Z8TxAAAAAAAIiXy8kRGjDbwzAJ3RFBgV",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Blindado El Carro",
-      "url": "https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Ahora Resulta",
         "url": "https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 213907,
       "name": "Y Ahora Resulta",
       "url": "https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Blindado El Carro",
+      "url": "https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NLIEC 2 (LIVE SESSION)",
+        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 179605,
+      "name": "El Motor",
+      "url": "https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Hermanos",
         "url": "https://open.spotify.com/album/0old6hxis8rO7QgKH7Rw5d"
       },
@@ -643,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "Vida Loca",
-      "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nos Gusta La Fiesta",
         "url": "https://open.spotify.com/album/0tLaUDX5gWY1sj3vZ2QTTK"
       },
@@ -679,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NLIEC 2 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
       },
       "artists": [
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
         }
       ],
-      "duration_ms": 179605,
-      "name": "El Motor",
-      "url": "https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU"
+      "duration_ms": 247080,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NLIEC 2 (LIVE SESSION)",
+        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 198325,
+      "name": "Parque De Diversiones",
+      "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 162169,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NLIEC 2 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 198325,
-      "name": "Parque De Diversiones",
-      "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
     },
     {
       "added_at": null,

@@ -8189,6 +8189,24 @@
     },
     {
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/1NPTMlQPtfUfYWhtAPKgdv"
+      },
+      "artists": [
+        {
+          "name": "Christopher Somnus Brooks",
+          "url": "https://open.spotify.com/artist/2IAikbE8ZfcZX1sUZeka5v"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183484,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/0wYhXfdHMChwBwEP8KFDqk"
+    },
+    {
+      "album": {
         "name": "Ephemera",
         "url": "https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ"
       },

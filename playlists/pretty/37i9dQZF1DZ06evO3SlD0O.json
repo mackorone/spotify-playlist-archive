@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 26585,
+  "num_followers": 26589,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAABslsl/LRWZxnTJ1VonGezD",
+  "snapshot_id": "Z8TxAAAAAAB4L5j+0IwuyvJWQwDMLVja",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Amores Ni Deudas",
-        "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
       "artists": [
         {
           "name": "Los Traileros Del Norte",
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        },
-        {
-          "name": "Ces\u00e1reo S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6swcGvbGZVTU3bXVWlOGif"
-        },
-        {
-          "name": "Salomon Robles",
-          "url": "https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Tres Por Una",
-      "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
+      "duration_ms": 168520,
+      "name": "El Divorcio",
+      "url": "https://open.spotify.com/track/7pnMjgbE98rjzcb7Smeq6d"
     },
     {
       "added_at": null,
@@ -611,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "El Divorcio",
-      "url": "https://open.spotify.com/track/7pnMjgbE98rjzcb7Smeq6d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Los Dos",
         "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 176533,
       "name": "Ultimo Amor, Ultimo Due\u00f1o",
       "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Amores Ni Deudas",
+        "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        },
+        {
+          "name": "Ces\u00e1reo S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6swcGvbGZVTU3bXVWlOGif"
+        },
+        {
+          "name": "Salomon Robles",
+          "url": "https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Tres Por Una",
+      "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Brutal",
-        "url": "https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 188120,
-      "name": "No Te Paniquees",
-      "url": "https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambi\u00e9n Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/3VLGmlnHGYtLsKmbsVqxM5"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 179640,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/21ut7jcqCVEmgvP9YaKyz4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Brutal",
+        "url": "https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "No Te Paniquees",
+      "url": "https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv"
     }
   ],
   "unique_name": "This Is Los Traileros Del Norte",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e?si=5LsJnu0ASPWYZnspFmk40A">K.Keed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,234 likes - 77 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,255 likes - 77 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 36 | [sugar](https://open.spotify.com/track/2yZnk277KIf3JHB5ss942Z) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [next chapter](https://open.spotify.com/album/05V5yK3AYsioutvg07QwcX) | 3:25 |
 | 37 | [Alive](https://open.spotify.com/track/19Tv0G8b8c2TRGu2UiuxK5) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW) | [Alive](https://open.spotify.com/album/21DePZ4Js4Dv92ZzjaFC94) | 2:38 |
 | 38 | [Heartbreaker](https://open.spotify.com/track/5yX2b0p2F3JuTmGqbwz29o) | [Iver Rivers](https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061) | [Heartbreaker](https://open.spotify.com/album/2Pi2ZiUR6koGI6a5yZO9oO) | 2:26 |
-| 39 | [somewhere \- demo](https://open.spotify.com/track/3XWkpKyU6bczPHKbHtzt7K) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [unfinished demos vol\. 1](https://open.spotify.com/album/5N3ROryIYH9C48yuSPqCTe) | 1:08 |
+| 39 | [i went for a drive and ended up at the ocean \- demo](https://open.spotify.com/track/3XWkpKyU6bczPHKbHtzt7K) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [unfinished demos vol\. 1](https://open.spotify.com/album/5N3ROryIYH9C48yuSPqCTe) | 1:08 |
 | 40 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
 | 41 | [Heaven](https://open.spotify.com/track/0Ux6CyGdySGIvrzQ6Lx9ri) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Mwīhoko: Ûtheri wa Ngoro](https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg) | 3:19 |
 | 42 | [On My Mind](https://open.spotify.com/track/2Q1sYAQ32Y1XIcFlnW0Vq5) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [On My Mind](https://open.spotify.com/album/7Ilr10kEaTZAPXzuXRRbD6) | 2:44 |

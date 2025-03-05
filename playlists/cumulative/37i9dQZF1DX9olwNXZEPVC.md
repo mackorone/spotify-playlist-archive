@@ -4,7 +4,7 @@
 
 > NSWER! Change up!
 
-100 songs - 3 hr 47 min
+101 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Hello, world!](https://open.spotify.com/track/4zDsgRtgHDDfx9E0By7mck) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:26 | 2023-07-03 |  |
 | [Hey Gabby!](https://open.spotify.com/track/75wt0Zz73OfAaGUVY3n24U) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 1:59 | 2022-11-24 |  |
 | [Hey Gabby! \- Instrumental](https://open.spotify.com/track/2yV4cJxX4umiS90dTGfZ1U) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 1:59 | 2022-11-24 |  |
+| [High Horse](https://open.spotify.com/track/2YUUYGB1kMtXKTQ6ajAjTA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [High Horse](https://open.spotify.com/album/5XkpNffqz7WdtM1RrAQOvo) | 3:23 | 2025-03-04 |  |
 | [HOME](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 2:40 | 2023-03-24 | 2024-04-19 |
 | [HOME](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 2:40 | 2023-03-24 | 2023-06-07 |
 | [HOME](https://open.spotify.com/track/6FPNUIPNW2H1Z1Gpt81GkO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 2:40 | 2024-01-15 |  |

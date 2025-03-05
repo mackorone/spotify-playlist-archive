@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover:  Tamer Ashour.",
-  "num_followers": 197080,
+  "num_followers": 197125,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
+        "name": "Nancy 10",
+        "url": "https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Hayat",
+      "url": "https://open.spotify.com/track/2EF4omjpEV9D01GNfokbyh"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
         "name": "Bardo Betewhashni",
         "url": "https://open.spotify.com/album/29mrsnZ7Pbq3OjHqX5qHBC"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 241840,
       "name": "Bardo Betewhashni",
       "url": "https://open.spotify.com/track/6o25gM7QU4WmiZxCea7yNt"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
-        "name": "Nancy 10",
-        "url": "https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Hayat",
-      "url": "https://open.spotify.com/track/2EF4omjpEV9D01GNfokbyh"
     },
     {
       "added_at": "2024-10-31 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
-        "name": "El Okd",
-        "url": "https://open.spotify.com/album/6nt3aY91do3MhLXe4xeclj"
-      },
-      "artists": [
-        {
-          "name": "Elissa",
-          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
-        }
-      ],
-      "duration_ms": 218322,
-      "name": "El Okd",
-      "url": "https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
         "name": "Byeb\u2019a Nas",
         "url": "https://open.spotify.com/album/75Kg82i925AgtrYJTqJyJU"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 247459,
       "name": "Addaysh Bhebak",
       "url": "https://open.spotify.com/track/4YPTEQmyafBQpEqPlnmBsX"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "El Okd",
+        "url": "https://open.spotify.com/album/6nt3aY91do3MhLXe4xeclj"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "duration_ms": 218322,
+      "name": "El Okd",
+      "url": "https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0"
     },
     {
       "added_at": "2024-10-31 22:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
-        "name": "Ya Rohy",
-        "url": "https://open.spotify.com/album/53PEln9zCTdxZRcY7NWLGI"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Batshan",
-          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
-        }
-      ],
-      "duration_ms": 241368,
-      "name": "Ya Rohy",
-      "url": "https://open.spotify.com/track/4BB1FjjbiKaPK6iTx1mkaq"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
         "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
         "url": "https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 203072,
       "name": "Ouloulou",
       "url": "https://open.spotify.com/track/40zTo5mvJkAcuJwbXnOk2L"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Ya Rohy",
+        "url": "https://open.spotify.com/album/53PEln9zCTdxZRcY7NWLGI"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+        }
+      ],
+      "duration_ms": 241368,
+      "name": "Ya Rohy",
+      "url": "https://open.spotify.com/track/4BB1FjjbiKaPK6iTx1mkaq"
     }
   ],
   "unique_name": "Arabic Love Songs",

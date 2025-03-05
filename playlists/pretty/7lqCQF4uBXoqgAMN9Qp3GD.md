@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lqCQF4uBXoqgAMN9Qp3GD.md) - [plain]
 
 > 
 
-[Romil](https://open.spotify.com/user/ogj4vh2aoriwbzh5ejijlahkh) - 0 like - 11 songs - 42 min 31 sec
+[Romil](https://open.spotify.com/user/ogj4vh2aoriwbzh5ejijlahkh) - 0 likes - 11 songs - 42 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

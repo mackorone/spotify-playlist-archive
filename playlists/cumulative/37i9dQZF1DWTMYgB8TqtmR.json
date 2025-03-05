@@ -2073,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "Bop",
+        "url": "https://open.spotify.com/album/7GqD8aNB4BFJnOIyFM7BRr"
+      },
+      "artists": [
+        {
+          "name": "Mondo",
+          "url": "https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "Bop",
+      "url": "https://open.spotify.com/track/1KwmjwEfQeMnoNR121rzBy"
+    },
+    {
+      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA"
       },
@@ -8572,7 +8590,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 130709,
       "name": "Land Till Land",
       "url": "https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0"

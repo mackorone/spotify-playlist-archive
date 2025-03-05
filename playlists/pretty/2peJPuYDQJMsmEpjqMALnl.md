@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 104 | [Every Rose Has Its Thorn \- 2003 Remaster](https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 4:20 |
 | 105 | [Sofa \#2 \- Live](https://open.spotify.com/track/5T2alV23Cti08eTqK5Y42Q) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [You Can't Do That On Stage Anymore, Vol\. 1 \(Live\)](https://open.spotify.com/album/2Ekqr3FJo41daBiMY3VkaS) | 3:02 |
 
-Snapshot ID: `AAAFLur2YGAlxEewjTfL6brCdEQ6t+Ea`
+Snapshot ID: `AAAFM3s4EGKT+BZr7lRb8XyZrfhXzH+T`

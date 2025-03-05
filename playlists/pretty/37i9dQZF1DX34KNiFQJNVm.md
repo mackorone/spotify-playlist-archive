@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Veigh, MC Tuto com Belo, Di Propósito  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031,900 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,032,014 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 64 | [Salvation](https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:20 |
 | 65 | [Flex](https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Flex](https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm) | 3:32 |
 
-Snapshot ID: `Z8HdmQAAAADinpHArACE1mghwNMfTVDl`
+Snapshot ID: `Z8HdmQAAAAAidWNUt1RZfSvAJScy9mxr`

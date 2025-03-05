@@ -4,12 +4,13 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: The Volunteers\(더 발룬티어스\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-873 songs - 2 day 5 hr 13 min
+876 songs - 2 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/379tO5t6C4eFENqNBF29RV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/34qIpVQVdQaaWQhBwAv5oJ) | 0:00 | 2022-04-12 | 2022-07-20 |
 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 | 2024-07-02 | 2024-08-07 |
+| [\. \(dot\)](https://open.spotify.com/track/3l6kinplmg17FeTt0vcCgs) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Theme\. 2](https://open.spotify.com/album/6Fm4QPV0EY1yKCcOs7GmAB) | 3:40 | 2025-03-04 |  |
 | [0107](https://open.spotify.com/track/2KdxnAZ3m0SPkalA6XHgUo) | [After Thoughts](https://open.spotify.com/artist/5Kt6MttjG8m2rlMdjA8WiA) | [0107](https://open.spotify.com/album/3f2dEWHhavMsuBP4lTdc7e) | 3:46 | 2022-07-08 | 2022-07-10 |
 | [100 WINS](https://open.spotify.com/track/4y1AEJFXM6RLwAe9EBBaFq) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Chief Detective 1958 OST Part.1](https://open.spotify.com/album/155wwFVpY5fG97UX0cY5DS) | 3:25 | 2024-04-22 | 2024-05-10 |
 | [120BPM](https://open.spotify.com/track/7pYiTMBG8sgPJvXZZ476i1) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 3:18 | 2023-05-31 | 2023-06-14 |
@@ -397,6 +398,7 @@
 | [Last Train](https://open.spotify.com/track/7Bxl2qQEPBswcSX5jnSnO1) | [Goowoolim](https://open.spotify.com/artist/1p7AbBfZ41aENPCSV67Z8q) | [Dr\. Daisy / Last Train](https://open.spotify.com/album/0dYeRPYYLqet8poebDDuWZ) | 4:52 | 2022-04-12 | 2022-04-21 |
 | [Laundry revolution \(feat\. CHOILB\)](https://open.spotify.com/track/2CZq8IeSPmienjBUxV0e5A) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [We all know we will fail](https://open.spotify.com/album/2qA6Vo1U3fZthJPbIUxm0x) | 3:21 | 2024-10-04 | 2024-11-22 |
 | [Lean On Me](https://open.spotify.com/track/7kYbc6yiaK7OrgfE0RbXGq) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [She Would Never Know \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/15gBYmuSr8A938CRieIRKp) | 4:01 | 2022-04-21 | 2022-07-09 |
+| [leodo Island \(Parangdo lsland\)](https://open.spotify.com/track/135gyYI8MukV8Ny5c63vWP) | [BAE CHUL SOO](https://open.spotify.com/artist/5w0paTeWKFlcJytIF06AcU) | [Fly Again](https://open.spotify.com/album/77zmrTi35NrLJ6zzLdtOi9) | 3:13 | 2025-03-04 |  |
 | [let it be summer](https://open.spotify.com/track/19PusCmhiWHG4UN5lAeRp0) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [let it be summer](https://open.spotify.com/album/6jOd9PTE8cu0s7s9pqYN0Y) | 3:14 | 2023-08-25 | 2023-09-07 |
 | [let it be summer](https://open.spotify.com/track/6SFurcT8NOuglistyVb2F9) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Letters with notes](https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P) | 3:14 | 2023-09-04 | 2023-09-20 |
 | [Let me go!](https://open.spotify.com/track/0yZ5nThTk7dZfgrhlQbxtT) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [The Volunteers](https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD) | 3:33 | 2022-05-11 | 2022-06-22 |
@@ -813,6 +815,7 @@
 | [Why, Why, Why, Why?](https://open.spotify.com/track/0tabWZnomzilUiz0jWh6Tw) | [6band](https://open.spotify.com/artist/55MF5Kz0DX8pSvAYoZywh5) | [The Killer's Shopping List, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0MP9FMNoVcZN3ebEXKkSt5) | 3:01 | 2022-06-09 | 2022-06-14 |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2022-07-22 | 2024-11-07 |
 | [Wi Ing Wi Ing 위잉위잉](https://open.spotify.com/track/5NnNl71fwVkuB1M45CXvdb) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6rvPr27TMi5v6EJkHeInR4) | 3:14 | 2022-05-24 | 2022-07-27 |
+| [Wild Flower](https://open.spotify.com/track/4pT0CQMdBUXa6m9hIO1Rm9) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [Wild Flower \(Kim Seong\-geun's Winter Vacation X THE SOLUTIONS\) \[Original Soundtrack\]](https://open.spotify.com/album/3xM4PS68um9nTMv8UYXaSL) | 3:51 | 2025-03-04 |  |
 | [Wind Blows](https://open.spotify.com/track/3xml6p9dSyY4hVPF6UGtdc) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:17 | 2022-05-03 | 2022-06-22 |
 | [WINDFALL](https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm) | [Batu](https://open.spotify.com/artist/46KDmhUlDVGGuku0s3n06t) | [EMOTION AND HARMONY](https://open.spotify.com/album/03ikfIg0GxnNMlFl6wlKLi) | 4:43 | 2022-10-02 | 2022-10-19 |
 | [Wings](https://open.spotify.com/track/3LTpV2o1uer2BJ3RlbauKz) | [IRISÉ](https://open.spotify.com/artist/0QQS9kR4qcFg7PLwr3JHgN) | [Wings](https://open.spotify.com/album/1KoXOE4p1UonlE2Q3I1WYb) | 3:08 | 2025-02-18 |  |

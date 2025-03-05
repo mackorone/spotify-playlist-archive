@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Edith M\u00e1rquez en portada.",
-  "num_followers": 116626,
+  "num_followers": 116695,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2025-01-17 06:00:21",
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": "2025-01-17 06:00:21",
+      "album": {
         "name": "Ll\u00e9vate",
         "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 190626,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
-    },
-    {
-      "added_at": "2025-01-17 06:00:21",
-      "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": "2025-01-17 06:00:21",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-01-17 06:00:21",
       "album": {
-        "name": "Ni Pedo",
-        "url": "https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        }
-      ],
-      "duration_ms": 142955,
-      "name": "Ni Pedo",
-      "url": "https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE"
-    },
-    {
-      "added_at": "2025-01-17 06:00:21",
-      "album": {
         "name": "Antes de Ti",
         "url": "https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 214552,
       "name": "Antes de Ti",
       "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
+    },
+    {
+      "added_at": "2025-01-17 06:00:21",
+      "album": {
+        "name": "Ni Pedo",
+        "url": "https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 142955,
+      "name": "Ni Pedo",
+      "url": "https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE"
     },
     {
       "added_at": "2025-01-17 06:00:21",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-01-17 06:00:21",
       "album": {
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
+    },
+    {
+      "added_at": "2025-01-17 06:00:21",
+      "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 157946,
       "name": "No Me Deja De Doler",
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
-    },
-    {
-      "added_at": "2025-01-17 06:00:21",
-      "album": {
-        "name": "Gente Gacha",
-        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Gente Gacha",
-      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
     },
     {
       "added_at": "2025-01-17 06:00:21",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2025-01-17 06:00:21",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
+        "name": "Nube de Paso",
+        "url": "https://open.spotify.com/album/7xT119M1qgkNUP8UDSjya4"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
         }
       ],
-      "duration_ms": 166121,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw"
+      "duration_ms": 178306,
+      "name": "Nube de Paso",
+      "url": "https://open.spotify.com/track/1OKSoHANCvAxufNdHZKhes"
     },
     {
       "added_at": "2025-01-17 06:00:21",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2025-01-17 06:00:21",
       "album": {
-        "name": "Nube de Paso",
-        "url": "https://open.spotify.com/album/7xT119M1qgkNUP8UDSjya4"
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
       },
       "artists": [
         {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 178306,
-      "name": "Nube de Paso",
-      "url": "https://open.spotify.com/track/1OKSoHANCvAxufNdHZKhes"
+      "duration_ms": 166121,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw"
     },
     {
       "added_at": "2025-01-17 06:00:21",

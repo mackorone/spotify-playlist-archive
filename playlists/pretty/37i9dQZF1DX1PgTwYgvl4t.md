@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=DeEgaTTBRIOjMi1FQhK4nw>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,970 likes - 100 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,168 likes - 100 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 86 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 |
 | 87 | [OGO \(Glory\)](https://open.spotify.com/track/3c7oVOLRIUIjCmx1VlhXRy) | [TEHGAH](https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [OGO \(Glory\)](https://open.spotify.com/album/4kvp8JHHRtXTcdmKGgrVqi) | 12:55 |
 | 88 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 |
-| 89 | [Confessions \- Live](https://open.spotify.com/track/263bKs830B9Ae4UzgtU80Q) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Confessions \(Live\)](https://open.spotify.com/album/69So72vj1mzoGgOjBqZJse) | 7:24 |
+| 89 | [Confessions \- Live](https://open.spotify.com/track/263bKs830B9Ae4UzgtU80Q) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Confessions](https://open.spotify.com/album/69So72vj1mzoGgOjBqZJse) | 7:24 |
 | 90 | [Not My Will \( Live \)](https://open.spotify.com/track/2SKJFXD7b31nX4yD8W41ZT) | [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Not My Will \( Live \)](https://open.spotify.com/album/2MC1vGGqfZWGLBFKnIIYPd) | 9:44 |
 | 91 | [SYMBOLS OF YOUR SOVEREIGNTY](https://open.spotify.com/track/3DBUCX54BOflq7kqXln8Xg) | [Stephanie Odili](https://open.spotify.com/artist/12sg6C1TANNK9OsqcFG6fa) | [Psalm Speaking](https://open.spotify.com/album/3rPSN6xIx5ZRmPpj0bhCY6) | 6:09 |
 | 92 | [Prophetic Worship, Vol\. 2](https://open.spotify.com/track/4JbkjVGb7FmKKyuN8WpkND) | [Apostle Femi Lazarus](https://open.spotify.com/artist/4bbgsyWj0hlgyUXUY9GHTp), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Prophetic Worship, Vol\. 2](https://open.spotify.com/album/6iptYi4tTiItuNB2QY84tL) | 13:15 |

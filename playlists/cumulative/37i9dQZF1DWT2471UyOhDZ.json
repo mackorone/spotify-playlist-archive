@@ -3407,6 +3407,36 @@
     },
     {
       "album": {
+        "name": "Strange Little Consequence",
+        "url": "https://open.spotify.com/album/2k376V4vbueVKx1YQDtuOd"
+      },
+      "artists": [
+        {
+          "name": "Demise Of Love",
+          "url": "https://open.spotify.com/artist/1NXsFjzcDPUKz6fuB9Qq6R"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Working Men's Club",
+          "url": "https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc"
+        },
+        {
+          "name": "Ghost Culture",
+          "url": "https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224386,
+      "name": "Strange Little Consequence",
+      "url": "https://open.spotify.com/track/5cRO8vypa1jd8UCiL1Nsbo"
+    },
+    {
+      "album": {
         "name": "Switch Over",
         "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
       },
@@ -3836,7 +3866,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 117876,
       "name": "Time For Slurp",
       "url": "https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY"

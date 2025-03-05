@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO?si=klYEpbUbRvOAKJLzOeqJ5g">Robbie Wessels</a> en  <a href="https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=zjMMVHtgQBebdAN\-V3WllA">Appel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,019 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,045 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

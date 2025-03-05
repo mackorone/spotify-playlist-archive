@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Chicho Castro y Alia2, Enigma Norte\u00f1a, Codiciado en portada.",
-  "num_followers": 243988,
+  "num_followers": 244036,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-02-21 06:00:12",
       "album": {
-        "name": "Mono Verde",
-        "url": "https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 195223,
-      "name": "Mono Verde",
-      "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
-    },
-    {
-      "added_at": "2025-02-21 06:00:12",
-      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": "2025-02-21 06:00:12",
+      "album": {
+        "name": "Mono Verde",
+        "url": "https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 195223,
+      "name": "Mono Verde",
+      "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
     },
     {
       "added_at": "2025-02-21 06:00:12",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-02-21 06:00:12",
       "album": {
-        "name": "Le Apodan El Fresa",
-        "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 194541,
-      "name": "Le Apodan El Fresa",
-      "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
-    },
-    {
-      "added_at": "2025-02-21 06:00:12",
-      "album": {
         "name": "100% Mayo",
         "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 214655,
       "name": "100% Mayo",
       "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
+    },
+    {
+      "added_at": "2025-02-21 06:00:12",
+      "album": {
+        "name": "Le Apodan El Fresa",
+        "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 194541,
+      "name": "Le Apodan El Fresa",
+      "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
     },
     {
       "added_at": "2025-02-21 06:00:12",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-02-21 06:00:12",
       "album": {
-        "name": "El Cabez\u00f3n (El Papas Fritas)",
-        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "El Cabez\u00f3n (El Papas Fritas)",
-      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
-    },
-    {
-      "added_at": "2025-02-21 06:00:12",
-      "album": {
         "name": "Eddiecho Adios",
         "url": "https://open.spotify.com/album/5DipiPCwT96aQYga2nwn81"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 240331,
       "name": "Eddiecho Adios",
       "url": "https://open.spotify.com/track/6I04t8qV2O8hFqBvoFoj3B"
+    },
+    {
+      "added_at": "2025-02-21 06:00:12",
+      "album": {
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
     },
     {
       "added_at": "2025-02-21 06:00:12",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-02-21 06:00:12",
       "album": {
-        "name": "La Tropa Del Infierno",
-        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "La Tropa Del Infierno",
-      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
-    },
-    {
-      "added_at": "2025-02-21 06:00:12",
-      "album": {
         "name": "Todo Marcha Bien",
         "url": "https://open.spotify.com/album/4oxmEgTKEEGghIEUQcNoc9"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 141506,
       "name": "Todo Marcha Bien",
       "url": "https://open.spotify.com/track/3ZrDGZeQPkh1SRCIDTdxBt"
+    },
+    {
+      "added_at": "2025-02-21 06:00:12",
+      "album": {
+        "name": "La Tropa Del Infierno",
+        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 162641,
+      "name": "La Tropa Del Infierno",
+      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
     },
     {
       "added_at": "2025-02-21 06:00:12",

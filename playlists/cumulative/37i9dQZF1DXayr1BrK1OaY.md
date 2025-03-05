@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-458 songs - 1 day 3 hr 38 min
+459 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Felt A Little Like](https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Felt A Little Like](https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1) | 3:37 | 2023-12-29 |  |
 | [Find A Way](https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Find A Way](https://open.spotify.com/album/1trmWSMiO6NDBnnDDDhsy8) | 3:32 | 2024-05-10 |  |
 | [Find Me](https://open.spotify.com/track/3cwkKqFlevUfwMSwDhnyc4) | [Bad Friends](https://open.spotify.com/artist/0zeexLEoXoUJpKmx0PXta8) | [Find Me](https://open.spotify.com/album/6hbFLgtg6vbqO5aHMeRIZM) | 2:44 | 2024-05-31 | 2024-11-09 |
+| [Flores de Abril](https://open.spotify.com/track/5nFrZoTp4FfBCWAHr5Aqyx) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [DIAN](https://open.spotify.com/artist/1axT977BV0cQMFt5ChzhAa) | [Flores de Abril](https://open.spotify.com/album/7gG5uYFywQBnHnk4ckKha2) | 4:17 | 2025-02-28 |  |
 | [Foolproof \- Andhim Remix](https://open.spotify.com/track/5RwjfRggmbhoCsfpXOe2vg) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Foolproof \(Andhim Remix\)](https://open.spotify.com/album/3nu9PnxWH2pz3CN62Syal3) | 3:42 | 2021-05-07 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/0rfN0qfndV2e50p9naAvoo) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Forever](https://open.spotify.com/album/4rrjJVGv2ZHesoZN7VG1D8) | 4:58 | 2022-07-08 | 2022-07-25 |
 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 | 2022-10-14 | 2024-09-14 |
@@ -322,7 +323,7 @@
 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2021-04-02 | 2024-03-23 |
 | [Pictures Of You](https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:55 | 2024-03-29 | 2024-04-19 |
 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-16 | 2024-06-02 |
-| [Poison](https://open.spotify.com/track/3uMVGeBBjjPavtpUPQOBt7) | [OKAYVAL](https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ) | [Poison](https://open.spotify.com/album/5CFc8C22y0eOTiz1DbqTFJ) | 2:56 | 2024-04-12 |  |
+| [Poison](https://open.spotify.com/track/3uMVGeBBjjPavtpUPQOBt7) | [OKAYVAL](https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ) | [Poison](https://open.spotify.com/album/5CFc8C22y0eOTiz1DbqTFJ) | 2:56 | 2024-04-12 | 2025-03-05 |
 | [PRESSURE](https://open.spotify.com/track/6pJ8wNE7qPzbpBM0ARW90m) | [Jhay Rivas](https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH), [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu), [DNC](https://open.spotify.com/artist/2VU4MNFUjGbcvOQWp7JRSQ) | [PRESSURE](https://open.spotify.com/album/5R6Hhxu8qohIsu7w3nJDfo) | 3:25 | 2024-11-22 |  |
 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 | 2024-09-30 |  |
 | [Pure](https://open.spotify.com/track/6OXnL79ZUpY7zsp01yU0q4) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Anjunadeep Explorations 13](https://open.spotify.com/album/6aqRlhEmzmujvXb7EF4pd4) | 3:22 | 2021-09-24 | 2022-07-25 |

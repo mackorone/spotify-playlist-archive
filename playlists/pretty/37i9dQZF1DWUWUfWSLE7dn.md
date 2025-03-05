@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,152 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,325 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 31 | [Storybook](https://open.spotify.com/track/71G421mQ7cWLT81NM5cOmu) | [Geoff Zanelli](https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd), [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Christopher Robin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Gb5WNBbET7YCwhyLd4ACK) | 1:22 |
 | 32 | [Mother Sea \- from 'Ponyo on the Cliff by the Sea'](https://open.spotify.com/track/3vJxtyaWLhmfIBFrnrFqCB) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:26 |
 | 33 | [Robin Hood: Prince of Thieves](https://open.spotify.com/track/7K18xAZJwsi3ovTJscjFol) | [Cinematic Symphony Orchestra](https://open.spotify.com/artist/1hLVfJFNfsJ3WHjOtdmFRJ) | [Robin Hood: Prince of Thieves](https://open.spotify.com/album/1HhnjYoa6fMDIKTmjse44T) | 2:53 |
-| 34 | [Everytime You Leave \(From "The Witcher: Season 1" Soundtrack\)](https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [The Witcher \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS) | 2:07 |
+| 34 | [Everytime You Leave](https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [The Witcher \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS) | 2:07 |
 | 35 | [Earth](https://open.spotify.com/track/183tCj3FW0MBHKeDPHKoDj) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Life On Our Planet \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0twoJjqA27AFvNr5UiCNGz) | 3:50 |
 | 36 | [Inner Sanctum / The Nesting Grounds](https://open.spotify.com/track/1QuqujcrL6Iy0FDokChqHF) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Dinosaur Original Soundtrack](https://open.spotify.com/album/19sIkTpeU6sUjZfafi1aCZ) | 2:57 |
 | 37 | [First Sight](https://open.spotify.com/track/4NtRkpweTUxkKHvl0odbgD) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [First Sight](https://open.spotify.com/album/52gS5j43amMiH4c3mzWoie) | 2:42 |

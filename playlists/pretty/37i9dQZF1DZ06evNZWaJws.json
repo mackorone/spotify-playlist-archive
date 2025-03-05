@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 324471,
+  "num_followers": 324511,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAD/5lcJlhtBVry7lqRk7NOz",
+  "snapshot_id": "Z8TxAAAAAAC/Xi8Rd55e4IcRiF5wnW5n",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "6 Pies Boca Abajo",
+      "url": "https://open.spotify.com/track/7ou8urgcLm23xBQhGfKF1g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 191750,
       "name": "Ram\u00f3n Arellano (En Vivo)",
       "url": "https://open.spotify.com/track/3ZxamLUsj6GavMF6OZ54kn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "6 Pies Boca Abajo",
-      "url": "https://open.spotify.com/track/7ou8urgcLm23xBQhGfKF1g"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 233431,
+      "name": "El Guero Palma",
+      "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Apodan El Fresa",
         "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 194541,
       "name": "Le Apodan El Fresa",
       "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 233431,
-      "name": "El Guero Palma",
-      "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
     },
     {
       "added_at": null,

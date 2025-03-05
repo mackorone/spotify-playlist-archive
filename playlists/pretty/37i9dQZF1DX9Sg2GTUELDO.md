@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: Cloud雲浩影
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,688 likes - 458 songs - 1 day 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,692 likes - 458 songs - 1 day 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [你在我不遠處](https://open.spotify.com/track/4Ly4kSvsSLR2oThi5DGJaW) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你在我不遠處](https://open.spotify.com/album/3yKf5hHj8NGN54Buiv5mNv) | 3:01 |
 | 2 | [無愧於當初的我](https://open.spotify.com/track/2IPkyXBGEhkAbFHmORynJ9) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Leap of Faith](https://open.spotify.com/album/78xlTT3f0OyrdPr3XJflhq) | 3:43 |
-| 3 | [世界末日才一起](https://open.spotify.com/track/4vvVnV7qhVi4cOjhcybMXf) | [JESS Law](https://open.spotify.com/artist/31wCXKxcKB1ifMXo5VS5XI) | [世界末日才一起](https://open.spotify.com/album/65KpxwVtgaeCxn14xAN8wp) | 3:59 |
+| 3 | [世界末日才一起](https://open.spotify.com/track/4vvVnV7qhVi4cOjhcybMXf) | [JESS Law](https://open.spotify.com/artist/2D3dbCltOdivrbUqOayTsw) | [世界末日才一起](https://open.spotify.com/album/65KpxwVtgaeCxn14xAN8wp) | 3:59 |
 | 4 | [你是可有可無的](https://open.spotify.com/track/00G30y5SL9oLDcgIEUwsoI) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [你是可有可無的](https://open.spotify.com/album/2F2Eo9xVkWMXfOGRG8UBrP) | 3:53 |
 | 5 | [心之所向](https://open.spotify.com/track/4s258h666TRMUxtloLuGy8) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [心之所向](https://open.spotify.com/album/3Ip7qBh7fS5MHcEdT9Due9) | 4:03 |
 | 6 | [Shisha](https://open.spotify.com/track/0LUoXjOBnKFTDIdZeWr7yk) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [Shisha](https://open.spotify.com/album/61JVWtcfprSRISh3eNrcwl) | 2:57 |

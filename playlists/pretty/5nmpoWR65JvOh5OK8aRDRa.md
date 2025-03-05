@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5nmpoWR65JvOh5OK8aRDRa.md) - [plain]
 
 > On repeat compliation March 2022 to February 2023
 
-[the\_judge](https://open.spotify.com/user/ajudge6008) - 0 like - 326 songs - 22 hr 11 min
+[the\_judge](https://open.spotify.com/user/ajudge6008) - 0 likes - 326 songs - 22 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3W5zgjrDoHJdWWuChWzmrw.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 11 songs - 39 min 18 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 11 songs - 39 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

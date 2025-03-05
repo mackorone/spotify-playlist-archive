@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "By Your Mercy",
+        "url": "https://open.spotify.com/album/1CeMJ8F8hcDd2GsDA9inj0"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462291,
+      "name": "By Your Mercy - Live",
+      "url": "https://open.spotify.com/track/4WzIddM6LC55iSNu2KKNmx"
+    },
+    {
+      "album": {
         "name": "Calling My Name (I'm A Soldier) [Live]",
         "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
       },
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 153800,
       "name": "Love Greater",
       "url": "https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe"

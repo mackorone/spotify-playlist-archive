@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Childlike CiCi y Tommy Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,560 likes - 98 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,567 likes - 98 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 97 | [MVP](https://open.spotify.com/track/4E6m89eLYaw4cajBsEpHCz) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG), [El Artista](https://open.spotify.com/artist/23O4ZjgHiBYcTQKciRZwI9) | [MVP](https://open.spotify.com/album/35h3Iss6wIlNYGl71cvylY) | 1:54 |
 | 98 | [Amor Cósmico](https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Amor Cósmico](https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U) | 2:59 |
 
-Snapshot ID: `Z8FsvQAAAADn8LSUp/8uNZfTDtCySm5X`
+Snapshot ID: `Z8FsvQAAAABk36g5EBdWTbnyZO6s1Qpf`

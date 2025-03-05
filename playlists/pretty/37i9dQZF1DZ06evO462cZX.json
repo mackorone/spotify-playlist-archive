@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 43049,
+  "num_followers": 43059,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAAFN+fv06Qn89j1Jgbmi9Hs",
+  "snapshot_id": "Z8TxAAAAAADY8R5xup7kDSmNL2M0zTX7",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 159172,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 154513,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 229411,
       "name": "Dime",
       "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -943,30 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inv\u00edtame A Un Caf\u00e9 (Steve Aoki & Deorro Remix)",
-        "url": "https://open.spotify.com/album/2NUCKKuJNCYgE7LjBy49Pj"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Inv\u00edtame A Un Caf\u00e9 (Steve Aoki & Deorro Remix)",
-      "url": "https://open.spotify.com/track/2D75sVKFfKAhb9V9kChgKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Knockout",
         "url": "https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 143359,
       "name": "Knockout",
       "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inv\u00edtame A Un Caf\u00e9 (Steve Aoki & Deorro Remix)",
+        "url": "https://open.spotify.com/album/2NUCKKuJNCYgE7LjBy49Pj"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Inv\u00edtame A Un Caf\u00e9 (Steve Aoki & Deorro Remix)",
+      "url": "https://open.spotify.com/track/2D75sVKFfKAhb9V9kChgKZ"
     },
     {
       "added_at": null,
@@ -1063,18 +1063,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevation EP",
-        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ"
       },
       "artists": [
         {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
         }
       ],
-      "duration_ms": 176727,
-      "name": "Red Lips",
-      "url": "https://open.spotify.com/track/6hpdg4x22cDrootVSKvoMi"
+      "duration_ms": 155827,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa"
     },
     {
       "added_at": null,

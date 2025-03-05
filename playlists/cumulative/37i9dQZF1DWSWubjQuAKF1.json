@@ -2701,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Kurz",
+        "url": "https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155248,
+      "name": "Kurz",
+      "url": "https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef"
+    },
+    {
+      "album": {
         "name": "Lawenda",
         "url": "https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV"
       },
@@ -3388,7 +3406,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 168648,
       "name": "Mog\u0119 si\u0119 pomyli\u0107",
       "url": "https://open.spotify.com/track/4Dd6xQTBczaS9cn8hN7Dio"

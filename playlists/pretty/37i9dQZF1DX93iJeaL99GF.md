@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,079 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,096 likes - 40 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 39 | [Kabeera](https://open.spotify.com/track/5tl6ztJRObsPut7WI1J3lu) | [Mrigya](https://open.spotify.com/artist/0p5FLesLYt17BYby6Vjn43) | [Mrigya](https://open.spotify.com/album/3mkbK0NtIxKaWqU6xcJhKE) | 8:47 |
 | 40 | [Set Me Free](https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB) | [Soulmate](https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk) | [Moving On](https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP) | 4:55 |
 
-Snapshot ID: `Z7hACgAAAAAZhwArGr13mGyclbjbVLX/`
+Snapshot ID: `Z8a8XwAAAAA/UhiXlzkZpwnHxN2o3D42`

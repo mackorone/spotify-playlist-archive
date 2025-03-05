@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,218 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,600 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 10 | [Safar](https://open.spotify.com/track/57XxjBWEg4bU5nnW5WCSBG) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Safar](https://open.spotify.com/album/0eRGaOgxvCt9kr9yWoyhuL) | 3:17 |
 | 11 | [BEST FRIEND](https://open.spotify.com/track/5l2HX7Ml78KlXqRdJMSv9g) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Sartaj Virk](https://open.spotify.com/artist/4jX7GGtVdF9qkueNxBJB9w) | [BEST FRIEND](https://open.spotify.com/album/4tiq7OfMzb07iHPMFY9pDt) | 3:11 |
 | 12 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Arjan Virk](https://open.spotify.com/artist/3W4K6YoTzt7G6jc2rtNIbY) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |
-| 13 | [Mulaqat](https://open.spotify.com/track/6tAtZJCUjklHHJDTA4q8Zu) | [Aden](https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ) | [Mulaqat](https://open.spotify.com/album/6r25oF7XXhIzobYY6IqLoQ) | 3:00 |
-| 14 | [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 |
-| 15 | [You & I](https://open.spotify.com/track/20xEtcpN5E3CvI0zBlk40v) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Unscripted](https://open.spotify.com/album/4XWBNxahhQIhS4jJ8gWipH) | 2:32 |
-| 16 | [Koka](https://open.spotify.com/track/1ExaQYPap38faw3FEqKcGY) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Flamme Music](https://open.spotify.com/artist/2N2WSjZpkNvmAZrEaIqwiU) | [Koka](https://open.spotify.com/album/1LpS06pxJRRmE3DzEpywe3) | 3:10 |
-| 17 | [Heer](https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:44 |
-| 18 | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:34 |
+| 13 | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/track/0BTyEzF1GM0J8ipX3NUal8) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/album/5aRiPnV51LMEcnNYcuFdBM) | 3:58 |
+| 14 | [Mulaqat](https://open.spotify.com/track/6tAtZJCUjklHHJDTA4q8Zu) | [Aden](https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ) | [Mulaqat](https://open.spotify.com/album/6r25oF7XXhIzobYY6IqLoQ) | 3:00 |
+| 15 | [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 |
+| 16 | [You & I](https://open.spotify.com/track/20xEtcpN5E3CvI0zBlk40v) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Unscripted](https://open.spotify.com/album/4XWBNxahhQIhS4jJ8gWipH) | 2:32 |
+| 17 | [Koka](https://open.spotify.com/track/1ExaQYPap38faw3FEqKcGY) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Flamme Music](https://open.spotify.com/artist/2N2WSjZpkNvmAZrEaIqwiU) | [Koka](https://open.spotify.com/album/1LpS06pxJRRmE3DzEpywe3) | 3:10 |
+| 18 | [Heer](https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:44 |
 | 19 | [Rangeen](https://open.spotify.com/track/1ChFEDpGjf0hNniMelD2n8) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Rangeen](https://open.spotify.com/album/35dlHWLrLqGVncm3EnjuAl) | 3:05 |
 | 20 | [Rehle Mere Kol](https://open.spotify.com/track/4yS0ItJus3N0C0ijvNAvHl) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Rehle Mere Kol](https://open.spotify.com/album/4Vg5sPyw8xzeuOhc745A42) | 2:34 |
 | 21 | [You & I](https://open.spotify.com/track/0XvrEW2EB4O82c0DRUCpQj) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Echoes of Love](https://open.spotify.com/album/73dYP89FVYriVPvX7WWcq3) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Udh Di Phiran](https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Udh Di Phiran](https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e) | 3:41 |
 | 75 | [AJA](https://open.spotify.com/track/54GK1bZMOAMXKysrnH4vTp) | [Kaléra](https://open.spotify.com/artist/6iikMXh4KCnspxngWliHWa), [Jaski](https://open.spotify.com/artist/1FOAUmccKtd4J6zRQBybfJ) | [AJA](https://open.spotify.com/album/5P34lnavFvbkEhbKRcPU9m) | 2:14 |
 
-Snapshot ID: `Z8XkkgAAAAAGuUyLGwh7IXuFRVpm+gBA`
+Snapshot ID: `Z8ajtQAAAABAc1+bcBDilyLXWZxrTL0z`

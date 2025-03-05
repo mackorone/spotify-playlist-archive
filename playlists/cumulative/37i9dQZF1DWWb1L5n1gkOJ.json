@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Winter\u2019s Story",
+        "url": "https://open.spotify.com/album/78HDPGB1ciEekMLulTUqif"
+      },
+      "artists": [
+        {
+          "name": "Calm Lotus",
+          "url": "https://open.spotify.com/artist/5dl4fl1YOZewwBxeYJ8Osj"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "A Winter\u2019s Story",
+      "url": "https://open.spotify.com/track/7HHLE9DV2cEMwzVPN5tf8w"
+    },
+    {
+      "album": {
         "name": "Aaraam Karo",
         "url": "https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB"
       },
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 162000,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/1dJb5jCV1FrlyOMGhuesJQ"
@@ -1576,6 +1594,24 @@
       "duration_ms": 148750,
       "name": "Half Asleep",
       "url": "https://open.spotify.com/track/5GF4ClkgOnE6dXg4K4Bzc8"
+    },
+    {
+      "album": {
+        "name": "Healing State",
+        "url": "https://open.spotify.com/album/7tqTYLioSmQA1QZeCqupqU"
+      },
+      "artists": [
+        {
+          "name": "Johan Davidsson",
+          "url": "https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269760,
+      "name": "Healing State",
+      "url": "https://open.spotify.com/track/01bdjWszWID47jX6HZ8iNJ"
     },
     {
       "album": {
@@ -2922,7 +2958,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 193495,
       "name": "Sclavia",
       "url": "https://open.spotify.com/track/1EWbhAgdQNwYau5DvgdEtW"
@@ -3196,6 +3232,24 @@
       "duration_ms": 181500,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/6c0Srq5sb8Bvh2SckSv9gy"
+    },
+    {
+      "album": {
+        "name": "Soothing Sinewaves from Pheobe",
+        "url": "https://open.spotify.com/album/77V0Qts6LQIbhldK6llAZr"
+      },
+      "artists": [
+        {
+          "name": "Moon Safari",
+          "url": "https://open.spotify.com/artist/79PnPgpRqswq4eBx8PSohy"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Soothing Sinewaves from Pheobe",
+      "url": "https://open.spotify.com/track/3EeE1NAKcyJVAnJmIe52sN"
     },
     {
       "album": {
@@ -3768,7 +3822,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 163291,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/1EdwbKGvRwGJk1zhZJW9h7"

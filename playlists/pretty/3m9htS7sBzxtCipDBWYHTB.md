@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 
 > The numb flavor of depression
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 26 songs - 1 hr 29 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 26 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

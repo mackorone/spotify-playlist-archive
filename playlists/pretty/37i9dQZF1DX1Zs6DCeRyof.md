@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > Aquí viven los hits más grandes en La Isla del Encanto\. ROA, De La Rose, Luar La L, Yan Block & Omar Courtz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,892 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,968 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 49 | [BABAYAGA](https://open.spotify.com/track/4wBMyE9c1m77FlOJxoARR2) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [BABAYAGA](https://open.spotify.com/album/767KMD9aZADO3xSEqZLNd4) | 3:05 |
 | 50 | [LUCIFER](https://open.spotify.com/track/5je8fJ6efwRi7o15TGhBQF) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [LUCIFER](https://open.spotify.com/album/4mW4ef2qVsc2sR75G0Zg6e) | 9:42 |
 
-Snapshot ID: `Z6WTeQAAAAC04GBin4WFTtK68RxKyDgN`
+Snapshot ID: `Z6WTeQAAAAD9jw9YQTzBiGuHaJFEOXxP`

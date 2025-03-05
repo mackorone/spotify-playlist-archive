@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6tNWlM6NxWwbBpYRCtr1Db.md) - [plain]
 
 > songs i think they&\#x27;ll like \- frst,  lst rainbow crush
 
-[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 0 like - 28 songs - 1 hr 26 min
+[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 0 likes - 28 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

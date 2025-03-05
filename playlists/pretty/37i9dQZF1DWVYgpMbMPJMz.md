@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Red Rocks Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,100 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,213 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Living Proof \- Live](https://open.spotify.com/track/1CmWihe8s7fwmNZcB4Zd1j) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Testify \(Live\)](https://open.spotify.com/album/5Gh92ayf6MMWd7Ffsc5SfJ) | 3:53 |
 | 100 | [Chances](https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances](https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB) | 4:03 |
 
-Snapshot ID: `Z8FelgAAAAAbaDmLkK3JoHovRjZZaHBR`
+Snapshot ID: `Z8FelgAAAAA9kilMNDURmzIhZTYGWAgT`

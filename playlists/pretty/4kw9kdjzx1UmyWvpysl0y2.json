@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125410,
+  "num_followers": 125406,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATvwpWqgA3W1NDrwkx7u/dBewFNDMr",
+  "snapshot_id": "AAATwFE0GbqMgnp9vggIxvFCdkOjZ8n2",
   "tracks": [
+    {
+      "added_at": "2025-03-04 15:25:12",
+      "album": {
+        "name": "The Echoes",
+        "url": "https://open.spotify.com/album/4zuc562d2SdvSujmyiYBIY"
+      },
+      "artists": [
+        {
+          "name": "Mark Novas",
+          "url": "https://open.spotify.com/artist/2iRVKO828lhfFL0RGyS7Ya"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "The Echoes",
+      "url": "https://open.spotify.com/track/586dTNuHAqUlNV3Y1UMgV0"
+    },
     {
       "added_at": "2025-03-03 14:48:52",
       "album": {

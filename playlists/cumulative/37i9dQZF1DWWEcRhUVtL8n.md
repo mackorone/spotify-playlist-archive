@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcom Todd & Omar Apollo
 
-2,055 songs - 4 day 12 hr 48 min
+2,056 songs - 4 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-15 | 2022-08-27 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2021-06-02 | 2022-08-27 |
 | [AUGUST IS A FEVER](https://open.spotify.com/track/3hgg5A1irFog2hgRnYIRfv) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [AUGUST IS A FEVER](https://open.spotify.com/album/2ByCMPFdztYKfCdT82y2pn) | 3:37 | 2020-11-13 | 2021-01-15 |
-| [Automatic](https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Automatic](https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf) | 3:13 | 2024-10-11 |  |
+| [Automatic](https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Automatic](https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf) | 3:13 | 2024-10-11 | 2025-03-05 |
 | [Autopilot](https://open.spotify.com/track/3MY1eRB3cQ3GBomJtXpPNL) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Autopilot](https://open.spotify.com/album/4VKCiFy5sziSZJkpBfhN1f) | 3:20 | 2022-04-08 | 2022-04-13 |
 | [avalanche](https://open.spotify.com/track/1RlmAzI27AlIpvoRN3u6Iy) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [avalanche](https://open.spotify.com/album/0ISJeQO2OoleGkf5ZxNyuE) | 3:19 | 2021-06-25 | 2022-08-27 |
 | [Average Joe](https://open.spotify.com/track/7HKrIgAJKM57tIg19iLnUC) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Average Joe](https://open.spotify.com/album/0AyCnlXB1BMNOovGDhIzlC) | 3:17 | 2020-10-13\* | 2021-10-08 |
@@ -989,6 +989,7 @@
 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 | 2023-03-31 | 2023-11-13 |
 | [It’s My Birthday](https://open.spotify.com/track/1qMDY64lQJyic7OtjYDTUs) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [It’s My Birthday](https://open.spotify.com/album/1glQYqG0CJxmYONoz04LVU) | 2:38 | 2023-09-12 | 2023-10-09 |
 | [iWANT](https://open.spotify.com/track/1Roo3cfWEz5yrZf2yzntKQ) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [U R HERE](https://open.spotify.com/album/0qLWg6o9UcLaJXzxOUiX69) | 4:01 | 2021-05-03 | 2021-05-28 |
+| [i’ll be happy when](https://open.spotify.com/track/3Q3URGmQcp4hbF2ZTgHeDc) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [i'll be happy when](https://open.spotify.com/album/0EG43re9S4RRLXO6WE2gqD) | 2:56 | 2025-02-28 |  |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2022-02-25 | 2023-01-24 |
 | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N) | 3:26 | 2022-10-28 | 2023-02-11 |
 | [I’m okay, i’m just a little depressed](https://open.spotify.com/track/1O8LgRxgkJ8LUXyYohTcyZ) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SUPERBLOOM](https://open.spotify.com/album/3w8Ki3we6v5ClhTZwvXcqD) | 3:38 | 2020-11-10 | 2021-02-28 |

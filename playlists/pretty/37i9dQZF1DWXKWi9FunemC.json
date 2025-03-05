@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 360347,
+  "num_followers": 360553,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Worth Mine",
-        "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
-      },
-      "artists": [
-        {
-          "name": "Lydia Bricker",
-          "url": "https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR"
-        },
-        {
-          "name": "Daniel Robinson",
-          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
-        }
-      ],
-      "duration_ms": 280054,
-      "name": "Worth Mine",
-      "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 261000,
       "name": "Taste And See",
       "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Worth Mine",
+        "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
+      },
+      "artists": [
+        {
+          "name": "Lydia Bricker",
+          "url": "https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR"
+        },
+        {
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
+        }
+      ],
+      "duration_ms": 280054,
+      "name": "Worth Mine",
+      "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Stained Glass",
-        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 317509,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "You Never Break a Promise",
         "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
       "artists": [
         {
-          "name": "Momentum Music",
-          "url": "https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt"
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
         }
       ],
-      "duration_ms": 387536,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
+      "duration_ms": 317509,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1227,6 +1211,22 @@
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
+      },
+      "artists": [
+        {
+          "name": "Momentum Music",
+          "url": "https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt"
+        }
+      ],
+      "duration_ms": 387536,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "You Are God, Be Glorified",
-        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
-      },
-      "artists": [
-        {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
-        }
-      ],
-      "duration_ms": 267165,
-      "name": "You Are God, Be Glorified",
-      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Conquering Eden",
         "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 240337,
       "name": "One Too Many Reasons",
       "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "You Are God, Be Glorified",
+        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+      },
+      "artists": [
+        {
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+        }
+      ],
+      "duration_ms": 267165,
+      "name": "You Are God, Be Glorified",
+      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
     },
     {
       "added_at": "2024-08-03 00:38:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,110 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,154 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 50 | [Into The Glare](https://open.spotify.com/track/2IylguIokLMTagCSWe0Ym6) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Into The Glare](https://open.spotify.com/album/74MdV8jqEjlPbVqhcSepdG) | 2:21 |
 | 51 | [part ii \- palace / illusion](https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL](https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7) | 7:41 |
 | 52 | [Hafursey \(Yfir\)](https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Hafursey \(Yfir\)](https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J) | 4:59 |
-| 53 | [Blaumeise](https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Avichrom](https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP) | 5:09 |
-| 54 | [Into Your Eyes](https://open.spotify.com/track/3WFxDYFnPurFWPLTyhBjiz) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Into Your Eyes](https://open.spotify.com/album/4DiQXdT74X9NyQNe8EwGqi) | 2:25 |
+| 53 | [Into Your Eyes](https://open.spotify.com/track/3WFxDYFnPurFWPLTyhBjiz) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Into Your Eyes](https://open.spotify.com/album/4DiQXdT74X9NyQNe8EwGqi) | 2:25 |
+| 54 | [Blaumeise](https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Avichrom](https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP) | 5:09 |
 | 55 | [Trying](https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 3:41 |
 | 56 | [You](https://open.spotify.com/track/6gp76uTmBFc2aJ5eXft916) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Squu](https://open.spotify.com/artist/0nCnrZSTvBk1PZCtGioMRq) | [Lust 1](https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L) | 1:58 |
 | 57 | [Fuggire](https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX) | [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [Lirica Ucraina](https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb) | 3:21 |
-| 58 | [Frekm, Pt\. 1](https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Meaning's Edge](https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh) | 6:45 |
-| 59 | [Plants](https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 3:38 |
+| 58 | [Plants](https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 3:38 |
+| 59 | [Frekm, Pt\. 1](https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Meaning's Edge](https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh) | 6:45 |
 | 60 | [Abandon](https://open.spotify.com/track/2pSvA8nCTZZaVMi8pap1kf) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx) | 4:01 |
 | 61 | [Fond](https://open.spotify.com/track/5wwmFhVGRTVEfftMcb3HGp) | [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Fond](https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh) | 2:40 |
 | 62 | [The Milky Sea](https://open.spotify.com/track/5lTrKIvw7MN30cGS2FQKde) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [The Milky Sea](https://open.spotify.com/album/3xLrHm2vb65AkmaTSuJ8PC) | 20:02 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 96 | [Aquarium](https://open.spotify.com/track/0jFkXMZkTjM4ECnGKJBkIP) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf) | [Aquarium](https://open.spotify.com/album/24Num3HZM1YIBWnyqU8myw) | 6:18 |
 | 97 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 |
 | 98 | [Movie Night Cancelled \- Domenique Dumont Ambient Remix](https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Movie Night Cancelled \(Domenique Dumont Ambient Remix\)](https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl) | 4:59 |
-| 99 | [The Eternal Thrill](https://open.spotify.com/track/27Spm7S2VdLGaVxgaM50Cu) | [Eric Hilton](https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB) | [The Eternal Thrill](https://open.spotify.com/album/6UdEjN9OMrdz9DlEzU5U3n) | 7:17 |
+| 99 | [Our Wretched Fantasy](https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Heaven Come Crashing](https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx) | 3:30 |
 | 100 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
 
 Snapshot ID: `Z8FQQQAAAAAQgI3fv42jPT7X7QGPy56C`

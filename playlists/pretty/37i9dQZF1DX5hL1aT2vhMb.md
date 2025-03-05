@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Rosey Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,607 likes - 97 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,631 likes - 97 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

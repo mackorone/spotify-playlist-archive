@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain]
 
 > depressing piano covers of hit songs 🥺💔 music can fix us
 
-[Spotify](https://open.spotify.com/user/spotify) - 651 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 726 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain]
 | 49 | [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 |
 | 50 | [Too Good At Goodbyes](https://open.spotify.com/track/0YDllquMDrYKSeH34vGODj) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Pop Piano Covers Vol\. 1](https://open.spotify.com/album/0Y0oYVkTYrJ1UzEkhmnXjt) | 2:15 |
 
-Snapshot ID: `Z7b+igAAAADQ5kG2LRl+ZezUh9n4mTc0`
+Snapshot ID: `Z7b+igAAAAAyFFghJJgnoLE6SngXkKQf`

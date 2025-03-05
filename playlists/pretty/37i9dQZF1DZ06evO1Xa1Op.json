@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAADR4tbEofwHBs4ike+C1FRI",
+  "snapshot_id": "Z8TxAAAAAAABsv9RQMBS0/yq8+02QD4f",
   "tracks": [
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 258173,
-      "name": "Yer Bounda Fara (2019 - Remaster)",
-      "url": "https://open.spotify.com/track/4HzKjoUhJGIP9WPuxh30OA"
+      "duration_ms": 279080,
+      "name": "Soya (2019 - Remaster)",
+      "url": "https://open.spotify.com/track/2mRUFnV4bo5F8JKLniCenA"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 279080,
-      "name": "Soya (2019 - Remaster)",
-      "url": "https://open.spotify.com/track/2mRUFnV4bo5F8JKLniCenA"
+      "duration_ms": 258173,
+      "name": "Yer Bounda Fara (2019 - Remaster)",
+      "url": "https://open.spotify.com/track/4HzKjoUhJGIP9WPuxh30OA"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 267372,
-      "name": "Kombo Galia",
-      "url": "https://open.spotify.com/track/0OZENqfFTW8YSuirwg8Fvm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 325186,
       "name": "Penda Yoro",
       "url": "https://open.spotify.com/track/16SDv9fsauTzDBTOgNeDC9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 267372,
+      "name": "Kombo Galia",
+      "url": "https://open.spotify.com/track/0OZENqfFTW8YSuirwg8Fvm"
     },
     {
       "added_at": null,

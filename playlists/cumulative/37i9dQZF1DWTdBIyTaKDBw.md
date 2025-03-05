@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-333 songs - 18 hr 47 min
+334 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Blooming Today](https://open.spotify.com/track/1dTshccEBE5ABMk5ls1LHA) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Blooming Today](https://open.spotify.com/album/5oi7YShT4pfwoAlKJtqDsk) | 3:09 | 2023-06-13 | 2023-08-11 |
 | [Blooming Today](https://open.spotify.com/track/7bFLEPt1ZpePXATqdRWbZu) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Blooming Today](https://open.spotify.com/album/4TMYHDS6hlg3VtFOu96lNT) | 3:02 | 2023-07-17 | 2024-07-03 |
 | [Blue Dragon](https://open.spotify.com/track/4eJ11PArOQBen4ZYQu7byX) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 3:19 | 2024-07-02 |  |
+| [Both of Us](https://open.spotify.com/track/1ADffIiBVfqDSRb8LKE3pU) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Both of Us](https://open.spotify.com/album/3zY1NSZAdVDljcs0SeG63K) | 1:55 | 2024-07-02 |  |
 | [bottom parade](https://open.spotify.com/track/4jTyKruIyG8mAI1c8QlxfD) | [Non Amer](https://open.spotify.com/artist/7f3l59JHKzkCqsjXxPmYJT) | [Loop 1](https://open.spotify.com/album/53t377Jk0Zhgk88sX60udL) | 3:05 | 2022-06-20 | 2022-07-26 |
 | [Breathing Stone](https://open.spotify.com/track/2ybaJ0ASch1Gz2fhX0gi9q) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Sleeping Soul](https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT) | 3:24 | 2024-07-02 |  |
 | [Butterfly on my mind](https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w) | [HolyBear](https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn) | [Honey jar No.01](https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t) | 3:39 | 2023-01-25 | 2024-07-03 |
@@ -241,7 +242,7 @@
 | [Secret Place](https://open.spotify.com/track/7nYSThKhGZuaOQ8zeKSm1X) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Harmony](https://open.spotify.com/album/7biuWedEj1S1VAkVovjzX1) | 4:27 | 2024-07-02 |  |
 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 | 2024-07-02 |  |
 | [Shangri\-la](https://open.spotify.com/track/3qVG7xejiok5tjEVguRbra) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:18 | 2024-07-02 | 2024-11-01 |
-| [Shinjuku](https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [The Legend of Shirokuro](https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr) | 2:05 | 2024-07-02 |  |
+| [Shinjuku](https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [The Legend of Shirokuro](https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr) | 2:05 | 2024-07-02 | 2025-03-05 |
 | [Shinrin](https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Peace of Mind](https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd) | 3:15 | 2024-07-02 |  |
 | [Shower duty](https://open.spotify.com/track/3vCbwbAIRB1vkQAGbNXO3F) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:33 | 2022-05-03 | 2022-09-09 |
 | [sigh](https://open.spotify.com/track/53pxxjKIvaIxQwOpIeCLdk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:22 | 2022-06-20 | 2022-07-24 |

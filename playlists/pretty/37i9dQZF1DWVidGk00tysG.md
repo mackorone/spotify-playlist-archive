@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 
 > Dive into Chopin's greatest works for the piano, from solo études to full\-blown concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,354 likes - 92 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,373 likes - 92 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 54 | [Ballade No\. 3 in A Flat Major, Op\. 47](https://open.spotify.com/track/1BPsXqDKyApGZTDQy69zOk) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Chopin: Piano Concerto No\. 1; Ballades](https://open.spotify.com/album/3uBOmT0tnbFyLB8X6hW8UN) | 7:49 |
 | 55 | [Variations brillantes, Op\. 12](https://open.spotify.com/track/5zJAsjM3CapmzBbkpgZLUT) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Rondos and Variations](https://open.spotify.com/album/1AvoW0KSMW0ldnnGduc1sq) | 9:55 |
 | 56 | [Cantabile in B\-Flat Major](https://open.spotify.com/track/18wnVI2y5Loy6Pr6ilqQ8r) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Ballades / Fantaisie in F Minor / Galop Marquis](https://open.spotify.com/album/0V8IRW6lfn9EhOASF17Rwx) | 1:09 |
-| 57 | [Chopin: Fantaisie in F Minor, Op\. 49](https://open.spotify.com/track/6aZvn2GoPxfjGrbVNOG4ly) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Chopin: Pièces pour piano](https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz) | 12:07 |
+| 57 | [Chopin: Fantaisie in F Minor, Op\. 49](https://open.spotify.com/track/6aZvn2GoPxfjGrbVNOG4ly) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Chopin: Journal intime](https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz) | 12:07 |
 | 58 | [Piano Concerto No\. 1 in E Minor, Op\. 11: 2\. Romance \(Larghetto\)](https://open.spotify.com/track/2OxziEQaUt5MRXppGYXGpu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Gianandrea Noseda](https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19) | [Chopin: Piano Concerto No\. 1; Ballades](https://open.spotify.com/album/3uBOmT0tnbFyLB8X6hW8UN) | 10:34 |
 | 59 | [12 Études, Op\. 25: No\. 5 in E Minor "Wrong Note"](https://open.spotify.com/track/7iES5ExYrIBrYuXMUfPmA8) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Murray Perahia](https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB) | [Chopin: 24 Études, Op\. 10 & Op\. 25](https://open.spotify.com/album/5kUpAX73fnNouo85H5D3MK) | 2:53 |
 | 60 | [24 Preludes, Op\. 28: No\. 7 in A Major](https://open.spotify.com/track/7nOhPlpTPrMkvcuMBBcJPm) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Preludes](https://open.spotify.com/album/4iYwCjvCuY590kRhaBAHbW) | 0:43 |

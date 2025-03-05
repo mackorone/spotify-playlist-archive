@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103527,
+  "num_followers": 103524,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAB2tHt4dDKjZS3/grBUw6zO",
+  "snapshot_id": "Z8TxAAAAAABNk52Lm7F03TbShN5b9OqO",
   "tracks": [
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 15",
-        "url": "https://open.spotify.com/album/4cCrEspWJyPhsBYK4PmQed"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 131633,
-      "name": "No Me Interesa",
-      "url": "https://open.spotify.com/track/5qOo1MYAzwv7Bh03vdBO6z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoy M\u00e1s Que Nunca",
         "url": "https://open.spotify.com/album/1rDuAQCkEgIQlI8c6MIN97"
       },
@@ -931,6 +915,38 @@
       "duration_ms": 356293,
       "name": "Hoy M\u00e1s Que Nunca",
       "url": "https://open.spotify.com/track/5tzFhFJLFWuuLvlqgWi7uK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 15",
+        "url": "https://open.spotify.com/album/4cCrEspWJyPhsBYK4PmQed"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 131633,
+      "name": "No Me Interesa",
+      "url": "https://open.spotify.com/track/5qOo1MYAzwv7Bh03vdBO6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 249974,
+      "name": "Me Va A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80"
     }
   ],
   "unique_name": "This Is Carolina Ross",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EZT8cSzhJA9lL.md) - [plain]
 
 > Discover your personal playlist to help you escape from Vecna and the Upside Down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

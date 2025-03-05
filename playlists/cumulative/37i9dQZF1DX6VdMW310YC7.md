@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,738 songs - 4 day 22 hr 45 min
+1,739 songs - 4 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Breathe \- CamelPhat Just Chill Mix](https://open.spotify.com/track/6omsLkEQDeDHtILgj3Vkmn) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe \(CamelPhat Just Chill Mix\)](https://open.spotify.com/album/3jJE4tQdbiYaRcxgNsVqtn) | 4:31 | 2020-03-16 | 2022-10-13 |
 | [Breathe In](https://open.spotify.com/track/0DzRRsU837SFfGg3qHggZt) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n), [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Kuala](https://open.spotify.com/artist/2uMnogCIZC4nsRgavacAkv) | [Breathe In](https://open.spotify.com/album/3OlOyy3r8jil3U0aYzALyw) | 4:25 | 2024-04-05 | 2024-06-22 |
 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 | 2021-03-27 | 2024-04-19 |
+| [Breathing](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Breathing](https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan) | 3:24 | 2025-02-28 |  |
 | [Brighter](https://open.spotify.com/track/6PKGDDpYt39sJfHJrYxJW4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:41 | 2020-05-18 | 2020-07-03 |
 | [Brighter \- Emmit's Version](https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Brighter \(Emmit's Version\)](https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt) | 2:42 | 2024-05-03 | 2024-09-21 |
 | [brighter days](https://open.spotify.com/track/0OidLNIUhWSBX2UEXbaqQS) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 3:56 | 2020-03-20 | 2020-07-18 |
@@ -1560,7 +1561,7 @@
 | [Tied To You \- Yotto Remix](https://open.spotify.com/track/6iQ9KEZuDYjz7GjAeTT0sO) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Tied To You \(Yotto Remix\)](https://open.spotify.com/album/19PmC8YknlZQ2kex90EdwB) | 6:02 | 2024-04-19 | 2024-05-11 |
 | [Till The Sky Falls Down \- Monokini Beach Mix](https://open.spotify.com/track/2bYjOZefrwx8CiUFT8j7E6) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [Loungelicious Vol.1](https://open.spotify.com/album/0McbWHbCfTaCe3t8LYza3R) | 3:07 | 2020-06-12 | 2020-07-03 |
 | [Time](https://open.spotify.com/track/1Zv8woSN47nSkwMjUWX0aS) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt), [Monomotion](https://open.spotify.com/artist/514CDwBzI2wOfEGuVqHOur) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:01 | 2020-03-21 | 2021-03-06 |
-| [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-04-05 |  |
+| [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-04-05 | 2025-03-05 |
 | [Time Capsule](https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL) | [Nick Beman](https://open.spotify.com/artist/7ow15x0a0qAhy4ZK6xJKGx) | [Time Capsule](https://open.spotify.com/album/1uGLfESQqsa5TwO5YQSCRI) | 3:10 | 2020-03-20 | 2022-04-21 |
 | [Tiny Molecules of Water](https://open.spotify.com/track/5snKLxGnhMAWMTJroPXlRD) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Imperfections](https://open.spotify.com/album/7qbo7wJh12LH1Qi0zvMU2F) | 3:52 | 2022-05-27 | 2022-07-25 |
 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-09-30 | 2023-02-21 |

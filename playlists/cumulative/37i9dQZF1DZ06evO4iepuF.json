@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 108387,
       "name": "allowed to LOVE",
       "url": "https://open.spotify.com/track/6cqnApdgR7NjOk0V0Ixoou"
@@ -623,6 +623,32 @@
     },
     {
       "album": {
+        "name": "i'm down",
+        "url": "https://open.spotify.com/album/57K2bPZI0lDBQdKUTxSFjM"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Peachii",
+          "url": "https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278752,
+      "name": "i'm down",
+      "url": "https://open.spotify.com/track/4GFcBGQ5pMFFgeVhLSm2X9"
+    },
+    {
+      "album": {
         "name": "im part of the PAWblem\u200b!\u200b!",
         "url": "https://open.spotify.com/album/660oyPv15JOys26fZXNdE7"
       },
@@ -750,7 +776,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 113131,
       "name": "jus make it go boom",
       "url": "https://open.spotify.com/track/7yXLbFH6bK48Fng7HMWdT3"
@@ -970,7 +996,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 106145,
       "name": "no reception",
       "url": "https://open.spotify.com/track/4UMwxOfR9UMHRl6EOVnxBE"

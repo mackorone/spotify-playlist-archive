@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,181 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,206 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 17 | [Subiendo](https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Envero](https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13) | 3:39 |
 | 18 | [Nadie te Ama como yo](https://open.spotify.com/track/3lmLUrsCrDri8VJX2BZYBj) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Exitazos Cristianos \- Vol\. 1](https://open.spotify.com/album/4ZuXBm2BHCgz52X9GQDKUQ) | 5:31 |
 | 19 | [Agarra La Bendición](https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Agarra La Bendición](https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ) | 3:11 |
-| 20 | [Vamos \- En Vivo](https://open.spotify.com/track/6xYZTyp7eR0bVS59qC7Sci) | [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Joseph Espinoza](https://open.spotify.com/artist/3ecc3WKGzs3ejPlL3M17R3), [Shirley H](https://open.spotify.com/artist/4FhCP4VyiJjmYSy0SqW7aM) | [Vamos \(En Vivo\)](https://open.spotify.com/album/2JNqgvnSb9iPjL6WDYTNsM) | 4:41 |
+| 20 | [Vamos \- Live](https://open.spotify.com/track/6xYZTyp7eR0bVS59qC7Sci) | [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Joseph Espinoza](https://open.spotify.com/artist/3ecc3WKGzs3ejPlL3M17R3), [Shirley H](https://open.spotify.com/artist/4FhCP4VyiJjmYSy0SqW7aM) | [Vamos \(En Vivo\)](https://open.spotify.com/album/2JNqgvnSb9iPjL6WDYTNsM) | 4:41 |
 | 21 | [La Iglesia](https://open.spotify.com/track/3JNH6YMWftYV6UhM93HFLt) | [Alex D'Castro](https://open.spotify.com/artist/5u21XmwRCdP8za3HRjJIct) | [Alex D'castro, a Mis Amigos ...Lo Mejor](https://open.spotify.com/album/4XwBmjJCCVYcarPMx2iYa0) | 5:00 |
 | 22 | [Amado Mio](https://open.spotify.com/track/74UKvcqvGS87RwCnSvmFfW) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Unplugged Evento Historico](https://open.spotify.com/album/65TpBgr5Ikt5wCyhMDqoSl) | 5:38 |
 | 23 | [No Puedo Ni Quiero](https://open.spotify.com/track/73i5lJCjotIVTIQyjbks5Z) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Punto y Aparte](https://open.spotify.com/album/5iEbLPgz7HqCZCRQDtiZ41) | 3:34 |

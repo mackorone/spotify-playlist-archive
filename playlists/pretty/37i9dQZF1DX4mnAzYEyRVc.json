@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Feine Sahne Fischfilet",
-  "num_followers": 58542,
+  "num_followers": 58554,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-02-21 06:00:13",
       "album": {
-        "name": "Wir kommen in Frieden",
-        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 234061,
-      "name": "Wir kommen in Frieden",
-      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
-    },
-    {
-      "added_at": "2025-02-21 06:00:13",
-      "album": {
         "name": "Say It Out Loud",
         "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 205723,
       "name": "She Got Arrested",
       "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
+    },
+    {
+      "added_at": "2025-02-21 06:00:13",
+      "album": {
+        "name": "Wir kommen in Frieden",
+        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 234061,
+      "name": "Wir kommen in Frieden",
+      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
     },
     {
       "added_at": "2025-02-21 06:00:13",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-02-21 06:00:13",
       "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+    },
+    {
+      "added_at": "2025-02-21 06:00:13",
+      "album": {
         "name": "Joj!",
         "url": "https://open.spotify.com/album/3BfkiJs1Xy90mpttNhUnGq"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 164875,
       "name": "Joj!",
       "url": "https://open.spotify.com/track/4AMck8OGo6T1ttWZhH2C4j"
-    },
-    {
-      "added_at": "2025-02-21 06:00:13",
-      "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2025-02-21 06:00:13",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-02-21 06:00:13",
       "album": {
-        "name": "Mudik",
-        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
-      },
-      "artists": [
-        {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Mudik",
-      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
-    },
-    {
-      "added_at": "2025-02-21 06:00:13",
-      "album": {
         "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
         "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 303466,
       "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
       "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
+    },
+    {
+      "added_at": "2025-02-21 06:00:13",
+      "album": {
+        "name": "Mudik",
+        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
+      },
+      "artists": [
+        {
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "Mudik",
+      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
     },
     {
       "added_at": "2025-02-21 06:00:13",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-02-21 06:00:13",
       "album": {
+        "name": "Dye My Heart Red",
+        "url": "https://open.spotify.com/album/6MR2GXhMzVdIbofsollRcm"
+      },
+      "artists": [
+        {
+          "name": "Nonoka Obuchi",
+          "url": "https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "Dye My Heart Red",
+      "url": "https://open.spotify.com/track/4Hh4Sd8qie1mhNXnrEnyUo"
+    },
+    {
+      "added_at": "2025-02-21 06:00:13",
+      "album": {
         "name": "Reggae gordo for days and extra days",
         "url": "https://open.spotify.com/album/7AaDhCvk72WXKICLHYDuHC"
       },
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2025-02-21 06:00:13",
       "album": {
-        "name": "Dye My Heart Red",
-        "url": "https://open.spotify.com/album/6MR2GXhMzVdIbofsollRcm"
-      },
-      "artists": [
-        {
-          "name": "Nonoka Obuchi",
-          "url": "https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "Dye My Heart Red",
-      "url": "https://open.spotify.com/track/4Hh4Sd8qie1mhNXnrEnyUo"
-    },
-    {
-      "added_at": "2025-02-21 06:00:13",
-      "album": {
         "name": "Lights Out In The Reptile House",
         "url": "https://open.spotify.com/album/0I2NMVIK0TZB5cZMn9gbfa"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-02-21 06:00:13",
       "album": {
-        "name": "Random Hand",
-        "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
-      },
-      "artists": [
-        {
-          "name": "Random Hand",
-          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
-        }
-      ],
-      "duration_ms": 192193,
-      "name": "Devil With a Microphone",
-      "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
-    },
-    {
-      "added_at": "2025-02-21 06:00:13",
-      "album": {
         "name": "Swings and Roundabouts",
         "url": "https://open.spotify.com/album/38cqTGYMGJ5ZR3FGpWKJ5W"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 183159,
       "name": "Swings and Roundabouts",
       "url": "https://open.spotify.com/track/4yWCppWwgdnLZtSfJqiLqk"
+    },
+    {
+      "added_at": "2025-02-21 06:00:13",
+      "album": {
+        "name": "Random Hand",
+        "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
+      },
+      "artists": [
+        {
+          "name": "Random Hand",
+          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
+        }
+      ],
+      "duration_ms": 192193,
+      "name": "Devil With a Microphone",
+      "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
     },
     {
       "added_at": "2025-02-21 06:00:13",

@@ -877,28 +877,6 @@
     },
     {
       "album": {
-        "name": "Boy Meets World",
-        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "date_added": "2025-03-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148928,
-      "name": "A N X I E T Y (feat. Doechii)",
-      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
-    },
-    {
-      "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
@@ -1732,6 +1710,28 @@
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148928,
+      "name": "ANXIETY (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
       "album": {
@@ -8634,7 +8634,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 173537,
       "name": "Du Glemmer Det Aldrig",
       "url": "https://open.spotify.com/track/57H9ya60ivLrZwjU1KCo4p"
@@ -13846,7 +13846,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 183253,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws"
@@ -14594,7 +14594,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 152325,
       "name": "Hesties Besties",
       "url": "https://open.spotify.com/track/6SHq8eDDjwBsTdj0qVTOks"
@@ -14884,7 +14884,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "Hjertet P\u00e5 Gaden",
       "url": "https://open.spotify.com/track/62EPQ5REuZwGqWoRsPP5Bx"
@@ -15668,7 +15668,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 158666,
       "name": "Hva Du P\u00e5 (feat. Gilli)",
       "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
@@ -19314,10 +19314,28 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 131063,
       "name": "Koldblodet Killer",
       "url": "https://open.spotify.com/track/1kOMrUv9xczMmR6hCmPMzR"
+    },
+    {
+      "album": {
+        "name": "Koldblodet Killer",
+        "url": "https://open.spotify.com/album/3vwOrXocrxaGdf3UJf38nj"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131063,
+      "name": "Koldblodet Killer",
+      "url": "https://open.spotify.com/track/4aWP69rMu7KsJ2tGVP5KQJ"
     },
     {
       "album": {
@@ -29586,7 +29604,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 170084,
       "name": "Sig Det Bare",
       "url": "https://open.spotify.com/track/6nJwK9TsgYYCNqUBMVLhMV"
@@ -32495,6 +32513,24 @@
     },
     {
       "album": {
+        "name": "Tag Mig Som Jeg Er",
+        "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195748,
+      "name": "Tag Mig Som Jeg Er",
+      "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
+    },
+    {
+      "album": {
         "name": "Tak For Sidst",
         "url": "https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi"
       },
@@ -34720,7 +34756,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -34874,7 +34910,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 149215,
       "name": "Ud Med Regler!",
       "url": "https://open.spotify.com/track/7CqXOs881vXfqJlX7xgttw"
@@ -34982,7 +35018,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 266040,
       "name": "Under Din Sne",
       "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"

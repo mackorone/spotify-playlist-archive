@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "All I Am",
+        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182099,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
+    },
+    {
+      "album": {
         "name": "all i can do is miss you",
         "url": "https://open.spotify.com/album/4tNxWMShCxtaPR1ELqjOLJ"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 243180,
       "name": "All My People - Denham Audio Remix",
       "url": "https://open.spotify.com/track/7DCe5FBxNioDJ4rqPJPdND"
@@ -1426,6 +1444,32 @@
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
+    },
+    {
+      "album": {
+        "name": "B Somebody (X CLUB. Remix)",
+        "url": "https://open.spotify.com/album/1UdRqFmjpDpn4ZLW9tpBJy"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221941,
+      "name": "B Somebody - X CLUB. Remix",
+      "url": "https://open.spotify.com/track/0fgjSCrThXsWnEvqRD1DsG"
     },
     {
       "album": {
@@ -3850,7 +3894,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 380000,
       "name": "Close To You - Octo Octa\u2019s Voices Reaching Out Remix",
       "url": "https://open.spotify.com/track/75Hcu4hKfTTESvRWXLys53"
@@ -5346,7 +5390,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 206651,
       "name": "Doctor Of Love",
       "url": "https://open.spotify.com/track/5OwLg5uzdyWADI4eY2s41S"
@@ -6937,6 +6981,32 @@
     },
     {
       "album": {
+        "name": "Falling Out Of Time / True",
+        "url": "https://open.spotify.com/album/7jcf2WqkDVLicr5ckQHywl"
+      },
+      "artists": [
+        {
+          "name": "Sonatine",
+          "url": "https://open.spotify.com/artist/3lgxDZfafdYloF5b9L6r4T"
+        },
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        },
+        {
+          "name": "Jackson Mico Milas",
+          "url": "https://open.spotify.com/artist/0ZT6aLdBDChwZ8bLF4Ey73"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264283,
+      "name": "Falling Out Of Time - Edit",
+      "url": "https://open.spotify.com/track/3V9nSsR6Csj8ZQEYQ5txsj"
+    },
+    {
+      "album": {
         "name": "Fangs (Avalon Emerson\u2019s Re-Chip Remix)",
         "url": "https://open.spotify.com/album/7icvN6GOIbKWJ9OXOd58hF"
       },
@@ -8279,6 +8349,24 @@
     },
     {
       "album": {
+        "name": "fruit machine",
+        "url": "https://open.spotify.com/album/6Db83GXGxNuhXnMoYnM3Lj"
+      },
+      "artists": [
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "fruit machine",
+      "url": "https://open.spotify.com/track/4HkM0WDGGmdDRDx5MRpGHZ"
+    },
+    {
+      "album": {
         "name": "Fuck what u heard",
         "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
       },
@@ -9056,7 +9144,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 340143,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/4rvTXwUFRdSqE9EJ8Rphdq"
@@ -10489,6 +10577,28 @@
     },
     {
       "album": {
+        "name": "I Wanna Tell Somebody",
+        "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Josh Milan",
+          "url": "https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358186,
+      "name": "I Wanna Tell Somebody",
+      "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
+    },
+    {
+      "album": {
         "name": "Rave Baby EP",
         "url": "https://open.spotify.com/album/7db7NSBLfSihkpSgbkSLm9"
       },
@@ -10750,7 +10860,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 202500,
       "name": "In My Head - Edit",
       "url": "https://open.spotify.com/track/4P7P6cIXe2zNdsPZ9WhJjt"
@@ -13040,7 +13150,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 194418,
       "name": "Loving You (feat. Maverick Sabre) - p-rallel Remix",
       "url": "https://open.spotify.com/track/1RBwqOOstUHSyDswQW02Hp"
@@ -16048,7 +16158,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 187796,
       "name": "Phantasy - Edit",
       "url": "https://open.spotify.com/track/3GNe0wtYUutSqk0ZEue6l6"
@@ -16290,6 +16400,28 @@
       "duration_ms": 175414,
       "name": "Planet Blue",
       "url": "https://open.spotify.com/track/5MvfAqLuOzuJ46quLvHhwn"
+    },
+    {
+      "album": {
+        "name": "Please Don't Stop The Rain (Ron Trent Remixes)",
+        "url": "https://open.spotify.com/album/4fpkbwIjPsPrYhtcrD4hJc"
+      },
+      "artists": [
+        {
+          "name": "ASHRR",
+          "url": "https://open.spotify.com/artist/32aYUJIKdmOOoV0HOkGEhq"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251645,
+      "name": "Please Don't Stop The Rain - Ron Trent Remix",
+      "url": "https://open.spotify.com/track/5xA6zmXRPkx7r9ZFTvqZsw"
     },
     {
       "album": {
@@ -16620,7 +16752,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 124479,
       "name": "Procraaa",
       "url": "https://open.spotify.com/track/1PRLoXQ3CkVJIvYxbcDYVb"
@@ -19134,7 +19266,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 337864,
       "name": "Something Real (Omar S Redeye Mix)",
       "url": "https://open.spotify.com/track/6OV3OoCZVWHkEq95E5pbwB"
@@ -20254,7 +20386,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 184615,
       "name": "take your vibes and go - DJ ADHD & Chlo\u00e9 Robinson Remix",
       "url": "https://open.spotify.com/track/1P5uvuPPTtbG8gPfWuODtq"
@@ -20284,7 +20416,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
@@ -21127,6 +21259,24 @@
     },
     {
       "album": {
+        "name": "HWPP 001",
+        "url": "https://open.spotify.com/album/6nsOdVdxybCJdnH1GM66lV"
+      },
+      "artists": [
+        {
+          "name": "Pine",
+          "url": "https://open.spotify.com/artist/3Pm0dhmS1MI1gIviQnS65q"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341157,
+      "name": "Tied the Parcel",
+      "url": "https://open.spotify.com/track/4rDnbGwkI0MBAoxK4iFbb1"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0BSOgnavLMmMdUh1J6YdEa"
       },
@@ -21902,7 +22052,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 257777,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/5c8PpqIF0VqrPJnPBSJTWq"
@@ -24066,7 +24216,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 251746,
       "name": "you know",
       "url": "https://open.spotify.com/track/2FE9FSOPgRkXp1LYyKzcuh"

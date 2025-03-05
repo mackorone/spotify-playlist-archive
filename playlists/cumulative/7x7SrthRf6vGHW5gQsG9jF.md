@@ -4,7 +4,7 @@
 
 > mostly rock
 
-828 songs - 2 day 5 hr 1 min
+830 songs - 2 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [hikari](https://open.spotify.com/track/6sYJbalTgvb6uJtCIqfySm) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:07 | 2024-05-03 |  |
 | [Hino ataru basyo ni kiteyo](https://open.spotify.com/track/5LirOGHqAIck3p6YLWv9J1) | [Uchu Nekoko](https://open.spotify.com/artist/1JP8TbSISsEiRBI1duEbw7), [宇宙ネコ子](https://open.spotify.com/artist/3xSs5iXfAy7FPN8cUqBEfm) | [Hino Ataru Basyo Ni Kiteyo](https://open.spotify.com/album/7BbCwi8jHHtRbrkumZcVe5) | 3:00 | 2024-06-04 |  |
 | [HINOIRI's Thema](https://open.spotify.com/track/6EEYqaQPKW6igXafw0iKL7) | [Veltpunch](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [GOLD ALBUM 1997\-2012](https://open.spotify.com/album/5rtMlhUkyKWl7OgrPBBEUb) | 5:02 | 2024-03-17 |  |
+| [Hold Me](https://open.spotify.com/track/2qz1earowX9HgKQiwUyE2M) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Loading...](https://open.spotify.com/album/4ybgu5jjrqmTiqh8i3NfPr) | 4:16 | 2025-03-04 |  |
 | [Honey](https://open.spotify.com/track/48X7uKIGYPy5rddGy91YMK) | [chihiRo](https://open.spotify.com/artist/20NfDZasZyg3MRT6xKMiV5) | [カードキャプターさくら　ソングコレクション 1999.4～2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 4:18 | 2024-09-20 |  |
 | [Honto wa Nakisodesu](https://open.spotify.com/track/1HSDxPlPXYGjexTIWFaChn) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [NEE](https://open.spotify.com/album/4eSY2Ka1qHuzxEsWxEu45H) | 4:15 | 2024-05-31 |  |
 | [Houjou \- bonus track](https://open.spotify.com/track/4OzCR5H9FEq4HP4pN66Y4D) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7), [GREEN ROMANCE](https://open.spotify.com/artist/4ifwODTNRfOpYpxiBjsaTx), [浅井杜人](https://open.spotify.com/artist/3QsQcihids9cKIS5YSCErz) | [You are not rockstar, I'm not rockstar](https://open.spotify.com/album/1yl8uapCeNjf3m1WacTF6N) | 2:34 | 2024-05-02 |  |
@@ -316,6 +317,7 @@
 | [new world \- feat\. ヰ世界情緒](https://open.spotify.com/track/09wQD0QlL3GvxmQq0gGJbC) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U) | [new world \(feat\. ヰ世界情緒\)](https://open.spotify.com/album/5AGRcvyFgH1cz4PppI8cNM) | 5:12 | 2024-08-01 |  |
 | [nigastu no heitai](https://open.spotify.com/track/0TXSOQCkceftWCfbTph2mt) | [the cabs](https://open.spotify.com/artist/5PalnqYJTpnO5wt00jf0um) | [the first action](https://open.spotify.com/album/4B9PvasXGkeRUQYtOjurx8) | 2:55 | 2023-08-18 |  |
 | [night is young](https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [nightlife](https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7) | 5:44 | 2023-07-19 |  |
+| [Night Walk](https://open.spotify.com/track/2yqbFfxZAngzfYhckGLN21) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Night Walk](https://open.spotify.com/album/7vrfjfKHDsfg9H7ZsOlvby) | 4:20 | 2025-03-04 |  |
 | [No Disk](https://open.spotify.com/track/12Z5xZWfz7zhkfILP3vA7D) | [moë](https://open.spotify.com/artist/546L4JDccxAyQPJEaZMZc3) | [No Disk](https://open.spotify.com/album/2N84RAS07se2WEZnuJm2il) | 3:57 | 2024-05-03 |  |
 | [No New World](https://open.spotify.com/track/2NRs1KLd5q5KFYjYkL8WJD) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [No New World](https://open.spotify.com/album/1Or7rQnUCdwz3NX5QFSIne) | 2:59 | 2023-07-28 |  |
 | [Non Fiction \(Fool on cool version\)](https://open.spotify.com/track/51QeLiaqnhG5xLsXdaTMb9) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [FLCL Progressive / Alternative \(Music from the Series\)](https://open.spotify.com/album/6U803HjuYDhefzd8suMyMg) | 3:19 | 2023-11-18 |  |

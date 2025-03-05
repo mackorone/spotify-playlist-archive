@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Cdubz
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,041 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,072 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [god loves a trier](https://open.spotify.com/track/18M4Y9NRlRJfXgls3gOZ39) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [god loves a trier](https://open.spotify.com/album/5InPGjHdmwPdxIv9UjZ3Ii) | 2:27 |
 | 100 | [Alarm](https://open.spotify.com/track/387Yye5NR4C6T1Lyh4ELPw) | [Million Dollar Weekend](https://open.spotify.com/artist/4BiR9m24DaTiyFkYZIRmqn) | [Alarm](https://open.spotify.com/album/1mxfgBx20OopIeDFLq6xdG) | 3:11 |
 
-Snapshot ID: `Z79/7wAAAAAomZs950JyERm6XDdAN7Zp`
+Snapshot ID: `Z79/7wAAAABGrTnYMD/b57y3qJXgDCh0`

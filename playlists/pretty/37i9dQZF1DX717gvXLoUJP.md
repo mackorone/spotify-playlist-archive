@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,990 likes - 54 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,000 likes - 54 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 | 53 | [Children of the Last Generation](https://open.spotify.com/track/5GM4dhQXkxtHFCV5aM1zC7) | [X\-Dream](https://open.spotify.com/artist/2Wmyxn5qWyLPWKeEMmJKHc) | [The Best 1991\-2001](https://open.spotify.com/album/2y5avewOLhUVGT1xm3o6Og) | 7:45 |
 | 54 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
 
-Snapshot ID: `Z240dQAAAABX5fZPJrCrHn/huQvu8yWH`
+Snapshot ID: `Z240dQAAAACi77EUEzwg0xS/ggTiFRYB`

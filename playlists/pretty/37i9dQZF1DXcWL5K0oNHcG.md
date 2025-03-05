@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Miki Ikhifa\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,637 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,643 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [LOVE CAME SO EASILY](https://open.spotify.com/track/5XgHLkdBZ2Fjbmc8FgoFoK) | [SISICA](https://open.spotify.com/artist/6ZxNkk8ek1Ho5qNxnYNH9D) | [LOVE CAME SO EASILY](https://open.spotify.com/album/1srXTat2QuIrACT3ilvTla) | 3:04 |
 | 50 | [Alone](https://open.spotify.com/track/0PSF6VyKJCCGWWb8wF4i72) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Alone](https://open.spotify.com/album/4ucbW3lPaRUVUewPWB3Ig2) | 2:46 |
 
-Snapshot ID: `Z76f2QAAAADGi2H6EExWMtSY+r0SLQh/`
+Snapshot ID: `Z76f2QAAAABTL76zegRcqQy+EQgULmyu`

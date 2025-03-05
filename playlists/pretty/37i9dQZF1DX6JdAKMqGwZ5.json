@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
-  "num_followers": 197734,
+  "num_followers": 197764,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
+        "name": "Qu\u00e9 L\u00e1stima",
+        "url": "https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3"
+      },
+      "artists": [
+        {
+          "name": "Maren",
+          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Desde El Otro Lado",
+      "url": "https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
         "name": "ME ACUERDO DE TODO",
         "url": "https://open.spotify.com/album/2jJZrb7rsyKOItsmWYw4tQ"
       },
@@ -919,18 +935,34 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "Qu\u00e9 L\u00e1stima",
-        "url": "https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3"
+        "name": "Vespa Verde Agua",
+        "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
       },
       "artists": [
         {
-          "name": "Maren",
-          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
         }
       ],
-      "duration_ms": 198960,
-      "name": "Desde El Otro Lado",
-      "url": "https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh"
+      "duration_ms": 166134,
+      "name": "Vespa Verde Agua",
+      "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "tormenta",
+        "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 256423,
+      "name": "tormenta",
+      "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -955,54 +987,6 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "tormenta",
-        "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 256423,
-      "name": "tormenta",
-      "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
-        "name": "Vespa Verde Agua",
-        "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
-      },
-      "artists": [
-        {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
-        }
-      ],
-      "duration_ms": 166134,
-      "name": "Vespa Verde Agua",
-      "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
-        "name": "Se Nota",
-        "url": "https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N"
-      },
-      "artists": [
-        {
-          "name": "Ciao Marina",
-          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Se Nota",
-      "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -1023,22 +1007,6 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "Elizabeth",
-        "url": "https://open.spotify.com/album/0wO9kY8dteHnjYaTwT8wRP"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/1RZcXkyB8Ex8RAGJWX4K7g"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
         "name": "escocia",
         "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
       },
@@ -1051,6 +1019,38 @@
       "duration_ms": 177321,
       "name": "escocia",
       "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "Se Nota",
+        "url": "https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N"
+      },
+      "artists": [
+        {
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Se Nota",
+      "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "Elizabeth",
+        "url": "https://open.spotify.com/album/0wO9kY8dteHnjYaTwT8wRP"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/1RZcXkyB8Ex8RAGJWX4K7g"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "Chicos malos",
-        "url": "https://open.spotify.com/album/2jxTKN8yjr8C9EMur5di70"
-      },
-      "artists": [
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 230477,
-      "name": "Chicos malos",
-      "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
-    },
-    {
-      "added_at": "2025-02-27 23:00:32",
-      "album": {
         "name": "Tu Voz",
         "url": "https://open.spotify.com/album/35qKIt74yJX07zCRhMbzII"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 263407,
       "name": "Tu Voz",
       "url": "https://open.spotify.com/track/7awuOF75a20k80EK8PUVSK"
+    },
+    {
+      "added_at": "2025-02-27 23:00:32",
+      "album": {
+        "name": "Chicos malos",
+        "url": "https://open.spotify.com/album/2jxTKN8yjr8C9EMur5di70"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 230477,
+      "name": "Chicos malos",
+      "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -1323,18 +1323,22 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "nada importa",
-        "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
+        "name": "sangre y sal",
+        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
       },
       "artists": [
         {
           "name": "vangoura",
           "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
         }
       ],
-      "duration_ms": 178904,
-      "name": "nada importa",
-      "url": "https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW"
+      "duration_ms": 171921,
+      "name": "n\u00fameros rojos",
+      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
     },
     {
       "added_at": "2025-02-27 23:00:32",
@@ -1471,22 +1475,18 @@
     {
       "added_at": "2025-02-27 23:00:32",
       "album": {
-        "name": "sangre y sal",
-        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
+        "name": "nada importa",
+        "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
       },
       "artists": [
         {
           "name": "vangoura",
           "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        },
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
         }
       ],
-      "duration_ms": 171921,
-      "name": "n\u00fameros rojos",
-      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
+      "duration_ms": 178904,
+      "name": "nada importa",
+      "url": "https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW"
     },
     {
       "added_at": "2025-02-27 23:00:32",

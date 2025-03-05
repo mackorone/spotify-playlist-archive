@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Karen Jonz
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,688 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,652 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 79 | [Imprevisível](https://open.spotify.com/track/5cRpK6nKXBM5xbHU048Z6h) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [João Paulo Lopes](https://open.spotify.com/artist/6BZZsvcWRDSP53dvlh5u3D) | [Imprevisível](https://open.spotify.com/album/1uuuKNQyBMwkxiFL5CpTi9) | 2:42 |
 | 80 | [Santo Dia](https://open.spotify.com/track/64x97Vp6L5JK21JF4cJ7kw) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4) | [Santo Dia](https://open.spotify.com/album/3UpCHVzK79I6KVlELd4iwr) | 2:59 |
 
-Snapshot ID: `Z7iNNQAAAAAbQ7aVFsy/6AkhtdfD0Wj2`
+Snapshot ID: `Z7iNNQAAAAC0e5aYBx0udoo2iSLR67jw`

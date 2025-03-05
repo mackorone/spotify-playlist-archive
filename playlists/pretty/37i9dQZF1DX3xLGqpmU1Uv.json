@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 165487,
+  "num_followers": 165535,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 140026,
       "name": "Al Ritmo De La Lluvia",
       "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Antes del Fin del Mundo - 60's en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/25t6ChUwqdLVFgvkgmG1jw"
-      },
-      "artists": [
-        {
-          "name": "Los Sinners",
-          "url": "https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j"
-        }
-      ],
-      "duration_ms": 143506,
-      "name": "La Novia de Mi Mejor Amigo (The Girl of My Best Friend)",
-      "url": "https://open.spotify.com/track/4dXvc8kyze9DQpnV5veD54"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "15 De Los Moonlights",
         "url": "https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 177026,
       "name": "De Rodillas Ante Ti",
       "url": "https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Antes del Fin del Mundo - 60's en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/25t6ChUwqdLVFgvkgmG1jw"
+      },
+      "artists": [
+        {
+          "name": "Los Sinners",
+          "url": "https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j"
+        }
+      ],
+      "duration_ms": 143506,
+      "name": "La Novia de Mi Mejor Amigo (The Girl of My Best Friend)",
+      "url": "https://open.spotify.com/track/4dXvc8kyze9DQpnV5veD54"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -688,13 +688,13 @@
       },
       "artists": [
         {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+          "name": "Los Aragon",
+          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
         }
       ],
-      "duration_ms": 138774,
-      "name": "Brebaje De Amor",
-      "url": "https://open.spotify.com/track/4BGyvgaKgPahrgRNHmBCrM"
+      "duration_ms": 126827,
+      "name": "Hava Naguila",
+      "url": "https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE"
     },
     {
       "added_at": "2024-07-12 13:46:41",
@@ -704,13 +704,13 @@
       },
       "artists": [
         {
-          "name": "Los Aragon",
-          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
         }
       ],
-      "duration_ms": 126827,
-      "name": "Hava Naguila",
-      "url": "https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE"
+      "duration_ms": 138774,
+      "name": "Brebaje De Amor",
+      "url": "https://open.spotify.com/track/4BGyvgaKgPahrgRNHmBCrM"
     },
     {
       "added_at": "2024-07-12 13:46:41",

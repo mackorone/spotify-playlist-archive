@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Delaossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,273 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,347 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 21 | [Mala Hierba](https://open.spotify.com/track/4CfXolw5Jw1E7UGVTk5lPV) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF) | [El Diario del Loco](https://open.spotify.com/album/7syWwlM1w6tBZ98VmLxDq4) | 3:21 |
 | 22 | [Dirhams](https://open.spotify.com/track/4XSznOmC2LEQsqlvEpCGnF) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Richie Rasheed](https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI) | [Dirhams](https://open.spotify.com/album/6e96LqObXcfJ0tQR4s7v6l) | 2:53 |
 | 23 | [Diabla](https://open.spotify.com/track/52QRvnfB3dsZ8lAxA9LBMh) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Diabla](https://open.spotify.com/album/4M3kwhaviuamydOcfq6B8C) | 2:38 |
-| 24 | [UH UH](https://open.spotify.com/track/0PsSxsFFrdURJ5PTssLkLM) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [UH UH](https://open.spotify.com/album/4I0TctEdaXqAm6FqdVsOmI) | 2:43 |
-| 25 | [Shars 2020](https://open.spotify.com/track/036QM4rIhz7A7n66IWA7Ej) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2020](https://open.spotify.com/album/3whSTfSW2CfXbaGDTwDbOQ) | 3:05 |
+| 24 | [Shars 2020](https://open.spotify.com/track/036QM4rIhz7A7n66IWA7Ej) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2020](https://open.spotify.com/album/3whSTfSW2CfXbaGDTwDbOQ) | 3:05 |
+| 25 | [Bala Perdida](https://open.spotify.com/track/41xq0U9fxbqedDVe7tZe3q) | [RADE](https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h), [Ocer y Rade](https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3) | [Bala Perdida](https://open.spotify.com/album/42FdBt8ljQy9FbWnLtTvF3) | 2:00 |
 | 26 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 |
 | 27 | [Hasta Cuando](https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Hasta Cuando](https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt) | 3:19 |
 | 28 | [La Presión](https://open.spotify.com/track/5ypuVIBvxyWja7Pz7bjAPc) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [QUEENS OF GROOVE](https://open.spotify.com/album/3Z9hzZwfZ0qy7S3Fxwlsrj) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [Mamá \- Luz del Norte](https://open.spotify.com/track/45dFDuyqrwcSQxOdHYSuN0) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Mamá \(Luz del Norte\)](https://open.spotify.com/album/2FbA6Ew2ZoDwodCvXobnt0) | 2:41 |
 | 50 | [Blíster](https://open.spotify.com/track/26vcoEHrsEkWSl1EmKxNFY) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [BoriRock](https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL) | [Blíster](https://open.spotify.com/album/3InSSjhvgVBR5RyiFMVEYm) | 3:36 |
 
-Snapshot ID: `Z8DumgAAAAB4nlklQAjMjLzDQC/VF8HM`
+Snapshot ID: `Z8bM4QAAAAAbxYHWoQCKGDRB/AEnGXuG`

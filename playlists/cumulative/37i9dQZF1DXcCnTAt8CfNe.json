@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 112500,
       "name": "breath IV",
       "url": "https://open.spotify.com/track/6rfftKuW0XHYWQhZPrfpAG"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 155458,
       "name": "Gentle Vortex",
       "url": "https://open.spotify.com/track/6wdyLelm2YoQkB0m8bK7vS"
@@ -2415,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "hold still",
+        "url": "https://open.spotify.com/album/3b0IndcDRliBr51GsLjyXz"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127666,
+      "name": "hold still",
+      "url": "https://open.spotify.com/track/4EnFLRuVKjAfEQVGllEEAd"
+    },
+    {
+      "album": {
         "name": "Quietude",
         "url": "https://open.spotify.com/album/3BEKM1H1FgNCGmDRJZICfD"
       },
@@ -2502,6 +2520,24 @@
       "duration_ms": 126669,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3"
+    },
+    {
+      "album": {
+        "name": "Imaginary Thoughts",
+        "url": "https://open.spotify.com/album/1ejNvLR2dETNREQTJApHBh"
+      },
+      "artists": [
+        {
+          "name": "Mandala Dreams",
+          "url": "https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264734,
+      "name": "Imaginary Thoughts",
+      "url": "https://open.spotify.com/track/3JyjxPG1h6bJzrVKqJmtJo"
     },
     {
       "album": {
@@ -3733,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "On Clouds",
+        "url": "https://open.spotify.com/album/58uKZ18DfKy0XrvyxooBpv"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sai",
+          "url": "https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "On Clouds",
+      "url": "https://open.spotify.com/track/0WDST5sSar4P3l31iDm8Y4"
+    },
+    {
+      "album": {
         "name": "Oortenses",
         "url": "https://open.spotify.com/album/4h4llD5xDpv46W4c4LD3vj"
       },
@@ -4068,7 +4122,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 167772,
       "name": "Perfect Lovers",
       "url": "https://open.spotify.com/track/29leBb5AutclXyZ6OSvB3u"
@@ -4418,6 +4472,24 @@
       "duration_ms": 213823,
       "name": "Repose",
       "url": "https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F"
+    },
+    {
+      "album": {
+        "name": "The Breadline / Requiem For Reem",
+        "url": "https://open.spotify.com/album/7y6xKQOJFt9jnm4yfU9SEG"
+      },
+      "artists": [
+        {
+          "name": "The Vernon Spring",
+          "url": "https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171005,
+      "name": "Requiem for Reem",
+      "url": "https://open.spotify.com/track/4YffSCjHWir1igvZR0LRMN"
     },
     {
       "album": {
@@ -6056,7 +6128,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 179387,
       "name": "Transparency",
       "url": "https://open.spotify.com/track/1dzuUe9zsLpy2Ly7Zp2dWD"

@@ -696,7 +696,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 127514,
-      "name": "Everytime You Leave (From \"The Witcher: Season 1\" Soundtrack)",
+      "name": "Everytime You Leave",
       "url": "https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi"
     },
     {
@@ -1681,6 +1681,32 @@
     },
     {
       "album": {
+        "name": "Zelda & Piano III",
+        "url": "https://open.spotify.com/album/0Lb34sASn83xdF4Pf4SA7Y"
+      },
+      "artists": [
+        {
+          "name": "Super Piano 64",
+          "url": "https://open.spotify.com/artist/7M1OtLgGeX29Ivo1llzubY"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        },
+        {
+          "name": "Unplugged",
+          "url": "https://open.spotify.com/artist/3ifS6o130ZA25mztvyRq4M"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Sav'orq, Every-son!",
+      "url": "https://open.spotify.com/track/2jjAlrHNSxeqgC46XYdSDp"
+    },
+    {
+      "album": {
         "name": "The Underground Railroad: Volume 1 (Amazon Original Series Score)",
         "url": "https://open.spotify.com/album/2dCTpR2osQnVMvbCeiKPkC"
       },
@@ -1864,32 +1890,6 @@
       "duration_ms": 215500,
       "name": "Sweden",
       "url": "https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5"
-    },
-    {
-      "album": {
-        "name": "Zelda & Piano III",
-        "url": "https://open.spotify.com/album/0Lb34sASn83xdF4Pf4SA7Y"
-      },
-      "artists": [
-        {
-          "name": "Super Piano 64",
-          "url": "https://open.spotify.com/artist/7M1OtLgGeX29Ivo1llzubY"
-        },
-        {
-          "name": "GameChops",
-          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
-        },
-        {
-          "name": "Unplugged",
-          "url": "https://open.spotify.com/artist/3ifS6o130ZA25mztvyRq4M"
-        }
-      ],
-      "date_added": "2023-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155500,
-      "name": "Tarrey Town",
-      "url": "https://open.spotify.com/track/2jjAlrHNSxeqgC46XYdSDp"
     },
     {
       "album": {

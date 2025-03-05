@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-181 songs - 12 hr 29 min
+182 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Remind You](https://open.spotify.com/track/65wILiMv7t8DN4wweVQT0C) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2](https://open.spotify.com/album/6CHzOvncncZpIt3htstibX) | 4:56 | 2022-06-21 | 2024-04-19 |
 | [REMIND YOU](https://open.spotify.com/track/28lfGtjQI5KYTRXxxzsu2t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [機動戦士ガンダムUC オリジナルサウンドトラック 2](https://open.spotify.com/album/7gd542CJnlwAYiTJvpvynh) | 4:56 | 2022-06-07 |  |
 | [Reminiscing](https://open.spotify.com/track/5HaYkKZ0bsisESMVZpljWw) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NAQT](https://open.spotify.com/album/05spQrl3ztKENm71NLLpyO) | 2:51 | 2023-03-21 |  |
+| [REVIVƎЯ](https://open.spotify.com/track/67x1DxMJvnHdHzOQ9E3AS7) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [REVIVƎЯ](https://open.spotify.com/album/3WVpSguducGqscoPiHsvYO) | 3:11 | 2025-03-04 |  |
 | [Roads to Ride <LCv>](https://open.spotify.com/track/5oHSA48gcFs3z8C1lQkVyg) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [OUTSIDERS](https://open.spotify.com/album/74YSQrwO2zF3pvzPvpGonN) | 2:36 | 2022-06-07 |  |
 | [s\-AVE](https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [o1](https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL) | 4:34 | 2022-06-21 | 2024-04-19 |
 | [s\-AVE](https://open.spotify.com/track/2EMhwWtzu0EyGBP3j1harP) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [BEST SELECTION "noir"](https://open.spotify.com/album/3HORDo7fTgMBQoI9sjuEM8) | 4:36 | 2022-09-29 | 2022-11-13 |

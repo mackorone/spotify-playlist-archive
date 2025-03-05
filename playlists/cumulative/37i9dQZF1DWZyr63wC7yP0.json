@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 164126,
       "name": "Esopus Creek",
       "url": "https://open.spotify.com/track/6TDm4Y1ly5F4IfMuhLWSi7"
@@ -2470,6 +2470,24 @@
       "duration_ms": 156808,
       "name": "Winter River",
       "url": "https://open.spotify.com/track/5FXaMOQhFTRqTq2srk6EU0"
+    },
+    {
+      "album": {
+        "name": "Woodland River",
+        "url": "https://open.spotify.com/album/5a8VPfEKAN6FjJ2oe9jebd"
+      },
+      "artists": [
+        {
+          "name": "Hinterl\u00e4nder",
+          "url": "https://open.spotify.com/artist/4n29LOwEQBolOUnDtvowXJ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Woodland River",
+      "url": "https://open.spotify.com/track/5UxQ6lXamMGcGvc4pQml0a"
     },
     {
       "album": {

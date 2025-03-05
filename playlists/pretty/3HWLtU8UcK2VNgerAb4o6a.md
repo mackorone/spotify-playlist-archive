@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain]
 
 > 
 
-[x0icl](https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4) - 0 like - 218 songs - 9 hr 7 min
+[x0icl](https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4) - 0 likes - 218 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

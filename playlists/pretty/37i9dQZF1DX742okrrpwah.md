@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Benson Boone au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,677 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,720 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 27 | [BRAV\-M](https://open.spotify.com/track/4BOZxLXGwh5Jbzxew6Phzx) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [P1](https://open.spotify.com/album/7MUENWA3BBZV7djgJDNbpv) | 3:32 |
 | 28 | [On dort](https://open.spotify.com/track/3kooOutN1DnjDmDoVBos2Y) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [On dort](https://open.spotify.com/album/0OUEWqcp3XPSf3IFxpzwPi) | 2:38 |
 | 29 | [Radio \(feat\. Trippie Redd, Jessica Baio & KABU\)](https://open.spotify.com/track/5H38vBUsQxZcigRGIDeyv5) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95), [KABU](https://open.spotify.com/artist/5PhcQriyzq4mSbzA1nPhFA) | [Radio \(feat\. Trippie Redd, Jessica Baio & KABU\)](https://open.spotify.com/album/7lG78BindCd8ADTzT3sADg) | 2:29 |
-| 30 | [Tu Nous Mérites Pas](https://open.spotify.com/track/4YGJNaRXpJle9NdevxGDP6) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH), [Seth Gueko](https://open.spotify.com/artist/5SZayIKDZvxXaJrxLfnIRN) | [Tu Nous Mérites Pas](https://open.spotify.com/album/16gxr4S4movNywMdftkTsS) | 3:28 |
+| 30 | [Tu nous mérites pas feat Seth Gueko](https://open.spotify.com/track/4YGJNaRXpJle9NdevxGDP6) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH), [Seth Gueko](https://open.spotify.com/artist/5SZayIKDZvxXaJrxLfnIRN) | [Tu nous mérites pas feat Seth Gueko](https://open.spotify.com/album/16gxr4S4movNywMdftkTsS) | 3:28 |
 | 31 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 |
 | 32 | [Call Again](https://open.spotify.com/track/31Kunh3BOAccQ5EHXkJkz5) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Both Worlds](https://open.spotify.com/album/141gy9ZTgo1fPLfCBdXKYq) | 3:10 |
 | 33 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 |

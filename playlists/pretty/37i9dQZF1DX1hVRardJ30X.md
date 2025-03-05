@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Dei V, Myke Towers, Tito Double P, RaiNao and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,933 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,947 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [LADIOSA](https://open.spotify.com/track/1vVODrP3pOYHmJ3wiG6E2i) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [LADIOSA](https://open.spotify.com/album/7bs9A7hnR4rgi4MeztXYPS) | 3:17 |
 | 56 | [Sirena](https://open.spotify.com/track/2aP0SLnuLCnBJFOkdPFPkL) | [Fiamma](https://open.spotify.com/artist/4wOu4vVTBMgHkts7CQJhZb), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [Sirena](https://open.spotify.com/album/0ySBJT3MDM9WTDTOCxpmTF) | 3:09 |
 
-Snapshot ID: `Z8IG9AAAAABAJb/xIBdotfSh8K3QXAtt`
+Snapshot ID: `Z8IG9AAAAACaFyq0uJ27cOS73NqidMpz`

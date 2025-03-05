@@ -1,6 +1,6 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 34507,
+  "num_followers": 34519,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zz9pJQAAAAA35gZ3UtCuCD/q3TWes1Sc",
   "tracks": [
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
-        "name": "My Story 2006 \u65b0\u6b4c+\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/0CJT0kDrNaiSkzFp7DI98g"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "\u96e8\u5929",
-      "url": "https://open.spotify.com/track/5tZbcQ5PYID0xB0VNblmrK"
-    },
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 281200,
       "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
       "url": "https://open.spotify.com/track/6kabSi7XCHHGThNme6J2tL"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "My Story 2006 \u65b0\u6b4c+\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/0CJT0kDrNaiSkzFp7DI98g"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "\u96e8\u5929",
+      "url": "https://open.spotify.com/track/5tZbcQ5PYID0xB0VNblmrK"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u6642\u9593\u7684\u6b4c",
-        "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 289524,
-      "name": "\u96e8\u6c34\u4e00\u76d2",
-      "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u4e0b\u96e8\u7684\u665a\u4e0a",
         "url": "https://open.spotify.com/album/4zHBCvRy2ZJRmT25RCXAeS"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 294729,
       "name": "\u4e0b\u96e8\u7684\u665a\u4e0a",
       "url": "https://open.spotify.com/track/65o7zOY79D5vqOJJNm1l3T"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u6642\u9593\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 289524,
+      "name": "\u96e8\u6c34\u4e00\u76d2",
+      "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u5927\u96e8\u904e\u5f8c",
-        "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
-      },
-      "artists": [
-        {
-          "name": "\u8c9d\u514b\u5c0f\u59d0Miss Bac.",
-          "url": "https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK"
-        }
-      ],
-      "duration_ms": 247164,
-      "name": "\u5927\u96e8\u904e\u5f8c",
-      "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u773c\u6dda\u535a\u7269\u9928",
         "url": "https://open.spotify.com/album/7zYdHfR3NHfp43ULyFHQGK"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u7fca\u5f80\u60c5\u6df1",
-        "url": "https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ"
+        "name": "\u5927\u96e8\u904e\u5f8c",
+        "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
       },
       "artists": [
         {
-          "name": "E-Jun Lee",
-          "url": "https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI"
+          "name": "\u8c9d\u514b\u5c0f\u59d0Miss Bac.",
+          "url": "https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK"
         }
       ],
-      "duration_ms": 249293,
-      "name": "\u51b0\u96e8",
-      "url": "https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli"
+      "duration_ms": 247164,
+      "name": "\u5927\u96e8\u904e\u5f8c",
+      "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -799,6 +783,22 @@
       "duration_ms": 228088,
       "name": "SINGING IN THE RAIN",
       "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u7fca\u5f80\u60c5\u6df1",
+        "url": "https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ"
+      },
+      "artists": [
+        {
+          "name": "E-Jun Lee",
+          "url": "https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "\u51b0\u96e8",
+      "url": "https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM"
-      },
-      "artists": [
-        {
-          "name": "\u6642\u5149\u8857\u6a02\u968a",
-          "url": "https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D"
-        }
-      ],
-      "duration_ms": 264834,
-      "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u5348\u591c\u5169\u9ede\u534a\u7684\u6211",
         "url": "https://open.spotify.com/album/3HkkCV2VJbRXJ2mTiUPHqM"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 273800,
       "name": "\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/1Yc1BqPYFaUP8Ktm89lqKr"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM"
+      },
+      "artists": [
+        {
+          "name": "\u6642\u5149\u8857\u6a02\u968a",
+          "url": "https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D"
+        }
+      ],
+      "duration_ms": 264834,
+      "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk"
     },
     {
       "added_at": "2024-11-21 17:08:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43nYeA0PJvSQD6S1RZUMoT.md) - [plain]
 
 > 
 
-[Zufällig Keit](https://open.spotify.com/user/31h47yw2fozp37ida6njvrd6u4bi) - 0 like - 100 songs - 6 hr 28 min
+[Zufällig Keit](https://open.spotify.com/user/31h47yw2fozp37ida6njvrd6u4bi) - 0 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

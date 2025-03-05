@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Gerardo Coronel en portada.
 
-454 songs - 1 day 0 hr 4 min
+455 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Por Celular](https://open.spotify.com/track/2aUze0B9SaZre9gXBoxEcR) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Por Celular](https://open.spotify.com/album/4EUYvwqAr6CZRF8HMGX6i8) | 3:16 | 2023-06-09 | 2023-06-26 |
 | [Por Culpa De Tu Amor](https://open.spotify.com/track/3YSgBGYK61LCNvrtfmFEMQ) | [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP), [Banda Los Plebes De Sinaloa](https://open.spotify.com/artist/7IqZR0FebL4lfPenucU5y9) | [Por Culpa De Tu Amor](https://open.spotify.com/album/09kRmSAsc8KeRkvM7QmFFH) | 2:35 | 2022-08-26 | 2022-09-24 |
 | [Por Si Me Adelanto \- Banda](https://open.spotify.com/track/58fd41sZyZGnyS0XXwj8AO) | [Indalfer Ochoa](https://open.spotify.com/artist/32eMbHNJ7S17YKRycVbR80) | [De Corazón Cabal](https://open.spotify.com/album/0YmBUlD9ACR65vEp7SoqtY) | 3:24 | 2022-04-15 | 2022-07-24 |
-| [Por Si Me Les Adelanto](https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Por Si Me Les Adelanto](https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p) | 2:37 | 2023-12-15 |  |
+| [Por Si Me Les Adelanto](https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Por Si Me Les Adelanto](https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p) | 2:37 | 2023-12-15 | 2025-03-05 |
 | [Por una Mujer Casada](https://open.spotify.com/track/0Pzp1jw4YqVXGdiN6KHccC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Con Banda](https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0) | 2:08 | 2024-11-29 |  |
 | [PORQUE SOY ABEJA REINA](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 | 2023-01-20 |  |
 | [Positivo \- Versión Banda](https://open.spotify.com/track/7xBaj7vkjg8MveG4qMlUNh) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Positivo \(Versión Banda\)](https://open.spotify.com/album/2vnOjqiTU5nvrwey17bjIE) | 3:08 | 2022-07-01 | 2022-10-25 |
@@ -413,6 +413,7 @@
 | [Tu Perfume](https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Perfume](https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM) | 2:54 | 2024-02-16 |  |
 | [Tu Reemplazo](https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Tu Reemplazo](https://open.spotify.com/album/1HFqzGl3rwhmPIhELtK8fE) | 2:23 | 2024-11-15 |  |
 | [Tutorial Para Olvidar](https://open.spotify.com/track/3xnwUTX6029BDnDm3UoFnl) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Tutorial Para Olvidar](https://open.spotify.com/album/39v3Q460WaU1ZHMOMgU6UP) | 3:17 | 2024-04-09 | 2025-03-01 |
+| [Téngale Paciencia](https://open.spotify.com/track/50ioD52nMg9tkXa66xX9Lf) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [25 Aniversario](https://open.spotify.com/album/6oDhTZU2iifDYg6RYTKTKA) | 2:26 | 2025-02-28 |  |
 | [Tú Eres La Razón](https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:11 | 2022-07-01 | 2023-02-18 |
 | [Tú Y Mi Ex](https://open.spotify.com/track/4H3vMhKCS8wn1lJdcwYiBV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Tú Y Mi Ex](https://open.spotify.com/album/4g7nDlkHIw3kZ9TovWje5u) | 2:35 | 2022-07-01 | 2023-02-18 |
 | [Tú Ya Eres Cosa Del Pasado](https://open.spotify.com/track/781lqqMzOTUPNl21JdgaLS) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Sinaloense Hasta Las Cachas](https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf) | 2:54 | 2023-01-16 | 2023-01-21 |

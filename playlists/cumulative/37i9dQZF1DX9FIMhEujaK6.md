@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-208 songs - 15 hr 37 min
+209 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 | 2024-09-12 |  |
 | [Obvs](https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:51 | 2022-07-20 | 2023-08-09 |
 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 | 2021-10-15 | 2023-09-02 |
+| [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 | 2024-09-12 |  |
 | [On My Mind](https://open.spotify.com/track/0Ret48IIcgcQdB54orjZKS) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/7G1JFppuNI2Q0kSe2W2AkB) | 3:26 | 2021-10-15 | 2022-07-29 |
 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 | 2023-10-13 |  |
 | [One Last Time](https://open.spotify.com/track/3Rxehh3XVSFaKtLscJd3SM) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [All Visible Objects](https://open.spotify.com/album/7lYli0df1ql7AZCWNnUJuM) | 5:33 | 2021-10-15 | 2022-07-29 |
@@ -152,7 +153,7 @@
 | [Pithy](https://open.spotify.com/track/6v0QB50cfT7UuBMsrXHcXI) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi) | [Plunge](https://open.spotify.com/album/0WCy3Og33VGPDUh6R7ZpIY) | 4:12 | 2023-11-17 | 2023-12-07 |
 | [Pithy](https://open.spotify.com/track/7uPiExBiGuH8ocfFezmWuM) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi) | [Plunge](https://open.spotify.com/album/2h11IZVnNBKTeFrofHvqeZ) | 4:12 | 2021-10-15 | 2022-07-29 |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 | 2024-06-28 |  |
-| [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-03-27 |  |
+| [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-03-27 | 2025-03-05 |
 | [Rainchecks In Montreal](https://open.spotify.com/track/0KkLtsiQKvJs1Sz7uka72J) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Rainchecks In Montreal](https://open.spotify.com/album/7kk2hdtBBbAuaFxdiCk243) | 6:30 | 2021-10-15 | 2022-07-29 |
 | [Rainchecks In Montreal](https://open.spotify.com/track/4eKwLXECCFNv4A8LzghcbP) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Rainchecks in Montreal](https://open.spotify.com/album/14kYR10NE4OWEt7paPnH6h) | 6:30 | 2023-11-17 | 2023-12-13 |
 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 | 2023-09-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,707 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,716 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 46 | [Yalla Yalla](https://open.spotify.com/track/6IKDI3h0vjvOdwllJtp4lX) | [Miraya Varma](https://open.spotify.com/artist/4FhmGc9lD5PO3ZrPPDGiRV), [Zeus](https://open.spotify.com/artist/46vVY0199R2mAXHkayL5mG) | [Yalla Yalla](https://open.spotify.com/album/2m6iGaVxOvvS1UcdNfNakp) | 3:49 |
 | 47 | [Nasha](https://open.spotify.com/track/3YytmBvKHJ77tLC6N3pxO7) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Nasha](https://open.spotify.com/album/0skLeastcOZ0H6ZUmTfAiY) | 3:33 |
 | 48 | [You're Gold \(feat\. Grini\)](https://open.spotify.com/track/0IyBqp1dLXqn5tQPk7rAXv) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [You're Gold \(feat\. Grini\)](https://open.spotify.com/album/49cjJDVqwheDN16PYjcdiq) | 3:13 |
-| 49 | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/track/5eA1snpFbKfoUICqvYSg63) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/album/0QzBLvMpcBtLnHocP7CNZX) | 5:50 |
-| 50 | [Bhoora Bhoora](https://open.spotify.com/track/5bzK0v8khbUIe0PYLcKL3E) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Emperor TZZZARRR](https://open.spotify.com/artist/1uvWNcWID6KLkbLYDgw6Vv) | [Bhoora Bhoora](https://open.spotify.com/album/54c0hF6EJzvirDvfwXKe3n) | 3:09 |
+| 49 | [Bhoora Bhoora](https://open.spotify.com/track/5bzK0v8khbUIe0PYLcKL3E) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Emperor TZZZARRR](https://open.spotify.com/artist/1uvWNcWID6KLkbLYDgw6Vv) | [Bhoora Bhoora](https://open.spotify.com/album/54c0hF6EJzvirDvfwXKe3n) | 3:09 |
+| 50 | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/track/5eA1snpFbKfoUICqvYSg63) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/album/0QzBLvMpcBtLnHocP7CNZX) | 5:50 |
 
 Snapshot ID: `ZfFamAAAAABly/pbBVCWcZ7pY8eix/SX`

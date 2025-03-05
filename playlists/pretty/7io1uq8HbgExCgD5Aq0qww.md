@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7io1uq8HbgExCgD5Aq0qww.md) - [plain]
 
 > Stories, tales, ballads, etc
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 30 songs - 1 hr 54 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 30 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-473 songs - 20 hr 6 min
+474 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Heather's Croft](https://open.spotify.com/track/1ZDPKU4OiLJoej4IFqOyHP) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Heather's Croft](https://open.spotify.com/album/74RBkn33VQFUsY4SDUqoE0) | 2:57 | 2022-04-04 | 2024-10-08 |
 | [Hedonic \(felt piano arrangement\)](https://open.spotify.com/track/5VVRELmvr0DhwDxeYWvVCf) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Hedonic \(felt piano arrangement\)](https://open.spotify.com/album/21mDWW3R1U36MSVCBXUG5L) | 3:31 | 2022-04-04 | 2022-04-29 |
 | [Help me find a way](https://open.spotify.com/track/6OL7lU0n7HrNvxM22bHoxW) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Help me find a way](https://open.spotify.com/album/28W9ZCs4H4PenLaqNYYq2w) | 3:03 | 2022-04-04 | 2022-04-29 |
+| [Herbariums](https://open.spotify.com/track/4NgQB5HgCTNVV9QZS5u1jR) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Herbariums](https://open.spotify.com/album/2GZSKSrzyA6y3CqKHeF1Qc) | 2:10 | 2025-03-04 |  |
 | [Here](https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Here](https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce) | 2:26 | 2022-04-04 | 2022-05-21 |
 | [Heron](https://open.spotify.com/track/1KHv34fVmVie0NLPeWtEZe) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Heron](https://open.spotify.com/album/0mjx0dLDaUkC5i7Tr5ViUN) | 2:14 | 2024-01-04 |  |
 | [Hideaway](https://open.spotify.com/track/3MKCO2mNSbhTbRu7x5qxev) | [India Atanasie](https://open.spotify.com/artist/6yBWntJNNKBu66b5Jy6sVg) | [Hideaway](https://open.spotify.com/album/00wr0WdNovcbqyteByPHyc) | 2:21 | 2022-04-28 | 2024-03-05 |

@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Love Spells
 
-3,212 songs - 7 day 6 hr 37 min
+3,214 songs - 7 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 | 2022-05-13 | 2022-06-04 |
 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 | 2024-03-14 | 2024-04-27 |
 | [Anthony Kiedis](https://open.spotify.com/track/7479TzoEcfeJGhWQe9FlPO) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Anthony Kiedis / Front Tooth](https://open.spotify.com/album/1CcBo1LdiOEub1TElpzPen) | 2:51 | 2021-09-30 | 2021-12-02 |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-05 |  |
 | [Any Day Now](https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Any Day Now](https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO) | 3:17 | 2024-06-07 | 2024-07-04 |
 | [Any Way You Want Me](https://open.spotify.com/track/0UYuRLB2wbG7X19Hd5DeQ2) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:31 | 2022-11-18 | 2022-12-24 |
 | [Anybody Else](https://open.spotify.com/track/4fItn7RxUvHIJloefw56DS) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Anybody Else](https://open.spotify.com/album/6b2sqlXepZzriu8shzsIjh) | 4:10 | 2022-03-09 | 2022-04-23 |
@@ -2963,6 +2964,7 @@
 | [uninspired](https://open.spotify.com/track/6hPxfqdk3ObCVhePxEYYhF) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [uninspired](https://open.spotify.com/album/7DpcUxOvaiLBErRpfD14iZ) | 3:46 | 2022-04-01 | 2022-04-28 |
 | [unoriginal](https://open.spotify.com/track/3XDU9wngxRWmiCbBuHviPA) | [splendi](https://open.spotify.com/artist/0FRZAnnUgEu4GXtHYysFw3) | [unoriginal](https://open.spotify.com/album/3ZImuYbhtnBbR1HUKnAG5P) | 3:23 | 2022-05-20 | 2022-06-16 |
 | [unspoken words](https://open.spotify.com/track/0XUU1fzICK7484jpGnfGvd) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 4:06 | 2019-09-19 | 2020-02-20 |
+| [Untitled](https://open.spotify.com/track/2ZgyzFYYOz21b2AhPPkWKF) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 3:56 | 2025-03-05 |  |
 | [untitled](https://open.spotify.com/track/4pJcFEzvPTTpxAncONKdrk) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [untitled](https://open.spotify.com/album/1AzTLu2HMYvWizUxKPMKNP) | 2:44 | 2021-04-24 | 2021-07-31 |
 | [Unwind Me!](https://open.spotify.com/track/1Frr2d2SHGlHC4OWa2m3G3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [Unwind Me!](https://open.spotify.com/album/4ztLWCQr42B0NRYGt756mY) | 3:08 | 2019-08-16 | 2019-10-29 |
 | [Up All Night](https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Up All Night](https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2) | 2:37 | 2019-11-16 | 2020-01-28 |

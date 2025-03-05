@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,710 likes - 70 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,784 likes - 70 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 69 | [Better than Life \- Live](https://open.spotify.com/track/4MrCvonLoLGsQZpu69EJaz) | [Vizion Worship](https://open.spotify.com/artist/50U7PStTJa45DXDnGt6Cy0), [Katrina Houston](https://open.spotify.com/artist/10yRCRMqHkgFSSrXEcJqeE) | [Better than Life \(Live\)](https://open.spotify.com/album/4zcsi3YBVPTItEHMOyvguC) | 4:20 |
 | 70 | [You Are Good \(Live\)](https://open.spotify.com/track/0QxBzysFWqcmyIZtJM2B3s) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [You Are Good \(Live\)](https://open.spotify.com/album/0eOUqWmOTdPZ8fxnhedGhP) | 4:34 |
 
-Snapshot ID: `Z7lvZAAAAACVcZCw6uOPpHdB4aOBhh7n`
+Snapshot ID: `Z7lvZAAAAAD7iM8YXwy+JkB89fBVzVBO`

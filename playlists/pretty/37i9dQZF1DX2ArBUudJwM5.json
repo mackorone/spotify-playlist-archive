@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Juana Molina en portada.",
-  "num_followers": 40850,
+  "num_followers": 40848,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
+        "name": "Nuestra Soledad",
+        "url": "https://open.spotify.com/album/0BeoW5lOTbWiopYZaEuuJ6"
+      },
+      "artists": [
+        {
+          "name": "Vera Sienra",
+          "url": "https://open.spotify.com/artist/5HFKY3J2ebRWwSP7uFXoSI"
+        },
+        {
+          "name": "Eduardo Mateo",
+          "url": "https://open.spotify.com/artist/3nL900KIKlV6HBTI4W0pCx"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Aquel",
+      "url": "https://open.spotify.com/track/0hPxGqpAf3NuD4z6kP5iFo"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
         "name": "Im\u00e1n",
         "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
       },
@@ -759,42 +779,18 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "Nuestra Soledad",
-        "url": "https://open.spotify.com/album/0BeoW5lOTbWiopYZaEuuJ6"
+        "name": "Im\u00e1n",
+        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
       },
       "artists": [
         {
-          "name": "Vera Sienra",
-          "url": "https://open.spotify.com/artist/5HFKY3J2ebRWwSP7uFXoSI"
-        },
-        {
-          "name": "Eduardo Mateo",
-          "url": "https://open.spotify.com/artist/3nL900KIKlV6HBTI4W0pCx"
+          "name": "Im\u00e1n",
+          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
         }
       ],
-      "duration_ms": 179853,
-      "name": "Aquel",
-      "url": "https://open.spotify.com/track/0hPxGqpAf3NuD4z6kP5iFo"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/12r1QLcrXhpxVxIAif4z4i"
-      },
-      "artists": [
-        {
-          "name": "Audia Valdez",
-          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
-        },
-        {
-          "name": "Maia M\u00f3naco",
-          "url": "https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus"
-        }
-      ],
-      "duration_ms": 323950,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/1P8TDO3DBAJQL28eBW15c5"
+      "duration_ms": 250709,
+      "name": "Hipnosis",
+      "url": "https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -819,6 +815,22 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
+        "name": "Paralelo",
+        "url": "https://open.spotify.com/album/6e0TDXvlVtxZdZLfyxuyra"
+      },
+      "artists": [
+        {
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+        }
+      ],
+      "duration_ms": 258911,
+      "name": "Paralelo",
+      "url": "https://open.spotify.com/track/27DQTbtsu1PxpfcBDFuA4J"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
         "name": "Este Presente",
         "url": "https://open.spotify.com/album/35hoAaO6YMQ3Th1JtB090W"
       },
@@ -839,38 +851,6 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "Im\u00e1n",
-        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
-      },
-      "artists": [
-        {
-          "name": "Im\u00e1n",
-          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
-        }
-      ],
-      "duration_ms": 250709,
-      "name": "Hipnosis",
-      "url": "https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
-        "name": "Paralelo",
-        "url": "https://open.spotify.com/album/6e0TDXvlVtxZdZLfyxuyra"
-      },
-      "artists": [
-        {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
-        }
-      ],
-      "duration_ms": 258911,
-      "name": "Paralelo",
-      "url": "https://open.spotify.com/track/27DQTbtsu1PxpfcBDFuA4J"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
         "name": "Nueva en el Amor",
         "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 234930,
       "name": "Venus en Latex",
       "url": "https://open.spotify.com/track/1rUe433Mcf7dVG9b3YOuLM"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/12r1QLcrXhpxVxIAif4z4i"
+      },
+      "artists": [
+        {
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
+        },
+        {
+          "name": "Maia M\u00f3naco",
+          "url": "https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus"
+        }
+      ],
+      "duration_ms": 323950,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/1P8TDO3DBAJQL28eBW15c5"
     }
   ],
   "unique_name": "EQUAL Argentina",

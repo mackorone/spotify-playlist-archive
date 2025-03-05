@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-298 songs - 17 hr 0 min
+299 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 |  |
 | [Ge En Sol](https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ge En Sol](https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl) | 2:52 | 2024-08-22 | 2025-02-15 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 |  |
-| [Going Home](https://open.spotify.com/track/1cVhitY0LNYiskEEIwSANH) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Going Home](https://open.spotify.com/album/7vftI6sRQGbJrTstCjbr6t) | 3:43 | 2024-10-17 |  |
+| [Going Home](https://open.spotify.com/track/1cVhitY0LNYiskEEIwSANH) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Going Home](https://open.spotify.com/album/7vftI6sRQGbJrTstCjbr6t) | 3:43 | 2024-10-17 | 2025-03-05 |
 | [Good Day \- 2024 Remaster](https://open.spotify.com/track/3evNXplJ4WDJFtypBEluFF) | [Isaac And The Soul Company](https://open.spotify.com/artist/2xvgiQmoknkwrQmSSOlvld) | [Good Day](https://open.spotify.com/album/0JDAgonYkc6HaZB4RHSCIq) | 2:48 | 2024-06-27 | 2024-08-30 |
 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 | 2025-01-16 |  |
 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 | 2024-10-24 | 2025-02-07 |
@@ -244,6 +244,7 @@
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 |  |
 | [Stjärnorna](https://open.spotify.com/track/3LMOtdKFkGrz3rHycZntPm) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Stjärnorna](https://open.spotify.com/album/4MyRVj71HgtDonhDzJyFq3) | 4:14 | 2024-12-05 | 2025-01-03 |
 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-27 | 2024-08-23 |
+| [Stockholm](https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV) | [Annika Wickihalder](https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of) | [Stockholm](https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH) | 2:52 | 2025-02-27 |  |
 | [Stora torget](https://open.spotify.com/track/64ha9fpcSD3Zc53SjghbMS) | [Musikkollektivet Bobby Mull](https://open.spotify.com/artist/5BQFZ3v6MxoRyWat6N20dP), [Fredrik Blomgren](https://open.spotify.com/artist/0YZXtSAUFK823O1MdIJInf), [Samuel Åberg](https://open.spotify.com/artist/2LkgvnWeteluBx3KcSLsFY), [Tobias Fröberg](https://open.spotify.com/artist/5XYdoXj31UtfUgUa34nfNh), [Per Eklund](https://open.spotify.com/artist/5dzPELE2P3U7272ocbz7m8), [Erik Ronström](https://open.spotify.com/artist/3aZQ6BeUGHcNURtAo6xirv), [Steve Chadwick](https://open.spotify.com/artist/0MIO4TzCd23yWbnZXaAduc), [Claes Philip Staiger](https://open.spotify.com/artist/5okWezQeN4tClfpx5Kcqip), [Patrik Silvereke](https://open.spotify.com/artist/0dBKg4tlnlE2cPXDq2CtZw), [Erik Törner](https://open.spotify.com/artist/4qwPWZ5BAOhPXJ5HxMuGnr), [Ylva Olsson](https://open.spotify.com/artist/0Y5SWnQbtcs3jZeoCSRBBS), [Sara Boström](https://open.spotify.com/artist/4esTTADl84tzF2VKtueWfx), [Gunnar Järeld](https://open.spotify.com/artist/4x609JDBxYJxveCBTIFGlm) | [Stora torget](https://open.spotify.com/album/4LSLOqDBZJv2G8EEOmYgSN) | 4:25 | 2024-08-29 | 2024-09-06 |
 | [Sunny Day](https://open.spotify.com/track/4KZZ4pHjwZqGm0WWq8XrAl) | [Harpo](https://open.spotify.com/artist/6HsEXxUSqMXmIwbYVW6zdt), [Velvet Insane](https://open.spotify.com/artist/1d2wo3IQ7E02uB04ZTGZX3), [Teodor Franklin](https://open.spotify.com/artist/0eSRfiJYQLpXq3tnpO9Mt9) | [Sunny Day](https://open.spotify.com/album/4OZ9AKXuJddrtE8wTl9KtO) | 3:06 | 2024-06-27 | 2024-09-13 |
 | [Swallow My Tears](https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Swallow My Tears](https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8) | 2:54 | 2024-10-24 | 2025-01-24 |

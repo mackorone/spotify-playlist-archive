@@ -1,6 +1,6 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 357664,
+  "num_followers": 357684,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
         "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 272000,
       "name": "Angie - Remastered 2009",
       "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
+        "name": "Last of the Independents",
+        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
-        "name": "Beggars Banquet (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 378146,
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
         "name": "Memories (feat. Kid Cudi) [2021 Remix]",
         "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 162992,
       "name": "Memories (feat. Kid Cudi) - 2021 Remix",
       "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 280026,
-      "name": "1973",
-      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Tu No",
-        "url": "https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        }
-      ],
-      "duration_ms": 215608,
-      "name": "Tu No",
-      "url": "https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Sinceramente",
-        "url": "https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse"
+        "name": "Tu No",
+        "url": "https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED"
       },
       "artists": [
         {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
         }
       ],
-      "duration_ms": 215714,
-      "name": "Sinceramente",
-      "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
+      "duration_ms": 215608,
+      "name": "Tu No",
+      "url": "https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1463,6 +1447,22 @@
       "duration_ms": 217031,
       "name": "UN RAGAZZO UNA RAGAZZA",
       "url": "https://open.spotify.com/track/60NDVF7fFIq13aO9rIN80c"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
+        "name": "Sinceramente",
+        "url": "https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 215714,
+      "name": "Sinceramente",
+      "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Ci pensiamo domani",
-        "url": "https://open.spotify.com/album/0nrHKiZuYxFzgW4rUdTLbP"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 180184,
-      "name": "Ci pensiamo domani",
-      "url": "https://open.spotify.com/track/5qR8me97mDHqvggt1G2eFn"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
         "name": "Sotto una pioggia di parole",
         "url": "https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 211360,
       "name": "Per dimenticare",
       "url": "https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
+        "name": "Ci pensiamo domani",
+        "url": "https://open.spotify.com/album/0nrHKiZuYxFzgW4rUdTLbP"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 180184,
+      "name": "Ci pensiamo domani",
+      "url": "https://open.spotify.com/track/5qR8me97mDHqvggt1G2eFn"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 214926,
-      "name": "Scrivile Scemo",
-      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
         "name": "MI FAI IMPAZZIRE",
         "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 220235,
       "name": "MI FAI IMPAZZIRE",
       "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 214926,
+      "name": "Scrivile Scemo",
+      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "duration_ms": 219806,
+      "name": "Felicit\u00e0 puttana",
+      "url": "https://open.spotify.com/track/695AOnYHYnvHIMaTNKjkA5"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
         "name": "DISCO PARADISE",
         "url": "https://open.spotify.com/album/3DIE5BHMhtSsi38Nhi1z4e"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
-      },
-      "artists": [
-        {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
-        }
-      ],
-      "duration_ms": 219806,
-      "name": "Felicit\u00e0 puttana",
-      "url": "https://open.spotify.com/track/695AOnYHYnvHIMaTNKjkA5"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
         "name": "Tutto Qui",
         "url": "https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN"
       },
@@ -1663,62 +1663,6 @@
       "duration_ms": 211783,
       "name": "Tutto Qui",
       "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
-        "name": "Il giorno in cui ho smesso di pensare",
-        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "5 Gocce (feat. Rkomi)",
-      "url": "https://open.spotify.com/track/3z0GeNGWyVduziP1cQ0mFN"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
-        "name": "Pensare Male (con Elodie)",
-        "url": "https://open.spotify.com/album/4K8RcA1mnKbJqOUwdvY1iQ"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        },
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 209347,
-      "name": "Pensare Male (con Elodie)",
-      "url": "https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
-        "name": "CLICK BOOM!",
-        "url": "https://open.spotify.com/album/6PBnYwtMjAW4XqVRs9Il2l"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 225561,
-      "name": "CLICK BOOM!",
-      "url": "https://open.spotify.com/track/2PO4ThUKzIa4rBLsFkyInU"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1743,18 +1687,74 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
+        "name": "Pensare Male (con Elodie)",
+        "url": "https://open.spotify.com/album/4K8RcA1mnKbJqOUwdvY1iQ"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
         }
       ],
-      "duration_ms": 180757,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
+      "duration_ms": 209347,
+      "name": "Pensare Male (con Elodie)",
+      "url": "https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
+        "name": "Riccione",
+        "url": "https://open.spotify.com/album/3RdwYV4TBwrGqnk5vnzrLC"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "duration_ms": 196860,
+      "name": "Riccione",
+      "url": "https://open.spotify.com/track/6RiprjTTheMrJ2ypJxz3H4"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
+        "name": "Il giorno in cui ho smesso di pensare",
+        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "5 Gocce (feat. Rkomi)",
+      "url": "https://open.spotify.com/track/3z0GeNGWyVduziP1cQ0mFN"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
+        "name": "CLICK BOOM!",
+        "url": "https://open.spotify.com/album/6PBnYwtMjAW4XqVRs9Il2l"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 225561,
+      "name": "CLICK BOOM!",
+      "url": "https://open.spotify.com/track/2PO4ThUKzIa4rBLsFkyInU"
     }
   ],
   "unique_name": "Canta Sotto La Doccia",

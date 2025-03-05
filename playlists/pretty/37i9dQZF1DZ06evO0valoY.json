@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 206009,
+  "num_followers": 206048,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAA+Spbyrk/nO+2IdoAg8cyn",
+  "snapshot_id": "Z8TxAAAAAAAUq1tGLJUOq68JObzKyhgz",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amarte a la Antigua",
-        "url": "https://open.spotify.com/album/6fHcBQcCso57J2UOHCJynd"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 218267,
-      "name": "Amarte a la Antigua",
-      "url": "https://open.spotify.com/track/1SpO1TuC0yVzDnfLcZ85xA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 217182,
       "name": "Me Prendes",
       "url": "https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amarte a la Antigua",
+        "url": "https://open.spotify.com/album/6fHcBQcCso57J2UOHCJynd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 218267,
+      "name": "Amarte a la Antigua",
+      "url": "https://open.spotify.com/track/1SpO1TuC0yVzDnfLcZ85xA"
     },
     {
       "added_at": null,

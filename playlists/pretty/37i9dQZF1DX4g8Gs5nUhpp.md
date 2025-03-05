@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Shiki
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,177 likes - 53 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,196 likes - 53 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 52 | [Love is](https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Love is](https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m) | 4:26 |
 | 53 | [Đi Chùa Cầu Duyên](https://open.spotify.com/track/3Nck7QyAElRokhrXRGuEF1) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Đi Chùa Cầu Duyên](https://open.spotify.com/album/7D7ZjTO0CTsYcXtEfHGH3i) | 3:11 |
 
-Snapshot ID: `Z718NgAAAADzuBjVCr1ZormTXCDU/csA`
+Snapshot ID: `Z718NgAAAADXORYWZeKo1oAKfvxml8Oc`

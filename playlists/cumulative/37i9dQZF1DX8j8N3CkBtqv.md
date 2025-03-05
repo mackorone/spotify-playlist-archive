@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover \- Ronit Vinta
 
-992 songs - 2 day 6 hr 14 min
+993 songs - 2 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,7 @@
 | [Kyu Kya Kahan?](https://open.spotify.com/track/2FqMNQxKDu8uLEUr54c8v6) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF) | [Kyu Kya Kahan?](https://open.spotify.com/album/41uwOruafS3dOjz5IkjZe0) | 2:42 | 2024-12-13 | 2025-01-25 |
 | [Kyun Akela](https://open.spotify.com/track/1HOuZKGtiwI7vucAovemAT) | [Aakaash Kapoor](https://open.spotify.com/artist/5KbnPMn190YkWBHnW4N8jO), [Daivik](https://open.spotify.com/artist/6VwxTlxSiHzD5tY9cQBYRB), [Shivam Sengupta](https://open.spotify.com/artist/3p9iqVv8YUPK53CfSdS9uq) | [Kyun Akela](https://open.spotify.com/album/3zWRvnHsUY3sdmedPhGD7M) | 2:59 | 2024-02-09 | 2024-03-23 |
 | [Kyun Duur](https://open.spotify.com/track/4DzDq3SyvyMfMaoeI8tZky) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4), [Samaksh](https://open.spotify.com/artist/4sg10DL1H0NZPt5GQSE1UQ) | [Kyun Duur](https://open.spotify.com/album/1ZBZWVDNfgIP0P2EPHv997) | 3:00 | 2024-02-02 | 2024-03-02 |
-| [Kyun Hai](https://open.spotify.com/track/11GE7ph1JKrcigZSsumY7R) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Syed Amir Hussain](https://open.spotify.com/artist/3Ta9hKgobHQ29R0EwDhwou), [Shibangs Chakraborty](https://open.spotify.com/artist/4CIG9jEEuBuUKQJAMrIDiH) | [Kyun Hai](https://open.spotify.com/album/04NSRqMPecVKkqE5am7Uq1) | 3:02 | 2025-01-24 |  |
+| [Kyun Hai](https://open.spotify.com/track/11GE7ph1JKrcigZSsumY7R) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Syed Amir Hussain](https://open.spotify.com/artist/3Ta9hKgobHQ29R0EwDhwou), [Shibangs Chakraborty](https://open.spotify.com/artist/4CIG9jEEuBuUKQJAMrIDiH) | [Kyun Hai](https://open.spotify.com/album/04NSRqMPecVKkqE5am7Uq1) | 3:02 | 2025-01-24 | 2025-03-05 |
 | [Kyun Judaai](https://open.spotify.com/track/3vMJUYdpZTSbHADB3kn0lU) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek) | [Kyun Judaai](https://open.spotify.com/album/2LcKuniOp6Jcs0IfpbglHJ) | 4:42 | 2024-02-02 | 2024-03-02 |
 | [Kyun Mujhse](https://open.spotify.com/track/3FvlW2jocUaRyHDE4sOjVX) | [Vivek Mishraa](https://open.spotify.com/artist/6XBUeRr6GThrECBLie68Cu) | [Kyun Mujhse](https://open.spotify.com/album/0BMcbADwE3voXregSD2F6r) | 4:12 | 2024-07-26 | 2024-08-31 |
 | [Kyun Ruthi Ho](https://open.spotify.com/track/23x1eViO9lEWP6uyk88mJv) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Kyun Ruthi Ho](https://open.spotify.com/album/1xIorZwe7jA7FZcz5gefuB) | 3:18 | 2023-05-19 | 2023-06-30 |
@@ -788,6 +788,7 @@
 | [Sang Baarishon Ke](https://open.spotify.com/track/40EKNsUKSIdbXWodemplk6) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Sang Baarishon Ke](https://open.spotify.com/album/1sCNpq0xg4Z1CYoWTsLLj2) | 3:38 | 2023-07-28 | 2023-08-25 |
 | [Sang Tere](https://open.spotify.com/track/5NsEfpHGCMmBS4sANtp5qo) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Rupin Suchak](https://open.spotify.com/artist/1VKnLalQQJZajLYjTyyYnl) | [Sang Tere](https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me) | 2:55 | 2023-12-01 | 2024-02-03 |
 | [Sapno Ki Nagri](https://open.spotify.com/track/3EVc6oZcFFFSr0hnuatPRk) | [Nihaarika](https://open.spotify.com/artist/0Bz8tfHA4pjg4FKYk4ARmR), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Haseena](https://open.spotify.com/album/0WCqZTtq0hYwfswGTyNoKq) | 2:21 | 2024-12-13 | 2025-01-11 |
+| [Sarphire](https://open.spotify.com/track/4UctbmDO5D8ODVgyM0HGqo) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Akshay Jadhav](https://open.spotify.com/artist/1qvovvgGVEdrhHTLJYsizG) | [Sarphire](https://open.spotify.com/album/0Vnq5ucPyx6YsDi4s8aCkH) | 3:43 | 2025-02-28 |  |
 | [Sata Na](https://open.spotify.com/track/2KdBrnlDBYFMvQHbZUk16P) | [Raika Sethi](https://open.spotify.com/artist/5HfvorkTs3620Rj3vHgYzm), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Sata na](https://open.spotify.com/album/07zyOybUxsyUeRApHXHPyl) | 2:49 | 2024-12-13 | 2025-01-25 |
 | [Sau Chaand](https://open.spotify.com/track/4Vrm4pyGrY29h9kirmq3IX) | [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Sau Chaand](https://open.spotify.com/album/4B15LrjqGVWsEqTCfheblM) | 2:02 | 2024-07-12 | 2024-08-17 |
 | [sau dafa](https://open.spotify.com/track/1zj70llHSvmKn72FU4iAQI) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [sau dafa](https://open.spotify.com/album/62UjvbblUsIpURi3JHSAkt) | 1:54 | 2024-04-05 | 2024-05-18 |

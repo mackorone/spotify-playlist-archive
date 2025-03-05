@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Serene, lowkey indie for hanging out and relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,447,102 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,447,096 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [Free Again](https://open.spotify.com/track/5waEuhjLJ2B5gZwYNOb8lj) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Free Again](https://open.spotify.com/album/2d1y23eHvch2vbp0Em8k5l) | 2:39 |
 | 150 | [27](https://open.spotify.com/track/1GXKnG7uoUr4RacaxE3e8m) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [27 / Hologram](https://open.spotify.com/album/4jsoh2EPJ5Jyo1xJSzepCu) | 3:12 |
 
-Snapshot ID: `Z6+VMAAAAACvtAOVwhgr/1gD8dBkMwC6`
+Snapshot ID: `Z6+VMAAAAADPgw1521qVSEb50uICXNRZ`

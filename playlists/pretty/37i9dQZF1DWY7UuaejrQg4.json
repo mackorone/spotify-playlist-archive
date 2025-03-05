@@ -1,6 +1,6 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 87226,
+  "num_followers": 87246,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Tranquility Base Hotel & Casino",
-        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 312346,
-      "name": "Four Out Of Five",
-      "url": "https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 230625,
       "name": "Skin",
       "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 312346,
+      "name": "Four Out Of Five",
+      "url": "https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd"
+        "name": "Chiquito",
+        "url": "https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy"
       },
       "artists": [
         {
           "name": "Cuco",
           "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 234055,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG"
+      "duration_ms": 207692,
+      "name": "Dontmakemefallinlove",
+      "url": "https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1607,18 +1603,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "nightmares",
-        "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/01GO03odsNlNLtvNETukWT"
       },
       "artists": [
         {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 207003,
-      "name": "nightmares",
-      "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1655,18 +1651,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+        "name": "nightmares",
+        "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
       },
       "artists": [
         {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Cheetah Tongue",
-      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
+      "duration_ms": 207003,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
     }
   ],
   "unique_name": "Best of Indie 2018",

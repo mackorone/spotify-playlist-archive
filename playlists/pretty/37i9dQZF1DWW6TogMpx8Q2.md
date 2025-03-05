@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Catch the week's hottest Cantopop songs by Hins Cheung, Serrini and more\. Cover: <a href="spotify:artist:6B9YF4eOv99klogeZUzkYM">Mirror</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,956 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,964 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 49 | [MM7](https://open.spotify.com/track/71zkB0xQxcF1Uq8F1ZoCqC) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [MM7](https://open.spotify.com/album/2BFswwZQrotFdPT0Rf3cwk) | 4:00 |
 | 50 | [I Know \(feat\. AGA\)](https://open.spotify.com/track/35bTq9CeIvJQTKrPuSoDv8) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D), [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [I Know \(feat\. AGA\)](https://open.spotify.com/album/1LaIUEunRC8X3f5dxnHDtm) | 3:39 |
 
-Snapshot ID: `ZrtHzwAAAADKubZ2TLhFIrCpGmEmoDfm`
+Snapshot ID: `ZrtHzwAAAACWN5zV8r3bBaAuDxm5C8dQ`

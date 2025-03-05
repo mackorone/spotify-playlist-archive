@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop!<br/>Cover: Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,811 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,902 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 21 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 |
 | 22 | [Many](https://open.spotify.com/track/7h91UP2SFrGnKRzHwxT9qs) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [I "M" Possible](https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43) | 2:10 |
 | 23 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 |
-| 24 | [Puff Puff Pass](https://open.spotify.com/track/6AOTmtEz1ktmOB4ggmCprD) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [GAVY DHALIWAL](https://open.spotify.com/artist/1nkOVcfWCFbRQfZdzkOnGb), [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG), [Swapan Sekhon](https://open.spotify.com/artist/2HZgOqMzG7sVC6VYqUzaQv), [GUR CHAHAL](https://open.spotify.com/artist/5Z67IfNyTj3ChPO6hSJM0n) | [Puff Puff Pass](https://open.spotify.com/album/538pcEW6VPHWzO3Jdb0O3B) | 4:51 |
+| 24 | [Puff Puff Pass](https://open.spotify.com/track/6AOTmtEz1ktmOB4ggmCprD) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Gavy Dhaliwal](https://open.spotify.com/artist/0Fz8lO3JBWoZRprqgNos8e), [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG), [Swapan Sekhon](https://open.spotify.com/artist/2HZgOqMzG7sVC6VYqUzaQv), [GUR CHAHAL](https://open.spotify.com/artist/5Z67IfNyTj3ChPO6hSJM0n) | [Puff Puff Pass](https://open.spotify.com/album/538pcEW6VPHWzO3Jdb0O3B) | 4:51 |
 | 25 | [ASTARR](https://open.spotify.com/track/1jFtGMCWES8Z9UfivWVhuy) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [4 Da Gang](https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH) | 3:15 |
 | 26 | [Brats](https://open.spotify.com/track/4vMnHQn0BjpBkHgzaJtqdQ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:41 |
 | 27 | [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Audiocrakerr](https://open.spotify.com/artist/3Kn4UNlxi4o94HvY5Z3wsN) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 |

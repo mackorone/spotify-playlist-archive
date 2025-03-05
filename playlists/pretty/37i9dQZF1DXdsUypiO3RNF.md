@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,207 likes - 67 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,302 likes - 67 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 | 66 | [639 Hz \- Atmosphere](https://open.spotify.com/track/723bywM25p8BBGWwP9VWtH) | [Aegean Noise](https://open.spotify.com/artist/0lGHTzI7DtmSGJq85VGjuH) | [Atmosphere](https://open.spotify.com/album/1L0LIBh6QlyyHGmN6mwQVh) | 3:06 |
 | 67 | [639 Hz Tolerance and Love](https://open.spotify.com/track/0feSxi0NaNlAYOGiC1RW2I) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Tolerance](https://open.spotify.com/album/1Bxqf6Q41Gte8MJGXBgJqr) | 2:45 |
 
-Snapshot ID: `Z6NsLAAAAABQGEQWD/Mi0HwaAj0fN/OV`
+Snapshot ID: `Z6NsLAAAAABj6fGGPy7SnP9naIsZM6ZJ`

@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. Delaossa
 
-515 songs - 1 day 3 hr 9 min
+516 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Aunque Duela Remix](https://open.spotify.com/track/1u9I516BLaOBwoVwQU4Nbv) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb) | [Aunque Duela Remix](https://open.spotify.com/album/4I4bjMof9exE6SxOCEG3Oa) | 5:10 | 2025-02-18 |  |
 | [Aunque Pase To' La Vida](https://open.spotify.com/track/0n0a0ALVvxxIhesaFOo5gN) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW), [Franckvit](https://open.spotify.com/artist/4gBRCPrNVKcPmsLTjIMqDG) | [Aunque Pase To' La Vida](https://open.spotify.com/album/3QKW8Cm3YM3ThtHOTdpdZh) | 1:49 | 2025-01-17 | 2025-02-15 |
 | [Automatic](https://open.spotify.com/track/2Jz63wz739N2diSsmDpxdR) | [Delarue](https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68) | [Automatic](https://open.spotify.com/album/4LQIEZtDHcDo9pAqD7XFfk) | 3:18 | 2024-05-09 | 2024-05-24 |
+| [Bala Perdida](https://open.spotify.com/track/41xq0U9fxbqedDVe7tZe3q) | [RADE](https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h), [Ocer y Rade](https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3) | [Bala Perdida](https://open.spotify.com/album/42FdBt8ljQy9FbWnLtTvF3) | 2:00 | 2025-03-04 |  |
 | [BANANA SPLIT](https://open.spotify.com/track/5nIyhEmcGWZwGijOtc4bGB) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [BANANA SPLIT](https://open.spotify.com/album/6FT4j1bydCQVRepk5JqdeO) | 4:30 | 2024-02-22 | 2024-03-15 |
 | [Baobab](https://open.spotify.com/track/7uQ8381vIabHK4IYfwsvtT) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ), [Escoberito](https://open.spotify.com/artist/6cfEIfKLSFGoNzJ5DdNsKZ) | [Cardioempatía](https://open.spotify.com/album/6lYfsP9XS3c7ayYg4Xg3fs) | 3:32 | 2022-03-16 | 2022-04-22 |
 | [Barco de Papel](https://open.spotify.com/track/041HMUFTmzYC0c7pAilzKD) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [Barco De Papel](https://open.spotify.com/album/2iWZRVrT2O86xzuYNdHCOQ) | 3:03 | 2022-04-21 | 2022-06-22 |
@@ -490,7 +491,7 @@
 | [tú que ves en mí](https://open.spotify.com/track/2hQCmkGm8EW6U09e0O3p4q) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [tú que ves en mí](https://open.spotify.com/album/4fNicfMtWvawINqyNCFIy9) | 2:45 | 2022-12-05 | 2023-03-01 |
 | [U Know I Love The Slime](https://open.spotify.com/track/41aBxZwiLW8qWHRkkqPR56) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm) | [EUROSLiME ⚕️](https://open.spotify.com/album/4Hgfh0CONuC4jI4ZYkNNqt) | 2:36 | 2025-02-06 | 2025-02-19 |
 | [Uh Baby](https://open.spotify.com/track/5M6h4yxSOXEswiUEUSCVqd) | [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Uh Baby](https://open.spotify.com/album/1Z7AEeBduo3sGklQoX6eOd) | 3:28 | 2024-09-12 | 2024-10-04 |
-| [UH UH](https://open.spotify.com/track/0PsSxsFFrdURJ5PTssLkLM) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [UH UH](https://open.spotify.com/album/4I0TctEdaXqAm6FqdVsOmI) | 2:43 | 2025-02-27 |  |
+| [UH UH](https://open.spotify.com/track/0PsSxsFFrdURJ5PTssLkLM) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [UH UH](https://open.spotify.com/album/4I0TctEdaXqAm6FqdVsOmI) | 2:43 | 2025-02-27 | 2025-03-05 |
 | [UN BESO A LOS ANILLOS](https://open.spotify.com/track/31ueh1AXGU25LTgXGs6YgL) | [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [UN BESO A LOS ANILLOS](https://open.spotify.com/album/2Y2KCCFi4a6OUY9tskEuEW) | 2:50 | 2024-05-30 | 2024-06-28 |
 | [Una Vida Entera](https://open.spotify.com/track/37CDuz7vj93neaVGTYLXAl) | [Luani](https://open.spotify.com/artist/5y7twJ6XIWnxkh9sArNf5M), [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [Una Vida Entera](https://open.spotify.com/album/6sOKtT4alwPbICQeyNmCjX) | 2:21 | 2024-04-25 | 2024-05-17 |
 | [Vacas y Lobos](https://open.spotify.com/track/5wJBwxnoAs1BmxZivpFqup) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Juan Arance](https://open.spotify.com/artist/7zVa1nAsArJxi8DCQa3NAB) | [Vacas y Lobos](https://open.spotify.com/album/4Nxn6GYBsoZ4cCe3UvWUj8) | 3:18 | 2025-01-17 | 2025-02-07 |

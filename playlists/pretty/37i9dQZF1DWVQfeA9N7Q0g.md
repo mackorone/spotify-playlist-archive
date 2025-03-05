@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 
 > Olly ha vinto il festival di Sanremo! 💐
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,778 likes - 33 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,306 likes - 33 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 | 5 | [fuorilegge](https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [fuorilegge](https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu) | 3:41 |
 | 6 | [Incoscienti Giovani](https://open.spotify.com/track/25VdEndwyUDs0DbpfCMfKD) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Incoscienti Giovani](https://open.spotify.com/album/1Qp7zFISJ3UoIZ86inShdW) | 3:24 |
 | 7 | [il ritmo delle cose.](https://open.spotify.com/track/2BptnzpcLO9NAdNdKh2rZy) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [il ritmo delle cose.](https://open.spotify.com/album/14o2gMXu5mcQehz5n3YnfU) | 3:12 |
-| 8 | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw) | 2:50 |
+| 8 | [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 |
 | 9 | [Dimenticarsi alle 7](https://open.spotify.com/track/3W1xZMEfi44Wxts9HMBJJS) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Dimenticarsi alle 7](https://open.spotify.com/album/0sj9yOnTm1M0fHr18zdNN8) | 3:34 |
-| 10 | [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 |
-| 11 | [L'albero delle noci](https://open.spotify.com/track/4aHMoqPDJA6Rpa0MjyV1hT) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [L'albero delle noci](https://open.spotify.com/album/6CV9FxiVhhDnkazHLRXQMv) | 3:56 |
-| 12 | [TU CON CHI FAI L'AMORE](https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [TU CON CHI FAI L'AMORE](https://open.spotify.com/album/43QUbp2adTA2x2nnLnYnx8) | 3:27 |
-| 13 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 |
-| 14 | [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 |
+| 10 | [TU CON CHI FAI L'AMORE](https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [TU CON CHI FAI L'AMORE](https://open.spotify.com/album/43QUbp2adTA2x2nnLnYnx8) | 3:27 |
+| 11 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 |
+| 12 | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw) | 2:50 |
+| 13 | [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 |
+| 14 | [L'albero delle noci](https://open.spotify.com/track/4aHMoqPDJA6Rpa0MjyV1hT) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [L'albero delle noci](https://open.spotify.com/album/6CV9FxiVhhDnkazHLRXQMv) | 3:56 |
 | 15 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
-| 16 | [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 |
-| 17 | [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 |
-| 18 | [Se t'innamori muori](https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Se t'innamori muori](https://open.spotify.com/album/0dmBgbxifl9HI6bTHoFwx8) | 3:10 |
+| 16 | [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 |
+| 17 | [Se t'innamori muori](https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Se t'innamori muori](https://open.spotify.com/album/0dmBgbxifl9HI6bTHoFwx8) | 3:10 |
+| 18 | [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 |
 | 19 | [FEBBRE](https://open.spotify.com/track/2no1HLYjXuCpr4Gf4XVhXg) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [FEBBRE](https://open.spotify.com/album/5RetRrT1ek0vcw7ppAEVAN) | 3:12 |
 | 20 | [Grazie ma no grazie](https://open.spotify.com/track/4Ac0hRIX2ygtdag4E9mXh0) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Grazie ma no grazie](https://open.spotify.com/album/0qXDA1aseu36UbzuadyYnx) | 3:25 |
 | 21 | [DAMME 'NA MANO](https://open.spotify.com/track/54dKn6kdf2fFpSYwgCcQOV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DAMME 'NA MANO](https://open.spotify.com/album/0Ibc5Vj9Her5t4YIl9uYM7) | 2:58 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 | 32 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 |
 | 33 | [Goodbye \(voglio good vibes\)](https://open.spotify.com/track/408NzSks0G1KXAcQMr2VvF) | [Maria Tomba](https://open.spotify.com/artist/37zHkEzE18MxYD5Mg1Hc69) | [Goodbye \(voglio good vibes\)](https://open.spotify.com/album/7iUzTmCb5Q9j4XkQ00Rp7r) | 2:22 |
 
-Snapshot ID: `Z8VwsQAAAAAw/iD6c586EmNPIbTKFfMB`
+Snapshot ID: `Z8cUuwAAAABxxENlGspPJdz3q6OlOdjO`

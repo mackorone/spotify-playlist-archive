@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 18221,
+  "num_followers": 18227,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAACeLWutd72s+eXHki42hMT3",
+  "snapshot_id": "Z8TxAAAAAAA79cvZnsUojplIPjSnWl5/",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Virtual",
-      "url": "https://open.spotify.com/track/1DM5zFVuY9d1mDK042UqOo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u00e1tigo de fuego",
         "url": "https://open.spotify.com/album/43zuensuw729kZhtB1emiI"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 236586,
       "name": "Fui feliz",
       "url": "https://open.spotify.com/track/4eg5oafPZjlFK6xYF6qs3Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Virtual",
+      "url": "https://open.spotify.com/track/1DM5zFVuY9d1mDK042UqOo"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Bueno De Morir De Amor",
-        "url": "https://open.spotify.com/album/5fhVKI6cdwPMic00HDME23"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Lo Bueno De Morir De Amor",
-      "url": "https://open.spotify.com/track/6JOCmBTgT16HhWTMQheAPF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 213946,
       "name": "Brigida",
       "url": "https://open.spotify.com/track/3xlHWb5TsdrN0BTb0h2aM5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Bueno De Morir De Amor",
+        "url": "https://open.spotify.com/album/5fhVKI6cdwPMic00HDME23"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Lo Bueno De Morir De Amor",
+      "url": "https://open.spotify.com/track/6JOCmBTgT16HhWTMQheAPF"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inti-Illimani, Tributo A Su M\u00fasica - A La Salud de la M\u00fasica Chilena",
-        "url": "https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "El Aparecido",
-      "url": "https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 295106,
       "name": "Miel",
       "url": "https://open.spotify.com/track/2IbiZBpJuvY8pMzKhDtWLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inti-Illimani, Tributo A Su M\u00fasica - A La Salud de la M\u00fasica Chilena",
+        "url": "https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "El Aparecido",
+      "url": "https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U"
     }
   ],
   "unique_name": "This Is De Saloon",

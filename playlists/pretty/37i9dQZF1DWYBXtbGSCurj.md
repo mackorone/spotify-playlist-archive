@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Major RD, Borges, MC Cabelinho, Yung Ganni
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,065 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,094 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Queridinho Do Chefe](https://open.spotify.com/track/5VRt7meHLJRwvpejHbXJA4) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [saboya](https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn) | [Empate Técnico](https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8) | 2:37 |
 | 75 | [Nunca](https://open.spotify.com/track/4HBqShJZv4jwHa95vGsbSM) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Nunca](https://open.spotify.com/album/24rFeIIse5hCIz1WX3KQ9Y) | 2:53 |
 
-Snapshot ID: `Z8Em8QAAAAD/pwokR2ESweI5/PfakUPC`
+Snapshot ID: `Z8Em8QAAAACXOxnwL8yajncBdQR4k2ha`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,718 likes - 103 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,757 likes - 103 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 102 | [Ajarif](https://open.spotify.com/track/5uDvwQ9dTcGVucH5q8ngsw) | [Stranger Souma](https://open.spotify.com/artist/7FkbbDfyJiSCenRToRKbBp), [Nukad](https://open.spotify.com/artist/2UWbjvhLv8mZjANlA2ACs9) | [Ajarif](https://open.spotify.com/album/2J2obyZsyURopJhdmWT253) | 6:05 |
 | 103 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [eL\-Jay](https://open.spotify.com/artist/3AdQcvHPUsbnXLvuCFtjZE), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 |
 
-Snapshot ID: `Z7eD1AAAAAASj+KhZsFSUb7RxsufQQZ5`
+Snapshot ID: `Z7eD1AAAAADsJiwp8SdzmHSLnzYqvhH2`

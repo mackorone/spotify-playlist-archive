@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/1cSCtZ3SgAV8pcjEfeiVdw.md) - [plain]
 | 26 | [Sick](https://open.spotify.com/track/6OklSp2KgnW8RWNdQ7n8o1) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:21 |
 | 27 | [Glowing](https://open.spotify.com/track/3w3yyxu4gqlNucBAy7IUja) | [Cigarettes for Breakfast](https://open.spotify.com/artist/0xyNjcNslA0KBWGknYMwFF) | [Join the Circus](https://open.spotify.com/album/6c0Hb5RjLEALVk9gvtUVEU) | 3:08 |
 | 28 | [Feeling for Your Bones](https://open.spotify.com/track/0M6lSGlhTpEX22weFjqMPS) | [Night Hikes](https://open.spotify.com/artist/5qu6BYt4XzywSaJm0cKHPd) | [Keeper of Reality](https://open.spotify.com/album/0AujCO9CvMXOkqYD2NzTjy) | 3:39 |
-| 29 | [Hand\-me\-downs](https://open.spotify.com/track/2i5HoSKbagCOvKyKOvTVYw) | [Isadora Eden](https://open.spotify.com/artist/309snhwGNeKotaADKVUZVL) | [forget what makes it glow](https://open.spotify.com/album/57jHeCczEOcEgMU4VEJlK9) | 3:26 |
+| 29 | [Hand\-me\-downs](https://open.spotify.com/track/2i5HoSKbagCOvKyKOvTVYw) | [Isadora Eden](https://open.spotify.com/artist/309snhwGNeKotaADKVUZVL), [Dollpile](https://open.spotify.com/artist/6Vmoiwe1AZcAtjzT3HpjLU) | [forget what makes it glow](https://open.spotify.com/album/57jHeCczEOcEgMU4VEJlK9) | 3:26 |
 | 30 | [Child of Venus](https://open.spotify.com/track/0akcBCUkcb6Qyl5eOXbzaE) | [Amaara](https://open.spotify.com/artist/4RGZo2n4dRjTdUMjY1VYm5) | [Child of Venus](https://open.spotify.com/album/5pysCqee5hdMdpHWQKdfAP) | 4:42 |
 
 Snapshot ID: `AAAAayPbw9ClBr8oEhjoubF5KrsoI0Ik`

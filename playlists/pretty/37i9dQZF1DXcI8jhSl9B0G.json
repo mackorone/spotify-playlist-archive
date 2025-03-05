@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74821,
+  "num_followers": 74820,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Carry You With Me",
+        "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
+      },
+      "artists": [
+        {
+          "name": "Voyageur",
+          "url": "https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "Carry You With Me",
+      "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Mid Sentence",
         "url": "https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Carry You With Me",
-        "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
-      },
-      "artists": [
-        {
-          "name": "Voyageur",
-          "url": "https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Carry You With Me",
-      "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Oh My Girl",
+        "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
+      },
+      "artists": [
+        {
+          "name": "Freight Train Foxes",
+          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
+        }
+      ],
+      "duration_ms": 168393,
+      "name": "Oh My Girl",
+      "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -499,22 +515,6 @@
       "duration_ms": 294063,
       "name": "Take Me Home (feat. Nadia Reid)",
       "url": "https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Oh My Girl",
-        "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
-      },
-      "artists": [
-        {
-          "name": "Freight Train Foxes",
-          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
-        }
-      ],
-      "duration_ms": 168393,
-      "name": "Oh My Girl",
-      "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "I Don't Know Who to Call",
-        "url": "https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P"
-      },
-      "artists": [
-        {
-          "name": "Jem Cassar-Daley",
-          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
-        }
-      ],
-      "duration_ms": 297266,
-      "name": "Standing Still",
-      "url": "https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "The Winner Takes It All",
         "url": "https://open.spotify.com/album/4CBJ50kqiFjnrnw0meoSJU"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 319798,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "I Don't Know Who to Call",
+        "url": "https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "duration_ms": 297266,
+      "name": "Standing Still",
+      "url": "https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm"
     },
     {
       "added_at": "2023-11-30 13:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Model/Actriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,988 likes - 112 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,004 likes - 112 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 111 | [Talk Real](https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Talk Real](https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o) | 2:55 |
 | 112 | [47.](https://open.spotify.com/track/12tsAy57sjPGpFlo56ejHo) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Closer To;](https://open.spotify.com/album/34Bv0P1zXTnqLkL0B4ykXV) | 3:27 |
 
-Snapshot ID: `Z8D8mgAAAAAZYxzgiS07dhUOKhhFY5A/`
+Snapshot ID: `Z8D8mgAAAABM1d1ylgIwe0anZjusgJlk`

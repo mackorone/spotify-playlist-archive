@@ -4,7 +4,7 @@
 
 > The best new dance music by independent artists and labels, featuring Tiffy Vera\. Artwork by Rewina Beshue.
 
-2,688 songs - 7 day 11 hr 53 min
+2,689 songs - 7 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2140,7 +2140,7 @@
 | [Souljah](https://open.spotify.com/track/2Sfm20Y0yDJxAQ57Dfs9pb) | [Doriann](https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq), [Randoree](https://open.spotify.com/artist/7Arbq4rNJORXYyGHv9ujPa) | [Souljah](https://open.spotify.com/album/5jHvRM5fcHZq5HBzaLj3ZA) | 4:00 | 2024-10-16 | 2024-12-05 |
 | [Sound Survives](https://open.spotify.com/track/3H4XMadRIZV1hxnv20HuGr) | [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Sound Survives](https://open.spotify.com/album/21QACfomr94VIKXXWPDoUU) | 5:32 | 2024-07-26 | 2024-10-12 |
 | [Sounds Of The Universe](https://open.spotify.com/track/3x7IUbFyhxIlw1PjNUq2ap) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [Enchanted](https://open.spotify.com/album/2CPPAa9QgL1oRp9NVmnduK) | 6:26 | 2023-04-05 | 2023-04-13 |
-| [SPACE](https://open.spotify.com/track/1TwbmmMh4HwhSn96OM7INU) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [SPACE](https://open.spotify.com/album/70I7e2wEgktCR8KjY8YbZD) | 2:42 | 2025-01-31 |  |
+| [SPACE](https://open.spotify.com/track/1TwbmmMh4HwhSn96OM7INU) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [SPACE](https://open.spotify.com/album/70I7e2wEgktCR8KjY8YbZD) | 2:42 | 2025-01-31 | 2025-03-05 |
 | [Space Jazzy](https://open.spotify.com/track/4BLMViT8xaTTa2syan74vK) | [Marco Lazovic](https://open.spotify.com/artist/0CdCqhMPs2jxnerSe30XAa) | [Come To London EP](https://open.spotify.com/album/5iWAUHe5b0uCWsjGcdswph) | 5:38 | 2023-08-02 | 2023-09-14 |
 | [Spaceloop](https://open.spotify.com/track/4Ua602lvWUfh85i3VoJWi9) | [Querry Veldt](https://open.spotify.com/artist/61DzqjttfMko1p9IVGGxgv) | [Space Loop](https://open.spotify.com/album/70Xv97wjZHesHkns9doPIl) | 5:40 | 2023-03-08 | 2023-04-04 |
 | [Speed](https://open.spotify.com/track/5az0oxBI4WbOi5AO7Vbtjz) | [Detalji](https://open.spotify.com/artist/50R4ZeEWAEMtF89K0Q2mIz) | [Speed](https://open.spotify.com/album/5Fk9fBoFL1gLNPeCw7RMgL) | 3:57 | 2023-03-01 | 2023-04-06 |
@@ -2549,6 +2549,7 @@
 | [Watch That Tongue](https://open.spotify.com/track/6o2XzOSxZTZwup8tqX0PXW) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Watch That Tongue](https://open.spotify.com/album/3CQWlc3iNFGxUb2kXP7mwe) | 3:55 | 2021-11-10 | 2022-01-27 |
 | [Watching You](https://open.spotify.com/track/4TysS7wEMTbOmYobkZ62HU) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Watching You](https://open.spotify.com/album/7ddAnaKgCQdmahfC8xXz0M) | 5:49 | 2022-03-31 | 2022-04-14 |
 | [Watching You Kiss Her](https://open.spotify.com/track/7rvoKElHIYNtiBPS51vPcJ) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [Watching You Kiss Her](https://open.spotify.com/album/6znFuBbcLrDNQCieKLiKqR) | 2:56 | 2025-01-15 | 2025-02-15 |
+| [watchTHIS!](https://open.spotify.com/track/0mTtQo0gQ8QAlRdgHSNP7y) | [hjud](https://open.spotify.com/artist/2XuRU9n4z1J1iQIZO4QEk9) | [watchTHIS!](https://open.spotify.com/album/6xfgxDeuQDrzU2JCe9dojS) | 3:34 | 2025-03-04 |  |
 | [Waves of the Past](https://open.spotify.com/track/2oCLA285QlQJnzR9aP6OHb) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Waves of the Past](https://open.spotify.com/album/2UfByHS0EjxscpsLMxg61n) | 5:20 | 2022-03-16 | 2022-05-19 |
 | [Way Back Home](https://open.spotify.com/track/6owBgS7GUtTj9YlqpHnVtl) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Siamese Anthology V \(Part 2/4\)](https://open.spotify.com/album/3FlCFE1Af2qQHwkeenINXy) | 6:25 | 2023-02-02 | 2023-03-02 |
 | [Way Of Life](https://open.spotify.com/track/7nkYGl0HqXtJCzOQe2Sn1g) | [BOBBY SHANN](https://open.spotify.com/artist/5QceuPXBLPt57tBlR8kHA9) | [Way Of Life](https://open.spotify.com/album/0gJXHfSWYcCM1Q8bltvL09) | 5:21 | 2023-05-17 | 2023-06-15 |

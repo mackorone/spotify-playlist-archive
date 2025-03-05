@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCZsi4BErc7.md) - [plain]
 
 > Rustige, minimalistische ambient muziek om je in diepe slaap te brengen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

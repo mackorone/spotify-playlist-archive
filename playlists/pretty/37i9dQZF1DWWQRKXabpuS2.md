@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. غلاف: فهد العمري
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,147 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,149 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 48 | [Ham We Inzaah](https://open.spotify.com/track/64J16v8vzKE5TIniAZVIx0) | [مطرف المطرف](https://open.spotify.com/artist/5aXMgkXcyM23iEx7ZyzNh9) | [Ham We Inzaah](https://open.spotify.com/album/6g227LC1R1wY1PGRPRsPzv) | 4:36 |
 | 49 | [Khajoola](https://open.spotify.com/track/1cylMxQ5Y1lnQhD3fSbbZz) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Khajoola](https://open.spotify.com/album/4AB5LQsjEfynEVrMy35Ysq) | 4:10 |
 
-Snapshot ID: `Z77JcgAAAAC6EnMG8JXBT/9DZbZd00Lf`
+Snapshot ID: `Z77JcgAAAAACRQ++VkiSp04kEhNoM4kb`

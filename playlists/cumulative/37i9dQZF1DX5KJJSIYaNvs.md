@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Jonita Gandhi
 
-440 songs - 1 day 1 hr 43 min
+441 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Sherni Aayi \(From "Aarya 3"\)](https://open.spotify.com/track/4TqeKFVrlFn379UpRT157n) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Sushmita Sen](https://open.spotify.com/artist/4dVweXe1vuDaks0htRp54l) | [Sherni Aayi \(From "Aarya 3"\)](https://open.spotify.com/album/3mpPx4U4uZRUWkHTwRL0wC) | 2:10 | 2023-11-06 | 2023-11-30 |
 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-02-01 | 2023-03-03 |
 | [Shreaam Pagal](https://open.spotify.com/track/62cpYYBQua4OCT07FItvCR) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Shreaam Pagal](https://open.spotify.com/album/1kPmkdxQy0l7lqZAETqZLa) | 3:54 | 2022-01-04 | 2022-02-02 |
+| [Simti](https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Simti](https://open.spotify.com/album/7kBUETqxht63KK8ETCZnP3) | 2:45 | 2025-03-04 |  |
 | [Sirf Mere Ho](https://open.spotify.com/track/6UeNl3CIWIihMr1O1H9Sw0) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Shruti Prakash](https://open.spotify.com/artist/4wTxusmB0eB08npurjqk5T), [Gam Kairanvi](https://open.spotify.com/artist/725DutSXO0i4ooXWGpBEgQ) | [Sirf Mere Ho](https://open.spotify.com/album/4g6mHoLbJv80YhAPDrVSDo) | 2:07 | 2024-08-10 | 2025-02-18 |
 | [Sleep Walking](https://open.spotify.com/track/1SL4efhZ3hlnoPewOmClQF) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [The Jeremiah Project](https://open.spotify.com/artist/0dqDdOL1AXyEXy70M2QAcm), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Krishna Kishor](https://open.spotify.com/artist/3prbdBU7w1NADsMOoSK3xZ), [Naveen Napier](https://open.spotify.com/artist/6cb5MRs9wImoyoZjnQ8vb1), [David Joseph](https://open.spotify.com/artist/4DtuDzNNMh0AyrL2tlIwJa) | [Flavors](https://open.spotify.com/album/05aUOvpdNReQlFybLgVLNe) | 4:43 | 2022-09-06 | 2023-03-03 |
 | [SLNB](https://open.spotify.com/track/1P4POfccJFWKWdGdSCSgpj) | [Roshanara](https://open.spotify.com/artist/7emzpBPOKHKxut0AQZzjzz) | [SLNB](https://open.spotify.com/album/4hfjvM4Rqn33Npq3OlTpcR) | 2:54 | 2024-11-20 | 2025-02-27 |
@@ -446,7 +447,7 @@
 | [Zeher](https://open.spotify.com/track/2YaAHGOC5bPKjCFTkNsmji) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Zeher](https://open.spotify.com/album/5jzFaJm5jPTkSYwXpO6NQq) | 3:33 | 2024-10-04 | 2024-11-13 |
 | [ZID](https://open.spotify.com/track/036DrB9LguQLZUnxKcjctQ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [ZID](https://open.spotify.com/album/1Yi80QjxTA9KfqqZtbmyxo) | 3:24 | 2024-06-03 | 2025-01-09 |
 | [Zidd](https://open.spotify.com/track/5pMLKIqs9dS6675qVgZko1) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Rashmi Rocket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5clXHYUXuMpthSuwC94ngl) | 4:08 | 2021-12-10 | 2022-01-05 |
-| [Zinda Rahey \(From "Chhaava"\)](https://open.spotify.com/track/6qRHJNT6oILLhehqzxLAQh) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Hiral Viradia](https://open.spotify.com/artist/4zpvHvgxkN4FehrkqVSZUl), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Chhaava \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/237a62e5OURRgvJ9G3yHM3) | 5:08 | 2025-02-17 |  |
+| [Zinda Rahey \(From "Chhaava"\)](https://open.spotify.com/track/6qRHJNT6oILLhehqzxLAQh) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Hiral Viradia](https://open.spotify.com/artist/4zpvHvgxkN4FehrkqVSZUl), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Chhaava \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/237a62e5OURRgvJ9G3yHM3) | 5:08 | 2025-02-17 | 2025-03-05 |
 | [⁠Beqarariyaan \- From "Emergency"](https://open.spotify.com/track/1HZB3v2LWQPLBQIIyNFdiH) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Emergency \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cbNwLpbVUHUoH3xVuQyGP) | 3:27 | 2024-09-02 | 2024-11-28 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

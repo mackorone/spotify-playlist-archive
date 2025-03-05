@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
-  "num_followers": 128551,
+  "num_followers": 128553,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "Mundo Nuevo",
-        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
         "name": "Esto No Es un Disco Vol.2",
         "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
       },
@@ -887,22 +867,22 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "Lo que siento \u263c",
-        "url": "https://open.spotify.com/album/2rqPUkz4fU03IGJm3KZtd4"
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
       "artists": [
         {
-          "name": "el nido",
-          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
         },
         {
-          "name": "Neomak",
-          "url": "https://open.spotify.com/artist/0SEyTK74P3oxrF3WHEdIIB"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 180121,
-      "name": "Lo que siento \u263c",
-      "url": "https://open.spotify.com/track/19kEKunwApFk7zvuIqlYOs"
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -963,6 +943,26 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
+        "name": "Lo que siento \u263c",
+        "url": "https://open.spotify.com/album/2rqPUkz4fU03IGJm3KZtd4"
+      },
+      "artists": [
+        {
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+        },
+        {
+          "name": "Neomak",
+          "url": "https://open.spotify.com/artist/0SEyTK74P3oxrF3WHEdIIB"
+        }
+      ],
+      "duration_ms": 180121,
+      "name": "Lo que siento \u263c",
+      "url": "https://open.spotify.com/track/19kEKunwApFk7zvuIqlYOs"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
         "name": "Todo Este Caos",
         "url": "https://open.spotify.com/album/4gh2gsIxxU7M1gRmv8Fwn0"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "Escolta-ho en el vent (Blowin\u00b4 in the wind)",
-        "url": "https://open.spotify.com/album/015oPbX4Y20S6ZgZdkEVKH"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Escolta-ho en el vent (Blowin\u00b4 in the wind)",
-      "url": "https://open.spotify.com/track/2jflLgaeCHBqe0gxvSVzQw"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
         "name": "Todo te parece normal",
         "url": "https://open.spotify.com/album/6w60jUW5MJdacklytIan1H"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 296669,
       "name": "Todo te parece normal",
       "url": "https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
+        "name": "Escolta-ho en el vent (Blowin\u00b4 in the wind)",
+        "url": "https://open.spotify.com/album/015oPbX4Y20S6ZgZdkEVKH"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Escolta-ho en el vent (Blowin\u00b4 in the wind)",
+      "url": "https://open.spotify.com/track/2jflLgaeCHBqe0gxvSVzQw"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "El Rayo Verde",
-        "url": "https://open.spotify.com/album/7jGxfqzYoIphB7b4A7jXxl"
-      },
-      "artists": [
-        {
-          "name": "Luis Ramiro",
-          "url": "https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "Lo Tengo Todo",
-      "url": "https://open.spotify.com/track/2c9X8dFOQLxwMJ2etYaF6b"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
         "name": "Fins a maig no revisc",
         "url": "https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 167513,
       "name": "Terra banyada",
       "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
+        "name": "El Rayo Verde",
+        "url": "https://open.spotify.com/album/7jGxfqzYoIphB7b4A7jXxl"
+      },
+      "artists": [
+        {
+          "name": "Luis Ramiro",
+          "url": "https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Lo Tengo Todo",
+      "url": "https://open.spotify.com/track/2c9X8dFOQLxwMJ2etYaF6b"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "Due\u00f1a",
-        "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        },
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        }
-      ],
-      "duration_ms": 195024,
-      "name": "Due\u00f1a",
-      "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 251856,
       "name": "Hoy no tengo nada que hacer",
       "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
+        "name": "Due\u00f1a",
+        "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        },
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "duration_ms": 195024,
+      "name": "Due\u00f1a",
+      "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/17OuDnrZC8XlT4blmDVYXN"
-      },
-      "artists": [
-        {
-          "name": "Anthony and the Melody Makers",
-          "url": "https://open.spotify.com/artist/0LZEH4SvHZLRkOs45hAYbu"
-        },
-        {
-          "name": "Mau \u00c1alen",
-          "url": "https://open.spotify.com/artist/0HCnWMufqSRED6gy4U0rcC"
-        }
-      ],
-      "duration_ms": 222011,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/5O0vSAo60lxgy29IwAEcbZ"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
         "name": "Deshielo",
         "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/17OuDnrZC8XlT4blmDVYXN"
+      },
+      "artists": [
+        {
+          "name": "Anthony and the Melody Makers",
+          "url": "https://open.spotify.com/artist/0LZEH4SvHZLRkOs45hAYbu"
+        },
+        {
+          "name": "Mau \u00c1alen",
+          "url": "https://open.spotify.com/artist/0HCnWMufqSRED6gy4U0rcC"
+        }
+      ],
+      "duration_ms": 222011,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/5O0vSAo60lxgy29IwAEcbZ"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
+        "name": "Una carta con tu nombre",
+        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 235075,
+      "name": "Una carta con tu nombre",
+      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
         "name": "Ag\u00fcita del equilibrio",
         "url": "https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 263441,
       "name": "Ag\u00fcita del equilibrio",
       "url": "https://open.spotify.com/track/4FHCDi6WjHPYUpoDqsD1VJ"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
-        "name": "Una carta con tu nombre",
-        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
-        }
-      ],
-      "duration_ms": 235075,
-      "name": "Una carta con tu nombre",
-      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1611,22 +1611,18 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "La Noche de Mi Amor (A Dueto Con Eugenia Leon)",
-        "url": "https://open.spotify.com/album/4HZrNKdPv7iheKniNZOH7E"
+        "name": "Migas",
+        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
       },
       "artists": [
         {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        },
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
         }
       ],
-      "duration_ms": 214464,
-      "name": "La Noche de Mi Amor - A Dueto Con Eugenia Leon",
-      "url": "https://open.spotify.com/track/3kMOp6GfCkln4nR91q9ESE"
+      "duration_ms": 333409,
+      "name": "Migas",
+      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1647,34 +1643,22 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "Migas",
-        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
+        "name": "La Noche de Mi Amor (A Dueto Con Eugenia Leon)",
+        "url": "https://open.spotify.com/album/4HZrNKdPv7iheKniNZOH7E"
       },
       "artists": [
         {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
-        }
-      ],
-      "duration_ms": 333409,
-      "name": "Migas",
-      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
-        "name": "Telefonillo",
-        "url": "https://open.spotify.com/album/7mmhk6FCODg0ToOA41W5so"
-      },
-      "artists": [
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        },
         {
-          "name": "alberto.vela",
-          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
         }
       ],
-      "duration_ms": 179193,
-      "name": "Telefonillo",
-      "url": "https://open.spotify.com/track/0rJhKX2DwyNqwmxyYiNorC"
+      "duration_ms": 214464,
+      "name": "La Noche de Mi Amor - A Dueto Con Eugenia Leon",
+      "url": "https://open.spotify.com/track/3kMOp6GfCkln4nR91q9ESE"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1691,6 +1675,22 @@
       "duration_ms": 220569,
       "name": "Por Qu\u00e9?",
       "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
+        "name": "Telefonillo",
+        "url": "https://open.spotify.com/album/7mmhk6FCODg0ToOA41W5so"
+      },
+      "artists": [
+        {
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+        }
+      ],
+      "duration_ms": 179193,
+      "name": "Telefonillo",
+      "url": "https://open.spotify.com/track/0rJhKX2DwyNqwmxyYiNorC"
     },
     {
       "added_at": "2025-02-27 23:00:44",

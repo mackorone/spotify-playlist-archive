@@ -6,7 +6,7 @@
     "name": "dio",
     "url": "https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i"
   },
-  "snapshot_id": "AAAEynA2zvRHNzvHEmrlyb8hLFbwyUmE",
+  "snapshot_id": "AAAEzFNNIZ6MwL+EJc2VLHNAg81T4xBj",
   "tracks": [
     {
       "added_at": "2023-10-19 14:38:14",
@@ -13695,6 +13695,38 @@
       "duration_ms": 315506,
       "name": "\u30b5\u30e9\u30d0\u9752\u6625",
       "url": "https://open.spotify.com/track/0rzpfStMhpjX8gQ9qagZOL"
+    },
+    {
+      "added_at": "2025-03-04 16:33:28",
+      "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/7vrfjfKHDsfg9H7ZsOlvby"
+      },
+      "artists": [
+        {
+          "name": "Dortmund Moon Sliders",
+          "url": "https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv"
+        }
+      ],
+      "duration_ms": 260816,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/2yqbFfxZAngzfYhckGLN21"
+    },
+    {
+      "added_at": "2025-03-04 16:38:08",
+      "album": {
+        "name": "Loading...",
+        "url": "https://open.spotify.com/album/4ybgu5jjrqmTiqh8i3NfPr"
+      },
+      "artists": [
+        {
+          "name": "Dortmund Moon Sliders",
+          "url": "https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv"
+        }
+      ],
+      "duration_ms": 256234,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/2qz1earowX9HgKQiwUyE2M"
     }
   ],
   "unique_name": "japan",

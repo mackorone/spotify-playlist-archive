@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,228 likes - 51 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,267 likes - 51 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 50 | [Closer](https://open.spotify.com/track/5dVODyGWLMoBPlmgtm86PU) | [Silversyde](https://open.spotify.com/artist/6J0UNeDm5txVjvcI7Pxqz4) | [Casting Shadows](https://open.spotify.com/album/539lpEirrlTBHMsQHgSZzm) | 3:12 |
 | 51 | [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 4:40 |
 
-Snapshot ID: `Z6XMbgAAAACxadRQcZR9pdwsCdCnhFo1`
+Snapshot ID: `Z6XMbgAAAADjwhsxHbVtOcjhf29fpOUn`

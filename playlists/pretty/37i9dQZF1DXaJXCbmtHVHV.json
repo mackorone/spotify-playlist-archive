@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Jelly Roll",
-  "num_followers": 588652,
+  "num_followers": 588823,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-02-28 05:00:38",
       "album": {
-        "name": "Thought of You",
-        "url": "https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 163242,
-      "name": "Thought of You",
-      "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
-    },
-    {
-      "added_at": "2025-02-28 05:00:38",
-      "album": {
         "name": "Love You Again",
         "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 173636,
       "name": "Love You Again",
       "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
+    },
+    {
+      "added_at": "2025-02-28 05:00:38",
+      "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 163242,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
     },
     {
       "added_at": "2025-02-28 05:00:38",

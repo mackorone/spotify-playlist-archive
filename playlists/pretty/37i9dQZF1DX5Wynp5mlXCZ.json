@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Tember Blanche",
-  "num_followers": 9828,
+  "num_followers": 9835,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,30 @@
     {
       "added_at": "2025-02-27 22:00:20",
       "album": {
+        "name": "Call Me When You Break Up (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
+    },
+    {
+      "added_at": "2025-02-27 22:00:20",
+      "album": {
         "name": "AFTERCARE",
         "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
       },
@@ -607,30 +631,6 @@
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
-    },
-    {
-      "added_at": "2025-02-27 22:00:20",
-      "album": {
-        "name": "Call Me When You Break Up (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 126831,
-      "name": "Call Me When You Break Up (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
     },
     {
       "added_at": "2025-02-27 22:00:20",
@@ -791,18 +791,18 @@
     {
       "added_at": "2025-02-27 22:00:20",
       "album": {
-        "name": "1432",
-        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+        "name": "Worlds Collide (Inspired by Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 158936,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
+      "duration_ms": 182173,
+      "name": "Worlds Collide (Inspired by Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
     },
     {
       "added_at": "2025-02-27 22:00:20",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-02-27 22:00:20",
       "album": {
-        "name": "Worlds Collide (Inspired by Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC"
+        "name": "1432",
+        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 182173,
-      "name": "Worlds Collide (Inspired by Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
+      "duration_ms": 158936,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
     },
     {
       "added_at": "2025-02-27 22:00:20",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2025-02-27 22:00:20",
       "album": {
+        "name": "\u041b\u0456\u0444\u0442",
+        "url": "https://open.spotify.com/album/3VlwiDK6GKqvukwECg6qoG"
+      },
+      "artists": [
+        {
+          "name": "SKYLERR",
+          "url": "https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg"
+        },
+        {
+          "name": "\u041d\u0456\u043a\u0456\u0442\u0430 \u041a\u0456\u0441\u0435\u043b\u044c\u043e\u0432",
+          "url": "https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp"
+        }
+      ],
+      "duration_ms": 214756,
+      "name": "\u041b\u0456\u0444\u0442",
+      "url": "https://open.spotify.com/track/7yk4zXXeXGtRrZKvWSOWhT"
+    },
+    {
+      "added_at": "2025-02-27 22:00:20",
+      "album": {
         "name": "\u0421\u041d\u0406\u0413",
         "url": "https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs"
       },
@@ -1215,22 +1235,6 @@
       "duration_ms": 206181,
       "name": "\u0421\u041d\u0406\u0413",
       "url": "https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn"
-    },
-    {
-      "added_at": "2025-02-27 22:00:20",
-      "album": {
-        "name": "\u041c\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u043e",
-        "url": "https://open.spotify.com/album/0GmCo64twAspf4ebGkYygD"
-      },
-      "artists": [
-        {
-          "name": "ROXOLANA",
-          "url": "https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "\u041c\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u043e",
-      "url": "https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A"
     }
   ],
   "unique_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",

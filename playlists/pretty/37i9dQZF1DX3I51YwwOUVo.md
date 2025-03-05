@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Presenting our 2025 Artists to Watch! <br/><br/>Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,981 likes - 35 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,992 likes - 35 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 34 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 |
 | 35 | [Goosebumps](https://open.spotify.com/track/099Sdi0DL1L4dEI0hGaR9w) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:46 |
 
-Snapshot ID: `Z5e9+AAAAAAOny1qjBTCM6ry70TuTeEb`
+Snapshot ID: `Z5e9+AAAAABlcZk1CnUOlPi2DRwO+d7G`

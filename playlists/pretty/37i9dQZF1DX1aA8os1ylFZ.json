@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297167,
+  "num_followers": 297162,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -683,8 +683,8 @@
     {
       "added_at": "2025-02-27 23:00:27",
       "album": {
-        "name": "WANDERER",
-        "url": "https://open.spotify.com/album/0t7A5PFJ9BEkMTjUWsqLVm"
+        "name": "GRIP SEQUEL",
+        "url": "https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
         }
       ],
-      "duration_ms": 260488,
-      "name": "WANDERER",
-      "url": "https://open.spotify.com/track/44tPUwjtdkisODujAAp6hs"
+      "duration_ms": 161322,
+      "name": "CHAPTER & VERS",
+      "url": "https://open.spotify.com/track/24NTKPJ76fvD1VroPGNiLn"
     },
     {
       "added_at": "2025-02-27 23:00:27",
@@ -839,8 +839,8 @@
     {
       "added_at": "2025-02-27 23:00:27",
       "album": {
-        "name": "GRIP SEQUEL",
-        "url": "https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd"
+        "name": "WANDERER",
+        "url": "https://open.spotify.com/album/0t7A5PFJ9BEkMTjUWsqLVm"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
         }
       ],
-      "duration_ms": 161322,
-      "name": "CHAPTER & VERS",
-      "url": "https://open.spotify.com/track/24NTKPJ76fvD1VroPGNiLn"
+      "duration_ms": 260488,
+      "name": "WANDERER",
+      "url": "https://open.spotify.com/track/44tPUwjtdkisODujAAp6hs"
     },
     {
       "added_at": "2025-02-27 23:00:27",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2025-02-27 23:00:27",
       "album": {
+        "name": "A Fair Exchange",
+        "url": "https://open.spotify.com/album/6PWqRQavTZcpRrFBKWMZq0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "A Fair Exchange",
+      "url": "https://open.spotify.com/track/4XqBXP047t8rUEv7GIIzoR"
+    },
+    {
+      "added_at": "2025-02-27 23:00:27",
+      "album": {
         "name": "Boys Like U",
         "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 157913,
       "name": "FANTASY",
       "url": "https://open.spotify.com/track/0D7nZ9actrBFpoTO4vKlfJ"
-    },
-    {
-      "added_at": "2025-02-27 23:00:27",
-      "album": {
-        "name": "A Fair Exchange",
-        "url": "https://open.spotify.com/album/6PWqRQavTZcpRrFBKWMZq0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy",
-          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
-        },
-        {
-          "name": "Mitchell Yard",
-          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "A Fair Exchange",
-      "url": "https://open.spotify.com/track/4XqBXP047t8rUEv7GIIzoR"
     },
     {
       "added_at": "2025-02-27 23:00:27",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-02-27 23:00:27",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 133534,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
-    },
-    {
-      "added_at": "2025-02-27 23:00:27",
-      "album": {
         "name": "Can't Talk",
         "url": "https://open.spotify.com/album/44vqxQ37wQGEKdVuzIpim7"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 173500,
       "name": "Can't Talk",
       "url": "https://open.spotify.com/track/0DkYfF7kgFmwMA3G56W1js"
+    },
+    {
+      "added_at": "2025-02-27 23:00:27",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 133534,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
     },
     {
       "added_at": "2025-02-27 23:00:27",

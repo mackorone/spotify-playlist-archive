@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4suJDjPFhDb.md) - [plain]
 
 > Se ha vinto il festival ed è su Spotify, è in questa playlist 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,143 likes - 72 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,170 likes - 72 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4suJDjPFhDb.md) - [plain]
 | 71 | [Vola colomba](https://open.spotify.com/track/2srhl7uP5M5uvtG9sQoLSe) | [Nilla Pizzi](https://open.spotify.com/artist/0Aa0gR6RQfMmo529QX1Gbh) | [Tutto Nilla Pizzi "La regina della canzone italiana"](https://open.spotify.com/album/4uZFPJ5DbADo6UJ2poWkek) | 3:26 |
 | 72 | [Grazie dei fiori](https://open.spotify.com/track/06vLUEqkJ4AIG3bKKtSi0M) | [Nilla Pizzi](https://open.spotify.com/artist/0Aa0gR6RQfMmo529QX1Gbh) | [Grazie Dei Fiori](https://open.spotify.com/album/6gO2RnWmTJpFsWVvOT8Q8s) | 2:48 |
 
-Snapshot ID: `Z7Sh9gAAAABzhJ1sUgGu4+dndJ0Yv5aW`
+Snapshot ID: `Z7Sh9gAAAAAnrLO+lyWi66EjqUXv9GVI`

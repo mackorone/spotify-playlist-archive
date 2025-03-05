@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFbKNOYZlTp.md) - [plain]
 
 > Our editor’s picks for the best songs from Our Generation in 2024\. Cover: Rachel Chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,382 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,384 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFbKNOYZlTp.md) - [plain]
 | 74 | [Killers](https://open.spotify.com/track/5KqBFSHiWIEUc5YYpJJpY7) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Killers](https://open.spotify.com/album/5iDv8XqeADVnDodUELn4wH) | 3:36 |
 | 75 | [Broken](https://open.spotify.com/track/7yocxrChNM87eD62yCDMsr) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [HATE FOR ANOTHER DAY](https://open.spotify.com/album/0WI4E0vSZy2zYGB7EKNPDJ) | 3:07 |
 
-Snapshot ID: `Z1BHxAAAAAAnUpIw75zJmjn/FGsvVpk/`
+Snapshot ID: `Z1BHxAAAAABUtcKJ61Z5q8nbLEsWlhMJ`

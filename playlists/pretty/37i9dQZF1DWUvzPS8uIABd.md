@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Bee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,263 likes - 83 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,277 likes - 83 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 5 | [Tupakkaa ja rakkautta](https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Tupakkaa ja rakkautta](https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6) | 3:22 |
 | 6 | [Anna tulla](https://open.spotify.com/track/4Fzm0uCnAM4Ep59ZVvi5wB) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Anna tulla](https://open.spotify.com/album/2RSDaUPuRXmLEUsHQK2P3R) | 3:13 |
 | 7 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 |
-| 8 | [Shanghain valot \- UMK edit](https://open.spotify.com/track/3e2mYXFNuwiXChs7frlpQc) | [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng), [Laura Voutilainen](https://open.spotify.com/artist/1vDg9KYrfgHzDJQGP2VQfe), [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T) | [Shanghain valot \(UMK edit\)](https://open.spotify.com/album/5btZewsv5zXGOPOEROnvAU) | 3:25 |
-| 9 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
-| 10 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 |
+| 8 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 |
+| 9 | [Shanghain valot \- UMK edit](https://open.spotify.com/track/3e2mYXFNuwiXChs7frlpQc) | [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng), [Laura Voutilainen](https://open.spotify.com/artist/1vDg9KYrfgHzDJQGP2VQfe), [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T) | [Shanghain valot \(UMK edit\)](https://open.spotify.com/album/5btZewsv5zXGOPOEROnvAU) | 3:25 |
+| 10 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
 | 11 | [Valinnu mun tien](https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Valinnu mun tien](https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp) | 3:01 |
 | 12 | [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 |
 | 13 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 82 | [Kaikesta puolet saat](https://open.spotify.com/track/1m6IUZGor6ZLJ59K2ZLWVD) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kaikesta puolet saat](https://open.spotify.com/album/4Z5eyDEWouCsw2xpGZu2Cg) | 3:47 |
 | 83 | [Kuningasidea](https://open.spotify.com/track/3bmM0j4a1IstLoo09CX75d) | [Kuningasidea](https://open.spotify.com/artist/7EuXVmTcFfpvmFbi1CTctP) | [Kuningasidea](https://open.spotify.com/album/4a1yzEatpxd5U8VkejI3eW) | 3:25 |
 
-Snapshot ID: `Z8Wn8wAAAAC5J7j2fn36YMGZ4ZKQmhPY`
+Snapshot ID: `Z8bOYgAAAAAzmzSiMa4nk1LnEab46bOD`

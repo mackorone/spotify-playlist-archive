@@ -22739,6 +22739,24 @@
     },
     {
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/1DqWdSp8j00lXHr2rnXM0F"
+      },
+      "artists": [
+        {
+          "name": "Andre Ruffin",
+          "url": "https://open.spotify.com/artist/4Ldu96b8sAmZN1RQJqvOFv"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293793,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/6pHKGkzk38XzLFwBVpp38s"
+    },
+    {
+      "album": {
         "name": "Empty Picture Frame",
         "url": "https://open.spotify.com/album/1JxvTMbMzSt8FxvjO1iniA"
       },

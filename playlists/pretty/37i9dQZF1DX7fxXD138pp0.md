@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 
 > Sombrero 🤠? listo ✅ Lightstick? lista ✅ la nueva cultura de Música Mexicana x kpop está aquí 🔥🎧 x La Invasora
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,234 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,238 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 | 9 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 |
 | 10 | [Vencedor](https://open.spotify.com/track/4vyDs6A76Dvd0DWNdY554i) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lo Mejor De Homenaje A Una Vida](https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr) | 3:01 |
 | 11 | [Ámame Hoy](https://open.spotify.com/track/4voo93F41H3sbyeByUzrgq) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [La Chica Que Soñe](https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g) | 3:13 |
-| 12 | [Si Te Vuelves a Enamorar \- Remasterizado](https://open.spotify.com/track/3u8otnjkKmAXIlAX3jwsRT) | [Bronco](https://open.spotify.com/artist/5jEVtENc7lVzsqNLySdelS) | [Bronco Amigo](https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK) | 3:01 |
+| 12 | [Si Te Vuelves a Enamorar \- Remasterizado](https://open.spotify.com/track/3u8otnjkKmAXIlAX3jwsRT) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bronco Amigo](https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK) | 3:01 |
 | 13 | [Enloquecido](https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 3:32 |
 | 14 | [Mi Flor De Naranjo](https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 2:31 |
 | 15 | [9 Days](https://open.spotify.com/track/55q5IR87NQcWjFfosyAbOS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 | 49 | [Love On The Floor](https://open.spotify.com/track/2qDEhEy3vSZYFVgWbRChzw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:38 |
 | 50 | [Dulcemente Enamorada](https://open.spotify.com/track/5jOU5mrSYFnD4Ns1jPbUhu) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Vive El Amor](https://open.spotify.com/album/4hp1kQ3eMRRcApUT0fr9yz) | 2:39 |
 
-Snapshot ID: `ZwARdwAAAAAtziaxNY8hc0NhAVgzNGlw`
+Snapshot ID: `ZwARdwAAAADKw6gN8RAOY9IZHlPpNnlh`

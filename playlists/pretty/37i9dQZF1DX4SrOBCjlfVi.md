@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Skrilla, BossMan Dlow, Youngboy Never Broke Again and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,073 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,172 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Jerry Springer](https://open.spotify.com/track/5h31Cv81OS3qJI9IGggzHh) | [Fatpocket](https://open.spotify.com/artist/5DCKaa9LBZOXf8qE2INmfa) | [Jerry Springer](https://open.spotify.com/album/0HZqbRbpEmeaYCndBpsq8i) | 2:39 |
 | 50 | [Social Stunts](https://open.spotify.com/track/2UmvKdIO8IZkU8x1vItH0U) | [Moskino](https://open.spotify.com/artist/7kcRAj4MDDe43n92WMXkS7) | [Social Stunts](https://open.spotify.com/album/7rtxkKo1Xwco6ILB9rFhfN) | 2:40 |
 
-Snapshot ID: `Z8IIdwAAAAAjeXgIs8PCkLlv7xpKnfN/`
+Snapshot ID: `Z8IIdwAAAAD/gz4vK1uMxwDCZxpsY9yc`

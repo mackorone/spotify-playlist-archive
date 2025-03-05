@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-582 songs - 1 day 4 hr 23 min
+583 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [BLESSING$](https://open.spotify.com/track/5l2a0rOc4A8fuy4TEDH3Ex) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BLESSING$](https://open.spotify.com/album/4BiiOopVTUJhsAP54UyiXk) | 2:41 | 2023-11-03 | 2023-12-02 |
 | [Blessings](https://open.spotify.com/track/5ibf0QRiCeCmlFlNb7otEP) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Blessings](https://open.spotify.com/album/0tgjVqsRs4lXQ4sgJ1EFIg) | 2:03 | 2022-06-09 | 2022-10-14 |
 | [Blind](https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk) | [Blind](https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6) | 2:27 | 2023-03-17 | 2023-03-31 |
-| [BLKN](https://open.spotify.com/track/72dnVyRTuvKakKNtbBGlKc) | [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [BLKN](https://open.spotify.com/album/0z8dBIlqELOczRx3dLCls9) | 2:07 | 2024-11-29 |  |
+| [BLKN](https://open.spotify.com/track/72dnVyRTuvKakKNtbBGlKc) | [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [BLKN](https://open.spotify.com/album/0z8dBIlqELOczRx3dLCls9) | 2:07 | 2024-11-29 | 2025-03-05 |
 | [Blue Film](https://open.spotify.com/track/2hyzt7X3NUy8cEnIqJqA0C) | [DJ Yamz](https://open.spotify.com/artist/7r7jLkop1QhNvbiD9iWG5D), [Prince Hakeem Matthews](https://open.spotify.com/artist/3VR8K8yMdHiA5lmKKMSCCt), [Rama Brew](https://open.spotify.com/artist/21UP1AGVLvaDd2bNaHnpRf) | [27 in Accra Town](https://open.spotify.com/album/45b0DqkIiLicB6YcNHea52) | 4:44 | 2022-10-13 | 2022-10-31 |
 | [Body Language](https://open.spotify.com/track/0O5ZbaNWha50PwklOprDgy) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Body Language](https://open.spotify.com/album/52NNbFus4RMbeBzdYmNmx5) | 2:27 | 2022-06-09 | 2022-10-01 |
 | [Body Language](https://open.spotify.com/track/1ieYfbaettY1CCT4uu28Sx) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Prezz Play](https://open.spotify.com/album/18u8kTxT4UzQQ97waiW23l) | 2:40 | 2023-01-20 | 2023-03-04 |
@@ -396,6 +396,7 @@
 | [Power Ranger](https://open.spotify.com/track/40Mvw8xX6BVwzvkLY2hD9l) | [Y.D.A](https://open.spotify.com/artist/45Kik1HKtVxnaeajZtYozL), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Till They See Me](https://open.spotify.com/album/6VvHofU4p3n23UBCUrod72) | 2:38 | 2024-05-24 | 2024-06-15 |
 | [PRACTICE](https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [BillyDray](https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k) | [PRACTICE](https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY) | 2:22 | 2023-12-01 | 2023-12-08 |
 | [Pressure](https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 3:06 | 2024-08-02 | 2024-09-07 |
+| [Pressure](https://open.spotify.com/track/6sXhKl8JUaO9g8Q2O1kQtg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Pressure](https://open.spotify.com/album/4kPmfne7JilXehb88OknDC) | 2:16 | 2025-02-28 |  |
 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-13 | 2023-10-18 |
 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-03-22 | 2024-06-01 |
 | [Princess](https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl) | 1:37 | 2025-01-14 |  |

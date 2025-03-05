@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7xI2SkQayAGvhVFg2rXsCj.md) - [plain]
 
 > 
 
-[sprky](https://open.spotify.com/user/1w8sak82s1epyve0e5lgq33fs) - 0 like - 91 songs - 6 hr 11 min
+[sprky](https://open.spotify.com/user/1w8sak82s1epyve0e5lgq33fs) - 0 likes - 91 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

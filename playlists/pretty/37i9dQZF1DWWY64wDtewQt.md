@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,588,782 likes - 100 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,591,720 likes - 100 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 26 | [NEXT!](https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx) | [NCTS](https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG) | [NEXT!](https://open.spotify.com/album/1k9oQsBjwIhc4vF32zxvY5) | 1:39 |
 | 27 | [AUTOMOTIVO MANGOS](https://open.spotify.com/track/3c0WrRkh70gTxFA8giZYKE) | [DJ BRZ 013](https://open.spotify.com/artist/08UocCSHPNRC6aopHvlBr8) | [AUTOMOTIVO MANGOS](https://open.spotify.com/album/2OJB6ABzxfzLn779Oil5aC) | 1:35 |
 | 28 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 |
-| 29 | [TRALALERO TRALALA FUNK](https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee) | [TRALALERO TRALALA FUNK](https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4) | 1:57 |
+| 29 | [TRALALERO TRALALA FUNK](https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [MRR](https://open.spotify.com/artist/3g3GaoGiDhAeavQUhxWMmM) | [TRALALERO TRALALA FUNK](https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4) | 1:57 |
 | 30 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
 | 31 | [9mm](https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq) | 1:26 |
 | 32 | [SLAVA FUNK!](https://open.spotify.com/track/55YYhNqfMTIpPulNc0lLme) | [MVSTERIOUS](https://open.spotify.com/artist/5mU6enX6pYYKEs0zfRkm1R), [Hxmr](https://open.spotify.com/artist/6VzAVLJ85EjjG002V4j7ka), [yngastrobeatz.](https://open.spotify.com/artist/5sZrMlmLdssEPC5EsdPMhm), [EVO](https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY) | [EVOLUTION FUNK VOL\. II](https://open.spotify.com/album/25S0wOuNrX6LWULW6UKT6H) | 1:53 |

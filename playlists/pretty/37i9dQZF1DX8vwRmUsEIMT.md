@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,124 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,159 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [It's Cool](https://open.spotify.com/track/5BLWZtcf4jNmU2AdxSyF3y) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [It's Cool](https://open.spotify.com/album/07hbAkKKtuoWmqo89R5ryq) | 2:09 |
 | 80 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
 
-Snapshot ID: `Z8D8mQAAAAAb9kXLukPfGkhSl9Lyc3a0`
+Snapshot ID: `Z8D8mQAAAAD4El8X/BXNmYf1d+t91e2h`

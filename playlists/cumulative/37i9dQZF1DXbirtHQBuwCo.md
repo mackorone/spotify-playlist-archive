@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: JAEHA\(재하\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: BAEKHYUN, UMI, EL CAPITXN\)
 
-801 songs - 1 day 18 hr 35 min
+802 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Do](https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Do](https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX) | 2:45 | 2023-10-31 | 2023-12-09 |
 | [DO \(Feat\. LeeHi\)](https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Answer Answer](https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP) | 3:04 | 2023-05-24 | 2023-06-02 |
 | [Do It For Love](https://open.spotify.com/track/3tC3R06TJCS4FIN7WD2cE8) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Do It For Love](https://open.spotify.com/album/5Lfj1q7yma8paab1MMk734) | 3:31 | 2022-06-03 | 2022-07-28 |
+| [Do What You Do](https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Do What You Do](https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S) | 2:59 | 2025-03-04 |  |
 | [Doctor! Doctor!](https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL) | 2:32 | 2025-01-21 |  |
 | [DOMINO](https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [DOMINO](https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B) | 3:14 | 2024-06-12 | 2024-06-29 |
 | [DON'T](https://open.spotify.com/track/49nzDNR4naSzzFWSxXwYYm) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [DON'T](https://open.spotify.com/album/4y7KxLhbH8ca9OOrYoKWZm) | 3:49 | 2022-05-02 | 2022-07-22 |
@@ -655,7 +656,7 @@
 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 | 2022-08-02 | 2023-07-04 |
 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-03-05 |  |
 | [Stay \(Feat\. PARKJIWOO\)](https://open.spotify.com/track/7LVCquuW0xkMqeUi0B8tAz) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:52 | 2022-12-05 | 2022-12-16 |
-| [Stay Calm](https://open.spotify.com/track/42b4FuHhzeh7YmXoBdGcww) | [미래](https://open.spotify.com/artist/2KYWKQ4JtQwTpoHKPjHHxF) | [Stay Calm](https://open.spotify.com/album/6JmnzmTJWA3UplZbe00nU1) | 2:52 | 2025-02-14 |  |
+| [Stay Calm](https://open.spotify.com/track/42b4FuHhzeh7YmXoBdGcww) | [미래](https://open.spotify.com/artist/2KYWKQ4JtQwTpoHKPjHHxF) | [Stay Calm](https://open.spotify.com/album/6JmnzmTJWA3UplZbe00nU1) | 2:52 | 2025-02-14 | 2025-03-05 |
 | [stay home](https://open.spotify.com/track/6bLwL9kTb0CyfI9cCXJ709) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [home doesn't feel like home](https://open.spotify.com/album/6GRm8QuUULXwczhB4KwLZB) | 3:14 | 2022-09-05 | 2022-09-07 |
 | [Steamy Hot](https://open.spotify.com/track/3iwE8IlOItglLGakMnQCIe) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [Steamy Hot](https://open.spotify.com/album/5ZamHxns7piRpqPUVjbQba) | 2:40 | 2023-08-21 | 2023-09-01 |
 | [Step!](https://open.spotify.com/track/6UqGjOs7CS991n848bipBC) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Step!](https://open.spotify.com/album/6m60vpr7y4UA8NmTow50GJ) | 3:17 | 2022-07-24 | 2022-07-28 |

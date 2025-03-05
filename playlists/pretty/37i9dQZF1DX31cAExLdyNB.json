@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 71849,
+  "num_followers": 71859,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Eleuthera (Catching Flies Remix)",
+        "url": "https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        },
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 263926,
+      "name": "Eleuthera - Catching Flies Remix",
+      "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "M\u00e1quina Yin Yang",
         "url": "https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 274576,
       "name": "Los Buenos Tiempos",
       "url": "https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Eleuthera (Catching Flies Remix)",
-        "url": "https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        },
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 263926,
-      "name": "Eleuthera - Catching Flies Remix",
-      "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
     },
     {
       "added_at": "2024-06-28 21:13:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2ALpxn4fNxvqaXlL37Pu3V.md) - [plain]
 
 > I can&\#x27;t quite place it
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 4 songs - 18 min 24 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 4 songs - 18 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

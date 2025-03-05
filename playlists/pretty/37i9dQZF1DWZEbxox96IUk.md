@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,894 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,907 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 40 | [A caus' des garçons \- Radio Version](https://open.spotify.com/track/6qVHavRuhCeoNq66osK4cL) | [A Caus' Des Garçons](https://open.spotify.com/artist/44rIoyd04L9FBK4P8zrodX) | [A caus' des garçons](https://open.spotify.com/album/2Pd31sl13MAvyawXBToJi7) | 4:13 |
 | 41 | [Besoin de rien, envie de toi](https://open.spotify.com/track/2xwJmtyYt3tJNl4Ql9DmmW) | [Peter & Sloane](https://open.spotify.com/artist/6REk440jiYtbGdIyi2BjuV) | [Besoin De Rien, Envie De Toi](https://open.spotify.com/album/6KHWQW2tGc64o6y7YA79nF) | 3:42 |
 | 42 | [Chante](https://open.spotify.com/track/7xlEpc9WAFnjMBWjZ1M25e) | [Les Forbans](https://open.spotify.com/artist/6d3BkI9bZouJ63vdkH3c4l) | [La Megacompil Des Forbans](https://open.spotify.com/album/5YHfejF82DDwWDvFNqSOZi) | 2:58 |
-| 43 | [En rouge et noir](https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN) | [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [best of jeanne mas 2004](https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx) | 4:28 |
+| 43 | [En rouge et noir](https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN) | [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [Best of Jeanne Mas 2004](https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx) | 4:28 |
 | 44 | [Joue pas](https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe), [Joniece Jamison](https://open.spotify.com/artist/1cv4XgiZ8UewYxrtk4XO3Q) | [Two Feldman](https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9) | 4:11 |
 | 45 | [Mise au point](https://open.spotify.com/track/2hSSHgViCLNwV5TozS0otN) | [Jakie Quartz](https://open.spotify.com/artist/5wGprTHwvhRJpnN4vWlLDT) | [Mise au point \(Edition Deluxe\)](https://open.spotify.com/album/5SPAEEOKhwl0dYJflmQ1L7) | 4:43 |
 | 46 | [C'est l'amour \(Version originale\)](https://open.spotify.com/track/4avt9wdU3AuLGSu4GFTsu0) | [Léopold Nord & Vous](https://open.spotify.com/artist/66M3IT7olPYfvGGRSfXQms) | [C'est l'amour](https://open.spotify.com/album/4EPeTd0isGRzAl6uZQSD1Y) | 3:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,287,680 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287,759 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Fallin'](https://open.spotify.com/track/015nLL8QHmMe26OsKWmKsr) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Fallin'](https://open.spotify.com/album/2y1xuBbCBrhvx8wV3JZ6Kh) | 3:01 |
 | 50 | [Pieces](https://open.spotify.com/track/2TWTMmb5uHVuXEpXniIIhB) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Pieces](https://open.spotify.com/album/20udlOmp16aNccOj3iGupw) | 3:04 |
 
-Snapshot ID: `Z8Uj5wAAAACAMlwtwkt1eLf1aGzoWKtr`
+Snapshot ID: `Z8Uj5wAAAAAPYrFJ+3pnXgTpmxExHmQu`

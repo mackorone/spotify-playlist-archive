@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 295088,
+  "num_followers": 295200,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAABpKpmI09LbZyA+nARAFa3y",
+  "snapshot_id": "Z8TxAAAAAABPWo2P+/kij84ZQAbRZpEg",
   "tracks": [
     {
       "added_at": null,
@@ -630,11 +630,15 @@
         {
           "name": "Tiffany Hudson",
           "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Steven Furtick",
+          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
         }
       ],
-      "duration_ms": 452829,
-      "name": "Sure Been Good (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/17qx4XW3tI8BkGhZseXzsQ"
+      "duration_ms": 473850,
+      "name": "New Thing Coming (feat. Tiffany Hudson & Steven Furtick)",
+      "url": "https://open.spotify.com/track/352bLqQDbtRgaFhZgdLUde"
     },
     {
       "added_at": null,
@@ -710,15 +714,11 @@
         {
           "name": "Tiffany Hudson",
           "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        },
-        {
-          "name": "Steven Furtick",
-          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
         }
       ],
-      "duration_ms": 473850,
-      "name": "New Thing Coming (feat. Tiffany Hudson & Steven Furtick)",
-      "url": "https://open.spotify.com/track/352bLqQDbtRgaFhZgdLUde"
+      "duration_ms": 452829,
+      "name": "Sure Been Good (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/17qx4XW3tI8BkGhZseXzsQ"
     },
     {
       "added_at": null,

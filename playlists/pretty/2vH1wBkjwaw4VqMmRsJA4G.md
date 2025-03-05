@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vH1wBkjwaw4VqMmRsJA4G.md) - [plain]
 
 > Explicitly gay
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 11 songs - 34 min 13 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 11 songs - 34 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

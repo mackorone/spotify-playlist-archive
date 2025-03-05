@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 670550,
+  "num_followers": 670626,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAChDT/fzcWmkHcrMQQ+3nJb",
+  "snapshot_id": "Z8TxAAAAAACec+posFuD5RpuRYwM08a4",
   "tracks": [
     {
       "added_at": null,
@@ -239,38 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 154066,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "The Crystal Ship",
-      "url": "https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "An American Prayer",
         "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
       },
@@ -291,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
       "artists": [
         {
@@ -300,9 +268,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 180573,
-      "name": "You're Lost Little Girl",
-      "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"
+      "duration_ms": 152000,
+      "name": "The Crystal Ship",
+      "url": "https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K"
     },
     {
       "added_at": null,
@@ -316,15 +284,15 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 132949,
-      "name": "Blue Sunday",
-      "url": "https://open.spotify.com/track/2g3JAKjKruTL40VffoGLmg"
+      "duration_ms": 154066,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
       "artists": [
         {
@@ -332,9 +300,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Alabama Song (Whisky Bar)",
-      "url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
+      "duration_ms": 180573,
+      "name": "You're Lost Little Girl",
+      "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"
     },
     {
       "added_at": null,
@@ -355,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of the Doors",
-        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
       "artists": [
         {
@@ -364,9 +332,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 378480,
-      "name": "Gloria - Live; 2007 Remaster",
-      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
+      "duration_ms": 197400,
+      "name": "Alabama Song (Whisky Bar)",
+      "url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
     },
     {
       "added_at": null,
@@ -380,15 +348,15 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Waiting for the Sun",
-      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
+      "duration_ms": 132949,
+      "name": "Blue Sunday",
+      "url": "https://open.spotify.com/track/2g3JAKjKruTL40VffoGLmg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+        "name": "The Very Best of the Doors",
+        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
       },
       "artists": [
         {
@@ -396,9 +364,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 212426,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK"
+      "duration_ms": 378480,
+      "name": "Gloria - Live; 2007 Remaster",
+      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
     },
     {
       "added_at": null,
@@ -419,6 +387,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Waiting for the Sun",
+      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 264960,
       "name": "Five to One",
       "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Moonlight Drive",
+      "url": "https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r"
     },
     {
       "added_at": null,
@@ -467,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Moonlight Drive",
-      "url": "https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 178306,
       "name": "Spanish Caravan",
       "url": "https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Hyacinth House",
-      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
       "duration_ms": 301986,
       "name": "Breakn' a Sweat",
       "url": "https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Hyacinth House",
+      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7H4XpyC9TgJ.md) - [plain]
 
 > Are you ready to be a Jimin's MUSE? 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,352 likes - 33 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,573 likes - 33 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7H4XpyC9TgJ.md) - [plain]
 | 32 | [Like Crazy \(Instrumental\)](https://open.spotify.com/track/0cxhv3PpIkmREXqobuB0zG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Like Crazy \(Remixes\)](https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2) | 3:32 |
 | 33 | [Outro Message from Jimin](https://open.spotify.com/track/1uCSqZZIan266XTbkmTCCV) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Jimin's Message to ARMY Audio Liners](https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV) | 0:05 |
 
-Snapshot ID: `Zqyi1gAAAAAgoXPougPXKrH4X2MfqNC7`
+Snapshot ID: `Zqyi1gAAAAB7hdbL37ckrX2+gDIMIZQe`

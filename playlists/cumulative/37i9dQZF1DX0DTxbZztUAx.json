@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/1MseTwoK0MEOR5KmYDv83Y"
+      },
+      "artists": [
+        {
+          "name": "Loretta Mars",
+          "url": "https://open.spotify.com/artist/5LvcP7kPiuAr2WHo6VfdsP"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151905,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0kctcG2sYodFwrwnF43C1x"
+    },
+    {
+      "album": {
         "name": "Let That Money Talk",
         "url": "https://open.spotify.com/album/3TNbtNoKWigq8Yx0XVzGfF"
       },

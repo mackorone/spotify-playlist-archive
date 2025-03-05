@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uYCFYN7H4JUOEI7N4dLHN.md) - [plain]
 
 > Rock through the 80s\. Over 8 hours of music from iconic bands and artists! Cover: Queen
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 150,667 likes - 125 songs - 8 hr 49 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 150,657 likes - 125 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/2uYCFYN7H4JUOEI7N4dLHN.md) - [plain]
 | 124 | [The One I Love \- Remastered 2012](https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \- 25th Anniversary Edition](https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7) | 3:17 |
 | 125 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 |
 
-Snapshot ID: `AAAGJOoKSRmaSYR7tmCUCr+EGvEIfi4x`
+Snapshot ID: `AAAGKYk6hpuAsI9x2L0sYfVT13cF+OF4`

@@ -601,6 +601,28 @@
     },
     {
       "album": {
+        "name": "Channa Ve",
+        "url": "https://open.spotify.com/album/3Cygdal0KRaQzXKdr1UZE2"
+      },
+      "artists": [
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        },
+        {
+          "name": "Nitin Rana",
+          "url": "https://open.spotify.com/artist/39Q1usUtc8a68pobI6RU5c"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Channa Ve",
+      "url": "https://open.spotify.com/track/3yBrSAxIJz8oaSBiIfsrBQ"
+    },
+    {
+      "album": {
         "name": "Unsung Verses (2020)",
         "url": "https://open.spotify.com/album/5qWmIzOFBluiMaCWh337Yt"
       },
@@ -3536,7 +3558,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 167080,
       "name": "Piya",
       "url": "https://open.spotify.com/track/3dA2C0JVTXRS43erFqVLRy"

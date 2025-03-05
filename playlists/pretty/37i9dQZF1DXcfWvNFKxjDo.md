@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jonas Blue, Izzy Bizu
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,725 likes - 79 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,765 likes - 79 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 78 | [Gute Fee](https://open.spotify.com/track/5U9ZifhBsRa5ClUiw6p0LI) | [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY) | [Gute Fee](https://open.spotify.com/album/0BcBUqLFXBMkdLNI9Bappq) | 2:21 |
 | 79 | [überall](https://open.spotify.com/track/407CVcqaiiRrofIi99xWda) | [OTIS](https://open.spotify.com/artist/5UhU0sGRQAyORoDKIoaoXn), [NØAH](https://open.spotify.com/artist/6aFGdXHBKah1nyrqrGryuE) | [überall](https://open.spotify.com/album/7waVetplGStpxa8U6XGBjN) | 2:31 |
 
-Snapshot ID: `Z8W5rwAAAAAHeuPv8sV75vHSWtigUmGC`
+Snapshot ID: `Z8W5rwAAAABbs5IncU5sepkeky3Y7tcQ`

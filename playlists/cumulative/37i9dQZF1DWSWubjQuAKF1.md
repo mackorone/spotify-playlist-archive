@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kalina Kortas
 
-361 songs - 17 hr 20 min
+362 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Królowa i Król](https://open.spotify.com/track/3usL9dS4TrO251dfZ5y4vr) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Królowa i Król](https://open.spotify.com/album/48gfoj9ZDGraMyTKJHLCzD) | 2:34 | 2024-07-18 | 2024-11-08 |
 | [księżniczka type beat](https://open.spotify.com/track/7zJuTk0G6CYUIAK7UIgJtj) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Kacha](https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:51 | 2024-10-18 | 2025-01-24 |
 | [Ktoś](https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Ktoś](https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE) | 2:36 | 2024-08-01 | 2025-01-24 |
+| [Kurz](https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Kurz](https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg) | 2:35 | 2025-02-27 |  |
 | [Lawenda](https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ) | [Aymi](https://open.spotify.com/artist/4fjC4XQqR0L6tdvIgujs8I) | [Lawenda](https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV) | 2:28 | 2024-08-22 | 2024-10-19 |
 | [lawenda](https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [lawenda](https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1) | 3:55 | 2024-07-11 | 2024-11-08 |
 | [Lepsze dni](https://open.spotify.com/track/7HnzviYTC1Ag8hPkBaKvHa) | [Lija](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [słowa, których nigdy nie wypowiedziałam](https://open.spotify.com/album/6evdJOStWbQNA0G8RwgssR) | 3:34 | 2024-06-28 | 2024-07-05 |
@@ -186,7 +187,7 @@
 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 | 2025-01-23 |  |
 | [modlitwa](https://open.spotify.com/track/69T5uAZvcOOy2DGIVVUr9Q) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [modlitwa](https://open.spotify.com/album/2FIZLvx9pYTL9sYliDe5FN) | 2:25 | 2025-02-21 |  |
 | [Mogę Latać](https://open.spotify.com/track/3hmBQsDBmCYgAYfW7gVbte) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Mogę Latać](https://open.spotify.com/album/2Y8m2NsU16PtcHzsGwbL56) | 2:11 | 2024-06-28 | 2024-08-31 |
-| [Mogę się pomylić](https://open.spotify.com/track/4Dd6xQTBczaS9cn8hN7Dio) | [M!ka](https://open.spotify.com/artist/1PU2QmArAkuOgEXXRJhYl0), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Mogę się pomylić](https://open.spotify.com/album/4MOspn7lLcX6gCTNoLA2v3) | 2:48 | 2025-02-27 |  |
+| [Mogę się pomylić](https://open.spotify.com/track/4Dd6xQTBczaS9cn8hN7Dio) | [M!ka](https://open.spotify.com/artist/1PU2QmArAkuOgEXXRJhYl0), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Mogę się pomylić](https://open.spotify.com/album/4MOspn7lLcX6gCTNoLA2v3) | 2:48 | 2025-02-27 | 2025-03-05 |
 | [mona melody](https://open.spotify.com/track/7gKrwB4MBdOtuYMpwNLOke) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [mona melody](https://open.spotify.com/album/5JFWinUnEErAsE1x1fDFdC) | 3:26 | 2025-02-20 |  |
 | [monika](https://open.spotify.com/track/4WxETZqfG7iGCIxI21G9pE) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [monika](https://open.spotify.com/album/41ksbu4TQ61rGzDsGp3vuh) | 2:51 | 2024-06-28 | 2024-08-02 |
 | [More than friends](https://open.spotify.com/track/1vZYCrvrO1hoxAbVN70hnw) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk), [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU) | [4 lata 4 stany \(Deluxe\)](https://open.spotify.com/album/33X4ETnGaaQvImfNAhsQ2x) | 3:02 | 2024-06-28 | 2024-08-23 |

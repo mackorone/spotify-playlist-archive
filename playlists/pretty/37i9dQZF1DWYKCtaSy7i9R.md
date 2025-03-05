@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKCtaSy7i9R.md) - [plain]
 
 > Quiet spring mornings, wake up early with the birds\. <br/>Take a moment with nature for a positive start of your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 38 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 38 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

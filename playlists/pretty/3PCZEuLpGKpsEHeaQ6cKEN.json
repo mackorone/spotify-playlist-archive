@@ -1,13 +1,33 @@
 {
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  D.O.D, NORTH",
-  "num_followers": 270585,
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Armin van Buuren , Bon Jovi",
+  "num_followers": 270580,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADTkixmLbcORnMth2q0fjk9tQlHSjXc",
+  "snapshot_id": "AADTlKDKXK6XFUPpEPkgZF0vI3gXZwRr",
   "tracks": [
+    {
+      "added_at": "2025-02-27 23:03:04",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 193490,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW"
+    },
     {
       "added_at": "2025-02-27 23:03:04",
       "album": {
@@ -283,26 +303,6 @@
       "duration_ms": 185629,
       "name": "Surrender Your Love - Progressive Edit",
       "url": "https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk"
-    },
-    {
-      "added_at": "2025-02-27 23:03:04",
-      "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 193490,
-      "name": "Keep The Faith",
-      "url": "https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW"
     },
     {
       "added_at": "2025-02-27 23:03:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3z2cw3ZogDTDR1ZWpAUKRM.md) - [plain]
 
 > 
 
-[ssamt](https://open.spotify.com/user/ssamt) - 0 like - 12 songs - 52 min 21 sec
+[ssamt](https://open.spotify.com/user/ssamt) - 0 likes - 12 songs - 52 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

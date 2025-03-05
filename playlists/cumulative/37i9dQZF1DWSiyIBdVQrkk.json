@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best in classic and contemporary Reggae. Cover: Protoje",
+  "description": "The best in classic and contemporary Reggae. Cover: Jah Lil",
   "name": "One Love",
   "tracks": [
     {
@@ -1257,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "Cold Fire",
+        "url": "https://open.spotify.com/album/252LrLm8gZcT7OHGt0FJYt"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329978,
+      "name": "Cold Fire",
+      "url": "https://open.spotify.com/track/6ASYNohdCRHvQBgelgR1nX"
+    },
+    {
+      "album": {
         "name": "Come Inna The Dance",
         "url": "https://open.spotify.com/album/3IBH9s4xuvCVerk95xEpXI"
       },
@@ -1491,6 +1513,36 @@
     },
     {
       "album": {
+        "name": "Dangerous (with Busy Signal & The Movement)",
+        "url": "https://open.spotify.com/album/5VNHisrt6cTjxN8fPaVBTW"
+      },
+      "artists": [
+        {
+          "name": "Hector Roots Lewis",
+          "url": "https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Dangerous (with Busy Signal & The Movement)",
+      "url": "https://open.spotify.com/track/087SR6Yy8rFPssgPXChZCo"
+    },
+    {
+      "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/37HnYAB2wsNldbGHpOGkwi"
       },
@@ -1502,7 +1554,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 233920,
       "name": "Dash Wata",
       "url": "https://open.spotify.com/track/31Qgsts9pDVcocBJRS7lVl"
@@ -2404,6 +2456,24 @@
       "duration_ms": 322000,
       "name": "Handsworth Revolution",
       "url": "https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM"
+    },
+    {
+      "album": {
+        "name": "Harry Shut",
+        "url": "https://open.spotify.com/album/3cCVjKSH948RpkGmwgkvON"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148506,
+      "name": "Harry Shut",
+      "url": "https://open.spotify.com/track/5ij2UDqsBHn8T1f6VkSDMX"
     },
     {
       "album": {
@@ -3894,7 +3964,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 298266,
       "name": "Look Who's Dancing",
       "url": "https://open.spotify.com/track/01qt1C3CQlfjCgGPMWmPfW"
@@ -5447,6 +5517,24 @@
     },
     {
       "album": {
+        "name": "One Gift",
+        "url": "https://open.spotify.com/album/6L8qJyXZrmzunTMq03oHOo"
+      },
+      "artists": [
+        {
+          "name": "Jah Lil",
+          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180900,
+      "name": "One Gift",
+      "url": "https://open.spotify.com/track/3QlDKHTHvO7LHD6JUjgjms"
+    },
+    {
+      "album": {
         "name": "The Spirit Of Music",
         "url": "https://open.spotify.com/album/5zje9PgzMPRNSwVDMCyFX2"
       },
@@ -5580,7 +5668,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
@@ -6646,7 +6734,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 212245,
       "name": "Selassie is the Chapel",
       "url": "https://open.spotify.com/track/6347eqxZEaPQr9Y4hSAgc2"

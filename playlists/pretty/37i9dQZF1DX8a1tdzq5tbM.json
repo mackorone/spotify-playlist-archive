@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1663091,
+  "num_followers": 1663478,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -163,26 +163,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Heads Will Roll",
-        "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 203920,
-      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
-      "url": "https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Blue (Da Ba Dee)",
         "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 219618,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
       "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Heads Will Roll",
+        "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "url": "https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Together - Radio Edit",
-      "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Empty Streets (Remixes)",
         "url": "https://open.spotify.com/album/1qcfizKVZbdpi61ZSJglyu"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 501213,
       "name": "Empty Streets - Haji & Emanuel Remix",
       "url": "https://open.spotify.com/track/12lTG2CsivVTCJH21qgkVz"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Together - Radio Edit",
+      "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "Step One Two",
+      "url": "https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Army Of Two",
         "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 187500,
       "name": "Army Of Two - Radio Version",
       "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "Step One Two",
-      "url": "https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1112,26 +1112,6 @@
       },
       "artists": [
         {
-          "name": "Bellatrax",
-          "url": "https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE"
-        },
-        {
-          "name": "Sophia May",
-          "url": "https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
-      "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
           "name": "Ercola",
           "url": "https://open.spotify.com/artist/3L3eVOR4ra6ZGpAta7xlGV"
         },
@@ -1143,6 +1123,42 @@
       "duration_ms": 219146,
       "name": "Deep At Night (Adam K & Soha Radio Mix)",
       "url": "https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Sorry - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Bellatrax",
+          "url": "https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE"
+        },
+        {
+          "name": "Sophia May",
+          "url": "https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
+      "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1175,22 +1191,6 @@
       "duration_ms": 171280,
       "name": "Make Your Move - Radio Edit",
       "url": "https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Sorry - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 393333,
+      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
+      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Movements",
         "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 224533,
       "name": "Sun Is Up - Play & Win Radio Edit",
       "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Put Your Hands Up For Detroit",
-        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 393333,
-      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
-      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1839,6 +1839,30 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Ned Shephard",
+          "url": "https://open.spotify.com/artist/7JgG0M8DYJUL02qyIwVkEr"
+        },
+        {
+          "name": "Sultan",
+          "url": "https://open.spotify.com/artist/14OWrFlSp0Wj5RBuk4hC3b"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
+      "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Another Place",
         "url": "https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw"
       },
@@ -1875,22 +1899,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 254120,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Elements of Life",
         "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
@@ -1911,26 +1919,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1"
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b"
       },
       "artists": [
         {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Ned Shephard",
-          "url": "https://open.spotify.com/artist/7JgG0M8DYJUL02qyIwVkEr"
-        },
-        {
-          "name": "Sultan",
-          "url": "https://open.spotify.com/artist/14OWrFlSp0Wj5RBuk4hC3b"
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
         }
       ],
-      "duration_ms": 236706,
-      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
-      "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
+      "duration_ms": 254120,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK"
     },
     {
       "added_at": "2024-07-12 15:40:20",

@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36251,
+  "num_followers": 36246,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
+        "name": "3al hady",
+        "url": "https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F"
+      },
+      "artists": [
+        {
+          "name": "Uglymoss",
+          "url": "https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "3al hady",
+      "url": "https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
         "name": "Barcelona (Freedom Music)",
         "url": "https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 194634,
       "name": "Barcelona (Freedom Music)",
       "url": "https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
-        "name": "3al hady",
-        "url": "https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F"
-      },
-      "artists": [
-        {
-          "name": "Uglymoss",
-          "url": "https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "3al hady",
-      "url": "https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "\u0634\u0641\u062a",
-        "url": "https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX"
-      },
-      "artists": [
-        {
-          "name": "BrownMusic",
-          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
-        }
-      ],
-      "duration_ms": 123503,
-      "name": "\u0634\u0641\u062a",
-      "url": "https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/2VRJeL1urQDxXkIvPCCa6s"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 191838,
       "name": "FLOATING",
       "url": "https://open.spotify.com/track/6dH6sNqJ0V70apdyR7mMSZ"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "\u0634\u0641\u062a",
+        "url": "https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX"
+      },
+      "artists": [
+        {
+          "name": "BrownMusic",
+          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
+        }
+      ],
+      "duration_ms": 123503,
+      "name": "\u0634\u0641\u062a",
+      "url": "https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs"
     },
     {
       "added_at": "2024-09-30 12:18:54",

@@ -1,6 +1,6 @@
 {
   "description": "South African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv?si=Bcz-5Qg9RJSvtysyXHAJxw\">Zamajobe</a> ",
-  "num_followers": 81811,
+  "num_followers": 81880,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-02-18 09:31:04",
       "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
+      },
+      "artists": [
+        {
+          "name": "Watershed",
+          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "Indigo Girl",
+      "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
+    },
+    {
+      "added_at": "2025-02-18 09:31:04",
+      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 262826,
       "name": "Mambotjie (feat. 2Shot)",
       "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
-    },
-    {
-      "added_at": "2025-02-18 09:31:04",
-      "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
-      },
-      "artists": [
-        {
-          "name": "Watershed",
-          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Indigo Girl",
-      "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
     },
     {
       "added_at": "2025-02-18 09:31:04",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-02-18 09:31:04",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+    },
+    {
+      "added_at": "2025-02-18 09:31:04",
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
       },
@@ -535,38 +551,6 @@
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
-    },
-    {
-      "added_at": "2025-02-18 09:31:04",
-      "album": {
-        "name": "House Player",
-        "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
-      },
-      "artists": [
-        {
-          "name": "DJ Mbuso",
-          "url": "https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3"
-        }
-      ],
-      "duration_ms": 370906,
-      "name": "Mbuso's Revenge",
-      "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
-    },
-    {
-      "added_at": "2025-02-18 09:31:04",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2025-02-18 09:31:04",
@@ -603,6 +587,22 @@
     {
       "added_at": "2025-02-18 09:31:04",
       "album": {
+        "name": "House Player",
+        "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
+      },
+      "artists": [
+        {
+          "name": "DJ Mbuso",
+          "url": "https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3"
+        }
+      ],
+      "duration_ms": 370906,
+      "name": "Mbuso's Revenge",
+      "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
+    },
+    {
+      "added_at": "2025-02-18 09:31:04",
+      "album": {
         "name": "Khokhovula",
         "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 317760,
       "name": "Sana Luma (Thats The Way Love Is)",
       "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
-    },
-    {
-      "added_at": "2025-02-18 09:31:04",
-      "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 311880,
-      "name": "Doo Be Doo",
-      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
     },
     {
       "added_at": "2025-02-18 09:31:04",
@@ -683,6 +667,38 @@
     {
       "added_at": "2025-02-18 09:31:04",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2025-02-18 09:31:04",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 311880,
+      "name": "Doo Be Doo",
+      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
+    },
+    {
+      "added_at": "2025-02-18 09:31:04",
+      "album": {
         "name": "Bhambatha (Remastered 2024)",
         "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 451466,
       "name": "Y U 4 Me",
       "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
-    },
-    {
-      "added_at": "2025-02-18 09:31:04",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2025-02-18 09:31:04",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-02-18 09:31:04",
       "album": {
+        "name": "Wie's Bang",
+        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+      },
+      "artists": [
+        {
+          "name": "Van Coke Kartel",
+          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "Tot Die Son Uitkom",
+      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
+    },
+    {
+      "added_at": "2025-02-18 09:31:04",
+      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 315266,
       "name": "Palafala (feat. S'bu)",
       "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
-    },
-    {
-      "added_at": "2025-02-18 09:31:04",
-      "album": {
-        "name": "Ancient Evening",
-        "url": "https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT"
-      },
-      "artists": [
-        {
-          "name": "Sibongile Khumalo",
-          "url": "https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Thula Mama",
-      "url": "https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM"
     },
     {
       "added_at": "2025-02-18 09:31:04",
@@ -859,18 +859,18 @@
     {
       "added_at": "2025-02-18 09:31:04",
       "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+        "name": "Ancient Evening",
+        "url": "https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT"
       },
       "artists": [
         {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+          "name": "Sibongile Khumalo",
+          "url": "https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI"
         }
       ],
-      "duration_ms": 296680,
-      "name": "Tot Die Son Uitkom",
-      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
+      "duration_ms": 246293,
+      "name": "Thula Mama",
+      "url": "https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM"
     },
     {
       "added_at": "2025-02-18 09:31:04",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-02-18 09:31:04",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 269720,
-      "name": "Magesh",
-      "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
-    },
-    {
-      "added_at": "2025-02-18 09:31:04",
-      "album": {
         "name": "Ma'cheri",
         "url": "https://open.spotify.com/album/19n9b6PD8x6clAdrqEXaWe"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 257253,
       "name": "The Knife",
       "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
+    },
+    {
+      "added_at": "2025-02-18 09:31:04",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 269720,
+      "name": "Magesh",
+      "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
     },
     {
       "added_at": "2025-02-18 09:31:04",

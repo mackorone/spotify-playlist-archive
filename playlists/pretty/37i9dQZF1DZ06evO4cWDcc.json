@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 316303,
+  "num_followers": 316349,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAB3fY4q/pG3hrPJbQHmZQ25",
+  "snapshot_id": "Z8TxAAAAAABaXZcpv9F9qF69uTTTgW/L",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "Night Bird Flying - Alternate Version",
-      "url": "https://open.spotify.com/track/1NlQuvJtH8oydyTFkAsFRp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs For Groovy Children: The Fillmore East Concerts",
         "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 533680,
       "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
       "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Night Bird Flying - Alternate Version",
+      "url": "https://open.spotify.com/track/1NlQuvJtH8oydyTFkAsFRp"
     },
     {
       "added_at": null,

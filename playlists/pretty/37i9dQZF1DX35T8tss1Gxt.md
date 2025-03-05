@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Yung Kriss
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,269 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,311 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 89 | [Proud of You](https://open.spotify.com/track/53cdNLzauTpsvCSbOQY4CY) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Proud of You](https://open.spotify.com/album/0lDZxSZH13HjjhRLnK4n7i) | 2:47 |
 | 90 | [5am in Miami](https://open.spotify.com/track/7vg439NsajOjDxvAJH7uGo) | [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly), [Made](https://open.spotify.com/artist/3rpMFsPJ2Kz9diHGS0amYd) | [5am in Miami](https://open.spotify.com/album/2d45CmtgArAumE24Cjw4iw) | 2:08 |
 
-Snapshot ID: `Z7lJYgAAAADjfrRemML6GmyiF+tWnGqq`
+Snapshot ID: `Z7lJYgAAAACv+9FTgbJAclhnEn3vhuVu`

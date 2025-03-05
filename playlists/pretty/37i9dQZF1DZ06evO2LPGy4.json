@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 448062,
+  "num_followers": 448094,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAADSelQxDnKdd8Oh0QmE+crw",
+  "snapshot_id": "Z8TxAAAAAAAxUfX9jBvHYcvbYtQb2iNb",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Asi Es la Vida",
+        "url": "https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO"
+      },
+      "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 161132,
+      "name": "Ando Bien",
+      "url": "https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Frente y de Frente",
         "url": "https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 186773,
       "name": "Moneda (feat. Gerardo Ortiz)",
       "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Asi Es la Vida",
-        "url": "https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO"
-      },
-      "artists": [
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 161132,
-      "name": "Ando Bien",
-      "url": "https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P"
     },
     {
       "added_at": null,
@@ -679,22 +679,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Lo Que Falta",
-        "url": "https://open.spotify.com/album/6FJ6RLY0ozGas2NnTu0Or0"
+        "name": "Mi Expediente",
+        "url": "https://open.spotify.com/album/5asYzRIL4KNTEDDXBoHC1N"
       },
       "artists": [
         {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+          "name": "Jes\u00fas Chairez",
+          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
         },
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
         }
       ],
-      "duration_ms": 209893,
-      "name": "El Jefe F",
-      "url": "https://open.spotify.com/track/5rsHIUAqXwAsckL3eLvC9D"
+      "duration_ms": 191026,
+      "name": "Los 4 Ases - En Vivo",
+      "url": "https://open.spotify.com/track/0PWgsrMYk6c7grmdsW7Fx2"
     },
     {
       "added_at": null,
@@ -731,26 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Expediente",
-        "url": "https://open.spotify.com/album/5asYzRIL4KNTEDDXBoHC1N"
+        "name": "Y Lo Que Falta",
+        "url": "https://open.spotify.com/album/6FJ6RLY0ozGas2NnTu0Or0"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Chairez",
-          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
         },
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Los 4 Ases - En Vivo",
-      "url": "https://open.spotify.com/track/0PWgsrMYk6c7grmdsW7Fx2"
+      "duration_ms": 209893,
+      "name": "El Jefe F",
+      "url": "https://open.spotify.com/track/5rsHIUAqXwAsckL3eLvC9D"
     },
     {
       "added_at": null,

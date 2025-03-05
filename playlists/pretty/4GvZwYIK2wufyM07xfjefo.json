@@ -1,13 +1,105 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u304a\u5bb6\u3067\u306e\u3093\u3073\u308a\u8074\u304d\u305f\u3044\u7652\u3057\u7cfb\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 119,
+  "num_followers": 121,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAEjKHVLdQv8XXhdiPZzwUOG+QsFWFI",
+  "snapshot_id": "AAAEmw4dxeb940oE7huECgPL0epduO46",
   "tracks": [
+    {
+      "added_at": "2025-03-04 08:32:25",
+      "album": {
+        "name": "departure EP",
+        "url": "https://open.spotify.com/album/48LkmkQ67zedQog2YKkKnT"
+      },
+      "artists": [
+        {
+          "name": "Adomiori",
+          "url": "https://open.spotify.com/artist/4GCCMFsEYjm4th48sLCGrZ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 147230,
+      "name": "departure (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4B5nZfhX9yUK6lVvSIiba1"
+    },
+    {
+      "added_at": "2025-03-04 08:32:38",
+      "album": {
+        "name": "METRO",
+        "url": "https://open.spotify.com/album/7oH9EdcEhU5vi4AFZbyJWG"
+      },
+      "artists": [
+        {
+          "name": "patirchev",
+          "url": "https://open.spotify.com/artist/2PTdcLmUjIYOHNr8F3kkRL"
+        }
+      ],
+      "duration_ms": 226363,
+      "name": "PASSAGE (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3CBz8B8mKSS461Hqk121km"
+    },
+    {
+      "added_at": "2025-03-04 08:32:50",
+      "album": {
+        "name": "Close My Eyes -\u8a18\u61b6\u306e\u6249-",
+        "url": "https://open.spotify.com/album/0yzKO62qkg0eDuJZLLCkkG"
+      },
+      "artists": [
+        {
+          "name": "Glint Of Sound",
+          "url": "https://open.spotify.com/artist/6qFXg5EIKV6Z010nGlqhJN"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 362307,
+      "name": "Close My Eyes -\u8a18\u61b6\u306e\u6249- (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/629JBTvOyEyi0fqXLiVJDM"
+    },
+    {
+      "added_at": "2025-03-04 08:33:00",
+      "album": {
+        "name": "\u7070\u8272\u306e\u98a8\u8239",
+        "url": "https://open.spotify.com/album/4NxFLMpAdB8TpIwKwKGw54"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30a4\u30af\u30a2",
+          "url": "https://open.spotify.com/artist/1IPsi5qSsqd9edA8u35S9Z"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "\u7070\u8272\u306e\u98a8\u8239 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3h2GUUKyZeQQiOxhI8gWMF"
+    },
+    {
+      "added_at": "2025-03-04 08:33:13",
+      "album": {
+        "name": "KALEIDO",
+        "url": "https://open.spotify.com/album/6nAgns6nJVScNM3PMu7yoM"
+      },
+      "artists": [
+        {
+          "name": "whoo",
+          "url": "https://open.spotify.com/artist/2PhFw7yt46F2dU8PV2eGpz"
+        }
+      ],
+      "duration_ms": 288153,
+      "name": "KALEIDO (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1312r2ILOQa3nI3kE59D9o"
+    },
     {
       "added_at": "2025-02-25 08:41:45",
       "album": {
@@ -497,7 +589,7 @@
       "artists": [
         {
           "name": "\u30b8\u30b0",
-          "url": "https://open.spotify.com/artist/4Z7sHZkUEVKoRvDPWPFbKe"
+          "url": "https://open.spotify.com/artist/6e869zTslT6ZAJowpXGAMM"
         }
       ],
       "duration_ms": 227727,
@@ -687,106 +779,6 @@
       "duration_ms": 210238,
       "name": "show down",
       "url": "https://open.spotify.com/track/6CO803K9qsbXRxOjRnfhG0"
-    },
-    {
-      "added_at": "2024-12-03 08:24:53",
-      "album": {
-        "name": "\u899a\u9192\u306e\u30e1\u30ed\u30c7\u30a3\u30fc",
-        "url": "https://open.spotify.com/album/1AmFQ74udHDywtTaaeQSVJ"
-      },
-      "artists": [
-        {
-          "name": "0-9",
-          "url": "https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 283425,
-      "name": "\u5929\u4f7f\u7531\u6765\u306e\u5b50\u5b88\u6b4c (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/4XKdOjZitWAitMiPp85vFF"
-    },
-    {
-      "added_at": "2024-12-03 08:25:07",
-      "album": {
-        "name": "\u96e2\u5408",
-        "url": "https://open.spotify.com/album/70nRajo2pfc6LrxSwxE8rY"
-      },
-      "artists": [
-        {
-          "name": "Mushi-P",
-          "url": "https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 228089,
-      "name": "Kariko (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3Ue3X9rOqyvcYex7gSEyEI"
-    },
-    {
-      "added_at": "2024-12-03 08:25:21",
-      "album": {
-        "name": "flicker",
-        "url": "https://open.spotify.com/album/3wcyduAT0lFwVGHyaEyS6Z"
-      },
-      "artists": [
-        {
-          "name": "\u6674\u3044\u3061\u3070\u3093",
-          "url": "https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 169624,
-      "name": "\u3075\u305b\u3063\u3057\u3087\u30fc (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3JVaLeKVfWO3povgWEhqw7"
-    },
-    {
-      "added_at": "2024-12-03 08:25:34",
-      "album": {
-        "name": "\u30d1\u30fc\u30d7\u30eb\u30ad\u30e3\u30f3\u30c7\u30a3\u30e9\u30d6\u30dd\u30fc\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/3Xa4sZ5gWs8io8Plx89C70"
-      },
-      "artists": [
-        {
-          "name": "\u306f\u304b\u3081",
-          "url": "https://open.spotify.com/artist/7crr5vdYpti00MTNz9YDzQ"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 198375,
-      "name": "\u30d1\u30fc\u30d7\u30eb\u30ad\u30e3\u30f3\u30c7\u30a3\u30e9\u30d6\u30dd\u30fc\u30b7\u30e7\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4K1T1JPbK503U2SVFx0KU7"
-    },
-    {
-      "added_at": "2024-12-03 08:25:47",
-      "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/1Qa3rxwWSUz0N4D2HYdttv"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u64ab\u5bfa",
-          "url": "https://open.spotify.com/artist/5wvPfEco9mG8kzdMnhL3ct"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "Serendipity (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/5JR9zJHljT4GIW30ShScor"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

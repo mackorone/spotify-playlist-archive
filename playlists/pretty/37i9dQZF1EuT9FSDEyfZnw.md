@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EuT9FSDEyfZnw.md) - [plain]
 
 > We made you a personalized playlist with songs to take you back in time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

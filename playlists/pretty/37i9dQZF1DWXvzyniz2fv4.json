@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158740,
+  "num_followers": 158741,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,26 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
+        "name": "Mapa Astral",
+        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
+      },
+      "artists": [
+        {
+          "name": "DoisZ",
+          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "duration_ms": 193620,
+      "name": "Mapa Astral",
+      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
         "name": "Elementar",
         "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 170700,
       "name": "Deixa Queimar",
       "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
-        "name": "Mapa Astral",
-        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
-      },
-      "artists": [
-        {
-          "name": "DoisZ",
-          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 193620,
-      "name": "Mapa Astral",
-      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -1143,54 +1143,6 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
-        "name": "Interfone",
-        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
-      },
-      "artists": [
-        {
-          "name": "Sergin",
-          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Juan Branco",
-          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Interfone",
-      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
         "name": "Guts Sessions #1: Menina Linda",
         "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
       },
@@ -1223,6 +1175,54 @@
       "duration_ms": 252367,
       "name": "Guts Sessions #1: Menina Linda",
       "url": "https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
+        "name": "Interfone",
+        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
+      },
+      "artists": [
+        {
+          "name": "Sergin",
+          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Juan Branco",
+          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Interfone",
+      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
+        "name": "Meia Hora",
+        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Saffi",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Meia Hora",
+      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1295,30 +1319,6 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
-        "name": "Meia Hora",
-        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Saffi",
-          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Meia Hora",
-      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     },
     {
       "added_at": "2025-02-24 17:30:43",

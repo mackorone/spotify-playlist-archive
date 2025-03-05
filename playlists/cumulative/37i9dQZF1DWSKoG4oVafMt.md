@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,009 songs - 2 day 6 hr 21 min
+1,010 songs - 2 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Addiction](https://open.spotify.com/track/7ezpJeI9SGZIFKUuVtCG54) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [DJ Prodiigy](https://open.spotify.com/artist/6oM8rsauPkS4qGGClTv5F4), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Addiction](https://open.spotify.com/album/3XA6nulTKCmLSmnGeF8nf7) | 2:43 | 2022-12-13 | 2023-01-20 |
 | [Adhi Raat \- From "Love Thunder"](https://open.spotify.com/track/1aSnOIDf1IxVuSDNWmDkff) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Adhi Raat \(From "Love Thunder"\)](https://open.spotify.com/album/47vOI472akK6HkuR3Odtn5) | 3:33 | 2022-09-16 | 2023-02-02 |
 | [Admirer](https://open.spotify.com/track/6OFpUesdplq0jslk42Hyp4) | [Aden](https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ), [Amber](https://open.spotify.com/artist/6UIT9w4vJCXgsg77Ny9shS) | [\(Un\)broken](https://open.spotify.com/album/5pRVhkJ1PotLcBti9pvV5R) | 3:09 | 2025-02-10 |  |
-| [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:34 | 2025-02-13 |  |
+| [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:34 | 2025-02-13 | 2025-03-05 |
 | [Adore](https://open.spotify.com/track/2ogIlGih34reZmi1nfQxYx) | [Lally](https://open.spotify.com/artist/3YYh5TbqqaWfCxzpMGhjjV), [TEDD](https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ) | [Adore](https://open.spotify.com/album/75ERC1GXO6y7gY7H0pbVjy) | 2:50 | 2024-03-27 | 2024-07-19 |
 | [Adore You](https://open.spotify.com/track/6O0tJTjpI99TQD8bvtM6HM) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Adore You](https://open.spotify.com/album/3XgsHoifkQL6F6K3kMwnYJ) | 2:59 | 2022-05-20 | 2022-07-06 |
 | [Adore You](https://open.spotify.com/track/1pFOGFtQyqdlFgzmSVJ2fz) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Adore You](https://open.spotify.com/album/52P5TmTNdXKwmOhy18cmrZ) | 1:00 | 2022-07-16 | 2023-02-04 |
@@ -791,6 +791,7 @@
 | [Shadow](https://open.spotify.com/track/0NWWEG9qTxDKNARVQf6eDS) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 2:45 | 2022-03-16 | 2022-04-06 |
 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 | 2022-05-06 | 2022-07-06 |
 | [Shart Lagake](https://open.spotify.com/track/1IffRKiB73SXuSIY216UXK) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Shart Lagake](https://open.spotify.com/album/6WYypqpmi4WzMEhecA7NPX) | 2:31 | 2023-12-18 | 2024-02-07 |
+| [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/track/0BTyEzF1GM0J8ipX3NUal8) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/album/5aRiPnV51LMEcnNYcuFdBM) | 3:58 | 2025-03-04 |  |
 | [She Looked At Me](https://open.spotify.com/track/13OOUhzRPqKXmG2MawCVMv) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2), [Ardaas](https://open.spotify.com/artist/6z6QFNmbaqzIlr7fGmLkU8) | [She Looked At Me](https://open.spotify.com/album/3ls5rcpYqzcrlLzUtnW8FD) | 2:36 | 2022-12-16 | 2022-12-18 |
 | [She Looked At Me](https://open.spotify.com/track/4Eq7B4kyuXtmg12ypmhJ20) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2), [Ardaas](https://open.spotify.com/artist/6z6QFNmbaqzIlr7fGmLkU8) | [She Looked at Me \- Single](https://open.spotify.com/album/0la3jpT2u8Tl7KtoFfTkha) | 2:36 | 2022-12-16 | 2023-02-02 |
 | [She Loves You](https://open.spotify.com/track/0VMgUVDBJOV1Zs7VFnS4yP) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 2:45 | 2022-01-17 | 2022-04-06 |

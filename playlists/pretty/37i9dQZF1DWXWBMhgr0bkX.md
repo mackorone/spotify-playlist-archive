@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > The most exciting new releases in pop and beyond\. Cover: Hope Tala
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,411 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,417 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 49 | [Headlights](https://open.spotify.com/track/4rhA0C1CrzEayzlEj5rNJE) | [hllnd](https://open.spotify.com/artist/3L7Mk28o3qKZNLh6Sibl0v) | [Headlights](https://open.spotify.com/album/6aUzBCeRDSjEuVIiGdHLl3) | 3:45 |
 | 50 | [every time](https://open.spotify.com/track/2gGUMWTDJmgJKHjfBH4KV4) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Claire](https://open.spotify.com/album/4xEsbszzdEWln1nlO9XzDe) | 3:46 |
 
-Snapshot ID: `Z8D8mAAAAAB8CWOx/44uKPA9rAUgsgTu`
+Snapshot ID: `Z8D8mAAAAABj+0Oz7wM/Rh39+gvfYJWT`

@@ -4,7 +4,7 @@
 
 > A perfect link up to soundtrack your day\. Cover: MOLIY
 
-568 songs - 1 day 5 hr 36 min
+569 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,7 +503,7 @@
 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-05-15 | 2024-04-19 |
 | [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-15 | 2023-05-19 |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-07-21 | 2024-01-17 |
-| [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 | 2024-04-26 |  |
+| [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 | 2024-04-26 | 2025-03-05 |
 | [Tek Buddy](https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Vibes Don't Lie](https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU) | 2:28 | 2023-08-03 | 2024-12-06 |
 | [Température](https://open.spotify.com/track/6Cofg3IAgP5Ck2U13KJC96) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [L'école des Stars](https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv) | 2:52 | 2024-04-26 | 2024-06-04 |
 | [Ten Toes](https://open.spotify.com/track/2l6cWeDkec1ZZbiMlI47kR) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SIMMA DOWN](https://open.spotify.com/album/58ocawJCZM1RNuMEgqJJ93) | 2:30 | 2022-09-16 | 2022-10-13 |
@@ -534,6 +534,7 @@
 | [UnFck You](https://open.spotify.com/track/21sgVzSx0qQIpKnUEOUt0j) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [UnFck You](https://open.spotify.com/album/5OKm4MYpe25NJFpMfM7kGj) | 2:40 | 2024-10-18 | 2024-12-06 |
 | [Unruly](https://open.spotify.com/track/2rwQLeDE1xRT39ORMHACjz) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [ReBourne](https://open.spotify.com/album/4Y2Cla7P9zqTppJ1Xq92At) | 4:13 | 2023-08-18 | 2023-08-26 |
 | [Unruly](https://open.spotify.com/track/332LAe5CARYmQZ9PneOR2c) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Unruly](https://open.spotify.com/album/40KmIveFJGLnFIz6g8jqPR) | 3:12 | 2023-07-21 | 2023-07-22 |
+| [Update](https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B) | 3:27 | 2025-03-04 |  |
 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 | 2021-12-20 | 2022-09-17 |
 | [Vibes Weekend](https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Vibes Weekend](https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK) | 2:53 | 2023-05-15 | 2023-07-21 |
 | [Vogue](https://open.spotify.com/track/4Fg5l5tuO0iNoEc4orRPt3) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [Vogue](https://open.spotify.com/album/5AA9M5Uc8Kh4Uu5FOh4FqL) | 3:14 | 2021-12-20 | 2022-07-29 |

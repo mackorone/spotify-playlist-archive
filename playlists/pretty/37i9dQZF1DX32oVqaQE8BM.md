@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,970 likes - 179 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,594 likes - 179 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 178 | [Express](https://open.spotify.com/track/6mg9PIxAN6fYCBaztFjhJr) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Express](https://open.spotify.com/album/4YuVkDxFHZbloTnjEaNdwz) | 2:21 |
 | 179 | [Feather](https://open.spotify.com/track/3C9SSKzLA3egmM5g9KCnzK) | [Technicyan](https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC) | [Feather](https://open.spotify.com/album/6hlHOzTl3rmbdWwBd90qJn) | 2:01 |
 
-Snapshot ID: `Z8GEMQAAAABiEqmY6Lifj+qDT4TOTXL0`
+Snapshot ID: `Z8GEMQAAAADVc1Lda/hts5kVaERqodIJ`

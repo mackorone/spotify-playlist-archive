@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,915 songs - 1 day 15 hr 2 min
+1,918 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [Hopeful Days](https://open.spotify.com/track/1tAuKGdkhRNDLZwvHrLZ3M) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Hopeful Days](https://open.spotify.com/album/6Ljq4T0dD2GrdYy3kGz9nt) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Hopeful Moment](https://open.spotify.com/track/773R4yXjSiFMcuXSGa4pwo) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Loving State](https://open.spotify.com/album/1n19RPtityGMv4cjOOOXLl) | 1:00 | 2023-07-05 |  |
 | [Hopeful Reflections](https://open.spotify.com/track/24vycfedMpXmM0g7x3A8Rn) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Grace](https://open.spotify.com/album/7u09esJxNXcRMBGAHoQ8EC) | 1:49 | 2024-01-29 |  |
+| [Hopeful Sky](https://open.spotify.com/track/2DDduq9J3MDkRolZcLYg0G) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Hopeful Sky](https://open.spotify.com/album/0Zqva90f6DeEM3J1zHAYsr) | 1:00 | 2025-03-04 |  |
 | [Hoping Once Again](https://open.spotify.com/track/0H6gTW4pXekohMH881nYHt) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ethereal Presence](https://open.spotify.com/album/28yGYpPzxYD1uN1cLKYxqL) | 1:05 | 2022-01-21 |  |
 | [Horizon](https://open.spotify.com/track/0oeMXEnsH1nfxUfJwnynPc) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Acoustic Dreaming](https://open.spotify.com/album/1qAEg7hOM7ha7KDhmD2HjA) | 3:34 | 2022-01-12 | 2024-02-13 |
 | [Horizon Beauty](https://open.spotify.com/track/0L7IMxGj5RyDBmihXXU6WZ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Harp Ambience](https://open.spotify.com/album/2c4j85kdUZni7cXlfYmzid) | 1:02 | 2022-03-03 |  |
@@ -1561,6 +1562,7 @@
 | [Spring Warmth Again \- Cello Version](https://open.spotify.com/track/7MQhI8USlPbgNtamZs5SV7) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spring Warmth Again \(Cello Version\)](https://open.spotify.com/album/2UXnDLSHUF8Il2sKg23Wfl) | 1:00 | 2022-07-15 |  |
 | [Springs](https://open.spotify.com/track/2TeIwE6hFj5ChMP3Eifq7m) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Springs](https://open.spotify.com/album/6nYmCTJRGkzYRuGntxjzpf) | 1:00 | 2024-02-17 |  |
 | [Springs \- Cello Version](https://open.spotify.com/track/495yaUZWilmyzDJegFsSzv) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Springs \(Cello Version\)](https://open.spotify.com/album/5e9UBTSSn9TCCfK2o05tAa) | 1:00 | 2024-02-18 |  |
+| [Springtime Hope](https://open.spotify.com/track/3FJH0blgt2kCGhTheGzkdb) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Springtime Hope](https://open.spotify.com/album/7HC32Re0akermC1PrV5LBv) | 1:00 | 2025-03-04 |  |
 | [Springtime Serenade \- Piano Version](https://open.spotify.com/track/4sDMgmdCGm0pnYb7NGuRAs) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Springtime Serenade \(Piano Version\)](https://open.spotify.com/album/10gZyaNfOYTkxZPsfcbOLv) | 3:00 | 2022-01-12 | 2024-02-13 |
 | [Stability](https://open.spotify.com/track/7roDSXiPANfzVC8BAtpazE) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Light](https://open.spotify.com/album/5C2zmwAubUVPf7sNfzUZC5) | 1:00 | 2024-02-16 |  |
 | [Stained Blue Windows](https://open.spotify.com/track/3mosxpcwbtA2hjVB9IXC8U) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Shifting Sands](https://open.spotify.com/album/0tOrP1XUnI0UU7qZjOhIjD) | 1:07 | 2024-02-09 | 2024-02-13 |
@@ -1602,6 +1604,7 @@
 | [Summer Memory](https://open.spotify.com/track/1gCz7CY55m6z1X3HK8DEPL) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Summer Memory](https://open.spotify.com/album/1E6qYD1HcEAeQWjn6tKfzz) | 1:00 | 2025-02-26 |  |
 | [Summer Mirage Arr\. For Cello And Violin](https://open.spotify.com/track/1GljB24Bh8fxtgAJ9XazZx) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Vista With Strings](https://open.spotify.com/album/1z1RTwjsaXZTvQvgPJ2QEz) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Summer Morning](https://open.spotify.com/track/6q6ybnxJtpFS9UtYoLk8gl) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Summer Morning](https://open.spotify.com/album/20UwbEUICL1S6w8mvg0sB4) | 1:00 | 2023-03-16 |  |
+| [Summer Retreat Arr\. For Piano](https://open.spotify.com/track/6L7zpcr6b6C6l2ihaV9ghS) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Summer Retreat Arr\. For Piano](https://open.spotify.com/album/0uNvedio3ERimLsMK1vwBV) | 1:00 | 2025-03-04 |  |
 | [Summer Romance](https://open.spotify.com/track/0esu3eO3o11wiZlhZ3nS7z) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Summer Romance](https://open.spotify.com/album/4z90GRLI3DNGsOgg35PooM) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Summer Solace](https://open.spotify.com/track/7Jx3UUDNtUetiF97CYeIfQ) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Summer Solace](https://open.spotify.com/album/7tpHqEx2guugAqnOl9ELto) | 1:02 | 2022-08-15 |  |
 | [Summer Stargazing](https://open.spotify.com/track/7w5GDItNiC1Ezch9wcafkg) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:42 | 2022-01-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 466815,
+  "num_followers": 467031,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAADBizVOWl95QQ9oPwZUbG1V",
+  "snapshot_id": "Z8TxAAAAAAC5cOtbHRG2hsmbc+JEPO+4",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193258,
-      "name": "QU\u00c9DATE BEB\u00c9",
-      "url": "https://open.spotify.com/track/4U0NzCC9oiVDEDfgDKIiTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Pedo Qui\u00e9n Sabe",
         "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 191284,
       "name": "Ya Pedo Qui\u00e9n Sabe",
       "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193258,
+      "name": "QU\u00c9DATE BEB\u00c9",
+      "url": "https://open.spotify.com/track/4U0NzCC9oiVDEDfgDKIiTo"
     },
     {
       "added_at": null,

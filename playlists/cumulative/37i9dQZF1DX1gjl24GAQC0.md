@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover: ASTRO\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-653 songs - 1 day 12 hr 1 min
+654 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [LAST PIECE](https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 3:42 | 2021-12-08 | 2022-07-05 |
 | [Lay Back](https://open.spotify.com/track/3eVaOnvfX0Ufu1rkwbC0WS) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [FACE ME](https://open.spotify.com/album/3foK58isBZtgFp6MU1vGR1) | 3:16 | 2022-03-31 | 2022-04-08 |
 | [Left & Right](https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:21 | 2021-12-08 | 2022-07-21 |
+| [LEGGO](https://open.spotify.com/track/0Etk5PtxW6m3zDYR9Eb7W2) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [LEGGO](https://open.spotify.com/album/1Q7A27EREoht3InaYb51VP) | 2:48 | 2025-03-04 |  |
 | [LEMONADE](https://open.spotify.com/track/1DcgCdbq9EFIbCHRDrcWLu) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [LEMONADE](https://open.spotify.com/album/1hoTXn3AIaMB4SWG4wL0mn) | 3:08 | 2023-09-11 | 2023-09-16 |
 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-06-20 | 2023-09-06 |
 | [Levanter](https://open.spotify.com/track/4mtPGvoOvfqskC9M3tNZrV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR) | 3:15 | 2021-12-08 | 2022-07-27 |
@@ -582,7 +583,7 @@
 | [Thunderous](https://open.spotify.com/track/3ihf9gTcRUz7EvkFnoh5TW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/2CJBaCutKdBiFrWmdzioPS) | 3:03 | 2021-12-08 | 2022-07-29 |
 | [TIC TAC](https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [8TURNRISE](https://open.spotify.com/album/6fvrG4RkX06QBmmc9gA1OQ) | 3:22 | 2023-02-15 | 2023-04-27 |
 | [Tiger Inside](https://open.spotify.com/track/2TENPSXQkWNgEFxmi4PRWE) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [Tiger Inside](https://open.spotify.com/album/38FEnRZ38L0fyCZjaV0wxm) | 3:29 | 2022-01-03 | 2022-07-07 |
-| [TIME 2 SHINE](https://open.spotify.com/track/4l2O1DETs5DkWj213pZdua) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [GLOWY DAY](https://open.spotify.com/album/3bs9sez7X2JSmBicDzv8Nb) | 3:18 | 2025-02-18 |  |
+| [TIME 2 SHINE](https://open.spotify.com/track/4l2O1DETs5DkWj213pZdua) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [GLOWY DAY](https://open.spotify.com/album/3bs9sez7X2JSmBicDzv8Nb) | 3:18 | 2025-02-18 | 2025-03-05 |
 | [Timeless](https://open.spotify.com/track/47yBulX4HZXQ7qcD9zv8lq) | [UNVS](https://open.spotify.com/artist/026a7U6QVOMT4LRfaaNhQX) | [DEBUT SINGLE: Timeless](https://open.spotify.com/album/2B1wThQSOFEKnytClJcFF8) | 3:50 | 2022-03-22 | 2022-07-18 |
 | [To My EX](https://open.spotify.com/track/4nPfRWnzDY01qnrZaTpUu0) | [Wow](https://open.spotify.com/artist/1mDnUZcASXngb5625VF47w) | [To My EX](https://open.spotify.com/album/0d93XNIJhCqTHqqgqnQM2U) | 3:06 | 2021-12-08 | 2022-04-19 |
 | [Told You](https://open.spotify.com/track/2qTjl3SL2jiBXu1v5eOQXw) | [DKB](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) | [We Love You](https://open.spotify.com/album/5TDEg6rdTAjVjEtqDuSmkv) | 3:19 | 2023-08-16 | 2023-08-22 |

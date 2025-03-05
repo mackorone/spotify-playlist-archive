@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,001,251 likes - 200 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,001,573 likes - 200 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 199 | [Night Mind](https://open.spotify.com/track/6jD6Rk6mDkYM44raG3m9jA) | [Brisbois](https://open.spotify.com/artist/3kp0L0gzhW88FsfpD4H0kH) | [Night Mind](https://open.spotify.com/album/0MWCo1sR8DN8cL7Ptf9qkd) | 2:24 |
 | 200 | [Rosetta](https://open.spotify.com/track/4Qx7uyGiw9CwgVGNkmeq1e) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rosetta](https://open.spotify.com/album/3mecHxhqR8MHgYiyUdPrV5) | 2:42 |
 
-Snapshot ID: `Z78XjgAAAACHWSShLyylFT9iYhDTmWY3`
+Snapshot ID: `Z78XjgAAAABlg7BgvINRtNZAjYOJwdDh`

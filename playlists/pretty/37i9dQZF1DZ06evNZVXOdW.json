@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 8698,
+  "num_followers": 8703,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAA7NjHv6sDEXZITJGHD+W5L",
+  "snapshot_id": "Z8TxAAAAAADNBHVrErI1dN4IFZ39+K3m",
   "tracks": [
     {
       "added_at": null,
@@ -110,15 +110,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "James Francies",
-          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
         }
       ],
-      "duration_ms": 286730,
-      "name": "Autumn Leaves (feat. James Francies)",
-      "url": "https://open.spotify.com/track/4A4BdAB3MPQhLn7MZZOSmW"
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
     },
     {
       "added_at": null,
@@ -186,11 +182,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "James Francies",
+          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
         }
       ],
-      "duration_ms": 313311,
-      "name": "Raat Ki Rani",
-      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
+      "duration_ms": 286730,
+      "name": "Autumn Leaves (feat. James Francies)",
+      "url": "https://open.spotify.com/track/4A4BdAB3MPQhLn7MZZOSmW"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 1064071,
+      "name": "Island No. 3",
+      "url": "https://open.spotify.com/track/0E4l6jS1tqDw8QCdtoclMz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revolution (Remix)",
         "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 635805,
       "name": "Dil Jalaney Ki Baat",
       "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 1064071,
-      "name": "Island No. 3",
-      "url": "https://open.spotify.com/track/0E4l6jS1tqDw8QCdtoclMz"
     },
     {
       "added_at": null,

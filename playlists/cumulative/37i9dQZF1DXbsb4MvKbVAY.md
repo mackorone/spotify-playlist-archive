@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa TIPPA ja MELO.
 
-911 songs - 1 day 21 hr 22 min
+912 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-12-02 | 2025-01-10 |
 | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc) | 2:54 | 2024-09-19 | 2024-12-03 |
 | [Fuel \- Shady Edition](https://open.spotify.com/track/68IkI6ttYOzNyS5iW2Zx70) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [The Death of Slim Shady \(Coup De Grâce\): Expanded Mourner’s Edition](https://open.spotify.com/album/31hcgCSu4mlA82syOFItur) | 4:50 | 2024-09-13 | 2024-11-29 |
+| [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-03-04 |  |
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-16 |  |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-07-02 | 2024-09-13 |
 | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV) | 3:33 | 2024-08-29 | 2024-10-25 |
@@ -544,7 +545,7 @@
 | [Mä hajoon](https://open.spotify.com/track/0vkrF8CQ0MbZcifpMKcYGI) | [N.E.O](https://open.spotify.com/artist/2W16iqdU9pi3KACiNNZEH4), [Chokko](https://open.spotify.com/artist/07SNfWjyT9opmzdaTxzJyI) | [Mä hajoon](https://open.spotify.com/album/6Sq9AazylrX1b4B6S6H2g5) | 2:46 | 2024-11-07 | 2024-11-15 |
 | [Mä pelkään sua](https://open.spotify.com/track/72A4PySM6hlnFi71X10ufJ) | [Alma Alanko](https://open.spotify.com/artist/1fFcue8MWSuhjTPVgIpRUt) | [Vääränlainen \- EP](https://open.spotify.com/album/6kAN6Ow6QjqFO9ZdBuluXV) | 2:12 | 2024-09-26 | 2024-10-04 |
 | [NAAPURIT EI TYKKÄÄ MUST](https://open.spotify.com/track/0ZlAq5NGwaXlmXhlvM3xdM) | [CHEF MEIK](https://open.spotify.com/artist/4cxHMwFAfDsSV2OZ4Ffb0R) | [NAAPURIT EI TYKKÄÄ MUST](https://open.spotify.com/album/63ToCk60hscfDVumCdq2Hj) | 2:41 | 2024-10-03 | 2024-10-11 |
-| [Nada](https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nada](https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB) | 2:12 | 2024-11-28 |  |
+| [Nada](https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nada](https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB) | 2:12 | 2024-11-28 | 2025-03-05 |
 | [Naiivi rakkaus](https://open.spotify.com/track/6p5uK4S00hzc3OUqzE9FBq) | [Leeni](https://open.spotify.com/artist/4qFbzYlUZ5e7oeirpDdQ0z) | [Naiivi rakkaus](https://open.spotify.com/album/3N8nN42TGbS9tN09VBghbv) | 3:11 | 2024-09-12 | 2024-09-20 |
 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 | 2024-11-07 | 2025-01-26 |
 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-22 | 2024-10-02 |

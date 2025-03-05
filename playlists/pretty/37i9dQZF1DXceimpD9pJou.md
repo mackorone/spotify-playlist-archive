@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Emanuel Lara
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,202 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,216 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Ven](https://open.spotify.com/track/5g4xWZyWUvJO77ErzKCQp6) | [Jennifer Hurtado](https://open.spotify.com/artist/4F1wRYU0CoLIhLMjdmoEXx) | [Ven](https://open.spotify.com/album/6vymLz78TdmyamLIktfB4t) | 3:34 |
 | 100 | [Nuestro Encuentro](https://open.spotify.com/track/5NfZgn7kUeQfcvVdBKvvW6) | [Cita Con el Padre](https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a) | [Nuestro Encuentro](https://open.spotify.com/album/7rV2espjneZ7Ws14ebdyd5) | 12:29 |
 
-Snapshot ID: `Z8FQSAAAAABmzbSRUZUbgmMNDJ5Hb0dC`
+Snapshot ID: `Z8FQSAAAAAA1GkQjBZi8lrmWGtah8Hhv`

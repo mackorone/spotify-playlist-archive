@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: LUSILLON, Barry B, céro, Vera GRV y Julieta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,069 likes - 25 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,075 likes - 25 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

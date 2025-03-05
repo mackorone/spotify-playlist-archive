@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > Fedez sulla cover della playlist più grande in Italia! 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,696,695 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,696,875 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 59 | [Wop Wop \(feat\. Shiva\)](https://open.spotify.com/track/7LjhTVncMxoH9X6KMWECgq) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 3:03 |
 | 60 | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0) | 2:40 |
 
-Snapshot ID: `Z8VxfwAAAAAV2oVMP5aDoft3N4UBjt4e`
+Snapshot ID: `Z8VxfwAAAACPsQguTxsHnMh1rGFWvAIF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: SYRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,124 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,129 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Segredos \- Live](https://open.spotify.com/track/4xr2H0Hyt0TrgwzuEW5OO1) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Última Dança Live Meo Arena](https://open.spotify.com/album/47Pfrbybi6GmG8cEZ6GB5L) | 4:17 |
 | 70 | [Vem Cá](https://open.spotify.com/track/6PYtp8saDbdZftCBQm3F74) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Vem Cá](https://open.spotify.com/album/4adzp1LS9pbLRNMv3SUKxO) | 2:53 |
 
-Snapshot ID: `Z8D8mgAAAAD7lCfL8F33V9yczGEYkYgz`
+Snapshot ID: `Z8D8mgAAAAC1Wq1dj/g77igDb6AktFvr`

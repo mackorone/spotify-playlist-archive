@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "High Horse",
+        "url": "https://open.spotify.com/album/5XkpNffqz7WdtM1RrAQOvo"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203213,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/2YUUYGB1kMtXKTQ6ajAjTA"
+    },
+    {
+      "album": {
         "name": "exp\u00e9rgo",
         "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
       },

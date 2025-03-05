@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QdE6NL2et72DXAMZ7GEoe.md) - [plain]
 
 > 
 
-[dinh](https://open.spotify.com/user/vanillysyrup) - 0 like - 100 songs - 7 hr 27 min
+[dinh](https://open.spotify.com/user/vanillysyrup) - 0 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

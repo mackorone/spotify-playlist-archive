@@ -1,6 +1,6 @@
 {
   "description": "All the Intelligent Dance Music you'll need (not necessarily to dance to). Aphex Twin on cover.",
-  "num_followers": 156955,
+  "num_followers": 157056,
   "original_name": "IDM Essentials",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-04-13 23:57:14",
       "album": {
+        "name": "Cylobian Sunset",
+        "url": "https://open.spotify.com/album/5F9Lilx03s7pwjZzvJhaqa"
+      },
+      "artists": [
+        {
+          "name": "Cylob",
+          "url": "https://open.spotify.com/artist/3rUTj1FI3FvdUHfS1nmRv5"
+        }
+      ],
+      "duration_ms": 330600,
+      "name": "Foid",
+      "url": "https://open.spotify.com/track/68SC3wbUmT18mVXLOu0RIc"
+    },
+    {
+      "added_at": "2022-04-13 23:57:14",
+      "album": {
         "name": "So Soon",
         "url": "https://open.spotify.com/album/6lIoTCMQApX6cDYexMG1ua"
       },
@@ -751,6 +767,22 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
+        "name": "Patashnik",
+        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 387308,
+      "name": "Novelty Waves",
+      "url": "https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
         "name": "Dimension Intrusion (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3BSEkF5PStiNQYKZB2RQKE"
       },
@@ -767,38 +799,6 @@
       "duration_ms": 200471,
       "name": "Slac",
       "url": "https://open.spotify.com/track/4cwXjW3AiE75mWj6nL52eR"
-    },
-    {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
-        "name": "Cylobian Sunset",
-        "url": "https://open.spotify.com/album/5F9Lilx03s7pwjZzvJhaqa"
-      },
-      "artists": [
-        {
-          "name": "Cylob",
-          "url": "https://open.spotify.com/artist/3rUTj1FI3FvdUHfS1nmRv5"
-        }
-      ],
-      "duration_ms": 330600,
-      "name": "Foid",
-      "url": "https://open.spotify.com/track/68SC3wbUmT18mVXLOu0RIc"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Patashnik",
-        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 387308,
-      "name": "Novelty Waves",
-      "url": "https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Las Vegas",
-        "url": "https://open.spotify.com/album/2e9288yxNdFTCKO6MitcDy"
-      },
-      "artists": [
-        {
-          "name": "burger/ink",
-          "url": "https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99"
-        }
-      ],
-      "duration_ms": 682906,
-      "name": "Twelve Miles High",
-      "url": "https://open.spotify.com/track/0hyYhGMrqMJBzuwRZAvELk"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "Alien Mode",
         "url": "https://open.spotify.com/album/61uZXQS5ixS4SbNzuRToKr"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 356778,
       "name": "Everything Is Inside Out",
       "url": "https://open.spotify.com/track/7AGNscz3KdxHBICsA6e6cC"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Las Vegas",
+        "url": "https://open.spotify.com/album/2e9288yxNdFTCKO6MitcDy"
+      },
+      "artists": [
+        {
+          "name": "burger/ink",
+          "url": "https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99"
+        }
+      ],
+      "duration_ms": 682906,
+      "name": "Twelve Miles High",
+      "url": "https://open.spotify.com/track/0hyYhGMrqMJBzuwRZAvELk"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/4ZSiklc2iXA6OnPzgSXw4f"
     },
     {
-      "added_at": "2022-09-15 13:03:03",
-      "album": {
-        "name": "The Disco's Of Imhotep",
-        "url": "https://open.spotify.com/album/7JOBQa2I1VIwVn2IcC9Uq4"
-      },
-      "artists": [
-        {
-          "name": "Hieroglyphic Being",
-          "url": "https://open.spotify.com/artist/6zh25V1pQ8IQpxDYVmFSrT"
-        }
-      ],
-      "duration_ms": 66728,
-      "name": "The Shrine Of The Serpent Goddess",
-      "url": "https://open.spotify.com/track/2gAtn1FWeoEbUmctNHY4U8"
-    },
-    {
       "added_at": "2022-04-13 23:57:14",
       "album": {
         "name": "Bluff Limbo",
@@ -991,6 +975,22 @@
       "duration_ms": 266840,
       "name": "Hector's House",
       "url": "https://open.spotify.com/track/2aaLOIGfCXEgiXdf1UYJvd"
+    },
+    {
+      "added_at": "2022-09-15 13:03:03",
+      "album": {
+        "name": "The Disco's Of Imhotep",
+        "url": "https://open.spotify.com/album/7JOBQa2I1VIwVn2IcC9Uq4"
+      },
+      "artists": [
+        {
+          "name": "Hieroglyphic Being",
+          "url": "https://open.spotify.com/artist/6zh25V1pQ8IQpxDYVmFSrT"
+        }
+      ],
+      "duration_ms": 66728,
+      "name": "The Shrine Of The Serpent Goddess",
+      "url": "https://open.spotify.com/track/2gAtn1FWeoEbUmctNHY4U8"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+        "name": "While You Were Sleeping",
+        "url": "https://open.spotify.com/album/3JvMEB9NDpvLfHWcri6ly4"
       },
       "artists": [
         {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+          "name": "Opiate",
+          "url": "https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O"
         }
       ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+      "duration_ms": 308080,
+      "name": "Opto File 1",
+      "url": "https://open.spotify.com/track/4wanjskAp43E4l97QhoogC"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
         "name": "Chigliak",
         "url": "https://open.spotify.com/album/3qKpwSHUazGWmxLm0WWdGS"
       },
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "While You Were Sleeping",
-        "url": "https://open.spotify.com/album/3JvMEB9NDpvLfHWcri6ly4"
+        "name": "Colourform",
+        "url": "https://open.spotify.com/album/4mTqs8onoAtoUIPXvJ0tO5"
       },
       "artists": [
         {
-          "name": "Opiate",
-          "url": "https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O"
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
         }
       ],
-      "duration_ms": 308080,
-      "name": "Opto File 1",
-      "url": "https://open.spotify.com/track/4wanjskAp43E4l97QhoogC"
+      "duration_ms": 457526,
+      "name": "Speedlearn (Empathy Mix)",
+      "url": "https://open.spotify.com/track/6RgnT9qHsV6ABo6Ett7uhW"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1343,22 +1359,6 @@
       "duration_ms": 242784,
       "name": "Yesterday Faded - Edit",
       "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Colourform",
-        "url": "https://open.spotify.com/album/4mTqs8onoAtoUIPXvJ0tO5"
-      },
-      "artists": [
-        {
-          "name": "Higher Intelligence Agency",
-          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
-        }
-      ],
-      "duration_ms": 457526,
-      "name": "Speedlearn (Empathy Mix)",
-      "url": "https://open.spotify.com/track/6RgnT9qHsV6ABo6Ett7uhW"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx"
     },
     {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Hydro Electric",
-        "url": "https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC"
-      },
-      "artists": [
-        {
-          "name": "Phonem",
-          "url": "https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR"
-        }
-      ],
-      "duration_ms": 408253,
-      "name": "Currents (220v Offshore)",
-      "url": "https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp"
-    },
-    {
       "added_at": "2022-04-13 23:57:14",
       "album": {
         "name": "Clockwork Menagerie",
@@ -1515,6 +1499,22 @@
       "duration_ms": 284880,
       "name": "Calf",
       "url": "https://open.spotify.com/track/4JXtHmDKTVQaRg9YYk7lzO"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Hydro Electric",
+        "url": "https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC"
+      },
+      "artists": [
+        {
+          "name": "Phonem",
+          "url": "https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR"
+        }
+      ],
+      "duration_ms": 408253,
+      "name": "Currents (220v Offshore)",
+      "url": "https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1729,22 +1729,6 @@
       "url": "https://open.spotify.com/track/5XvhMvZPQgb5xvpbuXYShW"
     },
     {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
-        "name": "mas confusion",
-        "url": "https://open.spotify.com/album/7cw9LQTknl8mRcOO8gzB3J"
-      },
-      "artists": [
-        {
-          "name": "Mr. Projectile",
-          "url": "https://open.spotify.com/artist/5Er2WCIjotL6kGdeQqE4i6"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "less math, more music",
-      "url": "https://open.spotify.com/track/7yfTfyKi6XGmV2slQSZoT0"
-    },
-    {
       "added_at": "2022-04-13 13:57:28",
       "album": {
         "name": "Richard Coleman Devine EP",
@@ -1759,6 +1743,22 @@
       "duration_ms": 306000,
       "name": "Untitled 3",
       "url": "https://open.spotify.com/track/6ANjGaPMsJMk6ZksJ2SZME"
+    },
+    {
+      "added_at": "2022-04-13 23:57:14",
+      "album": {
+        "name": "mas confusion",
+        "url": "https://open.spotify.com/album/7cw9LQTknl8mRcOO8gzB3J"
+      },
+      "artists": [
+        {
+          "name": "Mr. Projectile",
+          "url": "https://open.spotify.com/artist/5Er2WCIjotL6kGdeQqE4i6"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "less math, more music",
+      "url": "https://open.spotify.com/track/7yfTfyKi6XGmV2slQSZoT0"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1825,22 +1825,6 @@
       "url": "https://open.spotify.com/track/0Eo8jiujfOBvAES1coR2DY"
     },
     {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
-        "name": "The Blurring Of Trees",
-        "url": "https://open.spotify.com/album/5cFl0kAEgXRZgXROZkm94Z"
-      },
-      "artists": [
-        {
-          "name": "Lexaunculpt",
-          "url": "https://open.spotify.com/artist/503hICfx078zJ1Y4Vhl4Md"
-        }
-      ],
-      "duration_ms": 475080,
-      "name": "Has Been Trying Not To Wonder",
-      "url": "https://open.spotify.com/track/0wY9cUFQWQL0V4R3RHXV2w"
-    },
-    {
       "added_at": "2022-04-13 13:57:28",
       "album": {
         "name": "The Final Corporation Colonization of the Unconscious",
@@ -1855,6 +1839,22 @@
       "duration_ms": 323960,
       "name": "Hoax! What Did You Got ?",
       "url": "https://open.spotify.com/track/1hwMFFtowvY5jYcPXcHXVF"
+    },
+    {
+      "added_at": "2022-04-13 23:57:14",
+      "album": {
+        "name": "The Blurring Of Trees",
+        "url": "https://open.spotify.com/album/5cFl0kAEgXRZgXROZkm94Z"
+      },
+      "artists": [
+        {
+          "name": "Lexaunculpt",
+          "url": "https://open.spotify.com/artist/503hICfx078zJ1Y4Vhl4Md"
+        }
+      ],
+      "duration_ms": 475080,
+      "name": "Has Been Trying Not To Wonder",
+      "url": "https://open.spotify.com/track/0wY9cUFQWQL0V4R3RHXV2w"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1921,22 +1921,6 @@
       "url": "https://open.spotify.com/track/0OtAhCQ2qumiYP9NmIJyNA"
     },
     {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
-        "name": "Tango N'Vectif",
-        "url": "https://open.spotify.com/album/1gd89zVAfPT4PSZPdRdat7"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "Tango N' Vectif",
-      "url": "https://open.spotify.com/track/0WtQ6d5cLyhfvZyLrElZbw"
-    },
-    {
       "added_at": "2022-04-13 13:57:28",
       "album": {
         "name": "Tadley Management",
@@ -1953,20 +1937,20 @@
       "url": "https://open.spotify.com/track/3bEyXhlK8dg1yg6VEVS0zN"
     },
     {
-      "added_at": "2022-04-13 13:57:28",
+      "added_at": "2022-04-13 23:57:14",
       "album": {
-        "name": "Audiophiliac",
-        "url": "https://open.spotify.com/album/6LpGUEgwKMTbzhntGRdkK4"
+        "name": "Tango N'Vectif",
+        "url": "https://open.spotify.com/album/1gd89zVAfPT4PSZPdRdat7"
       },
       "artists": [
         {
-          "name": "7 Hurtz",
-          "url": "https://open.spotify.com/artist/7npiaz23AXyR8Yyh1xniZP"
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
         }
       ],
-      "duration_ms": 218302,
-      "name": "Stokers Motor",
-      "url": "https://open.spotify.com/track/2fcLQc6eWvBNx2cB5aJXHR"
+      "duration_ms": 250306,
+      "name": "Tango N' Vectif",
+      "url": "https://open.spotify.com/track/0WtQ6d5cLyhfvZyLrElZbw"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1987,6 +1971,22 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
+        "name": "Audiophiliac",
+        "url": "https://open.spotify.com/album/6LpGUEgwKMTbzhntGRdkK4"
+      },
+      "artists": [
+        {
+          "name": "7 Hurtz",
+          "url": "https://open.spotify.com/artist/7npiaz23AXyR8Yyh1xniZP"
+        }
+      ],
+      "duration_ms": 218302,
+      "name": "Stokers Motor",
+      "url": "https://open.spotify.com/track/2fcLQc6eWvBNx2cB5aJXHR"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
         "name": "Night Drive (Thru-Babylon)",
         "url": "https://open.spotify.com/album/29MH1JtzLfRvEDU3e32EWz"
       },
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Untangle",
-        "url": "https://open.spotify.com/album/6Y3WH8I67ItomKlIdYL9km"
-      },
-      "artists": [
-        {
-          "name": "Yarck",
-          "url": "https://open.spotify.com/artist/7xVcw3S86azsJnq0UVpaJA"
-        }
-      ],
-      "duration_ms": 332686,
-      "name": "Untangle",
-      "url": "https://open.spotify.com/track/5KRX86qetsjapmhlYOaeeF"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "Cerebral Navigators: Anthology 1993-1997",
         "url": "https://open.spotify.com/album/06WA933sSAdUWfBTtCXjD5"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 317139,
       "name": "C.N.S.",
       "url": "https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Untangle",
+        "url": "https://open.spotify.com/album/6Y3WH8I67ItomKlIdYL9km"
+      },
+      "artists": [
+        {
+          "name": "Yarck",
+          "url": "https://open.spotify.com/artist/7xVcw3S86azsJnq0UVpaJA"
+        }
+      ],
+      "duration_ms": 332686,
+      "name": "Untangle",
+      "url": "https://open.spotify.com/track/5KRX86qetsjapmhlYOaeeF"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2053,22 +2053,6 @@
       "url": "https://open.spotify.com/track/15Qp3ULaLa7ZR45MLDb1BF"
     },
     {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Beyond Repair",
-        "url": "https://open.spotify.com/album/3h3BzJbJmQqfS6lcUYZLTx"
-      },
-      "artists": [
-        {
-          "name": "Christian Kleine",
-          "url": "https://open.spotify.com/artist/39RGo9NOqiCfbV8epXxFTj"
-        }
-      ],
-      "duration_ms": 380293,
-      "name": "Today's Mark",
-      "url": "https://open.spotify.com/track/6fWXxF9EKWOx9YTz0qt7Se"
-    },
-    {
       "added_at": "2022-04-13 23:36:29",
       "album": {
         "name": "Brothomstates EP",
@@ -2083,6 +2067,22 @@
       "duration_ms": 302040,
       "name": "Yoaoshk",
       "url": "https://open.spotify.com/track/17d4Aqj6ZTY7B383vklGxc"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Beyond Repair",
+        "url": "https://open.spotify.com/album/3h3BzJbJmQqfS6lcUYZLTx"
+      },
+      "artists": [
+        {
+          "name": "Christian Kleine",
+          "url": "https://open.spotify.com/artist/39RGo9NOqiCfbV8epXxFTj"
+        }
+      ],
+      "duration_ms": 380293,
+      "name": "Today's Mark",
+      "url": "https://open.spotify.com/track/6fWXxF9EKWOx9YTz0qt7Se"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -2117,22 +2117,6 @@
       "url": "https://open.spotify.com/track/5kvTLh8mq7wvJagpebHWpv"
     },
     {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Tiny Grassland",
-        "url": "https://open.spotify.com/album/5dzynzNOkAaOPCGQ0p4OFy"
-      },
-      "artists": [
-        {
-          "name": "Georgie McVicar",
-          "url": "https://open.spotify.com/artist/6hoJhDD6VpRlxT83HfxNso"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Woodshadows",
-      "url": "https://open.spotify.com/track/5bjgDgSRHDYarbKTxOljwb"
-    },
-    {
       "added_at": "2022-04-13 23:57:14",
       "album": {
         "name": "Marion (20th Anniversary Edition)",
@@ -2163,6 +2147,22 @@
       "duration_ms": 191546,
       "name": "I Am A Decent Man",
       "url": "https://open.spotify.com/track/6s7FfdgxJHflFAu4RYBrNA"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Tiny Grassland",
+        "url": "https://open.spotify.com/album/5dzynzNOkAaOPCGQ0p4OFy"
+      },
+      "artists": [
+        {
+          "name": "Georgie McVicar",
+          "url": "https://open.spotify.com/artist/6hoJhDD6VpRlxT83HfxNso"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Woodshadows",
+      "url": "https://open.spotify.com/track/5bjgDgSRHDYarbKTxOljwb"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2249,22 +2249,6 @@
       "url": "https://open.spotify.com/track/6Qo2frYWkRURuR04RVHiFx"
     },
     {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
-        "name": "Dol-Goy Assist",
-        "url": "https://open.spotify.com/album/0XOfvgGpscZtdvm7J7mNL5"
-      },
-      "artists": [
-        {
-          "name": "Quinoline Yellow",
-          "url": "https://open.spotify.com/artist/4uwEYKmXiSHoIVwrPbXjl8"
-        }
-      ],
-      "duration_ms": 233053,
-      "name": "Spion Kop",
-      "url": "https://open.spotify.com/track/4dYGJXVlF0zQ4DXmCeXVri"
-    },
-    {
       "added_at": "2022-04-13 13:57:28",
       "album": {
         "name": "Return of the Fight Club",
@@ -2283,6 +2267,22 @@
       "duration_ms": 272866,
       "name": "Locale Overcast",
       "url": "https://open.spotify.com/track/1Q7yzOOWJi08KwRPUR7Qz2"
+    },
+    {
+      "added_at": "2022-04-13 23:57:14",
+      "album": {
+        "name": "Dol-Goy Assist",
+        "url": "https://open.spotify.com/album/0XOfvgGpscZtdvm7J7mNL5"
+      },
+      "artists": [
+        {
+          "name": "Quinoline Yellow",
+          "url": "https://open.spotify.com/artist/4uwEYKmXiSHoIVwrPbXjl8"
+        }
+      ],
+      "duration_ms": 233053,
+      "name": "Spion Kop",
+      "url": "https://open.spotify.com/track/4dYGJXVlF0zQ4DXmCeXVri"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2333,22 +2333,6 @@
       "url": "https://open.spotify.com/track/3KTvWdWeYYh9S82FJZA0o2"
     },
     {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Past Movements",
-        "url": "https://open.spotify.com/album/7sjao90pjdaCztsRqCFmjP"
-      },
-      "artists": [
-        {
-          "name": "Stasis",
-          "url": "https://open.spotify.com/artist/6tiXkM99CrgpKbtWFE072I"
-        }
-      ],
-      "duration_ms": 283533,
-      "name": "Questions For Vanmanan",
-      "url": "https://open.spotify.com/track/5kyuuIOzrlEAmmg05v4ztV"
-    },
-    {
       "added_at": "2022-04-13 23:57:14",
       "album": {
         "name": "Digitalis",
@@ -2363,6 +2347,22 @@
       "duration_ms": 355506,
       "name": "Zip Left, Zip Right",
       "url": "https://open.spotify.com/track/3oGa7UEICaO8EcA7tlVJ8d"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Past Movements",
+        "url": "https://open.spotify.com/album/7sjao90pjdaCztsRqCFmjP"
+      },
+      "artists": [
+        {
+          "name": "Stasis",
+          "url": "https://open.spotify.com/artist/6tiXkM99CrgpKbtWFE072I"
+        }
+      ],
+      "duration_ms": 283533,
+      "name": "Questions For Vanmanan",
+      "url": "https://open.spotify.com/track/5kyuuIOzrlEAmmg05v4ztV"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -2477,22 +2477,6 @@
       "url": "https://open.spotify.com/track/4J0rHEBwhXEz7WGflQx32I"
     },
     {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Freefloater",
-        "url": "https://open.spotify.com/album/7bcE4tey05L4qB1wrDnTzr"
-      },
-      "artists": [
-        {
-          "name": "Higher Intelligence Agency",
-          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
-        }
-      ],
-      "duration_ms": 469240,
-      "name": "Pinkgreen",
-      "url": "https://open.spotify.com/track/5XbzgsK10K48ac4UZCsVNn"
-    },
-    {
       "added_at": "2022-04-13 23:57:14",
       "album": {
         "name": "Elastic Speakers",
@@ -2511,18 +2495,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Tttrial And Eror Mini",
-        "url": "https://open.spotify.com/album/6mHdilGPGP3qZZkL7vxfSn"
+        "name": "Freefloater",
+        "url": "https://open.spotify.com/album/7bcE4tey05L4qB1wrDnTzr"
       },
       "artists": [
         {
-          "name": "Apparat",
-          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
         }
       ],
-      "duration_ms": 440186,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1Hh7FoTJQo4zjDJxnAvn2M"
+      "duration_ms": 469240,
+      "name": "Pinkgreen",
+      "url": "https://open.spotify.com/track/5XbzgsK10K48ac4UZCsVNn"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -2539,6 +2523,22 @@
       "duration_ms": 402734,
       "name": "Blex",
       "url": "https://open.spotify.com/track/6RSrAhscve7ZspKVGqqGf2"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Tttrial And Eror Mini",
+        "url": "https://open.spotify.com/album/6mHdilGPGP3qZZkL7vxfSn"
+      },
+      "artists": [
+        {
+          "name": "Apparat",
+          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+        }
+      ],
+      "duration_ms": 440186,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1Hh7FoTJQo4zjDJxnAvn2M"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2701,22 +2701,6 @@
       "url": "https://open.spotify.com/track/0327v8BnZjCViV6EOgp4YK"
     },
     {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
-        "name": "Kasm01",
-        "url": "https://open.spotify.com/album/4LPlZdxxGCkWJCn0pquO4V"
-      },
-      "artists": [
-        {
-          "name": "The Fear Ratio",
-          "url": "https://open.spotify.com/artist/6e6qkEsLUF72vmxPuQQPHG"
-        }
-      ],
-      "duration_ms": 174492,
-      "name": "FRT3",
-      "url": "https://open.spotify.com/track/5rMghWmSKXgk6XmpZlcL5e"
-    },
-    {
       "added_at": "2022-04-13 13:57:28",
       "album": {
         "name": "Temple of Transparent Balls",
@@ -2731,6 +2715,22 @@
       "duration_ms": 371760,
       "name": "7. 8.",
       "url": "https://open.spotify.com/track/0WDpaAaA00mtAgAqdy0oLY"
+    },
+    {
+      "added_at": "2022-04-13 23:57:14",
+      "album": {
+        "name": "Kasm01",
+        "url": "https://open.spotify.com/album/4LPlZdxxGCkWJCn0pquO4V"
+      },
+      "artists": [
+        {
+          "name": "The Fear Ratio",
+          "url": "https://open.spotify.com/artist/6e6qkEsLUF72vmxPuQQPHG"
+        }
+      ],
+      "duration_ms": 174492,
+      "name": "FRT3",
+      "url": "https://open.spotify.com/track/5rMghWmSKXgk6XmpZlcL5e"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2022-04-13 23:57:14",
       "album": {
-        "name": "Trade & Distribution Almanac Vol. 3",
-        "url": "https://open.spotify.com/album/5WbHAkJWmXSU3r80MpYiJk"
-      },
-      "artists": [
-        {
-          "name": "Horatio Pollard",
-          "url": "https://open.spotify.com/artist/10WwJv9V8m2Gc2zUgWuiZZ"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "Elton",
-      "url": "https://open.spotify.com/track/0uNuTlq0XzBWfL0l3nkhFO"
-    },
-    {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
         "name": "Goflex",
         "url": "https://open.spotify.com/album/2cxULZwMNhuz3YvsVPqMce"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 215426,
       "name": "Abdon",
       "url": "https://open.spotify.com/track/3a8cOqJzSgkNbJ556opmZv"
+    },
+    {
+      "added_at": "2022-04-13 23:57:14",
+      "album": {
+        "name": "Trade & Distribution Almanac Vol. 3",
+        "url": "https://open.spotify.com/album/5WbHAkJWmXSU3r80MpYiJk"
+      },
+      "artists": [
+        {
+          "name": "Horatio Pollard",
+          "url": "https://open.spotify.com/artist/10WwJv9V8m2Gc2zUgWuiZZ"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "Elton",
+      "url": "https://open.spotify.com/track/0uNuTlq0XzBWfL0l3nkhFO"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2911,22 +2911,6 @@
     {
       "added_at": "2022-04-13 23:57:14",
       "album": {
-        "name": "Part 4 EP",
-        "url": "https://open.spotify.com/album/1CDsELmwjANmbhgSQ4HMBv"
-      },
-      "artists": [
-        {
-          "name": "Funckarma",
-          "url": "https://open.spotify.com/artist/0Q2lYLp53K9LwFyEHWtrIu"
-        }
-      ],
-      "duration_ms": 427213,
-      "name": "Wiert",
-      "url": "https://open.spotify.com/track/2OmbcseTy6LlPwLXQNLGRv"
-    },
-    {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
         "name": "Hobby Industries Split EP 1",
         "url": "https://open.spotify.com/album/3EOTfjuSS02GqrmR0jhXYH"
       },
@@ -2939,6 +2923,22 @@
       "duration_ms": 126000,
       "name": "Data-Spotting",
       "url": "https://open.spotify.com/track/4CnqYSipGYrZIQxYQ7UJf5"
+    },
+    {
+      "added_at": "2022-04-13 23:57:14",
+      "album": {
+        "name": "Part 4 EP",
+        "url": "https://open.spotify.com/album/1CDsELmwjANmbhgSQ4HMBv"
+      },
+      "artists": [
+        {
+          "name": "Funckarma",
+          "url": "https://open.spotify.com/artist/0Q2lYLp53K9LwFyEHWtrIu"
+        }
+      ],
+      "duration_ms": 427213,
+      "name": "Wiert",
+      "url": "https://open.spotify.com/track/2OmbcseTy6LlPwLXQNLGRv"
     },
     {
       "added_at": "2022-04-13 23:57:14",

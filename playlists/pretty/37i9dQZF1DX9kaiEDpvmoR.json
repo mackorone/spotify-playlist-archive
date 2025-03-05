@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92880,
+  "num_followers": 92883,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "About A Woman",
-        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 210891,
-      "name": "Somethin' 'Bout A Woman",
-      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
         "name": "R\u00e4dda mig",
         "url": "https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 180010,
       "name": "R\u00e4dda mig",
       "url": "https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
+        "name": "About A Woman",
+        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 210891,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "Det sista jag beh\u00f6ver",
-        "url": "https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 174376,
-      "name": "Det sista jag beh\u00f6ver",
-      "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
         "name": "Sad Makeup",
         "url": "https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 230050,
       "name": "Sad Makeup",
       "url": "https://open.spotify.com/track/74eE402hFv13hLBw5iPQds"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
+        "name": "Det sista jag beh\u00f6ver",
+        "url": "https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 174376,
+      "name": "Det sista jag beh\u00f6ver",
+      "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -440,7 +440,7 @@
           "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 212163,
+      "duration_ms": 212858,
       "name": "Roll With The Punches",
       "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
     },
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
+        "name": "Dandelion Kids",
+        "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "Dandelion Kids",
+      "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
         "name": "Nyper mig i armen",
         "url": "https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
-        "name": "Dandelion Kids",
-        "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "Dandelion Kids",
-      "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "Psalmer fr\u00e5n sjunde himlen",
-        "url": "https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA"
-      },
-      "artists": [
-        {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "Hit men inte l\u00e4ngre",
-      "url": "https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
         "name": "Where Flowers Grow",
         "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 198000,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
+        "name": "Psalmer fr\u00e5n sjunde himlen",
+        "url": "https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "Hit men inte l\u00e4ngre",
+      "url": "https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
+        "name": "I Wrote Your Name (Upon My Heart)",
+        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 200932,
+      "name": "I Wrote Your Name (Upon My Heart)",
+      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
         "name": "R\u00e4dd f\u00f6r hundar",
         "url": "https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 251362,
       "name": "R\u00e4dd f\u00f6r hundar",
       "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
-        "name": "Badass High School Band",
-        "url": "https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 234966,
-      "name": "Badass High School Band",
-      "url": "https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "I Wrote Your Name (Upon My Heart)",
-        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 200932,
-      "name": "I Wrote Your Name (Upon My Heart)",
-      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
         "name": "WILDSIDE",
         "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 167200,
       "name": "WILDSIDE",
       "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
+        "name": "Badass High School Band",
+        "url": "https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 234966,
+      "name": "Badass High School Band",
+      "url": "https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 172838,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
-    },
-    {
-      "added_at": "2025-02-27 23:00:44",
-      "album": {
         "name": "S\u00e5nger om dig",
         "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "A Sinner's Life",
-        "url": "https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ"
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
       },
       "artists": [
         {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
         }
       ],
-      "duration_ms": 187137,
-      "name": "A Sinner's Life",
-      "url": "https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt"
+      "duration_ms": 172838,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
+        "name": "A Sinner's Life",
+        "url": "https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ"
       },
       "artists": [
         {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
         }
       ],
-      "duration_ms": 213905,
-      "name": "Will You Run Away With Me",
-      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
+      "duration_ms": 187137,
+      "name": "A Sinner's Life",
+      "url": "https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1423,6 +1407,22 @@
       "duration_ms": 165333,
       "name": "Upp med hakan",
       "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+    },
+    {
+      "added_at": "2025-02-27 23:00:44",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 213905,
+      "name": "Will You Run Away With Me",
+      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
     },
     {
       "added_at": "2025-02-27 23:00:44",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2025-02-27 23:00:44",
       "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/7vftI6sRQGbJrTstCjbr6t"
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
       },
       "artists": [
         {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+          "name": "Annika Wickihalder",
+          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
         }
       ],
-      "duration_ms": 223908,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/1cVhitY0LNYiskEEIwSANH"
+      "duration_ms": 172333,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
     }
   ],
   "unique_name": "Aktuellt",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,599 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,627 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 28 | [Afirmativo](https://open.spotify.com/track/51wBfbujPBrOsovd65uysU) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Señor Marrano](https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG) | [Umami](https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m) | 3:10 |
 | 29 | [Artesano del Arte Insano \(Versión Jazz\)](https://open.spotify.com/track/7Cw1jx173XCK9kqvGTjG3Q) | [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3), [Glaç](https://open.spotify.com/artist/15hd9Fica9zjDslWUJUKgm) | [Donde Duele Inspira \(Versión Jazz\)](https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL) | 6:52 |
 | 30 | [Singular \(feat\. El Chojin\)](https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 4:36 |
-| 31 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
-| 32 | [Amor Puro \(feat\. La Banda Baston\)](https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2), [Serko Fu](https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw), [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Amor Puro \(feat\. La Banda Baston\)](https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ) | 3:35 |
+| 31 | [Amor Puro \(feat\. La Banda Baston\)](https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2), [Serko Fu](https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw), [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Amor Puro \(feat\. La Banda Baston\)](https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ) | 3:35 |
+| 32 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
 | 33 | [De Pie](https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [De Pie](https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY) | 4:28 |
 | 34 | [Escaleras y Serpientes](https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH) | [Metrik Vader](https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T) | [Escaleras y Serpientes](https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j) | 3:12 |
 | 35 | [La Ansiedad y Yo](https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La Ansiedad y Yo](https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n) | 3:16 |

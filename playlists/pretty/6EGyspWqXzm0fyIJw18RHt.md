@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 
 > The vibes
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 35 songs - 1 hr 59 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 35 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

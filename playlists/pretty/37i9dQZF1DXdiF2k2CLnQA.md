@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,004 likes - 88 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,015 likes - 88 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 72 | [Murder in Red](https://open.spotify.com/track/6mIJJBuErDdVgyezVWcbFO) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Murder in Red](https://open.spotify.com/album/3CCweTlV8Hq7uqMiVjMHRn) | 4:49 |
 | 73 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 |
 | 74 | [Ascension Day](https://open.spotify.com/track/4sscLguEDlCH2EfaS2FAYk) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [Ascension Day](https://open.spotify.com/album/4ev1RRP4QZVJSouEmyai19) | 5:06 |
-| 75 | [Chemicals](https://open.spotify.com/track/4egZ6NVanhYkOLr8omCGFH) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi), [Jacob Hansen](https://open.spotify.com/artist/4GSQs53ms6HHFxn4VfJQhy) | [Chemicals](https://open.spotify.com/album/3vpfUZRp5ioaOIFLhVyoTF) | 4:10 |
+| 75 | [Chemicals](https://open.spotify.com/track/4egZ6NVanhYkOLr8omCGFH) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi) | [Chemicals](https://open.spotify.com/album/3vpfUZRp5ioaOIFLhVyoTF) | 4:10 |
 | 76 | [Paranoid](https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(2009 Remastered Version\)](https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK) | 2:48 |
 | 77 | [Theme from Pink Flamingo](https://open.spotify.com/track/0s1AVo9cJjG2ZHbEfSrqal) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Theme from Pink Flamingo](https://open.spotify.com/album/6d3h0z1J5e9mrSAG2tS0oJ) | 3:39 |
 | 78 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |

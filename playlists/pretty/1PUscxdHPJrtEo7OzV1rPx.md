@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1PUscxdHPJrtEo7OzV1rPx.md) - [plain]
 
 > A warrior knows when it&\#x27;s their time\. Might as well put on a show.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 9 songs - 25 min 7 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 9 songs - 25 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

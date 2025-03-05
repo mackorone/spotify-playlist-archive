@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "5.50 Am",
+        "url": "https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r"
+      },
+      "artists": [
+        {
+          "name": "Pearldiver",
+          "url": "https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122950,
+      "name": "5.50 Am",
+      "url": "https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz"
+    },
+    {
+      "album": {
         "name": "Last Summer : MMXXI : Anthology",
         "url": "https://open.spotify.com/album/6EPtBH3Tw1s4zB837JVYsN"
       },
@@ -17426,7 +17444,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 179958,
       "name": "bumpy",
       "url": "https://open.spotify.com/track/62KKKPrnZ0h6kSTPdvtUEU"
@@ -71480,7 +71498,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 98816,
       "name": "Lost Track",
       "url": "https://open.spotify.com/track/3y3EGDwhprjjVR8IJCHaOh"
@@ -92228,7 +92246,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 140874,
       "name": "Parga",
       "url": "https://open.spotify.com/track/3APFh2aqeOR1XlDj6iCwl1"

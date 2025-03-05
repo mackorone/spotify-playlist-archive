@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpsSkWDweSLfR.md) - [plain]
 
 > Songs you love right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

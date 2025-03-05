@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > festival music 2025 \- festival songs \- festival mix \- music festival \- music mix \- mainstage mix \- mainstage music \- tiesto \- david guetta \- swedish house maffia \- avicii
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,744 likes - 121 songs - 6 hr 16 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,738 likes - 121 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

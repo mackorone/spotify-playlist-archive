@@ -4,7 +4,7 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-150 songs - 10 hr 10 min
+156 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abundance](https://open.spotify.com/track/0rhg4Ev9NAA9P6NNbD7f62) | [Sun Vibrations](https://open.spotify.com/artist/0Km084nANAUaHxyoThFDH6) | [Soundbath](https://open.spotify.com/album/3utL06Yt0D8eedA3BF7ERo) | 11:40 | 2022-01-06 | 2022-12-14 |
 | [Accepting Fate \(Sound Bath\)](https://open.spotify.com/track/5nwliGmNkUUuu5bFbpnu0T) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 2:53 | 2022-01-06 | 2024-03-01 |
 | [Ad Astra](https://open.spotify.com/track/0Xj3UaGsskZSPvzYowxMmd) | [Kayce Laine](https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb) | [Ad Astra](https://open.spotify.com/album/3sHmvrCn5ZTEMeCGnkQytk) | 4:20 | 2025-01-31 |  |
+| [Aether Window](https://open.spotify.com/track/7i8XxfbKkCXzPg56ZLtHa6) | [Quiet Robot](https://open.spotify.com/artist/4IkRGwvj1TGP4um1ZFyQpc) | [Aether Window](https://open.spotify.com/album/5NQvyi8kh1F57XdSzuJyma) | 2:42 | 2025-03-04 |  |
 | [Ahimsa](https://open.spotify.com/track/3SLS0ollgEPF6LXH9E7gYk) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ahimsa](https://open.spotify.com/album/4ik1k0ZjV52DGDKqQXiZ4m) | 3:41 | 2022-12-13 | 2024-03-01 |
 | [Akasha \- The Pleasure Of Being One With The Supreme Soul](https://open.spotify.com/track/4sPBcSgmvk3e476IISP0XG) | [Danny Becher](https://open.spotify.com/artist/4pFOmWiFp8d1BNx7p8lCAO) | [Tibetan Singing Bowls](https://open.spotify.com/album/3Bl8EDZFekoeh21U7FWukS) | 9:05 | 2022-01-06 | 2024-01-23 |
 | [Amniotic Voyage](https://open.spotify.com/track/471Gkhb07TPZKRvvbf0xF0) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Sacred Singing Metals](https://open.spotify.com/album/7CU1nVlKrQ7uKVtXTdlXkE) | 4:54 | 2022-01-06 | 2024-03-01 |
@@ -31,6 +32,7 @@
 | [Bowls Singing In Rain](https://open.spotify.com/track/3ifRFotnUDoLLfnk2LHlve) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ahimsa](https://open.spotify.com/album/4ik1k0ZjV52DGDKqQXiZ4m) | 3:24 | 2022-12-13 |  |
 | [Bowlsong](https://open.spotify.com/track/5g9RCOeaztckqKQyxMmNyW) | [Wounderous Flight](https://open.spotify.com/artist/6DIGdnc8rQh4G8ZGrtQzZh) | [Bowlsong](https://open.spotify.com/album/7hKYJG6dQY17H7d3RAJREu) | 2:27 | 2022-12-13 |  |
 | [Brook](https://open.spotify.com/track/2RsoQkqUa60wRf5eT9tls4) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Brook](https://open.spotify.com/album/7BmzxCXDaZXNkvkGJBnUvH) | 3:08 | 2025-02-11 |  |
+| [Burning Falls](https://open.spotify.com/track/7csKERMlHz0u5a8WlRVkXN) | [Synchroni city](https://open.spotify.com/artist/6ZAHK2JnTWUA06MRPEXgYp) | [Burning Falls](https://open.spotify.com/album/2m2aNN9aCH9rxBmV3BU4G3) | 2:54 | 2025-03-04 |  |
 | [Cacophony A432](https://open.spotify.com/track/4UUY9ZUYBzZiFsYbfxXeki) | [Natural Tuning](https://open.spotify.com/artist/0db3whzEc8o8hAIp7Q9wp5) | [Cacophony A432](https://open.spotify.com/album/2sict1ksexBHINmD0zIL5T) | 3:40 | 2022-04-14 |  |
 | [Calming Bowls](https://open.spotify.com/track/65A12U2jKBo95338kC8lqc) | [Bowls Of Serenity](https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz) | [Calming Bowls](https://open.spotify.com/album/5lzWTvXfhA60WLzQ6T3M4F) | 3:04 | 2022-02-22 | 2024-08-03 |
 | [Chakra Flow](https://open.spotify.com/track/3UBDhpBYVntgcCDeJqKRG7) | [Traveling Sounds](https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn) | [Chakra Flow](https://open.spotify.com/album/1PzQzN5rY7D5Mfz5unME6E) | 3:04 | 2024-08-30 |  |
@@ -54,10 +56,12 @@
 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 | 2022-12-13 | 2024-11-29 |
 | [Dream](https://open.spotify.com/track/4Z9Tbjzne1mxyG2dfEhqwV) | [Cb10](https://open.spotify.com/artist/6U0sfjx2ckb6ZxQD51v6ny) | [Dream](https://open.spotify.com/album/0kpEc7JaXcQiW6mCmyWLFu) | 5:35 | 2024-08-30 |  |
 | [Dream Fountain](https://open.spotify.com/track/3mJS7piKK2rjjJsodqDge2) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Dream Fountain](https://open.spotify.com/album/2SLsIU2EdI4yDwFk2ypT22) | 2:38 | 2022-04-26 |  |
+| [Dream State](https://open.spotify.com/track/6RYCmqM5A2Ps0dg71yfB6H) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Dream State](https://open.spotify.com/album/4Orb421sU6F1cKCQnlHIFs) | 5:26 | 2025-03-04 |  |
 | [Dreamless](https://open.spotify.com/track/67rH7GtQt1RmaYSbQpnpBO) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Dreamless](https://open.spotify.com/album/0gz0uzedaO2izDgmz5WHJM) | 2:41 | 2024-11-14 |  |
 | [Dreams Come True](https://open.spotify.com/track/1UpKTNPYvnvB5wIgYqcM7P) | [Singing Bowls](https://open.spotify.com/artist/2s9c0wEe3zF2sduGBd0iFX) | [Zen Meditation](https://open.spotify.com/album/1GQ8y81r8sMaxd91Z5fGL9) | 2:04 | 2022-01-06 |  |
 | [Ease](https://open.spotify.com/track/7i6SwixNVo6ZmEOU0OOMUP) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Ease](https://open.spotify.com/album/6XV0cac3ZQ3JS9UXkRaGum) | 2:40 | 2024-11-28 |  |
 | [Echos Of Angels](https://open.spotify.com/track/21CRn1nc9hSAlCZomJrNhn) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Crystal Voices: The Harmonic Vibrations Of Crystal Singing Bowls](https://open.spotify.com/album/6k4BaemsQh3Aih4F2z1itg) | 4:32 | 2022-01-06 |  |
+| [El Viento Que No Sopla](https://open.spotify.com/track/4X4HLnOhOZ1vK4gZzsgQ6q) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Los Secretos De La Luz](https://open.spotify.com/album/5N7mINsQuqiJW5vuX9iCNq) | 10:48 | 2025-03-04 |  |
 | [Emotional Work](https://open.spotify.com/track/0VC9OeCCDfGC9WlmU101TH) | [Singing Bowls](https://open.spotify.com/artist/2s9c0wEe3zF2sduGBd0iFX) | [Healing Sound Waves for Meditation](https://open.spotify.com/album/5hiIGtbXnYu03Vck0nV7dY) | 2:55 | 2022-01-06 | 2024-03-01 |
 | [Encounter](https://open.spotify.com/track/2u0OrgjfGTyQLGNtClTBD5) | [Waves Of Wonder](https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn) | [Encounter](https://open.spotify.com/album/0HNu4tr2WmMR6Srn1pTMpN) | 2:37 | 2025-01-08 |  |
 | [Endlessness \(Sound Bath\)](https://open.spotify.com/track/7c4dedcfqPn7w8Wddd0a7w) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Endlessness \(Sound Bath\)](https://open.spotify.com/album/4HXIfQejhqF9pwZZZJDuQN) | 2:43 | 2022-04-26 |  |
@@ -78,6 +82,7 @@
 | [Grounded](https://open.spotify.com/track/5yPHhVvE3HZBMMDqqo3E1X) | [Hester Riley](https://open.spotify.com/artist/5QM8KqvVCuAJ9AM8UzrUtg) | [Healing Soundbath](https://open.spotify.com/album/48UsHG8Mo59XBFOAj5De1r) | 7:39 | 2022-01-06 |  |
 | [Healing](https://open.spotify.com/track/03LNbYPd5i6PbdDPJRRZ9z) | [Hester Riley](https://open.spotify.com/artist/5QM8KqvVCuAJ9AM8UzrUtg) | [Healing Soundbath](https://open.spotify.com/album/48UsHG8Mo59XBFOAj5De1r) | 5:48 | 2022-01-06 |  |
 | [Healing Mantra](https://open.spotify.com/track/4qNzM8Q6hYbm2bN0Q7lBOc) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 3:44 | 2022-03-25 |  |
+| [Healing Salve](https://open.spotify.com/track/7CkVOb36IuH1f3EuRZLelV) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Healing Salve](https://open.spotify.com/album/49xub4BlrA9hKQ9hKlaW0d) | 3:14 | 2025-03-04 |  |
 | [Healing Tibetan Bowls](https://open.spotify.com/track/27R2tfIn7bS4Hvq14AelZI) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 3:45 | 2022-02-22 |  |
 | [Heart Totem \- Sound Bath](https://open.spotify.com/track/7FyWhcfDpPniGZ4v2hLrUF) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Heart Totem](https://open.spotify.com/album/5pW07wEboeqVRb0jtMVqee) | 3:29 | 2024-02-29 |  |
 | [Himalayan healing](https://open.spotify.com/track/1g8PPNc86XXVm7QPpGuU0z) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Himalayan healing](https://open.spotify.com/album/3MD7k7FpUqVcvqGOOO96jW) | 3:03 | 2022-12-13 |  |
@@ -124,6 +129,7 @@
 | [Singing Bowl, Cymbals, & Rain](https://open.spotify.com/track/2okKxzaXlXDjIhGvZj57oq) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [Handpan Rain](https://open.spotify.com/album/6ewhW60VWUoZc46s3bczJB) | 3:34 | 2022-05-12 | 2024-08-03 |
 | [Singing Bowls](https://open.spotify.com/track/1p51DKnBmrkh9nCijNcG37) | [Tales of the Monk](https://open.spotify.com/artist/0Re4A8cte2gZ2fDKTdxD03) | [Singing Bowls](https://open.spotify.com/album/6fsshu03QNMFvD5UUbD123) | 3:04 | 2022-12-13 |  |
 | [Slowing Rain](https://open.spotify.com/track/7vhMyCsKVbpLj66EH6ZZvr) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG) | [In Two Minds](https://open.spotify.com/album/0lOZdbwV2CkgUiOQsuEE5Z) | 4:09 | 2024-01-22 |  |
+| [Soft Rays](https://open.spotify.com/track/1YhSbspYxHcaEdbl3faWno) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Soft Rays](https://open.spotify.com/album/1FRbznRmaHORqPniW6aSqB) | 2:50 | 2025-03-04 |  |
 | [Soil](https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Treetop Whisperer](https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN) | 3:10 | 2023-04-06 | 2024-03-01 |
 | [Solar Plexus Chakra \(Manipura\) \- 3 Octaves E](https://open.spotify.com/track/163wIVMDQwvwLleCgvCTfJ) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2022-01-06 | 2024-08-03 |
 | [Sonic Massage \- Singing Bowl Only](https://open.spotify.com/track/6MBi5eimnlk2NWOqlfJuUC) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 2:49 | 2022-01-06 |  |

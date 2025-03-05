@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Nerve
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,497 likes - 101 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,494 likes - 101 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 6 | [PHONE CALL](https://open.spotify.com/track/6W96fdY4F8f7E25vVJ4kMg) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [PHONE CALL](https://open.spotify.com/album/3ZeJ9Lo4KfxPDzYD6GrW1M) | 3:09 |
 | 7 | [THREE65](https://open.spotify.com/track/5RbkBuNZtqYbD1aCWHZaJD) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [THREE65](https://open.spotify.com/album/43nJ3B8pcxHkQcOI8Ocq1R) | 2:31 |
 | 8 | [Envy Me](https://open.spotify.com/track/4jWluiYfXVQXNcleeodwUs) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Envy Me](https://open.spotify.com/album/1fVgwOgVmTb8nK3fvSFEjB) | 2:25 |
-| 9 | [Maestro](https://open.spotify.com/track/2QXPj7S2aBS889QL5Ishb2) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Maestro](https://open.spotify.com/album/3ftCEhgDoWQRd9zFLnnzIP) | 2:36 |
+| 9 | [Woosh](https://open.spotify.com/track/2QXPj7S2aBS889QL5Ishb2) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Woosh](https://open.spotify.com/album/3ftCEhgDoWQRd9zFLnnzIP) | 2:36 |
 | 10 | [ZIZOU](https://open.spotify.com/track/7xKhz7mg2TwIkbIL8OBdQO) | [RAAJ](https://open.spotify.com/artist/7dUyhRfyEsUTS7gySitrDc) | [ZIZOU](https://open.spotify.com/album/0mMCfD08eXsuBvHFfyGeCy) | 2:08 |
 | 11 | [Walk The Line](https://open.spotify.com/track/4rcvNSDihDNNj7OKr6ZoFU) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Walk The Line](https://open.spotify.com/album/6o1AQo0yiL0bJURZvjhQAc) | 3:02 |
 | 12 | [TOO MANY TIMES](https://open.spotify.com/track/4MAb1KCKwjjFmKGF9hu27N) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [TOO MANY TIMES](https://open.spotify.com/album/2yf5XhEgaW6gT4LjLIV16v) | 2:04 |

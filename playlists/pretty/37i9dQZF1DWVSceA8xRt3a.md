@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 
 > Celine Song of A24's Past Lives curates a playlist of "love songs about cities"
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,408 likes - 47 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,448 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 | 46 | [Hackensack](https://open.spotify.com/track/11PUdjgVfGEZLG9zs9UeTp) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:00 |
 | 47 | [Blue Night On Jeju](https://open.spotify.com/track/3kwk52VNXhtofbOQ38mmCg) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [Deulgukhwa](https://open.spotify.com/album/0e8lh3uJqASTtR8fqgxm13) | 4:53 |
 
-Snapshot ID: `ZRLs0gAAAADBPnP9F7GCjAXZvbeo1Aht`
+Snapshot ID: `ZRLs0gAAAAD4gYH3/UQ/S++tRpUEbi4K`

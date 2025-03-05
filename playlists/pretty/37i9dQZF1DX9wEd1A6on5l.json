@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 83844,
+  "num_followers": 83951,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-02-28 11:32:18",
       "album": {
+        "name": "Uncle Pele / Sew-Tape",
+        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Uncle Pele",
+      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
+    },
+    {
+      "added_at": "2025-02-28 11:32:18",
+      "album": {
         "name": "One Call",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 158712,
       "name": "One Call",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
-    },
-    {
-      "added_at": "2025-02-28 11:32:18",
-      "album": {
-        "name": "Uncle Pele / Sew-Tape",
-        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
-      },
-      "artists": [
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Uncle Pele",
-      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-02-28 11:32:18",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 152544,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
-    },
-    {
-      "added_at": "2025-02-28 11:32:18",
-      "album": {
         "name": "Free Service",
         "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 156473,
       "name": "Free Service",
       "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
+    },
+    {
+      "added_at": "2025-02-28 11:32:18",
+      "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 152544,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-02-28 11:32:18",
       "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
+      "duration_ms": 151282,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-02-28 11:32:18",
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 151282,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -915,26 +915,6 @@
       "duration_ms": 172035,
       "name": "Gimme Your Love",
       "url": "https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ"
-    },
-    {
-      "added_at": "2025-02-28 11:32:18",
-      "album": {
-        "name": "Pano Tona",
-        "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 174107,
-      "name": "Pano Tona",
-      "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -999,6 +979,42 @@
     {
       "added_at": "2025-02-28 11:32:18",
       "album": {
+        "name": "Xistence.",
+        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 98964,
+      "name": "flavor.",
+      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
+    },
+    {
+      "added_at": "2025-02-28 11:32:18",
+      "album": {
+        "name": "Pano Tona",
+        "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Pano Tona",
+      "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
+    },
+    {
+      "added_at": "2025-02-28 11:32:18",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 185396,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
-    },
-    {
-      "added_at": "2025-02-28 11:32:18",
-      "album": {
-        "name": "Xistence.",
-        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 98964,
-      "name": "flavor.",
-      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -1063,6 +1063,22 @@
       "duration_ms": 169571,
       "name": "Bad Decisions & Foreplay",
       "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
+    },
+    {
+      "added_at": "2025-02-28 11:32:18",
+      "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -1131,6 +1147,34 @@
     {
       "added_at": "2025-02-28 11:32:18",
       "album": {
+        "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
+        "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
+        }
+      ],
+      "duration_ms": 217718,
+      "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
+      "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
+    },
+    {
+      "added_at": "2025-02-28 11:32:18",
+      "album": {
         "name": "Management",
         "url": "https://open.spotify.com/album/7wO7ortMBavUmgj8pEELkq"
       },
@@ -1167,50 +1211,6 @@
     {
       "added_at": "2025-02-28 11:32:18",
       "album": {
-        "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
-        "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "DJ 808",
-          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
-        }
-      ],
-      "duration_ms": 217718,
-      "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
-      "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
-    },
-    {
-      "added_at": "2025-02-28 11:32:18",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
-    },
-    {
-      "added_at": "2025-02-28 11:32:18",
-      "album": {
         "name": "MEGA MONEY MEGA",
         "url": "https://open.spotify.com/album/77bphBtAaaTCuM7pkFO7YV"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 168000,
       "name": "MEGA MONEY MEGA",
       "url": "https://open.spotify.com/track/0GtkFcwZrNVpkPOavG1gfZ"
+    },
+    {
+      "added_at": "2025-02-28 11:32:18",
+      "album": {
+        "name": "Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "Till Thy Kingdom Come",
+      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -1243,22 +1259,6 @@
       "duration_ms": 172631,
       "name": "Innocent (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
-    },
-    {
-      "added_at": "2025-02-28 11:32:18",
-      "album": {
-        "name": "Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 149743,
-      "name": "Till Thy Kingdom Come",
-      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -1295,6 +1295,26 @@
       "duration_ms": 91428,
       "name": "Finish Me (AEIOU)",
       "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
+    },
+    {
+      "added_at": "2025-02-28 11:32:18",
+      "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 153386,
+      "name": "Wait For Me (feat. Teni)",
+      "url": "https://open.spotify.com/track/1JXwmf153QmPL57gNu1NkZ"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -1363,26 +1383,6 @@
     {
       "added_at": "2025-02-28 11:32:18",
       "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 153386,
-      "name": "Wait For Me (feat. Teni)",
-      "url": "https://open.spotify.com/track/1JXwmf153QmPL57gNu1NkZ"
-    },
-    {
-      "added_at": "2025-02-28 11:32:18",
-      "album": {
         "name": "Okada Airlines",
         "url": "https://open.spotify.com/album/0tryWtXDmIsGPK53e9DBTH"
       },
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-02-28 11:32:18",
       "album": {
+        "name": "I Dream In Color",
+        "url": "https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 160982,
+      "name": "Alchl",
+      "url": "https://open.spotify.com/track/6s2Axyc8OgfFFlDMK3XtqZ"
+    },
+    {
+      "added_at": "2025-02-28 11:32:18",
+      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -1451,6 +1467,26 @@
       "duration_ms": 167804,
       "name": "POUNDS AND DOLLARS",
       "url": "https://open.spotify.com/track/2h1eU2bFf4bpEp8eCjYrOM"
+    },
+    {
+      "added_at": "2025-02-28 11:32:18",
+      "album": {
+        "name": "Screaming Beauty",
+        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Screaming Beauty",
+      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
     },
     {
       "added_at": "2025-02-28 11:32:18",
@@ -1519,46 +1555,6 @@
       "duration_ms": 192053,
       "name": "ODESHI",
       "url": "https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA"
-    },
-    {
-      "added_at": "2025-02-28 11:32:18",
-      "album": {
-        "name": "Something Something (Remix)",
-        "url": "https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs"
-      },
-      "artists": [
-        {
-          "name": "Tspykes",
-          "url": "https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 177005,
-      "name": "Something Something - Remix",
-      "url": "https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3"
-    },
-    {
-      "added_at": "2025-02-28 11:32:18",
-      "album": {
-        "name": "JABO",
-        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "JABO",
-      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
     }
   ],
   "unique_name": "Party Dey!",

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,778 songs - 3 day 6 hr 57 min
+1,779 songs - 3 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,7 +788,7 @@
 | [Late Spring](https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI) | [Anthony Bertoli](https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz) | [Late Spring](https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy) | 3:00 | 2020-12-01 | 2021-08-19 |
 | [Lato](https://open.spotify.com/track/4Dud0QWbw1Xp3z7tqpg1NA) | [Aleksy Wysocki](https://open.spotify.com/artist/3GXTl6tHXIzPcthbBCEskf) | [Lato](https://open.spotify.com/album/1wTOeWZPH0QdpjjhK5VZvm) | 2:07 | 2019-07-05 | 2021-03-24 |
 | [Lava](https://open.spotify.com/track/4gtH4EmavpjGHTt2Pxo5wZ) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Lava](https://open.spotify.com/album/2cdevyIqujwgf44qpicxPE) | 3:30 | 2019-05-26\* | 2019-08-13 |
-| [lavande](https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lavande](https://open.spotify.com/album/3F4ggN1yBna5FlNj8Bw8Y7) | 2:36 | 2025-02-25 |  |
+| [lavande](https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lavande](https://open.spotify.com/album/3F4ggN1yBna5FlNj8Bw8Y7) | 2:36 | 2025-02-25 | 2025-03-05 |
 | [Lazy Sunday Vibes](https://open.spotify.com/track/22c7C62EK0p3yAlurFMTwL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Lazy Sunday Vibes](https://open.spotify.com/album/5OQFFxd5Wv6gCKVpG5RfwN) | 2:13 | 2024-10-07 |  |
 | [Le Beau](https://open.spotify.com/track/2sXivDlzfbHQAPrGYKhWbP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Le Beau](https://open.spotify.com/album/1nGkLuKoBJur52SMEeMnR6) | 3:25 | 2020-11-03 | 2021-04-22 |
 | [Le Bonheur](https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Le Bonheur](https://open.spotify.com/album/16jsGf5M8TZ2NeqSa09c8P) | 2:59 | 2021-04-08 | 2022-09-13 |
@@ -1331,6 +1331,7 @@
 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 | 2020-06-02 | 2022-05-05 |
 | [Sicilienne](https://open.spotify.com/track/0ATCSA5YcOdy8jRY3FRJSe) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Sicilienne](https://open.spotify.com/album/3zOBVDSipEOvDzHVfhSwG0) | 3:00 | 2022-11-21 | 2023-12-06 |
 | [Signs](https://open.spotify.com/track/6X9DrQLnANiUyPEZxq5f1L) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Signs](https://open.spotify.com/album/6Rm5rAz1KDJZd2foaHOQVP) | 2:06 | 2024-11-25 |  |
+| [Silence](https://open.spotify.com/track/0ve3BKlLTiWplrSO9Jgs0o) | [Aubrey Lo](https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5) | [Silence](https://open.spotify.com/album/7c9rPpBSgHzESsbojRkiqi) | 2:17 | 2025-03-04 |  |
 | [Silent Agreement](https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Dreamer](https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM) | 2:15 | 2020-04-21 | 2022-02-24 |
 | [Silent Dusk](https://open.spotify.com/track/0IjOLaGtgjYKC5MOxEhEel) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Silent Dusk / Beside The Spring](https://open.spotify.com/album/4eNl0A3k0p9f08yE7gaeqC) | 3:29 | 2020-01-22 | 2020-09-30 |
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2021-03-31 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 
 > 
 
-[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 48 songs - 2 hr 47 min
+[trin](https://open.spotify.com/user/tjoslin05) - 0 likes - 48 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

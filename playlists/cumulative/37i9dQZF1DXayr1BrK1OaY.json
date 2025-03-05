@@ -2587,6 +2587,28 @@
     },
     {
       "album": {
+        "name": "Flores de Abril",
+        "url": "https://open.spotify.com/album/7gG5uYFywQBnHnk4ckKha2"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "DIAN",
+          "url": "https://open.spotify.com/artist/1axT977BV0cQMFt5ChzhAa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257653,
+      "name": "Flores de Abril",
+      "url": "https://open.spotify.com/track/5nFrZoTp4FfBCWAHr5Aqyx"
+    },
+    {
+      "album": {
         "name": "Foolproof (Andhim Remix)",
         "url": "https://open.spotify.com/album/3nu9PnxWH2pz3CN62Syal3"
       },
@@ -6444,7 +6466,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 176129,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3uMVGeBBjjPavtpUPQOBt7"

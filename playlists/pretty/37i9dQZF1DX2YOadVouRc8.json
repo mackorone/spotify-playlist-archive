@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 32839,
+  "num_followers": 32882,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,22 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
       },
       "artists": [
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 190120,
-      "name": "A Million Blessings",
-      "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -391,22 +395,18 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Piece of My Heart (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
       "artists": [
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 259354,
-      "name": "Piece of My Heart (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+      "duration_ms": 190120,
+      "name": "A Million Blessings",
+      "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Belly",
-        "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
         "name": "Suns Out",
         "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 151788,
       "name": "Suns Out",
       "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
+        "name": "Belly",
+        "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Sweet For Joy",
-        "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
-      },
-      "artists": [
-        {
-          "name": "Amexin",
-          "url": "https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI"
-        },
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        }
-      ],
-      "duration_ms": 165159,
-      "name": "Sweet For Joy",
-      "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -1271,6 +1251,26 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
+        "name": "Sweet For Joy",
+        "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
+      },
+      "artists": [
+        {
+          "name": "Amexin",
+          "url": "https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        }
+      ],
+      "duration_ms": 165159,
+      "name": "Sweet For Joy",
+      "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
         "name": "California / Rollercoaster",
         "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
       },
@@ -1283,26 +1283,6 @@
       "duration_ms": 140357,
       "name": "California",
       "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
-        "name": "Akorfa",
-        "url": "https://open.spotify.com/album/7gCyJwNjycvJfQDeVXGUrk"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Lighter Tod",
-          "url": "https://open.spotify.com/artist/3b3Vzpjyj5I1xOmVVKglUk"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "Akorfa",
-      "url": "https://open.spotify.com/track/3CL86NHbA0NjfdS28TE2Wb"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1327,6 +1307,26 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
+        "name": "Akorfa",
+        "url": "https://open.spotify.com/album/7gCyJwNjycvJfQDeVXGUrk"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Lighter Tod",
+          "url": "https://open.spotify.com/artist/3b3Vzpjyj5I1xOmVVKglUk"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "Akorfa",
+      "url": "https://open.spotify.com/track/3CL86NHbA0NjfdS28TE2Wb"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
         "name": "FaceCard (Only Me)",
         "url": "https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ"
       },
@@ -1339,30 +1339,6 @@
       "duration_ms": 175200,
       "name": "FaceCard (Only Me)",
       "url": "https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
-        "name": "Mentali",
-        "url": "https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Krizbeatz",
-          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 150278,
-      "name": "Mentali",
-      "url": "https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1387,18 +1363,26 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Princess",
-        "url": "https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl"
+        "name": "Mentali",
+        "url": "https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH"
       },
       "artists": [
         {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 97550,
-      "name": "Princess",
-      "url": "https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x"
+      "duration_ms": 150278,
+      "name": "Mentali",
+      "url": "https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
+        "name": "Princess",
+        "url": "https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "duration_ms": 97550,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
         "name": "the gift",
         "url": "https://open.spotify.com/album/7L2PvlXP8x4sGGmXDf46LV"
       },
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "BLKN",
-        "url": "https://open.spotify.com/album/0z8dBIlqELOczRx3dLCls9"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4kPmfne7JilXehb88OknDC"
       },
       "artists": [
         {
-          "name": "Theecember",
-          "url": "https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs"
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
         }
       ],
-      "duration_ms": 127400,
-      "name": "BLKN",
-      "url": "https://open.spotify.com/track/72dnVyRTuvKakKNtbBGlKc"
+      "duration_ms": 136969,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6sXhKl8JUaO9g8Q2O1kQtg"
     }
   ],
   "unique_name": "Afro Chill",

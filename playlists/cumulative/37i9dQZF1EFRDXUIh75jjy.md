@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-225 songs - 11 hr 37 min
+226 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Baggage](https://open.spotify.com/track/4fnR2KQNeOhYtiLJgeHxP8) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Baggage](https://open.spotify.com/album/2fNOpoG64UvSthM69iKCHc) | 3:03 | 2024-06-07 |  |
 | [Bartender](https://open.spotify.com/track/6g1VMY89VJmDmofqnyC6Rt) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:13 | 2024-06-07 |  |
 | [bet u wanna](https://open.spotify.com/track/1RAeuvRyRzCweAK3jUT0ZW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:11 | 2024-06-07 |  |
+| [Betcha Can't](https://open.spotify.com/track/4ttCangJl0a4OKS2mDvj5j) | [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd), [Marvel’s Moon Girl and Devil Dinosaur \- Cast](https://open.spotify.com/artist/5ziHQJ5duPlNgarkw4pmzV) | [Marvel's Moon Girl and Devil Dinosaur: Season 2 \- Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/45kuhHfvZJ1P3IrG54cSil) | 2:35 | 2025-03-04 |  |
 | [better off](https://open.spotify.com/track/6Wey3WDGWqwOJ4b5acKh1u) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:04 | 2024-06-07 |  |
 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 | 2024-06-07 |  |
 | [BITCH](https://open.spotify.com/track/1rx8PmTyJBMygZfuResHaA) | [Jackie Schimmel](https://open.spotify.com/artist/7aUtTeuD62WFIuFkBe1AFO) | [BITCH](https://open.spotify.com/album/6iA9gO01qT0sUyK1ilqPMh) | 3:12 | 2024-06-07 |  |

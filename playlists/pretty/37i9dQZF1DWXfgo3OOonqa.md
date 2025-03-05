@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,037 likes - 107 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,025 likes - 107 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/track/6zd7EGess2mwXiS70RSRRR) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/album/1pBr99gwaeeLzfmcdqDY8W) | 2:08 |
-| 2 | [Secret](https://open.spotify.com/track/7uifbpk6BOwusz3pqkuxDz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Secret](https://open.spotify.com/album/6kVvuKiJRKeJWp8iMJszTP) | 3:16 |
-| 3 | [DNA](https://open.spotify.com/track/3s9kIbEsaS6ZlOUfIzvAKt) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [DNA](https://open.spotify.com/album/1dcYIocFl8vQhh8uOUm7FI) | 2:03 |
-| 4 | [Morgonkvisten](https://open.spotify.com/track/7ITtw8y3Egz8sk9TxcaWsb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Morgonkvisten](https://open.spotify.com/album/2rwyriumBjz17fzGRmw8cJ) | 2:28 |
-| 5 | [Love Doctor's](https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love Doctor's](https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY) | 3:32 |
-| 6 | [Lila](https://open.spotify.com/track/4cIRd5Xk4APeiTzIA2PT6z) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lila](https://open.spotify.com/album/5FCD1dm5HTiUmDGeSAanFs) | 2:15 |
-| 7 | [Min Gumma](https://open.spotify.com/track/1hlyhTzpZp2GUVtruar0IW) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Min Gumma](https://open.spotify.com/album/5GZDJi1IxSmqwTYF2MVNGV) | 2:00 |
-| 8 | [Här Ute](https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Här Ute](https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq) | 2:39 |
-| 9 | [Mi Vida](https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mi Vida](https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE) | 2:17 |
+| 1 | [DNA](https://open.spotify.com/track/3s9kIbEsaS6ZlOUfIzvAKt) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [DNA](https://open.spotify.com/album/1dcYIocFl8vQhh8uOUm7FI) | 2:03 |
+| 2 | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/track/6zd7EGess2mwXiS70RSRRR) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/album/1pBr99gwaeeLzfmcdqDY8W) | 2:08 |
+| 3 | [Secret](https://open.spotify.com/track/7uifbpk6BOwusz3pqkuxDz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Secret](https://open.spotify.com/album/6kVvuKiJRKeJWp8iMJszTP) | 3:16 |
+| 4 | [Love Doctor's](https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love Doctor's](https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY) | 3:32 |
+| 5 | [Morgonkvisten](https://open.spotify.com/track/7ITtw8y3Egz8sk9TxcaWsb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Morgonkvisten](https://open.spotify.com/album/2rwyriumBjz17fzGRmw8cJ) | 2:28 |
+| 6 | [Mi Vida](https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mi Vida](https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE) | 2:17 |
+| 7 | [Lila](https://open.spotify.com/track/4cIRd5Xk4APeiTzIA2PT6z) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lila](https://open.spotify.com/album/5FCD1dm5HTiUmDGeSAanFs) | 2:15 |
+| 8 | [Min Gumma](https://open.spotify.com/track/1hlyhTzpZp2GUVtruar0IW) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Min Gumma](https://open.spotify.com/album/5GZDJi1IxSmqwTYF2MVNGV) | 2:00 |
+| 9 | [Här Ute](https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Här Ute](https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq) | 2:39 |
 | 10 | [LYFTER](https://open.spotify.com/track/5ydBK5gDFVVZlbX6KU9VO5) | [nOnting](https://open.spotify.com/artist/2ZE4QDUxlhBy82CQidNTxJ) | [LYFTER](https://open.spotify.com/album/2JOcNikcgGNYHrUEdAr1b0) | 2:18 |
-| 11 | [Min Risk](https://open.spotify.com/track/3Ns1lcJWmW0PRWJOUP2CPI) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Min Risk](https://open.spotify.com/album/2gwdJhD1G6e0HTXHoWRGQB) | 3:00 |
-| 12 | [BARCA](https://open.spotify.com/track/6d45s5kRUwaBQ7FIIuxyib) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB), [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew) | [BARCA](https://open.spotify.com/album/5S48nOTgXrL2kQvFC9jXCj) | 2:53 |
-| 13 | [Outside](https://open.spotify.com/track/0Y1jsBgsY8JMWqR6SgDfvA) | [Sinnesro](https://open.spotify.com/artist/59VSWqLge7r0Rp2Ia9RMyf), [Tado](https://open.spotify.com/artist/4qc3USZURjRYYS8PTyRimP) | [Outside](https://open.spotify.com/album/33QqoyvGT7vy46Qv1Hi6Df) | 2:05 |
-| 14 | [Maria](https://open.spotify.com/track/1zKWPl45yX9RiMr2PPW83Z) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Maria](https://open.spotify.com/album/1h99QDMHn7Lo3mXJKnxFdU) | 2:31 |
-| 15 | [VINNARE](https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [VINNARE](https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg) | 2:29 |
-| 16 | [TYSTA BOYS](https://open.spotify.com/track/7aVVIa8xjBUk9hd4UQptiy) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [TYSTA BOYS](https://open.spotify.com/album/1dIKGK8GrnjmRtLf8U2wva) | 1:54 |
-| 17 | [DETALJER](https://open.spotify.com/track/5fg3f9ojTu4CHavGWX92nH) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [DETALJER](https://open.spotify.com/album/5gI0YUlhTaLOeTXh5qHcFF) | 2:13 |
-| 18 | [BPM](https://open.spotify.com/track/15sM0nXG6YhJ1G9H0AFsQY) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [BPM](https://open.spotify.com/album/4YUuZVgUjm7qNBpM6jF2hQ) | 3:03 |
-| 19 | [STORSTAD](https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [STORSTAD](https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D) | 2:01 |
+| 11 | [VINNARE](https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [VINNARE](https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg) | 2:29 |
+| 12 | [STORSTAD](https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [STORSTAD](https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D) | 2:01 |
+| 13 | [Min Risk](https://open.spotify.com/track/3Ns1lcJWmW0PRWJOUP2CPI) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Min Risk](https://open.spotify.com/album/2gwdJhD1G6e0HTXHoWRGQB) | 3:00 |
+| 14 | [BARCA](https://open.spotify.com/track/6d45s5kRUwaBQ7FIIuxyib) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB), [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew) | [BARCA](https://open.spotify.com/album/5S48nOTgXrL2kQvFC9jXCj) | 2:53 |
+| 15 | [Outside](https://open.spotify.com/track/0Y1jsBgsY8JMWqR6SgDfvA) | [Sinnesro](https://open.spotify.com/artist/59VSWqLge7r0Rp2Ia9RMyf), [Tado](https://open.spotify.com/artist/4qc3USZURjRYYS8PTyRimP) | [Outside](https://open.spotify.com/album/33QqoyvGT7vy46Qv1Hi6Df) | 2:05 |
+| 16 | [Maria](https://open.spotify.com/track/1zKWPl45yX9RiMr2PPW83Z) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Maria](https://open.spotify.com/album/1h99QDMHn7Lo3mXJKnxFdU) | 2:31 |
+| 17 | [TYSTA BOYS](https://open.spotify.com/track/7aVVIa8xjBUk9hd4UQptiy) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [TYSTA BOYS](https://open.spotify.com/album/1dIKGK8GrnjmRtLf8U2wva) | 1:54 |
+| 18 | [DETALJER](https://open.spotify.com/track/5fg3f9ojTu4CHavGWX92nH) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [DETALJER](https://open.spotify.com/album/5gI0YUlhTaLOeTXh5qHcFF) | 2:13 |
+| 19 | [BPM](https://open.spotify.com/track/15sM0nXG6YhJ1G9H0AFsQY) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [BPM](https://open.spotify.com/album/4YUuZVgUjm7qNBpM6jF2hQ) | 3:03 |
 | 20 | [Georgia](https://open.spotify.com/track/3MH6phj8eg7ofHeutNjAom) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Georgia](https://open.spotify.com/album/4bU83gSkplvSgivTYK0Yzu) | 2:28 |
 | 21 | [Ingen ro](https://open.spotify.com/track/0EOXIlBeG2B8uZTy33aXrg) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Ingen ro](https://open.spotify.com/album/25ymQgXonmzw13vUTHR8aG) | 2:00 |
 | 22 | [Lucky Luciano](https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Lucky Luciano](https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj) | 2:15 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 106 | [skitdag \(feat\. Clayton\)](https://open.spotify.com/track/5Eocjojgyk5o9aGbxcLtIu) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q), [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [skitdag \(feat\. Clayton\)](https://open.spotify.com/album/4R9DcKWekG05uTxiApLD5T) | 2:52 |
 | 107 | [GÅ VIDARE](https://open.spotify.com/track/1b5FGpT5U0eC1wvElhFPGH) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [GÅ VIDARE](https://open.spotify.com/album/1dRgTbPkrEKJ1KEYBipP8S) | 2:25 |
 
-Snapshot ID: `Z8V4BQAAAADNYmsKyklfn8VMpIlI+N2i`
+Snapshot ID: `Z8bW0AAAAACjOD1AB085lSAZbhEufgLP`

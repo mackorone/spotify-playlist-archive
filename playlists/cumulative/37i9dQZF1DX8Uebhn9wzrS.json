@@ -9574,7 +9574,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 104855,
       "name": "distant dreams",
       "url": "https://open.spotify.com/track/0s4hSAumdYO3ElkZ9zbmNS"
@@ -15822,7 +15822,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 133333,
       "name": "Hash with 2,8",
       "url": "https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD"
@@ -28458,7 +28458,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 128000,
       "name": "Periodical",
       "url": "https://open.spotify.com/track/1lAJMJ01FU1RibQigO6RQ1"
@@ -32130,7 +32130,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 114329,
       "name": "Shapes",
       "url": "https://open.spotify.com/track/4BiiiOiilAEgCkeynf3hlC"
@@ -41124,7 +41124,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 162750,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/5G5SdyJn3gZi1nv1xFKlgv"
@@ -42156,6 +42156,24 @@
       "duration_ms": 126000,
       "name": "Yolofi",
       "url": "https://open.spotify.com/track/4nOTHXqmH2UEuvQaabWW5S"
+    },
+    {
+      "album": {
+        "name": "Yorkshire",
+        "url": "https://open.spotify.com/album/35i2jflWfu8pX3TfOave87"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115051,
+      "name": "Yorkshire",
+      "url": "https://open.spotify.com/track/3wVhElU6kT7unhanN3TtYF"
     },
     {
       "album": {

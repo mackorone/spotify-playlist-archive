@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Faul Gayo
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,400 likes - 87 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,397 likes - 87 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

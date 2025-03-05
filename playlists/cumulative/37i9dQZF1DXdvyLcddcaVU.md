@@ -4,7 +4,7 @@
 
 > \#fyp
 
-653 songs - 1 day 10 hr 18 min
+654 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-11-24 | 2024-04-27 |
 | [Angela](https://open.spotify.com/track/5tl5NRfjvOEZaVuWBQHOf9) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu) | 2:54 | 2024-12-13 |  |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2023-11-17 | 2023-12-14 |
+| [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-04 |  |
 | [Apologize](https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:04 | 2025-01-17 | 2025-02-28 |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-19 | 2024-08-17 |
 | [Apprends\-moi !](https://open.spotify.com/track/1QfNvkcNwlnoUpFlHu2AX8) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:01 | 2024-03-01 | 2024-05-04 |
@@ -448,7 +449,7 @@
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-01-12 | 2024-05-04 |
 | [NINA](https://open.spotify.com/track/5CLE8nqBC2HLuFqLjoFzYw) | [BOBYTO](https://open.spotify.com/artist/1dO89yKJPu6QSrAZzDQrbb) | [NINA](https://open.spotify.com/album/2AZb9w8mOIBFdjyNnTbPKp) | 2:48 | 2023-03-24 | 2023-10-02 |
 | [Nique ma vie](https://open.spotify.com/track/2QpUFvdpmFMzXNmDB3MkL6) | [Mehdi Yz](https://open.spotify.com/artist/2BEMYnNYVY6FScCvRaw1J6) | [Nique ma vie](https://open.spotify.com/album/20LKN93m5n92JnGpaTmsnH) | 3:34 | 2024-11-08 | 2025-02-01 |
-| [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2025-01-24 |  |
+| [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2025-01-24 | 2025-03-05 |
 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 | 2024-06-28 | 2025-02-22 |
 | [Nocif](https://open.spotify.com/track/7FeWKPL2gj7xIRv5gyHejU) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nocif](https://open.spotify.com/album/4aPOkge6RO4vsrI31pX6Hy) | 3:49 | 2023-03-24 | 2023-12-14 |
 | [NONCHALANT 3](https://open.spotify.com/track/2XzF8Lst0VqUdHHB67lWde) | [La Chine](https://open.spotify.com/artist/1uUulBiIlV1H36pgq2QpY0) | [NONCHALANT 3](https://open.spotify.com/album/2iSw6vsvRZB0bmNOz232zv) | 2:40 | 2025-01-24 |  |

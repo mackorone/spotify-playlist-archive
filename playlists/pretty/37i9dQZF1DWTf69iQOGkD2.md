@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: BIN, Budah, Delacruz, Keviin
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,473 likes - 75 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,559 likes - 75 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Você Não Ama Ninguém 3](https://open.spotify.com/track/6hfek8BveIwDtAtZuIVFij) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Você Não Ama Ninguém 3](https://open.spotify.com/album/3lcotBig7d3eKn3cQo5BwE) | 5:47 |
 | 75 | [CANÇÃO DO FIM DO MUNDO](https://open.spotify.com/track/29pCtEDtmO4Am1BZbV2Sye) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [P.A](https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV) | 3:34 |
 
-Snapshot ID: `Z66yAAAAAABX2wI89tNYsMq2jPCuVKKf`
+Snapshot ID: `Z66yAAAAAADvWeEOweFzikrZ4gJnigaw`

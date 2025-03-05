@@ -229,6 +229,28 @@
     },
     {
       "album": {
+        "name": "Find your voice",
+        "url": "https://open.spotify.com/album/7anEsU0hnvf6K2gT44xhOI"
+      },
+      "artists": [
+        {
+          "name": "32ki",
+          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "Find your voice (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6TyVG62ubjS60xm1BOi1Jp"
+    },
+    {
+      "album": {
         "name": "Glorious Day",
         "url": "https://open.spotify.com/album/6Ovp9dcCxs7SHtVVkm2nzL"
       },
@@ -790,7 +812,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 87619,
       "name": "Re-Born (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2xP39izl92VWu9cljaNXbg"
@@ -1922,7 +1944,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 210525,
       "name": "\u30a4\u30df\u30c6\u30fc\u30bf\u30fc / Imitator (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/6RDwT5ZFIJP0nbJSFZQ5o7"
@@ -2737,6 +2759,28 @@
     },
     {
       "album": {
+        "name": "\u30c7\u30a3\u30b8\u30bf\u30eb\u30fb\u30de\u30b8\u30ab\u30eb",
+        "url": "https://open.spotify.com/album/6Jn2c4XjFWkJfvLhaJkpzz"
+      },
+      "artists": [
+        {
+          "name": "\u590f\u5c71\u3088\u3064\u304e",
+          "url": "https://open.spotify.com/artist/30DNiO9bddagJDpXa4LMYQ"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139165,
+      "name": "\u30c7\u30a3\u30b8\u30bf\u30eb\u30fb\u30de\u30b8\u30ab\u30eb (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/7lCj1hOBu5MyPAGyzganht"
+    },
+    {
+      "album": {
         "name": "\u30c7\u30c3\u30c9\u30e9\u30a4\u30f3\u30fb\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/1BJYOa0B7shcXQ8kW7CRIQ"
       },
@@ -2792,6 +2836,28 @@
       "duration_ms": 165613,
       "name": "\u30c9\u30e9\u30ad\u30e5\u30e9\u30d6",
       "url": "https://open.spotify.com/track/21n9F4sCz4gUk9nIU8PCpw"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30ea\u30fc\u30e0\u30df\u30e5\u30fc\u30b8\u30a2\u30e0",
+        "url": "https://open.spotify.com/album/5KVbTeIvEEjU3btR926FHk"
+      },
+      "artists": [
+        {
+          "name": "GYU P",
+          "url": "https://open.spotify.com/artist/7BNncSIn0Str7aLcmrv3HU"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132173,
+      "name": "\u30c9\u30ea\u30fc\u30e0\u30df\u30e5\u30fc\u30b8\u30a2\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4HRKSmBOSJrMabApc7Mzxu"
     },
     {
       "album": {
@@ -3052,6 +3118,28 @@
       "duration_ms": 215573,
       "name": "\u30d5\u30a9\u30fc\u30ea\u30f3\u30c0\u30a6\u30fb\u30a8\u30f3\u30c9\u30eb\u30d5\u30a3\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2J2dWPn0KOubUnrDjSjd27"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30eb\u30fc\u30d6\u30eb\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/3zPWtyNnvXGKkfYQlJsmqh"
+      },
+      "artists": [
+        {
+          "name": "MINO-U",
+          "url": "https://open.spotify.com/artist/71Y3Ll2Yp2CUVtgo3FitWi"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294545,
+      "name": "\u30d6\u30eb\u30fc\u30d6\u30eb\u30fc\u30e0 (feat. KAITO)",
+      "url": "https://open.spotify.com/track/3TGNoN0hsA9dsthfXSvvAV"
     },
     {
       "album": {
@@ -3486,7 +3574,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 161568,
       "name": "\u30e6\u30a6\u30ec\u30a4\u3055\u3093 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/20p1y5X0sQYep0AQqsk4HL"
@@ -4058,7 +4146,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 115000,
       "name": "\u547d\u77ed\u3057\u604b\u305b\u3088\u30ad\u30e1\u30e9 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/2qpzWc8i7nja6CpvGczkUe"
@@ -4741,6 +4829,24 @@
     },
     {
       "album": {
+        "name": "\u6b63\u4fe1\u58eb",
+        "url": "https://open.spotify.com/album/1XDFac5jmPQqd2E5AOS3UL"
+      },
+      "artists": [
+        {
+          "name": "Sohbana",
+          "url": "https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132560,
+      "name": "\u6b63\u4fe1\u58eb",
+      "url": "https://open.spotify.com/track/4fvmizBWFqX77o8m5cABuM"
+    },
+    {
+      "album": {
         "name": "\u5e73\u3005\u51e1\u3005\u305f\u308b\u50d5\u3089",
         "url": "https://open.spotify.com/album/5g50AnI2svqhXLUmI1XklV"
       },
@@ -4870,7 +4976,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 206718,
       "name": "\u6d88\u6bd2 (feat. KAITO)",
       "url": "https://open.spotify.com/track/2zPZjGTBS6GNoAQj7FtXeY"

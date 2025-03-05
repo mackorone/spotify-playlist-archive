@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-185 songs - 9 hr 40 min
+186 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Introvert](https://open.spotify.com/track/2WoV6rV8EPb4NqHNERWblv) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Harvey](https://open.spotify.com/artist/4p5OJUjMqi3l98prXVbGC9) | [Introvert](https://open.spotify.com/album/75YYJy5Xv93qnWjaeo5NE1) | 3:10 | 2024-03-05 |  |
 | [It Hurts to Love You \(it meant a lot\)](https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [It Hurts to Love You \(it meant a lot\)](https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T) | 1:57 | 2022-10-11 |  |
 | [KUMORI](https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [KUMORI](https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu) | 2:43 | 2023-03-28 |  |
+| [last winter](https://open.spotify.com/track/3yx1fT4YAHSWqrSuDGTrxz) | [mato kiyokawa](https://open.spotify.com/artist/4BjoUtMcYFgWQaBY1Ys7a5) | [last winter / pool](https://open.spotify.com/album/45G6qoJIxHlz5cWzK2MMzn) | 3:23 | 2025-03-04 |  |
 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 | 2022-10-11 |  |
 | [Lavender](https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb) | [KOTARO SAITO](https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX) | [Lavender](https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk) | 2:43 | 2024-07-17 |  |
 | [Let You Know](https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [The Color and the Light](https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8) | 4:55 | 2022-10-11 |  |
@@ -174,7 +175,7 @@
 | [twilight](https://open.spotify.com/track/6xoab7Sxd9L2N43Gu9fIBd) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [twilight \(Deluxe Edition\)](https://open.spotify.com/album/35o0PH7bM6n9wjVpYrAzpY) | 8:40 | 2022-10-11 | 2023-11-08 |
 | [Two Birds](https://open.spotify.com/track/4curqk9ts644kS6Zh1l4JO) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Ouka](https://open.spotify.com/album/2LlAtMZyCFxHdrFAfDS1OA) | 3:04 | 2024-03-05 | 2025-02-07 |
 | [Two Birds](https://open.spotify.com/track/741vcthcgaNVlg9Vtvb2OL) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Ouka](https://open.spotify.com/album/3RVSO5PGXwOqDyTfJCLIe6) | 3:04 | 2022-10-11 | 2024-04-19 |
-| [ugotmyheart](https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Miyna Usui](https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk) | [Nezumi Coo](https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH) | 3:15 | 2022-10-11 |  |
+| [ugotmyheart](https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Miyna Usui](https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk) | [Nezumi Coo](https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH) | 3:15 | 2022-10-11 | 2025-03-05 |
 | [wait a second](https://open.spotify.com/track/1ZwluDxiaPLD9Jj5ugwZ3R) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [wait a second](https://open.spotify.com/album/7MzaAFwzLGQR3r9vwW1bJb) | 3:22 | 2023-06-28 | 2023-11-16 |
 | [wait a second](https://open.spotify.com/track/2ikAkH39VoCr9X1Xuf10CZ) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [wait a second](https://open.spotify.com/album/5lMUo3dIPTSojGJfgyOQZv) | 3:22 | 2022-10-11 | 2023-06-29 |
 | [Walk \(Interlude\)](https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:47 | 2022-10-11 |  |

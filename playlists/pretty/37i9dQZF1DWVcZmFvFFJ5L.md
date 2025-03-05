@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 
 > Jumping BoAs, Our Beloved BoA is back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,262 likes - 109 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,268 likes - 109 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

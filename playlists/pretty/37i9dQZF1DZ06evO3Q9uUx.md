@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,287 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,289 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 |
 | 50 | [Piñata \(feat\. BIA, Kap G & Justin Quiles\)](https://open.spotify.com/track/1K2xnKlPqXhLuTwPkQxmrJ) | [Vice](https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Piñata \(feat\. BIA, Kap G & Justin Quiles\)](https://open.spotify.com/album/6rYMjTdVEaCgI25ZVNwVca) | 3:18 |
 
-Snapshot ID: `Z8OfgAAAAACRCacTxgKhWBF6GR/eBXks`
+Snapshot ID: `Z8TxAAAAAAALbyJ+uzzHBU2iysZwHd90`

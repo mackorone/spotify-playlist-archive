@@ -3063,6 +3063,28 @@
     },
     {
       "album": {
+        "name": "Growing Season",
+        "url": "https://open.spotify.com/album/4awunKCrufzXXpOwfXnxs1"
+      },
+      "artists": [
+        {
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+        },
+        {
+          "name": "Guillaume Muschalle",
+          "url": "https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171813,
+      "name": "Growing Season",
+      "url": "https://open.spotify.com/track/21qtuIFQb8HQg0aYNNhvFa"
+    },
+    {
+      "album": {
         "name": "Half Drunk",
         "url": "https://open.spotify.com/album/6k7AaUKAZ67FSDgThrteq0"
       },
@@ -4160,7 +4182,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 129767,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/6MO5Vy9rYdsfPCgHCkm2RP"

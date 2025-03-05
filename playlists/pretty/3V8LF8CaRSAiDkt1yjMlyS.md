@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3V8LF8CaRSAiDkt1yjMlyS.md) - [plain]
 
 > 
 
-[ada](https://open.spotify.com/user/adadoro) - 41,711 likes - 163 songs - 8 hr 47 min
+[ada](https://open.spotify.com/user/adadoro) - 41,817 likes - 163 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/3V8LF8CaRSAiDkt1yjMlyS.md) - [plain]
 | 3 | [Back to Myself](https://open.spotify.com/track/1ElyI0fk1FJAscrGs3F8Wu) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB) | [Back to Myself](https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e) | 3:00 |
 | 4 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
 | 5 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 |
-| 6 | [Velvet Alibi](https://open.spotify.com/track/7syPTABWrO1KnnVtistjmt) | [Glassir](https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9) | [Fracturas](https://open.spotify.com/album/3I1Z4DycLgxSpKAR4RvvbE) | 3:13 |
+| 6 | [no way out](https://open.spotify.com/track/7D3VAPd2nvxzPxZNKworii) | [White Wtch](https://open.spotify.com/artist/6WRxMmR9XlAmcpku81EJwz) | [no way out](https://open.spotify.com/album/4tKoOYBp5XfyPp5H3Yo3RF) | 2:10 |
 | 7 | [Black Out Days](https://open.spotify.com/track/2IWtloZYQDcP8Ashwx8QEF) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:47 |
 | 8 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
 | 9 | [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 |
-| 10 | [no way out](https://open.spotify.com/track/7D3VAPd2nvxzPxZNKworii) | [White Wtch](https://open.spotify.com/artist/6WRxMmR9XlAmcpku81EJwz) | [no way out](https://open.spotify.com/album/4tKoOYBp5XfyPp5H3Yo3RF) | 2:10 |
+| 10 | [Velvet Alibi](https://open.spotify.com/track/7syPTABWrO1KnnVtistjmt) | [Glassir](https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9) | [Fracturas](https://open.spotify.com/album/3I1Z4DycLgxSpKAR4RvvbE) | 3:13 |
 | 11 | [Dark Side Of The Moon](https://open.spotify.com/track/33iv4ikGd0KboI6xNPL80i) | [suisside](https://open.spotify.com/artist/79oXnSqjYH5WW260RhSHzZ) | [Dark Side Of The Moon](https://open.spotify.com/album/14wH4mIm2pKnZ9ti5co81U) | 2:48 |
 | 12 | [7 Weeks & 3 Days](https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:14 |
 | 13 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/3V8LF8CaRSAiDkt1yjMlyS.md) - [plain]
 | 162 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 | 163 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 
-Snapshot ID: `AAABCQz/zHtjz/svq0xfh6rq4oDka2bZ`
+Snapshot ID: `AAABCw2jzXBYS2i5z9553T9ezyGT8JXY`

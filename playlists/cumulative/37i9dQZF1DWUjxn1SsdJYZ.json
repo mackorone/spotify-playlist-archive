@@ -11551,24 +11551,6 @@
     },
     {
       "album": {
-        "name": "Maestro",
-        "url": "https://open.spotify.com/album/3ftCEhgDoWQRd9zFLnnzIP"
-      },
-      "artists": [
-        {
-          "name": "BnB",
-          "url": "https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS"
-        }
-      ],
-      "date_added": "2025-02-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156985,
-      "name": "Maestro",
-      "url": "https://open.spotify.com/track/2QXPj7S2aBS889QL5Ishb2"
-    },
-    {
-      "album": {
         "name": "Magic (feat. Hooligan Hefs)",
         "url": "https://open.spotify.com/album/0bo5RiW2Kqlbu8zSge3cZD"
       },
@@ -21856,6 +21838,24 @@
       "duration_ms": 181573,
       "name": "Won't Stop (feat. Jessica Mauboy)",
       "url": "https://open.spotify.com/track/2t8Gy9wUksUYw9AGJOaQPU"
+    },
+    {
+      "album": {
+        "name": "Woosh",
+        "url": "https://open.spotify.com/album/3ftCEhgDoWQRd9zFLnnzIP"
+      },
+      "artists": [
+        {
+          "name": "BnB",
+          "url": "https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156985,
+      "name": "Woosh",
+      "url": "https://open.spotify.com/track/2QXPj7S2aBS889QL5Ishb2"
     },
     {
       "album": {

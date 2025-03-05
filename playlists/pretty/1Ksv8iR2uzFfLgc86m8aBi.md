@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Ksv8iR2uzFfLgc86m8aBi.md) - [plain]
 
 > my next project
 
-[Learke](https://open.spotify.com/user/thelostskies) - 0 like - 2 songs - 7 min 2 sec
+[Learke](https://open.spotify.com/user/thelostskies) - 0 likes - 2 songs - 7 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

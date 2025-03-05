@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 582474,
+  "num_followers": 582510,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAADew+pmWqXoNPgBc31+Cl9a",
+  "snapshot_id": "Z8TxAAAAAAA8qGC03JXQRRzPzpsKDxW5",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 330800,
-      "name": "You Have Been Loved",
-      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
+      "duration_ms": 251173,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 251173,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY"
+      "duration_ms": 330800,
+      "name": "You Have Been Loved",
+      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 381626,
-      "name": "Spinning the Wheel",
-      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 310906,
       "name": "Miss Sarajevo",
       "url": "https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 381626,
+      "name": "Spinning the Wheel",
+      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 333106,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 318804,
       "name": "I Can't Make You Love Me - Studio Version",
       "url": "https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 333106,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2"
     },
     {
       "added_at": null,

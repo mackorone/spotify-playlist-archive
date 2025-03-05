@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists.  Cover: Gordi",
+  "description": "Songs from LGBTQIA+ artists.  Cover: lewloh",
   "name": "GLOW",
   "tracks": [
     {
@@ -19348,7 +19348,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras & BC Kingdom)",
       "url": "https://open.spotify.com/track/6JhnWtYtde5oSKs8sL1W1c"
@@ -19435,6 +19435,24 @@
     },
     {
       "album": {
+        "name": "Recognise",
+        "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269280,
+      "name": "Recognise",
+      "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
+    },
+    {
+      "album": {
         "name": "Record Deal",
         "url": "https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv"
       },
@@ -19446,7 +19464,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 187127,
       "name": "Record Deal",
       "url": "https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx"
@@ -23838,6 +23856,24 @@
       "duration_ms": 177918,
       "name": "Too Many",
       "url": "https://open.spotify.com/track/5t8bBnQxboHKJojUGqaBYI"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171335,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
     },
     {
       "album": {

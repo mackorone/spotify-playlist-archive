@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 5264,
+  "num_followers": 5263,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,34 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Ogechi (feat. Davido) [Remix]",
+        "url": "https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        },
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 192262,
+      "name": "Ogechi (feat. Davido) - Remix",
+      "url": "https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Shayi'Moto (feat. Seemah & Yanda Woods)",
         "url": "https://open.spotify.com/album/1GRp8XrV8yz1Yg3NyQflgv"
       },
@@ -267,34 +295,6 @@
       "duration_ms": 445719,
       "name": "Shayi'Moto (feat. Seemah & Yanda Woods)",
       "url": "https://open.spotify.com/track/0AQfRLzd7pQZcLtfh9Onb8"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Ogechi (feat. Davido) [Remix]",
-        "url": "https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4"
-      },
-      "artists": [
-        {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
-        },
-        {
-          "name": "Hyce",
-          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
-        },
-        {
-          "name": "Brown Joel",
-          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 192262,
-      "name": "Ogechi (feat. Davido) - Remix",
-      "url": "https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -639,42 +639,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Kwelanga",
-        "url": "https://open.spotify.com/album/2z9yriqyUhlEWg1HQXPwRK"
-      },
-      "artists": [
-        {
-          "name": "Bassie",
-          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
-        },
-        {
-          "name": "M-Touch",
-          "url": "https://open.spotify.com/artist/1WyQuSMk2VrDyfYfdfa4w6"
-        },
-        {
-          "name": "Ranger",
-          "url": "https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk"
-        },
-        {
-          "name": "Amaza",
-          "url": "https://open.spotify.com/artist/0lxNEAFHu0uIMSTWMiKV3q"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        }
-      ],
-      "duration_ms": 441894,
-      "name": "Kwelanga 2.0 (feat. Tman Xpress & LeeMcKrazy)",
-      "url": "https://open.spotify.com/track/1gM44tVZ9pfUe9v35Stp31"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejay & Al Xapo)",
         "url": "https://open.spotify.com/album/4R1FZeemDJyD4yQitaniIk"
       },
@@ -715,6 +679,42 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Kwelanga",
+        "url": "https://open.spotify.com/album/2z9yriqyUhlEWg1HQXPwRK"
+      },
+      "artists": [
+        {
+          "name": "Bassie",
+          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
+        },
+        {
+          "name": "M-Touch",
+          "url": "https://open.spotify.com/artist/1WyQuSMk2VrDyfYfdfa4w6"
+        },
+        {
+          "name": "Ranger",
+          "url": "https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk"
+        },
+        {
+          "name": "Amaza",
+          "url": "https://open.spotify.com/artist/0lxNEAFHu0uIMSTWMiKV3q"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "duration_ms": 441894,
+      "name": "Kwelanga 2.0 (feat. Tman Xpress & LeeMcKrazy)",
+      "url": "https://open.spotify.com/track/1gM44tVZ9pfUe9v35Stp31"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/2nM7PvY9SHEaKaSYRmOCmh"
       },
@@ -751,6 +751,26 @@
       "duration_ms": 221254,
       "name": "Chokeslem",
       "url": "https://open.spotify.com/track/3jTedBPHIIr48xoJchYHNH"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "The Godson",
+        "url": "https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 203870,
+      "name": "Nairobi",
+      "url": "https://open.spotify.com/track/5XSuj4xrbakbDeSQom3oAr"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -799,26 +819,6 @@
       "duration_ms": 425338,
       "name": "Ama Gear",
       "url": "https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "The Godson",
-        "url": "https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi"
-      },
-      "artists": [
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 203870,
-      "name": "Nairobi",
-      "url": "https://open.spotify.com/track/5XSuj4xrbakbDeSQom3oAr"
     },
     {
       "added_at": "2024-12-19 13:12:01",

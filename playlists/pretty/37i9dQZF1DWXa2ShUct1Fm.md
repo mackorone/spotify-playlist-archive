@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,262 likes - 221 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,338 likes - 221 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 220 | [Miracle](https://open.spotify.com/track/0TCk149bpoWtPn4QjGfpel) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu 조선로코 \- 녹두전 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5KIPerlwk34hDgSwUOAVm7) | 3:38 |
 | 221 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 |
 
-Snapshot ID: `Z7MbsAAAAAC/Tx4YSaWDCjtw9VldRwUZ`
+Snapshot ID: `Z7MbsAAAAABGVxBtpTft9k20cmYEtu8U`

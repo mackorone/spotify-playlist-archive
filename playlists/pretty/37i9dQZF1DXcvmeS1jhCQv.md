@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: amy michelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,624 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,627 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [im good](https://open.spotify.com/track/2RwtjM2ZtxVSYQdlFd7hp3) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [im good](https://open.spotify.com/album/6mtgsavDEl0RTpOsgKTXnS) | 1:43 |
 | 80 | [WELL ENOUGH!](https://open.spotify.com/track/0v8itswFBG0nfiWvLQzjCW) | [fiiVVVEE!](https://open.spotify.com/artist/44yvXn4JmArldmKRaq6L6Q), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [WELL ENOUGH!](https://open.spotify.com/album/5a2AjxUtgdtfWLhooKnF6q) | 3:13 |
 
-Snapshot ID: `Z8D8lwAAAABw7Js1Dz/uhHnb0QVP2wZn`
+Snapshot ID: `Z8D8lwAAAAAmVHUw3TTBPSEReoHR50Ai`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0nSWLIv0zuSHvybBnh4u0h.md) - [plain]
 
 > 
 
-[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 0 like - 56 songs - 3 hr 17 min
+[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 0 likes - 56 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

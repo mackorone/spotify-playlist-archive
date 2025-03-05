@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6938,
+  "num_followers": 6941,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "I \u2260 DOLL",
-        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 150269,
-      "name": "I \u2260 DOLL",
-      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Traffic light",
         "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 231586,
       "name": "Traffic light",
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "I \u2260 DOLL",
+        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 150269,
+      "name": "I \u2260 DOLL",
+      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -287,26 +287,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "HANGANG",
-        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "HANGANG (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Lee Seung Chul 35th Anniversary Album Special 'My Love'",
         "url": "https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL"
       },
@@ -327,18 +307,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Oneureul Gieokhaja (Ingatlah Hari Ini) - Original Soundtrack Cinta Tak Seindah Drama Korea",
-        "url": "https://open.spotify.com/album/28GoAqZtvVBLerde573OJD"
+        "name": "HANGANG",
+        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
       "artists": [
         {
-          "name": "Shakira Jasmine",
-          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 227428,
-      "name": "Oneureul Gieokhaja (Ingatlah Hari Ini) - Original Soundtrack Cinta Tak Seindah Drama Korea",
-      "url": "https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3"
+      "duration_ms": 199133,
+      "name": "HANGANG (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -355,6 +339,22 @@
       "duration_ms": 195042,
       "name": "About You",
       "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "Oneureul Gieokhaja (Ingatlah Hari Ini) - Original Soundtrack Cinta Tak Seindah Drama Korea",
+        "url": "https://open.spotify.com/album/28GoAqZtvVBLerde573OJD"
+      },
+      "artists": [
+        {
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        }
+      ],
+      "duration_ms": 227428,
+      "name": "Oneureul Gieokhaja (Ingatlah Hari Ini) - Original Soundtrack Cinta Tak Seindah Drama Korea",
+      "url": "https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "wish you all to be happy",
-        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
-      },
-      "artists": [
-        {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
-        }
-      ],
-      "duration_ms": 232588,
-      "name": "wish you all to be happy",
-      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Color It",
         "url": "https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 199149,
       "name": "Color It",
       "url": "https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "wish you all to be happy",
+        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 232588,
+      "name": "wish you all to be happy",
+      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "DREAMLIKE",
-        "url": "https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ"
-      },
-      "artists": [
-        {
-          "name": "PL",
-          "url": "https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "DREAMLIKE",
-      "url": "https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 195515,
       "name": "WE NEED LOVE",
       "url": "https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "DREAMLIKE",
+        "url": "https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ"
+      },
+      "artists": [
+        {
+          "name": "PL",
+          "url": "https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "DREAMLIKE",
+      "url": "https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
-      },
-      "artists": [
-        {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "KHAMAI",
         "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 205856,
       "name": "TALK2ME! (feat. pH-1)",
       "url": "https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
+      },
+      "artists": [
+        {
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "LOVE or TAKE",
+        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Sing-a-song",
+      "url": "https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/2dnjFIjZWbpZKs5JYCBsnh"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 229320,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "LOVE or TAKE",
-        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Sing-a-song",
-      "url": "https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

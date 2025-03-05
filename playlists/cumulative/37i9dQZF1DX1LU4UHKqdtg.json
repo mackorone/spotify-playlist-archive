@@ -4321,6 +4321,28 @@
     },
     {
       "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/3JhRvbmQou8CE41LLj6mTm"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187939,
+      "name": "COLD (feat. 10CM)",
+      "url": "https://open.spotify.com/track/7KwA7QwaYalNY1UCHwkSvD"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95"
       },
@@ -9515,6 +9537,24 @@
     },
     {
       "album": {
+        "name": "High Horse",
+        "url": "https://open.spotify.com/album/5XkpNffqz7WdtM1RrAQOvo"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203213,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/2YUUYGB1kMtXKTQ6ajAjTA"
+    },
+    {
+      "album": {
         "name": "Visionary Vision <Performante>",
         "url": "https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs"
       },
@@ -11626,6 +11666,24 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "album": {
+        "name": "LEGGO",
+        "url": "https://open.spotify.com/album/1Q7A27EREoht3InaYb51VP"
+      },
+      "artists": [
+        {
+          "name": "8TURN",
+          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168106,
+      "name": "LEGGO",
+      "url": "https://open.spotify.com/track/0Etk5PtxW6m3zDYR9Eb7W2"
     },
     {
       "album": {
@@ -15504,6 +15562,24 @@
       "duration_ms": 199826,
       "name": "Pain is Beautiful",
       "url": "https://open.spotify.com/track/6bU60cEu5E7l9unwEfGxjV"
+    },
+    {
+      "album": {
+        "name": "Friendly Rivalry (Music from the U+ Original Series), Pt. 4",
+        "url": "https://open.spotify.com/album/0nRjUGQcqLiG3QjiHw6n5p"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212960,
+      "name": "PainDrop (by SeoYeon, JiWoo, YuBin, SoHyun)",
+      "url": "https://open.spotify.com/track/0lBpd8IbpD4m7BydKwNPqk"
     },
     {
       "album": {
@@ -23892,7 +23968,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

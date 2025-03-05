@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 
 > Il meglio dei brani che la Gen Z ha amato quest'anno! 🌊 Cover: Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,335 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,343 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 | 35 | [Estate Punk](https://open.spotify.com/track/181vQEd9wIPSt6fueg21zP) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Estate Punk](https://open.spotify.com/album/6eWeNu1YkHXIjk8PZTOv9C) | 3:30 |
 | 36 | [QUE PASA](https://open.spotify.com/track/7qMPbdeHrCNZL2FJf0ZzrS) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [IL SOLE DENTRO](https://open.spotify.com/album/50LwyAhGEJXyf8EZW3dIAa) | 2:44 |
 | 37 | [NUVOLA](https://open.spotify.com/track/1hNF7MqV080Ri2hcLl5Mep) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [NUVOLA](https://open.spotify.com/album/6fpHavt7II8cLypkepXryj) | 2:49 |
-| 38 | [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 |
+| 38 | [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 |
 | 39 | [TORNERAI](https://open.spotify.com/track/05t2bfgM2bFel3e5dTfiXI) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [TORNERAI](https://open.spotify.com/album/0DWW7TYcQle7TyVwR6nqA7) | 3:04 |
 | 40 | [PER UN ATTIMO CON TE](https://open.spotify.com/track/3sJ2hrFBrN63flykM0tmcI) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [illumina](https://open.spotify.com/album/6C4Z55VD6HIrw3xJoskfoa) | 2:36 |
 | 41 | [POSATENEBRE](https://open.spotify.com/track/2TgvnT8ugu5YMrQpXdspXM) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [POSATENEBRE](https://open.spotify.com/album/0HZ53MWDea1zIvVZ2DqQXg) | 3:02 |

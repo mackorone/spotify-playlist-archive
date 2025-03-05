@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, Adrian L Santos en portada.
 
-654 songs - 1 day 10 hr 34 min
+655 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bonsai](https://open.spotify.com/track/3Bn7ktgAB8mgHzrKMQmJpN) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [The Beast Machine](https://open.spotify.com/album/1VWM2G5ahHbMNDKWKafWtl) | 2:27 | 2024-01-26 | 2024-02-10 |
 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 | 2023-06-30 |  |
 | [Borracho Llorón](https://open.spotify.com/track/1vXKRWMJ4mVfHBapY9reS7) | [Arturo Roque](https://open.spotify.com/artist/39Rbc8JMhWt2OQvVv9m94u) | [Borracho Llorón](https://open.spotify.com/album/4U5ks2wUEKSzjTm7oGDOTB) | 3:34 | 2023-12-21 | 2024-01-13 |
-| [Brillas](https://open.spotify.com/track/1Bfn7QA4bGOPYszK1OSciN) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 2:28 | 2024-12-20 |  |
+| [Brillas](https://open.spotify.com/track/1Bfn7QA4bGOPYszK1OSciN) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 2:28 | 2024-12-20 | 2025-03-05 |
 | [Bélica Como Ninguna](https://open.spotify.com/track/59XObm1gFYaUOdzsg0QApT) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bélica Como Ninguna](https://open.spotify.com/album/2kEeiftlpYDuSfRmlwCh1K) | 2:21 | 2023-07-28 | 2024-03-23 |
 | [Bélico X Siempre](https://open.spotify.com/track/7uZ3mZbVE1e7NtYMBAK3hA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Bélico X Siempre](https://open.spotify.com/album/1AFs1df7bscMEsh6CEI2Gj) | 2:53 | 2023-04-14 | 2023-05-13 |
 | [Cada Noche](https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Cada Noche](https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy) | 3:41 | 2025-01-31 |  |
@@ -625,6 +625,7 @@
 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 | 2021-12-17 | 2024-04-19 |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-17 | 2023-12-02 |
 | [Una Aventura](https://open.spotify.com/track/1gNzBRLuAKNZNf7zAp59cD) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Una Aventura](https://open.spotify.com/album/6mTSwfg0ncYlg9pJox9Dvo) | 3:05 | 2023-06-16 | 2023-08-27 |
+| [Una Coronita](https://open.spotify.com/track/3h9gDBAAhEGK7xPCBse93k) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 3:45 | 2025-02-28 |  |
 | [Vaivén](https://open.spotify.com/track/41bThbXGVhiFwHa5hX6jaD) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Vaivén](https://open.spotify.com/album/0wZC53nTNW23eTtTTX73Vo) | 3:12 | 2022-09-02 | 2022-10-01 |
 | [Varios Años](https://open.spotify.com/track/5bCibcsWBAsa4Pqjg4ZR9q) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Varios Años](https://open.spotify.com/album/3l4D4Td34r9gRSkNkbzt1S) | 2:48 | 2023-06-16 | 2023-12-02 |
 | [VESTIDO COMO MINISTERIAL](https://open.spotify.com/track/0IK5oo3djc0FTtdpjknAXn) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [VESTIDO COMO MINISTERIAL](https://open.spotify.com/album/1CsMtkCYbkzdJUZWQAfAS5) | 3:15 | 2024-09-20 | 2024-12-21 |

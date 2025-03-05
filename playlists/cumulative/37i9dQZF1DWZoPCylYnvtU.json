@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-08-25",
   "description": "Lluvia sin m\u00e1s",
-  "name": "Sonido de Lluvia",
+  "name": "Sonido de Lluvia Relajante",
   "tracks": [
     {
       "album": {
@@ -830,6 +830,24 @@
       "duration_ms": 219154,
       "name": "Cozy Rain",
       "url": "https://open.spotify.com/track/2BnN6W7mZ2vcMnXb7jCmPM"
+    },
+    {
+      "album": {
+        "name": "Crisp Rain",
+        "url": "https://open.spotify.com/album/6U5VOLhQw92Fm8hon9cDmG"
+      },
+      "artists": [
+        {
+          "name": "Epiphonema",
+          "url": "https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Crisp Rain",
+      "url": "https://open.spotify.com/track/5RaYPTkKLybxCUmtq8dXW9"
     },
     {
       "album": {
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 154549,
       "name": "Heavy Pour",
       "url": "https://open.spotify.com/track/49N6wGjb4tR7YbFldq3jYu"
@@ -5064,7 +5082,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 122500,
       "name": "Steady Rain",
       "url": "https://open.spotify.com/track/6YpIyuy5IjnTkDaaz5jJoF"
@@ -5269,6 +5287,24 @@
     },
     {
       "album": {
+        "name": "The Nimbus Part Three",
+        "url": "https://open.spotify.com/album/3fZagw2YBbkZJ5geGPH5eu"
+      },
+      "artists": [
+        {
+          "name": "Neo Si",
+          "url": "https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "The Nimbus Part Three",
+      "url": "https://open.spotify.com/track/6s4Hxka2TxYODfpFGFTKP3"
+    },
+    {
+      "album": {
         "name": "White Noise Rain",
         "url": "https://open.spotify.com/album/788fJUzqwO7ZUut266HJu5"
       },
@@ -5370,7 +5406,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 154000,
       "name": "Under Cover Rain Sound",
       "url": "https://open.spotify.com/track/5nIay6DvjF2a9gtCOKVPbP"
@@ -5616,6 +5652,24 @@
       "duration_ms": 170000,
       "name": "Yard Rain",
       "url": "https://open.spotify.com/track/10KjBoTmOqTGZ3cfNZODWA"
+    },
+    {
+      "album": {
+        "name": "Zzyzx Rd Rain",
+        "url": "https://open.spotify.com/album/0KDtjjJ1zMqC55AnDj0F9A"
+      },
+      "artists": [
+        {
+          "name": "Visceral Rain",
+          "url": "https://open.spotify.com/artist/0iXGgjkn97AolhD6yR3FbO"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "Zzyzx Rd Rain",
+      "url": "https://open.spotify.com/track/1LZfWl6kUv9P9zECqMGwdI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZoPCylYnvtU"

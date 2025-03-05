@@ -618,7 +618,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 267028,
       "name": "Kagero",
       "url": "https://open.spotify.com/track/4q7WUpRdRCmmyMwn5kwcnn"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 224306,
       "name": "meaning",
       "url": "https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 213191,
       "name": "\u6717\u6717",
       "url": "https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq"
@@ -2688,6 +2688,24 @@
       "duration_ms": 180760,
       "name": "\u6b7b\u795e",
       "url": "https://open.spotify.com/track/3tw4Jysd48kMcKsdnGYLee"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u50cf\u306e\u611b\u3057\u65b9",
+        "url": "https://open.spotify.com/album/579rttj1Eu1EtPbLZBbgpO"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277119,
+      "name": "\u6b8b\u50cf\u306e\u611b\u3057\u65b9",
+      "url": "https://open.spotify.com/track/6QbOl4gx6PZyOZWW9A5bDt"
     },
     {
       "album": {
@@ -2940,7 +2958,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 243221,
       "name": "\u878d\u89e3sink",
       "url": "https://open.spotify.com/track/1CC9gpmBhKRr9SzYEfStct"
@@ -2980,6 +2998,24 @@
       "duration_ms": 300333,
       "name": "\u8c3a\u3059\u308b",
       "url": "https://open.spotify.com/track/6UnwxlaVawV7eqFkjhixL5"
+    },
+    {
+      "album": {
+        "name": "\u97f3\u306e\u3059\u308b\u90e8\u5c4b",
+        "url": "https://open.spotify.com/album/4yagD5QweRyEZWvnMB59RX"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182114,
+      "name": "\u8fce",
+      "url": "https://open.spotify.com/track/40B8VGHyDQEa4JlrI6LatP"
     },
     {
       "album": {

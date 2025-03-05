@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 197526,
+  "num_followers": 197543,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAADSfbIOOzs8dthp+wFUbucZ",
+  "snapshot_id": "Z8TxAAAAAACJhvwwMlOCzfolobCvkzeT",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Gustos Que Me Doy",
-        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 174413,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debajo De Los Laureles",
         "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 151742,
       "name": "Debajo De Los Laureles",
       "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 174413,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk"
     },
     {
       "added_at": null,
@@ -591,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superlameando",
-        "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
+        "name": "La Baraja",
+        "url": "https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR"
       },
       "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        },
         {
           "name": "Banda Los Recoditos",
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Yo Quiero Chupar",
-      "url": "https://open.spotify.com/track/0NiQtVu6jYIqQjCKVlqjX5"
+      "duration_ms": 175560,
+      "name": "La Baraja",
+      "url": "https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3"
     },
     {
       "added_at": null,
@@ -627,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Baraja",
-        "url": "https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR"
+        "name": "Superlameando",
+        "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
       },
       "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
         {
           "name": "Banda Los Recoditos",
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 175560,
-      "name": "La Baraja",
-      "url": "https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3"
+      "duration_ms": 220866,
+      "name": "Yo Quiero Chupar",
+      "url": "https://open.spotify.com/track/0NiQtVu6jYIqQjCKVlqjX5"
     },
     {
       "added_at": null,

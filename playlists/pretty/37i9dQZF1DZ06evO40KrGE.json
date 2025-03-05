@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 36097,
+  "num_followers": 36107,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAD2N36jQweFjg9/idmPGLWP",
+  "snapshot_id": "Z8TxAAAAAAA/sKo6HOQcVCan4DR26dSl",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 325218,
-      "name": "Tremendo e Santo",
-      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recompensa",
         "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 266518,
       "name": "N\u00e3o Reclame",
       "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 325218,
+      "name": "Tremendo e Santo",
+      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289552,
-      "name": "Esconderijo do Alt\u00edssimo",
-      "url": "https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 222958,
       "name": "Para Sempre",
       "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289552,
+      "name": "Esconderijo do Alt\u00edssimo",
+      "url": "https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d"
     },
     {
       "added_at": null,
@@ -967,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 277153,
-      "name": "Fa\u00e7a Diferen\u00e7a",
-      "url": "https://open.spotify.com/track/1YpOz1copApyoGsCPg0WgO"
+      "duration_ms": 290899,
+      "name": "Contigo Est\u00e1",
+      "url": "https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL"
     },
     {
       "added_at": null,
@@ -999,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 290899,
-      "name": "Contigo Est\u00e1",
-      "url": "https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL"
+      "duration_ms": 277153,
+      "name": "Fa\u00e7a Diferen\u00e7a",
+      "url": "https://open.spotify.com/track/1YpOz1copApyoGsCPg0WgO"
     }
   ],
   "unique_name": "This Is Cassiane",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Alex Isley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,380,682 likes - 175 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,380,859 likes - 175 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 174 | [& Then Some](https://open.spotify.com/track/2875XTVzJUuYQEEhy8NJGw) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [The R&B You Love](https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr) | 3:39 |
 | 175 | [Treasure In The Hills](https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:09 |
 
-Snapshot ID: `Z8FNIgAAAAAN/bnynAyckAD45Kn2irxr`
+Snapshot ID: `Z8FNIgAAAAD641uuwW1Jk2whX3WzkIG3`

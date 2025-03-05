@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 66236,
+  "num_followers": 66245,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,30 @@
     {
       "added_at": "2025-03-01 19:32:24",
       "album": {
+        "name": "Inten\u00e7\u00e3o / Gra\u00e7a (Ac\u00fastico em Paris, 2024)",
+        "url": "https://open.spotify.com/album/6ltIOoVSHSoskUbPIfW4Xk"
+      },
+      "artists": [
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "Inten\u00e7\u00e3o / Gra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3o2ZtYsTDYAmhxDRaSkCH4"
+    },
+    {
+      "added_at": "2025-03-01 19:32:24",
+      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
       },
@@ -631,30 +655,6 @@
       "duration_ms": 167088,
       "name": "Tudo O Que Eu Posso Te Dar",
       "url": "https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW"
-    },
-    {
-      "added_at": "2025-03-01 19:32:24",
-      "album": {
-        "name": "Inten\u00e7\u00e3o / Gra\u00e7a (Ac\u00fastico em Paris, 2024)",
-        "url": "https://open.spotify.com/album/6ltIOoVSHSoskUbPIfW4Xk"
-      },
-      "artists": [
-        {
-          "name": "Rodriguinho",
-          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Mr. Dan",
-          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "Inten\u00e7\u00e3o / Gra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3o2ZtYsTDYAmhxDRaSkCH4"
     },
     {
       "added_at": "2025-03-01 19:32:24",

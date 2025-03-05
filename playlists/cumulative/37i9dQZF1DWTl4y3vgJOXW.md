@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Gervonta Davis and Lamont Roach Jr.
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Shai Gilgeous\-Alexander
 
 786 songs - 1 day 16 hr 31 min
 

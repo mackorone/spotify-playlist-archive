@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: 12th Street
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,633 likes - 77 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,710 likes - 77 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 54 | [Sa Bawat Sandali](https://open.spotify.com/track/06IkOr83qPqa3yYvrIjgxp) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Sa Bawat Sandali](https://open.spotify.com/album/15yotlQyhydLnbHKy8TFRl) | 5:02 |
 | 55 | [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [john sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 |
 | 56 | [Nang Tahimik](https://open.spotify.com/track/2ZvnsAhdcPO0P6pM4JWmKs) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Nang Tahimik](https://open.spotify.com/album/5gC6gRRQB40oSPOoyPMDdA) | 5:34 |
-| 57 | [Ako nalang](https://open.spotify.com/track/3Ujf4wZ44Yx4MAcnQnufUN) | [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Ako nalang](https://open.spotify.com/album/1VD9Ud7e7xPFmLUXucqLy8) | 3:41 |
+| 57 | [Ako nalang](https://open.spotify.com/track/3Ujf4wZ44Yx4MAcnQnufUN) | [NIO](https://open.spotify.com/artist/2xx4CyNSY4QFkS2lFkMKIP), [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Ako nalang](https://open.spotify.com/album/1VD9Ud7e7xPFmLUXucqLy8) | 3:41 |
 | 58 | [Tumalon](https://open.spotify.com/track/3jY7hKSQ1Iqm8GXgs8lYHb) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Tumalon](https://open.spotify.com/album/6369WTiMYEJdEL4Sv0CSis) | 3:38 |
 | 59 | [Everybody Wants To Rule The World](https://open.spotify.com/track/0wIV2L2LvmRkNGSBbSUiuF) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Everybody Wants To Rule The World](https://open.spotify.com/album/5ZlME2u1TJL4HXouSGbIrF) | 4:17 |
 | 60 | [Tangi](https://open.spotify.com/track/6gZiPX4GZd3wm2Ko4f3LX3) | [Carl Beley](https://open.spotify.com/artist/50JLRPX2SAUwAfMglz3LiJ) | [Tangi](https://open.spotify.com/album/6icZ498dwWlfGWCGVGoobH) | 4:01 |

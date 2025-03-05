@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6808,
+  "num_followers": 6811,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Les amants de Pomp\u00e9i",
+      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 210791,
       "name": "Croise les doigts",
       "url": "https://open.spotify.com/track/1Gy5hu4pDPRxkR0eWB5lfs"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Les amants de Pomp\u00e9i",
-      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Portraits de famine",
-        "url": "https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "DEUIL(S)",
         "url": "https://open.spotify.com/album/2RbMQsEyyWE0WWik6Gv3wY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 198181,
       "name": "MONDE",
       "url": "https://open.spotify.com/track/439n0UuRVlJKRxGKH8XqWw"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Portraits de famine",
+        "url": "https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "En roulant vers Perc\u00e9",
-        "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
-      },
-      "artists": [
-        {
-          "name": "Daniel Boucher",
-          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "En roulant vers Perc\u00e9",
-      "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c7a s'invente pas",
         "url": "https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 143253,
       "name": "Du country dans le ravin",
       "url": "https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "En roulant vers Perc\u00e9",
+        "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
+      },
+      "artists": [
+        {
+          "name": "Daniel Boucher",
+          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
+        }
+      ],
+      "duration_ms": 243236,
+      "name": "En roulant vers Perc\u00e9",
+      "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "J'ai brod\u00e9 mon c\u0153ur",
+        "url": "https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP"
+      },
+      "artists": [
+        {
+          "name": "Marie-Annick Lepine",
+          "url": "https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3"
+        }
+      ],
+      "duration_ms": 34000,
+      "name": "Apr\u00e8s la nuit",
+      "url": "https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Utenat",
         "url": "https://open.spotify.com/album/5Rjt8pAtA42H4wivAO7qFZ"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 154070,
       "name": "AlgeVita",
       "url": "https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "J'ai brod\u00e9 mon c\u0153ur",
-        "url": "https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP"
-      },
-      "artists": [
-        {
-          "name": "Marie-Annick Lepine",
-          "url": "https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3"
-        }
-      ],
-      "duration_ms": 34000,
-      "name": "Apr\u00e8s la nuit",
-      "url": "https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Fluxus",
-        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
-      },
-      "artists": [
-        {
-          "name": "Bobo Ono",
-          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
-        }
-      ],
-      "duration_ms": 156904,
-      "name": "OnO Song",
-      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Chercheur de lumi\u00e8res",
         "url": "https://open.spotify.com/album/2STVRCEnziOB3BpCHqEtmZ"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 177541,
       "name": "LA LA LA",
       "url": "https://open.spotify.com/track/3JIxKFRguGFlGAGwla497a"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Fluxus",
+        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
+      },
+      "artists": [
+        {
+          "name": "Bobo Ono",
+          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
+        }
+      ],
+      "duration_ms": 156904,
+      "name": "OnO Song",
+      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
     },
     {
       "added_at": "2024-06-19 20:38:05",

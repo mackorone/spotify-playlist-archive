@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 26093,
+  "num_followers": 26107,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "The Son Seals Blues Band",
+        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Your Love Is Like A Cancer",
+      "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 189213,
       "name": "312 Blood",
       "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "The Son Seals Blues Band",
-        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Your Love Is Like A Cancer",
-      "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
     },
     {
       "added_at": "2023-05-17 15:52:13",

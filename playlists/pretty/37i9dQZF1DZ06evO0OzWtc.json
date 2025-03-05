@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 1752,
+  "num_followers": 1753,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAD6sNXIy8SjhKyWPkPZ4WC2",
+  "snapshot_id": "Z8TxAAAAAAA7lPXI5iQbUVOU6vu02Cg6",
   "tracks": [
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cachondos Session #1 (feat. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel)",
-        "url": "https://open.spotify.com/album/4vN7KpDhoJncMNomThmSRe"
+        "name": "Cachondos Session #1 (feat. Victor Mendivil, Dani Flow, Tiagz & Los Esquivel)",
+        "url": "https://open.spotify.com/album/7MAbhQjPNHnD411F8VyamG"
       },
       "artists": [
         {
@@ -134,7 +134,7 @@
       ],
       "duration_ms": 297969,
       "name": "Cachondos Session #1 (feat. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel)",
-      "url": "https://open.spotify.com/track/3Qz0eFeIC4tz2buxQS0quz"
+      "url": "https://open.spotify.com/track/5vNRuXbnqV6ISkNxvHEfbM"
     },
     {
       "added_at": null,
@@ -615,6 +615,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dicen Que Soy Belic\u00f3n",
+        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Dicen Que Soy Belic\u00f3n",
+      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "POBRE",
         "url": "https://open.spotify.com/album/7kgOdGmRc9QBOtFq0LAt27"
       },
@@ -639,30 +663,6 @@
       "duration_ms": 178409,
       "name": "POBRE",
       "url": "https://open.spotify.com/track/2nuBpbteTNAQVZJNKCRE69"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dicen Que Soy Belic\u00f3n",
-        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 197294,
-      "name": "Dicen Que Soy Belic\u00f3n",
-      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
     },
     {
       "added_at": null,

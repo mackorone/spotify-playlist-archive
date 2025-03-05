@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 26939,
+  "num_followers": 26956,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAACVzyhAoRJ5ppdbE7+8UvWd",
+  "snapshot_id": "Z8TxAAAAAAAFDtEhSZkZNJYDDMNMFjKm",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Nada Te Cambio",
+        "url": "https://open.spotify.com/album/7hWuy8jFQVmigUrWWH9z9X"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 205482,
+      "name": "Por Nada Te Cambio",
+      "url": "https://open.spotify.com/track/4chVeYSaaPLrvjkgHoK6sT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/0dWXN6tsNvIKTDVfhN3tkg"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 208213,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Nada Te Cambio",
-        "url": "https://open.spotify.com/album/7hWuy8jFQVmigUrWWH9z9X"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 205482,
-      "name": "Por Nada Te Cambio",
-      "url": "https://open.spotify.com/track/4chVeYSaaPLrvjkgHoK6sT"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Un Carnal",
-        "url": "https://open.spotify.com/album/0JFVPY0GNxbNYCCo3OvKwb"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 226625,
-      "name": "Como Un Carnal",
-      "url": "https://open.spotify.com/track/16vEDR1Rmkh2f1elEDuoWw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMARTE ME HIZO ODIARTE",
         "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 169598,
       "name": "POR TU CULPA",
       "url": "https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Un Carnal",
+        "url": "https://open.spotify.com/album/0JFVPY0GNxbNYCCo3OvKwb"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 226625,
+      "name": "Como Un Carnal",
+      "url": "https://open.spotify.com/track/16vEDR1Rmkh2f1elEDuoWw"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 135223,
-      "name": "JOHNNIE WALKER",
-      "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMARTE ME HIZO ODIARTE",
         "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 164309,
       "name": "NMMS",
       "url": "https://open.spotify.com/track/4PtZh2Xu5EohHdVBTLuUqz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 135223,
+      "name": "JOHNNIE WALKER",
+      "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloody Steps",
+        "url": "https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Bloody Steps",
+      "url": "https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 202754,
       "name": "NOS TORCIERON",
       "url": "https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloody Steps",
-        "url": "https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Bloody Steps",
-      "url": "https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 126160,
-      "name": "VIDA DE FAMOSO",
-      "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Nuevo Dia",
         "url": "https://open.spotify.com/album/6w3v2OwRiIPlygawEW9rXM"
       },
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Opci\u00f3n",
-        "url": "https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd"
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
       "artists": [
         {
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 116000,
-      "name": "Sin Opci\u00f3n",
-      "url": "https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1"
+      "duration_ms": 126160,
+      "name": "VIDA DE FAMOSO",
+      "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"
     },
     {
       "added_at": null,
@@ -843,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+        "name": "Sin Opci\u00f3n",
+        "url": "https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Grupo Diez 4tro",
-          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
         }
       ],
-      "duration_ms": 169898,
-      "name": "NO TENIA NADA",
-      "url": "https://open.spotify.com/track/4RDJHKG7YLxS89QhaEfEcC"
+      "duration_ms": 116000,
+      "name": "Sin Opci\u00f3n",
+      "url": "https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1"
     },
     {
       "added_at": null,
@@ -883,8 +863,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos y Sentimientos",
-        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "duration_ms": 169898,
+      "name": "NO TENIA NADA",
+      "url": "https://open.spotify.com/track/4RDJHKG7YLxS89QhaEfEcC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 144057,
-      "name": "Vida Mafioso",
-      "url": "https://open.spotify.com/track/60qjW0ecl3vFlklpH6PLPG"
+      "duration_ms": 165750,
+      "name": "Bien Trankis",
+      "url": "https://open.spotify.com/track/2ld5AQPv3Fy20XUrPjxoWI"
     }
   ],
   "unique_name": "This Is Los Gemelos De Sinaloa",

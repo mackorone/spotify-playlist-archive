@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "my moon",
+        "url": "https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2"
+      },
+      "artists": [
+        {
+          "name": "la loye",
+          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127440,
+      "name": "my moon",
+      "url": "https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh"
+    },
+    {
+      "album": {
         "name": "My Old Friend John",
         "url": "https://open.spotify.com/album/50dd8PhRVaDqGMIKqCIKUU"
       },
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 159200,
       "name": "This House",
       "url": "https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy"

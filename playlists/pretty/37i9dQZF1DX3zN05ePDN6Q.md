@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Froid
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,930 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,950 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Gangue de Metrô](https://open.spotify.com/track/5pgjvAsrgpfciER76jnHMj) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf), [Dory de Oliveira](https://open.spotify.com/artist/1UbxAwPgZUfLcItrQw4bWr) | [Asfáltico](https://open.spotify.com/album/6qW68sFJuM9nQqGGjcK1v1) | 3:04 |
 | 75 | [Amem](https://open.spotify.com/track/2ig5dLodWcpXKVYfirt89X) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Amem](https://open.spotify.com/album/30ADtjTo894qM6ywdMbbfY) | 3:23 |
 
-Snapshot ID: `Z8NilgAAAAD9Z4o3dMZb9Ivbgqj0obly`
+Snapshot ID: `Z8NilgAAAABVso1reULW3U7miEyLitdj`

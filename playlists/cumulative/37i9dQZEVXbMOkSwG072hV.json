@@ -1717,28 +1717,6 @@
     },
     {
       "album": {
-        "name": "Boy Meets World",
-        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "date_added": "2025-03-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148928,
-      "name": "A N X I E T Y (feat. Doechii)",
-      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
-    },
-    {
-      "album": {
         "name": "A NATA",
         "url": "https://open.spotify.com/album/5XJYaowFaMrv96HReqANTM"
       },
@@ -3488,7 +3466,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 115573,
       "name": "Allah-La-\u00d4 / Tomara Que Chova",
       "url": "https://open.spotify.com/track/6jnfHFu7UP6uO7wSCmpukl"
@@ -4210,6 +4188,28 @@
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148928,
+      "name": "ANXIETY (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
       "album": {
@@ -7046,7 +7046,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 146750,
       "name": "Baqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
@@ -10124,6 +10124,24 @@
       "duration_ms": 132923,
       "name": "Business",
       "url": "https://open.spotify.com/track/3B4MxQOkvwS5Cx3G4Csn03"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
       "album": {
@@ -13959,6 +13977,40 @@
     },
     {
       "album": {
+        "name": "Copo de Gin",
+        "url": "https://open.spotify.com/album/3x54r9p1sTon0oLW3PVKIh"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223759,
+      "name": "Copo de Gin",
+      "url": "https://open.spotify.com/track/1aXkHbe1ACBD4rDqNMoPaw"
+    },
+    {
+      "album": {
         "name": "Olha os Vaqueiros Chegando Ai - Ao Vivo",
         "url": "https://open.spotify.com/album/3oYPsAOCWLnW39FuQi2fqD"
       },
@@ -16184,7 +16236,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -16614,6 +16666,24 @@
       "duration_ms": 162111,
       "name": "Descontrolada",
       "url": "https://open.spotify.com/track/35ILpvFvH8u8dVfjG2txtw"
+    },
+    {
+      "album": {
+        "name": "Cristinas (Ao Vivo / Vol.01)",
+        "url": "https://open.spotify.com/album/4z1bRlKJwvx4hduTSxs7Pz"
+      },
+      "artists": [
+        {
+          "name": "Cristinas",
+          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186970,
+      "name": "Desculpa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1e65vFwyqTM7FJeJ49T5ch"
     },
     {
       "album": {
@@ -18876,6 +18946,24 @@
       "duration_ms": 194583,
       "name": "e se for pra ser sincera:",
       "url": "https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8"
+    },
+    {
+      "album": {
+        "name": "AMORTAGE",
+        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190806,
+      "name": "earthquake",
+      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
     },
     {
       "album": {
@@ -22856,7 +22944,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 334133,
       "name": "Fara\u00f3",
       "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
@@ -35588,7 +35676,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 299076,
       "name": "Medley de Igarat\u00e1 4",
       "url": "https://open.spotify.com/track/6ejIcf1OdUmtOJ7fpFcEXo"
@@ -37168,7 +37256,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 159999,
       "name": "Meu Carro nao tem Porta Luva - Remastered 2024",
       "url": "https://open.spotify.com/track/0vYrfm0eUQyi6fWbYnBiDc"
@@ -37688,7 +37776,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 100000,
       "name": "MINHA PIKA TA DURA",
       "url": "https://open.spotify.com/track/2pM9IUZ9uIapAN6irpE9A4"
@@ -42414,7 +42502,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 170847,
       "name": "Nossas Fotos",
       "url": "https://open.spotify.com/track/7fW5TnCdNFhdPw7C2QakEO"
@@ -42958,7 +43046,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 81500,
       "name": "NUNCA MUDA?",
       "url": "https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P"
@@ -45468,7 +45556,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
@@ -48746,7 +48834,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 115325,
       "name": "Pix Pra Mainha",
       "url": "https://open.spotify.com/track/7beMFLhYoAjMbhfD60pDsH"
@@ -49226,6 +49314,28 @@
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
+    },
+    {
+      "album": {
+        "name": "Poesia C\u00fastica",
+        "url": "https://open.spotify.com/album/6diKnmd8IRzoPihX4PDguW"
+      },
+      "artists": [
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358423,
+      "name": "Poesia C\u00fastica",
+      "url": "https://open.spotify.com/track/6uEaXyQsUmSMPvCDaep5lU"
     },
     {
       "album": {
@@ -52840,6 +52950,32 @@
       "duration_ms": 192461,
       "name": "Ritmada Interestelar",
       "url": "https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA"
+    },
+    {
+      "album": {
+        "name": "RITMADA PODEROSA",
+        "url": "https://open.spotify.com/album/0nqri7shhJOaeoggRFk17c"
+      },
+      "artists": [
+        {
+          "name": "DJ KOALA6",
+          "url": "https://open.spotify.com/artist/4z1BLn6IDIM63tY397l7DV"
+        },
+        {
+          "name": "DJ ROBOCOP MF",
+          "url": "https://open.spotify.com/artist/2j7P1Of6EzzCcHfC7tNzkq"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "RITMADA PODEROSA",
+      "url": "https://open.spotify.com/track/13JOBGfXB8KZGqVbho2bjJ"
     },
     {
       "album": {
@@ -63702,6 +63838,24 @@
       "duration_ms": 149076,
       "name": "Tubar\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
+    },
+    {
+      "album": {
+        "name": "Tubar\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Tubar\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
     },
     {
       "album": {

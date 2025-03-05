@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 34818,
+  "num_followers": 34827,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAAIdb2Gnpk6ycDE2ir7t6OU",
+  "snapshot_id": "Z8TxAAAAAADFmDrC7y5p9tRDOjvW+2Gu",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Grandes 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "El Vengador de Federales",
-      "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vienen Los Recuerdos",
         "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 142160,
       "name": "El Taxista Enamorado",
       "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 176280,
+      "name": "El Vengador de Federales",
+      "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Grandes 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Jacinto el Tullido",
-      "url": "https://open.spotify.com/track/281jqCib3R0qXfF2Xma3vJ"
+      "duration_ms": 206184,
+      "name": "Paloma Piquito de Oro",
+      "url": "https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+        "name": "Busca Otro Amor",
+        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 206184,
-      "name": "Paloma Piquito de Oro",
-      "url": "https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq"
+      "duration_ms": 164826,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
       "duration_ms": 165280,
       "name": "El Rayo De Sinaloa",
       "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Busca Otro Amor",
-        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Dos Seres Que Se Aman",
-      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 149826,
       "name": "El Sauce Y La Palma",
       "url": "https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Jacinto el Tullido",
+      "url": "https://open.spotify.com/track/281jqCib3R0qXfF2Xma3vJ"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Pal Jefe",
-        "url": "https://open.spotify.com/album/6JH1399KblhXLCUlJqJ9Fx"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 154040,
-      "name": "Duelo De Fieras",
-      "url": "https://open.spotify.com/track/67nborVsC6lUgXHu6zyXGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 203106,
       "name": "Tengo a Mi Lupe",
       "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Pal Jefe",
+        "url": "https://open.spotify.com/album/6JH1399KblhXLCUlJqJ9Fx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 154040,
+      "name": "Duelo De Fieras",
+      "url": "https://open.spotify.com/track/67nborVsC6lUgXHu6zyXGT"
     },
     {
       "added_at": null,

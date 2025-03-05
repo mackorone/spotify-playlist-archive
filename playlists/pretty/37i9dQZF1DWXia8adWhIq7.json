@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Marcela Ta\u00eds",
-  "num_followers": 104783,
+  "num_followers": 104810,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
-        "name": "Teu Esconderijo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 349928,
-      "name": "Teu Esconderijo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc"
-    },
-    {
-      "added_at": "2025-02-21 15:59:40",
-      "album": {
         "name": "Teu V\u00f4o",
         "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 192000,
       "name": "Teu V\u00f4o",
       "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
+    },
+    {
+      "added_at": "2025-02-21 15:59:40",
+      "album": {
+        "name": "Teu Esconderijo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 349928,
+      "name": "Teu Esconderijo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc"
     },
     {
       "added_at": "2025-02-21 15:59:40",
@@ -891,26 +891,6 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
-    },
-    {
-      "added_at": "2025-02-21 15:59:40",
-      "album": {
         "name": "Do Meu Lado",
         "url": "https://open.spotify.com/album/4cscdogWJaGUU1h9AemC6E"
       },
@@ -931,18 +911,22 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
       },
       "artists": [
         {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
+      "duration_ms": 178000,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
     },
     {
       "added_at": "2025-02-21 15:59:40",
@@ -963,6 +947,22 @@
       "duration_ms": 197120,
       "name": "Todo Meu Viver (Ac\u00fastico) - Ao Vivo",
       "url": "https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv"
+    },
+    {
+      "added_at": "2025-02-21 15:59:40",
+      "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2025-02-21 15:59:40",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-02-21 15:59:40",
       "album": {
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+      },
+      "artists": [
+        {
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+    },
+    {
+      "added_at": "2025-02-21 15:59:40",
+      "album": {
         "name": "A Gente Aprende a Ser",
         "url": "https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 248601,
       "name": "A Gente Aprende a Ser",
       "url": "https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR"
-    },
-    {
-      "added_at": "2025-02-21 15:59:40",
-      "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
-      },
-      "artists": [
-        {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2025-02-21 15:59:40",

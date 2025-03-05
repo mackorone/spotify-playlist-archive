@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-576 songs - 2 day 0 hr 3 min
+577 songs - 2 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Lux](https://open.spotify.com/track/6xCLzgEhnX5lLSBYkyiYnd) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Lux](https://open.spotify.com/album/1w40aoGmgckodC4xEf1nyQ) | 2:22 | 2023-05-05 | 2023-08-12 |
 | [Magnetic](https://open.spotify.com/track/4avYediY0ck6jMfRK5LK6r) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [Magnetic](https://open.spotify.com/album/7GMaki32RP1IoRkqqxsTZZ) | 5:28 | 2021-12-08 | 2023-05-06 |
 | [Magnetic Generation](https://open.spotify.com/track/12jqiScAZkKCnkHMfrDVlM) | [Pi\-Singer](https://open.spotify.com/artist/0laYghO0Z0yrzxgrWX0aD3) | [Magnetic Generation](https://open.spotify.com/album/2tArvO5RHUfeQkspt6OgNF) | 5:33 | 2021-12-08 | 2023-06-27 |
+| [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 | 2025-02-28 |  |
 | [Majika](https://open.spotify.com/track/61viWAXyKA61e0Gxv2j6Q6) | [Heliotype](https://open.spotify.com/artist/5N4dVbRP8Iu2sbKC8r8JeF) | [Majika](https://open.spotify.com/album/3MgAaIzurGwvNkOHh9ysyI) | 3:33 | 2021-12-08 | 2023-02-06 |
 | [Make a Wish](https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1) | [Arina Mur](https://open.spotify.com/artist/3xPmeowtzXszyBWz4DKKaJ) | [Make a Wish](https://open.spotify.com/album/1BPpzVH2HO9deeJiG34cAI) | 7:00 | 2021-12-08 |  |
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-21 |  |
@@ -536,7 +537,7 @@
 | [tu tienes mi corazón](https://open.spotify.com/track/2b4xMVXYYIIbWjDLSy1Wcv) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [tu tienes mi corazón](https://open.spotify.com/album/6JcbnYuwiJ1UYCAtlwSWlo) | 4:09 | 2021-12-08 |  |
 | [Turning My Head](https://open.spotify.com/track/3HG0bL6apxDTfjijRapnI2) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/7rRwW48AX1FwDvBl8Oalap) | 6:41 | 2021-12-08 | 2024-07-13 |
 | [Turning My Head](https://open.spotify.com/track/6n9S8Xb2FzvKsHnsZczfm4) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/4FfW2yPHUeipHkGhp64PKI) | 6:41 | 2022-05-03 | 2023-03-06 |
-| [uHambo](https://open.spotify.com/track/0GDX7CnKqm2yiZdQpkK50P) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi) | [uHambo](https://open.spotify.com/album/5LgIiLg49gLvR0YmYPoXqp) | 7:20 | 2024-04-12 |  |
+| [uHambo](https://open.spotify.com/track/0GDX7CnKqm2yiZdQpkK50P) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi) | [uHambo](https://open.spotify.com/album/5LgIiLg49gLvR0YmYPoXqp) | 7:20 | 2024-04-12 | 2025-03-05 |
 | [Unknown Neighbor](https://open.spotify.com/track/1EETWBjKos9qzuKFWYNK8w) | [Jonny Sum](https://open.spotify.com/artist/0OxVqyycCKHoJKWeuAmBOz) | [Unknown Neighbor](https://open.spotify.com/album/0UC3kcUEraSFCxRROvkiCb) | 6:27 | 2021-12-08 | 2022-07-29 |
 | [Vajkoczy \- Edit](https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Vajkoczy](https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI) | 2:52 | 2023-09-01 |  |
 | [Verden](https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H), [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Verden](https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2) | 5:44 | 2023-06-30 |  |

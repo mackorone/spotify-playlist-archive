@@ -653,6 +653,32 @@
     },
     {
       "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        },
+        {
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143161,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g"
+    },
+    {
+      "album": {
         "name": "Anywhere's Home",
         "url": "https://open.spotify.com/album/7s8g5nvFg2wa6a5wFWW0N3"
       },
@@ -2902,7 +2928,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 158644,
       "name": "Dollar Dream [Lucas Estrada Edit]",
       "url": "https://open.spotify.com/track/28ECYkjyVDGCurbUoCctVe"

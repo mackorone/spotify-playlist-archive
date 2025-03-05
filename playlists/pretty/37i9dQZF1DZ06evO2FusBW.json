@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10750,
+  "num_followers": 10753,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAChlFk1LehrIPZ+1M1C/CKM",
+  "snapshot_id": "Z8TxAAAAAADfmkPg/QrodoJkbwa6YZfx",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "[extended] BLISS",
-        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 132546,
-      "name": "Bee",
-      "url": "https://open.spotify.com/track/77Xd7aikO9NRmzC6ISXIvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 240287,
       "name": "Grandfather please stand on the shoulders of my father while he's deep-sea fishing (feat. RIOPY)",
       "url": "https://open.spotify.com/track/55LnC7VuUvayQ3fW0CvDL6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "[extended] BLISS",
+        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 132546,
+      "name": "Bee",
+      "url": "https://open.spotify.com/track/77Xd7aikO9NRmzC6ISXIvY"
     },
     {
       "added_at": null,

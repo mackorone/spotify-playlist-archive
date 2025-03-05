@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty
 
-345 songs - 20 hr 43 min
+346 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Kalavarama](https://open.spotify.com/track/5sJUHIyPP0IBDoasbFKt31) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kalavarama](https://open.spotify.com/album/0WnDNGyNuz476RAJMHXk8N) | 3:29 | 2024-04-15 | 2024-10-04 |
 | [Kale Theera](https://open.spotify.com/track/7FH3bPecMXGlkwHXuDZDW7) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS), [Akshay Yesodharan](https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN) | [Kale Theera](https://open.spotify.com/album/2kpqsxK48MoF2OF29DZBcZ) | 3:29 | 2024-11-04 |  |
 | [Kalle Kalle](https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Kalle Kalle](https://open.spotify.com/album/6ahMugLjsmHEMnE8MGFT6R) | 3:10 | 2023-06-09 | 2025-01-18 |
-| [Kannamma](https://open.spotify.com/track/0OpuQnJLRdsLoOO99DkXhV) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Kannamma](https://open.spotify.com/album/7LG1TvZYp9aYEYHB6QgPrd) | 2:56 | 2025-02-13 |  |
+| [Kannamma](https://open.spotify.com/track/0OpuQnJLRdsLoOO99DkXhV) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Kannamma](https://open.spotify.com/album/7LG1TvZYp9aYEYHB6QgPrd) | 2:56 | 2025-02-13 | 2025-03-05 |
 | [Kannullo Kala \- Manoharam](https://open.spotify.com/track/1GPnihVegNhrL1qbV2WMqh) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Kannullo Kala \(Manoharam\)](https://open.spotify.com/album/0vClCsoWXpytyztm9vWEcs) | 3:44 | 2023-03-22 |  |
 | [Karuna](https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7) | 3:14 | 2023-05-31 | 2024-01-05 |
 | [Karuna](https://open.spotify.com/track/5nzBrLJixlLLmTMFQnYscF) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/1IbXWKQyr5fx7VjTrHZll6) | 3:14 | 2023-05-31 | 2024-02-15 |
@@ -161,6 +161,7 @@
 | [Maya Chesave](https://open.spotify.com/track/2aoxZTjUBAqTmUz2X9Azo0) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz) | [Maya Chesave](https://open.spotify.com/album/0CmdXTK4VV4P462yDR4THw) | 3:36 | 2023-01-10 | 2023-06-01 |
 | [Mayedho Chesesave](https://open.spotify.com/track/1tStVo585uA7kfEqXlfLEP) | [Nimshi Zacchaeus](https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz) | [Mayedho Chesesave](https://open.spotify.com/album/4Q33y0iDDrJ5wQNXFobhqZ) | 4:55 | 2023-12-01 |  |
 | [Modhatisari](https://open.spotify.com/track/6yUJX6h3v12PMAD1T6dsev) | [Madhu Mady](https://open.spotify.com/artist/3XXYrOqQ1xzKsuDgvTun6A), [DaKrish](https://open.spotify.com/artist/3loSOILEnkRrBpuwUnjxaD) | [Modhatisari](https://open.spotify.com/album/3rPCSsZ3lM53VPC9qzYcKu) | 3:22 | 2023-02-10 | 2023-10-17 |
+| [Mosam](https://open.spotify.com/track/4xKUTPkJajClzsQuNtFjU0) | [Karthik Clazix](https://open.spotify.com/artist/2aOAbLS45uroV7HtTUVtZ6) | [Mosam](https://open.spotify.com/album/11MbaXM3cacleXh59yRNVl) | 2:52 | 2025-03-04 |  |
 | [Mounam](https://open.spotify.com/track/1OKlwdTKmEmwN2ETdJRa0H) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K), [Akshita Manthina](https://open.spotify.com/artist/1GEqfOP0cVdwqoqJWYOXdq) | [Mounam](https://open.spotify.com/album/3Swoe45Oou7qyXqBL2xVRC) | 4:22 | 2024-01-29 | 2025-02-14 |
 | [Mounam](https://open.spotify.com/track/3COqF1lLItjkhOSGJPRtA2) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:40 | 2022-07-18 | 2023-05-27 |
 | [My Dear Manohari](https://open.spotify.com/track/7Dh6ndqN64dZFRYGuBvo82) | [P.L Naidu](https://open.spotify.com/artist/00bXZCUqYETc603nuULtBK) | [My Dear Manohari](https://open.spotify.com/album/51n5LmZmLI0aNEK4P1Yiax) | 4:00 | 2024-02-14 |  |
@@ -219,7 +220,7 @@
 | [Oh Cheli](https://open.spotify.com/track/7xQuTzWxHFncW6mBEvXegI) | [Praneeth Muzic](https://open.spotify.com/artist/4fJQkBLnzJM725l64C07Bh), [Kavya Chandana](https://open.spotify.com/artist/742OuEIIrGCAVqVD4SX2YE), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Oh Cheli](https://open.spotify.com/album/2of8a03mnIa3LQo9hptHoM) | 3:36 | 2023-05-16 | 2023-05-26 |
 | [Oh Cheliya](https://open.spotify.com/track/4YG0YWJiqkjUfbCVDtOj9d) | [Asish Nikhil](https://open.spotify.com/artist/7M8nOk20KqAFd5u7PaIjuy), [ARKA](https://open.spotify.com/artist/3jcPhfHFIpbx1W1MhvtM1L) | [Oh Cheliya](https://open.spotify.com/album/6juo4ohIEBETOHgt7DCpVO) | 3:09 | 2024-02-14 | 2024-03-06 |
 | [Oh Chitti](https://open.spotify.com/track/4CHbfbxAvRSowI8Xy0zraI) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Oh Chitti](https://open.spotify.com/album/115UcJEPH2enKkLLLpgSny) | 3:13 | 2022-07-27 | 2023-05-23 |
-| [Oh Sakhi](https://open.spotify.com/track/4zBxM2CjIj8TjrLB9jySZe) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Oh Sakhi](https://open.spotify.com/album/7N3CCQY0tsJH7GPU4e3o5K) | 3:40 | 2025-01-29 |  |
+| [Oh Sakhi](https://open.spotify.com/track/4zBxM2CjIj8TjrLB9jySZe) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Oh Sakhi](https://open.spotify.com/album/7N3CCQY0tsJH7GPU4e3o5K) | 3:40 | 2025-01-29 | 2025-03-05 |
 | [Ole Ole](https://open.spotify.com/track/44wZfxFJ6CbTavqxdbbHxz) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS) | [Ole Ole](https://open.spotify.com/album/3NeFI900xOcCuuYjxKr5xr) | 5:31 | 2023-10-13 |  |
 | [Ontari](https://open.spotify.com/track/6LpMArM5X2QCE12ZOPUsJZ) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Ontari](https://open.spotify.com/album/7sz6bNnzgEIdHwPX9uI94Y) | 3:08 | 2023-07-27 | 2023-08-22 |
 | [Oohale Oosule](https://open.spotify.com/track/4lyl9K1D7syj1d0LL8nNGA) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Oohale Oosule](https://open.spotify.com/album/5p50H6A7erX9LKav26JdaF) | 2:51 | 2023-02-14 | 2024-01-09 |

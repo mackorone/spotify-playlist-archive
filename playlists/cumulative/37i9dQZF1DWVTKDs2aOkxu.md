@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Gigi Perez
 
-388 songs - 22 hr 32 min
+389 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 | 2024-08-22 | 2024-11-01 |
 | [Make A Difference](https://open.spotify.com/track/3FW4sQFCb3v12aShwG2bR4) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [KAWALA Collection](https://open.spotify.com/album/2Pv5jT6q20fLACpKLLZpIt) | 3:01 | 2025-01-31 |  |
 | [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 | 2025-02-07 |  |
+| [Mariah Carey Through Death Valley](https://open.spotify.com/track/6xrhxjsnOftHxbHTSVIpwF) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Mariah Carey Through Death Valley](https://open.spotify.com/album/1dekkm4VaT0T90wG5KfqJM) | 2:47 | 2025-03-04 |  |
 | [Marks To Prove It](https://open.spotify.com/track/5VR7bYgk4TaJ1ZyNScT1sm) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Marks To Prove It](https://open.spotify.com/album/7oHYVWE7EH2WFdZ36N2rEU) | 4:14 | 2024-11-01 | 2024-11-15 |
 | [Maybe When We're 30](https://open.spotify.com/track/0MYQDeMtfpXFIN5zKYHlYv) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Maybe When We're 30](https://open.spotify.com/album/3eyTBdnCBCu3BEnrqoCpKM) | 4:27 | 2025-02-28 |  |
 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-07-25 | 2024-10-04 |

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-460 songs - 1 day 1 hr 15 min
+461 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Freedom](https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg) | [Freedom](https://open.spotify.com/album/4iUJ0WsPHxFt71g5oMpSlQ) | 3:05 | 2023-07-28 | 2024-02-09 |
 | [Full Charge](https://open.spotify.com/track/3uArz7gKhSuwSkTzFUlKBo) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [Full Charge](https://open.spotify.com/album/6beHIG9uQMKnBduxEM9kO1) | 2:26 | 2024-01-31 | 2024-02-17 |
 | [Gadda](https://open.spotify.com/track/5NMcqtJ4MKHpFsHIvgWs7p) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Chikkesh Hamsabhimani](https://open.spotify.com/artist/4UT07rarVsghjWlBzj7iU9) | [Gadda](https://open.spotify.com/album/5HeVSXTlmUq9Rw8BuOZiGv) | 4:32 | 2023-02-13 | 2023-09-01 |
+| [Gangster](https://open.spotify.com/track/7tE7nbWLxB5RoEEeObzYok) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Gangster](https://open.spotify.com/album/5zlEYofw1IqVKhcaMvp7tT) | 2:39 | 2025-03-04 |  |
 | [Geejaga Hakki](https://open.spotify.com/track/1u6vTH5nUSKaSTPJZJC81s) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [Prassanna Hegde](https://open.spotify.com/artist/0GXTpJPW41OHk5rTZCRDDy) | [Geejaga Hakki](https://open.spotify.com/album/330gRfCGukj4u4WpucNpP4) | 3:25 | 2023-06-08 | 2023-07-22 |
 | [Geeya Geeya](https://open.spotify.com/track/6XJf6jtozUGfOEmswsp8So) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Michael League](https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9), [Praveen D Rao](https://open.spotify.com/artist/72CnTX4NMeDFpxPrEoV0MJ) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 5:09 | 2024-07-08 | 2025-01-03 |
 | [Gelthinallo](https://open.spotify.com/track/67aund6DgSswfEy1lkMyZD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Gelthinallo](https://open.spotify.com/album/1lwlU3A6anSNGgR8U0gZ1U) | 3:31 | 2024-03-14 | 2024-08-04 |
@@ -418,7 +419,7 @@
 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 | 2023-07-08 | 2023-07-18 |
 | [Sheke](https://open.spotify.com/track/0rFCtxohZ41B6dK9pijQ7A) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sheke](https://open.spotify.com/album/5UAJjhg0pbvLkUT8VKlzta) | 2:08 | 2024-04-16 | 2024-10-15 |
 | [Shiva](https://open.spotify.com/track/5NSLb3aHUk8RaVyuCEGwJ3) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq) | [Shiva](https://open.spotify.com/album/6AB4QHFgID7VKotMPva48Q) | 3:42 | 2025-02-24 |  |
-| [Shiva Shiva](https://open.spotify.com/track/6Uhwoz3nDGC4ih9y9t49Px) | [Dhananjay Keys](https://open.spotify.com/artist/4Kil8poSmTgXmNzSYKqMlY) | [Shiva Shiva](https://open.spotify.com/album/1D150acI9mxmtQKus3Xhau) | 2:58 | 2024-08-22 |  |
+| [Shiva Shiva](https://open.spotify.com/track/6Uhwoz3nDGC4ih9y9t49Px) | [Dhananjay Keys](https://open.spotify.com/artist/4Kil8poSmTgXmNzSYKqMlY) | [Shiva Shiva](https://open.spotify.com/album/1D150acI9mxmtQKus3Xhau) | 2:58 | 2024-08-22 | 2025-03-05 |
 | [Sindi Sarai](https://open.spotify.com/track/2YePAWfRwKlt5dSgEQs4gS) | [Amrapali Shindhe](https://open.spotify.com/artist/2qEUD5jyimcJVrCttLAjON) | [Sindi Sarai](https://open.spotify.com/album/2saJcd1WCzHnFDjjT8aL1E) | 3:15 | 2024-08-16 | 2025-02-12 |
 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 | 2023-11-14 | 2024-02-17 |
 | [Solo King](https://open.spotify.com/track/2caf1VcfyH0Op9ozofaJrN) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Solo King](https://open.spotify.com/album/76ChkZ5OwDEguUC8VZVdJG) | 3:07 | 2023-03-28 | 2023-12-30 |

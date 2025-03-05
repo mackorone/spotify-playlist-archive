@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 
 > La playlist ufficiale del nuovo rap show di Netflix! Vincitore: Kid Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,589 likes - 53 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,606 likes - 53 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

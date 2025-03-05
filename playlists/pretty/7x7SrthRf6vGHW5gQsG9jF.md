@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 like - 828 songs - 2 day 5 hr 1 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 830 songs - 2 day 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -836,5 +836,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 826 | [爆弾魔 \- Re\-Recording](https://open.spotify.com/track/4wufVE3ELYSfNRBIjvSi5D) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 3:35 |
 | 827 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
 | 828 | [サラバ青春](https://open.spotify.com/track/0rzpfStMhpjX8gQ9qagZOL) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [サラバ青春](https://open.spotify.com/album/1WtzRUR7xstZM3hAWIhOVi) | 5:15 |
+| 829 | [Night Walk](https://open.spotify.com/track/2yqbFfxZAngzfYhckGLN21) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Night Walk](https://open.spotify.com/album/7vrfjfKHDsfg9H7ZsOlvby) | 4:20 |
+| 830 | [Hold Me](https://open.spotify.com/track/2qz1earowX9HgKQiwUyE2M) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Loading...](https://open.spotify.com/album/4ybgu5jjrqmTiqh8i3NfPr) | 4:16 |
 
-Snapshot ID: `AAAEynA2zvRHNzvHEmrlyb8hLFbwyUmE`
+Snapshot ID: `AAAEzFNNIZ6MwL+EJc2VLHNAg81T4xBj`

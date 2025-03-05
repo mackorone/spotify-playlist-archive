@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > SaintPaul in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,333 likes - 70 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,332 likes - 70 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 11 | [Timore \(feat\. Nabi\)](https://open.spotify.com/track/4AFjiLTbtVZe8mlmIdB08d) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [MARTIRE](https://open.spotify.com/album/1oPNcyNaxXsXid3saN3bUO) | 2:51 |
 | 12 | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0) | 2:40 |
 | 13 | [L'Estremità del Cerchio \(feat\. Tormento\)](https://open.spotify.com/track/6suCH3IeVX9fO1ggKd73Vj) | [9ova](https://open.spotify.com/artist/40ScoYJJAlWfFVrBmIQvJO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [L'Estremità del Cerchio \(feat\. Tormento\)](https://open.spotify.com/album/1r0BwwNCGlbWBpM8yghDwy) | 2:10 |
-| 14 | [mary](https://open.spotify.com/track/3aJZw1kbppqcijZHNgIrcV) | [Kapri](https://open.spotify.com/artist/1B4R8XKme2Ax87Fp2aoL14) | [mary](https://open.spotify.com/album/1UVsyffUBSgF2GfbXT33aT) | 2:03 |
+| 14 | [Mary](https://open.spotify.com/track/3aJZw1kbppqcijZHNgIrcV) | [Kapri](https://open.spotify.com/artist/1B4R8XKme2Ax87Fp2aoL14) | [Mary](https://open.spotify.com/album/1UVsyffUBSgF2GfbXT33aT) | 2:03 |
 | 15 | [Hai Ragione Tu](https://open.spotify.com/track/6Ia8ia7iyn7MgDln8TSlxs) | [Due G](https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba) | [Hai Ragione Tu](https://open.spotify.com/album/2DNmWZ9A3xZGtSTGVv7Evy) | 2:44 |
 | 16 | [fatta di plastica](https://open.spotify.com/track/1HvTDL0gBFpoWwsu8KaH9E) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [fatta di plastica](https://open.spotify.com/album/2xXtD0KnBnWdfF5Onu0FrU) | 2:18 |
 | 17 | [REAL LIFE](https://open.spotify.com/track/50Ihev7QjupgKrD82gfLK5) | [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [REAL LIFE](https://open.spotify.com/album/7m53jr4dRbOZU5jEC4wpJK) | 2:35 |

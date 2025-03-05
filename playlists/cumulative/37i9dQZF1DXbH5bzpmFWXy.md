@@ -2,9 +2,9 @@
 
 ### [El Barrio MP3](https://open.spotify.com/playlist/37i9dQZF1DXbH5bzpmFWXy)
 
-> Dos estilos, dos sonidos, un mismo origen: El Barrio\. Sabino y Código FN en portada.
+> Dos estilos, dos sonidos, un mismo origen: El Barrio\. Kevin AMF, Victor Mendivil, Dani Flow y Los Esquivel en portada.
 
-555 songs - 1 day 5 hr 43 min
+556 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Bájala](https://open.spotify.com/track/7fTIKfQjIeh2cIimN2kQfl) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bájala](https://open.spotify.com/album/6GtN0ZgRsrugz5WyABLNix) | 2:18 | 2023-01-10 | 2023-01-28 |
 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 | 2023-01-27 |  |
 | [Cabaña](https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Los Patos Feos Inc](https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Cabaña](https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT) | 2:58 | 2023-08-04 | 2024-01-13 |
+| [Cachondos Session \#1 \(feat\. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel\)](https://open.spotify.com/track/5vNRuXbnqV6ISkNxvHEfbM) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Cachondos Session \#1 \(feat\. Victor Mendivil, Dani Flow, Tiagz & Los Esquivel\)](https://open.spotify.com/album/7MAbhQjPNHnD411F8VyamG) | 4:57 | 2025-03-04 |  |
 | [Cachín](https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Cachín](https://open.spotify.com/album/7jp45E7U0ulzdh3KGzH1dx) | 2:45 | 2024-07-12 |  |
 | [Caile](https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Caile](https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ) | 5:00 | 2022-12-16 | 2023-02-04 |
 | [Callado](https://open.spotify.com/track/29YWIcThcfrlEzquQ6kxzN) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Callado](https://open.spotify.com/album/11vahujXutY6IwNaT9gq8e) | 3:44 | 2023-01-13 | 2023-02-04 |
@@ -162,7 +163,7 @@
 | [El Belicon](https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicón](https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur) | 3:34 | 2022-09-23 | 2023-12-06 |
 | [El Black](https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Les Cerre La Boca](https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU) | 3:26 | 2022-11-07 | 2023-07-01 |
 | [El Black](https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Black](https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ) | 3:26 | 2022-11-07 | 2023-01-22 |
-| [El Blue](https://open.spotify.com/track/3fJ35WKG3nxSWIoCTXI6Tf) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [El Blue](https://open.spotify.com/album/6SigYKAQEFmXhnlc9aSy4c) | 2:49 | 2024-02-23 |  |
+| [El Blue](https://open.spotify.com/track/3fJ35WKG3nxSWIoCTXI6Tf) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [El Blue](https://open.spotify.com/album/6SigYKAQEFmXhnlc9aSy4c) | 2:49 | 2024-02-23 | 2025-03-05 |
 | [El Boom](https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [El Boom](https://open.spotify.com/album/1yKupzUivdMwcsplXhaLDR) | 4:21 | 2022-12-09 | 2023-04-15 |
 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 | 2022-12-16 |  |
 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 | 2022-06-01 | 2023-12-06 |

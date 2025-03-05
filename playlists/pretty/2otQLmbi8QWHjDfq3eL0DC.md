@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,336,529 likes - 106 songs - 5 hr 3 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,336,645 likes - 106 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

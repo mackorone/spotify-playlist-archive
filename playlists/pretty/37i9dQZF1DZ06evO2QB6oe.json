@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 67785,
+  "num_followers": 67806,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAAAY4cUNTlEFSVoQ+BgY9a6B",
+  "snapshot_id": "Z8TxAAAAAADd+1It1qfgi3SGSTAQKme+",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Alguien Me Ve",
-        "url": "https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF"
+        "name": "Cada loco con su tema",
+        "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
       },
       "artists": [
         {
-          "name": "DeMasters",
-          "url": "https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
         }
       ],
-      "duration_ms": 176289,
-      "name": "Si Alguien Me Ve",
-      "url": "https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm"
+      "duration_ms": 220761,
+      "name": "Cada loco con su tema",
+      "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
     },
     {
       "added_at": null,
@@ -319,22 +315,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cada loco con su tema",
-        "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
+        "name": "Si Alguien Me Ve",
+        "url": "https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "DeMasters",
+          "url": "https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
         }
       ],
-      "duration_ms": 220761,
-      "name": "Cada loco con su tema",
-      "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
+      "duration_ms": 176289,
+      "name": "Si Alguien Me Ve",
+      "url": "https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabe Bien",
-        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 160723,
-      "name": "Sabe Bien",
-      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 223192,
       "name": "Nuevas Mentiras",
       "url": "https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabe Bien",
+        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 160723,
+      "name": "Sabe Bien",
+      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 158241,
-      "name": "Aqu\u00ed Estar\u00e9",
-      "url": "https://open.spotify.com/track/2zCgdzlotsYpFcfh7Sn83E"
+      "duration_ms": 195470,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/42ch5aWgNSzXlTgNpWM2kY"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 195470,
-      "name": "La Carretera",
-      "url": "https://open.spotify.com/track/42ch5aWgNSzXlTgNpWM2kY"
+      "duration_ms": 158241,
+      "name": "Aqu\u00ed Estar\u00e9",
+      "url": "https://open.spotify.com/track/2zCgdzlotsYpFcfh7Sn83E"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfDe Qu\u00e9 Vamos a Hablar?",
+        "url": "https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 185690,
+      "name": "\u00bfDe Qu\u00e9 Vamos a Hablar?",
+      "url": "https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Tu Bien",
         "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 228280,
       "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PAUSA",
-        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 218665,
-      "name": "Cae de Una",
-      "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
     },
     {
       "added_at": null,
@@ -1007,18 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+        "name": "PAUSA",
+        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
       "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 254253,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
+      "duration_ms": 218665,
+      "name": "Cae de Una",
+      "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
     }
   ],
   "unique_name": "This Is Pedro Cap\u00f3",

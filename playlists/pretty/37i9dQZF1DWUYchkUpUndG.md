@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V?si=E54znhawR\_Kr\_3MBNc6jlA>TBabz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,260 likes - 101 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,280 likes - 101 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 41 | [Give Me You](https://open.spotify.com/track/6blJUWNGEYNHVceghhJUgc) | [WISDOM K](https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd) | [Give Me You](https://open.spotify.com/album/5xM9Bwfpuj9b4G5okU044n) | 7:29 |
 | 42 | [God Is Good](https://open.spotify.com/track/7agfC6UZ4YDrrau3KnJuc2) | [Jay Benjis](https://open.spotify.com/artist/4CD4WOUFCppCZzIiThhvI6) | [God Is Good](https://open.spotify.com/album/2m0nAfgYC9WSZPnVriVyhA) | 3:08 |
 | 43 | [Wananiuliza \(feat\. Guardian Angel\)](https://open.spotify.com/track/1JwgVYRQiQ7PMH4nZDum26) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Wananiuliza \(feat\. Guardian Angel\)](https://open.spotify.com/album/6TLLsicNv9MX1enci8QuXu) | 3:34 |
-| 44 | [Know YOU More! \- Sped up version](https://open.spotify.com/track/6KpX9RyP9g6yrLfoy28J4w) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [Know YOU More! \(Sped up version\)](https://open.spotify.com/album/5txTwcvWWQ1ITAmcfxZdwU) | 1:48 |
+| 44 | [Know YOU More! \- Sped up version](https://open.spotify.com/track/6KpX9RyP9g6yrLfoy28J4w) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Know YOU More! \(Sped up version\)](https://open.spotify.com/album/5txTwcvWWQ1ITAmcfxZdwU) | 1:48 |
 | 45 | [Amazing Grace](https://open.spotify.com/track/1Jnnh7AyjLwRPTIZW6rdHr) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Amazing Grace](https://open.spotify.com/album/2mtWhpPBL9BLoSIfdNeUbV) | 2:28 |
 | 46 | [Pure Gold](https://open.spotify.com/track/4GPfoPbpLppbzVLBIR337i) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Pure Gold](https://open.spotify.com/album/29QjD47g5WsFp4H7RlxyRJ) | 2:17 |
 | 47 | [Narekele](https://open.spotify.com/track/5oVEIF7jbIfn94PH0GJArG) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Narekele](https://open.spotify.com/album/46wSjrFcYADJMX400FsMKP) | 2:38 |

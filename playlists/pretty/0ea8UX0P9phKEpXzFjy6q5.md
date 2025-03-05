@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ea8UX0P9phKEpXzFjy6q5.md) - [plain]
 
 > 
 
-[Marquis](https://open.spotify.com/user/31n4dji4mze6heiffb55f6j4uceq) - 0 like - 78 songs - 4 hr 32 min
+[Marquis](https://open.spotify.com/user/31n4dji4mze6heiffb55f6j4uceq) - 0 likes - 78 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

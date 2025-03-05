@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 153575,
       "name": "AlterHuman",
       "url": "https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 191000,
       "name": "ANTONYMPH - N1GHTC0R3 M1X",
       "url": "https://open.spotify.com/track/6xzlfzYDEwkVznV9FPOkym"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 271673,
       "name": "As Above So Below",
       "url": "https://open.spotify.com/track/6sUAyxFUx9Fw8i2mUmpWTZ"
@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "Bees in my head (remake)",
+        "url": "https://open.spotify.com/album/3koNIrMX6ETipw9PTF7P9l"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129417,
+      "name": "Bees in my head - Remake",
+      "url": "https://open.spotify.com/track/6x0klaEnNtoq4qOBXqgho7"
+    },
+    {
+      "album": {
         "name": "100 byaks and the Ultimate Swag",
         "url": "https://open.spotify.com/album/4Sm0L8lvo7eiMmmaroAaHw"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 265600,
       "name": "Bite",
       "url": "https://open.spotify.com/track/0dl4v6E1Afw5K41K2PukJA"
@@ -412,7 +430,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 98482,
       "name": "c.e.d. (manic)",
       "url": "https://open.spotify.com/track/0Vji7774dqXL6TihvdLEEx"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 121573,
       "name": "CATBOY JERMA",
       "url": "https://open.spotify.com/track/2yVtfEQ0EVMIA3qKDoDmW7"
@@ -586,7 +604,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 123724,
       "name": "crying in the club",
       "url": "https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg"
@@ -746,7 +764,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 77216,
       "name": "don't forget (to not be a jerk)",
       "url": "https://open.spotify.com/track/2aU43VxROsnRdmD4jDwic5"
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 139591,
       "name": "I'm Your Baby",
       "url": "https://open.spotify.com/track/2Xku3AcjgS3XdegLcFg6Z4"
@@ -1212,6 +1230,24 @@
       "duration_ms": 128957,
       "name": "ITS NOT ME ITS YOU",
       "url": "https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G"
+    },
+    {
+      "album": {
+        "name": "I\u2019m a Therian Cat",
+        "url": "https://open.spotify.com/album/04LxiICta3d6c4rawDBSMZ"
+      },
+      "artists": [
+        {
+          "name": "Autumn J.",
+          "url": "https://open.spotify.com/artist/5F2rhyaflgXmVeW7NMUXAW"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184203,
+      "name": "I\u2019m a Therian Cat",
+      "url": "https://open.spotify.com/track/3aNIJvDBYi0LQPakdS1APs"
     },
     {
       "album": {
@@ -1444,7 +1480,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 96625,
       "name": "MANICa",
       "url": "https://open.spotify.com/track/4xGQ1u0EbqIwcmv9ViuowJ"
@@ -1792,7 +1828,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 233333,
       "name": "Perfect Fiction (Tsumugi Shirogane Fan Song)",
       "url": "https://open.spotify.com/track/66if1xGhUmaFau3AE1p4zp"
@@ -2070,7 +2106,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 125036,
       "name": "Senpai, Won't You Notice Me?",
       "url": "https://open.spotify.com/track/6dVGWdfE1ug3g1MH6KuYmP"
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 150395,
       "name": "Therian Wolf",
       "url": "https://open.spotify.com/track/6hRwN3qQhShGulba210gTC"
@@ -2428,7 +2464,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 164500,
       "name": "Who are you pretending to be?",
       "url": "https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD"

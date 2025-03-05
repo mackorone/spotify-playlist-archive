@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: i am yd\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,431 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,451 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 84 | [Feel Something](https://open.spotify.com/track/4Vz0i5HbKRXJPArNWupocT) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ), [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Feel Something](https://open.spotify.com/album/0d8uUGeWpytdTdQeZNHMHq) | 3:30 |
 | 85 | [Coffee](https://open.spotify.com/track/3hwAHQHiqMf4iXezEiLZRj) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [Coffee](https://open.spotify.com/album/4bb7UgMLox340kiJ0HfRDL) | 3:18 |
 
-Snapshot ID: `Z76f2QAAAAAMhmComvDff2dguPIow/V3`
+Snapshot ID: `Z76f2QAAAADhAlPR4nXDdR7HN10963p5`

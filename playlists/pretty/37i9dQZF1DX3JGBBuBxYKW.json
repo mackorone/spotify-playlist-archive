@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 107777,
+  "num_followers": 107799,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-12-20 16:22:03",
       "album": {
+        "name": "El Mundo",
+        "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 213183,
+      "name": "El Mundo",
+      "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
+    },
+    {
+      "added_at": "2024-12-20 16:22:03",
+      "album": {
         "name": "Lo Que Tenias Conmigo",
         "url": "https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 198542,
       "name": "Lo Que Tenias Conmigo",
       "url": "https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm"
-    },
-    {
-      "added_at": "2024-12-20 16:22:03",
-      "album": {
-        "name": "Placer y Olvido (En Vivo)",
-        "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 82400,
-      "name": "Placer y Olvido",
-      "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
     },
     {
       "added_at": "2024-12-20 16:22:03",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2024-12-20 16:22:03",
       "album": {
-        "name": "El Mundo",
-        "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
+        "name": "Placer y Olvido (En Vivo)",
+        "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 213183,
-      "name": "El Mundo",
-      "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
+      "duration_ms": 82400,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
     },
     {
       "added_at": "2024-12-20 16:22:03",

@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 477580,
+  "num_followers": 477723,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
+        "name": "My Arms Were Always Around You",
+        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
-        "name": "My Arms Were Always Around You",
-        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "This Time Around",
-        "url": "https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "Years On",
         "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 242906,
       "name": "Years On",
       "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "This Time Around",
+        "url": "https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "The Civil Wars",
         "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 229653,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/5P6ZBMWS66FVo6deJaDdHy"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "Mudroom",
-        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
         }
       ],
-      "duration_ms": 239895,
-      "name": "Mudroom",
-      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
       },
       "artists": [
         {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
+      "duration_ms": 239895,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Tragic Magic",
-      "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "Palace (Cover) / Diane",
         "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Tragic Magic",
+      "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
+        "name": "This Heart",
+        "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
+      },
+      "artists": [
+        {
+          "name": "Loah",
+          "url": "https://open.spotify.com/artist/3smkUIA0gfguE46oluw954"
+        }
+      ],
+      "duration_ms": 252580,
+      "name": "Unveiled",
+      "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
         "name": "i leave early",
         "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "This Heart",
-        "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
-      },
-      "artists": [
-        {
-          "name": "Loah",
-          "url": "https://open.spotify.com/artist/3smkUIA0gfguE46oluw954"
-        }
-      ],
-      "duration_ms": 252580,
-      "name": "Unveiled",
-      "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "The Only Ones",
         "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 144946,
       "name": "I'll Be Gone",
       "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "Blind and Brave",
+        "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Let No Grief",
+      "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1511,22 +1527,6 @@
       "duration_ms": 151828,
       "name": "Not a Man, Not a Woman",
       "url": "https://open.spotify.com/track/5fJ6ZUko0kbaXpUfG946RX"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
-        "name": "Blind and Brave",
-        "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Let No Grief",
-      "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "is there still a light on?",
         "url": "https://open.spotify.com/album/2yCWy5yUJaVhYnm5wZTCET"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 251322,
       "name": "is there still a light on?",
       "url": "https://open.spotify.com/track/5y6psYdUSjFFVTGcN5YqmE"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 235593,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 187211,
       "name": "Fixed",
       "url": "https://open.spotify.com/track/2BCTLF0QVwtM2BMECbmLx9"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 235593,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "Sunwarmed",
-        "url": "https://open.spotify.com/album/59VwIN9sQruODzORauynKX"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 178417,
-      "name": "Sunwarmed",
-      "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "Collateral",
         "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 179188,
       "name": "Collateral",
       "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "Sunwarmed",
+        "url": "https://open.spotify.com/album/59VwIN9sQruODzORauynKX"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 178417,
+      "name": "Sunwarmed",
+      "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
     },
     {
       "added_at": "2025-02-26 18:07:03",

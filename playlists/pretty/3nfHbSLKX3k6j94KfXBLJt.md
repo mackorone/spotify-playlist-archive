@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3nfHbSLKX3k6j94KfXBLJt.md) - [plain]
 
 > 
 
-[Learke](https://open.spotify.com/user/thelostskies) - 0 like - 14 songs - 59 min 22 sec
+[Learke](https://open.spotify.com/user/thelostskies) - 0 likes - 14 songs - 59 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

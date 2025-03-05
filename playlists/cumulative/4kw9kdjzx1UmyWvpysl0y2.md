@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-929 songs - 2 day 4 hr 36 min
+930 songs - 2 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,6 +801,7 @@
 | [The Beginning](https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Beginning](https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5) | 4:11 | 2024-06-26 | 2024-09-20 |
 | [The Dark](https://open.spotify.com/track/3mE2sIa33kLQtTcSTWrylq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Crimson Child](https://open.spotify.com/artist/3HfDytr1a4fQhrC2J29K6v) | [The Dark](https://open.spotify.com/album/60XUyh545wo0P4HHuVQPsI) | 3:48 | 2023-01-26 | 2023-04-13 |
 | [The Dead March](https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [The Dead March](https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU) | 2:42 | 2022-10-06 | 2022-12-07 |
+| [The Echoes](https://open.spotify.com/track/586dTNuHAqUlNV3Y1UMgV0) | [Mark Novas](https://open.spotify.com/artist/2iRVKO828lhfFL0RGyS7Ya) | [The Echoes](https://open.spotify.com/album/4zuc562d2SdvSujmyiYBIY) | 3:06 | 2025-03-04 |  |
 | [The Epic Octopus Song](https://open.spotify.com/track/5l3InJmd0xxUvyj1eBb1d1) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Dani Demand](https://open.spotify.com/artist/4AUz9m5EecusjVSBw0FylH) | [The Epic Octopus Song](https://open.spotify.com/album/3VsNiMSWEAc2QkhJjigBSf) | 3:04 | 2024-01-15 | 2024-04-05 |
 | [The Intimate Space](https://open.spotify.com/track/1pJW9CkfDyV7wc1YJpK4g9) | [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [The Intimate Space](https://open.spotify.com/album/5AzkYIG5sDlEChKq7n93Kv) | 5:01 | 2022-04-29 | 2022-07-09 |
 | [The Journey](https://open.spotify.com/track/0WpZ2gPLOUju1uFFlJ2DIZ) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [The Journey](https://open.spotify.com/album/1HIBewAa9FHq2zZoZmmh3X) | 3:29 | 2023-11-07 | 2024-02-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,753 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,765 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 99 | [Insomnia](https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Insomnia](https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA) | 2:09 |
 | 100 | [Por ti](https://open.spotify.com/track/4q7qEtx8ZJ9wF4WJcCR3CP) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Por ti](https://open.spotify.com/album/7J48NdfyjSayVLgEWduCPa) | 3:16 |
 
-Snapshot ID: `Z6VUswAAAAAVsWEoocjB+McKBhikSHVx`
+Snapshot ID: `Z6VUswAAAABI3M72AHvqPrkdWS4IsmNH`

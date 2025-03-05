@@ -1,13 +1,61 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Mar 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Mar 23:03 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAP9RgmIwPMwn8b024of6KHy4EKmdbO",
+  "snapshot_id": "AAAP/M1CrC0Gns8Bql/w6GYcWQOLkWhM",
   "tracks": [
+    {
+      "added_at": "2025-03-04 14:03:39",
+      "album": {
+        "name": "High Horse",
+        "url": "https://open.spotify.com/album/5XkpNffqz7WdtM1RrAQOvo"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/2YUUYGB1kMtXKTQ6ajAjTA"
+    },
+    {
+      "added_at": "2025-03-04 23:03:41",
+      "album": {
+        "name": "Crystal Roses",
+        "url": "https://open.spotify.com/album/5I6pmP96LxAOc3fID57YcM"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Crystal Roses",
+      "url": "https://open.spotify.com/track/2MHH8AK3ulpPO2Ns6k1FVh"
+    },
+    {
+      "added_at": "2025-03-04 19:03:40",
+      "album": {
+        "name": "Gethsemane",
+        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 651992,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
+    },
     {
       "added_at": "2025-03-03 19:04:10",
       "album": {
@@ -55,6 +103,22 @@
       "duration_ms": 127500,
       "name": "Skullcrusher",
       "url": "https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm"
+    },
+    {
+      "added_at": "2025-03-04 14:03:39",
+      "album": {
+        "name": "Love You Anymore",
+        "url": "https://open.spotify.com/album/1mRD8ZpR4fADj5maAT30SN"
+      },
+      "artists": [
+        {
+          "name": "Mario Judah",
+          "url": "https://open.spotify.com/artist/5HFSWl4JPwju06kHxukvTe"
+        }
+      ],
+      "duration_ms": 101721,
+      "name": "Love You Anymore",
+      "url": "https://open.spotify.com/track/1ezILKXknpEmfXKB40wxBS"
     },
     {
       "added_at": "2025-03-01 04:03:01",
@@ -267,6 +331,22 @@
       "duration_ms": 181145,
       "name": "Planet Paparazzi",
       "url": "https://open.spotify.com/track/1QCOjJpLFGEirZMa75uUkc"
+    },
+    {
+      "added_at": "2025-03-04 19:03:40",
+      "album": {
+        "name": "Not At This Party",
+        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 212437,
+      "name": "Not At This Party",
+      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
     },
     {
       "added_at": "2025-02-28 23:03:25",
@@ -613,6 +693,22 @@
       "url": "https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn"
     },
     {
+      "added_at": "2025-03-04 19:03:40",
+      "album": {
+        "name": "Have U Ever Been 2 Wales",
+        "url": "https://open.spotify.com/album/1pLlzdoCkKU0s9dKhp45DO"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "duration_ms": 193210,
+      "name": "Have U Ever Been 2 Wales",
+      "url": "https://open.spotify.com/track/1tWMnHCVdb6YyrXRlpCmms"
+    },
+    {
       "added_at": "2025-02-27 14:03:28",
       "album": {
         "name": "Zig Zag",
@@ -735,102 +831,6 @@
       "duration_ms": 292629,
       "name": "Reunion",
       "url": "https://open.spotify.com/track/5QX1eYqwtdVl7VrSapQvcm"
-    },
-    {
-      "added_at": "2025-02-25 23:03:28",
-      "album": {
-        "name": "Ms. Whitman",
-        "url": "https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw"
-      },
-      "artists": [
-        {
-          "name": "Bhad Bhabie",
-          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
-        }
-      ],
-      "duration_ms": 126036,
-      "name": "Ms. Whitman",
-      "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"
-    },
-    {
-      "added_at": "2025-02-28 09:03:37",
-      "album": {
-        "name": "I Do!",
-        "url": "https://open.spotify.com/album/1kiLzbY58yuyi70tRKlgSA"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 85970,
-      "name": "I Do!",
-      "url": "https://open.spotify.com/track/31jRBx8v2a0wXpIhvC9lC1"
-    },
-    {
-      "added_at": "2025-02-25 09:03:49",
-      "album": {
-        "name": "I Am a Tower",
-        "url": "https://open.spotify.com/album/4mTnhQoQ9MlgCIbBAs6IdS"
-      },
-      "artists": [
-        {
-          "name": "Swans",
-          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
-        }
-      ],
-      "duration_ms": 1157567,
-      "name": "I Am a Tower",
-      "url": "https://open.spotify.com/track/4NOUvrwOInvcaDqq8RWGZm"
-    },
-    {
-      "added_at": "2025-02-25 14:03:42",
-      "album": {
-        "name": "Heathen",
-        "url": "https://open.spotify.com/album/2WmnLCVyKUvEGWRtrBuIsE"
-      },
-      "artists": [
-        {
-          "name": "Deafheaven",
-          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Heathen",
-      "url": "https://open.spotify.com/track/5uN7Ib0AHzxUwalc4fctfW"
-    },
-    {
-      "added_at": "2025-02-28 04:03:45",
-      "album": {
-        "name": "JanSport Backpack",
-        "url": "https://open.spotify.com/album/59a2oYuFwLZtKtRkhrUchN"
-      },
-      "artists": [
-        {
-          "name": "Sparks",
-          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
-        }
-      ],
-      "duration_ms": 253212,
-      "name": "JanSport Backpack",
-      "url": "https://open.spotify.com/track/6rmOE2BXaehqHO1FqP4ooW"
-    },
-    {
-      "added_at": "2025-02-26 19:03:28",
-      "album": {
-        "name": "God Complex",
-        "url": "https://open.spotify.com/album/3uYcGEKaKcofblWnPWz25N"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "God Complex",
-      "url": "https://open.spotify.com/track/1JearbDMqLCkKDBBxUGw5p"
     }
   ],
   "unique_name": "New Singles Now",

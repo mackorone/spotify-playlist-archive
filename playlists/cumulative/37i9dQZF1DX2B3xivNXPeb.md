@@ -2,7 +2,7 @@
 
 ### [Your Kitchen Stereo](https://open.spotify.com/playlist/37i9dQZF1DX2B3xivNXPeb)
 
-> Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
+> Whether you're flipping pancakes or deep in meal prep, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
 520 songs - 1 day 6 hr 20 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6JPMYu8YxGHBQ2Qv52JRaj.md) - [plain]
 
 > Cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-[macindahaus](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 10 songs - 31 min 56 sec
+[macindahaus](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 likes - 10 songs - 31 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

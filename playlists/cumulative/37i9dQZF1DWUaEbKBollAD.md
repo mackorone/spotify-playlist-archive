@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-142 songs - 13 hr 35 min
+143 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Good Addiction](https://open.spotify.com/track/7kHeTnAysLdxiB5Gdy49k4) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [A Good Addiction](https://open.spotify.com/album/2iKVsICi1ltaRgP2yU8NI4) | 3:51 | 2024-10-25 | 2024-12-21 |
 | [Aleluya feat\. Mireia Clua](https://open.spotify.com/track/14NAojx9aX2o5bhQolJWJK) | [Lara Klart](https://open.spotify.com/artist/1Rhon5PriofaAjjCEGNrQ2), [Mireia Clua](https://open.spotify.com/artist/5mo4wph6i4YMt24jsH9yFj) | [Aleluya feat\. Mireia Clua](https://open.spotify.com/album/0w2i8JB5THzHPRQR0BhU1r) | 3:31 | 2024-03-22 | 2024-11-08 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2023-08-10 | 2024-03-22 |
+| [All One](https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Volcano On Mars](https://open.spotify.com/artist/4zQwbmuw1EcxLjA4ItvWk4) | [All One](https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g) | 3:43 | 2025-03-04 |  |
 | [Amphibian](https://open.spotify.com/track/41Suz8eMIQXvKdOtkeBYEU) | [Kovert](https://open.spotify.com/artist/5W1dJUVVvOxkYp7r6Z86Bk) | [Emerge](https://open.spotify.com/album/5hZsoDf7rizzN6AqU3qYIZ) | 6:58 | 2023-08-10 | 2025-01-11 |
 | [Arbor](https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Arbor](https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C) | 2:35 | 2025-01-10 |  |
 | [Astral](https://open.spotify.com/track/0q1pqbC1RDYWmYIXRdcOAx) | [Far Distance](https://open.spotify.com/artist/2YWhjb3uXjX0wWO4WwczYz) | [Change the World](https://open.spotify.com/album/3Kt1EVddPrTOOaqJcPwce1) | 6:46 | 2023-10-13 | 2023-11-07 |
@@ -85,7 +86,7 @@
 | [Masâr](https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 4:56 | 2024-10-01 |  |
 | [Mitsno Stoyaty](https://open.spotify.com/track/40gYiwafL92KAXN0Jv1t29) | [DeVante](https://open.spotify.com/artist/25rT8k7V7EwL1k5e5fqC4x) | [Mitsno Stoyaty](https://open.spotify.com/album/3TQ5sd1tepBJIx0V1XJkAz) | 6:34 | 2023-08-10 | 2024-03-22 |
 | [Moon Fever](https://open.spotify.com/track/3mKB8BUg6JIXlNChQXQQNR) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Le voyage dans la lune](https://open.spotify.com/album/0dvlmNvi7bwLGzO2SG4KAa) | 3:34 | 2024-08-14 | 2024-10-02 |
-| [My Power](https://open.spotify.com/track/3sGXJEDGyF7wX12pnzdj3B) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Rage is a Feeling](https://open.spotify.com/album/34bFzGOCPM7imxPvuv7Gdi) | 3:37 | 2024-12-20 |  |
+| [My Power](https://open.spotify.com/track/3sGXJEDGyF7wX12pnzdj3B) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Rage is a Feeling](https://open.spotify.com/album/34bFzGOCPM7imxPvuv7Gdi) | 3:37 | 2024-12-20 | 2025-03-05 |
 | [Na Le \- Phaxe Remix](https://open.spotify.com/track/2TbB5iWJtLRCP7xIy8Zh5E) | [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN) | [Na Le \(Phaxe Remix\)](https://open.spotify.com/album/6caV8eLYgWB5g93DNeZXvE) | 6:58 | 2024-11-08 |  |
 | [Nietzsche](https://open.spotify.com/track/5vb1o2TR7sGcarzohjlgh6) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Nietzsche](https://open.spotify.com/album/6IuP9ZeyWCa27oR6PEv8TM) | 3:54 | 2024-10-01 | 2024-11-29 |
 | [No One Takes Me Down \- Original Mix](https://open.spotify.com/track/1z1fjczM3nuXLBdJHt3WVp) | [Bentech](https://open.spotify.com/artist/4tMLkoMpWu60qPkLybmNxu), [SIS](https://open.spotify.com/artist/6SsmtVchggKSXCMt6UZjlj) | [No One Takes Me Down](https://open.spotify.com/album/1nvVBiIJJEp2fvfx78kdEK) | 8:04 | 2023-09-06 |  |

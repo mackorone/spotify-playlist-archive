@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-421 songs - 20 hr 4 min
+422 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Good Things Happen](https://open.spotify.com/track/2GwRZI8nIoVFCAIsf3qaUu) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Aaron Wood](https://open.spotify.com/artist/1ezDfTAgyNgHfoZNRaEEls) | [Good Things Happen](https://open.spotify.com/album/58xqkw3fRhOKsO9f7lDXtY) | 2:49 | 2024-09-06 | 2024-11-17 |
 | [Great Void](https://open.spotify.com/track/0JDeLjaHDaXT3SR9SjrNCt) | [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg) | [Great Void](https://open.spotify.com/album/2oKyOFhX6bkJsKy7xW6rX9) | 2:40 | 2025-01-10 |  |
 | [Grey Sky](https://open.spotify.com/track/2AEhxIKFfvjxk1NTMP1bR0) | [Mjølnir](https://open.spotify.com/artist/0oXIq7U8lZeSOpBXt2EFfQ), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Grey Sky](https://open.spotify.com/album/5tnq2hprFcEZn5oOEvqW9P) | 2:04 | 2025-02-14 | 2025-03-02 |
+| [Growing Season](https://open.spotify.com/track/21qtuIFQb8HQg0aYNNhvFa) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Growing Season](https://open.spotify.com/album/4awunKCrufzXXpOwfXnxs1) | 2:51 | 2025-03-03 |  |
 | [Half Drunk](https://open.spotify.com/track/09TZnkjjydQH8eTmbhYVAS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Half Drunk](https://open.spotify.com/album/6k7AaUKAZ67FSDgThrteq0) | 2:14 | 2024-08-23 | 2024-08-28 |
 | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/album/3d18VTjVy0M7B5VBZg4TuY) | 4:10 | 2023-11-10 | 2024-08-31 |
 | [Hejdå Kalvsnäs](https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp) | [Ivan Blomqvist](https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm) | [Bror](https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9) | 6:59 | 2023-08-22 | 2024-10-03 |
@@ -204,7 +205,7 @@
 | [Le club](https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Le club](https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz) | 3:10 | 2023-08-22 |  |
 | [Le Lac \- FloFilz Reprise](https://open.spotify.com/track/0AsQKm30IMWGJYM0tnwIFS) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Le Lac](https://open.spotify.com/album/1pdGiwyyYUdjCbioTmLpPu) | 2:14 | 2024-08-30 |  |
 | [Leaps](https://open.spotify.com/track/3bxZIUMlrmLSioqX1v9axz) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Leaps](https://open.spotify.com/album/7CRft6GwpPJCa81VXeCONB) | 1:37 | 2024-09-27 |  |
-| [Leaving](https://open.spotify.com/track/6MO5Vy9rYdsfPCgHCkm2RP) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Leaving](https://open.spotify.com/album/5UoCdteWN3bZreMu1JEYQZ) | 2:09 | 2024-10-25 |  |
+| [Leaving](https://open.spotify.com/track/6MO5Vy9rYdsfPCgHCkm2RP) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Leaving](https://open.spotify.com/album/5UoCdteWN3bZreMu1JEYQZ) | 2:09 | 2024-10-25 | 2025-03-05 |
 | [Legacy](https://open.spotify.com/track/3vjocFB78Hp6WttnDBLwNw) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Legacy](https://open.spotify.com/album/34kmPC3t0B5zHY4WZhEZ2p) | 1:56 | 2024-08-23 |  |
 | [Lemon Juice](https://open.spotify.com/track/6ZjBdGWTRJS0JIO0ZodgDx) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z) | [Lemon Juice](https://open.spotify.com/album/2rbkyy8vUaKvjFo86vFzit) | 1:56 | 2025-02-21 |  |
 | [Les amis](https://open.spotify.com/track/45RCxpqeO3UZ7OqF0ssWYJ) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Les amis](https://open.spotify.com/album/7kSUMlTFtg8OVUzpLnyW0G) | 3:04 | 2024-08-30 | 2024-12-12 |

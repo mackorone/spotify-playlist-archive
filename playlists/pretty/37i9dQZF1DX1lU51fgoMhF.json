@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: KISS OF LIFE)",
-  "num_followers": 238861,
+  "num_followers": 238909,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
+        "name": "Summer Magic - Summer Mini Album",
+        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
         "name": "Lips (Feat. GISELLE)",
         "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 182693,
       "name": "Lips (Feat. GISELLE)",
       "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
-        "name": "Summer Magic - Summer Mini Album",
-        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Blue Lemonade",
-      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 204833,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
         "name": "SELF",
         "url": "https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 196866,
       "name": "Love & hate (Feat. BIBI)",
       "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
-        "name": "The Red Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 204833,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

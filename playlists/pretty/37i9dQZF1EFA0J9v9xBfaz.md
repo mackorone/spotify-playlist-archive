@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007 likes - 172 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009 likes - 172 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 140 | [Dios Te Guarde](https://open.spotify.com/track/2ct9MlcNGAnhH4VCV1A0WA) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 2:43 |
 | 141 | [te kiero ver](https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [te kiero ver](https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg) | 2:27 |
 | 142 | [Perdóname](https://open.spotify.com/track/24UXULlkYRgpgHjHfWqPO4) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:57 |
-| 143 | [Que Mas Pues, Miss Lonely, Solita \- Mashup Acústico En Vivo](https://open.spotify.com/track/2jVaEUx5OdgFWh4tu44TLb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Rich Music Sessions \(Acústico En Vivo\)](https://open.spotify.com/album/6jU5obP9snCcR57UjL9byA) | 8:16 |
-| 144 | [Tarde](https://open.spotify.com/track/3dVna6PoDxtd7QHtXpq2wX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 2:00 |
+| 143 | [Tarde](https://open.spotify.com/track/3dVna6PoDxtd7QHtXpq2wX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 2:00 |
+| 144 | [Que Mas Pues, Miss Lonely, Solita \- Mashup Acústico En Vivo](https://open.spotify.com/track/2jVaEUx5OdgFWh4tu44TLb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Rich Music Sessions \(Acústico En Vivo\)](https://open.spotify.com/album/6jU5obP9snCcR57UjL9byA) | 8:16 |
 | 145 | [Pa Mi, Cuaderno, Que Mas Pues \- Mashup Acústico En Vivo](https://open.spotify.com/track/4p5DiMR3e19NwgC13e6c3s) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Rich Music Sessions \(Acústico En Vivo\)](https://open.spotify.com/album/6jU5obP9snCcR57UjL9byA) | 6:34 |
 | 146 | [Champagne](https://open.spotify.com/track/76mejIXXyEr7Q19iE8YvJS) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:10 |
 | 147 | [Gafas Pal Sol](https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:42 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 171 | [Interludio](https://open.spotify.com/track/6I2aC9x6YVtBh07da38dbN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 0:48 |
 | 172 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `AbrGHgAAAADR3cgc9iKRdzqwT0xAjCr4`
+Snapshot ID: `AbrLoAAAAAD5GEFLcgNF3mmARDEMrO2w`

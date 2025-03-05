@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1FoQEkZ5w2uIax.md) - [plain]
 
 > The songs you played most in 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

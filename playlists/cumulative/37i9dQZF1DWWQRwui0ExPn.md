@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,244 songs - 11 day 10 hr 26 min
+7,245 songs - 11 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [4 Da Soul](https://open.spotify.com/track/6sZ2gVfJjgTCq5exxWtMEX) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [4 Da Soul](https://open.spotify.com/album/2XNe68z8t6HIC190bioQvZ) | 2:30 | 2022-11-18 | 2022-12-14 |
 | [4:20 PM](https://open.spotify.com/track/4G2WtXPgkDl0dnwzoBbBSj) | [Bluedoom](https://open.spotify.com/artist/1gFvHTW6FSJiw4FQ355I4K) | [4:20 PM](https://open.spotify.com/album/6haq5A6RlJsbKzRC9LtvIU) | 1:39 | 2019-05-26\* | 2020-10-21 |
 | [4AM](https://open.spotify.com/track/7H2dYM4aXTgYUv7xUMk2aN) | [Zesik](https://open.spotify.com/artist/1xNBQYNORzAxrGs8bQEX4I) | [4AM](https://open.spotify.com/album/2KS9ys7fkmoJBfnt3BNhTa) | 1:51 | 2024-02-02 |  |
+| [5.50 Am](https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [5.50 Am](https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r) | 2:02 | 2025-02-28 |  |
 | [500 Days](https://open.spotify.com/track/6dGlOWujimKfDnSebHAaev) | [Dokkodo Sounds](https://open.spotify.com/artist/2mNcyUGwbsOjIkhzMv7aHo), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Last Summer : MMXXI : Anthology](https://open.spotify.com/album/6EPtBH3Tw1s4zB837JVYsN) | 2:52 | 2021-07-29 | 2022-03-12 |
 | [52nd Street](https://open.spotify.com/track/2ZLANol0ohgKHGcVfWTh7J) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [52nd Street](https://open.spotify.com/album/62MH89O8iCH7i4T4CqLB2G) | 1:28 | 2022-01-14 | 2022-07-08 |
 | [5:32pm](https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz) | 2:16 | 2019-06-25 | 2020-03-12 |
@@ -895,7 +896,7 @@
 | [Bumblebee](https://open.spotify.com/track/3cCwGyUcO1N6L9kA02gwr9) | [CARLO](https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0) | [Bumblebee](https://open.spotify.com/album/06GUdXrUCfRVkh7brIqFTC) | 2:27 | 2023-01-20 | 2023-03-14 |
 | [Bumblebee](https://open.spotify.com/track/0aZefCIdkcv9o25PEPpUbC) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Bumblebee](https://open.spotify.com/album/3mZQtHPQiIzzfqN16pSbLD) | 2:10 | 2022-09-16 | 2022-12-16 |
 | [Bump in the Night](https://open.spotify.com/track/5Vv6IXVTsKeewMT3hQRt75) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Paleni](https://open.spotify.com/artist/1jXT1b0mGSoneZuX4AHSqa) | [Bump in the Night](https://open.spotify.com/album/6LkjTsdAt4LKsNZj7eaaIA) | 2:20 | 2024-04-26 |  |
-| [bumpy](https://open.spotify.com/track/62KKKPrnZ0h6kSTPdvtUEU) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [bumpy](https://open.spotify.com/album/43JpBo7V2RAgAiLgPVRXvH) | 2:59 | 2024-01-12 |  |
+| [bumpy](https://open.spotify.com/track/62KKKPrnZ0h6kSTPdvtUEU) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [bumpy](https://open.spotify.com/album/43JpBo7V2RAgAiLgPVRXvH) | 2:59 | 2024-01-12 | 2025-03-05 |
 | [Bunaa](https://open.spotify.com/track/2YbnJSIR3AquFKjQEAxkZ6) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Bunaa](https://open.spotify.com/album/3viwUAMJL5OxYW3y5D0mOw) | 2:18 | 2023-10-20 | 2024-01-12 |
 | [Buoyant](https://open.spotify.com/track/0qgrapBbyeoDtHhsuWEC0N) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Buoyant](https://open.spotify.com/album/5bob9pHXLXlVzAQFsbqfPr) | 1:44 | 2022-08-19 | 2022-11-25 |
 | [Burnout](https://open.spotify.com/track/2tgchfypQYcWLMZkfScGOH) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2) | [Burnout](https://open.spotify.com/album/0N9rLY9vRlx05xAqSEh0XM) | 2:06 | 2023-12-15 |  |
@@ -3678,7 +3679,7 @@
 | [Lost Sight](https://open.spotify.com/track/6k5vU6ZpYLoH1eyMrTVmTH) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [Bedtime Stories II](https://open.spotify.com/album/55UHz47shBHtfGDB29Nxfx) | 2:58 | 2021-04-17 | 2022-01-14 |
 | [Lost South](https://open.spotify.com/track/2HXuY0auvAFIBqQX5lwV05) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Lost South](https://open.spotify.com/album/5jvSfVd4lV2z7SHOA6uGgD) | 1:42 | 2022-08-19 | 2022-11-25 |
 | [Lost Town](https://open.spotify.com/track/4NINP7JqSvbY7nW0d9uMK0) | [MON MON](https://open.spotify.com/artist/3GdKUo22eKb2wAB7oEcfp3) | [Reflections](https://open.spotify.com/album/6q2bkE1tZkgBOBXurvqfda) | 1:44 | 2020-10-16 | 2021-10-20 |
-| [Lost Track](https://open.spotify.com/track/3y3EGDwhprjjVR8IJCHaOh) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Lost Track](https://open.spotify.com/album/5gI2rr4jipgdd1l63lLJ4p) | 1:38 | 2023-10-06 | 2025-02-22 |
+| [Lost Track](https://open.spotify.com/track/3y3EGDwhprjjVR8IJCHaOh) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Lost Track](https://open.spotify.com/album/5gI2rr4jipgdd1l63lLJ4p) | 1:38 | 2023-10-06 |  |
 | [Lost Without You](https://open.spotify.com/track/1AqN43ZIZzz74aAtnsovZ1) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Lost Without You](https://open.spotify.com/album/34dYkYAHSlwZg94wg8UE90) | 2:38 | 2023-11-10 |  |
 | [lostonbrick](https://open.spotify.com/track/4yiteviu6ykAfAN7AspXCE) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [lostonbrick](https://open.spotify.com/album/0dS1PtAgPFSiuUhs9o9GNs) | 2:00 | 2022-09-23 | 2023-07-07 |
 | [Loto](https://open.spotify.com/track/2i52hcNgy0k0pPNyEWw7ub) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Loto](https://open.spotify.com/album/6tHuu1rHSEc7VyeUX1xLp2) | 1:33 | 2020-05-15 | 2021-10-02 |
@@ -4738,7 +4739,7 @@
 | [Parallels](https://open.spotify.com/track/49RJMiPukpB2hPrW0H4z2s) | [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Parallels](https://open.spotify.com/album/09nnMSw2kSm9iPYCFTd6Th) | 2:13 | 2022-02-25 | 2022-07-29 |
 | [Paramount Hearts](https://open.spotify.com/track/2y6cKJ36yyMTQADw7ayFlV) | [Cloud EO](https://open.spotify.com/artist/5KxxMuTdkoij6TXvTep7IU) | [Paramount Hearts](https://open.spotify.com/album/65nlCP4SioUEDfap0JZdem) | 2:11 | 2022-01-14 | 2024-09-17 |
 | [Parasite](https://open.spotify.com/track/0kou8x9zXPFMLpKm6cIwiC) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Parasite](https://open.spotify.com/album/0YilnGbilZNQBSCu5cHfKh) | 1:57 | 2021-08-11 | 2022-03-12 |
-| [Parga](https://open.spotify.com/track/3APFh2aqeOR1XlDj6iCwl1) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Parga](https://open.spotify.com/album/0tQ4NF1XhOgjTfYmPXEHCB) | 2:20 | 2024-07-19 |  |
+| [Parga](https://open.spotify.com/track/3APFh2aqeOR1XlDj6iCwl1) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Parga](https://open.spotify.com/album/0tQ4NF1XhOgjTfYmPXEHCB) | 2:20 | 2024-07-19 | 2025-03-05 |
 | [Paris Dinner](https://open.spotify.com/track/6HfofkclnBlWbM6aofZfWg) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Paris Dinner](https://open.spotify.com/album/0orL1Npoi60IYJ5aV4SPdv) | 1:55 | 2022-09-23 | 2023-01-13 |
 | [park bench](https://open.spotify.com/track/4FRi8eSX82UgnI7xTxiwYY) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [park bench](https://open.spotify.com/album/6EjwwzBQY1x2DJMNuPUQrg) | 2:00 | 2022-09-09 | 2022-12-09 |
 | [park closes at dusk](https://open.spotify.com/track/0evtSx7sSEe2sGtEJ6JGry) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB), [Fushou.](https://open.spotify.com/artist/4uLIV8urPYao5BLHyweFkk) | [High Noon](https://open.spotify.com/album/00g2AfSItbeFlzMROqQwSt) | 2:00 | 2019-06-12 | 2019-06-23 |

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Naomi
 
-3,144 songs - 6 day 22 hr 50 min
+3,145 songs - 6 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [Brrr \(feat\. Alonzo & ElGrandeToto\)](https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Brrr \(feat\. Alonzo & ElGrandeToto\)](https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s) | 2:10 | 2025-01-10 |  |
 | [Bruits blancs](https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Bruits blancs](https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j) | 3:06 | 2022-09-23 | 2022-10-08 |
 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 | 2022-02-04 | 2022-02-19 |
-| [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 | 2025-02-14 |  |
+| [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 | 2025-02-14 | 2025-03-05 |
 | [Bulletproof](https://open.spotify.com/track/7bHdCsoQTOn7Hd5r5wKTKm) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Brasco](https://open.spotify.com/artist/3tKR0XXN0pW0Kl7UDAVSHL), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Bulletproof](https://open.spotify.com/album/0aDr8UBbaSXDFziZvCrRpo) | 5:04 | 2022-12-16 | 2023-01-21 |
 | [Bulletproof](https://open.spotify.com/track/7zjnbWmrYenEq0RH00JDeU) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Bulletproof](https://open.spotify.com/album/6At8VogWxotaF0CEc9hHX4) | 3:19 | 2023-01-27 | 2023-02-11 |
 | [Burbur](https://open.spotify.com/track/5enoxGPrGxhYR0hQPbYb6U) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mourir en Essayant](https://open.spotify.com/album/14SrZvsojiHw4cod9OPXOu) | 3:40 | 2022-02-18 | 2022-03-05 |
@@ -2186,6 +2186,7 @@
 | [Peon \(feat\. Orelsan\)](https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:47 | 2022-02-04 | 2022-02-19 |
 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2023-09-08 | 2023-09-11 |
 | [Perdue dans la foule](https://open.spotify.com/track/0Lu8eM6yx3iiRd5a7qV2gP) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Perdue dans la foule](https://open.spotify.com/album/6ktUPQ7XXzXTWQBMUTZZAk) | 2:33 | 2023-02-10 | 2023-02-25 |
+| [PERFORMANTE](https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [KINTSUGI](https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf) | 3:26 | 2025-02-28 |  |
 | [perle plastique](https://open.spotify.com/track/293V1HZmxKGCyWu5Q6FMp1) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [perle plastique / amour aride](https://open.spotify.com/album/45fee7P68vLtss76aGZs26) | 3:59 | 2022-06-03 | 2022-06-11 |
 | [Perle rare](https://open.spotify.com/track/63RzvenZVE11IS6QgWsPsu) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Perle rare](https://open.spotify.com/album/69RfAUegsjyeigGtzkLI1F) | 2:47 | 2024-09-06 | 2024-09-14 |
 | [Perso](https://open.spotify.com/track/7E1R1yKPZAcstBHIgNjA4t) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Perso](https://open.spotify.com/album/2QD50nmvWfLINlgTy5Vnij) | 3:00 | 2022-06-03 | 2022-06-11 |

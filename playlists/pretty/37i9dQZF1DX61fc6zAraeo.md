@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,020 likes - 90 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,062 likes - 90 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 48 | [Fable](https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Fable](https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk) | 2:45 |
 | 49 | [Don't Fall For Me](https://open.spotify.com/track/0MYnMotI9017FjYVszNswj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A) | [Don't Fall For Me](https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ) | 2:54 |
 | 50 | [Lifted](https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Lifted](https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF) | 2:39 |
-| 51 | [Lost My Way](https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Lost My Way](https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX) | 2:22 |
-| 52 | [Pegasus](https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [PEGASUS](https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1) | 3:00 |
+| 51 | [Pegasus](https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [PEGASUS](https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1) | 3:00 |
+| 52 | [Lost My Way](https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Lost My Way](https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX) | 2:22 |
 | 53 | [Elektro](https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Elektro](https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq) | 2:40 |
 | 54 | [What You Need](https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [What You Need](https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob) | 3:38 |
 | 55 | [Cumbia Buena](https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Cumbia Buena](https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM) | 2:29 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 73 | [Guiding Light](https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Guiding Light](https://open.spotify.com/album/58sgLN9OAebaaf0J1ntW8E) | 2:43 |
 | 74 | [Combo](https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Combo](https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn) | 2:41 |
 | 75 | [Out Of The Dark](https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Out Of The Dark](https://open.spotify.com/album/5MkfidCcFwwTDaZ0qVqsf8) | 3:19 |
-| 76 | [A2](https://open.spotify.com/track/3tEiz9H5kUnu6dNfsuZSeR) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [A2](https://open.spotify.com/album/6SZRUIf1d6HUVaDWsCsWCP) | 2:27 |
-| 77 | [Supersonic](https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Supersonic](https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS) | 2:40 |
+| 76 | [Supersonic](https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Supersonic](https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS) | 2:40 |
+| 77 | [A2](https://open.spotify.com/track/3tEiz9H5kUnu6dNfsuZSeR) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [A2](https://open.spotify.com/album/6SZRUIf1d6HUVaDWsCsWCP) | 2:27 |
 | 78 | [Dizzy](https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [LOUII LANE](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [Dizzy](https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk) | 2:27 |
 | 79 | [Can't Talk Right Now](https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Can't Talk Right Now](https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ) | 3:19 |
 | 80 | [Like Thunder](https://open.spotify.com/track/4iXvR6yFywrVJ7LuD4dy71) | [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Nøway](https://open.spotify.com/artist/2DOYVHP5s55Muqsv0TyFyU), [Calumny](https://open.spotify.com/artist/1VzCGzFPj5ZToYK3QmpD8R) | [Like Thunder](https://open.spotify.com/album/18zUdfT1bfo8ndN0upWRsO) | 2:21 |

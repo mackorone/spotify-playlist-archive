@@ -4,7 +4,7 @@
 
 > Celebrate Ramadan with these songs.
 
-56 songs - 3 hr 22 min
+57 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,11 @@
 | [Helal Ramadan](https://open.spotify.com/track/28cqWwnDSwU33ABsQfRECV) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Ella Rasoul Allah](https://open.spotify.com/album/1U4woXAO88TTZKflbtfCtP) | 2:28 | 2024-03-12 |  |
 | [Lak Shoe Ya Ramadan](https://open.spotify.com/track/41dQhPE2feBfpOI6wOzymF) | [Mohamed Rahim](https://open.spotify.com/artist/2PlOBU4hLGbVxIGOtDOeEi) | [Ramadan Kareem \(Islamic Chants\)](https://open.spotify.com/album/1daQg1TlGm0AMTSc4GC17c) | 1:15 | 2024-03-12 |  |
 | [Loyalty](https://open.spotify.com/track/4osxbPfS8JPsD0AyXfx6hM) | [Muhammad Al Muqit](https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05) | [Anasheeds, Vol\. 2](https://open.spotify.com/album/0DciSunEMGaYZn8rxY1o84) | 3:36 | 2024-03-12 |  |
-| [Madfaa Ramdan](https://open.spotify.com/track/20LYtI1r0wElZ99pepNMHy) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Madfaa Ramdan](https://open.spotify.com/album/48lCWTSNxi1v4Pz6Z0kDE3) | 1:40 | 2025-01-28 |  |
+| [Madfaa Ramdan](https://open.spotify.com/track/20LYtI1r0wElZ99pepNMHy) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Madfaa Ramdan](https://open.spotify.com/album/48lCWTSNxi1v4Pz6Z0kDE3) | 1:40 | 2025-01-28 | 2025-03-05 |
 | [Marhab Ramadan](https://open.spotify.com/track/4xsEFXIGJN0dB5KWkkXKBP) | [Mahmoud Helal](https://open.spotify.com/artist/1tYUfln3Asufbuh3dCrIDE) | [Marhab Ramadan](https://open.spotify.com/album/347O47ySXVIo6F60UHxmkO) | 3:25 | 2024-03-12 |  |
 | [Marhab Ya Hilal](https://open.spotify.com/track/5ME7NiysXCzVFuX4mcYHI8) | [Alma](https://open.spotify.com/artist/4jfbsn6PnS2LkLK4e9qj1d) | [Marhab Ya Hilal](https://open.spotify.com/album/0LcVPX9tVGJWEH3Z9AN329) | 3:15 | 2024-03-12 |  |
 | [Marhab Ya Hilal \| مرحب يا هلال](https://open.spotify.com/track/48jajYPMvqJUOypSQy5cd6) | [Ali Roshdii](https://open.spotify.com/artist/62HWE4FUuZ0yTxoKmpqHDB) | [Ramadan \| رمضان](https://open.spotify.com/album/46qag6Nj1bHRv2WZCt2mEU) | 1:29 | 2024-03-12 |  |
+| [Marhaban Ya Ramadan](https://open.spotify.com/track/7bLg9Fj6fjTE3H4sVkRplr) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Marhaban Ya Ramadan](https://open.spotify.com/album/78GvzQiuA91mHQNEoBwLPo) | 2:43 | 2025-03-04 |  |
 | [Ramadan](https://open.spotify.com/track/0631T6O8VQii5psaecBwdD) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Ramadan](https://open.spotify.com/album/0AkKexwWASDXVYZEgrJtOr) | 3:53 | 2024-03-12 |  |
 | [Ramadan](https://open.spotify.com/track/2xvkYM2tGvWGokviBGG4PJ) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ramadan](https://open.spotify.com/album/4arEPsmYRq7TthYzMo8kbQ) | 3:16 | 2024-03-12 |  |
 | [Ramadan](https://open.spotify.com/track/0K4qGuQZBDw31RhC5AMLyq) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Ramadan](https://open.spotify.com/album/6nzjASwcyHuqrk8QA4gkJw) | 3:01 | 2024-03-12 |  |

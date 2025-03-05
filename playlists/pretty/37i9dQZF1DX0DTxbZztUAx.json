@@ -1,13 +1,29 @@
 {
   "description": "Survival takes everything. Listen to the music from Beauty in Black, now streaming on Netflix. ",
-  "num_followers": 10252,
+  "num_followers": 10262,
   "original_name": "Tyler Perry's Beauty in Black Official Playlist ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aa1wAAAADXDsf6VdejepjE8rxf2dIW",
+  "snapshot_id": "Z8azEQAAAADFsYIf2PEwnX66QWjQPCrR",
   "tracks": [
+    {
+      "added_at": "2025-03-04 08:00:17",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/1MseTwoK0MEOR5KmYDv83Y"
+      },
+      "artists": [
+        {
+          "name": "Loretta Mars",
+          "url": "https://open.spotify.com/artist/5LvcP7kPiuAr2WHo6VfdsP"
+        }
+      ],
+      "duration_ms": 151905,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0kctcG2sYodFwrwnF43C1x"
+    },
     {
       "added_at": "2024-10-24 07:00:00",
       "album": {

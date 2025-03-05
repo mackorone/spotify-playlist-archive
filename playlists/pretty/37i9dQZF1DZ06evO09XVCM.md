@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,988 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,990 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [the only](https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [the only](https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9) | 4:05 |
 | 50 | [Express Yourself \(Amplified Mix\)](https://open.spotify.com/track/5onx5emgJUwxgJ9Osoywzq) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Frank Fitzpatrick](https://open.spotify.com/artist/6xnvYc9KEUaCsJQhX5oiJz), [Eeday](https://open.spotify.com/artist/0VHM0UdeTigh5S74sgtNoB) | [SOUL VISION](https://open.spotify.com/album/1BWLKNP3j1XqLv4avK874f) | 4:14 |
 
-Snapshot ID: `Z8OfgAAAAAA5LSSPHYYg+jxqznJSmgzw`
+Snapshot ID: `Z8TxAAAAAAAXSoS2Qt2E3oqiAWbm7hyR`

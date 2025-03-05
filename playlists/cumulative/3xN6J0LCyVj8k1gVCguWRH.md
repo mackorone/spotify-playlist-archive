@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,577 songs - 10 day 16 hr 34 min
+4,578 songs - 10 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1201,6 +1201,7 @@
 | [Emergency Contact](https://open.spotify.com/track/2m7w9QvLoyudSX08ySHtRN) | [B.Miles](https://open.spotify.com/artist/3rB3PZ6d1hAkNFD4PhLgQk) | [Emergency Contact](https://open.spotify.com/album/6eVXEiYBnwrQNoKlpZs5qE) | 3:53 | 2024-10-04 | 2024-10-16 |
 | [Emotions](https://open.spotify.com/track/1m0kk77KZs7cW2sREM8m0F) | [ISAAC LEE](https://open.spotify.com/artist/4Gho39KUTLWnxRhQQ3tbvS), [Cody Ray Lee](https://open.spotify.com/artist/6zvmTQ4CqiZSfEQj97yPjh) | [Emotions](https://open.spotify.com/album/6RH13oWaTLReOm5dWiWvd4) | 2:21 | 2022-09-09 | 2022-09-25 |
 | [Emotions Have Color](https://open.spotify.com/track/7CAWKlaQNtVG0UEuvqpkiS) | [T Street Zoo](https://open.spotify.com/artist/1SjOYm8QAWInkKgzhyLRc4), [Zoe Zehren](https://open.spotify.com/artist/2mei6T2naE6gzw84SGdauC), [Joseph Quinn](https://open.spotify.com/artist/4Dq44dBQow9U8vPPkDNlxP) | [Emotions Have Color](https://open.spotify.com/album/2RfcQlrlD5vWSjfHQXh0fB) | 4:31 | 2024-07-11 | 2024-07-23 |
+| [Empty](https://open.spotify.com/track/6pHKGkzk38XzLFwBVpp38s) | [Andre Ruffin](https://open.spotify.com/artist/4Ldu96b8sAmZN1RQJqvOFv) | [Empty](https://open.spotify.com/album/1DqWdSp8j00lXHr2rnXM0F) | 4:53 | 2025-03-04 |  |
 | [Empty Picture Frame](https://open.spotify.com/track/02Y5bIU0kjusMnjPJdAC3s) | [Alan Kavalier](https://open.spotify.com/artist/6NuiXrBKhYJ7ndWVDGsmer) | [Empty Picture Frame](https://open.spotify.com/album/1JxvTMbMzSt8FxvjO1iniA) | 4:20 | 2021-12-31 | 2022-01-15 |
 | [En Canto](https://open.spotify.com/track/4u23INsuBOfxP4MIOwhWhQ) | [Adriana Rosso](https://open.spotify.com/artist/4XqGfKbpuFHhOo6HgSIziD) | [En Canto](https://open.spotify.com/album/6iauQrcWDHBHtpbSgpG2Yy) | 3:03 | 2023-01-06 | 2023-01-28 |
 | [End of Me](https://open.spotify.com/track/68ByRwEnwrBYyrLUJhncge) | [Chris Aguilar](https://open.spotify.com/artist/4wzQ9vuuFaWUEUqu2cAnDO) | [End of Me](https://open.spotify.com/album/6Tg1T2H6sLeV0X1KE2OsLU) | 3:57 | 2024-05-17 | 2024-05-29 |

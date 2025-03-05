@@ -310,10 +310,28 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 183530,
       "name": "COMPA BLADI - En Vivo",
       "url": "https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno"
+    },
+    {
+      "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183530,
+      "name": "COMPA BLADI - En Vivo",
+      "url": "https://open.spotify.com/track/17P1GVYuIElGQGZKbmr2nY"
     },
     {
       "album": {
@@ -768,7 +786,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 181386,
       "name": "El Operativo",
       "url": "https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 249346,
       "name": "La Canelera - En Vivo",
       "url": "https://open.spotify.com/track/08dFJtcFBMVs8EAyoIcSyR"
@@ -1595,6 +1613,28 @@
     },
     {
       "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los Kortez De Sinaloa",
+          "url": "https://open.spotify.com/artist/7EvFqmaY1UeFqI9ZM03HST"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166365,
+      "name": "MIENTRAS VIVA - En Vivo",
+      "url": "https://open.spotify.com/track/3K50Dqm0LzWQZKhpr4BovV"
+    },
+    {
+      "album": {
         "name": "MORENITA DE OJOS NEGROS (En Vivo)",
         "url": "https://open.spotify.com/album/0iBtSzfx0uSe7FUlFEAvfM"
       },
@@ -1944,7 +1984,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 194626,
       "name": "SALUDOS A MI VIEJ\u00d3N",
       "url": "https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR"

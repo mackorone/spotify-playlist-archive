@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 74656,
+  "num_followers": 74677,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -419,30 +419,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
-        "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Czech Philharmonic",
-          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
-        },
-        {
-          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
-          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
-        }
-      ],
-      "duration_ms": 435506,
-      "name": "8 Slavonic Dances, Op. 46, B.83: No. 4 in F Major (Tempo di minuetto)",
-      "url": "https://open.spotify.com/track/4mHBcmw0ZYMWk1Fq5l20vn"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Tchaikovsky: Serenade For Strings / Dvor\u00e1k: Serenade For Strings",
         "url": "https://open.spotify.com/album/2lf78D4V5E0khuU33D3qVZ"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 451000,
       "name": "Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse",
       "url": "https://open.spotify.com/track/4TaDgdR7HqfAlnBoRjoMYI"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
+        "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+        }
+      ],
+      "duration_ms": 435506,
+      "name": "8 Slavonic Dances, Op. 46, B.83: No. 4 in F Major (Tempo di minuetto)",
+      "url": "https://open.spotify.com/track/4mHBcmw0ZYMWk1Fq5l20vn"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
         }
       ],
-      "duration_ms": 760733,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: IV. Finale. Allegro molto",
-      "url": "https://open.spotify.com/track/6cEmZmkoooz48sBTBpKo4R"
+      "duration_ms": 492266,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
+      "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
         }
       ],
-      "duration_ms": 492266,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
-      "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
+      "duration_ms": 760733,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: IV. Finale. Allegro molto",
+      "url": "https://open.spotify.com/track/6cEmZmkoooz48sBTBpKo4R"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1027,6 +1027,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dvorak: The 9 Symphonies",
+        "url": "https://open.spotify.com/album/45AlGtE9Il2BmnisrbU1no"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        }
+      ],
+      "duration_ms": 668306,
+      "name": "Symphony No. 1 in C Minor, Op. 3, B. 9 - \"The Bells of Zlonice\": II. Adagio di molto",
+      "url": "https://open.spotify.com/track/6S5oOvLf2lTSjVq8Y0KVvD"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Dvor\u00e1k: Cello Concerto / Strauss, R.: Don Quixote",
         "url": "https://open.spotify.com/album/6kSudTkTbOY887IFxotGxT"
       },
@@ -1059,8 +1083,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: The 9 Symphonies",
-        "url": "https://open.spotify.com/album/45AlGtE9Il2BmnisrbU1no"
+        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
+        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
       },
       "artists": [
         {
@@ -1068,17 +1092,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         },
         {
-          "name": "Rafael Kubel\u00edk",
-          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
         }
       ],
-      "duration_ms": 668306,
-      "name": "Symphony No. 1 in C Minor, Op. 3, B. 9 - \"The Bells of Zlonice\": II. Adagio di molto",
-      "url": "https://open.spotify.com/track/6S5oOvLf2lTSjVq8Y0KVvD"
+      "duration_ms": 381786,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: III. Scherzo. Allegro feroce",
+      "url": "https://open.spotify.com/track/74iJOgBl4hfjC1eUnKNGCU"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1124,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
         }
       ],
-      "duration_ms": 381786,
-      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: III. Scherzo. Allegro feroce",
-      "url": "https://open.spotify.com/track/74iJOgBl4hfjC1eUnKNGCU"
+      "duration_ms": 587133,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: IV. Finale. Allegro con brio",
+      "url": "https://open.spotify.com/track/4aO0XveetjfaLtRIIcl56X"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1151,30 +1175,6 @@
       "duration_ms": 786906,
       "name": "Symphony No. 5 in F Major, Op. 76, B. 54: I. Allegro, ma non troppo",
       "url": "https://open.spotify.com/track/2wgN7raz83KbadDsl0JK9f"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
-        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Istv\u00e1n Kert\u00e9sz",
-          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
-        }
-      ],
-      "duration_ms": 587133,
-      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: IV. Finale. Allegro con brio",
-      "url": "https://open.spotify.com/track/4aO0XveetjfaLtRIIcl56X"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: Symphony No. 1 / A Hero's Song",
-        "url": "https://open.spotify.com/album/1JfNo32iFI3iHJ35SzW6bH"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        }
-      ],
-      "duration_ms": 1132920,
-      "name": "Symphony No. 1 in C Minor, B. 9, \"the Bells of Zlonice\": I. Allegro",
-      "url": "https://open.spotify.com/track/5yD9oHa7G9AxWDxiiylhnX"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
         "url": "https://open.spotify.com/album/72akndhhoVkQP0Osy59o3e"
       },
@@ -1415,30 +1391,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
-        "url": "https://open.spotify.com/album/1JMTUlVte2mMxZ8adiJfsf"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        }
-      ],
-      "duration_ms": 292826,
-      "name": "Festival March, Op. 54, B. 88: Festival March, B. 88, Op. 54",
-      "url": "https://open.spotify.com/track/7gKAIiUwA15DcZlAqbTGfE"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Symphony No. 2 - Legends Op. 59, Nos. 6-10",
         "url": "https://open.spotify.com/album/0E9fa2fcf5fuusQkKyNSic"
       },
@@ -1459,6 +1411,54 @@
       "duration_ms": 161000,
       "name": "10 Legends, Op. 59, B. 122: No. 9, Andante con moto",
       "url": "https://open.spotify.com/track/6vgV33AjnYMUfWdsDAZx4B"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: Symphony No. 1 / A Hero's Song",
+        "url": "https://open.spotify.com/album/1JfNo32iFI3iHJ35SzW6bH"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "duration_ms": 1132920,
+      "name": "Symphony No. 1 in C Minor, B. 9, \"the Bells of Zlonice\": I. Allegro",
+      "url": "https://open.spotify.com/track/5yD9oHa7G9AxWDxiiylhnX"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
+        "url": "https://open.spotify.com/album/1JMTUlVte2mMxZ8adiJfsf"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Festival March, Op. 54, B. 88: Festival March, B. 88, Op. 54",
+      "url": "https://open.spotify.com/track/7gKAIiUwA15DcZlAqbTGfE"
     },
     {
       "added_at": "2022-09-30 04:01:00",

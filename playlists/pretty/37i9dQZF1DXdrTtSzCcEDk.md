@@ -1,0 +1,45 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrTtSzCcEDk.md) - [plain](/playlists/plain/37i9dQZF1DXdrTtSzCcEDk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdrTtSzCcEDk)
+
+### [보물섬 \(Buried Hearts\)](https://open.spotify.com/playlist/37i9dQZF1DXdrTtSzCcEDk)
+
+> Listen to the soundtracks of Buried Hearts\. \(보물섬의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
+
+[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 33 songs - 1 hr 44 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Curated by Park Hyungsik](https://open.spotify.com/track/326rv8D7yDLuQ8mhD9MFbt) | [Buried Hearts](https://open.spotify.com/artist/4w3eOAw5hMfec69SdYJ8Kw) | [Buried Hearts Audio Liners](https://open.spotify.com/album/4Hd0zQ6HI3ZtRxj8TdbqHl) | 0:26 |
+| 2 | [We Are](https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [We Are](https://open.spotify.com/album/67d43ZuedVWtZMc4nOm90J) | 3:16 |
+| 3 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 |
+| 4 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 |
+| 5 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
+| 6 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/3IB5qOeMayvpOdHxYCL5tZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 4:06 |
+| 7 | [Shxtty Game](https://open.spotify.com/track/4UToDzb0OxKTPQNZt1aL4x) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:09 |
+| 8 | [let it be summer](https://open.spotify.com/track/6SFurcT8NOuglistyVb2F9) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Letters with notes](https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P) | 3:14 |
+| 9 | [Eye of the Typhoon](https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [thousand years](https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY) | 4:06 |
+| 10 | [Oort Cloud](https://open.spotify.com/track/7tOsgOjrzBVQqyaMDBlZV8) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album 'END THEORY'](https://open.spotify.com/album/7nzPuFSw98m1si3pqARggs) | 3:26 |
+| 11 | [Ashes](https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp) | [Stellar](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) | [Ashes](https://open.spotify.com/album/41gMZm0ib3Je8hU0eFNUwS) | 2:46 |
+| 12 | [Curated by Lee Hae Young](https://open.spotify.com/track/00LvCjP2ObMXWxIxPEhGU7) | [Buried Hearts](https://open.spotify.com/artist/4w3eOAw5hMfec69SdYJ8Kw) | [Buried Hearts Audio Liners](https://open.spotify.com/album/4Hd0zQ6HI3ZtRxj8TdbqHl) | 0:25 |
+| 13 | [Next Level](https://open.spotify.com/track/7ssJMybqD4c4dkpoU81mlZ) | [A$ton Wyld](https://open.spotify.com/artist/4MqATzsmSOuGh7de1Q4AzX) | [Fast & Furious Presents: Hobbs & Shaw \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) | 2:18 |
+| 14 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 |
+| 15 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
+| 16 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 |
+| 17 | [Wego Wego](https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Wego Wego \(Killer Peter X Xdinary Heroes\) \[Original Webtoon Soundtrack\]](https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264) | 3:08 |
+| 18 | [Teeth](https://open.spotify.com/track/3NxWJWftvkstyxvb1pZlFo) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:25 |
+| 19 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 |
+| 20 | [Dirty](https://open.spotify.com/track/3pShTDa5E1bPBkrc1mxxGY) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 3:28 |
+| 21 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 |
+| 22 | [질주 \(Main Title\)](https://open.spotify.com/track/2IfcPq2ioDQLUSy62fXneR) | [Insooni](https://open.spotify.com/artist/5jGYA5Yz8Tt8UFx5jbtxTy) | [천하일색박정금 \(Original Television Soundtrack\)](https://open.spotify.com/album/2bWcfSTXh7xx8SDHYcCqd8) | 3:47 |
+| 23 | [Curated by Hong Hwayeon](https://open.spotify.com/track/46G6LdRd32v8oZzrpaSt02) | [Buried Hearts](https://open.spotify.com/artist/4w3eOAw5hMfec69SdYJ8Kw) | [Buried Hearts Audio Liners](https://open.spotify.com/album/4Hd0zQ6HI3ZtRxj8TdbqHl) | 0:24 |
+| 24 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 |
+| 25 | [Secret Garden](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 |
+| 26 | [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 |
+| 27 | [you!](https://open.spotify.com/track/2VMhO32IsyhshnUoKhjCBE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy \(deluxe\)](https://open.spotify.com/album/6ZsCg58PZj6jFALfiB5ZtX) | 4:34 |
+| 28 | [Sandman](https://open.spotify.com/track/3Me33RhzAgPcS97lkhIT1u) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 2:55 |
+| 29 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
+| 30 | [She Chose Me](https://open.spotify.com/track/6PGaHXbIW1oFf1ER258tLi) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:19 |
+| 31 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
+| 32 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 |
+| 33 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 |
+
+Snapshot ID: `Z8bAEAAAAABbFRjZgs9fuGmPutcCzwED`

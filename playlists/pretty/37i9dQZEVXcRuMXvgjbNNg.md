@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 
 > Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Mountains](https://open.spotify.com/track/0gPQTl1trFa3HxmiIq6ogr) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr) | 3:55 |
 | 30 | [Are You Ready \(On Your Own\)](https://open.spotify.com/track/6J1YE3mpZzJ3CzZlvg80CG) | [Distant Cousins](https://open.spotify.com/artist/2K1qlqSkT0CWFKIr9EjDLb) | [Distant Cousins EP](https://open.spotify.com/album/1rbTHFuIqVhErByxyVawPr) | 3:27 |
 
-Snapshot ID: `Z8U3UAAAAADO+A4J47n4eL0W+MknwfaL`
+Snapshot ID: `Z8U3UAAAAAA4Tzi288KGz94qJmQPm2yu`

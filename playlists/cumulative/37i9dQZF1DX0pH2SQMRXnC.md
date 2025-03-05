@@ -2,7 +2,7 @@
 
 ### [Hardstyle Bangers](https://open.spotify.com/playlist/37i9dQZF1DX0pH2SQMRXnC)
 
-> Only the biggest Hardstyle tracks!
+> Only the BIGGEST Hardstyle bangers 💥
 
 863 songs - 2 day 0 hr 55 min
 

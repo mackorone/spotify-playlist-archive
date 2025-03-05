@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: Central Cee
+> The tracks you just keep pulling up\. Cover: Kendrick Lamar
 
 796 songs - 1 day 17 hr 11 min
 
@@ -26,7 +26,6 @@
 | [80 Proof](https://open.spotify.com/track/34XhfQkqHG9I6wkbjUGhyq) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [Cold World](https://open.spotify.com/album/4XHXoathCXjASrvQQJJkxp) | 2:46 | 2022-01-14 | 2022-04-21 |
 | [a lot](https://open.spotify.com/track/3WXJOVqIyZKSkdLa82PF0L) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 4:48 | 2022-04-01 | 2022-04-12 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2022-01-07 | 2024-01-27 |
-| [A N X I E T Y \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2024-07-12 |  |
 | [Adore \(feat\. Tory Lanez\)](https://open.spotify.com/track/3QUkCbniAfc2jcF0SLTx6v) | [Hoodz9](https://open.spotify.com/artist/1x1qgkzrhiqhH77pdCCt7M), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Adore \(feat\. Tory Lanez\)](https://open.spotify.com/album/4ru0xAX9qyYS4c9CefVH9n) | 3:12 | 2022-04-01 | 2022-04-13 |
 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2022-01-07 | 2023-04-28 |
 | [Again](https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 5:12 | 2025-01-31 |  |
@@ -50,6 +49,7 @@
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c) | 4:20 | 2023-08-17 | 2024-01-05 |
 | [Another One](https://open.spotify.com/track/61yVuIg22sGsM7OOVtYbGM) | [NAYA ALI](https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC) | [Another One](https://open.spotify.com/album/2mPZ3yFGZonlwtkxEVCNaC) | 3:07 | 2022-04-01 | 2022-04-17 |
 | [Anti\-Hero \(feat\. Lil Tecca\)](https://open.spotify.com/track/5HZ5NjyJVMaboBgG6uQMpK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Sorry 4 The Wait](https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp) | 3:12 | 2022-04-22 | 2022-06-14 |
+| [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2024-07-12 |  |
 | [Anything Can Happen \(feat\. Meek Mill\)](https://open.spotify.com/track/04VO6VICgMJgTe2dLxFBoW) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Anything Can Happen \(feat\. Meek Mill\)](https://open.spotify.com/album/5DToNHmi1v9YZacvKqg7aG) | 3:06 | 2022-04-01 | 2022-05-05 |
 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 | 2022-01-07 | 2022-07-24 |
 | [Apply Pressure \(feat\. Kevin Gates\)](https://open.spotify.com/track/2HjqLdac973ETSnaarpOee) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Apply Pressure](https://open.spotify.com/album/3njt8sPOS42eEU3igAoL2a) | 2:58 | 2022-04-01 | 2022-04-21 |

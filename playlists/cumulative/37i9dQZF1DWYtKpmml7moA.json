@@ -255,6 +255,36 @@
     },
     {
       "album": {
+        "name": "Dangerous (with Busy Signal & The Movement)",
+        "url": "https://open.spotify.com/album/5VNHisrt6cTjxN8fPaVBTW"
+      },
+      "artists": [
+        {
+          "name": "Hector Roots Lewis",
+          "url": "https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Dangerous (with Busy Signal & The Movement)",
+      "url": "https://open.spotify.com/track/087SR6Yy8rFPssgPXChZCo"
+    },
+    {
+      "album": {
         "name": "Strictly The Best Vol. 36",
         "url": "https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G"
       },
@@ -480,7 +510,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 253794,
       "name": "Helping Hand (with Iya Terra)",
       "url": "https://open.spotify.com/track/1S6wOu6dSfEC6CAhFqLkhz"
@@ -840,7 +870,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 246817,
       "name": "Lovely State Of Mind",
       "url": "https://open.spotify.com/track/5Lpkr4t5096HDHqJYiNnJy"
@@ -1014,10 +1044,32 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 259880,
       "name": "New Blessings",
       "url": "https://open.spotify.com/track/63foYg1Lz1djaWQizq7qjX"
+    },
+    {
+      "album": {
+        "name": "Reggae Music Never Dies",
+        "url": "https://open.spotify.com/album/5w2UBqpCdO3S4HJNgIDNbv"
+      },
+      "artists": [
+        {
+          "name": "Israel Vibration",
+          "url": "https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK"
+        },
+        {
+          "name": "Aston Barrett Jr.",
+          "url": "https://open.spotify.com/artist/7hS8Mjbmnac8TTsU2aSF3y"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248551,
+      "name": "Next Generation",
+      "url": "https://open.spotify.com/track/41c0QtgRo8YUAmUygqkYMa"
     },
     {
       "album": {
@@ -1864,6 +1916,24 @@
       "duration_ms": 224104,
       "name": "To See",
       "url": "https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq"
+    },
+    {
+      "album": {
+        "name": "Too Late to Lie",
+        "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219622,
+      "name": "Too Late to Lie",
+      "url": "https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6"
     },
     {
       "album": {

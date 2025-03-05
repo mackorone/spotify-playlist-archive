@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-172 songs - 12 hr 10 min
+175 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,9 @@
 | [rapid life シンドローム](https://open.spotify.com/track/0Kmd9fVw0Mz6PgKHJCvraP) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:48 | 2022-05-31 | 2023-06-14 |
 | [rapid life シンドローム](https://open.spotify.com/track/0LSFaKxqWSp2hp5hJc5n7g) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/7oPUiFyVwpKOyQ4TIBVg0J) | 4:48 | 2022-05-31 | 2022-07-29 |
 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 | 2023-06-13 |  |
-| [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-04 |  |
+| [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-04 | 2025-03-05 |
+| [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4u8StBMFVwcS6f1GiKoJfV) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR](https://open.spotify.com/album/0WHGYYVZA7zg9fM3DJXpxI) | 3:07 | 2025-03-04 |  |
+| [RED ZONE](https://open.spotify.com/track/35ZTL6aG24WiyQWgGcykaH) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ReawakeR](https://open.spotify.com/album/0WHGYYVZA7zg9fM3DJXpxI) | 2:57 | 2025-03-04 |  |
 | [Rising Hope](https://open.spotify.com/track/7LqQO6uWQHDEue1ejeUVhF) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:11 | 2022-05-31 |  |
 | [Rising Hope](https://open.spotify.com/track/6cjLwn9Y6xm2laGb9BV3um) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rising Hope](https://open.spotify.com/album/2GMe4oDPk85ZVhF2aBhdkH) | 4:12 | 2022-11-07 | 2022-11-13 |
 | [Rising Hope](https://open.spotify.com/track/4ATrjNUnSvzskzN3HF8cPR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/3nMoTXUkEcRao1A5lWdsgR) | 4:13 | 2022-05-31 | 2022-07-29 |
@@ -121,6 +123,7 @@
 | [“PROPAGANDA”](https://open.spotify.com/track/2hL9qcl5YTrPwfjfAUIUy0) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 3:21 | 2022-05-31 | 2022-07-29 |
 | [“PROPAGANDA”](https://open.spotify.com/track/5XAmuo3yRsBwd1EqkFkeTE) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/03dTdtI7lVRiD2D3D9R4Be) | 3:21 | 2022-05-31 | 2023-06-14 |
 | [「LANDER」Music + Talk](https://open.spotify.com/episode/7oZJU1kgbLgBLyqS4pdFz8) | [LiSAのMusic + Talk](https://open.spotify.com/show/7gouDykZ9S35L1D6Q90cDa) | [LiSAのMusic + Talk](https://open.spotify.com/show/7gouDykZ9S35L1D6Q90cDa) | 12:19 | 2022-11-18 | 2023-01-18 |
+| [うぃっちくらふと](https://open.spotify.com/track/5igvgoMhQy1GLLPQA7sI1e) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ReawakeR](https://open.spotify.com/album/0WHGYYVZA7zg9fM3DJXpxI) | 2:15 | 2025-03-04 |  |
 | [た、い、せ、つ Pile up](https://open.spotify.com/track/6w43lhKdOEFvom2GMFte9D) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:12 | 2022-05-31 | 2023-06-14 |
 | [だってアタシのヒーロー。](https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [だってアタシのヒーロー。](https://open.spotify.com/album/6RIrlLnU6kxuBnYXQVg25m) | 3:54 | 2022-05-31 |  |
 | [だってアタシのヒーロー。](https://open.spotify.com/track/206lhvdpsMEDyi7B5YMM2g) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/7rI369xJLe8CrWiIDiHKhZ) | 3:54 | 2022-05-31 | 2022-07-29 |

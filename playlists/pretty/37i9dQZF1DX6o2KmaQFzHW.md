@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,972 likes - 88 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,081 likes - 88 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

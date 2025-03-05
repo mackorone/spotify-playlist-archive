@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 
 > Music from "KAGUYA\-SAMA: LOVE IS WAR"\. 「かぐや様は告らせたい」シリーズを彩る楽曲をプレイリストで。©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,092 likes - 80 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,113 likes - 80 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 | 79 | [魔女の館](https://open.spotify.com/track/0Cl7mvysw3gzg8YeGx9YMi) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:46 |
 | 80 | [悲しくて lulululu \-Original ver.\-](https://open.spotify.com/track/4FVQ7SLv1xLgNRi4y1Dp0m) | [西田圭稀](https://open.spotify.com/artist/65ZK9nLtUCgjxoeuJaEHF6) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 4:10 |
 
-Snapshot ID: `ZIsT1AAAAAC9DP5/HDb8ZhDFVgx+wG3E`
+Snapshot ID: `ZIsT1AAAAAAuo61KVbDj4Uv+ia5VkBAh`

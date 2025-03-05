@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Tigirlily Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,414 likes - 135 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,499 likes - 135 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

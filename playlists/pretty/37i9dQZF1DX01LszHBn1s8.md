@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > show me love♥️, don't need no money
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,269 likes - 108 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,267 likes - 108 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSO8slqRqgGK.md) - [plain]
 
 > by Addison Rae\. The title says it all\. Just dance\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,732 likes - 27 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,745 likes - 27 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

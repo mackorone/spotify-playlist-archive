@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 21896,
+  "num_followers": 21937,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "duration_ms": 352480,
+      "name": "Medias Negras - Live Version",
+      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
         "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 281160,
       "name": "Detalles - Live",
       "url": "https://open.spotify.com/track/65lf9GOGo5pjHUqImIGwPv"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 352480,
-      "name": "Medias Negras - Live Version",
-      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -551,38 +551,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Asalto Navideno Live! Puerto Rico 1993",
-        "url": "https://open.spotify.com/album/6f7TM6QbJtF94E4vnchGle"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 423235,
-      "name": "Idilio - Live",
-      "url": "https://open.spotify.com/track/4ykdGFQlWaLMYfvx40DgbY"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
-      },
-      "artists": [
-        {
-          "name": "Alberto Barros Y Los Titanez De La Salsa",
-          "url": "https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx"
-        }
-      ],
-      "duration_ms": 280493,
-      "name": "Sobredosis - En Vivo",
-      "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "Una Historia Musical",
         "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
       },
@@ -603,6 +571,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Asalto Navideno Live! Puerto Rico 1993",
+        "url": "https://open.spotify.com/album/6f7TM6QbJtF94E4vnchGle"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 423235,
+      "name": "Idilio - Live",
+      "url": "https://open.spotify.com/track/4ykdGFQlWaLMYfvx40DgbY"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
         "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 343266,
       "name": "Un Verano en Nueva York - Live Version",
       "url": "https://open.spotify.com/track/0JcrTxvfkJb6vOowJorCfO"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
+      },
+      "artists": [
+        {
+          "name": "Alberto Barros Y Los Titanez De La Salsa",
+          "url": "https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx"
+        }
+      ],
+      "duration_ms": 280493,
+      "name": "Sobredosis - En Vivo",
+      "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "El Reencuentro (Live In Lima) - Vol. 2",
-        "url": "https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 324062,
-      "name": "Probablemente - Live",
-      "url": "https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
         "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 313120,
       "name": "Desesperado / T\u00fa No Le Amas Le Temes Medley - Live Version",
       "url": "https://open.spotify.com/track/2YOS0XgUx4FcbL4wh2SvCR"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "El Reencuentro (Live In Lima) - Vol. 2",
+        "url": "https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 324062,
+      "name": "Probablemente - Live",
+      "url": "https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Eddie Santiago (En Vivo)",
-        "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 301573,
-      "name": "Mia - En Vivo",
-      "url": "https://open.spotify.com/track/5ksUdmgzCsePF8zTyCCiXm"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "30 A\u00f1os de Power",
         "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 330800,
       "name": "Qui\u00e9reme Tal Como Soy - Live",
       "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Eddie Santiago (En Vivo)",
+        "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 301573,
+      "name": "Mia - En Vivo",
+      "url": "https://open.spotify.com/track/5ksUdmgzCsePF8zTyCCiXm"
     }
   ],
   "unique_name": "Vivo de Salsa",

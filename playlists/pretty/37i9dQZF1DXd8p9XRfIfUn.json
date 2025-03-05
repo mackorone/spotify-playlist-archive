@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 78750,
+  "num_followers": 78759,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "Traje Tusi",
+        "url": "https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 182421,
+      "name": "Traje Tusi",
+      "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "Baby Schai (Remix)",
         "url": "https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 328148,
       "name": "Baby Schai - Remix",
       "url": "https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Traje Tusi",
-        "url": "https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 182421,
-      "name": "Traje Tusi",
-      "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

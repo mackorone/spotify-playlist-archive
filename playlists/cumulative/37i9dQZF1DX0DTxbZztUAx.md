@@ -4,7 +4,7 @@
 
 > Survival takes everything\. Listen to the music from Beauty in Black, now streaming on Netflix.
 
-57 songs - 2 hr 54 min
+58 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 | 2023-06-23 | 2024-10-25 |
 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:31 | 2023-06-23 | 2024-10-25 |
 | [Missouri Waltz](https://open.spotify.com/track/5Lc0vzGdZ8W63D7mOLyz0y) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Fontane's Sing](https://open.spotify.com/album/5eBIHlsQyKeLpgUABGqivS) | 2:28 | 2023-06-23 | 2024-10-25 |
+| [Money](https://open.spotify.com/track/0kctcG2sYodFwrwnF43C1x) | [Loretta Mars](https://open.spotify.com/artist/5LvcP7kPiuAr2WHo6VfdsP) | [Money](https://open.spotify.com/album/1MseTwoK0MEOR5KmYDv83Y) | 2:31 | 2025-03-04 |  |
 | [My Drip](https://open.spotify.com/track/4OJYpUVqcmLg6p9dyGjDDb) | [Quise.B](https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S) | [Let That Money Talk](https://open.spotify.com/album/3TNbtNoKWigq8Yx0XVzGfF) | 2:57 | 2024-10-24 |  |
 | [None](https://open.spotify.com/track/2Sush4VEfYWPPcktzGl3AE) | [FLEX SINATRA](https://open.spotify.com/artist/7uoqKC9LIvAx8UGEOiqqZl) | [None](https://open.spotify.com/album/7MwH7t5XxBwAaCb7KSsM5b) | 2:38 | 2025-02-07 |  |
 | [Old Time's Sake](https://open.spotify.com/track/2uBjAVHNUlUYJUdnpyJ53a) | [Sweet Sable](https://open.spotify.com/artist/6QYdqWktIVMdOnG9mYo5Zm) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:19 | 2023-06-23 | 2024-10-25 |

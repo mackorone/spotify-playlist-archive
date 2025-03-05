@@ -1,13 +1,29 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 338037,
+  "num_followers": 338025,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8V4BQAAAADNYmsKyklfn8VMpIlI+N2i",
+  "snapshot_id": "Z8bW0AAAAACjOD1AB085lSAZbhEufgLP",
   "tracks": [
+    {
+      "added_at": "2025-03-03 09:36:05",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1dcYIocFl8vQhh8uOUm7FI"
+      },
+      "artists": [
+        {
+          "name": "G1ocatore",
+          "url": "https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE"
+        }
+      ],
+      "duration_ms": 123646,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/3s9kIbEsaS6ZlOUfIzvAKt"
+    },
     {
       "added_at": "2025-03-03 09:36:05",
       "album": {
@@ -47,18 +63,22 @@
     {
       "added_at": "2025-03-03 09:36:05",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1dcYIocFl8vQhh8uOUm7FI"
+        "name": "Love Doctor's",
+        "url": "https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY"
       },
       "artists": [
         {
-          "name": "G1ocatore",
-          "url": "https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
         }
       ],
-      "duration_ms": 123646,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/3s9kIbEsaS6ZlOUfIzvAKt"
+      "duration_ms": 212000,
+      "name": "Love Doctor's",
+      "url": "https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm"
     },
     {
       "added_at": "2025-03-03 09:36:05",
@@ -79,22 +99,18 @@
     {
       "added_at": "2025-03-03 09:36:05",
       "album": {
-        "name": "Love Doctor's",
-        "url": "https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY"
+        "name": "Mi Vida",
+        "url": "https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE"
       },
       "artists": [
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        },
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Love Doctor's",
-      "url": "https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm"
+      "duration_ms": 137575,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0"
     },
     {
       "added_at": "2025-03-03 09:36:05",
@@ -159,22 +175,6 @@
     {
       "added_at": "2025-03-03 09:36:05",
       "album": {
-        "name": "Mi Vida",
-        "url": "https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 137575,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0"
-    },
-    {
-      "added_at": "2025-03-03 09:36:05",
-      "album": {
         "name": "LYFTER",
         "url": "https://open.spotify.com/album/2JOcNikcgGNYHrUEdAr1b0"
       },
@@ -187,6 +187,38 @@
       "duration_ms": 138571,
       "name": "LYFTER",
       "url": "https://open.spotify.com/track/5ydBK5gDFVVZlbX6KU9VO5"
+    },
+    {
+      "added_at": "2025-03-03 09:36:05",
+      "album": {
+        "name": "VINNARE",
+        "url": "https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg"
+      },
+      "artists": [
+        {
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "VINNARE",
+      "url": "https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S"
+    },
+    {
+      "added_at": "2025-03-03 09:36:05",
+      "album": {
+        "name": "STORSTAD",
+        "url": "https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
+        }
+      ],
+      "duration_ms": 121200,
+      "name": "STORSTAD",
+      "url": "https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5"
     },
     {
       "added_at": "2025-03-03 09:36:05",
@@ -263,22 +295,6 @@
     {
       "added_at": "2025-03-03 09:36:05",
       "album": {
-        "name": "VINNARE",
-        "url": "https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg"
-      },
-      "artists": [
-        {
-          "name": "HAVAL",
-          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "VINNARE",
-      "url": "https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S"
-    },
-    {
-      "added_at": "2025-03-03 09:36:05",
-      "album": {
         "name": "TYSTA BOYS",
         "url": "https://open.spotify.com/album/1dIKGK8GrnjmRtLf8U2wva"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 183272,
       "name": "BPM",
       "url": "https://open.spotify.com/track/15sM0nXG6YhJ1G9H0AFsQY"
-    },
-    {
-      "added_at": "2025-03-03 09:36:05",
-      "album": {
-        "name": "STORSTAD",
-        "url": "https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D"
-      },
-      "artists": [
-        {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
-        }
-      ],
-      "duration_ms": 121200,
-      "name": "STORSTAD",
-      "url": "https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5"
     },
     {
       "added_at": "2025-03-03 09:36:05",

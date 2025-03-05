@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,035 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,108 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 124 | [International Confusion](https://open.spotify.com/track/0DQ405FyEXx2Jujui8Uhg6) | [Airrica](https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW), [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz) | [International Confusion](https://open.spotify.com/album/1MsoGxqvVIikO2HzXJ8SAi) | 3:00 |
 | 125 | [KILO \- Beltran Remix](https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [KILO \(Beltran Remix\)](https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5) | 4:07 |
 
-Snapshot ID: `Z8ImzgAAAAAyuX8bKZBnWVf/zJW8Tamo`
+Snapshot ID: `Z8ImzgAAAAAhHceTHLG1t8yyFuSlepc/`

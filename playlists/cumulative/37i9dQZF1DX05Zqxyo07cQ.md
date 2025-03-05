@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-677 songs - 1 day 9 hr 7 min
+678 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2023-03-23 | 2024-03-21 |
 | [Cryonics](https://open.spotify.com/track/3STDQOJdgwSOQRdaAXjCaC) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Cryonics](https://open.spotify.com/album/5FBZZbPtYsJtMKiepGDVnE) | 3:06 | 2023-03-23 | 2024-01-18 |
 | [Crystal Glass](https://open.spotify.com/track/3LUbhoAnLn3pLz6R9JYGXU) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [Vågor](https://open.spotify.com/album/5IOEaUuuDjv9psQ0PhQpFS) | 2:52 | 2023-03-23 | 2024-02-09 |
+| [Crystal Shells](https://open.spotify.com/track/2zYMpzcL5s032DNC3FX1M0) | [Sasha Coleman](https://open.spotify.com/artist/48h7ZhLv7ZR1D1HFUcA7oO) | [Crystal Shells](https://open.spotify.com/album/63yjO9pMTTnJni9RA6d6Wh) | 2:37 | 2025-02-26 |  |
 | [Crystalline](https://open.spotify.com/track/27YaBVbv8K7atUj0EoE4gQ) | [Andromedaecho](https://open.spotify.com/artist/5X4x6jIGCFmtPxI4c3GgbC) | [Crystalline](https://open.spotify.com/album/6YyOTspsFXEm7eYXDZHCpq) | 3:28 | 2024-05-04 | 2024-07-12 |
 | [Daffodilian Dreams](https://open.spotify.com/track/4xEChYDVoW5ZW21kuwUwSD) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Daffodilian Dreams](https://open.spotify.com/album/1LRYvwhy94JRhYc6yY9ovf) | 2:27 | 2024-05-20 |  |
 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 | 2023-03-23 | 2024-05-05 |
@@ -542,7 +543,7 @@
 | [Simulacrum](https://open.spotify.com/track/4wEbipetGjPZ1YFGT2v34O) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Simulacrum](https://open.spotify.com/album/6h05jReEpu0Cri0gZkV7N4) | 3:05 | 2024-07-09 | 2025-01-09 |
 | [Sincerely](https://open.spotify.com/track/4TRjCifQWpux6KRamNuNMz) | [Kelly Petersen](https://open.spotify.com/artist/50KqMF1pahD2xMCrkMKTr6) | [Layers](https://open.spotify.com/album/0q8iANuN19kvXeo0WTgol8) | 2:55 | 2023-07-14 | 2024-06-21 |
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2023-03-23 | 2024-02-09 |
-| [Singularity](https://open.spotify.com/track/7nV2HPhYAWLBtJ2JCUyYfx) | [Everlasting Theta](https://open.spotify.com/artist/0xE2E5AhNCCeAfZj0uVKW9) | [Singularity](https://open.spotify.com/album/648LX1seqqG3MhQPyYjWWK) | 2:50 | 2024-05-04 |  |
+| [Singularity](https://open.spotify.com/track/7nV2HPhYAWLBtJ2JCUyYfx) | [Everlasting Theta](https://open.spotify.com/artist/0xE2E5AhNCCeAfZj0uVKW9) | [Singularity](https://open.spotify.com/album/648LX1seqqG3MhQPyYjWWK) | 2:50 | 2024-05-04 | 2025-03-05 |
 | [Sky & Sea](https://open.spotify.com/track/4bRFHEiobRkNS6C1bmPxuB) | [Silbo Gomera](https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W) | [Sky & Sea](https://open.spotify.com/album/6FA9uYzacOsCQPPTERRzP4) | 2:53 | 2024-02-08 | 2024-07-13 |
 | [Sleep Infusion](https://open.spotify.com/track/4FO02oVfqzwAS4pNXnibiV) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Sleep Infusion](https://open.spotify.com/album/4Frl4Lw6O4AFWWIiiQAuXW) | 3:06 | 2024-12-17 |  |
 | [Sleeping Asteroid](https://open.spotify.com/track/4ku5ZI6yCAvTBgEUvoVc5R) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Sleeping Asteroid](https://open.spotify.com/album/4TTHB2J83pa337ICnoYQlu) | 2:57 | 2023-03-23 | 2024-01-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,437 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,438 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 |
 | 50 | [Sick enough to die \(Feat\. JAMIE\)](https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD), [Jamie](https://open.spotify.com/artist/7pKlS8U7Bi4QEYmPEazFyN) | [20th Anniversary Edition ‘Dark Hole’](https://open.spotify.com/album/5NybffqVfTXwACqsc1GUT7) | 4:30 |
 
-Snapshot ID: `Z4sRyQAAAACD3IROvesMma4r/HY32Olc`
+Snapshot ID: `Z8aVUAAAAADFFFhGvWI6e+F+ybcQe9Bt`

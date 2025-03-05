@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: Gordi
+> Songs from LGBTQIA+ artists\.  Cover: lewloh
 
-1,425 songs - 3 day 5 hr 23 min
+1,427 songs - 3 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1026,12 +1026,13 @@
 | [Real Love](https://open.spotify.com/track/6qjISOkB9F6X6FgsvdI2fR) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Real Love](https://open.spotify.com/album/3NWJXg0aK1Wo2EPhv46IRP) | 3:18 | 2022-06-17 | 2022-07-23 |
 | [Real With You](https://open.spotify.com/track/0ariASxZ4I9lPUecXSEu1O) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Stop Before It Starts](https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp) | 3:56 | 2024-11-12 | 2024-12-05 |
 | [Really, Really](https://open.spotify.com/track/4Kg7wuHmbjZ3o6LeUJH8P4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Really, Really](https://open.spotify.com/album/0qbnY0chu7T0QUgnEuei3Y) | 2:26 | 2021-12-24 | 2022-01-23 |
-| [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/track/6JhnWtYtde5oSKs8sL1W1c) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 3:52 | 2024-12-04 |  |
+| [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/track/6JhnWtYtde5oSKs8sL1W1c) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 3:52 | 2024-12-04 | 2025-03-05 |
 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88) | 3:52 | 2024-06-26 | 2024-08-14 |
 | [Reasons I Loved You \(I Can't Think Of One\)](https://open.spotify.com/track/1TnmUvzVMHdZVaIdVeKHMb) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Reasons I Loved You \(I Can't Think Of One\)](https://open.spotify.com/album/1c5ujLAhVtSxZWFy9EAhFq) | 3:01 | 2024-02-13 | 2024-03-13 |
 | [Reasons I Loved You \(I Can't Think Of One\)](https://open.spotify.com/track/33PSeHnVlOqrujOvM7Fy58) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Notes On A Hopeless Romance](https://open.spotify.com/album/1m7rybTKmreUJJczhTlfSt) | 3:01 | 2024-12-04 | 2025-02-12 |
 | [Rebel Revolution](https://open.spotify.com/track/1dIFTswy9iCiF2gVVvmwNV) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Rebel Revolution](https://open.spotify.com/album/4OpD2M4bZ8BMgOkWl7OfxO) | 3:08 | 2022-05-27 | 2022-07-29 |
-| [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 | 2024-12-04 |  |
+| [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 | 2025-03-04 |  |
+| [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 | 2024-12-04 | 2025-03-05 |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-11-14 | 2023-11-30 |
 | [Red Flag](https://open.spotify.com/track/5jpXb0Xa6Q7nvIsdycyZVj) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy) | 2:29 | 2024-12-04 | 2025-02-12 |
 | [Red Light](https://open.spotify.com/track/6uFDcKDKm2QgdgtEcDQGoU) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Red Light](https://open.spotify.com/album/08aM0wysi2NwR7phOd6zLk) | 4:07 | 2025-01-14 |  |
@@ -1264,6 +1265,7 @@
 | [Too Bad](https://open.spotify.com/track/4miWVN59HLU10fv9f3fwp1) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 2:53 | 2022-06-10 | 2022-08-01 |
 | [Too Bad](https://open.spotify.com/track/6mwUNrszsJxayPeqS0OPU2) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Too Bad / Cursed](https://open.spotify.com/album/2HAEQ3pBzY5bgBBsYqrLt4) | 2:53 | 2022-06-10 | 2022-07-29 |
 | [Too Many](https://open.spotify.com/track/5t8bBnQxboHKJojUGqaBYI) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [Too Many](https://open.spotify.com/album/2r4Fwakkelxr8yKHW8NAGC) | 2:57 | 2024-02-13 | 2024-03-13 |
+| [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-03-04 |  |
 | [Too Much](https://open.spotify.com/track/2Gf36deg60mcWyagprxnCy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 3:03 | 2024-12-04 |  |
 | [Tootsie Rollin](https://open.spotify.com/track/0AvZgPrDfx1uELYGFqb4ST) | [Ghostryder](https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw) | [Tootsie Rollin](https://open.spotify.com/album/6L68Wu2jCzKrCnJZ5RxEwU) | 3:02 | 2023-09-12 | 2023-10-11 |
 | [TOP TEN!](https://open.spotify.com/track/21Ltf4RXrYaymlGB0AW6wF) | [SPACEBABYMADCHA](https://open.spotify.com/artist/4Twtl8sz0ceeOrdXmglVpa) | [TOP TEN!](https://open.spotify.com/album/6K71MbG9hsMj0PnYSUA5kg) | 2:57 | 2023-08-08 | 2023-09-26 |

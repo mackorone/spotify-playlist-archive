@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,291 likes - 138 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,352 likes - 138 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 18 | [Drivande](https://open.spotify.com/track/3Xi0zJ4FNyZ3EPERLAuXXX) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drivande](https://open.spotify.com/album/7o9SwnbiM5hXE4IzoW3mzw) | 3:12 |
 | 19 | [A Room With A View](https://open.spotify.com/track/3dW5gmYgCbNhjxsBGhGKLo) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [A Room With A View](https://open.spotify.com/album/3krOGtwCkbHMsx4O3C7aQ2) | 2:20 |
 | 20 | [Light From the Stars](https://open.spotify.com/track/6gdfuIxnmyRMpca7pP7ok5) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Light From the Stars](https://open.spotify.com/album/6mjBBRGkUO8dyMFtw56OGn) | 1:52 |
-| 21 | [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 |
-| 22 | [Broken Wings](https://open.spotify.com/track/7utddC5JpZO80mzyvMDAUn) | [Plane Curston](https://open.spotify.com/artist/08EEIy4ABAgKlRWhLbMdqe) | [Broken Wings](https://open.spotify.com/album/792Bau5O5lhW3swyI4pEiA) | 2:29 |
-| 23 | [Trail of the Ants](https://open.spotify.com/track/0AJoJx7R6E1IAx0no0C5wt) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Trail of the Ants](https://open.spotify.com/album/3JaSdZJaMkCEc5gw6AgYBU) | 2:52 |
-| 24 | [Orchard Moon](https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Orchard Moon](https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y) | 2:57 |
+| 21 | [Orchard Moon](https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Orchard Moon](https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y) | 2:57 |
+| 22 | [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 |
+| 23 | [Broken Wings](https://open.spotify.com/track/7utddC5JpZO80mzyvMDAUn) | [Plane Curston](https://open.spotify.com/artist/08EEIy4ABAgKlRWhLbMdqe) | [Broken Wings](https://open.spotify.com/album/792Bau5O5lhW3swyI4pEiA) | 2:29 |
+| 24 | [Trail of the Ants](https://open.spotify.com/track/0AJoJx7R6E1IAx0no0C5wt) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Trail of the Ants](https://open.spotify.com/album/3JaSdZJaMkCEc5gw6AgYBU) | 2:52 |
 | 25 | [A Quiet Morning](https://open.spotify.com/track/4ert3RkJ8MenB9f4AQtFTl) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [A Quiet Morning](https://open.spotify.com/album/0Y0vbSn44cskqZe01iWWfl) | 2:18 |
 | 26 | [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 |
 | 27 | [Salida](https://open.spotify.com/track/12CYjiY4YOP2M6Em8hCCk3) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Salida](https://open.spotify.com/album/7y608qiaLs8Pt5qUayE7s3) | 2:38 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 137 | [Seeking Peace](https://open.spotify.com/track/74eaTXKxwzYbDiRrk3tuDG) | [Xanthe Nephus](https://open.spotify.com/artist/1Ilv5utNuysFsOCbLRq8eD) | [Seeking Peace](https://open.spotify.com/album/7gW9EjAmEafsT7eii28A4w) | 2:36 |
 | 138 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 |
 
-Snapshot ID: `Z770CAAAAACTbQUxcRUROabayNdAoHaW`
+Snapshot ID: `Z8c0SAAAAABii8pGpApZySE/vRaOMuZO`

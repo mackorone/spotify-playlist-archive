@@ -3167,6 +3167,28 @@
     },
     {
       "album": {
+        "name": "Me Dedique A Perderte",
+        "url": "https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs"
+      },
+      "artists": [
+        {
+          "name": "Pablo EEE",
+          "url": "https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP"
+        },
+        {
+          "name": "Jimmy Rodriguez",
+          "url": "https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167320,
+      "name": "Me Dediqu\u00e9 A Perderte",
+      "url": "https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX"
+    },
+    {
+      "album": {
         "name": "Me Enamore de Ti, y Que?",
         "url": "https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg"
       },
@@ -5294,7 +5316,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 257010,
       "name": "Un Beso de Su Boca",
       "url": "https://open.spotify.com/track/1Ql6nNEgjJbVo52HeDUV2Q"

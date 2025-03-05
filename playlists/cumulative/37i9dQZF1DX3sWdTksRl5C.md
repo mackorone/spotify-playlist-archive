@@ -4,7 +4,7 @@
 
 > Don't play the odds, play the man\. Listen to the music from Suits & NBC's Suits LA, streaming on Peacock.
 
-55 songs - 3 hr 50 min
+56 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [How You Like Me Now](https://open.spotify.com/track/5IpfwhirP044EQ2AqqVKCj) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [The House That Dirt Built](https://open.spotify.com/album/3mvFb1wQ7ItcmCkbSAcMvr) | 3:37 | 2025-02-22 |  |
 | [Howlin’ For You](https://open.spotify.com/track/4YEjTfbxA2gqnIRwLyvsIX) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/6BhS0iZh607Op7sWvSXT4o) | 3:11 | 2025-02-22 |  |
 | [I Used to Rule the World](https://open.spotify.com/track/25dgQWaGb52XluvPlZrmLb) | [When It's the End](https://open.spotify.com/artist/4x717uKDCxQxuNPBSL5qtN) | [I'm With You Every Single Weekend](https://open.spotify.com/album/1NMCaTUp5HE1hgRAPQ5zEV) | 3:57 | 2025-02-22 |  |
+| [I Won't Let You Down](https://open.spotify.com/track/7AlJWH45s6NgsfgsKxWOIM) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 4:04 | 2025-03-04 |  |
 | [I'm Not The Only One](https://open.spotify.com/track/1VbhR6D6zUoSTBzvnRonXO) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe Edition\)](https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp) | 3:59 | 2025-02-22 |  |
 | [Into The Wild](https://open.spotify.com/track/4g2T3FUjXH6XuboKw60hHX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:30 | 2025-02-22 |  |
 | [It's About Time](https://open.spotify.com/track/4uAoj4DosgBPhQxmOI5kLU) | [Ruby Velle & The Soulphonics](https://open.spotify.com/artist/5hA2fNOsOjec1PiwPcrQ3k) | [It's About Time](https://open.spotify.com/album/4czOMMgwzSR4Ifj1QSQacO) | 6:24 | 2025-02-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Goldielocks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,486 likes - 93 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,498 likes - 93 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 29 | [Lampaita](https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Lampaita](https://open.spotify.com/album/2Fi7vJlbTVcXTovePKPlJb) | 2:29 |
 | 30 | [Nightmares](https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Nightmares](https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF) | 2:58 |
 | 31 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 |
-| 32 | [FXCK UP THE WORLD \(Vixi Solo Version\)](https://open.spotify.com/track/3axyOG0Z7zBwRzOkQWtBEJ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q) | 2:55 |
+| 32 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 |
 | 33 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 |
 | 34 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 35 | [Täs mä oon](https://open.spotify.com/track/5tfW3t4zAZoeftsKQI0jD0) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kunpa oisin kertonut](https://open.spotify.com/album/7wiZKnQuxCFGIMoZjhQ9kU) | 3:02 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 92 | [Deeper Love](https://open.spotify.com/track/22i2Jrth3s7Qq5dgrMLy8T) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Matt Steffanina](https://open.spotify.com/artist/4KOoOdorXekT3hIgRQCqi8) | [Deeper Love](https://open.spotify.com/album/6qHwqkS01qDWlrrwW5bTfy) | 2:20 |
 | 93 | [Luodit](https://open.spotify.com/track/2I3d4RxgWghBjlhpbglyrd) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Luodit](https://open.spotify.com/album/4CVgkAsb0C7IUqz4EgaW29) | 2:53 |
 
-Snapshot ID: `Z8XKpgAAAAA6IOmhV2LN8nNeIEGPVy+Z`
+Snapshot ID: `Z8bNTgAAAAA1MdBAqDWsjrWSf0Int+JC`

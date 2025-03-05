@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iaBRh0GfEq.md) - [plain]
 
 > Cheiro de protetor, vento no cabelo, pele salgada e marquinha de biquini\. Uma playlist cheia de hits pra esquentar sua Temporada de Verão\. Assista só na Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 17 songs - 56 min 7 sec
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 17 songs - 56 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

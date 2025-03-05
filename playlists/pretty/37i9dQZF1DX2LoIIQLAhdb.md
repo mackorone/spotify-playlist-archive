@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Rsko x Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,079 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,103 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [DLC](https://open.spotify.com/track/3EdDMsjMYRWVJ6g0KqprB6) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Focus 2](https://open.spotify.com/album/4CElgf4krVyvycXY7bRMBL) | 2:48 |
 | 40 | [Accro](https://open.spotify.com/track/7Avaa6GKq0HUEjyDbhFMLE) | [Victoria](https://open.spotify.com/artist/08lHp3sHGLHjpBLpvnskqG) | [Accro](https://open.spotify.com/album/78MTZPkNAdevpLTUBaEsNe) | 2:24 |
 
-Snapshot ID: `Z8DujQAAAAAKSVrI69s+9zdj90RSmZJd`
+Snapshot ID: `Z8DujQAAAABrm0kYJx5ExW5TJ/Y886uo`

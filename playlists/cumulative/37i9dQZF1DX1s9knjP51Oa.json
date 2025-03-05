@@ -8849,6 +8849,24 @@
     },
     {
       "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/5ndLtsrDQVbRBX2HgKK7rJ"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Barella",
+          "url": "https://open.spotify.com/artist/0237mryhZoZL7C2i64qaNF"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148434,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/3SfSpapi3quB0T6dl2I5DL"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
       },
@@ -12530,6 +12548,24 @@
       "duration_ms": 137000,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/7JZrbwMQNDL0s1UeDoEDwR"
+    },
+    {
+      "album": {
+        "name": "Tenderness",
+        "url": "https://open.spotify.com/album/5eYAFoTBGNJAaxoFnK45ZZ"
+      },
+      "artists": [
+        {
+          "name": "Stone Mirland",
+          "url": "https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119015,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/4bIpvx1sHj3yIFRpPQ4XAu"
     },
     {
       "album": {

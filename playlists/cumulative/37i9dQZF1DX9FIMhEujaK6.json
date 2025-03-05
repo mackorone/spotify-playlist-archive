@@ -2709,6 +2709,28 @@
     },
     {
       "album": {
+        "name": "oceanic (feat. Vagabon) [rebirth]",
+        "url": "https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142280,
+      "name": "oceanic (feat. Vagabon) [rebirth]",
+      "url": "https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/7G1JFppuNI2Q0kSe2W2AkB"
       },
@@ -2872,7 +2894,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 208375,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"

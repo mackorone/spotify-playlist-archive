@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > i’ll never tell a soul about our secret life ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,608 likes - 145 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,663 likes - 145 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 144 | [Bumper Sticker](https://open.spotify.com/track/7MUslKGuUlcOPAcYpYEpco) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:42 |
 | 145 | [Electric Lizard](https://open.spotify.com/track/2vctZ5ZX7cRMFGjcZzwWcK) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Rocky Doom](https://open.spotify.com/album/18dZNZb5ijjIfVAmZSR0sT) | 3:26 |
 
-Snapshot ID: `Z8FDBgAAAABo/TYx0fiXxzQyHdqPzH5R`
+Snapshot ID: `Z8FDBgAAAABtWtZHWk0ixiPLYA3e9BjL`

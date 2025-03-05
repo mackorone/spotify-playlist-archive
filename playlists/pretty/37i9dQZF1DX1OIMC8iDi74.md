@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with WINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,465 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,460 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 81 | [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 |
 | 82 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 |
 | 83 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
-| 84 | [Crazy In The Club](https://open.spotify.com/track/4OohwCzQCntVJTNvYSpipr) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [DIMEPIECE](https://open.spotify.com/artist/2MAPKgHSqQLdWxK8bPlORU) | [Crazy In The Club](https://open.spotify.com/album/2mhocG4pFNSKvpKWu9GJPr) | 2:29 |
-| 85 | [Addiction](https://open.spotify.com/track/0HqJvuOzycUzCjAH3ZbjdS) | [Leveller Beats](https://open.spotify.com/artist/5yHwZWYTpwhOj6RjRep7gC), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Nyukyung](https://open.spotify.com/artist/2Fy5gf1UQY332twQmg1gfw) | [Addiction](https://open.spotify.com/album/1adaWczVKUAxvXR7rX4teZ) | 2:39 |
+| 84 | [Addiction](https://open.spotify.com/track/0HqJvuOzycUzCjAH3ZbjdS) | [Leveller Beats](https://open.spotify.com/artist/5yHwZWYTpwhOj6RjRep7gC), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Nyukyung](https://open.spotify.com/artist/2Fy5gf1UQY332twQmg1gfw) | [Addiction](https://open.spotify.com/album/1adaWczVKUAxvXR7rX4teZ) | 2:39 |
+| 85 | [Crazy In The Club](https://open.spotify.com/track/4OohwCzQCntVJTNvYSpipr) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [DIMEPIECE](https://open.spotify.com/artist/2MAPKgHSqQLdWxK8bPlORU) | [Crazy In The Club](https://open.spotify.com/album/2mhocG4pFNSKvpKWu9GJPr) | 2:29 |
 | 86 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
 | 87 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
-| 88 | [TURN ME UP](https://open.spotify.com/track/48Rgzrr4Wxfbqq2gzHkM8J) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TURN ME UP](https://open.spotify.com/album/1UaQOhg1Pa5LUbsKJ8Upib) | 2:27 |
-| 89 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 88 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 89 | [TURN ME UP](https://open.spotify.com/track/48Rgzrr4Wxfbqq2gzHkM8J) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TURN ME UP](https://open.spotify.com/album/1UaQOhg1Pa5LUbsKJ8Upib) | 2:27 |
 | 90 | [HAWT](https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [HAWT](https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV) | 3:49 |
 | 91 | [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 |
 | 92 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 96 | [Fade Away](https://open.spotify.com/track/7gKLE8IhPWpM2wGjqMiUrU) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA), [Two Swords](https://open.spotify.com/artist/3Dky4rWifn4wikHCC2fFOv) | [Fade Away / Oxygen Thief](https://open.spotify.com/album/4EkdK4AiSjYER03jO9gdsi) | 3:33 |
 | 97 | [Ghost Of You](https://open.spotify.com/track/3QYE80UFrZZhIsm2998VdF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Ghost Of You](https://open.spotify.com/album/1yhaid7FwnQJY1G21kB8JH) | 3:53 |
 | 98 | [Donnie Brasco](https://open.spotify.com/track/7uYk4QW83Z82TcTURR1Y8r) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx) | [Donnie Brasco](https://open.spotify.com/album/7AJ34nT0oED3Y3gUHGAwMN) | 3:02 |
-| 99 | [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 |
-| 100 | [Cycles](https://open.spotify.com/track/5wD1R8jJ3OkmO77LzKFYFV) | [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Cycles](https://open.spotify.com/album/0vwGdvJ3deQNv696OiPlro) | 3:58 |
+| 99 | [Cycles](https://open.spotify.com/track/5wD1R8jJ3OkmO77LzKFYFV) | [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Cycles](https://open.spotify.com/album/0vwGdvJ3deQNv696OiPlro) | 3:58 |
+| 100 | [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 |
 
 Snapshot ID: `Z8KNvAAAAAAOeKb92AlTX1UTHtIHmHyk`

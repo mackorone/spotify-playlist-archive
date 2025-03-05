@@ -4,7 +4,7 @@
 
 > 
 
-3,116 songs - 7 day 15 hr 51 min
+3,117 songs - 7 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1684,6 +1684,7 @@
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2021-05-18 |  |
 | [Love Taste](https://open.spotify.com/track/0XVoD3TmJVEYdRzZoe0Ewy) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [Jamie Paige](https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf), [Shiki\-TMNS](https://open.spotify.com/artist/433MAtNbNMBD9ErZQBBnXb) | [Love Taste](https://open.spotify.com/album/0r9YlVLiJf93hXHxCiJKCt) | 2:56 | 2020-01-12 |  |
 | [Love To Dream](https://open.spotify.com/track/6Q9IUoBTNLHgBib1FSFGbj) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:36 | 2021-06-26 |  |
+| [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2025-03-04 |  |
 | [Love Without Tragedy / Mother Mary](https://open.spotify.com/track/7I5iWxgkVGe4M9msr9BMp9) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 6:58 | 2020-08-31 |  |
 | [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 | 2020-02-29 |  |
 | [Love You More](https://open.spotify.com/track/2hsQ2FX3VY21THYy43Hscl) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Love You More](https://open.spotify.com/album/0F7VpTrhWfnbwKEuLJlhl2) | 3:24 | 2020-03-23 |  |

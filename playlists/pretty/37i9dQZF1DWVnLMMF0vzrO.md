@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,739 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,741 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 35 | [Perdoname](https://open.spotify.com/track/1X9IzjIAPlwibW4XkwFPHa) | [Panchito](https://open.spotify.com/artist/3V7CfTui7f9B1SOF6kuiI6) | [La Gloria De Cuba \- Los Grandes Exitos Originales, Vol\. 2](https://open.spotify.com/album/5G0RZH6ffjzcfq92E549H8) | 2:58 |
 | 36 | [La Cabrona](https://open.spotify.com/track/2lAjesTTFDN3QUUAVAe7W8) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Corazón Ranchero](https://open.spotify.com/album/3ueilf7q7bssvTMRrQxwFc) | 3:23 |
 | 37 | [Caught In The Act](https://open.spotify.com/track/7pbAA6ndyEqTXVTIjsZwZq) | [Voice Of Destruction](https://open.spotify.com/artist/3CGHA2XZh75m83zpZLxsvg) | [Steamroller Tactics for Fun & Profit](https://open.spotify.com/album/30lya6wtNVQniyUCySjIU4) | 4:31 |
-| 38 | [Que No Quede Huella](https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp) | [Bronco](https://open.spotify.com/artist/5jEVtENc7lVzsqNLySdelS) | [A Todo Galope](https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ) | 2:56 |
+| 38 | [Que No Quede Huella](https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [A Todo Galope](https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ) | 2:56 |
 | 39 | [Tell You in the Morning](https://open.spotify.com/track/2rVhASuWovWkDzerA4Kaeq) | [Scott Vaughn](https://open.spotify.com/artist/3f6Svs2xyWyJyBw3zTBqLX) | [She's Just a Woman / Tell You in the Morning \(Digital 45\)](https://open.spotify.com/album/19sXEVTAF5RyjSzV5yTb4X) | 3:32 |
 | 40 | [Plante y Patra](https://open.spotify.com/track/6vCLrOeBc0yU6fNUaWy0hs) | [John Lewis](https://open.spotify.com/artist/5lFsQ6pOHgWG8HHqcKaLGn) | [Blue Steel \- Catwalk Music](https://open.spotify.com/album/0AiboZLACSsuU2DGCh4s4x) | 5:03 |
 | 41 | [Todo tiene su fin](https://open.spotify.com/track/5Su0gsK3nkTGEkN5Dq5QUT) | [Modulos](https://open.spotify.com/artist/3OdecN7ul5DNrWs1zGjBnl) | [Grandes Exitos](https://open.spotify.com/album/3asgOSWOccesPh0ZyDXdzF) | 5:08 |

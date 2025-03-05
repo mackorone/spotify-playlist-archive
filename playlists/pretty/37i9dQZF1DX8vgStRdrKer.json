@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez?si=Zz19hc39QaO9Ux9niVs8yA>Wole Awolola</a>",
-  "num_followers": 12551,
+  "num_followers": 12555,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -497,6 +497,30 @@
       "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
     },
     {
+      "added_at": "2024-09-06 00:01:00",
+      "album": {
+        "name": "YHWH (Yahweh)",
+        "url": "https://open.spotify.com/album/1zyNau9ajBHupq144myNG7"
+      },
+      "artists": [
+        {
+          "name": "Angeloh",
+          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 148458,
+      "name": "YHWH (Yahweh)",
+      "url": "https://open.spotify.com/track/5Qak7TNrNrytzk2cRmRv89"
+    },
+    {
       "added_at": "2024-10-18 00:01:00",
       "album": {
         "name": "At\u025b\u025bne (Overturned)",
@@ -527,30 +551,6 @@
       "duration_ms": 162893,
       "name": "Count My Blessings",
       "url": "https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L"
-    },
-    {
-      "added_at": "2024-09-06 00:01:00",
-      "album": {
-        "name": "YHWH (Yahweh)",
-        "url": "https://open.spotify.com/album/1zyNau9ajBHupq144myNG7"
-      },
-      "artists": [
-        {
-          "name": "Angeloh",
-          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 148458,
-      "name": "YHWH (Yahweh)",
-      "url": "https://open.spotify.com/track/5Qak7TNrNrytzk2cRmRv89"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -685,26 +685,6 @@
       "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
     },
     {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "Oba Awon Oba",
-        "url": "https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 733135,
-      "name": "Oba Awon Oba",
-      "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
-    },
-    {
       "added_at": "2024-01-12 00:01:00",
       "album": {
         "name": "Amaram Onyewem (Live)",
@@ -725,6 +705,42 @@
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
     },
     {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "Oba Awon Oba",
+        "url": "https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 733135,
+      "name": "Oba Awon Oba",
+      "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
+    },
+    {
+      "added_at": "2024-12-20 00:01:07",
+      "album": {
+        "name": "In the Room (Rendition)",
+        "url": "https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA"
+      },
+      "artists": [
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "duration_ms": 371310,
+      "name": "In the Room (Rendition)",
+      "url": "https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn"
+    },
+    {
       "added_at": "2024-10-25 00:01:00",
       "album": {
         "name": "Shekinah",
@@ -743,22 +759,6 @@
       "duration_ms": 420025,
       "name": "Shekinah",
       "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
-    },
-    {
-      "added_at": "2024-12-20 00:01:07",
-      "album": {
-        "name": "In the Room (Rendition)",
-        "url": "https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA"
-      },
-      "artists": [
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
-        }
-      ],
-      "duration_ms": 371310,
-      "name": "In the Room (Rendition)",
-      "url": "https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -889,6 +889,38 @@
       "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
     },
     {
+      "added_at": "2025-02-21 00:01:28",
+      "album": {
+        "name": "By Your Mercy",
+        "url": "https://open.spotify.com/album/1CeMJ8F8hcDd2GsDA9inj0"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 462291,
+      "name": "By Your Mercy - Live",
+      "url": "https://open.spotify.com/track/4WzIddM6LC55iSNu2KKNmx"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "duration_ms": 268830,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
+    },
+    {
       "added_at": "2025-02-14 00:01:10",
       "album": {
         "name": "The Way You Love Me",
@@ -913,42 +945,6 @@
       "url": "https://open.spotify.com/track/5TJ1pjgljJR6urR6QtsMWC"
     },
     {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg"
-      },
-      "artists": [
-        {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
-        }
-      ],
-      "duration_ms": 268830,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
-    },
-    {
-      "added_at": "2025-01-31 00:01:08",
-      "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/6bbvbiCg3hPPm5lWbaa6N5"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/44S0eEug5ERxKwPxmhLh4Q"
-    },
-    {
       "added_at": "2025-02-07 00:01:02",
       "album": {
         "name": "Ever Present Help",
@@ -969,20 +965,24 @@
       "url": "https://open.spotify.com/track/2y94Cj3pi63MPJJ52Xcfaa"
     },
     {
-      "added_at": "2025-01-17 00:01:28",
+      "added_at": "2025-01-31 00:01:08",
       "album": {
-        "name": "Love Greater",
-        "url": "https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x"
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/6bbvbiCg3hPPm5lWbaa6N5"
       },
       "artists": [
         {
-          "name": "Kachi Annuncia",
-          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Love Greater",
-      "url": "https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe"
+      "duration_ms": 133333,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/44S0eEug5ERxKwPxmhLh4Q"
     }
   ],
   "unique_name": "Redeemed",

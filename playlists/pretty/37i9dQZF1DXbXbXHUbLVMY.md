@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,380 likes - 80 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,383 likes - 80 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 63 | [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 |
 | 64 | [Sugerør \(2J x Siyabång\)](https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv) | [Benocchio](https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Sugerør \(2J x Siyabång\)](https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76) | 2:20 |
 | 65 | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k) | 1:33 |
-| 66 | [Veien](https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Veien](https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1) | 3:07 |
-| 67 | [Souljaboii Remixxx](https://open.spotify.com/track/4wdaPy15GosA2DVQ0P0nwp) | [Pen Gutt](https://open.spotify.com/artist/134vxVpC78AGeTmoApYQKD), [Chirag](https://open.spotify.com/artist/1Xfv0o1xU7jH7M9QYod7rj), [sa\_g](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L) | [Souljaboii Remixxx](https://open.spotify.com/album/6zobC136l4USs0YOARFGzX) | 3:10 |
+| 66 | [Souljaboii Remixxx](https://open.spotify.com/track/4wdaPy15GosA2DVQ0P0nwp) | [Pen Gutt](https://open.spotify.com/artist/134vxVpC78AGeTmoApYQKD), [Chirag](https://open.spotify.com/artist/1Xfv0o1xU7jH7M9QYod7rj), [sa\_g](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L) | [Souljaboii Remixxx](https://open.spotify.com/album/6zobC136l4USs0YOARFGzX) | 3:10 |
+| 67 | [Veien](https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Veien](https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1) | 3:07 |
 | 68 | [Cph Freestyle](https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD), [Peder Nord](https://open.spotify.com/artist/54m555rji218uiKKLkIMzX) | [Bra År](https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA) | 1:49 |
 | 69 | [Put 'Em Up](https://open.spotify.com/track/1djMI5OklSedgWOoazUNVH) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Put 'Em Up](https://open.spotify.com/album/1gRxW7y4qFncNhrQUpu14T) | 3:04 |
 | 70 | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx) | 5:22 |

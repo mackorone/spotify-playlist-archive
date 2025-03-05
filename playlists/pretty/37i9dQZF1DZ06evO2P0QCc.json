@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 115124,
+  "num_followers": 115166,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8OfgAAAAABqZ8vT4uC2QgsDQrn9hlAo",
+  "snapshot_id": "Z8TxAAAAAADgYaH0/+o1yTdcBNSXRFyT",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 230207,
-      "name": "Deja Ya de Mentir",
-      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Convaleciente",
         "url": "https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 206694,
       "name": "Convaleciente",
       "url": "https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 230207,
+      "name": "Deja Ya de Mentir",
+      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
     },
     {
       "added_at": null,

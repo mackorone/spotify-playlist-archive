@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7crJ5uSmBor0rdpWunSnfj.md) - [plain]
 
 > Desperation
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 12 songs - 43 min 4 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 12 songs - 43 min 4 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

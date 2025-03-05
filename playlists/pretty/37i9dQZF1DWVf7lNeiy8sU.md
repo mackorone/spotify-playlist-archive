@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf7lNeiy8sU.md) - [plain]
 
 > Celebrando a mi San Juditas y a mi barrio en compañía de Eme MalaFe
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,101 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,147 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

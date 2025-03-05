@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 362307,
       "name": "Close My Eyes -\u8a18\u61b6\u306e\u6249- (feat. MEIKO)",
       "url": "https://open.spotify.com/track/629JBTvOyEyi0fqXLiVJDM"
@@ -364,6 +364,28 @@
       "duration_ms": 271998,
       "name": "Darwin Awards (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7rQiYHclslTrawV4MT3kHs"
+    },
+    {
+      "album": {
+        "name": "departure EP",
+        "url": "https://open.spotify.com/album/48LkmkQ67zedQog2YKkKnT"
+      },
+      "artists": [
+        {
+          "name": "Adomiori",
+          "url": "https://open.spotify.com/artist/4GCCMFsEYjm4th48sLCGrZ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147230,
+      "name": "departure (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4B5nZfhX9yUK6lVvSIiba1"
     },
     {
       "album": {
@@ -691,6 +713,24 @@
     },
     {
       "album": {
+        "name": "KALEIDO",
+        "url": "https://open.spotify.com/album/6nAgns6nJVScNM3PMu7yoM"
+      },
+      "artists": [
+        {
+          "name": "whoo",
+          "url": "https://open.spotify.com/artist/2PhFw7yt46F2dU8PV2eGpz"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288153,
+      "name": "KALEIDO (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1312r2ILOQa3nI3kE59D9o"
+    },
+    {
+      "album": {
         "name": "\u96e2\u5408",
         "url": "https://open.spotify.com/album/70nRajo2pfc6LrxSwxE8rY"
       },
@@ -706,7 +746,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 228089,
       "name": "Kariko (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3Ue3X9rOqyvcYex7gSEyEI"
@@ -902,7 +942,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 226363,
       "name": "PASSAGE (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/3CBz8B8mKSS461Hqk121km"
@@ -1080,7 +1120,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 172413,
       "name": "Serendipity (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/5JR9zJHljT4GIW30ShScor"
@@ -1665,7 +1705,7 @@
       "artists": [
         {
           "name": "\u30b8\u30b0",
-          "url": "https://open.spotify.com/artist/4Z7sHZkUEVKoRvDPWPFbKe"
+          "url": "https://open.spotify.com/artist/6e869zTslT6ZAJowpXGAMM"
         }
       ],
       "date_added": "2024-12-24",
@@ -1860,7 +1900,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 169624,
       "name": "\u3075\u305b\u3063\u3057\u3087\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3JVaLeKVfWO3povgWEhqw7"
@@ -2810,7 +2850,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 198375,
       "name": "\u30d1\u30fc\u30d7\u30eb\u30ad\u30e3\u30f3\u30c7\u30a3\u30e9\u30d6\u30dd\u30fc\u30b7\u30e7\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4K1T1JPbK503U2SVFx0KU7"
@@ -3776,7 +3816,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-05",
       "duration_ms": 283425,
       "name": "\u5929\u4f7f\u7531\u6765\u306e\u5b50\u5b88\u6b4c (feat. MEIKO)",
       "url": "https://open.spotify.com/track/4XKdOjZitWAitMiPp85vFF"
@@ -4336,7 +4376,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 176666,
       "name": "\u7070\u8272\u306e\u98a8\u8239 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3h2GUUKyZeQQiOxhI8gWMF"

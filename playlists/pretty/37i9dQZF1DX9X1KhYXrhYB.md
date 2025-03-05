@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X1KhYXrhYB.md) - [plain]
 
 > Secrets will be spilled\. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,789 likes - 120 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,228 likes - 120 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X1KhYXrhYB.md) - [plain]
 | 119 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 |
 | 120 | [No Return \(Extended Version\)](https://open.spotify.com/track/26asZ6eCAQqJByZD4eVTJa) | [Craig Wedren](https://open.spotify.com/artist/4GPehFTPUP3j8J8ULlpqWh), [Anna Waronker](https://open.spotify.com/artist/4TAV6oFZ5ARdlybbpFAFri) | [Blood Hive \(Original Score from the Showtime Series Yellowjackets\)](https://open.spotify.com/album/5s3QZqajwEsenbqMDNsgcr) | 3:00 |
 
-Snapshot ID: `Z8FtEAAAAABg1rFgyjCRXodjLHXzsb2u`
+Snapshot ID: `Z8FtEAAAAABjrxr90d+okuVZfD056OI5`

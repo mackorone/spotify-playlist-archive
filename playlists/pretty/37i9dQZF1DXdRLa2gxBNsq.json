@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Arpaviejas.",
-  "num_followers": 111051,
+  "num_followers": 111102,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-02-27 23:00:34",
       "album": {
-        "name": "Mama, Come, R\u00ede, Traga",
-        "url": "https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 172015,
-      "name": "Mama, Come, R\u00ede, Traga",
-      "url": "https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6"
-    },
-    {
-      "added_at": "2025-02-27 23:00:34",
-      "album": {
         "name": "Bienvenidos a Occidente",
         "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 254946,
       "name": "Prefiero Caminar",
       "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
+    },
+    {
+      "added_at": "2025-02-27 23:00:34",
+      "album": {
+        "name": "Mama, Come, R\u00ede, Traga",
+        "url": "https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 172015,
+      "name": "Mama, Come, R\u00ede, Traga",
+      "url": "https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6"
     },
     {
       "added_at": "2025-02-27 23:00:34",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-02-27 23:00:34",
       "album": {
+        "name": "Drogadicci\u00f3n",
+        "url": "https://open.spotify.com/album/205z0xubfl0a5zdgxXpsAq"
+      },
+      "artists": [
+        {
+          "name": "Gambas kon fimosis",
+          "url": "https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d"
+        }
+      ],
+      "duration_ms": 136521,
+      "name": "Drogadicci\u00f3n",
+      "url": "https://open.spotify.com/track/6rYbAbLsga9UW0qvOwyBbF"
+    },
+    {
+      "added_at": "2025-02-27 23:00:34",
+      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
-    },
-    {
-      "added_at": "2025-02-27 23:00:34",
-      "album": {
-        "name": "Drogadicci\u00f3n",
-        "url": "https://open.spotify.com/album/205z0xubfl0a5zdgxXpsAq"
-      },
-      "artists": [
-        {
-          "name": "Gambas kon fimosis",
-          "url": "https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d"
-        }
-      ],
-      "duration_ms": 136521,
-      "name": "Drogadicci\u00f3n",
-      "url": "https://open.spotify.com/track/6rYbAbLsga9UW0qvOwyBbF"
     },
     {
       "added_at": "2025-02-27 23:00:34",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-02-27 23:00:34",
       "album": {
-        "name": "Flakos",
-        "url": "https://open.spotify.com/album/4bmytLfH88cDDDLUz96FV4"
-      },
-      "artists": [
-        {
-          "name": "El Flacotirador",
-          "url": "https://open.spotify.com/artist/0iZeqWwJjhv5UN0LKxyfDq"
-        }
-      ],
-      "duration_ms": 220328,
-      "name": "Flakos",
-      "url": "https://open.spotify.com/track/6NoGBsWTCSi4D5yHLO5hz9"
-    },
-    {
-      "added_at": "2025-02-27 23:00:34",
-      "album": {
         "name": "Ahora soy un punkarra",
         "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 231593,
       "name": "No Olvidamos, 3 de Marzo",
       "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
+    },
+    {
+      "added_at": "2025-02-27 23:00:34",
+      "album": {
+        "name": "Flakos",
+        "url": "https://open.spotify.com/album/4bmytLfH88cDDDLUz96FV4"
+      },
+      "artists": [
+        {
+          "name": "El Flacotirador",
+          "url": "https://open.spotify.com/artist/0iZeqWwJjhv5UN0LKxyfDq"
+        }
+      ],
+      "duration_ms": 220328,
+      "name": "Flakos",
+      "url": "https://open.spotify.com/track/6NoGBsWTCSi4D5yHLO5hz9"
     },
     {
       "added_at": "2025-02-27 23:00:34",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-02-27 23:00:34",
       "album": {
-        "name": "Todos Mis Enemigos Se Llaman Cayetano",
-        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 57840,
-      "name": "Todos Mis Enemigos Se Llaman Cayetano",
-      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
-    },
-    {
-      "added_at": "2025-02-27 23:00:34",
-      "album": {
         "name": "Yo Soy Aquel",
         "url": "https://open.spotify.com/album/7LS6h2qgq2smyc3dVEiEMD"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2025-02-27 23:00:34",
       "album": {
+        "name": "Todos Mis Enemigos Se Llaman Cayetano",
+        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 57840,
+      "name": "Todos Mis Enemigos Se Llaman Cayetano",
+      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
+    },
+    {
+      "added_at": "2025-02-27 23:00:34",
+      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 176117,
       "name": "Asesinos",
       "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
-    },
-    {
-      "added_at": "2025-02-27 23:00:34",
-      "album": {
-        "name": "Solidaridad",
-        "url": "https://open.spotify.com/album/2vSZJItxKV4X9yBHf7YiLj"
-      },
-      "artists": [
-        {
-          "name": "Kraken PunkRock",
-          "url": "https://open.spotify.com/artist/4OitUQ1rKKZobNXdgd7P4W"
-        }
-      ],
-      "duration_ms": 223722,
-      "name": "Solidaridad",
-      "url": "https://open.spotify.com/track/2dUJdEReUw0NxdEFA3kTrr"
     },
     {
       "added_at": "2025-02-27 23:00:34",
@@ -1147,22 +1131,18 @@
     {
       "added_at": "2025-02-27 23:00:34",
       "album": {
-        "name": "Convenci\u00f3n de Mullets",
-        "url": "https://open.spotify.com/album/197X7IM9I4JEgQpOjwZKYc"
+        "name": "Solidaridad",
+        "url": "https://open.spotify.com/album/2vSZJItxKV4X9yBHf7YiLj"
       },
       "artists": [
         {
-          "name": "Presidentas Vivas",
-          "url": "https://open.spotify.com/artist/6KcLjoYGFqWMvTWMu3ncDm"
-        },
-        {
-          "name": "Vaiolens",
-          "url": "https://open.spotify.com/artist/0bICiRAqzk4iq6U3TdTdoo"
+          "name": "Kraken PunkRock",
+          "url": "https://open.spotify.com/artist/4OitUQ1rKKZobNXdgd7P4W"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Convenci\u00f3n de Mullets",
-      "url": "https://open.spotify.com/track/1dhq6DQX1xM3hpUbqJDcBL"
+      "duration_ms": 223722,
+      "name": "Solidaridad",
+      "url": "https://open.spotify.com/track/2dUJdEReUw0NxdEFA3kTrr"
     },
     {
       "added_at": "2025-02-27 23:00:34",
@@ -1183,18 +1163,22 @@
     {
       "added_at": "2025-02-27 23:00:34",
       "album": {
-        "name": "La Regla (Remasterizado 2025)",
-        "url": "https://open.spotify.com/album/1mRc53ufKGUI125a5PRo9b"
+        "name": "Convenci\u00f3n de Mullets",
+        "url": "https://open.spotify.com/album/197X7IM9I4JEgQpOjwZKYc"
       },
       "artists": [
         {
-          "name": "Kostramorfosis",
-          "url": "https://open.spotify.com/artist/6sgUGQHbusS6tWOhCi4gdM"
+          "name": "Presidentas Vivas",
+          "url": "https://open.spotify.com/artist/6KcLjoYGFqWMvTWMu3ncDm"
+        },
+        {
+          "name": "Vaiolens",
+          "url": "https://open.spotify.com/artist/0bICiRAqzk4iq6U3TdTdoo"
         }
       ],
-      "duration_ms": 134465,
-      "name": "La Regla - Remasterizado 2025",
-      "url": "https://open.spotify.com/track/2jc6rLVLgdf6Bj2IsHs6UW"
+      "duration_ms": 136000,
+      "name": "Convenci\u00f3n de Mullets",
+      "url": "https://open.spotify.com/track/1dhq6DQX1xM3hpUbqJDcBL"
     },
     {
       "added_at": "2025-02-27 23:00:34",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2025-02-27 23:00:34",
       "album": {
+        "name": "La Regla (Remasterizado 2025)",
+        "url": "https://open.spotify.com/album/1mRc53ufKGUI125a5PRo9b"
+      },
+      "artists": [
+        {
+          "name": "Kostramorfosis",
+          "url": "https://open.spotify.com/artist/6sgUGQHbusS6tWOhCi4gdM"
+        }
+      ],
+      "duration_ms": 134465,
+      "name": "La Regla - Remasterizado 2025",
+      "url": "https://open.spotify.com/track/2jc6rLVLgdf6Bj2IsHs6UW"
+    },
+    {
+      "added_at": "2025-02-27 23:00:34",
+      "album": {
         "name": "Vestiglo",
         "url": "https://open.spotify.com/album/3Wq36wotVY9MNe1Q3PUBXe"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 177449,
       "name": "Vestiglo",
       "url": "https://open.spotify.com/track/0fbuBJHt8REl3gqI8bbsRB"
+    },
+    {
+      "added_at": "2025-02-27 23:00:34",
+      "album": {
+        "name": "An\u00eds&Roll",
+        "url": "https://open.spotify.com/album/5CbRJZo4lhHYiC3NzA0u3K"
+      },
+      "artists": [
+        {
+          "name": "Fabes con Almejes",
+          "url": "https://open.spotify.com/artist/6W1VrFDrRaMbCHkWiFHGfd"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "Vendimia Rock",
+      "url": "https://open.spotify.com/track/7vDnHy8aZJLdHNnGRKB7e2"
     },
     {
       "added_at": "2025-02-27 23:00:34",
@@ -1247,18 +1263,22 @@
     {
       "added_at": "2025-02-27 23:00:34",
       "album": {
-        "name": "An\u00eds&Roll",
-        "url": "https://open.spotify.com/album/5CbRJZo4lhHYiC3NzA0u3K"
+        "name": "Algo Se Tuerce",
+        "url": "https://open.spotify.com/album/6WsgjkUck2yh7jmVSLStut"
       },
       "artists": [
         {
-          "name": "Fabes con Almejes",
-          "url": "https://open.spotify.com/artist/6W1VrFDrRaMbCHkWiFHGfd"
+          "name": "Casual Kids",
+          "url": "https://open.spotify.com/artist/6Du1nUi00XM60WEBK4LqEz"
+        },
+        {
+          "name": "Odio Kronico",
+          "url": "https://open.spotify.com/artist/2lbPbsEKtHvu3mIhep5870"
         }
       ],
-      "duration_ms": 200470,
-      "name": "Vendimia Rock",
-      "url": "https://open.spotify.com/track/7vDnHy8aZJLdHNnGRKB7e2"
+      "duration_ms": 158268,
+      "name": "Algo Se Tuerce",
+      "url": "https://open.spotify.com/track/1aq2koct6YoMKfSpM45nCD"
     },
     {
       "added_at": "2025-02-27 23:00:34",
@@ -1291,26 +1311,6 @@
       "duration_ms": 146000,
       "name": "La Sombra",
       "url": "https://open.spotify.com/track/0l7EEoDWt4JiSE9r1DcaZk"
-    },
-    {
-      "added_at": "2025-02-27 23:00:34",
-      "album": {
-        "name": "Algo Se Tuerce",
-        "url": "https://open.spotify.com/album/6WsgjkUck2yh7jmVSLStut"
-      },
-      "artists": [
-        {
-          "name": "Casual Kids",
-          "url": "https://open.spotify.com/artist/6Du1nUi00XM60WEBK4LqEz"
-        },
-        {
-          "name": "Odio Kronico",
-          "url": "https://open.spotify.com/artist/2lbPbsEKtHvu3mIhep5870"
-        }
-      ],
-      "duration_ms": 158268,
-      "name": "Algo Se Tuerce",
-      "url": "https://open.spotify.com/track/1aq2koct6YoMKfSpM45nCD"
     },
     {
       "added_at": "2025-02-27 23:00:34",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-02-27 23:00:34",
       "album": {
-        "name": "BARNEKO DISDIRA",
-        "url": "https://open.spotify.com/album/040DUjtixH23QpspLUQ7lS"
-      },
-      "artists": [
-        {
-          "name": "Brigade Loco",
-          "url": "https://open.spotify.com/artist/7vHtzjOcvBFheRysRt9BWd"
-        }
-      ],
-      "duration_ms": 200335,
-      "name": "BARNEKO DISDIRA",
-      "url": "https://open.spotify.com/track/3VjSI6cui9LYK9jMpwemhs"
-    },
-    {
-      "added_at": "2025-02-27 23:00:34",
-      "album": {
         "name": "Gente de Bien",
         "url": "https://open.spotify.com/album/33sSPx1izCb8SVgK3fQhmA"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 128187,
       "name": "Gente de Bien",
       "url": "https://open.spotify.com/track/10UptxiVMR6usebUtTsLbS"
+    },
+    {
+      "added_at": "2025-02-27 23:00:34",
+      "album": {
+        "name": "BARNEKO DISDIRA",
+        "url": "https://open.spotify.com/album/040DUjtixH23QpspLUQ7lS"
+      },
+      "artists": [
+        {
+          "name": "Brigade Loco",
+          "url": "https://open.spotify.com/artist/7vHtzjOcvBFheRysRt9BWd"
+        }
+      ],
+      "duration_ms": 200335,
+      "name": "BARNEKO DISDIRA",
+      "url": "https://open.spotify.com/track/3VjSI6cui9LYK9jMpwemhs"
     },
     {
       "added_at": "2025-02-27 23:00:34",

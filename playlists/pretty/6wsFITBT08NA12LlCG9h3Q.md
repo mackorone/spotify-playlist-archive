@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6wsFITBT08NA12LlCG9h3Q.md) - [plain]
 
 > A <a href="http://www.digster.fm/decades">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 151,291 likes - 49 songs - 3 hr 20 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 151,288 likes - 49 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/6wsFITBT08NA12LlCG9h3Q.md) - [plain]
 | 48 | [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/46sWNhwTkjgpnL7QWt7Fr2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/3x507Iwk3UNquPkPrnHRrt) | 3:08 |
 | 49 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
 
-Snapshot ID: `AAAEaXdaT5n+NXayM7drBlqvbOtW05R9`
+Snapshot ID: `AAAEbPsjaJ4kcSBsyhfBeNlcky+g3F8v`

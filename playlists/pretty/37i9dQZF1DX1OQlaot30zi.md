@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Flaco G, Shiva e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,791 likes - 120 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,809 likes - 120 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 36 | [CHI RESTA](https://open.spotify.com/track/5K0XaOGpaYF3ucJ5wK6Okj) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK) | [CHI RESTA](https://open.spotify.com/album/71HFVWzvUiWTdnGkWJIKbi) | 2:09 |
 | 37 | [CEROTTI](https://open.spotify.com/track/1GHt5z1KmpflPnub3rrMzH) | [Chosen 1](https://open.spotify.com/artist/14bGwSN7BvF4nASd1MQ5ur) | [CEROTTI](https://open.spotify.com/album/0PDCmT9W70ZuubNMoNPOAM) | 2:39 |
 | 38 | [REAL LIFE](https://open.spotify.com/track/50Ihev7QjupgKrD82gfLK5) | [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [REAL LIFE](https://open.spotify.com/album/7m53jr4dRbOZU5jEC4wpJK) | 2:35 |
-| 39 | [Veloce](https://open.spotify.com/track/5siHz0k5hddIUBzG0ufPbb) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ), [Brama](https://open.spotify.com/artist/2b2rgwCPsopAIsOkxLJnp2) | [\#Ora \#Stiamo \#Ridendo](https://open.spotify.com/album/52OEraqn3oTqgIRPmbCmX4) | 2:22 |
+| 39 | [Veloce](https://open.spotify.com/track/5siHz0k5hddIUBzG0ufPbb) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry), [Brama](https://open.spotify.com/artist/2b2rgwCPsopAIsOkxLJnp2) | [\#Ora \#Stiamo \#Ridendo](https://open.spotify.com/album/52OEraqn3oTqgIRPmbCmX4) | 2:22 |
 | 40 | [GIOSTRA](https://open.spotify.com/track/08A9CwrirubCRxidvMtuO4) | [Commodo](https://open.spotify.com/artist/3tdN1qijWdkKpbB2ofQCmo) | [GIOSTRA](https://open.spotify.com/album/0kqbiYPjVIXzYY8bPU5jXz) | 2:28 |
 | 41 | [DEMONIA](https://open.spotify.com/track/6sm1I8KQUPFAp6peLEFuZe) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [DEMONIA](https://open.spotify.com/album/1fnvtjULnkhp25og59Xciv) | 2:29 |
 | 42 | [No iPhone](https://open.spotify.com/track/38FBUVBFNken57Q25fQxPG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [No iPhone](https://open.spotify.com/album/2U8fPsJLJGwykY38e1vfDG) | 2:16 |

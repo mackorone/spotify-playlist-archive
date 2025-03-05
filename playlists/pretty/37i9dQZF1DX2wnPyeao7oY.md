@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Vacuous \| Artwork: Nejc Prah
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,651 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,701 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 10 | [LEECH](https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [LEECH](https://open.spotify.com/album/2cNUcSOqhUZoOoGluEENZV) | 3:53 |
 | 11 | [Victim](https://open.spotify.com/track/2MmJg1AUWL9hFrpIEYfl8T) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Victim](https://open.spotify.com/album/2fS2HfXoGQKLuY22KOFr9p) | 4:21 |
 | 12 | [Karma](https://open.spotify.com/track/0wyjCX2bnPCLWNNWucn8xj) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Karma](https://open.spotify.com/album/6r4DqmvfUbesDv6NkpuZX7) | 2:41 |
-| 13 | [FALSE BOY](https://open.spotify.com/track/51rEgyIvsV9kC9QRYnRQXI) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org), [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [FALSE BOY](https://open.spotify.com/album/31IyDZIiKESACQ5rWqeO9I) | 3:03 |
+| 13 | [FALSE BOY](https://open.spotify.com/track/51rEgyIvsV9kC9QRYnRQXI) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org) | [FALSE BOY](https://open.spotify.com/album/31IyDZIiKESACQ5rWqeO9I) | 3:03 |
 | 14 | [No Place for You](https://open.spotify.com/track/1uxVsLqdq1ROCJS7IyDozS) | [ZUKØ](https://open.spotify.com/artist/7GJIhl4Ulpu4QNL4EuJfE8) | [No Place for You](https://open.spotify.com/album/2EYkfBpjdnKyJVIUuFp5vX) | 2:50 |
 | 15 | [Hypothermia](https://open.spotify.com/track/1lUDwFk4gC7dnJLklItVMH) | [Freeze the Fall](https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc) | [Hypothermia](https://open.spotify.com/album/6Ou4V2zNK8pHrHagE100a8) | 3:40 |
 | 16 | [In Too Deep](https://open.spotify.com/track/7Mk6jjIIZoHAjm9H5satgo) | [LUMENS](https://open.spotify.com/artist/60DI1CV1J1duDsDo54A59m) | [In Too Deep](https://open.spotify.com/album/4Srahb17IcadwNRxb8GIaA) | 3:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 59 | [Inquietude](https://open.spotify.com/track/1f3yvqRp7XQMFvk4pcbN2c) | [Tenue](https://open.spotify.com/artist/4lHTvhSBYET8vaavUNzps0) | [Arcos, bóvedas, pórticos](https://open.spotify.com/album/3nsJzjRfQRfWER2GWw5vy9) | 9:10 |
 | 60 | [Amputated Satisfaction](https://open.spotify.com/track/2lPS42gFcs8Sr3X91PGWFw) | [CRUCIFICTION](https://open.spotify.com/artist/1yf1dC29po0p4GRKzrcxGS) | [Will To Power](https://open.spotify.com/album/06wESQykn7vrMX6OsYIogr) | 3:24 |
 
-Snapshot ID: `Z76f2QAAAAA+oqXABsZNBuT6u58UyAyY`
+Snapshot ID: `Z76f2QAAAAACKeKnxwCIMAP+pfY87Tzx`

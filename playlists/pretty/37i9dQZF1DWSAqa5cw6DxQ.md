@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,161 likes - 110 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,213 likes - 110 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 109 | [Whispers of Rest](https://open.spotify.com/track/4EMWK2dNi6leMozs4PVH4i) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Whispers of Rest](https://open.spotify.com/album/56ISW5BsAhkyXXpYD5qhhn) | 3:01 |
 | 110 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 |
 
-Snapshot ID: `Z66/xgAAAAAxDCTdW/PfgIj9mQjt7qzw`
+Snapshot ID: `Z66/xgAAAAAByKaiV69gR+afc2iNvlIF`
