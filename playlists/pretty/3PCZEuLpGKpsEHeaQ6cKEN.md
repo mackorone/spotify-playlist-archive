@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren , Bon Jovi
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,580 likes - 186 songs - 9 hr 38 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,571 likes - 186 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

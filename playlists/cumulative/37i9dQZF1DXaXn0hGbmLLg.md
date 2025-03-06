@@ -2,7 +2,7 @@
 
 ### [EQUAL Benelux](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
 
-> Listen to women at full volume! Benelux ambassador: <a href="spotify:artist:5VyGPIz23xzQUyXocTxAvL">philine</a
+> Listen to women at full volume! Benelux ambassador: <a href="spotify:artist:5VyGPIz23xzQUyXocTxAvL">philine</a>
 
 2,217 songs - 4 day 20 hr 18 min
 

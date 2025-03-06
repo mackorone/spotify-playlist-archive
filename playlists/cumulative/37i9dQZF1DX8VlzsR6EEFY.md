@@ -2,9 +2,9 @@
 
 ### [La Miscelánea: Banda, Corridos & más...](https://open.spotify.com/playlist/37i9dQZF1DX8VlzsR6EEFY)
 
-> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Pesado y Bronco en portada.
+> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Nico Hernández en portada.
 
-277 songs - 14 hr 25 min
+278 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [El Valiente](https://open.spotify.com/track/2nMUyoPs9if5CMl07wuELR) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [El Valiente](https://open.spotify.com/album/3KaTydWo5cOZEQQTXejf8N) | 3:02 | 2024-08-16 | 2024-11-27 |
 | [El Vicio De Quererte](https://open.spotify.com/track/4dA1TZ1qwdSzGuzwjwb03Z) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 3:18 | 2024-05-24 | 2024-11-30 |
 | [EN DONDE ESTAS](https://open.spotify.com/track/6m4wCZvfc9QKiXmyTRmlNc) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [EN DONDE ESTAS](https://open.spotify.com/album/6BKDDrvvXoIgYIy2ZMnZnN) | 3:16 | 2024-11-29 |  |
-| [En Qué Momento](https://open.spotify.com/track/7hqQRn8nYHIESyKoiJsJPz) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [En Qué Momento](https://open.spotify.com/album/3wJYAxoS4NGqtHYe35kLuK) | 2:45 | 2025-02-21 |  |
+| [En Qué Momento](https://open.spotify.com/track/7hqQRn8nYHIESyKoiJsJPz) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [En Qué Momento](https://open.spotify.com/album/3wJYAxoS4NGqtHYe35kLuK) | 2:45 | 2025-02-21 | 2025-03-06 |
 | [Enamorado de la Muerte](https://open.spotify.com/track/5mJnSACWnnXWVPctZQcktp) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Quién Los Viera!!](https://open.spotify.com/album/6kil8QWE2WD0nMbQwbfLiC) | 3:02 | 2024-04-19 | 2024-05-04 |
 | [Enamorado Estoy](https://open.spotify.com/track/2ImBvTj4CMGqi2SAAoSSGR) | [Adverzo](https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Enamorado Estoy](https://open.spotify.com/album/54IZ6iltXjcMfJRZAXDIFD) | 3:30 | 2024-08-30 | 2025-02-22 |
 | [Entre Tú Y Mil Mares](https://open.spotify.com/track/0vjvRsb5o6FQrZ5hTECOIt) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5) | [Entre Tú Y Mil Mares](https://open.spotify.com/album/6wwb8F16SyURIipH7nyUy4) | 3:54 | 2024-04-19 | 2024-06-01 |
@@ -161,6 +161,7 @@
 | [Mamacita](https://open.spotify.com/track/1EgDuGy5UlKVLTWv0UqIYL) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mamacita](https://open.spotify.com/album/31bOSdDYTvdfgIAGXUeCHk) | 2:41 | 2024-04-12 | 2024-04-27 |
 | [Manos De Tijera](https://open.spotify.com/track/0flla08BdQxOrdbMl5oDO6) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Manos De Tijera](https://open.spotify.com/album/0P6t2omP7inmRkHnnQuWcp) | 4:01 | 2024-03-08 | 2024-04-27 |
 | [Mariposa Traicionera](https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mariposa Traicionera](https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ) | 4:04 | 2024-11-15 |  |
+| [Me Enamoré](https://open.spotify.com/track/6yh4phrNduhMduSKHdW626) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Lo Más Importante Es El Amor](https://open.spotify.com/album/3RFzIXaLYrCxF7t8yqOC1R) | 2:57 | 2025-03-05 |  |
 | [Me Gana el Sentimiento](https://open.spotify.com/track/0NcONqc4jhioyKur5pvPc3) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 2:47 | 2024-03-08 | 2024-05-25 |
 | [Me Recordaras](https://open.spotify.com/track/1Rgapgagk9d7HnGrcYh55l) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Me Recordaras](https://open.spotify.com/album/0rZjGjQ7Ldvcn43ecZ1z2b) | 3:28 | 2025-02-21 |  |
 | [Me Va A Perder](https://open.spotify.com/track/0irNPJFAn4CjaNE6JRapMT) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Va A Perder](https://open.spotify.com/album/4oZ0ozTz16miAPCbzeJc6g) | 2:55 | 2024-03-08 | 2024-04-19 |

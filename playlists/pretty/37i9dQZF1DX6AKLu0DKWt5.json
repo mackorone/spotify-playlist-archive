@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7237,
+  "num_followers": 7239,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "True Detective: Night Country (Soundtrack from the HBO\u00ae Original Series)",
-        "url": "https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL"
-      },
-      "artists": [
-        {
-          "name": "John Hawkes",
-          "url": "https://open.spotify.com/artist/0HM33x7ygNCjJ5Pr32Z65J"
-        }
-      ],
-      "duration_ms": 150506,
-      "name": "No Use",
-      "url": "https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Memoir of a Snail (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1H8bD3MLvHXILLndloghYL"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 90498,
       "name": "Memoir of a Snail",
       "url": "https://open.spotify.com/track/6JLSDSyBfFWP1QWLBNB9kz"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "True Detective: Night Country (Soundtrack from the HBO\u00ae Original Series)",
+        "url": "https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL"
+      },
+      "artists": [
+        {
+          "name": "John Hawkes",
+          "url": "https://open.spotify.com/artist/0HM33x7ygNCjJ5Pr32Z65J"
+        }
+      ],
+      "duration_ms": 150506,
+      "name": "No Use",
+      "url": "https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj"
     },
     {
       "added_at": "2024-12-20 14:00:08",

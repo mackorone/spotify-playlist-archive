@@ -4,7 +4,7 @@
 
 > big d com a senha da cena, fenomenal!
 
-279 songs - 13 hr 9 min
+280 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Sangue Negro](https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc) | [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Sangue Negro](https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R) | 1:44 | 2023-09-22 | 2023-10-14 |
 | [Se Entregue](https://open.spotify.com/track/4OSbrWCom49jTHMhhprk0I) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Se Entregue](https://open.spotify.com/album/2uIFw8t8vjPirLoRia0yII) | 4:20 | 2023-08-18 | 2023-09-16 |
 | [Se Envolver](https://open.spotify.com/track/5Mu7uE5PxXJsGLOpjMUjYJ) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [VV Clã](https://open.spotify.com/artist/2ekFq5fQY5a5UX7mEu17s1), [Ene Jhow](https://open.spotify.com/artist/6cRMSFgsQR4EobqdJpBkmR) | [Black Queen Vol\. 1](https://open.spotify.com/album/5xcl6VWdjYK4OGaPNCFFP1) | 2:46 | 2022-03-11 | 2022-11-12 |
+| [Se Situa](https://open.spotify.com/track/7dQnTVYRiStmeCPJMi0C73) | [Juba Mary](https://open.spotify.com/artist/3GVeGzEj7i4BYcWZVCvud7), [MLZBeats](https://open.spotify.com/artist/2WjABpNPKL2jH9Wi4V6yjv), [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK) | [Se Situa](https://open.spotify.com/album/4y0JALryxPjMHIVidWqvG7) | 2:37 | 2025-03-05 |  |
 | [Segredo](https://open.spotify.com/track/1vQXkWFnyhotk8WhS7gRxA) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [Segredo](https://open.spotify.com/album/1ASqKOHKRjm5j0qQlSCGz3) | 2:58 | 2022-05-27 | 2022-08-27 |
 | [Sem Tempo](https://open.spotify.com/track/4OjU6vAV8f9pSCUScsgYek) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Sem Tempo](https://open.spotify.com/album/3YbO6IwKj63ABxzrqApH3g) | 2:30 | 2022-03-11 | 2022-05-28 |
 | [Sempre Vigiando](https://open.spotify.com/track/3fpp2ctX7J8w2irjjtbDWg) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Sempre Vigiando](https://open.spotify.com/album/5aIaJUTj6LvBjmUPW9AlU0) | 2:55 | 2023-09-01 | 2023-11-18 |
@@ -252,7 +253,7 @@
 | [Sou Eu Mesma](https://open.spotify.com/track/0jBkw14sG2bbWaAWt95INe) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sou Eu Mesma](https://open.spotify.com/album/3XrbOjWQ3dRDGAynXACRAP) | 1:36 | 2024-06-28 | 2024-07-13 |
 | [Splash](https://open.spotify.com/track/0MiKYMb1Xl8IKdPhX7FY42) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Splash](https://open.spotify.com/album/4SWhKicqhmRaAICmYGfzsM) | 2:48 | 2023-12-29 |  |
 | [Start](https://open.spotify.com/track/1Ypz913IjKppWK1hxAIj9f) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Cravo & Rosa](https://open.spotify.com/artist/7CZY4fkg3glgemUoc8fOcJ) | [Quartzo](https://open.spotify.com/album/3go0N6khdsiwn2msqeBno6) | 3:16 | 2022-03-11 | 2022-04-16 |
-| [Suck My Dick](https://open.spotify.com/track/0EyYzHLDjjOz4Y583sti4c) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Suck My Dick](https://open.spotify.com/album/4t61DdUu0REe02zjWqtq2x) | 2:36 | 2024-12-13 |  |
+| [Suck My Dick](https://open.spotify.com/track/0EyYzHLDjjOz4Y583sti4c) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Suck My Dick](https://open.spotify.com/album/4t61DdUu0REe02zjWqtq2x) | 2:36 | 2024-12-13 | 2025-03-06 |
 | [Sugar Mama](https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Sugar Mama](https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu) | 1:18 | 2023-07-28 | 2023-08-19 |
 | [Susuave](https://open.spotify.com/track/5Gy7iZkGRIY8zUYXzuuvi3) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:38 | 2022-03-11 | 2022-08-13 |
 | [Só](https://open.spotify.com/track/21zml0AVaufInHzJZ74ZZa) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:11 | 2024-10-11 |  |

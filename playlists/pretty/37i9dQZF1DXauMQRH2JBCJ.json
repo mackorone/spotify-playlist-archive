@@ -1,13 +1,33 @@
 {
   "description": "All your favorite Disney songs wrapped up with love!",
-  "num_followers": 248866,
+  "num_followers": 248973,
   "original_name": "Disney Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7kHvwAAAABNgWUgG+qH8pnQlFY9AwdM",
+  "snapshot_id": "Z8faVAAAAAB+f4FynZZ0yld8pi+gOHii",
   "tracks": [
+    {
+      "added_at": "2025-03-05 05:00:04",
+      "album": {
+        "name": "Waiting On A Wish (From \"Disney's Snow White\")",
+        "url": "https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Waiting On A Wish - From \"Disney's Snow White\"",
+      "url": "https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx"
+    },
     {
       "added_at": "2024-02-12 21:13:22",
       "album": {

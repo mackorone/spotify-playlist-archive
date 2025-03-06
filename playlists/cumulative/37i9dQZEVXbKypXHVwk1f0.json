@@ -3143,6 +3143,32 @@
     },
     {
       "album": {
+        "name": "Benjamin",
+        "url": "https://open.spotify.com/album/1Tk3BiUx7hOVfO0689MDuY"
+      },
+      "artists": [
+        {
+          "name": "El Boys C",
+          "url": "https://open.spotify.com/artist/3B1GmppngulhD9aMDzTLs4"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250044,
+      "name": "Benjamin",
+      "url": "https://open.spotify.com/track/5rfL02uMO6NpMLMCkkNdpR"
+    },
+    {
+      "album": {
         "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) [Remix]",
         "url": "https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq"
       },
@@ -6248,7 +6274,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
@@ -19908,7 +19934,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 138795,
       "name": "Paciente",
       "url": "https://open.spotify.com/track/4eKAx3C5qUU5P1ABggLwyo"
@@ -30026,7 +30052,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 157755,
       "name": "VITAMINA",
       "url": "https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5"

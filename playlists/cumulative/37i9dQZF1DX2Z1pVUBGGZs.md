@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring matilda mann  ☁️
 
-349 songs - 17 hr 30 min
+350 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 | 2025-02-07 |  |
 | [ALL MY GIRLS ARE TOMBOYS](https://open.spotify.com/track/4yiOJSF1pkw1MCcTom9VFT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [ALL MY GIRLS ARE TOMBOYS](https://open.spotify.com/album/0sqr8Z6obltglzGSeeFjYr) | 3:12 | 2024-10-03 | 2025-02-14 |
 | [Always Like This](https://open.spotify.com/track/0H6ABSnWE53gUJIdiadL6e) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Always Like This](https://open.spotify.com/album/5G8PoOaWgopOQRhJlk66tq) | 2:55 | 2024-10-03 | 2024-11-22 |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-05 |  |
 | [AppleBottomCigarets](https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [AppleBottomCigarets](https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1) | 2:26 | 2025-01-24 | 2025-02-28 |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-10 |  |
 | [Babe](https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [Richie](https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa) | [Babe](https://open.spotify.com/album/3fGFAVv90etRh2ws3W9bI0) | 3:08 | 2024-08-23 | 2024-11-15 |

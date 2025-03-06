@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 196535,
       "name": "Bass Up To The Top",
       "url": "https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 369230,
       "name": "Break It Down",
       "url": "https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf"
@@ -3095,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Who You Talking To ?",
+        "url": "https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Gangster Boogie - Radio-Edit",
+      "url": "https://open.spotify.com/track/0EMrYjvRTAB86EgslzOLq8"
+    },
+    {
+      "album": {
         "name": "Club Vibes Part 01",
         "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
       },
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 180000,
       "name": "International Confusion",
       "url": "https://open.spotify.com/track/0DQ405FyEXx2Jujui8Uhg6"
@@ -9185,6 +9203,24 @@
     },
     {
       "album": {
+        "name": "Trip Mode",
+        "url": "https://open.spotify.com/album/4MhmUIOqJXnEf5PAfeJzS9"
+      },
+      "artists": [
+        {
+          "name": "Dan Fresco",
+          "url": "https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234503,
+      "name": "Trip Mode",
+      "url": "https://open.spotify.com/track/4SrHhOkSb5gFiOKheXdPjH"
+    },
+    {
+      "album": {
         "name": "TRiPPPY",
         "url": "https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ"
       },
@@ -9998,6 +10034,24 @@
       "duration_ms": 196030,
       "name": "World Is Empty",
       "url": "https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6"
+    },
+    {
+      "album": {
+        "name": "Who You Talking To ?",
+        "url": "https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Wub Riddim - Radio-Edit",
+      "url": "https://open.spotify.com/track/6S72FPVYg4v4STK7kISlXG"
     },
     {
       "album": {

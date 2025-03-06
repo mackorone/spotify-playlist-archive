@@ -1,6 +1,6 @@
 {
   "description": "\u808c\u5bd2\u3044\u65e5\u3005\u3092\u5c11\u3057\u3060\u3051\u6696\u3081\u308b\u3088\u3046\u306a\u51ac\u306e\u540d\u66f2\u305f\u3061\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\n",
-  "num_followers": 25036,
+  "num_followers": 25048,
   "original_name": "Winter is Here #\u771f\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-03-04 15:00:28",
       "album": {
+        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0"
+    },
+    {
+      "added_at": "2025-03-04 15:00:28",
+      "album": {
         "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f COCKTAIL SOUNDS MIX",
         "url": "https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 191238,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f COCKTAIL SOUNDS MIX",
       "url": "https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4"
-    },
-    {
-      "added_at": "2025-03-04 15:00:28",
-      "album": {
-        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0"
     },
     {
       "added_at": "2025-03-04 15:00:28",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-03-04 15:00:28",
       "album": {
-        "name": "Liebe vor der T\u00fcr",
-        "url": "https://open.spotify.com/album/2YxiPjSaIAKzJXFU9Tq6y3"
-      },
-      "artists": [
-        {
-          "name": "Lina Maly",
-          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
-        }
-      ],
-      "duration_ms": 180803,
-      "name": "Liebe vor der T\u00fcr",
-      "url": "https://open.spotify.com/track/7nDAkQ4VSflNta0tR9Rykq"
-    },
-    {
-      "added_at": "2025-03-04 15:00:28",
-      "album": {
         "name": "\u30e1\u30eb\u30c8",
         "url": "https://open.spotify.com/album/3ScJNa9OOkQYCVc3A6eg6P"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 163143,
       "name": "\u30e1\u30eb\u30c8",
       "url": "https://open.spotify.com/track/1l3DyfCBMljhECA1oO2ySP"
+    },
+    {
+      "added_at": "2025-03-04 15:00:28",
+      "album": {
+        "name": "Liebe vor der T\u00fcr",
+        "url": "https://open.spotify.com/album/2YxiPjSaIAKzJXFU9Tq6y3"
+      },
+      "artists": [
+        {
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+        }
+      ],
+      "duration_ms": 180803,
+      "name": "Liebe vor der T\u00fcr",
+      "url": "https://open.spotify.com/track/7nDAkQ4VSflNta0tR9Rykq"
     },
     {
       "added_at": "2025-03-04 15:00:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-03-04 15:00:28",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/0jFqVbw8OyszgD0UKMAJW9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 205669,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/5vV032EIPCaNXpq1AhfjDj"
-    },
-    {
-      "added_at": "2025-03-04 15:00:28",
-      "album": {
         "name": "\u6cab\u96ea",
         "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 184266,
       "name": "\u6cab\u96ea",
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
+    },
+    {
+      "added_at": "2025-03-04 15:00:28",
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/0jFqVbw8OyszgD0UKMAJW9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 205669,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/5vV032EIPCaNXpq1AhfjDj"
     },
     {
       "added_at": "2025-03-04 15:00:28",

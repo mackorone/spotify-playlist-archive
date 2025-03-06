@@ -4,11 +4,11 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Behemoth
 
-687 songs - 2 day 10 hr 59 min
+688 songs - 2 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Entering the Vortex Temporum\) \- Pre\-mortem Phosphenes](https://open.spotify.com/track/6a1d2AgSm04VFlXaH0aviH) | [Cosmic Putrefaction](https://open.spotify.com/artist/7w2cQkraSNaYeHe5nHgvA8) | [Emerald Fires Atop The Farewell Mountains](https://open.spotify.com/album/7IaiGxv40f0gEd9Y1BCgS1) | 5:56 | 2025-01-30 |  |
+| [\(Entering the Vortex Temporum\) \- Pre\-mortem Phosphenes](https://open.spotify.com/track/6a1d2AgSm04VFlXaH0aviH) | [Cosmic Putrefaction](https://open.spotify.com/artist/7w2cQkraSNaYeHe5nHgvA8) | [Emerald Fires Atop The Farewell Mountains](https://open.spotify.com/album/7IaiGxv40f0gEd9Y1BCgS1) | 5:56 | 2025-01-30 | 2025-03-06 |
 | [666 Voices Inside](https://open.spotify.com/track/7AdA9vNvPC9xdH3l4pPzS5) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Attera Totus Sanctus](https://open.spotify.com/album/53m5q93sqZpTZ8NFtWHKuE) | 4:38 | 2022-07-13 | 2023-02-16 |
 | [A Cabin In Montana](https://open.spotify.com/track/3EDprUOaHpTGV2pwa6qc88) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [A Cabin In Montana](https://open.spotify.com/album/1QnBuKEM08QSmO1mTLqon2) | 6:55 | 2023-09-01 | 2023-10-03 |
 | [A Chill That You Can't Taint](https://open.spotify.com/track/3PcpS4oDufrMzcWOcChnDC) | [Forgotten Tomb](https://open.spotify.com/artist/56sxMCmVq5a2AZlmz39YOW) | [A Chill That You Can't Taint](https://open.spotify.com/album/4QNxkXtgm9HpMwDxtc3IVt) | 7:12 | 2024-07-03 |  |
@@ -139,6 +139,7 @@
 | [Cursed](https://open.spotify.com/track/1TaLL0z52wvVRNcmLl0HJF) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [Cursed](https://open.spotify.com/album/3KWgXdrDm75vJbSxWwZvf2) | 5:11 | 2021-12-17 | 2022-03-11 |
 | [Cut the Cord](https://open.spotify.com/track/1ohdTjNFu2TvMDD74Mp0FU) | [Necrot](https://open.spotify.com/artist/5jWIRPU5rVBm6ky8Atq7AW) | [Drill the Skull](https://open.spotify.com/album/07c4UOdjYSOBIzdfiw2pME) | 5:16 | 2024-03-22 | 2024-06-17 |
 | [Cycle of Suffering](https://open.spotify.com/track/33N9eYEFkNqQvFedpH82kU) | [Carnation](https://open.spotify.com/artist/7s6SmrbyQvp26jN5EbnU9u) | [Cycle of Suffering](https://open.spotify.com/album/31JVSJMrlzxxqPQuOJy2AN) | 4:05 | 2023-10-09 | 2023-11-11 |
+| [Daar Waar We Komen Om Te Sterven](https://open.spotify.com/track/5ymbrUt7r6MtEpmcAkpevY) | [Walg](https://open.spotify.com/artist/6sSvlAu7Q8NDcNkn3C0TvZ) | [III](https://open.spotify.com/album/0U4EIKdYGhQQQRr6x83rfb) | 4:44 | 2025-01-30 |  |
 | [Damned In Black](https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Damned In Black](https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau) | 6:51 | 2022-07-13 |  |
 | [Dark Medieval Times](https://open.spotify.com/track/3lVL1Jr6osIOLAbPHXUDkr) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times](https://open.spotify.com/album/0xXdL2dhLdLfAgw9wAB6bC) | 8:11 | 2022-07-13 | 2022-07-29 |
 | [Dark Medieval Times \- Remastered 2021](https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times \(Remastered 2021\)](https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl) | 8:11 | 2022-07-13 | 2023-08-19 |

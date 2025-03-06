@@ -4,7 +4,7 @@
 
 > 
 
-167 songs - 8 hr 58 min
+168 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2024-02-01 |  |
 | [Ode to Vivian](https://open.spotify.com/track/5fqYqPWlfQhIkcUY3XAJlm) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 1:29 | 2024-01-22 |  |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2023-01-13 |  |
+| [Palm Trees](https://open.spotify.com/track/7mP15Z8FDbU8lq9ncSiDtL) | [Virtual Nobodies](https://open.spotify.com/artist/0ai61DeA6TloJOZ8TYcqMf) | [Palm Trees](https://open.spotify.com/album/7hFUx0qyUzi5FFly2aRSfB) | 3:50 | 2025-03-05 |  |
 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 | 2023-09-21 |  |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2023-09-08 |  |
 | [pure imagination \- slowed + reverb](https://open.spotify.com/track/7iMWAkz8g5dxtTueDeG0zs) | [slō](https://open.spotify.com/artist/5ENhy70PiA8QzfghaFQ7Ey), [twilight](https://open.spotify.com/artist/4xEsDLdD6DgtKhlCCJq4Ri), [Tazzy](https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo) | [pure imagination \- slowed + reverb](https://open.spotify.com/album/6mAmlzLUKNuBQ4HYiom0Rs) | 2:19 | 2023-01-13 |  |

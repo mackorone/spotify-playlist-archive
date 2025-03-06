@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: DAIMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,977 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,060 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DIEFTHINTIS](https://open.spotify.com/track/1R3ISkeACOnqpDDqsUV8tL) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [DIEFTHINTIS](https://open.spotify.com/album/2KLXS2kXMYkWpqwO6anvAb) | 2:21 |
 | 2 | [GRISELDA](https://open.spotify.com/track/1f8q0UF64hUKlEezIzIc4N) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [GRISELDA](https://open.spotify.com/album/1lZIZU7UJjGC2o3Bq3i1B3) | 2:10 |
-| 3 | [BLAH BLAH](https://open.spotify.com/track/1p9wQ8QRSnY4i6jfSBapr9) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Skinny](https://open.spotify.com/artist/2SNpazMULZY6pliFiC1bCy) | [BLAH BLAH](https://open.spotify.com/album/1KbcwiM66id7Kj3e6IzKkA) | 2:06 |
+| 3 | [BLAH BLAH](https://open.spotify.com/track/1p9wQ8QRSnY4i6jfSBapr9) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [skinny](https://open.spotify.com/artist/0GjmHecf3cA6aWnPalC7RK) | [BLAH BLAH](https://open.spotify.com/album/1KbcwiM66id7Kj3e6IzKkA) | 2:06 |
 | 4 | [FWTIA](https://open.spotify.com/track/49Nl81fFdiJEVLhhhaDLqC) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [FWTIA](https://open.spotify.com/album/1fB4wEiDkqDdJaTrKnNRKp) | 3:06 |
 | 5 | [Gia Sena](https://open.spotify.com/track/5DfPEPrd3BoWL0NnwPlpTw) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Grandbois](https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [Gia Sena](https://open.spotify.com/album/0xh2nXqadeywn61LgjmOe7) | 2:57 |
 | 6 | [TIFFANY](https://open.spotify.com/track/01uZUp6CVnT0wXBebCJZlV) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [TIFFANY](https://open.spotify.com/album/7bZmIoJpx7T24YUWeUoYSz) | 2:31 |

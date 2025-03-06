@@ -645,6 +645,32 @@
     },
     {
       "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139508,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
+    },
+    {
+      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -1458,7 +1484,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 142417,
       "name": "Carpet",
       "url": "https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z"

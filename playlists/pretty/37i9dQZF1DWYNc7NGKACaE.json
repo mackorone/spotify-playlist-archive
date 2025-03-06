@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84315,
+  "num_followers": 84314,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,34 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Luxo & Crime Speed",
+        "url": "https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc"
+      },
+      "artists": [
+        {
+          "name": "Lord Ralph Lauren",
+          "url": "https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0"
+        },
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        },
+        {
+          "name": "Yauke",
+          "url": "https://open.spotify.com/artist/175mTYHITiXXjSZAICQrPr"
+        }
+      ],
+      "duration_ms": 140628,
+      "name": "Luxo & Crime Speed",
+      "url": "https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -727,34 +755,6 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Luxo & Crime Speed",
-        "url": "https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc"
-      },
-      "artists": [
-        {
-          "name": "Lord Ralph Lauren",
-          "url": "https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0"
-        },
-        {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
-        },
-        {
-          "name": "akao.47",
-          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
-        },
-        {
-          "name": "Yauke",
-          "url": "https://open.spotify.com/artist/175mTYHITiXXjSZAICQrPr"
-        }
-      ],
-      "duration_ms": 140628,
-      "name": "Luxo & Crime Speed",
-      "url": "https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6"
     },
     {
       "added_at": "2024-07-08 19:10:57",

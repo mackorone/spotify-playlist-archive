@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > i’ll never tell a soul about our secret life ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,663 likes - 145 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,736 likes - 145 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

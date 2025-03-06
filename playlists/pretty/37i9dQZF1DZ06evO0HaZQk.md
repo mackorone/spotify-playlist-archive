@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 
 > This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,844 likes - 52 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,916 likes - 52 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 51 | [Ese Beso](https://open.spotify.com/track/1IRfZJq6prpHXM3HZFejb0) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Universo De Ley](https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN) | 3:19 |
 | 52 | [Amarte Duele](https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En el 2000](https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU) | 4:05 |
 
-Snapshot ID: `Z8TxAAAAAADtg9JajDv6brVl2ex4OWmA`
+Snapshot ID: `Z8ZCgAAAAAAZHwz44nYS2OjGi1ZTw45I`

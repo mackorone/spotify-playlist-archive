@@ -1,6 +1,6 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 297691,
+  "num_followers": 297720,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "S\u00ed o S\u00ed - Diario del Rock Argentino - Sumo",
-        "url": "https://open.spotify.com/album/0abeUjNSrovGBaaEavSfRm"
-      },
-      "artists": [
-        {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "La Rubia Tarada",
-      "url": "https://open.spotify.com/track/3lO1h0KPfhlXl2fSjaTcnh"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
         "name": "Yo No Quiero Volverme Tan Loco (En Vivo)",
         "url": "https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 211186,
       "name": "No Llores Por M\u00ed, Argentina (En Vivo)",
       "url": "https://open.spotify.com/track/7nYOhcrbQmeetR6f4hMoVM"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "S\u00ed o S\u00ed - Diario del Rock Argentino - Sumo",
+        "url": "https://open.spotify.com/album/0abeUjNSrovGBaaEavSfRm"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "La Rubia Tarada",
+      "url": "https://open.spotify.com/track/3lO1h0KPfhlXl2fSjaTcnh"
     },
     {
       "added_at": "2024-06-12 23:29:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,508 likes - 290 songs - 14 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,327 likes - 290 songs - 14 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 289 | [I'm Yours](https://open.spotify.com/track/2OW93KcFnwdMBvfdDs2ZU1) | [Mary Lou Stephens](https://open.spotify.com/artist/5NkQxYTi4qXxNUqH2GJkPH) | [I'm Yours](https://open.spotify.com/album/0dmMyKWLPKzNgnC0DlEJQq) | 2:43 |
 | 290 | [Blackbird](https://open.spotify.com/track/4tOBuYNT6MX1r6DaVu7HYC) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Blackbird](https://open.spotify.com/album/3nnxWFQF3NRprMU3R3V4P4) | 3:08 |
 
-Snapshot ID: `Z671pwAAAADPT+M1HL8XJ+3XjmrU2eJU`
+Snapshot ID: `Z671pwAAAABfTb7/A8mBVHt278hj/XB6`

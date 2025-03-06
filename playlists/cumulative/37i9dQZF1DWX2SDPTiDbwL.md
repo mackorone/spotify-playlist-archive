@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-107 songs - 7 hr 3 min
+108 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Soleil](https://open.spotify.com/track/5AhKt78RT4MorT1aNUTY2R) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Gypsy Flamenco](https://open.spotify.com/album/4SOJBGpstHpP2BE9CqKmvG) | 4:36 | 2024-04-05 |  |
 | [Soleá](https://open.spotify.com/track/7ET84OBxMtONNtsmsDyifG) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 4:39 | 2024-04-05 |  |
 | [Spanish Nights](https://open.spotify.com/track/65XPPR5GGETPXqwMIBRB1b) | [Young & Rollins](https://open.spotify.com/artist/2uYKLNEOZuLjpZXOGoAlKJ) | [Esperanza](https://open.spotify.com/album/4qrZ5gpHaFYhsqWeaLyFjZ) | 4:57 | 2024-07-18 |  |
+| [Susurros Del Viento](https://open.spotify.com/track/5Ciq3uMIf4SL0ZSbcMNoQn) | [J\. Silver](https://open.spotify.com/artist/3MRXHZdW001ggkduJ5CJja) | [Susurros Del Viento](https://open.spotify.com/album/5n7vpFa0NnqBKxtWd3EMp9) | 1:59 | 2025-03-05 |  |
 | [Tarantas](https://open.spotify.com/track/3JqVaiG3pA5Rrj1LQzDaR9) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 2:33 | 2023-09-01 | 2024-04-19 |
 | [Tarantas](https://open.spotify.com/track/4aPpZdPSokp6H9zMpJvzZA) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 2:33 | 2024-04-05 |  |
 | [The Endless Dance](https://open.spotify.com/track/1Kpydr7RXuFVFWbUDJp3sB) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/1b89KybJIh8S51U48wdUjl) | 9:02 | 2023-09-01 | 2024-04-19 |

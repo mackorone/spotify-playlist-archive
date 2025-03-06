@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Boldy James
 
-775 songs - 1 day 17 hr 29 min
+776 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Giants Of The Fall](https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M) | [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Kong The Artisan](https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE) | [Giants Of The Fall](https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH) | 3:01 | 2024-04-26 | 2024-05-28 |
 | [Give & Give](https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Give & Give](https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb) | 2:39 | 2024-01-19 | 2024-03-18 |
 | [GIVE IT BACK](https://open.spotify.com/track/57zHNqDztQQZIeP11X2WKq) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [GIVE IT BACK](https://open.spotify.com/album/3LEsXmmwmmX39KUo2Mwqyt) | 2:11 | 2022-03-25 | 2022-03-28 |
+| [Global Telling](https://open.spotify.com/track/4qsxIj0t2Iqc6PxPX88lNB) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Token of Appreciation](https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT) | 3:30 | 2025-02-28 |  |
 | [Glowing Mics \- Founders RMX](https://open.spotify.com/track/1yW3VlhZgVYHu5SglHClvB) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Big Shug](https://open.spotify.com/artist/30G8Jlp6mw5RTEEzMndIZL) | [Glowing Mics \(Founders RMX\)](https://open.spotify.com/album/6G0PjYvizKiO0mFyCvCR91) | 3:23 | 2022-03-11 | 2022-04-20 |
 | [Go To Sleep](https://open.spotify.com/track/6NVZDaU13vmTWtXUUItrmV) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Go To Sleep](https://open.spotify.com/album/1JSdlQeJDiOGrAwyzWrjuO) | 3:39 | 2022-05-20 | 2022-07-24 |
 | [GOAT](https://open.spotify.com/track/3Plq7UM7UUSRdezJrova6z) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [GOAT](https://open.spotify.com/album/5YSyNEQ4CtD1vZj8oBu3aB) | 2:48 | 2022-05-20 | 2022-05-28 |
@@ -656,7 +657,7 @@
 | [Stone Killer](https://open.spotify.com/track/2vbvR95xACQ0HZ8F82aKHI) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Karma 3](https://open.spotify.com/album/5Z9H6gen4nUySpLZzKy2y0) | 3:12 | 2021-09-03 | 2022-02-02 |
 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 | 2022-08-12 | 2023-02-21 |
 | [Street Gospel](https://open.spotify.com/track/2dMQctsm6JypuIZHUD9ipH) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [Street Gospel](https://open.spotify.com/album/1g5JleG69nh119qA93GVhJ) | 2:25 | 2022-05-06 | 2022-07-15 |
-| [Street Magic](https://open.spotify.com/track/3x6begxpmy9o0Sd1EtzOqC) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Skeleton Key](https://open.spotify.com/album/3o97J40gRWIoGO2Hnyez52) | 3:42 | 2024-12-13 |  |
+| [Street Magic](https://open.spotify.com/track/3x6begxpmy9o0Sd1EtzOqC) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Skeleton Key](https://open.spotify.com/album/3o97J40gRWIoGO2Hnyez52) | 3:42 | 2024-12-13 | 2025-03-06 |
 | [Stressed](https://open.spotify.com/track/7vWtHXwHvlTdi2o6IGIB3l) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Wallo267](https://open.spotify.com/artist/4CDHyGh4gnewa65FSdKNG1) | [Stressed](https://open.spotify.com/album/1e9ydi2WYxbjKzQASf4pu8) | 5:20 | 2022-03-04 | 2022-03-18 |
 | [Studio Fit Riddim](https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Studio Fit Riddim](https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv) | 1:42 | 2024-08-30 |  |
 | [Substance \(We Woke Up\)](https://open.spotify.com/track/2vcLUuRT3sqXnPJaIX5w5c) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Substance \(We Woke Up\)](https://open.spotify.com/album/0VptfDjz26NkJS4b7bjmNK) | 3:56 | 2021-09-03 | 2022-02-01 |

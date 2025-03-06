@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Perennial Grace",
+        "url": "https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ"
+      },
+      "artists": [
+        {
+          "name": "Classy Moon",
+          "url": "https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202153,
+      "name": "A Light That Never Goes Out",
+      "url": "https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc"
+    },
+    {
+      "album": {
         "name": "A Little While Longer",
         "url": "https://open.spotify.com/album/4Jo2OFxhuI3bczOuqC5cvb"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 183000,
       "name": "after sleepless nights",
       "url": "https://open.spotify.com/track/38EHY9XK6fv4gNmW5MhUZZ"
@@ -254,6 +272,24 @@
       "duration_ms": 152985,
       "name": "Alba",
       "url": "https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf"
+    },
+    {
+      "album": {
+        "name": "Aliento",
+        "url": "https://open.spotify.com/album/5H81D7yNapaXIH3UP2pIK6"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Clarity",
+          "url": "https://open.spotify.com/artist/0mS4iUHnCGTarpY6K87QJm"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Aliento",
+      "url": "https://open.spotify.com/track/0uCqOaNbiUbJvRX5UJ6i3V"
     },
     {
       "album": {
@@ -942,7 +978,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 136442,
       "name": "Clouded Calm - Ambient Meditation Version",
       "url": "https://open.spotify.com/track/2tYZK7qywbl5gnMw6MzgLK"
@@ -1122,7 +1158,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 189295,
       "name": "De regreso",
       "url": "https://open.spotify.com/track/3jNePRcuAfTnjIARaEQY0o"
@@ -1302,7 +1338,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 172800,
       "name": "Divinity",
       "url": "https://open.spotify.com/track/4CiLp22MqtNOx8aY2pxXHA"
@@ -1630,7 +1666,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 158627,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/0Zxam8mgHuRalqjYZvR2xy"
@@ -1990,10 +2026,28 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 126250,
       "name": "Growing Old",
       "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
+    },
+    {
+      "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/141aYM5oB1j4Ch75e1qiIF"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Hazel Eyes",
+      "url": "https://open.spotify.com/track/2mcNmyIwa0n0dTsaHclEZd"
     },
     {
       "album": {
@@ -2048,6 +2102,42 @@
       "duration_ms": 135125,
       "name": "hidden in the heather",
       "url": "https://open.spotify.com/track/4pv0vCDDYMLMBs0RjwtjtJ"
+    },
+    {
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/4s98ZZEUEgQ2xOK4O63kHH"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156349,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/1FuXj0Pb8eOW7PQTzzsJ3z"
+    },
+    {
+      "album": {
+        "name": "hold still",
+        "url": "https://open.spotify.com/album/3b0IndcDRliBr51GsLjyXz"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127666,
+      "name": "hold still",
+      "url": "https://open.spotify.com/track/4EnFLRuVKjAfEQVGllEEAd"
     },
     {
       "album": {
@@ -2483,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "Leave It",
+        "url": "https://open.spotify.com/album/3ApfRuo0QxOtf5so9VZCXK"
+      },
+      "artists": [
+        {
+          "name": "Eva Tiedemann",
+          "url": "https://open.spotify.com/artist/57H4D8jx1bGiOvaiPgyIyj"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326878,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/6gdByDB178DwDJvlwouoGZ"
+    },
+    {
+      "album": {
         "name": "Lenitivo",
         "url": "https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi"
       },
@@ -2627,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Liminal 528 Hz",
+        "url": "https://open.spotify.com/album/4z8bx5Adx0lG5VVz5PTTpM"
+      },
+      "artists": [
+        {
+          "name": "Hain Sona",
+          "url": "https://open.spotify.com/artist/6Caj9wTooVGTk1edAU4uXD"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155734,
+      "name": "Liminal 528 Hz",
+      "url": "https://open.spotify.com/track/4MoH9bUy636u0h4Y5LoZJy"
+    },
+    {
+      "album": {
         "name": "Little Gentle Spirit",
         "url": "https://open.spotify.com/album/7qLP6e8QKFBtbmKUSTcNsB"
       },
@@ -2656,7 +2782,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 131250,
       "name": "Lonely road",
       "url": "https://open.spotify.com/track/0R58Fl5lvlTEMblnMv96lI"
@@ -3214,7 +3340,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 181500,
       "name": "Noctiphany",
       "url": "https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi"
@@ -3347,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "Once More",
+        "url": "https://open.spotify.com/album/0Hwe1exxKc8Pi8d939lX3Y"
+      },
+      "artists": [
+        {
+          "name": "Ventura Lumi",
+          "url": "https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196252,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/4sFZChUARWf571klygS1pG"
+    },
+    {
+      "album": {
         "name": "Ons",
         "url": "https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu"
       },
@@ -3376,7 +3520,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 150242,
       "name": "Ordinary Day",
       "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
@@ -4024,7 +4168,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 174444,
       "name": "Sincerity",
       "url": "https://open.spotify.com/track/6LmFMurSx0pVsZCuHolQ1r"
@@ -4568,7 +4712,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 158284,
       "name": "two hearts",
       "url": "https://open.spotify.com/track/7BJ5nncFAfOPDZlAP7JSDM"
@@ -4820,7 +4964,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 212992,
       "name": "Warm",
       "url": "https://open.spotify.com/track/3k0x9nLNnDf37MJYIPFww5"
@@ -4904,6 +5048,24 @@
       "duration_ms": 264052,
       "name": "We Contain Multitudes \u2014 piano reworks",
       "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
+    },
+    {
+      "album": {
+        "name": "Web of Stars",
+        "url": "https://open.spotify.com/album/5UGtgC5RF3R3HrZ2ybLCFn"
+      },
+      "artists": [
+        {
+          "name": "AuraLoom",
+          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204699,
+      "name": "Web of Stars",
+      "url": "https://open.spotify.com/track/2HMMxzjvnkgFYYKXDSQGRt"
     },
     {
       "album": {

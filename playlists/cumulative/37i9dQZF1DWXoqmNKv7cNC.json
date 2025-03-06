@@ -8395,6 +8395,24 @@
     },
     {
       "album": {
+        "name": "F1",
+        "url": "https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j"
+      },
+      "artists": [
+        {
+          "name": "VICKILICIOUS",
+          "url": "https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120816,
+      "name": "F1",
+      "url": "https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5"
+    },
+    {
+      "album": {
         "name": "Fabulosa de Paris",
         "url": "https://open.spotify.com/album/57NDN6tpYrjt82l5hrKaYE"
       },
@@ -10700,7 +10718,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153600,
-      "name": "Kakfa",
+      "name": "Kafka",
       "url": "https://open.spotify.com/track/6ezPkvzuP86OFB32pCpNGK"
     },
     {

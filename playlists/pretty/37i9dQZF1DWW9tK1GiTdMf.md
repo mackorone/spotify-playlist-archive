@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Shama24k in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,971 likes - 116 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,964 likes - 116 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

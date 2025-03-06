@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-714 songs - 1 day 15 hr 55 min
+718 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2023-11-08 | 2024-04-16 |
 | [Lovers Lie](https://open.spotify.com/track/7BuqRuGriQlF12oMIzVmRV) | [Sally Seltmann](https://open.spotify.com/artist/78yXDNBYzL3P9b1V0LP30Y) | [Early Moon](https://open.spotify.com/album/3JwxWqbWgR4k624zleRENc) | 4:10 | 2022-08-08 | 2022-08-16 |
 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 | 2022-06-06 | 2022-06-14 |
+| [Maine](https://open.spotify.com/track/2jwhWFNCPMZZ9pC86cw18p) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/6WZCYhHl1OnWoZhezbRJQX) | 3:52 | 2025-03-06 |  |
 | [MAKEUP](https://open.spotify.com/track/0hQvdLE0ONElDmee2cmi1j) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [SELF TITLED](https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2) | 2:30 | 2023-05-15 | 2023-05-30 |
 | [Man On The Moon](https://open.spotify.com/track/7E6jdcJTGDpYmjHFnXu3vG) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Man On The Moon](https://open.spotify.com/album/18WXWG3I5v4L3odjNg1YtR) | 3:20 | 2023-02-20 | 2023-03-15 |
 | [Marathon Girl](https://open.spotify.com/track/2H2cAI3Ofm5mAYKEfk9foM) | [Will Sheff](https://open.spotify.com/artist/0JUTh3GM8SoFZTEyqPCRl5) | [Nothing Special](https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM) | 5:05 | 2022-10-10 | 2022-10-18 |
@@ -502,6 +503,7 @@
 | [Retrograde](https://open.spotify.com/track/1uni8la2ZuN5oGlkAFBn9R) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/1Dk3gly6NaYZkimTVCFK4s) | 3:39 | 2023-10-23 | 2023-11-09 |
 | [REWIND](https://open.spotify.com/track/2EFTpz9QGlNy5UFJuSW4E6) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [REWIND](https://open.spotify.com/album/3GwaM9E9ueOvl6J28lxblj) | 3:02 | 2022-09-12 | 2022-09-19 |
 | [REWIND DOIS](https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [REWIND DOIS](https://open.spotify.com/album/2S4ZruzfwuQWkoVYk4ibrZ) | 3:04 | 2023-03-27 | 2023-04-02 |
+| [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2025-03-06 |  |
 | [Right](https://open.spotify.com/track/2bRNyQh32OGVHRS9DLiAKA) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Right](https://open.spotify.com/album/2a3d6V3ahlROz5M8eeHpUB) | 3:12 | 2023-03-14 | 2023-03-28 |
 | [Right To Be Wrong](https://open.spotify.com/track/7E1gOUWLZfCDn6yEeZuafk) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Right To Be Wrong](https://open.spotify.com/album/47NhbVR5PrcYhGWXBk6Osm) | 2:06 | 2023-04-02 | 2023-04-13 |
 | [Rise Again](https://open.spotify.com/track/4eUPAoBViRdR1DQjiHO63P) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Rise Again / Couches Killing Me](https://open.spotify.com/album/3DeT76FmDpKxarKcA4IPrE) | 2:31 | 2023-08-28 | 2023-09-05 |
@@ -556,6 +558,7 @@
 | [So Deep](https://open.spotify.com/track/2kXXprFJmAHYagG1o88vzC) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [So Deep](https://open.spotify.com/album/0eNGklM1XIza48FjHRg0qc) | 3:25 | 2023-06-04 | 2023-06-13 |
 | [So Low](https://open.spotify.com/track/66sYEY22jehD7EFv977y3I) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/3odepRGqhJyXhM3epuiIEd) | 2:24 | 2023-10-30 | 2023-11-09 |
 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 | 2023-10-17 | 2023-11-09 |
+| [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 | 2025-03-06 |  |
 | [somebody to lose](https://open.spotify.com/track/4JAEU9F3KQyvGkgdIK6Vjs) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [somebody to lose](https://open.spotify.com/album/6tXEF52m2XHHI51Pv3qr7M) | 3:07 | 2022-06-26 | 2022-07-05 |
 | [Somebody's Nobody](https://open.spotify.com/track/3Bc5XUS5sTHtAde1ZA2FzC) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Somebody's Nobody](https://open.spotify.com/album/5tuZ5QFAdNcQqd6ghXAfbb) | 3:42 | 2022-06-26 | 2022-08-09 |
 | [Song For No One](https://open.spotify.com/track/1mgLHzdtWjwNgIoSt2JcmA) | [Dave McKendry](https://open.spotify.com/artist/5OE3WxCOZMByTrhE7JZGTI) | [Song For No One](https://open.spotify.com/album/2IWlv8PGxPShYyF8HDohHz) | 3:32 | 2023-06-25 | 2023-07-04 |
@@ -608,6 +611,7 @@
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-02-04 |  |
 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 | 2022-07-25 | 2022-09-13 |
 | [The Best Part](https://open.spotify.com/track/426Ts4w4vCFNW01udSShf9) | [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Allison's Songs](https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH) | 4:29 | 2023-03-30 | 2023-05-01 |
+| [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 | 2025-03-06 |  |
 | [the death of cat](https://open.spotify.com/track/1rB20lcvLZnEhrtwsGs1jw) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [spacegirl](https://open.spotify.com/album/3tp1fly9o91qybai6Isg1u) | 2:23 | 2022-10-17 | 2022-11-01 |
 | [The Drop](https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH) | 2:58 | 2022-10-20 | 2023-02-23 |
 | [The Good Tears](https://open.spotify.com/track/7hc0QRnFDaxu8YI4K8i18L) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [The Good Tears](https://open.spotify.com/album/5JfmEck0oHgJxoOQy68485) | 4:04 | 2023-10-17 | 2023-10-24 |

@@ -5771,6 +5771,32 @@
     },
     {
       "album": {
+        "name": "Million Miles Away",
+        "url": "https://open.spotify.com/album/1Cs6V1AmIKa9pXTcxnfX6v"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "P.O.U",
+          "url": "https://open.spotify.com/artist/04vxVTBTwAFFbMFl1cvcZs"
+        },
+        {
+          "name": "Susie Ledge",
+          "url": "https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Million Miles Away",
+      "url": "https://open.spotify.com/track/4wDM0nGseA8k7Eh6fHMk5w"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
       },
@@ -8100,7 +8126,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 150218,
       "name": "Set Me Free (feat. Robert Courtois)",
       "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"

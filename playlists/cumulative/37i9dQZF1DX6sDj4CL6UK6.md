@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: Tarang Joseph
 
-334 songs - 19 hr 15 min
+335 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 | 2023-07-20 |  |
 | [Have You Been Told](https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Have You Been Told](https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris) | 3:01 | 2022-04-11 | 2023-08-18 |
 | [Headrush](https://open.spotify.com/track/7oLdorBxa3NvbkOyoHi7Kf) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [adL](https://open.spotify.com/artist/4ERBh5R40XpUy1uk9aZzag) | [Headrush](https://open.spotify.com/album/0MExe2bXS8GwfAWLKAJPce) | 2:59 | 2022-09-26 | 2023-02-08 |
+| [Healing](https://open.spotify.com/track/6SjFc8iaehM0920mfYsq9X) | [Anyasa](https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd), [Parallel Voices](https://open.spotify.com/artist/6GP9OmnhCjVx3n9jKjoYQH), [Lake Silver](https://open.spotify.com/artist/3jUIM87ijH82I8Wp91U6aE) | [Healing](https://open.spotify.com/album/2o64ZD2pXn8VW9Lr1usAKq) | 4:21 | 2025-03-05 |  |
 | [Heartbreak 2020](https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:52 | 2024-06-21 |  |
 | [Heartless](https://open.spotify.com/track/6NZVpnuEbRWkXucouWEbaq) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Heartless](https://open.spotify.com/album/7oazSeCF0JivrnL8neefG7) | 2:47 | 2024-05-02 | 2024-07-14 |
 | [Hello and Goodbye](https://open.spotify.com/track/1UXQnieFGCBAeiWM173eMX) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Hello and Goodbye](https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt) | 3:09 | 2022-08-05 | 2023-01-13 |

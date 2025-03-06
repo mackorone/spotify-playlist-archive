@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20379,
+  "num_followers": 20378,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8TxAAAAAABP0CW1blClaWEe76JFDaWs",
+  "snapshot_id": "Z8ZCgAAAAACsMjDPzR9ZZI00fxqMChY0",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Refr\u00e3o Pra Sua Alma",
-        "url": "https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 256023,
-      "name": "Um Refr\u00e3o Pra Sua Alma",
-      "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esperan\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 319866,
       "name": "Esperan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Refr\u00e3o Pra Sua Alma",
+        "url": "https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 256023,
+      "name": "Um Refr\u00e3o Pra Sua Alma",
+      "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Mystery Of Christ (Live)",
+        "url": "https://open.spotify.com/album/4WqqAAsOclKygm5hhIVkU6"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 449850,
+      "name": "Risen Savior (Sing My Soul) - Live",
+      "url": "https://open.spotify.com/track/3QyqnZ99aTFijvIfUJKScD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
         "url": "https://open.spotify.com/album/1YnzLpr6pmmOTuMyZuxrcu"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 554498,
       "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
       "url": "https://open.spotify.com/track/2drrh4wKrCrZfTqn3SRKaZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Mystery Of Christ (Live)",
-        "url": "https://open.spotify.com/album/4WqqAAsOclKygm5hhIVkU6"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 449850,
-      "name": "Risen Savior (Sing My Soul) - Live",
-      "url": "https://open.spotify.com/track/3QyqnZ99aTFijvIfUJKScD"
     },
     {
       "added_at": null,

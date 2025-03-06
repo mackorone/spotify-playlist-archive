@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,981 likes - 81 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,943 likes - 81 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 80 | [Liquorice](https://open.spotify.com/track/60pygaEEzRQ9mh4VxqW2bf) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Liquorice](https://open.spotify.com/album/0RgikP1YRg3brEygNcfiQf) | 2:53 |
 | 81 | [To Make Me Feel Good](https://open.spotify.com/track/0mMOvXqrgYzFXQmSDMnJTU) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [To Make Me Feel Good](https://open.spotify.com/album/5GEXrRfKyQv94ePIt24pg9) | 3:29 |
 
-Snapshot ID: `Z8by9wAAAAATuCnJp7ekAa1gxjBvdkOe`
+Snapshot ID: `Z8by9wAAAAB5JepCepGjhzZGpr3dt70E`

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125406,
+  "num_followers": 125410,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATwFE0GbqMgnp9vggIxvFCdkOjZ8n2",
+  "snapshot_id": "AAATwfwnXz7UkDlAC4OIitiYsNZh3kdC",
   "tracks": [
+    {
+      "added_at": "2025-03-05 15:24:20",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW"
+    },
     {
       "added_at": "2025-03-04 15:25:12",
       "album": {

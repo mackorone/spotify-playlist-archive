@@ -4,7 +4,7 @@
 
 > 🚨
 
-289 songs - 12 hr 34 min
+290 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1,2 & Mer](https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [1,2 & Mer](https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF) | 2:37 | 2023-09-21 | 2024-03-22 |
 | [1877](https://open.spotify.com/track/0QhExfZSTY5TnRzHOxJGwm) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Xania](https://open.spotify.com/album/7H1IWk2YAccSqlGqkA6Ac7) | 2:39 | 2023-09-21 | 2023-09-29 |
 | [2 Sider](https://open.spotify.com/track/5WmwECFQhBWhyWeNAo6t5m) | [Sli0h](https://open.spotify.com/artist/4kM0BoIoIhOahEhyt0RSNO), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [2 Sider](https://open.spotify.com/album/3x3gJlQD07PM82Qni8BK5i) | 2:32 | 2024-09-05 | 2024-11-08 |
-| [2 Trekk](https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [2 Trekk](https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso) | 2:52 | 2024-10-17 |  |
+| [2 Trekk](https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [2 Trekk](https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso) | 2:52 | 2024-10-17 | 2025-03-06 |
 | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx) | 5:22 | 2023-11-16 |  |
 | [51 \- Freestyle](https://open.spotify.com/track/7ImJxQ5V8hKBRIigwXcnMC) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 1 \(Freestyle\)](https://open.spotify.com/album/2e0pg7GXJw2PT54DnKmRK0) | 2:04 | 2024-01-11 | 2024-03-01 |
 | [555](https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Takket være livet](https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC) | 3:30 | 2023-11-09 |  |
@@ -141,6 +141,7 @@
 | [HÅLL KÄFTEN](https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [HÅLL KÄFTEN](https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe) | 2:07 | 2024-02-08 | 2024-06-01 |
 | [Hör Dig](https://open.spotify.com/track/4tBwUEzSVknmjZ3XfC1VO4) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Hör Dig](https://open.spotify.com/album/34rdOQElQWrgWuR7Uj6HKQ) | 2:46 | 2025-02-06 |  |
 | [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 | 2023-11-09 |  |
+| [I Want You 2 Be Mine](https://open.spotify.com/track/11wfYbsYR8lVqLhCp3ChM3) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [I Want You 2 Be Mine](https://open.spotify.com/album/6xGLYXAdQ5ChOF5gsJRGnM) | 2:42 | 2025-02-27 |  |
 | [IFA](https://open.spotify.com/track/7FR9RhaJnSnEywOJRxwJLv) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Pacify](https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk) | [IFA](https://open.spotify.com/album/59rJFtuzmKx5TOgSfa2UMK) | 2:15 | 2024-10-17 | 2024-12-04 |
 | [Igjen](https://open.spotify.com/track/0fTITw88Jr9xtvwbXzNQeW) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Å Drukne En Fisk](https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK) | 2:29 | 2024-05-30 | 2024-10-12 |
 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 | 2024-02-01 | 2024-06-01 |

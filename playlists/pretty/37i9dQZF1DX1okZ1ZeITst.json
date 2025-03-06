@@ -1,13 +1,33 @@
 {
   "description": "From the shower to the car, Disney songs that make you want to sing along, including songs from Mufasa: The Lion King.",
-  "num_followers": 1078405,
+  "num_followers": 1078500,
   "original_name": "Disney Sing-Alongs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z792aAAAAACiasuvqba6kyq9NFJd5aqZ",
+  "snapshot_id": "Z8faVAAAAACvkQxfEDKxcD2yd5Z0HXOp",
   "tracks": [
+    {
+      "added_at": "2025-03-05 05:00:04",
+      "album": {
+        "name": "Waiting On A Wish (From \"Disney's Snow White\")",
+        "url": "https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Waiting On A Wish - From \"Disney's Snow White\"",
+      "url": "https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx"
+    },
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {

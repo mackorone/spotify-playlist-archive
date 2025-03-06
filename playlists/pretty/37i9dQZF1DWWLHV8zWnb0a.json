@@ -1,6 +1,6 @@
 {
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
-  "num_followers": 136254,
+  "num_followers": 136296,
   "original_name": "Oscuros 90",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
+        "name": "The Burdens Of Being Upright",
+        "url": "https://open.spotify.com/album/1tKKCue9Yi0oYnzP68fLvz"
+      },
+      "artists": [
+        {
+          "name": "Tracy Bonham",
+          "url": "https://open.spotify.com/artist/6RaSfqo4f0b42iNouQeAKK"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Mother Mother",
+      "url": "https://open.spotify.com/track/6WGaVdhY8uMWMgxiKpdLVy"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 184866,
       "name": "Bull In The Heather",
       "url": "https://open.spotify.com/track/6px1KhTqAfxdcF6A1JGSpx"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
-        "name": "The Burdens Of Being Upright",
-        "url": "https://open.spotify.com/album/1tKKCue9Yi0oYnzP68fLvz"
-      },
-      "artists": [
-        {
-          "name": "Tracy Bonham",
-          "url": "https://open.spotify.com/artist/6RaSfqo4f0b42iNouQeAKK"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Mother Mother",
-      "url": "https://open.spotify.com/track/6WGaVdhY8uMWMgxiKpdLVy"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Disintegration (Remastered)",
-        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
+        "name": "Moon Pix",
+        "url": "https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Lovesong - Remastered",
-      "url": "https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL"
+      "duration_ms": 242400,
+      "name": "Metal Heart",
+      "url": "https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Moon Pix",
-        "url": "https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb"
+        "name": "Disintegration (Remastered)",
+        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Metal Heart",
-      "url": "https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ"
+      "duration_ms": 208266,
+      "name": "Lovesong - Remastered",
+      "url": "https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Disintegration (Remastered)",
-        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
         }
       ],
-      "duration_ms": 448306,
-      "name": "Pictures Of You - Remastered",
-      "url": "https://open.spotify.com/track/72gg0bqrLCCyomkfunyiuU"
+      "duration_ms": 228066,
+      "name": "A Strange Kind of Love - Version One",
+      "url": "https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6"
     }
   ],
   "unique_name": "Oscuros 90",

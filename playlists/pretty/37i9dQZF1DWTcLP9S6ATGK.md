@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover:  Ungu
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,467 likes - 96 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,466 likes - 96 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

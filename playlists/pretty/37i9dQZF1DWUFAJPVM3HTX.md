@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4vqBYwt9I3UMHhzFZHylRT?si=QgKGLLg9TOO6RK\-fQnF2aQ"> Breyan Bliss</a>\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P?si=koScYubOSDSiZW45iPakNg"> Michi</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,698 likes - 230 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,914 likes - 230 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Crush](https://open.spotify.com/track/1VSDbU74MltGcjMKEhIwv7) | [Breyan Bliss](https://open.spotify.com/artist/4vqBYwt9I3UMHhzFZHylRT) | [Crush](https://open.spotify.com/album/41n3RuU2p8ORdlT0tRmra5) | 3:34 |
-| 2 | [LUSTER](https://open.spotify.com/track/65sSwF7kt1atOy0RXfy3Od) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [LUSTER](https://open.spotify.com/album/04ZzefredPlk50sph2nju1) | 2:23 |
-| 3 | [Cruel, Cruel World](https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Cruel, Cruel World](https://open.spotify.com/album/2Jplnof86ciDHNdUpRdlWd) | 2:34 |
-| 4 | [The Light \(I Need You\)](https://open.spotify.com/track/02ONt6TdguBGgJzJTzwXCN) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [The Light \(I Need You\)](https://open.spotify.com/album/62V1Z7zodlcga1W3uZeVAl) | 3:37 |
-| 5 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
-| 6 | [LYTM \- Remix](https://open.spotify.com/track/7pjLceVtuF7cW6odLMcsS2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [LYTM \(Remix\)](https://open.spotify.com/album/73Zykj32OPA3JzVjLu8Bdk) | 2:40 |
-| 7 | [ONE MORE TIME \(TRY\)](https://open.spotify.com/track/0nvBw7Jz4SxNIrZ5X6caQw) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp) | [ONE MORE TIME \(TRY\)](https://open.spotify.com/album/2XEfda319MXDI00Ym46dAq) | 2:48 |
-| 8 | [Plug\-in](https://open.spotify.com/track/1VpzKdfBRiPB12ioRuPtot) | [Limage](https://open.spotify.com/artist/7uezObA5zpd0BUDsxnQ0Y6) | [Nothing Special](https://open.spotify.com/album/7jRvaRxnWS2JST91ks4IzV) | 2:55 |
-| 9 | [walk u home](https://open.spotify.com/track/2LelsZFQMqy3zlVgVxEcib) | [elmjack](https://open.spotify.com/artist/6cqD9al5Ez8vsr8eFDor7c), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [walk u home](https://open.spotify.com/album/7lw8VSnJighlG6AgtqZQLN) | 2:49 |
-| 10 | [Behind The Smile](https://open.spotify.com/track/3pLge451N8BWySKg07z32x) | [Barri B](https://open.spotify.com/artist/480zpT3Yrtcy4DwTQ8UmOf) | [Love Barri Too](https://open.spotify.com/album/3Xln1bbQX0HIvJcxnYbrVa) | 3:10 |
-| 11 | [coulda saved us](https://open.spotify.com/track/02FRw7aOein3O2prrMm0I3) | [Amal Zenab](https://open.spotify.com/artist/70etnSmOIT4EJ5metyZe0y), [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ) | [coulda saved us](https://open.spotify.com/album/0arjthCSAAL44pJQY5IjPx) | 3:46 |
-| 12 | [Walking Away](https://open.spotify.com/track/0q615BBGWJGoh9MOujJYNc) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Walking Away](https://open.spotify.com/album/3pEXZXFDbuQlwvrUB0rnnn) | 2:58 |
+| 1 | [Walking Away](https://open.spotify.com/track/0q615BBGWJGoh9MOujJYNc) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Walking Away](https://open.spotify.com/album/3pEXZXFDbuQlwvrUB0rnnn) | 2:58 |
+| 2 | [Cruel, Cruel World](https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Cruel, Cruel World](https://open.spotify.com/album/2Jplnof86ciDHNdUpRdlWd) | 2:34 |
+| 3 | [The Light \(I Need You\)](https://open.spotify.com/track/02ONt6TdguBGgJzJTzwXCN) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [The Light \(I Need You\)](https://open.spotify.com/album/62V1Z7zodlcga1W3uZeVAl) | 3:37 |
+| 4 | [LYTM \- Remix](https://open.spotify.com/track/7pjLceVtuF7cW6odLMcsS2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [LYTM \(Remix\)](https://open.spotify.com/album/73Zykj32OPA3JzVjLu8Bdk) | 2:40 |
+| 5 | [Crush](https://open.spotify.com/track/1VSDbU74MltGcjMKEhIwv7) | [Breyan Bliss](https://open.spotify.com/artist/4vqBYwt9I3UMHhzFZHylRT) | [Crush](https://open.spotify.com/album/41n3RuU2p8ORdlT0tRmra5) | 3:34 |
+| 6 | [LUSTER](https://open.spotify.com/track/65sSwF7kt1atOy0RXfy3Od) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [LUSTER](https://open.spotify.com/album/04ZzefredPlk50sph2nju1) | 2:23 |
+| 7 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
+| 8 | [ONE MORE TIME \(TRY\)](https://open.spotify.com/track/0nvBw7Jz4SxNIrZ5X6caQw) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp) | [ONE MORE TIME \(TRY\)](https://open.spotify.com/album/2XEfda319MXDI00Ym46dAq) | 2:48 |
+| 9 | [Plug\-in](https://open.spotify.com/track/1VpzKdfBRiPB12ioRuPtot) | [Limage](https://open.spotify.com/artist/7uezObA5zpd0BUDsxnQ0Y6) | [Nothing Special](https://open.spotify.com/album/7jRvaRxnWS2JST91ks4IzV) | 2:55 |
+| 10 | [walk u home](https://open.spotify.com/track/2LelsZFQMqy3zlVgVxEcib) | [elmjack](https://open.spotify.com/artist/6cqD9al5Ez8vsr8eFDor7c), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [walk u home](https://open.spotify.com/album/7lw8VSnJighlG6AgtqZQLN) | 2:49 |
+| 11 | [Behind The Smile](https://open.spotify.com/track/3pLge451N8BWySKg07z32x) | [Barri B](https://open.spotify.com/artist/480zpT3Yrtcy4DwTQ8UmOf) | [Love Barri Too](https://open.spotify.com/album/3Xln1bbQX0HIvJcxnYbrVa) | 3:10 |
+| 12 | [coulda saved us](https://open.spotify.com/track/02FRw7aOein3O2prrMm0I3) | [Amal Zenab](https://open.spotify.com/artist/70etnSmOIT4EJ5metyZe0y), [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ) | [coulda saved us](https://open.spotify.com/album/0arjthCSAAL44pJQY5IjPx) | 3:46 |
 | 13 | [Leeway](https://open.spotify.com/track/63kvcAoscY39ZqykYXM0bm) | [Blaq Tuxedo](https://open.spotify.com/artist/1KmFm3UgUbNBOuw0yLDN2p) | [Leeway](https://open.spotify.com/album/38OlNZDoa6v9fCQVKadCdR) | 2:15 |
 | 14 | [Comfort Zone](https://open.spotify.com/track/5KXeOHNiUaYdwAhqhrPsp3) | [A\-Lex](https://open.spotify.com/artist/57d6nBX9AL4PBzXdvWohz3) | [Comfort Zone](https://open.spotify.com/album/1g9ez0s5Q8Q8JhAYhdto9l) | 2:40 |
 | 15 | [Hate Me Tomorrow](https://open.spotify.com/track/1Gi66iVqCNtqAU3AOXsmDe) | [Courtnie](https://open.spotify.com/artist/64jXN9rBQaUKV7a651NfVn), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Poison](https://open.spotify.com/album/7JNubpNfea5pm6aGXwX4xF) | 3:39 |
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 229 | [Only One](https://open.spotify.com/track/2iXkVMSRxoqRKV1JrEoDd3) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [FairXchange](https://open.spotify.com/album/4bddJB0oeqZgCzWwJ38v2a) | 2:49 |
 | 230 | [How Long?](https://open.spotify.com/track/0bFiS83jnXUTojsrO6p77A) | [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [I Chose to Keep Going](https://open.spotify.com/album/1w66h1lj1jU89X2LXn9xVJ) | 2:25 |
 
-Snapshot ID: `Z8UKAQAAAACV7bTOYIyVNM5ez9xMVlGn`
+Snapshot ID: `Z8iPKQAAAAB0Vhes92JMy+wLva+pCytU`

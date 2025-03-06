@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "Stainless Style",
+        "url": "https://open.spotify.com/album/4gwCfJlNCswVeVL4jvYkmA"
+      },
+      "artists": [
+        {
+          "name": "Neon Neon",
+          "url": "https://open.spotify.com/artist/0GHcMuYNbDXb8cfJ7I5PsD"
+        },
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180213,
+      "name": "I Lust U",
+      "url": "https://open.spotify.com/track/0QP0kYZhYHnO8fthKntc8Z"
+    },
+    {
+      "album": {
         "name": "In Spite of the Weather (Bill Ryder-Jones Re-Imagining)",
         "url": "https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy"
       },
@@ -1210,6 +1232,24 @@
       "duration_ms": 174735,
       "name": "ocean view",
       "url": "https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297103,
+      "name": "Orange Juice",
+      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
     },
     {
       "album": {

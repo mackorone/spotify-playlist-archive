@@ -2,7 +2,7 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4vqBYwt9I3UMHhzFZHylRT?si=QgKGLLg9TOO6RK\-fQnF2aQ"> Breyan Bliss</a>\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P?si=koScYubOSDSiZW45iPakNg"> Michi</a>\. Updates every Wednesday.
 
 3,005 songs - 6 day 8 hr 20 min
 

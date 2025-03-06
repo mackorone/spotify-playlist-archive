@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,038 likes - 52 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,591 likes - 52 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 51 | [Tomorrow Is a Long Time \- Live at Town Hall, New York, NY \- April 1963](https://open.spotify.com/track/33sjOTo0KW2w7D9jaUA2pg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan's Greatest Hits Volume II](https://open.spotify.com/album/0gpxfGPaJ45BCUeLVRwnKV) | 3:01 |
 | 52 | [Blind Willie McTell \- Studio Outtake \- 1983](https://open.spotify.com/track/1pJdqFpw52UQpItDRMoca3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Bootleg Series Volumes 1\-3 \(Rare And Unreleased\) 1961\-1991](https://open.spotify.com/album/0ELQw29ii1k2eHnAYgt5kw) | 5:51 |
 
-Snapshot ID: `Z8TxAAAAAADVmS9r7GX4ZniA9wFVPeDA`
+Snapshot ID: `Z8ZCgAAAAAAd5mpaDWS89JTOYFoB59l0`

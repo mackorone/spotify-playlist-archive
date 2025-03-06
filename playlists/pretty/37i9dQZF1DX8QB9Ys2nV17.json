@@ -1,6 +1,6 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 239195,
+  "num_followers": 239251,
   "original_name": "Women of Blues",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Back To The River",
+        "url": "https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Back To The River",
+      "url": "https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/2RisnGnqdl2KmkWlskYfdt"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 201240,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Back To The River",
-        "url": "https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc"
-      },
-      "artists": [
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Back To The River",
-      "url": "https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Tricky Thing",
-        "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
-      },
-      "artists": [
-        {
-          "name": "Jessy Martens and Band",
-          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "Tricky Thing",
-      "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Fish Outta Water",
         "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Heavy Soul",
-        "url": "https://open.spotify.com/album/5aB8PFHLBHOLWfrSGGGIjF"
+        "name": "Tricky Thing",
+        "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Jessy Martens and Band",
+          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
         }
       ],
-      "duration_ms": 317893,
-      "name": "Sweet 'Lil Lies",
-      "url": "https://open.spotify.com/track/4nhOHTX4tKPt0qLAjwPkz8"
+      "duration_ms": 271733,
+      "name": "Tricky Thing",
+      "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -263,6 +247,22 @@
       "duration_ms": 334066,
       "name": "Sweet Feeling",
       "url": "https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Heavy Soul",
+        "url": "https://open.spotify.com/album/5aB8PFHLBHOLWfrSGGGIjF"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 317893,
+      "name": "Sweet 'Lil Lies",
+      "url": "https://open.spotify.com/track/4nhOHTX4tKPt0qLAjwPkz8"
     },
     {
       "added_at": "2024-08-13 17:16:13",

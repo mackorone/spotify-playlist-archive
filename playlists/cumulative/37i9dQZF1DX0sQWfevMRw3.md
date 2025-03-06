@@ -2,7 +2,7 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> 🇸🇪FORMEN DEN ER FIN!!🇳🇴
+> BASTU BASTU!!
 
 1,328 songs - 2 day 7 hr 19 min
 
@@ -658,7 +658,7 @@
 | [KING KONG](https://open.spotify.com/track/6wJKZfNqdEfggNwmgUIoLr) | [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [Akin Jensen](https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [KING KONG](https://open.spotify.com/album/5iLAaUTopJkyzZAwFPh4fu) | 2:17 | 2025-02-20 |  |
 | [KLAMYDIA](https://open.spotify.com/track/5B1DtTYmgPEuGN26kPhE43) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [KLAMYDIA](https://open.spotify.com/album/5mIF1TlZRyKw7RqZpfCN7w) | 2:39 | 2022-08-25 | 2022-12-16 |
 | [KNÖX WHITE](https://open.spotify.com/track/3k8M5AGx0L4sfWqhNyZAj7) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [KNÖX WHITE](https://open.spotify.com/album/4NiRSHFaO23np4CplJgNlX) | 2:10 | 2023-02-02 | 2023-04-14 |
-| [Kokain \(Sinnataggen 2025\)](https://open.spotify.com/track/4vYPZCAh3ocW57DrHszkNo) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Kokain \(Sinnataggen 2025\)](https://open.spotify.com/album/7AbOFIrDRXXvEN6RmmfDUI) | 2:48 | 2025-02-20 |  |
+| [Kokain \(Sinnataggen 2025\)](https://open.spotify.com/track/4vYPZCAh3ocW57DrHszkNo) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Kokain \(Sinnataggen 2025\)](https://open.spotify.com/album/7AbOFIrDRXXvEN6RmmfDUI) | 2:48 | 2025-02-20 | 2025-03-06 |
 | [Kom](https://open.spotify.com/track/6nzee0djBZjerVVRXP70iR) | [Dolores](https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP) | [Kom](https://open.spotify.com/album/61wGDDLTHC9UAbZ7NYh08R) | 2:32 | 2024-10-31 |  |
 | [Kom hem](https://open.spotify.com/track/19teyCxcTkj1HsjvczHi1n) | [Jonzon](https://open.spotify.com/artist/3f0cvh2BMxrJp4Aiirm5jZ) | [Kom hem](https://open.spotify.com/album/04Oc7w9rIfdX2GApRFAST8) | 2:53 | 2023-06-15 | 2023-08-04 |
 | [Kom Igjen](https://open.spotify.com/track/1Utgcoca22whjbg5uVozdJ) | [Smörebua](https://open.spotify.com/artist/3choMl26IyqK5yBJPwN2Qk) | [Kom Igjen](https://open.spotify.com/album/6OgQHLuIRtL2BNvxxDcrql) | 2:35 | 2023-08-10 | 2023-09-01 |

@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "Lullabies for Piano and Cello",
+        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92509,
+      "name": "Barnkind",
+      "url": "https://open.spotify.com/track/35epMyBRSxXHRbxa39FaBA"
+    },
+    {
+      "album": {
         "name": "Absent Minded",
         "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
@@ -444,7 +466,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 257441,
       "name": "Islandus: Solon I",
       "url": "https://open.spotify.com/track/7DAuW1WFDIBVVoxalOL6lH"
@@ -568,10 +590,28 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 191901,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/4GrEFJisQX6VcpXuDKv5md"
+    },
+    {
+      "album": {
+        "name": "Mamma",
+        "url": "https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191901,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV"
     },
     {
       "album": {

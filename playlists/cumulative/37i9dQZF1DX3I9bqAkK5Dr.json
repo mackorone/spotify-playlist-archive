@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 135911,
       "name": "HeartBeat",
       "url": "https://open.spotify.com/track/4YjVV0SrnWx8RwTf71IXTx"
@@ -5100,6 +5100,28 @@
       "duration_ms": 236400,
       "name": "Prasthanam",
       "url": "https://open.spotify.com/track/20aEMdNcA7b4m8Xr2gLadc"
+    },
+    {
+      "album": {
+        "name": "Prathi Kshanam",
+        "url": "https://open.spotify.com/album/6QcDiDHi8b4EV3J13ZIeCa"
+      },
+      "artists": [
+        {
+          "name": "Akhil Chandra",
+          "url": "https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173185,
+      "name": "Prathi Kshanam",
+      "url": "https://open.spotify.com/track/2jDtKQpU4xKaweJD15kthV"
     },
     {
       "album": {

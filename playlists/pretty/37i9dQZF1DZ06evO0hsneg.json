@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8TxAAAAAABoy4qZQpxaI+Uc4x99pczR",
+  "snapshot_id": "Z8ZCgAAAAAAlhN4nOPu2SiYUUAQDmrhU",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) [REMIX]",
+        "url": "https://open.spotify.com/album/5F9n9FZTxY7mnQKzIX4qgF"
+      },
+      "artists": [
+        {
+          "name": "\u534a\u719f\u5375\u3063\u3061",
+          "url": "https://open.spotify.com/artist/41X6FS6g9dLuOGghju7Qb1"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Yayoi Daimon",
+          "url": "https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb"
+        }
+      ],
+      "duration_ms": 141833,
+      "name": "GAL is MIND - REMIX",
+      "url": "https://open.spotify.com/track/1uZ8vgCwplmJ18HIDcirB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't No MF (feat. pH-1)",
         "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
       },
@@ -419,26 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) [REMIX]",
-        "url": "https://open.spotify.com/album/5F9n9FZTxY7mnQKzIX4qgF"
+        "name": "Indo ME",
+        "url": "https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4"
       },
       "artists": [
-        {
-          "name": "\u534a\u719f\u5375\u3063\u3061",
-          "url": "https://open.spotify.com/artist/41X6FS6g9dLuOGghju7Qb1"
-        },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "Yayoi Daimon",
-          "url": "https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb"
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
         }
       ],
-      "duration_ms": 141833,
-      "name": "GAL is MIND - REMIX",
-      "url": "https://open.spotify.com/track/1uZ8vgCwplmJ18HIDcirB1"
+      "duration_ms": 200899,
+      "name": "Indo ME",
+      "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
     },
     {
       "added_at": null,
@@ -463,46 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indo ME",
-        "url": "https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Basboi",
-          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
-        }
-      ],
-      "duration_ms": 200899,
-      "name": "Indo ME",
-      "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DEKADE",
-        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 221083,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unreleased Project, Vol. 1",
         "url": "https://open.spotify.com/album/2YFa7bbWA742O1sgbXfCZi"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 230960,
       "name": "Us vs",
       "url": "https://open.spotify.com/track/06Fl6Sd3IA4pdK7vlAdTvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 221083,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT"
     },
     {
       "added_at": null,
@@ -683,94 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/3R1rqGkRMgLyn9ovp5NWUW"
-      },
-      "artists": [
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
-        },
-        {
-          "name": "Leon Fanourakis",
-          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
-        },
-        {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "sokodomo",
-          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
-        }
-      ],
-      "duration_ms": 186450,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/65UyGdjVnl51XYtTtn8Fw6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHACHU MEAN",
-        "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 214159,
-      "name": "WHACHU MEAN",
-      "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
-        }
-      ],
-      "duration_ms": 174767,
-      "name": "i make time (feat. Matter Mos)",
-      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 152695,
-      "name": "Go Get That B",
-      "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anies Prabowo Ganjar - Epic Rap Battles Of Presidency 2024",
         "url": "https://open.spotify.com/album/5P1mmHbUhZvuSKaUkClFSH"
       },
@@ -839,32 +751,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "COPYCAT",
-        "url": "https://open.spotify.com/album/6VXoMfJ7RrxiLUylUVVeWN"
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/3R1rqGkRMgLyn9ovp5NWUW"
       },
       "artists": [
         {
-          "name": "Rayi Putra",
-          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         },
         {
-          "name": "Dmust Akira",
-          "url": "https://open.spotify.com/artist/29OA72cLmCZDFEn0Fk8JXl"
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        },
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
         },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
         }
       ],
-      "duration_ms": 204486,
-      "name": "COPYCAT",
-      "url": "https://open.spotify.com/track/2qAjQut5DrJ3o6X7QwKxXR"
+      "duration_ms": 186450,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/65UyGdjVnl51XYtTtn8Fw6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+        "name": "WHACHU MEAN",
+        "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
       },
       "artists": [
         {
@@ -872,9 +792,9 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 165067,
-      "name": "whats ur problem",
-      "url": "https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7"
+      "duration_ms": 214159,
+      "name": "WHACHU MEAN",
+      "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
     },
     {
       "added_at": null,
@@ -888,19 +808,19 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "Sihk",
-          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
         }
       ],
-      "duration_ms": 143157,
-      "name": "The Emo Song (feat. Sihk)",
-      "url": "https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac"
+      "duration_ms": 152695,
+      "name": "Go Get That B",
+      "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
     },
     {
       "added_at": null,
       "album": {
-        "name": "FACTS",
-        "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
       "artists": [
         {
@@ -908,13 +828,13 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "asiatic.wav",
-          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
         }
       ],
-      "duration_ms": 147928,
-      "name": "FACTS",
-      "url": "https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5"
+      "duration_ms": 174767,
+      "name": "i make time (feat. Matter Mos)",
+      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
     },
     {
       "added_at": null,
@@ -931,38 +851,6 @@
       "duration_ms": 154583,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 205943,
-      "name": "gippal",
-      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Let Em Be",
-      "url": "https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY"
     },
     {
       "added_at": null,
@@ -987,6 +875,118 @@
       "duration_ms": 161500,
       "name": "JOYFUL INTERLUDE",
       "url": "https://open.spotify.com/track/4bltUbik9ccpBG0DI7nPyq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "The Emo Song (feat. Sihk)",
+      "url": "https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "whats ur problem",
+      "url": "https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COPYCAT",
+        "url": "https://open.spotify.com/album/6VXoMfJ7RrxiLUylUVVeWN"
+      },
+      "artists": [
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        },
+        {
+          "name": "Dmust Akira",
+          "url": "https://open.spotify.com/artist/29OA72cLmCZDFEn0Fk8JXl"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 204486,
+      "name": "COPYCAT",
+      "url": "https://open.spotify.com/track/2qAjQut5DrJ3o6X7QwKxXR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FACTS",
+        "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "duration_ms": 147928,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Let Em Be",
+      "url": "https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 205943,
+      "name": "gippal",
+      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
     },
     {
       "added_at": null,

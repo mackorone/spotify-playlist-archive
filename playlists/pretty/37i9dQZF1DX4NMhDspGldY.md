@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 
 > Leeds! Leeds! Leeds! Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 906 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 908 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,18 +26,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 16 | [Need Your Touch](https://open.spotify.com/track/26un2NdBK4eLwX5TJCA1eI) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Need Your Touch](https://open.spotify.com/album/0QrWko9I2LyEOgGk2vLE68) | 3:52 |
 | 17 | [Made 4 U](https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Made 4 U](https://open.spotify.com/album/058gfK0rY6EBqx6xdXxBMp) | 3:39 |
 | 18 | [Just For Company](https://open.spotify.com/track/7GVYi2mlPwJn1uY5AJiM7t) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [i know trees are falling](https://open.spotify.com/album/09d6DBcumokGlWZ6bnRm7W) | 2:57 |
-| 19 | [Rising](https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0) | 7:11 |
+| 19 | [Five to One](https://open.spotify.com/track/0KXDdNmoycLHPkcQI8IG4J) | [Gravy](https://open.spotify.com/artist/6uCFv1Lo45PC3udGTuHRNP) | [Five to One](https://open.spotify.com/album/7A2ybRMInN6DuJ0bPVcp2k) | 2:39 |
 | 20 | [95 Selection](https://open.spotify.com/track/1agOtTTtPQKMyOEGfCaPEP) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [95 Selection](https://open.spotify.com/album/5FVk3IIv7XoOHfQl7qoHZr) | 4:34 |
-| 21 | [Five to One](https://open.spotify.com/track/0KXDdNmoycLHPkcQI8IG4J) | [Gravy](https://open.spotify.com/artist/6uCFv1Lo45PC3udGTuHRNP) | [Five to One](https://open.spotify.com/album/7A2ybRMInN6DuJ0bPVcp2k) | 2:39 |
-| 22 | [Bye Bye](https://open.spotify.com/track/1ynCux8DPn9obCyZIQ8lwL) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Bye Bye](https://open.spotify.com/album/2qKD1Q4vs2TahMwrJocyPA) | 2:43 |
-| 23 | [Yacht Money](https://open.spotify.com/track/15IpsxxAoY6wAkppXaGftf) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Yacht Money](https://open.spotify.com/album/7kY0EWaq3UcUhkUi5fxwb6) | 4:28 |
-| 24 | [Leeds Town](https://open.spotify.com/track/6Vab7BOaIXufeOfzikCeDb) | [Temz](https://open.spotify.com/artist/3ksrra1WHKgGrr7ss2BYYg), [Caution](https://open.spotify.com/artist/4ibBdkHVvSRnTRZok0ezBz) | [Leeds Town](https://open.spotify.com/album/0FXYoRSbSliqHQDxqH1DhI) | 2:29 |
+| 21 | [Bye Bye](https://open.spotify.com/track/1ynCux8DPn9obCyZIQ8lwL) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Bye Bye](https://open.spotify.com/album/2qKD1Q4vs2TahMwrJocyPA) | 2:43 |
+| 22 | [Rising](https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0) | 7:11 |
+| 23 | [Leeds Town](https://open.spotify.com/track/6Vab7BOaIXufeOfzikCeDb) | [Temz](https://open.spotify.com/artist/3ksrra1WHKgGrr7ss2BYYg), [Caution](https://open.spotify.com/artist/4ibBdkHVvSRnTRZok0ezBz) | [Leeds Town](https://open.spotify.com/album/0FXYoRSbSliqHQDxqH1DhI) | 2:29 |
+| 24 | [Yacht Money](https://open.spotify.com/track/15IpsxxAoY6wAkppXaGftf) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Yacht Money](https://open.spotify.com/album/7kY0EWaq3UcUhkUi5fxwb6) | 4:28 |
 | 25 | [Show & Tell](https://open.spotify.com/track/4jtimiQsByqnyV2SKX7Cog) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/117aeeewwU94p25MrFch09) | 3:31 |
 | 26 | [Pressure \(Oh My Goodness\)](https://open.spotify.com/track/4VA1cclXrIbTLXoP3lkid3) | [Ntantu](https://open.spotify.com/artist/3ijqECUdixtCFSyNw4FQJq) | [Pressure \(Oh My Goodness\)](https://open.spotify.com/album/7kycie79CZeMsMUdaW2RDZ) | 2:45 |
 | 27 | [Give It To Dem](https://open.spotify.com/track/2BJmRwIyiRyRIVV4AaIqrl) | [Graft](https://open.spotify.com/artist/4D8x62ZMhyT8vZifuO6nXc) | [Give It To Dem](https://open.spotify.com/album/6UUdD0Mqdv3iVt2dr1pHzK) | 3:10 |
 | 28 | [The Last Remaining Light](https://open.spotify.com/track/2PGg8lNkzACoNt3OnaRXZ3) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [The Last Remaining Light](https://open.spotify.com/album/2cjv8TWDCVVNuCdcTGKah2) | 3:08 |
-| 29 | [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 |
-| 30 | [Midnight Mass](https://open.spotify.com/track/5pSJTwM7xnTcjAus8yilY3) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [Natural Habitat](https://open.spotify.com/album/2JawSHh0PDTVl4n3DL9sPd) | 3:54 |
+| 29 | [Midnight Mass](https://open.spotify.com/track/5pSJTwM7xnTcjAus8yilY3) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [Natural Habitat](https://open.spotify.com/album/2JawSHh0PDTVl4n3DL9sPd) | 3:54 |
+| 30 | [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 |
 | 31 | [L4V](https://open.spotify.com/track/42j3r1LFYw2BEZQMZkwWpw) | [Agxny](https://open.spotify.com/artist/1C01qD310JFINaNl8SNzcd), [Haze Da Martian](https://open.spotify.com/artist/3579nmnoMn3NAoO7BCr6aF) | [L4V](https://open.spotify.com/album/5qcjNHcBzOCmds5JiFt30S) | 2:21 |
 | 32 | [Tagliatelle](https://open.spotify.com/track/3TWRsylgFQJo01jpa46pwn) | [Bert](https://open.spotify.com/artist/7oHUE5iM2Mn1lughMs1H00), [Swifty Blu](https://open.spotify.com/artist/0F4JiG2pd75jzRVimScHoP) | [It's all gd, dw](https://open.spotify.com/album/0z5H8Ykg2sD8FPuCMZnz62) | 2:19 |
 | 33 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 |

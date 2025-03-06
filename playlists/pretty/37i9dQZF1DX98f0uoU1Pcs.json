@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Model/Actriz",
-  "num_followers": 285650,
+  "num_followers": 285686,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 207409,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "purepurepure",
-        "url": "https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe"
-      },
-      "artists": [
-        {
-          "name": "Her New Knife",
-          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "purepurepure",
-      "url": "https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Up On Gravity Hill",
         "url": "https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "purepurepure",
+        "url": "https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe"
+      },
+      "artists": [
+        {
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "purepurepure",
+      "url": "https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6sjjo0VgBM2jFk5mIcnGPX"
-      },
-      "artists": [
-        {
-          "name": "Wand",
-          "url": "https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu"
-        }
-      ],
-      "duration_ms": 389463,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/4H0waWcvFnIp4DRqV7kDHg"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/2MEIAI8ldOUBT4qaRRkW8y"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 182757,
       "name": "Return",
       "url": "https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6sjjo0VgBM2jFk5mIcnGPX"
+      },
+      "artists": [
+        {
+          "name": "Wand",
+          "url": "https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu"
+        }
+      ],
+      "duration_ms": 389463,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4H0waWcvFnIp4DRqV7kDHg"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1475,38 +1475,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Default Parody",
-        "url": "https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8"
-      },
-      "artists": [
-        {
-          "name": "Drahla",
-          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Default Parody",
-      "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
-        "name": "...They're Just Like Us",
-        "url": "https://open.spotify.com/album/1eTHV7oC89Y0wJKICTwEX1"
-      },
-      "artists": [
-        {
-          "name": "Celebrity Sighting",
-          "url": "https://open.spotify.com/artist/1oK8ZGSUkLNP1WADzLSJe4"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/5Hbsyi33p4eptpcTAqNHm8"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ"
       },
@@ -1523,6 +1491,22 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
+        "name": "Default Parody",
+        "url": "https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8"
+      },
+      "artists": [
+        {
+          "name": "Drahla",
+          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Default Parody",
+      "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
         "name": "Cockpit",
         "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 256799,
       "name": "Cockpit",
       "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "...They're Just Like Us",
+        "url": "https://open.spotify.com/album/1eTHV7oC89Y0wJKICTwEX1"
+      },
+      "artists": [
+        {
+          "name": "Celebrity Sighting",
+          "url": "https://open.spotify.com/artist/1oK8ZGSUkLNP1WADzLSJe4"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/5Hbsyi33p4eptpcTAqNHm8"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "We Make Hits",
-        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 182606,
-      "name": "We Make Hits",
-      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Stare At The Sun",
         "url": "https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 281719,
       "name": "Cosmic Leash",
       "url": "https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "We Make Hits",
+        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
     },
     {
       "added_at": "2025-02-25 23:07:42",

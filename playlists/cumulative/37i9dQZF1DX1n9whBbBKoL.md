@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-438 songs - 21 hr 42 min
+440 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Anti\-Clockwise Spiral Staircase](https://open.spotify.com/track/3XddzxSe1cKTCIDQis3NaO) | [Alexander Brinkman](https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M) | [Anti\-Clockwise Spiral Staircase](https://open.spotify.com/album/14wlLHVPkCezE2gwGu2v6f) | 3:52 | 2021-11-10 | 2022-04-22 |
 | [Antigua](https://open.spotify.com/track/23bEleGsHEUcp8Yey4mYAF) | [Enzo Viccinté](https://open.spotify.com/artist/4sjq30PbOR55CaYeJJqn8Y) | [Antigua](https://open.spotify.com/album/5qVfjb4cPuPcRJsFnRWGOB) | 2:10 | 2023-05-26 |  |
 | [Apesanteur](https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Apesanteur](https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39) | 2:38 | 2021-11-10 | 2023-04-14 |
+| [Apogee](https://open.spotify.com/track/3nCjMRvyfq0wgR3hDcAcWb) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Apogee](https://open.spotify.com/album/5xrbFlHe5YxRFctRbWyzmq) | 2:47 | 2025-03-05 |  |
 | [Arctic](https://open.spotify.com/track/0GU48wNylLzxHde7OXHpAj) | [Eural](https://open.spotify.com/artist/50x43BjaV7dRtBZkdrRNJo) | [Arctic](https://open.spotify.com/album/0Zq6Iv1Mzxjj2TJ5qHldja) | 2:36 | 2024-03-20 |  |
 | [Arnofio](https://open.spotify.com/track/4xXxZogRtkKgJZxutafFqA) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Arnofio](https://open.spotify.com/album/3GQ0dExzAfoddTSqpl6BLN) | 2:57 | 2023-07-13 | 2024-12-13 |
 | [Arrival](https://open.spotify.com/track/368jncPJF0SYxzqyBXapXj) | [Both Are Infinite](https://open.spotify.com/artist/50DApFni8RZH3HKbCTgjve) | [Arrival](https://open.spotify.com/album/5tJDBMs6MEeA1ij6jOlTlb) | 3:49 | 2023-10-06 | 2024-04-06 |
@@ -165,6 +166,7 @@
 | [Far Off Lands](https://open.spotify.com/track/3GnYKT2KNThEoin83X2L56) | [Liam Oliver](https://open.spotify.com/artist/28WPQ4pF4jkxL3vkjsKeoC) | [Far Off Lands](https://open.spotify.com/album/2rHhNWqnJhH7w24GNdW7ns) | 2:09 | 2021-11-10 | 2023-09-16 |
 | [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2021-11-10 | 2024-05-21 |
 | [flights](https://open.spotify.com/track/4myGizD4eC9nAaWgwZqdCd) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [flights](https://open.spotify.com/album/1aDSIQ5APF3fhrrGghC49A) | 2:47 | 2024-04-05 | 2025-02-13 |
+| [Floating over Europa](https://open.spotify.com/track/7tdi2PBoYYXoOUDPwHpsdG) | [Moon Safari](https://open.spotify.com/artist/79PnPgpRqswq4eBx8PSohy) | [Floating over Europa](https://open.spotify.com/album/5pvgP23Vk9WZxsq0Pn9IOk) | 2:08 | 2025-03-05 |  |
 | [floating through skies](https://open.spotify.com/track/1Krks9XwcyuoQggzxk9vz6) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [floating through skies](https://open.spotify.com/album/6RwX53r1RC1vqNyIit3M1W) | 3:14 | 2022-03-30 | 2024-11-07 |
 | [floating through skies](https://open.spotify.com/track/6JvT7qlbtHHzSgl3qM93Aq) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [floating through skies](https://open.spotify.com/album/6iep1QTLB997wpzeAyGFGM) | 3:14 | 2022-10-07 | 2024-04-19 |
 | [Flotation Device In The Sky](https://open.spotify.com/track/7exg8OEdzbkWPtNNOjU4mk) | [Asta Meta](https://open.spotify.com/artist/10BR4J0WGz3qMPLOwqGrTX) | [Flotation Device In The Sky](https://open.spotify.com/album/7HgEHntaRepCqqw8jlN4pz) | 2:50 | 2023-10-12 |  |

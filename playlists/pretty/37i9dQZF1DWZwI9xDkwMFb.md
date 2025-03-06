@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwI9xDkwMFb.md) - [plain]
 
 > The official playlist for” Blue Orchestra” TVアニメ『<a href="https://aooke\-anime.com/">青のオーケストラ</a>』に登場する名曲を公式プレイリストで。©阿久井真／小学館／NHK・NEP・日本アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,728 likes - 36 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,739 likes - 36 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwI9xDkwMFb.md) - [plain]
 | 35 | [Think/Consider](https://open.spotify.com/track/386Ob32WB8Vp3995dRtXjN) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Blue Orchestra \(Original Soundtrack\)](https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ) | 2:05 |
 | 36 | [Beyond The Fears](https://open.spotify.com/track/2svgP8qZaIaDJVBKjQmxwd) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Blue Orchestra \(Original Soundtrack\)](https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ) | 2:08 |
 
-Snapshot ID: `ZsNB0AAAAAAYZnUJQLgmK0s98NBj0uRZ`
+Snapshot ID: `ZsNB0AAAAAA0jMKAVBe3u0pDqUF6HlxC`

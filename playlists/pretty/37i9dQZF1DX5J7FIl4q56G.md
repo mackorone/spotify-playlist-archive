@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Dying Wish
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,763 likes - 54 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,823 likes - 54 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 53 | [Corpse Flower](https://open.spotify.com/track/4lgtuVvZAP0VLWYVsfdOfe) | [Dark Chapel](https://open.spotify.com/artist/5IFFfC0NULe1YTT9cKJDvZ) | [Corpse Flower](https://open.spotify.com/album/4DALfrvtuvCe33y3MlQXmZ) | 4:22 |
 | 54 | [Sleepless](https://open.spotify.com/track/2DFsbtMxdOHHmMxiYjIzoh) | [HELL CAN WAIT](https://open.spotify.com/artist/7y4ASsLqvxgWja0ym7SBYs) | [Sleepless](https://open.spotify.com/album/0XNi6wweRSMfsItz9TNiro) | 3:48 |
 
-Snapshot ID: `Z8I4HgAAAADZ6I1uANqQkFwXXfJa8wCi`
+Snapshot ID: `Z8I4HgAAAAAfJYZbNkeBSZnruRTM96QS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU88w9RtIHeG.md) - [plain]
 
 > Listen to the soundtracks of Cinderella at 2AM\. \(새벽 2시의 신데렐라의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by Ha Hyun Sang\. \(하현상이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU88w9RtIHeG.md) - [plain]
 | 48 | [Mistletoe \(Hope spring\)](https://open.spotify.com/track/0wKMiwFpzOYaJKxdMw5PrL) | [Lee Yoon Chan](https://open.spotify.com/artist/7GxEOAbx6ElycZ0di6HdDM) | [Mistletoe \(Hope spring\)](https://open.spotify.com/album/7CKcW42RRgTmEc4KxQk3A0) | 4:52 |
 | 49 | [Everybody's Gotta Learn Sometime](https://open.spotify.com/track/4oYfMQ6NDGHq0GcbICqsDw) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Everybody's Gotta Learn Sometime](https://open.spotify.com/album/0KcwfeonyS5W48wnjXNbeo) | 5:54 |
 
-Snapshot ID: `ZwTAVAAAAACzmERiKowL6EYl2ZZOHif3`
+Snapshot ID: `ZwTAVAAAAADt2xExTHU02mZabG8ZPcVu`

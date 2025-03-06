@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 38367,
+  "num_followers": 38373,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8TxAAAAAADkiuCL6JhHYsfWMKbm7uCA",
+  "snapshot_id": "Z8ZCgAAAAACoIZbQk24Gb3JOi0r7kVIC",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Casta diva",
+      "url": "https://open.spotify.com/track/4XpNHWkzmniak64A7wT4jF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maria Callas Legendary Recordings",
         "url": "https://open.spotify.com/album/7fXhJix9RarIVr9Mu9Y6dg"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 151613,
       "name": "La sonnambula, Act I: Come per me sereno",
       "url": "https://open.spotify.com/track/7vaOkwJbNRs4xXc3xaTivD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Casta diva",
-      "url": "https://open.spotify.com/track/4XpNHWkzmniak64A7wT4jF"
     },
     {
       "added_at": null,
@@ -387,6 +387,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trois jours avec... Maria Callas - Les Grandes Heures",
+        "url": "https://open.spotify.com/album/3dIkjC9waSbv6Rhp3UzGPQ"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Choeur et orchestre du Th\u00e9\u00e2tre de la Scala de Milan",
+          "url": "https://open.spotify.com/artist/76kQOeDvmEDHCHo1iAWKHN"
+        }
+      ],
+      "duration_ms": 445933,
+      "name": "Extrait \"Casta Diva\"",
+      "url": "https://open.spotify.com/track/7B4Q37Q7t37yxqY8T47nFo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maria Callas Legendary Recordings",
         "url": "https://open.spotify.com/album/7fXhJix9RarIVr9Mu9Y6dg"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 195226,
       "name": "Tosca: Tosca, Act II: Vissi d'arte",
       "url": "https://open.spotify.com/track/1JS09jW8dWzNb5AWFYKRdF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trois jours avec... Maria Callas - Les Grandes Heures",
-        "url": "https://open.spotify.com/album/3dIkjC9waSbv6Rhp3UzGPQ"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Choeur et orchestre du Th\u00e9\u00e2tre de la Scala de Milan",
-          "url": "https://open.spotify.com/artist/76kQOeDvmEDHCHo1iAWKHN"
-        }
-      ],
-      "duration_ms": 445933,
-      "name": "Extrait \"Casta Diva\"",
-      "url": "https://open.spotify.com/track/7B4Q37Q7t37yxqY8T47nFo"
     },
     {
       "added_at": null,
@@ -887,38 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ponchielli: La Gioconda, Op. 9",
-        "url": "https://open.spotify.com/album/3psVD4zIuKCJw8hVFr5oY3"
-      },
-      "artists": [
-        {
-          "name": "Amilcare Ponchielli",
-          "url": "https://open.spotify.com/artist/088fpww3Ae4U9cMZv5O6m8"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Coro di Torino della RAI",
-          "url": "https://open.spotify.com/artist/23DWBnk0R0snPWZyQQQvbs"
-        },
-        {
-          "name": "Antonino Votto",
-          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
-        },
-        {
-          "name": "Orchestra Sinfonica Di Torino Della Rai",
-          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
-        }
-      ],
-      "duration_ms": 90133,
-      "name": "Ponchielli: La Gioconda, Op. 9, Act 3: \"Prodigio! Incanto!\" (Coro)",
-      "url": "https://open.spotify.com/track/2YNHKWPuAJiSCHkiSgr8w0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Boh\u00e8me - Puccini",
         "url": "https://open.spotify.com/album/5b1dUxE8wWIGTyBX5h8CEp"
       },
@@ -971,6 +939,38 @@
       "duration_ms": 204226,
       "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
       "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ponchielli: La Gioconda, Op. 9",
+        "url": "https://open.spotify.com/album/3psVD4zIuKCJw8hVFr5oY3"
+      },
+      "artists": [
+        {
+          "name": "Amilcare Ponchielli",
+          "url": "https://open.spotify.com/artist/088fpww3Ae4U9cMZv5O6m8"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Coro di Torino della RAI",
+          "url": "https://open.spotify.com/artist/23DWBnk0R0snPWZyQQQvbs"
+        },
+        {
+          "name": "Antonino Votto",
+          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+        },
+        {
+          "name": "Orchestra Sinfonica Di Torino Della Rai",
+          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
+        }
+      ],
+      "duration_ms": 90133,
+      "name": "Ponchielli: La Gioconda, Op. 9, Act 3: \"Prodigio! Incanto!\" (Coro)",
+      "url": "https://open.spotify.com/track/2YNHKWPuAJiSCHkiSgr8w0"
     },
     {
       "added_at": null,
@@ -1371,54 +1371,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romantic Callas",
-        "url": "https://open.spotify.com/album/4ko6iNgiWkk6XmihYtOpPj"
+        "name": "Her Greatest Live Recitals",
+        "url": "https://open.spotify.com/album/3xt3xa0e0E5TE2iNzgfDWG"
       },
       "artists": [
         {
-          "name": "Laura Zanini",
-          "url": "https://open.spotify.com/artist/5gJbY7e4Va0YzyPbA0rauQ"
-        },
-        {
-          "name": "Vito Susca",
-          "url": "https://open.spotify.com/artist/1vOoKV0D9TYqqZGzb0Z9Q3"
-        },
-        {
-          "name": "Orquesta Sinfonica del Teatro Nacional de Santa Carlos, Lisboa",
-          "url": "https://open.spotify.com/artist/7CR15gHtqlbn8WgRaz71WB"
-        },
-        {
-          "name": "Alvaro Malta",
-          "url": "https://open.spotify.com/artist/1JTCtnySOEp1cZp5OzuUgR"
-        },
-        {
-          "name": "Alessandro Maddalena",
-          "url": "https://open.spotify.com/artist/61BH6Zix11P6bn0yhcmTDN"
-        },
-        {
-          "name": "Alfredo Kraus",
-          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
-        },
-        {
-          "name": "Franco Ghione",
-          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
-        },
-        {
-          "name": "Piero de Palma",
-          "url": "https://open.spotify.com/artist/7gxxE0IbP9hFZeJVwdWCSc"
-        },
-        {
-          "name": "Coro del Teatro Nacional de Santa Carlos, Lisboa",
-          "url": "https://open.spotify.com/artist/647hntQfDv0yrCYQrkEhSh"
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "North German Radio Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3rwr89g0JzQsjz9XNZog2E"
         }
       ],
-      "duration_ms": 193773,
-      "name": "La Traviata: Libiamo, ne' lieti calici (Brindisi)",
-      "url": "https://open.spotify.com/track/4a5e6pHMFMqI5dM4BhQbVL"
+      "duration_ms": 224453,
+      "name": "Bellini: Il pirata, Act 2: \"Col sorriso d'innocenza\" (Imogene) [Live, Hamburg, 1959]",
+      "url": "https://open.spotify.com/track/5v5V27CailGREFEFAROoRG"
     }
   ],
   "unique_name": "This Is Maria Callas",

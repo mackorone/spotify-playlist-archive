@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-374 songs - 16 hr 55 min
+376 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Square One](https://open.spotify.com/track/0sI1V9eHnuebwAxmGqZ31d) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:16 | 2022-05-13 | 2024-04-06 |
 | [Starting Over](https://open.spotify.com/track/5Nd54oYpiYxUh3bQcT9PtE) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Starting Over](https://open.spotify.com/album/6h8H91TDC4VG1G10ci3zlq) | 1:52 | 2022-05-13 | 2022-06-10 |
 | [Stirling](https://open.spotify.com/track/14I5NCZR2Ml2egUlLPxSKL) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Stirling](https://open.spotify.com/album/7uU6IUooGwe60ajUtMfBy2) | 2:08 | 2022-05-13 | 2023-02-25 |
+| [Stonehaven](https://open.spotify.com/track/3vt0Y1KJwaEzaDOF4shO2i) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Stonehaven](https://open.spotify.com/album/0yasqdzEzBoL89mK1NnyVw) | 2:27 | 2025-03-05 |  |
 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-06-09 |  |
 | [Strawberry Dreams](https://open.spotify.com/track/6VmmaKQk2QRX4Fz3k7RQIy) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Strawberry Dreams](https://open.spotify.com/album/6halbltGTQuauVqk6ZVxr8) | 2:59 | 2024-05-10 |  |
 | [Stream](https://open.spotify.com/track/0iQJKde2ceeY5iu7zX4b6s) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Stream](https://open.spotify.com/album/4r9WzvRUBLaFP6qep8wHPE) | 2:41 | 2022-05-13 | 2023-11-24 |
@@ -374,6 +375,7 @@
 | [Whisper](https://open.spotify.com/track/6FNat5nqFlDpksBlvTX4n2) | [Marty Defough](https://open.spotify.com/artist/5IeOpT1hJjJsbhpQTpErpt) | [Whisper](https://open.spotify.com/album/0CSv2I9G6woAROWzuNAGCw) | 2:07 | 2023-04-28 |  |
 | [Wholeness](https://open.spotify.com/track/1jjZPPUTXBkvAzohTyFyKR) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wholeness](https://open.spotify.com/album/2A6ZqxxcjPGoCkl8299S39) | 3:18 | 2022-05-13 | 2024-04-06 |
 | [Wide Open Fields](https://open.spotify.com/track/5JcB7SJbD2TeJKEwHE4Pjt) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Wide Open Fields](https://open.spotify.com/album/66QsqLd9r1qVermYTWChlO) | 3:52 | 2022-05-13 | 2024-05-10 |
+| [Wildflower](https://open.spotify.com/track/1Sv0ki8acURIMVQzKKu7NK) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [Wildflower](https://open.spotify.com/album/2xKeFOm2OAsYWJxtZHVS9f) | 3:40 | 2025-03-05 |  |
 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 | 2022-05-13 | 2023-02-25 |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 |  |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 |  |

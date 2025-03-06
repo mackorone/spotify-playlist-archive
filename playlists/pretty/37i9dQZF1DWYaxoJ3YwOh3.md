@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,754 likes - 95 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,887 likes - 95 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 94 | [To Become](https://open.spotify.com/track/13wd75MxSECCWxK8Q6ADkM) | [Ambient X](https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX) | [To Become](https://open.spotify.com/album/3YDEOoghPFf0h9eFP6Uws3) | 2:47 |
 | 95 | [Serene Breath \- Studio Edit](https://open.spotify.com/track/2ihzQGdQHS2sGw08o6lMId) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Serene Breath](https://open.spotify.com/album/4rlxAgkNk1UJ2mYwyKKhcV) | 2:29 |
 
-Snapshot ID: `Z4e3HAAAAAB1KhJGTEHpTD6bsRUjudsN`
+Snapshot ID: `Z4e3HAAAAABfz9IiYGh4Gy9UQeCGp10z`

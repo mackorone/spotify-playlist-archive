@@ -2897,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Echoes in a Hollow Sky",
+        "url": "https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi"
+      },
+      "artists": [
+        {
+          "name": "Silent Turner",
+          "url": "https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Echoes in a Hollow Sky",
+      "url": "https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz"
+    },
+    {
+      "album": {
         "name": "Eclipsis",
         "url": "https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t"
       },
@@ -5588,6 +5606,24 @@
       "duration_ms": 136045,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f"
+    },
+    {
+      "album": {
+        "name": "Isabelle",
+        "url": "https://open.spotify.com/album/2OtktlXxPi0Gj2UY5BuuhF"
+      },
+      "artists": [
+        {
+          "name": "Anton Vega",
+          "url": "https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131630,
+      "name": "Isabelle",
+      "url": "https://open.spotify.com/track/1ZOGR0g0RPxcdMLqVmR5xg"
     },
     {
       "album": {
@@ -10751,6 +10787,24 @@
     },
     {
       "album": {
+        "name": "Sing, Vogel, Sing!",
+        "url": "https://open.spotify.com/album/3Ebf5QRLd5WdjDZXaqc4CA"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Bern",
+          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "Sing, Vogel, Sing!",
+      "url": "https://open.spotify.com/track/7HqDwn7I6wglTZX7Nhf3t7"
+    },
+    {
+      "album": {
         "name": "Sinking",
         "url": "https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa"
       },
@@ -11230,7 +11284,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 121946,
       "name": "Staden",
       "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"

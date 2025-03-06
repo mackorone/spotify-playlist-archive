@@ -2161,6 +2161,32 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/2o64ZD2pXn8VW9Lr1usAKq"
+      },
+      "artists": [
+        {
+          "name": "Anyasa",
+          "url": "https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd"
+        },
+        {
+          "name": "Parallel Voices",
+          "url": "https://open.spotify.com/artist/6GP9OmnhCjVx3n9jKjoYQH"
+        },
+        {
+          "name": "Lake Silver",
+          "url": "https://open.spotify.com/artist/3jUIM87ijH82I8Wp91U6aE"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261221,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6SjFc8iaehM0920mfYsq9X"
+    },
+    {
+      "album": {
         "name": "Heartbreak 2020",
         "url": "https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp"
       },

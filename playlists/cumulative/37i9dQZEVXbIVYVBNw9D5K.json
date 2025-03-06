@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 191275,
       "name": "BAYBAY",
       "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
@@ -5832,7 +5832,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 264067,
       "name": "Derine",
       "url": "https://open.spotify.com/track/55CUqmPM8tGtzPt0XRAHtt"
@@ -7104,6 +7104,24 @@
     {
       "album": {
         "name": "Hat\u0131r\u0131m Yok mu",
+        "url": "https://open.spotify.com/album/0KNshE9SpQfVStSSJoPqnG"
+      },
+      "artists": [
+        {
+          "name": "Sedat Sayan",
+          "url": "https://open.spotify.com/artist/1ZxwLxdytOprkobPFkSPj4"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222540,
+      "name": "Ellere D\u00fc\u015f",
+      "url": "https://open.spotify.com/track/2lGPoP83l7qIHlWaM43My4"
+    },
+    {
+      "album": {
+        "name": "Hat\u0131r\u0131m Yok mu",
         "url": "https://open.spotify.com/album/76FgdvILKbU0ytY4VgIonZ"
       },
       "artists": [
@@ -7114,7 +7132,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 225413,
       "name": "Ellere D\u00fc\u015f",
       "url": "https://open.spotify.com/track/2vaqwysXMbTU5ogYExY5MA"
@@ -10066,7 +10084,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 232727,
       "name": "HER G\u00dcN A\u011eLADIM",
       "url": "https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn"
@@ -22164,7 +22182,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 277166,
       "name": "\u00c7\u00f6zemezsin",
       "url": "https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P"

@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-414 songs - 18 hr 22 min
+415 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Cape May](https://open.spotify.com/track/77e7g7IzJHpk5hnwUguZIv) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cape May](https://open.spotify.com/album/0R1tZfJSsUmM0LOYppmziV) | 2:42 | 2023-12-15 |  |
 | [Carroll Gardens](https://open.spotify.com/track/3dgAbsq1H5NqLJscYPxurR) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Carroll Gardens](https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq) | 2:44 | 2023-08-11 |  |
 | [Cascading Gracefully](https://open.spotify.com/track/61rbHseoHJJ7xjcpA7hCoH) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Cascading Gracefully](https://open.spotify.com/album/41B8fiOkOnqSipjAzGlhqM) | 2:12 | 2023-05-26 | 2023-06-16 |
+| [Catamaran](https://open.spotify.com/track/5tyDBqmANuy4wFG40G4oQY) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Catamaran](https://open.spotify.com/album/0y3bSiAqFS3XaEDQUKbt8u) | 2:50 | 2025-03-05 |  |
 | [Cavatina](https://open.spotify.com/track/28W5lTZMClVz9fLt6iiaJN) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [John C\. Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY) | [Classic Williams \-\- Romance of the Guitar](https://open.spotify.com/album/3lXBNgLzlsHOP9lLbepn6b) | 3:08 | 2022-11-25 | 2023-06-23 |
 | [Celebration of Sam](https://open.spotify.com/track/4RV2xO2WfaMS4W1lIxwx6J) | [Steve Pulvers](https://open.spotify.com/artist/4EIHPmsZkohwAGfn46iNmq) | [Acoustic Journey](https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g) | 3:45 | 2021-12-10 | 2022-07-08 |
 | [Chameleon’s tuning](https://open.spotify.com/track/35DNlywB4BvMt3Ys4aIxPR) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Chameleon’s tuning](https://open.spotify.com/album/0n8hKnSnZPGPm1i7LblWdm) | 2:21 | 2023-01-06 |  |
@@ -288,7 +289,7 @@
 | [Rio De Los Sauces](https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Rio De Los Sauces](https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I) | 2:49 | 2021-12-23 | 2024-04-06 |
 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 | 2021-12-23 | 2024-04-06 |
 | [Ripples in the sand](https://open.spotify.com/track/5QZVpjifzC8k1h4f37ro4B) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Ripples in the sand](https://open.spotify.com/album/4a6ck1QSXNh1mk1LEyI57L) | 3:06 | 2024-02-02 | 2024-11-07 |
-| [Rippling Waters](https://open.spotify.com/track/2CJYWfBlOJ9WWoi5ynPMDf) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Rippling Waters](https://open.spotify.com/album/6vbPmAiYbJaGwsE3Ieli13) | 2:23 | 2023-10-13 |  |
+| [Rippling Waters](https://open.spotify.com/track/2CJYWfBlOJ9WWoi5ynPMDf) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Rippling Waters](https://open.spotify.com/album/6vbPmAiYbJaGwsE3Ieli13) | 2:23 | 2023-10-13 | 2025-03-06 |
 | [Road To Pappy's](https://open.spotify.com/track/4e9rBrNPDRoXqlT2anxvmu) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Road To Pappy's](https://open.spotify.com/album/17n0YzedIGhgxEKFgvNZmf) | 2:33 | 2023-05-26 | 2023-06-16 |
 | [Saint Michel](https://open.spotify.com/track/1vx0RMtjAs0ZiLKXTsIxzA) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Saint Michel](https://open.spotify.com/album/5B6U8Kx1LppXVW0FivQdLS) | 2:47 | 2024-02-23 |  |
 | [Salt Water](https://open.spotify.com/track/4qO8z8SUzeYLBeG3Mp7aqV) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Salt Water](https://open.spotify.com/album/4MnldJg70rWC1FR5wlKtcu) | 2:46 | 2024-10-09 |  |

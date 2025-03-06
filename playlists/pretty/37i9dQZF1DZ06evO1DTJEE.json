@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 48277,
+  "num_followers": 48358,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8TxAAAAAACrIM/aTPDBT4ulESy7tzVh",
+  "snapshot_id": "Z8ZCgAAAAABZufTqZ4xWZpH887IQT5pA",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 195776,
-      "name": "Atlantic City",
-      "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 221200,
-      "name": "Way Out Here",
-      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
+      "duration_ms": 195776,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rather Be",
-        "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 171142,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury Me In Dixie",
         "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 188250,
       "name": "Bury Me In Dixie",
       "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 171142,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
+        "name": "Where Corn Don't Grow",
+        "url": "https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 183560,
-      "name": "Jesus And Wranglers",
-      "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
+      "duration_ms": 243082,
+      "name": "Where Corn Don\u2019t Grow",
+      "url": "https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where Corn Don't Grow",
-        "url": "https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F"
+        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 243082,
-      "name": "Where Corn Don\u2019t Grow",
-      "url": "https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy"
+      "duration_ms": 183560,
+      "name": "Jesus And Wranglers",
+      "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "English songs from Indian artists\nCover: Tarang Joseph",
-  "num_followers": 37954,
+  "num_followers": 37961,
   "original_name": "IndiEnglish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6HbJAAAAAAWcFLE/LxBsRXs/QTo4/EO",
+  "snapshot_id": "Z8fyVwAAAACFFw3luE9L5gHL5gHixkqR",
   "tracks": [
     {
       "added_at": "2024-11-22 06:53:41",
@@ -179,6 +179,30 @@
       "duration_ms": 218000,
       "name": "so beautiful, with you",
       "url": "https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl"
+    },
+    {
+      "added_at": "2025-03-05 06:42:31",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/2o64ZD2pXn8VW9Lr1usAKq"
+      },
+      "artists": [
+        {
+          "name": "Anyasa",
+          "url": "https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd"
+        },
+        {
+          "name": "Parallel Voices",
+          "url": "https://open.spotify.com/artist/6GP9OmnhCjVx3n9jKjoYQH"
+        },
+        {
+          "name": "Lake Silver",
+          "url": "https://open.spotify.com/artist/3jUIM87ijH82I8Wp91U6aE"
+        }
+      ],
+      "duration_ms": 261221,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6SjFc8iaehM0920mfYsq9X"
     },
     {
       "added_at": "2024-11-22 06:53:41",

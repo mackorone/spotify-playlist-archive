@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,647 likes - 25 songs - 1 day 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,646 likes - 25 songs - 1 day 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ep\. 25: Palabras sin miedo \- con Vivir Quintana](https://open.spotify.com/episode/0UbSCyzPzIkUTmjXNLuHkp) | [Señoras Punk ](https://open.spotify.com/show/4hS2jWFOWhyQlYgmJsXdSq) | [Señoras Punk ](https://open.spotify.com/album/4hS2jWFOWhyQlYgmJsXdSq) | 1:12:10 |
-| 2 | [SER MUJER \| 6 DE COPAS \- EPISODIO 1 \- T2](https://open.spotify.com/episode/2xHnJw1knMzUdcWawDGyk1) | [Seis de Copas](https://open.spotify.com/show/0rcejj6eHA5u2Z3geS2inO) | [Seis de Copas](https://open.spotify.com/album/0rcejj6eHA5u2Z3geS2inO) | 1:36:39 |
+| 2 | [SER MUJER \| 6 DE COPAS \- EPISODIO 1 \- T2](https://open.spotify.com/episode/2xHnJw1knMzUdcWawDGyk1) | [Seis de Copas](https://open.spotify.com/show/0rcejj6eHA5u2Z3geS2inO) | [Seis de Copas](https://open.spotify.com/album/0rcejj6eHA5u2Z3geS2inO) | 1:35:24 |
 | 3 | [¡El empaque seduce, pero el contenido conquista!](https://open.spotify.com/episode/6JmN7lQRobTj30EwEXVvir) | [Somos Aliadas](https://open.spotify.com/show/1YpcfPEFUNvFHc8fkiQiZh) | [Somos Aliadas](https://open.spotify.com/album/1YpcfPEFUNvFHc8fkiQiZh) | 36:58 |
 | 4 | [EP 115: EL PODER \| MARTHA DEBAYLE](https://open.spotify.com/episode/7uezIqoPqz2rygZJgh4yhi) | [La Burra Arisca](https://open.spotify.com/show/4cKDfZDmxt0dRzYvs8EJBv) | [La Burra Arisca](https://open.spotify.com/album/4cKDfZDmxt0dRzYvs8EJBv) | 1:04:25 |
 | 5 | [Episodio 44 \- Cosas que te daban pena de tu ex y nunca le dijiste](https://open.spotify.com/episode/0sKXyJcnCLaYwIGdp2Jj4Q) | [Las Damitas Histeria](https://open.spotify.com/show/0ob7mZuMUpwT0tMHMLXfoc) | [Las Damitas Histeria](https://open.spotify.com/album/0ob7mZuMUpwT0tMHMLXfoc) | 57:40 |

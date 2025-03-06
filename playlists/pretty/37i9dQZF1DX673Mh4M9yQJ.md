@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX673Mh4M9yQJ.md) - [plain]
 
 > The British sisters who paved the way for today's young stars to shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,217 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,245 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

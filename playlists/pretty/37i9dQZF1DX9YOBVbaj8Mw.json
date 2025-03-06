@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14869,
+  "num_followers": 14870,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Zalewski \u015bpiewa Niemena (Reedycja)",
-        "url": "https://open.spotify.com/album/3hPcfIfLoRoSmtWF1vOrZ0"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "P\u0142on\u0105ca stodo\u0142a",
-      "url": "https://open.spotify.com/track/6koA8seh19SIjaOwf45jgC"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Chory na Polsk\u0119",
         "url": "https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 199253,
       "name": "Chory na Polsk\u0119",
       "url": "https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Zalewski \u015bpiewa Niemena (Reedycja)",
+        "url": "https://open.spotify.com/album/3hPcfIfLoRoSmtWF1vOrZ0"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "P\u0142on\u0105ca stodo\u0142a",
+      "url": "https://open.spotify.com/track/6koA8seh19SIjaOwf45jgC"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Polish Pentagon",
-        "url": "https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv"
-      },
-      "artists": [
-        {
-          "name": "Piotr Szlempo",
-          "url": "https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6"
-        }
-      ],
-      "duration_ms": 286506,
-      "name": "After Shave",
-      "url": "https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Krzysztof Meyer: Sonata No.4, Op.22: IV. Interludio II",
         "url": "https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 238518,
       "name": "Krzysztof Meyer: Sonata No.4, Op.22: IV. Interludio II",
       "url": "https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Polish Pentagon",
+        "url": "https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv"
+      },
+      "artists": [
+        {
+          "name": "Piotr Szlempo",
+          "url": "https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6"
+        }
+      ],
+      "duration_ms": 286506,
+      "name": "After Shave",
+      "url": "https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL"
     },
     {
       "added_at": "2024-03-25 08:52:09",

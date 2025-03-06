@@ -1,13 +1,33 @@
 {
   "description": "Listen to all your favorite Disney Princess songs.",
-  "num_followers": 953602,
+  "num_followers": 953680,
   "original_name": "Disney Princess",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5vv+AAAAAAkvicqfdE720hQfd0XT83B",
+  "snapshot_id": "Z8faVAAAAACMCrXVWWeGDQm2dLz5ZcRn",
   "tracks": [
+    {
+      "added_at": "2025-03-05 05:00:04",
+      "album": {
+        "name": "Waiting On A Wish (From \"Disney's Snow White\")",
+        "url": "https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Waiting On A Wish - From \"Disney's Snow White\"",
+      "url": "https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx"
+    },
     {
       "added_at": "2023-10-13 12:01:00",
       "album": {

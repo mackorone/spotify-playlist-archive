@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,915 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,922 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 59 | [No Me Dan Las Cuentas](https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [No Me Dan Las Cuentas](https://open.spotify.com/album/5D2lSTtk0P7OTtg4WuzJaE) | 3:55 |
 | 60 | [Heart of Thunder](https://open.spotify.com/track/6KcNnnPEEEpAThFNN6DYZl) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z), [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Heart of Thunder](https://open.spotify.com/album/2NrrkmuqKwy5j0C5gIxeNX) | 3:31 |
 
-Snapshot ID: `Z5PtOQAAAACRoyVqR6t7l4P+3Izieevb`
+Snapshot ID: `Z5PtOQAAAADW8mDsAajFwdHQpVR9rB9D`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 
 > La playlist ufficiale del nuovo rap show di Netflix! Vincitore: Kid Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,606 likes - 53 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,615 likes - 53 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,6 +60,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 | 50 | [Ma Xkè A Me?](https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ma Xkè A Me?](https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea) | 2:36 |
 | 51 | [Ciao fraté \- Originale](https://open.spotify.com/track/2W9CGtzBZzXBjpKuyXkgj2) | [Cor Veleno](https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R) | [Primo Squarta / Bomboclat](https://open.spotify.com/album/4pCteFl6VZWJv6encylPON) | 3:13 |
 | 52 | [Siamo la Nuova Scena \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/4ZagW6mxEeUEZsdyvGAsuv) | [Artisti di Nuova Scena](https://open.spotify.com/artist/5hhA7pbz87cLlkdVezlHyK), [Pyrmds](https://open.spotify.com/artist/6SJuw22gyr94vqmn6ANPrO) | [Siamo la Nuova Scena \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/54xVrL9XcNkck6qL08lPZT) | 1:22 |
-| 53 | [Nuova Scena è Pronta \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/5SECfDnf3gKjYd1cOX079G) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Nuova Scena è Pronta \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4Ag6kNMNh5lMkL1R6SnFBX) | 0:28 |
+| 53 | [Nuova Scena è Pronta \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/5SECfDnf3gKjYd1cOX079G) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Nuova Scena è Pronta \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4Ag6kNMNh5lMkL1R6SnFBX) | 0:28 |
 
 Snapshot ID: `ZfsMZQAAAAD1IwUCQqNZIiZD0v5FTSYT`

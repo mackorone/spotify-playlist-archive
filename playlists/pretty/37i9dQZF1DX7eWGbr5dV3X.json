@@ -1,6 +1,6 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Towa Bird.",
-  "num_followers": 8639,
+  "num_followers": 8636,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 199070,
+      "name": "chance",
+      "url": "https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "ok on your own",
         "url": "https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 200347,
       "name": "Rare",
       "url": "https://open.spotify.com/track/0aTus2dPcGqaEmeG3NM9Op"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 199070,
-      "name": "chance",
-      "url": "https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR"
     },
     {
       "added_at": "2024-07-12 04:00:00",

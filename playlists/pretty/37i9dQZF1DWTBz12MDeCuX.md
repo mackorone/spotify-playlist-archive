@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,052 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,036 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [petrichor](https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [stunde null](https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD) | 2:01 |
 | 100 | [Verloren in der Welt](https://open.spotify.com/track/61yk9cufvcgmyauHbVSavd) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Verloren in der Welt](https://open.spotify.com/album/3sRv0uaEobioO17gWd1D0P) | 2:23 |
 
-Snapshot ID: `Z8XC2wAAAADgVF2YKK1SVvC1aLfQ79s2`
+Snapshot ID: `Z8XC2wAAAABRoaAowDU2mNpVkCrv5o9y`

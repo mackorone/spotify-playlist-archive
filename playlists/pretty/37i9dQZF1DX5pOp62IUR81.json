@@ -1,13 +1,29 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180338,
+  "num_followers": 180335,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC8AAAAAA9vboE//PE9xgaSv0HkJlo",
+  "snapshot_id": "Z8gEkwAAAABsGp2GYQv4SwNuQcnvwGDr",
   "tracks": [
+    {
+      "added_at": "2025-03-05 08:00:19",
+      "album": {
+        "name": "Marvel's Daredevil: Born Again Main Theme (From \"Marvel's Daredevil: Born Again\")",
+        "url": "https://open.spotify.com/album/3JmYvRWvxTtVu1IckeCpfo"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "duration_ms": 109864,
+      "name": "Marvel's Daredevil: Born Again Main Theme - From \"Marvel's Daredevil: Born Again\"",
+      "url": "https://open.spotify.com/track/4mXdThZ9JooNvF4vztdLtN"
+    },
     {
       "added_at": "2025-02-28 05:00:32",
       "album": {

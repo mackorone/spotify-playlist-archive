@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 561 likes - 231 songs - 15 hr 39 min
+[codym2011](https://open.spotify.com/user/codym2011) - 561 likes - 232 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,5 +239,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 229 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 |
 | 230 | [Lost in Memories](https://open.spotify.com/track/6ilOsZLOBDSyE0ZlTxefPQ) | [Jerber lazaro](https://open.spotify.com/artist/6EUNb9dAKBWxOU2IqT4pgC), [Alicha](https://open.spotify.com/artist/5kS7uLqih4xWlRzducKKjm), [Illico](https://open.spotify.com/artist/4Qc4xlOszc7E6Gt3jQoy3J) | [Lost in Memories](https://open.spotify.com/album/0UjQRqUzumBwoKIqnlk5aL) | 3:39 |
 | 231 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 |
+| 232 | [Soft Spot](https://open.spotify.com/track/5aoaku54XYpazH18i9bUXp) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/4e950bADADtSJ7JI5QxDh8) | 4:22 |
 
-Snapshot ID: `AAAA+bvQmeWYesPJRxO/LM0t/Sz1r3Bg`
+Snapshot ID: `AAAA+uElS2HWaxM0+cScaQ4+F9MPyw6n`

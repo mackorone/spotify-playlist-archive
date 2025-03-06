@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-544 songs - 23 hr 1 min
+545 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [passing memories](https://open.spotify.com/track/3AGayCmS2tutGPmmCkNY1k) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [passing memories](https://open.spotify.com/album/2Mxaff7EkFAZtFDu3QtkUs) | 1:58 | 2022-09-09 | 2023-09-14 |
 | [Past encounters](https://open.spotify.com/track/3ZHXP7TCdWAcHUOqafq2Cw) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Past encounters](https://open.spotify.com/album/3CH7PyvDReNm3sKOZxPa3x) | 2:30 | 2024-02-02 |  |
 | [Path](https://open.spotify.com/track/1Wz9by58bwMopMC2QPN8Z8) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Chris Embers](https://open.spotify.com/artist/78YcYzYQFoC44mT1rL0dsB) | [Path](https://open.spotify.com/album/0DKq6qtvTHmsJPU1OzyAZK) | 2:36 | 2022-06-17 | 2022-12-24 |
+| [Peekskills](https://open.spotify.com/track/0Qk32yAxmSsyHmvILqfsdT) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Peekskills](https://open.spotify.com/album/0o3eEFDa3NqHEuiS8G3WjI) | 2:15 | 2025-03-05 |  |
 | [Pellegrino](https://open.spotify.com/track/0mNMNk8NPcay74AHyFwzfX) | [Marega](https://open.spotify.com/artist/0Q9yTuKnZnnCAdOpAMmTjl) | [Pro Noel](https://open.spotify.com/album/0gPbklN0zJ4cZZbT0LjeAK) | 2:51 | 2022-06-17 | 2023-10-13 |
 | [Pillow Hymn](https://open.spotify.com/track/2Etxnz6V6sZTsgaa8W6w7g) | [Laurent Ruaud](https://open.spotify.com/artist/0vCWZOklQJPdWDIMiYwP6z) | [Pillow Hymn](https://open.spotify.com/album/740VMPcRZ0LCxILPwzsPXy) | 1:29 | 2022-12-09 | 2023-09-14 |
 | [Pitaya](https://open.spotify.com/track/0qkLFOcaTCaFFwxh1uk9Mr) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Pitaya](https://open.spotify.com/album/4hCqAS4S5aVEROwsfbiAXr) | 2:57 | 2023-10-27 | 2024-05-25 |

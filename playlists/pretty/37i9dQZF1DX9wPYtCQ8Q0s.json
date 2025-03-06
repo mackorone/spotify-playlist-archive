@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 328221,
+  "num_followers": 328209,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-03-01 19:34:34",
       "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 175215,
+      "name": "FXCK UP THE WORLD (Vixi Solo Version)",
+      "url": "https://open.spotify.com/track/3axyOG0Z7zBwRzOkQWtBEJ"
+    },
+    {
+      "added_at": "2025-03-01 19:34:34",
+      "album": {
         "name": "The London (feat. J. Cole & Travis Scott)",
         "url": "https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 199746,
       "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg)",
       "url": "https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr"
-    },
-    {
-      "added_at": "2025-03-01 19:34:34",
-      "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 175215,
-      "name": "FXCK UP THE WORLD (Vixi Solo Version)",
-      "url": "https://open.spotify.com/track/3axyOG0Z7zBwRzOkQWtBEJ"
     },
     {
       "added_at": "2025-03-01 19:34:34",
@@ -1831,30 +1831,6 @@
     {
       "added_at": "2025-03-01 19:34:34",
       "album": {
-        "name": "Bonde da Rock",
-        "url": "https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 137237,
-      "name": "Bonde da Rock",
-      "url": "https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5"
-    },
-    {
-      "added_at": "2025-03-01 19:34:34",
-      "album": {
         "name": "Bezerk",
         "url": "https://open.spotify.com/album/6UgZHNJFfmKLSGLuW9T114"
       },
@@ -1875,6 +1851,30 @@
       "duration_ms": 151066,
       "name": "Bezerk (feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/2B9wgj9XzbJZLty03PRbVo"
+    },
+    {
+      "added_at": "2025-03-01 19:34:34",
+      "album": {
+        "name": "Bonde da Rock",
+        "url": "https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 137237,
+      "name": "Bonde da Rock",
+      "url": "https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5"
     },
     {
       "added_at": "2025-03-01 19:34:34",

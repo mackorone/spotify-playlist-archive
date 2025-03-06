@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 32882,
+  "num_followers": 32908,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/4xNpDdlEFDGElKTwIW5fBA"
-      },
-      "artists": [
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        },
-        {
-          "name": "Walshy Fire",
-          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5UjqwNltfuqLYxeJNE6SVb"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
         "name": "Instantly",
         "url": "https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 188387,
       "name": "Instantly",
       "url": "https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4xNpDdlEFDGElKTwIW5fBA"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        },
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5UjqwNltfuqLYxeJNE6SVb"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1123,38 +1123,6 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "BOOK OF VASA",
-        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
-        "name": "Will I?",
-        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "Will I?",
-      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
         "name": "Ah Well",
         "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
       },
@@ -1179,6 +1147,38 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
+        "name": "Will I?",
+        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "Will I?",
+      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
+        "name": "BOOK OF VASA",
+        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB"
       },
@@ -1191,6 +1191,26 @@
       "duration_ms": 129576,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1227,26 +1247,6 @@
       "duration_ms": 180000,
       "name": "Sara Jay",
       "url": "https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4kPmfne7JilXehb88OknDC"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "duration_ms": 136969,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6sXhKl8JUaO9g8Q2O1kQtg"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
         "name": "With The Most & Friends (Vol 1)",
         "url": "https://open.spotify.com/album/4pjFTm9bnvxBIhdhWcUxR8"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2025-02-28 08:56:39",
       "album": {
-        "name": "Finding Nimo Series: The Capsule",
-        "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 156212,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
         "name": "Princess",
         "url": "https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 97550,
       "name": "Princess",
       "url": "https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x"
+    },
+    {
+      "added_at": "2025-02-28 08:56:39",
+      "album": {
+        "name": "Finding Nimo Series: The Capsule",
+        "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 156212,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
     },
     {
       "added_at": "2025-02-28 08:56:39",
@@ -1487,22 +1503,6 @@
       "duration_ms": 160517,
       "name": "Belle",
       "url": "https://open.spotify.com/track/2gdO9XcEWeXOL79XksUjzj"
-    },
-    {
-      "added_at": "2025-02-28 08:56:39",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/4kPmfne7JilXehb88OknDC"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        }
-      ],
-      "duration_ms": 136969,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6sXhKl8JUaO9g8Q2O1kQtg"
     }
   ],
   "unique_name": "Afro Chill",

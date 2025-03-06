@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-242 songs - 13 hr 28 min
+243 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Call Me \- Slowed](https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Call Me \(Slowed\)](https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N) | 2:40 | 2023-08-03 |  |
 | [Call out My Name \(Slowed + Reverb\)](https://open.spotify.com/track/68GfSNWJGl4OCvDtWBTh38) | [Que Fieri](https://open.spotify.com/artist/1GbIkmv5H1Ok9Vo2UbDLuE) | [Assumptions / Call out My Name \(Acoustic\)](https://open.spotify.com/album/63rY7Ofwy3BZ5Knd5Pc0Ti) | 4:01 | 2021-10-01 | 2022-06-01 |
 | [Car's Outside \- Slowed Down Version](https://open.spotify.com/track/1INBzhPNmE5956Vz0OpWAV) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Car's Outside](https://open.spotify.com/album/0BbIbUGBYjryhlMrbM7ki2) | 4:29 | 2023-09-21 | 2023-12-15 |
+| [chess \- slowed](https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l) | [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [chess](https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou) | 2:22 | 2025-03-05 |  |
 | [CLEARED \- Remix \(Slowed\)](https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [CLEARED \- Remix \(Slowed / Sped Up\)](https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH) | 2:47 | 2024-04-05 |  |
 | [Close Eyes \- Slowed + Reverb](https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes \(Slowed + Reverb\)](https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm) | 2:23 | 2021-10-01 |  |
 | [controlla \- slowed + reverb](https://open.spotify.com/track/6RSQeyP04RWrZagVQbrvLj) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [controlla \- slowed + reverb](https://open.spotify.com/album/6XEaL0Xu7ZiYQQAs5RIfgz) | 1:18 | 2022-04-01 | 2022-05-17 |
@@ -235,7 +236,7 @@
 | [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 | 2022-12-09 |  |
 | [Vision \- Slowed](https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr) | 4:59 | 2021-10-01 | 2022-12-11 |
 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 | 2023-08-03 |  |
-| [watching the stars \(Slowed + Reverb\)](https://open.spotify.com/track/6V3bFXfMuKX7xJ3v2ate2J) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [watching the stars \(Remixes\)](https://open.spotify.com/album/7tVjWJao2UMh0kluQBHVPy) | 1:57 | 2023-09-21 |  |
+| [watching the stars \(Slowed + Reverb\)](https://open.spotify.com/track/6V3bFXfMuKX7xJ3v2ate2J) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [watching the stars \(Remixes\)](https://open.spotify.com/album/7tVjWJao2UMh0kluQBHVPy) | 1:57 | 2023-09-21 | 2025-03-06 |
 | [we can try](https://open.spotify.com/track/0ruflkkraifzGTJoI13c9D) | [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH) | [we can try](https://open.spotify.com/album/2jW1ORaVudLRfMqhBouNFj) | 3:04 | 2022-05-20 | 2022-06-01 |
 | [Wet \(She Got That…\) \- Slowed & Reverbed](https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [DJ Slow Verb](https://open.spotify.com/artist/2PAzPJOeGQrKmqDHH4Te5s) | [Wet \(She Got That…\) \[Slowed & Reverbed\]](https://open.spotify.com/album/0ZHgUZ8A92ie2Bd5dxEbNP) | 3:49 | 2021-10-01 | 2023-12-09 |
 | [Whatta Man \- Slowed + Reverb](https://open.spotify.com/track/2S2FCL79w1rT1k8e1xOpyh) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Paul Leigh Paige](https://open.spotify.com/artist/0fxiEm0sTs3Itu0IW6Y44z) | [Whatta Man \(The Remixes\)](https://open.spotify.com/album/5Ly6l6Hv9tpSik7XwCJDag) | 5:29 | 2021-10-01 | 2022-04-20 |

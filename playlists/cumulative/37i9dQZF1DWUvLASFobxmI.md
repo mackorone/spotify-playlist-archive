@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, Adrian L Santos en portada.
 
-655 songs - 1 day 10 hr 37 min
+656 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [El Mejor del Mundo \- En Vivo](https://open.spotify.com/track/3aCP6693dQMcBUaLXaeqnt) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mejor del Mundo \(En Vivo\)](https://open.spotify.com/album/3SQSVXheDF238LrACCxEwE) | 3:04 | 2023-12-15 | 2024-01-13 |
 | [El Mero Jefe](https://open.spotify.com/track/7x8zB0fCcGX2Laz7aOdX8d) | [Grupo DH](https://open.spotify.com/artist/1hsSik9MaFxsUbimuleDxZ), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Mero Jefe](https://open.spotify.com/album/7I18KlTao7kD9zzaiHJA0U) | 2:50 | 2023-01-13 | 2023-01-21 |
 | [El Michoacano](https://open.spotify.com/track/3paVHrLxRcgauA9dNzzBx7) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [El Michoacano](https://open.spotify.com/album/6pkjlwfyvEvcXbb43ONIwp) | 2:29 | 2025-01-31 | 2025-03-01 |
-| [El Mochomo \- Live](https://open.spotify.com/track/2VYt8C8ccrAGtOKubIKZIB) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Mochomo \(Live\)](https://open.spotify.com/album/3xGn4cLF44Yx2B9ujTCy3H) | 2:56 | 2024-12-20 |  |
+| [El Mochomo \- Live](https://open.spotify.com/track/2VYt8C8ccrAGtOKubIKZIB) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Mochomo \(Live\)](https://open.spotify.com/album/3xGn4cLF44Yx2B9ujTCy3H) | 2:56 | 2024-12-20 | 2025-03-06 |
 | [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 | 2023-09-08 | 2024-03-23 |
 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 | 2023-05-26 | 2023-09-22 |
 | [El Pescuezo Del Pollo \(En Vivo\)](https://open.spotify.com/track/0N3dAhEqj3zTeHJcDuA5fB) | [Los Juniors de La Montaña](https://open.spotify.com/artist/304T5qiPITdwBthiURWORg) | [El Pescuezo Del Pollo \(En Vivo\)](https://open.spotify.com/album/24X2SfIgfDI6fBWDM9OaHy) | 4:24 | 2023-04-14 | 2023-06-08 |
@@ -524,6 +524,7 @@
 | [Que Lloro](https://open.spotify.com/track/1UIsqFOatDUVOAIwogLkFE) | [Juan Moya Y Los Del Valle](https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b) | [Que Lloro](https://open.spotify.com/album/6NgaaY7zUsCj2tL0Xraezq) | 4:14 | 2023-06-16 | 2023-12-02 |
 | [Que Me Extrañas](https://open.spotify.com/track/43MeRoZnKTXoLQlORolyNC) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Que Me Extrañas](https://open.spotify.com/album/49DD02Il1gwX61heeVgou8) | 3:14 | 2022-07-01 | 2022-07-12 |
 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 | 2022-07-01 |  |
+| [Que Soy Un Malandro](https://open.spotify.com/track/0hFMcLsktrTFOoZIgljTDe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:16 | 2025-02-28 |  |
 | [Que Te Valga Verga](https://open.spotify.com/track/2TIRRX9lDuhujt0ojcZ8Y6) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [Que Te Valga Verga](https://open.spotify.com/album/7DAmH01Zs3AGPJugrq7MFH) | 2:06 | 2022-07-01 | 2022-07-06 |
 | [Que Te Vaya Bien](https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1) | 3:58 | 2022-07-01 | 2024-10-19 |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2022-12-09 |  |

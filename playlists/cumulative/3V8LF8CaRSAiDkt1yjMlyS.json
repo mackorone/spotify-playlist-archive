@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/7hFUx0qyUzi5FFly2aRSfB"
+      },
+      "artists": [
+        {
+          "name": "Virtual Nobodies",
+          "url": "https://open.spotify.com/artist/0ai61DeA6TloJOZ8TYcqMf"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230466,
+      "name": "Palm Trees",
+      "url": "https://open.spotify.com/track/7mP15Z8FDbU8lq9ncSiDtL"
+    },
+    {
+      "album": {
         "name": "Inca Ore / Grouper",
         "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
       },

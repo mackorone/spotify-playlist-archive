@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 68700,
+  "num_followers": 68724,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2025-02-21 00:00:18",
       "album": {
-        "name": "Mosh Pit",
-        "url": "https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        },
-        {
-          "name": "MIST",
-          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
-        }
-      ],
-      "duration_ms": 128279,
-      "name": "Mosh Pit",
-      "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
-    },
-    {
-      "added_at": "2025-02-21 00:00:18",
-      "album": {
         "name": "Come Around",
         "url": "https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 228706,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
+    },
+    {
+      "added_at": "2025-02-21 00:00:18",
+      "album": {
+        "name": "Mosh Pit",
+        "url": "https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        }
+      ],
+      "duration_ms": 128279,
+      "name": "Mosh Pit",
+      "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
     },
     {
       "added_at": "2025-02-21 00:00:18",

@@ -4,7 +4,7 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-644 songs - 1 day 9 hr 30 min
+645 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Room Song](https://open.spotify.com/track/4eo5BPkWzFQWUNSRSnyt0T) | [Plums](https://open.spotify.com/artist/0sPK0NZQ44Z8KhGxCOvEG9) | [Jen](https://open.spotify.com/album/07Xmfb4wnWsXnUJLAkyk7t) | 4:40 | 2024-12-15 | 2024-12-28 |
 | [ROSE TINTED CHEEKS](https://open.spotify.com/track/6AJB0WamDKbTSoyVOLNY0R) | [XS](https://open.spotify.com/artist/10UawrPV0my8LFrW8rCWNs) | [JUICY](https://open.spotify.com/album/4TGrpub813gIR3z7YGXnJQ) | 5:41 | 2024-12-15 |  |
 | [ROSE TINTED CHEEKS \*2016 rough draft\*](https://open.spotify.com/track/5I554Q7hfSBOfUItUgsEuG) | [Breaded Beans](https://open.spotify.com/artist/5pQVwAPuspOhZ4SMJDgctF) | [ROSE TINTED CHEEKS \*2016 rough draft\*](https://open.spotify.com/album/0CoSMxcdCyQFy2shnRYLyR) | 5:41 | 2024-12-15 |  |
+| [rose tints](https://open.spotify.com/track/307mkoJ63M8wCXmB8Et9hL) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [rose tints](https://open.spotify.com/album/61bPYrN2YGGBFB0ZSqUgo3) | 3:16 | 2025-03-05 |  |
 | [Roses](https://open.spotify.com/track/4ksK2DATPmpyDqXfxaZUxW) | [Chill Aqua](https://open.spotify.com/artist/4sgWFzT0ptklnjTpTlQUk0) | [Panko](https://open.spotify.com/album/3UfbWnUdI0kINgsDeqs8lW) | 1:58 | 2024-12-15 |  |
 | [RUN IT](https://open.spotify.com/track/3etVuFgl1Hg4zwttBIpSC8) | [Breaded Beans](https://open.spotify.com/artist/5pQVwAPuspOhZ4SMJDgctF) | [RUN IT](https://open.spotify.com/album/4q8z3wMfZdycTqyO6J9QeD) | 2:20 | 2024-12-15 |  |
 | [Run It Up](https://open.spotify.com/track/4lN3kzj07bxFRqOLDFzb7b) | [Lil Majo](https://open.spotify.com/artist/2KE59bPqiPq9Z1Z9B4gtOM) | [Whole Lotta Red V2](https://open.spotify.com/album/0LAxkfHP9eqYPULAXaglWY) | 2:33 | 2024-12-15 |  |

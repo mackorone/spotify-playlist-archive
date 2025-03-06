@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,952 likes - 67 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,965 likes - 67 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 66 | [Alien](https://open.spotify.com/track/1jTC003NnBw7KOgSqgqaZb) | [SKRY](https://open.spotify.com/artist/37ZCG7jzxEV2vMBYV78baG) | [Alien](https://open.spotify.com/album/57j4o9HBLS4xiiz0FIXZQG) | 5:09 |
 | 67 | [Eternity Land](https://open.spotify.com/track/4h9OBSxCzb37UuV9yay8XA) | [Architectural](https://open.spotify.com/artist/0C8DyEeKMAOHPCLck0hwk0) | [Good Night, Whatever That Is](https://open.spotify.com/album/4L1uaS9JDx0RKOhBzKUwO7) | 6:29 |
 
-Snapshot ID: `Z7yLlQAAAACAkvGEs7Z3uos6RxAWMTPs`
+Snapshot ID: `Z7yLlQAAAADIg01x1BhTDE7KaDBGSBEX`

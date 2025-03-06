@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring new materiaL from horsegiirL
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,268 likes - 200 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,300 likes - 200 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 83 | [In The Mouth](https://open.spotify.com/track/5KuEWcW8j7qdAdpKRAIKjU) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Baku](https://open.spotify.com/artist/5m3CibdsoEKP2HxjyRBuGZ), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [TK ULTRA](https://open.spotify.com/album/4hVoXO6fWmHsPWebL6uHY4) | 2:19 |
 | 84 | [tiny purse, tiny top](https://open.spotify.com/track/1AhoAuvhcydhLy8i7uLPBq) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW), [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [tiny purse, tiny top](https://open.spotify.com/album/6LBpAMjNSc8tm740hopJsx) | 2:06 |
 | 85 | [special](https://open.spotify.com/track/3lLVjygZYd2huEy7gqRerC) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [special](https://open.spotify.com/album/1sGrzt8OmWUlZVfMm3tVWg) | 2:55 |
-| 86 | [Jacuzzi](https://open.spotify.com/track/5HOZ5PCSIrgPY6QMvJpzsC) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Jacuzzi](https://open.spotify.com/album/37kFKx2MjofX4qkGxe8ua6) | 2:02 |
+| 86 | [JACUZZI](https://open.spotify.com/track/5HOZ5PCSIrgPY6QMvJpzsC) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [JACUZZI](https://open.spotify.com/album/37kFKx2MjofX4qkGxe8ua6) | 2:02 |
 | 87 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/077XTAiMeMkjv6Tz464t0r) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2hRxMeM5JeYjHLjGRrQ3lL) | 4:23 |
 | 88 | [Next Bitch](https://open.spotify.com/track/3L5PP4wAUVn1HhUf1RmpHU) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Next Bitch](https://open.spotify.com/album/47z5Oj1ND52QDudcIViyG4) | 2:03 |
 | 89 | [Ninja](https://open.spotify.com/track/1xDENykwH0WhdB5XVDYX3k) | [Tlya X An](https://open.spotify.com/artist/6KF6XPVpveOW82GRFgwFsX) | [Ninja](https://open.spotify.com/album/67q2ad1ImfNsm3O5c3erXE) | 2:13 |

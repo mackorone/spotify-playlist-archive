@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 26 | [Плохие танцоры](https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Лучшие из лучших](https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u) | 3:36 |
 | 27 | [Crazy Heat \- Original Mix](https://open.spotify.com/track/74V44B1LQhkkiS4pFysDdH) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM), [Mad Math](https://open.spotify.com/artist/2IYBNTl8U2V0LeqyXRuP9m) | [SPACE BLANK \- TECH HOUSE](https://open.spotify.com/album/6L1ujqIRbwUUf4QqdN1utg) | 6:12 |
 
-Snapshot ID: `Z8TxAAAAAAAjqpZegOLohpuGPekPalRL`
+Snapshot ID: `Z8ZCgAAAAAC89oulBtDy2mv0vG381YZQ`

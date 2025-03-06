@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,457 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,458 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 30 | [Min Ort 2010](https://open.spotify.com/track/3HkMfKwvdCLtTblUfJFnDq) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Discochugle](https://open.spotify.com/album/2kOnkk5f7NHrXDZT0CQHjK) | 3:40 |
 | 31 | [Figg mitt](https://open.spotify.com/track/5Jnjb7xP2BrLzxPIsJcOl2) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG), [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Eifach nüt](https://open.spotify.com/album/5vRyfEOWuNEUX3DLOUeGSj) | 4:13 |
 | 32 | [Du Hesch Ke](https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW) | [Webba](https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Deheim?](https://open.spotify.com/album/5FcPc8QMIXG8DdH66yLqY1) | 4:33 |
-| 33 | [Schwiizchaschte](https://open.spotify.com/track/2CpnLubVTEuyStX8UVb7wm) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Verdächtig...](https://open.spotify.com/album/6orut2CjbQYr3CYFSWKxz0) | 4:46 |
-| 34 | [Gott spile](https://open.spotify.com/track/45HWwavpJRnDz8NhLzlRAi) | [Diens](https://open.spotify.com/artist/20t32G3brXR31BhtjShxt0) | [Schwarzmale](https://open.spotify.com/album/7rJzADS9WauL8RXiV0Ze6d) | 3:56 |
-| 35 | [Summer für immer](https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO) | [Chlyklass](https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT) | [Ke Summer](https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK) | 4:05 |
+| 33 | [Summer für immer](https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO) | [Chlyklass](https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT) | [Ke Summer](https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK) | 4:05 |
+| 34 | [Schwiizchaschte](https://open.spotify.com/track/2CpnLubVTEuyStX8UVb7wm) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Verdächtig...](https://open.spotify.com/album/6orut2CjbQYr3CYFSWKxz0) | 4:46 |
+| 35 | [Gott spile](https://open.spotify.com/track/45HWwavpJRnDz8NhLzlRAi) | [Diens](https://open.spotify.com/artist/20t32G3brXR31BhtjShxt0) | [Schwarzmale](https://open.spotify.com/album/7rJzADS9WauL8RXiV0Ze6d) | 3:56 |
 | 36 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
 | 37 | [Teil Vom Problem](https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/0D41OBWqhA1ChJvYnQHySI) | 3:47 |
 | 38 | [Weisch Du no?](https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw), [Polo Hofer](https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF) | [Picasso](https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2) | 2:50 |

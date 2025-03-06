@@ -2709,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/39s00lORhE8uVodSvyRx80"
+      },
+      "artists": [
+        {
+          "name": "Marinenko",
+          "url": "https://open.spotify.com/artist/2SakhZoZ1yklBM7XhWf7AA"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165762,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3Kh7SwnaYrFOFHoVow98w7"
+    },
+    {
+      "album": {
         "name": "Color Me Blue",
         "url": "https://open.spotify.com/album/1OKTvmPzUpW1j3elbz89EF"
       },
@@ -4176,6 +4194,24 @@
       "duration_ms": 141333,
       "name": "Eunoia",
       "url": "https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT"
+    },
+    {
+      "album": {
+        "name": "Evanescent",
+        "url": "https://open.spotify.com/album/6SbFSRoB4pTDzMafHkzStk"
+      },
+      "artists": [
+        {
+          "name": "Erinthe",
+          "url": "https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158124,
+      "name": "Evanescent",
+      "url": "https://open.spotify.com/track/3pnSEFUzTsRZtb57Pv98vC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-209 songs - 9 hr 0 min
+210 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Making It Up As We Go Along](https://open.spotify.com/track/553Nw509Iu0IcU8z17kih3) | [Kristen Anderson\-Lopez](https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD), [Robert Lopez](https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB) | [WandaVision: Episode 5 \(Original Soundtrack\)](https://open.spotify.com/album/6eSgGEfhaA2Hq4mNQuVrYh) | 1:42 | 2024-01-05 |  |
 | [Mama's Got a Brand New Hammer \- From "Thor: Love and Thunder"](https://open.spotify.com/track/4SIfcQHmeKQ7F3K6Tbz5gK) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Mama's Got a Brand New Hammer \(From "Thor: Love and Thunder"\)](https://open.spotify.com/album/5aO8YZeagny83StfnND4jG) | 6:08 | 2024-01-05 |  |
 | [Marvel Studios Fanfare \- From "Thor: The Dark World"/Score](https://open.spotify.com/track/0vPZjeaM0cfbxZJntcD4iy) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Thor: The Dark World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y) | 0:30 | 2024-01-05 | 2025-01-31 |
+| [Marvel's Daredevil: Born Again Main Theme \- From "Marvel's Daredevil: Born Again"](https://open.spotify.com/track/4mXdThZ9JooNvF4vztdLtN) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [Marvel's Daredevil: Born Again Main Theme \(From "Marvel's Daredevil: Born Again"\)](https://open.spotify.com/album/3JmYvRWvxTtVu1IckeCpfo) | 1:49 | 2025-03-05 |  |
 | [Maya's Theme](https://open.spotify.com/track/6jqliDGEulKN5RvAIsg5mM) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Hawkeye: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM) | 4:10 | 2024-01-05 |  |
 | [Merrily On](https://open.spotify.com/track/7KFvL8WkzjO9f7OceZy2BZ) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If..\. Happy Hogan Saved Christmas? \(Season 2/Episode 3\) \[Original Soundtrack\]](https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293) | 0:49 | 2024-05-22 | 2025-01-31 |
 | [Mighty Thor \(1966 Theme\) \- 2024 Remaster](https://open.spotify.com/track/2g0Odq2yA3M6G8o141RK6E) | [Marvel Chorus](https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln) | [Mighty Thor \(1966 Theme\) \[2024 Remaster\]](https://open.spotify.com/album/1mr9Bzszua1SdABhSH5dTV) | 1:27 | 2024-11-04 | 2025-01-31 |

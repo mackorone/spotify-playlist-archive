@@ -2,7 +2,7 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Jowee Omici
+> The best jazz new releases\. Cover: Jowee Omicil
 
 704 songs - 2 day 2 hr 20 min
 

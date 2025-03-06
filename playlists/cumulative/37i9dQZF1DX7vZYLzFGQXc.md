@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 조하\(JOHA\)\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: can't be blue\(캔트비블루\)\) \(Meet the emerging talents of Korea!\)
 
 1,505 songs - 3 day 12 hr 44 min
 

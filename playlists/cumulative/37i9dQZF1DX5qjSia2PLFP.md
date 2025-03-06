@@ -4,7 +4,7 @@
 
 > At the top of this playlist, we're honoring the rising artist who are carrying their family's musical legacy\. Cover: <a href="spotify:artist:0n4Fao9kbjgM76RmVlfSwr">YG Marley</a>
 
-1,141 songs - 2 day 4 hr 50 min
+1,143 songs - 2 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,9 +75,11 @@
 | [an obsessed woman](https://open.spotify.com/track/4CL1l0Upau0intxzHsPiLY) | [jerry](https://open.spotify.com/artist/1AZJhKobUOUAawr0AEmGE4) | [lovemesooner](https://open.spotify.com/album/398Pg5EQy3xSV3mYCBySn0) | 1:59 | 2024-02-16 | 2024-03-02 |
 | [Angel With An Attitude](https://open.spotify.com/track/2gUEB9jSU0HZhLJIYffeQn) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:15 | 2024-10-25 |  |
 | [ANOTHER ONE](https://open.spotify.com/track/0CciByYiBdPOy9kEAMZ6T3) | [Amber Ryann](https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT) | [ANOTHER ONE](https://open.spotify.com/album/4NEHw2tr2nPLQ8Lfcsm8wc) | 2:30 | 2023-06-09 | 2023-08-19 |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-05 |  |
 | [ANYCIA](https://open.spotify.com/track/4yYtvbpIlsBujDgvzS5nA6) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [ANYCIA](https://open.spotify.com/album/6okuA3J3nELszcvyGYJxC9) | 1:53 | 2023-11-09 | 2024-01-27 |
 | [APPARENT](https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [APPARENT](https://open.spotify.com/album/7mlxFceSjfCACrEhIwVscy) | 1:36 | 2022-05-27 | 2022-09-24 |
 | [Are You Someone](https://open.spotify.com/track/4Hi2MgkLmFGjM96Z36gS8j) | [Ashya](https://open.spotify.com/artist/2zXUDghhOWr3brlPdwKxTR) | [Are You Someone](https://open.spotify.com/album/1Y2Y4PfapIofi6weGK2XHu) | 3:17 | 2024-05-10 | 2024-05-18 |
+| [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 | 2025-03-05 |  |
 | [Around You](https://open.spotify.com/track/4lVjJUL2eWu7A8SyWhhgSL) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Island Forgotten](https://open.spotify.com/album/4tdVcpta1iwjVd0kBon6Sv) | 2:40 | 2024-02-02 | 2024-02-17 |
 | [Arrogant](https://open.spotify.com/track/6fugJLhec4sxCmooCeklD9) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Arrogant](https://open.spotify.com/album/1oDxRgxS0Bj7atLNd7E7dr) | 2:25 | 2022-08-12 | 2022-12-31 |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-22 | 2024-03-30 |
@@ -707,7 +709,7 @@
 | [NOT AVAILABLE](https://open.spotify.com/track/2eVA7XGnuaVpwf8KFp8HvF) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB), [NazGPG](https://open.spotify.com/artist/6sCHVEyGueEk9b4mW3Tukm) | [NOT AVAILABLE](https://open.spotify.com/album/1obQnFNZRGHtUBE6G6ZJul) | 2:04 | 2024-02-16 | 2024-03-02 |
 | [Not My Cellphone!!!](https://open.spotify.com/track/1pbwH4DfDcGBB3ZWObtSSg) | [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Not My Cellphone!!!](https://open.spotify.com/album/6EOBScnphNJ5eRZ9Ckh2iF) | 5:25 | 2023-07-14 | 2023-08-19 |
 | [Not My Problem](https://open.spotify.com/track/1FWSt1WYN4KcMtM1DVDERa) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Gap Year!](https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy) | 2:39 | 2025-02-24 |  |
-| [Not My Problem](https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Not My Problem \(Flyer Than U\)](https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR) | 2:39 | 2024-06-14 |  |
+| [Not My Problem](https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Not My Problem \(Flyer Than U\)](https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR) | 2:39 | 2024-06-14 | 2025-03-06 |
 | [Not Player](https://open.spotify.com/track/5GjPDyWmsgANpT0oBZ1eZr) | [Steve G\. Lover III](https://open.spotify.com/artist/7lkNv4c37Rh6WU6AZSe87g), [Lucille Ghatti](https://open.spotify.com/artist/4k1lFL4m8vmWnBdBenGraR) | [Drugz N' Alkohol](https://open.spotify.com/album/45KgJHeZkGSbkwYFLYlYwp) | 2:53 | 2024-01-26 | 2024-03-02 |
 | [Numb](https://open.spotify.com/track/2X62E2rxNuCK3IdwnutBbI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Heartbreak Hill](https://open.spotify.com/album/659XtuIbCfz9UWWrlMmq7v) | 4:13 | 2023-11-03 | 2024-01-27 |
 | [NYC WITH FELONS](https://open.spotify.com/track/73Ov82yPi2A8i1yH8PhzVS) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [NYC WITH FELONS](https://open.spotify.com/album/11doMo9dVh2Z2gvvMzQGB2) | 1:57 | 2024-04-19 | 2024-04-27 |
@@ -832,7 +834,7 @@
 | [Red Light](https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Red Light](https://open.spotify.com/album/1w0t2M46PMA76fvR5rMEbo) | 2:28 | 2023-09-15 | 2023-11-10 |
 | [redemption](https://open.spotify.com/track/0ntXnIQz8m2ED1vBqw85tr) | [BADMIND](https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9) | [redemption](https://open.spotify.com/album/60rj4BVsWTGVGtXh9UveG6) | 2:18 | 2023-10-13 | 2024-01-27 |
 | [Regrets Pt II](https://open.spotify.com/track/72MmoEuk9caU2tTBsSqR28) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Every Lie is Two Lies \(Deluxe\)](https://open.spotify.com/album/3sI7fJqLzRuOsepgGh8WYX) | 2:36 | 2023-06-24 | 2023-09-16 |
-| [Regular Girl](https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Regular Girl](https://open.spotify.com/album/3OhFLv2iX72yrfnSHpilN5) | 2:31 | 2025-02-14 |  |
+| [Regular Girl](https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Regular Girl](https://open.spotify.com/album/3OhFLv2iX72yrfnSHpilN5) | 2:31 | 2025-02-14 | 2025-03-06 |
 | [Remember](https://open.spotify.com/track/2tlcbkARptOsMXYNrlCSg5) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side \(Deluxe\)](https://open.spotify.com/album/3wiyzYrkSD18QHTkI4PEDl) | 2:10 | 2024-02-23 | 2024-03-23 |
 | [RICH](https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [RICH](https://open.spotify.com/album/5P1RmCAG4yB80keglreodA) | 2:42 | 2023-06-30 | 2023-09-16 |
 | [Rick & Marni](https://open.spotify.com/track/29XA7v3ydWWOR3EvoOVcBL) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Rick & Marni](https://open.spotify.com/album/6nNVLcrQ2lZBHBgl5X4W3h) | 2:35 | 2024-04-19 | 2024-04-27 |

@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-830 songs - 1 day 16 hr 22 min
+833 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Chilled Soul](https://open.spotify.com/track/53Le56pxNNt0sAOZ34Qocn) | [Afro Lex Tex](https://open.spotify.com/artist/5KGFdiCXMIuYjmaVSKIOrS) | [Chilled Soul](https://open.spotify.com/album/6JY7isSUV7ZmpTCIX0s2k7) | 3:14 | 2024-01-17 | 2025-02-15 |
 | [Ciclo Solar](https://open.spotify.com/track/5igYXEgB6IPo7LNtQ71ZMT) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Planetas](https://open.spotify.com/album/51pSIpoYAmWbiUArilRnSg) | 3:13 | 2023-04-06 | 2024-01-18 |
 | [Cielo Notturno](https://open.spotify.com/track/5rE6VrSoUWVbN8zeqgCG8u) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Cielo Notturno](https://open.spotify.com/album/6QSEzNGp3z498l0xYouILT) | 3:08 | 2023-04-06 | 2024-01-18 |
-| [Clarify](https://open.spotify.com/track/5dnYuaLxgQCzwpbO1qsS0d) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Clarify](https://open.spotify.com/album/6Co30XY2obzBGDs429fPgM) | 2:12 | 2025-01-08 |  |
+| [Clarify](https://open.spotify.com/track/5dnYuaLxgQCzwpbO1qsS0d) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Clarify](https://open.spotify.com/album/6Co30XY2obzBGDs429fPgM) | 2:12 | 2025-01-08 | 2025-03-06 |
 | [Clear Vision](https://open.spotify.com/track/5fHoLjHv4OsgamqQhCTOFs) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Clear Vision](https://open.spotify.com/album/60R0uxPAd6sXf6BofDvLLO) | 2:15 | 2025-01-08 |  |
 | [Close your Eyes](https://open.spotify.com/track/41labfyDVOAJP3bhKk7unE) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [Close your Eyes](https://open.spotify.com/album/1WNV08b6wRoRKYjzmZtQJx) | 2:34 | 2024-05-04 |  |
 | [Close Your Eyes Once Again](https://open.spotify.com/track/0hFq6QVQSKRwgXcY6ilHvb) | [Glass Dome](https://open.spotify.com/artist/4LWyiymtdWPzhflGcghaKh) | [Encounter](https://open.spotify.com/album/4O4UIoJHt1GHL7GkRkuyui) | 2:57 | 2023-04-06 | 2024-01-18 |
@@ -291,6 +291,7 @@
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2023-04-06 | 2023-09-09 |
 | [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 | 2023-04-06 | 2024-04-06 |
 | [Find Me](https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Find Me](https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI) | 3:21 | 2023-04-06 | 2023-11-11 |
+| [Finding Balance](https://open.spotify.com/track/6EYLhFMwnBecOODOAYMIih) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Finding Balance](https://open.spotify.com/album/0MTMQIvAHPe87bnBhw9e9p) | 2:53 | 2025-03-05 |  |
 | [Finding Z](https://open.spotify.com/track/6wxi3k13LLevWzehEbQCaN) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Finding Z](https://open.spotify.com/album/52Q1HU0Kr1n2gxElmS2zNA) | 3:37 | 2023-04-06 | 2024-01-18 |
 | [Flashback](https://open.spotify.com/track/37VNAvc9lZC70FcViKcI6f) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Brightness](https://open.spotify.com/album/6mRVmuhkO5VClWaRgVHcCf) | 3:17 | 2023-04-06 | 2023-07-14 |
 | [flights](https://open.spotify.com/track/4myGizD4eC9nAaWgwZqdCd) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [flights](https://open.spotify.com/album/1aDSIQ5APF3fhrrGghC49A) | 2:47 | 2024-04-05 |  |
@@ -467,6 +468,7 @@
 | [Mixture](https://open.spotify.com/track/0OXgaVgiSiuPYjPRiFSyiY) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Sonorous](https://open.spotify.com/album/23dHOKDvEMYX4C1ukHTULU) | 3:18 | 2023-04-06 | 2024-01-18 |
 | [Moment Of Peace](https://open.spotify.com/track/1eENdH1bdiDgMIWy4FKle1) | [Dreams And Memories](https://open.spotify.com/artist/48XZ2sN06Hn9eJOczKtzqN) | [Moment Of Peace](https://open.spotify.com/album/3GBgOD6EbeFFlMoQfmurHB) | 2:55 | 2023-04-06 | 2024-01-18 |
 | [Moment To Moment](https://open.spotify.com/track/4vOHJJO8fJudz8JVVG9av6) | [Modal Colours](https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i) | [Moment To Moment](https://open.spotify.com/album/17QORfdYpsGqQ3D74hUPCx) | 2:35 | 2023-04-06 | 2024-01-18 |
+| [Moonfall](https://open.spotify.com/track/154KMkoBQoKXMm8VMueBvq) | [Arctilok](https://open.spotify.com/artist/40mS9P51UfvhIamB24wx91) | [Moonfall](https://open.spotify.com/album/4I5C4VKpPud2UmJtASvzhb) | 2:45 | 2025-03-05 |  |
 | [Moonlight Memoirs](https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Moonlight Memoirs](https://open.spotify.com/album/2LqfrsV6GpGVeLP5CsnsH3) | 2:29 | 2023-04-06 | 2024-01-18 |
 | [Moonlight Reverie](https://open.spotify.com/track/36EU3fJ39ihd5ZBOlf7Gc9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Moonlight Reverie](https://open.spotify.com/album/6YHNXDLHpCMJW7GMNkvHN1) | 2:54 | 2025-02-28 |  |
 | [Moonlit Serenity](https://open.spotify.com/track/0mjRLZf7gpyTUMrnik8PuK) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Moonlit Serenity](https://open.spotify.com/album/01av7JgZJSuw6ndd153Tr6) | 3:15 | 2024-07-22 |  |
@@ -678,6 +680,7 @@
 | [Soft Feather](https://open.spotify.com/track/6AwNPeCte9bFMEmIC0ZbNT) | [Siljann](https://open.spotify.com/artist/0AvPkMDg6bdQlUQ3Nn07cF) | [Soft Feather](https://open.spotify.com/album/0xC25BRAXPZWyqm5DI1p5H) | 3:25 | 2024-03-20 |  |
 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 | 2023-04-06 | 2024-01-18 |
 | [Soft Touch](https://open.spotify.com/track/54cRF683yoAMcfefg1Drfu) | [Rama Fiore](https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366) | [Soft Touch](https://open.spotify.com/album/3lktgmWsTCNDHafXOj7D1V) | 2:39 | 2024-03-06 |  |
+| [Softly](https://open.spotify.com/track/4fEfd6uQYMk8D54SkioTTi) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Softly](https://open.spotify.com/album/4MJ0KxMk6rpyQwF7AT0ERr) | 3:10 | 2025-03-05 |  |
 | [softly speaking](https://open.spotify.com/track/1xpCscadFuFfsPXFaTvyoH) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [softly speaking](https://open.spotify.com/album/0WVhhPQ7wMYVuNXQPI0HWs) | 2:04 | 2024-07-15 | 2025-01-09 |
 | [Sogno Illuminum](https://open.spotify.com/track/2XwakW5X0FkLa7xGfgDwot) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/278BtYoGB8VN4tnOcsTyHu) | 2:20 | 2023-04-06 | 2023-08-05 |
 | [Solace in Slow Motion](https://open.spotify.com/track/4ViQRViK5nzlQutdEvipCb) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Solace in Slow Motion](https://open.spotify.com/album/5XCL0sehcDMXh7R2UgNh1K) | 2:33 | 2025-01-08 |  |
@@ -705,7 +708,7 @@
 | [Spiritus](https://open.spotify.com/track/2CZtUi10ysWgxKIcTqWOti) | [Devon Hayes](https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W) | [Spiritus](https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm) | 2:27 | 2023-04-06 | 2024-04-06 |
 | [Spreading Calm](https://open.spotify.com/track/0SjOXAgmGiGLVmh000BiN5) | [Mr Hardfelt](https://open.spotify.com/artist/0jC4Lqp4bTHT9gu2c1Camy) | [Spreading Calm](https://open.spotify.com/album/4sqmm0zqx5s5WVLgiGuUhF) | 2:58 | 2024-01-17 | 2024-08-31 |
 | [Star Fallen](https://open.spotify.com/track/0pXHLfZ33II05CmcqiEzlG) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Star Fallen](https://open.spotify.com/album/6z8UZg8mr2LcqBee8iXsPG) | 4:14 | 2024-02-08 | 2024-07-16 |
-| [Stardust Swimmer](https://open.spotify.com/track/3mUSKhO1qRrCrdem0VAYh2) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Stardust Swimmer](https://open.spotify.com/album/6qm6n44iypDFcspqF5Q9T8) | 2:44 | 2025-01-14 |  |
+| [Stardust Swimmer](https://open.spotify.com/track/3mUSKhO1qRrCrdem0VAYh2) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Stardust Swimmer](https://open.spotify.com/album/6qm6n44iypDFcspqF5Q9T8) | 2:44 | 2025-01-14 | 2025-03-06 |
 | [Static Light](https://open.spotify.com/track/2MnpN4fEVVu0kXABtWA8F7) | [Solar Collective](https://open.spotify.com/artist/4VcgkoUJgvBLieWpQWaiDC) | [Static Light](https://open.spotify.com/album/4RdJbGia4hBjGHvCrcNpoM) | 2:37 | 2025-02-28 |  |
 | [Stay](https://open.spotify.com/track/2g3tsiZNrb7j5R9EiaiHBn) | [Aniaras](https://open.spotify.com/artist/6giPu3LI4VQbyWGGHHVpfj) | [Stay](https://open.spotify.com/album/5NOYz1xsOLUZOHqrorxyt1) | 3:04 | 2024-01-17 | 2024-03-21 |
 | [Stellato](https://open.spotify.com/track/721zBWLOEm3JBH9NBzKYun) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Stellato](https://open.spotify.com/album/1mErN17rW1lahhfIZZNWHc) | 2:25 | 2025-02-28 |  |

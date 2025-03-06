@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Saga Mast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,884 likes - 85 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,887 likes - 85 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alkemistit](https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Sodankäynnin historia](https://open.spotify.com/album/2uwR2X5ZwkIVBLwbNd5a0S) | 4:20 |
-| 2 | [Kun rauhoitun](https://open.spotify.com/track/7ApRZvQU79NXrfDKRr3eYT) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kun rauhoitun](https://open.spotify.com/album/6qFGNHC5Bp2o1sta556Fjt) | 4:31 |
-| 3 | [Huijari](https://open.spotify.com/track/7vJVwayKyJQYMmtkVbxJ8f) | [Saga Mast](https://open.spotify.com/artist/7J1Hi9qyqxFOxokehI8jx1), [vivian](https://open.spotify.com/artist/5mGgHBjw7fQeVUmZKzlKey) | [Huutava hullu sydän](https://open.spotify.com/album/0mKdYGXi5NCYXtg116Objt) | 2:37 |
-| 4 | [Pahaa verta](https://open.spotify.com/track/3r7TLkKKXo9WNtUOugvMzm) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pahaa verta](https://open.spotify.com/album/5Hpz2A5rByHwIGbv6VK4w2) | 3:28 |
+| 1 | [Pahaa verta](https://open.spotify.com/track/3r7TLkKKXo9WNtUOugvMzm) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pahaa verta](https://open.spotify.com/album/5Hpz2A5rByHwIGbv6VK4w2) | 3:28 |
+| 2 | [Alkemistit](https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Sodankäynnin historia](https://open.spotify.com/album/2uwR2X5ZwkIVBLwbNd5a0S) | 4:20 |
+| 3 | [Kun rauhoitun](https://open.spotify.com/track/7ApRZvQU79NXrfDKRr3eYT) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kun rauhoitun](https://open.spotify.com/album/6qFGNHC5Bp2o1sta556Fjt) | 4:31 |
+| 4 | [Huijari](https://open.spotify.com/track/7vJVwayKyJQYMmtkVbxJ8f) | [Saga Mast](https://open.spotify.com/artist/7J1Hi9qyqxFOxokehI8jx1), [vivian](https://open.spotify.com/artist/5mGgHBjw7fQeVUmZKzlKey) | [Huutava hullu sydän](https://open.spotify.com/album/0mKdYGXi5NCYXtg116Objt) | 2:37 |
 | 5 | [Tupakkaa ja rakkautta](https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Tupakkaa ja rakkautta](https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6) | 3:22 |
 | 6 | [Kaikesta puolet saat](https://open.spotify.com/track/1m6IUZGor6ZLJ59K2ZLWVD) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kaikesta puolet saat](https://open.spotify.com/album/4Z5eyDEWouCsw2xpGZu2Cg) | 3:47 |
-| 7 | [Kääretorttu](https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Kääretorttu](https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD) | 3:12 |
-| 8 | [Repaleinen rakkaus](https://open.spotify.com/track/65Q4uCclEHH5sa0iMJcm7L) | [Tiikerin vuosi](https://open.spotify.com/artist/7esAy854QfmKAM5g5YZcSt) | [Repaleinen rakkaus](https://open.spotify.com/album/0Zb42eeaVc2jgIohe5jVkp) | 3:30 |
-| 9 | [Sä Oot WAU!](https://open.spotify.com/track/0N7vlckXr7CUlPstYFYMkM) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ) | [Sä Oot WAU!](https://open.spotify.com/album/4yaHLlmTMJbeMMiMqGoLHO) | 2:59 |
+| 7 | [Sä Oot WAU!](https://open.spotify.com/track/0N7vlckXr7CUlPstYFYMkM) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ) | [Sä Oot WAU!](https://open.spotify.com/album/4yaHLlmTMJbeMMiMqGoLHO) | 2:59 |
+| 8 | [Kääretorttu](https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Kääretorttu](https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD) | 3:12 |
+| 9 | [Repaleinen rakkaus](https://open.spotify.com/track/65Q4uCclEHH5sa0iMJcm7L) | [Tiikerin vuosi](https://open.spotify.com/artist/7esAy854QfmKAM5g5YZcSt) | [Repaleinen rakkaus](https://open.spotify.com/album/0Zb42eeaVc2jgIohe5jVkp) | 3:30 |
 | 10 | [Sinéadin laulu](https://open.spotify.com/track/4vOWTsPhnxTSqAREpvv6vK) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Sinéadin laulu](https://open.spotify.com/album/1Wi3dvZvlpAYltEfd0nIfy) | 3:29 |
 | 11 | [Stadiunelmaa](https://open.spotify.com/track/2mw7RtrydxoSup7xEghksx) | [Arttu Lindeman](https://open.spotify.com/artist/0AK0qOs8ykb6CsaYks1xwK) | [Stadiunelmaa](https://open.spotify.com/album/1oiAm1gWiiLeKlfTzHlP0i) | 2:50 |
 | 12 | [Vihreänä puuna kasvava rakkaus](https://open.spotify.com/track/1P5pn127yNeTM2nTzYRK3e) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Rakkaani,](https://open.spotify.com/album/4b8zkhz3IO9U4oqjGqqX4u) | 3:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 84 | [Vihaa ja rakkautta](https://open.spotify.com/track/796ubEueApvI9WRFBgTkkM) | [Freesi](https://open.spotify.com/artist/4sRObLNOtgx4bdcOmMzwad) | [Vihaa ja rakkautta](https://open.spotify.com/album/4Qz9J3ZUGhN2Dk6hIuLsao) | 3:06 |
 | 85 | [Tää ei hajoo](https://open.spotify.com/track/6rSRbR53rRzVSnDXV2Hr1N) | [Indica](https://open.spotify.com/artist/1Nc6H2qbH5SljekjNBTX7m) | [Tää ei hajoo / Kieroja aarioita](https://open.spotify.com/album/6XhSAiVeoGAs8z0j40zIn2) | 3:07 |
 
-Snapshot ID: `Z8DgugAAAACYVO5hBwmtwYbEqEij4B1T`
+Snapshot ID: `Z8hGHgAAAADvXdDLauNPq354L0r/oH5q`

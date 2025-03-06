@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-951 songs - 2 day 3 hr 41 min
+952 songs - 2 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,7 +583,7 @@
 | [My Heart](https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) | 3:16 | 2019-05-25\* | 2020-01-10 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2024-01-24 |  |
 | [My Mind](https://open.spotify.com/track/0iLI1bC10ff1qmiwJL680w) | [Jack Vandervelde](https://open.spotify.com/artist/5CYU1ys45uuU3DlQI2etPq) | [My Mind](https://open.spotify.com/album/61bgpoUQMdAVFsZT8PcDVB) | 3:13 | 2019-06-07 | 2020-03-10 |
-| [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2022-11-03 |  |
+| [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2022-11-03 | 2025-03-06 |
 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q) | 2:59 | 2020-07-31 | 2022-07-29 |
 | [My People](https://open.spotify.com/track/1VOL6KDCwEduG95LNVvSyx) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [My People](https://open.spotify.com/album/6BnKwQhIT8HXWMVTdrJPUD) | 2:58 | 2019-06-23 | 2019-08-13 |
 | [Myself](https://open.spotify.com/track/4YgtN1HasxdDlrrZIggYxn) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv) | 2:38 | 2019-11-08 | 2020-01-04 |
@@ -901,6 +901,7 @@
 | [Way Up](https://open.spotify.com/track/2dcA5V4ADoZQ7jpJwPsGjK) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Way Up](https://open.spotify.com/album/60nfJFRPMc5mhdDwqPnULw) | 2:57 | 2019-11-08 | 2019-11-09 |
 | [We Don’t Talk Enough \(with Alexander 23\)](https://open.spotify.com/track/4IaizE26moyyMYn70TeFiX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:28 | 2021-03-08 | 2021-05-22 |
 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-02-09 |  |
+| [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 | 2025-03-05 |  |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-07-07 | 2022-07-28 |
 | [Weekend](https://open.spotify.com/track/7sE61E9ucuXEomowCaOHlG) | [Henrik Heaven](https://open.spotify.com/artist/5LRY0RhsIERhsESWfV4BGB) | [Weekend](https://open.spotify.com/album/2Mjc8AVfFPNuCbLbeqgC1D) | 3:35 | 2019-06-21 | 2019-06-24 |
 | [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2021-10-12 | 2022-04-20 |

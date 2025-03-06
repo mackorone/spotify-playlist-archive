@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 
 > Where nature and white noise meet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,022 likes - 92 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,151 likes - 92 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,21 +82,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 72 | [Morning By The Ocean](https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 2](https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU) | 3:08 |
 | 73 | [Rainwater](https://open.spotify.com/track/1yyU2J7XE1VQ4tG9x2cT5u) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Rain Sounds](https://open.spotify.com/album/2yyOeP6MeA53yZJNmvFrHE) | 2:38 |
 | 74 | [Rise \(3 Minute Loopable Tibetan Bowl Timer\)](https://open.spotify.com/track/2CqbAzeol0N9F5NCbTI1d2) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Timed Tibetan Bowl Meditation \(Loopable\)](https://open.spotify.com/album/0YskWkpftquyWyCwvbAWCQ) | 3:00 |
-| 75 | [Cool Rain](https://open.spotify.com/track/4TZGYNmbDz2zjYpdOA0yQX) | [Sowetness](https://open.spotify.com/artist/1uUGT13CFTQGhbHAyLAs5R) | [Rain Day](https://open.spotify.com/album/7H7Mh2c47UIakZJlkwEYAs) | 2:33 |
-| 76 | [Beruhigender Bach](https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N) | [Calming Water Sounds](https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx) | [Chill Day by the River](https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv) | 2:27 |
-| 77 | [Forestry \- Birds and River](https://open.spotify.com/track/2u2yWTJRuZMTPV4aW5f7NT) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Autumn](https://open.spotify.com/album/185jgdGe8PCY7itko869IC) | 3:16 |
-| 78 | [Morning Waves Monterey County](https://open.spotify.com/track/1d7oQ7sOvgUFiq6G7X3eIO) | [California Coast Sound Recordings](https://open.spotify.com/artist/3m9UYzHMMeHADsX91DgQ4V) | [Coastal Relaxation](https://open.spotify.com/album/2P2hdKyXirmgc60wEMylrL) | 3:10 |
+| 75 | [Beruhigender Bach](https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N) | [Calming Water Sounds](https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx) | [Chill Day by the River](https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv) | 2:27 |
+| 76 | [Cool Rain](https://open.spotify.com/track/4TZGYNmbDz2zjYpdOA0yQX) | [Sowetness](https://open.spotify.com/artist/1uUGT13CFTQGhbHAyLAs5R) | [Rain Day](https://open.spotify.com/album/7H7Mh2c47UIakZJlkwEYAs) | 2:33 |
+| 77 | [Morning Waves Monterey County](https://open.spotify.com/track/1d7oQ7sOvgUFiq6G7X3eIO) | [California Coast Sound Recordings](https://open.spotify.com/artist/3m9UYzHMMeHADsX91DgQ4V) | [Coastal Relaxation](https://open.spotify.com/album/2P2hdKyXirmgc60wEMylrL) | 3:10 |
+| 78 | [Forestry \- Birds and River](https://open.spotify.com/track/2u2yWTJRuZMTPV4aW5f7NT) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Autumn](https://open.spotify.com/album/185jgdGe8PCY7itko869IC) | 3:16 |
 | 79 | [Dans La Pluie](https://open.spotify.com/track/37Rprogt5b76oUXqGiTZ1b) | [Embrasser La Pluie](https://open.spotify.com/artist/2lHoCBVRrYgUnAmfinOLIM) | [Dans La Pluie](https://open.spotify.com/album/3W7AE7mWmVesrtg8KuJea5) | 2:11 |
 | 80 | [Rainy White Noise](https://open.spotify.com/track/3afauC1qTFNIjtCRihhpEt) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Thunder & White Noise](https://open.spotify.com/album/45Sp5SWlpyj6CWqiW2LoQm) | 3:25 |
 | 81 | [Rain Dance Sounds](https://open.spotify.com/track/4PI3a6dZjAYoHp1zI0pIOW) | [Lullaby Rain](https://open.spotify.com/artist/5wIxFf9jir05erRCw4Jyr1) | [Rain Dance Sounds](https://open.spotify.com/album/1CKrMwqgoOHP51S6EqC65q) | 2:11 |
 | 82 | [The Windy Sea and the Magic Black Clow](https://open.spotify.com/track/0tFbty1a2beobzgmV5Cwlf) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Contemplation by the Sea](https://open.spotify.com/album/0YLBgediglomrRmXQFsX3a) | 2:14 |
-| 83 | [Rain Flow](https://open.spotify.com/track/4czA4cB3hWwKhkLuXqdABF) | [Now That’s What I Call Rain](https://open.spotify.com/artist/4gH7uEKcdTcU4vYnQIpq6A) | [Volume 2](https://open.spotify.com/album/5JszjLduB2DL2yy9jAu92o) | 3:01 |
-| 84 | [Emerald Equilibrium \- Green Noise](https://open.spotify.com/track/7DdAxIRZq2r2oZ5LpGzS7g) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Emerald Equilibrium \(Green Noise\)](https://open.spotify.com/album/34POhvSxWfrBsKXbIzdtYA) | 2:44 |
+| 83 | [Emerald Equilibrium \- Green Noise](https://open.spotify.com/track/7DdAxIRZq2r2oZ5LpGzS7g) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Emerald Equilibrium \(Green Noise\)](https://open.spotify.com/album/34POhvSxWfrBsKXbIzdtYA) | 2:44 |
+| 84 | [Rain Flow](https://open.spotify.com/track/4czA4cB3hWwKhkLuXqdABF) | [Now That’s What I Call Rain](https://open.spotify.com/artist/4gH7uEKcdTcU4vYnQIpq6A) | [Volume 2](https://open.spotify.com/album/5JszjLduB2DL2yy9jAu92o) | 3:01 |
 | 85 | [Why Not Rain](https://open.spotify.com/track/0qWVYFo7HO1cUDXDgnGSE5) | [Coalezense](https://open.spotify.com/artist/2ScfEr3NwHu6Lkzlp6h7v8) | [Rain Temperature](https://open.spotify.com/album/1u5TyUwxUZCDh7ioaiLFzS) | 2:30 |
 | 86 | [Eternal Rain](https://open.spotify.com/track/2fWQD5MZ0TxrgNDqcBZkCB) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:56 |
 | 87 | [Natures White Noise](https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd) | [Noises Of Ambience](https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316) | [Noises Of Ambience](https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK) | 2:25 |
-| 88 | [Élevé Naturel](https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG) | [S'enfoncer Dans Le Paradis](https://open.spotify.com/artist/6jjZLzJSJMBo8aKARuLucF) | [Augmentation De La Température](https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV) | 2:18 |
-| 89 | [Grey Autumn Clouds](https://open.spotify.com/track/7ko9B1nVkg6dFKIoQPje8X) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Nap In The Rain](https://open.spotify.com/album/41z7huBCXKIqZHI5TjYymK) | 3:28 |
+| 88 | [Grey Autumn Clouds](https://open.spotify.com/track/7ko9B1nVkg6dFKIoQPje8X) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Nap In The Rain](https://open.spotify.com/album/41z7huBCXKIqZHI5TjYymK) | 3:28 |
+| 89 | [Élevé Naturel](https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG) | [S'enfoncer Dans Le Paradis](https://open.spotify.com/artist/6jjZLzJSJMBo8aKARuLucF) | [Augmentation De La Température](https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV) | 2:18 |
 | 90 | [Looking At The Ocean](https://open.spotify.com/track/3EwIzgNyOL5siTxOaZL0fo) | [Deeply Oceanic](https://open.spotify.com/artist/5XxDTSUvUZnEOlY6plTe9v) | [Wave Period](https://open.spotify.com/album/75qHF82HCi47YOiDfgKX1Q) | 2:44 |
 | 91 | [Satisfying Rain](https://open.spotify.com/track/2S8THgm4D9ibaTT1gLWx2F) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [Satisfying Rain](https://open.spotify.com/album/4rubn7sVQxo9biA0yeofh6) | 2:44 |
 | 92 | [White Pine Rain](https://open.spotify.com/track/6Js4qnrUgVqgq7Jr6XgiDe) | [Désiré Renaud](https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be) | [White Pine Rain](https://open.spotify.com/album/7mCFmEXBNEjAiN76HCAHN0) | 3:04 |

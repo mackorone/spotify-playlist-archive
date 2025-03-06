@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,164 songs - 4 day 21 hr 1 min
+2,167 songs - 4 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1044,6 +1044,7 @@
 | [La Patata \(Arthur Wills Remix\)](https://open.spotify.com/track/0BdhiimXqkGemBCiolCfQZ) | [Lanova](https://open.spotify.com/artist/6ezugSuJaFJdOAkN5Uxt8j), [Arthur Wills](https://open.spotify.com/artist/2gOUHvkhK4SLrb7tRzrxaX) | [La Patata \(The Remixes\)](https://open.spotify.com/album/11yVvyJYSfRaoIgxBbsGwe) | 2:27 | 2024-06-21 | 2024-06-29 |
 | [La Tentación](https://open.spotify.com/track/6a53xyOvsebndQgHUTvZ6g) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [La Tentación](https://open.spotify.com/album/1UyKbupUkIVa29kjXUCJzU) | 2:18 | 2024-08-16 | 2024-08-24 |
 | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 | 2024-06-28 | 2024-07-06 |
+| [Lake Days](https://open.spotify.com/track/3gh6yg10AYHT8901rNDF90) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Greater Days Ahead](https://open.spotify.com/album/2ab49UtEWYSun8baohiq6s) | 3:40 | 2025-03-05 |  |
 | [Larry](https://open.spotify.com/track/0TwaNFcKHIFxezKakWIGm4) | [Bakkis](https://open.spotify.com/artist/4gKuT9rOlvCpHJUkWp4JFv) | [Larry](https://open.spotify.com/album/5aEeVj9bdZLVy1GV8gBULn) | 3:14 | 2024-08-02 | 2024-08-09 |
 | [LASER](https://open.spotify.com/track/6DjCL0BcCrOWGh2538hhVg) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [LASER](https://open.spotify.com/album/0O0hmYBxGrHnz44UNuOp4R) | 3:08 | 2024-06-20 | 2024-06-29 |
 | [Last Christmas](https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Last Christmas](https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk) | 3:03 | 2024-11-29 | 2024-12-06 |
@@ -1087,6 +1088,7 @@
 | [Lies](https://open.spotify.com/track/7D37CTpEsDo4s61RPO49IT) | [KTTK](https://open.spotify.com/artist/6twl7VzHH1aK1FFkOgaIyJ) | [Lies](https://open.spotify.com/album/7Ezr2dMWdHyaTcIwOGnpRy) | 2:50 | 2024-12-06 | 2024-12-14 |
 | [Life at Full Speed](https://open.spotify.com/track/29pC8YWSnfFq6x9mOXsafF) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Life at Full Speed](https://open.spotify.com/album/0nWAp3Dhfy2a4tyaHMVSPr) | 3:41 | 2024-10-11 | 2024-10-22 |
 | [Life Is](https://open.spotify.com/track/70cOMocWSDA1v7r2Trov2g) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Life Is](https://open.spotify.com/album/0lNbDdbFeixPMLe1asG83G) | 3:25 | 2024-12-05 | 2024-12-14 |
+| [Life is Better at The Beach](https://open.spotify.com/track/1jMMSHhQWxPhhpir0k3c12) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Greater Days Ahead](https://open.spotify.com/album/2ab49UtEWYSun8baohiq6s) | 3:18 | 2025-03-05 |  |
 | [Lifeline](https://open.spotify.com/track/21Zuj3c9AFQ8IKLlgJbmGo) | [DELOUX](https://open.spotify.com/artist/5RbI4aTrbZIykclt7WrzZv), [Lost Ashes](https://open.spotify.com/artist/6IKK0fMbMjQnsIJ97HrZ1z), [K\-WOOZY](https://open.spotify.com/artist/18hBrVW6Cflhz4xXpxp5M7) | [Lifeline](https://open.spotify.com/album/4UiMyyHXgBupgSkd1lUEJy) | 3:33 | 2024-08-23 | 2024-08-31 |
 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 | 2025-02-28 |  |
 | [Lift Me Up](https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA) | 3:53 | 2024-08-30 | 2024-09-06 |
@@ -1829,6 +1831,7 @@
 | [Sunset Avenue](https://open.spotify.com/track/4VCZh9vAZEesVt4i7LfX6a) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [Solange UK](https://open.spotify.com/artist/37KNr0TwIUvcE1sSHe4ZwX) | [Sunset Avenue](https://open.spotify.com/album/2pO33jnDCVE31i6URbzV1q) | 3:19 | 2025-02-28 |  |
 | [Sunset Beats](https://open.spotify.com/track/74g6lGQe6Rht912FDH0r4q) | [Rojo B Cruz](https://open.spotify.com/artist/6fAHflV1g6KRvdT6sr8pTt) | [Sunset Beats](https://open.spotify.com/album/46z175RsDXrmHAGEByKPsA) | 2:54 | 2024-05-22 | 2024-05-25 |
 | [Sunset Lover](https://open.spotify.com/track/1K1YkGGFw3okd7m2JESZ20) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [CHERRYBOY FUNCTION](https://open.spotify.com/artist/5XekZo5tIoBmrTb0dsEXx0) | [Sunset Lover](https://open.spotify.com/album/35rvVZvoLIWPZod0Dgd9l9) | 4:51 | 2024-05-25 | 2024-06-01 |
+| [Sunset Song](https://open.spotify.com/track/4FnHiC5sCcewAZHTZpLQqr) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Greater Days Ahead](https://open.spotify.com/album/2ab49UtEWYSun8baohiq6s) | 3:38 | 2025-03-05 |  |
 | [Sunshine](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Sunshine](https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi) | 3:15 | 2024-08-23 | 2024-08-31 |
 | [Sunshine in the Rain](https://open.spotify.com/track/6EaJuHKZMpnH15SBLzZvN9) | [Medii](https://open.spotify.com/artist/4tCRRxANqaE3qGSGLz0y3Q), [George Cooksey](https://open.spotify.com/artist/3MrpImJSBXDKugELTbGQKv) | [Sunshine in the Rain](https://open.spotify.com/album/5UznXGPGwNMvtTuSApGMzx) | 3:36 | 2024-06-28 | 2024-07-06 |
 | [Super Soaker](https://open.spotify.com/track/2gunNoDe0oRQDwfMY0dtLn) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Super Soaker](https://open.spotify.com/album/0AVmT76DrD5hTIWHNvE7lO) | 2:34 | 2025-02-28 |  |

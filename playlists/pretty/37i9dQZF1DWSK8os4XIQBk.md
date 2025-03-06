@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > The biggest hits in country music\. Cover:  Nate Smith & HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,735 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,730 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Drinkin' Buddies](https://open.spotify.com/track/4OlwATEogDh1BfEoWsRpeC) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Drinkin' Buddies](https://open.spotify.com/album/7mf5bckIwzkxhUVpoC6IWN) | 3:17 |
 | 75 | [August](https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [August](https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ) | 3:47 |
 
-Snapshot ID: `Z8FC8QAAAABbQvL1ZOOsomaulzLfJglb`
+Snapshot ID: `Z8FC8QAAAABHjDGT/LLbTwZK6vJPwsC0`

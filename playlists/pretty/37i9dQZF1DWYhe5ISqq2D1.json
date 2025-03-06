@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u9752\u8449\u5e02\u5b50",
-  "num_followers": 58626,
+  "num_followers": 58641,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,26 @@
     {
       "added_at": "2025-03-04 16:54:23",
       "album": {
+        "name": "\u96eb",
+        "url": "https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "duration_ms": 276133,
+      "name": "\u96eb",
+      "url": "https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ"
+    },
+    {
+      "added_at": "2025-03-04 16:54:23",
+      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/6vptFPctTJu6HtY1yAwZPI"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 195640,
       "name": "\u30eb\u30fc\u30c4",
       "url": "https://open.spotify.com/track/3U4sMDIlhDRyHtnJmaNUNR"
-    },
-    {
-      "added_at": "2025-03-04 16:54:23",
-      "album": {
-        "name": "\u96eb",
-        "url": "https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
-        }
-      ],
-      "duration_ms": 276133,
-      "name": "\u96eb",
-      "url": "https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ"
     },
     {
       "added_at": "2025-03-04 16:54:23",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-03-04 16:54:23",
       "album": {
-        "name": "\u5143\u6c17\u3067\u3044\u3066\u306d\u3002",
-        "url": "https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb",
-      "url": "https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r"
-    },
-    {
-      "added_at": "2025-03-04 16:54:23",
-      "album": {
         "name": "\u5927\u4eba\u306b\u306a\u308c\u306a\u3044",
         "url": "https://open.spotify.com/album/6fk621ch2cHi1kty7B7dNg"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 217800,
       "name": "\u5927\u4eba\u306b\u306a\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/69wF6z70ctlhcCzKFEyKs1"
+    },
+    {
+      "added_at": "2025-03-04 16:54:23",
+      "album": {
+        "name": "\u5143\u6c17\u3067\u3044\u3066\u306d\u3002",
+        "url": "https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r"
     },
     {
       "added_at": "2025-03-04 16:54:23",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-03-04 16:54:23",
       "album": {
-        "name": "SONAR",
-        "url": "https://open.spotify.com/album/3LB2AdLy8kW2OVfJEW5ULa"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 197172,
-      "name": "SONAR",
-      "url": "https://open.spotify.com/track/5sopL1eudHPKEpHPSdBJFk"
-    },
-    {
-      "added_at": "2025-03-04 16:54:23",
-      "album": {
         "name": "meaning",
         "url": "https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 220975,
       "name": "\u30e1\u30cb\u30fc\u30af\u30ea\u30b9\u30de\u30b9",
       "url": "https://open.spotify.com/track/1bqiYm0YfM9dDtb8saM0m2"
+    },
+    {
+      "added_at": "2025-03-04 16:54:23",
+      "album": {
+        "name": "SONAR",
+        "url": "https://open.spotify.com/album/3LB2AdLy8kW2OVfJEW5ULa"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 197172,
+      "name": "SONAR",
+      "url": "https://open.spotify.com/track/5sopL1eudHPKEpHPSdBJFk"
     },
     {
       "added_at": "2025-03-04 16:54:23",
@@ -1159,6 +1159,22 @@
       "duration_ms": 204000,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU"
+    },
+    {
+      "added_at": "2025-03-04 16:54:23",
+      "album": {
+        "name": "\u30a2\u30cd\u30e2\u30cd",
+        "url": "https://open.spotify.com/album/4ZmyxpMBVaajJWiyhweSUv"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "duration_ms": 197406,
+      "name": "\u30a2\u30cd\u30e2\u30cd",
+      "url": "https://open.spotify.com/track/0SB9l1vbYG5A44AJFlmc7J"
     },
     {
       "added_at": "2025-03-04 16:54:23",
@@ -1211,26 +1227,6 @@
     {
       "added_at": "2025-03-04 16:54:23",
       "album": {
-        "name": "HATA EXPO -The Collaboration Album-",
-        "url": "https://open.spotify.com/album/7H6K36YquDfRbMYHHG6SoX"
-      },
-      "artists": [
-        {
-          "name": "Motohiro Hata",
-          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
-        },
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 296062,
-      "name": "\u9752\u8449",
-      "url": "https://open.spotify.com/track/5Nj8wQlcTur1FqYQM5dnXR"
-    },
-    {
-      "added_at": "2025-03-04 16:54:23",
-      "album": {
         "name": "\u4e00\u5207\u5408\u5207",
         "url": "https://open.spotify.com/album/2U5TfMNyAv9ePa9gyowo1s"
       },
@@ -1247,18 +1243,22 @@
     {
       "added_at": "2025-03-04 16:54:23",
       "album": {
-        "name": "\u30a2\u30cd\u30e2\u30cd",
-        "url": "https://open.spotify.com/album/4ZmyxpMBVaajJWiyhweSUv"
+        "name": "HATA EXPO -The Collaboration Album-",
+        "url": "https://open.spotify.com/album/7H6K36YquDfRbMYHHG6SoX"
       },
       "artists": [
         {
-          "name": "Kei Sugawara",
-          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        },
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
         }
       ],
-      "duration_ms": 197406,
-      "name": "\u30a2\u30cd\u30e2\u30cd",
-      "url": "https://open.spotify.com/track/0SB9l1vbYG5A44AJFlmc7J"
+      "duration_ms": 296062,
+      "name": "\u9752\u8449",
+      "url": "https://open.spotify.com/track/5Nj8wQlcTur1FqYQM5dnXR"
     },
     {
       "added_at": "2025-03-04 16:54:23",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-03-04 16:54:23",
       "album": {
-        "name": "BAE",
-        "url": "https://open.spotify.com/album/5kgPfV3smpy7jWTuwW06Xh"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 246253,
-      "name": "BAE",
-      "url": "https://open.spotify.com/track/7xi1q1cQkrsNDjYn4MLRBa"
-    },
-    {
-      "added_at": "2025-03-04 16:54:23",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/0MpqDlwYJKbaMo6drzYLpd"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 253866,
       "name": "Remember",
       "url": "https://open.spotify.com/track/0ewnQhgNqYp1WeVSsp9eeN"
+    },
+    {
+      "added_at": "2025-03-04 16:54:23",
+      "album": {
+        "name": "BAE",
+        "url": "https://open.spotify.com/album/5kgPfV3smpy7jWTuwW06Xh"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 246253,
+      "name": "BAE",
+      "url": "https://open.spotify.com/track/7xi1q1cQkrsNDjYn4MLRBa"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

@@ -4,7 +4,7 @@
 
 > ¡Mujeres mexicanas a todo volumen! Yuridia en portada 💚
 
-1,331 songs - 3 day 0 hr 50 min
+1,332 songs - 3 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Excusas](https://open.spotify.com/track/4FLODlDWoco3SpNZvs4msb) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [AMORADESAMOR](https://open.spotify.com/album/1Ad6BDnTNSErtmgwcPWJ9E) | 3:08 | 2022-11-02 | 2022-12-01 |
 | [Extranjera](https://open.spotify.com/track/6PoQVCGwIWOB0rLyMYgDIS) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Extranjera](https://open.spotify.com/album/00kVbmzSQ5jgXfhrM2y1HP) | 3:44 | 2023-03-01 | 2023-04-06 |
 | [f\*\*k u \(La Devolución\)](https://open.spotify.com/track/2mquxyPnVCHcfIY45mR5Sz) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [f\*\*k u \(La Devolución\)](https://open.spotify.com/album/6TRFMEdEhR5VJtINuFekU5) | 2:16 | 2022-02-02 | 2023-01-05 |
+| [F1](https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5) | [VICKILICIOUS](https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ) | [F1](https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j) | 2:00 | 2025-03-05 |  |
 | [Fabulosa de Paris](https://open.spotify.com/track/1F2SK6YxIpWSAvXS0Sbj1n) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Fabulosa de Paris](https://open.spotify.com/album/57NDN6tpYrjt82l5hrKaYE) | 2:53 | 2023-11-08 | 2023-11-30 |
 | [FAIM ET RAGE \(Palabras\)](https://open.spotify.com/track/5AzpBHZPCT7IgHKbZbfu3p) | [KYNE](https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [SAD&HORNY](https://open.spotify.com/album/341a7S62DisEOaoerZjIYZ) | 3:08 | 2023-07-05 | 2023-08-03 |
 | [Fantasmas](https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:43 | 2022-05-04 | 2022-06-01 |
@@ -567,7 +568,7 @@
 | [Jungle](https://open.spotify.com/track/1KTObLMW9mwk2iPjP3daHb) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion](https://open.spotify.com/album/1jTdlev7AEaZWCDD2vBiQS) | 5:15 | 2024-08-07 | 2024-09-05 |
 | [Jungle Fever](https://open.spotify.com/track/1r2s2jTu2ClLhJP3V8W3Zm) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Jungle Fever](https://open.spotify.com/album/3h3OoFAmztrB5ZZooiSCSO) | 4:48 | 2022-04-06 | 2022-05-05 |
 | [Jutsu](https://open.spotify.com/track/5jddJHHqF7SsBqtKZKz7Eq) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [JUTSU](https://open.spotify.com/album/1K2eThAjfHOMGq1Jf1noua) | 3:28 | 2022-04-06 | 2022-05-05 |
-| [Kakfa](https://open.spotify.com/track/6ezPkvzuP86OFB32pCpNGK) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [La Mina Que Domina](https://open.spotify.com/album/3fW8UK13AtOldylamq0CVf) | 2:33 | 2025-03-03 |  |
+| [Kafka](https://open.spotify.com/track/6ezPkvzuP86OFB32pCpNGK) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [La Mina Que Domina](https://open.spotify.com/album/3fW8UK13AtOldylamq0CVf) | 2:33 | 2025-03-03 |  |
 | [Kamikaze](https://open.spotify.com/track/4oYrcsoNCmgKvj3R60IcoG) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Twin Palms](https://open.spotify.com/artist/3vLMWHCUvKGdN901ti7ylE) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 3:26 | 2022-01-05 | 2022-02-03 |
 | [KARMA](https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk) | [Clara Floc](https://open.spotify.com/artist/0e16Li9kILC0goZoA7WR5f), [Light Reaction](https://open.spotify.com/artist/4ImPMY6kcAHp54Zfvc035x), [Gabo Versus](https://open.spotify.com/artist/1N4FEl0zyRocPbZBiWPzJN) | [KARMA](https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr) | 3:34 | 2022-04-06 | 2022-05-05 |
 | [KE IMPORTA](https://open.spotify.com/track/6dnMsrOKQPJFlFXWwQTyJL) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [Brand Randall](https://open.spotify.com/artist/1uqGYfkBwPzgYzZ7mVylcl) | [KE IMPORTA](https://open.spotify.com/album/6gcfi5E4pkaftDW6Mji8dI) | 2:34 | 2024-05-01 | 2024-06-06 |

@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Undercover Highschool\. \(언더커버 하이스쿨의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-20 songs - 1 hr 9 min
+24 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,8 @@
 | [Journey](https://open.spotify.com/track/0bJK7JJxK8jph9Nazai0Dr) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Journey](https://open.spotify.com/album/2EQ9kO7mz10ZOvopsViCp8) | 3:30 | 2025-03-04 |  |
 | [Last Chance](https://open.spotify.com/track/3VNm72yGbPkxaUMhoWk15s) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Queen of Tears \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/7IlGRv127ABNT0oN8xQUKK) | 4:08 | 2025-03-04 |  |
 | [Letter](https://open.spotify.com/track/79OAaveywANnqqwzmBKo6f) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Letter](https://open.spotify.com/album/352elMfFQTnoMOPYZxIuec) | 4:06 | 2025-03-04 |  |
+| [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 | 2025-03-06 |  |
+| [Love Is You \(Inst.\)](https://open.spotify.com/track/5LMVf3Xz3OQryXUcXpYPTD) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 | 2025-03-06 |  |
 | [Lullaby](https://open.spotify.com/track/6EeJ7YyCluIuuWRAFESjAE) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [Lullaby](https://open.spotify.com/album/559Bz9yMht3yeiOIaU4iLE) | 3:14 | 2025-03-04 |  |
 | [morae](https://open.spotify.com/track/0Tk7W8TpolCyfe2L2SUudp) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Le Alien Petit Prince : kennytheking](https://open.spotify.com/album/2yAnEDBCpvBw1mgLtcuBNc) | 4:01 | 2025-03-04 |  |
 | [Onesided Love](https://open.spotify.com/track/10dMX2JBBfxFbrjyWPEViJ) | [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Onesided Love](https://open.spotify.com/album/0LmxH31dTm9Vdf64Z3WUrM) | 2:55 | 2025-03-04 |  |
@@ -27,6 +29,8 @@
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2025-03-04 |  |
 | [Today, I fill glass with you](https://open.spotify.com/track/4FIhHhNhxAm3qyDJI70dto) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Today, I fill glass with you](https://open.spotify.com/album/4PZfc8aQmHAB8Ou9sdnd3G) | 3:09 | 2025-03-04 |  |
 | [Uninvited](https://open.spotify.com/track/5oCtOjKAwyjl9E42D92maO) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [Uninvited](https://open.spotify.com/album/6Kj0NssZwT4vs1D6D1ZKmy) | 3:24 | 2025-03-04 |  |
+| [Until I'm with you](https://open.spotify.com/track/0Axtog0WgTiWU3QIGOAkx2) | [doyouka](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [Undercover High School OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/6colNPL7AdMuQkFZ3bWLon) | 3:56 | 2025-03-06 |  |
+| [Until I'm with you \(Inst.\)](https://open.spotify.com/track/6MRkrW6MWY3VJ7TDKEKLpa) | [doyouka](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [Undercover High School OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/6colNPL7AdMuQkFZ3bWLon) | 3:56 | 2025-03-06 |  |
 | [항복](https://open.spotify.com/track/40cWWy4RgszGtvmmiAaJLM) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Oh, Life](https://open.spotify.com/album/5XAcHixfWVD8iI6H9qIZ3z) | 3:27 | 2025-03-04 |  |
 
 \*This playlist was first scraped on 2025-03-05. Prior content cannot be recovered.

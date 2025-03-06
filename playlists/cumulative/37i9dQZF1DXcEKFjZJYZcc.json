@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Herbariums",
+        "url": "https://open.spotify.com/album/2GZSKSrzyA6y3CqKHeF1Qc"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130828,
+      "name": "Herbariums",
+      "url": "https://open.spotify.com/track/4NgQB5HgCTNVV9QZS5u1jR"
+    },
+    {
+      "album": {
         "name": "Hjemme",
         "url": "https://open.spotify.com/album/5idRanglFK2p2bUSKGTmQD"
       },

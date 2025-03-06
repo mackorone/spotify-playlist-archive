@@ -4,7 +4,7 @@
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-25 songs - 1 day 1 hr 21 min
+25 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Menú para un orgasmo, mecarillas, arte , erotismo y pornografia.](https://open.spotify.com/episode/0Jhl9Ez1bsKnkUfT1Rmcru) | [The F\* Talk](https://open.spotify.com/show/3qQvFH5jBPPF7JdbtbsaiX) | [The F\* Talk](https://open.spotify.com/album/3qQvFH5jBPPF7JdbtbsaiX) | 39:23 | 2024-03-07 |  |
 | [Mi DATE me ABANDONÓ en el MCDONALD’S \(EP57\)](https://open.spotify.com/episode/5bfPKhjPsBuQ5TKr9d7yvn) | [Dos Mujeres Una Copa](https://open.spotify.com/show/0wuvVwMzGhs3cqn83v1uZf) | [Dos Mujeres Una Copa](https://open.spotify.com/album/0wuvVwMzGhs3cqn83v1uZf) | 22:37 | 2024-03-07 |  |
 | [Monólogo: AMOR PROPIO](https://open.spotify.com/episode/5f22EXTK0IXRo9qJZEubyK) | [Sabiduría Psicodélica](https://open.spotify.com/show/59hn8iZSQLztLp3cFp2ykM) | [Sabiduría Psicodélica](https://open.spotify.com/album/59hn8iZSQLztLp3cFp2ykM) | 44:05 | 2024-03-07 |  |
-| [SER MUJER \| 6 DE COPAS \- EPISODIO 1 \- T2](https://open.spotify.com/episode/2xHnJw1knMzUdcWawDGyk1) | [Seis de Copas](https://open.spotify.com/show/0rcejj6eHA5u2Z3geS2inO) | [Seis de Copas](https://open.spotify.com/album/0rcejj6eHA5u2Z3geS2inO) | 1:36:39 | 2024-03-07 |  |
+| [SER MUJER \| 6 DE COPAS \- EPISODIO 1 \- T2](https://open.spotify.com/episode/2xHnJw1knMzUdcWawDGyk1) | [Seis de Copas](https://open.spotify.com/show/0rcejj6eHA5u2Z3geS2inO) | [Seis de Copas](https://open.spotify.com/album/0rcejj6eHA5u2Z3geS2inO) | 1:35:24 | 2024-03-07 |  |
 | [T4EP3: ¿ESTÁS ENAMORAD@ DE LA PERSONA O DE SU POTENCIAL?](https://open.spotify.com/episode/6pzbUHQcFkS4Pw4DByLfl5) | [La Verdad Sin Filtro](https://open.spotify.com/show/0zBOfO0P2oqdra8hLEuSzq) | [La Verdad Sin Filtro](https://open.spotify.com/album/0zBOfO0P2oqdra8hLEuSzq) | 44:12 | 2024-03-07 |  |
 | [T6\. EP\. 11: Reset masculino: actualizando la virilidad \| Con Nicko Nogués de De Machos a Hombres](https://open.spotify.com/episode/5OpoND5gWVeXM23Y0FaPk0) | [The Red Flamingo](https://open.spotify.com/show/7zd2t0MbvkmSDCYKeTEOvU) | [The Red Flamingo](https://open.spotify.com/album/7zd2t0MbvkmSDCYKeTEOvU) | 47:43 | 2024-03-07 |  |
 | [Ventaneando parte 3 \(con Raúl Meneses y Romina Pons\) \- T4E50 \[CON VIDEO\]](https://open.spotify.com/episode/6g68tNsXUhRUzizUWmSfbR) | [Niñas Bien](https://open.spotify.com/show/3zCs8D2qcTAMAbYV1eM1ad) | [Niñas Bien](https://open.spotify.com/album/3zCs8D2qcTAMAbYV1eM1ad) | 1:34:49 | 2024-03-07 |  |

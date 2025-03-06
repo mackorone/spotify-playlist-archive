@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,875 likes - 407 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,947 likes - 407 songs - 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -416,4 +416,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 406 | [Stay Here Tonight](https://open.spotify.com/track/1TBHU4rckRwhSTxklMUXhb) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Polka Dots and Moonbeams](https://open.spotify.com/album/609qfgCjjErut4a17FegjN) | 2:48 |
 | 407 | [The Nearness of You](https://open.spotify.com/track/4D15PV4EsO7CTf1l7R3jCo) | [Morgan Jaquette](https://open.spotify.com/artist/540KL1Mixm0kSCTjw8mqoa) | [The Nearness of You](https://open.spotify.com/album/0kmf0RsMgbtvL6XxIWz4G4) | 2:49 |
 
-Snapshot ID: `Z5eevAAAAABabBCFgjt6ttTILDRUfI0I`
+Snapshot ID: `Z5eevAAAAADHGWNHoi8yP4dzJIevdOcV`

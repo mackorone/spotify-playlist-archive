@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 235621,
+  "num_followers": 235761,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 333253,
+      "name": "Te amar\u00e9 - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU"
+    },
+    {
+      "added_at": "2024-08-01 22:06:14",
+      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 246546,
       "name": "Te Equivocaste (Primera Fila) (feat. Mal\u00fa) - En Vivo",
       "url": "https://open.spotify.com/track/7wadwcnZoJEU2b3pgApUDv"
-    },
-    {
-      "added_at": "2024-08-01 22:06:14",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 333253,
-      "name": "Te amar\u00e9 - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU"
     },
     {
       "added_at": "2024-08-01 22:06:14",

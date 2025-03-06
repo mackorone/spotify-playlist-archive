@@ -1,13 +1,29 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 513,
+  "num_followers": 514,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADSVTWmRaJf3+KT+FxNCUDn8ZDXNIX",
+  "snapshot_id": "AAADSnAbYfXpRT6vVIBt8HYpBsOAj/vK",
   "tracks": [
+    {
+      "added_at": "2025-03-05 21:41:12",
+      "album": {
+        "name": "wander.lust",
+        "url": "https://open.spotify.com/album/0Z8ge9a7kCcQndVfh8qX62"
+      },
+      "artists": [
+        {
+          "name": "ajackal",
+          "url": "https://open.spotify.com/artist/3Wo7ai7t0QS53RBsBl6g7n"
+        }
+      ],
+      "duration_ms": 118603,
+      "name": "wander.lust",
+      "url": "https://open.spotify.com/track/0eBtfJOkHatbzcUNddyl7r"
+    },
     {
       "added_at": "2025-03-01 12:37:45",
       "album": {

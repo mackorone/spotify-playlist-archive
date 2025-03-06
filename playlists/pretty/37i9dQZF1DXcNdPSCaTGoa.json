@@ -1,6 +1,6 @@
 {
   "description": "South African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv?si=Bcz-5Qg9RJSvtysyXHAJxw\">Zamajobe</a> ",
-  "num_followers": 81880,
+  "num_followers": 81969,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-02-18 09:31:04",
       "album": {
-        "name": "Ibokwe",
-        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Ingoma",
-      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
-    },
-    {
-      "added_at": "2025-02-18 09:31:04",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 296080,
       "name": "Umqombothi",
       "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
+    },
+    {
+      "added_at": "2025-02-18 09:31:04",
+      "album": {
+        "name": "Ibokwe",
+        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Ingoma",
+      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
     },
     {
       "added_at": "2025-02-18 09:31:04",
@@ -803,18 +803,22 @@
     {
       "added_at": "2025-02-18 09:31:04",
       "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+        "name": "Rain Man: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
       },
       "artists": [
         {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+          "name": "Savuka",
+          "url": "https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7"
+        },
+        {
+          "name": "Johnny Clegg",
+          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
         }
       ],
-      "duration_ms": 296680,
-      "name": "Tot Die Son Uitkom",
-      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
+      "duration_ms": 245626,
+      "name": "Scatterlings Of Africa",
+      "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
     },
     {
       "added_at": "2025-02-18 09:31:04",
@@ -839,22 +843,18 @@
     {
       "added_at": "2025-02-18 09:31:04",
       "album": {
-        "name": "Rain Man: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
+        "name": "Wie's Bang",
+        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
       },
       "artists": [
         {
-          "name": "Savuka",
-          "url": "https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7"
-        },
-        {
-          "name": "Johnny Clegg",
-          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
+          "name": "Van Coke Kartel",
+          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
         }
       ],
-      "duration_ms": 245626,
-      "name": "Scatterlings Of Africa",
-      "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
+      "duration_ms": 296680,
+      "name": "Tot Die Son Uitkom",
+      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
     },
     {
       "added_at": "2025-02-18 09:31:04",

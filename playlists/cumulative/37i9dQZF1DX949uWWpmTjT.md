@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,112 songs - 2 day 23 hr 36 min
+1,113 songs - 2 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [All Or Nothing At All](https://open.spotify.com/track/6f9Rtjg4i6dczqNnLwDlyl) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [All Or Nothing At All](https://open.spotify.com/album/1zjHNjfAn2SnYsmDiK48Ef) | 4:50 | 2023-03-16 |  |
 | [All That's Left Is A Song](https://open.spotify.com/track/5TDRgPEY4sMWQsMuR6Yj6K) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [All That's Left Is A Song](https://open.spotify.com/album/2FBgIfyayKTGoQijjiKW0N) | 2:45 | 2024-01-05 |  |
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2022-11-10 |  |
-| [All The Things We Were](https://open.spotify.com/track/6052pnXvRCf5U70YC0XLF6) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [All The Things We Were](https://open.spotify.com/album/0noiiJAIqjOk9Yp1wcS155) | 4:31 | 2023-06-01 |  |
+| [All The Things We Were](https://open.spotify.com/track/6052pnXvRCf5U70YC0XLF6) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [All The Things We Were](https://open.spotify.com/album/0noiiJAIqjOk9Yp1wcS155) | 4:31 | 2023-06-01 | 2025-03-06 |
 | [All the Things You Are](https://open.spotify.com/track/2BgxwHGlY8aPhiGurdkuON) | [Sentimental Mood Trio](https://open.spotify.com/artist/3P5GWV6ACWtiwq71Y5KYcD) | [All the Things You Are](https://open.spotify.com/album/1vgiVIGoquD7w4ttvRM7L5) | 5:24 | 2023-03-30 | 2025-01-26 |
 | [All The Way](https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [All The Way](https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4) | 3:21 | 2023-01-19 |  |
 | [All those nights](https://open.spotify.com/track/4wHDPpI4nWoj3F20unVH8f) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [All those nights](https://open.spotify.com/album/4BIOYMg5wAVi0onxV4f73T) | 2:19 | 2024-06-03 | 2024-07-10 |
@@ -427,6 +427,7 @@
 | [I'm Coming Home](https://open.spotify.com/track/0XWvXNhiaDIS3nRZEsIbL4) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [I'm Coming Home](https://open.spotify.com/album/7JChLRyvbnM4WIT2qlDE1o) | 3:06 | 2023-03-16 |  |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/4VtPmMgXpruDnONGVxpMk5) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/3SP5ljNhXHuCk3cnoTZEu3) | 3:57 | 2023-08-10 |  |
 | [I'm Glad There Is Us](https://open.spotify.com/track/0Pvw3low3habLe1L9lM4Vy) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [I'm Glad There Is Us](https://open.spotify.com/album/4uCtHRBUPa4sxng6Thu10D) | 4:00 | 2023-08-10 |  |
+| [I'm Glad There Is You](https://open.spotify.com/track/6IHqCBIGINjvfp1MZQbk7p) | [Deer Groves](https://open.spotify.com/artist/0UAwkBmAPuCYxBPtf6g9K6) | [I'm glad there is you](https://open.spotify.com/album/7dr4vTiKGMf146Qqjjz8ZV) | 3:50 | 2025-03-03 |  |
 | [I'm Not Myself Anymore](https://open.spotify.com/track/6oSK13LFez9J8gCpGbtMjx) | [Len Stark Band](https://open.spotify.com/artist/4u9GPWB44FwZ76cXVUnuKB) | [I'm Not Myself Anymore](https://open.spotify.com/album/0jYdse5LgBxoVkMF28IaGz) | 5:05 | 2022-11-10 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/5qaAnqAeGIGJeAl4mEl2CF) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [I'm Old Fashioned](https://open.spotify.com/album/2VAEK52l7TchRl2CKfFK4M) | 2:26 | 2024-01-12 |  |
 | [I'm Old Fashioned \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:57 | 2021-12-03 | 2023-04-21 |

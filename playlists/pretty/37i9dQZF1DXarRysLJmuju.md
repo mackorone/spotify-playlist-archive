@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,181 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,154 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Feel Better](https://open.spotify.com/track/6pdWvXZj74lNGsobWGgBqn) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh), [Tafari Anthony](https://open.spotify.com/artist/5lo6XXV9M4PS0g4QP5NVfg) | [Feel Better](https://open.spotify.com/album/0albnDIarqtlyJsvAHMllU) | 2:42 |
 | 100 | [Strangers](https://open.spotify.com/track/5pOnmZnc4FsF9e04Etv5X3) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Strangers](https://open.spotify.com/album/0RapZmQPdoPuqODNb03SaX) | 2:51 |
 
-Snapshot ID: `Z8FC8wAAAAAPnEYDv3H6PPhcA/W+ajMJ`
+Snapshot ID: `Z8FC8wAAAADQ1pkVyqZcsHn8KDHmeIif`

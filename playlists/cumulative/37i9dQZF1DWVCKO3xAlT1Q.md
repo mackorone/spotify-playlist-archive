@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-61 songs - 3 hr 0 min
+62 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-05-11 | 2025-03-01 |
 | [One Milkali \(One Blood\)](https://open.spotify.com/track/74mWVYv6xPilcalOxrQa5Y) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [One Milkali \(One Blood\)](https://open.spotify.com/album/5gmCSsc0MTQaKSQNWswUao) | 2:56 | 2024-05-11 | 2025-03-01 |
 | [Pedestal \- Eurovision version](https://open.spotify.com/track/0XzSKAgVOdtMSfzYY0qtAb) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Pedestal \(Eurovision version\)](https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn) | 2:57 | 2024-05-11 | 2025-03-01 |
+| [Poison Cake](https://open.spotify.com/track/0jtkkJ6Q0IB5iw5obHJDVl) | [Marko Bošnjak](https://open.spotify.com/artist/2rRdobDVMCwaxSbpG7FgMb) | [Poison Cake](https://open.spotify.com/album/3ENwk0CrHIrxpGYxmJn1XZ) | 2:58 | 2025-03-05 |  |
 | [Ramonda](https://open.spotify.com/track/3q58lQ4ByWV5MR0VSeNer3) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Ramonda](https://open.spotify.com/album/0EpFshvEJwsgYIdfLrsiGe) | 2:54 | 2024-05-11 | 2025-03-01 |
 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-05-11 | 2025-03-01 |
 | [Run With U](https://open.spotify.com/track/4NdNOrfHfNIprOJ3Uq1l43) | [Mamagama](https://open.spotify.com/artist/7rAUDsrUfeAnDw8ubOPh2W) | [Run With U](https://open.spotify.com/album/7cqQuVvLZ1wiw4l372uPMU) | 3:03 | 2025-02-28 |  |

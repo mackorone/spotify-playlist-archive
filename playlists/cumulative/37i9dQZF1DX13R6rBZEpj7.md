@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-294 songs - 17 hr 44 min
+295 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Don't Call Me](https://open.spotify.com/track/3CZT4XSpZINp5qKTBuyBaH) | [KnightBlock](https://open.spotify.com/artist/5et0VICH4u3wSDlS1GSYPq) | [Don't Call Me](https://open.spotify.com/album/5d0qOlUrrd71PeAdEBVF1N) | 3:38 | 2022-04-15 | 2022-07-15 |
 | [Don't Let Me Down](https://open.spotify.com/track/4dGspblo1g4D5yyYrwBri1) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY), [Prima](https://open.spotify.com/artist/48mKSP3Udy0jlAXG7uv3lX) | [Don't Let Me Down](https://open.spotify.com/album/2mkvOo2qTskjUU8TLmvgxl) | 3:28 | 2022-04-15 | 2023-05-19 |
 | [Don't Let Me Down \(feat\. Prima\)](https://open.spotify.com/track/3kSxlCHp8Fsw9qYR0fI0lh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY), [Prima](https://open.spotify.com/artist/48mKSP3Udy0jlAXG7uv3lX) | [Don't Let Me Down \(feat\. Prima\)](https://open.spotify.com/album/5dHxGwSxntnWNRQlDXMARR) | 3:28 | 2023-04-04 | 2024-03-16 |
+| [Don't Worry](https://open.spotify.com/track/1pSnNNJDSbDXUvvrypRIR3) | [efan](https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Don't Worry](https://open.spotify.com/album/60Lo0uwT1HRmQTNFSQcCDz) | 2:51 | 2025-02-28 |  |
 | [Don't You Know](https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Don't You Know](https://open.spotify.com/album/6jzIhBp8DjbQMBRdpnfKtw) | 3:35 | 2023-04-04 | 2024-03-02 |
 | [Don't You Know](https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Don't You Know](https://open.spotify.com/album/5jbbD9G6JTkkRrRhgZ7fJt) | 3:35 | 2022-06-10 | 2022-10-15 |
 | [Donny Don](https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC), [MIK](https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm) | [Donny Don](https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr) | 3:34 | 2022-04-15 | 2024-06-15 |
@@ -89,7 +90,7 @@
 | [EGODEATH](https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO), [6HRS](https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0) | [EGODEATH](https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4) | 3:12 | 2022-09-23 |  |
 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 | 2022-04-22 | 2023-12-15 |
 | [Enemies](https://open.spotify.com/track/1qQGrp6pol2Swp45C9PvjC) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [Enemies](https://open.spotify.com/album/0KPN5WOiQslbx2XqFkL7E6) | 2:47 | 2022-04-22 | 2022-07-16 |
-| [Energy Gang](https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Energy Gang](https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0) | 3:55 | 2024-06-14 |  |
+| [Energy Gang](https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Energy Gang](https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0) | 3:55 | 2024-06-14 | 2025-03-06 |
 | [Euphoria](https://open.spotify.com/track/6WW1qsUVy1i73rWizr3dw2) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/3cNusUNyI88Y2sCgTBN4mU) | 3:12 | 2023-04-04 | 2023-08-11 |
 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 | 2022-04-15 | 2023-03-04 |
 | [Eww](https://open.spotify.com/track/7LliyCcHRU5OQEj2Ob2LPf) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Eww/Losing](https://open.spotify.com/album/14t4zR0Hx6ez04yQuAK4U3) | 3:55 | 2022-04-15 | 2022-07-29 |

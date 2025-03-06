@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,232 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,297 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 74 | [So Superb](https://open.spotify.com/track/6PdMDCt5HyXD8BSH8acXa2) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [F.U.N.](https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV) | 3:43 |
 | 75 | [The Right To Love Us](https://open.spotify.com/track/41sYW1EhLzlMWlaefZGWvq) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:51 |
 
-Snapshot ID: `Z7yUKgAAAABFQesH8NtnDknKl83CIXkB`
+Snapshot ID: `Z7yUKgAAAABuo9FvgCsczHaDtKiyWO1S`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: 12th Street
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,710 likes - 77 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,802 likes - 77 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

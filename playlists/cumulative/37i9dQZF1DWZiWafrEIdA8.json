@@ -695,6 +695,28 @@
     },
     {
       "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187939,
+      "name": "COLD (feat.10CM)",
+      "url": "https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa"
+    },
+    {
+      "album": {
         "name": "Show Me the Money 5 Episode 2",
         "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
       },
@@ -3928,7 +3950,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 270906,
       "name": "Sick enough to die (Feat. JAMIE)",
       "url": "https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm"

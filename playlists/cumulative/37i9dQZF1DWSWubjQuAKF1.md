@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kalina Kortas
 
-362 songs - 17 hr 23 min
+363 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Nie mów](https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [eryq](https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6) | [Nie mów](https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF) | 2:42 | 2024-08-22 | 2025-01-24 |
 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 | 2024-11-21 | 2025-01-24 |
 | [Nie Szkodzi](https://open.spotify.com/track/73f2sCPvdMu9eWrbA0Eu56) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Nie Szkodzi](https://open.spotify.com/album/71VoAa4uW9aVsgFifebH62) | 2:31 | 2024-06-28 | 2024-08-02 |
+| [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 | 2025-02-27 |  |
 | [Nie zawsze wszystko](https://open.spotify.com/track/4cl6qxj75z0HOdbHK2yDWD) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj), [Gverilla](https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U) | [Nie zawsze wszystko](https://open.spotify.com/album/6hCqUNPQDp25b85hGQ7ixM) | 3:12 | 2024-06-28 | 2024-07-27 |
 | [Nie ze mną](https://open.spotify.com/track/6faAGWMBcX76s25R8QxDwf) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nie ze mną](https://open.spotify.com/album/7hJStuNFMi5tpEZ94bKAit) | 2:43 | 2024-06-28 | 2024-07-19 |
 | [NIE ZNASZ JEJ](https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ](https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1) | 2:34 | 2024-06-28 | 2024-11-22 |
@@ -268,7 +269,7 @@
 | [przypadkiem](https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [przypadkiem](https://open.spotify.com/album/7cPkz7ex0tIwfxls5NaPK0) | 3:03 | 2024-09-06 | 2025-01-24 |
 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 | 2025-02-20 |  |
 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-11 | 2025-01-24 |
-| [Ptaki](https://open.spotify.com/track/2LwA6OrbN2DFP9osByAYEY) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/2he62aL4O9Bg03NYRK9LvA) | 4:06 | 2025-02-13 |  |
+| [Ptaki](https://open.spotify.com/track/2LwA6OrbN2DFP9osByAYEY) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/2he62aL4O9Bg03NYRK9LvA) | 4:06 | 2025-02-13 | 2025-03-06 |
 | [Późne Lato](https://open.spotify.com/track/2hzSX3UVhdkby7eGcNXllS) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Późne Lato](https://open.spotify.com/album/21t6UxVWjqYpCmAFBVQecj) | 2:57 | 2024-08-01 | 2025-01-24 |
 | [Pętle](https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE) | [Dereal](https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3) | [Pętle](https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa) | 2:15 | 2024-07-04 | 2025-01-24 |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-23 |  |

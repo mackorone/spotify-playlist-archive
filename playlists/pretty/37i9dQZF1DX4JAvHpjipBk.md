@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from LISA, Benson Boone, Tate McRae, Gigi Perez, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,307,462 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,307,498 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 |
 | 100 | [Traficando Rap](https://open.spotify.com/track/0jTEOIQZUr9915RLWVMNh1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Traficando Rap](https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5) | 2:44 |
 
-Snapshot ID: `Z8FFAwAAAAB+vmwCvSCdgRNl0lyQ9kXa`
+Snapshot ID: `Z8FFAwAAAAB+RoRpKd4pymMDBvXojiLf`

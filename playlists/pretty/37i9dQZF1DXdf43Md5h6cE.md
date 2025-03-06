@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,777 likes - 220 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,014 likes - 220 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 219 | [Invisible Waters](https://open.spotify.com/track/2OtMv9xZ3n9XYJCc4eGDDZ) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Invisible Waters](https://open.spotify.com/album/3xvxpj3ETyaC4g4pASqxm9) | 3:06 |
 | 220 | [Behind the Waterfall](https://open.spotify.com/track/4bqyQQx0Ezeun0Eem2OqlI) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Behind the Waterfall](https://open.spotify.com/album/3QH8aE7f8JB0nU8YrK5Bz8) | 2:49 |
 
-Snapshot ID: `Z8cHkgAAAACvNXbtLuUcsOBoPKbBO6k+`
+Snapshot ID: `Z8cHkgAAAACk5Dvhdn52LAgxwBse1C9z`

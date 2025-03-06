@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Christian Alicea
 
-603 songs - 1 day 10 hr 20 min
+604 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Dulce Pa' Mí](https://open.spotify.com/track/1NU1H9woXBAeu31yHSrw6u) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [Dulce Pa' Mí](https://open.spotify.com/album/4sb1Sjex902EaMNRHvY5eO) | 2:33 | 2022-01-01 | 2022-06-30 |
 | [Durmiendo](https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Tierra](https://open.spotify.com/album/32J5NblDzVXpvTMuEFtyUA) | 3:24 | 2025-01-17 | 2025-03-01 |
 | [Duro De Verdad pt.2](https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Duro De Verdad pt.2](https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA) | 3:24 | 2024-09-13 | 2024-11-30 |
-| [DÍMELO](https://open.spotify.com/track/74FIdCJ0gLSt9k2WGEOGNV) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP) | [DÍMELO](https://open.spotify.com/album/1GBJQnxxCwzEZyrQzh77Xz) | 2:52 | 2025-02-21 |  |
+| [DÍMELO](https://open.spotify.com/track/74FIdCJ0gLSt9k2WGEOGNV) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP) | [DÍMELO](https://open.spotify.com/album/1GBJQnxxCwzEZyrQzh77Xz) | 2:52 | 2025-02-21 | 2025-03-06 |
 | [Echar de Menos](https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Echar de Menos](https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv) | 3:45 | 2025-02-14 |  |
 | [EGOÍSTA](https://open.spotify.com/track/5LMfmkEjc926jnu45GLJj4) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [EGOÍSTA](https://open.spotify.com/album/1bIEDgIs61l1UPgKkD0l1R) | 2:59 | 2024-11-08 | 2025-01-18 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2023-08-18 | 2024-04-06 |
@@ -337,6 +337,7 @@
 | [Mas Que Un Beso](https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Mas Que Un Beso](https://open.spotify.com/album/5mbratbbD9yQhmza0RSEvc) | 3:36 | 2025-02-28 |  |
 | [Matame De A Poquito](https://open.spotify.com/track/3Gmjg057K7kXdvfIZeppRU) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Matame De A Poquito](https://open.spotify.com/album/3hhmrguTHDtmMhnM9HcTwV) | 3:49 | 2024-11-22 | 2025-02-08 |
 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/2jqmRUKoapLfY0zZmSwrZB) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Me Bebí Tu Recuerdo](https://open.spotify.com/album/6I5ClG7uNBguIeRRAkwLtW) | 3:28 | 2024-05-24 | 2024-08-17 |
+| [Me Dediqué A Perderte](https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP), [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av) | [Me Dedique A Perderte](https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs) | 2:47 | 2025-03-05 |  |
 | [Me Descontrola](https://open.spotify.com/track/34flp1Hbl6EkI6fudYKiHS) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj) | [Me Descontrola](https://open.spotify.com/album/7FfIvgPFJev0jREmXDbzvP) | 3:36 | 2022-04-29 | 2023-01-29 |
 | [Me Enamore de Ti, y Que?](https://open.spotify.com/track/6egUo2ex5rvY4TBa5TGpMd) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Me Enamore de Ti, y Que?](https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg) | 2:48 | 2025-01-10 |  |
 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 | 2023-04-21 | 2024-03-23 |

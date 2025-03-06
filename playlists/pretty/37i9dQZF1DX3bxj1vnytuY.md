@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,757 likes - 103 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,783 likes - 103 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 1 | [Laafou](https://open.spotify.com/track/1eV5jfwEewKpHvO1Ibwynw) | [AMVN](https://open.spotify.com/artist/4nDJfFElE4q7W8IECKScTE), [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [Abdellah Stitou](https://open.spotify.com/artist/63SrIY9ixkSjv6CDjqkJaK) | [Majaneen](https://open.spotify.com/album/6gjy3sPkf1sLmZml7XMFa2) | 6:21 |
 | 2 | [King Gnawa](https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Tariq Hmitti](https://open.spotify.com/artist/4VfCms8XPx6e5diHuVrRaH) | [King Gnawa](https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl) | 3:22 |
-| 3 | [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 |
-| 4 | [Madi](https://open.spotify.com/track/1NewzjB93jvqy1YEXlZBg6) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Blaq Samurai](https://open.spotify.com/artist/3W3hsSe7ziFLuXtCtXOnhO) | [Madi](https://open.spotify.com/album/6542q8TjKwKSZujJN1oEd4) | 6:35 |
-| 5 | [Let You Down](https://open.spotify.com/track/1IGhDr7eVFIiixsbpIl1Pe) | [Makemba](https://open.spotify.com/artist/0ZzJ4DRXdgRqxoPsV9rIx4), [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y), [Mosii](https://open.spotify.com/artist/30cqa2CuqgbfqOXWCRS3Hz) | [Let You Down](https://open.spotify.com/album/6EKCaSR26yaS33GkVxBlCw) | 2:40 |
-| 6 | [Laafou](https://open.spotify.com/track/1eV5jfwEewKpHvO1Ibwynw) | [AMVN](https://open.spotify.com/artist/4nDJfFElE4q7W8IECKScTE), [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [Abdellah Stitou](https://open.spotify.com/artist/63SrIY9ixkSjv6CDjqkJaK) | [Majaneen](https://open.spotify.com/album/6gjy3sPkf1sLmZml7XMFa2) | 6:21 |
+| 3 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 4 | [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 |
+| 5 | [Madi](https://open.spotify.com/track/1NewzjB93jvqy1YEXlZBg6) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Blaq Samurai](https://open.spotify.com/artist/3W3hsSe7ziFLuXtCtXOnhO) | [Madi](https://open.spotify.com/album/6542q8TjKwKSZujJN1oEd4) | 6:35 |
+| 6 | [Let You Down](https://open.spotify.com/track/1IGhDr7eVFIiixsbpIl1Pe) | [Makemba](https://open.spotify.com/artist/0ZzJ4DRXdgRqxoPsV9rIx4), [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y), [Mosii](https://open.spotify.com/artist/30cqa2CuqgbfqOXWCRS3Hz) | [Let You Down](https://open.spotify.com/album/6EKCaSR26yaS33GkVxBlCw) | 2:40 |
 | 7 | [Feel Good](https://open.spotify.com/track/39oL5jhAS61DRY3szh9qrG) | [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y), [Mosii](https://open.spotify.com/artist/30cqa2CuqgbfqOXWCRS3Hz) | [Feel Good](https://open.spotify.com/album/4LZwueq8Uvb3MkEGAph37S) | 2:29 |
 | 8 | [Khuluma](https://open.spotify.com/track/0SYdObjxkqX2kzrYqbC0Yx) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q), [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Khuluma](https://open.spotify.com/album/51YuQukYsxQaPF638pgdLR) | 5:58 |
 | 9 | [Majnuna](https://open.spotify.com/track/0vRJHjSohvyNnhSQ3HI1Sl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Randoree](https://open.spotify.com/artist/7Arbq4rNJORXYyGHv9ujPa) | [Majnuna](https://open.spotify.com/album/74GnYkFWUuQkU7C6Mkbi0d) | 1:38 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 102 | [Ajarif](https://open.spotify.com/track/5uDvwQ9dTcGVucH5q8ngsw) | [Stranger Souma](https://open.spotify.com/artist/7FkbbDfyJiSCenRToRKbBp), [Nukad](https://open.spotify.com/artist/2UWbjvhLv8mZjANlA2ACs9) | [Ajarif](https://open.spotify.com/album/2J2obyZsyURopJhdmWT253) | 6:05 |
 | 103 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [eL\-Jay](https://open.spotify.com/artist/3AdQcvHPUsbnXLvuCFtjZE), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 |
 
-Snapshot ID: `Z7eD1AAAAADsJiwp8SdzmHSLnzYqvhH2`
+Snapshot ID: `Z8geUAAAAACl9R41j5Y1EMLT7p6pLZmU`

@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Paris Paloma",
-  "num_followers": 307489,
+  "num_followers": 307544,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "House Of The Rising Sun",
-      "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Projections",
-        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 149422,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
         "name": "Mercy Now",
         "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
       },
@@ -459,6 +443,30 @@
       "duration_ms": 350560,
       "name": "Mercy Now",
       "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
+        "name": "Rain On Sunday",
+        "url": "https://open.spotify.com/album/2VGzHqnVWTiMlKfnCoXU0U"
+      },
+      "artists": [
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "If Ever (with Jack Johnson & Ben Harper)",
+      "url": "https://open.spotify.com/track/3lQY1TrOzBKG9c83ALIX77"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -523,26 +531,18 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Rain On Sunday",
-        "url": "https://open.spotify.com/album/2VGzHqnVWTiMlKfnCoXU0U"
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
       "artists": [
         {
-          "name": "Paula Fuga",
-          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 215093,
-      "name": "If Ever (with Jack Johnson & Ben Harper)",
-      "url": "https://open.spotify.com/track/3lQY1TrOzBKG9c83ALIX77"
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/2bxcJhoKxnmm8qiNtUCa75"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/12HfxXiDIpdYiD1h2AqHCX"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
         "name": "Old Time Feeling",
         "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Judith",
-        "url": "https://open.spotify.com/album/2P9EqaNiGfiYweANVtt0Ry"
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/2bxcJhoKxnmm8qiNtUCa75"
       },
       "artists": [
         {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Send in the Clowns",
-      "url": "https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG"
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/12HfxXiDIpdYiD1h2AqHCX"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -643,6 +627,22 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
+        "name": "Judith",
+        "url": "https://open.spotify.com/album/2P9EqaNiGfiYweANVtt0Ry"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Send in the Clowns",
+      "url": "https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
         "name": "Puxico",
         "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 139333,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
         "name": "Quiet the Room",
         "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 225154,
       "name": "Whatever Fits Together",
       "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
+        "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 139333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "If I Told",
-      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
         "name": "Motel Bouquet",
         "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 184787,
       "name": "Motel",
       "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "If I Told",
+      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
         "name": "Other Voices, Other Rooms",
         "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 259917,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
+        "name": "Highway 101, Vol. 2",
+        "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
+      },
+      "artists": [
+        {
+          "name": "Highway 101",
+          "url": "https://open.spotify.com/artist/0yXAvxrEkI26bKj0o4yyou"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "(Do You Love Me) Just Say Yes",
+      "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -1519,38 +1535,6 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 184558,
-      "name": "Jeremiah",
-      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
-        "name": "Highway 101, Vol. 2",
-        "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
-      },
-      "artists": [
-        {
-          "name": "Highway 101",
-          "url": "https://open.spotify.com/artist/0yXAvxrEkI26bKj0o4yyou"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "(Do You Love Me) Just Say Yes",
-      "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 184558,
+      "name": "Jeremiah",
+      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Paradise Hotel",
-        "url": "https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa"
-      },
-      "artists": [
-        {
-          "name": "Eliza Gilkyson",
-          "url": "https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG"
-        }
-      ],
-      "duration_ms": 349413,
-      "name": "Is It Like Today",
-      "url": "https://open.spotify.com/track/09DewAwnhcRWoN0VOEB8u4"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
         "name": "Time And Love: The Essential Masters",
         "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 227000,
       "name": "Stoned Soul Picnic",
       "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
+        "name": "Paradise Hotel",
+        "url": "https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa"
+      },
+      "artists": [
+        {
+          "name": "Eliza Gilkyson",
+          "url": "https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG"
+        }
+      ],
+      "duration_ms": 349413,
+      "name": "Is It Like Today",
+      "url": "https://open.spotify.com/track/09DewAwnhcRWoN0VOEB8u4"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -1791,6 +1791,58 @@
       "duration_ms": 209546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
+        "name": "Our Problem",
+        "url": "https://open.spotify.com/album/4PgHxgeoL6DcrCEXPKiw2P"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        },
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        },
+        {
+          "name": "Linda Perry",
+          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
+        },
+        {
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+        },
+        {
+          "name": "Nona Hendryx",
+          "url": "https://open.spotify.com/artist/5pTDagkiVMJC5DJtSAdbXg"
+        },
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 225186,
+      "name": "Our Problem",
+      "url": "https://open.spotify.com/track/3ftHWoelVf9VdGx0xYpu1e"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -1847,6 +1899,22 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
         "name": "Kate & Anna McGarrigle",
         "url": "https://open.spotify.com/album/4PtJUyTpyy4pkiNsPYfW0J"
       },
@@ -1891,74 +1959,6 @@
       "duration_ms": 313405,
       "name": "Heads Gonna Roll",
       "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
-        "name": "Do You See The Light Around Me?",
-        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 204034,
-      "name": "Do You See The Light Around Me?",
-      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
-        "name": "Our Problem",
-        "url": "https://open.spotify.com/album/4PgHxgeoL6DcrCEXPKiw2P"
-      },
-      "artists": [
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        },
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        },
-        {
-          "name": "Linda Perry",
-          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
-        },
-        {
-          "name": "Morgane Stapleton",
-          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
-        },
-        {
-          "name": "Nona Hendryx",
-          "url": "https://open.spotify.com/artist/5pTDagkiVMJC5DJtSAdbXg"
-        },
-        {
-          "name": "Peaches",
-          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 225186,
-      "name": "Our Problem",
-      "url": "https://open.spotify.com/track/3ftHWoelVf9VdGx0xYpu1e"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "Clotho's Web",
-        "url": "https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd"
-      },
-      "artists": [
-        {
-          "name": "Julie Felix",
-          "url": "https://open.spotify.com/artist/7jqjvT22ycFRTQD0lI6Vi8"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "Fire, Water, Earth And Air",
-      "url": "https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
         "name": "Distance and Time",
         "url": "https://open.spotify.com/album/797UYpfApMa598iaCNnSP5"
       },
@@ -2507,18 +2491,18 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+        "name": "Clotho's Web",
+        "url": "https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd"
       },
       "artists": [
         {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+          "name": "Julie Felix",
+          "url": "https://open.spotify.com/artist/7jqjvT22ycFRTQD0lI6Vi8"
         }
       ],
-      "duration_ms": 187893,
-      "name": "Till the Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
+      "duration_ms": 186320,
+      "name": "Fire, Water, Earth And Air",
+      "url": "https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -2539,6 +2523,22 @@
     {
       "added_at": "2025-02-28 21:01:14",
       "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Till the Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
         "name": "Between the Dirt and the Stars",
         "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
       },
@@ -2551,6 +2551,22 @@
       "duration_ms": 463133,
       "name": "Between the Dirt and the Stars",
       "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
+    },
+    {
+      "added_at": "2025-02-28 21:01:14",
+      "album": {
+        "name": "Singing The Traditional Songs Of Her Kentucky Mountain Family",
+        "url": "https://open.spotify.com/album/61V1HdEA3F24DmZIyry7MW"
+      },
+      "artists": [
+        {
+          "name": "Jean Ritchie",
+          "url": "https://open.spotify.com/artist/7cWhIVoEYJd0oWnxULFt8s"
+        }
+      ],
+      "duration_ms": 136733,
+      "name": "Black Is the Color",
+      "url": "https://open.spotify.com/track/7hdVMPuU0ur50wAW9uGZD5"
     },
     {
       "added_at": "2025-02-28 21:01:14",
@@ -2575,22 +2591,6 @@
       "duration_ms": 177802,
       "name": "Atomic Number",
       "url": "https://open.spotify.com/track/36BvxxHlY6JPjmvbp43CMc"
-    },
-    {
-      "added_at": "2025-02-28 21:01:14",
-      "album": {
-        "name": "Singing The Traditional Songs Of Her Kentucky Mountain Family",
-        "url": "https://open.spotify.com/album/61V1HdEA3F24DmZIyry7MW"
-      },
-      "artists": [
-        {
-          "name": "Jean Ritchie",
-          "url": "https://open.spotify.com/artist/7cWhIVoEYJd0oWnxULFt8s"
-        }
-      ],
-      "duration_ms": 136733,
-      "name": "Black Is the Color",
-      "url": "https://open.spotify.com/track/7hdVMPuU0ur50wAW9uGZD5"
     }
   ],
   "unique_name": "Women of Folk",

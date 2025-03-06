@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,359 songs - 6 day 22 hr 7 min
+4,360 songs - 6 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1285,7 +1285,7 @@
 | [Fluff](https://open.spotify.com/track/54LKiXE5UIdFzDgKsbLacL) | [Hanses](https://open.spotify.com/artist/6wwQjgTWrlZBFU4PcloxaR), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fluff](https://open.spotify.com/album/7qnaVlVTffLYXPSaQzLkiB) | 1:53 | 2023-08-17 |  |
 | [Flurry](https://open.spotify.com/track/57B3pq1OnMyAgpPP4iwVq8) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Flurry](https://open.spotify.com/album/6d2Ndd53OQc96RLZsQEuPI) | 2:00 | 2025-01-06 |  |
 | [Flushing the Stairs](https://open.spotify.com/track/16lFjZrnMZmW9wU44yexlY) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Flushing the Stairs](https://open.spotify.com/album/4cBSnTytjdcnDt8QvpwSmt) | 2:52 | 2020-11-06 | 2021-01-04 |
-| [Flutes And Guitars](https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Flutes And Guitars](https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq) | 1:36 | 2023-06-01 |  |
+| [Flutes And Guitars](https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Flutes And Guitars](https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq) | 1:36 | 2023-06-01 | 2025-03-06 |
 | [fluttr](https://open.spotify.com/track/3tys93mrUZQSpGUM2H7U3Q) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [fluttr](https://open.spotify.com/album/0FEZp9tj02g0YUJA9qYiSA) | 1:54 | 2022-01-20 | 2022-02-18 |
 | [Fly Out](https://open.spotify.com/track/7x36vjH0FIl4W1cCKFcg91) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Fly Out](https://open.spotify.com/album/1u4IthfRjpdZ5TW3N6EWIc) | 1:55 | 2024-02-22 |  |
 | [Fly Shit 2](https://open.spotify.com/track/253gLNG4TlHxP5Tgal2vzR) | [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Fly Shit 2](https://open.spotify.com/album/7shx3fdkpfpOqmgtssqu5I) | 4:03 | 2021-06-02 | 2021-07-16 |
@@ -2854,6 +2854,7 @@
 | [Pebble Beach](https://open.spotify.com/track/5GtP1SxELD0Qw6v1DIUF94) | [imagiro](https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb) | [Pebble Beach](https://open.spotify.com/album/6bEYW7GmSX2RsPvvyC2HOo) | 2:08 | 2020-03-13 | 2020-05-25 |
 | [Pelekas](https://open.spotify.com/track/1GS4cVWVcE2mYUfT807H74) | [Portaledge](https://open.spotify.com/artist/703AVVIX6VeNMQbXJu4UVh) | [Pelekas](https://open.spotify.com/album/1h71qhhO9fZcfza8Fmu4MX) | 2:01 | 2020-11-07 | 2021-02-06 |
 | [Pelosa Beach](https://open.spotify.com/track/0Zz0Ue15udWtJN9RIAhLha) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Pelosa Beach](https://open.spotify.com/album/1wemWaNIsVWPyeGG3Jseyl) | 2:28 | 2023-05-25 | 2023-06-02 |
+| [Pena Ventosa](https://open.spotify.com/track/6D3WXcKOTG6ouNQ2cniMBe) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Pena Ventosa](https://open.spotify.com/album/2KmsJpxaHoPIHdJjASbPvA) | 1:48 | 2025-03-04 |  |
 | [Pendulum](https://open.spotify.com/track/5XfGPtiNkoPkeK00QTEHCb) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Pendulum](https://open.spotify.com/album/0c6GZXLOQNRRfoJSCraLwc) | 2:13 | 2022-03-24 | 2022-05-27 |
 | [Peninsula](https://open.spotify.com/track/5Lpz9sOJdEkH4EUt7iECvd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [Daoti](https://open.spotify.com/artist/0XLvC5dprQ3rL0W0xIIaBn) | [Peninsula](https://open.spotify.com/album/0Tgov7je4sbWGY5hfXHnNc) | 1:50 | 2024-05-09 | 2024-05-15 |
 | [Pennies](https://open.spotify.com/track/6AXC881cTIHH1nfdxJqOx5) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [Pennies](https://open.spotify.com/album/5uA7E5lPHOyRuV3fqONgWF) | 1:55 | 2023-11-23 | 2024-11-26 |

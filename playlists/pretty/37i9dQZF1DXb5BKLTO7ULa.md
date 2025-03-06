@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,851 likes - 102 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,888 likes - 102 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 101 | [Zieke Wereld](https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Zieke Wereld](https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p) | 3:04 |
 | 102 | [Kortsluiting](https://open.spotify.com/track/3DVkC1LJWOqhASkgLkZbiF) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Kortsluiting](https://open.spotify.com/album/1a8DptCfw6cfeBLHuchV39) | 2:33 |
 
-Snapshot ID: `Z8GEQwAAAADrjoLgCpavEtcr73KaQhmU`
+Snapshot ID: `Z8GEQwAAAABawDjWA4+7mPSbQcdWjqrQ`

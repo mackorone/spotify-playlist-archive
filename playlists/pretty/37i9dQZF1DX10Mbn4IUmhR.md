@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > All the South African and global Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET?si=Nglwd\_NgS3e0QLpK6iT40A">Benson Boone</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,772 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,776 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3915,6 +3915,32 @@
     },
     {
       "album": {
+        "name": "Kaledu Hode Nannali",
+        "url": "https://open.spotify.com/album/4P9IGbUta2mbtLDwxBIsKR"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Ramya Bhat Abhyankar",
+          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323666,
+      "name": "Kaledu Hode Nannali",
+      "url": "https://open.spotify.com/track/5Tvh0OcPJfmn19sFZmm0Ai"
+    },
+    {
+      "album": {
         "name": "Kalitha Hudugi 2.0",
         "url": "https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU"
       },
@@ -8118,7 +8144,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 212363,
       "name": "Raja Roja",
       "url": "https://open.spotify.com/track/1YqhW4XfAQPJPwusKxQ7zf"

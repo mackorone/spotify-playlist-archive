@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,501 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,489 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 16 | [Como Dolía](https://open.spotify.com/track/4pSZZyzj7HLZ9uiQnRAPWE) | [NIA](https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Como Dolía](https://open.spotify.com/album/1WrrrwBHKsHfh8VNVdfy19) | 3:28 |
 | 17 | [LA REINA \- REMIX](https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LA REINA \(REMIX\)](https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv) | 3:25 |
 | 18 | [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 |
-| 19 | [Eres Tú](https://open.spotify.com/track/3nYfMTU4zzOQ3pigBUBrOh) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Eres Tú](https://open.spotify.com/album/0cryIF1gpJvEQeTNrQo6OQ) | 3:01 |
-| 20 | [Me Enamore de Ti, y Que?](https://open.spotify.com/track/6egUo2ex5rvY4TBa5TGpMd) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Me Enamore de Ti, y Que?](https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg) | 2:48 |
-| 21 | [Cara de Idiota](https://open.spotify.com/track/2nSi0Nq0eD6MGBDcmMYUdw) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cara de Idiota](https://open.spotify.com/album/01fD6I1VVKV6ZR6UqA7ojE) | 3:11 |
-| 22 | [DÍMELO](https://open.spotify.com/track/74FIdCJ0gLSt9k2WGEOGNV) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP) | [DÍMELO](https://open.spotify.com/album/1GBJQnxxCwzEZyrQzh77Xz) | 2:52 |
+| 19 | [Me Dediqué A Perderte](https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP), [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av) | [Me Dedique A Perderte](https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs) | 2:47 |
+| 20 | [Eres Tú](https://open.spotify.com/track/3nYfMTU4zzOQ3pigBUBrOh) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Eres Tú](https://open.spotify.com/album/0cryIF1gpJvEQeTNrQo6OQ) | 3:01 |
+| 21 | [Me Enamore de Ti, y Que?](https://open.spotify.com/track/6egUo2ex5rvY4TBa5TGpMd) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Me Enamore de Ti, y Que?](https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg) | 2:48 |
+| 22 | [Cara de Idiota](https://open.spotify.com/track/2nSi0Nq0eD6MGBDcmMYUdw) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cara de Idiota](https://open.spotify.com/album/01fD6I1VVKV6ZR6UqA7ojE) | 3:11 |
 | 23 | [Era para Siempre \- Versión Salsa](https://open.spotify.com/track/1jK86Rru97CbtLLRNsbcIz) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Era para Siempre \(Versión Salsa\)](https://open.spotify.com/album/67avoNrlhKsvgLVe90hnRg) | 3:06 |
 | 24 | [Sin Mi Quieres Volar](https://open.spotify.com/track/6Za4aOIBNRQoxYfIO2GX4c) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Sin Mi Quieres Volar](https://open.spotify.com/album/7FrjGEAoTW6ovIdqrxgPCK) | 3:19 |
 | 25 | [Caramelito](https://open.spotify.com/track/4DdJeIO0yQAMyTSmAPJG1U) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Caramelito](https://open.spotify.com/album/3mvPvS0vAhJcz25jTSAsxK) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 49 | [Señor Marido](https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Señor Marido](https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe) | 3:27 |
 | 50 | [MONTECARLO](https://open.spotify.com/track/0I0EAJKaGTSxdfMJhZqus7) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MONTECARLO](https://open.spotify.com/album/2iPfnIv70XYMxlJdZr8mpZ) | 2:51 |
 
-Snapshot ID: `Z8FC/gAAAADeTD/raHRZdmGhdIpgs1zx`
+Snapshot ID: `Z8e33AAAAADyiPSanBWMZPoqZ0pkOcF8`

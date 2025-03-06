@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: ADELA
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,321 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,486 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 49 | [Could You Love Me?](https://open.spotify.com/track/0hBGzwzgTL5BhHRJhlogFN) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Could You Love Me?](https://open.spotify.com/album/3x2NJ3esVtSF788RLMeyYZ) | 3:57 |
 | 50 | [Losing You](https://open.spotify.com/track/6lTzBBYnmhACfwVZERWmYV) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Losing You](https://open.spotify.com/album/2NjmOaHVZsiCQZbnaNvmaR) | 2:51 |
 | 51 | [Don't Take The Night](https://open.spotify.com/track/7sWnUG7lH6vjFiJlrFH8EA) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Don't Take The Night](https://open.spotify.com/album/04Ss9muqWdaSGvYBCWvEoA) | 3:49 |
-| 52 | [LALALove](https://open.spotify.com/track/31Fqwz0E7NMUGNMxLDUd2H) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [LALALove](https://open.spotify.com/album/1jmvNKzUhAldX3oxxChVKr) | 2:33 |
+| 52 | [LALALove](https://open.spotify.com/track/31Fqwz0E7NMUGNMxLDUd2H) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Kyle Exum](https://open.spotify.com/artist/6EYpuJIDJshhN4CHCg43te) | [LALALove](https://open.spotify.com/album/1jmvNKzUhAldX3oxxChVKr) | 2:33 |
 | 53 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 |
 | 54 | [Famous](https://open.spotify.com/track/0cz6qSzkir8nTisZHqcZ32) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Famous](https://open.spotify.com/album/2t9SayRbAQdMAEsBTbqsf3) | 2:43 |
 | 55 | [happy place](https://open.spotify.com/track/3WexcBAuTg6p1XkaUqb3Td) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [happy place](https://open.spotify.com/album/3AVrDEyYGkcf6txru4yDKZ) | 3:31 |

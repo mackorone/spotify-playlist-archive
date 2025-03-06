@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,013 likes - 50 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,026 likes - 50 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 20 | [Raga Bhinna Kauns \- Alap](https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Masterpiece \- Raga Bhinna Kauns](https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn) | 9:48 |
 | 21 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
 | 22 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
-| 23 | [Jugalbandi in Teen Taal](https://open.spotify.com/track/6KsPQBR6qHXn60g6VDP6Oi) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Together](https://open.spotify.com/album/0Gjp6bjN1furRn7bHAIsdi) | 15:47 |
-| 24 | [Raga Gauti](https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 10:55 |
-| 25 | [Raga Bhimpalasi \- Gat in Rupak Tala](https://open.spotify.com/track/4q5mY8KfJJNhJMIHzrPQd2) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Aditya Kalyanpur](https://open.spotify.com/artist/0dtEnezEiqvUrVCYxoniSZ) | [Melodies at Dusk](https://open.spotify.com/album/4w3dYv2g2MWQxNjaHXs69S) | 13:54 |
-| 26 | [Raga Shudh Nat](https://open.spotify.com/track/1owwIPlqMsGKfmtJjop4s5) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Inimitable \- Sarod Grand Master Amjad Ali Khan](https://open.spotify.com/album/3ubZAS4OlUMDO0VgtQiDdb) | 7:10 |
+| 23 | [Raga Gauti](https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 10:55 |
+| 24 | [Jugalbandi in Teen Taal](https://open.spotify.com/track/6KsPQBR6qHXn60g6VDP6Oi) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Together](https://open.spotify.com/album/0Gjp6bjN1furRn7bHAIsdi) | 15:47 |
+| 25 | [Raga Shudh Nat](https://open.spotify.com/track/1owwIPlqMsGKfmtJjop4s5) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Inimitable \- Sarod Grand Master Amjad Ali Khan](https://open.spotify.com/album/3ubZAS4OlUMDO0VgtQiDdb) | 7:10 |
+| 26 | [Raga Bhimpalasi \- Gat in Rupak Tala](https://open.spotify.com/track/4q5mY8KfJJNhJMIHzrPQd2) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Aditya Kalyanpur](https://open.spotify.com/artist/0dtEnezEiqvUrVCYxoniSZ) | [Melodies at Dusk](https://open.spotify.com/album/4w3dYv2g2MWQxNjaHXs69S) | 13:54 |
 | 27 | [Raga Hansadhwani](https://open.spotify.com/track/2w0uDN6Md0sDw3Tt44d1PY) | [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Maestro's Choice](https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y) | 14:40 |
 | 28 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
 | 29 | [Raga Mishra Khamal: Thumri in Teentaal](https://open.spotify.com/track/6jli7CztvkqT31IxYGtHPe) | [Ram Narayan](https://open.spotify.com/artist/1PLrw4LgEWD2tFlAfnCWND), [Dilshad Khan](https://open.spotify.com/artist/2MGldsFMFcnboBIAD1okNS), [Anita Narayan](https://open.spotify.com/artist/5d8UIfE4DtivsTxqjNn1K9) | [Pt\. Ram Narayan: Sarangee Wadan](https://open.spotify.com/album/73xpfGlBt3y7UHe0YKPLI1) | 9:45 |

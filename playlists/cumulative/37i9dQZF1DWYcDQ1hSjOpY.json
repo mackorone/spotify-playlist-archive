@@ -5723,6 +5723,24 @@
     },
     {
       "album": {
+        "name": "Finding Balance",
+        "url": "https://open.spotify.com/album/0MTMQIvAHPe87bnBhw9e9p"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Finding Balance",
+      "url": "https://open.spotify.com/track/6EYLhFMwnBecOODOAYMIih"
+    },
+    {
+      "album": {
         "name": "Beautiful Morning",
         "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
       },
@@ -8852,7 +8870,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 198000,
       "name": "Marbre D\u2019aube",
       "url": "https://open.spotify.com/track/4xOArpiZ0N1UC6sRAwbNtE"
@@ -9288,6 +9306,24 @@
       "duration_ms": 175000,
       "name": "Moondown",
       "url": "https://open.spotify.com/track/4ezAcgXr3UiaHccxZg08cV"
+    },
+    {
+      "album": {
+        "name": "Moonfall",
+        "url": "https://open.spotify.com/album/4I5C4VKpPud2UmJtASvzhb"
+      },
+      "artists": [
+        {
+          "name": "Arctilok",
+          "url": "https://open.spotify.com/artist/40mS9P51UfvhIamB24wx91"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Moonfall",
+      "url": "https://open.spotify.com/track/154KMkoBQoKXMm8VMueBvq"
     },
     {
       "album": {
@@ -13248,6 +13284,24 @@
       "duration_ms": 136022,
       "name": "Softly",
       "url": "https://open.spotify.com/track/21qtqBROcwDDNJD8ppAuwB"
+    },
+    {
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/4MJ0KxMk6rpyQwF7AT0ERr"
+      },
+      "artists": [
+        {
+          "name": "Ephermal Nights",
+          "url": "https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190535,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/4fEfd6uQYMk8D54SkioTTi"
     },
     {
       "album": {

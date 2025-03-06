@@ -4,7 +4,7 @@
 
 > 
 
-231 songs - 15 hr 39 min
+232 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 | 2017-01-25 |  |
 | [Sing to You](https://open.spotify.com/track/02PT20DulS4wVbekDl4zhk) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Sing to You](https://open.spotify.com/album/4wKAlqNlbAguVd6R2VOGGT) | 2:33 | 2019-05-09 |  |
 | [Snowblind \(feat\. Tasha Baxter\)](https://open.spotify.com/track/2ytAuyv7c30bvVyZl2Ki5r) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Snowblind \(feat\. Tasha Baxter\)](https://open.spotify.com/album/6Qtx9UvZN8kZdNtc3E3A0f) | 5:47 | 2018-02-21 |  |
+| [Soft Spot](https://open.spotify.com/track/5aoaku54XYpazH18i9bUXp) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/4e950bADADtSJ7JI5QxDh8) | 4:22 | 2025-03-05 |  |
 | [Someone \- The Prototypes Remix](https://open.spotify.com/track/0wfplXvoyb8vY4MjFw0pDz) | [Someone \(Feat\. Mclean\)](https://open.spotify.com/artist/606NobRCnZyp7gwy8bStHT), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [McLean](https://open.spotify.com/artist/4u4unPAmNsYPO7rtYgWeaz) | [Someone EP](https://open.spotify.com/album/4KUe6EEQlzIwz7SigCh96s) | 4:18 | 2018-01-31 |  |
 | [Sometimes](https://open.spotify.com/track/04K7w24hGPhcIuZMyS3xg8) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/7hDMgGXdy0x8hDbtOHIS5j) | 4:19 | 2024-04-26 |  |
 | [Spirit of Life](https://open.spotify.com/track/6eRPYyh1EPRqDhgb3Nardw) | [Blackmill](https://open.spotify.com/artist/08A9f7wRecEKFGN2PoylTl) | [Miracle](https://open.spotify.com/album/2ayhUoOppwZ5paYiXTRqqa) | 6:15 | 2016-01-14 |  |

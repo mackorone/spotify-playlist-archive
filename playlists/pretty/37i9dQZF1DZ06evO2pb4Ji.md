@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,421 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,417 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 51 | [Rebel Heart \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3bpkjtiwxCmEFIHkuNf3Oc) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Rebel Heart \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7o5vPpHkPBYyjmZY57HgVg) | 2:51 |
 | 52 | [Piercing Light](https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8) | 4:51 |
 
-Snapshot ID: `Z8TxAAAAAADqXG12wDpDNAb1JgYrGysu`
+Snapshot ID: `Z8ZCgAAAAAD0n+5WiZYfQBncLQNA0B4e`

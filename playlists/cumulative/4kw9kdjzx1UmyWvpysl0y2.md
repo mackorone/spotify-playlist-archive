@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-930 songs - 2 day 4 hr 39 min
+931 songs - 2 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Concentrate](https://open.spotify.com/track/1BdMg9VF7SHE9LfyrHVqzZ) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Magnetic](https://open.spotify.com/album/5WbsiwMrYMBtkAc9dUTAzB) | 3:39 | 2024-05-03 | 2024-07-25 |
 | [Crashing](https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Crashing](https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC) | 3:56 | 2023-05-17 | 2023-08-10 |
 | [Crashing Hard](https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crashing Hard](https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i) | 3:37 | 2023-11-09 | 2024-02-22 |
+| [Crazy](https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Crazy](https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE) | 3:26 | 2025-03-05 |  |
 | [CREATION OF DISGUST](https://open.spotify.com/track/12Ekt7NiSWR0CJWIgVK37m) | [Avance](https://open.spotify.com/artist/7jIewPOjOwffB1mcJIk4vP), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [CREATION OF DISGUST](https://open.spotify.com/album/0KLFcQSTmJH4V1UWSkue2b) | 3:21 | 2024-03-25 | 2024-06-11 |
 | [Crisis](https://open.spotify.com/track/5dqSozImkn085i3ljNKVLH) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp), [Hailure](https://open.spotify.com/artist/1CVix4Yg8Q2o8YCFGNQUrn) | [Crisis / Magazine](https://open.spotify.com/album/3OssBn9F6T2VSaCjZ150lv) | 3:13 | 2024-07-11 | 2024-10-04 |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |

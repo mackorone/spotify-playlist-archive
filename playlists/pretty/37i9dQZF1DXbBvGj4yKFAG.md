@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,933 likes - 130 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,964 likes - 130 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 17 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 |
 | 18 | [lover's spit plays in the background](https://open.spotify.com/track/3FeEyEmOP3MjmlRkaOGKMo) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [sentiment](https://open.spotify.com/album/7wY1x2M7Nq7hpnwliqmwDU) | 4:02 |
 | 19 | [i miss your warm hands](https://open.spotify.com/track/5Mu5BFHb4vFS5cw0hbDICV) | [i don't like mirrors](https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld) | [Not How it's Supposed to be](https://open.spotify.com/album/36tFrKEi71NmEQP8QCnZ4q) | 2:11 |
-| 20 | [sky \- demo](https://open.spotify.com/track/0I1z4sDLVZsNMcwu0M7FQH) | [Blood Estate](https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF) | [Rarities](https://open.spotify.com/album/3xYPAeV0hTyrrWQUDU8NoF) | 2:11 |
+| 20 | [sky \- demo](https://open.spotify.com/track/0I1z4sDLVZsNMcwu0M7FQH) | [Blood Estate](https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF), [Stages Of Grief](https://open.spotify.com/artist/40sfn8oXO5ptn9ktivtJ7V) | [Rarities](https://open.spotify.com/album/3xYPAeV0hTyrrWQUDU8NoF) | 2:11 |
 | 21 | [unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [unknown feelings](https://open.spotify.com/album/48QTn6JIitxayNxApxcopg) | 2:14 |
 | 22 | [Advice](https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:37 |
 | 23 | [i saw a flying saucer](https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY) | [Bluey](https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI), [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i saw a flying saucer](https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp) | 2:49 |

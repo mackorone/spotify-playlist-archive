@@ -6,26 +6,50 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8QyYgAAAABA5NycSgQrqfvcrItP8fu0",
+  "snapshot_id": "Z8g+EwAAAAC+0iGaRI6HpjdxUqNsFocN",
   "tracks": [
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+        "name": "Call Me When You Break Up (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 185940,
+      "name": "Pavement",
+      "url": "https://open.spotify.com/track/05NOojSHkMcdUpAk01vd0r"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
       "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
@@ -41,87 +65,39 @@
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 161757,
-      "name": "Talk talk",
-      "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
+      "duration_ms": 194206,
+      "name": "You're On Your Own, Kid",
+      "url": "https://open.spotify.com/track/7gVWKBcfIW93YxNBi3ApIE"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 226736,
-      "name": "orange show speedway",
-      "url": "https://open.spotify.com/track/6Ngps97GnSV17gGxsYX1NZ"
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "Charlie",
-        "url": "https://open.spotify.com/album/3YUPGv1HNS6HuFbUFIsfJY"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/2SonpVAvJS3aOi63oEOTlQ"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
@@ -137,10 +113,42 @@
       "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "Nurture",
-        "url": "https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/4MgryRe2yavUKiCucotL9C"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "I Almost Do (Taylor's Version)",
+      "url": "https://open.spotify.com/track/2r9CbjYgFhtAmcFv1cSquB"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "SMILE! :D",
+        "url": "https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy"
       },
       "artists": [
         {
@@ -148,12 +156,76 @@
           "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
         }
       ],
-      "duration_ms": 238870,
-      "name": "Musician",
-      "url": "https://open.spotify.com/track/6uyltToZgo3MDKhCJ7F8Wc"
+      "duration_ms": 388800,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/3RdUgst4llmyJkVtNaqHGv"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 249494,
+      "name": "Block me out",
+      "url": "https://open.spotify.com/track/1w0o2PLYzpFnnyEnOoD7qX"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 156642,
+      "name": "It's ok I'm ok",
+      "url": "https://open.spotify.com/track/6gBZsUc90myWngMU5VRYp5"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 177780,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/5LeexkAfmyLN5kPBg53SoI"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Good Graces",
+      "url": "https://open.spotify.com/track/5JiTjhx7lhqYgsIGpo0VFy"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
       "album": {
         "name": "character development!",
         "url": "https://open.spotify.com/album/4TGaj1tkay4JD4rPRpx7V3"
@@ -169,7 +241,75 @@
       "url": "https://open.spotify.com/track/4A0RvEpj7ylgLm8TYZ2U7S"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 143940,
+      "name": "run for the hills",
+      "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 154126,
+      "name": "Sympathy is a knife featuring ariana grande",
+      "url": "https://open.spotify.com/track/0il9ELJDirmF299OiChNHi"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
       "album": {
         "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
@@ -189,58 +329,46 @@
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "Attempted Lover",
-        "url": "https://open.spotify.com/album/1PtRIyLbXFu9B06kuKuve0"
+        "name": "How Long Do You Think It's Gonna Last?",
+        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 141290,
-      "name": "Bathroom Floor",
-      "url": "https://open.spotify.com/track/2DBFVKVUDuENzWOFem8ibd"
+      "duration_ms": 254466,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "Nurture",
-        "url": "https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM"
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
       "artists": [
         {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 281974,
-      "name": "Something Comforting",
-      "url": "https://open.spotify.com/track/5g7bsxCqNaucnXpexUoHg8"
+      "duration_ms": 267653,
+      "name": "The Story Of Us (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6dTA6y0C2ReQklntzZl8l3"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/4MgryRe2yavUKiCucotL9C"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "Light hit my face like a straight right",
-        "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
+        "name": "Charlie",
+        "url": "https://open.spotify.com/album/3YUPGv1HNS6HuFbUFIsfJY"
       },
       "artists": [
         {
@@ -248,12 +376,28 @@
           "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 185940,
-      "name": "Pavement",
-      "url": "https://open.spotify.com/track/05NOojSHkMcdUpAk01vd0r"
+      "duration_ms": 190946,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/2SonpVAvJS3aOi63oEOTlQ"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 226736,
+      "name": "orange show speedway",
+      "url": "https://open.spotify.com/track/6Ngps97GnSV17gGxsYX1NZ"
+    },
+    {
+      "added_at": "2025-03-05 12:05:39",
       "album": {
         "name": "My Vine",
         "url": "https://open.spotify.com/album/4qBisrnVON2gyBr6ZrFnHp"
@@ -269,107 +413,23 @@
       "url": "https://open.spotify.com/track/1N6yLqYILv6h09MUcTIttf"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "SMILE! :D",
-        "url": "https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy"
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
       "artists": [
         {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 388800,
-      "name": "Russian Roulette",
-      "url": "https://open.spotify.com/track/3RdUgst4llmyJkVtNaqHGv"
+      "duration_ms": 185320,
+      "name": "gold rush",
+      "url": "https://open.spotify.com/track/5BK0uqwY9DNfZ630STAEaq"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Pray to God (feat. HAIM)",
-      "url": "https://open.spotify.com/track/75kMrDKPJJpgEQaXVh7QMB"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 240590,
-      "name": "Top 10 staTues tHat CriEd bloOd",
-      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "Psycho Killer",
-        "url": "https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Psycho Killer",
-      "url": "https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 249494,
-      "name": "Block me out",
-      "url": "https://open.spotify.com/track/1w0o2PLYzpFnnyEnOoD7qX"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "SMILE! :D",
-        "url": "https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 237567,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/5iyuwVaMliMdloOzSBxohv"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -380,125 +440,73 @@
           "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 246606,
-      "name": "stay a little longer",
-      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
+      "duration_ms": 166742,
+      "name": "gameboy",
+      "url": "https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "Break My Own",
-        "url": "https://open.spotify.com/album/6yyfRmvcRUtYJbZsbgigvW"
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
       },
       "artists": [
         {
-          "name": "Taylor Bickett",
-          "url": "https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 203654,
-      "name": "Break My Own",
-      "url": "https://open.spotify.com/track/5MRhQ1vAb9JVDbzp0jmmw1"
+      "duration_ms": 133550,
+      "name": "My Darling, My Angel",
+      "url": "https://open.spotify.com/track/1Rq8bZKQGBrHK4YK2htyT1"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
       },
       "artists": [
         {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+      "duration_ms": 198866,
+      "name": "making the bed",
+      "url": "https://open.spotify.com/track/4HOWCLfKRlHhbsCCBsquSE"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/2vVfxcvBQAGnEKM3zM0zxw"
+        "name": "Nurture",
+        "url": "https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM"
       },
       "artists": [
         {
           "name": "Porter Robinson",
           "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        },
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
         }
       ],
-      "duration_ms": 218964,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1"
+      "duration_ms": 238870,
+      "name": "Musician",
+      "url": "https://open.spotify.com/track/6uyltToZgo3MDKhCJ7F8Wc"
     },
     {
-      "added_at": "2025-03-02 10:26:42",
+      "added_at": "2025-03-05 12:05:39",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/5nDy51XGA7HbEMERxHOc48"
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
       },
       "artists": [
         {
-          "name": "Black Taxi",
-          "url": "https://open.spotify.com/artist/2Fj3NrXksGtHlhMvjjVyOI"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 233378,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/7pl30mofobKmI0a8EWzTyI"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "Misericorde",
-        "url": "https://open.spotify.com/album/4NB6I55ySkWuFqgv3WtUJt"
-      },
-      "artists": [
-        {
-          "name": "Tiny Little Houses",
-          "url": "https://open.spotify.com/artist/2DzfwBlRGSLXCXgAKN6EFv"
-        }
-      ],
-      "duration_ms": 235622,
-      "name": "Cold Showers",
-      "url": "https://open.spotify.com/track/6mqt4F7fIbJSrFz0iBQIAE"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 185265,
-      "name": "Good Graces",
-      "url": "https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90"
-    },
-    {
-      "added_at": "2025-03-02 10:26:42",
-      "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 194206,
-      "name": "You're On Your Own, Kid",
-      "url": "https://open.spotify.com/track/7gVWKBcfIW93YxNBi3ApIE"
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
     }
   ],
   "unique_name": "On Repeat",

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Naomi",
-  "num_followers": 43822,
+  "num_followers": 43823,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-02-28 05:00:44",
       "album": {
+        "name": "HERMES",
+        "url": "https://open.spotify.com/album/1StXBGTd2q23LGN6rQdXlE"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 107868,
+      "name": "HERMES",
+      "url": "https://open.spotify.com/track/7DZSBDz3YMRWehPTLE1xOs"
+    },
+    {
+      "added_at": "2025-02-28 05:00:44",
+      "album": {
         "name": "Hockey",
         "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
       },
@@ -551,18 +567,22 @@
     {
       "added_at": "2025-02-28 05:00:44",
       "album": {
-        "name": "HERMES",
-        "url": "https://open.spotify.com/album/1StXBGTd2q23LGN6rQdXlE"
+        "name": "High & Fines Herbes - La Saison 5",
+        "url": "https://open.spotify.com/album/3h6Wf4FMHgjIJ6gu3v12b5"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Caballero & JeanJass",
+          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
         }
       ],
-      "duration_ms": 107868,
-      "name": "HERMES",
-      "url": "https://open.spotify.com/track/7DZSBDz3YMRWehPTLE1xOs"
+      "duration_ms": 172253,
+      "name": "Comic sans MS",
+      "url": "https://open.spotify.com/track/0z1L8jMPXPMLZzxEAAsWmX"
     },
     {
       "added_at": "2025-02-28 05:00:44",
@@ -587,26 +607,6 @@
     {
       "added_at": "2025-02-28 05:00:44",
       "album": {
-        "name": "High & Fines Herbes - La Saison 5",
-        "url": "https://open.spotify.com/album/3h6Wf4FMHgjIJ6gu3v12b5"
-      },
-      "artists": [
-        {
-          "name": "Caballero & JeanJass",
-          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
-        },
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        }
-      ],
-      "duration_ms": 172253,
-      "name": "Comic sans MS",
-      "url": "https://open.spotify.com/track/0z1L8jMPXPMLZzxEAAsWmX"
-    },
-    {
-      "added_at": "2025-02-28 05:00:44",
-      "album": {
         "name": "WIN WIN",
         "url": "https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 112039,
       "name": "WIN WIN",
       "url": "https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo"
-    },
-    {
-      "added_at": "2025-02-28 05:00:44",
-      "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 116786,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT"
     },
     {
       "added_at": "2025-02-28 05:00:44",
@@ -679,6 +663,22 @@
     {
       "added_at": "2025-02-28 05:00:44",
       "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 116786,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT"
+    },
+    {
+      "added_at": "2025-02-28 05:00:44",
+      "album": {
         "name": "En Attendant Paphos",
         "url": "https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me"
       },
@@ -719,6 +719,26 @@
     {
       "added_at": "2025-02-28 05:00:44",
       "album": {
+        "name": "Ennemi",
+        "url": "https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "Ennemi",
+      "url": "https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl"
+    },
+    {
+      "added_at": "2025-02-28 05:00:44",
+      "album": {
         "name": "D\u00e9sol\u00e9e",
         "url": "https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn"
       },
@@ -755,22 +775,18 @@
     {
       "added_at": "2025-02-28 05:00:44",
       "album": {
-        "name": "Ennemi",
-        "url": "https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK"
+        "name": "On tombe, on r\u00e9essaye",
+        "url": "https://open.spotify.com/album/56oJCfgXzCWDeOPsRzhWy4"
       },
       "artists": [
         {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
         }
       ],
-      "duration_ms": 175053,
-      "name": "Ennemi",
-      "url": "https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl"
+      "duration_ms": 193653,
+      "name": "On tombe, on r\u00e9essaye",
+      "url": "https://open.spotify.com/track/1JdeV9HWswwT2yv5ovHpz8"
     },
     {
       "added_at": "2025-02-28 05:00:44",
@@ -791,22 +807,6 @@
     {
       "added_at": "2025-02-28 05:00:44",
       "album": {
-        "name": "On tombe, on r\u00e9essaye",
-        "url": "https://open.spotify.com/album/56oJCfgXzCWDeOPsRzhWy4"
-      },
-      "artists": [
-        {
-          "name": "BEN plg",
-          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "On tombe, on r\u00e9essaye",
-      "url": "https://open.spotify.com/track/1JdeV9HWswwT2yv5ovHpz8"
-    },
-    {
-      "added_at": "2025-02-28 05:00:44",
-      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/57GrVq3zhyHIZWOfKTh5md"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 156750,
       "name": "Flex",
       "url": "https://open.spotify.com/track/0LwadPsG8McSabXIITkIGF"
-    },
-    {
-      "added_at": "2025-02-28 05:00:44",
-      "album": {
-        "name": "Vendredi soir",
-        "url": "https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY"
-      },
-      "artists": [
-        {
-          "name": "JKSN",
-          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vendredi soir",
-      "url": "https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE"
     },
     {
       "added_at": "2025-02-28 05:00:44",
@@ -855,6 +839,38 @@
       "duration_ms": 206194,
       "name": "PERFORMANTE",
       "url": "https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr"
+    },
+    {
+      "added_at": "2025-02-28 05:00:44",
+      "album": {
+        "name": "Vendredi soir",
+        "url": "https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY"
+      },
+      "artists": [
+        {
+          "name": "JKSN",
+          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vendredi soir",
+      "url": "https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE"
+    },
+    {
+      "added_at": "2025-02-28 05:00:44",
+      "album": {
+        "name": "Famille",
+        "url": "https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Cette guerre",
+      "url": "https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ"
     },
     {
       "added_at": "2025-02-28 05:00:44",
@@ -895,22 +911,6 @@
       "duration_ms": 160706,
       "name": "Fille lacrymale",
       "url": "https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO"
-    },
-    {
-      "added_at": "2025-02-28 05:00:44",
-      "album": {
-        "name": "Imad, la suite",
-        "url": "https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        }
-      ],
-      "duration_ms": 143906,
-      "name": "La vraie vie",
-      "url": "https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

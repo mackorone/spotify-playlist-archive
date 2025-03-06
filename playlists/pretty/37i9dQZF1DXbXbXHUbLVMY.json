@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 28383,
+  "num_followers": 28381,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,26 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/5q1Z7S1kbm4AAO5XaG63Va"
+        "name": "Dans fr\u00e5n dig",
+        "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
       },
       "artists": [
         {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
         },
         {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+          "name": "Sara Kurt",
+          "url": "https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh"
+        },
+        {
+          "name": "Le Winter",
+          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
         }
       ],
-      "duration_ms": 224516,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/5rrTiERK3whJ53lsTTX7Nm"
+      "duration_ms": 136666,
+      "name": "Dans fr\u00e5n dig",
+      "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -263,26 +267,22 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "Dans fr\u00e5n dig",
-        "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5q1Z7S1kbm4AAO5XaG63Va"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
         },
         {
-          "name": "Sara Kurt",
-          "url": "https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh"
-        },
-        {
-          "name": "Le Winter",
-          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
         }
       ],
-      "duration_ms": 136666,
-      "name": "Dans fr\u00e5n dig",
-      "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
+      "duration_ms": 224516,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/5rrTiERK3whJ53lsTTX7Nm"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -771,30 +771,6 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "Radarn",
-        "url": "https://open.spotify.com/album/7jIXkYfDU9nZ9Y01ehHYte"
-      },
-      "artists": [
-        {
-          "name": "ROMANOS",
-          "url": "https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV"
-        },
-        {
-          "name": "Greekazo",
-          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
-        },
-        {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
-        }
-      ],
-      "duration_ms": 123823,
-      "name": "Radarn",
-      "url": "https://open.spotify.com/track/4UE7hlOZn503ENaMi6Nilm"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
         "name": "Tenk Inte",
         "url": "https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 151693,
       "name": "players (feat. Ari Bajgora)",
       "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
+        "name": "Radarn",
+        "url": "https://open.spotify.com/album/7jIXkYfDU9nZ9Y01ehHYte"
+      },
+      "artists": [
+        {
+          "name": "ROMANOS",
+          "url": "https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV"
+        },
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 123823,
+      "name": "Radarn",
+      "url": "https://open.spotify.com/track/4UE7hlOZn503ENaMi6Nilm"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 165528,
-      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
         "name": "Takket v\u00e6re livet",
         "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 161258,
       "name": "Ledare",
       "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
+        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 165528,
+      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
+        "name": "+212 (feat. 23)",
+        "url": "https://open.spotify.com/album/3usbLTSVr2lALbFaMvBHMq"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 171757,
+      "name": "+212 (feat. 23)",
+      "url": "https://open.spotify.com/track/6x7TWKdBz1R7pl7ykrAUvc"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
         "name": "Hva Vil Du",
         "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 121629,
       "name": "Hva Vil Du",
       "url": "https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
-        "name": "+212 (feat. 23)",
-        "url": "https://open.spotify.com/album/3usbLTSVr2lALbFaMvBHMq"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 171757,
-      "name": "+212 (feat. 23)",
-      "url": "https://open.spotify.com/track/6x7TWKdBz1R7pl7ykrAUvc"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "Veien",
-        "url": "https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 187083,
-      "name": "Veien",
-      "url": "https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
         "name": "Bra \u00c5r",
         "url": "https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 109766,
       "name": "Cph Freestyle",
       "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
+        "name": "Veien",
+        "url": "https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 187083,
+      "name": "Veien",
+      "url": "https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "2 Trekk",
-        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
+        "name": "I Want You 2 Be Mine",
+        "url": "https://open.spotify.com/album/6xGLYXAdQ5ChOF5gsJRGnM"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
         }
       ],
-      "duration_ms": 172841,
-      "name": "2 Trekk",
-      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
+      "duration_ms": 162057,
+      "name": "I Want You 2 Be Mine",
+      "url": "https://open.spotify.com/track/11wfYbsYR8lVqLhCp3ChM3"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "G STYLE (FREESTYLE)",
-        "url": "https://open.spotify.com/album/2EHgHmL3TG9q7jZQscTser"
-      },
-      "artists": [
-        {
-          "name": "G3B",
-          "url": "https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4"
-        }
-      ],
-      "duration_ms": 123446,
-      "name": "G STYLE (FREESTYLE)",
-      "url": "https://open.spotify.com/track/73NVve5WFYpj39ZnjwSOZb"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
         "name": "Batmobile",
         "url": "https://open.spotify.com/album/0QlwSCsBfQ5AdKmHBnL1FE"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 117216,
       "name": "Batmobile",
       "url": "https://open.spotify.com/track/5nE6wfrzpwXWf96YD7md2k"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
+        "name": "G STYLE (FREESTYLE)",
+        "url": "https://open.spotify.com/album/2EHgHmL3TG9q7jZQscTser"
+      },
+      "artists": [
+        {
+          "name": "G3B",
+          "url": "https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4"
+        }
+      ],
+      "duration_ms": 123446,
+      "name": "G STYLE (FREESTYLE)",
+      "url": "https://open.spotify.com/track/73NVve5WFYpj39ZnjwSOZb"
     }
   ],
   "unique_name": "100 (2)",

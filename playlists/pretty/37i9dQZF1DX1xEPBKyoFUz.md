@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > I'm odetari and this is my gaming playlist featuring tracks from myself, Saraunh0ly, 2hollis and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,658 likes - 33 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,711 likes - 33 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 32 | [Apollon](https://open.spotify.com/track/4hyFwrL9rNfrk5sG8iKctd) | [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi) | [Apollon](https://open.spotify.com/album/0udUblWUl05uR1ELebTbra) | 3:13 |
 | 33 | [ik what you did last summer](https://open.spotify.com/track/1imJDIpA1lc0pmXEKQDXPV) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [ik what you did last summer](https://open.spotify.com/album/23mu61TZub1lTik1j31nL2) | 1:46 |
 
-Snapshot ID: `ZxHrUAAAAADNhbTd++R/wEbGHGCoLllb`
+Snapshot ID: `ZxHrUAAAAABZAPW0A5e7xKMmFNgPWkNE`

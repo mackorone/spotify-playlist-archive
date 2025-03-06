@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 58 | [Shine A Light](https://open.spotify.com/track/6IbtGd7QJwRX3vhwytlUcc) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:25 |
 | 59 | [O Fortuna](https://open.spotify.com/track/4Y3fQQ38kNhYh0kFJFMgc8) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:15 |
 | 60 | [Punk](https://open.spotify.com/track/0tWjWVYAUOIDUEOhW8xTS1) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 2:17 |
-| 61 | [carelesscarelesscarelesscarelesscareless](https://open.spotify.com/track/6xbqITFdZA7sVrAi7S733k) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 1:55 |
-| 62 | [Zenosyne](https://open.spotify.com/track/7x6qZjIpi6qRDxshlzhztB) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [The Zenosyne](https://open.spotify.com/album/3PZVM5uJoIWtsutUxNmlBp) | 3:20 |
+| 61 | [Zenosyne](https://open.spotify.com/track/7x6qZjIpi6qRDxshlzhztB) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [The Zenosyne](https://open.spotify.com/album/3PZVM5uJoIWtsutUxNmlBp) | 3:20 |
+| 62 | [carelesscarelesscarelesscarelesscareless](https://open.spotify.com/track/6xbqITFdZA7sVrAi7S733k) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 1:55 |
 | 63 | [Know Who You Are](https://open.spotify.com/track/5gPirjkgoGH4Hym5JC1gf1) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:31 |
 | 64 | [3AM \(Pull Up\)](https://open.spotify.com/track/5jOY0ZzNkwlb7Fr0bP8Gcg) | [Fitness Workout Hits](https://open.spotify.com/artist/4WcnnHSRP40h3KJ7In8rAX) | [Don't Give Up Workout Hits](https://open.spotify.com/album/1oj0beYwEjOHLKTyWh7LmA) | 4:02 |
 | 65 | [HARDPAIN](https://open.spotify.com/track/1Ak6Bwm8W0v83SGEKziaKY) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:25 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 68 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 69 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AbrLoAAAAACQ2NoL/pims/pqdwfx53gl`
+Snapshot ID: `AbrRaAAAAABk9PTpmdkH6PRPCgwZVdHH`

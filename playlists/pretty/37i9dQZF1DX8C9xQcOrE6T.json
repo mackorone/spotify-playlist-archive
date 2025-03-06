@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Moana 2. ",
-  "num_followers": 5515287,
+  "num_followers": 5515778,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8Ix3wAAAAAetEt8RldOJG0tlPdXRBNU",
+  "snapshot_id": "Z8faVAAAAACPmiX2VNlujLrTE5Xk7YGs",
   "tracks": [
     {
       "added_at": "2024-01-08 22:56:36",
@@ -119,6 +119,26 @@
       "duration_ms": 214506,
       "name": "I Always Wanted A Brother",
       "url": "https://open.spotify.com/track/6WQyAlZ8sYKvyvSwgX85TO"
+    },
+    {
+      "added_at": "2025-03-05 05:00:04",
+      "album": {
+        "name": "Waiting On A Wish (From \"Disney's Snow White\")",
+        "url": "https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Waiting On A Wish - From \"Disney's Snow White\"",
+      "url": "https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx"
     },
     {
       "added_at": "2024-02-06 01:14:11",

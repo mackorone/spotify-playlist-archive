@@ -3271,6 +3271,28 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW"
+    },
+    {
+      "album": {
         "name": "CREATION OF DISGUST",
         "url": "https://open.spotify.com/album/0KLFcQSTmJH4V1UWSkue2b"
       },

@@ -4,7 +4,7 @@
 
 > mostly rock
 
-830 songs - 2 day 5 hr 10 min
+833 songs - 2 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Aoi, Koi, Daidaiiro No Hi](https://open.spotify.com/track/5S8jc9sCle880PjbwnEzsY) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [World Is Yours](https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn) | 4:42 | 2023-07-15 |  |
 | [Aoi, Koi, Daidaiiro No Hi \- Live at TUPPENCE STUDIO, Tokyo, Japan, 2023](https://open.spotify.com/track/7uSM0Y3FpDJ3yn1lrCAmMD) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [LIVE IN JAPAN](https://open.spotify.com/album/5uHMie24gR91pXFtPHdSSy) | 4:56 | 2024-04-30 |  |
 | [Aporia](https://open.spotify.com/track/2TdLTO7BYvjri6P7hGMZV7) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [美しい終末サイクル](https://open.spotify.com/album/7mRW1P9lDdXC47czngKQ2F) | 4:10 | 2024-05-18 |  |
+| [apricot sun](https://open.spotify.com/track/0I3HmHZKgYk0tyAtBS7KXC) | [36g](https://open.spotify.com/artist/5XXGclleBXB5sjxRVwYTwN) | [The raingazer's song](https://open.spotify.com/album/06txe8ED5uPOIekcKUtfEs) | 4:09 | 2025-03-05 |  |
 | [ARISHIMA MACHINE GUN///](https://open.spotify.com/track/0RKiQQ0OmyMxzz3M9XEIHy) | [0.8秒と衝撃。](https://open.spotify.com/artist/7Ggb4NN2p55XEyaCZqxc21) | [Inarizushi girl no namida..\. EP](https://open.spotify.com/album/1jQdA3K967uirOLmdSJl8H) | 3:08 | 2024-08-18 |  |
 | [artsick](https://open.spotify.com/track/7Jzw6ZqrFefr5KlrQzgGJr) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [T H E](https://open.spotify.com/album/7zNn3gNnkOp2XywYEbQBQN) | 5:02 | 2023-07-29 |  |
 | [Arukari seizin](https://open.spotify.com/track/3zvrme1BSrfaU6cwzv0Mii) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Wonder Word](https://open.spotify.com/album/1RKJFdPlDfbLxIvzpr6w8K) | 3:48 | 2023-10-19 |  |
@@ -128,6 +129,7 @@
 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 | 2023-07-15 |  |
 | [Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 2:11 | 2023-06-22 |  |
 | [dreaming](https://open.spotify.com/track/2Kp76SgfZGp9eFpX1XKFle) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [slow down](https://open.spotify.com/album/3wya6kva0X60zWCjRXpyNq) | 3:48 | 2023-12-03 |  |
+| [Drop](https://open.spotify.com/track/2Wj3ULjIa0g82rhbwOTKGF) | [Marmalade butcher](https://open.spotify.com/artist/0NqMZ0EDrPSG9ysXDiWkSi) | [Waltz for chroma](https://open.spotify.com/album/7ESdU5zTRRCZPJ1Ekw90jq) | 1:52 | 2025-03-05 |  |
 | [drunker](https://open.spotify.com/track/2TNwH1GLmKSFugnCKenHoG) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [slow down](https://open.spotify.com/album/3wya6kva0X60zWCjRXpyNq) | 4:34 | 2023-11-03 |  |
 | [Easy Breezy](https://open.spotify.com/track/4B0iIMQz88iQiMlRP47fJ1) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [maze](https://open.spotify.com/album/6t1kYddCW5E9StZEf0UxMd) | 3:28 | 2023-05-30 |  |
 | [Echo Chamber](https://open.spotify.com/track/05BiBH6ykUvCr7sPtGifMq) | [Seventeen Years Old And Berlin Wall](https://open.spotify.com/artist/00epidt1rfpJJKIfi7dSQJ) | [Reflect](https://open.spotify.com/album/0gpNUbtnFvOx2goh27SMsN) | 3:45 | 2024-05-03 |  |
@@ -668,6 +670,7 @@
 | [互いの宇宙](https://open.spotify.com/track/2ZAkKj4bPw2NM5bgLPOSVz) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [互いの宇宙 e.p](https://open.spotify.com/album/1nHF90eOOMcK3hN67hdoBR) | 4:46 | 2023-12-02 |  |
 | [人生なんにもわかんねえ！](https://open.spotify.com/track/4XVbnIo9YBSPSs3qnubgxu) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [人生なんにもわかんねえ！](https://open.spotify.com/album/4fJ1GFqBOC0W9QaPDLKaD0) | 3:38 | 2024-10-07 |  |
 | [代替嬉々](https://open.spotify.com/track/4ieJKUj64aZwXGFgeJ7x7P) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [寓話](https://open.spotify.com/album/4dD0hnVXxV4nJ0aZO23Wrb) | 4:21 | 2024-12-27 |  |
+| [代替嬉々](https://open.spotify.com/track/752vXOAI1SXNzxAs1t7Rdl) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [代替嬉々](https://open.spotify.com/album/4LM6qzhU17Ljl4TBB3fLAp) | 4:21 | 2025-03-05 |  |
 | [会えないのに](https://open.spotify.com/track/6LTMjAkawUQOBGRlj22r0R) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 8](https://open.spotify.com/album/629Tqastk0qbtWCp8IAYCO) | 5:07 | 2024-05-16 |  |
 | [何度も](https://open.spotify.com/track/4IMpgUBXsVEZa42BtlXbKH) | [chouchou merged syrups.](https://open.spotify.com/artist/1rMlvq1rWmYdg0lzZcf7G0) | [yesterday, 12 films later.](https://open.spotify.com/album/7iA1PLPdE7zK9E8K5KZOpH) | 4:17 | 2023-07-06 |  |
 | [偉大なお告げ](https://open.spotify.com/track/7rEA9XMxIMAusLgKvKCb9R) | [SACOYANS](https://open.spotify.com/artist/0wTERYV74C8OkJRQnNbrDn) | [Yomosue](https://open.spotify.com/album/2xYDTeOmxDLWYqqmrqKiJS) | 5:26 | 2023-08-13 |  |

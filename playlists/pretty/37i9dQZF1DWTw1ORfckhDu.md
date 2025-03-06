@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,237 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,258 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
 | 2 | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp) | 3:05 |
 | 3 | [Diana](https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Diana](https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX) | 2:58 |
-| 4 | [Nostetaan malja](https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Nostetaan malja](https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ) | 2:46 |
-| 5 | [Lampaita](https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Lampaita](https://open.spotify.com/album/2Fi7vJlbTVcXTovePKPlJb) | 2:29 |
-| 6 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
-| 7 | [Valinnu mun tien](https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Valinnu mun tien](https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp) | 3:01 |
-| 8 | [Nirvanaan](https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nirvanaan](https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130) | 2:41 |
+| 4 | [Nirvanaan](https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nirvanaan](https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130) | 2:41 |
+| 5 | [Nostetaan malja](https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Nostetaan malja](https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ) | 2:46 |
+| 6 | [Lampaita](https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Lampaita](https://open.spotify.com/album/2Fi7vJlbTVcXTovePKPlJb) | 2:29 |
+| 7 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
+| 8 | [Valinnu mun tien](https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Valinnu mun tien](https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp) | 3:01 |
 | 9 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
 | 10 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
 | 11 | [Suomileijona](https://open.spotify.com/track/2VrulJUteGq31RtnshZ495) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Suomileijona](https://open.spotify.com/album/4zPKNrGSYD766Dyr8jAsf5) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Luodit](https://open.spotify.com/track/2I3d4RxgWghBjlhpbglyrd) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Luodit](https://open.spotify.com/album/4CVgkAsb0C7IUqz4EgaW29) | 2:53 |
 | 50 | [Pääs Kii](https://open.spotify.com/track/0cR8kk0BKbJzgNNTEMJjqZ) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Pääs Kii](https://open.spotify.com/album/4BQz5hrEspZCCVBMqM2UAh) | 2:28 |
 
-Snapshot ID: `Z8XMJAAAAADLu6WOpHydh/CUuo06rxWH`
+Snapshot ID: `Z8f7HQAAAAD17qq9Erq7DnwIrSQHmTvb`

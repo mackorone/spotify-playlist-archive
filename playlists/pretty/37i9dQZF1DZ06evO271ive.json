@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 24797,
+  "num_followers": 24833,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8TxAAAAAADjQeD2/wVxP8KXmZc3COL8",
+  "snapshot_id": "Z8ZCgAAAAADrAiC6aBvHp/PmtQvWYtzK",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daddy (feat. Sexyy Red) [Vandalized Edit]",
+        "url": "https://open.spotify.com/album/2k0tmoYn3bI1hmIjeIbWQl"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 192444,
+      "name": "Daddy (feat. Sexyy Red) - Vandalized Edit",
+      "url": "https://open.spotify.com/track/2sb27UopO5ME6MdymutVnV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "41 World: Not The Album",
         "url": "https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t"
       },
@@ -915,30 +939,6 @@
       "duration_ms": 84768,
       "name": "Bow Bow Bow (F My Baby Dad)",
       "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daddy (feat. Sexyy Red) [Vandalized Edit]",
-        "url": "https://open.spotify.com/album/2k0tmoYn3bI1hmIjeIbWQl"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Jarreau Vandal",
-          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 192444,
-      "name": "Daddy (feat. Sexyy Red) - Vandalized Edit",
-      "url": "https://open.spotify.com/track/2sb27UopO5ME6MdymutVnV"
     },
     {
       "added_at": null,

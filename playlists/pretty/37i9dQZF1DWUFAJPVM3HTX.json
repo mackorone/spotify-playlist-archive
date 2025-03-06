@@ -1,44 +1,28 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/4vqBYwt9I3UMHhzFZHylRT?si=QgKGLLg9TOO6RK-fQnF2aQ\"> Breyan Bliss</a>. Updates every Wednesday.",
-  "num_followers": 260698,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P?si=koScYubOSDSiZW45iPakNg\"> Michi</a>. Updates every Wednesday.",
+  "num_followers": 260914,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8UKAQAAAACV7bTOYIyVNM5ez9xMVlGn",
+  "snapshot_id": "Z8iPKQAAAAB0Vhes92JMy+wLva+pCytU",
   "tracks": [
     {
       "added_at": "2025-03-03 01:44:37",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/41n3RuU2p8ORdlT0tRmra5"
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/3pEXZXFDbuQlwvrUB0rnnn"
       },
       "artists": [
         {
-          "name": "Breyan Bliss",
-          "url": "https://open.spotify.com/artist/4vqBYwt9I3UMHhzFZHylRT"
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
         }
       ],
-      "duration_ms": 214153,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/1VSDbU74MltGcjMKEhIwv7"
-    },
-    {
-      "added_at": "2025-03-03 01:44:37",
-      "album": {
-        "name": "LUSTER",
-        "url": "https://open.spotify.com/album/04ZzefredPlk50sph2nju1"
-      },
-      "artists": [
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
-        }
-      ],
-      "duration_ms": 143571,
-      "name": "LUSTER",
-      "url": "https://open.spotify.com/track/65sSwF7kt1atOy0RXfy3Od"
+      "duration_ms": 178879,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/0q615BBGWJGoh9MOujJYNc"
     },
     {
       "added_at": "2025-03-03 01:44:37",
@@ -75,22 +59,6 @@
     {
       "added_at": "2025-03-03 01:44:37",
       "album": {
-        "name": "Sweet Nothings",
-        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
-      },
-      "artists": [
-        {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
-    },
-    {
-      "added_at": "2025-03-03 01:44:37",
-      "album": {
         "name": "LYTM (Remix)",
         "url": "https://open.spotify.com/album/73Zykj32OPA3JzVjLu8Bdk"
       },
@@ -107,6 +75,54 @@
       "duration_ms": 160997,
       "name": "LYTM - Remix",
       "url": "https://open.spotify.com/track/7pjLceVtuF7cW6odLMcsS2"
+    },
+    {
+      "added_at": "2025-03-03 01:44:37",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/41n3RuU2p8ORdlT0tRmra5"
+      },
+      "artists": [
+        {
+          "name": "Breyan Bliss",
+          "url": "https://open.spotify.com/artist/4vqBYwt9I3UMHhzFZHylRT"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/1VSDbU74MltGcjMKEhIwv7"
+    },
+    {
+      "added_at": "2025-03-03 01:44:37",
+      "album": {
+        "name": "LUSTER",
+        "url": "https://open.spotify.com/album/04ZzefredPlk50sph2nju1"
+      },
+      "artists": [
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        }
+      ],
+      "duration_ms": 143571,
+      "name": "LUSTER",
+      "url": "https://open.spotify.com/track/65sSwF7kt1atOy0RXfy3Od"
+    },
+    {
+      "added_at": "2025-03-03 01:44:37",
+      "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
     },
     {
       "added_at": "2025-03-03 01:44:37",
@@ -203,22 +219,6 @@
       "duration_ms": 226322,
       "name": "coulda saved us",
       "url": "https://open.spotify.com/track/02FRw7aOein3O2prrMm0I3"
-    },
-    {
-      "added_at": "2025-03-03 01:44:37",
-      "album": {
-        "name": "Walking Away",
-        "url": "https://open.spotify.com/album/3pEXZXFDbuQlwvrUB0rnnn"
-      },
-      "artists": [
-        {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
-        }
-      ],
-      "duration_ms": 178879,
-      "name": "Walking Away",
-      "url": "https://open.spotify.com/track/0q615BBGWJGoh9MOujJYNc"
     },
     {
       "added_at": "2025-03-03 01:44:37",

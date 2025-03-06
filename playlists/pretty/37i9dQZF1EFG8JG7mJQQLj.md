@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,449 likes - 474 songs - 1 day 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,453 likes - 474 songs - 1 day 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,15 +257,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 247 | [Strip Me](https://open.spotify.com/track/2371M3KFIjpbHnVmh4dw85) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:29 |
 | 248 | [Distance](https://open.spotify.com/track/2l3gQ8Zv1KlGqyE6B4ntPC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:00 |
 | 249 | ['Til The Dawn](https://open.spotify.com/track/6fc0E8NhqsOoXTDyudtaUb) | [Drew Sidora](https://open.spotify.com/artist/6RbIwDgAskXJEpnZJl5vnE) | [Step Up \- Original Soundtrack](https://open.spotify.com/album/02W2pKViYFgqy9JR7XpRio) | 3:09 |
-| 250 | [Lose My Number](https://open.spotify.com/track/3jLfPfi88liLV6Exc6sLrN) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:28 |
-| 251 | [This Ain't Goodbye](https://open.spotify.com/track/2nbdAzvO2N9oT40uN5l6EG) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 4:23 |
+| 250 | [This Ain't Goodbye](https://open.spotify.com/track/2nbdAzvO2N9oT40uN5l6EG) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 4:23 |
+| 251 | [Lose My Number](https://open.spotify.com/track/3jLfPfi88liLV6Exc6sLrN) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:28 |
 | 252 | [Waking Up](https://open.spotify.com/track/1GQO5U0Sx74BUoH1faCUWC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 6:07 |
 | 253 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 |
 | 254 | [Remember Me](https://open.spotify.com/track/724YX9T0xMHcZMXMHfj8qf) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Remember Me](https://open.spotify.com/album/0gWjs23KK3QgHxTbeUrTwf) | 3:52 |
 | 255 | [Navy Blue](https://open.spotify.com/track/2V5YXks1lzRLR4qx4NTADJ) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Navy Blue](https://open.spotify.com/album/3fa2dzsrpIZBgUniutmj7V) | 2:41 |
-| 256 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 |
-| 257 | [Reach Out](https://open.spotify.com/track/0NzKUImAsFDEvL4uDp1Lrz) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Reach Out](https://open.spotify.com/album/2nNquxV1Z0STeEB04RHWT7) | 4:16 |
-| 258 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 |
+| 256 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 |
+| 257 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 |
+| 258 | [Reach Out](https://open.spotify.com/track/0NzKUImAsFDEvL4uDp1Lrz) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Reach Out](https://open.spotify.com/album/2nNquxV1Z0STeEB04RHWT7) | 4:16 |
 | 259 | [Neon Lights](https://open.spotify.com/track/6ok1D9R7MZW7slwfRWQ45N) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:42 |
 | 260 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 |
 | 261 | [Hold On](https://open.spotify.com/track/7AuHKPDhAAtCAPk8mav6h4) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/3Gvp7hk4YWaWg2mF0XAauA) | 3:35 |
@@ -364,8 +364,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 354 | [Speak Up](https://open.spotify.com/track/6u88kKIAGstDtF400mk1fq) | [Kristinia DeBarge](https://open.spotify.com/artist/5Z22vlK4DCgDrQgBEqfc8w) | [Exposed \(Deluxe Edition\)](https://open.spotify.com/album/7f45cxgKjDpNLsvscwYvjS) | 3:42 |
 | 355 | [Glassheart](https://open.spotify.com/track/0KMFnL2nr4WBdN5WXFjTji) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:56 |
 | 356 | [Red Light Green Light](https://open.spotify.com/track/3YM33EBnwRe7G7aUPVQ7lY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:15 |
-| 357 | [The Last Goodbye](https://open.spotify.com/track/3GMl5vmoSXsWwQR21GM0Qo) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [This Loud Morning](https://open.spotify.com/album/2sAl0bHZ6QtLEcBmbJOCPd) | 3:00 |
-| 358 | [Room For You](https://open.spotify.com/track/0ZR0D8BOyH1b8vtrSnA5Xu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:47 |
+| 357 | [Room For You](https://open.spotify.com/track/0ZR0D8BOyH1b8vtrSnA5Xu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:47 |
+| 358 | [The Last Goodbye](https://open.spotify.com/track/3GMl5vmoSXsWwQR21GM0Qo) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [This Loud Morning](https://open.spotify.com/album/2sAl0bHZ6QtLEcBmbJOCPd) | 3:00 |
 | 359 | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/track/0gJHtHSwr5VgA1EXbVT177) | [Max Embers](https://open.spotify.com/artist/11O6zlvW2ifkhcXjOpNrhE) | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/album/2gW9Uy819K8S9dxYTfvFRR) | 2:41 |
 | 360 | [Last Holiday](https://open.spotify.com/track/4yPFng4xWVdrP4xVxdK7wY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 3:16 |
 | 361 | [Better \- String Version](https://open.spotify.com/track/1CSjnpL63KuOa0VnF6T3uS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 3:23 |
@@ -483,4 +483,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 473 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 474 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AbrLoAAAAAAXqOt5I94mTAvkiEJ4pshB`
+Snapshot ID: `AbrRSgAAAADmFnfDjTKhaauh50XSGF4c`

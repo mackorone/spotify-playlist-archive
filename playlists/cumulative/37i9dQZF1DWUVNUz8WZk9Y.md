@@ -4,7 +4,7 @@
 
 > Enjoy music from Doraemon The Movie! ⓒFujiko\-Pro, Shogakukan, TV\-Asahi, Shin\-ei, and ADK 2025
 
-52 songs - 3 hr 37 min
+53 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [友達の唄](https://open.spotify.com/track/7rWuSM3qyNXaVm4XqROWV1) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [RAY](https://open.spotify.com/album/7Al8QIzk8sarvtcjkY6lqw) | 6:09 | 2023-02-28 |  |
 | [君と重ねたモノローグ](https://open.spotify.com/track/4Zk4F73POCW2GKYlpLpEpD) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [SOUNDTRACKS](https://open.spotify.com/album/1EKHTn7izq40Me9Wwg87rS) | 7:32 | 2023-02-28 | 2024-04-19 |
 | [君と重ねたモノローグ](https://open.spotify.com/track/7jZIivEiJiWOnAbb03vfA1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [Birthday / 君と重ねたモノローグ](https://open.spotify.com/album/4syVIhkbkLzbpu9TZanSJo) | 7:32 | 2024-02-07 |  |
+| [君の夢を聞きながら、僕は笑えるアイデアを！](https://open.spotify.com/track/3MUMstYpfxZ1P6KI685xJq) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [スケッチ / 君の夢を聞きながら、僕は笑えるアイデアを！](https://open.spotify.com/album/40sgYW2MAqySgsspmqFdTK) | 3:10 | 2025-03-05 |  |
 | [夢をかなえてドラえもん](https://open.spotify.com/track/6FEABJMKAHeFuz3OrKw5ix) | [Mao](https://open.spotify.com/artist/3FqWvozs0flehtWPsXuNdo) | [テレビ朝日系アニメ「ドラえもん」主題歌 夢をかなえてドラえもん](https://open.spotify.com/album/4wS3lDrvp1wPIh1KdNfqCN) | 4:08 | 2023-02-28 |  |
 | [大切にするよ](https://open.spotify.com/track/4UF3JsmwjkCzuaP3zCribq) | [Ko Shibasaki](https://open.spotify.com/artist/5YixSA79eNkVmTq8xzRYF7) | [KO SHIBASAKI ALL TIME BEST 詩](https://open.spotify.com/album/3iBSAO7iI16Jw8vwIDTkXX) | 4:58 | 2023-02-28 |  |
 | [天までとどけ](https://open.spotify.com/track/6nPZ1aDIYfObOtdOaoEaOC) | [Tetsuya Takeda](https://open.spotify.com/artist/69XPjjmtVFyntrir7ZHfnk) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 5:21 | 2023-02-28 |  |

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-461 songs - 1 day 1 hr 18 min
+462 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Kaanade \(feat\. Karna\)](https://open.spotify.com/track/5Y6CBJuvzdLv7s0sfH1DpP) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Kaanade \(feat\. Karna\)](https://open.spotify.com/album/2SXhcy1ti12xehLrFzrZmi) | 3:37 | 2023-05-25 | 2023-06-08 |
 | [Kaarana](https://open.spotify.com/track/77zBm2513kSoqZUwsvpr3r) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC) | [Kaarana](https://open.spotify.com/album/1hWbDlBA3wscSNNq6dL8hA) | 2:57 | 2023-11-06 | 2024-06-11 |
 | [KALEDH HODHE](https://open.spotify.com/track/5IQ37HCYwY7lBryfgZKa6k) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [KALEDH HODHE](https://open.spotify.com/album/27fcdIaX5jfGiPm5lBmQgO) | 1:25 | 2024-03-17 | 2024-08-06 |
+| [Kaledu Hode Nannali](https://open.spotify.com/track/5Tvh0OcPJfmn19sFZmm0Ai) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Ramya Bhat Abhyankar](https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8) | [Kaledu Hode Nannali](https://open.spotify.com/album/4P9IGbUta2mbtLDwxBIsKR) | 5:23 | 2025-03-05 |  |
 | [Kalitha Hudugi 2.0](https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kalitha Hudugi 2.0](https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU) | 3:46 | 2022-10-20 | 2023-08-17 |
 | [Kalitha Hudugi 3.0](https://open.spotify.com/track/4Ck7u07WKdzIVq8DpOToQM) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC) | [Kalitha Hudugi 3.0](https://open.spotify.com/album/2bTu7wXCFCy5DnCFBIIAkO) | 3:25 | 2024-02-23 | 2024-08-20 |
 | [Kanade Hodeya Edurige](https://open.spotify.com/track/2wkMJqdVmMSxoukyh6eXSn) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem) | [Kanade Hodeya Edurige](https://open.spotify.com/album/0kTpmGxOf63aV2DIFh2Vuz) | 3:42 | 2024-03-26 | 2024-08-24 |
@@ -389,7 +390,7 @@
 | [Queen](https://open.spotify.com/track/3ZwA5XT8yNMktFl41qfwfu) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [God Movess](https://open.spotify.com/album/16x5VIDSCWPmpSCjt06v5K) | 2:45 | 2023-07-13 | 2023-07-22 |
 | [QUICK FIX](https://open.spotify.com/track/3k6XUW5YqaTYhnvnakgubB) | [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [QUICK FIX](https://open.spotify.com/album/7e9S5JfIKYhjglqdcb1XGP) | 2:06 | 2023-07-17 | 2024-02-17 |
 | [Rain Chant](https://open.spotify.com/track/43DL71yvcNSP5ohKcNE1xC) | [Bryden & Parth](https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo), [Halakki Vokkaliga](https://open.spotify.com/artist/2YFrJUByqFWgxVps6hAiGD) | [Rain Chant](https://open.spotify.com/album/6KcfWe3ii5Mo0LnMiUjHD7) | 5:30 | 2023-06-16 | 2023-07-09 |
-| [Raja Roja](https://open.spotify.com/track/1YqhW4XfAQPJPwusKxQ7zf) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Pranjali Salimata](https://open.spotify.com/artist/0pnFwtQxmO7ZNMi67MEJti) | [Raja Roja](https://open.spotify.com/album/2McU47fZjNMhpFmN1v6TBu) | 3:32 | 2024-10-07 |  |
+| [Raja Roja](https://open.spotify.com/track/1YqhW4XfAQPJPwusKxQ7zf) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Pranjali Salimata](https://open.spotify.com/artist/0pnFwtQxmO7ZNMi67MEJti) | [Raja Roja](https://open.spotify.com/album/2McU47fZjNMhpFmN1v6TBu) | 3:32 | 2024-10-07 | 2025-03-06 |
 | [Ranasagar](https://open.spotify.com/track/4sQQVsnzryMPIiBBSMSQFk) | [D rapper](https://open.spotify.com/artist/4FqwQ0EygQJox3FgfVUSn4) | [Ranasagar](https://open.spotify.com/album/2iAIXYgbgH7Xlw0H520BFo) | 1:43 | 2023-07-08 | 2023-07-18 |
 | [RCB 12th Man Army](https://open.spotify.com/track/3w0i0dc5rDKfpBTp3e3k07) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Bhoomika Yellow B](https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1) | [RCB 12th Man Army \- Single](https://open.spotify.com/album/7i4SqRm106EdOoeU7koGbP) | 2:39 | 2023-04-05 | 2023-12-09 |
 | [RCB ANTHEM \- Version 2023](https://open.spotify.com/track/34U20Qg8DoIBp7taWrKZAL) | [YASHICA RAJ](https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd) | [RCB ANTHEM \(Version 2023\)](https://open.spotify.com/album/4IFnYU4QYdbvUWSpSCKGzC) | 2:32 | 2023-04-28 | 2023-06-08 |

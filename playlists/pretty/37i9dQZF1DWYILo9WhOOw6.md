@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,160 likes - 139 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,493 likes - 139 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 138 | [Thoughtless A Delta 109\-112hz](https://open.spotify.com/track/5NUnNDy5LlGtlZXbO1ignG) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Thoughtless Echoes Delta](https://open.spotify.com/album/6E7fHsEJu4MnV5uJ1VSO7j) | 2:32 |
 | 139 | [Transcendental Phase Bb Delta \(114\-118hz\)](https://open.spotify.com/track/7pe4sWtc1ocgLrKrIeUzFG) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Transcendental Phase Delta](https://open.spotify.com/album/1SJVQ7hhm89HhcMIxAUCbB) | 2:15 |
 
-Snapshot ID: `Z78qfgAAAABYbuquVI/NVMl5VmAn9txk`
+Snapshot ID: `Z78qfgAAAAD/eNsA9C96NNeAMTHRnC/0`

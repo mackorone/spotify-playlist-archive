@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 189158,
       "name": "By the Hour",
       "url": "https://open.spotify.com/track/1feJUG6eBlaxsogKjFMKzv"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 173537,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/7rQjEa1Vn8WDcfxc1Vt08s"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 149750,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/27JyPhZMT8qnYNlOyMZLgP"
@@ -3290,7 +3290,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 184412,
       "name": "Dos Amantes Bailan Como Uno",
       "url": "https://open.spotify.com/track/2AD7BOiPxQNwz4M3XagTQI"
@@ -7774,7 +7774,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 158400,
       "name": "Misteriosa",
       "url": "https://open.spotify.com/track/4m8RD2JvsaH13RwZd9EmGd"
@@ -8429,6 +8429,24 @@
     },
     {
       "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/5XsRJdQdwseM0CLvXMCpax"
+      },
+      "artists": [
+        {
+          "name": "Maitre",
+          "url": "https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128791,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/2rhczOkABR6IuzCFTt3FGc"
+    },
+    {
+      "album": {
         "name": "The Woodlands",
         "url": "https://open.spotify.com/album/2mI9agJ2sMuPJqyVXMBS4K"
       },
@@ -8710,7 +8728,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 187000,
       "name": "Olessa",
       "url": "https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT"
@@ -11090,7 +11108,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 169053,
       "name": "Something For You",
       "url": "https://open.spotify.com/track/6oqZPFJ1LM1hokfEdUBPxp"

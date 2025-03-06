@@ -794,7 +794,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 247266,
       "name": "Deadline",
       "url": "https://open.spotify.com/track/4YVIDt9lhVeZJ9e4E45VCS"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 152493,
       "name": "Happy Rainbow",
       "url": "https://open.spotify.com/track/1tYbWJz9YEpJM7ExleZHAA"
@@ -1280,6 +1280,28 @@
       "duration_ms": 112280,
       "name": "Hot Pants",
       "url": "https://open.spotify.com/track/6cE5GBigwh7Zh7PElZpU7j"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Synthesis",
+        "url": "https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Brian Bennett",
+          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150600,
+      "name": "Hovercraft",
+      "url": "https://open.spotify.com/track/55I0mO0DaN35pQWrbIROsy"
     },
     {
       "album": {
@@ -2622,7 +2644,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 92200,
       "name": "Tension",
       "url": "https://open.spotify.com/track/1QlidRLYTnmj85wn326fbk"

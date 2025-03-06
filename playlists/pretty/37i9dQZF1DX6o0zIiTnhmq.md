@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,607 likes - 75 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,654 likes - 75 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 2 | [Mul Mantra](https://open.spotify.com/track/65x8PLeBCisLJVSibyXemB) | [Snatam Kaur](https://open.spotify.com/artist/6NvMFz8onERoCM6bKjTASJ) | [Anand Bliss](https://open.spotify.com/album/0gbuTZhOYD0DhCzmVkKNme) | 7:55 |
 | 3 | [Shiva Dhyana Mantra for Inner Peace and Meditation](https://open.spotify.com/track/70UnKRYZDYqY96roiCOhQE) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chants from India, Vol\. 10](https://open.spotify.com/album/5uT4LDe2IIoOD1pzXSCDCz) | 5:10 |
 | 4 | [Raghunandana \(From "HanuMan"\) \[Hindi\]](https://open.spotify.com/track/3OwMeSa4IU0qd5xfI19xSc) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Lokeshwar Edara](https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8), [Harshavardhan Chavali](https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G), [Tripuraneni Kalyanachakravarthy](https://open.spotify.com/artist/3QU7NHOvtC18LUDZAzxcuh) | [Raghunandana \(From "HanuMan"\) \[Hindi\]](https://open.spotify.com/album/1sKnPpjhlYSqk2qxmbQHT6) | 2:31 |
-| 5 | [Shree Ganesh Pancharatna Strotra](https://open.spotify.com/track/35sQ8oPMSLWSa5M992r0is) | [Shubhankar](https://open.spotify.com/artist/2hPwuLChHGlC6fxk0bZgyv), [Divyank](https://open.spotify.com/artist/3HqkGLdOBj4YvDXmnK1Duf), [Ojus Gupta](https://open.spotify.com/artist/6cG1Kh9AByorAzPd1Et6JF) | [Shree Ganesh Pancharatna Strotra](https://open.spotify.com/album/65zwQp8vOBCsyDkCboLZh5) | 3:20 |
+| 5 | [Shree Ganesh Pancharatna Stotra](https://open.spotify.com/track/35sQ8oPMSLWSa5M992r0is) | [Shubhankar](https://open.spotify.com/artist/2hPwuLChHGlC6fxk0bZgyv), [Divyank](https://open.spotify.com/artist/3HqkGLdOBj4YvDXmnK1Duf), [Ojus Gupta](https://open.spotify.com/artist/6cG1Kh9AByorAzPd1Et6JF) | [Shree Ganesh Pancharatna Stotra](https://open.spotify.com/album/65zwQp8vOBCsyDkCboLZh5) | 3:20 |
 | 6 | [Shree Ganapati Atharvashirsha](https://open.spotify.com/track/28PQnEmoE39ZfjgQqttPDR) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Ganesha Symphonic Chants Experience](https://open.spotify.com/album/7pBI5ObmHmMbFi537wORHH) | 6:28 |
 | 7 | [Mrityunjay Mantra](https://open.spotify.com/track/6TduggoZyzdaemL1UvYNsP) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Mrityunjay Mantra](https://open.spotify.com/album/1y3sQajRgrPedx9FD7UnFh) | 6:01 |
 | 8 | [Bhairavi Vandana](https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Triveni: Durga, Lakshmi, Saraswati](https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv) | 5:15 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 60 | [Ganesh Mantra](https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Ganesh Mantra](https://open.spotify.com/album/7Fl31P8ZIOJivw5OPfjTKs) | 4:43 |
 | 61 | [Sarveshaam Svastir Bhavatu](https://open.spotify.com/track/3EEpjsPaW823RgMoBkOSTV) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Sarveshaam Svastir Bhavatu](https://open.spotify.com/album/30RNKePqnsWCUbo6ryWwrr) | 5:19 |
 | 62 | [Ajna Mantra for Third Eye Chakra with OM Sound](https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:00:14 |
-| 63 | [Lingashtakam](https://open.spotify.com/track/664589X4AEPP7wqeduHx0W) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shivoham](https://open.spotify.com/album/4oDggXTk0GxDUsFc6s2IM9) | 2:40 |
-| 64 | [Vishnu Gayatri Mantra](https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Vishnu Gayatri Mantra](https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps) | 5:23 |
+| 63 | [Vishnu Gayatri Mantra](https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Vishnu Gayatri Mantra](https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps) | 5:23 |
+| 64 | [Lingashtakam](https://open.spotify.com/track/664589X4AEPP7wqeduHx0W) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shivoham](https://open.spotify.com/album/4oDggXTk0GxDUsFc6s2IM9) | 2:40 |
 | 65 | [Green Tara Mantra](https://open.spotify.com/track/2qCzNbcYtmB8Ov7aq2E7jw) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Green Tara Mantra](https://open.spotify.com/album/1QU1Vx9gpBv9rl5ENFK8DV) | 4:19 |
 | 66 | [Om Namah Shivay 108 Times](https://open.spotify.com/track/0i5XJwIyF7IP1RBldqLBRm) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Om Namah Shivay 108 Times](https://open.spotify.com/album/1Pr7UMxfqZzw7fSaTsfC0L) | 12:44 |
 | 67 | [Shloka](https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Durga](https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg) | 4:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 74 | [Adya Stotram](https://open.spotify.com/track/26n2T6Zy7PWoDO1ISWXOnX) | [Soumitra Bhattacharya](https://open.spotify.com/artist/1zUtY9pqnaJfZlYXRc3PFj) | [Adya Stotram](https://open.spotify.com/album/1bhUr8o8d1fgcuq8yuFnmW) | 5:50 |
 | 75 | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/track/1v30wG4PeNKB7dSN98N4FJ) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/album/4e49HqCPY3g4Abog1pQSKx) | 8:09 |
 
-Snapshot ID: `Z8aKJAAAAABn7UiFA8fn7vvfIkm5mLGB`
+Snapshot ID: `Z8faXQAAAAAWKtxaV7x6L6OrVQDEjjrB`

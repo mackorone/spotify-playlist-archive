@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Pesado y Bronco en portada.",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Nico Hern\u00e1ndez en portada.",
   "name": "La Miscel\u00e1nea: Banda, Corridos & m\u00e1s...",
   "tracks": [
     {
@@ -1714,7 +1714,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 165034,
       "name": "En Qu\u00e9 Momento",
       "url": "https://open.spotify.com/track/7hqQRn8nYHIESyKoiJsJPz"
@@ -3052,6 +3052,28 @@
       "duration_ms": 244517,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Importante Es El Amor",
+        "url": "https://open.spotify.com/album/3RFzIXaLYrCxF7t8yqOC1R"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177366,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/6yh4phrNduhMduSKHdW626"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-809 songs - 1 day 11 hr 8 min
+812 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 |  |
 | [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 | 2022-04-05 | 2023-03-10 |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2021-12-08 | 2024-06-15 |
+| [Held in Light](https://open.spotify.com/track/3OYAsyTRj1WTiqbGlaEUCf) | [Elias Valley](https://open.spotify.com/artist/4TbkywGYWEQjRwVYsgUDMV) | [Held in Light](https://open.spotify.com/album/6uA6wyX1M4DGD9DIn9acVK) | 2:33 | 2025-03-05 |  |
 | [Helix](https://open.spotify.com/track/1gzalRgd6177ItWli3V6fI) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Helix](https://open.spotify.com/album/36IKErRzj6twXIiIPDh4TN) | 2:12 | 2023-10-13 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2022-04-22 | 2023-03-10 |
 | [Heritage](https://open.spotify.com/track/0E4hN2dSQj8WtGSKPmg7VC) | [Thomas Eder](https://open.spotify.com/artist/2krrSbwXMkf0UncTYMR1qY) | [Heritage](https://open.spotify.com/album/6WsamjZL8938pfC4VsIIjH) | 2:20 | 2022-10-28 | 2024-04-05 |
@@ -709,6 +710,7 @@
 | [The small things in life](https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [The small things in life](https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa) | 2:15 | 2023-11-24 | 2024-06-07 |
 | [The Sparrow](https://open.spotify.com/track/6DCQM8eWsMPqhDbonEUHvu) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [The Sparrow](https://open.spotify.com/album/5xYhfr9t2SaSqXuQB4Ncdp) | 2:14 | 2024-07-29 |  |
 | [The Stillness Within](https://open.spotify.com/track/2zSvZfdq6ZJpxmH2RbpoQ8) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [The Stillness Within](https://open.spotify.com/album/7pfveCDNbixSABr4bVIfJZ) | 2:59 | 2023-06-08 | 2024-04-05 |
+| [The Story](https://open.spotify.com/track/4vYEsiKuRke7P1vWFVkzRy) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [The Story](https://open.spotify.com/album/6u9AB61ZY30Igi1oC0BRgj) | 2:30 | 2025-03-05 |  |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-21 | 2023-08-19 |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-24 | 2024-12-11 |
 | [Thousand Years Ago](https://open.spotify.com/track/03ii6bJVPO1xJNNsG9QvIB) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Thousand Years Ago](https://open.spotify.com/album/336D8kHYPubaAtmgCsVMMv) | 2:19 | 2022-05-13 | 2024-05-24 |
@@ -792,6 +794,7 @@
 | [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 | 2024-04-05 | 2024-09-04 |
 | [Wildflowers](https://open.spotify.com/track/3xeVTA8S7PyPItewgE9Mpx) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wildflowers](https://open.spotify.com/album/2hlO5P9G2aDGVS6GnDxaXI) | 2:05 | 2022-06-17 | 2023-06-03 |
 | [Wind Smells the Sea](https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Wind Smells the Sea](https://open.spotify.com/album/6ycA17KnDVAjaN0VeXo2AJ) | 2:27 | 2024-07-19 |  |
+| [Winding Path](https://open.spotify.com/track/3w4kRkO0AjU6AWjfQjqCiW) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Winding Path](https://open.spotify.com/album/2JFbhERNhHbZT2m2geqAOW) | 2:27 | 2025-03-05 |  |
 | [Winding Round](https://open.spotify.com/track/6tAMRb5B9arxFxGwdU3AQ0) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Winding Round](https://open.spotify.com/album/0hZVB1UgQA8RYnjEx1oq8s) | 1:43 | 2024-09-03 |  |
 | [Window](https://open.spotify.com/track/7Avxe9ZBaBQ8yWk1fpYM8Y) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Window](https://open.spotify.com/album/1Qa7H30jLp6XDAxCv7M769) | 2:02 | 2023-10-27 | 2024-06-28 |
 | [windows](https://open.spotify.com/track/5KZLT2poBO9eTLjpaD7EDN) | [Elum Vance](https://open.spotify.com/artist/0Ams3Y9kvFZ7zJ0iPkIhfG) | [windows](https://open.spotify.com/album/0T3syhriHLYTW1Uskr3kGE) | 2:46 | 2021-12-08 | 2022-03-05 |

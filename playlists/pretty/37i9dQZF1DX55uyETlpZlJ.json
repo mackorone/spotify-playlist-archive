@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8bCfgAAAACJrF2SVJG+PAX0DLNtdGR4",
+  "snapshot_id": "Z8g8YwAAAACeFEXhngKnvdX03qyNGOxb",
   "tracks": [
     {
       "added_at": "2025-02-18 11:45:27",
@@ -103,6 +103,30 @@
       "duration_ms": 129897,
       "name": "Paisa",
       "url": "https://open.spotify.com/track/6GnCmGYCBKPe5PZSe2TnP4"
+    },
+    {
+      "added_at": "2025-03-05 11:58:27",
+      "album": {
+        "name": "Kaledu Hode Nannali",
+        "url": "https://open.spotify.com/album/4P9IGbUta2mbtLDwxBIsKR"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Ramya Bhat Abhyankar",
+          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Kaledu Hode Nannali",
+      "url": "https://open.spotify.com/track/5Tvh0OcPJfmn19sFZmm0Ai"
     },
     {
       "added_at": "2025-02-26 06:23:49",
@@ -1247,26 +1271,6 @@
       "duration_ms": 168903,
       "name": "Huduki Horatanthe",
       "url": "https://open.spotify.com/track/29I5NvDwVHOxBb6oKOVjaZ"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "Raja Roja",
-        "url": "https://open.spotify.com/album/2McU47fZjNMhpFmN1v6TBu"
-      },
-      "artists": [
-        {
-          "name": "Chethan Naik",
-          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
-        },
-        {
-          "name": "Pranjali Salimata",
-          "url": "https://open.spotify.com/artist/0pnFwtQxmO7ZNMi67MEJti"
-        }
-      ],
-      "duration_ms": 212363,
-      "name": "Raja Roja",
-      "url": "https://open.spotify.com/track/1YqhW4XfAQPJPwusKxQ7zf"
     },
     {
       "added_at": "2025-01-06 04:59:04",

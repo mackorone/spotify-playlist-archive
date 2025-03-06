@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcQQteRiOUA.md) - [plain]
 
 > <a href="spotify:artist:2C0q6kKsOqXe490AYXubeA">Dish Dash</a>'s favorite tracks\. Updated regularly\. Curated by Dish Dash\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,762 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,777 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcQQteRiOUA.md) - [plain]
 | 49 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 |
 | 50 | [Baby Wants to Ride](https://open.spotify.com/track/07fFRfFUXKn3oaVfTKr4hs) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Baby Wants to Ride / Your Love](https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5) | 8:37 |
 
-Snapshot ID: `Z240fwAAAADIUhqy0hCuWMHMk6uozEUi`
+Snapshot ID: `Z240fwAAAAAIVO4Sqa2+0T1Zr7kF/eoM`

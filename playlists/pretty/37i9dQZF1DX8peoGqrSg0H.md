@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PP Krit
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,948 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,980 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 5 | [Heart Poppin'](https://open.spotify.com/track/1qV5KvsNGL1umoFUTJR306) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [Heart Poppin'](https://open.spotify.com/album/6am59D7FRoeMtWmGE0oA09) | 3:29 |
 | 6 | [เธอคือคนที่ฟ้าส่งมาเพื่อฉัน \(ilysb\)](https://open.spotify.com/track/1aDDhtSKGhOS3FMx6wMCFa) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เธอคือคนที่ฟ้าส่งมาเพื่อฉัน \(ilysb\)](https://open.spotify.com/album/3DlZnkcwHWq6I3jU1uUtNj) | 2:47 |
 | 7 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
-| 8 | [ผิดแผน \(FOUL\) \[feat\. SMEW\]](https://open.spotify.com/track/33HEdA0Wu5xvl1tBoTwrb8) | [Offroad Kantapon](https://open.spotify.com/artist/1n1qyKoHL2ZeVUpGVYrZsL), [SMEW](https://open.spotify.com/artist/7I8cyXAoAtRWIXvcHUatTe) | [ผิดแผน \(FOUL\) \[feat\. SMEW\]](https://open.spotify.com/album/3nzV3XSNqlty0vXv0oCIAr) | 3:03 |
+| 8 | [ผิดแผน \(FOUL\) \[feat\. SMEW\]](https://open.spotify.com/track/33HEdA0Wu5xvl1tBoTwrb8) | [Offroad Kantapon](https://open.spotify.com/artist/1n1qyKoHL2ZeVUpGVYrZsL), [Smew](https://open.spotify.com/artist/3H9OFh5F04b3SCFASMKfjj) | [ผิดแผน \(FOUL\) \[feat\. SMEW\]](https://open.spotify.com/album/3nzV3XSNqlty0vXv0oCIAr) | 3:03 |
 | 9 | [เราไม่ได้เป็นอะไรกัน \(Undeletable\) \- JUPITER](https://open.spotify.com/track/7kmOIZpGFXj9LkjzhZJnvB) | [ZOLAR](https://open.spotify.com/artist/3xfEwNH1lIjMoxhvSH9DGF) | [เราไม่ได้เป็นอะไรกัน \(Undeletable\) \- JUPITER](https://open.spotify.com/album/7d1IsFtlmIDZyhSjnqe3lb) | 3:36 |
 | 10 | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP) | 3:05 |
 | 11 | [หลับไม่ฝัน \(Sleep Tight\)](https://open.spotify.com/track/3Zm6ydHdqWKx4PkqMOddIq) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [หลับไม่ฝัน \(Sleep Tight\)](https://open.spotify.com/album/6Z1bPXBVelf3jQc4esbRo5) | 2:50 |

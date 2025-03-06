@@ -4,7 +4,7 @@
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Grill Boys
 
-380 songs - 18 hr 47 min
+381 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 | 2024-06-27 | 2024-07-05 |
 | [Bagno](https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Bagno](https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor) | 4:36 | 2024-10-03 | 2025-01-24 |
 | [Basilico](https://open.spotify.com/track/6XkkzEM5GJZRrJUOnKJ0h3) | [DUOPOP](https://open.spotify.com/artist/3k4rjybHf6uCbfWJgA0hbo) | [Basilico](https://open.spotify.com/album/3MsSeDl0DyyG3HX46FsV23) | 2:19 | 2024-06-27 | 2024-07-12 |
-| [Beauty Star \(feat\. ELASI\)](https://open.spotify.com/track/3C7il7dWDBrw98S67rSyBg) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Beauty Star \(feat\. ELASI\)](https://open.spotify.com/album/7JYCPIrgcjGoEFdyfyxV7Z) | 4:00 | 2025-02-27 |  |
+| [Beauty Star](https://open.spotify.com/track/3C7il7dWDBrw98S67rSyBg) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Beauty Star](https://open.spotify.com/album/7JYCPIrgcjGoEFdyfyxV7Z) | 4:00 | 2025-02-27 |  |
 | [BELLA BALLA](https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1) | [Questo e Quello](https://open.spotify.com/artist/5b5R5uVklKSNErPuNTyuyI), [Francesco Mannella](https://open.spotify.com/artist/51SSin2alKwFv9IJRSMvv7), [Stefano](https://open.spotify.com/artist/4aaZayLUCwWMw5ks67GyyW) | [BELLA BALLA](https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp) | 2:56 | 2024-11-14 | 2024-12-20 |
 | [Bellezza](https://open.spotify.com/track/7IdxiU3MFOS0QD6xXyJN9q) | [Cusu](https://open.spotify.com/artist/694sp2sd59eYihuAGcQpPc) | [Bellezza](https://open.spotify.com/album/1EiMeZCO4CH806XE15gc9E) | 3:07 | 2025-02-20 |  |
 | [Bene Bene](https://open.spotify.com/track/0xJJgvSmh55Ens4WYFXzJg) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Bene Bene](https://open.spotify.com/album/0WHSOXBqxlvXQaiCzDyMF3) | 2:30 | 2024-06-27 | 2024-07-27 |
@@ -216,6 +216,7 @@
 | [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 | 2024-08-06 | 2024-10-28 |
 | [mille volte](https://open.spotify.com/track/25SiCsC78X1wc3pd9snYdv) | [EMSAISI](https://open.spotify.com/artist/2eTMp0eYaCw62RedR7SBci) | [mille volte](https://open.spotify.com/album/0Fe66SxgFLTMYwbAcSSR7d) | 3:17 | 2025-01-30 |  |
 | [MONDO CONVENIENZA](https://open.spotify.com/track/0IKSHbq0ArWlTbvdP0fxAq) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [MONDO CONVENIENZA](https://open.spotify.com/album/2YySYUtKAf647Vr7lscVBr) | 2:39 | 2024-06-27 | 2024-07-05 |
+| [Morta d'amore](https://open.spotify.com/track/6XEK2VLdMdiZ6d71chw1ui) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Morta d'amore](https://open.spotify.com/album/7sNKBSusBvdPTMHgzozPaw) | 2:46 | 2025-03-05 |  |
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-07-25 | 2024-11-15 |
 | [Musica Leggera](https://open.spotify.com/track/7mXPJ6NdjuaMbPAKeaGkpM) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Musica Leggera](https://open.spotify.com/album/1tX6OniSv0iRTnNZMcKM2m) | 2:49 | 2024-08-22 | 2024-10-11 |
 | [Ne faccio un dramma](https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Ne faccio un dramma](https://open.spotify.com/album/4b1qHeGBrpXCMx5C1EX9xw) | 2:10 | 2024-06-27 | 2024-10-01 |

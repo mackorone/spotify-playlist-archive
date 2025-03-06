@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: THEY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,216 likes - 167 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,234 likes - 167 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 166 | [All In](https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 2](https://open.spotify.com/album/1kKLTqxjORqsUzFeSQGO2J) | 2:30 |
 | 167 | [Pick Me Up](https://open.spotify.com/track/3nZ59MwXaecUYaGNG4WJQg) | [The Amours](https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE), [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Pick Me Up](https://open.spotify.com/album/2khaN3vR0pSYpusPLjDGh4) | 2:50 |
 
-Snapshot ID: `Z8FeIAAAAACBhNi4olOwPXlVFBHaojc/`
+Snapshot ID: `Z8FeIAAAAABZwgavbvg7JYhklJzvatqL`

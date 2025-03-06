@@ -12701,6 +12701,24 @@
     },
     {
       "album": {
+        "name": "BTODAY",
+        "url": "https://open.spotify.com/album/6zL4ZHKGmKkzQktkjGOq1K"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "LOVE TODAY",
+      "url": "https://open.spotify.com/track/1oyuzoohgPr3SXcVa3gS4g"
+    },
+    {
+      "album": {
         "name": "Love War",
         "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > All new music with an Indie twist\. Cover: Naaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,928 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,926 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 89 | [echoes \- single edit](https://open.spotify.com/track/4nO9T3rZFnCEjx54GP2qzu) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb) | [echoes](https://open.spotify.com/album/2JKmrZlsqCJ6ragvmgGNon) | 2:45 |
 | 90 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 |
 
-Snapshot ID: `Z8DuoQAAAAB90ytMcM+cd9lsoQ7Yszie`
+Snapshot ID: `Z8DuoQAAAABeS7le9sPNJvU12KEu1fjj`

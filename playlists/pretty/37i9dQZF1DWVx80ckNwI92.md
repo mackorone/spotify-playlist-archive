@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F?si=lrk3b\_7MRLOdKKZ8\-PG2kQ">Njoki Karu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,215 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,222 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

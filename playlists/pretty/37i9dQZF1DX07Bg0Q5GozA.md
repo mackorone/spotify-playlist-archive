@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: orbit, Post Meridiem, Parra for Cuva
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,532 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,517 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 |
 | 75 | [Casualities \- GRIFE & Albuquerque Remix](https://open.spotify.com/track/4Fo16iRDm4KJBhJuffmPS5) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [GRIFE](https://open.spotify.com/artist/0peVkBhumiuUyxMqc9EGUR), [Albuquerque](https://open.spotify.com/artist/0oGbLQeo6eK2278pQf4atC), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Casualities \(GRIFE & Albuquerque Remix\)](https://open.spotify.com/album/77RGy3uVZVMouROkLAAa4A) | 7:20 |
 
-Snapshot ID: `Z8DulQAAAACJEZRB2hls2fBHfAlz0rMN`
+Snapshot ID: `Z8DulQAAAAA7RmVXfX1Iox0E0fpT0Rgu`

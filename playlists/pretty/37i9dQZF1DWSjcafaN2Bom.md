@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,539 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,576 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -302,7 +302,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 292 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
 | 293 | [Can't Get Enough of You Baby](https://open.spotify.com/track/0oDabL89N3jO4qnGMANjAS) | [The Colourfield](https://open.spotify.com/artist/06Rbwc8jaQ1d5fDPZiasE0) | [Virgins and Philistines](https://open.spotify.com/album/2FYZFnSB9B0DLwFQlRwbNn) | 2:22 |
 | 294 | [I Want You To Want Me \- Soundtrack](https://open.spotify.com/track/3oX3F14vpkCMJnFoF3DSEr) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [10 Things I Hate About You](https://open.spotify.com/album/2wQ7olOHDHVpgKmKajOxDf) | 3:25 |
-| 295 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:18 |
+| 295 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:19 |
 | 296 | [Semi\-Charmed Life \(From "American Pie 1"\)](https://open.spotify.com/track/37GEDNmzwJUaw2NhOD0ojy) | [The Hollywood Soundtrack Band](https://open.spotify.com/artist/1euVCpuUA9f8hoxZDa2bWq) | [Music from the American Pie Movies](https://open.spotify.com/album/0qol6kHx4JG7cRluGFC8Sh) | 3:40 |
 | 297 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 298 | [Alright](https://open.spotify.com/track/0jNU3Khf2j07P7KV0p9hTD) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Clueless / Original Motion Picture Soundtrack](https://open.spotify.com/album/3OrviLrUARxsTuGdWdQTMh) | 3:01 |

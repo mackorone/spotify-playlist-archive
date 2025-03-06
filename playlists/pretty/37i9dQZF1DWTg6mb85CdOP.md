@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Celebremos la magia de estar juntxs, ¡Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href="https://bahidora.com//"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,771 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,772 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 68 | [Miso](https://open.spotify.com/track/3mDRf1zjvoSOlIGjcIZdJ6) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Kinesia](https://open.spotify.com/album/717qkZW9A78xtt11FHM6e6) | 3:32 |
 | 69 | [Hold Me \- Synth\-a\-pella](https://open.spotify.com/track/401IoxkzMv0h4kkuNWyyfZ) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 2:20 |
 | 70 | [Telepathy](https://open.spotify.com/track/2pniyAySZsOuSbfStSQGxk) | [Mystery Affair](https://open.spotify.com/artist/7uC8zxltPgrwtEqWRWwHFv) | [Telepathy](https://open.spotify.com/album/74s3acCJloOEtfjPJCLgPL) | 5:15 |
-| 71 | [Alien Mode](https://open.spotify.com/track/5z0Ax4PO7lk4soofizbRjj) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Alien Mode](https://open.spotify.com/album/61uZXQS5ixS4SbNzuRToKr) | 6:03 |
-| 72 | [Still Flowing Water](https://open.spotify.com/track/6mUcXOfpjOwlIeSZ7WXdkL) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic / Still Flowing Water](https://open.spotify.com/album/5aP5JuYG4xOpdRU7MTOloL) | 5:59 |
+| 71 | [Still Flowing Water](https://open.spotify.com/track/6mUcXOfpjOwlIeSZ7WXdkL) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic / Still Flowing Water](https://open.spotify.com/album/5aP5JuYG4xOpdRU7MTOloL) | 5:59 |
+| 72 | [Alien Mode](https://open.spotify.com/track/5z0Ax4PO7lk4soofizbRjj) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Alien Mode](https://open.spotify.com/album/61uZXQS5ixS4SbNzuRToKr) | 6:03 |
 | 73 | [Paradise Architects](https://open.spotify.com/track/5ZRwdo1UUMOKh3wXEJJxRL) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [First Floor](https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua) | 6:02 |
 | 74 | [Rave Escape](https://open.spotify.com/track/7uoGsf6BKGDMtQcg4HNgGa) | [Zombies In Miami](https://open.spotify.com/artist/42ZWiibQTSxTJSBV7oziPy), [Mystery Affair](https://open.spotify.com/artist/7uC8zxltPgrwtEqWRWwHFv) | [Empatia](https://open.spotify.com/album/11PANYFNyhBYDrfPogUE26) | 6:27 |
 | 75 | [Tibet](https://open.spotify.com/track/1V36A17ZSWakulIEDX71al) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Rosa Pistola](https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX) | [SOUND BLASTA](https://open.spotify.com/album/0JyZ583PiMYMhNLI7pWxRy) | 2:27 |

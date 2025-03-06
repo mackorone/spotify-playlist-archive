@@ -4,7 +4,7 @@
 
 > 
 
-39 songs - 2 hr 53 min
+41 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Blackest Eyes \- Remastered](https://open.spotify.com/track/72MXwlutXRUV31lmFhylgn) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [In Absentia \(Deluxe \- Remastered\)](https://open.spotify.com/album/38d7C2XIoUX0v5cU0HuSSW) | 4:24 | 2024-07-17 |  |
 | [Bread & Wine](https://open.spotify.com/track/6CgrS3cN3hBo4uCft5uFom) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Love & War & The Sea In Between](https://open.spotify.com/album/3jrVFS6lW7HvxOKN7QPQC8) | 3:54 | 2024-05-10 |  |
 | [Can't Win For Nothing](https://open.spotify.com/track/3wTOBV4b65YjvwOYs2yCuY) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Results Take Time](https://open.spotify.com/album/2ZNgCAl9uWdJiil7vb45LP) | 3:50 | 2024-04-15 |  |
+| [Carry No Thing](https://open.spotify.com/track/3bJs7zfcoFrHEPiB0VwQmy) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Carry No Thing](https://open.spotify.com/album/5o2w9W01C8EI12pigBbazh) | 3:23 | 2025-03-05 |  |
 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 | 2024-04-08 | 2024-05-03 |
 | [Chasing Ghosts](https://open.spotify.com/track/5NsejBqTH83xlbKFdjScSw) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [We Go On](https://open.spotify.com/album/6R41RzrVQb0K3VCkz6JVWe) | 3:24 | 2024-04-08 | 2024-10-29 |
 | [Crooked Ways \(feat\. Terence F\. Clark\)](https://open.spotify.com/track/3qmofcHM3aKP3OADKjAORj) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Terence F\. Clark](https://open.spotify.com/artist/1POjjGDdXoEeXv27GsMxp5) | [Crooked](https://open.spotify.com/album/3HmkL2AENDW4XO9Da0NGy9) | 6:22 | 2024-05-02 | 2024-05-17 |
@@ -23,6 +24,7 @@
 | [Enemy, love.](https://open.spotify.com/track/1FJuSxwLugTKphYmrLDuhn) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:18 | 2024-04-25 | 2024-05-11 |
 | [Go On](https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sleep Through The Static](https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz) | 4:34 | 2024-04-15 | 2024-07-18 |
 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2024-04-08 | 2024-04-16 |
+| [heart pt\. 6](https://open.spotify.com/track/1x95pL62pLkxgPprH9ONkQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 4:52 | 2025-03-05 |  |
 | [Hold On, We're Going Home \- Live](https://open.spotify.com/track/3ERYCA53SPsF1M8JboN7ld) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Crowder’s Neon Porch Extravaganza \(Live\)](https://open.spotify.com/album/06Sgy5mHvpIRy2a2Jv4dUo) | 1:42 | 2024-07-17 | 2024-10-30 |
 | [HUMBLE.](https://open.spotify.com/track/131OLY5J8XyfGuSjXRiTRM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/0bLXUfNT34mna9aXq8ex68) | 2:57 | 2024-05-13 | 2024-07-18 |
 | [King Kunta](https://open.spotify.com/track/043Rs5H7XAV2soPAy88x02) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/6w7lqIsvDPgTChMrPw5oIL) | 3:54 | 2024-05-10 | 2024-05-14 |
@@ -42,10 +44,10 @@
 | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/track/1XQrURR1zMs91M7XwVCIBr) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/album/7rkPDl2dV4YS2WoR1fkPJO) | 2:51 | 2024-06-02 | 2024-07-19 |
 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/6P8bxNBbTGozvidJV9fjrG) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:36 | 2024-07-17 |  |
 | [The Truth Is a Cave](https://open.spotify.com/track/27TPKGBLVn1Bv3B2thAzqz) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Through the Deep, Dark Valley](https://open.spotify.com/album/26kBAsDf3wwT8pzlBB9M0R) | 4:00 | 2024-07-17 |  |
-| [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-30 |  |
+| [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-30 | 2025-03-06 |
 | [Turn Me Up](https://open.spotify.com/track/0i6MFSVoW9FRPwEau74Wrq) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:44 | 2024-05-10 |  |
 | [Universal Sound](https://open.spotify.com/track/48nZLOpJOINkICPWpUuhaN) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:41 | 2024-04-08 | 2024-04-16 |
 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 | 2024-04-08 | 2024-07-18 |
-| [Wake \- Live at Hangar 30](https://open.spotify.com/track/6ZxZlX6pnriCAHKstRlCKW) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [LIVE AT HANGAR 30](https://open.spotify.com/album/3p6yQAl3iw0jF4m3Vsi9FC) | 3:57 | 2024-07-18 |  |
+| [Wake \- Live at Hangar 30](https://open.spotify.com/track/6ZxZlX6pnriCAHKstRlCKW) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [LIVE AT HANGAR 30](https://open.spotify.com/album/3p6yQAl3iw0jF4m3Vsi9FC) | 3:57 | 2024-07-18 | 2025-03-06 |
 
 \*This playlist was first scraped on 2024-04-11. Prior content cannot be recovered.

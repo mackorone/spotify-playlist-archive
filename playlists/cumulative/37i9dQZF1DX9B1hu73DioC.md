@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-884 songs - 2 day 4 hr 28 min
+885 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,7 @@
 | [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 | 2020-10-16 | 2022-11-18 |
 | [Mrs Magic](https://open.spotify.com/track/45BBlVHECwB0uNt7BsJ97r) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/1q7N3YyxCng8awmwE3dNn5) | 3:28 | 2020-12-31 | 2022-04-21 |
 | [Mrs\. Moody](https://open.spotify.com/track/7lO1jT9SBPFdubZGRNW6Hz) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Mrs\. Moody](https://open.spotify.com/album/7v6FhnCjqSjCDC5ny9kIA0) | 3:08 | 2022-03-07 | 2022-07-25 |
-| [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 | 2024-10-04 |  |
+| [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 | 2024-10-04 | 2025-03-06 |
 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-04-16 |  |
 | [My Girl](https://open.spotify.com/track/5aMYIxnTTVIGxdey7ULrRL) | [Oshi](https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs) | [My Girl](https://open.spotify.com/album/4voikfQLmfd122fTT7rgGC) | 3:35 | 2021-09-10 | 2022-04-20 |
 | [My Kind Of Woman](https://open.spotify.com/track/4tXzPOr4UaBoA7k7pnpJI1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/0Skv3s5A99n7dstiJOs0aA) | 3:10 | 2020-11-17 | 2022-04-21 |
@@ -605,6 +605,7 @@
 | [Outside](https://open.spotify.com/track/4TX9ZeGeNol9GYTUqUAUSe) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [EP III](https://open.spotify.com/album/4DAEmnrLvgEYRWOVuAbqOn) | 4:10 | 2021-03-16 | 2022-04-01 |
 | [Outside Sublime](https://open.spotify.com/track/1N4JlfiTYPcC3b1SoVs3qs) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Outside Sublime](https://open.spotify.com/album/6tHq2166Kekr60uJly4sqT) | 3:31 | 2020-10-05\* | 2020-10-06 |
 | [Pack a Punch](https://open.spotify.com/track/2YmHg6zdtaGNYI31CkjN5p) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Pack a Punch](https://open.spotify.com/album/4Anv5S75ByF5yZlbh6Lgc8) | 3:42 | 2021-11-19 | 2022-06-04 |
+| [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 | 2025-03-03 |  |
 | [PARADISE](https://open.spotify.com/track/2TZo3UoRcB3F9CjeglnvS0) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/5xTqXvl7kekwLUaoZ0f3V1) | 2:21 | 2024-11-15 | 2025-03-02 |
 | [PARADISE](https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy) | 2:21 | 2023-12-12 | 2024-04-06 |
 | [PARADISE](https://open.spotify.com/track/6rZjqLz4k7psYLWDgDTw8l) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/5oLudn7CAOILun2yHH48jB) | 2:21 | 2023-10-02 | 2023-12-09 |

@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-318 songs - 16 hr 51 min
+319 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [UNMARKETABLE](https://open.spotify.com/track/1GXQG1drYNjW9EmZ60RkLY) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal), [AQUASINE](https://open.spotify.com/artist/77ncj3o51Ng6KaJCp5wTiG) | [UNMARKETABLE](https://open.spotify.com/album/3jG4mLZZsaBBaMVNCKMQkl) | 2:06 | 2024-05-28 |  |
 | [Voices in my head](https://open.spotify.com/track/47q6JbwiwqxIud1FcbbCDm) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi), [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Chapter 2](https://open.spotify.com/album/0EWerXaZCXA5KmMfEKJN2x) | 2:41 | 2024-07-14 |  |
 | [Wag My Tail](https://open.spotify.com/track/706eKOKkaHuRjxd25q1WZo) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Wag My Tail](https://open.spotify.com/album/2sBXtD2bY1FaiXTzIft4qB) | 3:56 | 2023-11-22 |  |
+| [wander.lust](https://open.spotify.com/track/0eBtfJOkHatbzcUNddyl7r) | [ajackal](https://open.spotify.com/artist/3Wo7ai7t0QS53RBsBl6g7n) | [wander.lust](https://open.spotify.com/album/0Z8ge9a7kCcQndVfh8qX62) | 1:58 | 2025-03-05 |  |
 | [what the](https://open.spotify.com/track/6QY4EGyvY1sKaIUEJAk00e) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [what the](https://open.spotify.com/album/5oJwI2DMsXCCq0tiinA843) | 1:53 | 2023-06-14 |  |
 | [whatisthetruth](https://open.spotify.com/track/48m5yGOpFG7QAn8EY9ZKKi) | [nightstand lullaby](https://open.spotify.com/artist/0uHNW8Qq4LAZGMMrw66ceM), [InkyFirefly](https://open.spotify.com/artist/5OoLdY1AxARoc1Le6HbrsL) | [dilation](https://open.spotify.com/album/29MNuASiq6KXf6A4IPrQLM) | 3:18 | 2024-11-18 |  |
 | [When I Say Go](https://open.spotify.com/track/7uLYm4sGWIyuLEe0UBbrPR) | [CaseJackal](https://open.spotify.com/artist/7g70RbgaRstVaB30WRBOP8), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [When I Say Go](https://open.spotify.com/album/0ADMGJ1s5a6QkTLzYhcEXt) | 4:21 | 2024-03-06 |  |

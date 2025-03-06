@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89eFqyQeAQP.md) - [plain]
 
 > Enjoy the IVE Seoul concert LIVE SET including the voices of them on stage! \(아이브의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,082 likes - 30 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,106 likes - 30 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

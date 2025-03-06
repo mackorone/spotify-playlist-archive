@@ -1,13 +1,33 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3622,
+  "num_followers": 3626,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8TxAAAAAABAh8zQxV/FfghN3KVpARa3",
+  "snapshot_id": "Z8ZCgAAAAAB+NVal1EupByP7Bz0pHRtf",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Impressions (feat. Madison Cunningham)",
+        "url": "https://open.spotify.com/album/6xeD1QV6tIq2uzIZeZRmQJ"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Impressions (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/6vgV9COfjlPVbz3R2QgJRC"
+    },
     {
       "added_at": null,
       "album": {
@@ -431,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE",
-        "url": "https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
       "artists": [
-        {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 166135,
-      "name": "Arrow Through Me",
-      "url": "https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL"
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": null,
@@ -471,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX"
       },
       "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+      "duration_ms": 166135,
+      "name": "Arrow Through Me",
+      "url": "https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL"
     },
     {
       "added_at": null,
@@ -787,26 +807,6 @@
       "duration_ms": 239120,
       "name": "I Close My Eyes",
       "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WELL WELL",
-        "url": "https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc"
-      },
-      "artists": [
-        {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 150444,
-      "name": "Braver (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5v7u7TkiuIhS9iD7zS3B96"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Naomi
 
-3,145 songs - 6 day 22 hr 53 min
+3,146 songs - 6 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Certifié](https://open.spotify.com/track/1nA1QtJzSomE13YuGA4K7W) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Certifié](https://open.spotify.com/album/4FPJakUjGGmXoRnD2UKSFI) | 2:30 | 2024-04-19 | 2024-04-27 |
 | [Cette année\-là](https://open.spotify.com/track/10JrUDqAjSR8JlcFj6GK8i) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:08 | 2022-12-23 | 2023-01-06 |
 | [Cette année\-là](https://open.spotify.com/track/41NJluEub1MMcwkUo411an) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:08 | 2022-12-02 | 2023-01-04 |
+| [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 | 2025-02-28 |  |
 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2024-11-15 | 2025-02-13 |
 | [Cette vie](https://open.spotify.com/track/2COzs35KuKto9iRL9RIZRg) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Cette vie](https://open.spotify.com/album/314caeDoxMmpPdP1aoPcyC) | 2:19 | 2023-07-28 | 2023-09-30 |
 | [Cha cha](https://open.spotify.com/track/1YyrlP0MgMKq4CKEaURuDN) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Cha cha](https://open.spotify.com/album/5Z1docFNst7CuItaTQmyWd) | 2:43 | 2024-04-05 | 2024-04-13 |
@@ -1514,7 +1515,7 @@
 | [La Vie En Rose](https://open.spotify.com/track/6BpzjdJyNxG2Yf47YLoQah) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Queen of Hearts](https://open.spotify.com/album/6F13Kct2RcazzysroP8157) | 3:04 | 2021-12-31 | 2022-01-22 |
 | [La Vie Qu'on Mène](https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [La Vie Qu'on Mène](https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv) | 2:58 | 2023-11-03 | 2023-12-17 |
 | [La visite](https://open.spotify.com/track/2wqyaiPDgS5ZZrFlx1Q35V) | [Veranda](https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M) | [Là\-bas](https://open.spotify.com/album/2KWmLmZE7yZ8bwjCaHhpPK) | 3:53 | 2022-09-16 | 2022-09-24 |
-| [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 | 2025-02-21 |  |
+| [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 | 2025-02-21 | 2025-03-06 |
 | [La vérité](https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [La vérité](https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9) | 2:20 | 2024-10-18 | 2024-12-15 |
 | [Lady Renarde](https://open.spotify.com/track/3EbASRjxu4gSNOQBJJVaYJ) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Lady Renarde](https://open.spotify.com/album/4J1K1l4YEcDanstwGuvwtV) | 3:44 | 2024-02-16 | 2024-02-24 |
 | [Laisse faire](https://open.spotify.com/track/7eFQnRjylo3pQbelR1R4Pz) | [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Laisse faire](https://open.spotify.com/album/3H8t91CIYSCZq8tEYobUio) | 3:04 | 2023-03-10 | 2023-03-18 |

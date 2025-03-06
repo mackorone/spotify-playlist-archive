@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uq4r3Htg4F.md) - [plain]
 
 > Listen to the soundtracks of the Maestra\. \(마에스트라 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,879 likes - 51 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,881 likes - 51 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uq4r3Htg4F.md) - [plain]
 | 50 | [Land of Hope and Glory \- Arr\. from "Pomp and Circumstance" March No\. 1](https://open.spotify.com/track/3DsF1AWTgtwsS1mliUTRr1) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Royal Choral Society](https://open.spotify.com/artist/5ZZuomULtPht0QLx2k0PEt), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) | [The Last Night of the Proms Collection](https://open.spotify.com/album/3fangwp3NK04GxCk0RUY3F) | 5:53 |
 | 51 | [Trumpet Concerto in E\-Flat Major, Hob\. VIIe:1: III\. Allegro](https://open.spotify.com/track/5S4nwf3kgAxtUr0SrFiErP) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Czech Philharmonic Chamber Orchestra](https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M), [Petr Skvor](https://open.spotify.com/artist/3X4vtZfo29CzvenatIDhf1), [Miroslav Kejmar](https://open.spotify.com/artist/3NpSilixvAmrHBlWac5HG6) | [Haydn: Trumpet Concertos](https://open.spotify.com/album/72aUSy6ycOx6k8w6jz2FNV) | 4:40 |
 
-Snapshot ID: `ZadMDwAAAABpSJKNVsTM7QBZs7StCDou`
+Snapshot ID: `ZadMDwAAAAD1RF2grsn5kQTIPylw9YfS`

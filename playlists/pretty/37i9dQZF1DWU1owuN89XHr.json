@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 284560,
+  "num_followers": 284578,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "De Ti o de Nadie",
+        "url": "https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x"
+      },
+      "artists": [
+        {
+          "name": "Carlos Mac\u00edas",
+          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
+        }
+      ],
+      "duration_ms": 199993,
+      "name": "Usted No Deber\u00eda",
+      "url": "https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "De Ti o de Nadie",
-        "url": "https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x"
-      },
-      "artists": [
-        {
-          "name": "Carlos Mac\u00edas",
-          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
-        }
-      ],
-      "duration_ms": 199993,
-      "name": "Usted No Deber\u00eda",
-      "url": "https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1035,26 +1035,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "M\u00e1s Alto",
-        "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
+        "name": "Vicente Feli\u00fa",
+        "url": "https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX"
       },
       "artists": [
         {
-          "name": "Rosal\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
-        },
-        {
-          "name": "Kelvis Ochoa",
-          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
-        },
-        {
-          "name": "Joe Demikeli",
-          "url": "https://open.spotify.com/artist/6eTKdlYtVBJQbwdsgsxm1J"
+          "name": "Vicente Feli\u00fa",
+          "url": "https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT"
         }
       ],
-      "duration_ms": 259066,
-      "name": "Espectro",
-      "url": "https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH"
+      "duration_ms": 201338,
+      "name": "Esther homenaje",
+      "url": "https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1075,18 +1067,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Vicente Feli\u00fa",
-        "url": "https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX"
+        "name": "M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
       "artists": [
         {
-          "name": "Vicente Feli\u00fa",
-          "url": "https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT"
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        },
+        {
+          "name": "Kelvis Ochoa",
+          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
+        },
+        {
+          "name": "Joe Demikeli",
+          "url": "https://open.spotify.com/artist/6eTKdlYtVBJQbwdsgsxm1J"
         }
       ],
-      "duration_ms": 201338,
-      "name": "Esther homenaje",
-      "url": "https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO"
+      "duration_ms": 259066,
+      "name": "Espectro",
+      "url": "https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH"
     },
     {
       "added_at": "2021-07-29 16:46:05",

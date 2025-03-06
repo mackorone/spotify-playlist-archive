@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 280813,
+  "num_followers": 280956,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+      },
+      "artists": [
+        {
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
         "name": "\u00c9xitos los Corraleros de Majagual",
         "url": "https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 158515,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/07LEfeN7VeSRQJ9Ejn2ZQ3"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
-        "name": "Cumbia de Marisol",
-        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
-      },
-      "artists": [
-        {
-          "name": "Supergrupo Son Tepito",
-          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Cumbia de Marisol",
-      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Serie Diamante - 15 S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
         "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 245031,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "Serie Diamante - 15 S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/1lQzhAOSfvL2yBZwkdL8xR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "La Sirenita",
-      "url": "https://open.spotify.com/track/4lnMgeHkR4eS2diGff2YL9"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "Silbando",
         "url": "https://open.spotify.com/album/4AOhk71w9BIDc99SEKMj6W"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 187946,
       "name": "Silbando",
       "url": "https://open.spotify.com/track/5fel4W1fI1okSmp7GwRG0l"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/1lQzhAOSfvL2yBZwkdL8xR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "La Sirenita",
+      "url": "https://open.spotify.com/track/4lnMgeHkR4eS2diGff2YL9"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "30 Exitos de Oro 30, Vol. 1",
-        "url": "https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf"
-      },
-      "artists": [
-        {
-          "name": "La Suerte Sonidera",
-          "url": "https://open.spotify.com/artist/6OUVtbAqtQ3lm9F7AvGx3v"
-        }
-      ],
-      "duration_ms": 243565,
-      "name": "Enamorada de un Amigo Mio",
-      "url": "https://open.spotify.com/track/3z2T45ct8degaDYLsbQyBw"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "50 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 181560,
       "name": "El Cable",
       "url": "https://open.spotify.com/track/3QwrlXr3N7FWhQwZEAR8q8"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "30 Exitos de Oro 30, Vol. 1",
+        "url": "https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf"
+      },
+      "artists": [
+        {
+          "name": "La Suerte Sonidera",
+          "url": "https://open.spotify.com/artist/6OUVtbAqtQ3lm9F7AvGx3v"
+        }
+      ],
+      "duration_ms": 243565,
+      "name": "Enamorada de un Amigo Mio",
+      "url": "https://open.spotify.com/track/3z2T45ct8degaDYLsbQyBw"
     },
     {
       "added_at": "2024-07-11 00:09:39",

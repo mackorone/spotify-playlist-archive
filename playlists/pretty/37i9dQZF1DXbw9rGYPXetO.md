@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > Hottest tracks from Coke Studio Bharat\. Cover: 'Holi Aayi Re' by Vishal Mishra, Malini Awasthi & Prateeksha Srivastava
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,832 likes - 15 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,830 likes - 15 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-926 songs - 1 day 15 hr 34 min
+928 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Clinging](https://open.spotify.com/track/1CUnJZPEP3AwrGz5L9a052) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Clinging](https://open.spotify.com/album/1Btk5i0HowHnOV0c8gkmTS) | 3:05 | 2022-10-13 | 2023-10-07 |
 | [Close](https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Close](https://open.spotify.com/album/0QmY2x8QMVeGjrZEVkmdQs) | 2:03 | 2025-02-26 |  |
 | [Closer](https://open.spotify.com/track/7xB4ErvUJTglvf4dXx8MWL) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Closer](https://open.spotify.com/album/6VzBJs7FDfaGi2MnFRQvYt) | 2:24 | 2021-12-07 | 2022-05-06 |
+| [Clouds](https://open.spotify.com/track/3Kh7SwnaYrFOFHoVow98w7) | [Marinenko](https://open.spotify.com/artist/2SakhZoZ1yklBM7XhWf7AA) | [Clouds](https://open.spotify.com/album/39s00lORhE8uVodSvyRx80) | 2:45 | 2025-03-05 |  |
 | [Color Me Blue](https://open.spotify.com/track/1PYVWMwBocquvlCpYzwwxA) | [Akane](https://open.spotify.com/artist/3cQWVFVI26yJH3HBVr25bR) | [Color Me Blue](https://open.spotify.com/album/1OKTvmPzUpW1j3elbz89EF) | 3:10 | 2021-12-07 | 2022-05-06 |
 | [Colours](https://open.spotify.com/track/7x9uO7wEdRrqtlDhqlCILt) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Colours](https://open.spotify.com/album/3Kc6V9aOSHmpLVl2UrGjgn) | 3:06 | 2022-05-05 | 2023-09-26 |
 | [Come to Peace](https://open.spotify.com/track/4hCGv1Y79lu6FaMeXIVRdP) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Come to Peace](https://open.spotify.com/album/5wL2Tir48QLh3pUpUIykjX) | 2:31 | 2024-11-26 |  |
@@ -239,6 +240,7 @@
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2021-12-07 | 2024-04-04 |
 | [Etc...](https://open.spotify.com/track/5h4x9rXrsUALN1eYzY611B) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Hymnus Faunus](https://open.spotify.com/album/3jKzoIOYPUKxduucDofbCh) | 2:42 | 2021-12-07 | 2022-02-15 |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2021-12-07 | 2023-03-09 |
+| [Evanescent](https://open.spotify.com/track/3pnSEFUzTsRZtb57Pv98vC) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Evanescent](https://open.spotify.com/album/6SbFSRoB4pTDzMafHkzStk) | 2:38 | 2025-03-05 |  |
 | [Evening](https://open.spotify.com/track/1O20Wf66xnmyiFITgfq0no) | [Sakkari](https://open.spotify.com/artist/6vdV4uIfIEB62qFn9KqE2I) | [Evening](https://open.spotify.com/album/2ghCnGPfjGW3P11ZQuyF8A) | 1:37 | 2022-10-24 | 2023-07-19 |
 | [Evergreen Tree](https://open.spotify.com/track/4OMvHo3qtNJ2rgo6P1LjB1) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Claudia](https://open.spotify.com/album/3jHGLuvTzPVEeXwjXe3HjW) | 3:00 | 2021-12-07 | 2022-05-06 |
 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 | 2021-12-07 | 2023-06-17 |

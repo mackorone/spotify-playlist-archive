@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Euronites",
+        "url": "https://open.spotify.com/album/2X2wLhDxQF1HGunasIEdjr"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175746,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/4g9HX5pBd1CHk4oq7vM9B0"
+    },
+    {
+      "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO"
       },

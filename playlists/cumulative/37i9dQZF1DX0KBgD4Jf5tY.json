@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente italiana, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:60hS0Wt0Px2B3rr9Zzur8E\">Sbazzee</a>",
+  "description": "Solo musica indipendente italiana, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:60hS0Wt0Px2B3rr9Zzur8E\">Coco93</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -1402,6 +1402,24 @@
       "duration_ms": 161142,
       "name": "AlberoNelBosco",
       "url": "https://open.spotify.com/track/2IkcJSWmeYejS0KmW7OhyG"
+    },
+    {
+      "album": {
+        "name": "ALE ALE",
+        "url": "https://open.spotify.com/album/6P4NLFfq0fkB3RO4CWxycp"
+      },
+      "artists": [
+        {
+          "name": "Vnubi",
+          "url": "https://open.spotify.com/artist/1Q9xOa8YwVuNBwkR2HFii8"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "ALE ALE",
+      "url": "https://open.spotify.com/track/1xBtbp9ZVo17IpjKz9HRZC"
     },
     {
       "album": {
@@ -3118,10 +3136,28 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 205135,
       "name": "bestie",
       "url": "https://open.spotify.com/track/4JdSRWgE3FMMj6Ptwwfkdb"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/13MCQ6tgRwCXlEhyDUuUXf"
+      },
+      "artists": [
+        {
+          "name": "Adriana",
+          "url": "https://open.spotify.com/artist/2h7JR7HbfDuNKibkk9GkDq"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1AGvoZWiEL3cUGKSLQdyOt"
     },
     {
       "album": {
@@ -3617,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/2zYSivNQ6vyYMgA8SvZtfo"
+      },
+      "artists": [
+        {
+          "name": "GIMA",
+          "url": "https://open.spotify.com/artist/2mWd2GZ0OtmKom3LSqvjcH"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177454,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/2apryPbnyXcLiZi2rNMODg"
+    },
+    {
+      "album": {
         "name": "Bugie bianche",
         "url": "https://open.spotify.com/album/37Yadtrb8JoTs9hxSnmQMA"
       },
@@ -3866,7 +3920,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 190029,
       "name": "C'\u00e8 Silenzio",
       "url": "https://open.spotify.com/track/599dEwtqHsZEQX8uSjbjJR"
@@ -5791,6 +5845,24 @@
     },
     {
       "album": {
+        "name": "CONTALI",
+        "url": "https://open.spotify.com/album/3NVEQxGmIqfWwoWGzFihCj"
+      },
+      "artists": [
+        {
+          "name": "Coco93",
+          "url": "https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123310,
+      "name": "CONTALI",
+      "url": "https://open.spotify.com/track/3lLS7eOIc0EmvAUN3xkKcD"
+    },
+    {
+      "album": {
         "name": "CONTRONATURA",
         "url": "https://open.spotify.com/album/1noCRfkQquWF7BSMZwjnJX"
       },
@@ -7332,7 +7404,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 199183,
       "name": "DSA",
       "url": "https://open.spotify.com/track/14aXUJEa4EheDKr007CxAh"
@@ -12645,6 +12717,24 @@
     },
     {
       "album": {
+        "name": "LASCIAMI ANDARE",
+        "url": "https://open.spotify.com/album/2u7M8aeOQl2hh24gV9Mkbq"
+      },
+      "artists": [
+        {
+          "name": "Dheo",
+          "url": "https://open.spotify.com/artist/4cqOx4TqvaYkvSBIjoaeCf"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161783,
+      "name": "LASCIAMI ANDARE",
+      "url": "https://open.spotify.com/track/5ggp9FPGtuoMoa40zQ5WHP"
+    },
+    {
+      "album": {
         "name": "LE D\u00c8LIRE",
         "url": "https://open.spotify.com/album/4fkoLmJ6Acd6y7ktodaGwP"
       },
@@ -13908,7 +13998,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 197542,
       "name": "Maggio",
       "url": "https://open.spotify.com/track/6wg2JoLd5YmoU2wANbDEpk"
@@ -14430,6 +14520,24 @@
       "duration_ms": 197295,
       "name": "Marta Vive",
       "url": "https://open.spotify.com/track/4mlZkVhL34iUjN6hCNOCrz"
+    },
+    {
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/1UVsyffUBSgF2GfbXT33aT"
+      },
+      "artists": [
+        {
+          "name": "Kapri",
+          "url": "https://open.spotify.com/artist/1B4R8XKme2Ax87Fp2aoL14"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123271,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/3aJZw1kbppqcijZHNgIrcV"
     },
     {
       "album": {
@@ -16303,6 +16411,36 @@
     },
     {
       "album": {
+        "name": "NO WAY",
+        "url": "https://open.spotify.com/album/7HlYk39ojfEhIPHHJEl3Bi"
+      },
+      "artists": [
+        {
+          "name": "L8",
+          "url": "https://open.spotify.com/artist/1VNrPzqJ2QIxItjOy7T4wu"
+        },
+        {
+          "name": "LMPills",
+          "url": "https://open.spotify.com/artist/1RXxj9M3y52bKFlWjAsGIV"
+        },
+        {
+          "name": "Pit Le Funk",
+          "url": "https://open.spotify.com/artist/3qjALyVXlUVSBBGJaRlpMr"
+        },
+        {
+          "name": "Mark Roland",
+          "url": "https://open.spotify.com/artist/48KJT69yANijhApW2Gc7ql"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191241,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/2nmnMonrtE28LqDpnqiFQe"
+    },
+    {
+      "album": {
         "name": "Nodi con l'aria",
         "url": "https://open.spotify.com/album/7gLr6ao4XsuLoGfTEWkjQ9"
       },
@@ -16670,6 +16808,24 @@
       "duration_ms": 160291,
       "name": "Non ci penso",
       "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
+    },
+    {
+      "album": {
+        "name": "Non Dico Niente",
+        "url": "https://open.spotify.com/album/6TfYu1LYqK8Ug6RGuG2zgj"
+      },
+      "artists": [
+        {
+          "name": "Laura Vittoria",
+          "url": "https://open.spotify.com/artist/3DZbJQ0PbhS9mBFIHZNDDs"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211501,
+      "name": "Non Dico Niente",
+      "url": "https://open.spotify.com/track/0LVpnXtwlsirAMe65Z0LAW"
     },
     {
       "album": {
@@ -17957,6 +18113,28 @@
     },
     {
       "album": {
+        "name": "Ombra",
+        "url": "https://open.spotify.com/album/6V7BhsMt4tInhYuO7tyK6L"
+      },
+      "artists": [
+        {
+          "name": "Najma",
+          "url": "https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk"
+        },
+        {
+          "name": "Manuella",
+          "url": "https://open.spotify.com/artist/4mNpaW95c2eon9YyASX8M0"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192250,
+      "name": "Ombra",
+      "url": "https://open.spotify.com/track/3P8nvWpwM6TuGHB4a24ZVk"
+    },
+    {
+      "album": {
         "name": "ON",
         "url": "https://open.spotify.com/album/0ht3tzIAvy8eTTfx7rT1j1"
       },
@@ -18514,7 +18692,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 136800,
       "name": "paolo",
       "url": "https://open.spotify.com/track/7gtj6Mcq1I7WCvRylEqj6F"
@@ -24725,6 +24903,24 @@
     },
     {
       "album": {
+        "name": "Tanto Tutto Passa",
+        "url": "https://open.spotify.com/album/3hHTNNQoVbFjnZ4e8V3EJf"
+      },
+      "artists": [
+        {
+          "name": "Incremona",
+          "url": "https://open.spotify.com/artist/2V7DiPFCl436j3ZAwyG13n"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132656,
+      "name": "Tanto Tutto Passa",
+      "url": "https://open.spotify.com/track/0wWjSMMugt4LWXZ9OIv57S"
+    },
+    {
+      "album": {
         "name": "Tapparelle",
         "url": "https://open.spotify.com/album/29Ra0ASs9aqOvJRj4DmiIx"
       },
@@ -25658,6 +25854,24 @@
       "duration_ms": 209983,
       "name": "Tu/Albero",
       "url": "https://open.spotify.com/track/6OW4PdI0pF001ANUhDgBsf"
+    },
+    {
+      "album": {
+        "name": "TUKULIA",
+        "url": "https://open.spotify.com/album/13nupPKIzzQNqlv2ie1bLG"
+      },
+      "artists": [
+        {
+          "name": "IDDA",
+          "url": "https://open.spotify.com/artist/1pRhf8tFJk2k1ejw6sRqQK"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "TUKULIA",
+      "url": "https://open.spotify.com/track/6JPKUbZhgir2KEBf8Z5DFx"
     },
     {
       "album": {
@@ -26898,7 +27112,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 172050,
       "name": "vie buie",
       "url": "https://open.spotify.com/track/0v2s6IWZm9YOquDdPzveoS"

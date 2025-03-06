@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "\u0e21\u0e32\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Offroad Kantapon",
+  "description": "\u0e21\u0e32\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BELL WARISARA",
   "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "tracks": [
     {
@@ -1804,8 +1804,8 @@
           "url": "https://open.spotify.com/artist/1n1qyKoHL2ZeVUpGVYrZsL"
         },
         {
-          "name": "SMEW",
-          "url": "https://open.spotify.com/artist/7I8cyXAoAtRWIXvcHUatTe"
+          "name": "Smew",
+          "url": "https://open.spotify.com/artist/3H9OFh5F04b3SCFASMKfjj"
         }
       ],
       "date_added": "2025-02-26",
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 244000,
       "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Good Old Days \u0e23\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33]",
       "url": "https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA"
@@ -2595,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e25\u0e31\u0e1a\u0e44\u0e21\u0e48\u0e1d\u0e31\u0e19 (Sleep Tight)",
+        "url": "https://open.spotify.com/album/6Z1bPXBVelf3jQc4esbRo5"
+      },
+      "artists": [
+        {
+          "name": "DIDIxDADA",
+          "url": "https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170217,
+      "name": "\u0e2b\u0e25\u0e31\u0e1a\u0e44\u0e21\u0e48\u0e1d\u0e31\u0e19 (Sleep Tight)",
+      "url": "https://open.spotify.com/track/3Zm6ydHdqWKx4PkqMOddIq"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e27\u0e07(You're Mine)",
         "url": "https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa"
       },
@@ -2766,6 +2784,24 @@
       "duration_ms": 253636,
       "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
       "url": "https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e04\u0e19\u0e17\u0e35\u0e48\u0e1f\u0e49\u0e32\u0e2a\u0e48\u0e07\u0e21\u0e32\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e09\u0e31\u0e19 (ilysb)",
+        "url": "https://open.spotify.com/album/3DlZnkcwHWq6I3jU1uUtNj"
+      },
+      "artists": [
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e04\u0e19\u0e17\u0e35\u0e48\u0e1f\u0e49\u0e32\u0e2a\u0e48\u0e07\u0e21\u0e32\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e09\u0e31\u0e19 (ilysb)",
+      "url": "https://open.spotify.com/track/1aDDhtSKGhOS3FMx6wMCFa"
     },
     {
       "album": {
@@ -3116,7 +3152,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 306103,
       "name": "\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:7nCIXUCqZmxntAGJMyls5c">Svea S</a> har album ude ❤️‍🔥 <a href="spotify:artist:1WLr84Nec3Bb8xuxgQZGb9">For Evigt I Går</a> ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,134 likes - 113 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,135 likes - 113 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

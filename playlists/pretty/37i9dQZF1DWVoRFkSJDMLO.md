@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: Moliy 🇬🇭
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,967 likes - 74 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,992 likes - 74 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 42 | [Dreams Are Made Of](https://open.spotify.com/track/5OgGzWwwZUnIai4iXpIRrZ) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Viking \(Vybz Is King\) : 10th Year Anniversary](https://open.spotify.com/album/3sNbgXyN0nDNinBvlowOkQ) | 1:55 |
 | 43 | [Feeling Alright](https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:39 |
 | 44 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
-| 45 | [Bukhaar](https://open.spotify.com/track/470YWWqR8RanMV6JM0cxcF) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Bukhaar](https://open.spotify.com/album/4DekJgQN6z4P2EuSnhUIx9) | 3:46 |
+| 45 | [Bukhaar](https://open.spotify.com/track/470YWWqR8RanMV6JM0cxcF) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Bukhaar](https://open.spotify.com/album/4DekJgQN6z4P2EuSnhUIx9) | 3:46 |
 | 46 | [All Over You](https://open.spotify.com/track/4Hf4m5aPeoXxxhDR29PnWO) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [All Over You](https://open.spotify.com/album/14H3fiskpQWJasXznFiSkx) | 2:37 |
 | 47 | [Sober](https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE) | [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Sober](https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ) | 3:05 |
 | 48 | [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 |

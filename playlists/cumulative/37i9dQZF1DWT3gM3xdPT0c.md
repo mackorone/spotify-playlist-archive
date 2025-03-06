@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-401 songs - 17 hr 13 min
+405 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-03-04 | 2022-04-06 |
 | [Endlessly](https://open.spotify.com/track/2tVlSbzameLECtSMMfCslf) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Endlessly](https://open.spotify.com/album/6SR2y0cQ60pCES83O4oIAN) | 2:37 | 2024-09-25 |  |
 | [Epica](https://open.spotify.com/track/0atiY3LbkLweNVGenk79sx) | [Calden](https://open.spotify.com/artist/7Mk4LgnGiyEQldfCtHMXVe) | [Calden](https://open.spotify.com/album/5UbnVjw0edng6BBFivmGhs) | 1:21 | 2022-03-04 | 2022-07-01 |
+| [Esteve](https://open.spotify.com/track/0z79KRpafDe5MduzUC5YhX) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Esteve](https://open.spotify.com/album/6P9fb1BvI1ZrwONnddqgEC) | 2:46 | 2025-03-05 |  |
 | [Eternity](https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6) | [Anshul Karn](https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR) | [Eternity](https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1) | 2:16 | 2022-03-04 | 2022-07-01 |
 | [Evening Glow](https://open.spotify.com/track/51hvO83ZDXLAtuxMb9hiJX) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Evening Glow](https://open.spotify.com/album/0FUnhpLvxWntLrFpwCDpVB) | 2:42 | 2024-10-01 |  |
 | [Evening Rhyme](https://open.spotify.com/track/2SKiHfZj0kYvrEVl8nm6Rq) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Evening Rhyme](https://open.spotify.com/album/4QWODS6k0zUNUkcf0hfRGe) | 2:13 | 2023-01-20 | 2024-05-24 |
@@ -291,6 +292,7 @@
 | [Ripple](https://open.spotify.com/track/35ubLpqwf9B0JJswg5kfP5) | [Mathew Joseph](https://open.spotify.com/artist/3thJquMnhrDJ0dU06Jo9jN) | [Ripple](https://open.spotify.com/album/1SOyteort2iMLqlZ2Rlf4i) | 2:05 | 2022-11-18 | 2022-12-10 |
 | [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 | 2022-07-08 |
 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-03-04 | 2022-08-05 |
+| [Roots of life](https://open.spotify.com/track/6dldaEaZYkGowy1ZHTn8NC) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Roots of life](https://open.spotify.com/album/4W4MVmeuk76PwDbAlBuWIg) | 3:00 | 2025-03-05 |  |
 | [Rosebuds](https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Rosebuds](https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK) | 2:18 | 2022-03-04 | 2022-04-22 |
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-03-04 |  |
 | [Sailed Away](https://open.spotify.com/track/0pQwOihvB5KWwnMXrPjnQ6) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Sailed Away](https://open.spotify.com/album/1bK3qaaivvry3gQQQM6yTg) | 2:30 | 2024-10-23 |  |
@@ -361,7 +363,8 @@
 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2022-03-04 | 2022-07-22 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-21 |  |
 | [To The Fullest](https://open.spotify.com/track/3N3cO8C6pdGLlZOIM2m0gY) | [Werner Ellis](https://open.spotify.com/artist/6ipIg3Lr5yMA3BhgN8D6ai) | [To The Fullest](https://open.spotify.com/album/068joD3o3RhbfVGnraePDB) | 2:42 | 2022-03-04 | 2022-04-06 |
-| [Togetherness](https://open.spotify.com/track/40qwRulvebVhIKE8s68shj) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Togetherness](https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv) | 2:28 | 2024-04-19 |  |
+| [Togetherness](https://open.spotify.com/track/40qwRulvebVhIKE8s68shj) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Togetherness](https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv) | 2:28 | 2024-04-19 | 2025-03-06 |
+| [Tomorrow's Dream](https://open.spotify.com/track/2CCN2biC5thrngQtYUlSOh) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Tomorrow's Dream](https://open.spotify.com/album/375tL35zwCzLsuLSkSpGpG) | 3:00 | 2025-03-05 |  |
 | [train](https://open.spotify.com/track/4GK2DBwEnwd1P52jzVPzM0) | [Flaudicia](https://open.spotify.com/artist/1JEhjxH1R2Jvu17PzmphGl) | [train](https://open.spotify.com/album/7FyE3r44ajkiHt971NQkYE) | 3:01 | 2022-03-04 | 2022-04-06 |
 | [Tranquil Trails](https://open.spotify.com/track/0bKyIpZMx0azvdVYngl84E) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [Tranquil Trails](https://open.spotify.com/album/00Wkk9ftq8UtVykdUhNWaL) | 2:53 | 2024-05-24 |  |
 | [Traveling Through](https://open.spotify.com/track/1UygGXclx9iMNWArEXmQZf) | [Timber Row](https://open.spotify.com/artist/64ICK2JUkKFcevsUA8N8Ll) | [Lone Rider](https://open.spotify.com/album/2KhCe7d9REnKhzfiR3BDFp) | 2:14 | 2022-03-04 | 2023-04-22 |
@@ -404,6 +407,7 @@
 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 | 2022-03-04 | 2022-07-22 |
 | [Windward Breath](https://open.spotify.com/track/65o5SX8EGxCoPhTh31YI94) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:35 | 2022-03-04 | 2022-07-22 |
 | [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-06-02 | 2024-07-19 |
+| [Wishing You a Safe Journey](https://open.spotify.com/track/0dlktcquQYp5OBm1voX3bu) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Wishing You a Safe Journey](https://open.spotify.com/album/6kqkgmAGIZPlzZdvvQXlDY) | 2:17 | 2025-03-05 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 |  |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 | 2023-12-15 |
 | [Wordless](https://open.spotify.com/track/5X5sk7uUFqDYQSUXhJP2jg) | [Mell Woods](https://open.spotify.com/artist/4JapX3Eh1ncrfxZBaNvc6I) | [Wordless](https://open.spotify.com/album/7rfTvJgJZhlG5e5zeUrZtI) | 4:33 | 2022-10-07 | 2023-03-25 |

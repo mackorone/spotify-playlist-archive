@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30b1\u30c3\u30c1 / \u541b\u306e\u5922\u3092\u805e\u304d\u306a\u304c\u3089\u3001\u50d5\u306f\u7b11\u3048\u308b\u30a2\u30a4\u30c7\u30a2\u3092\uff01",
+        "url": "https://open.spotify.com/album/40sgYW2MAqySgsspmqFdTK"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190018,
+      "name": "\u541b\u306e\u5922\u3092\u805e\u304d\u306a\u304c\u3089\u3001\u50d5\u306f\u7b11\u3048\u308b\u30a2\u30a4\u30c7\u30a2\u3092\uff01",
+      "url": "https://open.spotify.com/track/3MUMstYpfxZ1P6KI685xJq"
+    },
+    {
+      "album": {
         "name": "\u30c6\u30ec\u30d3\u671d\u65e5\u7cfb\u30a2\u30cb\u30e1\u300c\u30c9\u30e9\u3048\u3082\u3093\u300d\u4e3b\u984c\u6b4c \u5922\u3092\u304b\u306a\u3048\u3066\u30c9\u30e9\u3048\u3082\u3093",
         "url": "https://open.spotify.com/album/4wS3lDrvp1wPIh1KdNfqCN"
       },

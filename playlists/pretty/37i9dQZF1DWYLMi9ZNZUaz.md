@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,274 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,338 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 46 | [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 |
 | 47 | [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 |
 | 48 | [Ai Mà Biết Được \(feat\. tlinh\)](https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [BẬT NÓ LÊN](https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi) | 4:00 |
-| 49 | [Mình Lượn Lờ Làm Wen \(NOVINA\)](https://open.spotify.com/track/5Ad2WBPQGCa9bPskbob5dN) | [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Mình Lượn Lờ Làm Wen \(NOVINA\)](https://open.spotify.com/album/0CHKTgrR2RqVaLTaglKp77) | 2:36 |
-| 50 | [I'M THINKING ABOUT YOU \(feat\. RHYDER, WEAN, Đức Phúc, Hùng Huỳnh & tlinh\)](https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs), [Hùng Huỳnh](https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ANH TRAI "SAY HI", Tập 8](https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A) | 4:38 |
+| 49 | [I'M THINKING ABOUT YOU \(feat\. RHYDER, WEAN, Đức Phúc, Hùng Huỳnh & tlinh\)](https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs), [Hùng Huỳnh](https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ANH TRAI "SAY HI", Tập 8](https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A) | 4:38 |
+| 50 | [Mình Lượn Lờ Làm Wen \(NOVINA\)](https://open.spotify.com/track/5Ad2WBPQGCa9bPskbob5dN) | [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Mình Lượn Lờ Làm Wen \(NOVINA\)](https://open.spotify.com/album/0CHKTgrR2RqVaLTaglKp77) | 2:36 |
 
 Snapshot ID: `Z7fGEwAAAAASqBuuJzK1i33DTzDDtVbq`

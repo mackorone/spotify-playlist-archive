@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring BERNARDO. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Simon Savi & Greccia. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 213005,
       "name": "+",
       "url": "https://open.spotify.com/track/5fiQAbpZJESyIJbK1BcXL8"
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 208192,
       "name": "Amor Rosado",
       "url": "https://open.spotify.com/track/1i14XuLKchAv9oAiMakCqv"
@@ -4000,6 +4000,32 @@
       "duration_ms": 215341,
       "name": "Arconte (en fin du chemin)",
       "url": "https://open.spotify.com/track/6yHwsETo4MXTRUeOgnaxjb"
+    },
+    {
+      "album": {
+        "name": "Arco\u00edris",
+        "url": "https://open.spotify.com/album/5mBUOmesGlwmmpOkhIfrhg"
+      },
+      "artists": [
+        {
+          "name": "Nono",
+          "url": "https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p"
+        },
+        {
+          "name": "Molly 69",
+          "url": "https://open.spotify.com/artist/5FdgZeqcYEgRmeJIWLMwYH"
+        },
+        {
+          "name": "ANDER",
+          "url": "https://open.spotify.com/artist/5G93rBVfuixBTPO4BoHxvF"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Arco\u00edris",
+      "url": "https://open.spotify.com/track/2AyxrjNepxVARAfW65eE0X"
     },
     {
       "album": {
@@ -6172,7 +6198,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 263668,
       "name": "Brazos Abiertos",
       "url": "https://open.spotify.com/track/4Xtcaw6ZrpurMGXbsNVDPW"
@@ -7131,6 +7157,28 @@
     },
     {
       "album": {
+        "name": "cansa'o",
+        "url": "https://open.spotify.com/album/29R9uWcMHW232bMpHnMY6U"
+      },
+      "artists": [
+        {
+          "name": "RIIP DIEGO",
+          "url": "https://open.spotify.com/artist/6faQ0OraxrYdQotaRRgoFS"
+        },
+        {
+          "name": "Abnerxd",
+          "url": "https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161641,
+      "name": "cansa'o",
+      "url": "https://open.spotify.com/track/4FLgMLULpnoJiMuZL5E9iZ"
+    },
+    {
+      "album": {
         "name": "Caparaz\u00f3n",
         "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
       },
@@ -7428,7 +7476,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 200448,
       "name": "Carrusel",
       "url": "https://open.spotify.com/track/0H3391zhWwufffjn85D9yN"
@@ -10514,6 +10562,28 @@
       "duration_ms": 154690,
       "name": "Dancing with the Devil",
       "url": "https://open.spotify.com/track/7GtktlevDmTHGBaEOqZj8b"
+    },
+    {
+      "album": {
+        "name": "Dando Vueltas",
+        "url": "https://open.spotify.com/album/6ggzEqaDwakWrfmb6z4PcK"
+      },
+      "artists": [
+        {
+          "name": "Simon Savi",
+          "url": "https://open.spotify.com/artist/1JNrUhhfADUblA8VSbWCl0"
+        },
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177196,
+      "name": "Dando Vueltas",
+      "url": "https://open.spotify.com/track/2Srk8jVfZ127B9M3xSFueE"
     },
     {
       "album": {
@@ -14318,7 +14388,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 362134,
       "name": "El Mar (parece roto)",
       "url": "https://open.spotify.com/track/0ARduJZzHGefGVwvbmaWFe"
@@ -15064,7 +15134,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 211952,
       "name": "En la mia <3",
       "url": "https://open.spotify.com/track/2VTvp8pytd7ZHkSwfXWWmV"
@@ -15644,6 +15714,24 @@
       "duration_ms": 168731,
       "name": "Era un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5jZhkJOa7mL3HxzzKCOyrR"
+    },
+    {
+      "album": {
+        "name": "ERAPEOR",
+        "url": "https://open.spotify.com/album/02oTqSrKE91uqkOBexZ4KZ"
+      },
+      "artists": [
+        {
+          "name": "INTTI FR",
+          "url": "https://open.spotify.com/artist/1eMe5uZzCa1kpBVdTn7mRB"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154087,
+      "name": "ERAPEOR",
+      "url": "https://open.spotify.com/track/2ug3cliRTThVGf1W4gnbpP"
     },
     {
       "album": {
@@ -20354,7 +20442,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 193251,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/4UR1eSfuhyw8kPnt7n9IKU"
@@ -20892,7 +20980,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 183305,
       "name": "KOTOTAMA",
       "url": "https://open.spotify.com/track/6RVVSN46ynII7PK3CtC8RR"
@@ -24884,7 +24972,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 175581,
       "name": "MALDITO",
       "url": "https://open.spotify.com/track/34fhmfzIunIre0oFWA7i5M"
@@ -27422,6 +27510,24 @@
       "duration_ms": 168727,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/1UkfHQTU3fFxWiodNnaENa"
+    },
+    {
+      "album": {
+        "name": "Dependencia Emocional",
+        "url": "https://open.spotify.com/album/0HRYvj6cPnyfREh3o2ftVF"
+      },
+      "artists": [
+        {
+          "name": "Uma German",
+          "url": "https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166433,
+      "name": "Mis Amigas est\u00e1n pensando en Casarse",
+      "url": "https://open.spotify.com/track/44tHaViIPB4NZCdeNRg1HM"
     },
     {
       "album": {
@@ -32430,7 +32536,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 199673,
       "name": "oye Rodri :(",
       "url": "https://open.spotify.com/track/6FKFnqmqbAPnMz726D0Yln"
@@ -35709,6 +35815,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 hay de malo?",
+        "url": "https://open.spotify.com/album/2ZEUe5rdFgAqrG374Hr38K"
+      },
+      "artists": [
+        {
+          "name": "Lu de la Tower",
+          "url": "https://open.spotify.com/artist/52299B9p02G2fK6Tx0lDVQ"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164559,
+      "name": "Qu\u00e9 hay de malo?",
+      "url": "https://open.spotify.com/track/3BoXhkUJTcjbK2WZnzvlAD"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Mal Se Me Da Fingir",
         "url": "https://open.spotify.com/album/03VsyO59eQOQ2Ev8EBpDUi"
       },
@@ -37178,6 +37302,28 @@
       "duration_ms": 160816,
       "name": "SABI",
       "url": "https://open.spotify.com/track/30UQMD34yVMjJKnTS9QEjL"
+    },
+    {
+      "album": {
+        "name": "Sabias Palabras",
+        "url": "https://open.spotify.com/album/5wde6HXV4RkeebjSBc8mqR"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        },
+        {
+          "name": "Las Paritarias",
+          "url": "https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234275,
+      "name": "Sabias Palabras",
+      "url": "https://open.spotify.com/track/2FejLYSy4vtLAEkmw0gVtk"
     },
     {
       "album": {
@@ -41077,6 +41223,28 @@
     },
     {
       "album": {
+        "name": "Te encontr\u00e9",
+        "url": "https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        },
+        {
+          "name": "Sajiva",
+          "url": "https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160035,
+      "name": "Te encontr\u00e9",
+      "url": "https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4"
+    },
+    {
+      "album": {
         "name": "dame algo que no exista",
         "url": "https://open.spotify.com/album/5dloFFPqQbmoDKSSMYOTnI"
       },
@@ -44595,6 +44763,24 @@
     },
     {
       "album": {
+        "name": "Una Temporada Mala",
+        "url": "https://open.spotify.com/album/5gZmZZEubCHfzZSulyRFPM"
+      },
+      "artists": [
+        {
+          "name": "Maximiliano Calvo",
+          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195485,
+      "name": "Una Temporada Mala",
+      "url": "https://open.spotify.com/track/4aby2o328PIhfiFe0OtYLk"
+    },
+    {
+      "album": {
         "name": "Una Temporada M\u00e1s",
         "url": "https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl"
       },
@@ -45073,6 +45259,24 @@
     },
     {
       "album": {
+        "name": "Van Gogh",
+        "url": "https://open.spotify.com/album/5YeUXWDjA9xzOl6b7dDift"
+      },
+      "artists": [
+        {
+          "name": "Rafa Parra",
+          "url": "https://open.spotify.com/artist/5AuDNPVomwMxxDWbGt93Zg"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110608,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/1r3Po4XDgkOonEfwZhVhzA"
+    },
+    {
+      "album": {
         "name": "Vapordrims",
         "url": "https://open.spotify.com/album/0fi5H5xjjpHu9WaMIJaRaA"
       },
@@ -45474,6 +45678,32 @@
       "duration_ms": 220708,
       "name": "Verito de la Perla",
       "url": "https://open.spotify.com/track/1TPyTg3Hws6vnF7I5zfJtA"
+    },
+    {
+      "album": {
+        "name": "Viaje Astral",
+        "url": "https://open.spotify.com/album/1Tho3DGDKCO4U6m7uKRimh"
+      },
+      "artists": [
+        {
+          "name": "Banowsky",
+          "url": "https://open.spotify.com/artist/4sF1djKUVkePyrhqoToewB"
+        },
+        {
+          "name": "Magallon",
+          "url": "https://open.spotify.com/artist/4bD6LfmngsXANgbjYsWWyh"
+        },
+        {
+          "name": "Quique Bond",
+          "url": "https://open.spotify.com/artist/6j0n67hMiofqL3XCEgb8Zu"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Viaje Astral",
+      "url": "https://open.spotify.com/track/452gW0OZMTr7xVPlXhrk8y"
     },
     {
       "album": {
@@ -47072,7 +47302,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 182739,
       "name": "Yo Pienso Todo el Tiempo",
       "url": "https://open.spotify.com/track/6YjxQ9MVtFsLewvreZXHxq"

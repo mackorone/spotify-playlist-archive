@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to women at full volume from across the world. Cover: Yuridia",
+  "description": "Listen to women at full volume from across the world. Cover: Cazzu",
   "name": "EQUAL",
   "tracks": [
     {
@@ -492,6 +492,24 @@
       "duration_ms": 175000,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp"
+    },
+    {
+      "album": {
+        "name": "90's",
+        "url": "https://open.spotify.com/album/6JGCt2W3OKRLXXtn6RcTN1"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138342,
+      "name": "90's",
+      "url": "https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5"
     },
     {
       "album": {
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 119750,
       "name": "Angkat",
       "url": "https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC"
@@ -2410,6 +2428,24 @@
       "duration_ms": 162631,
       "name": "ARIA!",
       "url": "https://open.spotify.com/track/0LfDmbIEsNmKxwOhLUYap2"
+    },
+    {
+      "album": {
+        "name": "Tita De Buenos Aires",
+        "url": "https://open.spotify.com/album/1GrP6d9082GxRkiXx2gsBP"
+      },
+      "artists": [
+        {
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136213,
+      "name": "Arrabalera",
+      "url": "https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17"
     },
     {
       "album": {
@@ -5506,7 +5542,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 210186,
       "name": "By The Time I Get To Phoenix",
       "url": "https://open.spotify.com/track/0l2k4tdemioYYKIDtEv21c"
@@ -6336,7 +6372,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 206025,
       "name": "Channa",
       "url": "https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O"
@@ -7271,6 +7307,24 @@
     },
     {
       "album": {
+        "name": "Contre-c\u0153ur",
+        "url": "https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201905,
+      "name": "Contre-c\u0153ur",
+      "url": "https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva"
+    },
+    {
+      "album": {
         "name": "SunSystem",
         "url": "https://open.spotify.com/album/2iZTwsFoNuV7KywtKM7lVT"
       },
@@ -7504,7 +7558,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
@@ -9383,6 +9437,24 @@
     },
     {
       "album": {
+        "name": "DOLCE",
+        "url": "https://open.spotify.com/album/0QJKGRAF89Fcgw2ho6oW6A"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201057,
+      "name": "DOLCE",
+      "url": "https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4"
+    },
+    {
+      "album": {
         "name": "Starship",
         "url": "https://open.spotify.com/album/5CO1O4rXy4P8l2etkw3n3O"
       },
@@ -9880,6 +9952,24 @@
       "duration_ms": 220229,
       "name": "Echo",
       "url": "https://open.spotify.com/track/0YUYmUbaP8p7hPQPY5pdXe"
+    },
+    {
+      "album": {
+        "name": "Joanita",
+        "url": "https://open.spotify.com/album/20AueqAoZgtm23rhWo0FKx"
+      },
+      "artists": [
+        {
+          "name": "Joan Thiele",
+          "url": "https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194280,
+      "name": "Eco",
+      "url": "https://open.spotify.com/track/5IYSfCt4m9WX4LKNRl2ia9"
     },
     {
       "album": {
@@ -11584,7 +11674,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 246474,
       "name": "FEMINA",
       "url": "https://open.spotify.com/track/0m6VCpJTxoKjI8zh8G54HM"
@@ -12476,6 +12566,24 @@
       "duration_ms": 260000,
       "name": "Fuck It (I'm in Love Again)",
       "url": "https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s"
+    },
+    {
+      "album": {
+        "name": "QUEEN OF TRAP",
+        "url": "https://open.spotify.com/album/19RFiFwKmA8Z3FUjzdVPVi"
+      },
+      "artists": [
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156322,
+      "name": "Fuck That",
+      "url": "https://open.spotify.com/track/3ke5WLdxI703FVygY4uOpx"
     },
     {
       "album": {
@@ -13858,7 +13966,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 278040,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
@@ -17293,6 +17401,24 @@
     },
     {
       "album": {
+        "name": "It's Okay To Not Be Okay",
+        "url": "https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209063,
+      "name": "It's Okay To Not Be Okay",
+      "url": "https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2"
+    },
+    {
+      "album": {
         "name": "\u0130yi Ya",
         "url": "https://open.spotify.com/album/6EkTRByax1Vqz4qmL19iT5"
       },
@@ -19046,7 +19172,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 124684,
       "name": "La OG",
       "url": "https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F"
@@ -19982,7 +20108,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 184000,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/0VA4cCl0VCKzAstFBTRQSW"
@@ -21390,7 +21516,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 163776,
       "name": "L\u00e1grimas de Oro",
       "url": "https://open.spotify.com/track/4On7o3GG2Ng9AWgbLqKGED"
@@ -25088,7 +25214,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 178560,
       "name": "New Energy",
       "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
@@ -26682,7 +26808,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 175143,
       "name": "Obsesion",
       "url": "https://open.spotify.com/track/6ymaPM4b33D7mXzWXidOVI"
@@ -30033,6 +30159,24 @@
     },
     {
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180032,
+      "name": "Revolving door",
+      "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
+    },
+    {
+      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
       },
@@ -30798,6 +30942,24 @@
       "duration_ms": 193280,
       "name": "Sabroso",
       "url": "https://open.spotify.com/track/4NwiP2dtcaPNrKoLXgsKEg"
+    },
+    {
+      "album": {
+        "name": "Sad But True",
+        "url": "https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "Sad But True",
+      "url": "https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM"
     },
     {
       "album": {
@@ -32838,7 +33000,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 145778,
       "name": "SORRY SORRY SO",
       "url": "https://open.spotify.com/track/11xetuoePB2rJVebU4pjV1"
@@ -34534,7 +34696,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 228671,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2GZlVTFVaX6ViRnf4U7teJ"
@@ -34574,6 +34736,24 @@
       "duration_ms": 212540,
       "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
+    },
+    {
+      "album": {
+        "name": "Temblor",
+        "url": "https://open.spotify.com/album/7LCTOjFGKwhHF2rH6uuOwp"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180900,
+      "name": "Temblor",
+      "url": "https://open.spotify.com/track/6o03I7sPIdZDDVRglbCKwX"
     },
     {
       "album": {
@@ -38276,7 +38456,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 193557,
       "name": "What The Hell Do We Do Now?",
       "url": "https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR"
@@ -39274,6 +39454,24 @@
       "duration_ms": 304482,
       "name": "Ya Hala",
       "url": "https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr"
+    },
+    {
+      "album": {
+        "name": "Fragmentada",
+        "url": "https://open.spotify.com/album/52KJukZvqRtmSSCBhsljkJ"
+      },
+      "artists": [
+        {
+          "name": "Maria McCausland",
+          "url": "https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166572,
+      "name": "Ya ni eres mi vecino",
+      "url": "https://open.spotify.com/track/3kCmTNrALLhrTyshwawAWd"
     },
     {
       "album": {
@@ -43012,6 +43210,24 @@
       "duration_ms": 264853,
       "name": "\u9003\u751f\u9580",
       "url": "https://open.spotify.com/track/39JQPbO75nuTqAq9XXRXkA"
+    },
+    {
+      "album": {
+        "name": "\u5728\u6975\u5ea6\u611b\u4f60\u7684\u65e5\u5b50\u88e1",
+        "url": "https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "\u9019\u9ebc\u591a\u5e74",
+      "url": "https://open.spotify.com/track/4kmr3vOJq52QS7WUh3aRyc"
     },
     {
       "album": {

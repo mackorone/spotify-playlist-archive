@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Fading Lines",
+        "url": "https://open.spotify.com/album/1OZzE0cb6ysnQqY0vPfFd3"
+      },
+      "artists": [
+        {
+          "name": "Anisha Gale",
+          "url": "https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124875,
+      "name": "Fading Lines",
+      "url": "https://open.spotify.com/track/75N2Huk7utLJmehDAcLJIK"
+    },
+    {
+      "album": {
         "name": "El Invernadero",
         "url": "https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y"
       },

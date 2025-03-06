@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Dasha, Gavin Adcock, Kassi Ashton with Parker McCollum and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,265 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,373 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 73 | ['Til The End](https://open.spotify.com/track/0nPl3UMB19KYXqh6A8Nlzv) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | ['Til The End](https://open.spotify.com/album/5OHIekwhj3H6LLxvu7BRJw) | 2:57 |
 | 74 | [Break My Heart Again](https://open.spotify.com/track/06pJMmPjmplZvK0QgA5diV) | [Justin Fancy](https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj) | [Break My Heart Again](https://open.spotify.com/album/6Uky9WRzm40lJpk0FV9yKv) | 3:21 |
 
-Snapshot ID: `Z8IQvQAAAAAl4bwxa/0/0J9poKY25Y7m`
+Snapshot ID: `Z8IQvQAAAAAnCbYhCQs121DOS78j+Dvd`

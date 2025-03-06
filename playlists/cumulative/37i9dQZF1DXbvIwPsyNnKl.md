@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Dreycruz, Bert Symoun
 
-236 songs - 13 hr 22 min
+237 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Hollywood](https://open.spotify.com/track/2jLLMjl9iIt9dgwIrHpJ64) | [Kris Delano](https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Hollywood](https://open.spotify.com/album/0EpJoojhVdp2BrnxkutGH1) | 3:37 | 2024-03-06 | 2024-07-12 |
 | [Huli Na](https://open.spotify.com/track/3tOxw3kjwNNfzENNoVqD2E) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Blue](https://open.spotify.com/album/65DQTnPzbVKoflMgS2Kxlh) | 2:58 | 2023-09-20 | 2023-12-30 |
 | [Huling Tagay Ng Taon](https://open.spotify.com/track/5E5M1Wp2O6irWYFjCBtlMg) | [Smugglaz](https://open.spotify.com/artist/2FvXtuMlYRrEkSF7kdAfFq) | [Huling Tagay Ng Taon](https://open.spotify.com/album/0PiXcd0A5efAt6wEOWUaks) | 3:24 | 2025-01-01 | 2025-02-20 |
-| [I Dior U](https://open.spotify.com/track/1Hg0jtmHv4dc5TyjfjXxpp) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [I Dior U](https://open.spotify.com/album/0c0HekrDhtOEqe6N9oOhZo) | 3:15 | 2024-11-28 |  |
+| [I Dior U](https://open.spotify.com/track/1Hg0jtmHv4dc5TyjfjXxpp) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [I Dior U](https://open.spotify.com/album/0c0HekrDhtOEqe6N9oOhZo) | 3:15 | 2024-11-28 | 2025-03-06 |
 | [Iba Pa Yon](https://open.spotify.com/track/5Zd7WR5fEg8gJoPLFRf475) | [Lightskeen Baby](https://open.spotify.com/artist/5ZpjkPLzL9439XJbt7wffG) | [Iba Pa Yon](https://open.spotify.com/album/7k28FL99HOqppKSNOhBxDB) | 2:34 | 2024-01-17 | 2024-03-07 |
 | [Ikaw Na Nga Yon](https://open.spotify.com/track/5Ue5JtL9UexTpaOd8BOwQC) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Ikaw Na Nga Yon](https://open.spotify.com/album/2HsPUNsgshhCRSQuIU3wDZ) | 3:50 | 2023-09-20 | 2023-10-19 |
 | [ILY](https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [ILY](https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh) | 2:59 | 2024-02-21 |  |
@@ -120,6 +120,7 @@
 | [Kendeng \- Spotify Singles](https://open.spotify.com/track/5BAvRy2t4VEyl4sAhg92of) | [Morobeats](https://open.spotify.com/artist/7KQiKk7w5wQQp7nATlmXEL) | [Kendeng \(Spotify Singles\)](https://open.spotify.com/album/1eNDHRcQr7cOO6xUIn09jI) | 2:59 | 2023-09-23 | 2024-01-18 |
 | [KG](https://open.spotify.com/track/3311oX5J2qJAyiuuDLpTxP) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks) | [KG](https://open.spotify.com/album/7vLdKTCbTcm4GV2AyKEwBj) | 3:31 | 2023-09-20 | 2023-11-02 |
 | [Kunan Mong Pic](https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Kunan Mong Pic](https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN) | 3:15 | 2024-05-24 |  |
+| [Kung Ganito](https://open.spotify.com/track/2l3wgWqT4e5qcDMMYetMwM) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Kung Ganito](https://open.spotify.com/album/4fvpdJENnW1dLZBxOoo0gt) | 3:08 | 2025-03-05 |  |
 | [Kung Sakin Ka Lang](https://open.spotify.com/track/70AlmIH3Ld5b6R1JGILbpK) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Kung Sakin Ka Lang](https://open.spotify.com/album/7m5vwlRbBZmR7l9HHpe4j8) | 3:34 | 2024-09-26 | 2024-12-05 |
 | [Kung Tayo'y Magkasama](https://open.spotify.com/track/6R1yOtE8wWZCezNDMGkd71) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd) | [Kung Tayo'y Magkasama](https://open.spotify.com/album/3KIfo5GhGEgoR948d6qLR6) | 2:41 | 2024-09-26 | 2024-12-19 |
 | [Kwentuhan](https://open.spotify.com/track/3Um2ftIhNgD2YpqhlMgd69) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Kwentuhan](https://open.spotify.com/album/5NZI0BD3B7Gs3Ouy14qp9u) | 3:25 | 2025-01-22 |  |

@@ -3815,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Isabelle",
+        "url": "https://open.spotify.com/album/2OtktlXxPi0Gj2UY5BuuhF"
+      },
+      "artists": [
+        {
+          "name": "Anton Vega",
+          "url": "https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131630,
+      "name": "Isabelle",
+      "url": "https://open.spotify.com/track/1ZOGR0g0RPxcdMLqVmR5xg"
+    },
+    {
+      "album": {
         "name": "It's You I'm Seeking",
         "url": "https://open.spotify.com/album/3KMNb1SNtbjrIABtPcWEbR"
       },

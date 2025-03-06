@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 61385,
+  "num_followers": 61394,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8TxAAAAAABeOoXCFb1K+KVg63Rm0ydX",
+  "snapshot_id": "Z8ZCgAAAAADysPpQwiayoHS6sv8ub0S0",
   "tracks": [
     {
       "added_at": null,
@@ -739,30 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
       },
       "artists": [
         {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
-        {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Gingi Bradley",
-          "url": "https://open.spotify.com/artist/0DIIlR40byWxfrXpPfV35Y"
         }
       ],
-      "duration_ms": 248531,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
+      "duration_ms": 58000,
+      "name": "Downfalls",
+      "url": "https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH"
     },
     {
       "added_at": null,
@@ -787,18 +775,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "As We Walk into Forever",
-        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
       "artists": [
         {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Gingi Bradley",
+          "url": "https://open.spotify.com/artist/0DIIlR40byWxfrXpPfV35Y"
         }
       ],
-      "duration_ms": 58000,
-      "name": "Downfalls",
-      "url": "https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH"
+      "duration_ms": 248531,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
     },
     {
       "added_at": null,

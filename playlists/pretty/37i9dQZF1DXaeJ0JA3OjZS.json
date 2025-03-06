@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 165845,
+  "num_followers": 165959,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/5LUAUynTSlr686U0OQMM1E"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 199836,
+      "name": "Trato De Muerte",
+      "url": "https://open.spotify.com/track/2rAKr8ccF24rWoFbC80706"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Joan Sebastian Con Tambora (Vol. 3)",
         "url": "https://open.spotify.com/album/7L7ikrl8D5MM1xfi76KI2q"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 278058,
       "name": "Manuel Juarez",
       "url": "https://open.spotify.com/track/42RbwgUrgljhwMM3ZWMYJn"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 134733,
-      "name": "Ranchero Y Gallardo",
-      "url": "https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 134733,
+      "name": "Ranchero Y Gallardo",
+      "url": "https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "One Dashing Eagle",
         "url": "https://open.spotify.com/album/1Vhtuz6IdryKO4crutpm9y"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 224129,
       "name": "One Dashing Eagle",
       "url": "https://open.spotify.com/track/3PtzZYnDamHnif0I6DtcLw"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Amanecida Con Todo Y Con Todos",
-        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 165341,
-      "name": "Mi Caballo Pobre",
-      "url": "https://open.spotify.com/track/4wW1Xvbfwmq8CMJdjoR4fg"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/5LUAUynTSlr686U0OQMM1E"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 199836,
-      "name": "Trato De Muerte",
-      "url": "https://open.spotify.com/track/2rAKr8ccF24rWoFbC80706"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Las Tres Tumbas",
         "url": "https://open.spotify.com/album/1UF7X9zpBOF6JNv0l5wsx0"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 185306,
       "name": "Eran Cuatro de a Caballo",
       "url": "https://open.spotify.com/track/21IeqSi1HY4Nm7vzhLjdqo"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Amanecida Con Todo Y Con Todos",
+        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 165341,
+      "name": "Mi Caballo Pobre",
+      "url": "https://open.spotify.com/track/4wW1Xvbfwmq8CMJdjoR4fg"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "El Golden Boy",
+        "url": "https://open.spotify.com/album/6c2TLFewLrROUee7c6qkLL"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "El Golden Boy",
+      "url": "https://open.spotify.com/track/5rSHtxvd1VIvhXyeh0GJLP"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
         "url": "https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 178272,
       "name": "El Cantador",
       "url": "https://open.spotify.com/track/6k9wJzaGs5qBAfMGSMGHQn"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Dos Coronas a Mi Madre",
-        "url": "https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "El Muchacho y el Potro",
-      "url": "https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG"
     }
   ],
   "unique_name": "Corridos de Caballos",

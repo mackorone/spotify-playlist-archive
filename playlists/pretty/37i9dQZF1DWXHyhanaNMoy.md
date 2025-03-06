@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Jonna Fraser
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,702 likes - 73 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,720 likes - 73 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

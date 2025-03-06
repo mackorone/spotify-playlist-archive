@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wkhxf6fGZk.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/daniebb3/">Danielle Brooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,732 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,759 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wkhxf6fGZk.md) - [plain]
 | 49 | [Hell No! \(Timbaland Remix\) \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/0ZUC1pPc3qm4fqhp5XrFze) | [Danielle Brooks](https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Julian Mason](https://open.spotify.com/artist/6WOBLePeDxajVDJnxSn3UD) | [Hell No! \(Timbaland Remix\) \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2fNPr1EWqrKftl3ZMQOiAI) | 2:58 |
 | 50 | [Private Party](https://open.spotify.com/track/56kagDzXfthnEIwNGYHQVy) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Testimony: Vol\. 1 Life & Relationship](https://open.spotify.com/album/1F9Fd7d8U3wykniDos7pbg) | 3:52 |
 
-Snapshot ID: `ZbnT0AAAAAAbQCrGOopzkqTzJS7Sfn/z`
+Snapshot ID: `ZbnT0AAAAAAL4y9VtGwYbR/vHsaJc+Af`

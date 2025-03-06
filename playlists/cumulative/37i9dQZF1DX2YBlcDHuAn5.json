@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Changing Waters",
+        "url": "https://open.spotify.com/album/5JJZPG9uKbMw4L0K8IT6qX"
+      },
+      "artists": [
+        {
+          "name": "MISTER & MRS",
+          "url": "https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205091,
+      "name": "Changing Waters",
+      "url": "https://open.spotify.com/track/3xyHbp6IiNdAIRrteoHs3Q"
+    },
+    {
+      "album": {
         "name": "Chase My Heart Away (Hero)",
         "url": "https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93"
       },
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 215483,
       "name": "The Fire Inside",
       "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"

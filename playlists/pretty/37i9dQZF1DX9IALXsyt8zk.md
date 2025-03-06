@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: BABYMONSTER\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,329 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,333 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [TONIGHT](https://open.spotify.com/track/2Y3U65MS3B7srxAVR7tBSm) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [VINYARD](https://open.spotify.com/album/5fhKtZk3goKK4iTa7Nn3Gm) | 3:27 |
 | 50 | [Combo](https://open.spotify.com/track/3LUi9n9mMOR1eK3kle7oCe) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING : Epilogue \- The 1st Mini Album](https://open.spotify.com/album/7ug3rkXUrzOKpDZ1Sxk7Oh) | 3:39 |
 
-Snapshot ID: `Z6HcxQAAAAAfcgSMkxnhtlLTOIuRTNQF`
+Snapshot ID: `Z6HcxQAAAADtaNEqPQin+cMDBOPLOyyY`

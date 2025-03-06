@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,154 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,194 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 44 | [Alyosha Lying](https://open.spotify.com/track/2Xm1NUw2buXWoNvzKz7Wai) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Alyosha Lying](https://open.spotify.com/album/7f2iPwLQp0qiCdiZy986Fh) | 2:59 |
 | 45 | [Bloom: Small World](https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Peter Chilvers](https://open.spotify.com/artist/0auwXR5S4lEwKxpKqSZgbe) | [Bloom: Living World \- Single](https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu) | 5:34 |
 | 46 | [em2500 M253X \[London 03.06.17\]](https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 1:52 |
-| 47 | [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 |
+| 47 | [Momentum](https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY), [Dawncall](https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq) | [Momentum](https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp) | 4:19 |
 | 48 | [I Saw You](https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 4:25 |
-| 49 | [Momentum](https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY), [Dawncall](https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq) | [Momentum](https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp) | 4:19 |
+| 49 | [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 |
 | 50 | [Into The Glare](https://open.spotify.com/track/2IylguIokLMTagCSWe0Ym6) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Into The Glare](https://open.spotify.com/album/74MdV8jqEjlPbVqhcSepdG) | 2:21 |
 | 51 | [part ii \- palace / illusion](https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL](https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7) | 7:41 |
 | 52 | [Hafursey \(Yfir\)](https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Hafursey \(Yfir\)](https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J) | 4:59 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 72 | [Windmills \- Salamanda Remix](https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Windmills \(Salamanda Remix\)](https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t) | 3:29 |
 | 73 | [3eee](https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 2](https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL) | 1:49 |
 | 74 | [Night Journeys I](https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys](https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY) | 3:06 |
-| 75 | [Chaparral](https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02) | [Total Blue](https://open.spotify.com/artist/16PbhgSXhAg8s0hvaAx90y) | [Total Blue](https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG) | 6:07 |
-| 76 | [Shiver](https://open.spotify.com/track/636q74X2qVCv5fBdE95woF) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Tempora](https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U) | 8:02 |
+| 75 | [Shiver](https://open.spotify.com/track/636q74X2qVCv5fBdE95woF) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Tempora](https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U) | 8:02 |
+| 76 | [Chaparral](https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02) | [Total Blue](https://open.spotify.com/artist/16PbhgSXhAg8s0hvaAx90y) | [Total Blue](https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG) | 6:07 |
 | 77 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 |
 | 78 | [The Prettiest Pearl](https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [Reflections 06](https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX) | 3:53 |
 | 79 | [Heliobat](https://open.spotify.com/track/00hrine247guDPYb1jSBKg) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Dostrotime](https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI) | 3:47 |

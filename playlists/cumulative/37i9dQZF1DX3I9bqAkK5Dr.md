@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty
 
-346 songs - 20 hr 46 min
+347 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Harini](https://open.spotify.com/track/0Ay0o0e6n75gg7GyvdmnBI) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/3SJtaDClZXTAX3teBnln3M) | 3:56 | 2023-05-22 | 2024-01-11 |
 | [Harini](https://open.spotify.com/track/3nL7CA4hvqVr99agCJyhSC) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/1K7Kn0GkjGNVCLhzywriiG) | 3:56 | 2023-05-22 | 2024-01-04 |
 | [Hate Oddhu](https://open.spotify.com/track/4RUkcsgECnfHaAk0OEjwdE) | [brownkiddreams](https://open.spotify.com/artist/2RJmN0J5H4v0i9SQ0wDrPY) | [Hate Oddhu](https://open.spotify.com/album/5AyQhXTsHcYQ502zlGZ3ct) | 2:37 | 2024-10-10 |  |
-| [HeartBeat](https://open.spotify.com/track/4YjVV0SrnWx8RwTf71IXTx) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [HeartBeat](https://open.spotify.com/album/31NQaNaV1DapEitznBvGpA) | 2:15 | 2024-08-23 |  |
+| [HeartBeat](https://open.spotify.com/track/4YjVV0SrnWx8RwTf71IXTx) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [HeartBeat](https://open.spotify.com/album/31NQaNaV1DapEitznBvGpA) | 2:15 | 2024-08-23 | 2025-03-06 |
 | [Hello Chittamma](https://open.spotify.com/track/08JFxXy4ERFQFZAcEu8y86) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Hello Chittamma](https://open.spotify.com/album/3HaCAI70bGfKoAwrVpgUD8) | 2:27 | 2025-01-27 |  |
 | [Hello Madam Sridevi](https://open.spotify.com/track/0mkjF6AQ6QZomWsfb4fjIT) | [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Hello Madam Sridevi](https://open.spotify.com/album/1zwSc8LpI4KuBuww9trZKF) | 4:36 | 2025-02-13 |  |
 | [hello master!](https://open.spotify.com/track/0djwARp8JriBrVLMokz83Z) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb), [Stanley Sajeev](https://open.spotify.com/artist/01hzMpU7t0rLILKgBo0Sau) | [hello master!](https://open.spotify.com/album/6kXrq2yivg13UPq0nEHAsx) | 2:54 | 2024-05-10 | 2024-08-14 |
@@ -247,6 +247,7 @@
 | [Poovanti Andham](https://open.spotify.com/track/012VlQmlFXaSFhiAtzVZCW) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Poovanti Andham](https://open.spotify.com/album/5V1m9SYh8IiBJIO2qdAzI1) | 3:32 | 2023-03-13 | 2024-02-20 |
 | [Prashna](https://open.spotify.com/track/7CdPSXY8zWZODjKvzuA8Ad) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Ananth Ashrith](https://open.spotify.com/artist/4kP9fCPWMLOTJ9bcGAEiW2), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Sharath Chandra Thirunagari](https://open.spotify.com/artist/6VU00Y5Ojx7cxtgmlNCMfm) | [Prashna](https://open.spotify.com/album/7AN1mmLPdb1e1xWd05VhQA) | 4:20 | 2024-01-30 | 2024-03-02 |
 | [Prasthanam](https://open.spotify.com/track/20aEMdNcA7b4m8Xr2gLadc) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:56 | 2023-08-21 | 2023-10-10 |
+| [Prathi Kshanam](https://open.spotify.com/track/2jDtKQpU4xKaweJD15kthV) | [Akhil Chandra](https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Prathi Kshanam](https://open.spotify.com/album/6QcDiDHi8b4EV3J13ZIeCa) | 2:53 | 2025-03-05 |  |
 | [Prayaanam](https://open.spotify.com/track/3wTBcciwBkKur5hfSNDlHJ) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb) | [Prayaanam](https://open.spotify.com/album/617ru1pWVwmrL3CFYJAsW3) | 3:20 | 2025-01-07 |  |
 | [Prema](https://open.spotify.com/track/1sIh4n3MICrNuO9zpWc8ya) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Shashank Bhaskaruni](https://open.spotify.com/artist/6IwTtuEKKoggjUtPgcObwD), [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS), [Naren RK Siddartha](https://open.spotify.com/artist/3kmgV8x6lfoHZKSp9mrKBB) | [Diary](https://open.spotify.com/album/5mYhNUKFQQEtFZWwzRT71f) | 3:46 | 2023-12-15 | 2024-03-09 |
 | [Prema Prema](https://open.spotify.com/track/5OvIL2IyH3L8AHCRAdQCIm) | [Jagadish Kommuri](https://open.spotify.com/artist/5uj0ZzEL7EUZ3wEgfubrzq) | [Prema Prema](https://open.spotify.com/album/0M3qDZEGKDLKwQANc1KblL) | 4:32 | 2023-02-03 | 2023-06-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Jonas Sanche, Soulnastyy & Movimiento Original
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,479 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,480 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 23 | [From Cavernas](https://open.spotify.com/track/2HvbmNespiZlOgsIJd6ETu) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv) | [From Cavernas](https://open.spotify.com/album/64LAL4F1Jr5xC7esPgqDEF) | 3:38 |
 | 24 | [Nuevo Comienzo \(feat\. Portavoz\)](https://open.spotify.com/track/6drA4it4HPdsCBY0zYQDkz) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Pasado, Presente & Libertad](https://open.spotify.com/album/5x6g1bPnTmQyHdCTczPfjA) | 3:15 |
 | 25 | [Boombarrio](https://open.spotify.com/track/0san1KUetFkSctwivThY7z) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Boombarrio](https://open.spotify.com/album/5bmFCK52DIm32GPjOzzT8V) | 3:26 |
-| 26 | [No Te Miento](https://open.spotify.com/track/3jNIFdbUeIxo1JKb1VjUHg) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Origen](https://open.spotify.com/album/0KvclUCGaR9NVzW80700mt) | 4:43 |
+| 26 | [No Te Miento](https://open.spotify.com/track/3jNIFdbUeIxo1JKb1VjUHg) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Al2 El Aldeano](https://open.spotify.com/artist/6t0fpse1AWd2J0BfBYR2B1) | [Origen](https://open.spotify.com/album/0KvclUCGaR9NVzW80700mt) | 4:43 |
 | 27 | [Uzumaki](https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Gudspella](https://open.spotify.com/artist/2xjF5imhTEr6WDS0EAqMtw) | [Uzumaki](https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ) | 4:55 |
 | 28 | [Con Los Míos](https://open.spotify.com/track/5q4rPwdGOq6DE3aCCKwTrm) | [El Menor](https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW) | [Con Los Míos](https://open.spotify.com/album/4095ecH5JpqXW3YvtiM3Dd) | 2:26 |
 | 29 | [Mil Vidas](https://open.spotify.com/track/0GvZmwNcfP2rigLEIhrg7y) | [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg) | [Magia](https://open.spotify.com/album/1Tx7bQqx88Qi0cnxYqBQy6) | 3:08 |

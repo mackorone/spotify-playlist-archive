@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Jowee Omici
+> The best jazz new releases\. Cover: Jowee Omicil
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,404 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,414 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [The painter and the boxer](https://open.spotify.com/track/7xWDF3iSo1zrY4Poci5TRt) | [Airelle Besson](https://open.spotify.com/artist/7wmRujhwjUN04pL50mZuQT), [Jonas Burgwinkel](https://open.spotify.com/artist/3IYogdLlTqqqaOmEEXl0QR), [Sebastian Sternal](https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK) | [Surprise !](https://open.spotify.com/album/1j4xK9XyXJkh7tQtkRwbHT) | 3:56 |
 | 50 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
 
-Snapshot ID: `Z8DujAAAAAA8ueMCixnKyN7c74UFe3fn`
+Snapshot ID: `Z8hVygAAAACO4lv07iS42M7Y+vD9liZu`

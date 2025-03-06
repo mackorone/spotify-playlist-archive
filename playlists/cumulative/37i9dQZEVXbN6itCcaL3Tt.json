@@ -12776,7 +12776,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 169142,
       "name": "Falochrony",
       "url": "https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp"
@@ -14932,7 +14932,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/7gPbVDk8Es7AVHTLUFq6CU"
@@ -25649,6 +25649,36 @@
     },
     {
       "album": {
+        "name": "00 EP",
+        "url": "https://open.spotify.com/album/0YqEn2HzEzTNxvJPRpMegb"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "BAHsick",
+          "url": "https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174947,
+      "name": "Mural",
+      "url": "https://open.spotify.com/track/6GWMuUt3X8OFFnQNCvkCqy"
+    },
+    {
+      "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -27852,7 +27882,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 150000,
       "name": "nie tym razem",
       "url": "https://open.spotify.com/track/693lLOpPzWWa89WVvtGCNX"
@@ -33758,6 +33788,32 @@
       "duration_ms": 156800,
       "name": "Prywatny bal",
       "url": "https://open.spotify.com/track/2VYT8yaxvwXyRvAWZqM7Ws"
+    },
+    {
+      "album": {
+        "name": "Przedostatni raz",
+        "url": "https://open.spotify.com/album/0LQqpZH9iQAUIwbaeWG9Fr"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Przedostatni raz",
+      "url": "https://open.spotify.com/track/3y7lWirCE9MPOUKFiALnVI"
     },
     {
       "album": {
@@ -40914,7 +40970,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -44080,7 +44136,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-06",
       "duration_ms": 245200,
       "name": "Wiecznie",
       "url": "https://open.spotify.com/track/1YcEiW6wsJlxnePEkkUI2M"
@@ -44476,7 +44532,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 191304,
       "name": "Woda Ksi\u0119\u017cycowa",
       "url": "https://open.spotify.com/track/1usq8LPUPjpF1TxLXTOJ82"

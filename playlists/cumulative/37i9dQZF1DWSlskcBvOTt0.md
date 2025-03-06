@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-864 songs - 3 day 3 hr 21 min
+865 songs - 3 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Brave New World](https://open.spotify.com/track/2RTLo7ZBz4SSVXlxCLSVCO) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu) | [Brave New World](https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw) | 6:04 | 2021-05-26 | 2022-07-28 |
 | [Brisa](https://open.spotify.com/track/1LvG5zrLHfYziFPjaNGpyw) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Jéssica Gaspar](https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip) | [Brisa](https://open.spotify.com/album/4Fyza19j2d7Yb3aRICfX1q) | 5:33 | 2023-11-17 | 2024-10-26 |
 | [BroCode](https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [BroCode](https://open.spotify.com/album/2egiSb7hCQbA8JN6KX2q1B) | 4:59 | 2024-01-12 | 2024-04-19 |
-| [Báilame](https://open.spotify.com/track/1PuSX4DWNVeND5BqOYehrI) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Báilame](https://open.spotify.com/album/3IVUOxF3fzVUdkeAIyo0a0) | 5:43 | 2024-12-20 |  |
+| [Báilame](https://open.spotify.com/track/1PuSX4DWNVeND5BqOYehrI) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Báilame](https://open.spotify.com/album/3IVUOxF3fzVUdkeAIyo0a0) | 5:43 | 2024-12-20 | 2025-03-06 |
 | [Bécane \- Kimotion x Quentro & Tuna Remix](https://open.spotify.com/track/2u5u9JBOCUf8jE3pUwMbhb) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Quentro](https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi), [Tuna](https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup) | [Bécane \(Kimotion x Quentro & Tuna Remix\)](https://open.spotify.com/album/2qU1STlRzIGGZ1f4oEGPiO) | 3:33 | 2024-07-05 | 2024-09-07 |
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
 | [Calling](https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Calling](https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab) | 3:29 | 2023-10-27 | 2024-07-15 |
@@ -793,6 +793,7 @@
 | [Trip In \- Xinobi Remix](https://open.spotify.com/track/44TGd1DqzCDKPHQHq2XjQw) | [Omri Guetta](https://open.spotify.com/artist/4GDZFqNEOr2pNK8Uz6ZRX6), [Omer Tayar](https://open.spotify.com/artist/7ITO7tOeUqqjVBSVQB4yFB), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Trip In \( Xinobi Remix \)](https://open.spotify.com/album/20anOD1TikexSu4EOfFsHU) | 5:00 | 2021-09-24 | 2022-07-29 |
 | [Try Again](https://open.spotify.com/track/4VdTPiVynDPgumUwyq72Yj) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD) | [Try Again](https://open.spotify.com/album/4wDqvhLcVky1Ka1UTx5w4o) | 3:00 | 2024-03-26 | 2024-04-19 |
 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-05-17 | 2024-07-06 |
+| [Tu Ta Le](https://open.spotify.com/track/0n6ZENBExJur3dt3soebKB) | [merchant](https://open.spotify.com/artist/0UEupuqVP2mpTTyf6wcOBY), [Hoax \(BE\)](https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Tu Ta Le](https://open.spotify.com/album/0ZfQd5a9kJIUQNOHSV0JOM) | 4:20 | 2025-02-28 |  |
 | [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 | 2023-04-21 | 2023-07-08 |
 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 | 2023-04-21 | 2024-04-19 |
 | [Ultima Ratio](https://open.spotify.com/track/4dmiklzCRnTM237iBtbEi5) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Ultima Ratio](https://open.spotify.com/album/5zajsdXm81cFLL7qExclll) | 4:37 | 2023-10-27 | 2023-12-24 |

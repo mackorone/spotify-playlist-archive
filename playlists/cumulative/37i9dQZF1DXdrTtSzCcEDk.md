@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Buried Hearts\. \(보물섬의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-33 songs - 1 hr 44 min
+37 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,8 @@
 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 | 2025-03-04 |  |
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2025-03-04 |  |
 | [Ashes](https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp) | [Stellar](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) | [Ashes](https://open.spotify.com/album/41gMZm0ib3Je8hU0eFNUwS) | 2:46 | 2025-03-04 |  |
+| [Confusion](https://open.spotify.com/track/2Ra0CiV9BzLmIbxpbFHSLC) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7BjmsMYl74bHxiPyq9UFZ5) | 4:06 | 2025-03-06 |  |
+| [Confusion \- Instrumental](https://open.spotify.com/track/6zxtrcFiwaRx6N945xUD6A) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7BjmsMYl74bHxiPyq9UFZ5) | 4:06 | 2025-03-06 |  |
 | [Curated by Hong Hwayeon](https://open.spotify.com/track/46G6LdRd32v8oZzrpaSt02) | [Buried Hearts](https://open.spotify.com/artist/4w3eOAw5hMfec69SdYJ8Kw) | [Buried Hearts Audio Liners](https://open.spotify.com/album/4Hd0zQ6HI3ZtRxj8TdbqHl) | 0:24 | 2025-03-04 |  |
 | [Curated by Lee Hae Young](https://open.spotify.com/track/00LvCjP2ObMXWxIxPEhGU7) | [Buried Hearts](https://open.spotify.com/artist/4w3eOAw5hMfec69SdYJ8Kw) | [Buried Hearts Audio Liners](https://open.spotify.com/album/4Hd0zQ6HI3ZtRxj8TdbqHl) | 0:25 | 2025-03-04 |  |
 | [Curated by Park Hyungsik](https://open.spotify.com/track/326rv8D7yDLuQ8mhD9MFbt) | [Buried Hearts](https://open.spotify.com/artist/4w3eOAw5hMfec69SdYJ8Kw) | [Buried Hearts Audio Liners](https://open.spotify.com/album/4Hd0zQ6HI3ZtRxj8TdbqHl) | 0:26 | 2025-03-04 |  |
@@ -26,6 +28,8 @@
 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 | 2025-03-04 |  |
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2025-03-04 |  |
 | [Next Level](https://open.spotify.com/track/7ssJMybqD4c4dkpoU81mlZ) | [A$ton Wyld](https://open.spotify.com/artist/4MqATzsmSOuGh7de1Q4AzX) | [Fast & Furious Presents: Hobbs & Shaw \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) | 2:18 | 2025-03-04 |  |
+| [Next To You](https://open.spotify.com/track/4EamzBjJGIZKearknNq3hy) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4fAXwYv6x7K1r8B4bVod3l) | 3:30 | 2025-03-06 |  |
+| [Next To You \- Instrumental](https://open.spotify.com/track/1XHW83PfcmB4UgXF79UMCa) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4fAXwYv6x7K1r8B4bVod3l) | 3:30 | 2025-03-06 |  |
 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/3IB5qOeMayvpOdHxYCL5tZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 4:06 | 2025-03-04 |  |
 | [Oort Cloud](https://open.spotify.com/track/7tOsgOjrzBVQqyaMDBlZV8) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album 'END THEORY'](https://open.spotify.com/album/7nzPuFSw98m1si3pqARggs) | 3:26 | 2025-03-04 |  |
 | [Sandman](https://open.spotify.com/track/3Me33RhzAgPcS97lkhIT1u) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 2:55 | 2025-03-04 |  |

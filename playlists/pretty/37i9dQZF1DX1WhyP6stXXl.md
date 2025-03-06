@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,889 likes - 92 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,857 likes - 92 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

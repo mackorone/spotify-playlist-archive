@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fOHhJX6Bvb.md) - [plain]
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,083 likes - 130 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,112 likes - 130 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

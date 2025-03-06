@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 107 | [Take a Shot](https://open.spotify.com/track/1l3LtyjVDyavUhZJNZKTe4) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:28 |
 | 108 | [Curve](https://open.spotify.com/track/6FoeJWd7LcHVDXWZ8FQEiz) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Curve](https://open.spotify.com/album/7qGzvrmoGzcLBHB2aN0PqO) | 3:44 |
 | 109 | [Take Off](https://open.spotify.com/track/5tPmjQRmShYffbuAsxT2v8) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Contrast](https://open.spotify.com/album/5jbzK5h4FujeX48gzLwBoi) | 3:36 |
-| 110 | [Joyride](https://open.spotify.com/track/1nWLk91OyxUSJNYNNExTkK) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 |
-| 111 | [No Can Do](https://open.spotify.com/track/66UqoMiEdnzUH5BjYpzs4r) | [Kashief Lindo](https://open.spotify.com/artist/5OUbkehpd3H7pV8DKcQlNt) | [What Kinda World](https://open.spotify.com/album/048zkHSlgu1BOzKnDMmuFl) | 3:17 |
+| 110 | [No Can Do](https://open.spotify.com/track/66UqoMiEdnzUH5BjYpzs4r) | [Kashief Lindo](https://open.spotify.com/artist/5OUbkehpd3H7pV8DKcQlNt) | [What Kinda World](https://open.spotify.com/album/048zkHSlgu1BOzKnDMmuFl) | 3:17 |
+| 111 | [Joyride](https://open.spotify.com/track/1nWLk91OyxUSJNYNNExTkK) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 |
 | 112 | [Oh Well](https://open.spotify.com/track/2Y54OMJFKcPIGO6tQLx91g) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:33 |
 | 113 | [Lose My Love \(Acoustic\)](https://open.spotify.com/track/4Rzjt3rkPs5PfrBg5kPgxz) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Lose My Love \(Acoustic\)](https://open.spotify.com/album/4bcNl7WHYBTiy0BXGsdayM) | 3:00 |
 | 114 | [Golden](https://open.spotify.com/track/0bYAjmHs31OEFgRPatLkjj) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Golden](https://open.spotify.com/album/18POkJhbdmVfZBQwZVohLH) | 3:46 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 214 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 215 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbrLoAAAAADtFJbe28HdLwpQs94T04C4`
+Snapshot ID: `AbrRaAAAAAAwlVcD2SsDK2kqOFhmfUlt`

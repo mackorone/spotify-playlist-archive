@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 1654,
+  "num_followers": 1669,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8TxAAAAAABClEaroW6MPOWC/jW8GqLh",
+  "snapshot_id": "Z8ZCgAAAAAAdMAlFSMBdnhudGZiyI4Oj",
   "tracks": [
     {
       "added_at": null,
@@ -139,18 +139,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
+        "name": "Orchestral Works",
+        "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
       },
       "artists": [
         {
           "name": "Gabr\u00edel \u00d3lafs",
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Reykjav\u00edk Orkestra",
+          "url": "https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU"
+        },
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
         }
       ],
-      "duration_ms": 168085,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
+      "duration_ms": 167980,
+      "name": "Staircase Sonata - Orchestral Works Version",
+      "url": "https://open.spotify.com/track/32Brjv8Q9forZaMZQnrRKr"
     },
     {
       "added_at": null,
@@ -183,32 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orchestral Works",
-        "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        },
-        {
-          "name": "Reykjav\u00edk Orkestra",
-          "url": "https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        }
-      ],
-      "duration_ms": 167980,
-      "name": "Staircase Sonata - Orchestral Works Version",
-      "url": "https://open.spotify.com/track/32Brjv8Q9forZaMZQnrRKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fandra",
-        "url": "https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi"
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
       },
       "artists": [
         {
@@ -216,9 +200,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 143667,
-      "name": "T\u00fandra",
-      "url": "https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT"
+      "duration_ms": 168085,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
     },
     {
       "added_at": null,
@@ -243,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fandra",
+        "url": "https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 143667,
+      "name": "T\u00fandra",
+      "url": "https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solon Islandus (Deluxe)",
         "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
       },
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullabies for Piano and Cello",
-        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
+        "name": "Mamma",
+        "url": "https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo"
       },
       "artists": [
         {
@@ -270,7 +270,7 @@
       ],
       "duration_ms": 191901,
       "name": "Mamma",
-      "url": "https://open.spotify.com/track/4GrEFJisQX6VcpXuDKv5md"
+      "url": "https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV"
     },
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lullabies for Piano and Cello",
+        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
+        }
+      ],
+      "duration_ms": 92509,
+      "name": "Barnkind",
+      "url": "https://open.spotify.com/track/35epMyBRSxXHRbxa39FaBA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solon Islandus (Complete Works)",
         "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
       },
@@ -735,22 +755,6 @@
       "duration_ms": 112029,
       "name": "Staka I",
       "url": "https://open.spotify.com/track/1MmCFK1NzEzTC7sihOspqw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hind / Aska (Harpa Sessions)",
-        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Hind / Aska - Harpa Sessions",
-      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
     },
     {
       "added_at": null,
@@ -791,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hind / Aska (Harpa Sessions)",
+        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Hind / Aska - Harpa Sessions",
+      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Orchestral Works",
         "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
       },
@@ -815,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Deluxe)",
-        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "J\u00fal\u00edana",
-      "url": "https://open.spotify.com/track/6LBsK24hDC62QFwvxDrlWk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Absent Minded",
         "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
@@ -847,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reworks I",
-        "url": "https://open.spotify.com/album/1ubqhgV9QM2EREaCbf41ep"
+        "name": "Solon Islandus (Deluxe)",
+        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
       },
       "artists": [
         {
@@ -856,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 218538,
-      "name": "Think Of Home - Kelly Moran Rework",
-      "url": "https://open.spotify.com/track/0P47tLCM8LXbELfQrsiu2A"
+      "duration_ms": 164000,
+      "name": "J\u00fal\u00edana",
+      "url": "https://open.spotify.com/track/6LBsK24hDC62QFwvxDrlWk"
     },
     {
       "added_at": null,
@@ -879,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reworks I",
+        "url": "https://open.spotify.com/album/1ubqhgV9QM2EREaCbf41ep"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 218538,
+      "name": "Think Of Home - Kelly Moran Rework",
+      "url": "https://open.spotify.com/track/0P47tLCM8LXbELfQrsiu2A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solon Islandus (Complete Works)",
         "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
       },
@@ -891,30 +911,6 @@
       "duration_ms": 99954,
       "name": "Aska Variation",
       "url": "https://open.spotify.com/track/0WQ5QHNC65AJQVmloh7CvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Orchestral Works",
-        "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        },
-        {
-          "name": "Reykjav\u00edk Orkestra",
-          "url": "https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        }
-      ],
-      "duration_ms": 257441,
-      "name": "Islandus: Solon I",
-      "url": "https://open.spotify.com/track/7DAuW1WFDIBVVoxalOL6lH"
     }
   ],
   "unique_name": "This Is Gabr\u00edel \u00d3lafs",

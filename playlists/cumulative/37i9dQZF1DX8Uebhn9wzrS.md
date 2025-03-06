@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,251 songs - 3 day 13 hr 48 min
+2,253 songs - 3 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Blush](https://open.spotify.com/track/6smVZWU1IXU6HCGR5DN61g) | [Kyoto Dreams](https://open.spotify.com/artist/4iEdyYO8Va1fewpUAi6Mt2) | [Blush](https://open.spotify.com/album/6jWdLsVGwOaMVZlU5WIQ3V) | 2:37 | 2022-04-15 | 2022-07-08 |
 | [Blvck Kat](https://open.spotify.com/track/0Iu9uuTyFis6muasxFY7cV) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Blvck Kat](https://open.spotify.com/album/2sWYPBDHAKJNm8XxsZkLU9) | 3:16 | 2022-12-02 | 2024-10-22 |
 | [Boat In The Water](https://open.spotify.com/track/3HnK4jipVHwmYjskVtxp8c) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Boat In The Water](https://open.spotify.com/album/41OlZWdyIBOPqMJeyawECU) | 2:29 | 2022-06-24 | 2022-11-19 |
-| [boba latte](https://open.spotify.com/track/72l63X3sUTBpm08b807lZ6) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [boba latte](https://open.spotify.com/album/1ToGvu8Pzb6LcPdz2Oqaui) | 1:41 | 2024-08-16 |  |
+| [boba latte](https://open.spotify.com/track/72l63X3sUTBpm08b807lZ6) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [boba latte](https://open.spotify.com/album/1ToGvu8Pzb6LcPdz2Oqaui) | 1:41 | 2024-08-16 | 2025-03-06 |
 | [Bolivia](https://open.spotify.com/track/0rCMCvrYA4LKXFKdUSyseQ) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Bolivia](https://open.spotify.com/album/0sAapPHnSeEDZBDIP6diAg) | 2:36 | 2022-05-13 | 2022-11-12 |
 | [Bonanza](https://open.spotify.com/track/27cTfNXrA0SfCp1ucqB3Ee) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Bonanza](https://open.spotify.com/album/16OmFtl47xkK1ygCXqTTIY) | 2:33 | 2022-09-09 | 2023-01-07 |
 | [Bonsai](https://open.spotify.com/track/0JS2nQBvx8JDpNadPPlqNb) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Bonsai](https://open.spotify.com/album/5zWHDrWb8dBqMyJrebpqMU) | 2:15 | 2023-01-06 | 2023-10-20 |
@@ -425,6 +425,7 @@
 | [Confession](https://open.spotify.com/track/14yzqwR5lcaHT8Ynl6Ik5g) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Confession](https://open.spotify.com/album/4Th8uPhWSzzMggcfkxufWh) | 3:28 | 2022-10-28 | 2023-01-20 |
 | [Congratulations](https://open.spotify.com/track/6o2CDVh5H4PgPdNneKV6vu) | [El Thesaurus](https://open.spotify.com/artist/5o3rYTL0MKWEWMXvX7H376) | [Congratulations](https://open.spotify.com/album/5J28rnZrfCBCcBGVy7LyHR) | 1:48 | 2022-05-27 | 2023-02-14 |
 | [connected](https://open.spotify.com/track/68vVjEdFknL2cKq8OgdvKc) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [connected](https://open.spotify.com/album/7LsAX2zlDtauYV8KlGJuCZ) | 1:34 | 2023-09-08 | 2024-05-09 |
+| [Constancy](https://open.spotify.com/track/5hDk2j9hRD1H8jJb4wAiWB) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Mind](https://open.spotify.com/album/2EtfYpmpKcaP9m161yDimT) | 2:15 | 2025-02-28 |  |
 | [Cookie Clouds](https://open.spotify.com/track/53A50XkJVLP2rACMyO8gCS) | [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU) | [Cookie Clouds](https://open.spotify.com/album/4UJbQ9EmFuLtmWAIb5xNvO) | 1:59 | 2022-10-07 | 2023-01-13 |
 | [cool beans](https://open.spotify.com/track/3tFHIsExVsSnj7VecObIsg) | [yamarcus](https://open.spotify.com/artist/3F0CvVFpoFkcYZJxZW4fLp) | [cool beans](https://open.spotify.com/album/2S2IV1dxQZReJAYAYkfuXE) | 2:35 | 2022-04-15 | 2022-07-15 |
 | [Cool Stuff](https://open.spotify.com/track/2U93rBs3yVtgaXzsB0gvhr) | [Papier](https://open.spotify.com/artist/4XnZlNtghIcavIlOFvwNzW) | [March](https://open.spotify.com/album/0XRxmLy5fs3h1ay78UOCzQ) | 2:27 | 2022-04-15 | 2022-10-14 |
@@ -528,6 +529,7 @@
 | [Don Lemon](https://open.spotify.com/track/3MZM6vRRO8f459kxgEULg8) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/2Mcpr3klMbn0OOC5sslBUc) | 1:44 | 2022-05-27 | 2022-11-12 |
 | [Don't Forget](https://open.spotify.com/track/5BVwZQXdzWvit2FqwJ0RNz) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Don't Forget](https://open.spotify.com/album/1iYtq5F16yJ5e2zYSVf1mc) | 2:28 | 2022-09-16 | 2023-01-07 |
 | [Don't Forget to Wave When You Travel Through Time](https://open.spotify.com/track/1dythBNXV6ipBtuCR0RIhH) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Don't Forget to Wave When You Travel Through Time](https://open.spotify.com/album/6D6hbw772nnGmvGVKlwFvW) | 3:27 | 2022-04-15 | 2022-05-27 |
+| [Don\*t ask](https://open.spotify.com/track/1Gk7ZiotJNIysZW5HUXTC8) | [Delbaz](https://open.spotify.com/artist/7awZp2VSR238uWEYBWVA1R) | [Don\*t ask](https://open.spotify.com/album/1guH5RZV3kqLb1mzxtwxhk) | 2:14 | 2025-02-28 |  |
 | [Dont Go](https://open.spotify.com/track/7m7yVthruWNGZ6WkvJnjxo) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [Dont Go](https://open.spotify.com/album/4oTo2WXUFmG27DQHcfqSr0) | 1:58 | 2022-11-25 |  |
 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 | 2022-06-24 |  |
 | [Donuts](https://open.spotify.com/track/29aKlnFemuICJhqZPuZ1po) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Donuts](https://open.spotify.com/album/0Us2I3jTIZ3q18uoyhVjvr) | 2:21 | 2023-10-06 |  |
@@ -1749,7 +1751,7 @@
 | [Sky Lullaby](https://open.spotify.com/track/3cQHsfwhxsdJJABkWO1N5U) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Sky Lullaby](https://open.spotify.com/album/6jo7r1HGaDlUBBgNUUue8G) | 3:07 | 2022-04-15 | 2022-12-09 |
 | [Skylghts](https://open.spotify.com/track/2o0dQMcekq9d0PpQIvOfma) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Skylghts](https://open.spotify.com/album/2PR7GoyCdyQ2hgEeEF8P3y) | 2:21 | 2025-01-10 |  |
 | [Skyline](https://open.spotify.com/track/6haY8EuNtgu8X7OHahKQnw) | [Chill Seeker](https://open.spotify.com/artist/3ekjTw2hldqoMm0FbaeRS8) | [Skyline](https://open.spotify.com/album/7eNK3a2U22NSF5qoo7TtaA) | 3:07 | 2022-04-15 | 2022-08-12 |
-| [Skyrisers](https://open.spotify.com/track/6l4OburkdTyyFVKAQ885mt) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Skyrisers](https://open.spotify.com/album/6XbT7i6Nqj9RHounBHXHJ2) | 1:53 | 2022-11-18 |  |
+| [Skyrisers](https://open.spotify.com/track/6l4OburkdTyyFVKAQ885mt) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Skyrisers](https://open.spotify.com/album/6XbT7i6Nqj9RHounBHXHJ2) | 1:53 | 2022-11-18 | 2025-03-06 |
 | [Slay](https://open.spotify.com/track/6Rt2oplsgLFOyU4okO7zkJ) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Slay](https://open.spotify.com/album/0NEtzD2Zmrepd0H8lzn9Z3) | 2:21 | 2022-12-16 |  |
 | [sleep palace](https://open.spotify.com/track/4bDnBDaDdc9k3Hr1TNc7zP) | [Ramen Police](https://open.spotify.com/artist/0knrIAATZf0t428Hx8qmS9) | [sleep palace](https://open.spotify.com/album/1vXsP7xiL2Je9NuPFkn9Wa) | 3:06 | 2022-04-15 | 2022-07-01 |
 | [sleep tight](https://open.spotify.com/track/6K18f74xVdKOulHIO7iKqx) | [seeya](https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9) | [sleep tight](https://open.spotify.com/album/6ZRMc50tIWcf7VWZlyKp9L) | 2:44 | 2024-10-18 | 2025-01-01 |

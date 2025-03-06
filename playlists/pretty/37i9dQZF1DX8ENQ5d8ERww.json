@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12457,
+  "num_followers": 12458,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
+        "name": "Ke Summer",
+        "url": "https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK"
+      },
+      "artists": [
+        {
+          "name": "Chlyklass",
+          "url": "https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "Summer f\u00fcr immer",
+      "url": "https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
         "name": "Verd\u00e4chtig...",
         "url": "https://open.spotify.com/album/6orut2CjbQYr3CYFSWKxz0"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 236382,
       "name": "Gott spile",
       "url": "https://open.spotify.com/track/45HWwavpJRnDz8NhLzlRAi"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Ke Summer",
-        "url": "https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK"
-      },
-      "artists": [
-        {
-          "name": "Chlyklass",
-          "url": "https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT"
-        }
-      ],
-      "duration_ms": 245133,
-      "name": "Summer f\u00fcr immer",
-      "url": "https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO"
     },
     {
       "added_at": "2024-12-09 12:11:25",

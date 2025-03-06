@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-160 songs - 9 hr 16 min
+161 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Pretty Little Fears \(feat\. J\. Cole\)](https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:00 | 2023-12-13 |  |
 | [Pricey \(feat\. Ari Lennox, Young Dro & Gucci Mane\)](https://open.spotify.com/track/2w5BtuWXISpB6NM4xPoeiR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 4:55 | 2024-05-14 | 2024-08-24 |
 | [Problems](https://open.spotify.com/track/2HcwlrhmvhlNNwoGvZz2Nw) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Ludaversal \(Deluxe\)](https://open.spotify.com/album/2KlVwY7H9B9KvFXJglqzWq) | 3:59 | 2023-12-13 |  |
+| [Problems](https://open.spotify.com/track/2eiBYIPLyKtlWqMR1INilR) | [Salmonella Dub](https://open.spotify.com/artist/4CrKP8lBJXCb6a3TcL2pat) | [Inside the Dubplates](https://open.spotify.com/album/6m9rFDnxOiFFvRiC9M9HkO) | 6:07 | 2025-03-05 |  |
 | [PROUD](https://open.spotify.com/track/365wwIjijQdlRJEjUWTidq) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Play Don’t Care Who Makes It](https://open.spotify.com/album/5C3uZS83u9pXWFEpl47hWb) | 3:54 | 2023-12-13 |  |
 | [Ready ‘24 \(feat\. Cam’ron\)](https://open.spotify.com/track/4J9WveqdoaEUQu1aeoSH9X) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:30 | 2024-05-14 |  |
 | [Replacement Girl](https://open.spotify.com/track/7BFYHJKxUJUCZFrFbVbuhv) | [Alien Kiss](https://open.spotify.com/artist/1cZ7LyEZulzZh3DNoMgS3S) | [Good Girls Go To Heaven, Bad Girls Take You There](https://open.spotify.com/album/6ohQiOEEQqAuPsp2gfYLRg) | 6:15 | 2023-12-13 |  |

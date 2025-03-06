@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Boldy James
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,503 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,515 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 39 | [Armani Section](https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Armani Section](https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K) | 3:00 |
 | 40 | [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 |
 | 41 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
-| 42 | [Jomo](https://open.spotify.com/track/0tR2mUq9HmCLtLR8dE6USl) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Jomo](https://open.spotify.com/album/1gP1kONUH0NOqIfOGefiRh) | 3:10 |
-| 43 | [Lop Sided](https://open.spotify.com/track/5pOEFbZDVXm9Atxc2K09is) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Token of Appreciation](https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT) | 3:19 |
+| 42 | [Lop Sided](https://open.spotify.com/track/5pOEFbZDVXm9Atxc2K09is) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Token of Appreciation](https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT) | 3:19 |
+| 43 | [Jomo](https://open.spotify.com/track/0tR2mUq9HmCLtLR8dE6USl) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Jomo](https://open.spotify.com/album/1gP1kONUH0NOqIfOGefiRh) | 3:10 |
 | 44 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 45 | [FLOW](https://open.spotify.com/track/1IrfhbQTbH2ikKHxAuBeab) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [FLOW](https://open.spotify.com/album/4ZVDy93t8G2t4LnwIxy6bR) | 1:51 |
 | 46 | [Dr\. Britt Baker](https://open.spotify.com/track/08vyopstusuqW5qtK9EVh2) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Brother Tom Sos](https://open.spotify.com/artist/42CdfzvwQxU730Iod5qjyX) | [Still Praying](https://open.spotify.com/album/6Y4gDBghxCfpGkQKc9czVQ) | 5:09 |
 | 47 | [Floppy Disks](https://open.spotify.com/track/53nyIwxHPbQO6QEwhKYE7v) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Floppy Disks](https://open.spotify.com/album/1KWscxrKzDgwkFKwO6DqEE) | 2:00 |
 | 48 | [Dope Sellers](https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Dope Sellers](https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb) | 3:16 |
-| 49 | [Crazier](https://open.spotify.com/track/32MRzH8knxhm1pXeBzHA0F) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Crazier](https://open.spotify.com/album/1Arbdb9aoP2xwTRymKSqRI) | 2:49 |
-| 50 | [Street Magic](https://open.spotify.com/track/3x6begxpmy9o0Sd1EtzOqC) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Skeleton Key](https://open.spotify.com/album/3o97J40gRWIoGO2Hnyez52) | 3:42 |
+| 49 | [Global Telling](https://open.spotify.com/track/4qsxIj0t2Iqc6PxPX88lNB) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Token of Appreciation](https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT) | 3:30 |
+| 50 | [Crazier](https://open.spotify.com/track/32MRzH8knxhm1pXeBzHA0F) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Crazier](https://open.spotify.com/album/1Arbdb9aoP2xwTRymKSqRI) | 2:49 |
 
 Snapshot ID: `Z8FC3gAAAAAVWOS9FBztyvsWKZ7tdE7F`

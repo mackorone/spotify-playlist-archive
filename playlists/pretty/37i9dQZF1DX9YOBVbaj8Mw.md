@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,869 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,870 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 50 | [Thousand Yard Stare](https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2) | [Tomasz Chyła Quintet](https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9) | [Music We Like To Dance To](https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud) | 7:38 |
 | 51 | [My](https://open.spotify.com/track/3x3HRFlqBsM3tm2DH9HpGa) | [Kim Nowak](https://open.spotify.com/artist/2MCd1BJPM71DbGdVewk94d) | [My](https://open.spotify.com/album/71FoVkacUpn0o5dTfQWX4b) | 4:23 |
 | 52 | [Zaopiekuj się mną](https://open.spotify.com/track/47Zuvh8n2MakxHcNuKp6xL) | [KARAŚ/ROGUCKI](https://open.spotify.com/artist/1ZAGaCgMaOtt2yOUm1Qq6x) | [Zaopiekuj się mną](https://open.spotify.com/album/20qU6KwVmu7dIbH4hIhDXJ) | 4:13 |
-| 53 | [Płonąca stodoła](https://open.spotify.com/track/6koA8seh19SIjaOwf45jgC) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Zalewski śpiewa Niemena \(Reedycja\)](https://open.spotify.com/album/3hPcfIfLoRoSmtWF1vOrZ0) | 2:57 |
-| 54 | [Chory na Polskę](https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Chory na Polskę](https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw) | 3:19 |
+| 53 | [Chory na Polskę](https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Chory na Polskę](https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw) | 3:19 |
+| 54 | [Płonąca stodoła](https://open.spotify.com/track/6koA8seh19SIjaOwf45jgC) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Zalewski śpiewa Niemena \(Reedycja\)](https://open.spotify.com/album/3hPcfIfLoRoSmtWF1vOrZ0) | 2:57 |
 | 55 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
 | 56 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
 | 57 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 85 | [De Joe](https://open.spotify.com/track/5oilZfKTkGUkrc3Tz61Nae) | [Zbigniew Jakubek](https://open.spotify.com/artist/2QN2CzqwVf0PuYBeZQ4pfV), [Marek Raduli](https://open.spotify.com/artist/7y3dWNMj9SrdKhFbXlFP4e), [Michał Grott](https://open.spotify.com/artist/5vTufkZ6dLqe3QdmONx2Mu), [Michał Dąbrówka](https://open.spotify.com/artist/57zOJBgXcOxWWMh1Z5KnDr) | [De Joe](https://open.spotify.com/album/2KgKvBhZtJqFQfWxR8Nnjt) | 8:01 |
 | 86 | [Falling Up](https://open.spotify.com/track/2ZFOwLuqCZmzC2khHhRQc3) | [Horntet](https://open.spotify.com/artist/2miwAQ8PY05NnvIEZa4TQz), [Bartłomiej Leśniak](https://open.spotify.com/artist/6elU49AsLleDexXyQnOeAW), [Robert Wypasek](https://open.spotify.com/artist/3azzTqUgUR97rCoPjwq8lA), [Szymon Ziółkowski](https://open.spotify.com/artist/3XYwgUP8jS69oxkfxRuIfg), [Mikolaj Sikora](https://open.spotify.com/artist/1HfykGEcWFCtMQgVkBFKVh), [Piotr Przewoźniak](https://open.spotify.com/artist/4ungdngpcfCsXiIHS7enTF) | [Horntet](https://open.spotify.com/album/0i4KNRV2Uu7wn8UH8UeYLN) | 9:23 |
 | 87 | [a Story of Perception](https://open.spotify.com/track/7Lf7GfnDGC3RWWYvQ6a18h) | [Irka Zapolska Quartet](https://open.spotify.com/artist/54xNZbyRTTQh0HNR8uw8lu) | [perception of preception](https://open.spotify.com/album/7FP9VDLmGKbG7u6K3KbOZq) | 14:10 |
-| 88 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
-| 89 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
+| 88 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
+| 89 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
 | 90 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |
 
 Snapshot ID: `ZgE7OQAAAABQDQPGFDAFGTVqkM5aam82`
