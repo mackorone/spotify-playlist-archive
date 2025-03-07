@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aTaZa0K6VA.md) - [plain]
 
 > Super mega hits! Foto: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,759,195 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,759,516 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

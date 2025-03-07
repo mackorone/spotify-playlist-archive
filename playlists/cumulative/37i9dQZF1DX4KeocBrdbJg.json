@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 148928,
       "name": "ANXIETY (feat. Doechii)",
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
@@ -952,7 +970,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -8374,6 +8392,28 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
+        "name": "Nada Es Para Siempre",
+        "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195060,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
     },
     {
       "album": {

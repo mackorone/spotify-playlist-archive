@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Door En Door",
+        "url": "https://open.spotify.com/album/4MM2s2BHa319dYoeSD4e9h"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193211,
+      "name": "Door En Door",
+      "url": "https://open.spotify.com/track/7cATx9Gorgj9VCl97NCWRe"
+    },
+    {
+      "album": {
         "name": "Echte Liefde",
         "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
       },
@@ -696,7 +714,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 174400,
       "name": "Het Idee",
       "url": "https://open.spotify.com/track/0XnIwi98ZtAEHGkmz9rd9h"
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 175882,
       "name": "Nergens Heen",
       "url": "https://open.spotify.com/track/5NeAAEPye5GqjZCdoeF1CS"
@@ -1556,6 +1574,36 @@
       "duration_ms": 168601,
       "name": "Omhoog",
       "url": "https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM"
+    },
+    {
+      "album": {
+        "name": "Op Jou Heb Ik Gewacht",
+        "url": "https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2"
+      },
+      "artists": [
+        {
+          "name": "De Poema's",
+          "url": "https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        },
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175979,
+      "name": "Op Jou Heb Ik Gewacht",
+      "url": "https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn"
     },
     {
       "album": {
@@ -1707,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Scherven",
+        "url": "https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "Scherven",
+      "url": "https://open.spotify.com/track/14h13moB369WHcbOOjOY0z"
+    },
+    {
+      "album": {
         "name": "Schijnbaar Niet Waar",
         "url": "https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS"
       },
@@ -1794,7 +1860,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 189396,
       "name": "Slapeloos",
       "url": "https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28"

@@ -2,9 +2,9 @@
 
 ### [Keşif](https://open.spotify.com/playlist/37i9dQZF1DX9EWkqxS1pO0)
 
-> Yeni favori sanatçını keşfet ⚡ Kapak: merhababensokak
+> Yeni favori sanatçını keşfet ⚡ Kapak: Yasemin Rosa
 
-206 songs - 10 hr 14 min
+207 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Beni de Kendine Benzettin](https://open.spotify.com/track/2ZbYaf7AzESGpVd3yjcKeD) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Beni de Kendine Benzettin](https://open.spotify.com/album/4FrcDo79Wu0sZkhPPnOw6F) | 2:58 | 2024-08-08 | 2024-10-10 |
 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 | 2024-06-20 | 2025-03-01 |
 | [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-06-20 | 2024-08-09 |
+| [Beşer](https://open.spotify.com/track/1iw4uB80AAM4dIpc8rcylb) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB) | [Beşer](https://open.spotify.com/album/2KoA1TjuegruChoecNXGWV) | 3:37 | 2025-03-06 |  |
 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-08-29 |  |
 | [Bi' İnansan Güzelim](https://open.spotify.com/track/4EzVfclpptuWdeMSRmNy04) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Bi' İnansan Güzelim](https://open.spotify.com/album/5kGD0QdQpyVjhG3zw0vLU8) | 3:27 | 2024-09-05 | 2024-11-01 |
 | [Bir Aşk Biter](https://open.spotify.com/track/4NobbDtfMdaJP0sxA72K9j) | [Hasan Kutan](https://open.spotify.com/artist/4JANYRn1io9jc8aPjjVpX8) | [Bir Aşk Biter](https://open.spotify.com/album/2S9l8ynEn2rLG60up8vxAK) | 3:09 | 2024-10-24 | 2024-12-15 |
@@ -203,7 +204,7 @@
 | [Çat Çat](https://open.spotify.com/track/5cMW9WejBXKp4pxIEekGwt) | [Emre Şakar](https://open.spotify.com/artist/0rdwmnIhNkunUZvqAIU0Kh) | [Çat Çat](https://open.spotify.com/album/2Ruv8SwIDwzCVTm4PmC9UT) | 2:01 | 2024-08-01 | 2024-09-06 |
 | [ÇATAPAT](https://open.spotify.com/track/6V6efRzijn61AYQCEAd6TZ) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [ÇATAPAT](https://open.spotify.com/album/6pdkNZvWbVb908zfH3AynF) | 2:11 | 2024-06-20 | 2024-08-09 |
 | [Çok Sevdim](https://open.spotify.com/track/13n0yHb4lidng6qEkLASaP) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Çok Sevdim](https://open.spotify.com/album/5eyMBgyFcS8Ji46F6Kg5RH) | 2:54 | 2024-09-05 |  |
-| [çok zor](https://open.spotify.com/track/3Y6y88sc61ZSciTpyBiIAv) | [FEM](https://open.spotify.com/artist/43bCw3UGd9GkTQqlPganbd) | [çok zor](https://open.spotify.com/album/5wfdpXP7VUi714AfOTJBVB) | 2:27 | 2025-02-13 |  |
+| [çok zor](https://open.spotify.com/track/3Y6y88sc61ZSciTpyBiIAv) | [FEM](https://open.spotify.com/artist/43bCw3UGd9GkTQqlPganbd) | [çok zor](https://open.spotify.com/album/5wfdpXP7VUi714AfOTJBVB) | 2:27 | 2025-02-13 | 2025-03-07 |
 | [Çorba](https://open.spotify.com/track/5ewUwzoIdPI3GYyMdoaOeW) | [Tutku](https://open.spotify.com/artist/5hgO3u5FjBwpPJZFP8W7DX) | [Çorba](https://open.spotify.com/album/5vBmUAFkcCD4eyIeKUSln8) | 2:46 | 2025-01-16 |  |
 | [Çöpçüler](https://open.spotify.com/track/3Mj1V9zwJpq7xtnaeLpVga) | [Nihan Belgin](https://open.spotify.com/artist/6v7zvtUlRA6xkUxFZqJnWw) | [Çöpçüler](https://open.spotify.com/album/0JEwaMcoUvCgjox56qy8na) | 2:51 | 2024-11-07 | 2024-11-14 |
 | [Ömrüm Sende Güzelim](https://open.spotify.com/track/6qtCAWl1dWjg0AonkGffXI) | [Tolga Kahraman](https://open.spotify.com/artist/2OEs7oqHFsQCCRFlf3OOME) | [Ömrüm Sende Güzelim](https://open.spotify.com/album/68JW96aQxraWZLbABovivS) | 2:27 | 2024-09-05 | 2024-09-07 |

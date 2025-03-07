@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,729 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,894 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

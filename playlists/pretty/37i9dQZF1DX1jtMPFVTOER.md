@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,699 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,715 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 63 | [Down With The King](https://open.spotify.com/track/5odKJTIElEOAjL2R4d1Gax) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Down With the King](https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X) | 4:26 |
 | 64 | [Be Myself](https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [Be Myself](https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW) | 3:47 |
 | 65 | [STOP CALLING ME](https://open.spotify.com/track/314r69preySjrl67vpaEI8) | [Blaque Dynamite](https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2) | [Stop Calling Me](https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B) | 5:27 |
-| 66 | [Dear Cousin](https://open.spotify.com/track/2HqHWQ4oiPwnmS1H6cKmGp) | [Dizraeli](https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa) | [Dear Cousin](https://open.spotify.com/album/2BzVboRUvcf8wGwRAhayck) | 4:03 |
+| 66 | [Dear Cousin](https://open.spotify.com/track/2HqHWQ4oiPwnmS1H6cKmGp) | [Dizraeli](https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa), [Joy Machine](https://open.spotify.com/artist/6xtSRFZt7Ye9JrUhn612Dn) | [Dear Cousin](https://open.spotify.com/album/2BzVboRUvcf8wGwRAhayck) | 4:03 |
 | 67 | [Chasing Days \- Sam Redmore Remix](https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6) | [Chasing Days \(Sam Redmore Remix\)](https://open.spotify.com/album/4pSclrufz705aSbj4gASWM) | 5:22 |
 | 68 | [Summer Love](https://open.spotify.com/track/7BPEc1YXCT4Z2pDBRpcXw5) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Calling](https://open.spotify.com/album/6GmQbbAubfdTePHW6edf93) | 3:27 |
 | 69 | [I’m The President](https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [I’m The President](https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L) | 4:07 |

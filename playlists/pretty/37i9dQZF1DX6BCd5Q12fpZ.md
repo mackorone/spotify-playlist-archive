@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,416 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,418 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

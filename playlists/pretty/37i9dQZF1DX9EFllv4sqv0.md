@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 
 > Level up your gaming with these afro tracks\. Cover: Qing Madi
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,142 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,167 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,901 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,013 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

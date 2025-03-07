@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: JENNIE x Dominic Fike)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: JENNIE x Dua Lipa)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -726,7 +726,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 172244,
       "name": "Blueberry Eyes (feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/5dn6QANKbf76pANGjMBida"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 164457,
       "name": "Butter (Megan Thee Stallion Remix)",
       "url": "https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5"
@@ -1129,6 +1129,32 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230171,
+      "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
+      "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
+    },
+    {
+      "album": {
         "name": "Darling",
         "url": "https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm"
       },
@@ -1246,6 +1272,32 @@
       "duration_ms": 145065,
       "name": "Do It Like That",
       "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+    },
+    {
+      "album": {
+        "name": "Do What You Do",
+        "url": "https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "EL CAPITXN",
+          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Do What You Do",
+      "url": "https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb"
     },
     {
       "album": {
@@ -1378,6 +1430,28 @@
       "duration_ms": 189079,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq"
+    },
+    {
+      "album": {
+        "name": "ExtraL (feat. Doechii)",
+        "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
     },
     {
       "album": {
@@ -1681,6 +1755,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
+    },
+    {
+      "album": {
         "name": "Hare Hare",
         "url": "https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh"
       },
@@ -1860,7 +1956,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 205484,
       "name": "I CAN'T STOP ME (English Version)",
       "url": "https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC"
@@ -1944,7 +2040,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 260233,
       "name": "IDOL",
       "url": "https://open.spotify.com/track/03iCbZaM4OkRR4We6wIzvx"
@@ -2552,7 +2648,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 188853,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
@@ -2982,7 +3078,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
@@ -4006,7 +4102,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 184093,
       "name": "Valley of Lies",
       "url": "https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW"
@@ -4298,7 +4394,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 192808,
       "name": "Wrap Me In Plastic",
       "url": "https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ"

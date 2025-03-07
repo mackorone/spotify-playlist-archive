@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 170062,
       "name": "A Little Thing Called Love",
       "url": "https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb"
@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/6dc7UWyltNv3eeE3XTDISJ"
+      },
+      "artists": [
+        {
+          "name": "Soul Mannik",
+          "url": "https://open.spotify.com/artist/31zOFFnpYOyCDdmJR4XAUd"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158119,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2rI2lBqcWoHXKx1bZRxFT6"
+    },
+    {
+      "album": {
         "name": "Find A Way",
         "url": "https://open.spotify.com/album/15qqTdTiUNccxMQNoXDlvs"
       },
@@ -904,7 +922,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 211947,
       "name": "Khartoum",
       "url": "https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 264250,
       "name": "River",
       "url": "https://open.spotify.com/track/5xLc7raaqvmNZjtZ9KdoHR"
@@ -1783,6 +1801,28 @@
     },
     {
       "album": {
+        "name": "PRE PACK",
+        "url": "https://open.spotify.com/album/3m0vczVUu8N3K7VZIoxdjq"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "hihi",
+          "url": "https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64516,
+      "name": "SLOWLY FAST",
+      "url": "https://open.spotify.com/track/6eg0gp8fr41kX8s40wQJ5M"
+    },
+    {
+      "album": {
         "name": "Something Is You",
         "url": "https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0"
       },
@@ -1838,6 +1878,24 @@
       "duration_ms": 176703,
       "name": "Spend My Money",
       "url": "https://open.spotify.com/track/23QGS3cR9tRLOmJ2iY8pN2"
+    },
+    {
+      "album": {
+        "name": "Still Ain't Free",
+        "url": "https://open.spotify.com/album/7gC5LgjRmFhaqdJt2o0B2R"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132194,
+      "name": "Still Ain't Free",
+      "url": "https://open.spotify.com/track/4TFvHFpvWHFhP9TDt02ppl"
     },
     {
       "album": {

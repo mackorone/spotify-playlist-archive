@@ -1,13 +1,29 @@
 {
   "description": "Listen to the music from Invincible, streaming only on Prime Video. ",
-  "num_followers": 71688,
+  "num_followers": 73014,
   "original_name": "Invincible Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8AbhgAAAAD7j5h8ihjUSoKrWhDiPZ00",
+  "snapshot_id": "Z8lWHQAAAABiIZ6RxXX4dO+S3xR9deYR",
   "tracks": [
+    {
+      "added_at": "2025-03-06 08:00:29",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
     {
       "added_at": "2025-02-27 08:00:06",
       "album": {

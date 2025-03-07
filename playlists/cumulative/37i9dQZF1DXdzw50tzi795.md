@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: LITTLE JOHN
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Ink Waruntorn
 
 140 songs - 9 hr 8 min
 

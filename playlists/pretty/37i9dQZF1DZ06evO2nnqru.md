@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,935 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,945 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

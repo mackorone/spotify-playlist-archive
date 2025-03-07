@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 populairste hits van nu. Cover: Zo\u00eb Tauran & Idaly",
+  "description": "De 50 populairste hits van nu. Cover: Zo\u00eb Tauran",
   "name": "Hot Hits NL",
   "tracks": [
     {
@@ -98,6 +98,28 @@
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
       "url": "https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB"
+    },
+    {
+      "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/77lwOPIULad3xw9beebzJj"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151493,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv"
     },
     {
       "album": {
@@ -262,7 +284,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 203545,
       "name": "A Moment",
       "url": "https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI"
@@ -1148,7 +1170,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
@@ -1312,6 +1334,24 @@
       "duration_ms": 183175,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/4MsGEDdSdgs4lWSJQIIf8z"
+    },
+    {
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160281,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT"
     },
     {
       "album": {
@@ -2188,7 +2228,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -3645,6 +3685,28 @@
     },
     {
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156222,
+      "name": "I know love (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4"
+    },
+    {
+      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -3842,7 +3904,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 154624,
       "name": "Ik Haat Hem Voor Jou",
       "url": "https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF"
@@ -4382,6 +4444,24 @@
       "duration_ms": 159577,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
+    },
+    {
+      "album": {
+        "name": "Liefste",
+        "url": "https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155208,
+      "name": "Liefste",
+      "url": "https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7"
     },
     {
       "album": {
@@ -5862,7 +5942,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -6292,6 +6372,28 @@
       "duration_ms": 135706,
       "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "album": {
@@ -6878,7 +6980,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
@@ -7888,6 +7990,24 @@
       "duration_ms": 137277,
       "name": "Wacht Op Mij",
       "url": "https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK"
+    },
+    {
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,451 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,894 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

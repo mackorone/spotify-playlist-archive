@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,448 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,557 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Embers](https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Embers](https://open.spotify.com/album/310zPynreWG7NPfazR7z02) | 2:49 |
 | 60 | [Highest Love](https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Highest Love](https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u) | 4:57 |
 
-Snapshot ID: `Z7fCEwAAAABGHiOIUivumDpLIMMNIPjO`
+Snapshot ID: `Z8o3DwAAAAAbYjrRn39fgqzS9tSqt13C`

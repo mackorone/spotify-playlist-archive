@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,568 likes - 45 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,571 likes - 45 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

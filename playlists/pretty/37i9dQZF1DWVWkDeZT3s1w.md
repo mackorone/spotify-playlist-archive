@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,659 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,683 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

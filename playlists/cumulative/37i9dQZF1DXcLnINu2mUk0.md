@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Trista
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Aragão
 
-700 songs - 1 day 13 hr 13 min
+702 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Cara do Pai](https://open.spotify.com/track/2CcZEYj1ef6k9JMunarSvT) | [Arganaça](https://open.spotify.com/artist/4i9YZ46se9VOp2eSLbCg4i) | [Cara do Pai](https://open.spotify.com/album/1kRPEJqYFVtHxXVWBkDZbR) | 3:09 | 2023-07-13 | 2023-08-04 |
 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 | 2024-02-16 |  |
 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 | 2022-07-07 | 2024-02-16 |
-| [Cartas de Amor](https://open.spotify.com/track/29J1uPRpOCdJxPkSRgBg8e) | [Harley KSD](https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D) | [Cartas de Amor](https://open.spotify.com/album/2BF40lgn2LMb6KTDVh9quc) | 2:45 | 2025-02-21 |  |
+| [Cartas de Amor](https://open.spotify.com/track/29J1uPRpOCdJxPkSRgBg8e) | [Harley KSD](https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D) | [Cartas de Amor](https://open.spotify.com/album/2BF40lgn2LMb6KTDVh9quc) | 2:45 | 2025-02-21 | 2025-03-07 |
 | [Casaco](https://open.spotify.com/track/3eV01arTXqFuftJDTXHx8A) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Casaco](https://open.spotify.com/album/7yFK2mAEqETdzbmvCBpNN9) | 3:07 | 2024-04-05 | 2024-04-26 |
 | [Cashh](https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O) | [Cashh](https://open.spotify.com/album/4Mi08knLklj8pKdeFfvhF5) | 4:28 | 2022-09-29 | 2022-10-28 |
 | [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 | 2022-09-16 | 2022-10-07 |
@@ -218,7 +218,7 @@
 | [Entre Nós](https://open.spotify.com/track/2rdxhGC4hD97rwGn7SA0UM) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Entre Nós](https://open.spotify.com/album/7hK8tp2hartNZYIdAk7qwk) | 3:12 | 2023-04-06 | 2023-04-28 |
 | [Envelope](https://open.spotify.com/track/4HgGRC7eBY1RZmu9vP0yLL) | [Ary Bronze](https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ), [Prince do Pânico](https://open.spotify.com/artist/1OWkdbkoNHyee3GVJxvBRI) | [Envelope](https://open.spotify.com/album/2m7UmnXmKbPjWiPWFx02F5) | 2:59 | 2023-06-08 | 2023-06-23 |
 | [Espaço](https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr) | [Lucas Leite](https://open.spotify.com/artist/5FE9rWQk9C3bdSUQRgI9dk) | [Espaço](https://open.spotify.com/album/5TddFI2xW974OSHg88pjOb) | 3:14 | 2022-12-02 | 2023-01-06 |
-| [Espinho](https://open.spotify.com/track/5zW8tYDz09Z8Y3ckKjfKeT) | [AVALANCHE](https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb), [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Espinho](https://open.spotify.com/album/7ptDywQb8peMdUUDPNjIGk) | 3:04 | 2025-01-31 |  |
+| [Espinho](https://open.spotify.com/track/5zW8tYDz09Z8Y3ckKjfKeT) | [AVALANCHE](https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb), [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Espinho](https://open.spotify.com/album/7ptDywQb8peMdUUDPNjIGk) | 3:04 | 2025-01-31 | 2025-03-07 |
 | [Espirito](https://open.spotify.com/track/1qRFaUg4Lr8suJArLQajv1) | [Young Max](https://open.spotify.com/artist/1t6x0n25bBUkI4re1wQqKu), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Espirito](https://open.spotify.com/album/43ELmi4Ak9u9vhEHUszb0I) | 2:55 | 2024-02-02 | 2024-03-01 |
 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 | 2022-07-07 |  |
 | [Essa é minha miúda \(bónus track\)](https://open.spotify.com/track/5hZf073xDCsXZgK0wof264) | [BUH BUH](https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU) | [Essa é minha miúda \(bónus track\)](https://open.spotify.com/album/5OUhv3O548x7mccEsh2vxB) | 3:31 | 2024-07-25 | 2024-08-16 |
@@ -406,6 +406,7 @@
 | [Musa](https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3) | [GBrïsido](https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy) | [Musa](https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck) | 3:32 | 2023-07-20 | 2023-08-11 |
 | [My Boo](https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [My Boo](https://open.spotify.com/album/5tqOg08UvlOlGKuCGXe3Q7) | 2:34 | 2022-07-07 | 2022-08-19 |
 | [Mónica](https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Mónica](https://open.spotify.com/album/4NEbbX06fF18QRkOpa53oG) | 3:12 | 2023-09-07 | 2024-02-16 |
+| [Mô Amigo](https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Mô Amigo](https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB) | 2:41 | 2025-03-07 |  |
 | [N'ta Amau](https://open.spotify.com/track/2dQeZjABhYmAHOf8hoa3dr) | [Psyco Pdz](https://open.spotify.com/artist/4lEJQE8znF91LHaCVhm6ZX) | [N'ta Amau](https://open.spotify.com/album/7ClEhkAX46ygzQGE3VuSWU) | 3:36 | 2022-11-25 | 2022-12-24 |
 | [N1](https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [N1](https://open.spotify.com/album/0gcu1JxZaiOUAIqThGPoGN) | 3:51 | 2023-06-29 | 2023-07-14 |
 | [N1](https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0) | [Sandricidio](https://open.spotify.com/artist/1StFte0Pe59Pu4unbpadJ0) | [N1](https://open.spotify.com/album/16Hp09IOG9OZXmqj789ejf) | 2:55 | 2022-11-18 | 2023-01-06 |
@@ -647,6 +648,7 @@
 | [Tu Reclamas](https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Tu Reclamas](https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR) | 3:50 | 2023-04-13 | 2023-06-30 |
 | [Tua](https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Tua](https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO) | 3:21 | 2023-09-28 | 2024-02-02 |
 | [tua falta \(feat\. Lhast\)](https://open.spotify.com/track/3uf9kk76Jo7oaw6KzrWHcY) | [ed](https://open.spotify.com/artist/3NQzkrCGGhftMzKWApn44m), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [tua falta \(feat\. Lhast\)](https://open.spotify.com/album/2rm4EN7sSpcDxM6kVT3fgV) | 3:29 | 2025-02-14 |  |
+| [TUDO CERTO](https://open.spotify.com/track/2nLQWxiRIFlQTAxXIREUx7) | [Kyle Quest](https://open.spotify.com/artist/6tEYbq0qUZoQwzmCjMtFHC) | [TUDO CERTO](https://open.spotify.com/album/1cR3wZOUrVmc8s2osfPC5p) | 2:42 | 2025-03-07 |  |
 | [Tudo Eu](https://open.spotify.com/track/4Dq6ZMKGGE0ySNelZl63f8) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn) | [Tudo Eu](https://open.spotify.com/album/5IWSsHVCFLFQJukkiUye4U) | 2:20 | 2023-09-21 | 2023-11-11 |
 | [Tudo Mudou](https://open.spotify.com/track/2XfGBVchQoNXdxmiZTnhSP) | [Marcelo](https://open.spotify.com/artist/4vtDYMpNi4ZFBGjOie9rwM), [URG](https://open.spotify.com/artist/7kKEaWgCxK4lLwnrmsDZDL) | [Tudo Mudou](https://open.spotify.com/album/3rbUeYAIbQZnNJkEsia5kY) | 3:52 | 2022-09-29 | 2022-10-14 |
 | [TUDO OU NADA](https://open.spotify.com/track/3FzM5fHg2Wu87fuLxBstDY) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [TRIAGEM](https://open.spotify.com/album/3i1DXVUJpTTBnxbRD8fB0K) | 3:06 | 2023-09-14 | 2023-10-11 |

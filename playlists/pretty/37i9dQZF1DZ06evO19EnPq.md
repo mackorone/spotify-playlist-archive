@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 
 > This is Benson Boone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,102 likes - 23 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,700 likes - 23 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-2,282 songs - 4 day 21 hr 38 min
+2,283 songs - 4 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,7 +792,7 @@
 | [GRUSVÄG](https://open.spotify.com/track/5CLydITobjloGLCI3KogSO) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GRUSVÄG](https://open.spotify.com/album/7cIz4GR8YnKmJtU6dckxYi) | 2:23 | 2023-05-27 | 2023-07-30 |
 | [Grytan](https://open.spotify.com/track/2y8vVlyyZG9TLHY2MrNrTp) | [Uje Brandelius](https://open.spotify.com/artist/3mCDPC9qPRFIo2OLXE7B2F) | [Grytan](https://open.spotify.com/album/30a3TvJwMsRX6XtxCpaX8Z) | 3:03 | 2023-02-13 | 2023-02-15 |
 | [Grät](https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Grät](https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp) | 3:14 | 2023-05-13 | 2024-01-07 |
-| [Grät](https://open.spotify.com/track/17NUFb6q7at0MyprZBaLYj) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Jag önskar jag brydde mig mer..\. men det gör jag egentligen](https://open.spotify.com/album/5hugldJAwORdDcefCzMLuf) | 3:15 | 2025-02-27 |  |
+| [Grät](https://open.spotify.com/track/17NUFb6q7at0MyprZBaLYj) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Jag önskar jag brydde mig mer..\. men det gör jag egentligen](https://open.spotify.com/album/5hugldJAwORdDcefCzMLuf) | 3:15 | 2025-02-27 | 2025-03-07 |
 | [Grät](https://open.spotify.com/track/5lSHKCtlkCXQag3j3KKexi) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:15 | 2024-08-31 | 2024-09-06 |
 | [Gråt inte mer](https://open.spotify.com/track/3Cum5PAE6Nw52V43aRbLve) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Gråt inte mer](https://open.spotify.com/album/7aNTcA7BfHWL8tYzS9BSxV) | 3:28 | 2021-12-08 | 2021-12-09 |
 | [Gråter om du vill](https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Gråter om du vill](https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW) | 3:48 | 2022-01-15 | 2022-05-12 |
@@ -1680,7 +1680,7 @@
 | [Saint Laurent \(feat\. C.Gambino\)](https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Saint Laurent \(feat\. C.Gambino\)](https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC) | 2:48 | 2023-06-03 | 2023-07-01 |
 | [Salaam / Two Gun Kid \- A COLORS SHOW](https://open.spotify.com/track/4FfM5qGXZuwnXSYW8mpK2K) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salaam / Two Gun Kid \- A COLORS SHOW](https://open.spotify.com/album/2G6JfAZZYUpR71xJ4hWHiz) | 2:48 | 2023-09-25 | 2023-10-02 |
 | [Salam](https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salam](https://open.spotify.com/album/56xgHK320guDeJaXou4VQu) | 2:17 | 2023-09-20 | 2023-10-02 |
-| [Salute](https://open.spotify.com/track/2fa3V92K5LtrQKOHs5URSD) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Salute](https://open.spotify.com/album/5gWtdeBPJnicRkVORG8q5b) | 3:02 | 2025-02-09 |  |
+| [Salute](https://open.spotify.com/track/2fa3V92K5LtrQKOHs5URSD) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Salute](https://open.spotify.com/album/5gWtdeBPJnicRkVORG8q5b) | 3:02 | 2025-02-09 | 2025-03-07 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4hsTQQgfBnBgtBkTGKWS1G) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Samma gamla vanliga](https://open.spotify.com/album/0pDplTjct8PBplJ7s2sL6p) | 2:09 | 2021-05-12 | 2021-11-14 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:09 | 2021-11-14 | 2022-03-06 |
 | [Samma Jag](https://open.spotify.com/track/20oVVvGVo6PY25JYPzgXsr) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Samma Jag](https://open.spotify.com/album/1qwtWsXoNRRBSBuQUkWkFm) | 2:28 | 2021-08-20 | 2021-08-23 |
@@ -1701,6 +1701,7 @@
 | [Sarah](https://open.spotify.com/track/7ylN51XWVcCia5TDum3XhN) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/3aln3y2urzDJkfr7LAyPlW) | 3:13 | 2021-11-06 | 2021-11-07 |
 | [Sarkofag](https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Sarkofag](https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm) | 3:17 | 2023-07-01 | 2023-07-08 |
 | [Satan i gatan \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/6FQWsSZIbvt53KmJ9goFGK) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Satan i gatan \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/08egoVGkQ3lk0CRf7S0SbB) | 3:10 | 2021-05-16 | 2021-06-18 |
+| [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-03-07 |  |
 | [Satellit](https://open.spotify.com/track/0hQSNorAGipIT7lF8ssyIz) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Satellit](https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep) | 3:01 | 2023-08-05 | 2023-08-07 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-23 | 2022-05-26 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-24 | 2024-02-26 |
@@ -1825,7 +1826,7 @@
 | [Somna](https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7) | [Humlan Djojj](https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ), [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Somna med Humlan Djojj](https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG) | 2:40 | 2023-11-28 |  |
 | [Somna](https://open.spotify.com/track/6oEfLCekbv7T0ERha5IQO9) | [Humlan Djojj](https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ), [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Somna med Humlan Djojj](https://open.spotify.com/album/7Fwal5B7DbHxVEjZRmckum) | 2:40 | 2023-01-02 | 2023-11-26 |
 | [SooYs](https://open.spotify.com/track/4ubIs1XE6iHqi8UbI5Xz7g) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [SooYs](https://open.spotify.com/album/6RrhFZOEy4qD3K9WtSP8Wy) | 2:34 | 2022-03-26 | 2022-04-10 |
-| [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-03-01 | 2025-03-03 |
+| [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-03-01 |  |
 | [Sos](https://open.spotify.com/track/2IXW5tzXyOIxUIWaflCYMy) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wanderland](https://open.spotify.com/album/46aeuItpjIlt7UFkiJx0JH) | 2:47 | 2024-08-24 | 2024-10-27 |
 | [SOUTHSIDE](https://open.spotify.com/track/08ojhcaCZwhHHg3BogkLp5) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [SOUTHSIDE](https://open.spotify.com/album/2iGuipOsaJphxtNTWdwHJv) | 2:31 | 2023-06-17 | 2023-07-30 |
 | [SOVA](https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:23 | 2024-02-10 | 2024-03-04 |

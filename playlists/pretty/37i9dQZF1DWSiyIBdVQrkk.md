@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Jah Lil
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,252,957 likes - 110 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,253,017 likes - 110 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

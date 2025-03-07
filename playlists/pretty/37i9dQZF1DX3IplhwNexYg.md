@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Callinsick
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,287 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,290 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

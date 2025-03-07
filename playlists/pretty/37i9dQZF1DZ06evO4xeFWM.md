@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,634 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,646 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

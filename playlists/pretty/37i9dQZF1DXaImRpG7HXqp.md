@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,284 likes - 234 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,549 likes - 234 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

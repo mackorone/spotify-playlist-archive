@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,668 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,667 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 | 49 | [Loco](https://open.spotify.com/track/4eLDmhsJW3JoZTXCAozHor) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:06 |
 | 50 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL?si=cc-7LYV2QPufs2_yZ8bT4A\"> KayCyy</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=nGOwbtdwTtuw_mFo4cUBCA\"> Khaligraph Jones</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -2393,6 +2393,48 @@
     },
     {
       "album": {
+        "name": "Khali Cartel 5",
+        "url": "https://open.spotify.com/album/4HsT2dRqsvXIRjruh4k5QA"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        },
+        {
+          "name": "DYNA CODS",
+          "url": "https://open.spotify.com/artist/1bXP9LnS0MDXd9cTM4PcIB"
+        },
+        {
+          "name": "Abbas Kubaff",
+          "url": "https://open.spotify.com/artist/31u4mA182lnRN4ZMqE0yp3"
+        },
+        {
+          "name": "Jakk Quill",
+          "url": "https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm"
+        },
+        {
+          "name": "Ruyonga",
+          "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
+        },
+        {
+          "name": "Fresh Like UHH",
+          "url": "https://open.spotify.com/artist/4TdktHFXmRKeXWEGNIgtcA"
+        },
+        {
+          "name": "MEX CORTEZ",
+          "url": "https://open.spotify.com/artist/1jw2gjV9qktnWQIhOniCyc"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 699820,
+      "name": "Khali Cartel 5",
+      "url": "https://open.spotify.com/track/3UBUcuoT4aTY9NKhy4Rdmi"
+    },
+    {
+      "album": {
         "name": "KICH KA' LIECH",
         "url": "https://open.spotify.com/album/4dHyKlVS2q8quCPZFQ0uAJ"
       },
@@ -2852,7 +2894,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 164000,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/1ErW8aGbAd4QK8NSnFQf1c"
@@ -3868,7 +3910,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 187794,
       "name": "One Two",
       "url": "https://open.spotify.com/track/2Q57JHhWVAwf2hpWdguOXb"
@@ -5514,6 +5556,28 @@
       "duration_ms": 142116,
       "name": "The Point",
       "url": "https://open.spotify.com/track/0USVFLxsAauRkpVaFprj8s"
+    },
+    {
+      "album": {
+        "name": "The Report",
+        "url": "https://open.spotify.com/album/4Gy1UuKjsyhL2gnK2qKBi5"
+      },
+      "artists": [
+        {
+          "name": "Asum Garvey",
+          "url": "https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7"
+        },
+        {
+          "name": "MalliTheSagi",
+          "url": "https://open.spotify.com/artist/66NVfuqCtXUEi0Y92HianJ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "The Report",
+      "url": "https://open.spotify.com/track/1zXYClsOCnROJNvNDk5jt1"
     },
     {
       "album": {

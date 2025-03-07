@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-1,874 songs - 4 day 14 hr 47 min
+1,875 songs - 4 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-10 | 2024-06-29 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2024-07-05 |
 | [Antichrist](https://open.spotify.com/track/0DIcssPpatAMqFXLZCxZMN) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 5:14 | 2024-07-13 | 2024-07-16 |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-07 |  |
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-02-28 |  |
 | [Any Love](https://open.spotify.com/track/7bxvEJTeHETJchJLrjxHPQ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 2:13 | 2022-11-19 | 2022-11-26 |
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2021-03-27\* | 2021-04-26 |
@@ -637,7 +638,7 @@
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-16 | 2021-05-23 |
 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:38 | 2024-07-04 | 2024-07-06 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-03-27\* | 2021-05-03 |
-| [Good Graces](https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:05 | 2024-08-24 |  |
+| [Good Graces](https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:05 | 2024-08-24 | 2025-03-07 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-06-07 | 2023-11-21 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-15 |  |
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2021-03-27 | 2021-08-31 |
@@ -646,7 +647,7 @@
 | [Grace](https://open.spotify.com/track/3Lw9Idcf0blvxUyhLLvwd1) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [At Their Very Best Live](https://open.spotify.com/album/1izln1wMAOFer2o0MIpLrY) | 4:35 | 2022-03-18 | 2024-03-20 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2023-06-13 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 | 2024-06-21 |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 |  |
 | [Green and Red of Mayo](https://open.spotify.com/track/1QfY6hlEyWSdaT8XTVGEa1) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [All The Way From Tuam](https://open.spotify.com/album/0p0Pyq8wsawW1JEYlw9vhN) | 4:07 | 2021-09-13 | 2021-09-14 |
 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2022-06-11 | 2023-06-21 |
 | [Greenlight \(feat\. Flo Rida & LunchMoney Lewis\)](https://open.spotify.com/track/3lJA6dGqvaKtVxqHbTtQiQ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Climate Change](https://open.spotify.com/album/4jtKPpBQ5eneMwEI94f5Y0) | 4:05 | 2024-01-04 | 2025-01-07 |
@@ -1828,7 +1829,7 @@
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/48q0vSHcJdhK3IiXH8C5WJ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR) | 2:41 | 2022-09-02 | 2022-10-09 |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:40 | 2023-10-28 | 2023-11-07 |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2021-09-19 | 2021-10-16 |
-| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-05-18 |  |
+| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-05-18 | 2025-03-07 |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/1q1WpDkeFN3y9FlwZ1f440) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 3:42 | 2024-03-23 | 2024-03-25 |
 | [Winona Ryder](https://open.spotify.com/track/1pqWb1KiL8aNiL9ZsKMnEc) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Life In Colour](https://open.spotify.com/album/1Dc33cpw61mL5meR1Vjz6H) | 3:30 | 2021-06-27 | 2021-06-28 |
 | [Winter Wonderland](https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 2:13 | 2021-12-25 | 2021-12-27 |

@@ -4,7 +4,7 @@
 
 > Conheça as novas vozes da música sertaneja! Foto: Rafael Quadros, Felipe Araújo
 
-225 songs - 10 hr 58 min
+227 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Pega Eu \- Ao Vivo](https://open.spotify.com/track/7gCe4pdG2dPvlZWPFRrhmd) | [João Pedro e Fellipe](https://open.spotify.com/artist/4HN8GLpL6Vie0xgKDEtpSN) | [Pega Eu \- Ao Vivo](https://open.spotify.com/album/0GzSYPcj8ZLmrcyG5hiU1p) | 2:09 | 2024-06-28 | 2024-09-27 |
 | [Pergunta Pro Meu Ex](https://open.spotify.com/track/6iF9M9PxnjrjVFn6U2nIWz) | [Carol Villa](https://open.spotify.com/artist/1nr8Q8WNEAb3znVkAlZGOO) | [Pergunta Pro Meu Ex](https://open.spotify.com/album/3rm5EsK3g6oHBCx44jCIvd) | 2:47 | 2024-07-26 | 2024-12-07 |
 | [Perseguição \- Ao Vivo](https://open.spotify.com/track/6C1fBPBydtE2LARNpIHtpV) | [Thayná Vasconcelos](https://open.spotify.com/artist/7GgeeUpJBE0HsHbpkHTq2l), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Perseguição \(Ao Vivo\)](https://open.spotify.com/album/4IoR1AqPPchi7blkBbBVfz) | 3:24 | 2024-10-04 |  |
+| [PESADELO](https://open.spotify.com/track/2HdHGdFxPTeDBTmOPprn2E) | [May e Gabi](https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq) | [PESADELO](https://open.spotify.com/album/1bNvOWH73nv7CbgjIMs5s3) | 3:20 | 2025-03-07 |  |
 | [Pingo de Esperança](https://open.spotify.com/track/27OEyWLSbRficjknvGpbvl) | [Larissa Mumar](https://open.spotify.com/artist/1ViQGv76KJwSfxnEW01lug), [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Pingo de Esperança](https://open.spotify.com/album/5bF3tPwPn2hs6XJzkdTk2z) | 2:43 | 2024-07-05 | 2024-10-26 |
 | [Pingo de Moral](https://open.spotify.com/track/685o9GswQmhgQPFgyfd4aW) | [Tatiana Castro](https://open.spotify.com/artist/3QZkGBlp6cJSnpIw87vMlb) | [Pingo de Moral](https://open.spotify.com/album/0zyOYwWlx4GwqJ2XeybUnV) | 2:45 | 2025-01-17 |  |
 | [Pinta o Cabelo de Preto \- Ao Vivo](https://open.spotify.com/track/6TNzZlazTQW7FakRpxDe0N) | [Pedro Sanchez e Thiago](https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Pinta o Cabelo de Preto \(Ao Vivo\)](https://open.spotify.com/album/1lnFAU7eUPKL6ggkg8KbPr) | 2:56 | 2024-06-28 | 2024-09-20 |
@@ -176,6 +177,7 @@
 | [Quem Fica Lembra \- Ao Vivo](https://open.spotify.com/track/3jC7Z3Af8zdj95Vd1j5TyO) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma) | [Ao Vivo Em Rio Preto](https://open.spotify.com/album/7wB0kJ81KPQGIrO90qQCMo) | 2:22 | 2024-11-08 |  |
 | [Quer Largar](https://open.spotify.com/track/5IAzIHR8BLPHXMVDridYwC) | [Rafa Prado](https://open.spotify.com/artist/1c1oxdeyIkX3LHB00FqEEj), [Mauro & Matheus](https://open.spotify.com/artist/7kRbP7yUYOFNA8F1U4OTN3) | [Quer Largar](https://open.spotify.com/album/6slVe3jfiWDexWlRzr6ktN) | 2:23 | 2024-09-27 |  |
 | [Questionamentos \- Ao Vivo](https://open.spotify.com/track/1zNKuNKoLUGiyxA7Ct1YqX) | [Theo & Luan](https://open.spotify.com/artist/7E3ROnYOaeZZk20pxrvPLc), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Questionamentos \(Ao Vivo\)](https://open.spotify.com/album/23hEZHmIbF21b5bwOOTl9a) | 2:48 | 2024-08-30 | 2025-01-31 |
+| [Racional](https://open.spotify.com/track/0fmlf6OmFpeXkV8ECSTg3Z) | [Nauilan](https://open.spotify.com/artist/4hW6zSUVV1GeYYuojk3uSj) | [Racional](https://open.spotify.com/album/61O9g8wc3FJfU3gX7c8oV0) | 1:55 | 2025-03-07 |  |
 | [Relação Engraçada](https://open.spotify.com/track/7vKofUNaqkOTCEPBFrNrYN) | [Pedro Léo](https://open.spotify.com/artist/4ZKPiNqI40iVU8trvcfriy), [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Relação Engraçada](https://open.spotify.com/album/6leAgUUd0HUPoL1CGasL0P) | 3:23 | 2024-06-28 | 2024-07-13 |
 | [Roupa de Frio \- Ao Vivo em São Paulo](https://open.spotify.com/track/2Y6qEeWMbchwA2S3O5rOr3) | [Maycon e Vinicius](https://open.spotify.com/artist/74VKtdiqmUGvy1MXU8cHBX) | [Ao Vivo em São Paulo](https://open.spotify.com/album/4XPrgbfG9rIwGiVqIFtv9q) | 3:03 | 2024-10-18 |  |
 | [Roxo Novo](https://open.spotify.com/track/6dV91iaRfborYMJ4fIHGzW) | [Cesinha e Matheus](https://open.spotify.com/artist/6GY5MqIO1G53zbx4fhlXuf), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Roxo Novo](https://open.spotify.com/album/7naw4YnDBDylDtpbbqYg1b) | 2:26 | 2024-06-28 | 2024-09-27 |

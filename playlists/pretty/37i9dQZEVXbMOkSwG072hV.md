@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,524 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,515 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 37 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 |
 | 38 | [Tu És Deus \- A Ele](https://open.spotify.com/track/1Gol2VjZYbYBsptumlr8jy) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Tu És Deus \(A Ele\)](https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR) | 5:04 |
 | 39 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
-| 40 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2) | 4:27 |
+| 40 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 |
 | 41 | [Me Dá Um Dinheiro Aí](https://open.spotify.com/track/6LZbr5LJXHvFG1Cztgs1HF) | [Banda Gol](https://open.spotify.com/artist/3wJpJ3peSD0wgw8cttrr8k) | [Baile de Carnaval: As Melhores Marchinhas de Todos os Tempos](https://open.spotify.com/album/2soSNWvOOVLzQutEEkXtIA) | 2:21 |
 | 42 | [Quem É Esse?](https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Quem É Esse?](https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx) | 7:48 |
 | 43 | [Buscar\-Me\-Eis e Me Achareis \- Ao Vivo](https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [Buscar\-Me\-Eis e Me Achareis \(Ao Vivo\)](https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8) | 8:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 49 | [Tadala \- Ao Vivo](https://open.spotify.com/track/0WNwVKkUp2AvIlK6grc5Ra) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Seresta do Rasta](https://open.spotify.com/artist/76dRnYNyHy7h4hYQXyd2Oj), [erick woods](https://open.spotify.com/artist/5G9IxzIIUedIgOgLwbBc9N) | [Seresta Do Pai Das Crianças \(Ao Vivo / EP01\)](https://open.spotify.com/album/1le3fy7ZyCEjK2wkxu27LR) | 3:00 |
 | 50 | [Take Me Back To Piauí](https://open.spotify.com/track/26uzS4AhDPEYbGwcWFWB2O) | [Juca Chaves](https://open.spotify.com/artist/6sm4fipYpmeCJLmAWc820F) | [Muito Vivo](https://open.spotify.com/album/6dfj97K2ywJ2HKAL8P3niw) | 3:16 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

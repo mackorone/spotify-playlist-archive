@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > it's so like you to put me down, down, down!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,129,245 likes - 96 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,129,025 likes - 96 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

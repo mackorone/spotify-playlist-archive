@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Bloodywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,307,658 likes - 200 songs - 14 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,307,966 likes - 200 songs - 14 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

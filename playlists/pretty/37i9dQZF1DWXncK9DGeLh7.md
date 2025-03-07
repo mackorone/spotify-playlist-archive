@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 
 > 100% soul et funk !
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,045 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,097 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

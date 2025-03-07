@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,072 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,075 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : L\u00e9man",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Styleto",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 186506,
       "name": "Ames perdues",
       "url": "https://open.spotify.com/track/6u9B5hy3ylqnVWEZRCIHOq"
+    },
+    {
+      "album": {
+        "name": "Fille lacrymale",
+        "url": "https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178293,
+      "name": "Amour cyclone",
+      "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
     },
     {
       "album": {
@@ -597,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Courage (Edit)",
+        "url": "https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        },
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Courage - Edit",
+      "url": "https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1"
+    },
+    {
+      "album": {
         "name": "Crash Dans Tes Bras",
         "url": "https://open.spotify.com/album/5JmoeCP9fG3PrBEcusvb2c"
       },
@@ -995,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Eternel amoureux",
+        "url": "https://open.spotify.com/album/2t47wy2zXVEYKkpbgJSkfF"
+      },
+      "artists": [
+        {
+          "name": "Roulez Jeunesse",
+          "url": "https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Eternel amoureux",
+      "url": "https://open.spotify.com/track/35YvnXPvHe5O4Xh3WsNFQK"
+    },
+    {
+      "album": {
         "name": "Facile \u00e0 danser",
         "url": "https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf"
       },
@@ -1118,6 +1176,24 @@
       "duration_ms": 179279,
       "name": "Gamins des sables",
       "url": "https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf"
+    },
+    {
+      "album": {
+        "name": "Gu\u00e9rir de toi",
+        "url": "https://open.spotify.com/album/1eskZf0xi1gWLZBGiVOJZT"
+      },
+      "artists": [
+        {
+          "name": "Laura Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160013,
+      "name": "Gu\u00e9rir de toi",
+      "url": "https://open.spotify.com/track/4su1EpXjGFhgumhHnVzVrf"
     },
     {
       "album": {
@@ -1486,7 +1562,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 216966,
       "name": "La Diff\u00e9rence - Single Version",
       "url": "https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O"
@@ -1576,7 +1652,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 168416,
       "name": "La question",
       "url": "https://open.spotify.com/track/2aCsRORqGZawWKz6wop7uX"
@@ -1634,7 +1710,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 184000,
       "name": "La vie change",
       "url": "https://open.spotify.com/track/0Pc8Z0cBgJH52MYFtQJlfL"
@@ -2892,7 +2968,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 168394,
       "name": "Reflet",
       "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
@@ -2932,6 +3008,24 @@
       "duration_ms": 163182,
       "name": "Regarde",
       "url": "https://open.spotify.com/track/2147QVD0QBS9L90jxwvUcc"
+    },
+    {
+      "album": {
+        "name": "Cr\u00e8vecoeur",
+        "url": "https://open.spotify.com/album/0WgY5ocBEP23tJiAMgawBv"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "Rien qu'\u00e7a",
+      "url": "https://open.spotify.com/track/237WM1VgB4TEGTXcUpCqnL"
     },
     {
       "album": {
@@ -3386,7 +3480,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 177973,
       "name": "Tout dire",
       "url": "https://open.spotify.com/track/27GjxhZTxOVpCTBjSwqvdN"
@@ -3592,7 +3686,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 200400,
       "name": "Un dimanche avec toi",
       "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
@@ -3614,6 +3708,24 @@
       "duration_ms": 135612,
       "name": "Un jour de plus",
       "url": "https://open.spotify.com/track/37703MsdzYjoG8SqnbVKDg"
+    },
+    {
+      "album": {
+        "name": "Un soir ou deux",
+        "url": "https://open.spotify.com/album/6pTQ7T2mD1FVJSg8tWViPB"
+      },
+      "artists": [
+        {
+          "name": "Nola",
+          "url": "https://open.spotify.com/artist/0HclVtwqKpzMjkE67dTJzA"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131029,
+      "name": "Un soir ou deux",
+      "url": "https://open.spotify.com/track/4qh7Kg8OrlwtS7oBxNXLOU"
     },
     {
       "album": {

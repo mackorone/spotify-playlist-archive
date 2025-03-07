@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,478,380 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,478,383 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

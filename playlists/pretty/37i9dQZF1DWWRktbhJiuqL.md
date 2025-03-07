@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with one thing in common.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,019,416 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,019,554 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

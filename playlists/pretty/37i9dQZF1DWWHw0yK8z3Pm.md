@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,481 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,487 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

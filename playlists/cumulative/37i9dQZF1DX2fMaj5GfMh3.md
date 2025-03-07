@@ -2,9 +2,9 @@
 
 ### [Fresh Pop](https://open.spotify.com/playlist/37i9dQZF1DX2fMaj5GfMh3)
 
-> De nieuwste pop songs\. Cover: RANI
+> De nieuwste pop songs\. Cover: OLIVIA
 
-870 songs - 1 day 20 hr 14 min
+876 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2023-03-16 | 2023-06-23 |
 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 | 2023-04-06 | 2023-07-01 |
 | [Garden](https://open.spotify.com/track/29DdvWUvx1CTrIS4LtpXhx) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Garden](https://open.spotify.com/album/4tQ2nIqxjL2iRON1hoW6Qi) | 3:05 | 2024-09-03 | 2024-11-08 |
+| [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-06 |  |
 | [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-02-24 | 2023-04-15 |
 | [Gebruiksaanwijzing](https://open.spotify.com/track/618yYVf9TdfLpcj6tdePaP) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Gebruiksaanwijzing](https://open.spotify.com/album/1DEK18Z3t4U358XPdRysMP) | 2:47 | 2023-02-24 | 2023-03-10 |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-27 | 2024-09-04 |
@@ -433,7 +434,8 @@
 | [In the shadow](https://open.spotify.com/track/2yU9aAts5f45PUZXLmbl6S) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [In the shadow](https://open.spotify.com/album/4uJavzoYUVg49HPwwYUnnw) | 3:41 | 2025-01-23 |  |
 | [In The Water](https://open.spotify.com/track/4gmT46chkdugzbucgiHQbb) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [In The Water](https://open.spotify.com/album/2khuB7jsFLFzJWPRwjjMA7) | 3:36 | 2023-02-24 | 2023-04-14 |
 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 | 2024-04-04 | 2024-06-25 |
-| [Inner Peace](https://open.spotify.com/track/2C6hJnWrBUHyJjvR9TAIv7) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [silence / Inner Peace](https://open.spotify.com/album/7MpVARok1Vah01ndl4Wj3e) | 3:33 | 2025-01-16 |  |
+| [Inner Peace](https://open.spotify.com/track/2C6hJnWrBUHyJjvR9TAIv7) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [silence / Inner Peace](https://open.spotify.com/album/7MpVARok1Vah01ndl4Wj3e) | 3:33 | 2025-01-16 | 2025-03-07 |
+| [Insecure](https://open.spotify.com/track/5ZmVsgO2AcdogAtRewlEAi) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [SABOTAGE](https://open.spotify.com/album/6WERhl4Y0Qi82Qu45eZVs6) | 3:27 | 2025-03-06 |  |
 | [Into The Walls](https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY) | 3:08 | 2023-10-20 | 2024-01-30 |
 | [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 | 2023-11-16 | 2024-03-09 |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-10-15 | 2024-03-09 |
@@ -587,6 +589,7 @@
 | [Only Place](https://open.spotify.com/track/3gM1niIIDvVwfbm4fsvFjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/0x68nTDfyciGgU7UXNmm44) | 3:25 | 2023-11-16 | 2024-01-05 |
 | [Only Place](https://open.spotify.com/track/5GFsYPZY1eebEMuO3gfVkG) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW) | 3:25 | 2023-10-05 | 2023-11-18 |
 | [Open Hearts](https://open.spotify.com/track/0sTBOp1hdayTjw6UOyPyi6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:54 | 2025-02-03 |  |
+| [Options](https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Options](https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04) | 2:49 | 2025-03-06 |  |
 | [orange tree](https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [3.2](https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI) | 3:17 | 2024-06-24 | 2024-09-20 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-10 |  |
 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 | 2025-02-20 |  |
@@ -649,6 +652,7 @@
 | [Red Light](https://open.spotify.com/track/3Bkd4gTLmlGGtvlTq4HQm7) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [miroir / Red Light](https://open.spotify.com/album/6k86lCqjXPJfucjK3FVbzO) | 2:37 | 2024-10-24 | 2025-01-10 |
 | [Red Light](https://open.spotify.com/track/1eRsYW80thFTfA7QP8vRBK) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Red Light](https://open.spotify.com/album/05RpaVvtRNOyUID3IQL4eh) | 2:26 | 2025-02-27 |  |
 | [Reflections](https://open.spotify.com/track/0fvIQtkk9ikyFRu0oWez4B) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Troubled Waters](https://open.spotify.com/album/26PBL1D0ltBX7cXWm3luIm) | 3:53 | 2024-11-07 | 2025-01-24 |
+| [Remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 | 2025-03-06 |  |
 | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere) | 2:02 | 2024-12-03 | 2025-02-19 |
 | [Rest In Peace](https://open.spotify.com/track/0F634NqZ65Skv8aRDEsyex) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Rest In Peace](https://open.spotify.com/album/65kQ2jcrYIYAMNiE5Zi704) | 2:55 | 2023-08-25 | 2023-12-01 |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-20 |  |
@@ -825,6 +829,7 @@
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-09-08 | 2024-10-23 |
 | [Want Me To Be](https://open.spotify.com/track/1AjvNW8RlrZlAkjTq1WCke) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Want Me To Be](https://open.spotify.com/album/6n70N5WyDAAMYXXI2Eoq4O) | 2:16 | 2024-06-24 | 2024-08-28 |
 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 | 2024-10-17 | 2025-01-07 |
+| [waterproof](https://open.spotify.com/track/2danGLdyx6GyZIhNMgxqvu) | [Anna\-Rose Clayton](https://open.spotify.com/artist/12QHr622V8nZ38fZ34dENS) | [waterproof](https://open.spotify.com/album/39D50o3nLmMMbFv6A9S0dU) | 3:03 | 2025-03-06 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-03-08 | 2024-05-25 |
 | [We're Gonna Be Okay](https://open.spotify.com/track/2gZ3Twqqirs6A2Xf1mBubH) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [We're Gonna Be Okay](https://open.spotify.com/album/6gGP8SyIyRCAxsMhk11HY5) | 2:59 | 2024-10-24 | 2025-01-17 |
 | [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 | 2025-02-20 |  |
@@ -853,7 +858,8 @@
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-27 | 2024-09-20 |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-13 | 2023-05-24 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-18 | 2023-07-28 |
-| [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-09 |  |
+| [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-09 | 2025-03-07 |
+| [With You \(with Sofia Camara\)](https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [With You \(with Sofia Camara\)](https://open.spotify.com/album/703OfuxHtlcsnrdZvAjkan) | 3:08 | 2025-03-06 |  |
 | [WOMAN’S WORLD](https://open.spotify.com/track/0EE51Hoaw12rSNWYMBnkDg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD EP](https://open.spotify.com/album/6zSIkJTqQm06zGCunKbmaR) | 2:43 | 2024-07-18 | 2024-09-27 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-15 | 2024-07-21 |
 | [Work It Out](https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Work It Out](https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y) | 2:30 | 2024-07-18 | 2024-08-02 |

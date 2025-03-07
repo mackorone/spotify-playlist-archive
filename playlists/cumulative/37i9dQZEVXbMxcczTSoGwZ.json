@@ -35527,6 +35527,24 @@
     },
     {
       "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
+    },
+    {
+      "album": {
         "name": "Satasen laina",
         "url": "https://open.spotify.com/album/6uUHuWq38JonHiCCAJZtgA"
       },
@@ -44092,7 +44110,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 181571,
       "name": "Valinnu mun tien",
       "url": "https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9"

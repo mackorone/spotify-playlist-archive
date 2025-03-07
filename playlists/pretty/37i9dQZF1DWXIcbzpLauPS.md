@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Bleeding Through
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,922 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,978 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

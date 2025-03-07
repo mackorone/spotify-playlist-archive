@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s\. Cover: Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,564,469 likes - 150 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,565,707 likes - 150 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy dance music
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,389 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,396 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 59 | [Running Away](https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Running Away](https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ) | 3:27 |
 | 60 | [That Kinda Love](https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ) | 2:44 |
 
-Snapshot ID: `Z8G2bQAAAABQppPLLn6xLFgHzLIPteFW`
+Snapshot ID: `Z8opDwAAAACzedaDLPaVv3wPx7fx1aVx`

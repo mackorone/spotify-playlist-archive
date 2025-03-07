@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 
 > Canciones inolvidables para darle un toque dulce a tus comidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,114 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,146 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

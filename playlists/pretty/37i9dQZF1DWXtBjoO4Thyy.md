@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Tom Ashbrook continues The Classical Takeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,869 likes - 26 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,873 likes - 26 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

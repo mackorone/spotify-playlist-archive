@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > 2014 highlights from the home of indie music\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,154 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,200 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

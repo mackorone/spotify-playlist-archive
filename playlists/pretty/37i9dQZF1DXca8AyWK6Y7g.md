@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Throw a tantrum like a babydoll 🎀 Cover: Grace VanderWaal & Aliyah's Interlude
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,561,363 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,561,287 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > a7san ma kayn f rap maghribi\. Cover: ElGrandeToto
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,547 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,583 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 |
-| 2 | [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 |
-| 3 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
-| 4 | [Doberwoman](https://open.spotify.com/track/0DX90o91i4hKpfBp7JNNOg) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Doberwoman](https://open.spotify.com/album/4AsflFTM4l2rAdiIBii1TP) | 2:58 |
-| 5 | [Melina](https://open.spotify.com/track/59HzCbmWvBNQrJ51eoeb0j) | [STOOR](https://open.spotify.com/artist/2wVLdXpXN7s8NvThzK2CFN), [lferda](https://open.spotify.com/artist/3V3d0V2Gj2UnVBhDxi9Rjg) | [Melina](https://open.spotify.com/album/69Zhxbvtd7WFxNRoor9MD9) | 3:21 |
-| 6 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 |
+| 2 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
+| 3 | [Doberwoman](https://open.spotify.com/track/0DX90o91i4hKpfBp7JNNOg) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Doberwoman](https://open.spotify.com/album/4AsflFTM4l2rAdiIBii1TP) | 2:58 |
+| 4 | [Melina](https://open.spotify.com/track/59HzCbmWvBNQrJ51eoeb0j) | [STOOR](https://open.spotify.com/artist/2wVLdXpXN7s8NvThzK2CFN), [lferda](https://open.spotify.com/artist/3V3d0V2Gj2UnVBhDxi9Rjg) | [Melina](https://open.spotify.com/album/69Zhxbvtd7WFxNRoor9MD9) | 3:21 |
+| 5 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 |
+| 6 | [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 |
 | 7 | [LA HAINE](https://open.spotify.com/track/4bRBYl1PQMcaKIhqbPWKKn) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [LA HAINE](https://open.spotify.com/album/5UMKs200IuLCZuRUpkOtPp) | 3:18 |
 | 8 | [KA3I](https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:20 |
 | 9 | [Iori 7](https://open.spotify.com/track/1n4iEYY1DI5QUJ9FvaDAMf) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 7](https://open.spotify.com/album/2Ey9s66K9xVd6eqVyOMAVv) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [SHOOKA](https://open.spotify.com/track/4lwjUIptYJxWiUVmyjALB8) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [MARIGOLD](https://open.spotify.com/album/5vdlHh5zFDfXsn5CyZ4PBT) | 3:08 |
 | 50 | [Cabo Marsilia](https://open.spotify.com/track/5oYNFgjcI54w0S0xWvyw6z) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf) | [Leêjb V](https://open.spotify.com/album/7wqLrgT0JgH0KXgbpEzTSz) | 2:38 |
 
-Snapshot ID: `Z8hQ/wAAAAD8OHS8VCdDPQE+WDLyWU/P`
+Snapshot ID: `Z8oMoQAAAABkzDkWgcCKMqO84F0C08hf`

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> The hottest 50 tracks in Morocco\. Cover: Stormy
+> Les hits du moment au Maroc\. Cover: GIMS
 
 380 songs - 20 hr 27 min
 

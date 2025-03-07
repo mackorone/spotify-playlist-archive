@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,650 likes - 31 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,665 likes - 31 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

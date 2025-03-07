@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 67th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,809 likes - 125 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,835 likes - 125 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

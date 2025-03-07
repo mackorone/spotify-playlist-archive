@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Soft piano music to help you focus and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,800,887 likes - 227 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,800,905 likes - 227 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

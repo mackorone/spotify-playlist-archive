@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > 2015 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,566 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,592 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

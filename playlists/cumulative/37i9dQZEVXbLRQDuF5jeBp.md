@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- USA.
 
-3,764 songs - 8 day 17 hr 25 min
+3,765 songs - 8 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2024-02-08 |
 | [Antichrist](https://open.spotify.com/track/0DIcssPpatAMqFXLZCxZMN) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 5:14 | 2024-07-13 | 2024-07-18 |
 | [Antisocial \(feat\. Juice WRLD\)](https://open.spotify.com/track/3lakLxKgelrvKBTyGwDXhX) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:22 | 2021-06-13 | 2021-06-14 |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-07 |  |
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-02 |  |
 | [Anxiety \- Intro](https://open.spotify.com/track/0YevRlTDW9tyIwViCyke8Q) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 1:10 | 2020-07-12 | 2020-07-18 |
 | [Any Given Friday Night](https://open.spotify.com/track/3jowVO7LtaViPc19EcAJKQ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:13 | 2022-06-25 | 2022-06-27 |
@@ -755,7 +756,7 @@
 | [DEAD RIGHT NOW](https://open.spotify.com/track/3grVoZ10bm2jUGpo7BxpuF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:41 | 2021-09-19 | 2021-09-26 |
 | [Dead Shot \(with Lil Uzi Vert\)](https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:01 | 2022-09-10 | 2022-09-12 |
 | [Dear April \(Side A \- Acoustic\)](https://open.spotify.com/track/62ljuuXo0zrcrtJnnOhfxT) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Dear April \(Side A \- Acoustic\)](https://open.spotify.com/album/4XPUXLAWXqM3uWMTucItjd) | 3:51 | 2020-04-05 | 2020-04-07 |
-| [Dear god](https://open.spotify.com/track/2ETQsbiuGm2WLOSOr2I19A) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:51 | 2025-02-22 |  |
+| [Dear god](https://open.spotify.com/track/2ETQsbiuGm2WLOSOr2I19A) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:51 | 2025-02-22 | 2025-03-07 |
 | [Dear John \(Taylor's Version\)](https://open.spotify.com/track/1zU8j1x3yi9xalMF96pzKp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 6:45 | 2023-07-08 | 2023-07-16 |
 | [Dear Reader](https://open.spotify.com/track/3QF5RsWzK1lCvf2o2cY65P) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:45 | 2022-10-22 | 2022-10-24 |
 | [Dear Reader](https://open.spotify.com/track/7lFNXsbcbds699xCWO3pSe) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:45 | 2022-10-24 | 2022-11-06 |

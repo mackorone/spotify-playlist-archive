@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Péricles, Seu Jorge e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,828 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,811 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Tempo pra nos Dois](https://open.spotify.com/track/63ciYRzVXfrX7Uchke7B8U) | [SoulBlack](https://open.spotify.com/artist/0TIUr5SWYSc8fMkrCLeqEx), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Tempo pra nos Dois](https://open.spotify.com/album/4kBw2T5fCcNsc4wDBjuvkM) | 2:25 |
 | 50 | [Dueto](https://open.spotify.com/track/2LyeFkeZJ1DJoXB0RlKRC7) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Vnoahh](https://open.spotify.com/artist/1qo3Lj86g1pMIBzgK7OaWl), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [M.A.D 2](https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH) | 2:19 |
 
-Snapshot ID: `Z8hS6wAAAAAB7CrZkVBrBllx2x2Ew/5P`
+Snapshot ID: `Z8phgAAAAAAZCFUxNnHPdNe27zBBKil6`

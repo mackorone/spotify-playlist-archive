@@ -3629,6 +3629,28 @@
     },
     {
       "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+    },
+    {
+      "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
       },
@@ -13313,6 +13335,24 @@
     },
     {
       "album": {
+        "name": "Feel the Vibe",
+        "url": "https://open.spotify.com/album/4GrMY8fqDBvGpd9KgPtbh0"
+      },
+      "artists": [
+        {
+          "name": "Kurt Joseph",
+          "url": "https://open.spotify.com/artist/1TFSTrw4PLhPMQmPjVWiof"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158740,
+      "name": "Feel the Vibe",
+      "url": "https://open.spotify.com/track/3wpt5qqBfTvefzJw9IfAnT"
+    },
+    {
+      "album": {
         "name": "feel U luv Me",
         "url": "https://open.spotify.com/album/0JdYTPeARfVEIDfRgWMZgY"
       },
@@ -19378,6 +19418,24 @@
       "duration_ms": 209998,
       "name": "I See You",
       "url": "https://open.spotify.com/track/4qZKbdjSpya22ciSIz15GJ"
+    },
+    {
+      "album": {
+        "name": "i sleep better",
+        "url": "https://open.spotify.com/album/6V3BFPTPfOoze0pLzDn3Nf"
+      },
+      "artists": [
+        {
+          "name": "EL MO",
+          "url": "https://open.spotify.com/artist/53f0uBVhxoPxSJtlCMGWuH"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "i sleep better",
+      "url": "https://open.spotify.com/track/4blmdVzI7AyJ6G8gpMMsSs"
     },
     {
       "album": {
@@ -38556,12 +38614,12 @@
           "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
         },
         {
-          "name": "Hugh Hardie",
-          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
-        },
-        {
           "name": "Sweetie Irie",
           "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
         }
       ],
       "date_added": "2025-02-28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,270 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,336 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

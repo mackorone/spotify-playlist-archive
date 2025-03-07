@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,430 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,436 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

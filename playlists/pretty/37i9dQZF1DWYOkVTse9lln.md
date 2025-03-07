@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOkVTse9lln.md) - [plain]
 
 > Saca la estrella que llevas dentro ⭐️🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,417 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,474 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

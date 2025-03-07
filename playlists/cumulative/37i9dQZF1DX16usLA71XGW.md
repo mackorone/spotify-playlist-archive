@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Fena
+> Celebration of IWD with East Africa queens\. Cover: Nadia Mukami
 
-156 songs - 8 hr 16 min
+157 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Mama Ntilie](https://open.spotify.com/track/3M52Cys94u7FX3nUww5ITl) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6) | [Mama Ntilie](https://open.spotify.com/album/78X3PS16LknVFjRix2nc9h) | 2:31 | 2022-07-18 | 2023-08-26 |
 | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/track/1n2beraaBdeHstydRddlpI) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/album/3quhGw7vAKqk1Kudwin32W) | 2:50 | 2023-11-24 |  |
 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 | 2023-05-11 | 2024-04-19 |
-| [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 | 2022-12-16 |  |
+| [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 | 2022-12-16 | 2025-03-07 |
 | [Mbikka](https://open.spotify.com/track/0aX9cCnSbOK71jbkIoTdnL) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Mbikka](https://open.spotify.com/album/1HZpwYR92F4Krb8d1R7FrZ) | 2:54 | 2022-07-18 | 2022-09-30 |
 | [Milele](https://open.spotify.com/track/0GRikCkCDjo6KZflphU4J6) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Milele](https://open.spotify.com/album/19bugQdphaPV2owzpESgWb) | 3:37 | 2023-09-14 |  |
 | [Money](https://open.spotify.com/track/5wXGMc37E8zPQahBiZGu87) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [MONEY](https://open.spotify.com/album/1C4342P9N6QgqnQezg8Ony) | 2:54 | 2022-07-18 | 2024-02-09 |
@@ -127,6 +127,7 @@
 | [SARE](https://open.spotify.com/track/6PBPQBCwEecZHzuTKoKjiq) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [SARE](https://open.spotify.com/album/2dCE4ncQB0yQ0HAC1B6yyE) | 2:54 | 2022-07-18 | 2022-09-02 |
 | [Sepa](https://open.spotify.com/track/2DX696tkiXR8x4BlPrjVSP) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Sepa](https://open.spotify.com/album/79bqeBFrIvVCYcJgLXV1Ml) | 3:04 | 2023-02-03 |  |
 | [Sina Bae](https://open.spotify.com/track/6lW5Bt2zFGbCOovCXlC1ZI) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Art Lust](https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8) | 2:56 | 2023-06-01 | 2024-07-05 |
+| [Sirubala](https://open.spotify.com/track/56mjsDsH8FDJQmivRFJk01) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Sirubala](https://open.spotify.com/album/11M99Bc7YivvY8mnB899VP) | 3:18 | 2025-03-07 |  |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2024-01-29 |  |
 | [Sita Sita](https://open.spotify.com/track/45Ii0U4wJk9YcIuPRYkLuJ) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Flavour](https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H) | 3:33 | 2023-05-11 | 2024-10-04 |
 | [Sitachelewa](https://open.spotify.com/track/2V8JCAL5fAYIuetBGKfj7X) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/0q80Hj7RGzccRcHTZcb0HY) | 3:54 | 2022-07-18 | 2024-04-19 |

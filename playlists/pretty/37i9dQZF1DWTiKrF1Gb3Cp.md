@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,665 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,748 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

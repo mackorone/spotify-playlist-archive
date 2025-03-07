@@ -2,9 +2,9 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits ! Photo : Lola Young
+> Le meilleur des hits avec Helena !
 
-306 songs - 15 hr 54 min
+307 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Carry You Home \(feat\. Ella Henderson\)](https://open.spotify.com/track/2yCte16wVT6slIJ2Tqm9ML) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Carry You Home \(feat\. Ella Henderson\)](https://open.spotify.com/album/3oUielVpG8olEWWXY7Z4JS) | 2:46 | 2024-10-11 | 2024-12-06 |
 | [Celui qui part](https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Celui qui part](https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe) | 2:34 | 2023-08-31 | 2024-05-17 |
 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 | 2024-02-15 | 2024-08-23 |
-| [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um) | 2:45 | 2024-09-26 |  |
+| [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um) | 2:45 | 2024-09-26 | 2025-03-07 |
 | [Chez toi](https://open.spotify.com/track/4RFMijduXiJ13hHuYwPMoG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:19 | 2023-07-27 | 2023-12-09 |
 | [Chez toi, chez moi](https://open.spotify.com/track/0gOjmVqeKWFByLqpPTTrJF) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Chez toi, chez moi](https://open.spotify.com/album/5P5y6ZjwvDvVkn5VOekb2T) | 2:39 | 2024-06-13 | 2024-09-27 |
 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 | 2023-09-21 | 2024-06-07 |
@@ -122,6 +122,7 @@
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-21 | 2024-08-30 |
 | [God Is A Girl](https://open.spotify.com/track/6orZ3ZsSlFvsgmXEAiGfWJ) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn), [Groove Coverage](https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx) | [God Is A Girl](https://open.spotify.com/album/6SsqqKA7GXG1ZVch5S8YKX) | 2:41 | 2023-10-12 | 2023-12-15 |
 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 | 2023-07-27 | 2024-04-04 |
+| [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 | 2025-03-06 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-08-08 | 2024-12-06 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-26 | 2024-05-24 |
 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 | 2023-11-09 | 2023-12-09 |

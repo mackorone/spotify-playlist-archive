@@ -4,7 +4,7 @@
 
 > 愛本來就係自由嘅事！想愛就愛吧！
 
-129 songs - 8 hr 12 min
+132 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [三人床](https://open.spotify.com/track/6JQlVBfOTkF0yOTAnEB9Tn) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [三人床](https://open.spotify.com/album/0n60Y3MGspMfn4IygCnFyL) | 2:40 | 2023-06-01 |  |
 | [仙樂飄飄處處聞](https://open.spotify.com/track/6Yrocv0hTFHEbJAFQ9Zgr8) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [Eman Lam](https://open.spotify.com/album/49A8kv0BJoXsX5Ay6JxW5w) | 5:00 | 2022-06-23 | 2022-07-29 |
 | [你明日回來](https://open.spotify.com/track/4kwInhDFXmyi37NZTE4vat) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [你明日回來](https://open.spotify.com/album/2o1dSDA7Um9YGUcF8Z9iI9) | 5:15 | 2022-06-23 | 2022-07-29 |
+| [你是我的專屬配對](https://open.spotify.com/track/62BeRvTinssD8w7uaprANz) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k), [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [你是我的專屬配對](https://open.spotify.com/album/2icunGDFU7RJOCTbIX4fsk) | 3:23 | 2025-03-06 |  |
 | [兄兄我我](https://open.spotify.com/track/438FTqxtcW4SlUvgMu63Qw) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [兄兄我我](https://open.spotify.com/album/3DL0z3VVG7978R6vnON3my) | 3:30 | 2023-01-27 |  |
 | [內外](https://open.spotify.com/track/0GLxavYdjEYvGx9eN3lDv4) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [內外](https://open.spotify.com/album/1dMVJFOcO7aaDbrxyPuBqL) | 3:47 | 2023-01-27 |  |
 | [內外](https://open.spotify.com/track/3BKcJgFlqwy4TxTREXgQkT) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [睡前服](https://open.spotify.com/album/05pqyGdgVCRW0vzcPxpY3e) | 3:47 | 2022-06-23 | 2022-07-29 |
@@ -96,11 +97,13 @@
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-06-01 |  |
 | [我 The Hymn of Water Fairies](https://open.spotify.com/track/3owv9sjIEcVEmlzuqn2Ice) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [REVISIT](https://open.spotify.com/album/05tspedDVm17HyfEJJ1E0R) | 5:08 | 2023-01-27 |  |
 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 | 2023-01-27 |  |
+| [我感覺到](https://open.spotify.com/track/1oKqn2ZQPjxyO5cHukLyJz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [我感覺到](https://open.spotify.com/album/29jfGvVKC2aJFTW01HB6fU) | 4:33 | 2025-03-06 |  |
 | [所多瑪城](https://open.spotify.com/track/5mZvhNrysYiVrPkyY4PA9y) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [I](https://open.spotify.com/album/6wpRUmSoeOH4Swnowg54ok) | 4:33 | 2023-01-27 |  |
 | [改造人之戀](https://open.spotify.com/track/1EMIWxkveOpQRQzQjINyJp) | [樂瞳](https://open.spotify.com/artist/0MtnIthBQRDmzIzcqwB2Ck) | [短罪](https://open.spotify.com/album/02N1sXjUD45kIo5zlFnXsr) | 4:49 | 2023-01-27 |  |
 | [斗零爭](https://open.spotify.com/track/4KmU9VcEb4lSRuf3XE7MEH) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [HOME](https://open.spotify.com/album/39iYSrsXTucg62iRNABvY8) | 4:36 | 2022-06-23 | 2022-07-29 |
 | [明目張膽](https://open.spotify.com/track/0w8s03MKvuLmK8CozWJCQu) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [艷光四射](https://open.spotify.com/album/3z50Y8A5d5jz63vaYBnnU7) | 4:35 | 2023-01-27 |  |
 | [春光乍洩](https://open.spotify.com/track/5PKot0y16MMgrOZD4HL385) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [廿一世紀精選](https://open.spotify.com/album/1YOynn6PjM1NnCnBRLuv2S) | 4:24 | 2023-01-27 |  |
+| [普渡眾生 \- 《破．地獄》 THE LAST DANCE 電影主題曲](https://open.spotify.com/track/6Yjk3YE3PYllze79YyRWp3) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [普渡眾生 \(《破．地獄》 THE LAST DANCE 電影主題曲\)](https://open.spotify.com/album/1BtkZSoKfOpQGVvJals1gp) | 3:56 | 2025-03-06 |  |
 | [暗戀家](https://open.spotify.com/track/00EF9VNkfjUNF77VwBfaRU) | [石山街](https://open.spotify.com/artist/0Pe7Z6GVLPZy15Yo9gH1Qy) | [暗戀家](https://open.spotify.com/album/5sNX9FB359s9zBhBpQJ4Xx) | 3:27 | 2022-04-07 | 2022-06-24 |
 | [汽水樽裡的咖啡](https://open.spotify.com/track/5B8OFNe5x4NLNX2MIsi8Lo) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [梁祝下世傳奇 \(2nd Version\)](https://open.spotify.com/album/26NCYcvfFhRwQeyJTK4iOG) | 5:13 | 2023-01-27 |  |
 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 | 2022-04-07 | 2022-06-24 |

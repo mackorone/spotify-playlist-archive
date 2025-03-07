@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3omIq8ziEt6.md) - [plain]
 
 > Timeless Latin hits\. A 25 años de 'Enrique'\. 📸: Enrique Iglesias
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,903,272 likes - 150 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,903,464 likes - 150 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

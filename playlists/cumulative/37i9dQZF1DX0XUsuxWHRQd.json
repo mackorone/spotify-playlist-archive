@@ -7523,6 +7523,28 @@
     },
     {
       "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209106,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+    },
+    {
+      "album": {
         "name": "Suga",
         "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
       },

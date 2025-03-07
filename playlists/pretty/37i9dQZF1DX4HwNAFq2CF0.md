@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 
 > The hits that keep on rocking your world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,924 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,934 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

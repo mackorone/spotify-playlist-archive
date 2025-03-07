@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, Adrian L Santos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,224 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,350 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

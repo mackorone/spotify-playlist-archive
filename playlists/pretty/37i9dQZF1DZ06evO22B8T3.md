@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303,390 likes - 41 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303,429 likes - 41 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

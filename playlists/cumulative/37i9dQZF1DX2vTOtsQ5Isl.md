@@ -2,9 +2,9 @@
 
 ### [TOP POP 2025](https://open.spotify.com/playlist/37i9dQZF1DX2vTOtsQ5Isl)
 
-> Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: Dove Cameron
+> Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: JENNIE, Dua Lipa
 
-236 songs - 12 hr 7 min
+241 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 | 2024-10-11 |
 | [AMERICAN BEAUTY](https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:16 | 2025-02-06 | 2025-02-14 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-18 | 2024-09-13 |
+| [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-06 |  |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-25 | 2024-10-11 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-17 |  |
 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-25 | 2025-01-24 |
@@ -93,6 +94,7 @@
 | [Green Light](https://open.spotify.com/track/1faWRLfWyFcabrwMS1ko3S) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 2:47 | 2025-02-06 | 2025-02-21 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 |  |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-01-23 | 2025-02-21 |
+| [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 |  |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-26 | 2024-10-11 |
 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2024-06-27 | 2024-09-13 |
 | [Heal me](https://open.spotify.com/track/31YK4to1SIJwYTkApwc6mu) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Can you love me for who I am? Part 2](https://open.spotify.com/album/6DpFk8mh9uGnheX7l5WvFe) | 3:08 | 2024-11-14 | 2024-12-06 |
@@ -196,6 +198,7 @@
 | [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 | 2024-08-23 |
 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 | 2024-08-16 | 2024-08-23 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-25 | 2024-08-23 |
+| [Sometimes](https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sometimes](https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g) | 2:58 | 2025-03-06 |  |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-27 |  |
 | [Sour](https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Sour](https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c) | 3:07 | 2024-07-18 |  |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-23 |  |
@@ -210,6 +213,7 @@
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/4UmpZwWh99V5JMSrGsacFP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/5dH89SWty2zwQkpLtPI2Lv) | 5:01 | 2024-10-31 |  |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-12 | 2024-10-18 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-22 |  |
+| [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 | 2025-03-06 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 | 2024-06-27 | 2024-08-23 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-06-27 |  |
@@ -227,6 +231,7 @@
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-16 | 2025-01-31 |
 | [UN RAGAZZO UNA RAGAZZA](https://open.spotify.com/track/60NDVF7fFIq13aO9rIN80c) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [UN RAGAZZO UNA RAGAZZA](https://open.spotify.com/album/3tNnKTFodG4lOLiGM39yvV) | 3:37 | 2024-06-27 | 2024-08-30 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-27 | 2024-07-19 |
+| [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-06 |  |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-22 | 2024-09-27 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-27 | 2025-01-17 |
 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 | 2024-10-10 | 2024-11-22 |

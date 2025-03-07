@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Charlu
 
-877 songs - 1 day 16 hr 39 min
+878 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Greedy](https://open.spotify.com/track/4dBc8A0FixpmuDzE0eujtp) | [Loar](https://open.spotify.com/artist/1x75eUguNz9MqxUp03iiPj), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM) | [Greedy](https://open.spotify.com/album/1OXZd1LjaWwOgM1Cv0Bsc9) | 2:20 | 2024-05-01 | 2024-07-31 |
 | [Green & Blue](https://open.spotify.com/track/4LpWL3qzgCfzwSEPcEq1mh) | [ISLND](https://open.spotify.com/artist/4DbadBusjLncsspxAI9AZi), [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Green & Blue](https://open.spotify.com/album/4UIyrE3dcJlIS5puW36HT7) | 3:44 | 2024-09-17 | 2024-10-18 |
 | [Green Hill](https://open.spotify.com/track/5ges7BvLIO7V4UWCX7XiTC) | [Robbie Duncan](https://open.spotify.com/artist/6KYcCkb8Ne44TabbH4vmMS), [凡度](https://open.spotify.com/artist/7J3NKlR5DBnBlkGarSkqoH) | [Green Hill](https://open.spotify.com/album/4uvHftZy3cLqJpTN3jjKYP) | 2:24 | 2023-12-26 | 2024-02-14 |
+| [Grown Up](https://open.spotify.com/track/2BQhKxBtgs47iREfzpjtTs) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [Grown Up](https://open.spotify.com/album/1qK31EmGomQm0dMkTfZsf2) | 2:47 | 2025-03-04 |  |
 | [GUTTUR BELT](https://open.spotify.com/track/01OdQzkdEgScIgCjhAHZcO) | [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9), [Nasty Carcass](https://open.spotify.com/artist/1CiUXjSe0f0NJTsFLUBs1U) | [GUTTUR BELT](https://open.spotify.com/album/3k8hEYSGoD1b1GrBOKiByo) | 2:10 | 2024-05-28 | 2024-06-12 |
 | [ha?](https://open.spotify.com/track/1AHAFgBaotPhp2PLonXRPW) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [ha?](https://open.spotify.com/album/3vhn0dgPQFECXynziQmkUa) | 2:43 | 2023-12-07 | 2023-12-14 |
 | [HACKER](https://open.spotify.com/track/3KrpwhS3sq0qQsRsFBpKnx) | [Kampf](https://open.spotify.com/artist/3Sg7AKFRL72rX0OXRfSrGK), [XAN](https://open.spotify.com/artist/604ByWe9PBAjkIyEarEz60) | [The Diary](https://open.spotify.com/album/0lWIcfSd06NzJ7e8qiY4fS) | 3:10 | 2024-01-25 | 2024-02-28 |

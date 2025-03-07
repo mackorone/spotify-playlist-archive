@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Eleonora Strino\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,718 likes - 56 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,775 likes - 56 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

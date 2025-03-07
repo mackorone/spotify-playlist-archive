@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/2x9XPuXjxl9e3nJratHeGF"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/1UuwA62t7oWjSj7RYewQ04"
+    },
+    {
+      "album": {
         "name": "All Black Everything",
         "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
       },
@@ -2848,7 +2866,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 250941,
       "name": "Deep",
       "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
@@ -3118,7 +3136,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 231686,
       "name": "Don't Wait Too Long",
       "url": "https://open.spotify.com/track/6bYPgYBo2joNEdvTbKERLA"
@@ -7433,6 +7451,24 @@
     },
     {
       "album": {
+        "name": "Man",
+        "url": "https://open.spotify.com/album/0bzXKj3s2yc7QSrk6YfvwH"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207339,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/6CTgTVfaklG9mu9MmrPBzg"
+    },
+    {
+      "album": {
         "name": "Marching Band (feat. Masego)",
         "url": "https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt"
       },
@@ -7524,6 +7560,24 @@
       "duration_ms": 267213,
       "name": "May The Funk Be With You",
       "url": "https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV"
+    },
+    {
+      "album": {
+        "name": "Maya, Maya, Maya",
+        "url": "https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179919,
+      "name": "Maya, Maya, Maya",
+      "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
     },
     {
       "album": {
@@ -9686,7 +9740,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 358418,
       "name": "Resisting Resistance",
       "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
@@ -10730,7 +10784,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 179864,
       "name": "something will happen",
       "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
@@ -11222,7 +11276,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 367973,
       "name": "Still Waters",
       "url": "https://open.spotify.com/track/4F5JGx0pSUIOWjQBZFxpcm"
@@ -11948,6 +12002,32 @@
       "duration_ms": 190259,
       "name": "Temperature High",
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
+    },
+    {
+      "album": {
+        "name": "Tempest",
+        "url": "https://open.spotify.com/album/0JCVaWFdfzUEvOBMAfJzXI"
+      },
+      "artists": [
+        {
+          "name": "Steam Down",
+          "url": "https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        },
+        {
+          "name": "Ahnans\u00e9",
+          "url": "https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296607,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/7qDBCXw48fj85AaJDvyLD9"
     },
     {
       "album": {
@@ -12754,7 +12834,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
@@ -13799,6 +13879,24 @@
     },
     {
       "album": {
+        "name": "Why they fly.",
+        "url": "https://open.spotify.com/album/41Fvn0ICyKC4Kuvu9ZRuWQ"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104615,
+      "name": "Why they fly.",
+      "url": "https://open.spotify.com/track/3wQed3BQzgZR1NXWubLvlC"
+    },
+    {
+      "album": {
         "name": "Sample The Earth",
         "url": "https://open.spotify.com/album/39n09ITi1qfmqBZz39IRYz"
       },
@@ -13944,7 +14042,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 290213,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"

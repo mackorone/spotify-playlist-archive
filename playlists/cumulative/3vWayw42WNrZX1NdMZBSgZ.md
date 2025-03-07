@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Fito Páez
 
-872 songs - 1 day 22 hr 29 min
+873 songs - 1 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Háblame de Ti](https://open.spotify.com/track/07VwNVmu5zgQT7V4ueEME2) | [Rosana](https://open.spotify.com/artist/4T32fwjlx2Un7SjWJoSyNb) | [Háblame de Ti](https://open.spotify.com/album/6CA2JOR4rsOJuuMjRsauIY) | 2:32 | 2023-05-05 | 2023-06-02 |
 | [IConic.mp3](https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 3:01 | 2023-11-06 | 2024-07-03 |
 | [IDK Y](https://open.spotify.com/track/5mz9ccLx1kUEiUeGqULgkG) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [IDK Y](https://open.spotify.com/album/4caBV0z6cphDZ7HyRYSMq6) | 2:41 | 2022-12-16 | 2023-06-03 |
+| [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 | 2025-03-07 |  |
 | [IMPOSIBLE \- REMIX](https://open.spotify.com/track/5eaLGyPrVG7FbZ5vVnBm93) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [IMPOSIBLE \(REMIX\)](https://open.spotify.com/album/6TxOo9xRjrNPyNSHLtMpIR) | 3:41 | 2022-02-02 | 2023-05-26 |
 | [Imposible Amor](https://open.spotify.com/track/5oHLjXFztNrS1A1HQ0XFvZ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 2:53 | 2022-02-02 | 2023-05-26 |
 | [Incomparable \(feat\. El Revulú\)](https://open.spotify.com/track/65MT3EZxqOxnLhiGo9VqIe) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [El Revulú](https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs) | [Las Salsas](https://open.spotify.com/album/4mkfaIk2LDSQwRaxz7osID) | 2:53 | 2023-02-10 | 2023-06-01 |

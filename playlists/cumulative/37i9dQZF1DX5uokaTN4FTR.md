@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Jazzy, KILIMANJARO
+> The UK's biggest dance playlist! Cover: David Guetta, Sia
 
-651 songs - 1 day 9 hr 59 min
+652 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 | 2023-02-10 | 2023-07-07 |
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-02-11 | 2022-04-22 |
 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 | 2022-10-13 | 2023-04-14 |
+| [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-07 |  |
 | [Before You \- goddard\. Remix](https://open.spotify.com/track/4Ow9QWuxBbjB29FnLka9dp) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You \(goddard\. Remix\)](https://open.spotify.com/album/3el1Y1U0U1kOCHCaA4lWGN) | 3:07 | 2022-10-20 | 2023-02-17 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-28 | 2022-05-06 |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-09 | 2023-05-19 |
@@ -483,7 +484,7 @@
 | [Remember Their Names \(feat\. Josh Barry\)](https://open.spotify.com/track/5fyB3gpIQesy69f7Z7d88m) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Remember Their Names \(feat\. Josh Barry\)](https://open.spotify.com/album/0ZHubRX9Ac0BEUDzMriufH) | 5:12 | 2021-11-03\* | 2021-11-05 |
 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 | 2022-11-04 | 2023-03-18 |
 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2023-03-06 | 2023-10-27 |
-| [Right Here](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Right Here](https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU) | 2:59 | 2024-05-03 |  |
+| [Right Here](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Right Here](https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU) | 2:59 | 2024-05-03 | 2025-03-07 |
 | [Risk It All](https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Risk It All](https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5) | 2:58 | 2021-11-03\* | 2021-11-05 |
 | [Rollercoaster](https://open.spotify.com/track/636kRUoh1D1ZJifHip4RtS) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Rollercoaster](https://open.spotify.com/album/4lC9pLz0vfNZQe7xcpqjKg) | 2:59 | 2021-11-03\* | 2021-11-05 |
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-01-06 | 2023-05-12 |

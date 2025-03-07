@@ -2,7 +2,7 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Frezza in cover.
+> Rap napoletano e il meglio della scena campana\. Lina Simons in cover.
 
 432 songs - 19 hr 57 min
 

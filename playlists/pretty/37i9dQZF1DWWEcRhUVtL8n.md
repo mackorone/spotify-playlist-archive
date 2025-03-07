@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Malcom Todd & Omar Apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,689,312 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,689,292 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

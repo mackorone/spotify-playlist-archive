@@ -2,20 +2,20 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Ink Waruntorn
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: LISA
 
-134 songs - 7 hr 59 min
+136 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D) | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/album/3CDUojnPiIiyslUq2WuTWb) | 3:53 | 2024-12-16 | 2025-02-01 |
-| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-07 |  |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-07 | 2025-03-07 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-18 |  |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-09 | 2024-12-13 |
 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 | 2024-08-07 | 2024-10-12 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-20 |  |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-12-16 |  |
-| [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-03 |  |
+| [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-03 | 2025-03-07 |
 | [Boom Boom Bass](https://open.spotify.com/track/6Ixrp3yXfzv5brZXmZuXXN) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO) | 2:32 | 2024-06-28 | 2024-07-21 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-07 |  |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-21 |  |
@@ -35,6 +35,7 @@
 | [Golden Hour](https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Golden Hour](https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB) | 3:44 | 2024-10-11 | 2024-11-29 |
 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 | 2024-06-20 | 2024-10-26 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-06-20 | 2024-07-12 |
+| [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 |  |
 | [HIT ME UP](https://open.spotify.com/track/5WsRYZQa2VvJjWEfxipXKi) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [HIT ME UP](https://open.spotify.com/album/2wJK5ag7IToSskrBMdsgks) | 3:21 | 2024-06-20 | 2024-07-19 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-06-20 | 2024-07-05 |
 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 | 2024-09-19 |  |
@@ -77,6 +78,7 @@
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-06-20 | 2024-11-23 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-10-11 | 2025-01-11 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 |  |
+| [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-06 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-06-20 | 2025-01-31 |
 | [Whiplash](https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:03 | 2024-10-25 | 2024-11-23 |
 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 | 2024-10-11 |  |

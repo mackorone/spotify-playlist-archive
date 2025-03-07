@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,055 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,054 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 | 49 | [Incoscienti Giovani](https://open.spotify.com/track/25VdEndwyUDs0DbpfCMfKD) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Incoscienti Giovani](https://open.spotify.com/album/1Qp7zFISJ3UoIZ86inShdW) | 3:24 |
 | 50 | [Don't Worry](https://open.spotify.com/track/4Q9ZUCGB0K3QDCNQBeV8GQ) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr) | [Don't Worry](https://open.spotify.com/album/2Y6ruoZW1oH8TXM5r6Fy99) | 2:51 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

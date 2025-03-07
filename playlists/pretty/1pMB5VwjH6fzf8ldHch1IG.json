@@ -1,12 +1,12 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: SZA.",
-  "num_followers": 45186,
+  "num_followers": 45185,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABJf8YLhFQ8rwPQwIKkSQh5fp/H0rku",
+  "snapshot_id": "AABJgGVn4l4XGbcaA9CcXeqRBBH2FjUn",
   "tracks": [
     {
       "added_at": "2025-02-28 17:24:08",
@@ -39,6 +39,26 @@
       "duration_ms": 188631,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/1hIOttZmQV6aAi9Al7NYoU"
+    },
+    {
+      "added_at": "2025-02-28 17:24:08",
+      "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 148928,
+      "name": "ANXIETY (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
       "added_at": "2025-02-28 17:24:08",
@@ -223,26 +243,6 @@
       "duration_ms": 229021,
       "name": "HBK (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/6wje3JOEzPz5TqiDNWTVXk"
-    },
-    {
-      "added_at": "2025-02-28 17:24:08",
-      "album": {
-        "name": "Boy Meets World",
-        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 148928,
-      "name": "ANXIETY (feat. Doechii)",
-      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
       "added_at": "2025-02-28 17:24:08",

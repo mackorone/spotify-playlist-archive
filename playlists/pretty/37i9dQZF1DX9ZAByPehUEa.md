@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place 🪩🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,732 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,775 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 160736,
       "name": "17",
       "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
@@ -450,6 +450,32 @@
       "duration_ms": 200500,
       "name": "AUCTION",
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
+    },
+    {
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/4SnDJQ9OFqI2L9cFkxqhL3"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/53YuOf7HDvRZvHEenrQR8V"
     },
     {
       "album": {
@@ -612,7 +638,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 184500,
       "name": "blue",
       "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
@@ -696,7 +722,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 352106,
       "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
       "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
@@ -866,7 +892,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-27",
+      "date_removed": null,
       "duration_ms": 222401,
       "name": "Can't Get Out Of This Mood",
       "url": "https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye"
@@ -1058,7 +1084,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 188863,
       "name": "Courage",
       "url": "https://open.spotify.com/track/54L2tYMhXUFYzeOHbBPorc"
@@ -1080,6 +1106,28 @@
       "duration_ms": 259213,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx"
+    },
+    {
+      "album": {
+        "name": "Crocodile Tears (feat. Chase Shakur)",
+        "url": "https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193817,
+      "name": "Crocodile Tears (feat. Chase Shakur)",
+      "url": "https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg"
     },
     {
       "album": {
@@ -1120,6 +1168,28 @@
       "duration_ms": 217678,
       "name": "Culture",
       "url": "https://open.spotify.com/track/2kBk7bEAlk0zNZDxUr1m0x"
+    },
+    {
+      "album": {
+        "name": "dangerous game",
+        "url": "https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230936,
+      "name": "dangerous game",
+      "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
     },
     {
       "album": {
@@ -1452,7 +1522,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
@@ -1655,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "FOCUS ON ME",
+        "url": "https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154782,
+      "name": "FOCUS ON ME",
+      "url": "https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3"
+    },
+    {
+      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/3YwwkGzEWWOOqZBkBeGPx8"
       },
@@ -1728,7 +1816,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 209454,
       "name": "Found (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
@@ -1768,7 +1856,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 171218,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
@@ -1812,10 +1900,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 224880,
       "name": "Girl Like Me (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
+    },
+    {
+      "album": {
+        "name": "Give Up The Fear",
+        "url": "https://open.spotify.com/album/3MS50q90DYesShrGsqAFve"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "Give Up The Fear",
+      "url": "https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB"
     },
     {
       "album": {
@@ -1972,7 +2078,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 214692,
       "name": "GRAVITY (FEAT. TYLER, THE CREATOR)",
       "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
@@ -1990,7 +2096,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 193173,
       "name": "Guess",
       "url": "https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb"
@@ -2048,7 +2154,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 198370,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
@@ -2088,6 +2194,32 @@
       "duration_ms": 201546,
       "name": "Helmet",
       "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
+    },
+    {
+      "album": {
+        "name": "Hey Girl (s)",
+        "url": "https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Hey Girl(s)",
+      "url": "https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ"
     },
     {
       "album": {
@@ -2276,7 +2408,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 166623,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
@@ -2312,7 +2444,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 203240,
       "name": "Hu Man",
       "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
@@ -2330,7 +2462,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 153684,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
@@ -2348,7 +2480,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 142651,
       "name": "i know",
       "url": "https://open.spotify.com/track/6HWsd6fqeamiFulSQhxKsD"
@@ -2402,7 +2534,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 130841,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS"
@@ -2482,7 +2614,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 191998,
       "name": "I'll Still Be Here",
       "url": "https://open.spotify.com/track/49nMhwc4XFYhUsl9BDZEBq"
@@ -2598,7 +2730,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 175432,
       "name": "Inside Friend (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
@@ -2725,6 +2857,28 @@
     },
     {
       "album": {
+        "name": "JAI'S SONG (FALLING) [PT. 2]",
+        "url": "https://open.spotify.com/album/5E9g2J6iUYTtTrOlp8HWCw"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190467,
+      "name": "JAI'S SONG (FALLING) - PT. 2",
+      "url": "https://open.spotify.com/track/3GUkOkDKBh81Tv9bMOGtS3"
+    },
+    {
+      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/2gNueROe0r2XMDuszgq6t7"
       },
@@ -2798,7 +2952,7 @@
           "url": "https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM"
         },
         {
-          "name": "emil",
+          "name": "EMIL",
           "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
         },
         {
@@ -2808,7 +2962,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236933,
       "name": "June's Cry",
       "url": "https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT"
@@ -3130,7 +3284,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 224500,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
@@ -3640,7 +3794,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 217801,
       "name": "Not Another Love Song",
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
@@ -3749,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "Episode 1: Lost",
+        "url": "https://open.spotify.com/album/7cEWlOUBq4Fj6J8nEy81ip"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165610,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/0Bm5WU83MjOYoDXKoiOQBJ"
+    },
+    {
+      "album": {
         "name": "2 METRES APART",
         "url": "https://open.spotify.com/album/4aZ3411k7YWqlKH0wKAQW9"
       },
@@ -3822,7 +3994,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 198570,
       "name": "Only The Brave",
       "url": "https://open.spotify.com/track/4brOrpLd0QyWR1fIvja8qP"
@@ -3938,7 +4110,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
@@ -4170,7 +4342,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 264826,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
@@ -4362,7 +4534,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 194542,
       "name": "Ride for Me",
       "url": "https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84"
@@ -4442,7 +4614,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 195887,
       "name": "Safe House",
       "url": "https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu"
@@ -4576,7 +4748,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 226118,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
@@ -4677,6 +4849,32 @@
     },
     {
       "album": {
+        "name": "Slow It Down (with Cruza & Isaiah Falls)",
+        "url": "https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Kay",
+          "url": "https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146594,
+      "name": "Slow It Down (with Cruza & Isaiah Falls)",
+      "url": "https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU"
+    },
+    {
+      "album": {
         "name": "Smile (See the Light)",
         "url": "https://open.spotify.com/album/5oiDi8v1AAjdBdiKFLJNtO"
       },
@@ -4714,7 +4912,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 189546,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
@@ -4750,7 +4948,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 180723,
       "name": "Speed Of Plight",
       "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
@@ -4866,7 +5064,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 200329,
       "name": "Stone (feat. Bakar)",
       "url": "https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6"
@@ -4950,7 +5148,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
@@ -4990,7 +5188,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 262960,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
@@ -5096,6 +5294,28 @@
       "duration_ms": 172493,
       "name": "Take Me Away (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
+    },
+    {
+      "album": {
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209586,
+      "name": "Ten Cane Row (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
     },
     {
       "album": {
@@ -5346,7 +5566,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 177662,
       "name": "Under God",
       "url": "https://open.spotify.com/track/6fFOO5Rdc1U3JCtxCR2O95"
@@ -5700,7 +5920,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 189473,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7"
@@ -5730,7 +5950,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 225893,
       "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
       "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 
 > Det beste av ny pop akkurat nå! 🍭
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,508 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,504 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
 | 2 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 |
 | 3 | [Kaffe med noen andre](https://open.spotify.com/track/0L4rEAmtzXvkAj33S4oZsX) | [Thea Marlene](https://open.spotify.com/artist/5nOOv72ZNvxffWQB5WPqDN), [Oven](https://open.spotify.com/artist/1EPCst185uNHrufVIP3TE8) | [Kaffe med noen andre](https://open.spotify.com/album/4oUGhoTiLLBXtyPvSy5P0U) | 2:16 |
-| 4 | [Ligge](https://open.spotify.com/track/3qaXZkaGdloxTLJsffgz1B) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Ligge](https://open.spotify.com/album/7LQybwVvjYq5byZoatPESJ) | 2:20 |
+| 4 | [hvem kan seile foruten vind?](https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR), [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [hvem kan seile foruten vind?](https://open.spotify.com/album/4qcCIJbTFJUNY88g9tuMo3) | 3:23 |
 | 5 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 |
 | 6 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 |
 | 7 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 69 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 |
 | 70 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
 
-Snapshot ID: `Z8iMmwAAAAAMa/FrOX06jmj70apuEXOP`
+Snapshot ID: `Z8opDAAAAAAGRPDEHQV1RQS7/9HE9rmK`

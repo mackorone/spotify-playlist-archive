@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42sQCY.md) - [plain]
 
 > This is Ivan Cornejo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,688 likes - 31 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,822 likes - 31 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 
 > <a href="http://www.grammy.com/">第66回グラミー賞</a>\(2024年\)を受賞した注目作品を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,999 likes - 29 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,996 likes - 29 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

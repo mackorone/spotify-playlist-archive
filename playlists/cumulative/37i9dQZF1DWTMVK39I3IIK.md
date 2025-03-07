@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸  Albert Heath
+> de skarpeste knive i dansk musik  📸   hun\_sagde
 
-166 songs - 8 hr 44 min
+168 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bedre](https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Bedre](https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h) | 2:50 | 2024-06-27 | 2025-02-28 |
 | [Begår Tyveri](https://open.spotify.com/track/0e0hgjpnPbO89eobiVAsnV) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Forfra Forbundet](https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW) | 3:14 | 2024-06-27 | 2024-08-30 |
 | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL) | 2:52 | 2024-06-27 |  |
-| [Bind Mig](https://open.spotify.com/track/7cfDdSNtV5YcF3E3M0LWjB) | [Sebastian Wegener](https://open.spotify.com/artist/7cb1H8FTdpjQYaNxKSWt9O) | [Bind Mig](https://open.spotify.com/album/0ubeyeKwal621XlihDvhRu) | 3:05 | 2025-02-27 |  |
+| [Bind Mig](https://open.spotify.com/track/7cfDdSNtV5YcF3E3M0LWjB) | [Sebastian Wegener](https://open.spotify.com/artist/7cb1H8FTdpjQYaNxKSWt9O) | [Bind Mig](https://open.spotify.com/album/0ubeyeKwal621XlihDvhRu) | 3:05 | 2025-02-27 | 2025-03-07 |
 | [Blød](https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Blød](https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O) | 2:21 | 2024-09-26 | 2025-02-17 |
 | [Brev Fra En Forræder](https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 4:03 | 2024-06-27 |  |
 | [Brænder Stadig](https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Dem, Vi Plejede At Være](https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm) | 3:08 | 2024-06-27 | 2025-02-07 |
@@ -72,6 +72,7 @@
 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Loving you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 | 2024-08-15 | 2024-08-23 |
 | [Gi' Mig Lige](https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Gi' Mig Lige](https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA) | 2:41 | 2024-07-11 | 2025-01-24 |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-27 | 2024-08-23 |
+| [Grå Skyer](https://open.spotify.com/track/0sdW0LZgcaY5KGPzLrq55A) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Grå Skyer](https://open.spotify.com/album/6pikXZAx9cyLdYSisP5gBE) | 2:51 | 2025-03-07 |  |
 | [Gå Itu](https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gå Itu](https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7) | 3:34 | 2025-02-13 |  |
 | [Går Bare](https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Går Bare](https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD) | 4:36 | 2024-09-16 | 2025-02-21 |
 | [Halskæde](https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Halskæde](https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq) | 2:37 | 2024-06-27 |  |
@@ -104,7 +105,7 @@
 | [Lander Et Sted](https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Lander Et Sted](https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF) | 2:53 | 2024-06-27 | 2025-02-23 |
 | [Levende Billeder](https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx) | [Carl Emil Petersen](https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW) | [Amager Forbrænding](https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H) | 3:04 | 2024-07-11 | 2024-08-18 |
 | [Life Witness](https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Life Witness](https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm) | 2:25 | 2025-01-30 |  |
-| [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 |  |
+| [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 | 2025-03-07 |
 | [Lyden Af Livet](https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Lyden Af Livet](https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv) | 3:50 | 2024-06-27 | 2025-02-10 |
 | [læs mig \(akustisk version\)](https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer \(akustisk version\)](https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh) | 2:42 | 2024-06-27 | 2024-11-03 |
 | [LÆST \(feat\. Marcus.wav\)](https://open.spotify.com/track/4RV9rzJiIZ05AzHYtGeljS) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [LÆST \(feat\. Marcus.wav\)](https://open.spotify.com/album/1WcDgtM1ag4HaiGmemXhRg) | 2:56 | 2024-10-18 | 2025-01-24 |
@@ -168,6 +169,7 @@
 | [Under Vand](https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [SAMBA](https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt) | 3:35 | 2024-06-27 |  |
 | [Undskyld](https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Undskyld](https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ) | 2:34 | 2024-10-18 | 2024-11-29 |
 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 | 2024-06-27 | 2025-01-24 |
+| [Vinder Ikke Mere](https://open.spotify.com/track/6idRbzcrBLHQjCJmTSaqLC) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Vinder Ikke Mere](https://open.spotify.com/album/2lmQ2oaFJjyjbJsock3zdw) | 3:06 | 2025-03-07 |  |
 | [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 | 2025-02-06 |  |
 | [Vågen igen](https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Vågen igen](https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb) | 4:10 | 2024-10-24 |  |
 | [været der for mig](https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [været der for mig](https://open.spotify.com/album/75xujGRiyUtiiw67mmJOnn) | 2:48 | 2024-08-29 | 2024-09-06 |

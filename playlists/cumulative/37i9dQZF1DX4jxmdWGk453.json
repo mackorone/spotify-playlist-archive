@@ -1665,32 +1665,6 @@
     },
     {
       "album": {
-        "name": "The Colours Of Christmas",
-        "url": "https://open.spotify.com/album/3GEd4voPN8iSGzkt4XzWFL"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "The Bach Choir",
-          "url": "https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "date_added": "2024-11-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170773,
-      "name": "Rutter: Star Carol",
-      "url": "https://open.spotify.com/track/1oDz2VEDz2gx2EddTlOeMM"
-    },
-    {
-      "album": {
         "name": "The John Rutter Christmas Album",
         "url": "https://open.spotify.com/album/229Ap7BM41Vld93zoov3Jn"
       },
@@ -1842,6 +1816,32 @@
       "duration_ms": 153946,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/37BPychMbzTDxPrXJvYNZy"
+    },
+    {
+      "album": {
+        "name": "The Colours Of Christmas",
+        "url": "https://open.spotify.com/album/3GEd4voPN8iSGzkt4XzWFL"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Bach Choir",
+          "url": "https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170773,
+      "name": "Star Carol",
+      "url": "https://open.spotify.com/track/1oDz2VEDz2gx2EddTlOeMM"
     },
     {
       "album": {

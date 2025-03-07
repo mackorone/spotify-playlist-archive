@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-487 songs - 1 day 4 hr 57 min
+488 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Cape Forestier](https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h) | 3:52 | 2024-03-07 | 2024-10-26 |
 | [Cape Forestier](https://open.spotify.com/track/5koL7879f8j0pvdVGj3vcv) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/0SQR7IYc6zCvSoo31awLMz) | 3:52 | 2024-03-07 | 2024-04-19 |
 | [Cardboard Box \- Acoustic](https://open.spotify.com/track/3k7E83vyhWu7UUl9FxPNRn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box \(Acoustic\)](https://open.spotify.com/album/1DWnard9ZSt1HfKIHJxQRp) | 2:53 | 2023-02-24 | 2023-10-25 |
+| [Carry No Thing](https://open.spotify.com/track/3bJs7zfcoFrHEPiB0VwQmy) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Carry No Thing](https://open.spotify.com/album/5o2w9W01C8EI12pigBbazh) | 3:23 | 2025-03-06 |  |
 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2023-11-09 | 2024-04-19 |
 | [Chai Latte](https://open.spotify.com/track/0k3FxPBgYwQwX9few9fOeV) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Identity](https://open.spotify.com/album/1HgnvAjSsTZSsJKphEa8zQ) | 3:43 | 2023-11-21 | 2024-02-28 |
 | [Chai Latte](https://open.spotify.com/track/2F7lKDfEJzfK6tPGMEwz4r) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Identity](https://open.spotify.com/album/3Qp3rbTXFIzd4MNWjlRJXh) | 3:43 | 2023-11-21 | 2023-11-23 |
@@ -340,7 +341,7 @@
 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 | 2023-04-13 | 2023-04-27 |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-24 | 2023-12-22 |
 | [Silly Me \- Acoustic/Live Version](https://open.spotify.com/track/0VURKjUbXu0NpzVKZgD7Mp) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Silly Me \(Acoustic/Live Version\)](https://open.spotify.com/album/6wAH6i40T2hlQdcSO8egtj) | 3:32 | 2023-06-01 | 2023-09-20 |
-| [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu) | 2:57 | 2024-12-26 |  |
+| [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu) | 2:57 | 2024-12-26 | 2025-03-07 |
 | [Sing It With Me \- Acoustic](https://open.spotify.com/track/5VoAmDgLauPPfUNcVasc6G) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Sing It With Me \(Acoustics\)](https://open.spotify.com/album/1XK0ARZ0qqFBLfH1IoA050) | 3:41 | 2022-12-13 | 2023-02-10 |
 | [Six Degrees](https://open.spotify.com/track/6tI4KMRvGThjCIJyxxMozt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/7w9LIYtTvYdySDGYwW2VPA) | 3:14 | 2025-01-09 |  |
 | [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-10-20 | 2022-11-23 |

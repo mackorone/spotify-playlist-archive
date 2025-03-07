@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind.
 
-113 songs - 6 hr 30 min
+114 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [CHANGES](https://open.spotify.com/track/7zbnpZxFc5xlqHvDr7bZE0) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 3:24 | 2022-11-11 | 2023-04-29 |
 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 | 2023-11-17 |  |
 | [Compare](https://open.spotify.com/track/2308PKp1LrwpZwRMtW6bWn) | [Africanvic](https://open.spotify.com/artist/49TbpwxzixxceH2mXHXkby) | [Ex Chronicles](https://open.spotify.com/album/1SWq4D1CuKTVaURbKLOIQa) | 4:02 | 2022-11-11 | 2023-04-29 |
-| [dawa](https://open.spotify.com/track/6DywLDHN945BpPggycAYYW) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Junior Nyong'o](https://open.spotify.com/artist/6imCo4PzrfhOcKgLubOyXW) | [dawa](https://open.spotify.com/album/567zkX4DjYyss366DTflSG) | 2:38 | 2023-04-28 |  |
+| [dawa](https://open.spotify.com/track/6DywLDHN945BpPggycAYYW) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Junior Nyong'o](https://open.spotify.com/artist/6imCo4PzrfhOcKgLubOyXW) | [dawa](https://open.spotify.com/album/567zkX4DjYyss366DTflSG) | 2:38 | 2023-04-28 | 2025-03-07 |
 | [Deja](https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Deja](https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1) | 2:35 | 2024-10-11 |  |
 | [either way](https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR) | [Donado Stone](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 3:26 | 2024-10-17 |  |
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-11-11 | 2024-03-08 |
@@ -43,6 +43,7 @@
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-11-11 | 2024-08-10 |
 | [Hope](https://open.spotify.com/track/5DALMIl0HFU351kCmSBbbY) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Mwīhoko: Ûtheri wa Ngoro](https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg) | 5:21 | 2025-02-27 |  |
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-16 |  |
+| [Hujawahi Nipenda](https://open.spotify.com/track/1KpsGQ1CE8jOHBSAyqIz5e) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Hujawahi Nipenda](https://open.spotify.com/album/3FsC48Ey5w01pDux5ec2Um) | 2:30 | 2025-03-07 |  |
 | [I Choose You](https://open.spotify.com/track/3H1UMEoJkP8B4uW30pHIqY) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Salt & Water](https://open.spotify.com/album/0mJTNFNZLRK28lI0N7kXBW) | 3:14 | 2025-01-23 |  |
 | [I'm Here](https://open.spotify.com/track/7joutRkcXCkujSPf9x5WB3) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [I'm Here](https://open.spotify.com/album/2Rj3tI88QYmUcSiC1Mqsp6) | 3:25 | 2024-03-08 | 2024-05-17 |
 | [If You Don't Know](https://open.spotify.com/track/1KWUfVKdBzUY3NAnfGHbRZ) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Nairobi in Love](https://open.spotify.com/album/7f1gWklPYCMk7yotmrn21y) | 3:20 | 2025-02-07 |  |

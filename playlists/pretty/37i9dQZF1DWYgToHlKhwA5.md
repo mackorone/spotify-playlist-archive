@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,449 likes - 300 songs - 13 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,465 likes - 300 songs - 13 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

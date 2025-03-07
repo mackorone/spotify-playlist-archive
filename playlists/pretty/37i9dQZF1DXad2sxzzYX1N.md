@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 
 > The indie viral hits you can't escape\. Cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,574 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,806 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

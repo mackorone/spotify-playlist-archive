@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Sebastian Gaskin, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,638 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,647 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

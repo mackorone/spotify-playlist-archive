@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,471 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,473 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 21 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 |
 | 22 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
 | 23 | [Bass Addict \(Cyber Gunz Hard VIP\)](https://open.spotify.com/track/5B4h0U1Ysz3Vnpf4LhQjN2) | [District Red](https://open.spotify.com/artist/6vE6w11R6JasBRdD6juhqO), [N/CK](https://open.spotify.com/artist/4tlSw8J2PjAH5tWJKhiiZR), [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr) | [Bass Addict \(Cyber Gunz Hard VIP\)](https://open.spotify.com/album/0YX3I93LT8rftSrAdFhT8V) | 2:48 |
-| 24 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 |
+| 24 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2) | 4:27 |
 | 25 | [BÖSER JUNGE](https://open.spotify.com/track/5lDFdYwhyarra7XImI4SN8) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [FOTZE](https://open.spotify.com/album/5rNQXvHYeexPQHtsz5OJWo) | 2:06 |
 | 26 | [Bir \(with Mehnersmoos\) \- Atomsauf Edit](https://open.spotify.com/track/56xH6BfLoJ6zSp5t9gdEdw) | [DIRECTA](https://open.spotify.com/artist/2v4YJINKwkBY3DajPcmWm3), [Jojee](https://open.spotify.com/artist/2azLzTxCm662tbpPwPwQwI), [Lietru](https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ), [Mehnersmoos](https://open.spotify.com/artist/4v1lRzkxvSsxo1JVUxXEOK) | [Bir \(with Mehnersmoos\) \[Atomsauf Edit\]](https://open.spotify.com/album/22yIr4Zdxc5j5mu9MNDRYg) | 2:27 |
 | 27 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 41 | [vorsatz](https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [vorsatz](https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr) | 2:37 |
 | 42 | [DREI FOTZEN MIT NEM BOMBENARSCH](https://open.spotify.com/track/08osUJlz5tYiBdvBofX11v) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [FOTZE](https://open.spotify.com/album/5rNQXvHYeexPQHtsz5OJWo) | 1:56 |
 | 43 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
-| 44 | [Ich liebe das Leben](https://open.spotify.com/track/74D4DHQWhQFCJrwK9ryU7i) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ) | [Kuschelpop](https://open.spotify.com/album/45TMPReAvmkSO14UayPKVJ) | 4:56 |
+| 44 | [Ich liebe das Leben](https://open.spotify.com/track/3c12xbWbu6Xv3oeoV2upg6) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ) | [Ich Liebe Das Leben](https://open.spotify.com/album/3TFTemTUIkDG3lRPP83YMm) | 4:56 |
 | 45 | [CRUSH](https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [CRUSH](https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0) | 2:46 |
 | 46 | [Matrix Lights Hoodtrap](https://open.spotify.com/track/0eeJLxswpJjflHlvasmmYK) | [marli](https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp), [pasha archive](https://open.spotify.com/artist/7A9f7q42IwKFkkaTer5qgS) | [Matrix Lights Hoodtrap](https://open.spotify.com/album/342agiEaG1uPpcHNKdZpUF) | 1:44 |
 | 47 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 49 | [Die Tasse Kaffee \- Radio](https://open.spotify.com/track/1NW41sXZl4oo2zpMO5LzUj) | [Mendler](https://open.spotify.com/artist/1SO1ppSnmqbDqD5AoeRawX) | [Verloren und wieder gefunden](https://open.spotify.com/album/40rELX9f8A4ozhlKiuihEW) | 3:44 |
 | 50 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

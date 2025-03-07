@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.
 
-168 songs - 10 hr 28 min
+169 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/1jxzCZRphA9XMgYJxWwrRn) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/4tB0DZqgYqg0lY2GhW2sbH) | 2:38 | 2021-12-09 |  |
 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 | 2022-07-28 | 2024-04-19 |
 | [Modarab](https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Modarab](https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO) | 2:11 | 2023-03-19 |  |
+| [Molotof](https://open.spotify.com/track/4kmWkoE7csW6LW6uZdrrRE) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [AlOo](https://open.spotify.com/artist/6eYwJ3snGdsn7vO5ZLdETU) | [Molotof](https://open.spotify.com/album/0tSrGMuOoOtSqmTZf4jvwQ) | 3:02 | 2025-03-06 |  |
 | [Mook II \(Rerelease\) \[feat\. Bas\]](https://open.spotify.com/track/0h9YYF4MsA9k76Gfpu9Wmk) | [Hemdi](https://open.spotify.com/artist/5MCsHy03kWsXatVAGb4sSi), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [3049 Floors](https://open.spotify.com/album/4nxSgV9VWOHy9xudxuImF9) | 3:18 | 2021-12-09 |  |
 | [Morning Blue \- COLORS Sudan](https://open.spotify.com/track/2oMYJVL7b8YF8IaqJMm73x) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Morning Blue \- COLORS Sudan](https://open.spotify.com/album/6b6oq7chpMKqqjpGzIDVKI) | 4:13 | 2022-07-28 | 2022-07-30 |
 | [Morning Blue \- COLORS Sudan](https://open.spotify.com/track/4HROyIljn4IEasWTj8rNi4) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Morning Blue \- COLORS Sudan](https://open.spotify.com/album/7gUXSut0yqiItE6HBCeRgP) | 4:13 | 2021-12-09 | 2022-07-29 |
@@ -169,7 +170,7 @@
 | [عمل فني](https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [عمل فني](https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0) | 2:49 | 2022-08-23 | 2023-04-13 |
 | [عمل فني \(feat\. Mshakil\)](https://open.spotify.com/track/2crJITZBcAbD338mKCwTLE) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [عمل فني \(feat\. Mshakil\)](https://open.spotify.com/album/6g6W5IWII0q3MxUgpfTtzG) | 2:49 | 2023-03-19 | 2023-08-08 |
 | [فرصة](https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb) | [Gadoora](https://open.spotify.com/artist/1teHDQLqalpAJfWIxqi2N1) | [فرصة](https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj) | 2:04 | 2022-08-04 |  |
-| [فوضي](https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [DJ REO](https://open.spotify.com/artist/7MW1pbRTEKUer5lp6Cy6Vl) | [فوضي](https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr) | 4:15 | 2022-07-29 |  |
+| [فوضي](https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [DJ REO](https://open.spotify.com/artist/7MW1pbRTEKUer5lp6Cy6Vl) | [فوضي](https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr) | 4:15 | 2022-07-29 | 2025-03-07 |
 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 | 2022-06-30 |  |
 | [كنق الحلبة \(feat\. Khayyat\)](https://open.spotify.com/track/2CGwAtvjAvC5gjSqg70pm1) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة \(feat\. Khayyat\)](https://open.spotify.com/album/0fZa8i60neztf1sbWw81x5) | 2:44 | 2023-03-19 | 2024-04-19 |
 | [مسامحك يا حبيبي](https://open.spotify.com/track/7EoJBZ8Gi0SL58cpWmw0e9) | [نانسي عجاج](https://open.spotify.com/artist/10eNNn6xl1vLRBIV7W8wYN) | [مسامحك يا حبيبي](https://open.spotify.com/album/6Fa6ccBtkKWYwlkJaEOc5k) | 6:56 | 2024-01-22 |  |

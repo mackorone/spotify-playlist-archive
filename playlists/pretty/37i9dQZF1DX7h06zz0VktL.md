@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 
 > All E.L.F's go to playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,639 likes - 140 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,644 likes - 140 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 
 > Move to this mix of recent dance hits! Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,717 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,731 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

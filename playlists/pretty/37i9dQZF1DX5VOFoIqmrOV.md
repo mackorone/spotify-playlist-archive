@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,581 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,736 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > Musica per non smettere mai di crederci 🏆 💪🏋️
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,014 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,076 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

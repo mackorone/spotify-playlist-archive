@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: Tarang Joseph
 
-335 songs - 19 hr 19 min
+336 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [I Blew It!](https://open.spotify.com/track/4oCjAPvthe32TJH2gnEiYz) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [I Blew It!](https://open.spotify.com/album/1s9C8rJXcs5ddGa2BXhFls) | 3:11 | 2024-05-31 | 2024-08-23 |
 | [I Can't Go Back To Sleep](https://open.spotify.com/track/6Ni5Bvv11v0KvqFddmUJC9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [I Can't Go Back To Sleep](https://open.spotify.com/album/7F52Qrxl2V5moUvEHf5hAc) | 4:38 | 2022-03-25 | 2022-06-30 |
 | [I for Little Things](https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:45 | 2024-11-22 |  |
-| [I Got You](https://open.spotify.com/track/10hVVaeNjS5WqDfUgp6Fha) | [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS), [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [I Got You](https://open.spotify.com/album/5I5gTNJIPewsRTPoGNZyIW) | 2:38 | 2023-09-29 |  |
+| [I Got You](https://open.spotify.com/track/10hVVaeNjS5WqDfUgp6Fha) | [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS), [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [I Got You](https://open.spotify.com/album/5I5gTNJIPewsRTPoGNZyIW) | 2:38 | 2023-09-29 | 2025-03-07 |
 | [I Grew Up](https://open.spotify.com/track/68ABR8sT09uiFgr8YeC7t4) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [I Grew Up](https://open.spotify.com/album/0N4N1mQUFxDkmjENLtSE7H) | 4:48 | 2023-08-02 | 2023-08-18 |
 | [I Grew Up \(feat\. Blackstratblues\)](https://open.spotify.com/track/0k9Z8DseQbtUh3zck3gRBB) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [I Grew Up](https://open.spotify.com/album/0P5iD8b8gRC1agi1zQavdB) | 4:48 | 2023-08-02 | 2023-08-04 |
 | [I Love You Baby, I Love You Doll](https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Ocean](https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO) | 2:49 | 2024-11-22 |  |
@@ -164,6 +164,7 @@
 | [I’m Just Like That](https://open.spotify.com/track/1CPnlfYU1dAQSLb6w5jt7I) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/2ruuvwYiR8ju0dCY38UbS9) | 3:28 | 2023-12-15 | 2024-04-19 |
 | [I’m On Your Side](https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [I’m On Your Side](https://open.spotify.com/album/0rW3Lx8FykpGzsp2d3AZkE) | 2:43 | 2022-03-25 | 2024-08-23 |
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-03-25 | 2023-05-20 |
+| [Jhumka Sway](https://open.spotify.com/track/77fGt0wEVkxLLDkyIsWmON) | [Soha](https://open.spotify.com/artist/2957japSpMpQX5G9LPjcNN) | [Jhumka Sway](https://open.spotify.com/album/5x9DwLyLrZwwlrPqVp24yf) | 2:27 | 2025-03-06 |  |
 | [Josephine On The Floor](https://open.spotify.com/track/65acdnLjDjysEy1nMGu6jM) | [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [Josephine On The Floor](https://open.spotify.com/album/4LxOKY3zx94ld1aXxqgDE4) | 4:27 | 2023-02-06 | 2023-05-20 |
 | [Jukebox Of History \- Title Track](https://open.spotify.com/track/5TckSQXTGcIBl17jE7yY0F) | [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Jukebox Of History](https://open.spotify.com/album/00xX5TjEFY70OoI3Vo1mXv) | 3:08 | 2022-05-06 | 2022-05-28 |
 | [Just A Word](https://open.spotify.com/track/3XWRc74od1pT7MUkGiJmoW) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:00 | 2023-03-09 | 2024-04-19 |
@@ -308,7 +309,7 @@
 | [The Hills Know Of You](https://open.spotify.com/track/0iDuVPiWspI7lcWRrFJ9LC) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/7bmnGlu7dJtSgACtv2cZNA) | 3:18 | 2022-09-30 | 2024-08-23 |
 | [Through These Years](https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Through These Years](https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu) | 3:43 | 2022-03-25 | 2023-05-20 |
 | [Time Is Money](https://open.spotify.com/track/6Q8JbAUkZZP0sLhlXkNLhu) | [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Time Is Money](https://open.spotify.com/album/0h894TP5cKaz0Lc5tERtvf) | 3:04 | 2024-03-01 | 2024-04-02 |
-| [To summer didn’t shine for us](https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [To summer didn’t shine for us](https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9) | 2:59 | 2023-08-29 |  |
+| [To summer didn’t shine for us](https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [To summer didn’t shine for us](https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9) | 2:59 | 2023-08-29 | 2025-03-07 |
 | [Tomorrow](https://open.spotify.com/track/7IrCTxnRCyhLhTYEf729Ni) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Tomorrow](https://open.spotify.com/album/46ergrjBnO4VMGR4gc6HbS) | 3:59 | 2022-03-25 | 2022-09-10 |
 | [Tourist](https://open.spotify.com/track/7enEWPtX7qbL0AiiIwY59s) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:45 | 2024-06-21 | 2024-08-23 |
 | [Traffic](https://open.spotify.com/track/4z2oHMR3XlJJyyME3ZOkPr) | [Till Apes](https://open.spotify.com/artist/7qzkGpR5qvkIVPXN5UwvVZ) | [ill tapes, Vol\. 1](https://open.spotify.com/album/16UYyBhOMc8C6wCLagb1Vr) | 2:18 | 2022-05-06 | 2023-03-18 |

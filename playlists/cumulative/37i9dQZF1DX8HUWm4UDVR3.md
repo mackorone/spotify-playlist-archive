@@ -2,16 +2,16 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Helena
+> La pop française annonce la couleur\. Photo : Iliona
 
-270 songs - 13 hr 26 min
+272 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 X](https://open.spotify.com/track/3OsfDyci8C9BM6ieOwq90J) | [Marvett](https://open.spotify.com/artist/42iyhvRFx8xgVhWJEN8w1s), [Doria D](https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w) | [100 X](https://open.spotify.com/album/14UfWGhfbjgKBlOqk8y0HJ) | 3:07 | 2023-07-27 | 2024-02-09 |
 | [21](https://open.spotify.com/track/63UVH4oV3GfD0yy3N1hxY8) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Remède](https://open.spotify.com/album/72VmknY0m1lZLO4JWylzUI) | 2:48 | 2024-07-25 | 2025-01-24 |
 | [24 Février](https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [24 Février](https://open.spotify.com/album/4mwa0FodjMlZ50O1ez8vSZ) | 2:19 | 2024-04-18 | 2024-10-18 |
-| [30 ans](https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB) | [Doowy](https://open.spotify.com/artist/3jUx2DQWz07IKsro3PXKu4) | [30 ans](https://open.spotify.com/album/3CbHShF8YlQHLClqf27Oz1) | 2:41 | 2024-06-13 |  |
+| [30 ans](https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB) | [Doowy](https://open.spotify.com/artist/3jUx2DQWz07IKsro3PXKu4) | [30 ans](https://open.spotify.com/album/3CbHShF8YlQHLClqf27Oz1) | 2:41 | 2024-06-13 | 2025-03-07 |
 | [4X](https://open.spotify.com/track/6iHOulbi3AwYe9Wgy8eCMf) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [4X](https://open.spotify.com/album/5KbxXq1LFsXuLG8zisC6Fj) | 3:34 | 2023-07-27 | 2023-10-20 |
 | [7VIE](https://open.spotify.com/track/3ThmJRFdnCwvrlzvZqvxx3) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [7VIE](https://open.spotify.com/album/7cEhdvvn4fYsuf86SqefRL) | 3:16 | 2024-03-28 | 2024-04-26 |
 | [8h sonne](https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [8h sonne](https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU) | 3:08 | 2023-09-07 | 2024-05-17 |
@@ -79,7 +79,7 @@
 | [Destin](https://open.spotify.com/track/7bo2MkmObkPgSVia8fwHcp) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Destin](https://open.spotify.com/album/6Ej58sXtw6h8a1IQ2qZXuf) | 3:49 | 2023-08-31 | 2023-11-19 |
 | [Différent](https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Différent](https://open.spotify.com/album/2PE9Pv9u514of30rXW3s4I) | 2:30 | 2024-04-25 | 2024-11-22 |
 | [donne tout](https://open.spotify.com/track/7B1NgYR5wQd8qpUies3Qit) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [donne tout](https://open.spotify.com/album/548QpYIvopTwh1GAPk1mkr) | 3:17 | 2024-11-07 | 2024-11-29 |
-| [Dos à dos](https://open.spotify.com/track/3LbBdZRxB64YyATKxU9dnu) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Dos à dos](https://open.spotify.com/album/7ej2K36nBFm3LQJ0KhDk5V) | 3:20 | 2024-09-05 |  |
+| [Dos à dos](https://open.spotify.com/track/3LbBdZRxB64YyATKxU9dnu) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Dos à dos](https://open.spotify.com/album/7ej2K36nBFm3LQJ0KhDk5V) | 3:20 | 2024-09-05 | 2025-03-07 |
 | [Drôle d'idée](https://open.spotify.com/track/3fc3NM4ZFgvCD3bjQGcWqS) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Drôle d'idée](https://open.spotify.com/album/5tTMOaZmphVhYnabLfMFl5) | 3:03 | 2025-02-06 |  |
 | [Désert](https://open.spotify.com/track/1I9YflEKKOy6nLpdZ4PFIP) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Désert](https://open.spotify.com/album/6VkEAixeoVxvFT2otZ2JFb) | 3:22 | 2024-01-04 | 2024-01-26 |
 | [Elle](https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Elle](https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi) | 3:27 | 2024-10-03 | 2025-01-17 |
@@ -159,6 +159,7 @@
 | [LIGNE D'ARRIVÉE](https://open.spotify.com/track/7apnTW8c5llW1ERH033ETy) | [TESSÆ](https://open.spotify.com/artist/4Rc4ZjE8dK1b794tfc3BIt) | [LIGNE D'ARRIVÉE](https://open.spotify.com/album/7LAKsgH2czlD90MDrUXEf2) | 2:58 | 2023-09-28 | 2024-01-19 |
 | [Loin de moi](https://open.spotify.com/track/39n7S9oaAPZ9JyVYaadset) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Loin de moi](https://open.spotify.com/album/3hwZ6kczuObzQxBBBk23CW) | 2:46 | 2023-10-12 | 2024-03-29 |
 | [Loser](https://open.spotify.com/track/5Dj8pFjDCm6Pm4aaOqfgkj) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Loser](https://open.spotify.com/album/4v8CMaH9wc0c47jev8WYEp) | 2:49 | 2024-05-16 | 2024-10-18 |
+| [Love Business](https://open.spotify.com/track/7ycKW7kTgJ9LB1fcCLV2zI) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Love Business](https://open.spotify.com/album/7so4tP3LKXQsqdZZASkEVo) | 2:59 | 2025-03-06 |  |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2023-09-07 | 2024-04-19 |
 | [Lâche\-moi la main](https://open.spotify.com/track/6ozjFPw3Qt2LNON2tMXiY9) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Lâche\-moi la main](https://open.spotify.com/album/0zua6XNuLGr7photwSTSQR) | 4:07 | 2025-01-23 |  |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 | 2024-11-25 |  |
@@ -223,6 +224,7 @@
 | [R+V](https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [R+V](https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja) | 1:29 | 2023-08-24 | 2023-09-15 |
 | [Rater une rupture pour les nuls](https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Rater une rupture pour les nuls](https://open.spotify.com/album/7rnvFhaTNyEvTrU9vzYotg) | 4:54 | 2024-10-17 | 2025-01-24 |
 | [Rattrape\-moi](https://open.spotify.com/track/0cxJ91KVkxXChOlmy5l3Iy) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [Rattrape\-moi](https://open.spotify.com/album/1bbjIXctgCmBkJxNXL29lz) | 2:18 | 2025-02-20 |  |
+| [Regarde\-moi](https://open.spotify.com/track/1wHaIYEpi6wIRsCsjnJaFp) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR), [Lili Poli](https://open.spotify.com/artist/0hSW0pdwbtPmPaJTOlBz8a) | [Regarde\-moi](https://open.spotify.com/album/39Ukawq2GEtSzT7jOyNYbN) | 2:47 | 2025-03-06 |  |
 | [Remia](https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Remia](https://open.spotify.com/album/3rvOpnOkVmgqWcSNA6O1so) | 3:14 | 2023-10-05 | 2024-01-12 |
 | [Rendez\-vous](https://open.spotify.com/track/31RrSOLsLYx9CsHlC11x5V) | [Jeanne Patronik](https://open.spotify.com/artist/21HK8UZA439q6bjQ0cpu2M) | [Passe temps](https://open.spotify.com/album/5ABIkEsRQ99GUxSgBKk5ZR) | 2:38 | 2024-08-01 | 2024-11-22 |
 | [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-07-27 | 2023-11-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,866 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,897 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

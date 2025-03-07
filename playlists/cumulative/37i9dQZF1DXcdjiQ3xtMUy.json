@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Klavdia",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Evangelia #\u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1\u0397\u03bc\u03ad\u03c1\u03b1\u0393\u03c5\u03bd\u03b1\u03af\u03ba\u03b1\u03c2",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -2171,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Se Mia Stigmi",
+        "url": "https://open.spotify.com/album/6JG6ZymOscG7SsvhD1SSqr"
+      },
+      "artists": [
+        {
+          "name": "Tania Breazou",
+          "url": "https://open.spotify.com/artist/0kLn8jOEDFY8KfArE2wn8r"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218998,
+      "name": "Se Mia Stigmi",
+      "url": "https://open.spotify.com/track/4O01JSmioAlbEgpxKTVczo"
+    },
+    {
+      "album": {
         "name": "Se Periptosi Pou",
         "url": "https://open.spotify.com/album/5aPSVgtTRWQd7DJNS746Dn"
       },
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 214875,
       "name": "Xrysopsara - Display & Tony Fragment Remix",
       "url": "https://open.spotify.com/track/3bbac3ROc4kqb6tMJhe5mD"

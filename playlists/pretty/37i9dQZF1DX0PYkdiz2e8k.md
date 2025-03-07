@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > safeword is out! 🗝️ Foto: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,166 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,163 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -2595,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "\u05de\u05dc\u05d0 \u05de\u05dc\u05d0",
+        "url": "https://open.spotify.com/album/5LKaHneq6l70k8qHf1fDUs"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        },
+        {
+          "name": "\u05d3\u05d5\u05d3\u05d0",
+          "url": "https://open.spotify.com/artist/5L1ugF8Mi2varnr83WO9do"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "\u05de\u05dc\u05d0 \u05de\u05dc\u05d0",
+      "url": "https://open.spotify.com/track/1I237F5xBjYvhe4o4yKoxg"
+    },
+    {
+      "album": {
         "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
         "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
       },
@@ -2668,7 +2708,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 150420,
       "name": "\u05e0\u05d0\u05d3\u05d9 \u05d1\u05d0\u05d3\u05d9",
       "url": "https://open.spotify.com/track/5lNB8HWmxpICQXi5Pgatz1"
@@ -3022,7 +3062,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 210085,
       "name": "\u05e8\u05d5\u05e7\u05d3\u05ea \u05de\u05d5\u05dc \u05db\u05d5\u05dc\u05dd",
       "url": "https://open.spotify.com/track/2zWY2CjhV02evs84a9Vm7q"

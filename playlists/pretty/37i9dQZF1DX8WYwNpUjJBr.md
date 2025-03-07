@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WYwNpUjJBr.md) - [plain]
 
 > 유저별 맞춤으로 최신 팝 음악들을 추천해 드립니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,886 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,987 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

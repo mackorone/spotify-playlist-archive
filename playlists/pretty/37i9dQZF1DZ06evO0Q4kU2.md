@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,669 likes - 52 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,680 likes - 52 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

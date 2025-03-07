@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > The home of Australian music\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,453 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,461 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

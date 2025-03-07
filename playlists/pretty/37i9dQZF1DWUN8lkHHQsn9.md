@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:4nZ1fSGL8lu414cuxphyhT">Stysio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,573 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,567 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

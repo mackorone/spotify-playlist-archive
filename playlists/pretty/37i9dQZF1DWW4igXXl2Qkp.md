@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:3HT9jbDp89eu9Dxi3vAZzG">Lil Dre6o</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,760 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,870 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

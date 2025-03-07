@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXT8uSSn6PRy.md) - [plain]
 
 > The hottest tracks in the North\. Cover: PARTYNEXTDOOR, Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,771 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,796 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXT8uSSn6PRy.md) - [plain]
 | 74 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 75 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
 
-Snapshot ID: `Z8FC8gAAAAC3eBlJIeX0I6RBNhUD8nPx`
+Snapshot ID: `Z8kOIAAAAADn3PDML2VOGHvTShBhF2c3`

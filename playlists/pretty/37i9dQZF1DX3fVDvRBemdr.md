@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: FLEMMING & Mart Hoogkamer
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,423 likes - 74 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,430 likes - 74 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Isaac Hong \(홍이삭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Choi Yu Ree \(최유리\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
 [Spotify](https://open.spotify.com/user/spotify) - 378,262 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
-| 2 | [Steps Towards You](https://open.spotify.com/track/59263BYqT0AARHtTfHEAR1) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [The Lovers Note](https://open.spotify.com/album/55ddigAUNLCkDpvkjG1w9U) | 3:48 |
+| 2 | [Loneliness is](https://open.spotify.com/track/3dAhdpLHBetxcuEYoJaH2O) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Loneliness is](https://open.spotify.com/album/7dssDB3VPyxmNttWBkvmJo) | 4:21 |
 | 3 | [Reason \(feat\. Shin Yong Jae\)](https://open.spotify.com/track/2RHYZkdbA7sBqVfmSZujzc) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [H.Y.B\. Project \- Your Song, My Voice \#1 ‘Reason’](https://open.spotify.com/album/1ymAy6R8jlAZjDakQDe099) | 4:05 |
-| 4 | [Loneliness is](https://open.spotify.com/track/3dAhdpLHBetxcuEYoJaH2O) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Loneliness is](https://open.spotify.com/album/7dssDB3VPyxmNttWBkvmJo) | 4:21 |
-| 5 | [Regret](https://open.spotify.com/track/4WHppNdQbrpyxRsQBr3tvL) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [ALL OF ME](https://open.spotify.com/album/3dI38wUWnrjk1lRXMu4YuG) | 3:30 |
-| 6 | [Journey](https://open.spotify.com/track/0bJK7JJxK8jph9Nazai0Dr) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Journey](https://open.spotify.com/album/2EQ9kO7mz10ZOvopsViCp8) | 3:30 |
-| 7 | [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 |
-| 8 | [Permanent snow](https://open.spotify.com/track/6qxp0h7ouZ8WSmqqEtp3AD) | [Monday Kiz X DK](https://open.spotify.com/artist/3XMqkv5Yc95bFqtl38xPNY) | [Permanent snow](https://open.spotify.com/album/5qqtlvfkXThsgzp83Rkpc8) | 3:51 |
-| 9 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
+| 4 | [Journey](https://open.spotify.com/track/0bJK7JJxK8jph9Nazai0Dr) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Journey](https://open.spotify.com/album/2EQ9kO7mz10ZOvopsViCp8) | 3:30 |
+| 5 | [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 |
+| 6 | [Permanent snow](https://open.spotify.com/track/6qxp0h7ouZ8WSmqqEtp3AD) | [Monday Kiz X DK](https://open.spotify.com/artist/3XMqkv5Yc95bFqtl38xPNY) | [Permanent snow](https://open.spotify.com/album/5qqtlvfkXThsgzp83Rkpc8) | 3:51 |
+| 7 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
+| 8 | [Regret](https://open.spotify.com/track/4WHppNdQbrpyxRsQBr3tvL) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [ALL OF ME](https://open.spotify.com/album/3dI38wUWnrjk1lRXMu4YuG) | 3:30 |
+| 9 | [Steps Towards You](https://open.spotify.com/track/59263BYqT0AARHtTfHEAR1) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [The Lovers Note](https://open.spotify.com/album/55ddigAUNLCkDpvkjG1w9U) | 3:48 |
 | 10 | [Why is love so hard for me \(feat.Jeon Gunho\)](https://open.spotify.com/track/2z4fAsRuoKve2M57Fuq5up) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9), [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX) | [Why is love so hard for me](https://open.spotify.com/album/62o72V2xoO8W3KBgMTQhaw) | 4:02 |
 | 11 | [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 |
 | 12 | [비가 \(feat\. 박재정\)](https://open.spotify.com/track/1k9K2j7YUYubvuhCX0h6tH) | [피아노맨](https://open.spotify.com/artist/0Ue5N6ZoKngSO5l9o1gNQZ), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [비가 \(feat\. 박재정\)](https://open.spotify.com/album/5gfO6H8ME6OQm0ct3pKfMz) | 4:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Counting Days](https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Counting Days](https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc) | 3:56 |
 | 100 | [33](https://open.spotify.com/track/3tqXynBuF095sqRV9OjwNJ) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [LEECHANGSUB 1st ALBUM <1991>](https://open.spotify.com/album/5p9XwPWP9van2JE9yXJGfS) | 4:00 |
 
-Snapshot ID: `Z8bD7wAAAADoQyo9t1676DKd0top5t9a`
+Snapshot ID: `Z8pTRwAAAAAHqZHDOChv1AesuAEGTjob`

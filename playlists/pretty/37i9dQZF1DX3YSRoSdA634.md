@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Having a bad day? We know how it feels!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,005,541 likes - 200 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,005,576 likes - 200 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

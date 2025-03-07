@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: Nikow
+> Найпопулярніші пісні сьогодення\. Обкладинка: Parfeniuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,609 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,624 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
+| 1 | [Врубай](https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Врубай](https://open.spotify.com/album/2mVqd1fBBrN4aFQ083mB9X) | 2:30 |
 | 2 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
-| 3 | [Залежність](https://open.spotify.com/track/1z7kp9tmpxVLEOnMX2kXJ9) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Залежність](https://open.spotify.com/album/3kqPBJF8BhkGX42jkwmffB) | 2:37 |
-| 4 | [Кульбаби](https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Кульбаби](https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2) | 2:43 |
-| 5 | [Врубай](https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Врубай](https://open.spotify.com/album/2mVqd1fBBrN4aFQ083mB9X) | 2:30 |
-| 6 | [my sea](https://open.spotify.com/track/7xrZKi5jw6GNQlEjbkTI4c) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [my sea](https://open.spotify.com/album/3cI7GCDEau3LDB8QagTNcb) | 2:54 |
-| 7 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 |
-| 8 | [А що?](https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [А що?](https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8) | 3:17 |
-| 9 | [Bird of Pray](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 |
-| 10 | [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 |
+| 3 | [Кульбаби](https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Кульбаби](https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2) | 2:43 |
+| 4 | [my sea](https://open.spotify.com/track/7xrZKi5jw6GNQlEjbkTI4c) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [my sea](https://open.spotify.com/album/3cI7GCDEau3LDB8QagTNcb) | 2:54 |
+| 5 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 |
+| 6 | [А що?](https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [А що?](https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8) | 3:17 |
+| 7 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
+| 8 | [Bird of Pray](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 |
+| 9 | [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 |
+| 10 | [Залежність](https://open.spotify.com/track/1z7kp9tmpxVLEOnMX2kXJ9) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Залежність](https://open.spotify.com/album/3kqPBJF8BhkGX42jkwmffB) | 2:37 |
 | 11 | [Не лякай](https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ) | [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Не лякай](https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz) | 2:54 |
 | 12 | [На глибині](https://open.spotify.com/track/6ocGHyVybEbqo3zeJkn1H3) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [На глибині](https://open.spotify.com/album/0QxmTGDTrhlF7CfDbiT7da) | 5:00 |
 | 13 | [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 |
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 17 | [Хризантеми](https://open.spotify.com/track/2ZwNgWo1U0PLbzFCYMNPTW) | [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Хризантеми](https://open.spotify.com/album/6pHum88f6JOO8QxkpBU5Bv) | 2:56 |
 | 18 | [Особистий рай](https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F) | [Геля Зозуля](https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Особистий рай](https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY) | 3:05 |
 | 19 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 |
-| 20 | [А я все плакала](https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [LEBIGA](https://open.spotify.com/artist/5QFYXpPnIZPu2OSD9n8BVN) | [А я все плакала](https://open.spotify.com/album/5SBkXFqymV5QTNBWbozv0z) | 2:30 |
-| 21 | [Молодість](https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:30 |
-| 22 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 |
-| 23 | [Нагадай](https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [Нагадай](https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt) | 2:32 |
+| 20 | [На порозі](https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [На порозі](https://open.spotify.com/album/1gHncrqN84hbOyna6VnGWR) | 2:39 |
+| 21 | [А я все плакала](https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [LEBIGA](https://open.spotify.com/artist/5QFYXpPnIZPu2OSD9n8BVN) | [А я все плакала](https://open.spotify.com/album/5SBkXFqymV5QTNBWbozv0z) | 2:30 |
+| 22 | [Молодість](https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:30 |
+| 23 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 |
 | 24 | [Гаї шумлять \(1913\)](https://open.spotify.com/track/4bZDub9rMMoJqyLHSlZUgu) | [Пиріг і Батіг](https://open.spotify.com/artist/72WPri6uCSfr6l9WdgZ2D6) | [Поетичний](https://open.spotify.com/album/1kMqjTYQPAw2fTDdmCIY72) | 2:13 |
 | 25 | [Ендорфін](https://open.spotify.com/track/70UqjNucXs25xQMojfHZKO) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Ендорфін](https://open.spotify.com/album/1pmVMeRAhWNmPTRYDy7X1d) | 2:32 |
 | 26 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 27 | [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 |
 | 28 | [Забий](https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Забий](https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM) | 3:14 |
-| 29 | [Cry For Me](https://open.spotify.com/track/7a0RHaJoqL2Sjf0gra68Pc) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:44 |
-| 30 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
+| 29 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
+| 30 | [Нагадай](https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [Нагадай](https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt) | 2:32 |
 | 31 | [Це любов](https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Це любов](https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR) | 2:36 |
 | 32 | [DVD](https://open.spotify.com/track/5DOUS7y3JEvH5w7ZPlZU6m) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [DVD](https://open.spotify.com/album/5o5bCyWIsXJoKZSUiucJi6) | 2:46 |
 | 33 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 50 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
 
-Snapshot ID: `Z8DgdAAAAAA6Txd5auo94fi1GaSNoZ2q`
+Snapshot ID: `Z8oa6QAAAAAF0+yr+9/0063nUB+mLGqh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: YouNotUs & Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,090,956 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,090,929 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

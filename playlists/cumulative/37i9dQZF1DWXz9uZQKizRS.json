@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Dawid Tyszkowski",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Zuta",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 212000,
       "name": "1997",
       "url": "https://open.spotify.com/track/52fS5GYDe5YF0cOMjlWE6k"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 220000,
       "name": "Bli\u017cej Ni\u017c Zwykle",
       "url": "https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 273337,
       "name": "Buziaki na dobranoc",
       "url": "https://open.spotify.com/track/1B0xo0LsZGaZmP5OAWI1O2"
@@ -888,6 +888,28 @@
       "duration_ms": 187690,
       "name": "By\u0107 Obok",
       "url": "https://open.spotify.com/track/2OguWT50SuF1SQwJDtkBzy"
+    },
+    {
+      "album": {
+        "name": "By\u0142o mi\u0142o",
+        "url": "https://open.spotify.com/album/4jqLIlSZWJ95kVcWOQXWgu"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        },
+        {
+          "name": "Wani",
+          "url": "https://open.spotify.com/artist/4VqnvuLdn0LsrrASwNSuuA"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186829,
+      "name": "By\u0142o mi\u0142o",
+      "url": "https://open.spotify.com/track/6ZceODjmxnenMVZG5HxEAx"
     },
     {
       "album": {
@@ -1194,6 +1216,28 @@
       "duration_ms": 181509,
       "name": "Chlorofil",
       "url": "https://open.spotify.com/track/70Hk3IQSSzzxNhypDn3vcW"
+    },
+    {
+      "album": {
+        "name": "Chocho\u0142",
+        "url": "https://open.spotify.com/album/3hP3qwxotUja6DVFECK0md"
+      },
+      "artists": [
+        {
+          "name": "Karolina Czarnecka",
+          "url": "https://open.spotify.com/artist/6J2uYw9Hf0spyvUuwvEP1l"
+        },
+        {
+          "name": "Feno",
+          "url": "https://open.spotify.com/artist/6KwSnGuV9Dq7GTF0WYZPJj"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Chocho\u0142",
+      "url": "https://open.spotify.com/track/5vtPXR2oUVkw5FDG0aOZIF"
     },
     {
       "album": {
@@ -1541,6 +1585,28 @@
     },
     {
       "album": {
+        "name": "ALA17 EP",
+        "url": "https://open.spotify.com/album/36aVKcErFCbFaklRrJXudh"
+      },
+      "artists": [
+        {
+          "name": "AJLA",
+          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+        },
+        {
+          "name": "Cool P",
+          "url": "https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132522,
+      "name": "Co z tob\u0105 ma\u0142a",
+      "url": "https://open.spotify.com/track/3w3qkgukyfwjttvLFLH03N"
+    },
+    {
+      "album": {
         "name": "Co z Tob\u0105?",
         "url": "https://open.spotify.com/album/51bve2usGV2q99QTKHGIKs"
       },
@@ -1552,7 +1618,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 212400,
       "name": "Co z Tob\u0105?",
       "url": "https://open.spotify.com/track/3wulbqoJ42OkShHGkXrSuN"
@@ -2623,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "FIXACJE",
+        "url": "https://open.spotify.com/album/3tQlAWPZW0Wg0BhxjNP3z7"
+      },
+      "artists": [
+        {
+          "name": "PYCORKA",
+          "url": "https://open.spotify.com/artist/3SOW8wH1Xm0epMxdIO1eAE"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "FIXACJE",
+      "url": "https://open.spotify.com/track/4ZJDNndRmSwbRPLThyOnfn"
+    },
+    {
+      "album": {
         "name": "frankfurt",
         "url": "https://open.spotify.com/album/5NHa662rh3ENosyGrsmNyJ"
       },
@@ -2776,7 +2860,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 168800,
       "name": "Gdzie jeste\u015b?",
       "url": "https://open.spotify.com/track/6yK1ZycVo0MosTE3lBB29c"
@@ -2984,6 +3068,32 @@
       "duration_ms": 153984,
       "name": "heavens",
       "url": "https://open.spotify.com/track/6ezR8LSpfhlHZ2gNeZESDs"
+    },
+    {
+      "album": {
+        "name": "Hej \u2013 projekt Ogrody \u015ar\u00f3dmie\u015bcie (Praktyczna Pani Remix)",
+        "url": "https://open.spotify.com/album/69m0L9q9MWHpzXwwzale9Y"
+      },
+      "artists": [
+        {
+          "name": "UGORNA",
+          "url": "https://open.spotify.com/artist/728KDp7TKI2VD37sg0323p"
+        },
+        {
+          "name": "Praktyczna Pani",
+          "url": "https://open.spotify.com/artist/5PMp3fcQ3WjQiklmndYsNq"
+        },
+        {
+          "name": "DJ Eprom",
+          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Hej \u2013 projekt Ogrody \u015ar\u00f3dmie\u015bcie - Praktyczna Pani Remix",
+      "url": "https://open.spotify.com/track/1Ib8Itwuv7mcgDDgg4vFIY"
     },
     {
       "album": {
@@ -3256,7 +3366,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 189177,
       "name": "It's not enough",
       "url": "https://open.spotify.com/track/1DCbgEa1py6V8P1JRvSTnL"
@@ -5024,7 +5134,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 209224,
       "name": "Miami",
       "url": "https://open.spotify.com/track/4NbDsUXHdLIkEiGrX9epB4"
@@ -5610,7 +5720,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 219706,
       "name": "Mokot\u00f3w",
       "url": "https://open.spotify.com/track/0JlaZUNZPT8lKMSyqXLsWW"
@@ -5650,6 +5760,28 @@
       "duration_ms": 171130,
       "name": "monika",
       "url": "https://open.spotify.com/track/4WxETZqfG7iGCIxI21G9pE"
+    },
+    {
+      "album": {
+        "name": "Def Jam World Tour: LONDON",
+        "url": "https://open.spotify.com/album/0m7DP6nkvMjkdnvNWZuiC8"
+      },
+      "artists": [
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171307,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/3cwoQT8OmswGdSpialz44x"
     },
     {
       "album": {
@@ -6301,6 +6433,24 @@
     },
     {
       "album": {
+        "name": "nie pal\u0119",
+        "url": "https://open.spotify.com/album/7mB8Vot0vn7ibxyci0ZJCM"
+      },
+      "artists": [
+        {
+          "name": "zimno",
+          "url": "https://open.spotify.com/artist/3pqdOTn75NMKByM896Mfbw"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "nie pal\u0119",
+      "url": "https://open.spotify.com/track/6M8fsKCriYhbWBB6HTsV0O"
+    },
+    {
+      "album": {
         "name": "nie p\u0142acz dziewczyno",
         "url": "https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo"
       },
@@ -6470,7 +6620,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 318386,
       "name": "Niebo z\u0142ote ci otworz\u0119",
       "url": "https://open.spotify.com/track/16qDeTpZPexOEcbzeezF2V"
@@ -7449,6 +7599,24 @@
     },
     {
       "album": {
+        "name": "Parowanie",
+        "url": "https://open.spotify.com/album/5itE7dMVDHmb1uBiCpVmBn"
+      },
+      "artists": [
+        {
+          "name": "Odemglanie",
+          "url": "https://open.spotify.com/artist/4hpS6NNjJlj4eFsFq3aLD6"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353874,
+      "name": "Parowanie",
+      "url": "https://open.spotify.com/track/5jEiY9ClU4NicV2v7hTPyF"
+    },
+    {
+      "album": {
         "name": "Pastelowe Kredki",
         "url": "https://open.spotify.com/album/6vp7j3Iug4KbRTPF4VagsN"
       },
@@ -7650,7 +7818,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 133228,
       "name": "Pinezka",
       "url": "https://open.spotify.com/track/4QVDi6q0qarS5IzOR4vLmO"
@@ -7672,6 +7840,24 @@
       "duration_ms": 202930,
       "name": "Piotru\u015b Pan",
       "url": "https://open.spotify.com/track/1HRrA8dOtA9nb0o4B1bqw8"
+    },
+    {
+      "album": {
+        "name": "Pi\u0119kno",
+        "url": "https://open.spotify.com/album/0Z37kj6pcHMyQYMg22Lhfi"
+      },
+      "artists": [
+        {
+          "name": "Markus ivi",
+          "url": "https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186786,
+      "name": "Pi\u0119kno",
+      "url": "https://open.spotify.com/track/4C3PHaO18GKRjDvjptF8gs"
     },
     {
       "album": {
@@ -9126,6 +9312,24 @@
       "duration_ms": 217480,
       "name": "Space",
       "url": "https://open.spotify.com/track/2hYanRY5R6i6hZm5spwv10"
+    },
+    {
+      "album": {
+        "name": "Spin the Bottle",
+        "url": "https://open.spotify.com/album/3qYEDHjbLOcoJ0856iVBch"
+      },
+      "artists": [
+        {
+          "name": "Paula & Karol",
+          "url": "https://open.spotify.com/artist/55dcBrI0GbsQrZOzTGbfQi"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Spin the Bottle",
+      "url": "https://open.spotify.com/track/2XMzqDhnDAUHporuUvRQb4"
     },
     {
       "album": {
@@ -10639,6 +10843,24 @@
     },
     {
       "album": {
+        "name": "Viva M",
+        "url": "https://open.spotify.com/album/6lKkmPd0pTMxiuEcypTjw9"
+      },
+      "artists": [
+        {
+          "name": "Sujka",
+          "url": "https://open.spotify.com/artist/7choVylUIeNr4nUVApiUEC"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Viva M",
+      "url": "https://open.spotify.com/track/2jQC927dMvSTFuMvn3nsHn"
+    },
+    {
+      "album": {
         "name": "w innym czasie",
         "url": "https://open.spotify.com/album/74I1RgGzn6KtnXLjCH94I3"
       },
@@ -10984,7 +11206,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 286013,
       "name": "Wojna",
       "url": "https://open.spotify.com/track/3aNwvvVS1VUAkOa7epXSYh"
@@ -11520,6 +11742,24 @@
       "duration_ms": 200292,
       "name": "Zadowalacz",
       "url": "https://open.spotify.com/track/3mC3MVLvukhlzh9zbzrhn1"
+    },
+    {
+      "album": {
+        "name": "Zamilcz",
+        "url": "https://open.spotify.com/album/0fgiAiDpzKeARGxeuvr97i"
+      },
+      "artists": [
+        {
+          "name": "Ola Michalska",
+          "url": "https://open.spotify.com/artist/6Mdjifgz9yPM87L6BNLuon"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158793,
+      "name": "Zamilcz",
+      "url": "https://open.spotify.com/track/7dA8XN2CN3xZjzaCu6fraU"
     },
     {
       "album": {
@@ -12278,7 +12518,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 184849,
       "name": "\u0142zy",
       "url": "https://open.spotify.com/track/1U3YgLPb2HytTw4ShcBFHE"

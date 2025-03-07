@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🪩🪩🪩🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,209 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,202 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 49 | [BIPOLAR](https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Kaja Gunnufsen](https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:50 |
 | 50 | [Narco Freestyle](https://open.spotify.com/track/6abCeotQ2T6eFP2zTjW7WN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Narco Freestyle](https://open.spotify.com/album/5sbWMsirtJm5whDYeWqDLv) | 2:22 |
 
-Snapshot ID: `Z8DulAAAAACMDZBbCygvVKrQwCsNroSN`
+Snapshot ID: `Z8opDAAAAAA8Mr5woVKetttLiJ16ApfN`

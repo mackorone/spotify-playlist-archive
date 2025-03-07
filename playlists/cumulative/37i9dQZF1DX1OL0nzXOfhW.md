@@ -4,7 +4,7 @@
 
 > 2024 RADAR登場！持續發掘世一超新聲！Cover: Joya
 
-223 songs - 12 hr 53 min
+224 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [I wish I can be Rich](https://open.spotify.com/track/4U2I8Fi2kN6TFpGogWkghW) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/612xHundAqZJb5bIZusjyC) | 3:46 | 2022-05-26 | 2022-10-05 |
 | [I wish I can be Rich](https://open.spotify.com/track/7FxEJu7QhAzT3MTE6e1FZn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/5EJh5oud3icqeswaDukDp7) | 3:46 | 2022-09-15 | 2023-04-14 |
 | [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 | 2024-03-28 | 2024-12-20 |
+| [Inertia](https://open.spotify.com/track/5i2ebk1q837ky2fawuM5Ce) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [AFTERGLOW](https://open.spotify.com/album/1AyGNMtcZOJEnTdmkgsOV3) | 1:10 | 2025-03-06 |  |
 | [Jennie](https://open.spotify.com/track/07ZymFLkrJfiWIJBbr2HAG) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:16 | 2022-05-26 | 2023-04-14 |
 | [L\-O\-V\-E](https://open.spotify.com/track/16t8e2uj33zEgLCFMITC8P) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [L\-O\-V\-E](https://open.spotify.com/album/4OCkp5uGvoBYHAegskOy8C) | 3:00 | 2023-09-15 | 2024-03-29 |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-05-26 | 2023-04-14 |

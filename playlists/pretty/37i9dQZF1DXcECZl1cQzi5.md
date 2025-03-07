@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,442 likes - 105 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,514 likes - 105 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

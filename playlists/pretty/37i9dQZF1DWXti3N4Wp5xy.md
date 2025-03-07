@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXti3N4Wp5xy.md) - [plain]
 
 > A perfect little pop party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,903 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,977 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXti3N4Wp5xy.md) - [plain]
 | 97 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
 | 98 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 99 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
-| 100 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 |
+| 100 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 |
 | 101 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 |
 | 102 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 |
 | 103 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:59 |

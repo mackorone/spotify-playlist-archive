@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 
 > This is Arctic Monkeys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,711,069 likes - 55 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,711,289 likes - 55 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

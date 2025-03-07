@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: KD DESIROCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,636 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,652 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

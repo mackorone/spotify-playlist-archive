@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,089 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,151 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

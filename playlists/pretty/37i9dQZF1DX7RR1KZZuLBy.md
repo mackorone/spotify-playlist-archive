@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,373 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,403 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 |
 | 50 | [Take It All Back](https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt) | 3:13 |
 
-Snapshot ID: `Z8D83gAAAADFkViqSPdKlz+Srfl0a9cb`
+Snapshot ID: `Z8o3XQAAAABabUpg0CXRgdMeISw9TOn5`

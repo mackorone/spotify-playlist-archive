@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Naomi
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,823 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,828 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

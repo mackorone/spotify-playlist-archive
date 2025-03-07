@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > Indie pop when ur crushing
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,174 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,146 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

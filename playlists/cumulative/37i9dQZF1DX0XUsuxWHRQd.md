@@ -4,7 +4,7 @@
 
 > Music from Drake,  Kendrick Lamar and Travis Scott.
 
-2,315 songs - 4 day 23 hr 55 min
+2,316 songs - 4 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Can't Nobody Hold Me Down \(feat\. Mase\)](https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 3:51 | 2023-04-13 | 2023-04-15 |
 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 | 2022-09-30 | 2022-11-19 |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2021-10-22 | 2022-01-29 |
+| [Candy Shop](https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:29 | 2025-03-06 |  |
 | [Captain Hook](https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:56 | 2020-03-06 | 2020-03-20 |
 | [Carbonated Water](https://open.spotify.com/track/4HPTladgOGcGzleMR3I0FK) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Carbonated Water](https://open.spotify.com/album/5Pp2riAYLF6W6KnUR0ke3O) | 2:21 | 2019-11-02 | 2019-12-06 |
 | [Cardigan](https://open.spotify.com/track/0Li1OuXXfi7950ilZUFGkF) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:38 | 2020-03-13 | 2020-06-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxjQJh4Um8T.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Andorra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,881 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,880 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxjQJh4Um8T.md) - [plain]
 | 23 | [SE FUE](https://open.spotify.com/track/1QAvmMUR9gDtKr9OCtCzh1) | [Moncho Chavea](https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [SE FUE](https://open.spotify.com/album/0ePoAsHC4vvO8tZzPKtYC3) | 2:56 |
 | 24 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 25 | [MONTOYA](https://open.spotify.com/track/6QJoEebhAhga8KXM2ho6k8) | [Anthony Ready & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [MONTOYA](https://open.spotify.com/album/3YimyhLTjpZjME0dBNNuLe) | 2:19 |
-| 26 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 |
+| 26 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 |
 | 27 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 28 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 |
 | 29 | [La Gent Que Estimo](https://open.spotify.com/track/2aTvlIMGoo2L9x5YzJNjj5) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [A Tope amb la Vida](https://open.spotify.com/album/4iY5ndG0MkayVdJoN5iapM) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxjQJh4Um8T.md) - [plain]
 | 49 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 |
 | 50 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

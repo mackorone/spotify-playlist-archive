@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PP Krit
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน:  Sugar 'N Spice
 
-657 songs - 1 day 14 hr 51 min
+659 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/5ozsFNcATFgJUXSdi6fxrf) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/album/6RGRYegVNxklqsZR0x4yDp) | 3:39 | 2022-07-28 | 2022-08-26 |
 | [พูดน้อย \(เพราะชอบเธอไม่ใช่น้อย\) \- Speechless](https://open.spotify.com/track/68FRyAbUdIDv4bXAORiY2W) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [พูดน้อย \(เพราะชอบเธอไม่ใช่น้อย\) \[Speechless\]](https://open.spotify.com/album/3tuJL3tnAUJgyosMUzS21d) | 3:42 | 2023-10-19 | 2023-11-10 |
 | [พูดได้ไหม \(Let Me Tell You\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/3RBEKEeZWt3iCsuh4bvZpl) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/2U1hTTT8zpG58iAlcjCPGg) | 3:29 | 2023-03-02 | 2023-03-10 |
-| [พูดไม่ฟัง \(Comeback No Comeback\)](https://open.spotify.com/track/0OnFk90WfcNXqhIHUGLwXO) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [พูดไม่ฟัง \(Comeback No Comeback\)](https://open.spotify.com/album/5WJgXFFKfnAid6JGwECYOQ) | 3:54 | 2024-11-25 |  |
+| [พูดไม่ฟัง \(Comeback No Comeback\)](https://open.spotify.com/track/0OnFk90WfcNXqhIHUGLwXO) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [พูดไม่ฟัง \(Comeback No Comeback\)](https://open.spotify.com/album/5WJgXFFKfnAid6JGwECYOQ) | 3:54 | 2024-11-25 | 2025-03-07 |
 | [พูดไม่ออก \(Mute\)](https://open.spotify.com/track/18PwDfOlpsz2PvGU1SXV7Q) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [พูดไม่ออก \(Mute\)](https://open.spotify.com/album/5Wq6kTJU9h1F2GgJifHOZ7) | 3:11 | 2023-09-28 | 2023-11-03 |
 | [พ่อไม่ให้มี \(DADD\)](https://open.spotify.com/track/51XcWthCJU8nY22ARPHav8) | [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [พ่อไม่ให้มี \(DADD\)](https://open.spotify.com/album/3VU3OpwYZ5zpqE74jPzTcy) | 2:59 | 2023-02-10 | 2023-02-17 |
 | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/track/330spX93u5K5XINCCJzko3) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/album/3WGthfl2NKI9tuX4z4R7CP) | 4:22 | 2024-03-14 | 2024-03-27 |
@@ -479,7 +479,7 @@
 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 | 2023-07-06 | 2024-03-15 |
 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 | 2023-03-09 | 2024-09-13 |
 | [หยอก หยอก](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หยอก หยอก](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 | 2022-05-26 | 2022-10-27 |
-| [หยอกไม่หลอก \(TRICK OR TREAT\)](https://open.spotify.com/track/1QJpqMMm9kB8IcmZHtHPNR) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Chrrissa](https://open.spotify.com/artist/3HbdAO1uUXLMo1FRXJWdYt) | [หยอกไม่หลอก \(TRICK OR TREAT\) \- Single](https://open.spotify.com/album/0KX3FdLHvQZtbKwri44BmX) | 3:37 | 2024-10-31 |  |
+| [หยอกไม่หลอก \(TRICK OR TREAT\)](https://open.spotify.com/track/1QJpqMMm9kB8IcmZHtHPNR) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Chrrissa](https://open.spotify.com/artist/3HbdAO1uUXLMo1FRXJWdYt) | [หยอกไม่หลอก \(TRICK OR TREAT\) \- Single](https://open.spotify.com/album/0KX3FdLHvQZtbKwri44BmX) | 3:37 | 2024-10-31 | 2025-03-07 |
 | [หยุดดิ๊ \(YaA!\)](https://open.spotify.com/track/5y5uNFx4bDDjnZf86DSprb) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [หยุดดิ๊ \(YaA!\)](https://open.spotify.com/album/7uuoFmLc6I7yNRCaLJtLu4) | 3:04 | 2023-07-21 | 2023-07-28 |
 | [หลอกกันทั้งนั้น \(Fake News\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/0JK7pZajOQyfJ2OPxkrWbh) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [หลอกกันทั้งนั้น \(Fake News\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/0Gex9SSDNTtbiL4JOqfOhl) | 4:14 | 2022-05-26 | 2022-07-29 |
 | [หลอกกันทั้งนั้น \(Fake News\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/0Apw9KBqEdc85zUw13UJ14) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [หลอกกันทั้งนั้น \(Fake News\) \[From แปลรักฉันด้วยใจเธอ Part 2\]](https://open.spotify.com/album/6bTCiLjRwKV0C1fh53lMcO) | 4:14 | 2022-07-28 | 2022-08-19 |
@@ -521,6 +521,7 @@
 | [อุ๊ย คุณพระ! \(OMG\) \- เพลงจากละคร พระนคร ๒๔๑๐](https://open.spotify.com/track/7lot4QSMg4UH0xXRwAov6S) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [เพลงจากละคร พระนคร ๒๔๑๐](https://open.spotify.com/album/5zDrzXuzn43wPVBHP1RgWz) | 3:19 | 2023-02-10 | 2023-02-24 |
 | [อ๋อค่ะ](https://open.spotify.com/track/1XlaKSyICVO45By6Gf1CjM) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [อ๋อค่ะ](https://open.spotify.com/album/7CEY36trH9lWieeGRzTOgb) | 4:12 | 2022-07-10 | 2022-08-26 |
 | [ฮีลใจ \(Here For You\)](https://open.spotify.com/track/2jMxARZO1H1CNDyApCpwNr) | [Butterbear](https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr) | [ฮีลใจ \(Here For You\)](https://open.spotify.com/album/2LvIsQRWHQOPjKUyWIPh1p) | 3:02 | 2024-11-06 | 2025-01-10 |
+| [เกิดอาการ \- Heartquake](https://open.spotify.com/track/6IhouTQgPPFY8GIR9JpFhB) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [เกิดอาการ \(Heartquake\)](https://open.spotify.com/album/35Pm6UpEeUQtTBrTxT342m) | 3:22 | 2025-03-06 |  |
 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 | 2022-05-26 | 2024-06-01 |
 | [เกินปุยมุ้ย!](https://open.spotify.com/track/2nhI5HdE2iZ39rgJjHOQvG) | [เอ้ย จิรัช](https://open.spotify.com/artist/57LTnxDtihPVR9HlkAN3OY) | [เกินปุยมุ้ย!](https://open.spotify.com/album/2VuEAib3nbCqK58hcIaKSV) | 3:11 | 2022-06-23 | 2022-09-24 |
 | [เกือบดี \(Almost\)](https://open.spotify.com/track/6uAOfFXRlD1TFfX3IAAgrw) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เกือบดี \(Almost\)](https://open.spotify.com/album/1iuK7F5XHxGOcCuAnhcvTZ) | 3:40 | 2022-08-18 | 2022-09-01 |
@@ -665,5 +666,6 @@
 | [ไวน์ลดา](https://open.spotify.com/track/1RVYucT3tc32YzRDsP30t3) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [ไวน์ลดา](https://open.spotify.com/album/5SntqKVAPjrv7hmtsJKx4p) | 3:47 | 2022-05-26 | 2022-06-17 |
 | [ไหนวะ](https://open.spotify.com/track/59yg0a52VmCOWwEvRv191r) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [ไหนวะ](https://open.spotify.com/album/1v0FXYuDwVKLKexIiQcIrf) | 4:00 | 2022-08-11 | 2022-08-26 |
 | [ไหล่เธอ \(You’ve Got Ma Back\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/55tvHtkqTwGaQtN44CFLV6) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO), [Ford Arun](https://open.spotify.com/artist/5JpHIeQ1qqASVEv1OJiMCe), [Satang Kittiphop](https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv), [Winny Thanawin](https://open.spotify.com/artist/1TTINBa1uQSwPxqYpbBK43) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/5sg51NEe1ZVhYZDGcqWUd9) | 3:19 | 2023-02-23 | 2023-03-03 |
+| [ไอ้บ้า \(Gu ja Crazy\) \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/655CsNqED6kK98nHtWRnhv) | [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0), [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w) | [ไอ้บ้า \(Gu ja Crazy\) \[From GELBOYS สถานะกั๊กใจ\]](https://open.spotify.com/album/4UFs7Wc8RMHp2sgEZgha34) | 3:31 | 2025-03-06 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

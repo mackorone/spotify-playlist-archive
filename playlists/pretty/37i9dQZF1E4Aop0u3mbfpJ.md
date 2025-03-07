@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Rihanna, Ariana Grande, Sabrina Carpenter and more
+> With Rihanna, Sabrina Carpenter, Ariana Grande and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,637 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,861 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 | 49 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
 | 50 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
 
-Snapshot ID: `Z8kTfAAAAAADsqijRaq7l3EVJLIIBDPn`
+Snapshot ID: `Z8pLVgAAAABNJotkbP9e+4ODRSse/Gjr`

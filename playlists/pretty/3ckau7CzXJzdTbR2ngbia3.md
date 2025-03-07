@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ckau7CzXJzdTbR2ngbia3.md) - [plain]
 
 > 100 greatest songs of the 2010s\. Featuring top tracks from Dua Lipa, Ed Sheeran, Bruno Mars, The Weeknd, Adele, Rihanna and more\. The ultimate throwback playlist to the 2010s!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 121,856 likes - 100 songs - 6 hr 2 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 121,854 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/3ckau7CzXJzdTbR2ngbia3.md) - [plain]
 | 55 | [Wings](https://open.spotify.com/track/2Kz5qeXifBxE0zmuoVchlM) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 4:12 |
 | 56 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
 | 57 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw) | 3:24 |
-| 58 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 |
+| 58 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 |
 | 59 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 |
 | 60 | [HandClap](https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums](https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3) | 3:13 |
 | 61 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 |

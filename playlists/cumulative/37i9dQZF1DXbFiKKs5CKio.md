@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-139 songs - 7 hr 52 min
+140 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Dias Bons \(Alright\)](https://open.spotify.com/track/4TKJmXGlHLg1gBAoeYDMth) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Ill Camille](https://open.spotify.com/artist/4XPgViBvmCOxptCYxTvJo4) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 4:11 | 2023-09-15 | 2023-10-30 |
 | [Doce](https://open.spotify.com/track/5EGSzOyGjuJYJn887AWGbS) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Drama 808](https://open.spotify.com/artist/6fNCOhWNXgliXlRJvqYkGm) | [Doce](https://open.spotify.com/album/5VXcdZJ17qxGnbea65ZsHs) | 3:16 | 2023-09-15 | 2023-11-11 |
 | [Doses](https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Ouroboros](https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU) | 2:32 | 2023-09-15 | 2025-01-24 |
-| [Duvido](https://open.spotify.com/track/47oHb5kfI2EycPbyT4oR7Y) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA](https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp) | 3:34 | 2024-08-16 |  |
+| [Duvido](https://open.spotify.com/track/47oHb5kfI2EycPbyT4oR7Y) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA](https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp) | 3:34 | 2024-08-16 | 2025-03-07 |
 | [E EU?](https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [prx](https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe) | [MOVA \- Algumas Verdades, Outras Mentiras](https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3) | 2:56 | 2023-09-15 |  |
 | [Efeito Moral](https://open.spotify.com/track/5V5k3Ml3unt4bH4sIw9Gi4) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Efeito Moral](https://open.spotify.com/album/5bWoFCqvQwN8Q93tbhNHCq) | 2:09 | 2023-11-24 | 2024-08-24 |
 | [Entre Memórias Tristes](https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL) | [C.I.D](https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl) | [Entre Memórias Tristes](https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf) | 5:17 | 2023-09-15 | 2024-01-13 |
@@ -114,6 +114,7 @@
 | [Quer Saber](https://open.spotify.com/track/71ppt3UJSaN6vKK8QYvncu) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Quer Saber](https://open.spotify.com/album/0dYLcytZcb8EZqTVa0t0r4) | 2:56 | 2023-09-15 | 2023-10-16 |
 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 | 2025-02-14 |
 | [Química Perfeita](https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI) | [JE$$I](https://open.spotify.com/artist/5dNWhZSPl0VSzZgvChB11Q), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Química Perfeita](https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw) | 2:57 | 2023-09-15 | 2024-03-30 |
+| [Raio Sol](https://open.spotify.com/track/7jDKIsrmTbkBt1b7IUlDJf) | [Yuri Clima](https://open.spotify.com/artist/6z8zEXpOg6AwbGs8sElaG3), [LIMAO THE SOUND](https://open.spotify.com/artist/4ZNPElpiQa44bAyqotjtFb) | [Raio solar](https://open.spotify.com/album/2DsCkgNiB8nfh3V3ahpudD) | 3:05 | 2025-03-07 |  |
 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Gaza OG](https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 | 2023-11-10 |  |
 | [Renascer](https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Renascer](https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45) | 4:54 | 2023-09-15 | 2024-12-07 |
 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 | 2024-08-30 |  |

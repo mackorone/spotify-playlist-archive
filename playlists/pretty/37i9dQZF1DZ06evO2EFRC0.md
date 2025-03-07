@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,800 likes - 52 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,821 likes - 52 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,072 likes - 125 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,482 likes - 125 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

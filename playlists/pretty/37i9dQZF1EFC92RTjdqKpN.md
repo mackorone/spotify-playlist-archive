@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026 likes - 197 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025 likes - 197 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 196 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 197 | [Impossible](https://open.spotify.com/track/42gXlZEqFQ6Slmo9jxATv5) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#69](https://open.spotify.com/album/5p1EcRrbWRuuCL8hlitUXQ) | 3:06 |
 
-Snapshot ID: `AbrRQAAAAABiqeYpl8aDAtzJiDYl7sfg`
+Snapshot ID: `AbrXEgAAAAAC0uGN/hluxX8OSFo8vPWF`

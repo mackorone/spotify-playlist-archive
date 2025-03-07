@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "The hottest tracks with the freshest hits! Cover: Dom Dolla",
+  "description": "The hottest tracks with the freshest hits! Cover: Tate McRae",
   "name": "Hot Hits Australia",
   "tracks": [
     {
@@ -807,6 +807,28 @@
     },
     {
       "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -1062,6 +1084,32 @@
       "duration_ms": 186612,
       "name": "Busy Woman",
       "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
+    },
+    {
+      "album": {
+        "name": "Call Me When You Break Up (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
     },
     {
       "album": {
@@ -1950,7 +1998,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -2638,7 +2686,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"

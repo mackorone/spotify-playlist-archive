@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 159130,
       "name": "All I Desire",
       "url": "https://open.spotify.com/track/1hvAsuWqPuDhnXWc7YCa93"
@@ -1194,6 +1194,32 @@
       "duration_ms": 156000,
       "name": "ALL MY LIFE",
       "url": "https://open.spotify.com/track/4WoPXUWnmeNlxLLbvfxhx9"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6YEN7gEq8vbbzFB7GvPLsv"
+      },
+      "artists": [
+        {
+          "name": "Kairo Blaze",
+          "url": "https://open.spotify.com/artist/0opa1LgpK8tc72uLeCzbyF"
+        },
+        {
+          "name": "Sienna Vee",
+          "url": "https://open.spotify.com/artist/6LKQ9OqKImcKxiBIW8mFbc"
+        },
+        {
+          "name": "DJ Jeffy",
+          "url": "https://open.spotify.com/artist/79Oht0QtVNuzpIEBgX2fXU"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164240,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6n8153BawUgsZE3XMMrhLQ"
     },
     {
       "album": {
@@ -2750,6 +2776,10 @@
         {
           "name": "Godwin",
           "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
         }
       ],
       "date_added": "2024-10-25",
@@ -7069,6 +7099,28 @@
     },
     {
       "album": {
+        "name": "France Feeling",
+        "url": "https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG"
+      },
+      "artists": [
+        {
+          "name": "Koko\u00eb",
+          "url": "https://open.spotify.com/artist/16dsKol1duwbZ2Ts0IxOKY"
+        },
+        {
+          "name": "Mamba Sounds",
+          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169444,
+      "name": "France Feeling",
+      "url": "https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43"
+    },
+    {
+      "album": {
         "name": "ALT SOUL, Vol. 1",
         "url": "https://open.spotify.com/album/3xZmmPqI56XhwpiRAfqsDN"
       },
@@ -8098,6 +8150,24 @@
       "duration_ms": 153000,
       "name": "Healer",
       "url": "https://open.spotify.com/track/7wvFFjFIfQbwk0enwlTc8p"
+    },
+    {
+      "album": {
+        "name": "MOONFLOWER",
+        "url": "https://open.spotify.com/album/6CawYzSZtNzU5MvmuzbQnR"
+      },
+      "artists": [
+        {
+          "name": "MiDi KwaKwa",
+          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151322,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/4Ra86g92ZKzJmK2tgEGJyG"
     },
     {
       "album": {

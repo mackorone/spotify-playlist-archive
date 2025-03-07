@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,095 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,097 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

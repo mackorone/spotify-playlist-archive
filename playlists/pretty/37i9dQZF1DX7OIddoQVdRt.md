@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,915 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,000 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

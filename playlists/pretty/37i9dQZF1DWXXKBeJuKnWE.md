@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Architects
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,647 likes - 246 songs - 14 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,633 likes - 246 songs - 14 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

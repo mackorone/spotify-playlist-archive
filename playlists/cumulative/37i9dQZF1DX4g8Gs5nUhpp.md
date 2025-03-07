@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Shiki
 
-374 songs - 22 hr 25 min
+375 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 | 2023-10-08 | 2024-07-19 |
 | [Bầu Trời Mới](https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Bầu Trời Mới](https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm) | 4:22 | 2024-10-06 |  |
 | [Bật Tình Yêu Lên](https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ), [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8) | [Bật Tình Yêu Lên](https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB) | 3:23 | 2023-02-23 | 2023-09-23 |
+| [Bắc Bling \(Bắc Ninh\) \(Prod\. by Masew\)](https://open.spotify.com/track/4L2xuczFpbb7cjXebOBNkt) | [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8), [NSUT Xuân Hinh](https://open.spotify.com/artist/2c7nahphISevT1BEE00zyo), [Tuấn Cry](https://open.spotify.com/artist/1XeMw22FKMPIjQIkyV3yDN) | [Bắc Bling \(Bắc Ninh\)](https://open.spotify.com/album/6EjwaP7NXxtSek59rT4IVS) | 4:05 | 2025-03-06 |  |
 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoang](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 | 2022-07-05 | 2022-11-26 |
 | [Call Me](https://open.spotify.com/track/08GUMwJRpisuxHGyRzoSuu) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Call Me](https://open.spotify.com/album/7cyQGqqV7M5XxCJimEjX0j) | 3:34 | 2023-08-17 | 2024-01-08 |
 | [Cho Ngày Không Còn Nhau](https://open.spotify.com/track/2bRouRW1FbegiYbDVcoscf) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Cho Ngày Không Còn Nhau](https://open.spotify.com/album/5wRyEOHa0HIrWF20N24D5g) | 3:57 | 2022-05-27 | 2023-02-01 |
@@ -162,7 +163,7 @@
 | [LA BÀN](https://open.spotify.com/track/5G8D7sPL8mUhrNOm5jC3Sm) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [LA BÀN](https://open.spotify.com/album/2CbMaILGMALRPOZmayjiYD) | 3:06 | 2024-10-23 | 2024-11-28 |
 | [LALALA](https://open.spotify.com/track/7wagvml4x04xVfppCRgyxX) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [LALALA](https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq) | 3:13 | 2024-05-26 | 2024-06-17 |
 | [Lan Man](https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Lan Man](https://open.spotify.com/album/2PjMmcp2KpR1dwcs0oExSx) | 3:36 | 2023-04-27 | 2024-08-01 |
-| [letting go](https://open.spotify.com/track/4rQzo0R9ytClqdRpqdBQKQ) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [letting go](https://open.spotify.com/album/7BEfD56s0Pai4DvMBapMY8) | 3:35 | 2025-02-16 |  |
+| [letting go](https://open.spotify.com/track/4rQzo0R9ytClqdRpqdBQKQ) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [letting go](https://open.spotify.com/album/7BEfD56s0Pai4DvMBapMY8) | 3:35 | 2025-02-16 | 2025-03-07 |
 | [Liệu Giờ](https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/1aRGbHftmJqclyoYJT8q6c) | 4:18 | 2022-06-15 | 2023-02-13 |
 | [Love is](https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Love is](https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m) | 4:26 | 2024-11-10 |  |
 | [Luôn yêu đời](https://open.spotify.com/track/76zJmpyMFX49tGT3u06JaK) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Cheng](https://open.spotify.com/artist/0jBuicIjx2pKvGmq9yRJju) | [Luôn yêu đời](https://open.spotify.com/album/69Ip5wKOotOmZEtcJpFVfo) | 3:54 | 2023-02-12 | 2023-02-23 |
@@ -271,7 +272,7 @@
 | [Sẽ Chẳng Yêu Người Khác Đâu](https://open.spotify.com/track/153fqaiQSioY7vmKZpvmJY) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [Sẽ Chẳng Yêu Người Khác Đâu](https://open.spotify.com/album/5QGpwohe466G33f5gUfMeV) | 3:55 | 2022-05-27 | 2022-06-21 |
 | [Sự Mập Mờ](https://open.spotify.com/track/1QKaj0g8pammcGn0JU8nnd) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Sự Mập Mờ](https://open.spotify.com/album/2qlrsRTlCm6bPyqncUndHh) | 3:49 | 2023-07-11 | 2023-07-22 |
 | [Thanh Xuan](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuan](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 | 2022-05-27 | 2023-05-30 |
-| [Thanh Âm Trái Tim](https://open.spotify.com/track/5YuRof2qxFugrHH8kH5xSK) | [Hồ Quỳnh Hương](https://open.spotify.com/artist/3EP4RX5LSuwDVy4mDeF1rl) | [Thanh Âm Trái Tim](https://open.spotify.com/album/7JAb3WzB0LVj2k2ZZQUn61) | 4:20 | 2025-02-16 |  |
+| [Thanh Âm Trái Tim](https://open.spotify.com/track/5YuRof2qxFugrHH8kH5xSK) | [Hồ Quỳnh Hương](https://open.spotify.com/artist/3EP4RX5LSuwDVy4mDeF1rl) | [Thanh Âm Trái Tim](https://open.spotify.com/album/7JAb3WzB0LVj2k2ZZQUn61) | 4:20 | 2025-02-16 | 2025-03-07 |
 | [The Playah \(feat\. SlimV\) \- Special Performance](https://open.spotify.com/track/63qZf6349d3ngku9hrzLac) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [SlimV](https://open.spotify.com/artist/2m8Bk9or6quybzoQbM0zQt) | [The Playah \(feat\. SlimV\) \[Special Performance\]](https://open.spotify.com/album/4437psfF6TPngVcOkFT90M) | 7:29 | 2024-05-26 | 2024-06-17 |
 | [THERE'S NO ONE AT ALL](https://open.spotify.com/track/7rjtRM1AgmmraeTTX8tofW) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [THERE'S NO ONE AT ALL](https://open.spotify.com/album/1ZutY9YHq5MEPDTT0wy06u) | 2:52 | 2022-06-10 | 2022-06-17 |
 | [There's No One At All \(Another Version\)](https://open.spotify.com/track/3Yfedn84e2VLXSVwmowqEn) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [There's No One At All \(Another Version\)](https://open.spotify.com/album/0d0Blbqh2qSxiej0aoJJvw) | 3:21 | 2022-07-12 | 2022-08-08 |

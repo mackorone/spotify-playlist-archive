@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLToO3EeTtX.md) - [plain]
 
 > Get away from the maddening crowds with this peaceful pop mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,048 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,042 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

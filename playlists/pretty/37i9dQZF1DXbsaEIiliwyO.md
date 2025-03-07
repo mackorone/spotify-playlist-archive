@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: Poppin'Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,751 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,763 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

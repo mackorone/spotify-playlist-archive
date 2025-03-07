@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2025 (previous playlists archived on my profile)",
-  "num_followers": 22860,
+  "num_followers": 22862,
   "original_name": "acting on feeling",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAMBfd8kPepby3YJ5wqpRzSZhkLJaSx",
+  "snapshot_id": "AAAMCHbqGc7slqQnfHcfVNtIce87LpI1",
   "tracks": [
     {
       "added_at": "2025-03-01 22:42:13",
@@ -315,6 +315,38 @@
       "duration_ms": 256821,
       "name": "Mountain Language",
       "url": "https://open.spotify.com/track/0oyjNHLOXu0aewrfGaxk75"
+    },
+    {
+      "added_at": "2025-03-06 16:53:38",
+      "album": {
+        "name": "Musicality",
+        "url": "https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn"
+      },
+      "artists": [
+        {
+          "name": "Salako",
+          "url": "https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Do It Yourself",
+      "url": "https://open.spotify.com/track/7mqzQCR7KIPxvPFU5IoFkn"
+    },
+    {
+      "added_at": "2025-03-06 16:53:21",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     }
   ],
   "unique_name": "acting on feeling",

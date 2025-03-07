@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,100 likes - 20 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,115 likes - 20 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

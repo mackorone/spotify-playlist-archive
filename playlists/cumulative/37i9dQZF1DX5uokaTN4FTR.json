@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Jazzy, KILIMANJARO\n",
+  "description": "The UK's biggest dance playlist! Cover: David Guetta, Sia\n",
   "name": "Massive Dance Hits",
   "tracks": [
     {
@@ -1386,6 +1386,28 @@
       "duration_ms": 133212,
       "name": "Beat Goes On (Rhythm to the Brain)",
       "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
+    },
+    {
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
     },
     {
       "album": {
@@ -10346,7 +10368,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 179015,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Alejandro Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,005 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,013 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

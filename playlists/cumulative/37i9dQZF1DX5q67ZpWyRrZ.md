@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Paresh Pahuja
 
-264 songs - 14 hr 54 min
+265 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Kanaa](https://open.spotify.com/track/6J2pC3j9WF4tVJo4mEHZdn) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [2jaym](https://open.spotify.com/artist/1JydyoYCEY3j5NSeagX44i), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Kanaa](https://open.spotify.com/album/1SVZ3tkWEkyE7gY1wRkN7F) | 4:17 | 2021-12-06 | 2022-08-11 |
 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 | 2021-12-06 |  |
 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 | 2024-03-19 |  |
-| [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-01-05 |  |
+| [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-01-05 | 2025-03-07 |
 | [Khaali Si Rooh](https://open.spotify.com/track/1QUZRkSFhpdYDWiD5cyu20) | [Athul Prabhu](https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6) | [Khaali Si Rooh](https://open.spotify.com/album/4KMgvwY6zwqErkUNGBB1P3) | 3:02 | 2021-12-06 | 2022-07-29 |
 | [Khaali Si Rooh](https://open.spotify.com/track/6VoAyZQ3LDhrySUdI1XHzP) | [Athul Prabhu](https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6) | [Khaali Si Rooh](https://open.spotify.com/album/724wbbB0GTCGXVQAOW5yYQ) | 3:02 | 2022-07-25 | 2022-08-23 |
 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 | 2022-01-05 |  |
@@ -192,6 +192,7 @@
 | [Parda](https://open.spotify.com/track/5GfeZNDNUu0nHKEfEI43RH) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/0wncuuFJi641SkSL6A2Iir) | 3:12 | 2024-01-09 | 2024-04-19 |
 | [Pardo](https://open.spotify.com/track/1cl1Wckhfp6MtydmHjVOyd) | [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Pardo](https://open.spotify.com/album/3RdqIXCoSYTHEXsJGHPwgT) | 3:46 | 2021-12-06 | 2022-08-10 |
 | [Parinda](https://open.spotify.com/track/2Pas1bpuA8riVr0BOTCpJx) | [Xubaan](https://open.spotify.com/artist/0c8yvHOj92kzm4suLMGgbZ) | [Parinda](https://open.spotify.com/album/7705P7v2PKvpK7HZUd1SEc) | 4:41 | 2021-12-06 | 2022-05-24 |
+| [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 | 2025-03-06 |  |
 | [Pehli Baar Mile](https://open.spotify.com/track/3CXlvNO3LSurkx7cNMOXRj) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Pehli Baar Mile](https://open.spotify.com/album/04Lg0MSC0JlWAx9DMWmyt6) | 3:23 | 2022-12-22 | 2023-02-23 |
 | [Pehli Baarish \- Acoustic](https://open.spotify.com/track/3nH2qforxZ3ZWtCOne2m0F) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish \(Acoustic\)](https://open.spotify.com/album/5In5fUCXEXXNtaNfjsMscl) | 2:26 | 2023-06-30 | 2024-02-27 |
 | [People \- Hindi Reprise](https://open.spotify.com/track/0hWGN19owiVVfI2f3ePxij) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [People \- Single](https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS) | 3:08 | 2021-12-06 | 2022-08-11 |

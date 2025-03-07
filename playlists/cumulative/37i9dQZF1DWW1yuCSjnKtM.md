@@ -4,7 +4,7 @@
 
 > These ones are taking off 🚀🚀🚀 Cover: Sabrina Carpenter
 
-356 songs - 19 hr 16 min
+357 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Angel of Mine](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Angel of Mine](https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf) | 2:42 | 2025-02-10 |  |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-22 | 2024-11-12 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-05 |  |
-| [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-03 |  |
+| [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-03 | 2025-03-07 |
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-21 | 2024-07-05 |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-22 | 2024-12-17 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-03-04 |
@@ -130,6 +130,7 @@
 | [Gunfinger \(Salute\)](https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT) | [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Gunfinger \(Salute\)](https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58) | 2:46 | 2024-08-08 | 2024-10-08 |
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-11 | 2024-04-24 |
 | [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 | 2024-02-27 | 2024-03-18 |
+| [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 | 2025-03-06 |  |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-22 | 2024-09-10 |
 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 | 2025-01-06 |  |
 | [Heather On The Hill](https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Heather On The Hill](https://open.spotify.com/album/2beYnTms954gTl7cYEupjN) | 2:19 | 2024-01-23 | 2024-02-28 |

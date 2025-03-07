@@ -2,9 +2,9 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Roxy Dekker
+> De beste Nederlandse liedjes\. Cover: De Poema's & Snelle
 
-334 songs - 17 hr 14 min
+335 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 | 2023-06-14 | 2024-02-16 |
 | [Achterop](https://open.spotify.com/track/5JtmyVfB56KjesfcJlIQAA) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Achterop](https://open.spotify.com/album/2tgx3JQhnAX4QbyBKki3fT) | 2:40 | 2023-02-24 | 2023-11-11 |
 | [Adem In](https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Adem In](https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf) | 2:24 | 2023-12-07 | 2024-06-21 |
-| [ADEMEN](https://open.spotify.com/track/1xVGGFUf67rvhKULh94etP) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [ADEMEN](https://open.spotify.com/album/2kyN8WLxgTJBOmC4XjCjJP) | 2:51 | 2025-02-19 |  |
+| [ADEMEN](https://open.spotify.com/track/1xVGGFUf67rvhKULh94etP) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [ADEMEN](https://open.spotify.com/album/2kyN8WLxgTJBOmC4XjCjJP) | 2:51 | 2025-02-19 | 2025-03-07 |
 | [Adrenaline](https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Adrenaline](https://open.spotify.com/album/0w5jN6f0rraC1lLGCcHjgu) | 2:28 | 2023-02-24 | 2024-03-20 |
 | [Afraid Of The Dark](https://open.spotify.com/track/2vSLSJH9lHKne3zUKYBVPI) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Afraid Of The Dark](https://open.spotify.com/album/22lCTEPNIuOwVR4p1sp9py) | 3:08 | 2023-02-24 | 2023-12-11 |
 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 | 2024-02-13 | 2025-02-21 |
@@ -307,6 +307,7 @@
 | [voor alles bang](https://open.spotify.com/track/0lC1IUZXQ6ukTQfSVqCJa3) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [voor alles bang / h\-e\-l\-p](https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW) | 3:02 | 2025-02-10 |  |
 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 | 2024-05-02 |  |
 | [Voor Wat Je Lief Is](https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 3:06 | 2024-04-16 | 2024-11-22 |
+| [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 | 2025-03-06 |  |
 | [Vroeger](https://open.spotify.com/track/4ZxRhotBmIcc1WUCdSJIQt) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Vroeger](https://open.spotify.com/album/2tKIKvy498Gp8pqsfYobV4) | 2:44 | 2023-02-24 | 2024-02-14 |
 | [Vrouw Van De Wereld](https://open.spotify.com/track/3ssFHRmjHtu6ZwSd8mCjCj) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/303su5NnOpJDJzlO9YNrGT) | 2:38 | 2023-11-10 | 2023-12-11 |
 | [Waar Ga Je Heen](https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Waar Ga Je Heen](https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl) | 2:59 | 2023-02-24 | 2024-03-20 |

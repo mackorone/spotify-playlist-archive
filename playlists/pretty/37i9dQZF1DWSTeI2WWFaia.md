@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Boldy James
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,515 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,505 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 3 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
 | 4 | [Hey Jane](https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:00 |
 | 5 | [Unapologetic](https://open.spotify.com/track/4AUJexwwUwEf6Wi1kHV5iC) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Token of Appreciation](https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT) | 3:09 |
-| 6 | [RiCH MAN DREAMS \(i\) \(ft\. Ab\-Soul\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
+| 6 | [RiCH MAN DREAMS \(i\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
 | 7 | [THE FINAL CALL \(feat\. Jay Electronica\)](https://open.spotify.com/track/7eIAKM9rfW6CWvRehVlpBL) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [The Final Call](https://open.spotify.com/album/727O17Cvp3DDONyTshbrG6) | 4:00 |
 | 8 | [Make It Out](https://open.spotify.com/track/1t7C4tmbmFXRu6bPsiWMqS) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Ron E](https://open.spotify.com/artist/0NzaWuALv0Wr2gcdSbQ5zn) | [At the Church Steps](https://open.spotify.com/album/4tLWhQpJdmm85tLzNyotDv) | 2:58 |
 | 9 | [CEMETERY lanterns](https://open.spotify.com/track/0xaloe0I542PKzVJqAQnca) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [CEMETERY lanterns](https://open.spotify.com/album/1nuh4LbgW3jcalOcmF17d2) | 3:45 |

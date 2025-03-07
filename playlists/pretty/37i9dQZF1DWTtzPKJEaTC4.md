@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:6HQYnRM4OzToCYPpVBInuU">Kamasi Washington</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,389 likes - 31 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,409 likes - 31 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

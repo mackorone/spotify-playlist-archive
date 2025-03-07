@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,589 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,769 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

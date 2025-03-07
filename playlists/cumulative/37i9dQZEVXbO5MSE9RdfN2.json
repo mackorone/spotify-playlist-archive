@@ -998,7 +998,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 312240,
       "name": "Again",
       "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 312240,
       "name": "Again",
       "url": "https://open.spotify.com/track/4IqXyCH75mW4dMDbHufqDX"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 162741,
       "name": "Angel of Mine",
       "url": "https://open.spotify.com/track/1w3wZWzYYDxunHZBmitPpu"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 162741,
       "name": "Angel of Mine",
       "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
@@ -4093,7 +4093,7 @@
     },
     {
       "album": {
-        "name": "Can't Help But Worry",
+        "name": "Can't Help But Worry (Every Night Every Day)",
         "url": "https://open.spotify.com/album/7vJm6qiekHsbQ5HJBSnfwX"
       },
       "artists": [
@@ -4106,7 +4106,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 109440,
-      "name": "Can't Help But Worry",
+      "name": "Can't Help But Worry (Every Night Every Day)",
       "url": "https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i"
     },
     {
@@ -6400,7 +6400,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 171526,
       "name": "Dreamin (feat. Daya)",
       "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
@@ -6422,7 +6422,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 171526,
       "name": "Dreamin (feat. Daya)",
       "url": "https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1"
@@ -19102,7 +19102,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 124620,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/7tk7IcfIgPhfGtN5kndtO1"
@@ -19120,7 +19120,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 124620,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"

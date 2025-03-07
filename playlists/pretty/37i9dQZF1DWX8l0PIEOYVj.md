@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass 🛸 with Dabin
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,075 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,078 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

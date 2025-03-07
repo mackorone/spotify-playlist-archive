@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: Gülden
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,864 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,029 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 49 | [Saat 03.00 \(By Volga Tamöz\)](https://open.spotify.com/track/45cI1Cz1nyp1sHiUd2kgal) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Dört Dörtlük](https://open.spotify.com/album/6BlUffy1dlYUfo3uUhnwP8) | 3:32 |
 | 50 | [Kabul Olan Tek Duamsın](https://open.spotify.com/track/36oBlwSPNtA48TLYqk4SNp) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn) | [Kabul Olan Tek Duamsın](https://open.spotify.com/album/711zVBGg9kjmtHfcHZIZZE) | 3:30 |
 
-Snapshot ID: `Z8DSXgAAAABQ2buc83n0ASuT2I7aNEFH`
+Snapshot ID: `Z8oM9gAAAACONbZ7VhhG/zUojBA6Bs6Z`

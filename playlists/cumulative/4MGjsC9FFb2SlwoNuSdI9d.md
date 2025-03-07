@@ -4,7 +4,7 @@
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-232 songs - 12 hr 27 min
+233 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Why Why Why](https://open.spotify.com/track/70P4ThOh8htmbp1opqcCaE) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/4PyoZjkXt1en5EM6LBf8sA) | 2:49 | 2024-08-26 | 2024-11-09 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-10-16 |  |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-11-28 |  |
+| [With You \(with Sofia Camara\)](https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [With You \(with Sofia Camara\)](https://open.spotify.com/album/703OfuxHtlcsnrdZvAjkan) | 3:08 | 2025-03-06 |  |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2023-11-28 |  |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-11-28 | 2025-01-10 |
 | [yes, and?](https://open.spotify.com/track/6VFMpSq7A5tAn0JrM7sP27) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2EZRRG16dKOq8vnaRNOA2T) | 3:34 | 2024-02-16 | 2024-11-09 |

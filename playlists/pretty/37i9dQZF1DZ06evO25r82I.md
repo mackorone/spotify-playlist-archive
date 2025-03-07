@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 > This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,286 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,292 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

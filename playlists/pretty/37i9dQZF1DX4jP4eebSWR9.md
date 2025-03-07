@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 
 > 50 Hits in einer Playlist! Cover: Abor & Tynna
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,602,944 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,603,005 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 | 39 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 40 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 41 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
-| 42 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 |
+| 42 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
 | 43 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 44 | [Schau mal herein](https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Florian Silbereisen](https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq) | [Schau mal herein](https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7) | 3:03 |
 | 45 | [iconic](https://open.spotify.com/track/5WGctLC3bvTwld9YdVG99n) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Schlau aber blond](https://open.spotify.com/album/6gSNgh5SP5Pr7C7HHA5RSD) | 1:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 | 49 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 50 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
 
-Snapshot ID: `Z8b5YwAAAADkMhoe3whGVeEYjxcptryX`
+Snapshot ID: `Z8oTQAAAAAA00EobkMC44UYyCoEFVVX6`

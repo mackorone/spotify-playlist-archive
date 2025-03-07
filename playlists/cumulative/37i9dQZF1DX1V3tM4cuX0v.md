@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: Nikow
+> Найпопулярніші пісні сьогодення\. Обкладинка: Parfeniuk
 
-96 songs - 4 hr 45 min
+97 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-13 |  |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-27 | 2024-12-31 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-25 | 2024-09-20 |
-| [Cry For Me](https://open.spotify.com/track/7a0RHaJoqL2Sjf0gra68Pc) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:44 | 2025-02-03 |  |
+| [Cry For Me](https://open.spotify.com/track/7a0RHaJoqL2Sjf0gra68Pc) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:44 | 2025-02-03 | 2025-03-07 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-26 |  |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-28 | 2024-12-13 |
 | [DVD](https://open.spotify.com/track/5DOUS7y3JEvH5w7ZPlZU6m) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [DVD](https://open.spotify.com/album/5o5bCyWIsXJoKZSUiucJi6) | 2:46 | 2024-12-19 |  |
@@ -70,6 +70,7 @@
 | [Кульбаби](https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Кульбаби](https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2) | 2:43 | 2024-12-12 |  |
 | [Молодість](https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:30 | 2024-12-12 |  |
 | [На глибині](https://open.spotify.com/track/6ocGHyVybEbqo3zeJkn1H3) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [На глибині](https://open.spotify.com/album/0QxmTGDTrhlF7CfDbiT7da) | 5:00 | 2024-12-19 |  |
+| [На порозі](https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [На порозі](https://open.spotify.com/album/1gHncrqN84hbOyna6VnGWR) | 2:39 | 2025-03-06 |  |
 | [Нагадай](https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [Нагадай](https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt) | 2:32 | 2024-06-27 |  |
 | [Не втратимо зв'язок](https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Не втратимо зв'язок](https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX) | 2:28 | 2024-06-27 | 2025-01-31 |
 | [Не лякай](https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ) | [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Не лякай](https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz) | 2:54 | 2024-09-09 |  |

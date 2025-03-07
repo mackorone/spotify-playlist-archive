@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,209 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,191 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

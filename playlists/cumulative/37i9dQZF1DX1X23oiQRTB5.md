@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> La Mano 1.9 x Favé au top de la première playlist de rap français.
+> Gazo au top de la première playlist de rap français.
 
-308 songs - 15 hr 49 min
+310 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,13 +120,14 @@
 | [GARS DU ZOO](https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 2\)](https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C) | 2:45 | 2024-04-04 |  |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2022-01-06 | 2022-09-23 |
 | [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-06-02 | 2023-03-25 |
+| [GAUCHE DROITE](https://open.spotify.com/track/3g1CbQIhd6HeCg6bzy3jDB) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [GAUCHE DROITE](https://open.spotify.com/album/41IZhPYwPPIhejAcFiaIOW) | 3:25 | 2025-03-06 |  |
 | [Gaza](https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb) | [Un jour de paix](https://open.spotify.com/artist/4ClHj8bEVJatxqxBqY7SHA), [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Gaza](https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP) | 4:33 | 2023-12-14 | 2024-02-09 |
 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2022-12-01 | 2023-06-30 |
 | [GOGETA](https://open.spotify.com/track/7qyTPWGS7llsgSbwXDDW7e) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7) | [GOGETA](https://open.spotify.com/album/2OTTq3fLrommVqcfGplayX) | 2:48 | 2023-06-08 | 2023-07-07 |
 | [GROKUWA](https://open.spotify.com/track/0RnWcpTwUpfzPWGDjajX0o) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [GROKUWA](https://open.spotify.com/album/4F6wVoSnaBQTW6DJzkJ8oH) | 3:02 | 2022-01-06 | 2022-05-27 |
 | [Guapa](https://open.spotify.com/track/3Gl6hZ2HU7IRqPOF3r7xPd) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Guapa](https://open.spotify.com/album/11TrUfGHx1vsh3FsJuVYur) | 2:49 | 2023-06-01 | 2024-03-08 |
 | [Guapman](https://open.spotify.com/track/3UizQJoEShTLDSUUByJLDr) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [Guapman](https://open.spotify.com/album/3DXG5GrBLszaSduaQ5y3De) | 2:09 | 2022-08-11 | 2023-03-25 |
-| [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 | 2024-10-24 |  |
+| [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 | 2024-10-24 | 2025-03-07 |
 | [Gâchette](https://open.spotify.com/track/0rjKTXFvdFgAZ4dEG4AryJ) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Gâchette](https://open.spotify.com/album/0qpgphzMRmKDgi9UGCLc2w) | 2:38 | 2022-06-09 | 2022-07-22 |
 | [HAINE&SEX](https://open.spotify.com/track/6Vcxzw4ifKqYxVrp3ckpVF) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DRILL FR](https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN) | 3:21 | 2022-01-06 | 2022-06-10 |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-06-06 |  |
@@ -268,7 +269,7 @@
 | [RR Phantom](https://open.spotify.com/track/2ZEHv7uVlIJA1fUZNWP1YQ) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [RR Phantom](https://open.spotify.com/album/6biiy3ANhJ4vl57sXa9MxY) | 2:32 | 2024-05-02 | 2024-09-06 |
 | [Run](https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Run](https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4) | 2:59 | 2025-01-16 |  |
 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 | 2023-02-23 | 2023-10-06 |
-| [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 | 2024-03-28 |  |
+| [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 | 2024-03-28 | 2025-03-07 |
 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 | 2022-09-29 | 2023-02-17 |
 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 | 2025-01-09 |  |
 | [Sexy Woman](https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Sexy Woman](https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ) | 2:31 | 2025-02-20 |  |
@@ -292,6 +293,7 @@
 | [Talent](https://open.spotify.com/track/3H3TloF0bCS7SHy3ovObeo) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Talent](https://open.spotify.com/album/0gcdxiAStFBexluiXVfsgI) | 3:01 | 2022-11-10 | 2023-01-27 |
 | [Tchalla](https://open.spotify.com/track/3cFUv0LpvrvdAMAT2B4zhS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Tchalla](https://open.spotify.com/album/48WjMsMmHRLQTC2ZXqPwaw) | 3:45 | 2022-01-06 | 2022-05-20 |
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-18 | 2024-11-15 |
+| [Tendance](https://open.spotify.com/track/48Lf3BlGjy9I6505nEwWNl) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [KLN](https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Nés Pour Briller : Book I](https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b) | 3:01 | 2025-03-06 |  |
 | [Tennessee](https://open.spotify.com/track/0iR0ZbEw46KtSDSGph0HHE) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tombolo \(Réédition\)](https://open.spotify.com/album/597zMwmxvoBtRDUsOjk54P) | 3:55 | 2022-12-01 | 2023-06-09 |
 | [Tentation \(feat\. Hamza\)](https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Tentation \(feat\. Hamza\)](https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP) | 2:55 | 2024-09-05 | 2025-01-17 |
 | [TOKA](https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [TOKA](https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g) | 2:55 | 2024-09-26 |  |

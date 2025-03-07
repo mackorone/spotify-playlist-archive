@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ענבל ביבי
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,449 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,456 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

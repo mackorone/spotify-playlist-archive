@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,881 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,888 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 21 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 22 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
 | 23 | [Un Besito Más](https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Un Besito Más](https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs) | 2:40 |
-| 24 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 |
+| 24 | [Perdonarte ¿Para Qué?](https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte ¿Para Qué?](https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44) | 3:13 |
 | 25 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 |
 | 26 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 |
 | 27 | [QUE ME FALTE TODO](https://open.spotify.com/track/1TyBUtMxdmRfXhW3MmbxtQ) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
 | 50 | [HOLA PERDIDA](https://open.spotify.com/track/7JKptWv4YXmievid0HajID) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:46 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-458 songs - 1 day 2 hr 51 min
+459 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Cyanide](https://open.spotify.com/track/4kutzanEPtsdPPO8kjxjgu) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Cyanide](https://open.spotify.com/album/2Ig6DAdtEvDo6YVTgIOmNH) | 3:27 | 2020-10-10\* | 2021-05-13 |
 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 | 2023-01-13 |  |
 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 | 2021-10-01 |  |
+| [Damage Done](https://open.spotify.com/track/3n2skqoSAooYARknCu0MUn) | [Muzzle](https://open.spotify.com/artist/5VgVGiD89IFKNsQ1n8d9Zd) | [Carmine](https://open.spotify.com/album/1U6l5Ntbwb6mXKr4wx2w1p) | 2:30 | 2025-03-07 |  |
 | [Dancing On My Own](https://open.spotify.com/track/23WqyY1EGAKBG8Wms2bFp2) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Dancing On My Own](https://open.spotify.com/album/7gEOv7G4cnqH0FJ0iucRoN) | 3:17 | 2020-10-10\* | 2021-05-13 |
 | [Dancing Shoes](https://open.spotify.com/track/7BKOfKtv10zEygWd1WABrh) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Dancing Shoes](https://open.spotify.com/album/6L9DCSXBlSRG63bmPUnJkj) | 3:57 | 2022-04-22 |  |
 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 | 2021-09-04 |  |

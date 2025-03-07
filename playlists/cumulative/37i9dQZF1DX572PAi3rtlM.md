@@ -4,7 +4,7 @@
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-295 songs - 23 hr 2 min
+296 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Tromba in Vacanza](https://open.spotify.com/track/6Ce5u46l35xmusQ2XPAxQ8) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Motivi Allegri e Distensivi](https://open.spotify.com/album/312Q5fBbEl02yjQfofL7e9) | 3:10 | 2023-10-01 |  |
 | [Tu si' 'na cosa grande](https://open.spotify.com/track/3RYdPO4886So44fooKMfp2) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 3:17 | 2023-09-07 | 2023-10-02 |
 | [Tutt'al più](https://open.spotify.com/track/7hX0TXXvpsJMrt5x7iEDFt) | [Patty Pravo](https://open.spotify.com/artist/2Yi5fknmHBqqKjHF6cXQyh) | [Patty Pravo](https://open.spotify.com/album/20auMhQ5nMf86H8JBpp4hV) | 4:31 | 2023-09-07 | 2023-10-02 |
+| [Un Po' Artista Un Po' No](https://open.spotify.com/track/3IF6aYcGyYz2IW9Wy26412) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Un Po' Artista Un Po' No](https://open.spotify.com/album/0ZB1eMfkmzcD4LxKQvNLxj) | 4:59 | 2025-03-06 |  |
 | [Una Notte a Napoli](https://open.spotify.com/track/492eazXZUX6HQsmpmEGp0I) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Hang on Little Tomato](https://open.spotify.com/album/4zke7Tv01ngpBcKglASyD8) | 4:45 | 2023-09-07 | 2023-10-02 |
 | [Una notte da impazzire](https://open.spotify.com/track/0AdpU8r6DXD7rNZ0YZnBOE) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 2](https://open.spotify.com/album/5PeGkQmBlbNwr02QmF71me) | 4:49 | 2023-09-07 | 2023-10-02 |
 | [Volare](https://open.spotify.com/track/10hkfuMIpEbTuHBTbfxlDv) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:40 | 2023-09-07 | 2023-10-02 |

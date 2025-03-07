@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,816 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,808 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 | 49 | [Descer Pra BC](https://open.spotify.com/track/6RzcNTnS02dnqoQMdTkQwi) | [Brenno & Matheus](https://open.spotify.com/artist/5aC2LaswbZgcf1G2uxqBxF), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Descer Pra BC](https://open.spotify.com/album/6Ey5sExBbStsPTgJ6WeIal) | 2:46 |
 | 50 | [Mix Cumbia VV2 \(Herederos, Cómo Mirarte, Vas A Quedarte\)](https://open.spotify.com/track/1njx0NntHAJlSD3VT4K7Sj) | [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Mix Cumbia VV2 \(Herederos, Cómo Mirarte, Vas A Quedarte\)](https://open.spotify.com/album/2VI04KRaGZceSu0Y57PNHg) | 4:50 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

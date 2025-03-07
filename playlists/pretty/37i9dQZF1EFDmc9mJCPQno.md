@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 113 | [Bad Dreams](https://open.spotify.com/track/17m5hy5Ks3iiwqJ5rd2CcS) | [Vlera](https://open.spotify.com/artist/23Zgo7EeFTaJ5XNtdpswvJ) | [Unintentionally Toxic](https://open.spotify.com/album/77ceL0yL4uVAxfeB2zxi4c) | 2:33 |
 | 114 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AbrRQAAAAACPhk2f4jTBHFXE8Su3rTVV`
+Snapshot ID: `AbrXEgAAAABQYKhKOli2TQBKkitEC58g`

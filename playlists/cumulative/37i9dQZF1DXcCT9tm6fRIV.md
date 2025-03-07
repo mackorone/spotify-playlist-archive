@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-157 songs - 8 hr 50 min
+158 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Los Cosos De Al Lao](https://open.spotify.com/track/1PiqZsBwsN50pZ7NCRmCd9) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa) | 3:28 | 2023-06-09 | 2024-04-19 |
 | [Los Cosos De Al Lao](https://open.spotify.com/track/5qGKjmoKrvmHo4yf1U7bto) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM) | 3:28 | 2022-03-18 | 2025-02-23 |
 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 | 2022-03-18 |  |
-| [Luna de Abril](https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF) | [Tute](https://open.spotify.com/artist/0dqZd1F2k9ZRZYakdUT3bn), [Hernán Lucero](https://open.spotify.com/artist/001b4VR8r9cFgS3vKTkTXs), [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Luna de Abril](https://open.spotify.com/album/58HgWHuOnicbuY8txcgTtT) | 3:47 | 2022-03-18 |  |
+| [Luna de Abril](https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF) | [Tute](https://open.spotify.com/artist/0dqZd1F2k9ZRZYakdUT3bn), [Hernán Lucero](https://open.spotify.com/artist/001b4VR8r9cFgS3vKTkTXs), [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Luna de Abril](https://open.spotify.com/album/58HgWHuOnicbuY8txcgTtT) | 3:47 | 2022-03-18 | 2025-03-07 |
 | [Malena](https://open.spotify.com/track/2DBs2vJlotXT1MvuipNVXc) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM) | 2:55 | 2022-03-18 | 2023-07-02 |
 | [Malena](https://open.spotify.com/track/6ZyGdMuvQp8BHuMv70bPyj) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa) | 2:55 | 2023-06-09 | 2024-04-19 |
 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 | 2022-03-18 |  |
@@ -118,6 +118,7 @@
 | [Pasional](https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0) | [Jorge Vázquez](https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab) | [Pasional](https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc) | 3:28 | 2022-03-18 |  |
 | [Payada Gardel\-Razzano](https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J), [Walter Laborde](https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ) | [De Criollos y Tangueros](https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU) | 4:13 | 2022-03-18 |  |
 | [Percal](https://open.spotify.com/track/1jV9ArJvr56HZgqfcCnqxR) | [Alberto Podestá](https://open.spotify.com/artist/6NaKJLakKOpxelAHi5MIaz) | [Imprescindibles](https://open.spotify.com/album/3ork4Pl5JERJrWIFK2ymqP) | 2:59 | 2022-03-18 | 2022-07-13 |
+| [Pesar](https://open.spotify.com/track/0kVPTk7BfLGDTqYPdOrysr) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI), [Pity Alvarez](https://open.spotify.com/artist/3ZM2EFVMGSXyEqn3l3HA26) | [Pesar](https://open.spotify.com/album/5mpDQEO7EhSLuDrcdZ7Qky) | 4:27 | 2025-03-07 |  |
 | [Pompas de Jabón](https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx) | [Roberto Goyeneche](https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A), [Baffa\-Berlingieri](https://open.spotify.com/artist/51le4Io2pkDGk37ef4Itwd) | [15 Grandes Exitos \- Los Discos De Oro De Roberto Goyeneche](https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8) | 2:56 | 2022-03-18 |  |
 | [Por una Cabeza](https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 1: Gardel y Le Pera](https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ) | 2:34 | 2022-03-18 |  |
 | [Pucherito de gallina](https://open.spotify.com/track/5MAM9qZtv56hTZUA5881LR) | [Rodrigo de la Serna y El Yotivenco](https://open.spotify.com/artist/7aIqwTieeHhRsxuZbzqv8A) | [Pucherito de gallina](https://open.spotify.com/album/6531ccbkg5uE09HQ7KSBsm) | 2:27 | 2022-03-18 | 2024-04-19 |

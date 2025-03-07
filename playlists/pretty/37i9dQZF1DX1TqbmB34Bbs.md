@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: vangdale, Jvcki Wai\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,144 likes - 200 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,178 likes - 200 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

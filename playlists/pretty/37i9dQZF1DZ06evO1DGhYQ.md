@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,478 likes - 48 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,485 likes - 48 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

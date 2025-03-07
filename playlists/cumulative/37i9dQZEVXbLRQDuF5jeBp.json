@@ -4145,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
       },
@@ -14758,7 +14776,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 171014,
       "name": "Dear god",
       "url": "https://open.spotify.com/track/2ETQsbiuGm2WLOSOr2I19A"

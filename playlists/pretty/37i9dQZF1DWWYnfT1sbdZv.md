@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 
 > Music from "THE IDOLM@STER CINDERELLA GIRLS"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,687 likes - 75 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,695 likes - 75 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

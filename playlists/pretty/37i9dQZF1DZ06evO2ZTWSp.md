@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,005 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,997 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

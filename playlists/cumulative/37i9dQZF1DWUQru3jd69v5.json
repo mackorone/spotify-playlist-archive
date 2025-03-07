@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "SaintPaul in cover della playlist con la nuova generazione del rap italiano. ",
+  "description": "Enny P in cover della playlist con la nuova generazione del rap italiano. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -7796,10 +7796,32 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 142142,
       "name": "CRACKHEAD (feat. Axos)",
       "url": "https://open.spotify.com/track/0cA2Jwr1pocuCmP5it1wfN"
+    },
+    {
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/3SKjh0StqoMbbtQF90FdUO"
+      },
+      "artists": [
+        {
+          "name": "blame",
+          "url": "https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8"
+        },
+        {
+          "name": "MATILDE",
+          "url": "https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "CRASH (feat. MATILDE)",
+      "url": "https://open.spotify.com/track/2GxQUVGRYy97iBppPrOoT6"
     },
     {
       "album": {
@@ -8092,7 +8114,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 174915,
       "name": "CURA DI TE",
       "url": "https://open.spotify.com/track/7KS2RlUOocvJVhEwAquOjs"
@@ -8705,6 +8727,28 @@
     },
     {
       "album": {
+        "name": "Diablo (feat. Melons)",
+        "url": "https://open.spotify.com/album/65tRnHvFtajzLPAnVbxuoc"
+      },
+      "artists": [
+        {
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
+        },
+        {
+          "name": "Melons",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Diablo (feat. Melons)",
+      "url": "https://open.spotify.com/track/0TnJkwfJJqTRtxJWECo9Cr"
+    },
+    {
+      "album": {
         "name": "Diamanti",
         "url": "https://open.spotify.com/album/1N0zVJplRyHIrTF1ivMoOg"
       },
@@ -8778,7 +8822,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 156519,
       "name": "Dimmelo",
       "url": "https://open.spotify.com/track/6CaiYTSzWsLvZQ5aFPHT5K"
@@ -9973,6 +10017,28 @@
     },
     {
       "album": {
+        "name": "2 VS ALL (Luce)",
+        "url": "https://open.spotify.com/album/43aIWTD1AIghunWnqcBFB1"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190871,
+      "name": "Essere umano",
+      "url": "https://open.spotify.com/track/21ImAqSvlyMC9nps9iwXi0"
+    },
+    {
+      "album": {
         "name": "ENERGY KILL DEM",
         "url": "https://open.spotify.com/album/7vME99LAKqHCbnD4166AFu"
       },
@@ -10408,6 +10474,24 @@
       "duration_ms": 146285,
       "name": "FAMMOKK",
       "url": "https://open.spotify.com/track/1oNJk4nAi3Rsm2yUDl2bm6"
+    },
+    {
+      "album": {
+        "name": "Fandino",
+        "url": "https://open.spotify.com/album/7DGbYfu6VqR6QbAhrSpS8c"
+      },
+      "artists": [
+        {
+          "name": "Fandino",
+          "url": "https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Fandino",
+      "url": "https://open.spotify.com/track/5EgBItzFnpgmpHtXaJtz7w"
     },
     {
       "album": {
@@ -11164,6 +11248,24 @@
       "duration_ms": 123428,
       "name": "FLASH",
       "url": "https://open.spotify.com/track/5UKMkdiPsmEca4XjiXXGdD"
+    },
+    {
+      "album": {
+        "name": "FLOW DIPENDENTE STATALE",
+        "url": "https://open.spotify.com/album/1PRWVeTBBDhSJoBvZnpPGu"
+      },
+      "artists": [
+        {
+          "name": "Glasond",
+          "url": "https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "FLOW DIPENDENTE STATALE",
+      "url": "https://open.spotify.com/track/5qD5sb8TxajcNyzPpEI9Wx"
     },
     {
       "album": {
@@ -15918,7 +16020,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 171000,
       "name": "Lacanzonepi\u00f9tristedisempre",
       "url": "https://open.spotify.com/track/4N2ModuFNubLSE7FqF8vXf"
@@ -18092,7 +18194,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 150208,
       "name": "MARIN\u00c8 (feat. Kuremino & Sethu)",
       "url": "https://open.spotify.com/track/38BvK6W3ZhVYEwQvSQsXz5"
@@ -18758,7 +18860,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 99944,
       "name": "melting point",
       "url": "https://open.spotify.com/track/1S1kVGuQm0MxAonV0QeZpp"
@@ -20034,7 +20136,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 175000,
       "name": "MORIREMO",
       "url": "https://open.spotify.com/track/76tBcX95i8ul7dCkT0fMN9"
@@ -20056,6 +20158,24 @@
       "duration_ms": 142558,
       "name": "MOTARD",
       "url": "https://open.spotify.com/track/1eMlp9lwJqs9Bnh2WeZhPu"
+    },
+    {
+      "album": {
+        "name": "Tra La Nebbia",
+        "url": "https://open.spotify.com/album/0D7JqssXCUBTtRQtS38sig"
+      },
+      "artists": [
+        {
+          "name": "Dayv",
+          "url": "https://open.spotify.com/artist/0TTBL9D4ZfIZA71tpLMCro"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210443,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/4kionrCqThBodAxp88m0EP"
     },
     {
       "album": {
@@ -20262,7 +20382,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 168695,
       "name": "MULTIFRUIT",
       "url": "https://open.spotify.com/track/5wYZ9tqXBt1KRNDNfWkhMs"
@@ -22036,7 +22156,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 157575,
       "name": "NUOVA RAGAZZA (feat. Elmatadormc7)",
       "url": "https://open.spotify.com/track/5dyQof5hSlUMaqLIFVh6yb"
@@ -22178,7 +22298,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 136216,
       "name": "Occhi Dolci (feat. Young Hash)",
       "url": "https://open.spotify.com/track/0JIgpmhviP8b5j44EMykrg"
@@ -24988,7 +25108,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 150349,
       "name": "Problem Solver",
       "url": "https://open.spotify.com/track/3X5Zw8zkIGULZEnJUwwJwj"
@@ -26325,6 +26445,28 @@
     },
     {
       "album": {
+        "name": "The Wire: Vol 1",
+        "url": "https://open.spotify.com/album/6ioEviBsBYl9rN7hmnAuFS"
+      },
+      "artists": [
+        {
+          "name": "Abby 6ix",
+          "url": "https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P"
+        },
+        {
+          "name": "Faneto",
+          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208076,
+      "name": "Ripida (feat. Faneto)",
+      "url": "https://open.spotify.com/track/7Gwc8WhEwhGdknYDik9Kev"
+    },
+    {
+      "album": {
         "name": "Fame di Rivalsa",
         "url": "https://open.spotify.com/album/79WcSTW52Em1smSlOUupqC"
       },
@@ -27068,6 +27210,24 @@
       "duration_ms": 155772,
       "name": "SALENTINI STEPPAS",
       "url": "https://open.spotify.com/track/5nAZ4l2afk6ABcaKDLrjVW"
+    },
+    {
+      "album": {
+        "name": "SALI DA BAGNO",
+        "url": "https://open.spotify.com/album/1nIDp3qi31xYifbuNseEG3"
+      },
+      "artists": [
+        {
+          "name": "ATTIKO",
+          "url": "https://open.spotify.com/artist/4uoeY5E3dG7B2zzSSE1uLW"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62337,
+      "name": "SALI DA BAGNO",
+      "url": "https://open.spotify.com/track/3x2HOC4OeJFm929NzkFEiv"
     },
     {
       "album": {
@@ -27880,6 +28040,28 @@
       "duration_ms": 139993,
       "name": "Sesso Slitherich 3",
       "url": "https://open.spotify.com/track/6WayqkOPNp3DuusIlGQcGx"
+    },
+    {
+      "album": {
+        "name": "Sensi di Colpa",
+        "url": "https://open.spotify.com/album/3OA1p76vxcMVKMCaVkji7D"
+      },
+      "artists": [
+        {
+          "name": "Taizal",
+          "url": "https://open.spotify.com/artist/6AMEEJtkHSBmiemI3yEhNT"
+        },
+        {
+          "name": "Exynos",
+          "url": "https://open.spotify.com/artist/5XRz1xKClFKxJNyjRgwi5s"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Sesto Senso",
+      "url": "https://open.spotify.com/track/35dQ0wfWSl226pneTkYU0n"
     },
     {
       "album": {
@@ -29540,7 +29722,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 165633,
       "name": "STO FACENDO TRAP",
       "url": "https://open.spotify.com/track/6P3p6x8uW9W8fm6A62n2AK"
@@ -31351,6 +31533,24 @@
     },
     {
       "album": {
+        "name": "Trapper & Rapper",
+        "url": "https://open.spotify.com/album/7B3HrpD6NaTbRGwmO7xu4H"
+      },
+      "artists": [
+        {
+          "name": "YTN Maden",
+          "url": "https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Trapper & Rapper",
+      "url": "https://open.spotify.com/track/2FYynCmjKInS16KCs85ayt"
+    },
+    {
+      "album": {
         "name": "TRAPPOLA",
         "url": "https://open.spotify.com/album/63WLUEu89WyYU2HrfgcfLQ"
       },
@@ -31744,6 +31944,32 @@
       "duration_ms": 135319,
       "name": "TUTA ADIDAS (feat. Ensi)",
       "url": "https://open.spotify.com/track/03BFDoQc6D3OQd1A6EzItH"
+    },
+    {
+      "album": {
+        "name": "TUTA CINIGLIA",
+        "url": "https://open.spotify.com/album/3aBXl8qjlIb0INyV4vZ9L0"
+      },
+      "artists": [
+        {
+          "name": "Rico Pmf",
+          "url": "https://open.spotify.com/artist/1V3hNQCQ9ZrVmRbiSm1d1A"
+        },
+        {
+          "name": "IICY OTW",
+          "url": "https://open.spotify.com/artist/1vB1ae6S29hFFkZAm8OPWP"
+        },
+        {
+          "name": "13Joph",
+          "url": "https://open.spotify.com/artist/2f0kV6av13bM9DiJOLXWsC"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164232,
+      "name": "TUTA CINIGLIA",
+      "url": "https://open.spotify.com/track/0OAWYlAO6dDCaOUOruoT46"
     },
     {
       "album": {
@@ -32194,6 +32420,24 @@
       "duration_ms": 173333,
       "name": "Una Chance",
       "url": "https://open.spotify.com/track/5brevnJdMxziQov6zyaQ1f"
+    },
+    {
+      "album": {
+        "name": "UNDERGROUND",
+        "url": "https://open.spotify.com/album/3fWOpCmLKdqwKe1AzpqgAZ"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/2oHl7bAGCeeL1FWRd5x8sk"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149718,
+      "name": "UNDERGROUND",
+      "url": "https://open.spotify.com/track/14umjTrYcWjdHEwNb2vutM"
     },
     {
       "album": {

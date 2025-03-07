@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Sam Fender at The BRITs 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,938 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,950 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

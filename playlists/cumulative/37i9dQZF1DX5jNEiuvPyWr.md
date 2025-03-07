@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : USKY
+> Le meilleur du rap français version cloud\. Photo : Asinine
 
-508 songs - 1 day 0 hr 40 min
+510 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [5 AM](https://open.spotify.com/track/5I4nsx9cderO8FqfjDR0zA) | [Many Santana](https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ) | [5 AM](https://open.spotify.com/album/3fdxBZ7JxFiXtCDRYizYSB) | 2:33 | 2023-06-15 | 2023-10-27 |
 | [5AM](https://open.spotify.com/track/5IpJosdaXZeUKcAx6dE8NS) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:31 | 2024-06-27 | 2024-10-11 |
 | [7](https://open.spotify.com/track/74ybaViAxhYYyOwwJ74Ht6) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [7](https://open.spotify.com/album/2o9EiJ3C397bqvknB0oQqw) | 2:41 | 2024-02-01 | 2024-06-01 |
+| [7 sur 7](https://open.spotify.com/track/5z9Pv2hpl5st63a1Osth4W) | [Tizzy Miller](https://open.spotify.com/artist/4iTNjeINIl3PGMz8HI6Mdj) | [7 sur 7](https://open.spotify.com/album/2fhODoZZ56k6sYYGrdqUUj) | 3:10 | 2025-03-06 |  |
 | [7DUMATIN](https://open.spotify.com/track/7FUj9qDOg4ak69PUih6QiA) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Reset/Start](https://open.spotify.com/album/5esIkU96v4JHvpNGqprjQo) | 2:40 | 2023-04-27 | 2023-09-08 |
 | [\[ANDROÏD\]](https://open.spotify.com/track/6YnQ0jjsTVSM3mNRb6uLnz) | [Jeunesaint](https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y) | [\[ANDROÏD\]](https://open.spotify.com/album/1S1RWadZNcCx3KFALbL90U) | 3:14 | 2025-01-16 |  |
 | [A perte](https://open.spotify.com/track/5wmyF6drfu8jkNZ0JPNvKZ) | [Billi](https://open.spotify.com/artist/4c0fM3fOFU8S3xM2JzGq88) | [A perte](https://open.spotify.com/album/79CEfpo0U9HpHpJn56B4mK) | 3:12 | 2024-09-26 | 2024-11-15 |
@@ -327,7 +328,7 @@
 | [Minimum](https://open.spotify.com/track/3B9jxMUPRpJJRTXQNpM8Jb) | [Hofmann](https://open.spotify.com/artist/4dHYnkZpHvtz8I9oXZWQue), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [Minimum](https://open.spotify.com/album/0FMHpaHU0slUQQrCJr1BTO) | 3:10 | 2024-07-11 | 2024-08-16 |
 | [Minuit](https://open.spotify.com/track/3qppQ6d1ffg1NUp4uGVY3g) | [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ) | [Minuit](https://open.spotify.com/album/1VvnLoLqEjpGw3MqgWVFzp) | 2:33 | 2023-03-16 | 2023-06-16 |
 | [Miracle](https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Miracle](https://open.spotify.com/album/3ApUvBtVEP475jtilOY4jy) | 2:58 | 2022-07-14 | 2022-09-16 |
-| [MISS PARFAITE](https://open.spotify.com/track/45UbC1pQOnOC9wo9CczzcC) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [MISS PARFAITE](https://open.spotify.com/album/600NlHR0bSCyg9zmpbZ3LV) | 2:33 | 2025-02-06 |  |
+| [MISS PARFAITE](https://open.spotify.com/track/45UbC1pQOnOC9wo9CczzcC) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [MISS PARFAITE](https://open.spotify.com/album/600NlHR0bSCyg9zmpbZ3LV) | 2:33 | 2025-02-06 | 2025-03-07 |
 | [MOB \(Affamé \#20\)](https://open.spotify.com/track/5GnkgCm32rsuAVQ4Uf0oF8) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [MOB \(Affamé \#20\)](https://open.spotify.com/album/3pBQLVgwHk4TL26TX39hHn) | 3:07 | 2023-05-11 | 2023-06-23 |
 | [MONEY TIME](https://open.spotify.com/track/456DJS1um0455bLuepBH9J) | [Dgeogo](https://open.spotify.com/artist/7GGX4fMS8PPJ3n3ftcmfbE) | [Outrenoir](https://open.spotify.com/album/4zpwEmrb5Y50cXzDbYzo9Y) | 2:34 | 2022-09-29 | 2022-11-25 |
 | [MONEYBAG](https://open.spotify.com/track/4o68P6N8JucUg9apYhAtF9) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [YEYEYE](https://open.spotify.com/album/4cYBgxMkPwZ73VNC4Uy5Jv) | 3:09 | 2022-07-28 | 2022-10-28 |
@@ -419,6 +420,7 @@
 | [Rendez\-vous](https://open.spotify.com/track/33piDi5whXV52HXML5th6A) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Rendez\-vous](https://open.spotify.com/album/5mff2GrlOKdnWsGyaPsokb) | 2:57 | 2023-01-26 | 2023-03-10 |
 | [Retour de Flamme](https://open.spotify.com/track/5gogoQNUaMh4RWJLTR8TMb) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6) | [Retour de Flamme](https://open.spotify.com/album/0YwQEe8jHJQOFTCHKiwdEV) | 2:33 | 2022-12-22 | 2023-02-17 |
 | [Roadie](https://open.spotify.com/track/1eZ0jGCs878cw3lyHSuhbl) | [Linton](https://open.spotify.com/artist/2E2fqJpbXphODsOLkdI8U7), [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [Black Bumble](https://open.spotify.com/album/3XI08bstG47gRwx5oq1cUD) | 2:45 | 2023-06-15 | 2023-09-29 |
+| [RODEO](https://open.spotify.com/track/3IplKsz78v707jqbJazysa) | [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [HARMONY](https://open.spotify.com/album/2oxIJUR9VSkJd4P8zg6uRf) | 3:26 | 2025-03-06 |  |
 | [Rodéo](https://open.spotify.com/track/6AIU6Vfq4p1y1ZKUQlF0N3) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP) | [Rodéo](https://open.spotify.com/album/17Q0l5T1bJKgBSHt3Kz4X6) | 3:04 | 2022-11-24 | 2023-01-27 |
 | [Rooftop](https://open.spotify.com/track/3UnOokumsh7zsWbMwdMVdo) | [illi](https://open.spotify.com/artist/2qDnnMwHGuuOavNoAczDgZ) | [Meribel](https://open.spotify.com/album/5EXbemr2yfeyEIfocOf5R7) | 3:03 | 2023-04-20 | 2023-05-26 |
 | [Rosa Parks](https://open.spotify.com/track/64DZD9mu665OZTMtHTlHF0) | [AP du 113](https://open.spotify.com/artist/39DAWghKRMpF6aKbD3yZqU), [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [La Laverie Vol\. 2](https://open.spotify.com/album/1J2pGgW61Pkt8RQJrtDfML) | 3:07 | 2025-02-20 |  |
@@ -475,7 +477,7 @@
 | [Synopsis](https://open.spotify.com/track/1bMGTZTAeM3FO6Y4V7Hj6y) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Synopsis](https://open.spotify.com/album/3c3EKhBjT67KGlOX5Cs7X1) | 2:22 | 2023-04-13 | 2023-06-16 |
 | [Tango](https://open.spotify.com/track/71xuD6Nx78TyDf4bBaDUiz) | [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z) | [L'auteur de mes contes](https://open.spotify.com/album/7jLSBq7t4mtQFdrcEidfws) | 3:00 | 2024-11-21 |  |
 | [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 | 2023-10-26 | 2023-11-24 |
-| [tape206](https://open.spotify.com/track/3OtEPVE2lOfFy3PzJeFULF) | [Bluume](https://open.spotify.com/artist/2RTA7fgV3oUBJR858ZHMo4), [Triple Nine](https://open.spotify.com/artist/0XbOxVCavxf0TqRWy34iVg), [Poupy](https://open.spotify.com/artist/1UThCAGhASPNKsKwcbsdlY) | [tape206](https://open.spotify.com/album/2VnAeQKgnB98wRK4HyDAX9) | 2:46 | 2025-01-16 |  |
+| [tape206](https://open.spotify.com/track/3OtEPVE2lOfFy3PzJeFULF) | [Bluume](https://open.spotify.com/artist/2RTA7fgV3oUBJR858ZHMo4), [Triple Nine](https://open.spotify.com/artist/0XbOxVCavxf0TqRWy34iVg), [Poupy](https://open.spotify.com/artist/1UThCAGhASPNKsKwcbsdlY) | [tape206](https://open.spotify.com/album/2VnAeQKgnB98wRK4HyDAX9) | 2:46 | 2025-01-16 | 2025-03-07 |
 | [Tapion](https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Tapion](https://open.spotify.com/album/0aOEqCwX0R9fr9vpdXIdEA) | 3:17 | 2022-07-14 | 2022-10-21 |
 | [TARZAN](https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/5DUgKgqnqt4jWWP4DCx2NI) | 2:59 | 2022-10-13 | 2023-01-27 |
 | [Tempête](https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa) | [Lycos](https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3) | [ALCAN CITY](https://open.spotify.com/album/4JKfBNGQOaXaMUTftt9Txm) | 3:57 | 2022-09-08 | 2022-11-25 |

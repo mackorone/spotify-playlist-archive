@@ -5772,7 +5772,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 155347,
       "name": "It Works",
       "url": "https://open.spotify.com/track/5MIhtr9hx6YPK9i4inU4Cf"
@@ -8699,6 +8699,24 @@
     },
     {
       "album": {
+        "name": "pink misty wave",
+        "url": "https://open.spotify.com/album/3pyCGrRGJ8lsuL2aqzHYXg"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192048,
+      "name": "pink misty wave",
+      "url": "https://open.spotify.com/track/7mqcCAKHLx0mLWgh7dfQ5w"
+    },
+    {
+      "album": {
         "name": "\u85e4\u5b50",
         "url": "https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp"
       },
@@ -9668,6 +9686,24 @@
       "duration_ms": 210754,
       "name": "Sea Candle",
       "url": "https://open.spotify.com/track/20FSs2WNLiROOK5jCQf5et"
+    },
+    {
+      "album": {
+        "name": "KLAMAUK",
+        "url": "https://open.spotify.com/album/3H6tjwSunpKqPMug5RSLcb"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Kurihara",
+          "url": "https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427370,
+      "name": "Second Harvest",
+      "url": "https://open.spotify.com/track/2To5sfZUDbK9xlbHT9weRX"
     },
     {
       "album": {
@@ -13694,7 +13730,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 183266,
       "name": "\u6642\u306e\u56de\u5eca",
       "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"

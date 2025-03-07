@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,038 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,122 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

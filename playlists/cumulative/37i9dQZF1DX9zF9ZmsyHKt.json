@@ -2053,6 +2053,28 @@
     },
     {
       "album": {
+        "name": "Destino, Vol. 2",
+        "url": "https://open.spotify.com/album/1gilju6x25IA4Caw6o1vVl"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165752,
+      "name": "Eu Vou Te Deixa Ir",
+      "url": "https://open.spotify.com/track/7c7MSxSjue7jKtdxl2lHDP"
+    },
+    {
+      "album": {
         "name": "Treme",
         "url": "https://open.spotify.com/album/0bEhleLUVlS997I3NTHJ4f"
       },
@@ -4508,7 +4530,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 234100,
       "name": "Respingo de Saudade",
       "url": "https://open.spotify.com/track/6BfaMNEKT3ZRKycF1Dup53"

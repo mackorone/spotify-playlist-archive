@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Bunny Girl",
+        "url": "https://open.spotify.com/album/1mxib3LFgnhuMciehemliH"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217492,
+      "name": "Bunny Girl",
+      "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
+    },
+    {
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
       },
@@ -382,6 +400,24 @@
       "duration_ms": 230666,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+    },
+    {
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
       "album": {
@@ -1392,7 +1428,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -4262,7 +4298,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 216169,
       "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
       "url": "https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu"

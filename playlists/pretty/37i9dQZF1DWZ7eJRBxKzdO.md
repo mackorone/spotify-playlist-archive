@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > it's never too early for summer dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,373 likes - 120 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,690 likes - 120 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

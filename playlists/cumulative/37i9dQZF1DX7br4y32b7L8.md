@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-677 songs - 1 day 10 hr 26 min
+678 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 | 2024-03-26 | 2024-05-24 |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-02-23 | 2023-04-19 |
 | [Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:07 | 2023-12-07 | 2023-12-30 |
+| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-03-06 |  |
 | [Love Song](https://open.spotify.com/track/65PPYvLLxqXwYEIdpW8fy6) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Love Song](https://open.spotify.com/album/5gSWvabgQgkAa7whhV3jA7) | 3:01 | 2023-02-23 | 2023-04-12 |
 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 | 2023-07-11 | 2023-09-01 |
 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2) | 4:27 | 2025-02-06 |  |

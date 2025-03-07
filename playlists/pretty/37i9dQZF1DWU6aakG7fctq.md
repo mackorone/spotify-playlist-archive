@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Andrea Bejar
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,628 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,633 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 
 > Hit the road to the soundtrack of these seventies classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,237,554 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,237,844 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

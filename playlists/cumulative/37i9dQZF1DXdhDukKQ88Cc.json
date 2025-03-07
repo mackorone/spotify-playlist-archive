@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "det brummer <a href=\"spotify:artist:79ky6ZBdwtfcMNf2LqRzvP\">@wicky</a> \ud83d\ude2e\u200d\ud83d\udca8",
+  "description": "<a href=\"spotify:track:6qCmwE9TO2j9JiEXZ4exyM\">entr\u00e9</a> p\u00e5 klubben til den her <a href=\"spotify:artist:5NYUb39ntjgN7cRtN4y25T\">@anton westerlin</a> <a href=\"spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP\">@lamin</a> <a href=\"spotify:artist:1RJznM4DOSV69NWbkq3RA9\">@ozzy</a> \ud83d\ude2e\u200d\ud83d\udca8",
   "name": "100 dk",
   "tracks": [
     {
@@ -1089,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "CHECK",
+        "url": "https://open.spotify.com/album/1hd3Qp6u1bJ0K7cNH938tb"
+      },
+      "artists": [
+        {
+          "name": "Zuloo",
+          "url": "https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114718,
+      "name": "CHECK",
+      "url": "https://open.spotify.com/track/2xVSw3PoyrVPWXbiWf0oqx"
+    },
+    {
+      "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
       },
@@ -1914,6 +1932,32 @@
       "duration_ms": 140637,
       "name": "Ensom",
       "url": "https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8"
+    },
+    {
+      "album": {
+        "name": "Entr\u00e9 (feat. Lamin & ozzy)",
+        "url": "https://open.spotify.com/album/3qSkuInNQp2ogX1zLW1DLH"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Entr\u00e9 (feat. Lamin & ozzy)",
+      "url": "https://open.spotify.com/track/6qCmwE9TO2j9JiEXZ4exyM"
     },
     {
       "album": {

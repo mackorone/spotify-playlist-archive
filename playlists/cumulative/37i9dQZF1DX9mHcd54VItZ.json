@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e?si=lozkb-1-QwCsaWnVE-lq5A\">Van Der Aven</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs?si=wKuxa_YxS7-WsMsElp712Q\">The Parlotones</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 236107,
       "name": "All Over Again (The Party Song)",
       "url": "https://open.spotify.com/track/3CbQW08xxL0NbzZGVhSU4o"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 205286,
       "name": "Bite My Neck",
       "url": "https://open.spotify.com/track/4qT4sEys7d5b39b7cPjKG0"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 166003,
       "name": "Booty Call",
       "url": "https://open.spotify.com/track/0gFmcqNuLDixdCDEghj2Vk"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 142286,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 239258,
       "name": "Change",
       "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Cop Car",
+        "url": "https://open.spotify.com/album/6c6ie7TrssFQsqMyS5joTY"
+      },
+      "artists": [
+        {
+          "name": "Cistamatic",
+          "url": "https://open.spotify.com/artist/6ueRqbxnDDHw3WXFivdxpK"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Cop Car",
+      "url": "https://open.spotify.com/track/6kU83TuzUiGhS8cat1Y4lf"
+    },
+    {
+      "album": {
         "name": "Count the Days (2021)",
         "url": "https://open.spotify.com/album/1IHFQbyWTiJ3krUJRUCdyq"
       },
@@ -2100,7 +2118,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 270863,
       "name": "Crystal Body",
       "url": "https://open.spotify.com/track/0KXYTCpCehiCuJMKO8WDea"
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 196588,
       "name": "Don't Stop Believing",
       "url": "https://open.spotify.com/track/62sjLSvrIDVpBjR3WqI6IS"
@@ -2924,6 +2942,24 @@
       "duration_ms": 176801,
       "name": "Easy Come, Easy Go",
       "url": "https://open.spotify.com/track/3VAKY5TpevbMyBiblg172H"
+    },
+    {
+      "album": {
+        "name": "Einde Van Jou",
+        "url": "https://open.spotify.com/album/0MFFTx2QGqGINejomKlBFT"
+      },
+      "artists": [
+        {
+          "name": "Martin Botha",
+          "url": "https://open.spotify.com/artist/4VbLQUnLtrUfGWD03AlXDO"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232621,
+      "name": "Einde Van Jou",
+      "url": "https://open.spotify.com/track/5QRTRcU4d8td4QcNKHJDv3"
     },
     {
       "album": {
@@ -5427,6 +5463,28 @@
     },
     {
       "album": {
+        "name": "Kompas",
+        "url": "https://open.spotify.com/album/4jkE4uUmO0wSufzCoHcYwx"
+      },
+      "artists": [
+        {
+          "name": "Joshua Na Die Re\u00ebn",
+          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
+        },
+        {
+          "name": "Seuns van Vlug",
+          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307411,
+      "name": "Kompas",
+      "url": "https://open.spotify.com/track/1kK6WsLnVHTkiEF2zOrsvQ"
+    },
+    {
+      "album": {
         "name": "Kondisie",
         "url": "https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq"
       },
@@ -7462,10 +7520,28 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 206491,
       "name": "People Change",
       "url": "https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x"
+    },
+    {
+      "album": {
+        "name": "Forgotten Songs E.P. 3 \u2013 Raw and Unheard",
+        "url": "https://open.spotify.com/album/4J8WyZxxY1lqxyV6IaYb3c"
+      },
+      "artists": [
+        {
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/58CmgjHD81STQJjKBT8m9y"
     },
     {
       "album": {
@@ -7560,6 +7636,24 @@
       "duration_ms": 163371,
       "name": "PLUS MINUS",
       "url": "https://open.spotify.com/track/7vGJj71Z0RRVOzpdnpYjip"
+    },
+    {
+      "album": {
+        "name": "PLUSH",
+        "url": "https://open.spotify.com/album/65xGYp8aXkM9uot4DIxQ2w"
+      },
+      "artists": [
+        {
+          "name": "Mario de Sa",
+          "url": "https://open.spotify.com/artist/5mVJFBftCTdJmcmCQSArCy"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291600,
+      "name": "PLUSH",
+      "url": "https://open.spotify.com/track/3HwO7ZxXYbwjL3ZRjBcKQq"
     },
     {
       "album": {
@@ -8740,7 +8834,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 174491,
       "name": "SOMEBODY",
       "url": "https://open.spotify.com/track/5he6ljlzMhvh5MFfulFy7D"
@@ -8830,7 +8924,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 221057,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/3qxVPozermWCm6jrc4ejAP"
@@ -8996,6 +9090,42 @@
       "duration_ms": 165221,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6Ka2NTLf6eD4oZEUAbLgt7"
+    },
+    {
+      "album": {
+        "name": "Steady 75",
+        "url": "https://open.spotify.com/album/1mmwaQn8QwMC4xuQKf7YjG"
+      },
+      "artists": [
+        {
+          "name": "Painted Flowers",
+          "url": "https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Steady 75",
+      "url": "https://open.spotify.com/track/7LETd0YBKBTB2Z84qc24ya"
+    },
+    {
+      "album": {
+        "name": "Steal Your Love",
+        "url": "https://open.spotify.com/album/6WiCHDT4Y6fbMIeuIcYNda"
+      },
+      "artists": [
+        {
+          "name": "We Could Be Related",
+          "url": "https://open.spotify.com/artist/2XcXphEXYMEkjQunAA2tnc"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160174,
+      "name": "Steal Your Love",
+      "url": "https://open.spotify.com/track/61Ny7MvlgnOqrIKwxhc11T"
     },
     {
       "album": {
@@ -9212,7 +9342,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 169285,
       "name": "Sunrise on the River",
       "url": "https://open.spotify.com/track/7oCGTx3dpnXb7neSD4lKeA"
@@ -9732,7 +9862,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 257253,
       "name": "The Knife",
       "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
@@ -10694,7 +10824,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 430209,
       "name": "War",
       "url": "https://open.spotify.com/track/6Pai1i2N1e4qTeaIaZsiWE"
@@ -10716,6 +10846,24 @@
       "duration_ms": 106090,
       "name": "WAR",
       "url": "https://open.spotify.com/track/45rrUms7GQkfj6XkWoNsmi"
+    },
+    {
+      "album": {
+        "name": "Ware Noord",
+        "url": "https://open.spotify.com/album/1BGCuXGsGwL6f2QjhpwnO2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Blue",
+          "url": "https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216723,
+      "name": "Ware Noord",
+      "url": "https://open.spotify.com/track/0Q5EE4R2qjXN0DBARGGxUk"
     },
     {
       "album": {

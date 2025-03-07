@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,428 likes - 53 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,713 likes - 53 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

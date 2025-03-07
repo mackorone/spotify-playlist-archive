@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e1f\u0e31\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e43\u0e19\u0e44\u0e17\u0e22 \u0e23\u0e27\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e14\u0e48\u0e19\u0e08\u0e32\u0e01\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ink Waruntorn",
+  "description": "\u0e1f\u0e31\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e43\u0e19\u0e44\u0e17\u0e22 \u0e23\u0e27\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e14\u0e48\u0e19\u0e08\u0e32\u0e01\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LISA",
   "name": "Hot Hits Thailand",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
@@ -544,6 +544,28 @@
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
       "album": {
@@ -1352,6 +1374,24 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "album": {

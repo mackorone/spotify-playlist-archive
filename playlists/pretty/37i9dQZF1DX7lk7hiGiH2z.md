@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,417 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,434 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

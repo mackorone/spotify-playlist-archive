@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Nava Hip\-Hop Punjabi! Cover : Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,527 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,540 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 8 | [4 AM in...](https://open.spotify.com/track/7lExpnC3qf6B4zxpe7JwXK) | [GHO$t](https://open.spotify.com/artist/4HSkQufY9GZ4CYsxOt1nKO) | [4 AM in...](https://open.spotify.com/album/40wJP5v5W4BXcSJzOZVxrS) | 2:40 |
 | 9 | [Hustler's Ambition](https://open.spotify.com/track/1hjkuTsfRGtsSZEgisPs3W) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Hustler's Ambition](https://open.spotify.com/album/0DQX0itjENBom4838zELEK) | 2:59 |
 | 10 | [Jawani](https://open.spotify.com/track/7wKQZXLxeAjPuXBfT43UdY) | [Debi Makhsoospuri](https://open.spotify.com/artist/5UJF2io08UUUl8i9qCHoUa), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Jawani](https://open.spotify.com/album/4HZosWfKA0uGWO2tcEPE4s) | 4:15 |
-| 11 | [Movie Star](https://open.spotify.com/track/7eZYBHgAFgbzWRtIrci01c) | [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE), [13 JAY](https://open.spotify.com/artist/0F6bPWNx3E6HhZTZi1Z9bE) | [Movie Star](https://open.spotify.com/album/0LvlnKJiPS98SYsZCUIPq6) | 2:34 |
+| 11 | [Movie Star](https://open.spotify.com/track/7eZYBHgAFgbzWRtIrci01c) | [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE), [13 JAY](https://open.spotify.com/artist/0F6bPWNx3E6HhZTZi1Z9bE), [MC Heam](https://open.spotify.com/artist/2vukE84hCaAdQrqMoOgW8Y) | [Movie Star](https://open.spotify.com/album/0LvlnKJiPS98SYsZCUIPq6) | 2:34 |
 | 12 | [Desiya Da Daur \- From "Kanneda"](https://open.spotify.com/track/2hnNKAuVl9S3Abc3VNRUok) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Kanneda \(Original Series Soundtrack\)](https://open.spotify.com/album/2HF4aHW9ZSlzbLhidUnDLJ) | 2:05 |
 | 13 | [Gang Signs](https://open.spotify.com/track/4mdAElxWMFOSqItDgx5Mo8) | [LEJEND](https://open.spotify.com/artist/0F3a3uTeRgrTeb3YNW5h10) | [Vulgar](https://open.spotify.com/album/2dz5PHkEZ08yjMmNAOZ2pd) | 2:24 |
 | 14 | [Crew Certified](https://open.spotify.com/track/2TxGcVJGyB6Ma8SRHVHFCJ) | [Hairat Aulakh](https://open.spotify.com/artist/2NoWAo6B7GYkhnst4yz4yh) | [Steezy](https://open.spotify.com/album/16pO9rPQa75HIqpahVXZkE) | 2:52 |

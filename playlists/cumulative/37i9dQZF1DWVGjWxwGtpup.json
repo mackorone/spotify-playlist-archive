@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Rauw Alejandro x Bad Bunny",
+  "description": "Tous les hits latino du moment sont ici. Photo : Shakira",
   "name": "Caliente",
   "tracks": [
     {
@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/63jwtYCNzu0DgoOYt6LXVi"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156641,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/2z4t6UgsOQeuzWF4CN6RWu"
+    },
+    {
+      "album": {
         "name": "CONTIGO (with Ti\u00ebsto)",
         "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
       },
@@ -882,7 +900,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
@@ -1624,6 +1642,24 @@
       "duration_ms": 199399,
       "name": "En Privado",
       "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
+    },
+    {
+      "album": {
+        "name": "EROTIKA",
+        "url": "https://open.spotify.com/album/47lCWsxnSeMLoCZ67BYULU"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165161,
+      "name": "EROTIKA",
+      "url": "https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR"
     },
     {
       "album": {
@@ -2646,6 +2682,28 @@
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+    },
+    {
+      "album": {
+        "name": "Maria Magdalena",
+        "url": "https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Maria Magdalena",
+      "url": "https://open.spotify.com/track/2TVqEfs20W2rfg0EDAW1MD"
     },
     {
       "album": {

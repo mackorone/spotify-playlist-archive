@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,991 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,163 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

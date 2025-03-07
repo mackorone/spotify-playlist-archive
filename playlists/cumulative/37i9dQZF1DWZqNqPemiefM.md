@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-749 songs - 2 day 10 hr 3 min
+751 songs - 2 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [Invitation](https://open.spotify.com/track/5GX3sk2Xex3998tQu8uaKH) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [Where the Sidewalk Ends](https://open.spotify.com/album/12kCNfVPb9lWg1jnTBwxvT) | 6:32 | 2022-03-30 | 2022-04-04 |
 | [IQAMURAH](https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Vasola Punte](https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY) | 5:24 | 2024-06-15 | 2025-02-17 |
 | [Irie](https://open.spotify.com/track/2VokL9qQNd46ZETs2mZYq2) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Irie](https://open.spotify.com/album/4gJvJKL4K8GEGZqCNUbvUi) | 5:47 | 2022-11-03 | 2022-12-24 |
-| [It Works](https://open.spotify.com/track/5MIhtr9hx6YPK9i4inU4Cf) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Music From A Room Full Of Synths](https://open.spotify.com/album/1HyxwIOx0JFe1nlnj9JR4H) | 2:35 | 2024-12-05 |  |
+| [It Works](https://open.spotify.com/track/5MIhtr9hx6YPK9i4inU4Cf) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Music From A Room Full Of Synths](https://open.spotify.com/album/1HyxwIOx0JFe1nlnj9JR4H) | 2:35 | 2024-12-05 | 2025-03-07 |
 | [Iyo No Hito](https://open.spotify.com/track/0HwElc96e7sKvI8pOTvC2a) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Iyo No Hito](https://open.spotify.com/album/3ACIFpzKIMDwUDjlMidNvS) | 6:14 | 2024-07-26 | 2024-12-15 |
 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 | 2022-08-04 | 2022-12-24 |
 | [jellyfish](https://open.spotify.com/track/4rzhdIO9I6nhGWHwKDtRiZ) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [jellyfish](https://open.spotify.com/album/3VXWeLX3SNXLdAi2DEURpY) | 2:44 | 2023-10-19 | 2024-02-09 |
@@ -473,6 +473,7 @@
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-09-22 | 2023-10-11 |
 | [Pierrepont](https://open.spotify.com/track/1Nf9vSy4tVnT3yMsnR5CVP) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 4:33 | 2024-02-08 | 2024-12-10 |
 | [Pink Liquid Cotton Candy](https://open.spotify.com/track/2vAOthypGXJj4Tnu6F3Nm3) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [Hum](https://open.spotify.com/album/4sYguh1IQBO3eArXtcVQIG) | 5:55 | 2022-04-07 | 2022-04-20 |
+| [pink misty wave](https://open.spotify.com/track/7mqcCAKHLx0mLWgh7dfQ5w) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [pink misty wave](https://open.spotify.com/album/3pyCGrRGJ8lsuL2aqzHYXg) | 3:12 | 2025-03-06 |  |
 | [Plateau](https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [藤子](https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp) | 4:22 | 2025-03-04 |  |
 | [Plop](https://open.spotify.com/track/0hEQzOexeeU2ckT1SL6rVk) | [亜門](https://open.spotify.com/artist/5REcVneZv9jSl3HBWwuScq) | [Plop](https://open.spotify.com/album/1hDe8GfH4n54x7GGBHVwaE) | 3:24 | 2024-12-16 | 2025-02-23 |
 | [Pollen](https://open.spotify.com/track/1jcyEOv0oyOGxI7pvVmKzp) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 7:50 | 2022-03-31 | 2022-07-26 |
@@ -525,6 +526,7 @@
 | [Sea](https://open.spotify.com/track/5nicqJi0k1oS9dKolZcwMH) | [Licaxxx](https://open.spotify.com/artist/2u7KzLObg2wxMYkxQ5OAhR) | [IPSA Discover ME](https://open.spotify.com/album/5DYQaHtCYz4BOn2kO6nJVg) | 2:38 | 2024-02-15 | 2024-04-19 |
 | [Sea](https://open.spotify.com/track/7aheJ8w1GYkZogoMTigoAU) | [Licaxxx](https://open.spotify.com/artist/2u7KzLObg2wxMYkxQ5OAhR) | [IPSA Discover ME](https://open.spotify.com/album/62Nj00HyEy4yudGW2qwcSI) | 2:38 | 2024-03-07 | 2024-10-11 |
 | [Sea Candle](https://open.spotify.com/track/20FSs2WNLiROOK5jCQf5et) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Akari](https://open.spotify.com/album/5JNjm0qR3zCMGGsWEa24F8) | 3:30 | 2022-03-31 | 2022-07-20 |
+| [Second Harvest](https://open.spotify.com/track/2To5sfZUDbK9xlbHT9weRX) | [Takeshi Kurihara](https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK) | [KLAMAUK](https://open.spotify.com/album/3H6tjwSunpKqPMug5RSLcb) | 7:07 | 2025-03-06 |  |
 | [Secondhand Sunlight](https://open.spotify.com/track/0W2Yvv08fcuxcCjTlvRcHC) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Shadow On the Lawn](https://open.spotify.com/album/67oxviWzcQgeW8SA4iq3ce) | 8:20 | 2022-03-31 | 2022-04-07 |
 | [Secret Squirrel](https://open.spotify.com/track/2458yvCO4DErKhc7Zipq09) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Auntie Aubrey's Excursions Beyond The Call Of Duty \- The Orb Remix Project \- Part 1](https://open.spotify.com/album/2AtgGwq7etyx2UaxTfilDl) | 7:16 | 2022-04-28 | 2022-07-08 |
 | [See The Light](https://open.spotify.com/track/6JIEJj0cTlbuovs5MJei3z) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Good Morning](https://open.spotify.com/album/5Qnh3cr4Vo9drNB26E9npg) | 1:57 | 2022-03-30 | 2022-07-17 |
@@ -731,7 +733,7 @@
 | [文](https://open.spotify.com/track/0m1kfdeTf2xyhAsAFJyKOe) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [天と地と](https://open.spotify.com/album/2ZS2vrP1ipVAI67HmhLROW) | 3:25 | 2022-03-31 | 2022-04-21 |
 | [春雨](https://open.spotify.com/track/1WG1G5nXEzbh2SerQD2lzm) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient 3](https://open.spotify.com/album/4nGkqazGpoczvV8FKlgq1p) | 3:02 | 2022-07-28 | 2024-02-09 |
 | [春雨](https://open.spotify.com/track/3DrTF6RTJxNPQliKNiWkaf) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 3:02 | 2022-03-30 | 2022-07-29 |
-| [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 | 2024-03-07 |  |
+| [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 | 2024-03-07 | 2025-03-07 |
 | [時色](https://open.spotify.com/track/6ar2dSoFWSJm1a5kaxoB6o) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [Sketch](https://open.spotify.com/album/1QKWVflSGIsITHgfChvOwp) | 3:50 | 2022-03-31 | 2022-07-08 |
 | [月の光](https://open.spotify.com/track/0j9BiFY2dWgtyycKZ2HZCw) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [月の光 \(Ultimate Edition\)](https://open.spotify.com/album/3uahEjE95POX11CnbVjBA6) | 5:55 | 2024-06-15 | 2024-12-10 |
 | [月へ飛ぶ想ひ \(Love that Flies to the Moon\)](https://open.spotify.com/track/53WFf9EywSA4cuomIfGoLv) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [螺鈿の箱](https://open.spotify.com/album/18DILpcCu5BdTSPNhauurh) | 4:09 | 2024-11-29 | 2024-12-31 |

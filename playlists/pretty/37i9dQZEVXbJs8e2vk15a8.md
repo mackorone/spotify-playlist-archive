@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,626 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,625 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 49 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 50 | [3 Am](https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:28 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

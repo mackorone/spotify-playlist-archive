@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Rsko x Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
   "name": "R&Bae",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 144715,
       "name": "Accro",
       "url": "https://open.spotify.com/track/7Avaa6GKq0HUEjyDbhFMLE"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 165120,
       "name": "C'est ma vie",
       "url": "https://open.spotify.com/track/5wk3OSvb7WQW99KvGt9UFv"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 168000,
       "name": "DLC",
       "url": "https://open.spotify.com/track/3EdDMsjMYRWVJ6g0KqprB6"
@@ -2724,6 +2724,24 @@
       "duration_ms": 208813,
       "name": "Fini d'esp\u00e9rer",
       "url": "https://open.spotify.com/track/0DMQwNGCiSzLB2HsfHNAtb"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/3cVnkUmA5GSSWCrYDpKwoZ"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180212,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/7h3oCfORMboakvSqgn3dmt"
     },
     {
       "album": {
@@ -3634,7 +3652,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 131428,
       "name": "JORJA",
       "url": "https://open.spotify.com/track/5fvFc65Jscqs3dquwgrndI"
@@ -5014,6 +5032,24 @@
       "duration_ms": 168724,
       "name": "Mon ex",
       "url": "https://open.spotify.com/track/7pM3eIlp7hqdjDfF7w1YxR"
+    },
+    {
+      "album": {
+        "name": "MON SOLEIL",
+        "url": "https://open.spotify.com/album/1tf9EDtZbZ93p8uY16cAl5"
+      },
+      "artists": [
+        {
+          "name": "Ayvee",
+          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "MON SOLEIL",
+      "url": "https://open.spotify.com/track/5VxWEYJj16nZoKLDeXUKcc"
     },
     {
       "album": {
@@ -6539,6 +6575,32 @@
     },
     {
       "album": {
+        "name": "RendezVOUS",
+        "url": "https://open.spotify.com/album/072DDlsUr6lEJsmLqYGkhd"
+      },
+      "artists": [
+        {
+          "name": "Kan",
+          "url": "https://open.spotify.com/artist/3ScmxG7aEI7lW0gf9vRs6g"
+        },
+        {
+          "name": "Lazuli",
+          "url": "https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE"
+        },
+        {
+          "name": "MadeInParis",
+          "url": "https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "RendezVOUS",
+      "url": "https://open.spotify.com/track/0ZRjsqlzK08NTuIAJPBC4w"
+    },
+    {
+      "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
       },
@@ -6598,7 +6660,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 161082,
       "name": "Reviens jamais",
       "url": "https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre"
@@ -6856,6 +6918,28 @@
       "duration_ms": 170783,
       "name": "Sans se retourner (feat. Leto)",
       "url": "https://open.spotify.com/track/2uwU4OSLfYn1uMchldn0eP"
+    },
+    {
+      "album": {
+        "name": "SANS TOI",
+        "url": "https://open.spotify.com/album/4rNTWPDhWIjsThUDt0BYja"
+      },
+      "artists": [
+        {
+          "name": "Sassy",
+          "url": "https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2"
+        },
+        {
+          "name": "Bilouki",
+          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "SANS TOI",
+      "url": "https://open.spotify.com/track/4IeoMdrZbqqGuTZJTvT2OI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Débora Buzas, Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,752 likes - 80 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,914 likes - 80 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

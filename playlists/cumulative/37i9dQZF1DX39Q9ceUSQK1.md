@@ -4,7 +4,7 @@
 
 > Nieuwe alternative en rock songs\. Cover: POM
 
-319 songs - 18 hr 25 min
+328 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [a menace](https://open.spotify.com/track/55DzEjS7rrZbvyL9hCiSQC) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a menace](https://open.spotify.com/album/5O12kfhiDZcHJ3Ne9bcDE8) | 2:49 | 2025-02-27 |  |
 | [A Moment](https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [A Moment](https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa) | 3:23 | 2025-01-16 |  |
 | [A Note About Time](https://open.spotify.com/track/3Eml7xiwuYQVJLTEQQMbjI) | [Daryll\-Ann](https://open.spotify.com/artist/671hK274ypvrV5RiWyxjk7) | [A Note About Time](https://open.spotify.com/album/2CJ2pASXDPONHZLu76rFbF) | 3:20 | 2024-07-11 | 2024-11-08 |
+| [a purpose](https://open.spotify.com/track/59DhTecIcmFdI7VeEdoNzu) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [AAAAH!](https://open.spotify.com/album/2tJOmKlZUDchjltE3GazEi) | 3:41 | 2025-03-06 |  |
 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 | 2025-01-16 |  |
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-07-09 | 2024-09-25 |
 | [Afterlife](https://open.spotify.com/track/0sRbn7fYmXVTBdQocJk5Xc) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Afterlife](https://open.spotify.com/album/2ZOGDgrniNnZV9rRN329bd) | 3:42 | 2025-01-23 | 2025-02-18 |
@@ -33,6 +34,7 @@
 | [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-12-02 | 2025-02-04 |
 | [Anyone, Anything](https://open.spotify.com/track/3sKOFIxANNUQvScMAuZrjz) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Anyone, Anything](https://open.spotify.com/album/2le1dcsSTG2r8wSh3vsHhB) | 2:29 | 2024-08-01 | 2024-11-08 |
 | [Anywhere but Here](https://open.spotify.com/track/26atzyt7k7kQhFojC9gB1k) | [Naive Set](https://open.spotify.com/artist/1SPS81Jo8TCGUCiQIEfLYh) | [Anywhere but Here](https://open.spotify.com/album/2gHdcrdUx7GwCavOrDnXTC) | 3:13 | 2024-08-27 | 2024-10-23 |
+| [are we in love yet?](https://open.spotify.com/track/59bPrwlWkwqqDSFu8o1cdu) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [are we in love yet?](https://open.spotify.com/album/2xQI0evHXKQ3I38ubLaRy6) | 2:57 | 2025-03-06 |  |
 | [Arizona](https://open.spotify.com/track/6KZRKGq6hj18WkbgXxcRcZ) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Arizona](https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU) | 3:24 | 2024-08-30 | 2024-11-08 |
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-23 |  |
 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 | 2024-09-13 | 2024-12-03 |
@@ -41,6 +43,7 @@
 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 | 2024-08-30 | 2024-10-23 |
 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 | 2024-11-07 | 2025-01-24 |
 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-02-03 |  |
+| [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 | 2025-03-06 |  |
 | [Better Than God](https://open.spotify.com/track/6PXg4maKBeSFlhiFPbGap2) | [RHEA](https://open.spotify.com/artist/3iTqZTjeziB8WtVJeIUrLD) | [Better Than God](https://open.spotify.com/album/50DXKDGoGawgW5QzLcXkZv) | 3:16 | 2024-09-05 | 2024-11-23 |
 | [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 | 2024-10-04 | 2025-01-07 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-06-24 | 2024-09-06 |
@@ -51,6 +54,7 @@
 | [Bonfire](https://open.spotify.com/track/3lpGGybjyTqkQYKjqpSmlh) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Bonfire](https://open.spotify.com/album/7pjAWJqyjObF9AGVWFRHi3) | 3:49 | 2024-09-24 | 2024-12-19 |
 | [Boom Boom Back](https://open.spotify.com/track/6oMscBxiNQ9vYRqNuTXhg5) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [VIVA HINDS](https://open.spotify.com/album/7efwDP6vHtIPtQhLCrCWFz) | 3:24 | 2024-09-05 | 2024-12-03 |
 | [Bullet Dodger](https://open.spotify.com/track/3Vktwbd9FLgLk7HhziL0Os) | [The Grand East](https://open.spotify.com/artist/6N9hiQC4ZZwe6mAuMfvUO7) | [Bullet Dodger](https://open.spotify.com/album/2gYvqMuPD27dnnPwkplzMJ) | 2:27 | 2024-10-04 | 2024-11-08 |
+| [Buoyant](https://open.spotify.com/track/3AkN6y2RQ9UdqsIrF9KO9q) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Buoyant](https://open.spotify.com/album/2kCxLD94mP78hHPgHThwh5) | 4:09 | 2025-03-06 |  |
 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 | 2025-01-23 |  |
 | [Busman](https://open.spotify.com/track/5AIJbLjMulhq1IT8Do7Aep) | [Wasted Youth Club](https://open.spotify.com/artist/6fPbsRQTwFE5HTMNwZqyhw) | [Busman](https://open.spotify.com/album/32OoaBW0rDc1ci3tGNjJWM) | 2:23 | 2024-10-04 | 2024-12-03 |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-06-24 | 2024-07-27 |
@@ -84,6 +88,7 @@
 | [Down Under Distractions](https://open.spotify.com/track/1PHVBgWKEv2XdXSJ49cG4u) | [The Awkward](https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci) | [Down Under Distractions](https://open.spotify.com/album/6y5qDNEHN6wrvVbjxPvjl7) | 0:58 | 2024-06-24 | 2024-08-31 |
 | [Downwards](https://open.spotify.com/track/4QzU8IMWxU3c9ech5Xg8YA) | [Bongloard](https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow) | [Downwards](https://open.spotify.com/album/5UHRcOCp0VYzkNOfOg4WXw) | 2:53 | 2024-07-11 | 2024-09-06 |
 | [Driver](https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Driver](https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg) | 4:12 | 2024-10-04 | 2025-01-07 |
+| [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-06 |  |
 | [Dynamite](https://open.spotify.com/track/4CfR79xn4JT6XH6gBwLtft) | [Dull Boy Johnny](https://open.spotify.com/artist/6R3zHNuwxcY427ahFNU2z0) | [Dynamite](https://open.spotify.com/album/2HlvO6zXXBpw8KeA8V8UDr) | 3:25 | 2025-01-09 |  |
 | [Easy](https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Easy](https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF) | 3:16 | 2024-07-09 | 2024-10-23 |
 | [Evenfall](https://open.spotify.com/track/6e5Cw6TEhIO5XVEAGlidCa) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Evenfall](https://open.spotify.com/album/2YeM6NqqTAtcb3kQNFLOKY) | 3:14 | 2025-01-16 | 2025-02-18 |
@@ -113,7 +118,9 @@
 | [Giants](https://open.spotify.com/track/0QnmwnIMV8cFpOg51yxagF) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [Giants](https://open.spotify.com/album/1Zf6FuiWwnpPz1qZvulsmF) | 3:41 | 2024-10-04 | 2025-01-07 |
 | [Gold](https://open.spotify.com/track/78TrDPsrrV0qWyqUmpj1Lm) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/3zZDnfsDMmYZ20DsNGir3I) | 2:54 | 2024-09-05 | 2024-11-08 |
 | [Goldy](https://open.spotify.com/track/1wZ5OdmhssZf89vdd1ipWR) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [GOLDY](https://open.spotify.com/album/4CTzp3ZZUFjQopaCvbQ6Oe) | 4:08 | 2024-06-24 | 2024-08-28 |
+| [Hallelujah](https://open.spotify.com/track/3d4XW4O3YbOvVM1w3sgH5e) | [Afterpartees](https://open.spotify.com/artist/5FtnkdycRhdTikTa8XaM02) | [Hallelujah](https://open.spotify.com/album/2514ZyE5vyA23DSaeMNuVa) | 3:39 | 2025-03-06 |  |
 | [Happiness Suits You](https://open.spotify.com/track/1QNEAJeLGRHd4OnzmdWriF) | [Meltheads](https://open.spotify.com/artist/1d2hZR4CCxI91sG7Q7HD7W) | [Happiness Suits You](https://open.spotify.com/album/4Zvm6rKeITRqsV3xHlTb1L) | 3:13 | 2024-10-04 | 2025-01-07 |
+| [Happy Birthday](https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 4:06 | 2025-03-06 |  |
 | [Heard It All Before](https://open.spotify.com/track/1BoolWaGYMDJMA0lggMWhs) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [Heard It All Before](https://open.spotify.com/album/2uwdpoayHJgYm0stP0BIZd) | 3:00 | 2025-01-06 |  |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-25 | 2024-12-19 |
 | [Hell Dog](https://open.spotify.com/track/4ZbNVJFXu7rJ1BEEcomxuk) | [bwana](https://open.spotify.com/artist/36ObPHoO5D8bWQIPnZBlKL) | [Hell Dog](https://open.spotify.com/album/0T7pVKcvJZo1MUBX6aFXV4) | 3:49 | 2025-01-16 |  |
@@ -162,6 +169,7 @@
 | [Living A Lie](https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Living A Lie](https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg) | 4:33 | 2024-10-10 | 2025-01-07 |
 | [LONDON](https://open.spotify.com/track/5wYKZtxuznUf9h53BcRzSI) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [LONDON](https://open.spotify.com/album/08EsNvipHUdPcyeQAC4Z09) | 2:28 | 2024-06-24 | 2024-07-10 |
 | [Lonsdale Slipons](https://open.spotify.com/track/0qCJBlXoE0mQ21BkHr8tfs) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Lonsdale Slipons](https://open.spotify.com/album/6O5pX1TqnuDbXLHQOpwaoS) | 2:13 | 2024-07-11 | 2024-09-25 |
+| [Lord](https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Drive to Goldenhammer](https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994) | 3:30 | 2025-03-06 |  |
 | [Loser](https://open.spotify.com/track/5MBaUQGYX5oK3kpukAZRDj) | [Dutch Mustard](https://open.spotify.com/artist/6QGi06qu6deTJRLZO2YrlP) | [Loser](https://open.spotify.com/album/2mlLbBlwrR0YgPf484jcJH) | 3:03 | 2024-07-26 | 2024-10-23 |
 | [Loser](https://open.spotify.com/track/7p7D2nrK1QXkTlVBFuprGD) | [VALS ALARM](https://open.spotify.com/artist/3q1SvFNWA77vrDRqEpgjbS) | [VALS ALARM](https://open.spotify.com/album/2rtsUA18FEo098lcJocgOk) | 2:26 | 2024-06-24 | 2024-09-06 |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-06-24 | 2024-08-02 |
@@ -292,6 +300,7 @@
 | [Time Waited](https://open.spotify.com/track/3dEUbj4PIm3Ci1V7acL1EI) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Time Waited](https://open.spotify.com/album/6TX9eLehGePcSscGQvXrI0) | 3:39 | 2025-02-17 |  |
 | [Tiny Tears](https://open.spotify.com/track/0m9i9RHKwLKUYaUYLC6ENk) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Tiny Tears](https://open.spotify.com/album/4QcyTQC84yloOslmljuBjc) | 4:19 | 2024-09-13 | 2024-12-03 |
 | [Tokyo, 7AM](https://open.spotify.com/track/38771tUZONFbp1BeBfAFOA) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Tokyo, 7AM](https://open.spotify.com/album/3erTisiSvxtAgwbgmSE5kn) | 3:56 | 2024-11-07 | 2025-01-24 |
+| [Tonight \(I’m Afraid\)](https://open.spotify.com/track/1D86Oiw34wxj4HTDhFvQc8) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Tonight \(I'm Afraid\)](https://open.spotify.com/album/5N7z0KErgUkigQXvafcXw4) | 3:25 | 2025-03-06 |  |
 | [Toot Toot](https://open.spotify.com/track/5i3ZDK1yWMoFgLAu5O83ul) | [Global Charming](https://open.spotify.com/artist/06rvBGtJ7XW87FytQSiR7t) | [Toot Toot, Choo Choo](https://open.spotify.com/album/1okAwOqNUWgKLUJgkfBC9P) | 3:31 | 2025-02-21 |  |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-24 | 2024-07-10 |
 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 | 2024-10-22 | 2025-01-17 |

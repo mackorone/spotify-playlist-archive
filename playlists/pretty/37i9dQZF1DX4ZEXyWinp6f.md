@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,880 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,929 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

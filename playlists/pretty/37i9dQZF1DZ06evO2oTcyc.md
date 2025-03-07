@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,324 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,388 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

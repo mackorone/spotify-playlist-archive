@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-520 songs - 1 day 5 hr 49 min
+521 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Table Of Fools](https://open.spotify.com/track/0QSJddfRGIfStqy0DZ9pvw) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Table Of Fools](https://open.spotify.com/album/6DNHrREOywqBISE6MW7hCk) | 3:24 | 2023-02-23 |  |
 | [Take A Chance \- Acoustic](https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Take A Chance \(Acoustic\)](https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf) | 2:46 | 2023-02-23 |  |
 | [Take Mine](https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [City Of Our Lives](https://open.spotify.com/album/3vWGsppgWED2VQZxBSh56t) | 3:05 | 2023-02-23 | 2024-03-20 |
-| [Take Mine](https://open.spotify.com/track/3xSYzg9q5ffAiYx8L9yqPd) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [Take Mine](https://open.spotify.com/album/3g1nIwPP5IssjCmr0SZQjt) | 3:05 | 2024-11-08 |  |
+| [Take Mine](https://open.spotify.com/track/3xSYzg9q5ffAiYx8L9yqPd) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [Take Mine](https://open.spotify.com/album/3g1nIwPP5IssjCmr0SZQjt) | 3:05 | 2024-11-08 | 2025-03-07 |
 | [Take Your Time](https://open.spotify.com/track/54JIuEuTnL0Al2LHCU9pdL) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/4zEF7OsSjtoehhC67vmUFJ) | 4:03 | 2024-04-11 |  |
 | [Take Your Time](https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 4:03 | 2023-02-23 | 2024-04-19 |
 | [Taken by Surprise](https://open.spotify.com/track/45zYIzXIPQtmXMfi9t5bZw) | [D'ORANGE](https://open.spotify.com/artist/0abQD9ni2Kya5l2PuIClfX) | [Taken by Surprise](https://open.spotify.com/album/0XCDf4QYg0U8l8fnbu36WF) | 3:01 | 2023-04-25 |  |
@@ -442,6 +442,7 @@
 | [Tell Me That You Love Me](https://open.spotify.com/track/0n3pKT2HiMJGxoAYgyezBV) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/6O0z01p8PGCUr7QQQLk1g9) | 3:14 | 2023-06-06 | 2024-03-27 |
 | [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 | 2023-02-23 | 2023-07-02 |
 | [Tennessee Whiskey](https://open.spotify.com/track/7qKBw3VBU6dVqK6F8WBIOJ) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Tennessee Whiskey](https://open.spotify.com/album/71KzrFnqFfcPOptYLPboZM) | 4:22 | 2023-02-23 |  |
+| [the devil's advocate](https://open.spotify.com/track/6EQxQwc56xRBxjQQMHPFkn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the devil's advocate](https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P) | 2:59 | 2025-03-06 |  |
 | [The Hardest Part](https://open.spotify.com/track/4Tw9JYF9HOuPRyccNWMgwf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:22 | 2023-04-06 |  |
 | [The Heartbreak Bird](https://open.spotify.com/track/5KqmuUNzIBh2iJxluAiqE2) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Filled With Gold](https://open.spotify.com/album/0BQsC0ggLM5IJ4AM8KBIbq) | 3:49 | 2023-04-25 | 2023-11-20 |
 | [The Heartbreak Bird](https://open.spotify.com/track/5zMhcFB8EuJ4WgiaogEeV5) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Filled With Gold](https://open.spotify.com/album/58Ah5j1LlglDcbbUG7Hpzw) | 3:49 | 2023-11-02 | 2024-03-22 |

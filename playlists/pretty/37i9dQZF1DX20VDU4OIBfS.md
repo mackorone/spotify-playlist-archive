@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 
 > Temas inolvidables del baúl de los recuerdos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,061,402 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,061,572 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

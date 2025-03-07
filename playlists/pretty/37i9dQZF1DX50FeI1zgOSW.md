@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Supaveen
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,603 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,612 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 2 | [222](https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x) | [Stanley Xavier](https://open.spotify.com/artist/5eErWHlCjgBDcY9OYBecEj) | [222](https://open.spotify.com/album/2vd00S6qgxTeynCgtJlCJh) | 4:44 |
 | 3 | [Empty hand](https://open.spotify.com/track/3njyySsHr7viXEfgxv5v3U) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB), [Guru Gopalan](https://open.spotify.com/artist/3ZCZd3bpEeDoCczZUBNPYW) | [Empty hand](https://open.spotify.com/album/2IDykOuQ2l1S5knqnGP2Ri) | 3:01 |
 | 4 | [Rathinamey \(Tamil Indie\)](https://open.spotify.com/track/4mvItWtTtj3qkYmbCs6oQE) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Samuel Dawn](https://open.spotify.com/artist/0xTVZM2tt5LP7fizun5kwl), [Praveen KG](https://open.spotify.com/artist/6TZ5k9CcgcX0moxCfJySUe) | [Rathinamey \(Tamil Indie\)](https://open.spotify.com/album/1BVF9p7uu1EVvgCd0ieAJk) | 4:01 |
-| 5 | [Padhe Padhe \(1mm Orginal\)](https://open.spotify.com/track/0jMWvP1cdTtvLheCUJSMss) | [Dinesh Chandrasekhar](https://open.spotify.com/artist/1JQFKVPnyx86axpdxADe7K), [Sashank S](https://open.spotify.com/artist/4rv5ShQhoPBKGiuydRLdTH), [Kapa Chaitanya](https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk) | [Padhe Padhe \(1mm Orginal\)](https://open.spotify.com/album/6SsmTthKyQAf2gK214dL4v) | 2:51 |
+| 5 | [Padhe Padhe \(1mm Orginals\)](https://open.spotify.com/track/0jMWvP1cdTtvLheCUJSMss) | [Dinesh Chandrasekhar](https://open.spotify.com/artist/1JQFKVPnyx86axpdxADe7K), [Sashank S](https://open.spotify.com/artist/4rv5ShQhoPBKGiuydRLdTH), [Kapa Chaitanya](https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk) | [Padhe Padhe \(1mm Orginals\)](https://open.spotify.com/album/6SsmTthKyQAf2gK214dL4v) | 2:51 |
 | 6 | [Nee Irundhal](https://open.spotify.com/track/3PIsAyTzSrtDX3JH9CxAmh) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ) | [Nee Irundhal](https://open.spotify.com/album/6JRgWcwgUBNsADtldL21WN) | 3:13 |
 | 7 | [Roseuhh](https://open.spotify.com/track/5vAzNd2oiafo5yB79MII1u) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Muji Fit](https://open.spotify.com/artist/3AKk2SrkSQUqW3F2WfSsbq) | [Roseuhh](https://open.spotify.com/album/4hV8WQ4LF45Zvqy331fCRX) | 3:48 |
 | 8 | [Iruppen](https://open.spotify.com/track/6zYC2cUgamLYbi7LbjKg74) | [Vathshan](https://open.spotify.com/artist/6ri9k2w6ZVXHghuukFQjcz), [Jerone B](https://open.spotify.com/artist/4EYTQPjQI2KbkhdCziPYd5) | [Iruppen](https://open.spotify.com/album/2PguHoayiMNOx3mzll6zrf) | 4:03 |

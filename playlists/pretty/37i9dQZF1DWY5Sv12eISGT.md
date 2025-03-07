@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,317 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,331 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 36 | [Love Song \(Acoustic\)](https://open.spotify.com/track/4zrBLtNTCb5uja4KZGHBDt) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Happiness](https://open.spotify.com/album/5BVFDRZkkG8R3hgRdu5o3n) | 4:22 |
 | 37 | [Nakupenda \- Acoustic](https://open.spotify.com/track/02Vc86Z6TX22oJPvxjY9hq) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Nakupenda \(Acoustic\)](https://open.spotify.com/album/3lFdnM707BShGHW5DidZpo) | 3:19 |
 | 38 | [A la croix \- Acoustique](https://open.spotify.com/track/1d5SiNWly8gJzCdZmf3eME) | [Choisie Basolua](https://open.spotify.com/artist/4c36LZgvN8Y5zqS8Pu4cA0) | [TEA \(Acoustique\)](https://open.spotify.com/album/3Jb1GBE6d5Cv4FjA4MIAV5) | 3:11 |
-| 39 | [Love Riddim \- Acoustic](https://open.spotify.com/track/0AfMCPjNR3eNmgvSQUFkFz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/77ja6H1LpEba345VgBT9DO) | 3:10 |
-| 40 | [nobody knows](https://open.spotify.com/track/1Bnm5dUpWfYNqeeqFlhEl1) | [malosh](https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu) | [nobody knows](https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe) | 3:14 |
-| 41 | [Ready \- Acoustic](https://open.spotify.com/track/1mZtvB2gxTbA4oeXbYkenh) | [Toye Aru](https://open.spotify.com/artist/7HgyJrftDM9DDIwK4ztJoM), [Derrick UGC](https://open.spotify.com/artist/0LUhb3eRD3MsTyqiJtibsS) | [Ready \(Acoustic\)](https://open.spotify.com/album/43liR0KxKxxMaJOyxoR7FE) | 2:51 |
+| 39 | [nobody knows](https://open.spotify.com/track/1Bnm5dUpWfYNqeeqFlhEl1) | [malosh](https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu) | [nobody knows](https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe) | 3:14 |
+| 40 | [Ready \- Acoustic](https://open.spotify.com/track/1mZtvB2gxTbA4oeXbYkenh) | [Toye Aru](https://open.spotify.com/artist/7HgyJrftDM9DDIwK4ztJoM), [Derrick UGC](https://open.spotify.com/artist/0LUhb3eRD3MsTyqiJtibsS) | [Ready \(Acoustic\)](https://open.spotify.com/album/43liR0KxKxxMaJOyxoR7FE) | 2:51 |
+| 41 | [In The Light \- Stripped Version](https://open.spotify.com/track/5mYqU9e8dtRolpcS1FFE5B) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [In The Light \(Stripped Version\)](https://open.spotify.com/album/4eu6KcMa6TG59Uidtcx2Z6) | 2:39 |
 | 42 | [Kubali \(Acoustic\)](https://open.spotify.com/track/7A7LCPRoc6kyzMccPmNosm) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4) | [Kubali \(Acoustic\)](https://open.spotify.com/album/7ojceZ0VoNGtXRTUWjtth4) | 4:46 |
-| 43 | [Angel \- Acoustic](https://open.spotify.com/track/42Ukr1sUiu42ZTVCIaFKdH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel \(Acoustic\)](https://open.spotify.com/album/7fmwmiRd2t9TA4bV0eL1NP) | 3:14 |
-| 44 | [Satisfy My Soul \- Acoustic Version](https://open.spotify.com/track/1zVOkdbHW9jlgPsjlhlbQd) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Satisfy My Soul \(Acoustic Version\)](https://open.spotify.com/album/0j91XRAE07yea6hPkMgN0e) | 3:15 |
-| 45 | [Don't Keep Me Waiting Part II](https://open.spotify.com/track/2jT0uc1gDHcRHgSrQDCney) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape, Sorry 4 the Wait](https://open.spotify.com/album/4srQvUx3R9gvntOmXldBUI) | 3:13 |
-| 46 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 |
-| 47 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 |
-| 48 | [My kind Of Woman](https://open.spotify.com/track/5zG9GwLqHaA51EzVkbHxio) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 3:18 |
-| 49 | [Peru \- Acoustic](https://open.spotify.com/track/6RAFf0mJ498F0GzrFZ1ZsS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru \(Acoustic\)](https://open.spotify.com/album/636MfmRIE3pXhXzk8rVsFC) | 2:52 |
-| 50 | [In The Light \- Stripped Version](https://open.spotify.com/track/5mYqU9e8dtRolpcS1FFE5B) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [In The Light \(Stripped Version\)](https://open.spotify.com/album/4eu6KcMa6TG59Uidtcx2Z6) | 2:39 |
+| 43 | [Love Riddim \- Acoustic](https://open.spotify.com/track/0AfMCPjNR3eNmgvSQUFkFz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/77ja6H1LpEba345VgBT9DO) | 3:10 |
+| 44 | [Angel \- Acoustic](https://open.spotify.com/track/42Ukr1sUiu42ZTVCIaFKdH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel \(Acoustic\)](https://open.spotify.com/album/7fmwmiRd2t9TA4bV0eL1NP) | 3:14 |
+| 45 | [Satisfy My Soul \- Acoustic Version](https://open.spotify.com/track/1zVOkdbHW9jlgPsjlhlbQd) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Satisfy My Soul \(Acoustic Version\)](https://open.spotify.com/album/0j91XRAE07yea6hPkMgN0e) | 3:15 |
+| 46 | [Don't Keep Me Waiting Part II](https://open.spotify.com/track/2jT0uc1gDHcRHgSrQDCney) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape, Sorry 4 the Wait](https://open.spotify.com/album/4srQvUx3R9gvntOmXldBUI) | 3:13 |
+| 47 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 |
+| 48 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 |
+| 49 | [My kind Of Woman](https://open.spotify.com/track/5zG9GwLqHaA51EzVkbHxio) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 3:18 |
+| 50 | [Peru \- Acoustic](https://open.spotify.com/track/6RAFf0mJ498F0GzrFZ1ZsS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru \(Acoustic\)](https://open.spotify.com/album/636MfmRIE3pXhXzk8rVsFC) | 2:52 |
 
-Snapshot ID: `Z655WgAAAACe14ObQ7X2u/vOyH/iTgXA`
+Snapshot ID: `Z8nvfAAAAADmvuAx9pzcZFPjx51aF1Zi`

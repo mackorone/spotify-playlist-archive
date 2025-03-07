@@ -4,7 +4,7 @@
 
 > The best voices in R&B\. Cover: Leon Thomas
 
-416 songs - 21 hr 53 min
+418 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-09-22 | 2024-05-11 |
 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 | 2023-09-22 | 2024-04-19 |
 | [Good Girls Finish Last](https://open.spotify.com/track/3j8hlB1QSlKvWgDAym77x4) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Good Girls Finish Last](https://open.spotify.com/album/7q4DF1pfa9zlm77xg9uJg1) | 3:02 | 2024-09-05 |  |
+| [GOOD4U](https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou) | [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [OXO](https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT) | 3:48 | 2025-03-07 |  |
 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 | 2023-09-29 | 2024-10-25 |
 | [Greedy](https://open.spotify.com/track/4DceZ7xpWHNsqdhT4M3jtY) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Greedy](https://open.spotify.com/album/19ujwTsmepDqQVw3bfOCIZ) | 5:01 | 2024-06-14 | 2024-10-04 |
 | [Guess](https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:13 | 2023-02-23 | 2023-05-15 |
@@ -228,7 +229,7 @@
 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 | 2023-07-21 | 2024-04-26 |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-01-26 | 2024-02-28 |
 | [Made For Me \- Soul Train Performance Live](https://open.spotify.com/track/0avIl6Ss5Xa4ybAc3kup4g) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me \- Soul Train Performance Live](https://open.spotify.com/album/3rhtJIUiZIxNmKYpMkfoMG) | 3:28 | 2024-02-28 | 2024-10-11 |
-| [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 | 2024-05-31 |  |
+| [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 | 2024-05-31 | 2025-03-07 |
 | [Mama](https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mama](https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6) | 3:40 | 2023-08-18 | 2023-10-28 |
 | [Marking My Time](https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau) | 4:28 | 2023-09-22 | 2023-10-28 |
 | [Mary Ellen \(02\)](https://open.spotify.com/track/0unygkRAa4Qt4vSZVuBV7C) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 3:18 | 2023-05-14 | 2023-07-22 |
@@ -319,7 +320,7 @@
 | [Sacrifices](https://open.spotify.com/track/0ADsPpxjFXl4ULiJkTrIqY) | [Meron Addis](https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy) | [Sacrifices](https://open.spotify.com/album/0sOmZ9Cy1CrofLVp2y1bOo) | 3:08 | 2023-11-24 | 2024-11-08 |
 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 | 2024-02-28 | 2024-07-25 |
 | [Safe Place](https://open.spotify.com/track/5Lw5G1npf7nzIpLZIedTsj) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Safe Place](https://open.spotify.com/album/1FV0FZQ4aFnt1HkpNRL2o4) | 3:35 | 2023-02-23 | 2023-05-15 |
-| [SAME MISTAKE](https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SAME MISTAKE](https://open.spotify.com/album/41EmgJAJQInxILfagQ608k) | 2:58 | 2024-02-28 |  |
+| [SAME MISTAKE](https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SAME MISTAKE](https://open.spotify.com/album/41EmgJAJQInxILfagQ608k) | 2:58 | 2024-02-28 | 2025-03-07 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-28 | 2024-07-25 |
 | [Save Your Tears](https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Save Your Tears](https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9) | 2:24 | 2024-10-03 |  |
 | [Say What U Mean](https://open.spotify.com/track/54EFYQHgRKfOsiPoJkwzO4) | [RHODETRIP!](https://open.spotify.com/artist/51vWoRhnlySdArQxr4JfKk), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Say What U Mean](https://open.spotify.com/album/0uAiFV7gQXyntZRXX71zZp) | 3:44 | 2023-08-25 | 2024-03-19 |
@@ -399,6 +400,7 @@
 | [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 | 2024-12-20 |  |
 | [Wait A Little Longer](https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Wait A Little Longer](https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv) | 3:28 | 2023-08-18 | 2023-11-24 |
 | [Waiting in Vain \- Spotify Singles](https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Waiting In Vain \(Spotify Singles\)](https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs) | 4:12 | 2024-02-28 | 2024-04-26 |
+| [Wanna Know](https://open.spotify.com/track/4DlFEmR9aTXJ0VsREeimrM) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [Wanna Know](https://open.spotify.com/album/65N53BDKqAMXSHILGYEHTn) | 4:26 | 2025-03-07 |  |
 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/76HTR3j128J2G6ipyh6XAd) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/1HotRLNhfRzXIFmtjGFaUo) | 2:46 | 2023-05-14 | 2023-07-22 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-27 | 2024-02-28 |
 | [We Keep On](https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:00 | 2024-01-26 | 2024-12-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Ancient North African rhythms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,279 likes - 50 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,295 likes - 50 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

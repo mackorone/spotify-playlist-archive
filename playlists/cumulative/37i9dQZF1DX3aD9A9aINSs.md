@@ -4,7 +4,7 @@
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Ceren Gündoğdu
 
-1,854 songs - 4 day 1 hr 25 min
+1,855 songs - 4 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1829,6 +1829,7 @@
 | [Öpüşünle Boynumdan](https://open.spotify.com/track/1WwbiqFfGaIlqa63q2lCMT) | [Güneş Özgeç](https://open.spotify.com/artist/6mkCYg6ZwD3mv7XnLy19CB) | [Öpüşünle Boynumdan](https://open.spotify.com/album/6BmDTTrYFW7askosgQZhal) | 3:38 | 2022-11-01 | 2022-12-01 |
 | [Öpüşürken Aşıklar \(0 Km Soundtrack\)](https://open.spotify.com/track/6ndc6YNQyArpNAaGU82Sdh) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [Öpüşürken Aşıklar \(0 Km Soundtrack\)](https://open.spotify.com/album/0E1ybwCmL4beZIrfhD0EKJ) | 3:13 | 2024-11-05 | 2024-12-05 |
 | [Öteki](https://open.spotify.com/track/5jUJx7g6WbQoChHHMnzlUJ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Öteki](https://open.spotify.com/album/0XvMqA0pq9o5WogJfeD0ge) | 3:38 | 2025-03-04 |  |
+| [Özgürlük](https://open.spotify.com/track/19oVO1hFQBqrum2bmHBqvC) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Özgürlük](https://open.spotify.com/album/1H2JdnSioGeGGgnxfyT0rN) | 3:03 | 2025-03-06 |  |
 | [ÖZGÜRLÜK \(feat\. Idyl\)](https://open.spotify.com/track/5ICnjQOex9xUQY6bf5aapg) | [Kool Jane](https://open.spotify.com/artist/2yZne9YF6l3lsnyU3tmj8V), [Idyl](https://open.spotify.com/artist/06y318eaH7JHOfd4u3THV0) | [ÖZGÜRLÜK \(feat\. Idyl\)](https://open.spotify.com/album/3XyYgUQ6wMs590HvIYzjfG) | 3:41 | 2022-07-05 | 2023-01-04 |
 | [Özledin mi Sen de?](https://open.spotify.com/track/2iEqZuWvVDD6dcR9CAImds) | [Ceyda Karadeniz](https://open.spotify.com/artist/1ku2XLDVzNGNnlT7jBSssA) | [Özledin mi Sen de?](https://open.spotify.com/album/0OQJ2UnyBJlNZO3DI7D2Fc) | 2:43 | 2024-11-05 | 2024-12-05 |
 | [Özlem \- Özdemir Asaf 100 Yaşında](https://open.spotify.com/track/6V0U6iDiTVCVSkh92h0BgQ) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Özlem \(Özdemir Asaf 100 Yaşında\)](https://open.spotify.com/album/5NIQK83EZttFRUIKOCwq0b) | 3:03 | 2024-04-02 | 2024-05-02 |

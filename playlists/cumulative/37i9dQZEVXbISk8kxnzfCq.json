@@ -14212,7 +14212,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -15482,7 +15482,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 147981,
       "name": "Pika Pika",
       "url": "https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ"
@@ -15936,7 +15936,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
@@ -16162,7 +16162,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 235133,
       "name": "Propuesta Indecente",
       "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
@@ -19677,6 +19677,24 @@
     },
     {
       "album": {
+        "name": "TATTOO",
+        "url": "https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167955,
+      "name": "TATTOO",
+      "url": "https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P"
+    },
+    {
+      "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
@@ -22052,7 +22070,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"

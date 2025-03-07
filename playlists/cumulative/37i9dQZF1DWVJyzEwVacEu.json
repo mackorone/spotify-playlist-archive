@@ -767,6 +767,32 @@
     },
     {
       "album": {
+        "name": "Born To Love Ya",
+        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Born To Love Ya",
+      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+    },
+    {
+      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/15hXWoOGHJ59KPpFQjwuCU"
       },
@@ -1216,6 +1242,28 @@
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4JNdwEfqwFRiAeEISC8RU8"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "album": {
@@ -3686,7 +3734,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
@@ -4680,7 +4728,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 199433,
       "name": "Wat Wil Je Van Mij",
       "url": "https://open.spotify.com/track/7Gzz44FpTbZu0DNVVZjwPs"

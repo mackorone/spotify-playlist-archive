@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Monika Kocio\u0142ek",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: MODELKI",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Biesiada",
+        "url": "https://open.spotify.com/album/18K7NjK1aZAJ7GGSOGmO78"
+      },
+      "artists": [
+        {
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Biesiada",
+      "url": "https://open.spotify.com/track/5ACcmsIzuy1FyzWbsdr4Ii"
+    },
+    {
+      "album": {
         "name": "Bilet",
         "url": "https://open.spotify.com/album/5DR5gLvBrjJ2ie604s9hlh"
       },
@@ -554,6 +572,28 @@
       "duration_ms": 105494,
       "name": "brudny moncler",
       "url": "https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq"
+    },
+    {
+      "album": {
+        "name": "Brzask",
+        "url": "https://open.spotify.com/album/1NtLFp5R9zgU5TA9nKI4s4"
+      },
+      "artists": [
+        {
+          "name": "Natalia Nykiel",
+          "url": "https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj"
+        },
+        {
+          "name": "Micha\u0142 Lange",
+          "url": "https://open.spotify.com/artist/5sh77l01GDJ6JfCWs1CiiB"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180451,
+      "name": "Brzask",
+      "url": "https://open.spotify.com/track/2AjeHRSpLchzpFpkHDH0Pa"
     },
     {
       "album": {
@@ -948,7 +988,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 169142,
       "name": "Cynamonka",
       "url": "https://open.spotify.com/track/2VG0jlPDbLEUsP9Xb7FNL6"
@@ -1532,6 +1572,28 @@
       "duration_ms": 145961,
       "name": "Dziewczyno Pi\u0119kna",
       "url": "https://open.spotify.com/track/7i8r3Oev7BKcdtz78yD57J"
+    },
+    {
+      "album": {
+        "name": "Dziewczyny Nie P\u0142acz\u0105",
+        "url": "https://open.spotify.com/album/3Ci1G2TzjXgOrIPIJMtCMW"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196625,
+      "name": "Dziewczyny Nie P\u0142acz\u0105",
+      "url": "https://open.spotify.com/track/3HVcdH7cIOBYGsh274XadC"
     },
     {
       "album": {
@@ -2273,6 +2335,28 @@
     },
     {
       "album": {
+        "name": "Inwokacja (A. Mickiewicz)",
+        "url": "https://open.spotify.com/album/1L9euGnZPHhEvhZH2zP9tu"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Grzegorz Skawinski",
+          "url": "https://open.spotify.com/artist/0QYXoK7cFNjYurpMDWHlPb"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301389,
+      "name": "Inwokacja (A. Mickiewicz)",
+      "url": "https://open.spotify.com/track/4RBNFEluJTXQvpd3RJNPff"
+    },
+    {
+      "album": {
         "name": "JA SI\u0118 CHYBA ZAKOCHA\u0141AM",
         "url": "https://open.spotify.com/album/6naYVbFECwe7ayJeUbR9Qp"
       },
@@ -2506,6 +2590,24 @@
       "duration_ms": 160709,
       "name": "kochaj na serio",
       "url": "https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ"
+    },
+    {
+      "album": {
+        "name": "Kocham",
+        "url": "https://open.spotify.com/album/3WA2hjAU8hg3LsPIH4yun3"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227044,
+      "name": "Kocham",
+      "url": "https://open.spotify.com/track/68pQlMru6HFuMXx7vH5L02"
     },
     {
       "album": {
@@ -2790,7 +2892,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 162919,
       "name": "La Casa",
       "url": "https://open.spotify.com/track/4jG90NYnPz3eMaBhWPsmO1"
@@ -3626,7 +3728,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 279219,
       "name": "Murem",
       "url": "https://open.spotify.com/track/4XOGrVErLm5m1t7scpbQbU"
@@ -4442,7 +4544,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 165679,
       "name": "Notting Hill",
       "url": "https://open.spotify.com/track/6ujehISvIr8VAyYVwHyqMd"
@@ -4475,6 +4577,24 @@
     },
     {
       "album": {
+        "name": "o tobie wers",
+        "url": "https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E"
+      },
+      "artists": [
+        {
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165913,
+      "name": "o tobie wers",
+      "url": "https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af"
+    },
+    {
+      "album": {
         "name": "Obca",
         "url": "https://open.spotify.com/album/2OlRkoAlAt76nhOhn30rIK"
       },
@@ -4490,6 +4610,24 @@
       "duration_ms": 162857,
       "name": "Obca",
       "url": "https://open.spotify.com/track/1mM3zG72lDhGcCE8CG9XT7"
+    },
+    {
+      "album": {
+        "name": "Ob\u0142\u0119d",
+        "url": "https://open.spotify.com/album/2XwXYiM4iwFDjLaDuUtj9R"
+      },
+      "artists": [
+        {
+          "name": "Patrycja Markowska",
+          "url": "https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261446,
+      "name": "Ob\u0142\u0119d",
+      "url": "https://open.spotify.com/track/747VUsj8BpxIAtOOjBpc7D"
     },
     {
       "album": {
@@ -4783,6 +4921,28 @@
     },
     {
       "album": {
+        "name": "Piasek i wiatr",
+        "url": "https://open.spotify.com/album/2BPDA5k0qqCoxxteCZC4p1"
+      },
+      "artists": [
+        {
+          "name": "Krys Day",
+          "url": "https://open.spotify.com/artist/24HCzpEgv5J8AZEVmvuS9G"
+        },
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158369,
+      "name": "Piasek i wiatr",
+      "url": "https://open.spotify.com/track/3gupafxSYSKnZFPX1VxK1S"
+    },
+    {
+      "album": {
         "name": "Pierwszy",
         "url": "https://open.spotify.com/album/5HP3AjXihFNWmUZ9EeX9bg"
       },
@@ -4812,7 +4972,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 184900,
       "name": "Pierwszy Krok",
       "url": "https://open.spotify.com/track/5XaenrqYGThZEVvXZUWFPN"
@@ -5724,7 +5884,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 240039,
       "name": "Sztuka",
       "url": "https://open.spotify.com/track/5BWSe0116hTQNvd1L2MguA"
@@ -6564,7 +6724,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 195104,
       "name": "wiem w kt\u00f3r\u0105 stron\u0119",
       "url": "https://open.spotify.com/track/3zOihk0uHXXxv6R0WBRjqh"
@@ -6884,7 +7044,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 173949,
       "name": "Za p\u00f3\u017ano",
       "url": "https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB"

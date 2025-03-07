@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 Billion streams on Spotify\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,311 likes - 896 songs - 2 day 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,686 likes - 896 songs - 2 day 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -642,7 +642,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 632 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
 | 633 | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3) | 3:32 |
 | 634 | [Dynamite](https://open.spotify.com/track/1DqdF42leyFIzqNDv9CjId) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr](https://open.spotify.com/album/159jpldDCgsgH6KGgjy63c) | 3:23 |
-| 635 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ) | 4:11 |
+| 635 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ) | 4:11 |
 | 636 | [Never Forget You](https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:33 |
 | 637 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
 | 638 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 |

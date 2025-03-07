@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Klavdia
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Evangelia \#ΠαγκόσμιαΗμέραΓυναίκας
 
-135 songs - 7 hr 1 min
+136 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Rota](https://open.spotify.com/track/431GUPxkKxF3BPbr6ujoYv) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Les Kai Me Xeris](https://open.spotify.com/album/4CkKRnleXl0IWkdH3Q4U2s) | 3:37 | 2024-06-27 | 2024-07-05 |
 | [S' Agapao Giati](https://open.spotify.com/track/7Geun1wRSkuwyYF4mknenV) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [S' Agapao Giati](https://open.spotify.com/album/6DdRDf4kUgTC1D9kKFVTRa) | 3:48 | 2024-06-27 | 2024-12-13 |
 | [S' Agapisa Apo Tin Proti Stigmi](https://open.spotify.com/track/5lww7Vxi4xqmRbI57gfyI6) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [S' Agapisa Apo Tin Proti Stigmi](https://open.spotify.com/album/47z3WT3HjiN9WZEHfpBwbW) | 3:30 | 2024-06-27 | 2025-02-14 |
+| [Se Mia Stigmi](https://open.spotify.com/track/4O01JSmioAlbEgpxKTVczo) | [Tania Breazou](https://open.spotify.com/artist/0kLn8jOEDFY8KfArE2wn8r) | [Se Mia Stigmi](https://open.spotify.com/album/6JG6ZymOscG7SsvhD1SSqr) | 3:38 | 2025-03-06 |  |
 | [Se Periptosi Pou](https://open.spotify.com/track/4iJkeikfkJ7EzkR2xUu0m4) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Se Periptosi Pou](https://open.spotify.com/album/5aPSVgtTRWQd7DJNS746Dn) | 3:58 | 2024-11-07 |  |
 | [Secret Combination \- Pride Version](https://open.spotify.com/track/4qlHRlD4ZmCeE9dylyifTd) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH), [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44), [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g) | [Secret Combination \(Pride Version\)](https://open.spotify.com/album/5wsPmRZhLRI5g5cQ33EwRd) | 2:44 | 2024-07-25 | 2024-10-11 |
 | [Siga To Prama](https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Siga To Prama](https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO) | 2:35 | 2024-06-27 | 2024-11-22 |
@@ -141,7 +142,7 @@
 | [Xristougenna Mazi](https://open.spotify.com/track/2bkVTJ3PgkpNiOphHdGfWH) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Xristougenna Mazi](https://open.spotify.com/album/09Qy7rM2GkUTzSysaPV3GE) | 2:29 | 2024-12-19 | 2025-01-24 |
 | [XRONOS](https://open.spotify.com/track/0pj5UEo8SZSHlKkmKxURWo) | [ZAF](https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO) | [TRUE LOVE STORY: Part 1](https://open.spotify.com/album/3EKby9F8OQyOKPZihUiFO5) | 3:11 | 2024-06-27 | 2024-12-13 |
 | [Xrysopsara](https://open.spotify.com/track/7fB6xNyWP2NR3Ibbn9AeIF) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Xrysopsara](https://open.spotify.com/album/0c7rZBUiSJxTYqED0SfLYW) | 3:54 | 2024-06-27 | 2024-07-19 |
-| [Xrysopsara \- Display & Tony Fragment Remix](https://open.spotify.com/track/3bbac3ROc4kqb6tMJhe5mD) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28), [Tony Fragment](https://open.spotify.com/artist/1wJgXiiCi9LunRlb0nrrxj) | [Xrysopsara \(Display & Tony Fragment Remix\)](https://open.spotify.com/album/3arKOWYRyVlDbX8Z4nJBOM) | 3:34 | 2024-07-18 |  |
+| [Xrysopsara \- Display & Tony Fragment Remix](https://open.spotify.com/track/3bbac3ROc4kqb6tMJhe5mD) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28), [Tony Fragment](https://open.spotify.com/artist/1wJgXiiCi9LunRlb0nrrxj) | [Xrysopsara \(Display & Tony Fragment Remix\)](https://open.spotify.com/album/3arKOWYRyVlDbX8Z4nJBOM) | 3:34 | 2024-07-18 | 2025-03-07 |
 | [Yperfainomeno](https://open.spotify.com/track/2Yqy3VMmglyH7rn4EfXKPq) | [Demy](https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM) | [Yperfainomeno](https://open.spotify.com/album/3yF1BVK5VErdnm9m7Be9fD) | 2:47 | 2024-06-27 | 2024-07-05 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

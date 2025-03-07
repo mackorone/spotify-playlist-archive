@@ -4,12 +4,12 @@
 
 > 2019年に幕を開けた令和。ストリーミングや動画サイトでのバイラルが影響力を増し、社会情勢や価値観が激動している"ニューノーマル"な時代のポップミュージック。
 
-353 songs - 20 hr 34 min
+355 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\):阿修羅:\(](https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:31 | 2023-12-12 | 2024-01-05 |
-| [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 | 2025-02-14 |  |
+| [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 | 2025-02-14 | 2025-03-07 |
 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 | 2024-01-10 |  |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2023-12-12 | 2025-02-21 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2023-12-12 |  |
@@ -280,7 +280,7 @@
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2023-12-12 |  |
 | [不可幸力](https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:20 | 2024-04-23 |  |
 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 | 2024-01-10 | 2024-01-31 |
-| [今日だけ I LOVE YOU \- Japanese Ver.](https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [今日だけ I LOVE YOU \(Japanese Ver.\)](https://open.spotify.com/album/60xOAemKnuMAHORMZofpcN) | 2:41 | 2025-02-03 |  |
+| [今日だけ I LOVE YOU \- Japanese Ver.](https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [今日だけ I LOVE YOU \(Japanese Ver.\)](https://open.spotify.com/album/60xOAemKnuMAHORMZofpcN) | 2:41 | 2025-02-03 | 2025-03-07 |
 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 | 2024-05-17 | 2024-08-30 |
 | [何色でもない花](https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [何色でもない花](https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk) | 4:03 | 2024-02-21 | 2024-04-26 |
 | [元彼女のみなさまへ](https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [元彼女のみなさまへ](https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf) | 4:08 | 2024-09-27 | 2025-02-07 |
@@ -307,6 +307,7 @@
 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 | 2024-02-07 | 2024-03-27 |
 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-20 |  |
 | [恋人ごっこ](https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 3:20 | 2024-05-08 | 2025-03-01 |
+| [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 | 2025-03-06 |  |
 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 | 2024-08-21 | 2025-02-03 |
 | [想望](https://open.spotify.com/track/2jTXs5PwRmPRWyJQ4lKfIR) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [想望](https://open.spotify.com/album/5FximYjhARhnGEDF1A6fWZ) | 4:24 | 2024-02-07 | 2024-04-24 |
 | [愛が一層メロウ](https://open.spotify.com/track/7ijvSBcVrLn8SiCRGzxKjx) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ](https://open.spotify.com/album/5LWzSqpZTyKiZSKn2BM7xE) | 3:12 | 2024-01-10 | 2024-01-31 |
@@ -335,6 +336,7 @@
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-12-12 | 2024-04-24 |
 | [猫](https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [僕たちがやりました](https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0) | 4:36 | 2024-11-08 | 2025-01-25 |
 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-11 | 2024-09-13 |
+| [真っ白](https://open.spotify.com/track/3GiADMmI5jfkhF2o4a2G8N) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [真っ白](https://open.spotify.com/album/2aKu1BAfHa6EJBX4ibdaQI) | 4:54 | 2025-03-06 |  |
 | [眩しい、眩しすぎる](https://open.spotify.com/track/0GgTd7vT5PgAmLhNl49i9k) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:52 | 2024-06-12 | 2024-07-05 |
 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 | 2024-06-03 | 2024-10-18 |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2024-04-16 | 2024-04-24 |

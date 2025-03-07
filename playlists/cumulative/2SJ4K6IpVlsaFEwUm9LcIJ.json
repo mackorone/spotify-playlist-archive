@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+    },
+    {
+      "album": {
         "name": "Constance",
         "url": "https://open.spotify.com/album/4w29IA02Wl4V54uD8bXbry"
       },
@@ -1662,6 +1680,24 @@
       "duration_ms": 100613,
       "name": "Devo",
       "url": "https://open.spotify.com/track/5gpvNp0THuMQEAkU1Kt0fB"
+    },
+    {
+      "album": {
+        "name": "Musicality",
+        "url": "https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn"
+      },
+      "artists": [
+        {
+          "name": "Salako",
+          "url": "https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "Do It Yourself",
+      "url": "https://open.spotify.com/track/7mqzQCR7KIPxvPFU5IoFkn"
     },
     {
       "album": {

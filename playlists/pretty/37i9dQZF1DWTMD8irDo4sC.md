@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,295 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,305 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

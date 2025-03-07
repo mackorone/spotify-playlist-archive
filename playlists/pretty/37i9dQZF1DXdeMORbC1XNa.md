@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: MOLIY
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,426 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,461 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 49 | [Continent](https://open.spotify.com/track/2e9FcY7bVjs4Hu0IV1o0EG) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Continent](https://open.spotify.com/album/1AW8nCr4tc04eI86BCLsNx) | 2:30 |
 | 50 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
 
-Snapshot ID: `Z8cF1gAAAACH+3KZ8iBCxc8GO41MS2JU`
+Snapshot ID: `Z8o3EAAAAAAksN0292h8KqK15CCzie8d`

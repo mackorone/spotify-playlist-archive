@@ -2,9 +2,9 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Robin Schulz au top des bangers dance/electro du moment !
+> BENNETT x Mentissa au top des bangers dance/electro du moment !
 
-241 songs - 11 hr 6 min
+242 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Enjoy The Silence](https://open.spotify.com/track/7hv1R50mjtML59cNzkiqi4) | [Make Sense](https://open.spotify.com/artist/2rtefFoZFsWeyIvuTGB327) | [Enjoy The Silence](https://open.spotify.com/album/5hokhMrVOniHdIHfmlZ3NB) | 2:54 | 2024-02-01 | 2024-02-16 |
 | [Euphoria \(with Alok\)](https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Euphoria \(with Alok\)](https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp) | 2:31 | 2025-01-23 |  |
 | [Everytime We Touch](https://open.spotify.com/track/14cxJ5uLXafpMWPAsJgEYt) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [Astrid James](https://open.spotify.com/artist/5JCfpZxK6ir2Gj4X4pBKcJ) | [Everytime We Touch](https://open.spotify.com/album/10WpaZTGRFjzoDrA2iYztE) | 2:43 | 2025-01-02 |  |
+| [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-03-06 |  |
 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 | 2024-04-04 | 2024-10-25 |
 | [Fable](https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Fable](https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk) | 2:45 | 2023-09-28 | 2024-02-02 |
 | [Feeling Good](https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Feeling Good](https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk) | 3:23 | 2024-04-11 | 2024-08-16 |
@@ -122,7 +123,7 @@
 | [J'aime tout chez toi \(Mr\. Saxobeat\)](https://open.spotify.com/track/3WDNzBd5I2V6LdIWjrelAL) | [Léa Zelia](https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk), [FABYAN](https://open.spotify.com/artist/0q4kJe4YxNpszJIxq0BJEi) | [J'aime tout chez toi \(Mr\. Saxobeat\)](https://open.spotify.com/album/0DCFh9LSyJshpfA0Blg2RN) | 2:20 | 2025-02-13 |  |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-08-29 |  |
 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 | 2023-09-28 | 2024-01-19 |
-| [La Bohème](https://open.spotify.com/track/35XPv6YnBbJzzhxol0h2uK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN) | [La Bohème](https://open.spotify.com/album/0KPV5PV7fs0qD0KRPbDTEH) | 3:27 | 2025-02-13 |  |
+| [La Bohème](https://open.spotify.com/track/35XPv6YnBbJzzhxol0h2uK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN) | [La Bohème](https://open.spotify.com/album/0KPV5PV7fs0qD0KRPbDTEH) | 3:27 | 2025-02-13 | 2025-03-07 |
 | [La Foule \(Le Monde Mix\)](https://open.spotify.com/track/3TAodHlgfoNpH5cg2JTMnh) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [StereoKilla](https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy) | [La Foule \(Le Monde Mix\)](https://open.spotify.com/album/38zm4QMrXL4VnZVMsrZT7C) | 1:52 | 2024-01-18 | 2024-03-10 |
 | [La Foule \- Le Monde Mix](https://open.spotify.com/track/3aq4uXTRtKg1BONQ21VlN2) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [StereoKilla](https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy) | [La Foule \(Le Monde Mix\)](https://open.spotify.com/album/6SMFk2Egch340H3mPffWJJ) | 1:52 | 2024-03-07 | 2024-03-29 |
 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 | 2023-09-28 | 2024-03-23 |

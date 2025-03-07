@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpFtEnv8jD6.md) - [plain]
 
 > Oficjalna playlista Great September Festival\. Posłuchaj wyjątkowych artystów, którzy wystąpią na festiwalu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,234 likes - 207 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,233 likes - 207 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

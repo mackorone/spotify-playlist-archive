@@ -4,7 +4,7 @@
 
 > Bağımsız yerli sahneden keşifler\. Kapak: Nana Hera  Çizim: Isu Kim
 
-949 songs - 2 day 4 hr 39 min
+951 songs - 2 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Ben Robot Değilim](https://open.spotify.com/track/00MJZFqibuTRmchx9uqDp5) | [Siyah Tavşan](https://open.spotify.com/artist/27Qkx7izWNJ3aa270VVe7V) | [Ben Robot Değilim](https://open.spotify.com/album/1ozHdHzy6pxPbY9jMHJqWE) | 3:28 | 2024-07-16 | 2024-08-14 |
 | [ben sende kaldım](https://open.spotify.com/track/7d9CebFaogwc2qxvaqKaxR) | [Furkan Bozdemir](https://open.spotify.com/artist/1YmcVUtktVed7oKoJBoCIb) | [ben sende kaldım](https://open.spotify.com/album/4pwvUStyyWlmTSJ9Ji2s5r) | 2:20 | 2023-01-10 | 2023-03-29 |
 | [Benden Adam Olmaz](https://open.spotify.com/track/4AjreqJKqRkFmYRTYvsXfT) | [Azure Wrath](https://open.spotify.com/artist/4jkgIFWljOfnbcE1fkwcQX) | [Benden Adam Olmaz](https://open.spotify.com/album/1KOVE7Rll1wNNHDZ1RAomj) | 2:08 | 2024-01-30 | 2024-02-14 |
-| [Benden Uzakta Olsun](https://open.spotify.com/track/0CxoT8bGXQRxHeU6Sj5kNg) | [dikir](https://open.spotify.com/artist/1UVi5UOP3LCml0HhfOmkq8) | [Benden Uzakta Olsun](https://open.spotify.com/album/7FIO5Ed63oWU0U36CztqXi) | 4:10 | 2025-01-08 |  |
+| [Benden Uzakta Olsun](https://open.spotify.com/track/0CxoT8bGXQRxHeU6Sj5kNg) | [dikir](https://open.spotify.com/artist/1UVi5UOP3LCml0HhfOmkq8) | [Benden Uzakta Olsun](https://open.spotify.com/album/7FIO5Ed63oWU0U36CztqXi) | 4:10 | 2025-01-08 | 2025-03-07 |
 | [Beni Affedin](https://open.spotify.com/track/2Nnb3bAeL5KUgfs1lop4gO) | [Canb](https://open.spotify.com/artist/2j6Njk4Gb8Txqu7UVz1Qsk) | [Beni Affedin](https://open.spotify.com/album/0xR13vlW92DiZGXQbgfM6N) | 2:50 | 2024-02-13 | 2024-02-21 |
 | [Beni Al](https://open.spotify.com/track/3bBjs4fpIIFlXwmWUZDSNy) | [Serra Arıtürk](https://open.spotify.com/artist/6my1E0Xgjweume5eR9cWW7) | [Beni Al](https://open.spotify.com/album/3SG7VbNBaTwktNgi2vNm54) | 3:11 | 2024-02-20 | 2024-03-20 |
 | [Beni de Kendine Benzettin](https://open.spotify.com/track/2ZbYaf7AzESGpVd3yjcKeD) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Beni de Kendine Benzettin](https://open.spotify.com/album/4FrcDo79Wu0sZkhPPnOw6F) | 2:58 | 2024-08-08 | 2024-10-02 |
@@ -285,6 +285,7 @@
 | [En Güzel Halimle](https://open.spotify.com/track/4y7GZvMvZNdw97PcJKnRpy) | [Köşk](https://open.spotify.com/artist/2HlyUUso1Y7uFARuLJo52l) | [En Güzel Halimle](https://open.spotify.com/album/1pG6qwvm6bI3AJXQikQsWi) | 3:27 | 2021-12-03 | 2022-01-20 |
 | [En Güzel İlhamlar](https://open.spotify.com/track/2o4oicZfbrB6zEiwbG0hRO) | [Fakala](https://open.spotify.com/artist/1ivnvWJCO2FakSGbp8lrLx), [Emre Güneş](https://open.spotify.com/artist/4eVzG1JHRDCTCgomp0gOa7) | [En Güzel İlhamlar](https://open.spotify.com/album/0BgZIfDOe8Jbu5sXrEWkg7) | 2:20 | 2024-06-11 | 2024-07-03 |
 | [Enkaz](https://open.spotify.com/track/2kiCVqQ6W5f62yZWEVj9AQ) | [Eve Dönüş Yok](https://open.spotify.com/artist/2tQmQVQ4gE2PdDTUvnfnsB) | [Enkaz](https://open.spotify.com/album/4l3aqE1q0YsJtS19sis8EA) | 3:31 | 2025-02-11 |  |
+| [Erenköy/Kazasker](https://open.spotify.com/track/0NBgK927zx6sjS94ffWTgR) | [vicotüco](https://open.spotify.com/artist/4U7K9tHdYMndwq8Dvbv9vX) | [Erenköy/Kazasker](https://open.spotify.com/album/765n6Rqcy18fxVw9XOWPlZ) | 3:50 | 2025-03-06 |  |
 | [Erteledim](https://open.spotify.com/track/6cnkeHtbVapV7kvcVtHt0c) | [Farkındaysan Ayrıyız](https://open.spotify.com/artist/33STJLGzC6zH2dKkWphzpF) | [Erteledim](https://open.spotify.com/album/6QA1vcR6w1SlhN6hVulrwa) | 2:10 | 2022-04-01 | 2022-12-01 |
 | [Eski](https://open.spotify.com/track/7MYvdbz4gCg6NIj0KD4pav) | [onikincikat](https://open.spotify.com/artist/2dCLNI3x4Q5sJaWHLYrU8j) | [Eski](https://open.spotify.com/album/044Wzc2nUI8VF4wRoq1qMP) | 4:23 | 2025-02-14 |  |
 | [Eskisi Gibi](https://open.spotify.com/track/4PcsRf7ekX9L1O03ht9sZp) | [Balıklar](https://open.spotify.com/artist/5GcsDYR1T7WWHL0UiEp7cn) | [Eskisi Gibi](https://open.spotify.com/album/1x1cC0K2HrM29GN908rHhw) | 4:03 | 2023-03-14 | 2023-04-12 |
@@ -433,7 +434,7 @@
 | [İstediğinde Yaz](https://open.spotify.com/track/72i9BuzxgCh8M5tnoYkCNy) | [merhababensokak](https://open.spotify.com/artist/3G9IfSbpM10wK68aNR9k4Y) | [İstediğinde Yaz](https://open.spotify.com/album/1u8SgswIRJMP9jKpkyZ5lk) | 4:30 | 2024-02-20 | 2024-03-27 |
 | [İstediğini Yap](https://open.spotify.com/track/6fikhvPbPEs2MQpoxH6JzS) | [Eva Benır](https://open.spotify.com/artist/6KLBlzcPbk9ZzNDhRz6TNS) | [İstediğini Yap](https://open.spotify.com/album/0xobMtwbkKB6rF59SykKVz) | 3:17 | 2024-08-25 | 2024-09-25 |
 | [İsteyince Ay'a Gitsem](https://open.spotify.com/track/61A2gNV7U32XUDJaUlbQjw) | [Sokaklar Uyurken](https://open.spotify.com/artist/0QV8ZnVGZvfsjuXsG4JWxy) | [İsteyince Ay'a Gitsem](https://open.spotify.com/album/3vdxoPZ5hdMxKQCP7V5pNF) | 4:20 | 2022-01-19 | 2023-01-11 |
-| [İstila](https://open.spotify.com/track/6AOkSzQFaCrbCuhxGZF6ID) | [PANIKATAK!](https://open.spotify.com/artist/45SgeSZjFIRlBnjxMb3Owl) | [Tabutta Rövaşata](https://open.spotify.com/album/05S4bh4wp8hXoLhl2pHAbD) | 2:54 | 2025-01-08 |  |
+| [İstila](https://open.spotify.com/track/6AOkSzQFaCrbCuhxGZF6ID) | [PANIKATAK!](https://open.spotify.com/artist/45SgeSZjFIRlBnjxMb3Owl) | [Tabutta Rövaşata](https://open.spotify.com/album/05S4bh4wp8hXoLhl2pHAbD) | 2:54 | 2025-01-08 | 2025-03-07 |
 | [İTİNAYLA](https://open.spotify.com/track/5TGjpNY37OfEQVdLDHTet8) | [mojave](https://open.spotify.com/artist/0n5xSieOLh8rvV2SxiZE6p) | [İTİNAYLA](https://open.spotify.com/album/0gjYzKFM9FPPdo2pjbtoZ4) | 2:52 | 2023-05-09 | 2023-09-27 |
 | [İyice](https://open.spotify.com/track/426wK2C1H84Hbc6prZ867Y) | [nisan](https://open.spotify.com/artist/3aQGRAu09wYHPR1u9bVn2U), [Neva](https://open.spotify.com/artist/5Mc80B08U84VTd98nZcvuD) | [İyice](https://open.spotify.com/album/4hNXpTZQWuDDCjPDhIkSRs) | 2:08 | 2024-04-09 | 2024-06-12 |
 | [İçine Kapanık](https://open.spotify.com/track/7IxfBSFvzt4eHRNSy65nr3) | [Vesvas](https://open.spotify.com/artist/2uXkRRy7mAYdQ3TuYCSruj) | [İçine Kapanık](https://open.spotify.com/album/2iP090wIiyyJzCAcsZVFhJ) | 2:43 | 2024-02-27 | 2024-03-27 |
@@ -802,6 +803,7 @@
 | [UÇURUM](https://open.spotify.com/track/55Q6M66q3dnqQHY8TqfXPr) | [ÖzgürCan](https://open.spotify.com/artist/6m1bPVZMf5Hsi8cgmEs1yy) | [UÇURUM](https://open.spotify.com/album/3DjClJjXrB8cRv8FlHazPQ) | 3:16 | 2024-07-23 | 2024-09-11 |
 | [Vahşi Batı \- Sen de Gidersen](https://open.spotify.com/track/02bU70DDBBpddDUFX7enPW) | [milan](https://open.spotify.com/artist/6H4fK0pTozmBGLQye7VHOe) | [Vahşi Batı \(Sen de Gidersen\)](https://open.spotify.com/album/4RV0JbTdTrVQFS6gCYWy34) | 2:24 | 2024-01-09 | 2024-02-28 |
 | [Vay](https://open.spotify.com/track/1m4jmaKU6qdFt2vOvrdIIr) | [Mel](https://open.spotify.com/artist/1qjxRRfEpiL8MHBGyTwCwT) | [Vay](https://open.spotify.com/album/3F8ImOyMoZrparyzvlAGBO) | 3:14 | 2022-02-17 | 2022-03-18 |
+| [Vazgeçme](https://open.spotify.com/track/1lWVA16F4B4DaeGDYZ13Ta) | [Nazzan](https://open.spotify.com/artist/2OeEzfsPurEqwhV65HBnln) | [Vazgeçme](https://open.spotify.com/album/3whhza2mQ71ICeZBKnpKS7) | 2:21 | 2025-03-06 |  |
 | [Vazgeçmek Kolay](https://open.spotify.com/track/3qCbzfDbpvUysQhWqHtXeN) | [Ozan Çekemci](https://open.spotify.com/artist/3QeQkkFYjm5levcc6JyoNw) | [Ayrılık Hikayesi](https://open.spotify.com/album/0dfJd34Oq8YW1Ghtng712O) | 3:18 | 2024-08-08 | 2024-10-02 |
 | [Vazgeçmem](https://open.spotify.com/track/6jf7ExEtAN4PrWSgq09RFF) | [Gizli Geçit](https://open.spotify.com/artist/35tnYESdG3jdd51pSwVg9U), [Tamer Temel](https://open.spotify.com/artist/4ELdlYVFyf5cqZk3T7LW3t) | [Vazgeçmem](https://open.spotify.com/album/3k8P9Cvc14LpKAvK66S3eX) | 4:29 | 2025-01-08 | 2025-02-12 |
 | [Vazgeçtim](https://open.spotify.com/track/0KS4CB9Xb4WaNK0dE0O4tq) | [Fakfakan](https://open.spotify.com/artist/5FkhxeNiNmTDeeDI9K3RUQ) | [Ucube](https://open.spotify.com/album/1ivimtY1h5HMtr3PMYuDYr) | 2:38 | 2023-09-12 | 2023-11-30 |

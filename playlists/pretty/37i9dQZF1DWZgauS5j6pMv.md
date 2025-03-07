@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Maya Delilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,070 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,119 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

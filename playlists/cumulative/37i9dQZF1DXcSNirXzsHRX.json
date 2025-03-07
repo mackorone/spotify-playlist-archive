@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "By a Monster\u2019s Hand",
+        "url": "https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222960,
+      "name": "By a Monster\u2019s Hand",
+      "url": "https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9"
+    },
+    {
+      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -968,7 +986,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 371413,
       "name": "Heroes - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 194146,
       "name": "Old Time Rock & Roll",
       "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
@@ -1870,6 +1888,28 @@
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
+        "name": "The Humbling",
+        "url": "https://open.spotify.com/album/5VVQNHawzDOz6QODXrrfT5"
+      },
+      "artists": [
+        {
+          "name": "Afterlove",
+          "url": "https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm"
+        },
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180416,
+      "name": "The Humbling",
+      "url": "https://open.spotify.com/track/6yMU9TxM9GSmVZSsPFtcXE"
     },
     {
       "album": {

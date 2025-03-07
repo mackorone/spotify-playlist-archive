@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Your new favourite songs! Cover: Tate McRae",
+  "description": "Your new favourite songs! Cover: Young Franco",
   "name": "Breaking Hits",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 198920,
       "name": "A Lot More Free",
       "url": "https://open.spotify.com/track/3i86MS9vF1VCf0h2IEpKWY"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 179858,
       "name": "All the Noise",
       "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
@@ -968,6 +968,24 @@
       "duration_ms": 280463,
       "name": "Antidote (feat. Sam Fischer)",
       "url": "https://open.spotify.com/track/2xjWiL4bvoU8HuQKCPc74M"
+    },
+    {
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
       "album": {
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 162115,
       "name": "BLAME",
       "url": "https://open.spotify.com/track/6krhdjLqzCefSnaGgUidUq"
@@ -2917,6 +2935,24 @@
     },
     {
       "album": {
+        "name": "cLOUDs",
+        "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242086,
+      "name": "cLOUDs",
+      "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
+    },
+    {
+      "album": {
         "name": "Coal",
         "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
@@ -3464,7 +3500,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -6261,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "How to Kill Houseplants",
+        "url": "https://open.spotify.com/album/3pNjRIYmIrPp84jgGnnebV"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208797,
+      "name": "How to Kill Houseplants",
+      "url": "https://open.spotify.com/track/01RAcFOiB1p7Jd5OPARfdy"
+    },
+    {
+      "album": {
         "name": "Unreal Unearth: Unending",
         "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
       },
@@ -8745,6 +8799,24 @@
     },
     {
       "album": {
+        "name": "Milkshake Man",
+        "url": "https://open.spotify.com/album/5LX9MOOXXd7ThnJDGGg7Mh"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172383,
+      "name": "Milkshake Man",
+      "url": "https://open.spotify.com/track/0TWdO0ephIotzHvGuv2pGC"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
       },
@@ -9080,6 +9152,24 @@
       "duration_ms": 143840,
       "name": "Mrs. Hollywood",
       "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
+    },
+    {
+      "album": {
+        "name": "Ms. Whitman",
+        "url": "https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw"
+      },
+      "artists": [
+        {
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126036,
+      "name": "Ms. Whitman",
+      "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"
     },
     {
       "album": {
@@ -11650,7 +11740,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 142935,
       "name": "SLOW IT DOWN",
       "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
@@ -12312,7 +12402,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
@@ -14174,6 +14264,24 @@
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "album": {

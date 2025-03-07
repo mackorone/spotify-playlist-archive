@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 
 > ¡El mejor condimento para tus comidas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,487 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,523 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,573 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,600 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

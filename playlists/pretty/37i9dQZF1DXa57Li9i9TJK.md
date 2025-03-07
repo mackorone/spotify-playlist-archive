@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 
 > Potras, rancherxs y la 🧀 Con Ha\*Ash y Thalia en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,916 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,945 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

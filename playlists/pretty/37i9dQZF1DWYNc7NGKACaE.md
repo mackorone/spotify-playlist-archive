@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,314 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,311 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

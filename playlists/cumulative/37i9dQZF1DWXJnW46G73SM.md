@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:زامباهولا \- شارموفرز و أكرم حسني
 
-1,403 songs - 3 day 6 hr 19 min
+1,404 songs - 3 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Ghossa \- غصة](https://open.spotify.com/track/3w1qCLfWkkzWrRxteohuew) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK), [Ziad Hisham](https://open.spotify.com/artist/246gQij0NFmuyWhnuhmRqk) | [Ghossa \- غصة](https://open.spotify.com/album/3gzV3AaSmB81i0Zz46GOPN) | 3:18 | 2024-07-08 | 2024-08-16 |
 | [Good Morning Baby](https://open.spotify.com/track/3XklYy1kjbs0y0HL5s56gU) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [Good Morning Baby](https://open.spotify.com/album/41rVNCKFx5rMKUKRKcyLdg) | 2:31 | 2022-05-04 | 2022-08-21 |
 | [Gowa Eneik](https://open.spotify.com/track/560gzpG954VltmHVDDJhql) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD), [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [Gowa Eneik](https://open.spotify.com/album/2Ni6XFg4E6e8vzkaMf206k) | 3:37 | 2023-07-28 | 2023-07-30 |
+| [Gowak 3alam \- ⁠جواك عالم](https://open.spotify.com/track/77Bl3uYpu80v7kcyk8AItD) | [National Bank of Egypt](https://open.spotify.com/artist/70BqpVrIq2RVr6HVPQXe4m), [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Gowak 3alam \- جواك عالم](https://open.spotify.com/album/6fiJH4OWo26RKvS03x9s9o) | 3:09 | 2025-03-06 |  |
 | [GPS](https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [GPS](https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD) | 3:17 | 2023-07-13 | 2023-08-16 |
 | [Habayeb Albi](https://open.spotify.com/track/1CXQ0YBCjBpNjjzPB7WCxn) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Habayeb Albi](https://open.spotify.com/album/7nC3FjyXyZtIglo9Zphvfv) | 2:58 | 2024-07-16 | 2024-09-06 |
 | [Habba Fo2](https://open.spotify.com/track/0vpfvsnG73kMqYJQLhECgc) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Habba Fo2](https://open.spotify.com/album/2qLsLY0ElXdXYY9iDiAjYw) | 2:59 | 2024-01-02 | 2024-02-08 |
@@ -1098,7 +1099,7 @@
 | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/track/0UDDU3BpxRA9tuXvXXp8hY) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/album/68OVb1DYVsSjAbAVCl03SW) | 3:30 | 2023-09-07 | 2023-12-25 |
 | [حمد الله على السلامة](https://open.spotify.com/track/2iKkj34fFU0fiQQm2HPuEx) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [حمد الله على السلامة](https://open.spotify.com/album/6otpGoLEbwlOE4Zm5UZmtv) | 2:55 | 2023-03-27 | 2023-05-12 |
 | [حوش الدلع](https://open.spotify.com/track/1bmpsrIYMeY9VmveBYu6Cc) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [حوش الدلع](https://open.spotify.com/album/0Xg67d18Abk7FgLGE9PDBQ) | 2:10 | 2024-10-04 | 2024-12-13 |
-| [حياتي الحلوة](https://open.spotify.com/track/7nKaQoZQ393y185966WSMC) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حياتي الحلوة](https://open.spotify.com/album/4g5ht2e1QyO4KGxRWtClrW) | 3:14 | 2024-12-31 |  |
+| [حياتي الحلوة](https://open.spotify.com/track/7nKaQoZQ393y185966WSMC) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حياتي الحلوة](https://open.spotify.com/album/4g5ht2e1QyO4KGxRWtClrW) | 3:14 | 2024-12-31 | 2025-03-07 |
 | [حياتي ناقصة](https://open.spotify.com/track/7fKN49oFs9bw5i9xZLCMCo) | [Mohamed Youssef](https://open.spotify.com/artist/3qVa7avCXcTdFZrXRI5Upz) | [حياتي ناقصة](https://open.spotify.com/album/25tkkJfxvTlOrz7yj6gz03) | 5:14 | 2024-07-11 | 2024-08-29 |
 | [خبط خبط](https://open.spotify.com/track/4yECK82XOZ7UUi50TREPxC) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [خبط خبط](https://open.spotify.com/album/4C85aQZ62amt2opB2Ls8Ti) | 2:27 | 2024-04-11 | 2024-04-26 |
 | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/track/4VBJjLh7pIvW7cTWmmW3DX) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/album/0Lz5buevocRlWNTzBMyIjG) | 2:57 | 2024-06-11 | 2024-07-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > 2011 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,151 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,179 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

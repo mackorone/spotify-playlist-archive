@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 
 > This is Khruangbin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,120 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,236 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

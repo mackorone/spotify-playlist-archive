@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 130500,
       "name": "100/100",
       "url": "https://open.spotify.com/track/1xyguLPK7K1VAjRKQc4eV2"
@@ -1357,7 +1357,7 @@
         },
         {
           "name": "Haricharanpreet",
-          "url": "https://open.spotify.com/artist/3BXjOTagbXH9zsS0COX2D1"
+          "url": "https://open.spotify.com/artist/7eOqLY143etr0rbhMxXAJN"
         }
       ],
       "date_added": "2025-03-05",
@@ -4546,6 +4546,28 @@
       "duration_ms": 181231,
       "name": "Door Hovi Na",
       "url": "https://open.spotify.com/track/2AL8a8ftamuJ7D0Pw1rroa"
+    },
+    {
+      "album": {
+        "name": "Dooron Dooron - Unplugged",
+        "url": "https://open.spotify.com/album/466oQGVIQbcBkoRFPfOIah"
+      },
+      "artists": [
+        {
+          "name": "Paresh Pahuja",
+          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
+        },
+        {
+          "name": "Shiv Tandan",
+          "url": "https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332495,
+      "name": "Dooron Dooron - Unplugged",
+      "url": "https://open.spotify.com/track/4PyN1rUjh0xRWqVZ1mwn7l"
     },
     {
       "album": {
@@ -11984,12 +12006,12 @@
       },
       "artists": [
         {
-          "name": "Mix Singh",
-          "url": "https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc"
-        },
-        {
           "name": "Gurnam Bhullar",
           "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        },
+        {
+          "name": "Mix Singh",
+          "url": "https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc"
         },
         {
           "name": "Kaptaan",

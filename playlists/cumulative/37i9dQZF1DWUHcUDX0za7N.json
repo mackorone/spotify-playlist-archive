@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 207157,
       "name": "Abanikanda",
       "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
@@ -1179,6 +1179,32 @@
     },
     {
       "album": {
+        "name": "Bere Mi (Reimagined)",
+        "url": "https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui"
+      },
+      "artists": [
+        {
+          "name": "Id Cabasa",
+          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177963,
+      "name": "Bere Mi (Reimagined)",
+      "url": "https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez"
+    },
+    {
+      "album": {
         "name": "We Not Done Yet (Deluxe)",
         "url": "https://open.spotify.com/album/0PtvLy4eCkA6VM9KVxQmVk"
       },
@@ -1340,7 +1366,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 134650,
       "name": "Biko",
       "url": "https://open.spotify.com/track/2EU8sMA1cxTIWIbUGd8pRA"
@@ -2862,6 +2888,24 @@
       "duration_ms": 192731,
       "name": "Devil Agent (2 Fighting)",
       "url": "https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6"
+    },
+    {
+      "album": {
+        "name": "Different Pattern",
+        "url": "https://open.spotify.com/album/4xGQkrkVUNM0X2tqjUdKze"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110924,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/7fLCROqSZ6vqVAbuYZnjVT"
     },
     {
       "album": {

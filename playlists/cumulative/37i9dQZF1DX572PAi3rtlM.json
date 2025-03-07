@@ -5315,6 +5315,24 @@
     },
     {
       "album": {
+        "name": "Un Po' Artista Un Po' No",
+        "url": "https://open.spotify.com/album/0ZB1eMfkmzcD4LxKQvNLxj"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299800,
+      "name": "Un Po' Artista Un Po' No",
+      "url": "https://open.spotify.com/track/3IF6aYcGyYz2IW9Wy26412"
+    },
+    {
+      "album": {
         "name": "Hang on Little Tomato",
         "url": "https://open.spotify.com/album/4zke7Tv01ngpBcKglASyD8"
       },

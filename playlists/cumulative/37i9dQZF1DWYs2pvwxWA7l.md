@@ -2,9 +2,9 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\.  Cover: Kel P & Wande coal
+> The hottest Afropop records on the planet\.  Cover: Ayra Starr
 
-632 songs - 1 day 8 hr 19 min
+634 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Busy Body](https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Busy Body](https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT) | 2:42 | 2023-04-27 | 2023-05-26 |
 | [By Your Side](https://open.spotify.com/track/3kyS2lEAAKjva2f42O1KyT) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [By Your Side](https://open.spotify.com/album/0WBj9GaZEf7oG2SyGmG63M) | 3:15 | 2023-02-03 | 2023-02-10 |
 | [C'est toi](https://open.spotify.com/track/34BTDwDIAxbdKfynLeH0ce) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [C'est toi](https://open.spotify.com/album/5L2DAuV8yVME0RfgVsUveZ) | 2:51 | 2024-04-05 | 2024-06-14 |
-| [Call Again](https://open.spotify.com/track/31Kunh3BOAccQ5EHXkJkz5) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Both Worlds](https://open.spotify.com/album/141gy9ZTgo1fPLfCBdXKYq) | 3:10 | 2025-02-28 |  |
+| [Call Again](https://open.spotify.com/track/31Kunh3BOAccQ5EHXkJkz5) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Both Worlds](https://open.spotify.com/album/141gy9ZTgo1fPLfCBdXKYq) | 3:10 | 2025-02-28 | 2025-03-07 |
 | [Call Jehova](https://open.spotify.com/track/1CANP9um3E8PolYHhvzttV) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Call Jehova](https://open.spotify.com/album/0bDZOcGeHoA2GM0qll0beL) | 2:39 | 2023-01-27 | 2023-02-17 |
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-06-08 | 2023-10-27 |
 | [Calm Down](https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk) | 3:39 | 2022-02-11 | 2022-07-29 |
@@ -430,6 +430,7 @@
 | [Oh My](https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Oh My](https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1) | 3:02 | 2023-11-10 | 2024-05-24 |
 | [Ojuju](https://open.spotify.com/track/1JvW2HjzFdEcaFrpsEeq0e) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Ojuju](https://open.spotify.com/album/1cYo9eumR211el6QbRzW2m) | 3:07 | 2021-10-07 | 2022-03-04 |
 | [Okay](https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Okay](https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB) | 2:32 | 2024-02-09 |  |
+| [OMN](https://open.spotify.com/track/0CAUa9kxePlhXkBTQ9nBGz) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [ROZEY](https://open.spotify.com/album/02boWZX3nExhtEQlXP0eA4) | 2:40 | 2025-03-07 |  |
 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 | 2024-07-19 |  |
 | [One Side \- Remix](https://open.spotify.com/track/1ipr0yVUgIworATMZrTAhG) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [One Side \(Remix\)](https://open.spotify.com/album/5fDSeMU8zMued647WjTnyj) | 3:18 | 2023-09-21 | 2023-11-09 |
 | [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 | 2024-11-22 | 2024-12-13 |
@@ -439,7 +440,7 @@
 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 | 2024-01-12 |  |
 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 | 2024-06-14 | 2025-01-10 |
 | [Options](https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Options](https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s) | 2:55 | 2022-02-11 | 2022-06-03 |
-| [Ori Mi](https://open.spotify.com/track/4GVTQJCXD05fdxWrPu1ptK) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [I Dream In Color](https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh) | 2:30 | 2025-02-28 |  |
+| [Ori Mi](https://open.spotify.com/track/4GVTQJCXD05fdxWrPu1ptK) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [I Dream In Color](https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh) | 2:30 | 2025-02-28 | 2025-03-07 |
 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 | 2021-09-27 | 2022-07-19 |
 | [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 | 2024-09-30 | 2025-02-28 |
 | [overdose](https://open.spotify.com/track/2yAkgFcID5XoXF3yRcu8tc) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [overdose](https://open.spotify.com/album/5SnkdRhNhYmzgWkaIGQijn) | 3:23 | 2024-02-09 | 2024-04-05 |
@@ -578,6 +579,7 @@
 | [Sáré](https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Sáré](https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az) | 2:34 | 2022-02-17 | 2022-11-13 |
 | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 | 2023-04-14 | 2023-09-15 |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-07-20 | 2023-10-18 |
+| [Taxi Driver](https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Taxi Driver](https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh) | 2:36 | 2025-03-07 |  |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-06-09 | 2024-04-20 |
 | [Terminator \- Remix](https://open.spotify.com/track/10AIyGWEbCddWbxHzRm9pJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Terminator \(Remix\)](https://open.spotify.com/album/2ke3G6HBIqidv4jrcZh2gN) | 3:31 | 2023-12-08 | 2024-03-01 |
 | [Tested, Approved & Trusted](https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 3:40 | 2023-10-20 | 2024-04-19 |

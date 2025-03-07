@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,800 likes - 70 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,896 likes - 70 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > Taking it down a notch and keeping the vibes on ice...
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,333 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,339 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

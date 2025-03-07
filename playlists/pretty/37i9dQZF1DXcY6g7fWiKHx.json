@@ -1,13 +1,309 @@
 {
   "description": "<a href=\"spotify:artist:3QFiymmbJlVBPpnrOatEAkq\">Myd</a>'s favourite tracks. Updated regularly. Curated by Myd. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 42977,
+  "num_followers": 42993,
   "original_name": "Myd's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8eGAAAAAABcYyQUotUOk2S+4AhrIhim",
+  "snapshot_id": "Z8mEKgAAAACsrUW0AsY8WQwReAiVBF1r",
   "tracks": [
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "DR Pleasure EP",
+        "url": "https://open.spotify.com/album/68LDPgU8AqaXmnK9PRzp4D"
+      },
+      "artists": [
+        {
+          "name": "Sally C",
+          "url": "https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 351957,
+      "name": "Hips Yo Thighs",
+      "url": "https://open.spotify.com/track/7dTe57lhIIKK16Akp3set0"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Love Infection (It's Just A) [Remix]",
+        "url": "https://open.spotify.com/album/47rqRsyx6HLjJTQEgKsejb"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bourachot",
+          "url": "https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 342079,
+      "name": "Love Infection (It's Just A) - Remix",
+      "url": "https://open.spotify.com/track/6A1dPDKHmKMGaXSbsyzoFO"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Translate Rhythms",
+        "url": "https://open.spotify.com/album/5tPT12xxMJP9nKXfcKNRJC"
+      },
+      "artists": [
+        {
+          "name": "Deetron",
+          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
+        }
+      ],
+      "duration_ms": 292443,
+      "name": "Translate Rhythms",
+      "url": "https://open.spotify.com/track/5eN5rQybvCCTuvnGe2srfb"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "I Need It",
+        "url": "https://open.spotify.com/album/0Ru4rk7KYThYAd8SZx5n9Q"
+      },
+      "artists": [
+        {
+          "name": "Ken Spieker",
+          "url": "https://open.spotify.com/artist/1hFWjKEaPnMKiM73jlEIt2"
+        }
+      ],
+      "duration_ms": 353696,
+      "name": "It Goes Like This",
+      "url": "https://open.spotify.com/track/5VWPmIRxkw7hr6zFo4Mse8"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "U + I",
+        "url": "https://open.spotify.com/album/35yadrMjgaER1QKFV0t1Iy"
+      },
+      "artists": [
+        {
+          "name": "Yesca",
+          "url": "https://open.spotify.com/artist/0ZZlysmyFhg3yT6Pupdsff"
+        }
+      ],
+      "duration_ms": 215775,
+      "name": "U + I",
+      "url": "https://open.spotify.com/track/3CH9gCP7tWb052n6ItyT7c"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Sex & The City EP",
+        "url": "https://open.spotify.com/album/44hU92WwxXxeMikN6N67a6"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Paul Johnson",
+          "url": "https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Sex & The City - MK Extended Remix",
+      "url": "https://open.spotify.com/track/2KgHI9PuMrEveH0pru7Eb5"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Oldtik",
+        "url": "https://open.spotify.com/album/5wtWqjlXH5Fns00owwTTUF"
+      },
+      "artists": [
+        {
+          "name": "Simas",
+          "url": "https://open.spotify.com/artist/6oSvQR9kDo5qO1BNGQ4PeS"
+        },
+        {
+          "name": "Mood Child",
+          "url": "https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm"
+        }
+      ],
+      "duration_ms": 215581,
+      "name": "Oldtik",
+      "url": "https://open.spotify.com/track/7qU6VkDVTGedcbtTth4SSE"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/1g7H8nI54HwB0Sw8Tq017V"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 435478,
+      "name": "Like Dat - Extended Mix",
+      "url": "https://open.spotify.com/track/7stV8u7aBXUYECwz82musV"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Everything Is Amazing",
+        "url": "https://open.spotify.com/album/0I9RDomQqWtbtVg2Yyq10M"
+      },
+      "artists": [
+        {
+          "name": "Hilit Kolet",
+          "url": "https://open.spotify.com/artist/55V8bcpuStLufEK3xFIwyy"
+        }
+      ],
+      "duration_ms": 194183,
+      "name": "Everything Is Amazing - Edit",
+      "url": "https://open.spotify.com/track/77jrsG7CbtfaM3utFZGP6d"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Jack It",
+        "url": "https://open.spotify.com/album/2MlAk5h0BT8RBNoaJqvRED"
+      },
+      "artists": [
+        {
+          "name": "DJ Jackum",
+          "url": "https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX"
+        }
+      ],
+      "duration_ms": 150067,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/5X1E7I6neItCDctbsuM0oR"
+    },
+    {
+      "added_at": "2025-02-26 17:11:34",
+      "album": {
+        "name": "V\u00e4stertorp",
+        "url": "https://open.spotify.com/album/2MmW24gyKixixb0vl1efHT"
+      },
+      "artists": [
+        {
+          "name": "Ari Bald & CJ Scott",
+          "url": "https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG"
+        },
+        {
+          "name": "Ari Bald",
+          "url": "https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup"
+        },
+        {
+          "name": "CJ Scott",
+          "url": "https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl"
+        }
+      ],
+      "duration_ms": 450750,
+      "name": "Tropicana Thunder",
+      "url": "https://open.spotify.com/track/3FVTwKxIoDUXmWAxCQ4Gz9"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "I'M Lonely",
+        "url": "https://open.spotify.com/album/6w9GKo3Bv9sFhqc6Y6whUY"
+      },
+      "artists": [
+        {
+          "name": "Hollis P. Monroe",
+          "url": "https://open.spotify.com/artist/34ehU42UfPtkgHMoD9gMJD"
+        }
+      ],
+      "duration_ms": 413120,
+      "name": "I'm Lonely",
+      "url": "https://open.spotify.com/track/7iEgoNG4xlbpTxLuMNrBl5"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5BJ8m5v6Zfpp3MpeMwc7EG"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 342034,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/6VEbaay7CDyh03GFQGZtCY"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Get Dumb",
+        "url": "https://open.spotify.com/album/3EghbjO4uFA8T2UjDLeO67"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Get Dumb",
+      "url": "https://open.spotify.com/track/3UZn0r01qyD1UqckgmIsll"
+    },
+    {
+      "added_at": "2025-03-06 11:16:58",
+      "album": {
+        "name": "Windows 95 Anthem (Remixes)",
+        "url": "https://open.spotify.com/album/3twmdGf2X0oiJ5DSxY7Gl2"
+      },
+      "artists": [
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        },
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 414543,
+      "name": "Windows 95 Anthem - Chlo\u00e9 Caillet Remix",
+      "url": "https://open.spotify.com/track/07VxlBSZyrJpyDweLBwoMi"
+    },
     {
       "added_at": "2025-02-26 17:11:34",
       "album": {
@@ -4595,30 +4891,6 @@
       "duration_ms": 257815,
       "name": "Diiing",
       "url": "https://open.spotify.com/track/1lRih6Mtec3rkbD47Q4UIW"
-    },
-    {
-      "added_at": "2025-02-26 17:11:34",
-      "album": {
-        "name": "V\u00e4stertorp",
-        "url": "https://open.spotify.com/album/2MmW24gyKixixb0vl1efHT"
-      },
-      "artists": [
-        {
-          "name": "Ari Bald & CJ Scott",
-          "url": "https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG"
-        },
-        {
-          "name": "Ari Bald",
-          "url": "https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup"
-        },
-        {
-          "name": "CJ Scott",
-          "url": "https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl"
-        }
-      ],
-      "duration_ms": 450750,
-      "name": "Tropicana Thunder",
-      "url": "https://open.spotify.com/track/3FVTwKxIoDUXmWAxCQ4Gz9"
     },
     {
       "added_at": "2025-02-26 17:11:34",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-161 songs - 9 hr 55 min
+162 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Passport](https://open.spotify.com/track/24aKIsuJixaS49EJg0tIHB) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Studying Abroad: Extended Stay](https://open.spotify.com/album/1S0yIZRDiFmqCQyTIEV175) | 3:17 | 2024-06-11 | 2024-07-11 |
 | [Passport \- シングル版](https://open.spotify.com/track/4DkSghl14yN70T0RX5pe9x) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Passport \(シングル版\)](https://open.spotify.com/album/3YyA7QcOAdQaWne8E4SF6k) | 3:02 | 2024-07-10 |  |
 | [Perf](https://open.spotify.com/track/4lMeIutIcRAMltnmhYNZIR) | [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe) | [Perf](https://open.spotify.com/album/1x6jfY3dd4dkIOGbucYhTc) | 2:10 | 2024-07-10 |  |
+| [Power of Two \- From "Star Wars: The Acolyte"](https://open.spotify.com/track/0cDYBv72lfW0wWGmCGiESV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Power of Two \(From "Star Wars: The Acolyte"\)](https://open.spotify.com/album/1V18j7d2a9thfb7IB3wW6n) | 3:16 | 2025-03-06 |  |
 | [Put On A Smile](https://open.spotify.com/track/5f7UJCMrA1VRLvbPrq1h0G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:15 | 2024-06-11 |  |
 | [Rare](https://open.spotify.com/track/50zMpjG2mZkIMqmsJdiGtA) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Rare](https://open.spotify.com/album/1UrbRQtj25KegxbzCkfxIV) | 3:37 | 2024-06-11 |  |
 | [Ready For Love \(Interlude\)](https://open.spotify.com/track/5bNXZ2fZx0SX42l7GeWY25) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 1:49 | 2024-06-11 |  |

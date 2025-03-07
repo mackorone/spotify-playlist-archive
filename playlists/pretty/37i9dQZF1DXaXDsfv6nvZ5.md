@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,994 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,191 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

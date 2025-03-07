@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "C'\u00e8 una street song in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "ANNA in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 194468,
       "name": "BATTITO",
       "url": "https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED"
@@ -5856,6 +5856,28 @@
       "duration_ms": 145846,
       "name": "GASOLINA",
       "url": "https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn"
+    },
+    {
+      "album": {
+        "name": "GDE WOW (feat. Shiva)",
+        "url": "https://open.spotify.com/album/0aN9q9vlaoVcuGaA3VirkC"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132347,
+      "name": "GDE WOW (feat. Shiva)",
+      "url": "https://open.spotify.com/track/5aKUmqW53tAZ2aslu5gV6l"
     },
     {
       "album": {

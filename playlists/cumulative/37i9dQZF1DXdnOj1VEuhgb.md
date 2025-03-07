@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Poizi x Era7capone x SNOW
+> Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh x Keskin
 
-564 songs - 1 day 1 hr 34 min
+566 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Birader](https://open.spotify.com/track/55YPDeJRgBjW8Em2AWBiXk) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/22M9cLH01VgxTweURPcVDi) | 3:24 | 2023-01-10 | 2023-04-28 |
 | [Bitmez Ümitlerim](https://open.spotify.com/track/34CpmKk7afqWw4JpsC7m0R) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Bitmez Ümitlerim](https://open.spotify.com/album/123kCll74XMoPqLsSlG8Z9) | 2:44 | 2024-06-13 | 2024-07-27 |
 | [Bizim Araba](https://open.spotify.com/track/59BQQAlUk4WHdzy6Lf6xxj) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Bizim Araba](https://open.spotify.com/album/3e4nzn2I5xBu2gyDvaTCMT) | 2:11 | 2024-07-04 | 2024-07-19 |
-| [BİZDİK](https://open.spotify.com/track/1l5BJzzwIVrYjQXX3K6FcX) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [DUA](https://open.spotify.com/album/4Rz2dqNZqmLRZAMxCgj61w) | 3:05 | 2025-02-20 |  |
+| [BİZDİK](https://open.spotify.com/track/1l5BJzzwIVrYjQXX3K6FcX) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [DUA](https://open.spotify.com/album/4Rz2dqNZqmLRZAMxCgj61w) | 3:05 | 2025-02-20 | 2025-03-07 |
 | [BLACKROCK](https://open.spotify.com/track/5AGllcYU3beNx7NdJuLtPt) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Cotard](https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8) | [BLACKROCK](https://open.spotify.com/album/3ZaP5zCyEwGqXYLU2MlySS) | 2:27 | 2025-02-27 |  |
 | [BLOOM](https://open.spotify.com/track/22LVc4hZVIIEi0z3oB5IIA) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [BLOOM](https://open.spotify.com/album/5Kwy0e1unaVXXG5IHThQYW) | 2:31 | 2024-11-21 | 2024-12-13 |
 | [BOYNA GALAVA](https://open.spotify.com/track/3hC2TUXhcKkVw7xgejsyiz) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BOYNA GALAVA](https://open.spotify.com/album/2vpKbtKM6bbY1iYX8mVAB8) | 1:36 | 2025-02-06 |  |
@@ -229,11 +229,12 @@
 | [Hep Sonradan](https://open.spotify.com/track/1RzUIIDzTvcX4Xc4UQs8Gf) | [Grogi](https://open.spotify.com/artist/40PllTYqoDKRna2jm9Gf8D), [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Hep Sonradan](https://open.spotify.com/album/3CyRyRF9zaWko9R7F6u8W4) | 2:32 | 2024-01-11 | 2024-01-26 |
 | [Her Anımız Yalan](https://open.spotify.com/track/04NyI7FUO6arfT5KnoX9el) | [Ahmet Balci](https://open.spotify.com/artist/0V8MPLRHPb0ei3CcLxoxQU), [KANSU](https://open.spotify.com/artist/7AIRm3U8ME5GufkEis66r7), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Her Anımız Yalan](https://open.spotify.com/album/4SikauJ4hJzK3Q8QttBmGb) | 2:42 | 2024-03-07 | 2024-04-05 |
 | [HER GÜN AĞLADIM](https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [HER GÜN AĞLADIM](https://open.spotify.com/album/5GaZBROdkVIR1dDGJTLAqS) | 3:52 | 2025-01-20 |  |
-| [Her Gün Bela](https://open.spotify.com/track/6z2c5tVuE0KEVIIlZWwnMz) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [ElPatron](https://open.spotify.com/album/3iGjHl0EcjP1w3Qk49wuYX) | 2:22 | 2025-02-20 |  |
+| [Her Gün Bela](https://open.spotify.com/track/6z2c5tVuE0KEVIIlZWwnMz) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [ElPatron](https://open.spotify.com/album/3iGjHl0EcjP1w3Qk49wuYX) | 2:22 | 2025-02-20 | 2025-03-07 |
 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 | 2024-09-19 |  |
 | [Hikaye Bitti Çoktan](https://open.spotify.com/track/2mgN0kh91PY3hlY88s3Zz5) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Ömrümün Son Güzel Günleri](https://open.spotify.com/album/36wDwn7fld4l2Qw77qXnvX) | 2:17 | 2024-11-07 | 2024-12-05 |
 | [Hot Baklava](https://open.spotify.com/track/022rI0RuFfCXbccNYdQF1l) | [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Hot Baklava](https://open.spotify.com/album/0rrBvjk4AUIo737hTUSM7k) | 2:20 | 2023-07-27 | 2023-08-19 |
 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-11-09 |  |
+| [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 | 2025-03-06 |  |
 | [Hüsran](https://open.spotify.com/track/6R97ZWEIAdPM733YsJETnx) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Hüsran](https://open.spotify.com/album/0GB3rPFXXOG6nggS7ipwAm) | 3:12 | 2023-11-09 | 2023-12-14 |
 | [Hüsran Hepsi](https://open.spotify.com/track/1cLGvuG1AQYxIHhto1XJda) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Hüsran Hepsi](https://open.spotify.com/album/5Py36nVFgslvqkTdhO9EBJ) | 3:33 | 2024-12-12 | 2024-12-27 |
 | [I WANNA DANCE](https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ) | [I WANNA DANCE](https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d) | 1:50 | 2024-08-22 |  |
@@ -358,6 +359,7 @@
 | [Mevzular](https://open.spotify.com/track/4zsM68mUHQWn5h4CEZUpX9) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Fireonblack](https://open.spotify.com/artist/5DE3LqsrmtEK7ZpV5C85tm) | [Mevzular](https://open.spotify.com/album/3rpfoXVPbQbr5Xac3Tm6iF) | 2:23 | 2023-05-25 | 2023-06-09 |
 | [MINI TERORISTA](https://open.spotify.com/track/6kvf06eThDCrvYknMY32To) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG) | 2:14 | 2023-11-16 | 2024-09-27 |
 | [MINI TERORISTA](https://open.spotify.com/track/2XHozQfA0T57iHczS9N4sl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/5U4UvgvFitfNPiIF0zAPBp) | 2:14 | 2024-03-21 | 2024-04-19 |
+| [Mirrmirr](https://open.spotify.com/track/0y0Cpis5Eh9hL7VTgjxBEL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Mırrmırr](https://open.spotify.com/album/1sBfOMc35HEQ4epGYWwR7n) | 2:58 | 2025-03-06 |  |
 | [Montana](https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Montana](https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy) | 2:30 | 2023-03-30 | 2023-06-16 |
 | [MOVIE](https://open.spotify.com/track/3fznN0fNZAuTSu8f0vDO7E) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [MOVIE](https://open.spotify.com/album/2Ly8JjXY6CG8D5m3UUQt9O) | 2:35 | 2023-01-10 | 2023-01-27 |
 | [Multi\-Milyoner](https://open.spotify.com/track/2IHJ2GtzgmQXFjJ4x2ZAQY) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD), [Vio](https://open.spotify.com/artist/6jTpCdn1rLOY8OPiTlG7Yt) | [Koleksiyoner](https://open.spotify.com/album/00lG7bXzbDDApmB3kupSrf) | 3:07 | 2023-03-23 | 2023-04-07 |

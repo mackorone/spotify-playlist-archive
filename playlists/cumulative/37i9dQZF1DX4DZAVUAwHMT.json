@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Architects",
+  "description": "The UK's biggest rock playlist. Cover: Spiritbox",
   "name": "The Rock List",
   "tracks": [
     {
@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "90 Seconds To Midnight",
+        "url": "https://open.spotify.com/album/2rzgXrtLDm0MSy1xCns9yV"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "90 Seconds To Midnight",
+      "url": "https://open.spotify.com/track/2AiR5oaCmZX5pEQwZda4IY"
+    },
+    {
+      "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/0JcxakFKSDNIlNcqjEbPVj"
       },
@@ -370,6 +388,24 @@
       "duration_ms": 160080,
       "name": "A Distant Life",
       "url": "https://open.spotify.com/track/33jgfdPpvJSlj1hBGMzoEt"
+    },
+    {
+      "album": {
+        "name": "A Drop In The Ocean",
+        "url": "https://open.spotify.com/album/5ja3DPgh2AZpRUWFummxR2"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266350,
+      "name": "A Drop In The Ocean",
+      "url": "https://open.spotify.com/track/4Kp6PKl4GKxtIvcrD3S9cJ"
     },
     {
       "album": {
@@ -586,7 +622,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 226722,
       "name": "Adriana Again",
       "url": "https://open.spotify.com/track/1RfW7cAu3CPnpjJrVdtcYt"
@@ -1170,7 +1206,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 191448,
       "name": "An Artist Is An Artist",
       "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
@@ -1350,7 +1386,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 186866,
       "name": "Aunque duela",
       "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
@@ -2420,7 +2456,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 176981,
       "name": "Brother",
       "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
@@ -2914,7 +2950,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 175365,
       "name": "Circle Pit",
       "url": "https://open.spotify.com/track/7cY80346hpJqWsZICV8AP2"
@@ -3124,7 +3160,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 202166,
       "name": "Comatose",
       "url": "https://open.spotify.com/track/3vfpG6sl3sTlj7Do56QwVg"
@@ -4174,7 +4210,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 264433,
       "name": "EURO CUT",
       "url": "https://open.spotify.com/track/5YinEwPw568hqnzVLdm6mh"
@@ -4434,7 +4470,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 172965,
       "name": "Fangtasy",
       "url": "https://open.spotify.com/track/2ws9oLOmP7FfiKnj29BPZ5"
@@ -5719,6 +5755,24 @@
     },
     {
       "album": {
+        "name": "The Haar",
+        "url": "https://open.spotify.com/album/6vIAztJq10ISkgZFTFHAnH"
+      },
+      "artists": [
+        {
+          "name": "Black Foxxes",
+          "url": "https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224080,
+      "name": "Ha Ha Ha",
+      "url": "https://open.spotify.com/track/13psHLwbqlx8k9OHmBVL58"
+    },
+    {
+      "album": {
         "name": "f.e.a.r.",
         "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
       },
@@ -6748,7 +6802,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 195968,
       "name": "I remember how your hands felt on mine",
       "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
@@ -6928,7 +6982,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 240826,
       "name": "I'm So Sorry",
       "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
@@ -7354,7 +7408,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/1nosPEKWYKACcauB4zF0mK"
@@ -7528,6 +7582,24 @@
       "duration_ms": 171109,
       "name": "Keep on Moving",
       "url": "https://open.spotify.com/track/78QbRv8ek0BCKvLN8PXtmb"
+    },
+    {
+      "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243522,
+      "name": "Keep Sweet",
+      "url": "https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m"
     },
     {
       "album": {
@@ -7946,6 +8018,24 @@
       "duration_ms": 238373,
       "name": "Let's Start Degeneracy",
       "url": "https://open.spotify.com/track/1cQQmHb9ngt95La4cgUMK6"
+    },
+    {
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/55bMoDq0FLJd2l6qWoMZJ7"
+      },
+      "artists": [
+        {
+          "name": "Blanket",
+          "url": "https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257825,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/6MjjgYcSrBFeRmdnC47A27"
     },
     {
       "album": {
@@ -9111,6 +9201,24 @@
     },
     {
       "album": {
+        "name": "Money Mullet",
+        "url": "https://open.spotify.com/album/3Ab3IkmXiMUF2ESg9GSsI7"
+      },
+      "artists": [
+        {
+          "name": "The Pill",
+          "url": "https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160932,
+      "name": "Money Mullet",
+      "url": "https://open.spotify.com/track/386QHAiPVLCFLfukpIECJP"
+    },
+    {
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI"
       },
@@ -9194,7 +9302,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 219035,
       "name": "MOTH KIDS",
       "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
@@ -9522,7 +9630,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 164800,
       "name": "Newsnight",
       "url": "https://open.spotify.com/track/652vT4wVdO6EdBG2LmaumF"
@@ -9576,7 +9684,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 227243,
       "name": "Nicotine",
       "url": "https://open.spotify.com/track/2q8MAaj6QrRwIA1Jvx7Odq"
@@ -10174,7 +10282,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 181275,
       "name": "One More Reason",
       "url": "https://open.spotify.com/track/2PhkNQP93tocN4XUt0JRa0"
@@ -10776,7 +10884,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 239640,
       "name": "Perfect Soul",
       "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
@@ -10978,6 +11086,24 @@
       "duration_ms": 191322,
       "name": "Plucked",
       "url": "https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh"
+    },
+    {
+      "album": {
+        "name": "Pop Out",
+        "url": "https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn"
+      },
+      "artists": [
+        {
+          "name": "Deijuvhs",
+          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149682,
+      "name": "Pop Out",
+      "url": "https://open.spotify.com/track/4tJP37H4IBwmajRzyzLiNc"
     },
     {
       "album": {
@@ -11851,6 +11977,24 @@
     },
     {
       "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236794,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/74ru0U9zgqGD7p6zQEW5Vh"
       },
@@ -12377,6 +12521,24 @@
     },
     {
       "album": {
+        "name": "Sickle Walk",
+        "url": "https://open.spotify.com/album/6MQNLn5s50T013YCvy9ZXN"
+      },
+      "artists": [
+        {
+          "name": "YHWH Nailgun",
+          "url": "https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86242,
+      "name": "Sickle Walk",
+      "url": "https://open.spotify.com/track/60UKMMpuBRme5zPviEgt0k"
+    },
+    {
+      "album": {
         "name": "silent stranger",
         "url": "https://open.spotify.com/album/3yksUh3OSJ0ZiZiZ4pIfuI"
       },
@@ -12424,7 +12586,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 188399,
       "name": "Silver Cloud",
       "url": "https://open.spotify.com/track/4Tb2rQNklBSl7WrSzFPVy4"
@@ -12500,6 +12662,24 @@
       "duration_ms": 231968,
       "name": "Six-Pack",
       "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
+    },
+    {
+      "album": {
+        "name": "Skullcrusher",
+        "url": "https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Skullcrusher",
+      "url": "https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm"
     },
     {
       "album": {
@@ -12874,7 +13054,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 150035,
       "name": "Sports Day",
       "url": "https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4"
@@ -13070,6 +13250,24 @@
       "duration_ms": 184111,
       "name": "straight out the oven !",
       "url": "https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac"
+    },
+    {
+      "album": {
+        "name": "Hot Shock",
+        "url": "https://open.spotify.com/album/3Mb1kIexwEEpa8mc9HLNOl"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182359,
+      "name": "Strange To Be Here",
+      "url": "https://open.spotify.com/track/4oRSC5bZm6NIZxbu0qodsB"
     },
     {
       "album": {
@@ -13762,7 +13960,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 197849,
       "name": "the cost of giving up",
       "url": "https://open.spotify.com/track/7xc0C9WHCHgoGWP53Nmlme"
@@ -14072,7 +14270,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 173866,
       "name": "The Plan",
       "url": "https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4"
@@ -14144,7 +14342,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 162306,
       "name": "The System",
       "url": "https://open.spotify.com/track/6rU6rWzTjHUTVaJ9DG4TVm"

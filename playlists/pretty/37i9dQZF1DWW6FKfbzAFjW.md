@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel\-good tunes for your cinco de drinko\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,371 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,368 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

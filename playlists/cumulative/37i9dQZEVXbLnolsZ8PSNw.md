@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- United Kingdom.
 
-2,151 songs - 5 day 5 hr 6 min
+2,152 songs - 5 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-21 | 2023-10-23 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2024-03-27 |
 | [Antichrist](https://open.spotify.com/track/0DIcssPpatAMqFXLZCxZMN) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 5:14 | 2024-07-13 | 2024-07-19 |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-07 |  |
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-02-28 |  |
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2021-03-27\* | 2021-04-11 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 | 2022-06-11 | 2022-06-15 |
@@ -975,7 +976,7 @@
 | [JUGGERNAUT \(feat\. Lil Uzi Vert & Pharrell Williams\)](https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:26 | 2021-06-27 | 2021-06-28 |
 | [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 | 2022-11-05 | 2022-11-10 |
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-04-10 | 2024-04-21 |
-| [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-08-24 |  |
+| [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-08-24 | 2025-03-07 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-04 |
 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 | 2022-03-26 | 2022-03-31 |
 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 | 2022-03-21 | 2022-03-27 |

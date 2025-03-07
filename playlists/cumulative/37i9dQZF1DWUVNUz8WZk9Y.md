@@ -4,7 +4,7 @@
 
 > Enjoy music from Doraemon The Movie! ⓒFujiko\-Pro, Shogakukan, TV\-Asahi, Shin\-ei, and ADK 2025
 
-53 songs - 3 hr 41 min
+54 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [少年期](https://open.spotify.com/track/1ReCdmB1c7TCxTcaxYK8Z7) | [Tetsuya Takeda](https://open.spotify.com/artist/69XPjjmtVFyntrir7ZHfnk) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:11 | 2023-02-28 |  |
 | [帰る場所](https://open.spotify.com/track/5NkRMqbLWkWemyjsRpxVlg) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD) | [BALLAD](https://open.spotify.com/album/0J4VLq05izAr156iadxgLc) | 3:58 | 2023-02-28 |  |
 | [手をつなごう](https://open.spotify.com/track/1QoCVPSbayKifYbYIVDMV6) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Sing to the Sky](https://open.spotify.com/album/4dnXPRhXmwucQfyA2Qhlha) | 4:49 | 2023-02-28 |  |
+| [映画ドラえもん のび太の絵世界物語 ドラえもん・あいみょんコメント](https://open.spotify.com/track/17Ur8TDXlCDmZiw2HWLvLE) | [映画ドラえもん](https://open.spotify.com/artist/30jym7YAR9EQ2VRzHW1anO) | [映画ドラえもん のび太の絵世界物語 ドラえもん・あいみょんコメント](https://open.spotify.com/album/5mAcKn3D5Gc74je5WPHPSQ) | 1:13 | 2025-03-06 |  |
 | [時の旅人](https://open.spotify.com/track/2u0EiTzKREGGN1BnIpOp3Q) | [Toshiyuki Nishida](https://open.spotify.com/artist/4djumM1qrx3qrRNTQworSy) | [エッセンシャル・ベスト　西田敏行](https://open.spotify.com/album/0cFhaCH30tnnGc73zMlB8S) | 4:00 | 2023-02-28 | 2024-04-19 |
 | [時の旅人](https://open.spotify.com/track/5ttmfswQyE5tZadNGjJk2T) | [Toshiyuki Nishida](https://open.spotify.com/artist/4djumM1qrx3qrRNTQworSy) | [エッセンシャル・ベスト　西田敏行](https://open.spotify.com/album/2Ks5h8LcTOGitndh3KTbzv) | 4:00 | 2024-02-07 |  |
 | [未来のミュージアム](https://open.spotify.com/track/3IIWswUsUI4BnTWYZU2UsN) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [未来のミュージアム](https://open.spotify.com/album/7Bc42pyMISw5ntd3qDqUtj) | 3:22 | 2023-02-28 |  |

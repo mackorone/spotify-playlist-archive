@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,064 likes - 90 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,119 likes - 90 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

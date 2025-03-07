@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,354 likes - 52 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,439 likes - 52 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

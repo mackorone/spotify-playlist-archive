@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 
 > Early Noise 2020選出アーティストVaundyの楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Vaundy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,873 likes - 64 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,935 likes - 64 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 | 63 | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/episode/03yf6TTvBy8kCWPag62ri6) | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/show/1sDdqqD0Jmj1OHNs6gzjmd) | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/album/1sDdqqD0Jmj1OHNs6gzjmd) | 2:31 |
 | 64 | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/episode/2iuqnb0rniyc3s6esNvt8I) | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/show/0zJicfToSO1vQvsr0n5mmI) | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/album/0zJicfToSO1vQvsr0n5mmI) | 3:20 |
 
-Snapshot ID: `Z7Cr8AAAAABY4lZf31CrFdPijYrSqiYX`
+Snapshot ID: `Z8kZFgAAAACUQH9Tjb/9XVGqy2fSFGpj`

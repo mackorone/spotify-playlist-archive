@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Little Simz
 
-1,566 songs - 3 day 17 hr 7 min
+1,568 songs - 3 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-03-30 | 2023-04-21 |
 | [About U](https://open.spotify.com/track/5YbQiHdLvjDYxoycsViPXM) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [So Far to Go](https://open.spotify.com/album/5VhZrgglg0LySUDX5qvLEJ) | 2:57 | 2022-02-03 | 2022-04-01 |
 | [Adam](https://open.spotify.com/track/40RVEzCRBmQpMQFL6KxNnV) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Adam](https://open.spotify.com/album/75zWtv9nKbJ4EgEh0yCpHZ) | 3:16 | 2023-11-23 | 2024-01-26 |
-| [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-11 |  |
+| [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-11 | 2025-03-07 |
 | [ADELINE](https://open.spotify.com/track/5nyBSIq6IisubcU7xoPdoO) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [ADELINE](https://open.spotify.com/album/2DPQAfsy6KRE7WS6NTge8L) | 2:48 | 2024-07-04 | 2024-09-20 |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-10 | 2023-11-10 |
 | [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 | 2023-07-20 | 2023-11-18 |
@@ -225,6 +225,7 @@
 | [Calling Out Your Name](https://open.spotify.com/track/67QwptDtovlQWguTfHSeR5) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Calling Out Your Name](https://open.spotify.com/album/7o8G8YqFdqefHY4RT3Al3U) | 3:34 | 2025-02-13 |  |
 | [Calm Down Dearest](https://open.spotify.com/track/0YbUi2IObUjS3JWzPO5BhW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Panic Prevention](https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T) | 4:40 | 2023-04-06 | 2023-04-14 |
 | [Camp Dog](https://open.spotify.com/track/3xzFmGsKwmNdglRFUwBtT8) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Camp Dog](https://open.spotify.com/album/1x20Qq55S6sqA8HsY7uUQf) | 3:39 | 2022-03-16 | 2022-05-20 |
+| [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-06 |  |
 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 | 2022-02-10 | 2022-05-27 |
 | [can't get laid](https://open.spotify.com/track/3GyLZPZlnVteR6NpvPAJq7) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [can't get laid](https://open.spotify.com/album/43r40totUGXyIiUH0OE0iI) | 2:54 | 2022-09-01 | 2022-11-11 |
 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 | 2025-02-13 |  |
@@ -341,6 +342,7 @@
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-05-30 | 2024-08-09 |
 | [Deer Island](https://open.spotify.com/track/7IQhSyhmcQvGAjL9G7FpwS) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Deer Island](https://open.spotify.com/album/5DUmX6Jvvr0OulQMgZhj6k) | 3:10 | 2021-12-28 | 2022-03-15 |
 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 | 2022-11-24 | 2023-02-03 |
+| [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-03-06 |  |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:10 | 2023-02-07 | 2023-03-31 |
 | [Desert Land](https://open.spotify.com/track/2SklmBvPC7WFFZVVI5Qnig) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Desert Land](https://open.spotify.com/album/05qoqTx3STuUf5KwH1ocA7) | 2:55 | 2023-10-19 | 2024-03-01 |
 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 | 2023-05-04 | 2023-07-07 |
@@ -914,7 +916,7 @@
 | [Mom Jeans](https://open.spotify.com/track/4Q2ccX0e7grpqZal3OuTuX) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Mom Jeans](https://open.spotify.com/album/6a2gZjOyZD9Qg8SaLKLbtt) | 1:59 | 2022-07-07 | 2022-09-30 |
 | [mona lisa](https://open.spotify.com/track/6JYN2Hd4epevdPQUr636J8) | [ioakim](https://open.spotify.com/artist/7rv4I8TmSimvUct7xd7qeE) | [mona lisa](https://open.spotify.com/album/2CGINA48NeyQeWgxkccWpY) | 3:40 | 2022-03-07 | 2022-04-15 |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-15 | 2023-08-30 |
-| [money!](https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [money!](https://open.spotify.com/album/6Uww2b9MjkQPye3NRfJueW) | 2:30 | 2024-08-22 |  |
+| [money!](https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [money!](https://open.spotify.com/album/6Uww2b9MjkQPye3NRfJueW) | 2:30 | 2024-08-22 | 2025-03-07 |
 | [Monkey Madness](https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Monkey Madness](https://open.spotify.com/album/07cUEdpfFryZ8bSLXGnJdu) | 2:49 | 2024-08-01 | 2024-09-27 |
 | [Monogamy](https://open.spotify.com/track/0uCKOztTB9eW3ApEAGpeS5) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn, More](https://open.spotify.com/album/39ePBzunWnT1ieSGbjUbsM) | 3:16 | 2023-12-07 | 2024-01-13 |
 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 | 2023-04-27 | 2023-09-08 |

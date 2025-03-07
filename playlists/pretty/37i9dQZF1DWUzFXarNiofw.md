@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Joe Kay, Isaiah Falls, Cruza and D'Mile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,549 likes - 201 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,646 likes - 201 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

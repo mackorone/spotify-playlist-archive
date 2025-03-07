@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKuaTI1Z1Afx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,602 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,614 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKuaTI1Z1Afx.md) - [plain]
 | 49 | [Would You Fall in Love with Me Again](https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 5:45 |
 | 50 | [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

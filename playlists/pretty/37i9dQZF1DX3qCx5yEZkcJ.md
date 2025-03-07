@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,489,512 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,489,580 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 |
 | 80 | [Only Way 2 Go \(Instrumental\)](https://open.spotify.com/track/78e0culZ0CKdTNf4aUzOc8) | [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [The Diam Piece Instrumentals](https://open.spotify.com/album/0ixOltqf2ad9LU7hVPOcPa) | 2:33 |
 
-Snapshot ID: `Z7fanwAAAADwpvlrr2696KyndGURid9T`
+Snapshot ID: `Z8m4hAAAAADt/gP3vguDIcPSHZFrKzSV`

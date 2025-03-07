@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Bassvictim, plus the latest cuts from 4evr, and Devon Again.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,890 likes - 100 songs - 5 hr 18 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,887 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

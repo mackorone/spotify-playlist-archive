@@ -273,28 +273,6 @@
     },
     {
       "album": {
-        "name": "Boy Meets World",
-        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "date_added": "2023-12-08",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
-      "duration_ms": 148928,
-      "name": "A N X I E T Y (feat. Doechii)",
-      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
-    },
-    {
-      "album": {
         "name": "Hitkidd For President",
         "url": "https://open.spotify.com/album/0CTvBllvVWe4Wxs8KEHfOH"
       },
@@ -566,6 +544,28 @@
       "duration_ms": 208984,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1lZkGr8MRb1tTsSbpV7zO5"
+    },
+    {
+      "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148928,
+      "name": "ANXIETY (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
       "album": {
@@ -6048,7 +6048,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 129957,
       "name": "Mister (Remix)",
       "url": "https://open.spotify.com/track/5NHw0RWnAQ3c0igmBwLW50"

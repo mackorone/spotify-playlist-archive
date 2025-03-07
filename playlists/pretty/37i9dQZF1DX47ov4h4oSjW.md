@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,994 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,986 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > Leaders of the new school...Alternative R&B\. Cover: Bathe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,528 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,509 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

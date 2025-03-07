@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Ma faute\" de Marine est le Grand Hit de la semaine.",
+  "description": "\"Je pense \u00e0 vous\" de Linh est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -762,7 +762,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 201905,
       "name": "Contre-c\u0153ur",
       "url": "https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva"
@@ -2753,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Les \u00e9toiles",
+        "url": "https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9man",
+          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163363,
+      "name": "Les \u00e9toiles",
+      "url": "https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx"
+    },
+    {
+      "album": {
         "name": "Lisa",
         "url": "https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg"
       },
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 182546,
       "name": "Nous on sait",
       "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
@@ -3360,6 +3378,24 @@
       "duration_ms": 206619,
       "name": "Pays des merveilles",
       "url": "https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB"
+    },
+    {
+      "album": {
+        "name": "Miroirs (Edition deluxe)",
+        "url": "https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "Petit Fr\u00e8re",
+      "url": "https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG"
     },
     {
       "album": {
@@ -3833,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "Seul ici",
+        "url": "https://open.spotify.com/album/4ZtyeiFtPwkBhZUXBIZAPh"
+      },
+      "artists": [
+        {
+          "name": "Boulevard des Airs",
+          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193832,
+      "name": "Seul ici",
+      "url": "https://open.spotify.com/track/5NgTH6KDb2aOIleC9XZkQH"
+    },
+    {
+      "album": {
         "name": "Si seulement...",
         "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
       },
@@ -3902,7 +3956,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
@@ -4197,6 +4251,24 @@
     },
     {
       "album": {
+        "name": "Triste",
+        "url": "https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be"
+      },
+      "artists": [
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189520,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/0updbmtMXsLlh6c2W737wj"
+    },
+    {
+      "album": {
         "name": "Trop t\u00f4t",
         "url": "https://open.spotify.com/album/0b1MHM0bqn9ovncFVQs49z"
       },
@@ -4406,7 +4478,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 161912,
       "name": "\u00d4 travers",
       "url": "https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb"

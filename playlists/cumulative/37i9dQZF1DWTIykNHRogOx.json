@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Emma Peters",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Jenna",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 206186,
       "name": "Ce que j'aime (feat. Nikola)",
       "url": "https://open.spotify.com/track/0FUBEByQyhya0tLMuJs7xR"
@@ -537,7 +537,7 @@
     },
     {
       "album": {
-        "name": "Ex aequo",
+        "name": "Ex \u00e6quo",
         "url": "https://open.spotify.com/album/465QdjgM6b3VJQo8CgGfPz"
       },
       "artists": [
@@ -550,7 +550,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 237120,
-      "name": "Ex aequo",
+      "name": "Ex \u00e6quo",
       "url": "https://open.spotify.com/track/1APeKWbOHLEygigClkqJn3"
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 248469,
       "name": "L'AVANC\u00c9E",
       "url": "https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD"
@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Le vert et le bleu",
+        "url": "https://open.spotify.com/album/3KC3oY8ptXntPvoy52MR78"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Des Longchamps",
+          "url": "https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274826,
+      "name": "Nos sentiers secrets",
+      "url": "https://open.spotify.com/track/6EaZgo6RRRl16qYqASvwUP"
+    },
+    {
+      "album": {
         "name": "Nu",
         "url": "https://open.spotify.com/album/5y3lwreP0Z0WItPNC2zOyi"
       },
@@ -1996,6 +2014,28 @@
       "duration_ms": 184229,
       "name": "Pour te plaire",
       "url": "https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1"
+    },
+    {
+      "album": {
+        "name": "Toi l\u00e0-bas",
+        "url": "https://open.spotify.com/album/5nqbZQ4EKOdNoRILDLBGg8"
+      },
+      "artists": [
+        {
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+        },
+        {
+          "name": "Alice on the roof",
+          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "Pourquoi on pleure",
+      "url": "https://open.spotify.com/track/5vTsiAJh3AaPQRFM3mP4qu"
     },
     {
       "album": {
@@ -2382,7 +2422,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 249173,
       "name": "Toi l\u00e0-bas",
       "url": "https://open.spotify.com/track/1M1Zd745JBEteL4kWvknkG"
@@ -2462,6 +2502,24 @@
       "duration_ms": 180616,
       "name": "tu dis que tu m'aimes - piano version",
       "url": "https://open.spotify.com/track/4DiQIu33YyFtAf6713AsIw"
+    },
+    {
+      "album": {
+        "name": "tu m'as dit que tu m'aimais",
+        "url": "https://open.spotify.com/album/4cPiATyN905GjIHqkusfdc"
+      },
+      "artists": [
+        {
+          "name": "jenna",
+          "url": "https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160851,
+      "name": "tu m'as dit que tu m'aimais",
+      "url": "https://open.spotify.com/track/2pwXypfanqsYaTyoGE0yPk"
     },
     {
       "album": {

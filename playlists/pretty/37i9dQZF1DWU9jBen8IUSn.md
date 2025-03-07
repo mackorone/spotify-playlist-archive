@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > Lucy Dacus shares some old school love songs, just in time for Valentine's\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,357 likes - 25 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,372 likes - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

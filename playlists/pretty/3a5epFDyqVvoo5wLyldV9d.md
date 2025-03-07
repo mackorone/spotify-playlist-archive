@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 839 songs - 2 day 17 hr 55 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 845 songs - 2 day 18 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -847,5 +847,11 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 837 | [Acabou Como Começou](https://open.spotify.com/track/7fSpqmFsTjQUP3S0dLwoei) | [Luna & DJ Cri](https://open.spotify.com/artist/3fbqfIJaXO9befOFEsWeBK), [Ieda Paradise](https://open.spotify.com/artist/51zxVfbiT4c2rKyWBTu0RP) | [Guarde Minha Voz](https://open.spotify.com/album/5LjycI8yQxqQ53iAM5OqvE) | 4:34 |
 | 838 | [Hasretinle Yandı Gönlüm](https://open.spotify.com/track/6skxveKIEYKUGusCkstPJb) | [Edip Akbayram](https://open.spotify.com/artist/0oFiWQjHNvksJlD0aWzBZM) | [Unutamadıklarım](https://open.spotify.com/album/7gYPNGTVV8E8C05pGg4jNr) | 4:43 |
 | 839 | [Ndiri Ndanogio Niwe](https://open.spotify.com/track/4iT6cbHBCRnxQoqFIePMEc) | [Mbiri Young Stars](https://open.spotify.com/artist/4hIm72knazzlKd5bU63taL) | [Kenya Special \(Selected East African Recordings From The 1970s & '80s\)](https://open.spotify.com/album/2tuCOddxyE5v60rI0bSrEV) | 4:22 |
+| 840 | [Summer Breeze](https://open.spotify.com/track/0XFFeieUria0gaFDX6Hy7T) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Mizrab](https://open.spotify.com/album/5b5V4wu6kjZx3luxpgLIPl) | 6:07 |
+| 841 | [Vivo](https://open.spotify.com/track/37yGDW6a3PVlhv0EJLfjx6) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Vivo](https://open.spotify.com/album/0PFakRv5XkTy18s1zUwx3r) | 4:53 |
+| 842 | [Tropical Call](https://open.spotify.com/track/1wRRVyCNcr75rvSAIsJwWC) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Jungle Obsession](https://open.spotify.com/album/0K8kxH3K4DmHUkzIdz1Dt8) | 2:35 |
+| 843 | [Surfboard \- 1965 Version](https://open.spotify.com/track/1pnrwNjxpUz4hRwVFV9BZz) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Wonderful World Of Antonio Carlos Jobim](https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn) | 2:23 |
+| 844 | [Come Closer](https://open.spotify.com/track/3RZVyGXghd5GYs4niK9tGz) | [Salma Agha](https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V) | [Kasam Paida Karnewale Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY) | 5:32 |
+| 845 | [I Serenata](https://open.spotify.com/track/64n4XWpat5ZEmHLnOkVJMU) | [Arleta](https://open.spotify.com/artist/6KVMKVZCXarNNhwKxhjCmo), [Lakis Papadopoulos](https://open.spotify.com/artist/1vhL7DQsMAxapgKbSJEYJM) | [I Serenata](https://open.spotify.com/album/2BedQ1tDggNKVNR1VPwzi4) | 4:23 |
 
-Snapshot ID: `AAADsKsECeIUiMRP8K4oGDNX930QiDYT`
+Snapshot ID: `AAADtjOAOQWvIAsGOQbCu4KmtHHSsf7c`

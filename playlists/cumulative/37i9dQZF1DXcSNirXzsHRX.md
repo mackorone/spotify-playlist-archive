@@ -4,7 +4,7 @@
 
 > Den bedste rock playliste i Danmark⚡️
 
-124 songs - 8 hr 34 min
+126 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2024-09-06 |  |
 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 | 2024-09-06 |  |
 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 | 2024-09-06 |  |
+| [By a Monster’s Hand](https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster’s Hand](https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV) | 3:42 | 2025-03-06 |  |
 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 | 2024-09-06 |  |
 | [Can't Put Out the Fire](https://open.spotify.com/track/4l1riVSKc7WJBw2zxdFh90) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Can't Put Out the Fire](https://open.spotify.com/album/04hERRotffJJgN6S5Dadey) | 3:16 | 2025-01-16 | 2025-02-07 |
 | [Cannibal \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 | 2024-09-19 | 2024-10-11 |
@@ -60,7 +61,7 @@
 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 | 2024-09-06 |  |
 | [Hearts Burst into Fire](https://open.spotify.com/track/6DsILuMLGYN6QqPXlhGHWo) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/2mGohCvbL3klQgXyTj7uNB) | 4:57 | 2024-09-06 | 2024-11-01 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 |  |
-| [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 | 2024-09-06 |  |
+| [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 | 2024-09-06 | 2025-03-07 |
 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-09 |  |
 | [Holiday](https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Holiday](https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C) | 3:53 | 2024-09-06 | 2024-12-20 |
 | [Hot Hell](https://open.spotify.com/track/1Wt9uoMxRWmYSmEqv2TYuG) | [Howl Baby Howl](https://open.spotify.com/artist/4X4CJ9ctDZDbMGFLxAAkJr) | [Hot Hell](https://open.spotify.com/album/2MSBCa98kvzLLM2BL6aV1Q) | 3:28 | 2025-02-06 |  |
@@ -87,7 +88,7 @@
 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 | 2024-09-06 |  |
 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 | 2024-09-06 |  |
 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 | 2024-11-07 | 2025-01-31 |
-| [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 | 2024-09-06 |  |
+| [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 | 2024-09-06 | 2025-03-07 |
 | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz) | 2:30 | 2024-10-24 | 2024-11-08 |
 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-24 | 2024-11-15 |
 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 | 2024-09-06 |  |
@@ -110,6 +111,7 @@
 | [Sultans Of Swing](https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT) | 5:48 | 2024-09-06 |  |
 | [THE DAM](https://open.spotify.com/track/4zD1UlSWZ1YvG9pJmjVXZ8) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [SHOCK TO THE SYSTEM \(PART ONE\)](https://open.spotify.com/album/3Phx7bXkyoGS0O39giHiXS) | 4:00 | 2024-09-26 | 2024-10-11 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 |  |
+| [The Humbling](https://open.spotify.com/track/6yMU9TxM9GSmVZSsPFtcXE) | [Afterlove](https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [The Humbling](https://open.spotify.com/album/5VVQNHawzDOz6QODXrrfT5) | 3:00 | 2025-03-06 |  |
 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 | 2024-12-19 |  |
 | [The Longest Kiss](https://open.spotify.com/track/3zpjkbqo5eL2vPFX6qF1up) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [The Longest Kiss](https://open.spotify.com/album/0rK2zgoxvtqDZzS7B6FXMy) | 2:49 | 2024-09-19 | 2024-09-27 |
 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 | 2024-09-06 |  |

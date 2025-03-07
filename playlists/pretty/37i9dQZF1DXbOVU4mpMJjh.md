@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,066 likes - 786 songs - 2 day 0 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,161 likes - 786 songs - 2 day 0 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

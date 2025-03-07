@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K´onga & L\-Gante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,239 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,306 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 2 | [Princesa](https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa](https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC) | 2:46 |
 | 3 | [UN SIGLO SIN TI](https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [UN SIGLO SIN TI](https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz) | 2:34 |
 | 4 | [En Otra Vida \- Versión Cuarteto](https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [En Otra Vida \- Versión Cuarteto](https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA) | 2:28 |
-| 5 | [Nana Triste \- En Vivo](https://open.spotify.com/track/0chWsPq4wnBsIgpz3QpjKZ) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Nana Triste \(En Vivo\)](https://open.spotify.com/album/6xL5c6dXKEtcV9Ct8ffe4H) | 3:03 |
+| 5 | [Nana Triste \- En Vivo](https://open.spotify.com/track/0chWsPq4wnBsIgpz3QpjKZ) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [DAMARIS](https://open.spotify.com/artist/4hiHa1NemTB3KaprG8jN3z) | [Nana Triste \(En Vivo\)](https://open.spotify.com/album/6xL5c6dXKEtcV9Ct8ffe4H) | 3:03 |
 | 6 | [Otro Día Más](https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más](https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye) | 3:22 |
 | 7 | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/album/1adrM169dtUitpsQomXsX3) | 2:48 |
 | 8 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 |

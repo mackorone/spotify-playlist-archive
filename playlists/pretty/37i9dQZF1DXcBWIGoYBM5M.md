@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBWIGoYBM5M.md) - [plain]
 
 > The hottest 50\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,239,536 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,240,689 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

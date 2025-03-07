@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Alleh, Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,378 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,398 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

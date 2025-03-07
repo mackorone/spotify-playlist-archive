@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovHcLREwOK.md) - [plain]
 
 > Mantém a energia positiva!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,355 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,382 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Lucio Corsi in cover della playlist con il meglio dell\u2019indie italiano!",
+  "description": "Anna Castiglia in cover della playlist con il meglio dell\u2019indie italiano!",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -472,6 +472,24 @@
       "duration_ms": 161900,
       "name": "Bloody Mary (feat. PUGNI & Fudasca)",
       "url": "https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM"
+    },
+    {
+      "album": {
+        "name": "Buio",
+        "url": "https://open.spotify.com/album/3UdbcAYQCwWRIOX2ADdCk4"
+      },
+      "artists": [
+        {
+          "name": "Eugenio In Via Di Gioia",
+          "url": "https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Buio",
+      "url": "https://open.spotify.com/track/2kEesaNMfP5aXEeVUl5jCZ"
     },
     {
       "album": {
@@ -1036,6 +1054,24 @@
       "duration_ms": 212732,
       "name": "Due Anime",
       "url": "https://open.spotify.com/track/3VYbbCl0q1YEmM4XUNCXby"
+    },
+    {
+      "album": {
+        "name": "VITA_FUSA",
+        "url": "https://open.spotify.com/album/7lUQ8zSvRJwgC77Pb3St5Z"
+      },
+      "artists": [
+        {
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172302,
+      "name": "DUE GATTI A MILANO",
+      "url": "https://open.spotify.com/track/07ml1sRzeQQIj6U6lfWS95"
     },
     {
       "album": {
@@ -2230,7 +2266,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 206242,
       "name": "Mezzo secondo",
       "url": "https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA"
@@ -2270,6 +2306,24 @@
       "duration_ms": 147906,
       "name": "MIELE (scusa)",
       "url": "https://open.spotify.com/track/6pmIgVimnQs8dgohYE9SSB"
+    },
+    {
+      "album": {
+        "name": "Morta d'amore",
+        "url": "https://open.spotify.com/album/7sNKBSusBvdPTMHgzozPaw"
+      },
+      "artists": [
+        {
+          "name": "Gioia Lucia",
+          "url": "https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166166,
+      "name": "Morta d'amore",
+      "url": "https://open.spotify.com/track/6XEK2VLdMdiZ6d71chw1ui"
     },
     {
       "album": {
@@ -2646,7 +2700,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 143564,
       "name": "Panino d'idiota (feat. Casadilego)",
       "url": "https://open.spotify.com/track/6bQEube1IbtDeIZ9EXmWgt"

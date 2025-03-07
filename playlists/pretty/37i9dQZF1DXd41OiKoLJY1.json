@@ -1,13 +1,113 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Ben Figueroa Artwork: Isu Kim\n",
-  "num_followers": 64528,
+  "num_followers": 64568,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8CMGgAAAADrRTfVrAQ+JaSIxPYLx0I4",
+  "snapshot_id": "Z8nGpgAAAAD048oXzdgcNlJRY9ta04gl",
   "tracks": [
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/3HnH5kCoTnKSHX5rcMVtR5"
+      },
+      "artists": [
+        {
+          "name": "KAI.ZEN",
+          "url": "https://open.spotify.com/artist/2TMub1vgKdjAFlEjBC3Trx"
+        }
+      ],
+      "duration_ms": 220869,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/2m6HqlaAXs2BvlOAWslMdf"
+    },
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
+        "name": "second at best",
+        "url": "https://open.spotify.com/album/5SGEzCS6E1s7962GT5bOD3"
+      },
+      "artists": [
+        {
+          "name": "faculty club",
+          "url": "https://open.spotify.com/artist/3nDE117kLXPi2Wxl1UtJVB"
+        }
+      ],
+      "duration_ms": 220294,
+      "name": "second at best",
+      "url": "https://open.spotify.com/track/3jfoCmmfBIdUXSFShB8ORW"
+    },
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
+        "name": "WHO HURT U",
+        "url": "https://open.spotify.com/album/6JRB2vzeOUUAWPamY4A9GL"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 179947,
+      "name": "WHO HURT U",
+      "url": "https://open.spotify.com/track/66tG0WH7bfXXsr5wCSNLwr"
+    },
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
+        "name": "parusa",
+        "url": "https://open.spotify.com/album/7IlhrcHbh0LVr741YYVzIq"
+      },
+      "artists": [
+        {
+          "name": "Idlepitch",
+          "url": "https://open.spotify.com/artist/2ESvhcEkq7S1SK2Ca11Ldc"
+        }
+      ],
+      "duration_ms": 254713,
+      "name": "parusa",
+      "url": "https://open.spotify.com/track/5qp5iPkM8GAkzizbTGrmo5"
+    },
+    {
+      "added_at": "2025-02-27 16:00:26",
+      "album": {
+        "name": "Kickstart",
+        "url": "https://open.spotify.com/album/5i4Yy67wmZTaUD5ybk8ISc"
+      },
+      "artists": [
+        {
+          "name": "Ben Figueroa",
+          "url": "https://open.spotify.com/artist/4lMS9CtL9o0qR00YqEASx2"
+        }
+      ],
+      "duration_ms": 315878,
+      "name": "Kickstart",
+      "url": "https://open.spotify.com/track/4axJhocYG1CvAdlycWz0FQ"
+    },
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
+        "name": "Kalaban",
+        "url": "https://open.spotify.com/album/1zF93p6J59ifj4m21OudHS"
+      },
+      "artists": [
+        {
+          "name": "Zynfinity",
+          "url": "https://open.spotify.com/artist/3hhvszAhc2fpQ8Sm6HmQhr"
+        },
+        {
+          "name": "drmfy",
+          "url": "https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp"
+        }
+      ],
+      "duration_ms": 200237,
+      "name": "Kalaban",
+      "url": "https://open.spotify.com/track/3ImjcKyIfIGncrvAztaGyy"
+    },
     {
       "added_at": "2025-02-27 16:00:26",
       "album": {
@@ -67,22 +167,6 @@
       "duration_ms": 150347,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/5ATlaen60NxlAHrTD63NtF"
-    },
-    {
-      "added_at": "2025-02-27 16:00:26",
-      "album": {
-        "name": "Kickstart",
-        "url": "https://open.spotify.com/album/5i4Yy67wmZTaUD5ybk8ISc"
-      },
-      "artists": [
-        {
-          "name": "Ben Figueroa",
-          "url": "https://open.spotify.com/artist/4lMS9CtL9o0qR00YqEASx2"
-        }
-      ],
-      "duration_ms": 315878,
-      "name": "Kickstart",
-      "url": "https://open.spotify.com/track/4axJhocYG1CvAdlycWz0FQ"
     },
     {
       "added_at": "2025-02-27 16:00:26",
@@ -1619,90 +1703,6 @@
       "duration_ms": 175743,
       "name": "Flower Child",
       "url": "https://open.spotify.com/track/1kVUNR8GZaSjqwaa3Sx6JH"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Dollweb",
-        "url": "https://open.spotify.com/album/3UqR04DUHRgF8R91OFaKJf"
-      },
-      "artists": [
-        {
-          "name": "Ligaya Escueta",
-          "url": "https://open.spotify.com/artist/32GPsNDIVdDvE2EX2GcVyT"
-        }
-      ],
-      "duration_ms": 281426,
-      "name": "Locket",
-      "url": "https://open.spotify.com/track/6mVTwGL8jwegUBgcUg6CEz"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Ligaya",
-        "url": "https://open.spotify.com/album/4SA0fsI8vjCn372t9PiwDs"
-      },
-      "artists": [
-        {
-          "name": "David Reyeg",
-          "url": "https://open.spotify.com/artist/7pPE24PhuMIGLY93OqXy0a"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "Ligaya",
-      "url": "https://open.spotify.com/track/122GgOUVpJ7LCcMEyZO9p6"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Anyo",
-        "url": "https://open.spotify.com/album/31GgiFUi5ooxj2UYtmdQJv"
-      },
-      "artists": [
-        {
-          "name": "JESTUR",
-          "url": "https://open.spotify.com/artist/4MK8tlJZVaE5mIsrnkjzSY"
-        }
-      ],
-      "duration_ms": 228375,
-      "name": "Anyo",
-      "url": "https://open.spotify.com/track/3Q9j6SPZCf7JHmsaImlg65"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "royal life",
-        "url": "https://open.spotify.com/album/2uoxW9XUGppRJ1U0JiEUq3"
-      },
-      "artists": [
-        {
-          "name": "plutostxcks",
-          "url": "https://open.spotify.com/artist/6Kw18vajbnr4bUH6pGPB5L"
-        },
-        {
-          "name": "J Floatin",
-          "url": "https://open.spotify.com/artist/6lRnQsifrkzVmTEhelIUo7"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "royal life",
-      "url": "https://open.spotify.com/track/5KHqq9RoFfJnNr8qggq7Tf"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Room 69",
-        "url": "https://open.spotify.com/album/1RbqUxbRgJ3Rl4HtQg8DqQ"
-      },
-      "artists": [
-        {
-          "name": "Carish",
-          "url": "https://open.spotify.com/artist/3OeiqjQLg0Nnm1xLVpmydn"
-        }
-      ],
-      "duration_ms": 184269,
-      "name": "Room 69",
-      "url": "https://open.spotify.com/track/5J4MrJ1wOW45rDhuk01XeH"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

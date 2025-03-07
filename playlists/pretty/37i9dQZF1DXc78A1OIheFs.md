@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,855 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,858 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

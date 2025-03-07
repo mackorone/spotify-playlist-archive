@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-353 songs - 19 hr 47 min
+355 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,11 +246,13 @@
 | [Out of My Mind](https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Wasting Away](https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD) | 2:48 | 2024-11-29 |  |
 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 | 2022-07-25 |  |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-06-06 | 2023-04-27 |
+| [pity dirty](https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [pity dirty](https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ) | 3:13 | 2025-03-06 |  |
 | [Play Me Something Nice](https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho) | 3:21 | 2022-10-10 | 2024-04-19 |
 | [Play Me Something Nice](https://open.spotify.com/track/4YEoimxmDNIwTDaG6jZmcg) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/2noMzRAfv6SQUWON9GfM5d) | 3:21 | 2022-07-25 | 2022-10-13 |
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2024-09-16 |  |
 | [Pop Song](https://open.spotify.com/track/6tDbJIKGcfSWElhmtt6665) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 5:05 | 2022-07-25 | 2022-08-07 |
 | [Precious](https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Precious](https://open.spotify.com/album/4sguN40UxE3s6hCUhYaL23) | 2:25 | 2022-06-06 | 2022-07-29 |
+| [Promises](https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Promises](https://open.spotify.com/album/4H1ifuiljrSCXJn2LI3zLC) | 3:03 | 2025-03-06 |  |
 | [Protection](https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 7:51 | 2024-05-27 |  |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-05 |  |
 | [R.I.P\. \(feat\. Trippie Redd\)](https://open.spotify.com/track/4HKWrGhNxub4PTLg5CM5fW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 2:38 | 2024-01-22 | 2024-04-19 |
@@ -296,7 +298,7 @@
 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 | 2022-07-25 |  |
 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 | 2024-04-08 |  |
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2022-07-25 |  |
-| [Sweet Love](https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Basement Grooves](https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6) | 2:49 | 2024-04-08 |  |
+| [Sweet Love](https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Basement Grooves](https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6) | 2:49 | 2024-04-08 | 2025-03-07 |
 | [Take A Sip](https://open.spotify.com/track/1Gk21dL0nKzuwjA34jOGs5) | [XIN LIU](https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg) | [Take A Sip](https://open.spotify.com/album/4spbnZknoM4B7n6I9MbYNG) | 2:57 | 2024-11-14 |  |
 | [Talk](https://open.spotify.com/track/0rTV5WefWd1J3OwIheTzxM) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Talk](https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM) | 3:17 | 2022-07-25 |  |
 | [Tatted](https://open.spotify.com/track/4SXEPh7ese9BmZGNwXlnUD) | [LATRO](https://open.spotify.com/artist/26EAmIgHn2rrSVgKd3ehWD) | [Tatted](https://open.spotify.com/album/5mcpz12xwHIsS6RGhoF5m4) | 3:05 | 2022-06-06 | 2022-07-21 |
@@ -335,7 +337,7 @@
 | [untitled \(what's it gonna be\)](https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4) | [thecolorfractal](https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [untitled \(what's it gonna be\)](https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS) | 4:10 | 2022-06-06 |  |
 | [Use Me](https://open.spotify.com/track/4TF8goaI3qmoRHTq61qmtx) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk) | [Use Me](https://open.spotify.com/album/4AmYRXgAs8RpWppl7s63lk) | 4:00 | 2022-06-06 | 2022-07-29 |
 | [Vertigo](https://open.spotify.com/track/5Hje2TsqtKgPGADigZzpUr) | [Menchaca](https://open.spotify.com/artist/3DyMzyZlwWHxfuY6WJQAgf) | [Vertigo](https://open.spotify.com/album/4htIxETvvVEOUZbgaowI3Q) | 3:27 | 2022-06-06 | 2022-07-28 |
-| [Virtual Lover](https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Virtual Lover](https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr) | 2:54 | 2022-06-06 |  |
+| [Virtual Lover](https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Virtual Lover](https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr) | 2:54 | 2022-06-06 | 2025-03-07 |
 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2023-05-22 | 2025-03-03 |
 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 | 2022-07-25 |  |
 | [Walk Long](https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir) | [Psylo](https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI), [KINIDA](https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB) | [Walk Long](https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ) | 4:08 | 2025-02-17 |  |

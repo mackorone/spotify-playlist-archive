@@ -2,7 +2,7 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Fredz
+> Photo : Adèle Castillon x Caballero & JeanJass
 
 80 songs - 3 hr 44 min
 

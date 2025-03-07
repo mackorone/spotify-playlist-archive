@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! Bad Bunny on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,924 likes - 150 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,943 likes - 150 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

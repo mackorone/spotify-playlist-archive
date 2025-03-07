@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're flipping pancakes or deep in meal prep, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,912 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,920 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

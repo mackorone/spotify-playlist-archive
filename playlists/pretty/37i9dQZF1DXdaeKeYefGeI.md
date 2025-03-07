@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Maaike Ouboter & Eric Corton
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,747 likes - 74 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,756 likes - 74 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lijn](https://open.spotify.com/track/0HOrDesxpndcI38kujDxei) | [Eric Corton](https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv), [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Lijn](https://open.spotify.com/album/23nU1k5lNa9KG0Ifgzvnzf) | 2:38 |
 | 2 | [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Beste Zangers Seizoen 2020 \(Miss Montreal\)](https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS) | 2:50 |
-| 3 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 |
-| 4 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
-| 5 | [Een Meisje Van 16](https://open.spotify.com/track/7rjCFRtUL20Z1V9AfyiwBp) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF), [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [La Bohème](https://open.spotify.com/album/2XvjwHk3WFT1fiVnmttQbD) | 3:31 |
-| 6 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
+| 3 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
+| 4 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 |
+| 5 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
+| 6 | [Een Meisje Van 16](https://open.spotify.com/track/7rjCFRtUL20Z1V9AfyiwBp) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF), [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [La Bohème](https://open.spotify.com/album/2XvjwHk3WFT1fiVnmttQbD) | 3:31 |
 | 7 | [Kom Hier](https://open.spotify.com/track/6NFDCjTgNVlhVCeNGTAuYh) | [Manuëla Kemp](https://open.spotify.com/artist/0zpaARjlrBqGeMtzn2Y6XI) | [Slapeloze nachten](https://open.spotify.com/album/2OaBag8Hc7E3UnerZNY7xD) | 4:07 |
 | 8 | [Vraag](https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Eigenlijk](https://open.spotify.com/album/5NFhfDJdvvY2F1OyF6HYNl) | 3:03 |
 | 9 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 73 | [Lente Me](https://open.spotify.com/track/1JSrkd77iGJMYwTUBdX5Xs) | [Toon Hermans](https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h) | [One Man Show 1993](https://open.spotify.com/album/0WK6NTWtpvHLBovgYFbdsS) | 4:54 |
 | 74 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
 
-Snapshot ID: `Z8DupAAAAABQ56AmZuY/NtdiAsbT2J5r`
+Snapshot ID: `Z8opDwAAAAD2378twZgrgRMPpfbyvzQi`

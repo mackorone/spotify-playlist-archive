@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Amira Elfeky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,487 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,568 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

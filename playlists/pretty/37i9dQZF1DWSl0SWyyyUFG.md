@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,837 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,177 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

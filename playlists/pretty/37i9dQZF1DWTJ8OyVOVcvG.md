@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 
 > Piesele potrivite pentru zilele și nopțile tale chill de primăvară
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,583 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,590 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

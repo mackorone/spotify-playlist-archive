@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-931 songs - 2 day 4 hr 42 min
+932 songs - 2 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Lose Our Minds](https://open.spotify.com/track/2cjPokboQDr7xI0esIgg0h) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Lose Our Minds](https://open.spotify.com/album/0fnGVhEju3tWRYwdz9Ds8E) | 2:37 | 2022-08-16 | 2022-11-01 |
 | [Losing Control](https://open.spotify.com/track/4deqAXqtabM0PUskQUelxt) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [Losing Control](https://open.spotify.com/album/281n7TlRzznNkJFlQDa3yg) | 3:43 | 2021-11-19 | 2022-02-15 |
 | [Losing Control](https://open.spotify.com/track/2UsEuBZl1HRTe8BLfApoMt) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:42 | 2022-11-19 | 2022-11-22 |
+| [Losing Focus](https://open.spotify.com/track/6hsfRPIYAbTBl0sF9GM4sn) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Kuspe](https://open.spotify.com/artist/24FZmnUz58ndENxFnSAAC7), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Losing Focus](https://open.spotify.com/album/4nucN1upeEldBT4JaeEA8V) | 3:55 | 2025-03-06 |  |
 | [Losing My Mind](https://open.spotify.com/track/0YYghi9h8fntXyNlOfbMJl) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Avrii Castle](https://open.spotify.com/artist/0UqWEQATGeW7cOGCg1bVO8) | [Losing My Mind](https://open.spotify.com/album/4ZCJtrMnf06BuEeFJT5E7l) | 2:48 | 2022-09-23 | 2022-11-29 |
 | [Lost & Found](https://open.spotify.com/track/5ids0N0UPvFHDYDtvDgVCl) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Lost & Found](https://open.spotify.com/album/1Qpo82QvvoXCawctSQfNNJ) | 3:57 | 2022-02-21 | 2022-05-03 |
 | [Lost Call](https://open.spotify.com/track/3zpbvOJzNlCm6BsDmegds3) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Lost Call / Underwater](https://open.spotify.com/album/3NIN1m1TRqzS3H28lE1jeV) | 4:37 | 2024-04-18 | 2024-07-09 |

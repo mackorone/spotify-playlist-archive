@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,849 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,867 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

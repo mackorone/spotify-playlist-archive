@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,557 likes - 150 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,573 likes - 150 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

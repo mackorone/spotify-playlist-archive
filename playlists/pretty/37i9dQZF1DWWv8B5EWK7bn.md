@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,737 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,767 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

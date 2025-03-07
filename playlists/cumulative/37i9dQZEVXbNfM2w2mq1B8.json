@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "AMG Isteria",
       "url": "https://open.spotify.com/track/0uoFYncPoFjOb7uU33yyl0"
@@ -6102,7 +6102,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
@@ -12210,7 +12210,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 162857,
       "name": "Havana",
       "url": "https://open.spotify.com/track/3krDdyri6NeeU7FwTiAniq"
@@ -20270,6 +20270,24 @@
       "duration_ms": 189466,
       "name": "Natural",
       "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
+    },
+    {
+      "album": {
+        "name": "Nazdrave",
+        "url": "https://open.spotify.com/album/344xU2Bxp1kCuLtvLtFhkA"
+      },
+      "artists": [
+        {
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Nazdrave",
+      "url": "https://open.spotify.com/track/3mlyIcjIzQG4Ii4HcanWpR"
     },
     {
       "album": {
@@ -31922,7 +31940,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 193011,
       "name": "Voodoo Kukla",
       "url": "https://open.spotify.com/track/41d4VD8TuaSshhNcocd2PQ"
@@ -34600,7 +34618,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 174352,
       "name": "\u0412\u043b\u0430\u043a\u0430",
       "url": "https://open.spotify.com/track/1ZNaBYL73COjUVvINlKPlV"
@@ -37390,7 +37408,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 237999,
       "name": "\u041d\u044f\u043c\u0430 \u043a\u0432\u043e \u0434\u0430 \u0441\u0442\u0430\u043d\u0435",
       "url": "https://open.spotify.com/track/4vv2Ht8wgCvE7crsmgG6Gg"
@@ -37660,7 +37678,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 175483,
       "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/32pFur6ytKmk43I5gtX7W4"
@@ -37994,7 +38012,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 201351,
       "name": "\u041f\u043e\u0440\u0435\u0434\u043d\u0430\u0442\u0430 \u0446\u0438\u0433\u0430\u0440\u0430",
       "url": "https://open.spotify.com/track/3zF91nuE7bEP6POLHdYF3k"
@@ -38198,7 +38216,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 197608,
       "name": "\u041f\u044a\u0440\u0432\u0438\u044f\u0442",
       "url": "https://open.spotify.com/track/0u52MS7dNsEFTbAuwcgSKM"

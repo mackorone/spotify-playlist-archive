@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Grill Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,223 likes - 112 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,229 likes - 112 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

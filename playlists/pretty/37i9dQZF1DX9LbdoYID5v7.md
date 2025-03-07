@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 
 > 20 years of <a href="https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7?si=Up0hqVCISie7spJeiLtmXQ">I'm Wide Awake, It's Morning</a> Cover: Bright Eyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,106 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,323 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

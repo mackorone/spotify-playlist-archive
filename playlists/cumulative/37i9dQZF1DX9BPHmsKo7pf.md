@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Irina Rimes
+> Cele mai de succes 50 de hituri în România\. Cover: Irina Rimes\. O ediție specială de Ziua Femeii
 
-137 songs - 6 hr 40 min
+138 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,9 +131,10 @@
 | [TORE UP](https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:06 | 2024-07-01 | 2024-07-09 |
 | [TORE UP](https://open.spotify.com/track/6oTZCn2Wp55AbjcmhkiOfk) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 2:06 | 2024-09-16 |  |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-08 | 2024-07-23 |
+| [Triton](https://open.spotify.com/track/4DrMJI9DGrZlgygVrMC1cp) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [Rheda](https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct) | [Triton](https://open.spotify.com/album/6D4zgd0qRdk5dEiL8ClMR0) | 2:08 | 2025-03-06 |  |
 | [Turbo Orange](https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Turbo Orange](https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD) | 2:40 | 2024-11-05 |  |
 | [Vin Sa Te Fur](https://open.spotify.com/track/3dWT54uwKiBQ7JEqg3WGev) | [Luis Gabriel](https://open.spotify.com/artist/74ZiBcTi46Xf8THfkdAqrg), [Haziran](https://open.spotify.com/artist/2GSGcb6NjNoA5eKTSKcTNL) | [Vin Sa Te Fur](https://open.spotify.com/album/3H0qoKhzglhG2QnbSkG7c8) | 3:07 | 2025-01-07 |  |
-| [Vocea ta](https://open.spotify.com/track/7CMacubcnXb2QehV6HF4ew) | [Lele](https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G), [Manele VTM](https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba) | [Vocea ta](https://open.spotify.com/album/1KOUIh9JuOqVVD4LXu5brd) | 2:31 | 2024-07-01 |  |
+| [Vocea ta](https://open.spotify.com/track/7CMacubcnXb2QehV6HF4ew) | [Lele](https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G), [Manele VTM](https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba) | [Vocea ta](https://open.spotify.com/album/1KOUIh9JuOqVVD4LXu5brd) | 2:31 | 2024-07-01 | 2025-03-07 |
 | [Voila](https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Voila](https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP) | 2:19 | 2024-07-08 | 2025-01-08 |
 | [Vorba Francezului \- From "Buzz House" The Movie](https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Vorba Francezului \(From "Buzz House" The Movie\)](https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6) | 2:39 | 2024-07-01 |  |
 | [Vreau](https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Vreau](https://open.spotify.com/album/5PgnQECEOZpuU2aytDXsn2) | 2:29 | 2024-10-31 |  |

@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/42lTRrufN3kPy8d1LfLTPO"
+      },
+      "artists": [
+        {
+          "name": "Kuna Maze",
+          "url": "https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242383,
+      "name": "Backlash",
+      "url": "https://open.spotify.com/track/2kal3BQdZRLuzSvFiVfqH8"
+    },
+    {
+      "album": {
         "name": "The Bagatelles Vol. 1 - Mary Halvorson Quartet",
         "url": "https://open.spotify.com/album/5IYKfKnExWq9zD37LAJ5Ux"
       },
@@ -661,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Bossa Nova",
+      "url": "https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74"
+    },
+    {
+      "album": {
         "name": "Bristol Changes",
         "url": "https://open.spotify.com/album/1MGMt3m8CQfTjmNNTOU22R"
       },
@@ -766,7 +802,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 240653,
       "name": "CASANOVA POSSE",
       "url": "https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw"
@@ -934,7 +970,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 281833,
       "name": "Concentrate",
       "url": "https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc"
@@ -1416,7 +1452,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 220221,
       "name": "Endless Gray",
       "url": "https://open.spotify.com/track/7uoQI2brv0ESHgzM6BMEI9"
@@ -1478,7 +1514,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 195769,
       "name": "FIGO",
       "url": "https://open.spotify.com/track/31Q21Hm063OcE5FK03svmr"
@@ -2001,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Hurry Up & Wait",
+        "url": "https://open.spotify.com/album/4TaKNsOIMYrIpuBngF7Ygf"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432080,
+      "name": "Hurry Up & Wait",
+      "url": "https://open.spotify.com/track/2b7kkmTOmUTtuAUD9YUB4K"
+    },
+    {
+      "album": {
         "name": "I don't give a damn",
         "url": "https://open.spotify.com/album/7LP3Y1z89sjhYdx0bRFf9I"
       },
@@ -2050,6 +2104,28 @@
       "duration_ms": 182726,
       "name": "I Feel the Same - edbl Remix",
       "url": "https://open.spotify.com/track/2UsrfYHrbrK4j6xdkdJthh"
+    },
+    {
+      "album": {
+        "name": "I Wanna Tell Somebody",
+        "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Josh Milan",
+          "url": "https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358186,
+      "name": "I Wanna Tell Somebody",
+      "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
     },
     {
       "album": {
@@ -2538,7 +2614,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 362146,
       "name": "Kingfisher - feat. Asheber",
       "url": "https://open.spotify.com/track/4EVaThDYJ5rOs5M7sCHvgn"
@@ -2878,7 +2954,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 239480,
       "name": "Magic (feat. Emily King)",
       "url": "https://open.spotify.com/track/3VSYrw22mDac2h1bqr8pmg"
@@ -3178,6 +3254,32 @@
       "duration_ms": 278690,
       "name": "Never In My Short Sweet Life - Makaya McCraven Remix",
       "url": "https://open.spotify.com/track/0tYG6RjHYC3nrbyPtbhnQs"
+    },
+    {
+      "album": {
+        "name": "New Moves",
+        "url": "https://open.spotify.com/album/7CBvnbYqXFB10VWogU8tLi"
+      },
+      "artists": [
+        {
+          "name": "Sol Monk",
+          "url": "https://open.spotify.com/artist/6S8iF3O4XNvUO2Ipg47yFq"
+        },
+        {
+          "name": "Tamuz Dekel",
+          "url": "https://open.spotify.com/artist/2qro5TGvNZmeUEB1Rce5H1"
+        },
+        {
+          "name": "Dor Sam",
+          "url": "https://open.spotify.com/artist/6cOKr9zFYX7zJCZ9UB7gJa"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285150,
+      "name": "New Moves",
+      "url": "https://open.spotify.com/track/7w2XWh4lyIxIGV0Hqc1rEW"
     },
     {
       "album": {
@@ -3518,6 +3620,32 @@
       "duration_ms": 284106,
       "name": "Pawnshop",
       "url": "https://open.spotify.com/track/1K0AbEX6O5TXe4mCBfnRx2"
+    },
+    {
+      "album": {
+        "name": "Pendulum [Feat. Sonicwonder & Michelle Willis]",
+        "url": "https://open.spotify.com/album/4xm9hq7Z4NORk6mJZA0grx"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Sonicwonder",
+          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
+        },
+        {
+          "name": "Michelle Willis",
+          "url": "https://open.spotify.com/artist/2CgQstPV8fb7a4zCFWgPw0"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357346,
+      "name": "Pendulum [Feat. Sonicwonder & Michelle Willis]",
+      "url": "https://open.spotify.com/track/0JwQJRLM0Kwvs1CFWhufhj"
     },
     {
       "album": {
@@ -3903,6 +4031,28 @@
     },
     {
       "album": {
+        "name": "Smell The Daises",
+        "url": "https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250253,
+      "name": "Smell The Daises",
+      "url": "https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6"
+    },
+    {
+      "album": {
         "name": "Snowy Road",
         "url": "https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8"
       },
@@ -4236,7 +4386,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 188869,
       "name": "Tadow - Full Crate Remix",
       "url": "https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T"
@@ -5082,6 +5232,24 @@
       "duration_ms": 219445,
       "name": "\u6d41\u661f\u306e\u8336\u8a71\u4f1a",
       "url": "https://open.spotify.com/track/4swDVIH5fT96oMp9AGi2XX"
+    },
+    {
+      "album": {
+        "name": "\u9082\u9005",
+        "url": "https://open.spotify.com/album/42pFLB9MwWbPRCbHdfXfGo"
+      },
+      "artists": [
+        {
+          "name": "LOTUS GUITAR",
+          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248205,
+      "name": "\u9082\u9005",
+      "url": "https://open.spotify.com/track/0lJDV5BTXFvgDgnOguaPEA"
     },
     {
       "album": {

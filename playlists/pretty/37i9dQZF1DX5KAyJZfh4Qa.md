@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Thursday
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,805 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,852 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

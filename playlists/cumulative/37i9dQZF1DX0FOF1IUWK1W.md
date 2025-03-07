@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Fernanda Torres, a ganhadora do coração dos brasileiros! A vida presta SIM e melhor filme internacional é NOSSO 🇧🇷
+> J\. Eskine e os maiores hits do país\. O que tá bombando tá aqui.
 
 547 songs - 1 day 3 hr 36 min
 

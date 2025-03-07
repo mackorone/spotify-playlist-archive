@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,192 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,312 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

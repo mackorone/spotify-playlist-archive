@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Ana Farelo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,455 likes - 66 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,457 likes - 66 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

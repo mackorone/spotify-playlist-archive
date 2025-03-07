@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Los Plebes del Rancho de Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,987 likes - 125 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,010 likes - 125 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

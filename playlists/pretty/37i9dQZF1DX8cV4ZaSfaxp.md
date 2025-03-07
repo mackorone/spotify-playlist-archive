@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,445 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,447 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

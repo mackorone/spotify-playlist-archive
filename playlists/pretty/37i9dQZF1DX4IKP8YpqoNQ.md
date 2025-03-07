@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,742 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,747 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,561 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,572 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

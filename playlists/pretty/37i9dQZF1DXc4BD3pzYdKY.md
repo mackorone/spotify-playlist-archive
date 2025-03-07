@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  KB
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,435 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,523 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 68 | [Shake Loose](https://open.spotify.com/track/6AzDlMZFOyEGwePlK8VYIL) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ) | [Shake Loose](https://open.spotify.com/album/44juT4W9Z6lDhYhyZ1Sv37) | 3:27 |
 | 69 | [TELL YOU TWICE](https://open.spotify.com/track/1NzfplpoT4ChGBUafX6BCt) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [TELL YOU TWICE](https://open.spotify.com/album/5I7UmNw5YDux5QDnsyDIV8) | 2:56 |
 | 70 | [Drop It](https://open.spotify.com/track/2KmB83eDao5pjXlylVLdHB) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [Tommy Zuko](https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT) | [Drop It](https://open.spotify.com/album/4FrbZnllU4wYKY0W7w8RbY) | 2:33 |
-| 71 | [Give Me My Heart Back](https://open.spotify.com/track/6PJGrQ6N75ZZe3LCHZDptr) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Give Me My Heart Back](https://open.spotify.com/album/5U1f0n73kyqYcwBFzxIm1h) | 2:46 |
+| 71 | [Give Me My Heart Back](https://open.spotify.com/track/6PJGrQ6N75ZZe3LCHZDptr) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I) | [Give Me My Heart Back](https://open.spotify.com/album/5U1f0n73kyqYcwBFzxIm1h) | 2:46 |
 | 72 | [SINNER](https://open.spotify.com/track/2yrDu0686PDeoZ4XCky6o4) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [SINNER](https://open.spotify.com/album/6lZZQrx24HKZdmUatoRkjt) | 3:29 |
 | 73 | [Big Man](https://open.spotify.com/track/4urxRgbNQ0iAW41Gm2yK77) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Big Yeet](https://open.spotify.com/artist/1gOj2mSVypJfiSULPlC7Sn) | [Big Man](https://open.spotify.com/album/0AmUjPOJUFn5YqeNTby90H) | 2:45 |
 | 74 | [Long Time Coming](https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Long Time Coming](https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7) | 2:53 |

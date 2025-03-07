@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Rangkai",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Terbit Dari Selatan",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Beralih",
+        "url": "https://open.spotify.com/album/0geNK6W1wTH44xPKxTDw0c"
+      },
+      "artists": [
+        {
+          "name": "Terbit Dari Selatan",
+          "url": "https://open.spotify.com/artist/2nydh1CUw2nxO9LYt7y3J0"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Beralih",
+      "url": "https://open.spotify.com/track/2idjIFh2881kQFEMNOvKSo"
+    },
+    {
+      "album": {
         "name": "Beranilah Melawan",
         "url": "https://open.spotify.com/album/11sFBkQkbQF7tmPQMiogre"
       },
@@ -690,7 +708,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 183463,
       "name": "Bunga Mawas",
       "url": "https://open.spotify.com/track/6W80U6x8yW8JoeOQysSuG1"
@@ -1744,6 +1762,24 @@
       "duration_ms": 193880,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4"
+    },
+    {
+      "album": {
+        "name": "VIS A VIS",
+        "url": "https://open.spotify.com/album/0dC1ZaxZ1BCEM3C5Au8yeX"
+      },
+      "artists": [
+        {
+          "name": "Iksan Skuter",
+          "url": "https://open.spotify.com/artist/2M0JEUzgcRX62pMAVlhpxy"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272411,
+      "name": "Gumam",
+      "url": "https://open.spotify.com/track/7kGQoEXrUR7aBIkgJCwEnZ"
     },
     {
       "album": {
@@ -2844,7 +2880,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 255254,
       "name": "Love Or Lust",
       "url": "https://open.spotify.com/track/4xLcwgJupO7t7YgROCTB2m"
@@ -2888,6 +2924,28 @@
       "duration_ms": 238982,
       "name": "Lovely Echoes",
       "url": "https://open.spotify.com/track/2aASuMToTrUrpNHGI8vw0x"
+    },
+    {
+      "album": {
+        "name": "Mangu",
+        "url": "https://open.spotify.com/album/2YwOLrlwjH1eG8j40FiXDQ"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        },
+        {
+          "name": "Charita Utami",
+          "url": "https://open.spotify.com/artist/48yQuRfvklyupKmridU1du"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262469,
+      "name": "Mangu",
+      "url": "https://open.spotify.com/track/0wULafSHeHYZFu54R9ZFRJ"
     },
     {
       "album": {
@@ -4256,7 +4314,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 194560,
       "name": "so much to say in this road",
       "url": "https://open.spotify.com/track/6LLjhhhjf8wwjYs26ivEgr"

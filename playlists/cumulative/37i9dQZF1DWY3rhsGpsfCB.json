@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 149195,
       "name": "1900's",
       "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 187159,
       "name": "A Million Things",
       "url": "https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Ah Well",
       "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 205200,
       "name": "Always Time",
       "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 176213,
       "name": "ATARAXIA",
       "url": "https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 127400,
       "name": "BLKN",
       "url": "https://open.spotify.com/track/72dnVyRTuvKakKNtbBGlKc"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 195750,
       "name": "Can't Save You (feat. Roy Woods)",
       "url": "https://open.spotify.com/track/0N3IlFOcL5vlwrV63wct3b"
@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 172265,
       "name": "Different Sides (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 129029,
       "name": "F.N.F.",
       "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
@@ -3570,7 +3570,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "FaceCard (Only Me)",
       "url": "https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO"
@@ -4266,7 +4266,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 186858,
       "name": "French Tips (feat. Coco Jones)",
       "url": "https://open.spotify.com/track/3pPlFiN3TLqHd5uXnRr4Cv"
@@ -5000,6 +5000,24 @@
       "duration_ms": 109392,
       "name": "Hey, Stunner",
       "url": "https://open.spotify.com/track/6l7vf1NGO0GK0Y6IN5cFlK"
+    },
+    {
+      "album": {
+        "name": "High / Higher",
+        "url": "https://open.spotify.com/album/1UeBb2lT6mMln7aveePUMR"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177456,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3bIoJjL2VH2U9nInHQYHgv"
     },
     {
       "album": {
@@ -5986,7 +6004,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 175333,
       "name": "It's a Game",
       "url": "https://open.spotify.com/track/6qLJYOBiUJbKNHQLmL5a79"
@@ -6270,7 +6288,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 168619,
       "name": "Keep Going (Aaaaahhhhh)",
       "url": "https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN"
@@ -6424,7 +6442,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 202850,
       "name": "Know Better (feat. Lil' Mo & Vince Staples)",
       "url": "https://open.spotify.com/track/6u7nuBZnO53vy8Kmpc6kEU"
@@ -6654,7 +6672,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
@@ -6954,7 +6972,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 164472,
       "name": "lon3ly",
       "url": "https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf"
@@ -7016,6 +7034,24 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/2TRDihrw7kDXw7Gu5mrJ7E"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1QLqOORXtH6mdXI5lEEjg3"
     },
     {
       "album": {
@@ -7102,7 +7138,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 133343,
       "name": "Love & Romance",
       "url": "https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT"
@@ -7584,7 +7620,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
@@ -7842,7 +7878,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 180571,
       "name": "Messiah (feat. Asa)",
       "url": "https://open.spotify.com/track/4XwDWSqhaXCr1MTaaMPMdf"
@@ -8342,7 +8378,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 151590,
       "name": "myfavourite.mp3",
       "url": "https://open.spotify.com/track/6GWhGNVv8OveWv7WK0sd0l"
@@ -9320,7 +9356,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 234706,
       "name": "Owe To You - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3CkJ5kQNtNlgiQMhIqWufA"
@@ -9392,7 +9428,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 247666,
       "name": "Panther City",
       "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
@@ -9414,7 +9450,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 195428,
       "name": "PARADIGM",
       "url": "https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31"
@@ -9882,6 +9918,28 @@
       "duration_ms": 171133,
       "name": "Poison",
       "url": "https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh"
+    },
+    {
+      "album": {
+        "name": "Pop n Olive",
+        "url": "https://open.spotify.com/album/5EUkK1J0maUUX0kc4Uhma0"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        },
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180878,
+      "name": "Pop n Olive",
+      "url": "https://open.spotify.com/track/7mx3o5H3YzWolHZe0Wtbam"
     },
     {
       "album": {
@@ -10800,7 +10858,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 144545,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e"
@@ -11436,9 +11494,9 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 170769,
-      "name": "Slow Down (with Teezo Touchdown)",
+      "name": "Slow Down",
       "url": "https://open.spotify.com/track/4Gl5BCT19GpVKh7nNdleZf"
     },
     {
@@ -11466,7 +11524,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 237623,
       "name": "Slow Down - with Future, Fridayy & Mariah the Scientist",
       "url": "https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT"
@@ -12662,7 +12720,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-28",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
@@ -12848,7 +12906,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 198000,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/0CpRA17czK0iR7vxWh94st"
@@ -13078,7 +13136,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 247526,
       "name": "Think Different",
       "url": "https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT"
@@ -13132,7 +13190,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 178218,
       "name": "THOUGHT YOU WERE THE ONE",
       "url": "https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv"
@@ -14306,7 +14364,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-09",
+      "date_removed": null,
       "duration_ms": 164081,
       "name": "Will I?",
       "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
@@ -14474,7 +14532,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 93099,
       "name": "X",
       "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"

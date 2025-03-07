@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975 likes - 28 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,976 likes - 28 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

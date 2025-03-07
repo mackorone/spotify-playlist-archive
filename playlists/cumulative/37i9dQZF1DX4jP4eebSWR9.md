@@ -4,7 +4,7 @@
 
 > 50 Hits in einer Playlist! Cover: Abor & Tynna
 
-145 songs - 7 hr 0 min
+146 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [alle märchen sind gelogen](https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [alle märchen sind gelogen](https://open.spotify.com/album/6SL3jtI8KT2kgJeM46vrCD) | 2:45 | 2025-02-25 |  |
 | [Allein da \- Radio Edit](https://open.spotify.com/track/1ZAY0JeV4APCcfvRkwTWEH) | [SAMIRA](https://open.spotify.com/artist/1ja6rO5jiXnkuG5E8WmmZD), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Allein da \(Radio Edit\)](https://open.spotify.com/album/4dhujyi2cjuJ8ByR9Ot1Nk) | 2:40 | 2024-12-20 | 2025-02-05 |
 | [AMA DOREN](https://open.spotify.com/track/31IhzT94l1iqqTcwohZzbY) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [AMA DOREN](https://open.spotify.com/album/05pc4LDuUnuroq0J9yFmUO) | 2:41 | 2024-09-10 | 2024-11-13 |
-| [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-04 |  |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-06 |  |
+| [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-04 | 2025-03-07 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-22 |  |
 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 | 2024-09-10 |  |
 | [atzen & barbies \(feat\. ski aggu\)](https://open.spotify.com/track/4iD4W5c2bpkLRoFbzUIuR2) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [atzen & barbies \(feat\. ski aggu\)](https://open.spotify.com/album/2e4PVzy8g83UnDEDxL6woe) | 2:26 | 2025-01-10 | 2025-02-12 |

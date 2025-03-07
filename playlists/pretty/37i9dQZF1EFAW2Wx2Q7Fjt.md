@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,219 likes - 174 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,225 likes - 174 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 173 | [choices](https://open.spotify.com/track/1ew8ziYcyv8627lgOtppuf) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:27 |
 | 174 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 
-Snapshot ID: `AbrRQAAAAACwFhUtX7J3GKCb+4aom5wV`
+Snapshot ID: `AbrXCAAAAADxXAe0Q/59+E+8ldlMjl1+`

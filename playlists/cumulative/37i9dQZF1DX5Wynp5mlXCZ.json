@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Tember Blanche",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Lady Gaga",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -1008,6 +1008,28 @@
       "duration_ms": 192317,
       "name": "Hammer to the Heart",
       "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
       "album": {
@@ -2727,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+    },
+    {
+      "album": {
         "name": "MARIA",
         "url": "https://open.spotify.com/album/57JOJXMbvvtdMOV9PkBNuH"
       },
@@ -2966,7 +3006,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 150000,
       "name": "\u0410 \u044f \u0432\u0441\u0435 \u043f\u043b\u0430\u043a\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf"
@@ -3116,6 +3156,32 @@
       "duration_ms": 142105,
       "name": "\u0432\u0438\u0432\u0447\u0438 \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/2acrRGrZ0z0uSHJnGfqvP2"
+    },
+    {
+      "album": {
+        "name": "\u0412\u0418\u041c\u041e\u041b\u0418\u0412",
+        "url": "https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        },
+        {
+          "name": "MONATIK",
+          "url": "https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q"
+        },
+        {
+          "name": "Evgeny Khmara",
+          "url": "https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "\u0412\u0418\u041c\u041e\u041b\u0418\u0412",
+      "url": "https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck"
     },
     {
       "album": {
@@ -3344,6 +3410,24 @@
       "duration_ms": 181153,
       "name": "\u0434\u0438\u043c",
       "url": "https://open.spotify.com/track/7dvyNtjVH1utKHk2xUCmuz"
+    },
+    {
+      "album": {
+        "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
+        "url": "https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152076,
+      "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
+      "url": "https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY"
     },
     {
       "album": {
@@ -3894,7 +3978,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 214756,
       "name": "\u041b\u0456\u0444\u0442",
       "url": "https://open.spotify.com/track/7yk4zXXeXGtRrZKvWSOWhT"
@@ -3956,7 +4040,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 142666,
       "name": "\u041c\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u043e",
       "url": "https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A"
@@ -4626,7 +4710,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 258846,
       "name": "\u0421\u0442\u0440\u0435\u0441 (I guess)",
       "url": "https://open.spotify.com/track/1leGMeuGSZBAasqaIFZlrx"

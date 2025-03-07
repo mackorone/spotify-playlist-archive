@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: Francis Mercier
 
-249 songs - 16 hr 38 min
+250 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Marrakech](https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 5:14 | 2022-03-30 | 2022-08-23 |
 | [Matwasouneesh](https://open.spotify.com/track/6s3phzT9lHW1viznchr3lu) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Matwasouneesh](https://open.spotify.com/album/1kfpSqYp8c4zttZGgExC8z) | 4:42 | 2022-03-30 | 2022-08-23 |
 | [Mawal](https://open.spotify.com/track/13yJKMCV044A6WDfNQnL1K) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mawal](https://open.spotify.com/album/5PWaUTA0ezATBmK2AnNJbe) | 2:49 | 2023-06-24 | 2024-03-29 |
+| [Mawjou](https://open.spotify.com/track/6hS72AKhCjGfPdDG2q7xNQ) | [Acnatro](https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS) | [Mawjou](https://open.spotify.com/album/4sEcHjgYosHuNyoijrAlkQ) | 2:25 | 2025-03-06 |  |
 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2022-03-30 | 2023-06-24 |
 | [Mbarka](https://open.spotify.com/track/1Nb3n0i8SkrdHJmFZ8UvYo) | [Ismailovic](https://open.spotify.com/artist/7eafY5MVTDx6MZCKNRvkt8) | [Mbarka](https://open.spotify.com/album/0NDIU1tmuW2N794nt3yEBd) | 6:15 | 2023-09-13 | 2023-10-07 |
 | [Mbarka \- Original Mix](https://open.spotify.com/track/55uwSianyiBX7CAwPY5Jnf) | [Ismailovic](https://open.spotify.com/artist/4RB42AM4VqzdHRQiVbzDU1), [M.Ali](https://open.spotify.com/artist/2h1ioVI51vRKxXyhrCs6et) | [Mbarka \(Original Mix\)](https://open.spotify.com/album/0Dh2vSHSdz59MyhTt5Zuox) | 6:15 | 2023-08-04 | 2023-09-29 |
@@ -245,7 +246,7 @@
 | [Ya Rawa'anek](https://open.spotify.com/track/63z26Te7baeagaYRW3BvbY) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/08fHah0PYjQwfoqIis8y84) | 4:15 | 2022-03-30 | 2022-05-20 |
 | [Ya Rayah](https://open.spotify.com/track/1KVpa83fBkART0ZZuRb3Bt) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.2](https://open.spotify.com/album/64nugwneK97CluUKPSUAzb) | 2:18 | 2023-07-11 | 2024-07-28 |
 | [Ya Rayt \- Shkoon Radio Edit](https://open.spotify.com/track/4dQkzZlY6SKoanDrWGv8WQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Ya Rayt \(Shkoon Remix\)](https://open.spotify.com/album/5aBPfggkU1oEEA36MJ3yEg) | 3:32 | 2022-03-30 | 2023-06-24 |
-| [Yababa \- Tunisian Mix](https://open.spotify.com/track/2RzpXFHgXybMjFCxHtOOnv) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Yababa \(Tunisian Mix\)](https://open.spotify.com/album/5h73R2jKggJ2O881UkV0Qf) | 5:35 | 2023-06-23 |  |
+| [Yababa \- Tunisian Mix](https://open.spotify.com/track/2RzpXFHgXybMjFCxHtOOnv) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Yababa \(Tunisian Mix\)](https://open.spotify.com/album/5h73R2jKggJ2O881UkV0Qf) | 5:35 | 2023-06-23 | 2025-03-07 |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-18 |  |
 | [Yena'al Li](https://open.spotify.com/track/5HhdXBRK4cI9mVO6Y9G4WT) | [Wassim Younes](https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn), [Sahraaoui](https://open.spotify.com/artist/2dTsEuAzvCDqcUVeOt6yff) | [Yena'al Li](https://open.spotify.com/album/03q6CZrTFtaSAUDi1xdRhs) | 4:52 | 2022-10-11 | 2023-11-03 |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-04-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,776,106 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,776,139 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 | 49 | [Vem Novinha pro Cafofo](https://open.spotify.com/track/2XB2Mq2J3695WoYrIOljUZ) | [Trovão no Beat](https://open.spotify.com/artist/6kS3lGSFbGHJbvsnD4MRl1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Vem Novinha pro Cafofo](https://open.spotify.com/album/3jQam6Zyvx5hR1HRllI4vm) | 2:38 |
 | 50 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

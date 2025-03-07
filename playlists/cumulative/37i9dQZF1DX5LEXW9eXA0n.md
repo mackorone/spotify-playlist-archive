@@ -2,7 +2,7 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Isaac Hong \(홍이삭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Choi Yu Ree \(최유리\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
 1,416 songs - 3 day 19 hr 36 min
 

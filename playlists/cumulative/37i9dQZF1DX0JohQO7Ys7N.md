@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Njerae
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bridget Blue
 
-262 songs - 14 hr 41 min
+263 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-23 | 2024-01-27 |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-06-10 | 2024-02-16 |
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-16 | 2024-11-29 |
+| [Hujawahi Nipenda](https://open.spotify.com/track/1KpsGQ1CE8jOHBSAyqIz5e) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Hujawahi Nipenda](https://open.spotify.com/album/3FsC48Ey5w01pDux5ec2Um) | 2:30 | 2025-03-07 |  |
 | [Hypnotize](https://open.spotify.com/track/5nOcqh0xXY6ckhXIqvnNyJ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Four Letter Word](https://open.spotify.com/album/14RN20kRB6ZYdfJZgyUMbF) | 2:46 | 2025-02-13 | 2025-02-21 |
 | [I Choose You](https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I Choose You](https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB) | 3:37 | 2025-02-13 | 2025-02-21 |
 | [I Got You](https://open.spotify.com/track/5gsRgQ0dYdKhxjo2QGFNIV) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wendy Kay](https://open.spotify.com/artist/12iY7rpJm4nczAeo4kyw7u), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Soul'd Duets](https://open.spotify.com/album/0RWvz01vbIOwW5Oo3e3ky6) | 3:35 | 2024-05-16 |  |
@@ -210,7 +211,7 @@
 | [Sema](https://open.spotify.com/track/4S2LpLITlVGrvOttc4rCtu) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Sema](https://open.spotify.com/album/7j0fwr3cxUNQH4vz5ISY7F) | 3:03 | 2025-02-07 |  |
 | [Sema Milele](https://open.spotify.com/track/2etocCZTaYXfYFwvd7a3mp) | [Gilad](https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ) | [Asante](https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF) | 4:16 | 2025-02-13 | 2025-02-21 |
 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 | 2022-04-28 | 2022-09-23 |
-| [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 |  |
+| [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 | 2025-03-07 |
 | [Shuga Mami](https://open.spotify.com/track/3igr48adSH8n7DD8Uuob4m) | [Ayrosh](https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l) | [Shuga Mami](https://open.spotify.com/album/2V00KW0quSNc1b6QgUNPNY) | 3:38 | 2025-02-13 | 2025-02-21 |
 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2021-12-28 | 2023-12-01 |
 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 | 2023-09-21 | 2024-03-29 |

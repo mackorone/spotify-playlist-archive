@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Childlike CiCi & Tommy Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,931 likes - 105 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,947 likes - 105 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

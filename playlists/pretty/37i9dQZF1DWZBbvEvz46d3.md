@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,243 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,255 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

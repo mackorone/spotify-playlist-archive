@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Whyte (\u58de\u7279)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Enno Cheng (\u912d\u5b9c\u8fb2)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 176514,
       "name": "bowling -\u300a\u6b64\u6642\u6b64\u523b\u300b\u7b2c\u4e09\u96c6\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/7dwBbELnlh0D1Qf0tc418g"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 175860,
       "name": "General Suspicious",
       "url": "https://open.spotify.com/track/2vMUUnkFMShULt9nFneoqV"
@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 223754,
       "name": "Night Lotion\u300c\u878d\u300d",
       "url": "https://open.spotify.com/track/1lMtUY5bgQMRmaFE99qaky"
@@ -3707,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "The Make",
+        "url": "https://open.spotify.com/album/4LSYpyfRTAszuh1cQ69jvr"
+      },
+      "artists": [
+        {
+          "name": "\u4ee4\u6674 Lynn",
+          "url": "https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95738,
+      "name": "Pain And Pleasure",
+      "url": "https://open.spotify.com/track/5EPUJa7EmY7CAglQ2uEab0"
+    },
+    {
+      "album": {
         "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA"
       },
@@ -3982,7 +4000,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 259838,
       "name": "Real World",
       "url": "https://open.spotify.com/track/6r7B52U7LeAfH3AXcSC8C7"
@@ -4580,6 +4598,28 @@
       "duration_ms": 217125,
       "name": "St. Lover",
       "url": "https://open.spotify.com/track/3dvvbyu9mSK1AotEW8ngR4"
+    },
+    {
+      "album": {
+        "name": "Dive & Give",
+        "url": "https://open.spotify.com/album/1Zl1TH7j0cZEHf03ScvES2"
+      },
+      "artists": [
+        {
+          "name": "L8ching",
+          "url": "https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf"
+        },
+        {
+          "name": "Whyte",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193160,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1OdYxzfqbzxRMLWus4bXFq"
     },
     {
       "album": {
@@ -5229,6 +5269,28 @@
     },
     {
       "album": {
+        "name": "Taured",
+        "url": "https://open.spotify.com/album/7dyN5oneMbQ4GhKvMkU0Ft"
+      },
+      "artists": [
+        {
+          "name": "Bremen Entertainment Inc.",
+          "url": "https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA"
+        },
+        {
+          "name": "Mordecai",
+          "url": "https://open.spotify.com/artist/5uHGu4IF2obMhivKyUzoq3"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85893,
+      "name": "Untitled 9",
+      "url": "https://open.spotify.com/track/67RSYTAmSaip7s8DMOUhC8"
+    },
+    {
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/2V2VAi4Rb2aDUWBtSvICMR"
       },
@@ -5306,6 +5368,24 @@
       "duration_ms": 182769,
       "name": "We Don't Have To",
       "url": "https://open.spotify.com/track/5WXcIoVs1ucVbm25cDUqEp"
+    },
+    {
+      "album": {
+        "name": "The Great Bremen Show",
+        "url": "https://open.spotify.com/album/18GGV74KlTQ1WOOUaTeqP2"
+      },
+      "artists": [
+        {
+          "name": "Bremen Entertainment Inc.",
+          "url": "https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110795,
+      "name": "Welcome to TGBS",
+      "url": "https://open.spotify.com/track/4uTfxmx8K59JkoxfWtGVdJ"
     },
     {
       "album": {
@@ -5440,7 +5520,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 131124,
       "name": "Wonder - Radio Edit",
       "url": "https://open.spotify.com/track/0lHzdjaWiKlodjIkjpWNl8"
@@ -5678,6 +5758,24 @@
       "duration_ms": 372000,
       "name": "\u4e0d\u662f\u8def",
       "url": "https://open.spotify.com/track/5PVokBoQNUiiexuVqNVOgB"
+    },
+    {
+      "album": {
+        "name": "\u6d6e\u4e16\u64ca",
+        "url": "https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J"
+      },
+      "artists": [
+        {
+          "name": "YELLOW\u9ec3\u5ba3",
+          "url": "https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265120,
+      "name": "\u4e0d\u958b\u71c8\u4ff1\u6a02\u90e8",
+      "url": "https://open.spotify.com/track/4h5S8OkSAXgL87jY43Qpzc"
     },
     {
       "album": {
@@ -6833,6 +6931,24 @@
     },
     {
       "album": {
+        "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
+        "url": "https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238792,
+      "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
+      "url": "https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO"
+    },
+    {
+      "album": {
         "name": "\u7406\u67e5",
         "url": "https://open.spotify.com/album/35PWIGMOPkA2U5fRZZUPva"
       },
@@ -6977,6 +7093,24 @@
     },
     {
       "album": {
+        "name": "\u5982\u679c\u6bcf\u5929\u90fd\u53ef\u4ee5 happy happy \u8ab0\u60f3\u8981sad:)) - \u4e00\u8d77\u53bb\u5ea6\u5047",
+        "url": "https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5afa\u975c",
+          "url": "https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176981,
+      "name": "\u79d1\u5e7b\u5c0f\u8aaa",
+      "url": "https://open.spotify.com/track/416Z4twQflY6NmXtxI013g"
+    },
+    {
+      "album": {
         "name": "\u7c21\u55ae\u4e00\u53e5\u8a71",
         "url": "https://open.spotify.com/album/2W7mTvqn6ddqigrpeQ2x2p"
       },
@@ -7042,7 +7176,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 212706,
       "name": "\u7f8a\u76ae\u5148\u751f",
       "url": "https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x"
@@ -7114,7 +7248,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 258866,
       "name": "\u8584\u8377",
       "url": "https://open.spotify.com/track/3Dg3CH1g0TKhw5wHpUcrDT"
@@ -7258,7 +7392,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 188480,
       "name": "\u904a\u7267\u4e16\u754c",
       "url": "https://open.spotify.com/track/0lbaKF8Vzb8vzqKNQJuNae"
@@ -7316,6 +7450,24 @@
       "duration_ms": 482734,
       "name": "\u90a3\u4e9b\u4e8b\u60c5\u662f\u771f\u7684\u6709\u610f\u601d\u55ce",
       "url": "https://open.spotify.com/track/5FJczJqutA2UZWVJBbqgdH"
+    },
+    {
+      "album": {
+        "name": "\u90a3\u5361\u897f",
+        "url": "https://open.spotify.com/album/2OsNyKV9LcycaPIwjUC3wP"
+      },
+      "artists": [
+        {
+          "name": "L8ching",
+          "url": "https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339149,
+      "name": "\u90a3\u5361\u897f",
+      "url": "https://open.spotify.com/track/5fghVok26P8G3PFfXOhjNo"
     },
     {
       "album": {

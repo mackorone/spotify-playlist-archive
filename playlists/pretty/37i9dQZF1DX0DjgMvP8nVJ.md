@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,972 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,080 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

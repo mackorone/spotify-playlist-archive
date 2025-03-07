@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Emilia, Luísa Sonza
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,175 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,330 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

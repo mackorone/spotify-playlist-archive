@@ -2,9 +2,9 @@
 
 ### [OPM Rising](https://open.spotify.com/playlist/37i9dQZF1DWSVQreDCvFMf)
 
-> Mga bago at lumilitaw sa mundo ng OPM\. Cover: 12th Street
+> Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jayda
 
-295 songs - 18 hr 39 min
+296 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Little Paradise](https://open.spotify.com/track/34l48eopIEbS9l475GAFDy) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Little Paradise](https://open.spotify.com/album/3Dnwf0bINwnc20LQ033gfI) | 3:18 | 2024-07-02 | 2024-07-19 |
 | [Liwanag sa Dilim \- from “Incognito”](https://open.spotify.com/track/3Ynpt5qseTmDdl9bN21FNJ) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [Liwanag sa Dilim \(from "Incognito"\)](https://open.spotify.com/album/1vCSYqaZovDj09EiUgBjdJ) | 3:39 | 2025-02-12 |  |
 | [Love Is](https://open.spotify.com/track/2SABOK9LGZ68jM5TPPHBvD) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [Love Is](https://open.spotify.com/album/4RU1GrHbHIXBlrVOrUdwfw) | 3:52 | 2024-07-26 | 2024-11-09 |
+| [Loved For Once](https://open.spotify.com/track/1MEWoZA2iNHNL3tb1e22Zm) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER) | [Loved For Once](https://open.spotify.com/album/4y5pQr79iY387t8FINjwlV) | 3:17 | 2025-03-06 |  |
 | [Lulay](https://open.spotify.com/track/6IVoV10fauImZHBVmc4vAF) | [Nowan.](https://open.spotify.com/artist/2FhQRdH3HIiapENFKfBvXJ) | [Lulay](https://open.spotify.com/album/6ntZ2nx0HXRj3Vb5gYkUOo) | 3:12 | 2024-11-20 |  |
 | [Lumayo](https://open.spotify.com/track/6EaSUjAd1Zi2jK6PMqWKEz) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23) | 2:55 | 2024-10-04 | 2025-02-01 |
 | [M.I.N.O.Y.](https://open.spotify.com/track/34WtPmBapjEfO6iItLb51A) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [M.I.N.O.Y.](https://open.spotify.com/album/78F8Zvv1TZRSlugLNjlnMd) | 3:26 | 2024-11-22 | 2025-02-15 |

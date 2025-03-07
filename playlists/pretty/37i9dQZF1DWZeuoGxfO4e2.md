@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 
 > Celebramos a las figuras legendarias del rock en nuestro idioma\. Foto: Soda Stereo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,055 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,201 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

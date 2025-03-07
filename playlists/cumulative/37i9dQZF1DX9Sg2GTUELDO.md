@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: Cloud雲浩影
+> 感受超級女聲力量。Cover: Day 許軼
 
-459 songs - 1 day 3 hr 25 min
+461 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [in love / not enough](https://open.spotify.com/track/1hqh3ZyC1ltmQICWJK6RCs) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [in love / not enough](https://open.spotify.com/album/4UvU4P3qLkjXqQp7tqlcdQ) | 3:30 | 2024-06-27 |  |
 | [In Love In The Morning](https://open.spotify.com/track/1kTm0tYzfmg9g9wa8V5Fdd) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [In Love In The Morning](https://open.spotify.com/album/3Bif47KS87hGUlRq7bkXNy) | 2:46 | 2024-06-27 |  |
 | [Independent Artist](https://open.spotify.com/track/02Dtp1urMF9P3Lv0zQlEal) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [Independent Artist](https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC) | 3:14 | 2024-06-27 |  |
+| [Inertia](https://open.spotify.com/track/5i2ebk1q837ky2fawuM5Ce) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [AFTERGLOW](https://open.spotify.com/album/1AyGNMtcZOJEnTdmkgsOV3) | 1:10 | 2025-03-06 |  |
 | [INK](https://open.spotify.com/track/6QrCJeKhEMt8V0g3y3Mxvb) | [CK 黃斯琪](https://open.spotify.com/artist/71nFssyAK21hrZo32OWnkX) | [INK](https://open.spotify.com/album/4TyvcWGL2pxskuhVQDhlEj) | 2:59 | 2024-06-27 |  |
 | [Into the Forest](https://open.spotify.com/track/6XkMZzfBSUoinmgKFTW6I4) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Into the Forest](https://open.spotify.com/album/2tq5g8mDUmGGpEmL5VVyBp) | 3:31 | 2024-06-27 |  |
 | [It's not your fault](https://open.spotify.com/track/3TvkrmX72vHZ4gYeD7Qww2) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [It's not your fault](https://open.spotify.com/album/1VRnJri54pLYvaMx15f3xJ) | 3:43 | 2024-06-27 |  |
@@ -153,6 +154,7 @@
 | [TXT OR CALL](https://open.spotify.com/track/2KTPd1X17SzSJbyjfJW0Sx) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [TXT OR CALL](https://open.spotify.com/album/4WztQlLQZA7tBAyAaSVvRT) | 3:06 | 2024-06-27 |  |
 | [Unfamiliar City](https://open.spotify.com/track/6ifU8TVuad0XdG9AxzBbX8) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Unfamiliar City](https://open.spotify.com/album/2top45rqhgC5JyBtUaTmWA) | 3:22 | 2024-10-17 |  |
 | [Vanish Mode](https://open.spotify.com/track/0cfUsP81Dh0lERwoxpP5pp) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Vanish Mode](https://open.spotify.com/album/4swc89sddgQGk4i07ihKpy) | 3:10 | 2024-06-27 |  |
+| [Wait A Second](https://open.spotify.com/track/54Yaojip5O2QGFnjDBF38o) | [Day 許軼](https://open.spotify.com/artist/2LjB9YNxEmF9W7o90smtuv) | [Wait A Second](https://open.spotify.com/album/4kbonNl8gWGKAlpa7wmEH7) | 3:28 | 2025-03-06 |  |
 | [WAKE](https://open.spotify.com/track/2AaRO5LigsqlZOdvx5kchh) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [WAKE](https://open.spotify.com/album/7Dn7EqixgN39a10ad4iKQc) | 3:17 | 2025-01-16 |  |
 | [Wasting My Time](https://open.spotify.com/track/5remZo5pOeZAUryQF2842f) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Wasting My Time](https://open.spotify.com/album/5DYv7TlkM27nMzhSgvbT9T) | 3:10 | 2025-02-27 |  |
 | [What am I looking for](https://open.spotify.com/track/6ecNEsORgS6X2mGm1K8uJI) | [YOONA 張運兒](https://open.spotify.com/artist/1sXZBdqrqdbSbuCmGjcUlE) | [What am I looking for](https://open.spotify.com/album/01qizqxGyyn3fZ2AuOYuCC) | 3:22 | 2024-09-26 |  |

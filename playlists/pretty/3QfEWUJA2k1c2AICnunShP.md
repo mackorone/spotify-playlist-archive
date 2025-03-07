@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 27,376 likes - 145 songs - 7 hr 51 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 27,397 likes - 145 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 | 116 | [Hey Brother \- Short Version](https://open.spotify.com/track/6z77LF1AiXQaSxJPPf1JcS) | [The Modern String Quintet](https://open.spotify.com/artist/6j09ytUn8UDWtb9yNYCVPi) | [Hey Brother](https://open.spotify.com/album/2pYQFUdYiDxaEU6GzzFgc6) | 2:39 |
 | 117 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 |
 | 118 | [Stillness](https://open.spotify.com/track/5KMHefAu7ZSlAOO6xSmHkC) | [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY) | [Stillness](https://open.spotify.com/album/5YNQK779ZHK3K2UIkKbUU8) | 2:54 |
-| 119 | [Moon River \(Arr\. for Celllo and Guitar\)](https://open.spotify.com/track/7KnJIpCGjmp0RQXB0tjqo4) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [Jan Vogler](https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA) | [Songbook](https://open.spotify.com/album/1Vl5Hy72HF7vBoXiXW4bL1) | 3:37 |
+| 119 | [Moon River \(Arr\. for Celllo and Guitar\)](https://open.spotify.com/track/7KnJIpCGjmp0RQXB0tjqo4) | [Jan Vogler](https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA) | [Songbook](https://open.spotify.com/album/1Vl5Hy72HF7vBoXiXW4bL1) | 3:37 |
 | 120 | [Perfect](https://open.spotify.com/track/0AOvD8LrdeDVDaLzSB7YsM) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Perfect](https://open.spotify.com/album/5IEP2NdoJtkoThS0fkZmap) | 3:44 |
 | 121 | [Sehnsucht](https://open.spotify.com/track/50sqTJOiaQA3SEDyWjDO99) | [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY) | [Sehnsucht](https://open.spotify.com/album/2bbJcU998tdfwo7tElF11E) | 3:53 |
 | 122 | [Variations on an Original Theme, Op\. 36 "Enigma": Var\. IX\. \(Nimrod\)\. Adagio](https://open.spotify.com/track/7cfo59XwpxdBfCdc2sjf7S) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [Enigma Variationen, Pomp & Circumstances](https://open.spotify.com/album/2dE7dxyIZHVY25RP4VQy5n) | 3:30 |

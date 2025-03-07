@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 
 > Se viene el partido, la previa es con música!
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,202 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,184 likes - 65 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

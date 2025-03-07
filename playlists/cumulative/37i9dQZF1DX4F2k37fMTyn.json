@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: BINI\n",
+  "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: f5ve\n",
   "name": "Girl On Fire",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 197655,
       "name": "21st Century Cool Girl",
       "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
@@ -666,6 +666,24 @@
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
       "album": {
@@ -3708,6 +3726,28 @@
     {
       "album": {
         "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184155,
+      "name": "FXCK UP THE WORLD (feat. Future)",
+      "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
         "url": "https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q"
       },
       "artists": [
@@ -3718,7 +3758,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 175215,
       "name": "FXCK UP THE WORLD (Vixi Solo Version)",
       "url": "https://open.spotify.com/track/3axyOG0Z7zBwRzOkQWtBEJ"
@@ -4112,6 +4152,28 @@
       "duration_ms": 127439,
       "name": "Halloweenie V: The Moss King",
       "url": "https://open.spotify.com/track/0MWkCSW0W7rGLSvDR2xExC"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
       "album": {
@@ -4625,6 +4687,24 @@
     },
     {
       "album": {
+        "name": "Blood On the Silver Screen",
+        "url": "https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208591,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U"
+    },
+    {
+      "album": {
         "name": "I'm Coming Home",
         "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
       },
@@ -4818,7 +4898,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 243008,
       "name": "In Love With A Memory",
       "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
@@ -5536,7 +5616,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 217506,
       "name": "Lose My Focus",
       "url": "https://open.spotify.com/track/6JIQgoFRn5JI2Kxc1B0QzY"
@@ -5710,6 +5790,24 @@
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "album": {
+        "name": "Magic Clock",
+        "url": "https://open.spotify.com/album/4m3R9tE7P4F9jqYYPgPJBK"
+      },
+      "artists": [
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133312,
+      "name": "Magic Clock",
+      "url": "https://open.spotify.com/track/1XzmDchjeqwC0VVjHuxKFz"
     },
     {
       "album": {
@@ -7936,7 +8034,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 217120,
       "name": "SAD SONG",
       "url": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x"
@@ -8016,6 +8114,24 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "album": {
+        "name": "Sex, Drugs & Existential Dread",
+        "url": "https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155571,
+      "name": "Sex, Drugs & Existential Dread",
+      "url": "https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk"
     },
     {
       "album": {
@@ -8944,7 +9060,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 159760,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
@@ -9992,6 +10108,24 @@
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "album": {
@@ -11056,7 +11190,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 195550,
       "name": "\u82b1\u30fb\u9b41 - feat. Medusa, E.V.P & IFE",
       "url": "https://open.spotify.com/track/6octouOHHwAcyeWCMYvAhU"

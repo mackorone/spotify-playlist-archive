@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: LISA",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: JENNIE",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -4556,7 +4556,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 234040,
       "name": "Hug",
       "url": "https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF"
@@ -4632,6 +4632,24 @@
       "duration_ms": 190113,
       "name": "I DO",
       "url": "https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM"
+    },
+    {
+      "album": {
+        "name": "I DO ME",
+        "url": "https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190556,
+      "name": "I DO ME",
+      "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
     },
     {
       "album": {
@@ -5511,6 +5529,24 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "album": {
         "name": "Like Magic",
         "url": "https://open.spotify.com/album/5bp8pvBXLoluC3mXfTccfm"
       },
@@ -5538,6 +5574,24 @@
       "duration_ms": 164266,
       "name": "Like Magic",
       "url": "https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk"
+    },
+    {
+      "album": {
+        "name": "Flowering",
+        "url": "https://open.spotify.com/album/2UUsZyRmggGvLJTnp0ZKcE"
+      },
+      "artists": [
+        {
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "LIKE U 100",
+      "url": "https://open.spotify.com/track/25ujeTA1Ma2rYzxr7ozdrP"
     },
     {
       "album": {
@@ -5986,7 +6040,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 186386,
       "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
       "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
@@ -7206,7 +7260,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 157149,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/3BQeCOUf7M9B7NEpx9r4qj"
@@ -10100,6 +10154,24 @@
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
       "album": {

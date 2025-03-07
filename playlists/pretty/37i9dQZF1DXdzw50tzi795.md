@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: LITTLE JOHN
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Ink Waruntorn
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,448 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,507 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ล้มแชมป์ \(Only You Can\)](https://open.spotify.com/track/3dKiS7M3Rkqtj9dsOkvzW6) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ล้มแชมป์ \(Only You Can\) \- Single](https://open.spotify.com/album/3iTtuuLmUWLN8nZ9GBkhhk) | 3:28 |
-| 2 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 |
-| 3 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 |
-| 4 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
-| 5 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
+| 1 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 |
+| 2 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
+| 3 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
+| 4 | [ล้มแชมป์ \(Only You Can\)](https://open.spotify.com/track/3dKiS7M3Rkqtj9dsOkvzW6) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ล้มแชมป์ \(Only You Can\) \- Single](https://open.spotify.com/album/3iTtuuLmUWLN8nZ9GBkhhk) | 3:28 |
+| 5 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 |
 | 6 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
-| 7 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
-| 8 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
-| 9 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
-| 10 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 |
-| 11 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
-| 12 | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 |
-| 13 | [ตัวโดน](https://open.spotify.com/track/6PgrERReqbpJHFtOpSzdPj) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ตัวโดน](https://open.spotify.com/album/4gLGowAWp62z0BaSgC59Qf) | 3:47 |
-| 14 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 |
-| 15 | [ท้ายปี](https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ท้ายปี \- Single](https://open.spotify.com/album/6GRgfeM13bUQOSCTssD4fG) | 4:45 |
-| 16 | [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 |
+| 7 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
+| 8 | [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 |
+| 9 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
+| 10 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
+| 11 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 |
+| 12 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
+| 13 | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 |
+| 14 | [ตัวโดน](https://open.spotify.com/track/6PgrERReqbpJHFtOpSzdPj) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ตัวโดน](https://open.spotify.com/album/4gLGowAWp62z0BaSgC59Qf) | 3:47 |
+| 15 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 |
+| 16 | [ท้ายปี](https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ท้ายปี \- Single](https://open.spotify.com/album/6GRgfeM13bUQOSCTssD4fG) | 4:45 |
 | 17 | [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 |
 | 18 | [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 |
 | 19 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/0D9lpJts3mXxe0fvovYUFv) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [I’M GOING TO KEEP RUNNING AWAY](https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM) | 4:48 |
 | 50 | [ONE GIRL](https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ONE GIRL](https://open.spotify.com/album/64UN1Mt9T5qVw21N7JVpEA) | 4:22 |
 
-Snapshot ID: `Z8DCZgAAAABHQmaFeCP/ecel/0gBoxGQ`
+Snapshot ID: `Z8oJxwAAAACBgyzY2A0LFN6iA39YkbBI`

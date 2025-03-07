@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAZoWydCivZ.md) - [plain]
 
 > Turn that frown upside down with these pop vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,217 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,265 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

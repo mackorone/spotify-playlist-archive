@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 527220,
       "name": "365 Dias (Vida Mansa)",
       "url": "https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 184320,
       "name": "ALUGA-SE - Ao Vivo",
       "url": "https://open.spotify.com/track/2yx7F8ISwZ3VMEi9VptQGm"
@@ -4814,7 +4814,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 149373,
       "name": "Cacos De Vidro",
       "url": "https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX"
@@ -14035,6 +14035,32 @@
     },
     {
       "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Maurin",
+          "url": "https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "Lei Anti O.R.U.A.M",
+      "url": "https://open.spotify.com/track/3iDZj9V0RSElRwVgtmMYgJ"
+    },
+    {
+      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -18143,6 +18169,36 @@
     },
     {
       "album": {
+        "name": "M\u00e3e Solteira",
+        "url": "https://open.spotify.com/album/0RENSklQU2BMSY42Qgok0y"
+      },
+      "artists": [
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "M\u00e3e Solteira",
+      "url": "https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi"
+    },
+    {
+      "album": {
         "name": "M\u00e9dia Boa (Ao Vivo)",
         "url": "https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj"
       },
@@ -18216,7 +18272,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 112000,
       "name": "M\u00f4naco Freestyle",
       "url": "https://open.spotify.com/track/0d7oIw2t0f6oCXJUfWYw8E"
@@ -18238,7 +18294,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 161866,
       "name": "Nada Com Nada - Ao Vivo",
       "url": "https://open.spotify.com/track/37QloSdzrjx2xCH0m65800"
@@ -21396,7 +21452,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 188823,
       "name": "Pilantra e Meio",
       "url": "https://open.spotify.com/track/6h3EEYgtIuOjeqQPIC3H37"
@@ -22508,7 +22564,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 165888,
       "name": "Proibido Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/7shkORZD3NNi6waqw7eIqT"
@@ -24804,7 +24860,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 262375,
       "name": "Sensa\u00e7\u00e3o No Batid\u00e3o - Solinho Envolvente",
       "url": "https://open.spotify.com/track/6IyQ5Jr4yiNACYI3TdFWbl"

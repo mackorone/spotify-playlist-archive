@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 
 > aquí pura vibra chida ✨ Neton Vega en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,439 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,389 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Gerardo Coronel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,823 likes - 125 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257,087 likes - 125 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

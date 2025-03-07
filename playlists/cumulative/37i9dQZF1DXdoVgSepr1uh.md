@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Franux & Sael, con lo nuevo y lo viejo del reggaetón 🇦🇷
+> Lauty Gram, con lo nuevo y lo viejo del reggaetón 🇦🇷
 
-274 songs - 13 hr 9 min
+276 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Prende la Cámara](https://open.spotify.com/track/2UcWAHN6TRQtkZovAuwySo) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Prende la Cámara](https://open.spotify.com/album/4IYIOVFW703lcHN7ZTHexe) | 2:28 | 2022-05-24 | 2024-05-25 |
 | [PRESIÓN](https://open.spotify.com/track/4zCyJr1apBS2791oMtea5f) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PRESIÓN](https://open.spotify.com/album/0pTere7czaMnyRpVs7i6fP) | 3:07 | 2023-05-02 |  |
 | [Pretinha](https://open.spotify.com/track/0gokl2danyrRzlPh8OcOtN) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Pretinha](https://open.spotify.com/album/7rAsMPibZeliLEAwohmqZz) | 2:29 | 2022-05-24 | 2024-04-19 |
+| [QUE CABRONA](https://open.spotify.com/track/2oZqk6nAy2CSAcmINCMi2N) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [QUE CABRONA](https://open.spotify.com/album/2RSVEhLOpYwQifGU7rxSAd) | 2:48 | 2025-03-07 |  |
 | [Que onda bebé](https://open.spotify.com/track/1NmC9f4OiGMNugcvg1SIRO) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Que onda bebé](https://open.spotify.com/album/0QR1zDVGryqbcMWsdsrglX) | 2:29 | 2024-11-15 |  |
 | [QUIEN SI NO](https://open.spotify.com/track/1ozzc5mFL2UMOAcM14GBXp) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [QUIEN SI NO](https://open.spotify.com/album/4ezvxWVA1DiKXSKROoN93a) | 2:01 | 2022-11-18 | 2022-12-24 |
 | [Quiero](https://open.spotify.com/track/7MPxWi6W7VH5DNusjwNhbn) | [Alejo Park](https://open.spotify.com/artist/0u4eSD22YhmWJMg1A22GBw) | [Quiero](https://open.spotify.com/album/14Bt8cXWLWmEaqIUDtdCze) | 2:46 | 2022-05-24 | 2023-01-21 |
@@ -226,6 +227,7 @@
 | [Saca Prende](https://open.spotify.com/track/5q42bRTW2TKUzx0nc2hsez) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [Ivan Fitt](https://open.spotify.com/artist/1uYtYzLtitQ4nbh9pMOBcS) | [Saca Prende](https://open.spotify.com/album/3EJ6ikxcQpbEuqS8cNCTrv) | 3:37 | 2022-05-24 | 2024-04-19 |
 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 | 2022-05-24 |  |
 | [Se Me Antoja](https://open.spotify.com/track/7mk6p3Q8U01Awdg50aCQjM) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Valen Vargas](https://open.spotify.com/artist/67oZkRi3cta1wNxN3KoFt5) | [Se Me Antoja](https://open.spotify.com/album/3hDzVQ9u8UDimQtdKqEoiD) | 1:52 | 2023-02-03 | 2024-11-15 |
+| [Se Suelta](https://open.spotify.com/track/6clG3NrPUktrjDLAJ4bS2p) | [Toxic Wounds](https://open.spotify.com/artist/1sI19ppBfGlTj69GDmTZp5), [INDICA MIKI](https://open.spotify.com/artist/3PMboJy3bSw6eV1Qv0FhSz), [Darkmoon Vision](https://open.spotify.com/artist/653xZgcZlnNkOYPVxw83vA) | [Se Suelta](https://open.spotify.com/album/2r3SMYgXq2ishBa0SxVpWX) | 2:01 | 2025-03-07 |  |
 | [Sesión \- 9](https://open.spotify.com/track/1XoEcCoNsPdF0BLOB7pOpC) | [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Sesión \- 9](https://open.spotify.com/album/7b3jYm4MXHsbNYTFDx3e8n) | 3:06 | 2023-12-08 | 2024-02-17 |
 | [SEXO ES LA MODA](https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SEXO ES LA MODA](https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD) | 2:45 | 2024-11-15 |  |
 | [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-05-24 |  |

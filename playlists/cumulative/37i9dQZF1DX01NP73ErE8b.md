@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat! 🔁 Giorgia in cover
+> I brani italiani che abbiamo on repeat! 🔁 Elodie in cover
 
-205 songs - 10 hr 42 min
+208 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 | 2024-09-19 |  |
 | [CAMMINARE SULLA LUNA](https://open.spotify.com/track/4Jb9NiMfsPe7NYFDoxng1f) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CAMMINARE SULLA LUNA](https://open.spotify.com/album/5I9j5PL0wEYpQLHNkjFmU5) | 3:11 | 2024-07-01 | 2024-09-24 |
 | [CANTA ANCORA](https://open.spotify.com/track/4CwufRNyhiQgn1to045Uzb) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [CANTA ANCORA](https://open.spotify.com/album/17GyaYhsuxJgBVKSLarO0x) | 4:16 | 2024-11-19 | 2025-01-17 |
+| [CAPOLAVORO](https://open.spotify.com/track/0UoPFBZ7t9uFCm9Psc3QCR) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [CAPOLAVORO](https://open.spotify.com/album/7uQQpjGiucTujRmX6uc5TM) | 3:18 | 2025-03-06 |  |
 | [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 | 2024-12-11 | 2025-01-10 |
 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 | 2024-11-13 | 2024-12-20 |
 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 | 2025-02-12 |  |
@@ -57,6 +58,7 @@
 | [DIRE FARE BACIARE](https://open.spotify.com/track/5OPS3Mqk9yzYB6hAmv1M2W) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [DIRE FARE BACIARE](https://open.spotify.com/album/6r0iHqnfn9FvrIIhlu3CjE) | 3:12 | 2024-07-01 | 2024-09-06 |
 | [Dove si va](https://open.spotify.com/track/7kfKhwwBxouY1oBIAnTPMX) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Dove si va](https://open.spotify.com/album/1FlhTJIKS0pYUtuoG2m1gG) | 2:24 | 2024-12-06 | 2025-02-18 |
 | [DOVE TI TROVI TU](https://open.spotify.com/track/7nmgB57lnBQ2cmk3TFXseY) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [DOVE TI TROVI TU](https://open.spotify.com/album/1iYQ3bXd1fj9LVPukNf9KE) | 3:57 | 2025-01-16 | 2025-02-21 |
+| [DUE GATTI A MILANO](https://open.spotify.com/track/07ml1sRzeQQIj6U6lfWS95) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [VITA\_FUSA](https://open.spotify.com/album/7lUQ8zSvRJwgC77Pb3St5Z) | 2:52 | 2025-03-06 |  |
 | [Eco](https://open.spotify.com/track/3ycj36w66i2rIGJli4Ruhi) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Eco](https://open.spotify.com/album/4iCnGvbZKQwj252lciCfLc) | 3:14 | 2025-02-12 |  |
 | [ESTATE 80](https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 2:47 | 2024-07-01 | 2024-11-15 |
 | [Estate Punk](https://open.spotify.com/track/181vQEd9wIPSt6fueg21zP) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Estate Punk](https://open.spotify.com/album/6eWeNu1YkHXIjk8PZTOv9C) | 3:30 | 2024-09-26 | 2024-12-12 |
@@ -124,6 +126,7 @@
 | [Menomale che c'è il mare](https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Gira, il mondo gira](https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap) | 2:53 | 2024-08-15 | 2024-12-06 |
 | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 | 2024-07-01 | 2024-11-29 |
 | [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 | 2024-07-01 | 2024-09-20 |
+| [Milano](https://open.spotify.com/track/553jvkYRVqqgzuPRLOcZCG) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Milano](https://open.spotify.com/album/4aUkFfFxRJxakxSsvuWtdO) | 3:27 | 2025-03-06 |  |
 | [Mille Notti](https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Mille Notti](https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd) | 2:53 | 2024-08-01 | 2024-12-06 |
 | [MILLE VOTE ANCORA](https://open.spotify.com/track/3BJ5P3bL0Q8OUemXVwjucQ) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [MILLE VOTE ANCORA](https://open.spotify.com/album/2p5SxGXydxUaria6k51asC) | 3:12 | 2025-02-12 |  |
 | [MMH \(feat\. Rose Villain\)](https://open.spotify.com/track/49mN8ph1LK58r7TMYW1Srb) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [MMH \(feat\. Rose Villain\)](https://open.spotify.com/album/5JUg1RbqXhroV8e4nfxSMy) | 3:07 | 2024-10-17 |  |
@@ -196,7 +199,7 @@
 | [Tu sei il mattino](https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Tu sei il mattino](https://open.spotify.com/album/0sbGgrjOyEt7maAqras9N3) | 3:08 | 2024-11-14 | 2024-11-29 |
 | [Tu sei per me](https://open.spotify.com/track/05mlLQhbyQ9CCdtIt4jHVS) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [Tu sei per me](https://open.spotify.com/album/3DLTemze01u5fUf613DTh4) | 3:18 | 2024-12-05 |  |
 | [TURNÀ](https://open.spotify.com/track/62ZLW8EAtHRXAEsCCgVaVV) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO III](https://open.spotify.com/album/3ULYRmnGV3zXbRQkCuFbBS) | 2:51 | 2025-01-23 | 2025-02-12 |
-| [Tutta L'Italia \- Sanremo 2025](https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Tutta L'Italia \(Sanremo 2025\)](https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb) | 2:56 | 2025-01-30 |  |
+| [Tutta L'Italia](https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Tutta L'Italia](https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb) | 2:56 | 2025-01-30 |  |
 | [tutta vera](https://open.spotify.com/track/06I7vpjdfG0D7c9eOvC2CU) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [tutta vera](https://open.spotify.com/album/7AqEBqBlUnAxfQ3cELhFD5) | 3:19 | 2024-07-01 | 2024-07-27 |
 | [TUTTO SBAGLIATO](https://open.spotify.com/track/6pPkVfg3452NhPCMjc4XK0) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [TUTTO SBAGLIATO](https://open.spotify.com/album/5lIw3K8KT6gMkpcrm4yZez) | 2:39 | 2024-10-10 | 2025-01-24 |
 | [uguale a me \(feat\. Marco Mengoni\)](https://open.spotify.com/track/3eabpzStQsPOmhcrUjVkNq) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 3:04 | 2024-07-01 | 2024-08-20 |
@@ -208,7 +211,7 @@
 | [Vengo a fidarmi di te](https://open.spotify.com/track/2p4xwVY0d0veJ4w8PEz7EY) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Vengo a fidarmi di te](https://open.spotify.com/album/5w6jP0SfIiQTPQSZ86H2uE) | 3:27 | 2025-01-02 | 2025-01-24 |
 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 | 2024-11-20 |  |
 | [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 | 2024-10-03 | 2024-11-01 |
-| [Viva la vita](https://open.spotify.com/track/3cQy6pN38rw0wyUNhQ1Ax3) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Viva la vita](https://open.spotify.com/album/64f3m5IfWvEkcJRG0sAmGZ) | 3:38 | 2025-02-12 |  |
+| [Viva la vita](https://open.spotify.com/track/3cQy6pN38rw0wyUNhQ1Ax3) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Viva la vita](https://open.spotify.com/album/64f3m5IfWvEkcJRG0sAmGZ) | 3:38 | 2025-02-12 | 2025-03-07 |
 | [VOGLIONO ESSERE ME](https://open.spotify.com/track/6zP3dYR5MQB8vj1QPAsgoX) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [VOGLIONO ESSERE ME](https://open.spotify.com/album/0bKZXBDyTVBSfmk5cKGDOY) | 2:09 | 2024-10-24 | 2024-11-29 |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-12 |  |
 | [Walzer](https://open.spotify.com/track/25dbsaSLdfR1mDx4tMJGGq) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Walzer](https://open.spotify.com/album/3inCtUyQAJXPL37INxLJVn) | 3:09 | 2025-01-16 | 2025-02-12 |

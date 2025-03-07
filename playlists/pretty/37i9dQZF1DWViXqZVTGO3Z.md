@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,011 likes - 200 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,993 likes - 200 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

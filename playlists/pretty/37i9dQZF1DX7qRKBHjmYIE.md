@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Marc Seguí & Rawayana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,496 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,479 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

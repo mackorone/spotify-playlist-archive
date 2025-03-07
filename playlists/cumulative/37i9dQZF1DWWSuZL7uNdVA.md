@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Sam Fender au top des meilleurs morceaux rock du moment.
+> Inhaler au top des meilleurs morceaux rock du moment.
 
-340 songs - 19 hr 7 min
+343 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 | 2023-10-19 | 2024-02-16 |
 | [Amanita](https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:01 | 2024-01-25 | 2024-03-08 |
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-13 | 2024-07-19 |
-| [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 | 2025-01-16 |  |
+| [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 | 2025-01-16 | 2025-03-07 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-28 | 2024-04-16 |
 | [Antagonist](https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 3:06 | 2024-10-10 | 2025-01-10 |
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-26 | 2023-12-01 |
@@ -49,7 +49,7 @@
 | [Blame](https://open.spotify.com/track/0SFvQaQnPRYKc3K1EgoVgF) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:54 | 2023-09-28 | 2023-10-06 |
 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 | 2023-09-28 | 2024-03-22 |
 | [Blood In The Water](https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Blood In The Water](https://open.spotify.com/album/3I9e3fgZ3IaR2K7NLRxVy2) | 3:34 | 2023-09-28 | 2024-02-09 |
-| [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 | 2025-01-09 |  |
+| [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 | 2025-01-09 | 2025-03-07 |
 | [Blow Up the Spot](https://open.spotify.com/track/2ZdqMML5cHLInZe5TgScPR) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Blow Up the Spot](https://open.spotify.com/album/1LWOjhtKbzzdC83agk1z76) | 2:26 | 2024-11-07 | 2024-12-06 |
 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 | 2024-07-18 | 2024-11-22 |
 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-12-05 | 2025-01-31 |
@@ -72,12 +72,14 @@
 | [Come On Outside](https://open.spotify.com/track/6My4sJdcXQoTY4ThZdDLZh) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Come On Outside](https://open.spotify.com/album/7nUn7PGh1RKgBbE59TGrT1) | 2:58 | 2024-10-10 | 2025-02-07 |
 | [cross to bear](https://open.spotify.com/track/60smLAswyZAGGRPQcCIPrs) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [with you in spirit](https://open.spotify.com/album/1tBLn0Ekhfx6WGaH4zRjdp) | 4:32 | 2024-10-10 | 2024-10-18 |
 | [CRUEL](https://open.spotify.com/track/0T70OATh83XtJsQG74lL86) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [CRUEL](https://open.spotify.com/album/7ELoEFG7ec1h7GLDZdFU99) | 2:21 | 2023-11-30 | 2024-01-02 |
+| [Cruel Times](https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Cruel Times](https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT) | 2:58 | 2025-03-06 |  |
 | [Cut My Hair](https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [TOY](https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52) | 3:04 | 2025-01-23 |  |
 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 | 2023-09-28 | 2024-05-15 |
 | [Dance](https://open.spotify.com/track/5wzOg8ba8q6g167QNepcZX) | [MADAM](https://open.spotify.com/artist/6JbwGT0YARZ43pze31ST8h) | [Thanks for the Noise](https://open.spotify.com/album/5ypPwi6yhfMZ6wEhgX5aV3) | 3:28 | 2024-12-05 | 2025-02-07 |
 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-02-15 | 2024-06-01 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-12 | 2024-10-11 |
 | [Daydreaming](https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:35 | 2023-12-21 | 2024-04-19 |
+| [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-03-06 |  |
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-18 | 2024-10-25 |
 | [DESENSITIZE](https://open.spotify.com/track/53N17V1sJUzebqjy8CK6S1) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Modern World Survivors](https://open.spotify.com/album/1DyF0RGZhzBcBLf7DdBy1c) | 3:03 | 2023-11-30 | 2024-02-09 |
 | [Digital Self](https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:46 | 2023-09-28 | 2023-10-13 |
@@ -246,6 +248,7 @@
 | [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 | 2024-02-08 | 2024-06-01 |
 | [Saccharine Scream](https://open.spotify.com/track/0T8jNlfiPkPhIoJXlUAdy3) | [Fake Eyes](https://open.spotify.com/artist/59Ui4tw8UnaMQ5XEBHIbSk) | [Saccharine Scream](https://open.spotify.com/album/6qpGTCVquQEwmI5ewmwmZ7) | 4:59 | 2024-11-28 | 2025-01-10 |
 | [Sad White Reggae](https://open.spotify.com/track/79aKaP2BKL4N3zdc1imLr8) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Never Let Me Go](https://open.spotify.com/album/19upQOw6eZRsGUGqGe6zF1) | 3:25 | 2023-09-28 | 2023-10-20 |
+| [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-03-06 |  |
 | [Salt](https://open.spotify.com/track/0opJEZyslw0pzdfZisGiaL) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Salt](https://open.spotify.com/album/1NjAWYIQvHY8uicYdQN3an) | 3:30 | 2024-06-13 | 2024-08-02 |
 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-01-16 |  |
 | [Screamin’ At The Sky](https://open.spotify.com/track/1imjOta3P3L3ZYZiT1cYMr) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Screamin’ At The Sky](https://open.spotify.com/album/3vO2TPaxrjoC6St9PUhvDs) | 3:24 | 2023-09-28 | 2023-10-06 |
@@ -309,7 +312,7 @@
 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 | 2024-10-24 | 2024-11-29 |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-06 |  |
 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 | 2023-11-30 | 2023-12-16 |
-| [The Plan](https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Plan](https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb) | 2:53 | 2024-11-14 |  |
+| [The Plan](https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Plan](https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb) | 2:53 | 2024-11-14 | 2025-03-07 |
 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 | 2023-09-28 | 2023-10-06 |
 | [There’s Always Gonna Be Something](https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [There's Always Gonna Be Something](https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl) | 4:02 | 2025-02-20 |  |
 | [thoughts i have while lying in bed](https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 | 2023-12-08 | 2023-12-22 |

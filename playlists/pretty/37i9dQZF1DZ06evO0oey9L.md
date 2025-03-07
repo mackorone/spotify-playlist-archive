@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,316 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,342 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

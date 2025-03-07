@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: ASTRO\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: INFINITE\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-654 songs - 1 day 12 hr 4 min
+657 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-05-10 |
 | [D.D.D](https://open.spotify.com/track/4knqZHNHlEBBEmfETcpTyr) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [DREAMLIKE](https://open.spotify.com/album/4T7BOMEuEfIMsDfomppwtW) | 3:32 | 2022-02-15 | 2022-07-09 |
 | [Daisy](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [WE:TH](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) | 3:09 | 2021-12-08 | 2022-07-29 |
+| [Dangerous](https://open.spotify.com/track/5unyDrt3v3Yfo7hV20G7DI) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [LIKE INFINITE](https://open.spotify.com/album/4na98IiEj4lAFQS3NKQ5qk) | 3:00 | 2025-03-07 |  |
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-24 |  |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-15 | 2022-10-14 |
 | [DaSH](https://open.spotify.com/track/6j00mQpXjdXuovqU9owUDa) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [ODYSSEY:DaSH](https://open.spotify.com/album/4tr2tGgWohMbeh5wlMj8QO) | 3:29 | 2022-08-17 | 2022-08-23 |
@@ -175,7 +176,7 @@
 | [Dr\. BeBe](https://open.spotify.com/track/2z0LVG9G2SpFaT5bHyWwjK) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Universe : The Black Hall](https://open.spotify.com/album/7KrRT3DMomHHFtRCdK6sPs) | 3:11 | 2022-01-27 | 2022-04-09 |
 | [Drink It](https://open.spotify.com/track/56URBnyl71PPaebwimqwQD) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Drink It](https://open.spotify.com/album/6gstlIojQWTAcrsRqBQxLR) | 3:26 | 2022-03-22 | 2022-05-26 |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-12-08 |  |
-| [dummy](https://open.spotify.com/track/0sAq8cN9lvt9dkAWa5DtWb) | [ARrC](https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP) | [dummy](https://open.spotify.com/album/0FUVybD9tZfWhKdCkLEC0v) | 3:22 | 2024-07-29 |  |
+| [dummy](https://open.spotify.com/track/0sAq8cN9lvt9dkAWa5DtWb) | [ARrC](https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP) | [dummy](https://open.spotify.com/album/0FUVybD9tZfWhKdCkLEC0v) | 3:22 | 2024-07-29 | 2025-03-07 |
 | [Dystopia](https://open.spotify.com/track/6tksGYo7SrnXF7Cj3sLWav) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. Ⅵ\. Mujin](https://open.spotify.com/album/5MtxPx9oyiXDH6x5r646Go) | 3:34 | 2023-03-23 | 2023-03-31 |
 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 | 2024-04-15 |  |
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-02 | 2022-04-15 |
@@ -222,7 +223,7 @@
 | [GAMBLER](https://open.spotify.com/track/1Zsy7gMUcHDhxC0bbyZmC2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:33 | 2022-03-22 | 2022-04-11 |
 | [Gas Pedal](https://open.spotify.com/track/0IYOm3308cQ6drkr4M92WE) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 1 \[The Awakening: Written In The Stars\]](https://open.spotify.com/album/7CtpVv2DV2DXiZxjsf6jEo) | 3:17 | 2022-02-15 | 2022-07-19 |
 | [GEMINI](https://open.spotify.com/track/7L9gc9u9Ev2OprF08AMhGH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [GEMINI](https://open.spotify.com/album/2kikdfulAIPagHRLh18uJH) | 3:46 | 2022-03-31 | 2022-04-02 |
-| [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 | 2023-09-04 |  |
+| [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 | 2023-09-04 | 2025-03-07 |
 | [Get A Guitar](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 2:40 | 2024-01-08 | 2024-04-19 |
 | [Get Away](https://open.spotify.com/track/5W37S0nq1XvGEyTlUkmr3f) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES ‘O’ \[ROUND 1 : HALL\]](https://open.spotify.com/album/5wQhc8SEKiiXb5b5Ou7tHE) | 3:20 | 2022-03-31 | 2022-04-04 |
 | [Ghost Town](https://open.spotify.com/track/11zk9584jNu1WoxWEeMWWj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Ghost Town](https://open.spotify.com/album/04UAzxqWOm1fb63qG1G1Ng) | 3:09 | 2022-02-15 | 2022-07-18 |
@@ -238,7 +239,7 @@
 | [Golden \(feat\. XIAOJUN of WayV, pH\-1\)](https://open.spotify.com/track/3PAdRq6wr8XloSVdCneAMH) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:18 | 2022-03-22 | 2022-04-17 |
 | [Gone](https://open.spotify.com/track/7bvE43XnhZncVwLRY3abGp) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [CURTAIN CALL](https://open.spotify.com/album/16TGHVXVMsIJu1cNUsK71E) | 3:19 | 2024-08-08 | 2024-08-24 |
 | [GOOD BAM](https://open.spotify.com/track/2iODlZgbroRzdfuxmFfPiH) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [YAHO](https://open.spotify.com/album/54lrjzd3nWqD8JxSERPlBN) | 3:30 | 2021-12-08 | 2022-04-20 |
-| [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 |  |
+| [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 | 2025-03-07 |
 | [Good Enough](https://open.spotify.com/track/3N4tXBhKONZAFWIEZgFwPk) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 1\. \[Good Enough\]](https://open.spotify.com/album/3hfI6iAFZCjWXI08xJFIcH) | 3:29 | 2024-03-26 | 2024-04-06 |
 | [Good Evening](https://open.spotify.com/track/3mjfQvA5gAV6XnH0ZWnIyI) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The Story of Light' Epilogue \- The 6th Album](https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f) | 3:43 | 2021-12-08 | 2022-07-27 |
 | [Good Guy](https://open.spotify.com/track/52Ympobu59UXxyhdCUww1y) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [FIRST COLLECTION](https://open.spotify.com/album/6OWLP5aWafuctNQoJka9LQ) | 3:13 | 2021-12-08 | 2022-07-27 |
@@ -292,7 +293,7 @@
 | [ICE AGE](https://open.spotify.com/track/1q2bu7PaEUUiFJYFsAiHiz) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [into the ICE AGE](https://open.spotify.com/album/2N9Y7kFSctM8v4T4G2uYWo) | 3:10 | 2022-02-15 | 2022-06-22 |
 | [Ice On My Teeth](https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) | 3:03 | 2024-11-29 |  |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-01-07 |  |
-| [If I’m S, Can You Be My N?](https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:48 | 2024-06-25 |  |
+| [If I’m S, Can You Be My N?](https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:48 | 2024-06-25 | 2025-03-07 |
 | [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-07 | 2022-07-20 |
 | [IKUK](https://open.spotify.com/track/7dL1D78LXTixcXWEdNo63x) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Dear.M](https://open.spotify.com/album/48AedwRUndu10YZyR1C5Qy) | 2:48 | 2025-01-15 | 2025-01-21 |
 | [Impossible](https://open.spotify.com/track/0GIzsyWjS0wb15Q7zB5L7b) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk) | 3:02 | 2024-04-29 | 2024-05-21 |
@@ -365,6 +366,7 @@
 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 | 2022-07-27 | 2024-04-19 |
 | [LOVE SCENARIO](https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8) | 3:29 | 2021-12-08 | 2022-07-19 |
 | [Love Shot](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 | 2021-12-08 |  |
+| [LOVE TODAY](https://open.spotify.com/track/1oyuzoohgPr3SXcVa3gS4g) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [BTODAY](https://open.spotify.com/album/6zL4ZHKGmKkzQktkjGOq1K) | 3:07 | 2025-03-07 |  |
 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-14 |  |
 | [Loveade](https://open.spotify.com/track/78WO1OYpf9kmW4c25GXdMk) | [WE IN THE ZONE](https://open.spotify.com/artist/2aCSYXdXqJNaXk99vjYnkQ) | [weeee!](https://open.spotify.com/album/0jH6NDNza0oHvkBtIfMHYU) | 3:22 | 2022-03-30 | 2022-04-17 |
 | [Loved You](https://open.spotify.com/track/2GYC9mc8TwV8MqPPHOrXCV) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [INTERSECTION : TRACE](https://open.spotify.com/album/6ktzrA4koNUT51emdPIFYK) | 3:48 | 2021-12-08 | 2022-05-12 |
@@ -402,7 +404,7 @@
 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2022-08-03 | 2022-11-25 |
 | [MMM](https://open.spotify.com/track/256pafuFi3cF39hfB7cyY0) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER THREE](https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w) | 3:28 | 2022-01-13 | 2022-07-27 |
 | [Monochrome \(Color\)](https://open.spotify.com/track/2M1kWKx9G2MlVPtwKQjpHp) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 開花](https://open.spotify.com/album/36qrWqcSCVzubWlQzUyPtx) | 3:47 | 2022-07-27 | 2022-08-09 |
-| [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 | 2022-04-04 | 2025-03-04 |
+| [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 | 2022-04-04 |  |
 | [MOON RIDER](https://open.spotify.com/track/5BHgAxwRsUMUYRMGtE0uEo) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [THE INTERSECTION: DISCOVERY](https://open.spotify.com/album/4LVXR1CjOeddSabwoa2C3j) | 3:11 | 2022-03-31 | 2022-04-21 |
 | [MOON WALKER](https://open.spotify.com/track/3DkILE5HlGOviYKUuX4Snl) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [MOON WALKER](https://open.spotify.com/album/0oicQ0zJ5HRwJKXDd8e4uu) | 3:13 | 2022-04-04 | 2022-06-26 |
 | [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 | 2022-01-27 | 2022-06-26 |
@@ -577,6 +579,7 @@
 | [The One](https://open.spotify.com/track/1Kb2RNTXZ3PaL2xMDuJgQ6) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [Villain : The End](https://open.spotify.com/album/1Qm9lf5OrCzl3x9trdVMhD) | 3:31 | 2022-11-16 | 2022-12-22 |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-16 | 2023-08-25 |
 | [The Song](https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU) | 4:08 | 2022-03-22 | 2022-04-21 |
+| [The Starry Night](https://open.spotify.com/track/0daiNZK6DTgP65O4mM3Iv1) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [WE : Dream Chaser](https://open.spotify.com/album/0gWM4TwSrL4t3fj4V9dfKb) | 3:17 | 2025-03-07 |  |
 | [THRILL RIDE](https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 6TH MINI ALBUM \[THRILL\-ING\]](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) | 3:16 | 2021-12-08 | 2022-07-17 |
 | [Thunder](https://open.spotify.com/track/49ElX137FL4cxosbsxNHR6) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [FACE YOU](https://open.spotify.com/album/1pvFMBOJA6NE99e4uFaNLe) | 2:58 | 2022-03-22 | 2022-04-20 |
 | [Thunderous](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:03 | 2022-07-27 | 2024-04-19 |

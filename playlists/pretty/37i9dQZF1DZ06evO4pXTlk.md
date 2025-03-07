@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645 likes - 39 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 644 likes - 39 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

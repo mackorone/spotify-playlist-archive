@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: Cloud\u96f2\u6d69\u5f71",
+  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: Day \u8a31\u8efc",
   "name": "\u8d85\u7d1a\u5973\u8072",
   "tracks": [
     {
@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "AFTERGLOW",
+        "url": "https://open.spotify.com/album/1AyGNMtcZOJEnTdmkgsOV3"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70588,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/5i2ebk1q837ky2fawuM5Ce"
+    },
+    {
+      "album": {
         "name": "INK",
         "url": "https://open.spotify.com/album/4TyvcWGL2pxskuhVQDhlEj"
       },
@@ -2676,6 +2694,24 @@
       "duration_ms": 190000,
       "name": "Vanish Mode",
       "url": "https://open.spotify.com/track/0cfUsP81Dh0lERwoxpP5pp"
+    },
+    {
+      "album": {
+        "name": "Wait A Second",
+        "url": "https://open.spotify.com/album/4kbonNl8gWGKAlpa7wmEH7"
+      },
+      "artists": [
+        {
+          "name": "Day \u8a31\u8efc",
+          "url": "https://open.spotify.com/artist/2LjB9YNxEmF9W7o90smtuv"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208080,
+      "name": "Wait A Second",
+      "url": "https://open.spotify.com/track/54Yaojip5O2QGFnjDBF38o"
     },
     {
       "album": {

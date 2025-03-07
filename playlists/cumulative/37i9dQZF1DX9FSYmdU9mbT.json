@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Gal Costa (Compacto De 1972)",
+        "url": "https://open.spotify.com/album/2Zic84dsU9R3lGjnWIlYj8"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167647,
+      "name": "A Morte",
+      "url": "https://open.spotify.com/track/1rjSHnr77R8UTtgXr8jax9"
+    },
+    {
+      "album": {
         "name": "Belchior Ac\u00fastico",
         "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 260467,
       "name": "Maria Maria",
       "url": "https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1"
@@ -2402,6 +2420,24 @@
       "duration_ms": 208074,
       "name": "Pote D'\u00c1gua",
       "url": "https://open.spotify.com/track/6nHJYUXxgzUzqbrak7donA"
+    },
+    {
+      "album": {
+        "name": "Prazer De Viver",
+        "url": "https://open.spotify.com/album/31X7O3CHeltLrDAz0P9AOS"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Boca De Cantor",
+          "url": "https://open.spotify.com/artist/2CMkJfPBOkw1hQSi8EWLbU"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225691,
+      "name": "Prazer De Viver (Barra)",
+      "url": "https://open.spotify.com/track/59m7uvS0rKWgJw8x3Z8Pw3"
     },
     {
       "album": {
@@ -3152,7 +3188,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 217525,
       "name": "\u00c9 Hora",
       "url": "https://open.spotify.com/track/5AmkIw8rvELi7RL3QVafnv"

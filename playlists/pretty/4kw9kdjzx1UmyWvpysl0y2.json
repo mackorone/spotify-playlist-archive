@@ -6,8 +6,32 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATwfwnXz7UkDlAC4OIitiYsNZh3kdC",
+  "snapshot_id": "AAATwqHTBpEXpZV5Hh2TkfoyGeG3rG0M",
   "tracks": [
+    {
+      "added_at": "2025-03-06 16:01:44",
+      "album": {
+        "name": "Losing Focus",
+        "url": "https://open.spotify.com/album/4nucN1upeEldBT4JaeEA8V"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        },
+        {
+          "name": "Kuspe",
+          "url": "https://open.spotify.com/artist/24FZmnUz58ndENxFnSAAC7"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "duration_ms": 235652,
+      "name": "Losing Focus",
+      "url": "https://open.spotify.com/track/6hsfRPIYAbTBl0sF9GM4sn"
+    },
     {
       "added_at": "2025-03-05 15:24:20",
       "album": {

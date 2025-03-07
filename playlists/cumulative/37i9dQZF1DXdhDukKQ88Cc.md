@@ -2,9 +2,9 @@
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> det brummer <a href="spotify:artist:79ky6ZBdwtfcMNf2LqRzvP">@wicky</a> 😮‍💨
+> <a href="spotify:track:6qCmwE9TO2j9JiEXZ4exyM">entré</a> på klubben til den her <a href="spotify:artist:5NYUb39ntjgN7cRtN4y25T">@anton westerlin</a> <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">@lamin</a> <a href="spotify:artist:1RJznM4DOSV69NWbkq3RA9">@ozzy</a> 😮‍💨
 
-295 songs - 12 hr 45 min
+297 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [CARTIER LINSER](https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFRO DANSKER II](https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW) | 2:26 | 2024-04-25 | 2025-01-10 |
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/45YtsGktecYqg2o9yeFJ5o) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [OCHO](https://open.spotify.com/album/7bSS66ds9pxf2To3wbRpMl) | 1:45 | 2024-05-02 | 2025-01-10 |
 | [Chanel Freestyle](https://open.spotify.com/track/5LAsl3k0Vas49Pnoj9GJr3) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Chanel Freestyle](https://open.spotify.com/album/19GP2Hpfv764Wi35GNrbvz) | 2:06 | 2024-04-25 | 2025-01-10 |
+| [CHECK](https://open.spotify.com/track/2xVSw3PoyrVPWXbiWf0oqx) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [CHECK](https://open.spotify.com/album/1hd3Qp6u1bJ0K7cNH938tb) | 1:54 | 2025-03-06 |  |
 | [Chicagenhagen](https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:33 | 2024-06-20 |  |
 | [Chocola](https://open.spotify.com/track/0ZtqiH3Law79itqfAzHApC) | [Sleiman](https://open.spotify.com/artist/2HTE5rhkzmNb4IiGrop13q), [AWADA](https://open.spotify.com/artist/08Mi8yWtTfL2aWlZIG135P) | [Chocola](https://open.spotify.com/album/6OEqU0UOYKlqn099nLP1oM) | 2:12 | 2023-11-10 | 2024-04-26 |
 | [Cinema](https://open.spotify.com/track/0uvfJzdcz7rKBlDshVco6M) | [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Cinema](https://open.spotify.com/album/5mtaGoCppxoFcyZ7B02wiV) | 2:54 | 2024-12-05 |  |
@@ -104,6 +105,7 @@
 | [Eneste \(feat\. KESI\)](https://open.spotify.com/track/5ehIhNQBMskl6sPE9Jf4TH) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Eneste \(feat\. KESI\)](https://open.spotify.com/album/3x52rk2qRrPRlgJsbysqNB) | 2:14 | 2024-06-06 | 2025-01-10 |
 | [Ensom](https://open.spotify.com/track/46NhgL7Fvf99VfSp2yafEE) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening… \(DELUXE\)](https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM) | 2:20 | 2024-02-15 | 2024-04-19 |
 | [Ensom](https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening…](https://open.spotify.com/album/1wYUJCdZRCHaGMAXT18Gd9) | 2:20 | 2024-01-11 | 2024-09-13 |
+| [Entré \(feat\. Lamin & ozzy\)](https://open.spotify.com/track/6qCmwE9TO2j9JiEXZ4exyM) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Entré \(feat\. Lamin & ozzy\)](https://open.spotify.com/album/3qSkuInNQp2ogX1zLW1DLH) | 2:53 | 2025-03-06 |  |
 | [Et Par Timer](https://open.spotify.com/track/1eEc7r9BeHoiE9XYjLRoSx) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Et Par Timer](https://open.spotify.com/album/57KyTFA1EXOs6ZDL0CrA5W) | 2:27 | 2024-04-25 | 2025-01-10 |
 | [Et Sted Herude](https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Et Sted Herude](https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E) | 2:17 | 2023-09-21 | 2024-02-23 |
 | [Eurobando](https://open.spotify.com/track/0nvHRs2XP1BbaAs3wOdI6j) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:47 | 2024-06-20 | 2024-07-12 |

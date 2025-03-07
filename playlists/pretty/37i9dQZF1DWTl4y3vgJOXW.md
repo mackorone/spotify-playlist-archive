@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: LeBron James
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,693,540 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,694,389 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

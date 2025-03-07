@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is 💗 with Martin Garrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,073 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,551 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

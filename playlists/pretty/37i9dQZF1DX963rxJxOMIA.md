@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como Feid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,595 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,622 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

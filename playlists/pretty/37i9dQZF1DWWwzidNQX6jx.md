@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 
 > These songs rocked the 70s\. Cover: Meat Loaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,109,918 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,109,972 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,13 +4,14 @@
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-491 songs - 1 day 3 hr 57 min
+493 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Not\) a Penny in My Pocket \- Demo Version](https://open.spotify.com/track/4svDzNF6PuBs2ojcE8sS1f) | [Jimmy Campbell](https://open.spotify.com/artist/1lvD6UZjY7oyb02YqG1eNC) | [Troubadour \(Lost Recordings 1965\-1991\)](https://open.spotify.com/album/1DkMIFEEetXsDc4Ao0X1Fc) | 2:34 | 2024-05-16 | 2024-07-12 |
 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 | 2024-10-22 | 2024-11-14 |
 | [400 & 57](https://open.spotify.com/track/1KlSberDtUJKrXQsEujQr3) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [In Solarium](https://open.spotify.com/album/13ZC7qriL0nNYB04lK4CXB) | 3:56 | 2024-10-25 | 2024-11-14 |
+| [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 | 2025-03-06 |  |
 | [A Better Life Since](https://open.spotify.com/track/28EkO7bqzJ86Lqgbmuyv17) | [Southpacific](https://open.spotify.com/artist/5eeXcEsflXi3q0GiIw1mCL) | [Constance](https://open.spotify.com/album/4w29IA02Wl4V54uD8bXbry) | 1:49 | 2024-05-16 | 2024-07-12 |
 | [A Furrow Dub](https://open.spotify.com/track/5tauzxQXma1ic7aAnkEtWw) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Boogiepop Phantom Original Soundtrack](https://open.spotify.com/album/58m4Xt0j6oYFLeG81GmEd6) | 6:02 | 2024-07-29 | 2024-09-08 |
 | [A Highway Got Paved Over My Future, I Drive It Getting to School](https://open.spotify.com/track/5wJzxnpc4uIT7cG7fNkNwW) | [Brave Little Abacus](https://open.spotify.com/artist/23prE3lyFVVNVGMV5jADsp) | [Just Got Back from the Discomfort We're Alright](https://open.spotify.com/album/3jLrWEYpwKnptkzEXAyT66) | 2:34 | 2024-05-30 | 2024-07-12 |
@@ -98,6 +99,7 @@
 | [Deep Water](https://open.spotify.com/track/4HbMU0noKfNinw6ePEKXmQ) | [Ed Askew](https://open.spotify.com/artist/6dkNBFTQ8DdQpfYxmi3kIB) | [Imperfiction](https://open.spotify.com/album/0jduFLrhdG0KDrsHuzBirs) | 2:26 | 2024-05-16 | 2024-07-12 |
 | [Deeper](https://open.spotify.com/track/5RyZK49FbAj0DT1rFjBhUb) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:44 | 2024-04-06 | 2024-05-16 |
 | [Devo](https://open.spotify.com/track/5gpvNp0THuMQEAkU1Kt0fB) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [It's a Myth](https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k) | 1:40 | 2024-04-25 | 2024-05-16 |
+| [Do It Yourself](https://open.spotify.com/track/7mqzQCR7KIPxvPFU5IoFkn) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:56 | 2025-03-06 |  |
 | [Does Love Last Forever?](https://open.spotify.com/track/3oZjGlG2QP22zqhT0G3rHU) | [Brighter](https://open.spotify.com/artist/0A4i4n0dws4gJWhdg1OWJu) | [Disney & Other Singles](https://open.spotify.com/album/0D1f2vDRkveLgO8N5hWjtG) | 2:32 | 2024-08-05 | 2024-08-29 |
 | [Dolly](https://open.spotify.com/track/2d3nZMqS7BbTwbpiuDZqQ1) | [Microdisney](https://open.spotify.com/artist/38RLX1nwz4aF9CQPTizSXb) | [Everybody Is Fantastic](https://open.spotify.com/album/37FJhywrVWGEtF3XRXyZxO) | 3:20 | 2024-10-13 | 2024-11-14 |
 | [Don't Interrupt the Sorrow](https://open.spotify.com/track/3r0Tk9ibA2KT1KiLGIuKXA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 4:04 | 2025-02-21 | 2025-03-02 |

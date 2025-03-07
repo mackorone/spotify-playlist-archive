@@ -1,12 +1,12 @@
 {
   "description": "Music from Drake,  Kendrick Lamar and Travis Scott.",
-  "num_followers": 16144251,
+  "num_followers": 16144552,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8YK6AAAAADZPyJquoMYhryn9trgV2WC",
+  "snapshot_id": "Z8kr4AAAAABZfrzibC3Yvv2WArzavSva",
   "tracks": [
     {
       "added_at": "2025-03-03 20:02:48",
@@ -167,6 +167,26 @@
       "duration_ms": 155917,
       "name": "peekaboo (feat. azchike)",
       "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
+    },
+    {
+      "added_at": "2025-03-06 05:00:16",
+      "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
     },
     {
       "added_at": "2025-03-03 20:02:48",

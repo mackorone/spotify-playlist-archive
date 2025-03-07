@@ -4,7 +4,7 @@
 
 > 
 
-837 songs - 2 day 17 hr 57 min
+843 songs - 2 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Com Mais De 30](https://open.spotify.com/track/5vSyBKGgP8DwErMptrUmL7) | [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [Jesus Cristo](https://open.spotify.com/album/472hbvx6EDV9RxKEvZz9Ae) | 2:42 | 2019-08-23 |  |
 | [Comanche](https://open.spotify.com/track/6jlqL9joFnF98jY335t2y4) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Negro É Lindo](https://open.spotify.com/album/72gN1rKSLa00sDq8fmGQF4) | 2:55 | 2024-01-25 |  |
 | [Come Closer](https://open.spotify.com/track/28RdTl2jUo7mIAzhfrcceL) | [Salma Agha](https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V) | [Kasam Paida Karnewale Ki](https://open.spotify.com/album/0fU1Q7UFdI7ELZZOpXGpm6) | 5:31 | 2020-11-17 |  |
+| [Come Closer](https://open.spotify.com/track/3RZVyGXghd5GYs4niK9tGz) | [Salma Agha](https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V) | [Kasam Paida Karnewale Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY) | 5:32 | 2025-03-06 |  |
 | [Come Live With Me](https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 2:37 | 2020-12-14 |  |
 | [Come on Home](https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt) | 5:18 | 2021-09-19 |  |
 | [Comissão De Frente](https://open.spotify.com/track/2nwWZn86OwCOoSU52jerym) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Comissão De Frente](https://open.spotify.com/album/3391Q4zuKuz0JpHkmaJsQv) | 4:59 | 2020-06-29 |  |
@@ -317,6 +318,7 @@
 | [Huos haenuy bong \(it's too late\)](https://open.spotify.com/track/4XzytmfiLksTydcnOETxZi) | [Poev Vanary](https://open.spotify.com/artist/0BFdSivw6TVVNUidmw4e50) | [Cambodian Soul Sounds, Vol\. 1](https://open.spotify.com/album/2z5OdldKTaaTaI8vEqynvM) | 3:40 | 2021-07-02 |  |
 | [I Like It \(Don't Stop\)](https://open.spotify.com/track/4EwhIMk7VPaH1mpIYNq9Li) | [Maxwell Udoh](https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9) | [Survival Of The Fittest](https://open.spotify.com/album/2s8NCKgyy5HqJXMWp6FY8J) | 6:26 | 2024-03-25 |  |
 | [I Love You](https://open.spotify.com/track/1Kem0qcEu52LcaIN4hWs9p) | [Ümit Besen](https://open.spotify.com/artist/2Cusk8DpjH8r3BDvuN3ufo) | [O Gece](https://open.spotify.com/album/020idbIsTcaiScfJua8PJu) | 3:56 | 2023-05-17 |  |
+| [I Serenata](https://open.spotify.com/track/64n4XWpat5ZEmHLnOkVJMU) | [Arleta](https://open.spotify.com/artist/6KVMKVZCXarNNhwKxhjCmo), [Lakis Papadopoulos](https://open.spotify.com/artist/1vhL7DQsMAxapgKbSJEYJM) | [I Serenata](https://open.spotify.com/album/2BedQ1tDggNKVNR1VPwzi4) | 4:23 | 2025-03-06 |  |
 | [I Tcho Tchass](https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1) | [Akofa Akoussah](https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh) | [Akofa Akoussah](https://open.spotify.com/album/76MYmID5q42L381YAFUaEq) | 3:53 | 2021-05-17 |  |
 | [I'll Be Your Man](https://open.spotify.com/track/5YLYU04Oh7iYGgPQYQz2Tq) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [Reggae Africa \(Roots & Culture 1972\-1988\)](https://open.spotify.com/album/1dmxBcJjFLV7otveN4lk6O) | 4:09 | 2022-03-04 |  |
 | [Idag](https://open.spotify.com/track/3gIP4pZ9ofJiHqOpFZjgVH) | [Daniel Ögren](https://open.spotify.com/artist/5xKCNXLmFMUgOlpppsvXeX), [Anna Ahnlund](https://open.spotify.com/artist/3QgJNRjR0Qtw1qjmGTnRa5) | [Fastingen \-92](https://open.spotify.com/album/7nmQ5hMcEqVErJkpqCt7DD) | 4:45 | 2022-08-29 |  |
@@ -690,9 +692,11 @@
 | [Student Night](https://open.spotify.com/track/5WltyA542cYUVj8NCgOjIR) | [Sandy B](https://open.spotify.com/artist/3Np5z6yU56Sw9744o6oFLl) | [Amajovi Jovi](https://open.spotify.com/album/0PPdH1QzLIOxWROTCqR4QV) | 6:06 | 2021-02-26 |  |
 | [Subhana](https://open.spotify.com/track/6pVRs13wFVFyZrCgONzpAM) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/3siDndXTdBZqnO8mJiV3uY) | 5:00 | 2022-10-02 |  |
 | [Sueno Latino \- Paradise Version](https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW) | [Sueño Latino](https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ) | [Sueno Latino](https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7) | 10:34 | 2021-01-21 |  |
+| [Summer Breeze](https://open.spotify.com/track/0XFFeieUria0gaFDX6Hy7T) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Mizrab](https://open.spotify.com/album/5b5V4wu6kjZx3luxpgLIPl) | 6:07 | 2025-03-06 |  |
 | [Summertime](https://open.spotify.com/track/5zquV7va41xkZZNXWBA4Tw) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 3:01 | 2019-12-15 |  |
 | [Sunny Wing](https://open.spotify.com/track/4vg3KGQs568DXacMJUbAaT) | [Yan Tregger](https://open.spotify.com/artist/54LPgNBQ4T81nNmvcu4Zyv) | [Catchy](https://open.spotify.com/album/1b0jYUGcifFqzvNYXDzrLJ) | 2:10 | 2023-09-14 |  |
 | [Suplica Cearese](https://open.spotify.com/track/49vp8LnUSCJpZfS5wWiJfb) | [Djosinha](https://open.spotify.com/artist/28hjsLaiGmuaVXaCn8DEda) | [Perdao](https://open.spotify.com/album/50uyv41bqWkebNNaC4EmYy) | 4:15 | 2023-02-23 |  |
+| [Surfboard \- 1965 Version](https://open.spotify.com/track/1pnrwNjxpUz4hRwVFV9BZz) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Wonderful World Of Antonio Carlos Jobim](https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn) | 2:23 | 2025-03-06 |  |
 | [Sweet Dole](https://open.spotify.com/track/6R2XalnX5HjwhIhMSkxLM4) | [André Marie Tala](https://open.spotify.com/artist/7zoESCAeVJ8h0e1k62snyS) | [Beach Diggin', Vol\. 5](https://open.spotify.com/album/02vc1cQFePDzOSzt2YeFhh) | 4:36 | 2024-03-28 |  |
 | [Swinga Sambaby](https://open.spotify.com/track/3rlfQRL4gIRARv6vGawaj2) | [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Trio Mocotó](https://open.spotify.com/album/0Go7lwU4ezAru4cp5glWzB) | 1:34 | 2019-12-15 |  |
 | [Só Quero](https://open.spotify.com/track/6toW2W7KjT9BKTEmN4zDJj) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:08 | 2023-05-16 |  |
@@ -734,6 +738,7 @@
 | [Traicionera \- Digitally Remastered Original](https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos](https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd) | 3:25 | 2020-09-12 |  |
 | [Trip on New Shores](https://open.spotify.com/track/5KH7oXvRAcwLfPj9ZBCG5y) | [Reuben Vaun Smith](https://open.spotify.com/artist/2moJAoZqWQ7Q568tptPn0P) | [Warm Nights](https://open.spotify.com/album/75BJ3iFTPWWjR8lzbCBsrX) | 3:50 | 2023-01-23 |  |
 | [Tropical](https://open.spotify.com/track/0RfrnupwZ2zvlDAC5fU3tM) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS) | [Luke Vibert's Nuggets](https://open.spotify.com/album/0DCe05QuXwQB5d42nynTc6) | 2:41 | 2022-07-28 |  |
+| [Tropical Call](https://open.spotify.com/track/1wRRVyCNcr75rvSAIsJwWC) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Jungle Obsession](https://open.spotify.com/album/0K8kxH3K4DmHUkzIdz1Dt8) | 2:35 | 2025-03-06 |  |
 | [Tropique](https://open.spotify.com/track/3QNQl3VaVsxBhnExIMrPvi) | [Muriel Dacq](https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP) | [Tropique](https://open.spotify.com/album/0DZNBxHIyrnAwiJot1wiTt) | 3:32 | 2024-12-10 |  |
 | [Trouble Sleep Yanga Wake Am](https://open.spotify.com/track/3oN1f3zptjGz1UQqPX6jsL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Roforofo Fight](https://open.spotify.com/album/4XWCXD0Dp7DmogggcLNfyP) | 12:06 | 2024-01-24 |  |
 | [Troupeau bleu](https://open.spotify.com/track/2DTHWr5NK1igQZxctpYTA9) | [Cortex](https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 5:03 | 2021-01-06 |  |
@@ -771,6 +776,7 @@
 | [Viola Fora De Moda](https://open.spotify.com/track/2gOwA32FKNEPrV4Gf2AULE) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO) | [Missa Breve](https://open.spotify.com/album/25P9ANRNnjvVAwCJVOPT4A) | 2:50 | 2022-03-28 |  |
 | [Violeiro](https://open.spotify.com/track/3Q1Nfez3ZnReiJhexjocW9) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys) | [Love Or \(I Heard You Like Heartbreak\)](https://open.spotify.com/album/27jNgBWNJvSDtbqqvbHf6g) | 5:11 | 2022-04-26 |  |
 | [Viva Tirado](https://open.spotify.com/track/6wbDINxAd1kUxvR3PKtUwR) | [El Chicano](https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL) | [Viva Tirado](https://open.spotify.com/album/6O679uiUJlAE3fa4C1KM9L) | 4:40 | 2023-05-16 |  |
+| [Vivo](https://open.spotify.com/track/37yGDW6a3PVlhv0EJLfjx6) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Vivo](https://open.spotify.com/album/0PFakRv5XkTy18s1zUwx3r) | 4:53 | 2025-03-06 |  |
 | [Vivo Sarai \(Staying Alive\)](https://open.spotify.com/track/60M9lkPZ9pKzbyUWtbGqUz) | [Eva Eva Eva](https://open.spotify.com/artist/6EQNQjeMslKvAI1NvxB7qw) | [Disco Dance 70\-80](https://open.spotify.com/album/10Qyu68tpvcI2fhhAaTnf3) | 4:02 | 2024-04-11 |  |
 | [Voice in Sight](https://open.spotify.com/track/7sZz9Yc2F0qK2owzeNvmlt) | [Berto Pisano](https://open.spotify.com/artist/3tMQM3rDk2wPP866AFNZoJ) | [La svergognata \- Suggestionata \(Original Motion Picture Soundtracks\) \[Remastered\]](https://open.spotify.com/album/0geAFzhP3wSU28kzAolcLa) | 3:06 | 2022-09-19 |  |
 | [Voilà](https://open.spotify.com/track/6aRy3XEJMq9SeZKz2pV9q4) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Ma jeunesse fout l'camp](https://open.spotify.com/album/3Du6Q5bHRcrfmZZKxYWmxi) | 3:22 | 2019-08-23 |  |

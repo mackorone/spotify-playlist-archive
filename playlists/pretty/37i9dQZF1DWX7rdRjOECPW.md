@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Das war der Sommer 2024 ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,499 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,520,421 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

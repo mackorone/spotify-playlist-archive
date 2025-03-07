@@ -4,10 +4,11 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-215 songs - 18 hr 59 min
+219 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Acha Waseme](https://open.spotify.com/track/1bDFKdh2GPMQtKDLCwXWZm) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Acha Waseme](https://open.spotify.com/album/1aEBjd0rkBSM8ZD45whoWA) | 5:44 | 2025-03-07 |  |
 | [Action](https://open.spotify.com/track/3Kw2ogHWEVOln1I0COwKpx) | [BeeJay](https://open.spotify.com/artist/0Cwe5u9RvI668c5MXkzqyQ) | [Action](https://open.spotify.com/album/3di0qx12IxzIgc0uFuRSbI) | 5:30 | 2023-06-09 | 2024-04-12 |
 | [After Church](https://open.spotify.com/track/3dRrAAugBdsRSiBqkUxWbe) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq) | [Boy Wa Kanisa](https://open.spotify.com/album/1ZJu6CMYk5STa6XVu2wTOd) | 2:41 | 2023-10-13 | 2024-05-24 |
 | [Alfa Na Omega](https://open.spotify.com/track/5zZc2QyZfxqZcQ89REWyzW) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI) | [Tulia](https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT) | 4:54 | 2022-06-24 |  |
@@ -30,6 +31,7 @@
 | [BABA MWEMA](https://open.spotify.com/track/7pM0W3cq4NYaG5pmt3FDA9) | [Beda Andrew](https://open.spotify.com/artist/11VA7kqmrvG4yAs57K1h8Z) | [BABA MWEMA](https://open.spotify.com/album/7nrDTqBz4RxQwSqYf1gFSe) | 3:18 | 2023-10-13 | 2024-05-10 |
 | [Beba Nuru](https://open.spotify.com/track/3X7Ebfhg0rl0DWN3UErhfw) | [Mgasa George](https://open.spotify.com/artist/0UzzhS3G4a2c4jINaSAEhy) | [Beba Nuru](https://open.spotify.com/album/1VOv6kempfsry0X3LgZBT6) | 3:47 | 2023-05-05 | 2023-07-07 |
 | [Bijoux](https://open.spotify.com/track/2F3bnonyhTUUL0kaI92RDb) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Why Not](https://open.spotify.com/album/2Al5aGkwsloF2jOfRnnTnM) | 3:21 | 2023-07-14 |  |
+| [Bila Bila](https://open.spotify.com/track/3o4FJuqGNemcj2tGuwcQR9) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Bila Bila](https://open.spotify.com/album/6TsBYWL3dnC8rRQxw63OoS) | 2:55 | 2025-03-07 |  |
 | [Blessed](https://open.spotify.com/track/4Eb505zojHO3HVFOY1tiBO) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Blessed](https://open.spotify.com/album/0HYkPm2FuTCLiC7fCMf8JG) | 2:17 | 2024-05-10 | 2024-06-01 |
 | [Breaking News \(UFO\)](https://open.spotify.com/track/3EGSXoXoeMjiTfKBbCKOxT) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [Breaking News \(UFO\)](https://open.spotify.com/album/1YtAG0djosPWZRQAHYusih) | 3:10 | 2023-05-26 | 2023-11-25 |
 | [Bwana Unatawala \(Live\)](https://open.spotify.com/track/3O0Bvp1sMSdMVuLuRhe7yU) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/2URrPzDAgysJCPyXImSEvs) | 18:46 | 2022-06-24 | 2023-09-25 |
@@ -148,7 +150,9 @@
 | [Not Gonna Worry](https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY) | [Not Gonna Worry](https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA) | 3:25 | 2024-05-03 |  |
 | [Nothing](https://open.spotify.com/track/1cXe35isIgaErKaSyi1nP3) | [Nahash Mwathi](https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1), [Jackson Saya](https://open.spotify.com/artist/7EFTCBaclOkenIPumLmGyn) | [Nothing](https://open.spotify.com/album/4Hl2UURqrZ88wlOolmc7Mv) | 4:31 | 2023-05-05 | 2024-05-03 |
 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 | 2024-10-11 |  |
+| [Oluwa](https://open.spotify.com/track/28YZkqInvmqbK711J1xVeZ) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Oluwa](https://open.spotify.com/album/4DJaOvhJfTkmZaMHLaihRz) | 2:55 | 2025-03-07 |  |
 | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/track/2KpAGhLuf7SzVLHDOF4M1S) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/album/0yCHxjgEI4SqCDmye48Kvp) | 3:55 | 2023-07-14 |  |
+| [Pale Ulipo](https://open.spotify.com/track/0csaw0BDKtHIaxb5HsPbRM) | [Pitson](https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM), [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [Brand New Me](https://open.spotify.com/album/4PX1iirJp3PCFrrO5b5MZB) | 6:35 | 2025-03-07 |  |
 | [Patakatifu Pako](https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:03 | 2022-06-24 | 2023-05-12 |
 | [Pigana Na Mungu](https://open.spotify.com/track/3QymZqdK4eBa28lYKX4iRZ) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6), [Gurdian Angel](https://open.spotify.com/artist/3OVE9fi88pyTKC5s95b5bk) | [Pigana Na Mungu](https://open.spotify.com/album/7KNyooPzokZIBMQ0KSbApP) | 4:02 | 2024-06-28 |  |
 | [Pombe](https://open.spotify.com/track/4W3Bm7G15aXGEFd9oNaJJu) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Pombe](https://open.spotify.com/album/7bS2N5Hr5tmTzf58oxwXn7) | 5:41 | 2023-12-15 | 2024-05-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPYzOAWX8Wm.md) - [plain]
 
 > A look back at tracks from over the past four years\. A mixtape of music made for the Class of 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,006 likes - 150 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,986 likes - 150 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

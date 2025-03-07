@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: Tyga
+> Your shortcut to the best new Hip Hop\. Cover: Kerser
 
-510 songs - 1 day 0 hr 56 min
+514 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Alpha Omega](https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K) | [Alpha Omega](https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3) | 2:27 | 2024-12-12 |  |
 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 | 2023-09-22 | 2024-03-08 |
 | [ANOTHA LATE NITE \(with 454\)](https://open.spotify.com/track/5hz0QFBGVqUr96RMJzgJxr) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 2:56 | 2024-11-14 | 2025-02-28 |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-06 |  |
 | [Anything Goes](https://open.spotify.com/track/0FU8AIBNGxSZ8IdXsSUjWF) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Anything Goes](https://open.spotify.com/album/78o0jD0mpRLazYdUfYiK04) | 2:06 | 2024-09-05 | 2024-12-13 |
 | [AREA SAINT](https://open.spotify.com/track/3OyEK1Il9ZYJ4T90Uef1BT) | [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [AREA SAINT](https://open.spotify.com/album/1E5XrdS7rd7LazbKmOuDSM) | 2:38 | 2024-08-01 | 2024-09-27 |
 | [Asskin For More](https://open.spotify.com/track/1QKeGFTwANvnboG2ji86Qi) | [Cool Out Sun](https://open.spotify.com/artist/7I1YIX7VLDgFGs4THxBqRd), [N'fa Jones](https://open.spotify.com/artist/7g4RUa5OftEV75aZ4kLOJk), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Asskin For More](https://open.spotify.com/album/2AeoJ9iRsZmaXapSXvvpVw) | 3:52 | 2024-09-26 | 2024-11-01 |
@@ -116,6 +117,7 @@
 | [Crazy](https://open.spotify.com/track/73f5rpLgydSRIvHzRLcJFF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:12 | 2023-12-19 | 2024-03-01 |
 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 | 2025-02-06 |  |
 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 | 2024-04-05 | 2024-05-03 |
+| [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 | 2025-03-06 |  |
 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 | 2024-04-18 | 2024-06-28 |
 | [Cupid](https://open.spotify.com/track/3ZMvmvwJBHCilE3XS5HwDI) | [OBN Jay](https://open.spotify.com/artist/1IIDXzVCV16qAYAICsL763), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Cupid](https://open.spotify.com/album/0aCl1hgK2vdwV0CyYmlYmp) | 2:55 | 2024-06-27 | 2024-08-02 |
 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 | 2024-02-15 | 2024-05-10 |
@@ -139,6 +141,7 @@
 | [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 | 2023-10-12 | 2024-01-12 |
 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 | 2024-03-14 | 2024-06-22 |
 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 | 2023-12-21 | 2024-03-08 |
+| [Envy Me](https://open.spotify.com/track/4jWluiYfXVQXNcleeodwUs) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Envy Me](https://open.spotify.com/album/1fVgwOgVmTb8nK3fvSFEjB) | 2:25 | 2025-03-06 |  |
 | [Erling Haaland \(Elet Adab\)](https://open.spotify.com/track/1seUMfXwL0yzzRNk52hHZh) | [Miko Mal](https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7) | [Erling Haaland \(Elet Adab\)](https://open.spotify.com/album/75bKsJEfhfUjipRJS0mBnB) | 3:08 | 2023-09-22 | 2023-10-24 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-04-30 | 2024-06-22 |
 | [Euphoric](https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Euphoric](https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5) | 1:53 | 2023-10-12 | 2023-11-17 |
@@ -347,6 +350,7 @@
 | [Playa \(feat\. Skilla Baby\)](https://open.spotify.com/track/3pEOBaJeDXyN5PpGXxeDx9) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:14 | 2024-07-18 | 2024-09-06 |
 | [Pop It Off](https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pop It Off](https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt) | 3:09 | 2025-01-23 |  |
 | [Poppin](https://open.spotify.com/track/6fPD92TEq6KsEV7L7nmhZ3) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Poppin](https://open.spotify.com/album/2vWmskQ93na9eB8RqsvvUR) | 2:46 | 2025-01-16 | 2025-02-21 |
+| [Port Antonio](https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Port Antonio](https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW) | 5:16 | 2025-03-06 |  |
 | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/060f2MPkZIV4lNLDkq0Uta) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/album/2OQhtuAlEsrxSjU3WS1txn) | 2:43 | 2024-07-11 | 2024-08-02 |
 | [prada dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [prada dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 | 2024-03-22 | 2024-06-28 |
 | [Preach](https://open.spotify.com/track/0dxupq1dWkfw6rFeaxwTTE) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr) | [Preach](https://open.spotify.com/album/3qCzLZmKm0dozA92WXogJ9) | 2:39 | 2024-06-21 | 2024-07-27 |

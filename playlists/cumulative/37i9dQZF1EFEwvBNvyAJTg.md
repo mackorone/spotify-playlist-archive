@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-226 songs - 12 hr 23 min
+229 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ain't One Thing](https://open.spotify.com/track/3jqnjFXsxFGiSKUxB5GqN5) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Some Nights Last for Days](https://open.spotify.com/album/3zfGPmRofpeOiZCIsgekUF) | 2:52 | 2024-06-13 |  |
 | [All Night, Pt\. I](https://open.spotify.com/track/3ymE3yy569MmSfb8lrouw9) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:29 | 2024-06-13 |  |
 | [All Night, Pt\. II](https://open.spotify.com/track/6UDH8pqwW5siqNszFtX6x0) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:16 | 2024-06-13 |  |
+| [All or Nothing](https://open.spotify.com/track/3YuqIR7XjXU7Gy2EEu0IE8) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/4yCgbNviDnEbOntign4dAf) | 3:18 | 2025-03-06 |  |
 | [All or Nothing](https://open.spotify.com/track/6cy6q63aHMraSCtwt9bwMy) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:18 | 2024-06-13 | 2025-02-28 |
 | [Animal](https://open.spotify.com/track/690DtfFHFhizuE0rbQslzz) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Contrast](https://open.spotify.com/album/5jbzK5h4FujeX48gzLwBoi) | 3:16 | 2024-06-13 |  |
 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 | 2025-01-09 |  |
@@ -85,6 +86,7 @@
 | [Golden](https://open.spotify.com/track/0bYAjmHs31OEFgRPatLkjj) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Golden](https://open.spotify.com/album/18POkJhbdmVfZBQwZVohLH) | 3:46 | 2025-02-28 |  |
 | [Golden](https://open.spotify.com/track/4noRLVoGQH2YCtJ1JUKDKi) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:46 | 2024-06-13 | 2025-03-01 |
 | [Gulible](https://open.spotify.com/track/2KLTc4Rz7YBc9sc6vJLTSl) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:18 | 2024-06-13 | 2025-02-28 |
+| [Gullible](https://open.spotify.com/track/5LmDcY3e50ideiP3hE0NVB) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/4yCgbNviDnEbOntign4dAf) | 3:18 | 2025-03-06 |  |
 | [Handy](https://open.spotify.com/track/4ZJGobiy4ayWSdKfoqMRlX) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Mandatory Fun](https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV) | 2:56 | 2025-01-09 |  |
 | [Hangover](https://open.spotify.com/track/5asegb19C7iaWFyx63UKj8) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [While You Wait](https://open.spotify.com/album/78GlZJUM3ehtYtWTxaFXT4) | 3:24 | 2024-06-13 |  |
 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2024-06-13 |  |
@@ -117,6 +119,7 @@
 | [Kite \(with Olly Alexander\)](https://open.spotify.com/track/6AN0wDN46SCN5TA3MRVFoD) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Kite \(with Olly Alexander\)](https://open.spotify.com/album/0zy151IhoJGNdB8crkkKiQ) | 2:46 | 2024-06-13 | 2024-09-08 |
 | [Kite \- Acoustic](https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Kite \(Acoustic\)](https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd) | 2:29 | 2025-01-09 |  |
 | [L Word](https://open.spotify.com/track/1oc2IjNoUMrCiQ5dA6ggP6) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:39 | 2024-06-13 | 2025-02-28 |
+| [L Word](https://open.spotify.com/track/2Oz1RvJAy2Z17xFtJVL4D7) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/4yCgbNviDnEbOntign4dAf) | 3:39 | 2025-03-06 |  |
 | [Lady Patra](https://open.spotify.com/track/538KWiWJHJ2FgJu0ndaANF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:56 | 2025-01-09 |  |
 | [LaserLight](https://open.spotify.com/track/1dG3YWhLiTyFfTJyT2DanJ) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:31 | 2024-06-13 |  |
 | [LAST DAY](https://open.spotify.com/track/2jxrreHQb2Itr4jJFtWEKg) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [LAST DAY](https://open.spotify.com/album/1GUjZGpVnLXF3DPIHI0nhM) | 3:05 | 2024-06-13 |  |

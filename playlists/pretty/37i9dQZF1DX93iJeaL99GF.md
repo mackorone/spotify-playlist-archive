@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,121 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,136 likes - 40 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

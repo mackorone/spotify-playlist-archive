@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-234 songs - 12 hr 13 min
+235 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Stranger](https://open.spotify.com/track/5RCJ9b4Qw6mayhWRDwAjrZ) | [Deena Ade](https://open.spotify.com/artist/4URSzB6wfRtpXEISyX7Nsb) | [Stranger](https://open.spotify.com/album/63BDmIlVAzz5xrie6GwYpH) | 2:13 | 2023-02-16 | 2023-03-18 |
 | [Survivor](https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Survivor](https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO) | 2:25 | 2022-05-19 | 2023-02-04 |
 | [Take Me Back](https://open.spotify.com/track/0gebFq16ZKEt07j0QwBM3R) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Simisola](https://open.spotify.com/album/2lHgNW983t05IFHxKSryH3) | 4:08 | 2022-02-11 | 2022-08-13 |
+| [Taxi Driver](https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Taxi Driver](https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh) | 2:36 | 2025-03-06 |  |
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-22 |  |
 | [The End \(Nicotine\)](https://open.spotify.com/track/5l1DdcMPmSbN3qfTDbArj8) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [The End \(Nicotine\)](https://open.spotify.com/album/1655zT6VbJkNL5UJPCr4NS) | 2:35 | 2023-05-19 | 2023-05-27 |
 | [Thinkin Bout You](https://open.spotify.com/track/5mphdlILgAq3vh1MSvAJTS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:20 | 2022-02-11 | 2022-07-29 |
@@ -241,6 +242,6 @@
 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-24 | 2024-06-01 |
 | [You Need To](https://open.spotify.com/track/5yC1nqnRKZMrP8TsZd25zB) | [Plug Music](https://open.spotify.com/artist/5sVHv1gaAjQw2X2gyYpKq6), [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 3:00 | 2024-03-08 | 2024-05-17 |
 | [You Were Mine](https://open.spotify.com/track/3QpTafVsUG8UWFDHfJ18Q4) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp) | [Happy 2 Be Alive](https://open.spotify.com/album/3jXkhOEyaDn7grFbTJ9QQ1) | 3:01 | 2024-05-31 | 2024-09-28 |
-| [Your Loss](https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:47 | 2024-07-19 |  |
+| [Your Loss](https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:47 | 2024-07-19 | 2025-03-07 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

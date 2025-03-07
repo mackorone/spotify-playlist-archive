@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,989 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,048 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

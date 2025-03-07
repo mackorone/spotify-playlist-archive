@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2x3RAa.md) - [plain]
 
 > This is Sonny Okosun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 38 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 515 likes - 38 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

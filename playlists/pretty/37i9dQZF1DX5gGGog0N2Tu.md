@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 
 > What'd she do to get you off?????
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,766 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,754 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,960 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,965 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

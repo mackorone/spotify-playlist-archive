@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: Rocket, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,206 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,333 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

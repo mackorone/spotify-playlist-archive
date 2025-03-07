@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Yuridia en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,779 likes - 41 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,184 likes - 41 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

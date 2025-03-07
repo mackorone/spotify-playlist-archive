@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-827 songs - 1 day 21 hr 14 min
+828 songs - 1 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-16 | 2024-06-07 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-12 | 2024-11-03 |
 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 | 2024-05-31 | 2024-07-05 |
+| [In Real Life](https://open.spotify.com/track/2pGj2JONrsGJwGqCbzw8aC) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Clarity of Cal](https://open.spotify.com/album/2yImgiwCG9KZnxzgulVthl) | 2:57 | 2025-03-06 |  |
 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 | 2023-11-09 | 2023-11-22 |
 | [IN\_MY\_HEAD](https://open.spotify.com/track/0goYIHlWef73ZG6lNlrJ15) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [IN\_MY\_HEAD](https://open.spotify.com/album/2mtOtzHRY35jKmmfK3AU9i) | 3:27 | 2024-11-28 | 2025-01-10 |
 | [Insomnia](https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Insomnia](https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS) | 3:24 | 2024-02-29 | 2024-03-06 |
@@ -358,7 +359,7 @@
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-09 | 2023-05-17 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-16 | 2023-03-10 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-30 |  |
-| [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-27 |  |
+| [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-27 | 2025-03-07 |
 | [Love Insurrection \- Edit](https://open.spotify.com/track/5NUsEbeXd7o9U8xFBSiyag) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Love Insurrection](https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y) | 3:32 | 2024-07-18 | 2024-07-27 |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-27 | 2024-06-05 |
 | [Love seeker](https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Love seeker](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) | 2:54 | 2024-06-07 | 2024-08-03 |

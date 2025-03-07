@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,340,653 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,340,790 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 59 | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj) | 2:51 |
 | 60 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
 
-Snapshot ID: `Z8XFRgAAAAAo4e81ip+xYfEo1ztlvju9`
+Snapshot ID: `Z8opAAAAAADqr8vTrZtNUqSKHukL0yr0`

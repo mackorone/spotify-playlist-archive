@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 
 > ¡Disfruta de las canciones pop para toda la familia curadas por Gru y los Minions!
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,157 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,163 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

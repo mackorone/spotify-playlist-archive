@@ -2,9 +2,9 @@
 
 ### [mood\. ](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: antransax
+> The R&B and good vibe tracks for your current mood\. Cover: Arabelle
 
-1,121 songs - 2 day 12 hr 4 min
+1,123 songs - 2 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 | 2023-05-25 | 2023-06-09 |
 | [cat person](https://open.spotify.com/track/4qTxDDWrH2Wxu5JBPjIW1P) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [cat person](https://open.spotify.com/album/03bTs0yoDu72dXh8gtPjKD) | 2:38 | 2023-09-07 | 2023-11-10 |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-24 | 2024-08-09 |
-| [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-07 |  |
+| [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-07 | 2025-03-07 |
 | [Centigrade\. \(feat\. Nao\)](https://open.spotify.com/track/3cQLR1SFDxoJ8LTHYmFALQ) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Centigrade\. \(feat\. Nao\)](https://open.spotify.com/album/3U6jOiUiOZS7q8WAZmt2H3) | 3:54 | 2024-09-26 | 2024-11-15 |
 | [Changes](https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Changes](https://open.spotify.com/album/1DpF83ld572jojmymv9J8P) | 2:33 | 2022-10-20 | 2022-10-29 |
 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 | 2024-04-11 | 2024-08-02 |
@@ -339,7 +339,7 @@
 | [For You](https://open.spotify.com/track/39ULcrDU1tUU9Ezi61NdZR) | [Midday Wednesday](https://open.spotify.com/artist/4ahb4SKWyEoPxSUDlYVSyT) | [For You](https://open.spotify.com/album/2KaFoiDxIFQNTTbtsuOoVi) | 3:01 | 2024-09-26 | 2024-12-05 |
 | [Forever](https://open.spotify.com/track/5DOwCpxn4BSZjdjUMSIHTM) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:55 | 2023-08-17 | 2024-03-16 |
 | [Forgiving Myself](https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Forgiving Myself](https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj) | 2:55 | 2023-06-29 | 2023-07-08 |
-| [Fraction of You](https://open.spotify.com/track/7E8hyH2bDckedeRcKrIEzM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Fraction of You](https://open.spotify.com/album/129cZUF3VPuqbD5Z6BR1Z9) | 3:42 | 2025-02-20 |  |
+| [Fraction of You](https://open.spotify.com/track/7E8hyH2bDckedeRcKrIEzM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Fraction of You](https://open.spotify.com/album/129cZUF3VPuqbD5Z6BR1Z9) | 3:42 | 2025-02-20 | 2025-03-07 |
 | [Free as a Bird](https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Free as a Bird](https://open.spotify.com/album/2ODShvedm9rxASw0aNfqCQ) | 2:59 | 2024-06-27 | 2024-07-19 |
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-15 | 2025-01-17 |
 | [Friend Zone](https://open.spotify.com/track/0nzD87lkCYiY5Pxjvwp45P) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC), [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:25 | 2022-08-11 | 2022-08-19 |
@@ -730,6 +730,7 @@
 | [Part Time Lover](https://open.spotify.com/track/2tK0o3mmOXo7OBE4qftoZE) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [Part Time Lover](https://open.spotify.com/album/4WLGVZ7qaUY1fZx4CXw5pJ) | 3:35 | 2024-04-25 | 2024-06-14 |
 | [part\-time lover](https://open.spotify.com/track/3zEG10Pt8RtryGhvNHb74Y) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [part\-time lover](https://open.spotify.com/album/67mTUhjtDIsgbgKwK1zcSa) | 2:26 | 2024-06-27 | 2024-11-15 |
 | [Party Tonight](https://open.spotify.com/track/1JXbLh8cttnk3P1NXrJWEa) | [Lydia Ganada](https://open.spotify.com/artist/084FLSUzeGGIRdanJBNKMl), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359) | [Party Tonight](https://open.spotify.com/album/1C3NNgsETbvRBWxZvNsFl4) | 3:37 | 2022-07-14 | 2022-07-22 |
+| [Pattaya](https://open.spotify.com/track/24lUgoLY3qAdssYOyXbxOc) | [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [Pattaya](https://open.spotify.com/album/3X965kVOIf7cQsCxE2uFY1) | 2:28 | 2025-03-06 |  |
 | [Pearl](https://open.spotify.com/track/4DsRgTgw9ywVRrYCCpraTv) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Pearl](https://open.spotify.com/album/3GUmrEh3fTY9x3tE3YhcBS) | 3:12 | 2022-06-08 | 2022-09-30 |
 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-06 | 2023-04-15 |
 | [People Talk](https://open.spotify.com/track/6zz0Ko92Tl1YblhCJocQuT) | [m.dn.ght](https://open.spotify.com/artist/4JzPZI19ABemsfVk0IXqow) | [People Talk](https://open.spotify.com/album/0f1ZvbUnT2UB5IWZCmVhvZ) | 3:15 | 2024-06-13 | 2024-08-16 |
@@ -762,6 +763,7 @@
 | [pretty sure you're fine](https://open.spotify.com/track/4F4XQKH4vVoPnwDmRPh6sJ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [pretty sure you're fine](https://open.spotify.com/album/5BL3gZkADVjB3pHG1thulk) | 3:17 | 2025-02-27 |  |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-06-30 | 2022-08-05 |
 | [Princess](https://open.spotify.com/track/31ZUIxf4j6ed67eNtw823B) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [Princess](https://open.spotify.com/album/5vDv4UJnz5cdsdnBeFEqEk) | 3:07 | 2024-10-31 | 2024-12-05 |
+| [Promises](https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Promises](https://open.spotify.com/album/4H1ifuiljrSCXJn2LI3zLC) | 3:03 | 2025-03-06 |  |
 | [Psychic](https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:40 | 2022-06-23 | 2022-11-18 |
 | [Pull My Hair](https://open.spotify.com/track/37X6Jr8cHBOCD9tsuv25MA) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Pull My Hair](https://open.spotify.com/album/4oILzeu5oXO9HeLSJ92Z0V) | 2:01 | 2023-04-20 | 2023-04-28 |
 | [Puzzle \(feat\. Sonny Zero, hevel & Kelsey Kuan\)](https://open.spotify.com/track/4Y9xIrFg05vDYM0kXohGT3) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js) | [Pride & Prejudice](https://open.spotify.com/album/6hBxoPv4CvkJzCp8ecXipM) | 2:45 | 2023-04-06 | 2023-08-25 |
@@ -1122,7 +1124,7 @@
 | [Your Sadness](https://open.spotify.com/track/7jAwJRWO4SLmu7JGFmhl07) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Your Sadness](https://open.spotify.com/album/0whU1PMy78jJL1uaO7cGx5) | 3:20 | 2022-11-17 | 2023-02-10 |
 | [Your/My](https://open.spotify.com/track/6UBPiSJ58x8bwGXV0yA8WJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:39 | 2024-12-04 |  |
 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 | 2024-04-25 | 2024-10-25 |
-| [Youth \(feat\. Skaai\)](https://open.spotify.com/track/5f7Yii4MaG1ksyHHsb0KCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Youth \(feat\. Skaai\)](https://open.spotify.com/album/48b1YVvyE3HpukwhEZR2Y9) | 2:52 | 2025-02-20 |  |
+| [Youth \(feat\. Skaai\)](https://open.spotify.com/track/5f7Yii4MaG1ksyHHsb0KCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Youth \(feat\. Skaai\)](https://open.spotify.com/album/48b1YVvyE3HpukwhEZR2Y9) | 2:52 | 2025-02-20 | 2025-03-07 |
 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 | 2025-01-16 |  |
 | [ZOMBIE](https://open.spotify.com/track/14FpT18egCLY8Of6l0jveN) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt) | [ZOMBIE](https://open.spotify.com/album/0nkoLJGFDjSySEHAWS8j5S) | 3:08 | 2024-02-01 | 2024-02-16 |
 | [Zzz](https://open.spotify.com/track/2TwxwrWywjWZn9KDEHvVVE) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Zzz](https://open.spotify.com/album/1zG9VoeF5rdAPBI9hL1wbC) | 2:54 | 2022-09-22 | 2022-12-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: MARLENA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,698 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,703 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

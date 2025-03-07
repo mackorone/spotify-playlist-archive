@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-824 songs - 1 day 20 hr 14 min
+828 songs - 1 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2021-06-25 |  |
 | [BYO](https://open.spotify.com/track/3cTnUzT5Xqwwlh6nnngmcQ) | [Ojikae](https://open.spotify.com/artist/3moDp3eFeUgBTCqUSxcPZF) | [3033](https://open.spotify.com/album/6t1Fw8UPVG4Q8699YLgKYs) | 3:19 | 2021-03-06 |  |
 | [Can I](https://open.spotify.com/track/3iykpxKSHzIBd3EWkkWhfN) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Can I](https://open.spotify.com/album/2dWNwyF7ac8Q5LWxAXhup1) | 3:00 | 2022-10-07 |  |
+| [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-07 |  |
 | [Can't Fight](https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 3:10 | 2020-05-22 | 2021-05-12 |
 | [Can't Give Up](https://open.spotify.com/track/24bUSn4O0HA8c3Y2mi5NqS) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Give Up](https://open.spotify.com/album/3ToJTvBVx2Zg8VU0UELM52) | 2:43 | 2022-07-22 |  |
 | [Can't Let You Go](https://open.spotify.com/track/5RfrZ5Lgr3fdtgnvhh3va8) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Let You Go](https://open.spotify.com/album/4Mxvm1AvvhrohYFo1VlhXZ) | 3:24 | 2021-03-16 |  |
@@ -449,6 +450,7 @@
 | [Lonely Hearts](https://open.spotify.com/track/63l4LmmYVH2KSWLmVOD8gA) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Lonely Hearts](https://open.spotify.com/album/4P5b0d1PPIue25OfqE7Ffv) | 3:23 | 2020-04-24 | 2020-05-12 |
 | [Los Angeles](https://open.spotify.com/track/7gDXne51D4DEBHQSHHedYq) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [En\-Route: Los Angeles](https://open.spotify.com/album/6AS93NOEEpTJhayGi6hQZN) | 4:00 | 2019-10-25 | 2021-05-12 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-06-23 |  |
+| [Lose Me Like You Mean It](https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 2:59 | 2025-03-07 |  |
 | [Loser](https://open.spotify.com/track/4wPIwZiEnvE7AWY3bBSz3H) | [Kat Edwards](https://open.spotify.com/artist/08i7j3DXn5p7I5PrdVd5bV) | [Best Bad News](https://open.spotify.com/album/7vUmuDAhBlmK3idI32knqA) | 3:48 | 2022-08-12 |  |
 | [lost](https://open.spotify.com/track/6XTAG7oS2qTKp9AOmbOczL) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [lost](https://open.spotify.com/album/3vMGA5wdFyAZ02c05F1KWy) | 3:37 | 2022-12-16 |  |
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-03-30 |  |
@@ -579,6 +581,7 @@
 | [Potential](https://open.spotify.com/track/5YN3OOU922yLGSpEbniQvY) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [Potential](https://open.spotify.com/album/0FBoNgyqUvAKq3piZQWgn0) | 2:29 | 2023-05-26 |  |
 | [Practically Strangers](https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Practically Strangers](https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob) | 2:10 | 2023-05-05 |  |
 | [Pray](https://open.spotify.com/track/1QvwRDNlk5q7FHI3EJDf5a) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Pray](https://open.spotify.com/album/04r2SEXW3ikdKuHfnjKABw) | 3:53 | 2021-10-09 |  |
+| [Press Pause](https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Press Pause](https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD) | 3:19 | 2025-03-07 |  |
 | [Pretty](https://open.spotify.com/track/4QkgqaiQWl7dRfrDRSz2hx) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Pretty](https://open.spotify.com/album/6w0yoQrlqUXnHqsI1Sz3q3) | 2:34 | 2021-10-16 |  |
 | [Pretty Little Devil](https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Pretty Little Devil](https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw) | 2:47 | 2024-05-08 |  |
 | [Promise](https://open.spotify.com/track/5GdAVnwxzMNSRThQsawXsQ) | [KAZE詹翊玄](https://open.spotify.com/artist/6OHqKdDMYupavebNP9azHD), [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Promise](https://open.spotify.com/album/734KErFJszhXqsENb9IRiU) | 2:55 | 2022-12-15 |  |
@@ -679,6 +682,7 @@
 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 | 2019-08-27\* | 2020-04-06 |
 | [Sriracha \(feat\. WOOSUNG\)](https://open.spotify.com/track/7ldhMIeSYJQNYxdoZ0MKiM) | [The Attire](https://open.spotify.com/artist/5DPoUW5HGgfsoAelpybURt), [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [Sriracha \(feat\. WOOSUNG\)](https://open.spotify.com/album/18bpLLLl7pXC7KO7p8oyq2) | 3:02 | 2022-07-28 |  |
 | [Stardust](https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT) | [Dan Bravo](https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Stardust](https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O) | 2:53 | 2020-07-01 | 2020-07-09 |
+| [stardust](https://open.spotify.com/track/5eBhZmoWwGhAPj80u4HWLB) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [stardust](https://open.spotify.com/album/3hRgPtGcjUUPmlWtH5cSHT) | 3:50 | 2025-03-07 |  |
 | [Stay Young](https://open.spotify.com/track/7wjprvfscpUNacftNovfQO) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Stay Young](https://open.spotify.com/album/2DFhsR9VbaeoR1sWlX04lk) | 3:22 | 2019-08-27\* | 2019-11-11 |
 | [Stealing All My Friends](https://open.spotify.com/track/5UiBcv3HW0hIshBrOQxY2q) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Stealing All My Friends](https://open.spotify.com/album/5gOHjDCfex1LV4MbKIUM97) | 2:41 | 2020-07-01 | 2021-05-12 |
 | [STELLAR](https://open.spotify.com/track/6MRqdlCduoCtfrZS8MTxod) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [STELLAR](https://open.spotify.com/album/3jGEu1RPez7nkL6DtOaeuU) | 3:25 | 2020-04-18 | 2021-05-12 |

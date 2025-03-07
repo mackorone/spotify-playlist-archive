@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,479 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,466 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Bispo entra na zona. ",
+  "description": "Papillon entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 156600,
       "name": "0044",
       "url": "https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd"
@@ -3450,7 +3450,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 119886,
       "name": "Como \u00c9 Que 'T\u00e1s",
       "url": "https://open.spotify.com/track/1XVH3Zq8adITMSEOA1d3Ia"
@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 180869,
       "name": "CORRETO",
       "url": "https://open.spotify.com/track/1YK4ZIYTzJce3e2jjCKBE4"
@@ -4076,6 +4076,24 @@
       "duration_ms": 213437,
       "name": "Desejos",
       "url": "https://open.spotify.com/track/2EDyvafmx73KbIKDtlrSLx"
+    },
+    {
+      "album": {
+        "name": "Lista dos N\u00e3o Convocados (Mixtape)",
+        "url": "https://open.spotify.com/album/0WxDcCImbaX1qups97EjxW"
+      },
+      "artists": [
+        {
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172509,
+      "name": "Despertador",
+      "url": "https://open.spotify.com/track/4rTczM6uL7w3tJKjTIUzza"
     },
     {
       "album": {
@@ -5579,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "FMX",
+        "url": "https://open.spotify.com/album/6aRcCMUtA50Zh9BFQSJcvu"
+      },
+      "artists": [
+        {
+          "name": "Chyna",
+          "url": "https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "FMX",
+      "url": "https://open.spotify.com/track/1rKQS6Zzs8z9cBi0zCpCdc"
+    },
+    {
+      "album": {
         "name": "Focado",
         "url": "https://open.spotify.com/album/7ztIRrLQxvrQqOmn1gTozt"
       },
@@ -6931,6 +6967,24 @@
     },
     {
       "album": {
+        "name": "J\u00e1 Entendi",
+        "url": "https://open.spotify.com/album/0Ahs6WqVuKBfZb8cnMHAI6"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156332,
+      "name": "J\u00e1 Entendi",
+      "url": "https://open.spotify.com/track/7FLWucanZJBBCLeWNRDTv9"
+    },
+    {
+      "album": {
         "name": "J\u00e1 Vou",
         "url": "https://open.spotify.com/album/7DDXhKNEvEuva0tXKsnWnQ"
       },
@@ -7980,7 +8034,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 233658,
       "name": "MAIS DO QUE ISSO",
       "url": "https://open.spotify.com/track/1Z22t9j79dSpffq7ioTJ6w"
@@ -8002,7 +8056,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 128576,
       "name": "Mais Que Ouro",
       "url": "https://open.spotify.com/track/5nYqioolhxHIsfIEoCPs3E"
@@ -8632,7 +8686,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 199708,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/3HwadJoXKOeYnzCQe0G140"
@@ -9070,6 +9124,24 @@
       "duration_ms": 192500,
       "name": "M\u00f3nica",
       "url": "https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g"
+    },
+    {
+      "album": {
+        "name": "M\u00f4 Amigo",
+        "url": "https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB"
+      },
+      "artists": [
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161887,
+      "name": "M\u00f4 Amigo",
+      "url": "https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl"
     },
     {
       "album": {
@@ -11476,6 +11548,32 @@
       "duration_ms": 128741,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/5UZA5YihP4l0OFmy3RlfVK"
+    },
+    {
+      "album": {
+        "name": "Pr\u00e9 Virou Festa",
+        "url": "https://open.spotify.com/album/0yWA7LGtzFOiHqHtd9Rtuf"
+      },
+      "artists": [
+        {
+          "name": "Dbraz",
+          "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
+        },
+        {
+          "name": "ROCHA.SNJ",
+          "url": "https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8"
+        },
+        {
+          "name": "Simba.",
+          "url": "https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164735,
+      "name": "Pr\u00e9 Virou Festa",
+      "url": "https://open.spotify.com/track/2sL6ARVxLy6Jal4XByoQ18"
     },
     {
       "album": {

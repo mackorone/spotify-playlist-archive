@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "album": {
         "name": "Anything You Say",
         "url": "https://open.spotify.com/album/3LJS13iiVWy31x8WhEumNA"
       },
@@ -1694,6 +1712,24 @@
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139975,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
     },
     {
       "album": {
@@ -3956,7 +3992,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -6172,10 +6208,32 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 157386,
       "name": "Halleluja",
       "url": "https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
       "album": {
@@ -13822,7 +13880,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -14916,7 +14974,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
@@ -16392,6 +16450,28 @@
       "duration_ms": 200255,
       "name": "Water - Remix",
       "url": "https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY"
+    },
+    {
+      "album": {
+        "name": "Wavy Baby",
+        "url": "https://open.spotify.com/album/33rzuTJRX0CgBpaPUiW0e0"
+      },
+      "artists": [
+        {
+          "name": "Kelian",
+          "url": "https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj"
+        },
+        {
+          "name": "4njuice",
+          "url": "https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114385,
+      "name": "Wavy Baby",
+      "url": "https://open.spotify.com/track/43Pvyc1UNBDF9yHrwbyfRH"
     },
     {
       "album": {

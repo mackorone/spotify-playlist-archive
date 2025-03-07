@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,925 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,757 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

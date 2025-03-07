@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E06AbSENEw.md) - [plain]
 
 > Le meilleur des années 2010 en 100 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,429 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,467 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

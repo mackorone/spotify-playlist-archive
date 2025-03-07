@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > South African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv?si=Bcz\-5Qg9RJSvtysyXHAJxw">Zamajobe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,969 likes - 60 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,069 likes - 60 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

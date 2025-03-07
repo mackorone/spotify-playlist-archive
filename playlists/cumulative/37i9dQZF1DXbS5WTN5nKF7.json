@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits ! Photo : Lola Young",
+  "description": "Le meilleur des hits avec Helena !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 165986,
       "name": "Chaque seconde (feat. M. Pokora)",
       "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
@@ -2310,6 +2310,28 @@
       "duration_ms": 170370,
       "name": "Gold",
       "url": "https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s"
+    },
+    {
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217380,
+      "name": "GOOD FEELiNGS",
+      "url": "https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 
 > The biggest songs in Latin America in 2019\. Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,065 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,108 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

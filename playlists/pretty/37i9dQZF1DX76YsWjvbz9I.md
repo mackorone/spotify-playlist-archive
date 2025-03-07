@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,356 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,396 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

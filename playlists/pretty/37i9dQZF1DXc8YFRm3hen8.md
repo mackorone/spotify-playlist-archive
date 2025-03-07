@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > La banda de sonido de tu día\. Foto: marilina Bertoldi y Juliana Gattas
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,659 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,671 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 79 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
 | 80 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 |
 
-Snapshot ID: `Z8EmzQAAAABpaB2UpJo7Bnj+VwLDk7D5`
+Snapshot ID: `Z8phSwAAAABvAeek3loH5BXeesGFYAZP`

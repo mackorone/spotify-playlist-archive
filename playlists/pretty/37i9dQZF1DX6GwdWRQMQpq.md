@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Sexyy Red & GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,219,660 likes - 51 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,219,966 likes - 51 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

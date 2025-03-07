@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Model/Actriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,660 likes - 113 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,664 likes - 113 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V?si=E54znhawR\_Kr\_3MBNc6jlA>TBabz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,289 likes - 101 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,303 likes - 101 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

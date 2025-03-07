@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,126 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,127 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

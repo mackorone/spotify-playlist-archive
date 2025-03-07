@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Mac Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,354,495 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,354,752 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 7 | [Switch Up](https://open.spotify.com/track/0bh9R4sWPfWlfAjsQlPLPI) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Switch Up](https://open.spotify.com/album/0Fl9DWlkdTo49fONygfWHa) | 2:40 |
 | 8 | [RUSSIAN ROULETTE\(I ADORE U\)](https://open.spotify.com/track/04YRSuoGZcAj9kj57c6utu) | [millkzy](https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR) | [EVER SINCE SHEFFIELD](https://open.spotify.com/album/4v0IxyTdW6n5yk3W37HpQw) | 3:21 |
 | 9 | [Suicide Doors \(feat\. Cordae\)](https://open.spotify.com/track/07ABUEnAPy0Hhc1XUMNMru) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Ravenite Social Club](https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g) | 2:41 |
-| 10 | [RiCH MAN DREAMS \(i\) \(ft\. Ab\-Soul\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
+| 10 | [RiCH MAN DREAMS \(i\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
 | 11 | [Thank God](https://open.spotify.com/track/54S14bFBWc0IphbARfwmx0) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Token of Appreciation](https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT) | 2:26 |
 | 12 | [Life Is Beautiful](https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:06 |
 | 13 | [Sorry Not Sorry](https://open.spotify.com/track/2MXjCVgXp2EQKONatP3wGK) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 3:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > Timeless sounds from your favourites and rising stars\. Cover: Nao
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,432 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,434 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

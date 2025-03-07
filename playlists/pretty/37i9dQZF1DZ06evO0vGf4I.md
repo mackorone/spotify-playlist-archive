@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,599,589 likes - 53 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,599,728 likes - 53 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

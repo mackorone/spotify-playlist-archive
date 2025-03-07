@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "160",
+        "url": "https://open.spotify.com/album/4gpMbozjYUGdc5ckkQ63VL"
+      },
+      "artists": [
+        {
+          "name": "Yael Selinger",
+          "url": "https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205535,
+      "name": "160",
+      "url": "https://open.spotify.com/track/1GKT0DSkBm7h6Q7sohvsKx"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d5\u05d3 \u05de\u05e9\u05e7\u05d0\u05d5\u05ea \u05d7\u05e8\u05d9\u05e4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK"
       },
@@ -196,6 +214,24 @@
       "duration_ms": 121500,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/4nwYbjn238n47DPCzmUReh"
+    },
+    {
+      "album": {
+        "name": "Black Eye",
+        "url": "https://open.spotify.com/album/295njq3mu85uparrz5upr0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145911,
+      "name": "Black Eye",
+      "url": "https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc"
     },
     {
       "album": {
@@ -534,7 +570,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 259000,
       "name": "Guess I'm Doing Fine",
       "url": "https://open.spotify.com/track/7c6Ax8PdoZfAVDqSQZ0zdw"
@@ -649,6 +685,32 @@
     },
     {
       "album": {
+        "name": "It's Ok",
+        "url": "https://open.spotify.com/album/3g3n658KWC6touzYDjjHe3"
+      },
+      "artists": [
+        {
+          "name": "Helfer",
+          "url": "https://open.spotify.com/artist/6ca6hQoFgRKbYyPURjPL0t"
+        },
+        {
+          "name": "Totemo",
+          "url": "https://open.spotify.com/artist/6tUQYwxSVGcNxUYvxIkqJg"
+        },
+        {
+          "name": "Age Is a Box",
+          "url": "https://open.spotify.com/artist/1O0pQLwyMDj4bq3SHtlqaQ"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "It's Ok",
+      "url": "https://open.spotify.com/track/1wbwAFuw1iQaYOHp3AQvmj"
+    },
+    {
+      "album": {
         "name": "Long Nails",
         "url": "https://open.spotify.com/album/70GbvgyQT8n60pYLGFTCzG"
       },
@@ -738,7 +800,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 214100,
       "name": "My Favorite",
       "url": "https://open.spotify.com/track/2qZe91uEYF5ALh5M7Nm7XX"
@@ -942,6 +1004,28 @@
       "duration_ms": 252456,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
+    },
+    {
+      "album": {
+        "name": "Running Out of Time",
+        "url": "https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW"
+      },
+      "artists": [
+        {
+          "name": "PA'AM",
+          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
+        },
+        {
+          "name": "Danny Kuttner",
+          "url": "https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180661,
+      "name": "Running Out of Time",
+      "url": "https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE"
     },
     {
       "album": {
@@ -1254,6 +1338,24 @@
       "duration_ms": 231000,
       "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05dc\u05d1\u05d9",
+        "url": "https://open.spotify.com/album/2LgPeo7Kk22ksXeNO5AA8R"
+      },
+      "artists": [
+        {
+          "name": "Sivan Talmor",
+          "url": "https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206670,
+      "name": "\u05d0\u05dc\u05d1\u05d9",
+      "url": "https://open.spotify.com/track/0uL2TjyNqgBgbXIxzqcv9y"
     },
     {
       "album": {
@@ -1720,7 +1822,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 229000,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
@@ -2047,6 +2149,32 @@
     },
     {
       "album": {
+        "name": "\u05d7\u05d5\u05d8\u05d9\u05dd \u05e9\u05dc \u05d6\u05d4\u05d1",
+        "url": "https://open.spotify.com/album/3jYBViIH4MsN3urfdS54ck"
+      },
+      "artists": [
+        {
+          "name": "\u05d3\u05d9\u05e1\u05e7\u05d5 \u05e9\u05de\u05e9",
+          "url": "https://open.spotify.com/artist/4mBO61c45z7qY1lgn7y8wN"
+        },
+        {
+          "name": "Hemi Rudner",
+          "url": "https://open.spotify.com/artist/73Cuv6pUbmERHKWEGD4ffj"
+        },
+        {
+          "name": "Shay Lahav",
+          "url": "https://open.spotify.com/artist/4FQvByblxy1jbXKDEcMiJJ"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177474,
+      "name": "\u05d7\u05d5\u05d8\u05d9\u05dd \u05e9\u05dc \u05d6\u05d4\u05d1",
+      "url": "https://open.spotify.com/track/4juGzoFQY7NBlarMsq7lAM"
+    },
+    {
+      "album": {
         "name": "\u05d7\u05dc\u05dc",
         "url": "https://open.spotify.com/album/2NDTjjozySEcqbidrga8eD"
       },
@@ -2236,7 +2364,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 318000,
       "name": "\u05d9\u05e9 \u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/40kcuw2ol7Ljm0HmIGGDcc"
@@ -2732,7 +2860,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 183750,
       "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
       "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
@@ -3616,7 +3744,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 159913,
       "name": "\u05e9\u05dc\u05d5\u05e9\u05ea \u05d4\u05e7\u05d5\u05e4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5XInMHM9wtgELT7TrFecwe"

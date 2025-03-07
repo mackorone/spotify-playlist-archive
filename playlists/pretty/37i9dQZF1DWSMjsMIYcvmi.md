@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 
 > Hey \(office\) DJ, turn the music up! 👩‍💻
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,694 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,699 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

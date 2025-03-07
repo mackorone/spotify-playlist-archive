@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Il rap è uno sport competitivo 🔥 Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,569 likes - 120 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,570 likes - 120 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

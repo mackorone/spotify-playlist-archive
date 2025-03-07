@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-226 songs - 11 hr 45 min
+227 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-06-27 | 2024-11-05 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-06-27 | 2024-11-02 |
 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-30 | 2025-02-28 |
+| [hvem kan seile foruten vind?](https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR), [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [hvem kan seile foruten vind?](https://open.spotify.com/album/4qcCIJbTFJUNY88g9tuMo3) | 3:23 | 2025-03-06 |  |
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-02-20 |  |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-06-27 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-27 |  |
@@ -123,7 +124,7 @@
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2025-02-14 |
 | [lemons](https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [lemons](https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2) | 3:14 | 2025-02-20 | 2025-03-06 |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-08 | 2025-01-18 |
-| [Ligge](https://open.spotify.com/track/3qaXZkaGdloxTLJsffgz1B) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Ligge](https://open.spotify.com/album/7LQybwVvjYq5byZoatPESJ) | 2:20 | 2025-02-13 |  |
+| [Ligge](https://open.spotify.com/track/3qaXZkaGdloxTLJsffgz1B) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Ligge](https://open.spotify.com/album/7LQybwVvjYq5byZoatPESJ) | 2:20 | 2025-02-13 | 2025-03-07 |
 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-04 | 2025-01-22 |
 | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww) | 3:09 | 2024-08-06 |  |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-27 | 2025-02-16 |

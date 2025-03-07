@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,571 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,566 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

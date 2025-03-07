@@ -2,9 +2,9 @@
 
 ### [Pop Radyo](https://open.spotify.com/playlist/37i9dQZF1DX9G2MXp8YYmm)
 
-> Popun sevilen isimleri\. Kapak: Berkay
+> Popun sevilen isimleri\. Kapak: Sena Şahin
 
-230 songs - 11 hr 30 min
+231 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 | 2024-06-27 |  |
 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-08-01 |  |
 | [Pardon](https://open.spotify.com/track/38iMOXptk023Z9IxRDo9iU) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Pardon](https://open.spotify.com/album/0f8xgUm651DRugB7bHi3l8) | 2:42 | 2025-02-20 |  |
+| [pişman...](https://open.spotify.com/track/1vHyuIpmhC2TWrQHWPNxBA) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [pişman...](https://open.spotify.com/album/1D8mP2XsFgTuFDsgXsyz0G) | 1:50 | 2025-03-06 |  |
 | [Rakıya Meze Olalım](https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Rakıya Meze Olalım](https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K) | 2:09 | 2024-10-03 | 2025-01-16 |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-06-27 | 2024-08-02 |
 | [Sahipsiz](https://open.spotify.com/track/0kxbEY08FagNJ6XSh1XHGo) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Sahipsiz](https://open.spotify.com/album/1NVLQP0ioRk7TnvZeYtp5p) | 2:59 | 2025-01-16 |  |

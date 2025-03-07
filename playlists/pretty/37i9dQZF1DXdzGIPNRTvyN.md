@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,672 likes - 195 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,478 likes - 195 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

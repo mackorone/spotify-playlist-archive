@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,975 likes - 75 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,028 likes - 75 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

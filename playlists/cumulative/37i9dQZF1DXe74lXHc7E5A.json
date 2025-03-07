@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Drake & PartyNextDoor",
+  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Hanumankind",
   "name": "Hype List",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "100 MILLION (feat. Tiwa Savage)",
       "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 180000,
       "name": "25",
       "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 127022,
       "name": "911",
       "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
@@ -498,8 +498,8 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
-      "duration_ms": 258106,
+      "date_removed": null,
+      "duration_ms": 258105,
       "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
       "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
     },
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 264179,
       "name": "All My Life (Burna Boy Remix)",
       "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 147133,
       "name": "Alpha Omega",
       "url": "https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 147746,
       "name": "BANDIT",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Belly",
       "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 192000,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "bread & butter",
       "url": "https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 138323,
       "name": "Chill Bae",
       "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 161684,
       "name": "Chocolate & Caramel",
       "url": "https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA"
@@ -2296,6 +2296,28 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
     },
     {
       "album": {
@@ -2415,7 +2437,7 @@
         },
         {
           "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/12KTYt5AkiDP3GL7QSXd6W"
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
         },
         {
           "name": "ODUMODUBLVCK",
@@ -2424,7 +2446,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 229440,
       "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
       "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
@@ -2464,7 +2486,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 182040,
       "name": "CRG (feat. Dave)",
       "url": "https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI"
@@ -2482,7 +2504,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 229186,
       "name": "Crocodile Tearz",
       "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
@@ -2726,6 +2748,24 @@
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
+      "album": {
+        "name": "Different Pattern",
+        "url": "https://open.spotify.com/album/4xGQkrkVUNM0X2tqjUdKze"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110924,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/7fLCROqSZ6vqVAbuYZnjVT"
     },
     {
       "album": {
@@ -3096,7 +3136,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 151578,
       "name": "EKWE",
       "url": "https://open.spotify.com/track/35sIpW2RtmVPZLbSsQCyJF"
@@ -3420,7 +3460,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 328085,
       "name": "Fela In Versace",
       "url": "https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3"
@@ -3478,7 +3518,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
@@ -3650,7 +3690,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -4046,7 +4086,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 185000,
       "name": "Greatness",
       "url": "https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr"
@@ -4218,7 +4258,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 194661,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
@@ -4550,7 +4590,7 @@
           "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
         },
         {
-          "name": "Bnxn",
+          "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         },
         {
@@ -4560,7 +4600,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
@@ -5022,7 +5062,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 166615,
       "name": "Jangrova (feat. Tribal Mark)",
       "url": "https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs"
@@ -5316,7 +5356,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 157560,
       "name": "Kilos Milos",
       "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
@@ -5742,7 +5782,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -6150,7 +6190,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 174693,
       "name": "Moi",
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
@@ -6734,7 +6774,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 241023,
       "name": "NOKIA",
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
@@ -6818,7 +6858,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 155500,
       "name": "NYEM EGO (feat. Jeriq)",
       "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
@@ -7269,6 +7309,36 @@
     },
     {
       "album": {
+        "name": "Oppress",
+        "url": "https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4"
+      },
+      "artists": [
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "DTG",
+          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Oppress",
+      "url": "https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT"
+    },
+    {
+      "album": {
         "name": "Options (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR"
       },
@@ -7284,7 +7354,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 152410,
       "name": "Options (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy"
@@ -7624,7 +7694,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 184077,
       "name": "PICANTO",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
@@ -8123,6 +8193,32 @@
     },
     {
       "album": {
+        "name": "Refund (Part 2)",
+        "url": "https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN"
+      },
+      "artists": [
+        {
+          "name": "Reeplay",
+          "url": "https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163034,
+      "name": "Refund (Part 2)",
+      "url": "https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -8236,7 +8332,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "ROAD RUNNERS (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
@@ -8332,6 +8428,24 @@
       "duration_ms": 237623,
       "name": "Run (feat. Tyga, 21 Savage & BIA)",
       "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
+    },
+    {
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173502,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
     },
     {
       "album": {
@@ -8464,7 +8578,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 272112,
       "name": "Search & Rescue",
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
@@ -8760,7 +8874,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
@@ -8980,7 +9094,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 162253,
       "name": "SPINNIN (Segway Remix)",
       "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
@@ -9020,7 +9134,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -9038,7 +9152,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
@@ -9186,7 +9300,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 208800,
       "name": "Style Rare (with Gunna)",
       "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
@@ -9710,7 +9824,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 256000,
       "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -9948,7 +10062,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 163404,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX"
@@ -10770,7 +10884,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm"
@@ -10854,7 +10968,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 230709,
       "name": "You Broke My Heart",
       "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=1WGiKzGST4eGYkuZQ2GkRg\">Tito M</a>, <a href=\"https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0?si=z7vj6MYoQ2uzk039a9-KmA\">Yuppe</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb?si=G_O9VVXCRf2L_A2fILvjGQ\">Ggoldie</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -4500,7 +4500,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 380251,
       "name": "Bayazi (feat. Mellow & Sleazy, Nobantu Vilakazi, Cowboii)",
       "url": "https://open.spotify.com/track/3mxQry8oUO3gvdz9sGkbud"
@@ -15509,6 +15509,24 @@
     },
     {
       "album": {
+        "name": "Jika V.T.S.K",
+        "url": "https://open.spotify.com/album/2HnB2wL4GK2t8Fi3WZOP70"
+      },
+      "artists": [
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424337,
+      "name": "Jika V.T.S.K",
+      "url": "https://open.spotify.com/track/0BBWOiHSbyqWbQQnLQIKDI"
+    },
+    {
+      "album": {
         "name": "Jikelele",
         "url": "https://open.spotify.com/album/3ofioz8MXtxJ9B0K5SmWCV"
       },
@@ -18652,6 +18670,44 @@
       "duration_ms": 454503,
       "name": "MaDlamini (feat. Mellow & Sleazy)",
       "url": "https://open.spotify.com/track/0X5qaCnHN98ELiqincjJwg"
+    },
+    {
+      "album": {
+        "name": "Mageba",
+        "url": "https://open.spotify.com/album/7f0Gc5CWtL0pYmaI07227C"
+      },
+      "artists": [
+        {
+          "name": "Ggoldie",
+          "url": "https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "DJ Exit",
+          "url": "https://open.spotify.com/artist/15sAWkoV7fE9oMkllDie9u"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344070,
+      "name": "Mageba",
+      "url": "https://open.spotify.com/track/0BerdHvQCuNcNAkDGB4Wkj"
     },
     {
       "album": {
@@ -26362,7 +26418,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 551579,
       "name": "Selimathunzi",
       "url": "https://open.spotify.com/track/2HiHffF7XArCZDDn5VNUGM"

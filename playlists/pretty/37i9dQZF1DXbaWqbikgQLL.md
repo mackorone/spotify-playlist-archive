@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaWqbikgQLL.md) - [plain]
 
 > Antes de entrar, permita salir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,570 likes - 150 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,651 likes - 150 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

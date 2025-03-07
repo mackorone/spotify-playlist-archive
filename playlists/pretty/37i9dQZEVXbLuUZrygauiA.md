@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,352 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,358 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 | 49 | [Ovidado](https://open.spotify.com/track/5hVO7cSq71rah1dPUgSb05) | [Anthony](https://open.spotify.com/artist/5GcK4KDGPGYQ7QbvMfVDHq) | [Ovidado](https://open.spotify.com/album/5z6EYp9P8bQSNO23VcfwOx) | 2:24 |
 | 50 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

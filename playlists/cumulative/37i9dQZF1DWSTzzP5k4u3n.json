@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Saga Mast.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Samuli Putro.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 163000,
       "name": "Banaanilaatikot",
       "url": "https://open.spotify.com/track/59RawMLP2mQCLu32rPnzjv"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 130834,
       "name": "En katso taakseni",
       "url": "https://open.spotify.com/track/2ICGnIMfrkLaXCQnX9XyZE"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 248698,
       "name": "Hautajaismuusikot",
       "url": "https://open.spotify.com/track/1lTKyfgZBIbaRrGIRG1Jmb"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 294293,
       "name": "Iso tunne siit\u00e4 ett\u00e4 ollaan tosi pieni\u00e4",
       "url": "https://open.spotify.com/track/5N8LMBUx36wU53rr1yKjVs"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 227153,
       "name": "Kaikesta puolet saat",
       "url": "https://open.spotify.com/track/1m6IUZGor6ZLJ59K2ZLWVD"
@@ -1756,6 +1756,24 @@
       "duration_ms": 337677,
       "name": "Karma Corrupted",
       "url": "https://open.spotify.com/track/5fv1YoBQm6rqR3CgcKYW05"
+    },
+    {
+      "album": {
+        "name": "POP // ROCK",
+        "url": "https://open.spotify.com/album/5J0IN6uIsLr3aVZaQa0Kp1"
+      },
+      "artists": [
+        {
+          "name": "Kissa",
+          "url": "https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211458,
+      "name": "Katoava kes\u00e4",
+      "url": "https://open.spotify.com/track/5J6A0U1hEQ4qT6WZL9Elvn"
     },
     {
       "album": {
@@ -1900,6 +1918,24 @@
       "duration_ms": 240769,
       "name": "Kiinni pid\u00e4n susta",
       "url": "https://open.spotify.com/track/1qnO39kSLufBc0OkHkf9rc"
+    },
+    {
+      "album": {
+        "name": "Kirveell\u00e4 p\u00f6yt\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/1SohoM5a6UTYKxDD5leK1W"
+      },
+      "artists": [
+        {
+          "name": "Lipa Liukkonen",
+          "url": "https://open.spotify.com/artist/5Da4s8A3uH3zRFONlLvtlG"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229414,
+      "name": "Kirveell\u00e4 p\u00f6yt\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/4J2w7EsV5K15TnGeAMsNTn"
     },
     {
       "album": {
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 195226,
       "name": "Kultareunus",
       "url": "https://open.spotify.com/track/0CvruITz7abOHTWpWVQ1B7"
@@ -2195,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Kun s\u00e4 meet",
+        "url": "https://open.spotify.com/album/3VGl0tSaUUdFCuQmYpMg6f"
+      },
+      "artists": [
+        {
+          "name": "Kuun Pime\u00e4 Puoli",
+          "url": "https://open.spotify.com/artist/4OGcEkcDOIphH3A5xR8XgP"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227461,
+      "name": "Kun s\u00e4 meet",
+      "url": "https://open.spotify.com/track/5NduGvwDyW0SOCljFpe0zw"
+    },
+    {
+      "album": {
         "name": "Kunhan tapahtuisi jotain",
         "url": "https://open.spotify.com/album/1TSOkaH5G1L7h547xEGpw7"
       },
@@ -2272,6 +2326,24 @@
       "duration_ms": 294600,
       "name": "Kuusamo",
       "url": "https://open.spotify.com/track/4Dj7m0piDFWivE7kFEg4Nx"
+    },
+    {
+      "album": {
+        "name": "Kuvat meist\u00e4 kaikista",
+        "url": "https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme"
+      },
+      "artists": [
+        {
+          "name": "Samuli Putro",
+          "url": "https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211175,
+      "name": "Kuvat meist\u00e4 kaikista",
+      "url": "https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX"
     },
     {
       "album": {
@@ -2394,7 +2466,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 168759,
       "name": "Laulu kaikille meille",
       "url": "https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g"
@@ -2819,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Milt\u00e4 tuntuu kun rakastaa",
+        "url": "https://open.spotify.com/album/6UkOXBAe4FAExJnSUBCJQf"
+      },
+      "artists": [
+        {
+          "name": "Jore Marjaranta",
+          "url": "https://open.spotify.com/artist/7nHSXwq9ZCP2btdSNc40k1"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206174,
+      "name": "Milt\u00e4 tuntuu kun rakastaa",
+      "url": "https://open.spotify.com/track/6yqnnLUPiD1HGoBEV34oOS"
+    },
+    {
+      "album": {
         "name": "Miss\u00e4 Silloin Oot",
         "url": "https://open.spotify.com/album/3TE9oc3L4aSytjIuWjNPGF"
       },
@@ -2873,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "Mit\u00e4 naapuri kelaa",
+        "url": "https://open.spotify.com/album/47emFP5R97iFtc4dnxIO3k"
+      },
+      "artists": [
+        {
+          "name": "Himanen",
+          "url": "https://open.spotify.com/artist/6M5wwNrSSsO5KGwoOCJAnz"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207335,
+      "name": "Mit\u00e4 naapuri kelaa",
+      "url": "https://open.spotify.com/track/7vLtI4pvw4XrK12KS7acQ5"
+    },
+    {
+      "album": {
         "name": "Mit\u00e4k\u00f6h\u00e4n meist\u00e4 j\u00e4\u00e4",
         "url": "https://open.spotify.com/album/3FgOyloBeaj8CavcYzK1mJ"
       },
@@ -2920,7 +3028,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 167624,
       "name": "Muiden kaa",
       "url": "https://open.spotify.com/track/1AmixbAuC1ZodABLxMriCG"
@@ -3032,6 +3140,28 @@
       "duration_ms": 220026,
       "name": "M\u00e4 en muutu miksik\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/5b1LCRyAG5Hqav7cDOyy5M"
+    },
+    {
+      "album": {
+        "name": "Kaikki tiet joita kuljin",
+        "url": "https://open.spotify.com/album/58k6ta39f5aIRWJuXMYRrc"
+      },
+      "artists": [
+        {
+          "name": "Anssi Kela",
+          "url": "https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG"
+        },
+        {
+          "name": "Rosa Ruu",
+          "url": "https://open.spotify.com/artist/00RPqOYPeWchKHwvqY01iA"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301080,
+      "name": "Nelj\u00e4s huhtikuuta (feat. Rosa Ruu)",
+      "url": "https://open.spotify.com/track/57cqku0vEW71BQkwocj37c"
     },
     {
       "album": {
@@ -3504,7 +3634,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 214706,
       "name": "Pid\u00e4 must huolta",
       "url": "https://open.spotify.com/track/4Tafll24hcEHzCHHNbyr3X"
@@ -3656,7 +3786,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 147349,
       "name": "Presidentti",
       "url": "https://open.spotify.com/track/4LWkJJS5WWP9hNnmTLU5Kj"
@@ -3728,7 +3858,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 194474,
       "name": "P\u00e4iv\u00e4ntasaaja",
       "url": "https://open.spotify.com/track/5JmxXTvUXxXquGWyDGatqr"
@@ -4182,10 +4312,28 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 212133,
       "name": "Siivin voimakkain - 2024",
       "url": "https://open.spotify.com/track/5Mu0a2raLctKyCCwkKgolk"
+    },
+    {
+      "album": {
+        "name": "Siivotaan",
+        "url": "https://open.spotify.com/album/3URkOUqQxY5eGZZ24AWpKy"
+      },
+      "artists": [
+        {
+          "name": "Saarisalo",
+          "url": "https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249109,
+      "name": "Siivotaan",
+      "url": "https://open.spotify.com/track/2uhNBuopsVKxASKsXufxLq"
     },
     {
       "album": {
@@ -4445,6 +4593,28 @@
     },
     {
       "album": {
+        "name": "Sun Silmist\u00e4 Aurinko Nousee",
+        "url": "https://open.spotify.com/album/5GKYWz1g4HXTsBFWv8lv1e"
+      },
+      "artists": [
+        {
+          "name": "Max Olavi & El\u00e4v\u00e4t Kuvat",
+          "url": "https://open.spotify.com/artist/280wSk35Poeg85y2oxb5xe"
+        },
+        {
+          "name": "Jepa Lambert",
+          "url": "https://open.spotify.com/artist/0x2sRpqcE6H2nZeYT6Gb1w"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212957,
+      "name": "Sun Silmist\u00e4 Aurinko Nousee",
+      "url": "https://open.spotify.com/track/2x9WxOczWrn52S5vrn9dHO"
+    },
+    {
+      "album": {
         "name": "Sun syd\u00e4n hakkaa mut",
         "url": "https://open.spotify.com/album/3mEUyjPWIALe2BEV2AF1pQ"
       },
@@ -4600,7 +4770,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 191509,
       "name": "Syyllinen syksyyn",
       "url": "https://open.spotify.com/track/39JntBIke9N6IncNf0t8e2"
@@ -4654,7 +4824,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 176385,
       "name": "s\u00f6k\u00f6",
       "url": "https://open.spotify.com/track/6tDGGkEOKrqTnlyDUyKkLd"
@@ -5526,7 +5696,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 214209,
       "name": "Wayne's World",
       "url": "https://open.spotify.com/track/6tMbYI2Gyu0JIZI96loy4c"

@@ -2,9 +2,9 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Sweet R&B straight out of Africa\. Cover: Lojay
+> Sweet R&B straight out of Africa\. Cover: Tems
 
-428 songs - 22 hr 44 min
+429 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 | 2022-08-18 | 2022-09-02 |
 | [Here With Me](https://open.spotify.com/track/3zTObKcN6vfo9teWsKCU34) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:17 | 2022-04-21 | 2023-06-17 |
 | [Hero](https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Journey to Idan](https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt) | 3:47 | 2023-10-13 | 2023-11-28 |
+| [High](https://open.spotify.com/track/3bIoJjL2VH2U9nInHQYHgv) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [High / Higher](https://open.spotify.com/album/1UeBb2lT6mMln7aveePUMR) | 2:57 | 2025-03-07 |  |
 | [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-24 | 2023-03-31 |
 | [Hold Me Tight](https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Hold Me Tight](https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz) | 3:19 | 2024-04-26 | 2024-08-16 |
 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 | 2024-04-19 |  |
@@ -187,7 +188,7 @@
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-02-24 | 2022-07-29 |
 | [In My Head](https://open.spotify.com/track/6P8ePyea7qMtpepDXBNkIO) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Tujiangalie \- EP](https://open.spotify.com/album/0L6Djo1F3h7l0UPtLdwAJu) | 3:38 | 2023-04-20 | 2023-06-09 |
 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 | 2022-08-25 | 2022-10-29 |
-| [In Your Absence](https://open.spotify.com/track/3HketnIKQG9qvE4YN8dKzp) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Patience & Heart / In your absence](https://open.spotify.com/album/09fe9REmQVxJNGIRBgpgfw) | 2:25 | 2024-11-29 |  |
+| [In Your Absence](https://open.spotify.com/track/3HketnIKQG9qvE4YN8dKzp) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Patience & Heart / In your absence](https://open.spotify.com/album/09fe9REmQVxJNGIRBgpgfw) | 2:25 | 2024-11-29 | 2025-03-07 |
 | [Is It Love?](https://open.spotify.com/track/2Lbfend8u6ccFu2zMFpPxF) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Is It Love?](https://open.spotify.com/album/4MgeGr34ni6NO5MEPAQ0Tz) | 3:27 | 2022-04-28 | 2022-07-30 |
 | [It Aint Me](https://open.spotify.com/track/74NvwSDJtsFGBPqcgodmMT) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf), [Chaise William](https://open.spotify.com/artist/2nYUNL1u2iruJZ80oPy5Rx) | [It Ain't Me](https://open.spotify.com/album/0q7MlqQeZu1eCvtUcuFMot) | 3:08 | 2024-06-28 |  |
 | [It's a Game](https://open.spotify.com/track/6qLJYOBiUJbKNHQLmL5a79) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:55 | 2025-01-31 |  |

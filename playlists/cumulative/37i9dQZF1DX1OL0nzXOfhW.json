@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "AFTERGLOW",
+        "url": "https://open.spotify.com/album/1AyGNMtcZOJEnTdmkgsOV3"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70588,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/5i2ebk1q837ky2fawuM5Ce"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1"
       },

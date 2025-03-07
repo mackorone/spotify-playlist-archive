@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,768 likes - 39 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 39 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

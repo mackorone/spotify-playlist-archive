@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,669 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,666 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,415 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,422 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 > This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,999 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,097 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

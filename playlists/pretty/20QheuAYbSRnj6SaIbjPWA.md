@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 105 songs - 6 hr 59 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 108 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,8 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 103 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 |
 | 104 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 |
 | 105 | [I Lust U](https://open.spotify.com/track/0QP0kYZhYHnO8fthKntc8Z) | [Neon Neon](https://open.spotify.com/artist/0GHcMuYNbDXb8cfJ7I5PsD), [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Stainless Style](https://open.spotify.com/album/4gwCfJlNCswVeVL4jvYkmA) | 3:00 |
+| 106 | [Present Tense](https://open.spotify.com/track/7KHQtpLpoIV3Wfu22YQT8y) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 5:06 |
+| 107 | [True Love Waits](https://open.spotify.com/track/07XaOyTS5hyaWiUK1Bc3bR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 4:43 |
+| 108 | [How Do You Sleep? \- Remastered 2010](https://open.spotify.com/track/7xsr2OppItxPB4whucYr2G) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 5:39 |
 
-Snapshot ID: `AAAA3pwkX7GIJqoXAHQ2SnWmW2uk39/4`
+Snapshot ID: `AAAA4VSBNMtVidYylZ9gmXhYrFGDtX/O`

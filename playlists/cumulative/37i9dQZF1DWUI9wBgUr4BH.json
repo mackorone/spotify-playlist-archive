@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Teddy Swims",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Aya Nakamura",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -904,10 +904,28 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 155409,
       "name": "BABY",
       "url": "https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo"
+    },
+    {
+      "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "album": {
@@ -1129,6 +1147,28 @@
     },
     {
       "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -1158,7 +1198,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 171869,
       "name": "Bed Chem",
       "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
@@ -1470,6 +1510,32 @@
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+    },
+    {
+      "album": {
+        "name": "Born Again (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
     },
     {
       "album": {
@@ -2292,7 +2358,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 155659,
       "name": "Comment te remplacer",
       "url": "https://open.spotify.com/track/4EHbJvvAV3WglgTCkeflah"
@@ -3209,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121417,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
       },
@@ -4026,7 +4110,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 171607,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN"
@@ -4424,7 +4508,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 198750,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
@@ -5054,7 +5138,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 265053,
       "name": "Je Vis Pour Elle (feat. Kendji Girac)",
       "url": "https://open.spotify.com/track/5PTRbObGxCYNkmzKcwY4RF"
@@ -6929,6 +7013,24 @@
     },
     {
       "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+    },
+    {
+      "album": {
         "name": "Nice to Meet You",
         "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
       },
@@ -6984,6 +7086,24 @@
       "duration_ms": 162413,
       "name": "Nice to meet you (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
+    },
+    {
+      "album": {
+        "name": "NINAO",
+        "url": "https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167813,
+      "name": "NINAO",
+      "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
     },
     {
       "album": {
@@ -7741,6 +7861,24 @@
     },
     {
       "album": {
+        "name": "Miroirs (Edition deluxe)",
+        "url": "https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "Petit Fr\u00e8re",
+      "url": "https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG"
+    },
+    {
+      "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD"
       },
@@ -8100,6 +8238,24 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
+    },
+    {
+      "album": {
+        "name": "P\u00e9lican",
+        "url": "https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165653,
+      "name": "P\u00e9lican",
+      "url": "https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd"
     },
     {
       "album": {
@@ -9006,7 +9162,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 151986,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c"
@@ -9995,6 +10151,24 @@
     },
     {
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171335,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
+    },
+    {
+      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -10280,7 +10454,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 142898,
       "name": "Underneath The Blue (feat. Joe Cleere)",
       "url": "https://open.spotify.com/track/0LbdqwL82dT9RWREPQd9zS"
@@ -10578,7 +10752,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 143111,
       "name": "Walking Away (Infinity)",
       "url": "https://open.spotify.com/track/74U0wa3qRWRmEtxlpIL17I"

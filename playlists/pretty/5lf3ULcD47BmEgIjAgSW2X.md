@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5lf3ULcD47BmEgIjAgSW2X.md) - [plain]
 
 > Features jazz instrumental music designed to help you focus.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 5,920 likes - 103 songs - 8 hr 32 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 5,919 likes - 103 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/5lf3ULcD47BmEgIjAgSW2X.md) - [plain]
 | 93 | [Amantes](https://open.spotify.com/track/5HLIz6u3IVh8isty0VZKSD) | [Jimmy Greene](https://open.spotify.com/artist/3j768jlsTvAm20LvqIJlqO) | [Flowers – Beautiful Life, Vol\. 2](https://open.spotify.com/album/1EomgFQSy6b302JZjP2P2i) | 5:30 |
 | 94 | [Gnossienne](https://open.spotify.com/track/32FkQ3pg0EE1fTmllduzZU) | [Nicolas Kummert](https://open.spotify.com/artist/3WaREj7K8PWoiG37bIdzEN), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [La diversité](https://open.spotify.com/album/3XxUcTiqiMod6Z7LaFSurq) | 3:42 |
 | 95 | [Intro to Urban Control](https://open.spotify.com/track/1aXDxJIB5uUNMxXE9o2Xqg) | [Phronesis](https://open.spotify.com/artist/3FtuExHiGsLvTnreIt7i2x), [Julián Argüelles](https://open.spotify.com/artist/690VpSsgYYadqrTwo46qoQ), [Frankfurt Radio Bigband](https://open.spotify.com/artist/5ElbcIDCAB1mhTzTlR9RN5), [Jasper Høiby](https://open.spotify.com/artist/3bYKDQEArrrYpRnGYMNvIN), [Ivo Neame](https://open.spotify.com/artist/6vqI3AN8VtjMJhVVWUojos), [Anton Eger](https://open.spotify.com/artist/3Tlbv3PR6Xxton3Yp5dSZF) | [The Behemoth](https://open.spotify.com/album/66zeKAzLjs48gY56eRQwr8) | 2:48 |
-| 96 | [Eternal Sunshine Creates a Desert](https://open.spotify.com/track/72p9YU9HxmYvKfdCsJgN21) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [The Roc](https://open.spotify.com/album/6cGr5ZDnCmUeZtqnoCDUDX) | 4:18 |
+| 96 | [Eternal Sunshine Creates a Desert](https://open.spotify.com/track/72p9YU9HxmYvKfdCsJgN21) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS), [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Helge Andreas Norbakken](https://open.spotify.com/artist/5oa2iDJMbJVVspUSq2IiAb) | [The Roc](https://open.spotify.com/album/6cGr5ZDnCmUeZtqnoCDUDX) | 4:18 |
 | 97 | [Tightrope](https://open.spotify.com/track/2iVZfEYGMBFNJPnkVihiBk) | [Billy Childs](https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR) | [Rebirth](https://open.spotify.com/album/3vxe6SBPBfC9e2fABafoU8) | 6:37 |
 | 98 | [Little's Theme](https://open.spotify.com/track/0uJr5n9g4Xc7y3bVogQdm9) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Moonlight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5evArWgt3lYByavFqzbo5x) | 0:59 |
 | 99 | [These Foolish Things](https://open.spotify.com/track/2cYfZPLCDHJ3eAimtLwHdA) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet is Back](https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM) | 4:55 |

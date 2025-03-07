@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 
 > puro rolón para amanecer y seguirla
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,460 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,552 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

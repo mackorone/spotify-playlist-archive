@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKfIuOAZrk7G.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,997 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,995 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKfIuOAZrk7G.md) - [plain]
 | 49 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 |
 | 50 | [Afsos](https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Afsos](https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa) | 3:11 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,540 likes - 100 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,542 likes - 100 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

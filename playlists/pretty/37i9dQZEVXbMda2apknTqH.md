@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,761 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,773 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 42 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
 | 43 | [2 hands](https://open.spotify.com/track/0B7tnohfi83RQquo2JRHrL) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:02 |
 | 44 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
-| 45 | [Too Sweet](https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 4:11 |
+| 45 | [Too Sweet](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/48qd9sU3xqYJbKaxHCciJL) | 4:11 |
 | 46 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
 | 47 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
 | 48 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 49 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 |
 | 50 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

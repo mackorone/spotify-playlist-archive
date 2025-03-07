@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

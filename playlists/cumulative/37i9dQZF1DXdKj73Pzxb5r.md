@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Rangkai
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Terbit Dari Selatan
 
-279 songs - 17 hr 44 min
+282 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Baby Don't You Cry](https://open.spotify.com/track/6cKhgpOFockOhNuzYALLKG) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Baby Don't You Cry](https://open.spotify.com/album/4fjpqKEFblSXja5LW7JTPw) | 2:56 | 2024-06-27 | 2024-08-02 |
 | [Be My Bee](https://open.spotify.com/track/0tviaBrX0d4oi6eX8VmRF0) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Be My Bee](https://open.spotify.com/album/4LRTgGRSpf8sFtwLpzPLYl) | 3:16 | 2025-02-13 |  |
 | [Benalu](https://open.spotify.com/track/2nVr0SjpmGL1BNaYmRXE2S) | [Peonies](https://open.spotify.com/artist/7AwVFAfR7FOu8r4oZ8vwOp) | [Benalu](https://open.spotify.com/album/3COWA1s84wKsrE8jBsalJY) | 3:57 | 2025-02-13 |  |
+| [Beralih](https://open.spotify.com/track/2idjIFh2881kQFEMNOvKSo) | [Terbit Dari Selatan](https://open.spotify.com/artist/2nydh1CUw2nxO9LYt7y3J0) | [Beralih](https://open.spotify.com/album/0geNK6W1wTH44xPKxTDw0c) | 4:12 | 2025-03-06 |  |
 | [Beranilah Melawan](https://open.spotify.com/track/2svN10V6fzLbrrKlJYvVKq) | [Dialog Dini Hari](https://open.spotify.com/artist/4gJg421y4bUEvBAMwND149) | [Beranilah Melawan](https://open.spotify.com/album/11sFBkQkbQF7tmPQMiogre) | 4:14 | 2024-09-05 | 2024-12-14 |
 | [Berhasil](https://open.spotify.com/track/4gpG3srdgMXvQUmtXkTlPh) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Berhasil](https://open.spotify.com/album/0haj1kRwOg3FAmaItrFEzm) | 2:52 | 2025-02-13 |  |
 | [Beri Waktu Hidup Tuk Tumbuh](https://open.spotify.com/track/0AM7XbaUa4fKp9L9afolH5) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Beri Waktu Hidup Tuk Tumbuh](https://open.spotify.com/album/4UcYNXkEEDA7LG3KE2h9wi) | 4:14 | 2025-02-13 |  |
@@ -43,7 +44,7 @@
 | [Blooming Day](https://open.spotify.com/track/5NvGxDkpDYbLcIAjWKQ64L) | [Mountain Moves](https://open.spotify.com/artist/34gWE9BvlEeHV1HMEjmfGV) | [Blooming Day](https://open.spotify.com/album/7mqXHShGnQtoTXJ2KLxed8) | 2:36 | 2024-10-07 | 2025-01-24 |
 | [Blues dari Rumah](https://open.spotify.com/track/75SPAZgHvdQ72a0MwFb1ev) | [Christabel Annora](https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq) | [Sudut Kamar](https://open.spotify.com/album/2WXRlR4QoYDhmD7OZsgcI9) | 2:25 | 2024-08-09 | 2024-10-04 |
 | [Boy](https://open.spotify.com/track/0ZTmXwcJHScpFKYvpn1GxY) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO) | [Boy](https://open.spotify.com/album/5C94LDJzlNnEyViDX8GQiQ) | 3:44 | 2024-08-29 | 2024-11-08 |
-| [Bunga Mawas](https://open.spotify.com/track/6W80U6x8yW8JoeOQysSuG1) | [Rigaskara](https://open.spotify.com/artist/2cfQKHwOPRF2UyEiKLexPW) | [Bunga Mawas](https://open.spotify.com/album/58OsknBLelN6eMs7DIRcWQ) | 3:03 | 2024-10-07 |  |
+| [Bunga Mawas](https://open.spotify.com/track/6W80U6x8yW8JoeOQysSuG1) | [Rigaskara](https://open.spotify.com/artist/2cfQKHwOPRF2UyEiKLexPW) | [Bunga Mawas](https://open.spotify.com/album/58OsknBLelN6eMs7DIRcWQ) | 3:03 | 2024-10-07 | 2025-03-07 |
 | [Burn](https://open.spotify.com/track/0yR1fy72LIFLQqfjVVnFhN) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Burn](https://open.spotify.com/album/75YDVoGjHMD7r7OY5vJEIm) | 3:07 | 2024-06-27 | 2024-08-30 |
 | [Burner](https://open.spotify.com/track/2x2CSutqHcnAGNbewINTy0) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Balancing Act](https://open.spotify.com/album/7qxu4XZfchLLdmXKOh84xs) | 2:43 | 2024-10-31 | 2025-02-14 |
 | [By the Sea](https://open.spotify.com/track/6Ntc7YusEmJnb0IzJkCcZz) | [Humsikk](https://open.spotify.com/artist/48SOu6mhQKKdUpM8CAHTfc), [Amy Amanda](https://open.spotify.com/artist/3qE5P0cHaCusgOluEhpOrE), [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy) | [By the Sea](https://open.spotify.com/album/05Gp2SBwGUUxpNiwgEFOCo) | 5:01 | 2024-11-28 | 2025-02-14 |
@@ -99,6 +100,7 @@
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-07-11 | 2024-11-29 |
 | [Gemuruh Riuh](https://open.spotify.com/track/1IpJu8YwAlc1ozSxXAyxl8) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Gemuruh Riuh](https://open.spotify.com/album/1kGJDqAiFyNuAMmxtFd0Ao) | 4:41 | 2024-06-27 |  |
 | [Good Times](https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Good Times](https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz) | 3:13 | 2024-07-04 | 2024-11-29 |
+| [Gumam](https://open.spotify.com/track/7kGQoEXrUR7aBIkgJCwEnZ) | [Iksan Skuter](https://open.spotify.com/artist/2M0JEUzgcRX62pMAVlhpxy) | [VIS A VIS](https://open.spotify.com/album/0dC1ZaxZ1BCEM3C5Au8yeX) | 4:32 | 2025-03-06 |  |
 | [Harap](https://open.spotify.com/track/6Chsst9NID5A8otlE0Gacz) | [Mountain Moves](https://open.spotify.com/artist/34gWE9BvlEeHV1HMEjmfGV) | [Mountain Moves](https://open.spotify.com/album/2QrkEaT5wxdCrAiG1QLoDz) | 3:05 | 2024-10-31 | 2025-01-03 |
 | [Harapan, Pt\. 3](https://open.spotify.com/track/42stYHbwsVEe8hpgoiHozN) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy) | [Harapan](https://open.spotify.com/album/5Me8TkPJQLbJGt1WzOizpQ) | 4:26 | 2024-06-27 | 2024-09-06 |
 | [Hari Hari Musik](https://open.spotify.com/track/33CQlRUmCOYQS7dQCMHpDw) | [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Hari Hari Musik](https://open.spotify.com/album/43MqWpLfqpeVs6EBYmhEwi) | 4:46 | 2024-06-27 | 2024-08-02 |
@@ -156,9 +158,10 @@
 | [Lost \- Remastered](https://open.spotify.com/track/2T01si7GbNoELB3pMG4GSj) | [Frys](https://open.spotify.com/artist/4lCBdUlETFSzE8JhSHyhyJ) | [La Journée](https://open.spotify.com/album/6MwK3P1HHWGBQAK7Wl9yq8) | 2:52 | 2024-11-28 | 2025-01-03 |
 | [Lost In A Maze](https://open.spotify.com/track/6kvAnBR8HBGIG73ASyhF5Z) | [Incircle.](https://open.spotify.com/artist/6N1cdKDau7Es37PJzDcBiI) | [Lost In A Maze](https://open.spotify.com/album/60eBVoIjdn8xemWPWFSljj) | 5:28 | 2024-06-27 | 2024-07-12 |
 | [Louder](https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Louder](https://open.spotify.com/album/0yx4JsRKHVe7JLgKIyebOp) | 3:00 | 2024-06-27 | 2024-08-17 |
-| [Love Or Lust](https://open.spotify.com/track/4xLcwgJupO7t7YgROCTB2m) | [KYNYA](https://open.spotify.com/artist/4zy1Zb5mi7hSWc7MOFevU8) | [Twisted Neurons](https://open.spotify.com/album/0ScRGqhhBGXryDEtjr8Sc5) | 4:15 | 2024-10-18 |  |
+| [Love Or Lust](https://open.spotify.com/track/4xLcwgJupO7t7YgROCTB2m) | [KYNYA](https://open.spotify.com/artist/4zy1Zb5mi7hSWc7MOFevU8) | [Twisted Neurons](https://open.spotify.com/album/0ScRGqhhBGXryDEtjr8Sc5) | 4:15 | 2024-10-18 | 2025-03-07 |
 | [Love Song \- Sped Up](https://open.spotify.com/track/2a6oxLAHXfGAhgtdQc31f7) | [Astera](https://open.spotify.com/artist/4JnHEguLziouTWp1brStli), [Shaumil Kamilia](https://open.spotify.com/artist/5NkWOO2EW1nRzY0EusrOlz) | [Love Song \(Sped Up\)](https://open.spotify.com/album/5dbOQnPfLLdMCU23rL32UA) | 3:48 | 2024-08-29 | 2024-11-01 |
 | [Lovely Echoes](https://open.spotify.com/track/2aASuMToTrUrpNHGI8vw0x) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX) | [Lovely Echoes](https://open.spotify.com/album/177PBhXJIjhoMgU7AFLst0) | 3:58 | 2024-10-07 | 2025-01-03 |
+| [Mangu](https://open.spotify.com/track/0wULafSHeHYZFu54R9ZFRJ) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Mangu](https://open.spotify.com/album/2YwOLrlwjH1eG8j40FiXDQ) | 4:22 | 2025-03-06 |  |
 | [Mantra Puja](https://open.spotify.com/track/3DHae16zH3B8OwXkPugwdN) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Mantra Puja](https://open.spotify.com/album/1t64iPu6LnJhZ7NRov6nMf) | 5:25 | 2024-06-27 |  |
 | [Manusia Dalam Tanda Tanya](https://open.spotify.com/track/5znaJbleJp9FEx5g4W4F6N) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Manusia Dalam Tanda Tanya](https://open.spotify.com/album/0ou7Zm0gbBchox88sGzEoL) | 3:09 | 2024-06-27 | 2024-08-30 |
 | [MARAH\-MARAH](https://open.spotify.com/track/3ErD6aQGZYhN2BJqCBNMqw) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [MARAH\-MARAH](https://open.spotify.com/album/3tfnS60OXqXWxRj8GCq0SF) | 3:47 | 2025-02-13 |  |
@@ -232,7 +235,7 @@
 | [Simpul](https://open.spotify.com/track/5Szv2HkFVcUMlvvAm1Vl3n) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Katus](https://open.spotify.com/album/6PF9TG0ciBduMnYSOAXfJt) | 3:51 | 2024-07-24 |  |
 | [SKRD \(SAD KISSES, RECKLESS DREAMS\)](https://open.spotify.com/track/6lKVc8qLoE1Xm6OtKc8IGI) | [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr) | [SKRD \(SAD KISSES, RECKLESS DREAMS\)](https://open.spotify.com/album/2RxGItaz6P4JVx900w0kh8) | 3:18 | 2024-07-19 | 2024-09-06 |
 | [Slippery](https://open.spotify.com/track/3vRjjN0CkUdfREnSja3Q0i) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Slippery](https://open.spotify.com/album/420j8oB94KH2s8007O1NNU) | 3:24 | 2024-07-19 | 2024-09-06 |
-| [so much to say in this road](https://open.spotify.com/track/6LLjhhhjf8wwjYs26ivEgr) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [so much to say](https://open.spotify.com/album/2irR1pTNBD966o7TcgJ2mV) | 3:14 | 2024-10-10 |  |
+| [so much to say in this road](https://open.spotify.com/track/6LLjhhhjf8wwjYs26ivEgr) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [so much to say](https://open.spotify.com/album/2irR1pTNBD966o7TcgJ2mV) | 3:14 | 2024-10-10 | 2025-03-07 |
 | [Sofa](https://open.spotify.com/track/6T0TCXAjAClGjtRrtXNCCj) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Sofa](https://open.spotify.com/album/3As3ggTCinS2YTULKru48j) | 4:54 | 2025-02-20 |  |
 | [special wishes 3](https://open.spotify.com/track/4n2F4nUFAEZwYNJ5dFQ8CU) | [Kareem Soenharjo](https://open.spotify.com/artist/3a8I3dOLEe0Mliys7Jaxdp) | [special wishes 3](https://open.spotify.com/album/2hVfef0fTfby543LtGPmgP) | 2:38 | 2024-12-13 | 2025-02-21 |
 | [Stay Asleep](https://open.spotify.com/track/5yHboJF2EN6Z3s1EPKOF1I) | [Hollywood Nobody](https://open.spotify.com/artist/227hPsCkg7IeGxtgboqx62) | [Stay Asleep](https://open.spotify.com/album/2z5K2ZTbr1i20HaniQHp0S) | 3:20 | 2024-06-27 | 2024-07-12 |

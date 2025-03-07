@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,916 likes - 120 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,374 likes - 120 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

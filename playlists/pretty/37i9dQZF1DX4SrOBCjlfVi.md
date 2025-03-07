@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Skrilla, BossMan Dlow, Youngboy Never Broke Again and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,271 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,356 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 27 | [Cheat Codes \(feat\. Bossman Dlow\)](https://open.spotify.com/track/4zKbVlGsYugBZZsqHDSXy4) | [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Porch 2 The Pent](https://open.spotify.com/album/0F61AfpclDACL7540yHqY0) | 3:14 |
 | 28 | [Hell Woods 2](https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hell Woods 2](https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic) | 3:10 |
 | 29 | [I Might Be \(feat\. Michael Prince\)](https://open.spotify.com/track/7M4kPlrBBAafltT5tY3DLf) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Mike G Beatz](https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb), [Michael Prince](https://open.spotify.com/artist/2fHlRBNOU7dkeZ2nOFBewO) | [I Might Be \(feat\. Michael Prince\)](https://open.spotify.com/album/1zr37zJFBR9r0uYDa7YDfz) | 3:28 |
-| 30 | [RiCH MAN DREAMS \(i\) \(ft\. Ab\-Soul\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
+| 30 | [RiCH MAN DREAMS \(i\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
 | 31 | [CEMETERY lanterns](https://open.spotify.com/track/0xaloe0I542PKzVJqAQnca) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [CEMETERY lanterns](https://open.spotify.com/album/1nuh4LbgW3jcalOcmF17d2) | 3:45 |
 | 32 | [Cross The Waters \(feat\. Hit\-Boy\)](https://open.spotify.com/track/3i2PVghBZ1GSP1j8V2eDqD) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [I Love You Again](https://open.spotify.com/album/0VaQ1RXsmUHqIFzftegVbQ) | 3:05 |
 | 33 | [Free Car](https://open.spotify.com/track/7GAz71zpIG76OkdoAihlHQ) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Free Car](https://open.spotify.com/album/3nhXOAe2Y7VRIxfIyEQEe5) | 3:31 |

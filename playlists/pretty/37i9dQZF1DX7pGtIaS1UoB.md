@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,771 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,776 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 74 | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ) | [洋蔥](https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw) | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i) | 3:48 |
 | 75 | [哈尼](https://open.spotify.com/track/1JzrHJEqu1966vRx8vAaoP) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [哈尼](https://open.spotify.com/album/40VT86rXZCTHUPXukA467i) | 3:42 |
 
-Snapshot ID: `Z8CMGQAAAABvGG9jkdcdQW5KHcO6Rths`
+Snapshot ID: `Z8nGoQAAAAAefLb9uKNjixxZzu3HxDhI`

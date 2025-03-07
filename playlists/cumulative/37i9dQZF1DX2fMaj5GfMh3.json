@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: RANI",
+  "description": "De nieuwste pop songs. Cover: OLIVIA",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -5225,6 +5225,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239720,
+      "name": "Garden Of Eden",
+      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+    },
+    {
+      "album": {
         "name": "Gatekeeper",
         "url": "https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB"
       },
@@ -7934,10 +7952,28 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 213785,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/2C6hJnWrBUHyJjvR9TAIv7"
+    },
+    {
+      "album": {
+        "name": "SABOTAGE",
+        "url": "https://open.spotify.com/album/6WERhl4Y0Qi82Qu45eZVs6"
+      },
+      "artists": [
+        {
+          "name": "CHARLES",
+          "url": "https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207005,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/5ZmVsgO2AcdogAtRewlEAi"
     },
     {
       "album": {
@@ -10755,6 +10791,24 @@
     },
     {
       "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169331,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
+    },
+    {
+      "album": {
         "name": "3.2",
         "url": "https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI"
       },
@@ -11900,6 +11954,24 @@
       "duration_ms": 233612,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0fvIQtkk9ikyFRu0oWez4B"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO"
+      },
+      "artists": [
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Remains",
+      "url": "https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX"
     },
     {
       "album": {
@@ -15215,6 +15287,24 @@
     },
     {
       "album": {
+        "name": "waterproof",
+        "url": "https://open.spotify.com/album/39D50o3nLmMMbFv6A9S0dU"
+      },
+      "artists": [
+        {
+          "name": "Anna-Rose Clayton",
+          "url": "https://open.spotify.com/artist/12QHr622V8nZ38fZ34dENS"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183132,
+      "name": "waterproof",
+      "url": "https://open.spotify.com/track/2danGLdyx6GyZIhNMgxqvu"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -15738,10 +15828,32 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 189806,
       "name": "With You",
       "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
+    },
+    {
+      "album": {
+        "name": "With You (with Sofia Camara)",
+        "url": "https://open.spotify.com/album/703OfuxHtlcsnrdZvAjkan"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188876,
+      "name": "With You (with Sofia Camara)",
+      "url": "https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67"
     },
     {
       "album": {

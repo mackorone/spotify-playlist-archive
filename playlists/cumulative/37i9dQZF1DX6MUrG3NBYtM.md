@@ -2,9 +2,9 @@
 
 ### [Indie XL](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
 
-> De beste Indie & Alternative\. Cover: Hiqpy
+> De beste Indie & Alternative\. Cover: Sylvie Kreusch
 
-158 songs - 9 hr 26 min
+161 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [a great escape](https://open.spotify.com/track/6FzaEGFfG3mVPPQCKBLkFU) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a great escape](https://open.spotify.com/album/4qg53329LKLOYckoAyer2D) | 3:10 | 2024-09-26 | 2024-10-04 |
 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 | 2025-01-06 |  |
 | [Angel Face](https://open.spotify.com/track/005k50cKNdWjOitdP6Y6jz) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Angel Face](https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI) | 3:32 | 2024-06-26 | 2024-11-07 |
-| [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-02-06 |  |
+| [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-02-06 | 2025-03-07 |
 | [Anyone, Anything](https://open.spotify.com/track/3sKOFIxANNUQvScMAuZrjz) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Anyone, Anything](https://open.spotify.com/album/2le1dcsSTG2r8wSh3vsHhB) | 2:29 | 2024-11-06 | 2025-02-07 |
 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 | 2024-10-03 | 2025-01-24 |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-09-26 | 2024-10-04 |
@@ -30,12 +30,13 @@
 | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2025-01-16 |  |
 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-06-26 | 2024-11-07 |
 | [Dead On The Money](https://open.spotify.com/track/2wQHKNtbt27tIawFXnpsAF) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Dead On The Money](https://open.spotify.com/album/43EzvE87hJGfpZiYcD1HSU) | 2:42 | 2024-06-26 | 2024-10-04 |
-| [Digitaline](https://open.spotify.com/track/6Hmp32UZ6zhekOdlH2qFA9) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Digitaline](https://open.spotify.com/album/7nuek3x9WHIOFw5auG7TmN) | 4:32 | 2024-10-03 |  |
+| [Digitaline](https://open.spotify.com/track/6Hmp32UZ6zhekOdlH2qFA9) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Digitaline](https://open.spotify.com/album/7nuek3x9WHIOFw5auG7TmN) | 4:32 | 2024-10-03 | 2025-03-07 |
 | [Don’t Say It’s Over](https://open.spotify.com/track/6PrOPwz8YdN4idSUwPffRh) | [Gaz Coombes](https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx) | [Don't Say It's Over](https://open.spotify.com/album/72yH1PXnzGt8Gs1OPPUVqx) | 3:46 | 2024-06-26 | 2024-07-12 |
 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 | 2024-06-26 | 2025-01-07 |
 | [Down The Rabbit Hole](https://open.spotify.com/track/23opA2C2jQS10uBL4DmQv4) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Down The Rabbit Hole](https://open.spotify.com/album/2cXmUukaT3vR1INZOajMTd) | 3:15 | 2024-06-26 | 2024-11-15 |
 | [DRIVE ME CRAZY](https://open.spotify.com/track/7xF8oyiBBOwgwiwPN9JRFx) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [DRIVE ME CRAZY](https://open.spotify.com/album/0cFljihYG2lv3kGCygyYFm) | 2:45 | 2024-09-26 | 2024-11-23 |
 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 | 2024-06-26 | 2024-09-25 |
+| [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-03-06 |  |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-06-26 | 2024-11-07 |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-07-11 | 2025-01-14 |
 | [Feeling Alright](https://open.spotify.com/track/2ImmcMcg2xlKwKXIzinlKK) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Feeling Alright](https://open.spotify.com/album/4yKCw9bersno18GJdoQDpI) | 3:37 | 2024-06-26 | 2024-09-25 |
@@ -54,7 +55,7 @@
 | [how bad could it be](https://open.spotify.com/track/4Dj8VDoJPIYkryOKrJdI0e) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:08 | 2024-06-26 | 2024-11-07 |
 | [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-01-23 |  |
 | [Hungry](https://open.spotify.com/track/4fECwnyeUV7tFEwIsMmPBv) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Orange Skyline](https://open.spotify.com/album/1cZw7eM6QA6xt1dWKIjWL6) | 2:50 | 2024-06-26 | 2024-07-12 |
-| [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 | 2024-11-22 |  |
+| [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 | 2024-11-22 | 2025-03-07 |
 | [I Like Boys](https://open.spotify.com/track/6R3uOuN5VN0BEzbtA2mKH4) | [Indian Askin](https://open.spotify.com/artist/0LMHkT69H40YY2x8GHJiD6) | [Lonely Citizen](https://open.spotify.com/album/6TiciGAyXjDDXi1ofxY3ru) | 2:52 | 2024-06-26 | 2024-09-27 |
 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 | 2025-01-06 |  |
 | [If You Would Prove Me Wrong Now](https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [If You Would Prove Me Wrong Now](https://open.spotify.com/album/2O9T2PFFsswlLkoe9dkh0q) | 3:37 | 2024-11-06 |  |
@@ -124,6 +125,7 @@
 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 | 2025-02-06 |  |
 | [See What Sticks](https://open.spotify.com/track/1kWMfZuciYaWSYIa4QrbKT) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Hell Go Rhythm](https://open.spotify.com/album/4EwrO3QrAG3IywH5jX1fsc) | 3:18 | 2025-01-06 |  |
 | [Shades](https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Shades](https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu) | 3:17 | 2024-06-26 | 2025-01-07 |
+| [Shaking Shoulder](https://open.spotify.com/track/1zOpsnW07jNmNAOu0qDRoQ) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/6FaSba3ItIHnC6B0gyOuWz) | 3:10 | 2025-03-06 |  |
 | [Shirt](https://open.spotify.com/track/749fYL6VeBCQM1518NYrJ2) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Launch The Rocket](https://open.spotify.com/album/0uc3RRD7UYqSX0Pkk8SSY1) | 2:42 | 2025-02-21 |  |
 | [Sick Of The Blues](https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Sick Of The Blues](https://open.spotify.com/album/300fGC25ykyxbLrazATeMP) | 3:23 | 2024-11-06 | 2025-01-07 |
 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 | 2024-06-26 | 2025-01-17 |
@@ -137,6 +139,7 @@
 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 | 2024-08-28 | 2025-01-14 |
 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-07-11 | 2024-08-29 |
 | [Strawberry](https://open.spotify.com/track/6556dVFzfiI5MK1lb2PH5t) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Strawberry](https://open.spotify.com/album/3SbYi9fNBxoTSpaVrz4jFO) | 4:13 | 2024-10-18 | 2025-02-07 |
+| [Sweet Love \(coconut\)](https://open.spotify.com/track/4klmKtdoQRFiUy81avReWA) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:42 | 2025-03-06 |  |
 | [talk shit](https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:13 | 2024-08-01 | 2025-01-31 |
 | [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/track/6rpNv2vLGet7q5p0Ct0imO) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/album/1OHKmjvGBdmlj6hZDiYCON) | 3:14 | 2024-11-04 |  |
 | [The Cause](https://open.spotify.com/track/2F7eZfbL4ANiCs3Z8KXawS) | [Tramhaus](https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB) | [The First Exit](https://open.spotify.com/album/7rFOgNWw2iOOCpIPbxQo8c) | 3:43 | 2024-12-19 | 2025-02-28 |

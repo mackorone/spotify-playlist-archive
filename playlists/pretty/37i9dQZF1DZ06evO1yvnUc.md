@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 
 > This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,805 likes - 49 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,893 likes - 49 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

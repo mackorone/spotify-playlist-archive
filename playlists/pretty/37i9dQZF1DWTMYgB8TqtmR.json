@@ -1,31 +1,35 @@
 {
   "description": "Hot Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 880659,
+  "num_followers": 880622,
   "original_name": "Hot Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ba7QAAAAD0YVCaO3kEAyo149cC5bb5",
+  "snapshot_id": "Z8opBQAAAAB1+WwRL6RxR/qACt6Voe8G",
   "tracks": [
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
-        "name": "Bara Bada Bastu",
-        "url": "https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON"
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
       "artists": [
         {
-          "name": "KAJ",
-          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 166880,
-      "name": "Bara Bada Bastu",
-      "url": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Bullerbyn \u00e4r d\u00f6d",
         "url": "https://open.spotify.com/album/1O6p1ZEHM8cCQYv3cZfYdq"
@@ -41,23 +45,7 @@
       "url": "https://open.spotify.com/track/50tyzSlh6cGO2WIMilA6Y3"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
-      "album": {
-        "name": "On and On and On",
-        "url": "https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj"
-      },
-      "artists": [
-        {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
-        }
-      ],
-      "duration_ms": 179930,
-      "name": "On and On and On",
-      "url": "https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO"
-    },
-    {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Sorry I'm Here For Someone Else",
         "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
@@ -73,7 +61,39 @@
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
+      "album": {
+        "name": "On and On and On",
+        "url": "https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 179930,
+      "name": "On and On and On",
+      "url": "https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO"
+    },
+    {
+      "added_at": "2025-03-06 23:00:21",
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "San Francisco Boy",
         "url": "https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb"
@@ -93,7 +113,23 @@
       "url": "https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
+      "album": {
+        "name": "Bara Bada Bastu",
+        "url": "https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON"
+      },
+      "artists": [
+        {
+          "name": "KAJ",
+          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Bara Bada Bastu",
+      "url": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
+    },
+    {
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
@@ -109,23 +145,7 @@
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
-      "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 180032,
-      "name": "Revolving door",
-      "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
-    },
-    {
-      "added_at": "2025-03-04 10:50:21",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Bop",
         "url": "https://open.spotify.com/album/7GqD8aNB4BFJnOIyFM7BRr"
@@ -141,7 +161,27 @@
       "url": "https://open.spotify.com/track/1KwmjwEfQeMnoNR121rzBy"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
+      "album": {
+        "name": "Wavy Baby",
+        "url": "https://open.spotify.com/album/33rzuTJRX0CgBpaPUiW0e0"
+      },
+      "artists": [
+        {
+          "name": "Kelian",
+          "url": "https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj"
+        },
+        {
+          "name": "4njuice",
+          "url": "https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP"
+        }
+      ],
+      "duration_ms": 114385,
+      "name": "Wavy Baby",
+      "url": "https://open.spotify.com/track/43Pvyc1UNBDF9yHrwbyfRH"
+    },
+    {
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Skriker mitt namn",
         "url": "https://open.spotify.com/album/3vYIwRY2034ADqRskGJpFr"
@@ -157,7 +197,23 @@
       "url": "https://open.spotify.com/track/3jGTLWpILJexFMVibAjij9"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 180032,
+      "name": "Revolving door",
+      "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
+    },
+    {
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
@@ -173,7 +229,7 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
@@ -189,31 +245,7 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
-      "album": {
-        "name": "Call Me When You Break Up (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 126831,
-      "name": "Call Me When You Break Up (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
-    },
-    {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "QURBANI (KOM TBX)",
         "url": "https://open.spotify.com/album/2jlobVYL62mvN3Wm4XvJJQ"
@@ -233,7 +265,23 @@
       "url": "https://open.spotify.com/track/1Xa3BK62uD9mzrzU0S6UMz"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
+      "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 139975,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
+    },
+    {
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
@@ -249,7 +297,7 @@
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "L\u00e4ngesen",
         "url": "https://open.spotify.com/album/0Fo160cTKdluGDAueV4aAy"
@@ -265,7 +313,7 @@
       "url": "https://open.spotify.com/track/40yRQySDfSc5I6SoZzRLxZ"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Tur i oturen",
         "url": "https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe"
@@ -281,7 +329,7 @@
       "url": "https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -301,23 +349,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3XyCo0tUkIHQ2vRDDlBgWy"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/1xYhFfJInHS8hsGfrJW4lI"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Hush Hush",
         "url": "https://open.spotify.com/album/43VRsfHXsZh1BUxfNO0RZN"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Helvete!",
         "url": "https://open.spotify.com/album/46WcOMzRtUPDPt55G0Osjm"
@@ -405,7 +437,7 @@
       "url": "https://open.spotify.com/track/2nImXY805FlyEcXIP5BbbM"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Okej att d\u00f6",
         "url": "https://open.spotify.com/album/6xeArYtgNeWryc5C0xOME3"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/5wqq5bmr41MsWnoCx2FX4i"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Restless Mind",
         "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Lost and found",
         "url": "https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG"
@@ -461,7 +493,23 @@
       "url": "https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
+      "album": {
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
+    },
+    {
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Believe me",
         "url": "https://open.spotify.com/album/1X0XJXpMfjUXThe9Gm5lot"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/6CshHyQHSzQhwaadpBQhH1"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
         "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Love Somebody",
         "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Burning Down",
         "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
@@ -541,23 +589,7 @@
       "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "N\u00e5gon kommer \u00e4lska dig igen",
         "url": "https://open.spotify.com/album/7dGKpA9bFVYoVEKKsX2VMK"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/3ZiSSGYuMe8pfCZcUnktZs"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Lucky Luciano",
         "url": "https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj"
@@ -593,23 +625,7 @@
       "url": "https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
-      "album": {
-        "name": "Viva La Vida",
-        "url": "https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
-    },
-    {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "F\u00f6rsent",
         "url": "https://open.spotify.com/album/6JM1pPeBavGguuY5pBEv0k"
@@ -665,27 +681,7 @@
       "url": "https://open.spotify.com/track/3KbL6Ia5Fb8xO8IfZ6iC8U"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
-      "album": {
-        "name": "The Days (NOTION Remix)",
-        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
-      },
-      "artists": [
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        },
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "The Days - NOTION Remix",
-      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
-    },
-    {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Pink Velvet Theatre",
         "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
@@ -701,7 +697,23 @@
       "url": "https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -717,23 +729,7 @@
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
-      "album": {
-        "name": "Halleluja",
-        "url": "https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Halleluja",
-      "url": "https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf"
-    },
-    {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
@@ -749,7 +745,7 @@
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
@@ -769,39 +765,23 @@
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -817,7 +797,7 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
@@ -833,7 +813,31 @@
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
+      "album": {
+        "name": "Call Me When You Break Up (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
+    },
+    {
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -849,7 +853,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2025-03-03 10:06:55",
+      "added_at": "2025-03-06 23:00:21",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"

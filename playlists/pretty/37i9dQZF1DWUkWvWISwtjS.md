@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,343 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,345 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRx4AFLjzB2.md) - [plain]
 
 > Para los que quieren perreo this Valentine's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,573 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,593 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

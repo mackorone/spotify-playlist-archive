@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,007 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,967 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

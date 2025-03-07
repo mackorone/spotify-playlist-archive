@@ -4,7 +4,7 @@
 
 > De beste nye låtene finner du her!
 
-211 songs - 10 hr 41 min
+212 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 |  |
 | [Sista Gång](https://open.spotify.com/track/2i659C6ywROaFG0kj5eOoA) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sista Gång](https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6) | 2:37 | 2024-06-27 | 2024-07-14 |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-06-27 | 2024-07-04 |
-| [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 |  |
+| [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 | 2025-03-07 |
 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 | 2025-01-16 |  |
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-02 |  |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-06-27 |  |
@@ -192,6 +192,7 @@
 | [Steez](https://open.spotify.com/track/4wMxYx4NbuFIMlYa6jiFYj) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Steez](https://open.spotify.com/album/3hyUCCk98mODIOFwhUFFHZ) | 2:18 | 2024-07-25 | 2024-08-23 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-06-27 |  |
 | [Støkk i En Fantasi](https://open.spotify.com/track/2xaZeW9xctSFOagxlYhx0m) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Støkk i En Fantasi](https://open.spotify.com/album/3pDCiasvbCNoO4CrwwBmOU) | 2:51 | 2024-08-08 | 2024-08-23 |
+| [Ta Vare \(XC90\)](https://open.spotify.com/track/1wBK9MJfQ0LWgV3atiffdK) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi), [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Malik](https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL) | [Ta Vare \(XC90\)](https://open.spotify.com/album/2P1IMUQ2BHxuzjReWsJaOJ) | 3:03 | 2025-03-06 |  |
 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-13 |  |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-27 | 2024-09-20 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-22 |  |

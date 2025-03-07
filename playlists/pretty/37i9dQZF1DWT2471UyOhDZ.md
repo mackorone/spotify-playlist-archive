@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Everything Is Recorded
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,922 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,937 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

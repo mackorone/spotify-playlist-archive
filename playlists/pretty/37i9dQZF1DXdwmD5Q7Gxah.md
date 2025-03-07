@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Love Spells
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,475 likes - 120 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,531 likes - 120 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lovers Only](https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lovers Only](https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U) | 3:39 |
-| 2 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
-| 3 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 |
-| 4 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
-| 5 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 |
-| 6 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
+| 2 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
+| 3 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
+| 4 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 |
+| 5 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 |
+| 6 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Tulips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
 | 7 | [It Ain't Me, Babe](https://open.spotify.com/track/47xQwrip8UriPhFPUjSRQ7) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb), [Monica Barbaro](https://open.spotify.com/artist/3W1QNTtfYoAnni7dvqC4rg) | [A Complete Unknown \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t) | 3:37 |
-| 8 | [say it back](https://open.spotify.com/track/2P8nDGw1KiCeCh4ZS2iA7y) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [say it back](https://open.spotify.com/album/7d95ZxlAPbUBuGAra8qgF1) | 2:32 |
-| 9 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Tulips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
+| 8 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
+| 9 | [say it back](https://open.spotify.com/track/2P8nDGw1KiCeCh4ZS2iA7y) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [say it back](https://open.spotify.com/album/7d95ZxlAPbUBuGAra8qgF1) | 2:32 |
 | 10 | [Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Dancing with your eyes closed](https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy) | 3:50 |
 | 11 | [Smoke break](https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Smoke break](https://open.spotify.com/album/1i3Rpr69B7rVaMMB37McmT) | 2:48 |
-| 12 | [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 |
-| 13 | [Funny](https://open.spotify.com/track/1NjQvWlo2JxKc4ST0hJdxZ) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Funny](https://open.spotify.com/album/5EZn9ph9YN8zbioYjNrMmm) | 3:57 |
-| 14 | [Old Recliners](https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:41 |
-| 15 | [things i want](https://open.spotify.com/track/06aqgaHt1M1ZRcEe04CvaN) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [things i want](https://open.spotify.com/album/35h4YIUVtsoJ68H20lmmEa) | 3:43 |
-| 16 | [Untitled](https://open.spotify.com/track/2ZgyzFYYOz21b2AhPPkWKF) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 3:56 |
+| 12 | [Untitled](https://open.spotify.com/track/2ZgyzFYYOz21b2AhPPkWKF) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 3:56 |
+| 13 | [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 |
+| 14 | [Funny](https://open.spotify.com/track/1NjQvWlo2JxKc4ST0hJdxZ) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Funny](https://open.spotify.com/album/5EZn9ph9YN8zbioYjNrMmm) | 3:57 |
+| 15 | [Old Recliners](https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:41 |
+| 16 | [things i want](https://open.spotify.com/track/06aqgaHt1M1ZRcEe04CvaN) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [things i want](https://open.spotify.com/album/35h4YIUVtsoJ68H20lmmEa) | 3:43 |
 | 17 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 |
 | 18 | [Honeycomb](https://open.spotify.com/track/0z8Z0sQiBgww2toWEf5A40) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Honeycomb](https://open.spotify.com/album/1bXymWHWPNubbjT9Pi2HBH) | 3:14 |
 | 19 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 119 | [Love90](https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Going Nowhere](https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf) | 2:58 |
 | 120 | [Let Me Go!](https://open.spotify.com/track/72vbQiZdPWaLMXaHjRUpiJ) | [Leila Lamb](https://open.spotify.com/artist/2n3aUuffTp4GLAVEcqILwp) | [Let Me Go!](https://open.spotify.com/album/4z21RHl8jWa0ohHXpO37wD) | 2:04 |
 
-Snapshot ID: `Z8jEHAAAAADXJ1VEJ0FPhkEkwTJGgxRe`
+Snapshot ID: `Z8n4bAAAAACdsYlUNrbBD8ERnX+eYBos`

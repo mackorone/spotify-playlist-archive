@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO?si=klYEpbUbRvOAKJLzOeqJ5g">Robbie Wessels</a> en  <a href="https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=zjMMVHtgQBebdAN\-V3WllA">Appel</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0?si=lAt9GAVFQOOXqGG8GwgG1w">Len Muller</a>
 
-266 songs - 14 hr 45 min
+267 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Enkelvoud](https://open.spotify.com/track/2JifH8GkXc1MrJC8WouZSK) | [Annelie](https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw) | [Enkelvoud](https://open.spotify.com/album/33rz8yr1CSdOc7PLj6Gf1L) | 3:35 | 2024-03-07 | 2024-12-06 |
 | [Erika Way](https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Jodi Jantjies](https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG) | [Dryf](https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt) | 4:33 | 2022-12-08 | 2022-12-30 |
 | [Fairway Lyf](https://open.spotify.com/track/3DLeotilho45LEdwKPYb49) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Fairway Lyf](https://open.spotify.com/album/4gIcGlEcuNiBtT7IcB56DV) | 3:09 | 2023-04-20 | 2023-06-09 |
-| [Foto's](https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Foto's](https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU) | 3:14 | 2022-10-28 |  |
+| [Foto's](https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Foto's](https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU) | 3:14 | 2022-10-28 | 2025-03-07 |
 | [Foute](https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Foute](https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l) | 3:22 | 2023-05-18 |  |
 | [Frikkie vir 'n Rukkie](https://open.spotify.com/track/3AnjywbfTox9a73rDCCEJy) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Frikkie vir 'n Rukkie](https://open.spotify.com/album/1HnATyn4XtduEf1IU1nOGj) | 2:55 | 2023-06-29 | 2024-05-10 |
 | [Gee My ‘n Boerseun](https://open.spotify.com/track/2oBfcnyvgX6cajJgIFeqY2) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Gee My ‘n Boerseun](https://open.spotify.com/album/7x9ZKftmTxAmr4uto3piBr) | 3:24 | 2022-04-14 | 2022-11-11 |
@@ -222,6 +222,7 @@
 | [Soen Soos Wat Jy Dans](https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Soen Soos Wat Jy Dans](https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB) | 3:35 | 2024-02-01 |  |
 | [Sokkie Tot Die Einde](https://open.spotify.com/track/42zwwodmjObOkLONUDkjRv) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Sokkie Tot Die Einde](https://open.spotify.com/album/28FmLzjwY5uqI69rq5HJkP) | 3:48 | 2024-06-06 | 2024-07-12 |
 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 | 2023-03-09 |  |
+| [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw) | 3:02 | 2025-03-06 |  |
 | [Soos Bloed \- SENSASIE Remix](https://open.spotify.com/track/4uXteEd1JioDpa7IMkYmrR) | [Theuns Jordaan](https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Soos Bloed \(SENSASIE Remix\)](https://open.spotify.com/album/6hOn92qvDdFna02b21Qvx6) | 3:28 | 2024-07-11 | 2024-11-08 |
 | [Sou Vir Jou](https://open.spotify.com/track/6b9Dja0fQQBQv0tIhWeJCr) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Sou Vir Jou](https://open.spotify.com/album/0myi1ku1lKysaEXDKeesL7) | 2:59 | 2024-07-04 | 2024-11-28 |
 | [Stadig](https://open.spotify.com/track/3qdqbjYUNv3QYIBchTSaUq) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Stadig](https://open.spotify.com/album/2ndEeWY99a4o2lHtx61nGP) | 3:34 | 2024-05-23 | 2024-10-25 |

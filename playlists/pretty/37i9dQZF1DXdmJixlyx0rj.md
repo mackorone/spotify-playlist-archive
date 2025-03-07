@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 > New & best K\-Electronic music is here\. \(Cover: iiso\(이소\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,484 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,497 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

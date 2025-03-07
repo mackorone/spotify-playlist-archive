@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Antony Szmierek",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Chiderah",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1084,6 +1084,24 @@
       "duration_ms": 194377,
       "name": "Dior",
       "url": "https://open.spotify.com/track/7cjIuwb2Wcli6lKRopM2k5"
+    },
+    {
+      "album": {
+        "name": "The Breakdown",
+        "url": "https://open.spotify.com/album/6KdrbdsJsxbYTbWwO8Qdk9"
+      },
+      "artists": [
+        {
+          "name": "Chiderah",
+          "url": "https://open.spotify.com/artist/51lUXxQwHhDVh60qJGeidd"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165631,
+      "name": "Don't Lose Track",
+      "url": "https://open.spotify.com/track/2KCzPMDPlL6PCQtap1lpwM"
     },
     {
       "album": {

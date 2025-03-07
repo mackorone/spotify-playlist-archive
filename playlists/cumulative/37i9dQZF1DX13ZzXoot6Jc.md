@@ -4,7 +4,7 @@
 
 > Country hits that will have you singing every word\. Cover: Morgan Wallen
 
-431 songs - 23 hr 25 min
+432 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 | 2024-05-03 |  |
 | [I Don't Know About You](https://open.spotify.com/track/3yOs8FffuG6hPbzQG9lIqV) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Laps Around The Sun](https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR) | 3:27 | 2022-07-21 | 2022-11-16 |
 | [I Grew Up On A Farm](https://open.spotify.com/track/3pBvU01semQ9Aia5KzoVGn) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [I Grew Up On A Farm](https://open.spotify.com/album/3qMRbYb6ZnZlgVMMAOyppv) | 3:11 | 2024-07-19 |  |
+| [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2025-03-06 |  |
 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 | 2022-07-21 | 2023-08-05 |
 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 | 2022-07-21 | 2023-08-05 |
 | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/track/5DU3wahsCBJ6kkyDBYpIRN) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/album/67YRdAiqz6kybb31VrYo58) | 3:03 | 2024-03-22 |  |
@@ -249,7 +250,7 @@
 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-04-05 |  |
 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:40 | 2022-07-21 | 2022-11-12 |
 | [Oil And Cattle](https://open.spotify.com/track/6tNH66hzFFqNoPmUhuWo2D) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [George Canyon](https://open.spotify.com/artist/5wGox9x2iVERIeTJIQnFeL), [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs), [Brad Johner](https://open.spotify.com/artist/5b5AFlyH7nbIJ2mfkeGmTm) | [The Compass Project \- West Album](https://open.spotify.com/album/2Wjh5hIRufYFzbinlm3JkR) | 3:42 | 2024-05-03 | 2024-05-18 |
-| [Old Dirt Roads](https://open.spotify.com/track/2pTBC0wyimbajdCQfwnKCA) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bud Light The Way](https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0) | 3:47 | 2024-08-23 |  |
+| [Old Dirt Roads](https://open.spotify.com/track/2pTBC0wyimbajdCQfwnKCA) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bud Light The Way](https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0) | 3:47 | 2024-08-23 | 2025-03-07 |
 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 | 2023-02-03 | 2024-01-13 |
 | [On Three](https://open.spotify.com/track/7qAXZbesT1QwNJa5YYUjR5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me \(Royal Edition Extended Version\)](https://open.spotify.com/album/2pymQjoyFaQuoGL1oOZeD9) | 2:40 | 2023-08-18 | 2024-06-01 |
 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 2:53 | 2022-07-21 | 2023-09-16 |

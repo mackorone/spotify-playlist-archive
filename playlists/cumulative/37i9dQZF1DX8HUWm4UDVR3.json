@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Helena",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Iliona",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 161750,
       "name": "30 ans",
       "url": "https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 200240,
       "name": "Dos \u00e0 dos",
       "url": "https://open.spotify.com/track/3LbBdZRxB64YyATKxU9dnu"
@@ -2827,6 +2827,24 @@
     },
     {
       "album": {
+        "name": "Love Business",
+        "url": "https://open.spotify.com/album/7so4tP3LKXQsqdZZASkEVo"
+      },
+      "artists": [
+        {
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Love Business",
+      "url": "https://open.spotify.com/track/7ycKW7kTgJ9LB1fcCLV2zI"
+    },
+    {
+      "album": {
         "name": "LOVE'n'TENDRESSE",
         "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
       },
@@ -4024,6 +4042,32 @@
       "duration_ms": 138208,
       "name": "Rattrape-moi",
       "url": "https://open.spotify.com/track/0cxJ91KVkxXChOlmy5l3Iy"
+    },
+    {
+      "album": {
+        "name": "Regarde-moi",
+        "url": "https://open.spotify.com/album/39Ukawq2GEtSzT7jOyNYbN"
+      },
+      "artists": [
+        {
+          "name": "Adam\u00e9",
+          "url": "https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe"
+        },
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        },
+        {
+          "name": "Lili Poli",
+          "url": "https://open.spotify.com/artist/0hSW0pdwbtPmPaJTOlBz8a"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167947,
+      "name": "Regarde-moi",
+      "url": "https://open.spotify.com/track/1wHaIYEpi6wIRsCsjnJaFp"
     },
     {
       "album": {

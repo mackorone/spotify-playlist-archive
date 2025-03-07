@@ -2,9 +2,9 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Sam Fender
+> The UK's biggest playlist\. Cover: Sabrina Carpenter
 
-277 songs - 14 hr 41 min
+279 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-05 |  |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-29 | 2024-10-08 |
 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 | 2024-04-12 | 2024-05-17 |
+| [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-07 |  |
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-25 | 2025-02-14 |
 | [Heaterz](https://open.spotify.com/track/2xq0T6R1a1cFBYCn7HPKtt) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Heaterz](https://open.spotify.com/album/6WRkgezvMJYr3bkSFUCPqU) | 2:40 | 2024-11-29 | 2025-01-17 |
 | [Heaven Or Hell](https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Heaven or Hell](https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP) | 2:31 | 2024-02-16 | 2024-03-29 |
@@ -116,8 +117,8 @@
 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-01-26 | 2024-04-16 |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-06-27 |  |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-01-26 | 2024-05-03 |
-| [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-03 |  |
-| [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-04-22 |  |
+| [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-03 | 2025-03-07 |
+| [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-04-22 | 2025-03-07 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-15 | 2025-02-21 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-13 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-22 | 2025-02-07 |
@@ -153,6 +154,7 @@
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2024-01-26 | 2024-02-16 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-01-26 | 2024-10-22 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-29 | 2024-10-26 |
+| [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-03-07 |  |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 | 2024-02-16 | 2024-05-24 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-01-26 | 2024-06-04 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-17 | 2024-10-04 |

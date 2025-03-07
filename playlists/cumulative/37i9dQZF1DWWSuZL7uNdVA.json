@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Sam Fender au top des meilleurs morceaux rock du moment.",
+  "description": "Inhaler au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 191448,
       "name": "An Artist Is An Artist",
       "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 186666,
       "name": "Blood On The Hospital Floor",
       "url": "https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ"
@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Cruel Times",
+        "url": "https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178231,
+      "name": "Cruel Times",
+      "url": "https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI"
+    },
+    {
+      "album": {
         "name": "TOY",
         "url": "https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52"
       },
@@ -1274,6 +1292,24 @@
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC"
+    },
+    {
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "album": {
@@ -4353,6 +4389,24 @@
     },
     {
       "album": {
+        "name": "safeword",
+        "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133639,
+      "name": "safeword",
+      "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
+    },
+    {
+      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/1NjAWYIQvHY8uicYdQN3an"
       },
@@ -5510,7 +5564,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 173866,
       "name": "The Plan",
       "url": "https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4"

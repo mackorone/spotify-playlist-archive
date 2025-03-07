@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from LISA, Benson Boone, Tate McRae, Gigi Perez, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,307,498 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,307,607 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 72 | [Heathen](https://open.spotify.com/track/5uN7Ib0AHzxUwalc4fctfW) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Heathen](https://open.spotify.com/album/2WmnLCVyKUvEGWRtrBuIsE) | 5:02 |
 | 73 | [need your love](https://open.spotify.com/track/1CqwiEhGcYlRntmpTIHGCu) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [need your love](https://open.spotify.com/album/3kWkmQuS1oBj0a8YwL4KP5) | 2:56 |
 | 74 | [Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Dancing with your eyes closed](https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy) | 3:50 |
-| 75 | [RiCH MAN DREAMS \(i\) \(ft\. Ab\-Soul\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
+| 75 | [RiCH MAN DREAMS \(i\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
 | 76 | [Sirena](https://open.spotify.com/track/0EYoG9Z0q0C0K1MCs1hQQl) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Sirena](https://open.spotify.com/album/4nhU57ASWx4FZgMbKfVOBD) | 2:45 |
 | 77 | [this time i lost my mind](https://open.spotify.com/track/0AiEl0ydipPlEcf6yB4EcG) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [tryin to be born](https://open.spotify.com/album/00TZJ67UEWOxFqzfQwsZkO) | 3:24 |
 | 78 | [idgaf](https://open.spotify.com/track/1c17WXb6bzMrrvaN7O1c2Y) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [idgaf](https://open.spotify.com/album/78Vni3er0eUxLVI52aDCgg) | 2:13 |

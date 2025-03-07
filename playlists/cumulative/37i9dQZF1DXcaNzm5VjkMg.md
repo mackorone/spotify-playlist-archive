@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-156 songs - 10 hr 34 min
+157 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 | 2024-05-06 |  |
 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2023-11-13 |  |
 | [Bersamamu](https://open.spotify.com/track/1FVZrAZ6kLrgnaRB9pzYMD) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [Vorfreude](https://open.spotify.com/album/754tHb1pF9v02tc8MQZRzU) | 4:05 | 2023-02-03 | 2023-05-04 |
+| [BERSAMAMU \- Remake Version](https://open.spotify.com/track/2rVTMes9ujNJ7OFv5T5XQG) | [SEVENSOUL](https://open.spotify.com/artist/1tqdhetOqWgYvtEDoSbBij) | [BERSAMAMU \(Remake Version\)](https://open.spotify.com/album/4lXTP25PSW0wZjPdIXZnhb) | 3:36 | 2025-03-07 |  |
 | [Bertengkar Manis](https://open.spotify.com/track/7jQQZRS69OWGT2asKcmp6p) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 4:05 | 2023-10-06 |  |
 | [Biar Mantan Tau](https://open.spotify.com/track/6E6OhmmXOkklCcbqq7XF88) | [3 Composers](https://open.spotify.com/artist/145zDAbvELoocgZ4bZrSXe) | [Biar Mantan Tau](https://open.spotify.com/album/4MX7M5najq0wZTRjcYe4aX) | 3:19 | 2023-02-03 | 2025-02-05 |
 | [Biarku Merindu](https://open.spotify.com/track/6CxAzRJjOUr3LL1qXbQCry) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Biarku Merindu](https://open.spotify.com/album/3ZGwkNHkhqkw3J9id6LVgG) | 2:57 | 2024-02-13 |  |

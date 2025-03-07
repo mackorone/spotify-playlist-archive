@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Karan Aujla & OneRepublic, Benson Boone, LISA,  J\. Cole and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,302 likes - 102 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,294 likes - 102 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 84 | [BLOW](https://open.spotify.com/track/4sGdjZMSTeHHRzh4Do1N2X) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [BLOW](https://open.spotify.com/album/1jquS7oAv7d5MQS9tNZxq2) | 2:50 |
 | 85 | [You’re Going Far](https://open.spotify.com/track/3wr4dKzt1539U3pja06XbT) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [You're Going Far](https://open.spotify.com/album/0CsXpP8IlAkNAqRevapgNL) | 2:20 |
 | 86 | [9th Heaven](https://open.spotify.com/track/1aBxhHdDSheiqyXk9ZbJVw) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg) | [9th Heaven](https://open.spotify.com/album/6wvV0kgAhtxcY2e1P35u1Y) | 4:21 |
-| 87 | [RiCH MAN DREAMS \(i\) \(ft\. Ab\-Soul\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
+| 87 | [RiCH MAN DREAMS \(i\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
 | 88 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
 | 89 | [Chapter Savvy](https://open.spotify.com/track/2PTK0LrdtQ5cLWEwg9I3fA) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Chapter Savvy](https://open.spotify.com/album/6lUzUmkAtdT2xcWujagaIq) | 2:13 |
 | 90 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |

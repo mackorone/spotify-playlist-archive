@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,387 likes - 150 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,427 likes - 150 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

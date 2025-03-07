@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Bebe Cool",
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Vinka",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 195970,
       "name": "Aidah",
       "url": "https://open.spotify.com/track/5Pg3T7TbOmFdoKbj4wk4RM"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 152303,
       "name": "Hooked - Radio Edit",
       "url": "https://open.spotify.com/track/7DMW3nH4tB10ybyaOa45in"
@@ -3276,6 +3276,28 @@
       "duration_ms": 184539,
       "name": "Ku Kido",
       "url": "https://open.spotify.com/track/7fKuAuxwQuHVx7irqvCBf0"
+    },
+    {
+      "album": {
+        "name": "Ku Sure",
+        "url": "https://open.spotify.com/album/6rvN46Nw1PEtsOVYYhmzjv"
+      },
+      "artists": [
+        {
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+        },
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Ku Sure",
+      "url": "https://open.spotify.com/track/6VIFtMdBm6pvjf4WuO1ebe"
     },
     {
       "album": {
@@ -5058,7 +5080,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 186723,
       "name": "Nteesa",
       "url": "https://open.spotify.com/track/5cYU1jOUJuoJIrxXGg8nnd"
@@ -5324,6 +5346,24 @@
       "duration_ms": 205125,
       "name": "OLUUSI NEBOWA",
       "url": "https://open.spotify.com/track/3Mt4KMbbeX3um1Fi2t0Paj"
+    },
+    {
+      "album": {
+        "name": "Omalayo",
+        "url": "https://open.spotify.com/album/7IneDgcWyhhrw3fUOsOIwh"
+      },
+      "artists": [
+        {
+          "name": "Jenesis Kimera",
+          "url": "https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Omalayo",
+      "url": "https://open.spotify.com/track/7lL3fcLm3lseywtGggMpBP"
     },
     {
       "album": {
@@ -6556,6 +6596,24 @@
       "duration_ms": 197052,
       "name": "Singa",
       "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
+    },
+    {
+      "album": {
+        "name": "Sirubala",
+        "url": "https://open.spotify.com/album/11M99Bc7YivvY8mnB899VP"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "Sirubala",
+      "url": "https://open.spotify.com/track/56mjsDsH8FDJQmivRFJk01"
     },
     {
       "album": {

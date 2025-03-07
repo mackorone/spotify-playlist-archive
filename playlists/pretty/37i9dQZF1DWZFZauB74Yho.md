@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Alison Krauss & Union Station
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,688 likes - 115 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,711 likes - 115 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

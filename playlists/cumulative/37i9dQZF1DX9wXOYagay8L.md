@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5?si=4s1vD4vSSNabUqRSwT6q1Q"> Sbahle</a>
 
-629 songs - 1 day 21 hr 4 min
+630 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Isibusiso Sakho](https://open.spotify.com/track/5Ly2yLD9EAKQzsAqXDaCuV) | [Ndu Shezi](https://open.spotify.com/artist/0UqEMWISMjKakQr0pvL3WI) | [Isibusiso Sami](https://open.spotify.com/album/0tF19PlyiY1cdNFcsUvllM) | 3:52 | 2024-10-10 | 2025-01-24 |
 | [Isimilo](https://open.spotify.com/track/5njbGaMKH2Pq4cXk6cdu7I) | [Vuyina](https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw) | [Isimilo](https://open.spotify.com/album/5XHDKHJ7BaOHrm7HVlBAGQ) | 2:39 | 2023-03-24 | 2023-04-07 |
 | [Isitha](https://open.spotify.com/track/2QzESAhMEUCh34GK2gNfqA) | [SKHANDAWORLD](https://open.spotify.com/artist/0iiSx3ZdR8ts3ePVzNbbwH), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [K.O](https://open.spotify.com/artist/1d6JzYUN2E6MIt9HmepdPk), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD), [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V) | [Isitha](https://open.spotify.com/album/6n82FERUn8vSDBe9p1Zq6q) | 3:40 | 2023-05-11 | 2023-06-10 |
+| [Iskhathi](https://open.spotify.com/track/1f2AD0tHrms0NXz5CwtHGu) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn) | [Imibuzo](https://open.spotify.com/album/2JW7jozvmFKPjsm54YGeNS) | 3:12 | 2025-03-07 |  |
 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 | 2023-01-27 | 2023-08-11 |
 | [Isono Esimnandi](https://open.spotify.com/track/5F52TSrx13bOeMfHslxTNO) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Isono Esimnandi](https://open.spotify.com/album/1SEYzxV4a8YdGRxLA39L0s) | 3:39 | 2022-06-16 | 2022-06-24 |
 | [Isthembu \(feat\. Siya Ntuli\)](https://open.spotify.com/track/1yF1gVIE76t5DqUGIRyipv) | [Miona](https://open.spotify.com/artist/0hePZ68kOMD7Mhz5wUKmuB), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Isthembu \(feat\. Siya Ntuli\)](https://open.spotify.com/album/1QMdGApVcu9mH5R4lY3Acv) | 4:18 | 2024-05-16 | 2024-08-02 |

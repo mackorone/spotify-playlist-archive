@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,194 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,240 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

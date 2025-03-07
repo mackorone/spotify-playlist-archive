@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,018 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,014 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

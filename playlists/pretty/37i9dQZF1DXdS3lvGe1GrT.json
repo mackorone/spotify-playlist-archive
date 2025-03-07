@@ -1,13 +1,61 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Uwade",
-  "num_followers": 87229,
+  "num_followers": 87247,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z79IpAAAAADtUhEafVNHOzoP4dwfnT3z",
+  "snapshot_id": "Z8mx6AAAAACTtYkJl8m3DY8evzEBgZRk",
   "tracks": [
+    {
+      "added_at": "2025-02-26 17:00:19",
+      "album": {
+        "name": "Sedona",
+        "url": "https://open.spotify.com/album/7mIpzHi8pyp4pYudim7zwh"
+      },
+      "artists": [
+        {
+          "name": "Anna Bates",
+          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Sedona",
+      "url": "https://open.spotify.com/track/7b7ILSiNTtbn16VYqvIqrG"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "KISMET",
+        "url": "https://open.spotify.com/album/1UcxXAeAHvhR6kihLg1H6L"
+      },
+      "artists": [
+        {
+          "name": "Kellan Christopher Cragg",
+          "url": "https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq"
+        }
+      ],
+      "duration_ms": 154772,
+      "name": "KISMET",
+      "url": "https://open.spotify.com/track/2ajaNQrgwdvI0jd6EioUy4"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "Junkyard Dog",
+        "url": "https://open.spotify.com/album/6iEZwRHXYM2GA05Y20efQu"
+      },
+      "artists": [
+        {
+          "name": "mer marcum",
+          "url": "https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN"
+        }
+      ],
+      "duration_ms": 153839,
+      "name": "Junkyard Dog",
+      "url": "https://open.spotify.com/track/6P1R66lnlGL2Q1lqmAOwc5"
+    },
     {
       "added_at": "2025-02-26 17:00:19",
       "album": {
@@ -27,18 +75,82 @@
     {
       "added_at": "2025-02-26 17:00:19",
       "album": {
-        "name": "Little Sisters & Friends",
-        "url": "https://open.spotify.com/album/10FVwrIWmZd96rS3Jckd1U"
+        "name": "silvertongue",
+        "url": "https://open.spotify.com/album/7mKC2l5VFL8pXZWJgHFZHn"
       },
       "artists": [
         {
-          "name": "Selma French",
-          "url": "https://open.spotify.com/artist/29GtMvNorPFe7RRUEpNpnV"
+          "name": "Nyan Feder",
+          "url": "https://open.spotify.com/artist/2lhhq00oFg61qWaeSbrJTy"
         }
       ],
-      "duration_ms": 389360,
-      "name": "Little Sisters & Friends",
-      "url": "https://open.spotify.com/track/08hpU84xSiCNOO0tPxZabt"
+      "duration_ms": 144441,
+      "name": "silvertongue",
+      "url": "https://open.spotify.com/track/3T0ovS5CTFSucJ2FwN0xa0"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/1792chIWcQZEqDE3l2rfQi"
+      },
+      "artists": [
+        {
+          "name": "Free Range",
+          "url": "https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP"
+        }
+      ],
+      "duration_ms": 242386,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/2kWqj2m1OKkp83pDdN1GQY"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "Rope Dancer",
+        "url": "https://open.spotify.com/album/7LUjXhaIpsUd7WdLT4IDyd"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Thornton",
+          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
+        }
+      ],
+      "duration_ms": 290773,
+      "name": "Rope Dancer",
+      "url": "https://open.spotify.com/track/3W8adY19JVxzP1DWtaOWKz"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/3j7UYZyOwvcAeuH4MnkM50"
+      },
+      "artists": [
+        {
+          "name": "Lottie McLeod",
+          "url": "https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9"
+        }
+      ],
+      "duration_ms": 218119,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/1wsNmskiu7lf8ZsPDM6igR"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "Mw\u012bhoko: \u00dbtheri wa Ngoro",
+        "url": "https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg"
+      },
+      "artists": [
+        {
+          "name": "Njoki Karu",
+          "url": "https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F"
+        }
+      ],
+      "duration_ms": 199041,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0Ux6CyGdySGIvrzQ6Lx9ri"
     },
     {
       "added_at": "2025-02-26 17:00:19",
@@ -59,6 +171,102 @@
       "duration_ms": 232868,
       "name": "No Cure For Love",
       "url": "https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "Young Girl",
+        "url": "https://open.spotify.com/album/4ONJg8Z6PZQmapGalbMiUD"
+      },
+      "artists": [
+        {
+          "name": "Ava McCoy",
+          "url": "https://open.spotify.com/artist/1Hx2MmCDbn7kdUG70WT0xc"
+        }
+      ],
+      "duration_ms": 290003,
+      "name": "Young Girl",
+      "url": "https://open.spotify.com/track/3Ti1wK9Px0AkSM64hzojvK"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/06NltVbmyzqMpQxoDOkssK"
+      },
+      "artists": [
+        {
+          "name": "Sam Moss",
+          "url": "https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j"
+        }
+      ],
+      "duration_ms": 207024,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/2hcs9rYtSxPOuPP9rvyzey"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/74JOmiU2rggpAQMLizjaVa"
+      },
+      "artists": [
+        {
+          "name": "Iona Zajac",
+          "url": "https://open.spotify.com/artist/5XIL7iEbCKJIz14Gqd58Y7"
+        }
+      ],
+      "duration_ms": 311500,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4qgIJfT8KRQEFVWQ9RN1xV"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "Fighting On The Wing",
+        "url": "https://open.spotify.com/album/0xWeCVv5ZJt0bEr1TQq4zC"
+      },
+      "artists": [
+        {
+          "name": "Yoshika Colwell",
+          "url": "https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM"
+        }
+      ],
+      "duration_ms": 322200,
+      "name": "Fighting On The Wing",
+      "url": "https://open.spotify.com/track/4EVubDVbvz2kwPyvqxv6Gy"
+    },
+    {
+      "added_at": "2025-03-06 14:32:08",
+      "album": {
+        "name": "Heaven in Disguise",
+        "url": "https://open.spotify.com/album/3iPGUq9PiDGvcVJz1jHQAn"
+      },
+      "artists": [
+        {
+          "name": "Tara Nome Doyle",
+          "url": "https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv"
+        }
+      ],
+      "duration_ms": 273194,
+      "name": "Heaven in Disguise",
+      "url": "https://open.spotify.com/track/78jHWaQm0VApEZon0pN4Ba"
+    },
+    {
+      "added_at": "2025-02-26 17:00:19",
+      "album": {
+        "name": "Little Sisters & Friends",
+        "url": "https://open.spotify.com/album/10FVwrIWmZd96rS3Jckd1U"
+      },
+      "artists": [
+        {
+          "name": "Selma French",
+          "url": "https://open.spotify.com/artist/29GtMvNorPFe7RRUEpNpnV"
+        }
+      ],
+      "duration_ms": 389360,
+      "name": "Little Sisters & Friends",
+      "url": "https://open.spotify.com/track/08hpU84xSiCNOO0tPxZabt"
     },
     {
       "added_at": "2025-02-26 17:00:19",
@@ -99,22 +307,6 @@
       "duration_ms": 275186,
       "name": "Free Association",
       "url": "https://open.spotify.com/track/63i5GiXxcmSyFIS2YKTV46"
-    },
-    {
-      "added_at": "2025-02-26 17:00:19",
-      "album": {
-        "name": "silvertongue",
-        "url": "https://open.spotify.com/album/7mKC2l5VFL8pXZWJgHFZHn"
-      },
-      "artists": [
-        {
-          "name": "Nyan Feder",
-          "url": "https://open.spotify.com/artist/2lhhq00oFg61qWaeSbrJTy"
-        }
-      ],
-      "duration_ms": 144441,
-      "name": "silvertongue",
-      "url": "https://open.spotify.com/track/3T0ovS5CTFSucJ2FwN0xa0"
     },
     {
       "added_at": "2025-02-19 17:00:30",
@@ -211,22 +403,6 @@
       "duration_ms": 202187,
       "name": "Someone Else & Jesus",
       "url": "https://open.spotify.com/track/0hp90pLgp8T4Jdn1Ba37Sh"
-    },
-    {
-      "added_at": "2025-02-26 17:00:19",
-      "album": {
-        "name": "Sedona",
-        "url": "https://open.spotify.com/album/7mIpzHi8pyp4pYudim7zwh"
-      },
-      "artists": [
-        {
-          "name": "Anna Bates",
-          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Sedona",
-      "url": "https://open.spotify.com/track/7b7ILSiNTtbn16VYqvIqrG"
     },
     {
       "added_at": "2025-02-26 17:00:19",
@@ -1371,150 +1547,6 @@
       "duration_ms": 223884,
       "name": "Blood Related",
       "url": "https://open.spotify.com/track/5B7CZXvrLUxuZrixyLpgD1"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "Macdougal",
-        "url": "https://open.spotify.com/album/5WgbLWsTbRADSH5Iw6VQt1"
-      },
-      "artists": [
-        {
-          "name": "Dejima",
-          "url": "https://open.spotify.com/artist/3cvyvssZnFHsTpwwHC9dji"
-        }
-      ],
-      "duration_ms": 119313,
-      "name": "Oh Boy",
-      "url": "https://open.spotify.com/track/0fTXzT33hrRirf6pPlggrB"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "The Winter",
-        "url": "https://open.spotify.com/album/6CLT3dSFdYAOMDjj7VPKl4"
-      },
-      "artists": [
-        {
-          "name": "Se\u00e1nie Bermingham",
-          "url": "https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK"
-        }
-      ],
-      "duration_ms": 178953,
-      "name": "The Winter",
-      "url": "https://open.spotify.com/track/7eSxkI83zySpEW0gJVtcSJ"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "Cash In",
-        "url": "https://open.spotify.com/album/7FYVoGC3Gk7p4ij5UAC7Fz"
-      },
-      "artists": [
-        {
-          "name": "Charlie Hickey",
-          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
-        }
-      ],
-      "duration_ms": 166860,
-      "name": "Cash In",
-      "url": "https://open.spotify.com/track/0HoLZbxS3e5lPRt8qHhzgj"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "In the Car",
-        "url": "https://open.spotify.com/album/1DnMwAElyRKnSjx41jNXh8"
-      },
-      "artists": [
-        {
-          "name": "Jack Patchett",
-          "url": "https://open.spotify.com/artist/1jxl5bUGSeYcwV7U0MAXv5"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "In the Car",
-      "url": "https://open.spotify.com/track/2o6vcLPC7faPXSTCeOGW2S"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "tropical lush ice",
-        "url": "https://open.spotify.com/album/31dPWVqPUb2QzgK8tVkJZ9"
-      },
-      "artists": [
-        {
-          "name": "Georgia Maq",
-          "url": "https://open.spotify.com/artist/5NeumLAB759fhEZ61o2Bed"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "tropical lush ice",
-      "url": "https://open.spotify.com/track/4VrpOwEQUbnWi84Dt6hePl"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "Radio Song",
-        "url": "https://open.spotify.com/album/01ljkNFLUijr0wm4WRH975"
-      },
-      "artists": [
-        {
-          "name": "Rose City Band",
-          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
-        }
-      ],
-      "duration_ms": 302546,
-      "name": "Radio Song",
-      "url": "https://open.spotify.com/track/4fFdTGEaDSUtBTdNLEdye5"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "CryBaby",
-        "url": "https://open.spotify.com/album/0WI50XREkfV4BcD8nVXRVn"
-      },
-      "artists": [
-        {
-          "name": "Ariella",
-          "url": "https://open.spotify.com/artist/6w0vaIhMHgLjF7HUDmth81"
-        }
-      ],
-      "duration_ms": 219084,
-      "name": "Call Me Your Angel",
-      "url": "https://open.spotify.com/track/0dDy4M5Yn8XP1qp0LeWP1n"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "Quite Simple",
-        "url": "https://open.spotify.com/album/6L9NCzWoGx50YJounZFLY3"
-      },
-      "artists": [
-        {
-          "name": "Olivia Reid",
-          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
-        }
-      ],
-      "duration_ms": 190358,
-      "name": "Quite Simple",
-      "url": "https://open.spotify.com/track/5ff5xyh4tpB1IBKBBSZ9Jc"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "Room",
-        "url": "https://open.spotify.com/album/4HXixzCKu5s7EjOm8hDfkn"
-      },
-      "artists": [
-        {
-          "name": "Sleeper's Bell",
-          "url": "https://open.spotify.com/artist/4UzwKcLphNBwmK52Y5MC1c"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Room",
-      "url": "https://open.spotify.com/track/7K7v830MV4FznCGUY2xPsL"
     }
   ],
   "unique_name": "Fresh Finds Folk",

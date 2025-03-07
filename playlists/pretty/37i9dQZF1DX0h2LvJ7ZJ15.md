@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,489,935 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,490,271 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

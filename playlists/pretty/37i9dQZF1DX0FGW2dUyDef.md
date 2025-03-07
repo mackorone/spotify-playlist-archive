@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Ceren Sagu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,587,730 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,587,830 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 |
 | 50 | [Durma Yürüsene](https://open.spotify.com/track/7DVu7wGni4DHx9P8L1zbIO) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Durma Yürüsene](https://open.spotify.com/album/08x2uyRPSt4x3UYwKUuKJc) | 3:41 |
 
-Snapshot ID: `Z8gn+gAAAAAH4zJ62andRKgY3GLimHOL`
+Snapshot ID: `Z8oM9gAAAAAKyIroNrFBRGjN6JDpnN6K`

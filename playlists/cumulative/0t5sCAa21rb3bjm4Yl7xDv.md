@@ -4,7 +4,7 @@
 
 > your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Selena Gomez, Gracie Abrams, benny blanco
 
-458 songs - 1 day 0 hr 0 min
+459 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-09-27 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-10-04 |  |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-11-06 | 2023-11-25 |
+| [With You \(with Sofia Camara\)](https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [With You \(with Sofia Camara\)](https://open.spotify.com/album/703OfuxHtlcsnrdZvAjkan) | 3:08 | 2025-03-06 |  |
 | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 | 2023-11-24 | 2024-03-02 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 | 2024-09-28 |
 | [word vomit](https://open.spotify.com/track/70xpZOsRTZHf4vX2bzCGug) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [word vomit](https://open.spotify.com/album/7tS1Iw3bGvG00RXpcvjZRk) | 3:32 | 2024-03-15 | 2024-07-27 |

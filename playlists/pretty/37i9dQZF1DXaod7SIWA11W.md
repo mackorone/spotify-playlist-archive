@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Terrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,428 likes - 74 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,481 likes - 74 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

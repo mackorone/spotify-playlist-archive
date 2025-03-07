@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWp9JrEQN7W1.md) - [plain]
 
 > Something cute for baddies doing their hair and make\-up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,255 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,490 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

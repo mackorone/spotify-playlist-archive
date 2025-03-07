@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Platform
+> What is your love language? Say it in Swahili\.  Cover: Jovial
 
-280 songs - 15 hr 50 min
+282 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-08-04 | 2024-11-08 |
 | [Itakuwaje](https://open.spotify.com/track/6KaOabG3gQtpXkcjIrZpFO) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Itakuwaje](https://open.spotify.com/album/2iRNMnHtUMbySqQWCpGbov) | 3:43 | 2024-10-24 |  |
 | [Itakuwaje \(feat\. Alikiba\)](https://open.spotify.com/track/2M0ARj6GrBRj7JM6iD774D) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Sama](https://open.spotify.com/album/4X5BPDkG9mXJCqD19ZokTv) | 3:19 | 2024-11-07 |  |
+| [I’m in Love](https://open.spotify.com/track/0S8sYk7nIChReBozy6jj4v) | [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Flamingo](https://open.spotify.com/album/75S808mAq3BhRWEFBnYnCk) | 3:24 | 2025-03-07 |  |
 | [Je T Aime](https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Je T Aime](https://open.spotify.com/album/3i9QRcRD7cre4ZNIRDbxUj) | 4:16 | 2024-05-09 | 2024-10-04 |
 | [Jeraha](https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Jeraha](https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O) | 3:01 | 2022-05-26 | 2024-11-15 |
 | [Jinadi](https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Jinadi](https://open.spotify.com/album/7pS8jFmqBRfhGk7tgFz2Cp) | 2:38 | 2022-11-10 | 2023-01-20 |
@@ -261,6 +262,7 @@
 | [Umenifunza](https://open.spotify.com/track/5UHSY2tBysMxVnNHT2X4FL) | [DVoice](https://open.spotify.com/artist/7EHcencvvb9Vx84WqlglZS) | [Swahili Kid](https://open.spotify.com/album/28c8WkCI0O9D6CKbN5oH0t) | 3:31 | 2024-03-14 | 2024-03-22 |
 | [Umenipata](https://open.spotify.com/track/1LRwzKCREJGQhQJm1XDGMN) | [Shetta](https://open.spotify.com/artist/1UaXKMZaYJipBoWQS9XdCT), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Umenipata](https://open.spotify.com/album/2oJobikik4V1YQ6hr4Wzpi) | 2:58 | 2023-07-20 | 2023-11-24 |
 | [Umeniweza](https://open.spotify.com/track/6tPnKaaMMBzCZaiGGflRmR) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Above & Beyond](https://open.spotify.com/album/3ggNsXYLqKEx7Chc0Gl2BM) | 3:49 | 2023-08-03 | 2023-12-01 |
+| [Unanifaa](https://open.spotify.com/track/1h1mm9Hp4V8gDVBx0FB4sr) | [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Unanifaa](https://open.spotify.com/album/7duSQWmI6IcwqBIHb6Lmn5) | 3:34 | 2025-03-07 |  |
 | [Unanifaa](https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Unanifaa](https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW) | 3:18 | 2024-06-20 | 2024-10-18 |
 | [Unanifaa](https://open.spotify.com/track/3q81v91aFYkdrEYqJxB5PD) | [Taffa](https://open.spotify.com/artist/44lGZ9vJnHuATkGDWNB9vq) | [Unanifaa](https://open.spotify.com/album/1nTkTNj7XrcLcrGxkos0OG) | 3:16 | 2022-06-30 | 2023-03-03 |
 | [Unavyonipenda](https://open.spotify.com/track/6eAfkVy819EFu8xOdcwkFR) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Unavyonipenda](https://open.spotify.com/album/7y3gLS4YLeD5i9NhdTxvD6) | 3:44 | 2022-05-26 | 2022-09-30 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Flow so good, it deserved a reload.  Cover: Snowy",
+  "description": "Flow so good, it deserved a reload.  Cover: Ruff Sqwad",
   "name": "Grime Shutdown",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 201588,
       "name": "A ROADMAN'S TALE OF HOME",
       "url": "https://open.spotify.com/track/6kkUaLzdlga6I4fRBkWxVq"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 174857,
       "name": "Back2Back",
       "url": "https://open.spotify.com/track/1JEpTpdCF5CuM9qhH7JAkr"
@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "Bine",
+        "url": "https://open.spotify.com/album/35l2jyirhnJzTIunWDRg5t"
+      },
+      "artists": [
+        {
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171433,
+      "name": "Bine",
+      "url": "https://open.spotify.com/track/5FgyfxTkE1KysK206WG76p"
+    },
+    {
+      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr"
       },
@@ -608,7 +630,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 221035,
       "name": "Boiling Point",
       "url": "https://open.spotify.com/track/0z02GgxKHHvIGKPPOE3QDZ"
@@ -1459,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "DeepWun",
+        "url": "https://open.spotify.com/album/5rfzrONXjw07HCwOlfb0zD"
+      },
+      "artists": [
+        {
+          "name": "FriendFromHome",
+          "url": "https://open.spotify.com/artist/7xqoiDRU4lcQB4kPRhKgQI"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79436,
+      "name": "DeepWun",
+      "url": "https://open.spotify.com/track/2LT4aVn5s6FhnR5rQdCyrh"
+    },
+    {
+      "album": {
         "name": "Magnum & Durags",
         "url": "https://open.spotify.com/album/4jzRFHrU0d5tA9EYTLgL3a"
       },
@@ -1700,7 +1740,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 165300,
       "name": "DON'T TRY IT",
       "url": "https://open.spotify.com/track/5Vzjh1O4SB35pft5a1id0T"
@@ -1996,6 +2036,40 @@
       "duration_ms": 180000,
       "name": "Exercise",
       "url": "https://open.spotify.com/track/7dMnwxwno1vlYvs1DeEarL"
+    },
+    {
+      "album": {
+        "name": "Spin That (Season 3 Episode 1: Grindhouse Producer Edition) [Live]",
+        "url": "https://open.spotify.com/album/5qEnCc5kxuKExcVpKD8Yjh"
+      },
+      "artists": [
+        {
+          "name": "Grindhouse",
+          "url": "https://open.spotify.com/artist/2662Pq8dfZBO2l7PxrUUOi"
+        },
+        {
+          "name": "Music Militia",
+          "url": "https://open.spotify.com/artist/2qiX7hVaA84AZ9JyjUFCYS"
+        },
+        {
+          "name": "Burrows140",
+          "url": "https://open.spotify.com/artist/7asV45JnVpfpAvWqrvNYpi"
+        },
+        {
+          "name": "Krxze",
+          "url": "https://open.spotify.com/artist/4IB5dKA8cOqIXzokiVolBR"
+        },
+        {
+          "name": "London Lawz",
+          "url": "https://open.spotify.com/artist/4WWZC1ZYljx5DbqWRJlyqz"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80718,
+      "name": "Eyeper - Live",
+      "url": "https://open.spotify.com/track/6NevSVFJclCFaN3KduW5hO"
     },
     {
       "album": {
@@ -2881,6 +2955,32 @@
     },
     {
       "album": {
+        "name": "FLEE FM 2",
+        "url": "https://open.spotify.com/album/6emgWmHrUJZ3oEQUXKrA98"
+      },
+      "artists": [
+        {
+          "name": "Ruff Sqwad",
+          "url": "https://open.spotify.com/artist/67POQUr9E4V8GpQxqQ5d8I"
+        },
+        {
+          "name": "Roachee",
+          "url": "https://open.spotify.com/artist/191sZK8RPieTUi9c9N1AZj"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Lentil Crisp",
+      "url": "https://open.spotify.com/track/5wZUKjRt9VPsRg3FtOlDL4"
+    },
+    {
+      "album": {
         "name": "LEON EDWARDS",
         "url": "https://open.spotify.com/album/6YdwT2IMPVAuE3sVYySrvO"
       },
@@ -3150,7 +3250,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 168785,
       "name": "Man Like Me",
       "url": "https://open.spotify.com/track/3StmhrzmoP8jegyTWZQrQj"
@@ -3730,7 +3830,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 195428,
       "name": "O.T Trips",
       "url": "https://open.spotify.com/track/56bPo1Gx7Gs9vYhshsjVsK"
@@ -3994,6 +4094,32 @@
       "duration_ms": 134492,
       "name": "Practice Hours",
       "url": "https://open.spotify.com/track/2FNTTRzgtuNa8enntR4ed8"
+    },
+    {
+      "album": {
+        "name": "Practice Hours",
+        "url": "https://open.spotify.com/album/6y4xv9kI4o5bZOFLTWHTom"
+      },
+      "artists": [
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        },
+        {
+          "name": "Slix",
+          "url": "https://open.spotify.com/artist/56fYK2oDhViQcuZ0AnCotQ"
+        },
+        {
+          "name": "RB",
+          "url": "https://open.spotify.com/artist/5B7g6rz4LfxYDh24T9issl"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Practice Hours",
+      "url": "https://open.spotify.com/track/36aNPoQVCaxZXhJRwIWAO5"
     },
     {
       "album": {
@@ -4562,7 +4688,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 189322,
       "name": "Skeem Set",
       "url": "https://open.spotify.com/track/0CrZGWJgOdWYDXxuM48gCe"
@@ -4676,6 +4802,24 @@
       "duration_ms": 229456,
       "name": "Slice of the Pie",
       "url": "https://open.spotify.com/track/484PQkrz1cx6S5AlPzpjkT"
+    },
+    {
+      "album": {
+        "name": "Somebody Help?",
+        "url": "https://open.spotify.com/album/5sUHs8jEOc4nwJkeWgfssW"
+      },
+      "artists": [
+        {
+          "name": "Twenty'8",
+          "url": "https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164832,
+      "name": "Somebody Help?",
+      "url": "https://open.spotify.com/track/4nVlovvJ5GnA7JgSBhNs7e"
     },
     {
       "album": {
@@ -5492,6 +5636,28 @@
       "duration_ms": 139285,
       "name": "Vision",
       "url": "https://open.spotify.com/track/2GCCsigV4jpXwnE5mpCs5p"
+    },
+    {
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6j7aJQ0PIQzwXQ9clLQ9yW"
+      },
+      "artists": [
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/652iM8dXxavL5lgExQ5zt1"
     },
     {
       "album": {

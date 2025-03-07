@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: The La Planta, Emanero & Abel Pintos.
 
-523 songs - 1 day 5 hr 38 min
+524 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Agüita](https://open.spotify.com/track/5iPKyio003pi14w0xjXR5m) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Megamix](https://open.spotify.com/album/3Cbl0a3SPzkwd0537ju3WS) | 3:33 | 2023-04-11 | 2023-09-02 |
 | [Agüita](https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:34 | 2022-01-14 | 2023-01-21 |
 | [Ahora Que Te Vas](https://open.spotify.com/track/5rsFQUSjouRx188w4O0xMm) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Ahora Que Te Vas](https://open.spotify.com/album/40XAu7HbtYFVUxTP32UyFj) | 2:45 | 2022-07-15 | 2022-07-23 |
+| [Ahora Resulta](https://open.spotify.com/track/4Kn1qDeYfuL53YJTKq4vTA) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Ahora Resulta](https://open.spotify.com/album/1aQur6ki98vcoOW0cGopFy) | 2:27 | 2025-03-07 |  |
 | [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 | 2023-09-01 | 2023-11-18 |
 | [Algún Día Volveras](https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volveras](https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC) | 4:13 | 2022-01-14 | 2022-07-28 |
 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 | 2022-07-22 | 2024-04-19 |
@@ -295,7 +296,7 @@
 | [Muñequito de Peluche](https://open.spotify.com/track/3PXeR8XO9uPbtEkRHZD3DL) | [Conjunto Musical Orlando Ayunes](https://open.spotify.com/artist/030U2Bb48fTzzhk3NxcQZC) | [Vamos por Mas..](https://open.spotify.com/album/1DUW4lrfFjQ1CO9hPhQdck) | 3:00 | 2022-01-21 | 2022-06-23 |
 | [My Immortal](https://open.spotify.com/track/1n3VJm6IZKXLoKGHTVCR1D) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [My Inmortal](https://open.spotify.com/album/1oozi3zB0CsLUkaP4d5GeL) | 3:57 | 2025-02-21 | 2025-03-01 |
 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 | 2022-01-14 |  |
-| [Necesito](https://open.spotify.com/track/2gsYr7u3RcoYd4kUDXKmQd) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [AMOR FUGAZ](https://open.spotify.com/album/5pvGimlCebJeLTwOxjHEXR) | 2:40 | 2024-10-18 |  |
+| [Necesito](https://open.spotify.com/track/2gsYr7u3RcoYd4kUDXKmQd) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [AMOR FUGAZ](https://open.spotify.com/album/5pvGimlCebJeLTwOxjHEXR) | 2:40 | 2024-10-18 | 2025-03-07 |
 | [Nena](https://open.spotify.com/track/4qHSgPyOs1okb7DUt4cDvX) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Nena](https://open.spotify.com/album/4rUKRKAkFJHo2EU5PJu5b1) | 3:07 | 2025-01-24 |  |
 | [Ni Lágrimas Tenía](https://open.spotify.com/track/0JGcnmk3DXRaAHTi6jRNlI) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Ni Lágrimas Tenía](https://open.spotify.com/album/7M7yupKqSG9jmyBqFE54J8) | 2:36 | 2024-06-21 | 2024-08-31 |
 | [Ni Una Ni Dos](https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Ni Una Ni Dos](https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey) | 2:38 | 2023-06-30 |  |

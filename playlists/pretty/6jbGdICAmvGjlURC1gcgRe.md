@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6jbGdICAmvGjlURC1gcgRe.md) - [plain]
 
 > Jazzy soul and rnb ballads to wake you up and lift your mood...
 
-[Spotify](https://open.spotify.com/user/spotify) - 137 likes - 30 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 136 likes - 30 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

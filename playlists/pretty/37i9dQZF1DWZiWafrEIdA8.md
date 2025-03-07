@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,441 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,445 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -5157,6 +5157,24 @@
     },
     {
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/26Z5V2PyiNfG3nOmtpdNRT"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199915,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4oIwqUDqcKyF8M5bmFY8Ax"
+    },
+    {
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
@@ -9488,7 +9506,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 143242,
       "name": "POWER",
       "url": "https://open.spotify.com/track/0Q7PMMu2ZDQDF5VjlCOBfc"
@@ -10278,7 +10296,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -17930,7 +17948,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 209819,
       "name": "\u6c92\u5565\u597d\u8aaa",
       "url": "https://open.spotify.com/track/5F5LOb2vpSW0RHiEQDUq8f"

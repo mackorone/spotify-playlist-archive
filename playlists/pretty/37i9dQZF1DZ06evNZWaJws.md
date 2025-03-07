@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,546 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,599 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

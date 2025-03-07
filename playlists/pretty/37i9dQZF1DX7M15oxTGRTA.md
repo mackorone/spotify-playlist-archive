@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,821 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,899 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

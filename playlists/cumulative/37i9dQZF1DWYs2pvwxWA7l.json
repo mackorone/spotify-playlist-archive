@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Kel P & Wande coal ",
+  "description": "The hottest Afropop records on the planet.  Cover: Ayra Starr",
   "name": "Afropop",
   "tracks": [
     {
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 190735,
       "name": "Call Again",
       "url": "https://open.spotify.com/track/31Kunh3BOAccQ5EHXkJkz5"
@@ -8713,6 +8713,28 @@
     },
     {
       "album": {
+        "name": "ROZEY",
+        "url": "https://open.spotify.com/album/02boWZX3nExhtEQlXP0eA4"
+      },
+      "artists": [
+        {
+          "name": "Rose May Alaba",
+          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160508,
+      "name": "OMN",
+      "url": "https://open.spotify.com/track/0CAUa9kxePlhXkBTQ9nBGz"
+    },
+    {
+      "album": {
         "name": "One Call",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -8918,7 +8940,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 150000,
       "name": "Ori Mi",
       "url": "https://open.spotify.com/track/4GVTQJCXD05fdxWrPu1ptK"
@@ -11786,6 +11808,24 @@
       "duration_ms": 176453,
       "name": "Talibans II",
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
+    },
+    {
+      "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj"
     },
     {
       "album": {

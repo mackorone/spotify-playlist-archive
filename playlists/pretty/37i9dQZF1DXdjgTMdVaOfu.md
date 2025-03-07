@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 
 > Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,551 likes - 53 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,708 likes - 53 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,637 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,641 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

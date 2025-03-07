@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,900 likes - 117 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,930 likes - 117 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

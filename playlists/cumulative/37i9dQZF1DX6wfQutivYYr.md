@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Fedez sulla cover della playlist più grande in Italia! 🏆
+> Giorgia sulla cover della playlist più grande in Italia! 🏆
 
 176 songs - 9 hr 9 min
 
@@ -171,7 +171,7 @@
 | [TU ED IO \(feat\. Rose Villain\)](https://open.spotify.com/track/7pQA55G6kvMIaNU4UcYktA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 3:03 | 2024-12-03 |  |
 | [Tu Me Quieres \- Prod\. by Higashi x Roberto Ferrante](https://open.spotify.com/track/00URgxWgyVoybGLhhmKr7g) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Tu Me Quieres](https://open.spotify.com/album/7DCQMEasHZn2y5VHAmSlBF) | 3:34 | 2024-11-15 |  |
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-06-28 | 2024-08-02 |
-| [Tutta L'Italia \- Sanremo 2025](https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Tutta L'Italia \(Sanremo 2025\)](https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb) | 2:56 | 2025-02-17 |  |
+| [Tutta L'Italia](https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Tutta L'Italia](https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb) | 2:56 | 2025-02-17 |  |
 | [Tutti i giorni](https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:18 | 2025-01-17 | 2025-02-21 |
 | [Un mondo a parte](https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Il corpo umano VOL\. 1](https://open.spotify.com/album/5GElpFAAm9NuWFau9h9Oj9) | 4:00 | 2025-02-27 |  |
 | [Vai!](https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vai!](https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL) | 2:36 | 2024-06-28 | 2024-07-19 |

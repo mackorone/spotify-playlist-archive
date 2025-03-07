@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Yura Yunita
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Last Child
 
-331 songs - 21 hr 54 min
+334 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 | 2025-01-30 |  |
 | [Berharap Kau Kembali](https://open.spotify.com/track/39KLpL6U90nMI1GzaBuv1s) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Berharap Kau Kembali](https://open.spotify.com/album/1PjtBnzBSScqyw9ZWaDaBV) | 4:18 | 2024-02-01 | 2025-02-14 |
 | [Berharap Pada Timur](https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 3:41 | 2025-01-23 |  |
+| [Berjalan Tanpamu](https://open.spotify.com/track/2jK5xdblU0nlbBFO9Bjgq4) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Kekal Yang Sementara](https://open.spotify.com/album/5UIos6Mz9ip3sRWI9lyZph) | 4:16 | 2025-03-06 |  |
 | [Berjuang Sekali Lagi](https://open.spotify.com/track/21I0SxYD4D1KhKe7VIPl9J) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Ribuan Rindu](https://open.spotify.com/album/328DciGsj3VvYYwD46MDjn) | 3:24 | 2025-02-20 |  |
 | [Berlalu](https://open.spotify.com/track/5BoOfotbJbhCJ05l3Gw2bV) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Berlalu](https://open.spotify.com/album/1MsLzxbDF2l8yQ1y7azYou) | 3:19 | 2024-03-28 | 2024-05-17 |
 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 | 2024-05-03 | 2025-02-14 |
@@ -167,6 +168,7 @@
 | [Kumpul Bocah \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/0V6nKCvWMIXgsvyiSyiLPT) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kumpul Bocah \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/23qxIsMBrP5jSrF66At2dt) | 4:15 | 2025-02-27 |  |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-04-18 | 2025-02-14 |
 | [La La Song](https://open.spotify.com/track/3wLSTqMIrKEeQdqU7FPFk2) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [La La Song](https://open.spotify.com/album/2wYJtQmP4KLXjJ0pyuKVqY) | 1:47 | 2024-11-29 | 2025-01-10 |
+| [Lagu Patah Hati](https://open.spotify.com/track/1vtiEbpFDzgR8JNaWtYC6N) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Lagu Patah Hati](https://open.spotify.com/album/47tLbn2cvFwtzBJY65ai7d) | 4:39 | 2025-03-06 |  |
 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 | 2024-02-01 | 2024-07-27 |
 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:16 | 2024-04-18 | 2024-05-24 |
 | [Lama\-Lama](https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:04 | 2024-08-07 | 2025-02-14 |
@@ -267,6 +269,7 @@
 | [Semua lagu cinta](https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:51 | 2024-05-03 | 2024-06-07 |
 | [Semula](https://open.spotify.com/track/11JHhRhXGfct6c41wYbKti) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Semula](https://open.spotify.com/album/1yrDwJMvVbuwnzLq7ZENPt) | 3:56 | 2024-10-10 | 2024-11-15 |
 | [Semula \- Acoustic](https://open.spotify.com/track/38H4E0QvhCmx5idm88Q4jy) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [Semula \- Acoustic](https://open.spotify.com/album/0mqJOszkKxXtXPT85SpxAc) | 3:56 | 2024-12-12 | 2025-01-10 |
+| [Senandung Bahagia](https://open.spotify.com/track/2KbrlHsYsWDRM30tRYuXA6) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Senandung Bahagia](https://open.spotify.com/album/0dUpg4AlF3gv5KBChxx9mY) | 3:20 | 2025-03-06 |  |
 | [Senja Teduh Pelita \- Unplugged](https://open.spotify.com/track/6s3hkiLTPjhLy27Is1pVTz) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita \(Unplugged\)](https://open.spotify.com/album/2oJEg2EW2YBs9WdMPalTck) | 3:51 | 2024-12-05 | 2025-02-07 |
 | [Senyumin Dulu Aja](https://open.spotify.com/track/2DpWJsNrCjkXkk7aW3lC9A) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Senyumin Dulu Aja](https://open.spotify.com/album/6ZHe5db0j2FZrxuu6tqsb2) | 2:35 | 2024-10-24 | 2024-12-13 |
 | [Sepenuh Hati](https://open.spotify.com/track/5FInkXMyxWHOvwejaEnPRd) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sepenuh Hati](https://open.spotify.com/album/1SCxm7IxbHVv9my7yM832a) | 4:07 | 2024-03-28 | 2025-02-14 |

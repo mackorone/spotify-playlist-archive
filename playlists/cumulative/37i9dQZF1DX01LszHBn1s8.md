@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> show me love♥️, don't need no money
+> anxieetyyyy keep on trying meeeee 😓
 
 1,590 songs - 3 day 11 hr 52 min
 

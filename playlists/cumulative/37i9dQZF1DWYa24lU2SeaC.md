@@ -4,7 +4,7 @@
 
 > Tous vos titres Disney préférés incluant la musique de Mufasa : Le Roi lion, Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
 
-135 songs - 7 hr 2 min
+136 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [If Only](https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:49 | 2024-05-02 |  |
 | [Il En Faut Peu Pour Être Heureux](https://open.spotify.com/track/3ZYFquS2kFkF4cjyuCgBqN) | [Jean Stout](https://open.spotify.com/artist/0WfXLwM87tlIfRLHkr7Z9Y), [Pascal Bressy](https://open.spotify.com/artist/6BYAOdRk7GIT2HaJVKAhPK) | [The Jungle Book Original Soundtrack \(French Version\)](https://open.spotify.com/album/6k3BwalwdZYIxpgGzNH4BP) | 4:42 | 2023-12-23 |  |
 | [Il faut des copains](https://open.spotify.com/track/1bof2ma5JVyoNRljx6lyGo) | [Tahar Rahim](https://open.spotify.com/artist/41XMfGfiHMsE2ZG5uPO2zT), [Gwendal Marimoutou](https://open.spotify.com/artist/6Jwg4UCgZH3Pa7oDPlBYhe), [Aurélie Konaté](https://open.spotify.com/artist/03YzHJQMboF9bbj0INXpPV), [Alexis Tomassian](https://open.spotify.com/artist/6orSRGs915ZqV22iySPs4x), [Jean\-Michel Vaubien](https://open.spotify.com/artist/5w6l1iNNbqhQVzlmkYADBr) | [Mufasa : Le Roi Lion \(Bande Originale Française du Film\)](https://open.spotify.com/album/62azXlFEzdEXbjjVXdEpO3) | 2:44 | 2024-12-13 |  |
+| [Il suffit d'un souhait \- De "Blanche Neige"](https://open.spotify.com/track/3eKgckd6w7V8nTMdMtBJ3u) | [Emmylou Homs](https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys) | [Il suffit d'un souhait \(De "Blanche Neige"\)](https://open.spotify.com/album/37J21zeJWF0nOi8SSBigKg) | 4:51 | 2025-03-07 |  |
 | [Il vit en toi \- Extrait de "Le roi lion 2"](https://open.spotify.com/track/0O7iSKxuvENgKJgcxZiRA7) | [Cerise Calixte](https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP) | [Cerise chante Disney](https://open.spotify.com/album/4FnIWttm1PSxROpp2daoLs) | 3:39 | 2023-09-15 |  |
 | [In This Place](https://open.spotify.com/track/2cOE7d35PyfAh9M7DglPk0) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Ralph Breaks the Internet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YWNDk8pwKyWE9PhjCTiJG) | 3:21 | 2023-09-15 | 2024-05-03 |
 | [Into the Unknown](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:14 | 2023-09-15 |  |

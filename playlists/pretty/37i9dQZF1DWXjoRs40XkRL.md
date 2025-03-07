@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,854 likes - 75 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,873 likes - 75 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

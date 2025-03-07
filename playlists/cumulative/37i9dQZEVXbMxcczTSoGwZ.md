@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,451 songs - 5 day 9 hr 19 min
+2,452 songs - 5 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1805,6 +1805,7 @@
 | [Sata vuotta](https://open.spotify.com/track/4JOQfZXLJ1bFKTl1uimWhz) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:32 | 2023-09-23 | 2023-10-15 |
 | [Satama](https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Satama](https://open.spotify.com/album/1w9whtxDsbfopzVe6hlWjS) | 2:40 | 2023-12-02 | 2024-04-21 |
 | [Satama](https://open.spotify.com/track/3uFYqmo1tBXqITBLsnHsUx) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Pisara meressä](https://open.spotify.com/album/3fTUkVNp5a3EgCh9Q4NpXA) | 2:40 | 2024-04-20 | 2025-01-09 |
+| [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-03-07 |  |
 | [Satasen laina](https://open.spotify.com/track/0WCIEvk4rSbqSNIdRPIzhF) | [90's FIN Cover Boyz & Girlz!](https://open.spotify.com/artist/1Zr5kGpWfxy6auQn5bTpmG) | [Satasen laina](https://open.spotify.com/album/6uUHuWq38JonHiCCAJZtgA) | 2:45 | 2021-06-13 | 2021-07-25 |
 | [Sateenkaaret on pyöreitä](https://open.spotify.com/track/3muAyFD0nIA5Y3APoSzfCB) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Sateenkaaret on pyöreitä](https://open.spotify.com/album/2DyBHjFwYR2vkUsLltXZpA) | 2:57 | 2025-03-01 | 2025-03-03 |
 | [Sateenkaari pimeessä](https://open.spotify.com/track/14CyT6n2eKYUpqXyMOzLAc) | [Kaija Koo](https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq) | [Taipumaton](https://open.spotify.com/album/2I7fnl4WDLYq4oego2UnFz) | 4:31 | 2021-04-26 | 2021-05-23 |
@@ -2246,7 +2247,7 @@
 | [Vainois](https://open.spotify.com/track/33DB1mfU2H8dJe7ZhpkTBC) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Vainois](https://open.spotify.com/album/7HYwh2KXmOL0v1nAj0X6Nr) | 2:38 | 2022-09-17 | 2022-10-02 |
 | [Vaisto \(feat\. Juuna Chill\)](https://open.spotify.com/track/31lZDgdGLl7bzGcVqtuWdr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Vaisto \(feat\. Juuna Chill\)](https://open.spotify.com/album/3CvcY3DQFo8nLf8pA4qCG5) | 2:25 | 2024-06-15 | 2025-02-23 |
 | [Valheista kaunein](https://open.spotify.com/track/2W1fGOBi9irc3iLZb6D7Pp) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Valheista kaunein](https://open.spotify.com/album/2AtAyhsTL41uPOSyOo2AZz) | 2:40 | 2024-05-04 | 2024-06-24 |
-| [Valinnu mun tien](https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Valinnu mun tien](https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp) | 3:01 | 2025-03-01 |  |
+| [Valinnu mun tien](https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Valinnu mun tien](https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp) | 3:01 | 2025-03-01 | 2025-03-07 |
 | [Valitsen sut uudestaan](https://open.spotify.com/track/7cg8ofhgWu6NnXfHdtYURF) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9) | [Valitsen sut uudestaan](https://open.spotify.com/album/5sXnkmYd7sxE9jaa67pzcB) | 3:37 | 2024-11-30 | 2024-12-06 |
 | [Valitsisin sut](https://open.spotify.com/track/5s2fUGB8Cw08rBxlMKm9Ge) | [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM) | [Valitsisin sut](https://open.spotify.com/album/3PFKKQINXWOgnuT1Cld2gO) | 3:19 | 2021-09-19 | 2021-10-18 |
 | [Valmiina futaa](https://open.spotify.com/track/0MDLQGQ0txcIdo440A1q7N) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Valmiina futaa](https://open.spotify.com/album/1VZr8uq1l2CyM1h8QahS2V) | 2:55 | 2021-06-14 | 2021-08-31 |

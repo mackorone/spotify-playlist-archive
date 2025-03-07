@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> Det bedste nye pop 💜 Ameli Dot
+> Det bedste nye pop 💛 Sofie1998
 
-382 songs - 19 hr 23 min
+388 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-15 | 2024-10-04 |
 | [Call Me A Dreamer](https://open.spotify.com/track/40REbNWViDmfb9b3DxbfpQ) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf) | [Call Me A Dreamer](https://open.spotify.com/album/2VfsX7bUKuRSuArqNTXQd9) | 2:34 | 2024-08-09 | 2025-01-17 |
 | [Campingsangen](https://open.spotify.com/track/6ih43fu9hehE11lbYXsRNK) | [Campisterne](https://open.spotify.com/artist/6MfSS7IUnmZSUbHpCMfiZU) | [Campingsangen](https://open.spotify.com/album/16mWHI96ZgaDTuLp6L5cjw) | 2:33 | 2025-02-13 |  |
+| [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 | 2025-03-06 |  |
 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 | 2024-09-26 |  |
 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 | 2024-08-29 | 2024-10-04 |
 | [Cheat Code](https://open.spotify.com/track/3rGYQLxtPkFSgrEPkgUX5t) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Cheat Code](https://open.spotify.com/album/4n6aFAgYI9y2bY9IaoB6VW) | 2:29 | 2024-06-27 | 2024-07-06 |
@@ -82,6 +83,7 @@
 | [Day & Night](https://open.spotify.com/track/3GeaYrqVpgZvTDIz7L6BW7) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Day & Night](https://open.spotify.com/album/16JG83fJ82wz6Rb88BsebO) | 3:24 | 2024-06-27 | 2024-08-30 |
 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-02-27 |  |
 | [Dem Der Forsvandt](https://open.spotify.com/track/4nUGbPojoiw0teXQB9n0KE) | [Jacob Aksglæde](https://open.spotify.com/artist/38OuwRRstYfgqeP4EciiWU) | [Dem Der Forsvandt](https://open.spotify.com/album/4qXUi5QDBN6PYyMQFAxMaR) | 2:48 | 2025-01-02 | 2025-01-17 |
+| [Det sker alt for tit](https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Det sker alt for tit](https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB) | 3:07 | 2025-03-06 |  |
 | [Det Vi Ikke Er](https://open.spotify.com/track/50Sjt66zfYquUdqs8bE5WB) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Det Vi Ikke Er](https://open.spotify.com/album/4EHd8w47w3mmOqKpbmhuTq) | 2:43 | 2024-10-18 |  |
 | [Det Ønsker Jeg For Dig](https://open.spotify.com/track/3tqRWbqid8syEuHFnrpALx) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [For Evigt I Går](https://open.spotify.com/album/7jLGoAldNIM7iBrZBK1oHu) | 2:57 | 2025-02-27 |  |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-27 | 2024-10-04 |
@@ -119,6 +121,7 @@
 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 | 2024-10-03 | 2025-01-24 |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-19 | 2025-01-17 |
 | [Fartblind](https://open.spotify.com/track/5ap2LagBiIXYkxuROXgv9q) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Fartblind](https://open.spotify.com/album/7EoVkxuxuEOqh483a52H8f) | 3:38 | 2024-06-27 |  |
+| [Favela](https://open.spotify.com/track/2sFJkBZ6RKHp6qeiCyRHIa) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Favela](https://open.spotify.com/album/1gLQEOLpUth8DBXKLXJ8sf) | 2:46 | 2025-03-06 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-27 | 2024-10-04 |
 | [Ferrari](https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:41 | 2024-06-27 | 2024-07-06 |
 | [Festa Festa](https://open.spotify.com/track/5VQuouliEnPnqPsNc0mzrD) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Festa Festa](https://open.spotify.com/album/2g0RRlYHi2IEMfD9U4H7sy) | 2:24 | 2025-01-30 |  |
@@ -167,6 +170,7 @@
 | [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-02-13 |  |
 | [HJEM FRA MÅNEN \(feat\. PRISMA\)](https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2), [PRISMA](https://open.spotify.com/artist/5b02TpKt4S8eb9f7Smg8Au) | [DRØMMEHUG](https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV) | 2:48 | 2024-10-10 | 2025-01-17 |
 | [Hjerte Til Salg](https://open.spotify.com/track/4qHcg5avMz0IJdzvTMJimy) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Fri](https://open.spotify.com/album/6IihVWau3jW3N1ho4ySKDk) | 2:42 | 2024-11-14 | 2025-01-17 |
+| [Hjertestarter \(feat\. Emil Kruse\)](https://open.spotify.com/track/5j8ejBJrE9crTkPq37QbrR) | [Anthon Edwards](https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Venner Med Alle](https://open.spotify.com/album/77iWFprLol9CTzmUTOhVKP) | 2:58 | 2025-03-06 |  |
 | [Home](https://open.spotify.com/track/0qwyIfFh15V40SrPqiYcgW) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Home](https://open.spotify.com/album/539iarhmTZTyjeyxPQPJeL) | 3:19 | 2024-10-10 |  |
 | [HOMESICK](https://open.spotify.com/track/1LgtiOd4QwvRSrY6ebiaSW) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [HOMESICK](https://open.spotify.com/album/5z6Aa2gtISXvVSzrb1ZlYH) | 2:49 | 2024-09-04 | 2024-10-04 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 | 2024-06-27 | 2024-08-30 |
@@ -278,6 +282,7 @@
 | [Over Stregen](https://open.spotify.com/track/7bGBVGp05vZPjuLMxjUk2L) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ) | [Over Stregen](https://open.spotify.com/album/2XAX36G82b5vemhVLHggEx) | 2:54 | 2024-06-27 | 2024-11-08 |
 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-24 | 2025-01-17 |
 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 | 2024-06-27 | 2024-08-30 |
+| [Permanent Scars](https://open.spotify.com/track/3vCAtFMJ5w9DXecfWyLhMT) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Permanent Scars](https://open.spotify.com/album/46tPXpvVP5QdTWdC2wavPr) | 3:35 | 2025-03-06 |  |
 | [Pillow In My Arms](https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [ver2igo vol\. 2](https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav) | 3:16 | 2024-06-27 | 2024-07-30 |
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-06-27 | 2024-07-30 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-27 | 2024-08-23 |
@@ -367,6 +372,7 @@
 | [Ulykkelig](https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ulykkelig](https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc) | 2:16 | 2024-09-11 | 2024-10-04 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-27 | 2024-11-08 |
 | [USB](https://open.spotify.com/track/4S9p8TRkZA9z53rDjwu032) | [Emil Lange](https://open.spotify.com/artist/4UxkyClhUPBeJjyGwHvgaV), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [USB](https://open.spotify.com/album/1qBhQXg3Z2yRdDUImIHe5O) | 2:45 | 2024-06-27 | 2024-10-04 |
+| [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-06 |  |
 | [Vend Om](https://open.spotify.com/track/37ez8CGYIVe5nQQjVK2Whf) | [Micky Skeel](https://open.spotify.com/artist/3ml6MvdCLzBBhK2zT9AhOl) | [Vend Om](https://open.spotify.com/album/1bAJrBn0Pc6er22xbuTStG) | 3:18 | 2025-02-20 |  |
 | [Venus](https://open.spotify.com/track/0vdgqKnjg1tyIgkkzucxyJ) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Venus](https://open.spotify.com/album/5x5grG9u5thsvO2wVGeAbr) | 2:42 | 2024-06-27 | 2024-07-30 |
 | [Verdens Største Idiot](https://open.spotify.com/track/2qhqM5uFpEwCL3isdxD8rs) | [Laura4evigt](https://open.spotify.com/artist/38loz68LLQSxadt4CJZq0O) | [Verdens Største Idiot](https://open.spotify.com/album/2TWPcEGi2QFw6CpLycKVpg) | 3:25 | 2024-09-19 | 2025-01-24 |

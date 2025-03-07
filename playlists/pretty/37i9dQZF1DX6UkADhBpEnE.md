@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UkADhBpEnE.md) - [plain]
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,160 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,164 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UkADhBpEnE.md) - [plain]
 | 4 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 |
 | 5 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 |
 | 6 | [ビターバカンス](https://open.spotify.com/track/6DYV1GqwCTrvfPcjeFwjLt) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ビターバカンス](https://open.spotify.com/album/3pyb3jN1Ul9xr4zifPZxCz) | 3:18 |
-| 7 | [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 |
+| 7 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
 | 8 | [50%](https://open.spotify.com/track/4ghCcQcictNxObRdRmmk6S) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [50%](https://open.spotify.com/album/03VDTiSvAajPkP9NuMg2Nx) | 5:03 |
 | 9 | [Rock this Party](https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Rock this Party](https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf) | 3:45 |
 | 10 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 |
@@ -22,19 +22,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UkADhBpEnE.md) - [plain]
 | 12 | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 |
 | 13 | [check](https://open.spotify.com/track/1Fm2XQcm6PCa8FWfeR2HOZ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [check](https://open.spotify.com/album/6dphkeOi9tQENLM3mHT53m) | 2:02 |
 | 14 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 |
-| 15 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
-| 16 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 |
+| 15 | [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 |
+| 16 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 17 | [Wash Away](https://open.spotify.com/track/31QhiRT1GrabAIh8M1o5oR) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/2PHDddMzwXCHnB9ShTuUGI) | 3:23 |
-| 18 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
+| 18 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
 | 19 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
 | 20 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
 | 21 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 |
 | 22 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 |
 | 23 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 |
 | 24 | [Natural Sense](https://open.spotify.com/track/7tCJRLwSXRavOHSC8cH9Ek) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Natural Sense](https://open.spotify.com/album/5f15AxLlSnNZVdmejBwbro) | 2:46 |
-| 25 | [月面着陸計画](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 |
-| 26 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
-| 27 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
+| 25 | [In Real Life](https://open.spotify.com/track/2pGj2JONrsGJwGqCbzw8aC) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Clarity of Cal](https://open.spotify.com/album/2yImgiwCG9KZnxzgulVthl) | 2:57 |
+| 26 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
+| 27 | [月面着陸計画](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 |
 | 28 | [Blink Twice](https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Blink Twice](https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx) | 2:33 |
 | 29 | [亜東京 \(feat\. キタニタツヤ\)](https://open.spotify.com/track/3RUXMUcuFnfMgI20Tx5LeT) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:55 |
 | 30 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UkADhBpEnE.md) - [plain]
 | 99 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
 | 100 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 
-Snapshot ID: `Z8B+AQAAAACBhZNUwf4HkpIwyhYhpQ+c`
+Snapshot ID: `Z8m4ggAAAAALA7zevzf9Y8tVZg+9ckKk`

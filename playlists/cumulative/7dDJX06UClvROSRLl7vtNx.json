@@ -6532,6 +6532,28 @@
     {
       "album": {
         "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/6T0B7b9HkLVH265zlK9DGy"
+      },
+      "artists": [
+        {
+          "name": "EFA",
+          "url": "https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy"
+        },
+        {
+          "name": "REWEL",
+          "url": "https://open.spotify.com/artist/73UOSrluHvjIdsQE8L4hEX"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149727,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/75KK4Fcu3YrJ2ec1lfH07z"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/5g86LCQQ1debOHbZzvcTpO"
       },
       "artists": [
@@ -6546,7 +6568,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 156522,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/16vXFPx5NK5BLmcTSBf5iN"
@@ -13942,7 +13964,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 165818,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/4EtrOhTdWGVXrjQACnPQgt"

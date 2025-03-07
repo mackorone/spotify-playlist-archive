@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,739 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,740 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 | 8 | [Ewe Kwedini](https://open.spotify.com/track/0SSkytDTTZyANk2zmVqK1e) | [T\. Em](https://open.spotify.com/artist/34SG9KNrqrqPkCe4SJlRZH), [uFezekile](https://open.spotify.com/artist/60MEpj4GxzCgSVEWoPY2kw) | [Ewe Kwedini](https://open.spotify.com/album/2PyW1PhtCGj4Lk9cgmgm6E) | 6:12 |
 | 9 | [Don't Run Away](https://open.spotify.com/track/2pwQcUp9aHGBHCzjuj9mTc) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Flaws & Fears](https://open.spotify.com/album/7jfexH7J3tAH8lwhEHiw5D) | 3:02 |
 | 10 | [Skeleton Move](https://open.spotify.com/track/5rVst2E577tPxXdaBxMhmX) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Zanda Zakuza](https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe) | [Skeleton Move](https://open.spotify.com/album/543wASFWBpwhFPEbAgESPj) | 6:08 |
-| 11 | [Just a Taste](https://open.spotify.com/track/3JkSGGDGqsHPNmAwNDUV1R) | [Luka](https://open.spotify.com/artist/52RrVukaLWLFZo3vJ6ULC1), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Just a Taste](https://open.spotify.com/album/1iFfLLlPqn6FObeWPEgRkt) | 4:00 |
+| 11 | [Just a Taste](https://open.spotify.com/track/3JkSGGDGqsHPNmAwNDUV1R) | [Luka](https://open.spotify.com/artist/3s8gj1E7SV3u4IGC6Fu1Pf), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Just a Taste](https://open.spotify.com/album/1iFfLLlPqn6FObeWPEgRkt) | 4:00 |
 | 12 | [Doni](https://open.spotify.com/track/5xDrvFOMnvIKJWh4Cq9czt) | [Thee Suka](https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN), [Moish](https://open.spotify.com/artist/250WCtczB5QBdYFXjVZCQ0), [Vasilis](https://open.spotify.com/artist/7MapKuIkFuCXAjBquscMwj) | [Doni](https://open.spotify.com/album/6lCggw69ZY1NBhqWlhYkke) | 7:49 |
 | 13 | [Juba Lami](https://open.spotify.com/track/3nyXJJW7MGLxffHmfRVLYF) | [Jessica LM](https://open.spotify.com/artist/3Q259wuL2vRuisWyvYcebg), [Woza Sabza](https://open.spotify.com/artist/1BWIpSA0QKI7kRth9UG644) | [Juba Lami](https://open.spotify.com/album/1CWv9WJWAUw73RgXC70Z8P) | 5:51 |
 | 14 | [I Ain't Worried](https://open.spotify.com/track/5bSphnvBG6UW9os44iVNvP) | [The Goat Farm](https://open.spotify.com/artist/2EYdzKGnpB5Vw01QiPpcFx), [Big Gipp](https://open.spotify.com/artist/7e36DF0IaZI4JXfIf95ppT) | [I Ain't Worried](https://open.spotify.com/album/19FH7qLeJlnbRfqmJxWFa4) | 2:42 |

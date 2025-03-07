@@ -2,9 +2,9 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Cruel Santino
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: MiDi KwaKwa
 
-804 songs - 1 day 15 hr 21 min
+806 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [BAD B](https://open.spotify.com/track/63YCwa2ES06NPy2XAVaZ2j) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Osapa London](https://open.spotify.com/album/3n2FErZXaPynvMQcjaceCw) | 2:46 | 2023-07-14 | 2023-07-18 |
 | [Bad B](https://open.spotify.com/track/405M8OiaiMjWyJ92jF9uPF) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Osapa London](https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3) | 2:53 | 2023-07-14 | 2024-03-01 |
 | [Bad Bitch Syndrome](https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [Bad Bitch Syndrome](https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS) | 2:21 | 2024-12-06 |  |
-| [BAD GYAL](https://open.spotify.com/track/5eigaq3fAuCD9kcZ8YpARI) | [Yvng Chriis](https://open.spotify.com/artist/74iYrR0Iz2dNVutdfqxVJE), [Prod\. Valdo](https://open.spotify.com/artist/7uvMMgqX4EcKTxywEGhOWj) | [VALID \(THE EP\)](https://open.spotify.com/album/4PlBChW1ul3QEDnpCexa0V) | 2:49 | 2024-09-27 |  |
+| [BAD GYAL](https://open.spotify.com/track/5eigaq3fAuCD9kcZ8YpARI) | [Yvng Chriis](https://open.spotify.com/artist/74iYrR0Iz2dNVutdfqxVJE), [Prod\. Valdo](https://open.spotify.com/artist/7uvMMgqX4EcKTxywEGhOWj) | [VALID \(THE EP\)](https://open.spotify.com/album/4PlBChW1ul3QEDnpCexa0V) | 2:49 | 2024-09-27 | 2025-03-07 |
 | [Bad S.L.U.T](https://open.spotify.com/track/1kMTXy8EzI5ajckswMQ5C1) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh) | [Bad S.L.U.T](https://open.spotify.com/album/6DuWhnSyE8YAWbA8L7Qjtj) | 1:39 | 2022-08-18 | 2022-08-26 |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2022-06-16 | 2022-10-29 |
 | [Balablu](https://open.spotify.com/track/60Sewwrwex32vWYXNi6zgJ) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Hitsound](https://open.spotify.com/artist/1gkLlq1xDlp3krBv3H9zLg) | [Balablu](https://open.spotify.com/album/6bf4XCYj8Y5wvbhrFKW7S9) | 2:27 | 2023-04-27 | 2023-05-05 |
@@ -411,6 +411,7 @@
 | [Let It Be](https://open.spotify.com/track/7rWBXld9EH6tergXuv7nA3) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs) | [Let It Be](https://open.spotify.com/album/2hFJSaBNNQamwC6d4szO6x) | 3:12 | 2022-08-19 | 2022-10-29 |
 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 | 2024-04-19 | 2024-10-04 |
 | [Let It Play](https://open.spotify.com/track/0DbRMauNkXY78bzmB1fa6B) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Play](https://open.spotify.com/album/1ucEK6a8nB1piGe2HGMtZW) | 2:20 | 2024-02-09 | 2024-08-09 |
+| [Let Me Be Your Vice](https://open.spotify.com/track/7GtBGdxzC1ZFJLEC0vVFYP) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [MOONFLOWER](https://open.spotify.com/album/6CawYzSZtNzU5MvmuzbQnR) | 3:10 | 2025-03-07 |  |
 | [Let Me Go](https://open.spotify.com/track/5erVR1Kb81BQH02BowvXH4) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm) | [Let Me Go](https://open.spotify.com/album/2VwqhYq2mHTDtHPwYYNxab) | 1:53 | 2025-02-14 |  |
 | [Let The Smokers Shine The Coupes](https://open.spotify.com/track/3XyNi4ARXWBgzeDFKoJPqy) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:30 | 2024-03-21 | 2024-03-25 |
 | [LET YOU DOWN](https://open.spotify.com/track/3yderveAUP3QqHSadNZ5iq) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [LET YOU DOWN](https://open.spotify.com/album/0xjETjDt8P1ch5DHYAMjZA) | 2:59 | 2022-01-27 | 2022-04-08 |
@@ -486,7 +487,7 @@
 | [N2P](https://open.spotify.com/track/74vkHzSB21qPkxzkkMN9Ls) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 2:30 | 2022-10-13 | 2024-03-25 |
 | [Na Die](https://open.spotify.com/track/1TKw7IaM6KS2l7JxY9oplQ) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Na Die](https://open.spotify.com/album/2EoNzxyyu0EAXxjiV5t0j5) | 2:27 | 2024-03-01 | 2024-08-09 |
 | [Naija Babes](https://open.spotify.com/track/1DCUYnbWTep8rmCcSywMQw) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Naija Babes](https://open.spotify.com/album/7ntOCkGQmsuftndPLRGx26) | 2:18 | 2024-05-24 | 2024-09-13 |
-| [Naija Funk](https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Naija Funk](https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O) | 2:06 | 2024-05-03 |  |
+| [Naija Funk](https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Naija Funk](https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O) | 2:06 | 2024-05-03 | 2025-03-07 |
 | [Nang](https://open.spotify.com/track/4LAvLOhj0yCotjzB8xxmQc) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Jackuum](https://open.spotify.com/album/1WnI70R6AOPF4BdDJ6looG) | 3:05 | 2024-03-21 | 2024-03-25 |
 | [Nasa](https://open.spotify.com/track/5gcL42OzbwTHmP3aaDAo9v) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Nasa](https://open.spotify.com/album/6PysNGAvSd0sTWoDY9eMeM) | 4:04 | 2021-02-26 | 2022-04-01 |
 | [National Anthem](https://open.spotify.com/track/3ZLMCJJnkpiHUN3XddMLd7) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [National Anthem](https://open.spotify.com/album/6T9xMNizbAiouk8CZlVwHy) | 3:16 | 2023-08-17 | 2024-03-08 |
@@ -560,6 +561,7 @@
 | [Pick a Date \(J33J3\)](https://open.spotify.com/track/57gTa3UzvqgK4B3swoVyrd) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Pick a Date \(J33J3\)](https://open.spotify.com/album/3n0V8MzBccV6epodNBh3zq) | 2:12 | 2024-08-30 | 2025-02-14 |
 | [Play](https://open.spotify.com/track/7jdL6NTClwvVkJipnLRdhi) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 3:19 | 2023-09-09 | 2023-10-27 |
 | [PLT IN THE BANK](https://open.spotify.com/track/2BZnNesHOzX1fUp95S795e) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [SPAGHETTI](https://open.spotify.com/album/66lj8DYjz1Aqezk6ebxkJB) | 2:22 | 2022-12-18 | 2023-01-28 |
+| [Pocket Money](https://open.spotify.com/track/3b664cwo3plVc4sjr6soT4) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR), [Mofe.](https://open.spotify.com/artist/1KM7CSGxtFgMF8NmNuRGXa), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [First Ep!c](https://open.spotify.com/album/4THgoLc03pGAzlji1JC3dT) | 1:23 | 2025-03-07 |  |
 | [Pookie](https://open.spotify.com/track/5Q7AAQv0YGXEKRy9bTs8nz) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Pookie](https://open.spotify.com/album/6X1yNc6oCLtW9THe9shuNr) | 2:09 | 2025-02-21 |  |
 | [Pray](https://open.spotify.com/track/4JfsvpTMSYW9bU97A4PiGa) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dark Times](https://open.spotify.com/album/0WkNcmW479lQP6CjeqGE7M) | 2:44 | 2021-07-30 | 2022-09-02 |
 | [Prayed Up](https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q) | [Essilfie](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Prayed Up](https://open.spotify.com/album/60fjJwS5uH6QA7EU6u8yHB) | 2:48 | 2023-08-03 | 2023-09-10 |

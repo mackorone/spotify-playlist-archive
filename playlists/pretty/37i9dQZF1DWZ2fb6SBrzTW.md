@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,752 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,839 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

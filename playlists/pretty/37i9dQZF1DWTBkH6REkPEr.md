@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,756 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,824 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

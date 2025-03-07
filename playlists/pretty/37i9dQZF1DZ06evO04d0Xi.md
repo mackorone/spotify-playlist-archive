@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,036 likes - 51 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,044 likes - 51 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

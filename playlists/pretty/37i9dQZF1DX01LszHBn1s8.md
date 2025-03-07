@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> show me love♥️, don't need no money
+> anxieetyyyy keep on trying meeeee 😓
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,233 likes - 109 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,184 likes - 109 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
+| 1 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 |
 | 2 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
-| 3 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
-| 4 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
-| 5 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
-| 6 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
-| 7 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
-| 8 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 |
+| 3 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
+| 4 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
+| 5 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
+| 6 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
+| 7 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
+| 8 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
 | 9 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 |
 | 10 | [I'll Do It \(feat\. Pitbull\)](https://open.spotify.com/track/5k4n97WJhjr3J4faTGdIeI) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [I'll Do It \(feat\. Pitbull\)](https://open.spotify.com/album/51dVwp68x0e1GZNOgE7hyK) | 3:24 |
 | 11 | [La La La](https://open.spotify.com/track/52gvlDnre9craz9dKGObp8) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [La La La](https://open.spotify.com/album/7L2vCH0rBeI5pKefCgWcV9) | 3:40 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 108 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 |
 | 109 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
 
-Snapshot ID: `Z8hU4wAAAABwCMQyYlS56en4A9GiMtbe`
+Snapshot ID: `Z8nAiQAAAADSvERhaxMIxICInll9wf1i`

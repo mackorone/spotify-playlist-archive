@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The most essential R&B songs from the '90s\. Cover: Mary J Blige
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,710,597 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,711,040 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

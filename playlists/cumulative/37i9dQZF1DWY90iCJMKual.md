@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes ](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> PH vibin' cover: Fern.
+> PH vibin' cover: Jolianne
 
-322 songs - 17 hr 59 min
+323 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [4ever](https://open.spotify.com/track/0pzHaxiZ4ZgA4V8zqant5Y) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao), [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [4ever](https://open.spotify.com/album/2Hhyis0MdNzUCWd4fnnMIR) | 6:00 | 2023-07-28 | 2023-11-18 |
 | [4u](https://open.spotify.com/track/5KzreODVITXVze4HkoMhhZ) | [RB Slatt](https://open.spotify.com/artist/1mp3obA5hrR8GjHx95Wlrk) | [4u](https://open.spotify.com/album/0RkWVWCivVaatlwqwErefx) | 3:38 | 2023-10-02 | 2025-01-17 |
 | [Aanhin](https://open.spotify.com/track/2M8kxHDUokVYpusBRjh6PX) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [Aanhin](https://open.spotify.com/album/1dozfRfM92Ye6AXjsiejnA) | 3:30 | 2025-02-27 |  |
+| [Afterthought](https://open.spotify.com/track/47WX7LxR81MqLEgEX5tT6l) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Plain Girl](https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP) | 3:16 | 2025-03-06 |  |
 | [AkoNaSana](https://open.spotify.com/track/2A2rcqEtzWklo1aIWATgyo) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [AkoNaSana](https://open.spotify.com/album/1u4j4EDx1Vly9iEvF8dqGE) | 4:16 | 2024-12-03 |  |
 | [Akong Addiction](https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Akong Addiction](https://open.spotify.com/album/37egJXzirS9te7NSlbxndI) | 3:51 | 2024-05-03 | 2024-08-10 |
 | [ALAGAAN MO](https://open.spotify.com/track/5WRyALoZev30xHQNijO6gI) | [YNGVIE](https://open.spotify.com/artist/2CMdtMF1AW7dbCamPCkwBK), [Wubaagg](https://open.spotify.com/artist/2hL4FXnmqScuDaQXKw4o4i) | [BALAGBAG MIXTAPE VOL.1](https://open.spotify.com/album/0LkjOfnf0JO2AjtXJWIiXM) | 5:30 | 2024-07-26 | 2024-11-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,697 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,840 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

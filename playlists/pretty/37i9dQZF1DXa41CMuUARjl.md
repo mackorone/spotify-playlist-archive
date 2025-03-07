@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Jackie Hollander
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,468 likes - 115 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,587 likes - 115 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 41 | [Electricity \(Arca Remix\)](https://open.spotify.com/track/4GZBn7lvGSoEalXLJekGrg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Electricity \(Arca Remix\)](https://open.spotify.com/album/38xD3ZibRtmc2bwV1cGvdS) | 3:38 |
 | 42 | [Breathing](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Breathing](https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan) | 3:24 |
 | 43 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
-| 44 | [Stop & Search](https://open.spotify.com/track/2Vo4v0z35aGBQ5uSyfiE2k) | [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Stop & Search](https://open.spotify.com/album/1tcqS2dDfgCNfSDnBeMbPa) | 3:22 |
+| 44 | [Stop & Search](https://open.spotify.com/track/2Vo4v0z35aGBQ5uSyfiE2k) | [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW) | [Stop & Search](https://open.spotify.com/album/1tcqS2dDfgCNfSDnBeMbPa) | 3:22 |
 | 45 | [CHEMICALS](https://open.spotify.com/track/7HePsO8oUHyF3nfkWFVyE4) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [CHEMICALS](https://open.spotify.com/album/53ibkv6OEMuZcvLHoXjliB) | 2:34 |
 | 46 | [I HEART YOU](https://open.spotify.com/track/5YSaWnfbnrHC2ByWY73vdo) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [4AM \(LA LA LA\)](https://open.spotify.com/album/0TZYUgt86qWofwpst6Tz4J) | 2:52 |
 | 47 | [SEE YOU AGAIN](https://open.spotify.com/track/6Az70eTFLGsu3KWFB2mYHh) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [OXY2\*](https://open.spotify.com/album/2oaTK2Y4tGP9s6eSE3GtuL) | 2:43 |

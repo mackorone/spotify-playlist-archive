@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,990 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,039 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

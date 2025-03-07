@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Вдих, видих 🧘🏼‍♀️🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,716 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,729 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

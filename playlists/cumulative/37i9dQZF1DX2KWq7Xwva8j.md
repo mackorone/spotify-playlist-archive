@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí\. Foto: LUSILLON, Barry B, céro, Vera GRV y Julieta.
+> El futuro ya está aquí\. Foto: Barry B.
 
-283 songs - 13 hr 46 min
+284 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Huracán 2.0](https://open.spotify.com/track/1vVpGcJToyVgpH2n4QkSc5) | [Ruiseñora](https://open.spotify.com/artist/5lWL0858SCbKL77z7Ff5Vs) | [Huracán 2.0](https://open.spotify.com/album/7B1QXHzOmKxNVWuNTpwLEz) | 2:28 | 2021-12-31 | 2022-01-28 |
 | [Indie esperanzador](https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Indie esperanzador](https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc) | 2:50 | 2022-07-28 | 2023-05-20 |
 | [Inercia](https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 2:59 | 2022-03-31 | 2023-02-08 |
+| [Infancia Mal Calibrada](https://open.spotify.com/track/75EqPDFPtq70WU5AyWl3uP) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Infancia Mal Calibrada](https://open.spotify.com/album/58guaRgiN85BmxlHXzAYmT) | 3:28 | 2025-03-06 |  |
 | [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 | 2023-02-21 | 2024-02-07 |
 | [Inteligencia Emocional](https://open.spotify.com/track/15xKQcRO5wIWCcKXliNwrf) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Inteligencia Emocional](https://open.spotify.com/album/6zzK6DBHzdpfdD51FiX3w7) | 2:46 | 2022-01-06 | 2022-06-07 |
 | [Invítame a Tu Casa](https://open.spotify.com/track/2RSmvIrwCr0jiNth0kdIaN) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Casa Vargas](https://open.spotify.com/album/6tRHKz0BfNOH9e1E7JvpSh) | 3:55 | 2021-12-31 | 2022-02-25 |

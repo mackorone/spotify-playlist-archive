@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 
 > Lo que necesita cualquier verbena veraniega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,973 likes - 150 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,950 likes - 150 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

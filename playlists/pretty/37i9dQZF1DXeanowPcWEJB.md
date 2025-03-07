@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,247 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,343 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 69 | [Popurri de Jose Alfredo Jimenez: Ella / La Enorme Distancia / Que Te Vaya Bonito / Vámonos](https://open.spotify.com/track/6ACOpwrtWV5oIsAZjVUrGw) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 5:09 |
 | 70 | [Canción Mixteca \- Qué Lejos Estoy](https://open.spotify.com/track/467faSTmWsVJh2CpvZzNYt) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:26 |
 | 71 | [Si Me Faltas Tu](https://open.spotify.com/track/0ei3cuKOiBVDlbznVMrCbi) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Si Me Faltas Tu](https://open.spotify.com/album/2TUNJosqZo997I9rAyS4aT) | 3:37 |
-| 72 | [2 Canciones mexicanas \(Version for Guitar\): No\. 2, Estrellita](https://open.spotify.com/track/7xjB07oDrnC4e2sQjfbAqR) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Gorgeous Guitar: Best Loved Classical Guitar Music](https://open.spotify.com/album/6oSy78tFxjggVUnycHOSov) | 2:24 |
+| 72 | [2 Canciones mexicanas \(Version for Guitar\): No\. 2, Estrellita](https://open.spotify.com/track/7xjB07oDrnC4e2sQjfbAqR) | [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Gorgeous Guitar: Best Loved Classical Guitar Music](https://open.spotify.com/album/6oSy78tFxjggVUnycHOSov) | 2:24 |
 | 73 | [Volver, Volver](https://open.spotify.com/track/4pfymBSdH9ppHqTXUuxasn) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 3:34 |
 | 74 | [Cancion Mixteca](https://open.spotify.com/track/1K6afJuRM0WJF18ecwU4J9) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 1:42 |
 | 75 | [Mexico Lindo y Querido](https://open.spotify.com/track/6kUb9SK5nzn0HjDiLA61mx) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Nostalgia](https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6) | 3:46 |

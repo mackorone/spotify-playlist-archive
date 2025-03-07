@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 
 > Devotional tracks for an immersive Ramadan\. Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,236 likes - 71 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,615 likes - 71 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

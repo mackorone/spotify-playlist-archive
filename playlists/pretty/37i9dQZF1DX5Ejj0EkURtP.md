@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 
 > The biggest songs of the 2010s\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,554,278 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,554,511 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

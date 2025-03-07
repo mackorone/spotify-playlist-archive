@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,913 likes - 32 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,917 likes - 32 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

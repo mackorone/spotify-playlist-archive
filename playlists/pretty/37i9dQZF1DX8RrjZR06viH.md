@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,292 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,293 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 84 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
 | 85 | [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 |
 
-Snapshot ID: `Z8DumQAAAACp1gyfVXz5T9zOk4q0DlZe`
+Snapshot ID: `Z8opCwAAAADH1MIPhtPpqQICUw8zhV5B`

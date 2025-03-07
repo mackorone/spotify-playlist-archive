@@ -4,7 +4,7 @@
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-69 songs - 4 hr 10 min
+70 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Weapon of Choice](https://open.spotify.com/track/08kB9HSfrcIi83rymwgjMz) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:39 | 2025-02-06 |  |
 | [What I Needed](https://open.spotify.com/track/2J4D2sVNEoORSAsYd2sIqo) | [Bombay Beach Revival](https://open.spotify.com/artist/1W7pMXb6n6ZUUM9Axqi9tL) | [Another Soul](https://open.spotify.com/album/6pNbA97bxlpTYSy6nyrx4q) | 3:51 | 2025-02-20 |  |
 | [What's Going On !](https://open.spotify.com/track/6pLzJ1xpUIqI2Xve5e0aA6) | [syd B](https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr) | [What's Going On !](https://open.spotify.com/album/5rCGxHBPgoLfqLou8MbyzZ) | 2:04 | 2025-02-06 |  |
+| [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2025-03-06 |  |
 | [When You Want Me](https://open.spotify.com/track/4kk7aHXUx7KTfPqnk9gZ3U) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Porsche](https://open.spotify.com/album/6PkhPpNkGgG129V0XuKDHk) | 3:53 | 2025-02-06 |  |
 | [Wild and Free](https://open.spotify.com/track/3qsl5j3xc2VmkuaGlJjN2T) | [That Kid CG](https://open.spotify.com/artist/0JGbaXZgaigAnUbKtQBwwK) | [My Tiny Planet 2](https://open.spotify.com/album/2B3raABHsJOlGWLFZOrWf1) | 2:20 | 2025-02-06 |  |
 | [Witches](https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Witches](https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM) | 3:15 | 2025-02-06 |  |

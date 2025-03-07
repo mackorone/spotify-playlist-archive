@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,252 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,416 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

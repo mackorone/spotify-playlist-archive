@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\uc9c0\uae08 \uad6d\ub0b4\uc5d0\uc11c \ub5a0\uc624\ub974\uace0 \uc788\ub294 \ud31d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (\ucee4\ubc84: Lizzo)",
+  "description": "\uc9c0\uae08 \uad6d\ub0b4\uc5d0\uc11c \ub5a0\uc624\ub974\uace0 \uc788\ub294 \ud31d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (\ucee4\ubc84: Hanumankind)",
   "name": "Pop Rising Korea",
   "tracks": [
     {
@@ -462,6 +462,24 @@
       "duration_ms": 140220,
       "name": "Animal",
       "url": "https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo"
+    },
+    {
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
       "album": {
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 175727,
       "name": "BOW AND ARROW",
       "url": "https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg"
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 141057,
       "name": "Fat Juicy & Wet",
       "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
@@ -4012,7 +4030,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 201226,
       "name": "Limitless",
       "url": "https://open.spotify.com/track/25fvND4h7BT76CB77Mjsm3"
@@ -5521,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "ReawakeR",
+        "url": "https://open.spotify.com/album/0WHGYYVZA7zg9fM3DJXpxI"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "RED ZONE",
+      "url": "https://open.spotify.com/track/35ZTL6aG24WiyQWgGcykaH"
+    },
+    {
+      "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
         "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
@@ -5670,6 +5706,24 @@
       "duration_ms": 197854,
       "name": "RuLe",
       "url": "https://open.spotify.com/track/1SGsYkgcVoGd4GCBlQyuYh"
+    },
+    {
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173502,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
     },
     {
       "album": {
@@ -6112,7 +6166,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
@@ -6294,6 +6348,28 @@
       "duration_ms": 172282,
       "name": "Sweet Delusion",
       "url": "https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h"
+    },
+    {
+      "album": {
+        "name": "Swing For The Fences",
+        "url": "https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202695,
+      "name": "Swing For The Fences",
+      "url": "https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb"
     },
     {
       "album": {
@@ -7333,6 +7409,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+    },
+    {
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS"
       },
@@ -7550,7 +7644,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 200000,
       "name": "What Have They Done To Us (ft. Sasha Alex Sloan) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5O0xMAdhVfPrPf5FMieyiV"

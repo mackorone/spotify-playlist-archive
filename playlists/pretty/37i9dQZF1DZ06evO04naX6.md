@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,330 likes - 51 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,347 likes - 51 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios! Nuestro invitado especial, Emanuel Lara, nos da su selección musical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,377 likes - 85 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,419 likes - 85 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

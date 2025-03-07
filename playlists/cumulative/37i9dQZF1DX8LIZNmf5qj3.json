@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : PARTYNEXTDOOR x Drake",
+  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : SZA",
   "name": "Douces Vibes",
   "tracks": [
     {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 148138,
       "name": "Addicted to Love",
       "url": "https://open.spotify.com/track/5e37QnU1xWKLJflHIsAEo5"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 163561,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "claymore",
+        "url": "https://open.spotify.com/album/7mLCu2UGDtYKn7T2OMx688"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152430,
+      "name": "claymore",
+      "url": "https://open.spotify.com/track/22ahQd7UNBLb9JVt7LoFI2"
+    },
+    {
+      "album": {
         "name": "close with desires (feat. thuy)",
         "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
       },
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 147095,
       "name": "Control",
       "url": "https://open.spotify.com/track/6czZfg7WqAHuzNDhGkcvwr"
@@ -1778,6 +1796,32 @@
       "duration_ms": 224268,
       "name": "Da Girls",
       "url": "https://open.spotify.com/track/0Vv7lPT21u7YjxpCYdCYwq"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230171,
+      "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
+      "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
     },
     {
       "album": {
@@ -2132,7 +2176,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 195404,
       "name": "Ebbs & Flows",
       "url": "https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6"
@@ -2676,7 +2720,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 183488,
       "name": "Focus",
       "url": "https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy"
@@ -2782,6 +2826,24 @@
       "duration_ms": 223157,
       "name": "FOREVER (with 6LACK)",
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
+    },
+    {
+      "album": {
+        "name": "Forget U",
+        "url": "https://open.spotify.com/album/6B6rKxe9yVNtMGrQztaTLO"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Forget U",
+      "url": "https://open.spotify.com/track/7FgjoiSwkVAHHUAzubUTc5"
     },
     {
       "album": {
@@ -3104,6 +3166,24 @@
       "duration_ms": 198044,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs"
+    },
+    {
+      "album": {
+        "name": "OXO",
+        "url": "https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT"
+      },
+      "artists": [
+        {
+          "name": "Lola Moxom",
+          "url": "https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228188,
+      "name": "GOOD4U",
+      "url": "https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou"
     },
     {
       "album": {
@@ -6382,7 +6462,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 315555,
       "name": "Overboard",
       "url": "https://open.spotify.com/track/5QU70GxbgR4SGt3m3e61nC"
@@ -6916,7 +6996,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 165828,
       "name": "Ready",
       "url": "https://open.spotify.com/track/0igbWhWPRW2dL35gXaHHcu"
@@ -8102,6 +8182,46 @@
       "duration_ms": 186550,
       "name": "Something",
       "url": "https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178007,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya"
+    },
+    {
+      "album": {
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221640,
+      "name": "Sophia",
+      "url": "https://open.spotify.com/track/05GJ75nb4P8wqwwJGm7ksa"
     },
     {
       "album": {

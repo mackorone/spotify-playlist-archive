@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -1779,6 +1779,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
+    },
+    {
+      "album": {
         "name": "Hasrat (OST Imaginur)",
         "url": "https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU"
       },
@@ -3062,7 +3084,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -3134,7 +3156,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
@@ -3870,6 +3892,24 @@
       "duration_ms": 242000,
       "name": "Sejarah",
       "url": "https://open.spotify.com/track/60xSTxt4GWoic7LwndDtRN"
+    },
+    {
+      "album": {
+        "name": "Seribu Tahun Lagi",
+        "url": "https://open.spotify.com/album/3zN8nN9moCS4xIGcGqTmMV"
+      },
+      "artists": [
+        {
+          "name": "Imran Ajmain",
+          "url": "https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262272,
+      "name": "Seribu Tahun Lagi",
+      "url": "https://open.spotify.com/track/1RKXxb95nvXtM7EQ6WtPmG"
     },
     {
       "album": {
@@ -4738,6 +4778,24 @@
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "album": {

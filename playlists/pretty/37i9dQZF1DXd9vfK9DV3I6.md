@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,855 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,914 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

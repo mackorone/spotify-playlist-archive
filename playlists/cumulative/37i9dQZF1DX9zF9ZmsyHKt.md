@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-291 songs - 17 hr 11 min
+292 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 | 2024-10-22 |  |
 | [Eu Tô Gostando de um Menino Aí](https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Eu Tô Gostando de um Menino Aí](https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r) | 2:17 | 2021-10-15 | 2024-10-23 |
 | [Eu Vou Recomeçar](https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 2:40 | 2024-10-22 |  |
+| [Eu Vou Te Deixa Ir](https://open.spotify.com/track/7c7MSxSjue7jKtdxl2lHDP) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Destino, Vol\. 2](https://open.spotify.com/album/1gilju6x25IA4Caw6o1vVl) | 2:45 | 2025-03-07 |  |
 | [Ex Mai Love](https://open.spotify.com/track/0YcjaVx3KKr0AVZ15YKHJs) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Treme](https://open.spotify.com/album/0bEhleLUVlS997I3NTHJ4f) | 2:55 | 2024-10-22 | 2025-02-01 |
 | [Falando Com a Lua](https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr) | [Banda Açaí Pimenta](https://open.spotify.com/artist/11ClmW6GIRiqiQyCwUPyov) | [Tá Ardendo Hein](https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b) | 2:32 | 2024-10-22 |  |
 | [Falei de você pra minha mãe](https://open.spotify.com/track/33b5dsChMBIwsSwMqYm0wZ) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Falei de você pra minha mãe](https://open.spotify.com/album/1n9846xOm1ExjM92ZL4RL8) | 2:42 | 2021-10-15 | 2024-10-23 |
@@ -236,7 +237,7 @@
 | [Reacender a Chama](https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:43 | 2024-10-22 |  |
 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 | 2021-10-15 | 2024-10-23 |
 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 | 2021-10-15 | 2024-10-23 |
-| [Respingo de Saudade](https://open.spotify.com/track/6BfaMNEKT3ZRKycF1Dup53) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Respingo de Saudade](https://open.spotify.com/album/2iwSsZsHgNfM06Oin3XUil) | 3:54 | 2024-10-22 |  |
+| [Respingo de Saudade](https://open.spotify.com/track/6BfaMNEKT3ZRKycF1Dup53) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Respingo de Saudade](https://open.spotify.com/album/2iwSsZsHgNfM06Oin3XUil) | 3:54 | 2024-10-22 | 2025-03-07 |
 | [Ressurreição](https://open.spotify.com/track/4SruU1glCuVlR9lx3kHmdb) | [Souto MC](https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4), [Mayra Maldjian](https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk) | [Ressurreição](https://open.spotify.com/album/6PyQjg649SiGuHo4q9M1m4) | 2:05 | 2021-10-15 | 2022-07-29 |
 | [Revolução](https://open.spotify.com/track/7BTez0nqibDfjSJsIBBEJj) | [KEILA](https://open.spotify.com/artist/7B6S35PjpmCWPOyqKfyHq6), [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [Revolução](https://open.spotify.com/album/13HizVI6srhMbeYkylri6f) | 2:22 | 2021-10-15 | 2022-07-26 |
 | [Rito de Passá](https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [Rito de Passá](https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm) | 3:21 | 2021-10-15 | 2024-05-05 |

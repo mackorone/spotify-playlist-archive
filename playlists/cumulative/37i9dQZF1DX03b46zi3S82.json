@@ -4219,6 +4219,24 @@
     },
     {
       "album": {
+        "name": "Nighttime",
+        "url": "https://open.spotify.com/album/7hDXLdzwTJ5GqB7T0A5bnb"
+      },
+      "artists": [
+        {
+          "name": "Figgy Malone",
+          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Nighttime",
+      "url": "https://open.spotify.com/track/7lOIqEy05P44D2ZDDrUEF4"
+    },
+    {
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/1IP3Dd2jlEHljD9qw5CLj1"
       },

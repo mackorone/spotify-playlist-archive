@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Sam Fender
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,066,787 likes - 99 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,066,735 likes - 99 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

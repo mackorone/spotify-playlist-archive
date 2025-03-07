@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="hhttps://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=i\-AaKtieQqGI3VTVFe2bsw">Mthandeni SK</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=mnAM9ohtSzyTtCjrkrTwrw">Lwah Ndlunkulu</a>
 
 227 songs - 18 hr 3 min
 

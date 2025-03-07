@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen und zeitlosen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,002,691 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,002,638 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

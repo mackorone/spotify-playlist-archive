@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,805 likes - 122 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,885 likes - 122 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 97 | [4 Postludes for Piano & String Orchestra: No\. 1, Larghetto \- Andante](https://open.spotify.com/track/5qOdrz6UTrLXlzqGn1b7cD) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF), [Thomas Sanderling](https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa) | [Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra](https://open.spotify.com/album/3IyVSzyvWxYTkIN8nxXAcz) | 5:36 |
 | 98 | [When the Bells Ring](https://open.spotify.com/track/16nh5oCtsTVq9GBQU8xxEw) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [When the Bells Ring](https://open.spotify.com/album/39L6Mn2b1cuxpsUQ7Ck3qK) | 2:18 |
 | 99 | [Préludes / Book 2, L\. 123: 5\. Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 |
-| 100 | [Siete canciones populares españolas: VI\. Nana \- for alto and piano](https://open.spotify.com/track/4HErQoBzojA9iPhHE92QKO) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Tabea Zimmermann](https://open.spotify.com/artist/1zt1oAibJ8TuHCvnENvD4R), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Cantilena](https://open.spotify.com/album/36fouSFMewhm3OhQFJ08cW) | 2:13 |
+| 100 | [Siete canciones populares españolas: VI\. Nana \- for alto and piano](https://open.spotify.com/track/4HErQoBzojA9iPhHE92QKO) | [Tabea Zimmermann](https://open.spotify.com/artist/1zt1oAibJ8TuHCvnENvD4R), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Cantilena](https://open.spotify.com/album/36fouSFMewhm3OhQFJ08cW) | 2:13 |
 | 101 | [Puccini: Crisantemi](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria, Preludio sinfonico, Crisantemi](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
 | 102 | [Bambaló](https://open.spotify.com/track/5rzY2HPvGBe7E2yKxXbRAE) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Bambaló](https://open.spotify.com/album/2Pxg7kjXogc6wNNmP80rHL) | 2:41 |
 | 103 | [L'Origine Nascosta](https://open.spotify.com/track/4TLQRJiwvwUQyKdEA5PWqx) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Divenire](https://open.spotify.com/album/4xFNo2OWDR8wEm5I2dRdS7) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,463 likes - 71 songs - 2 hr 59 min
+[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,468 likes - 71 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

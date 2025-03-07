@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Lucio Corsi in cover della playlist con il meglio dell’indie italiano!
+> Anna Castiglia in cover della playlist con il meglio dell’indie italiano!
 
-214 songs - 11 hr 11 min
+217 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [BALLA](https://open.spotify.com/track/0mlZdAdXr19dGJ1tNHBvr7) | [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55) | [BALLA COI LUPI NELLA STALLA](https://open.spotify.com/album/4mF8RZSmhTnNujFm3YUIVH) | 3:48 | 2024-10-17 | 2024-11-15 |
 | [Bandiera](https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [Bandiera](https://open.spotify.com/album/4AeNEwWelAQE0PNnO2B1Jt) | 3:01 | 2024-09-27 |  |
 | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K) | 2:41 | 2024-07-04 | 2024-10-04 |
+| [Buio](https://open.spotify.com/track/2kEesaNMfP5aXEeVUl5jCZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [Buio](https://open.spotify.com/album/3UdbcAYQCwWRIOX2ADdCk4) | 2:55 | 2025-03-06 |  |
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-06-27 | 2024-10-25 |
 | [Canzone Facile](https://open.spotify.com/track/5wJStwEVrz97MUYuDLFBz3) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/7Gwomavjv5whQupOwjbzgP) | 2:47 | 2025-02-27 |  |
 | [Carnevale](https://open.spotify.com/track/3MMF2zfkCej8jAjWxS87tY) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Carnevale](https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit) | 2:36 | 2024-09-05 |  |
@@ -63,6 +64,7 @@
 | [Domani \(feat\. Nashley\)](https://open.spotify.com/track/2m2XT5ZaWwfNg6Rk0a278j) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh), [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Domani \(feat\. Nashley\)](https://open.spotify.com/album/5ExwoHtva59kw3nIzFcrnn) | 2:57 | 2024-07-11 | 2024-08-16 |
 | [dubbi anthem](https://open.spotify.com/track/5Opazk7AZdjTvhiqqvKaFZ) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [muschio](https://open.spotify.com/album/5Zcxr4kTukUO6jduEDE7Fy) | 2:43 | 2024-06-27 | 2024-08-16 |
 | [Due Anime](https://open.spotify.com/track/3VYbbCl0q1YEmM4XUNCXby) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Due Anime](https://open.spotify.com/album/1VFFSfaKXrAzYr3d04ezWH) | 3:32 | 2024-12-19 | 2025-01-17 |
+| [DUE GATTI A MILANO](https://open.spotify.com/track/07ml1sRzeQQIj6U6lfWS95) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [VITA\_FUSA](https://open.spotify.com/album/7lUQ8zSvRJwgC77Pb3St5Z) | 2:52 | 2025-03-06 |  |
 | [Eco](https://open.spotify.com/track/3ycj36w66i2rIGJli4Ruhi) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Eco](https://open.spotify.com/album/4iCnGvbZKQwj252lciCfLc) | 3:14 | 2025-02-12 |  |
 | [Farla Facile](https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Farla Facile](https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8) | 3:54 | 2025-01-09 | 2025-02-28 |
 | [Farò Più Rumore Del Ratatata](https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t), [Toomaj](https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx) | [Farò Più Rumore Del Ratatata](https://open.spotify.com/album/69SXGkqk4Q5PXr1S2brFPO) | 2:46 | 2024-06-27 | 2024-10-04 |
@@ -125,9 +127,10 @@
 | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Carlo Amleto](https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5) | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp) | 2:53 | 2024-07-25 | 2024-09-06 |
 | [Meccanismi \(con ARIETE\)](https://open.spotify.com/track/0OsDT1w0mIncDDnaCcM7EO) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Un segno di vita](https://open.spotify.com/album/4l3sjzLqWDUJfZegBkCPqm) | 3:20 | 2024-08-22 | 2024-10-25 |
 | [MENTRE IL MONDO ESPLODE ༊࿔ \(con Marco Castello, Ele A\)](https://open.spotify.com/track/0GcTjbsHYkOGHBMafWucAd) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:17 | 2024-06-27 |  |
-| [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 | 2024-06-27 |  |
+| [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 | 2024-06-27 | 2025-03-07 |
 | [MEZZ’ORA D’AMORE \(S1 E3\)](https://open.spotify.com/track/3RwhBeek2bz0mrGHbgl5Q8) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [FINO ALL'ULTIMO RESPIRO](https://open.spotify.com/album/37kkhjamTEmKobW3xX1OGU) | 2:54 | 2024-11-21 | 2025-01-17 |
 | [MIELE \(scusa\)](https://open.spotify.com/track/6pmIgVimnQs8dgohYE9SSB) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [MIELE \(Scusa\)](https://open.spotify.com/album/3tzuzJ0IlYtGy2IWfONuSo) | 2:27 | 2024-11-14 | 2025-01-03 |
+| [Morta d'amore](https://open.spotify.com/track/6XEK2VLdMdiZ6d71chw1ui) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Morta d'amore](https://open.spotify.com/album/7sNKBSusBvdPTMHgzozPaw) | 2:46 | 2025-03-06 |  |
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-08-15 | 2024-08-23 |
 | [my baby!](https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [my baby!](https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD) | 2:57 | 2024-11-14 | 2025-02-28 |
 | [MYROMANTICA](https://open.spotify.com/track/2mUaQR6ggH0W4C8OVHNkmy) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [MYROMANTICA](https://open.spotify.com/album/4ZmIavc2q57jOHPjlsjy3f) | 3:17 | 2025-01-16 |  |
@@ -147,7 +150,7 @@
 | [Oui oui](https://open.spotify.com/track/6uEWAOhBeu31oFNNCT31Ic) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [OFIUCO](https://open.spotify.com/album/1K4inLkkXbxqHDE8JIznCD) | 3:15 | 2024-10-17 | 2024-11-08 |
 | [Ovvio](https://open.spotify.com/track/4hIUJZRIS0NRWUkyy0dZlJ) | [Asp126](https://open.spotify.com/artist/7eNMxs7VUuMBoGNipu7z5G) | [Ovvio](https://open.spotify.com/album/1QsAEN4NfCjcacRT8cpqwW) | 2:47 | 2024-10-24 | 2024-11-29 |
 | [Palo Santo](https://open.spotify.com/track/5yOjKt8JhWfNKSIFIZAxB5) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Palo Santo](https://open.spotify.com/album/5VPlNVcBojccua6dSW2bes) | 2:55 | 2024-10-03 | 2024-11-22 |
-| [Panino d'idiota \(feat\. Casadilego\)](https://open.spotify.com/track/6bQEube1IbtDeIZ9EXmWgt) | [GattoToro](https://open.spotify.com/artist/2dm7GeEdTeZkUX2Rsf3gbg), [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Panino d'idiota \(feat\. Casadilego\)](https://open.spotify.com/album/4Njayjpp1zthtWEimoWDnX) | 2:23 | 2025-01-30 |  |
+| [Panino d'idiota \(feat\. Casadilego\)](https://open.spotify.com/track/6bQEube1IbtDeIZ9EXmWgt) | [GattoToro](https://open.spotify.com/artist/2dm7GeEdTeZkUX2Rsf3gbg), [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Panino d'idiota \(feat\. Casadilego\)](https://open.spotify.com/album/4Njayjpp1zthtWEimoWDnX) | 2:23 | 2025-01-30 | 2025-03-07 |
 | [Parole piccole](https://open.spotify.com/track/2c5qBiURh3mowQCXKW5lCG) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [Parole piccole](https://open.spotify.com/album/7flbF51b2TJ6YfD0A3rt5n) | 3:29 | 2025-02-06 | 2025-02-28 |
 | [passanti](https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [passanti](https://open.spotify.com/album/740iT2xHAfKzyvkB06ogKU) | 2:37 | 2024-09-19 | 2024-10-11 |
 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 | 2024-09-26 |  |

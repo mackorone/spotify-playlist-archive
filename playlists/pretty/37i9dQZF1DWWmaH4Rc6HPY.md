@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Morat en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,079 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,087 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

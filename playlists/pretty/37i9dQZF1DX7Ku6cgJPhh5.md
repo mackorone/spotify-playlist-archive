@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 
 > Amp up your commute with rock hits, new and old.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,074 likes - 125 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,263 likes - 125 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

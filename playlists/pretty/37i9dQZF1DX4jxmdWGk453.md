@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,338 likes - 78 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,320 likes - 78 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 42 | [Greensleeves \(Interlude\)](https://open.spotify.com/track/2Qw29GIlHVTSi9qwhel6tp) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Christmas Is Here!](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) | 0:59 |
 | 43 | [Holst: 3 Hymns for the English Hymnal: No\. 1, In the Bleak Mid\-Winter](https://open.spotify.com/track/73qlV0uB22V8FaBRJch9yj) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 4:50 |
 | 44 | [Gabriel's Message](https://open.spotify.com/track/1ej2KGj74mFyQo94ceTalI) | [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS) | [A Traditional Christmas Carol Collection, Vol\. II](https://open.spotify.com/album/7gVtoqma3finMEnqIpDq5Y) | 2:39 |
-| 45 | [Rutter: Star Carol](https://open.spotify.com/track/1oDz2VEDz2gx2EddTlOeMM) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [The Bach Choir](https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Colours Of Christmas](https://open.spotify.com/album/3GEd4voPN8iSGzkt4XzWFL) | 2:50 |
+| 45 | [Star Carol](https://open.spotify.com/track/1oDz2VEDz2gx2EddTlOeMM) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [The Bach Choir](https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Colours Of Christmas](https://open.spotify.com/album/3GEd4voPN8iSGzkt4XzWFL) | 2:50 |
 | 46 | [O Little Town of Bethlehem](https://open.spotify.com/track/2DBlvHETRsLuYcePuWNmCa) | [The Oxford Trinity Choir](https://open.spotify.com/artist/3r3EF4IUivV9v7HYln1YzB) | [Christmas Carols \- The Very Best Traditional Xmas Carols & Hymns](https://open.spotify.com/album/4x4BFeZwqvbyALfNMxhCc2) | 2:32 |
 | 47 | [Oh Come All Ye Faithful](https://open.spotify.com/track/4UGViGgRfjkNgNTXpPPd89) | [The Singers Unlimited](https://open.spotify.com/artist/3RsROIs1zuuC3lwIdhJ0if) | [Christmas](https://open.spotify.com/album/6oRVPUG1H8dm915S12d5PP) | 2:14 |
 | 48 | [In Dulci Jubilo](https://open.spotify.com/track/1VaSpQqQzZqcZd7jmTPujm) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Hieronymus Praetorius](https://open.spotify.com/artist/0qhXxhrdfb30pOHmuDynuB), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Christmas](https://open.spotify.com/album/2aIQA8i1ajdEOdHKKiISp4) | 2:46 |

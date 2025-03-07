@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Manuel Turizo",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -4157,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "EROTIKA",
+        "url": "https://open.spotify.com/album/47lCWsxnSeMLoCZ67BYULU"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165161,
+      "name": "EROTIKA",
+      "url": "https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR"
+    },
+    {
+      "album": {
         "name": "escribiendo TKM",
         "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
       },
@@ -5315,6 +5333,28 @@
     },
     {
       "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216621,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+    },
+    {
+      "album": {
         "name": "Imag\u00ednate",
         "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
       },
@@ -6070,7 +6110,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 219667,
       "name": "La Suerte",
       "url": "https://open.spotify.com/track/7HVf7mf1uJ624TGwY5qSMH"
@@ -6992,7 +7032,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 200608,
       "name": "MALANDREO",
       "url": "https://open.spotify.com/track/2T0VgxwYMbN5oYTX7kys8u"
@@ -7920,7 +7960,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 156112,
       "name": "muri\u00e9ndome de amor </3",
       "url": "https://open.spotify.com/track/59fxj0HheTzNeEgmjEtLbk"
@@ -11123,6 +11163,24 @@
     },
     {
       "album": {
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
+    },
+    {
+      "album": {
         "name": "Sobredosis",
         "url": "https://open.spotify.com/album/2CnZQxtqXpbo7qgbLuU0sd"
       },
@@ -11308,6 +11366,28 @@
       "duration_ms": 175833,
       "name": "Someone I Used to Know",
       "url": "https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178007,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya"
     },
     {
       "album": {
@@ -12890,7 +12970,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 213402,
       "name": "Volando",
       "url": "https://open.spotify.com/track/1UwI7YvRrCJO79ASEc8MpB"

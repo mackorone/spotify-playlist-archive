@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,132 likes - 101 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,158 likes - 101 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 23 | [yes mami!](https://open.spotify.com/track/6JRGXkiSyIi2UBOGTwfift) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 2:52 |
 | 24 | [Did Me Wrong](https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:57 |
 | 25 | [Cooln \(feat\. Babychiefdoit & PlaqueBoyMax\)](https://open.spotify.com/track/5MSZhvbzEw5w28haXeUyNs) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Cooln \(feat\. Babychiefdoit & PlaqueBoyMax\)](https://open.spotify.com/album/5qFLg4YkztxeuArg7solj9) | 1:51 |
-| 26 | [RiCH MAN DREAMS \(i\) \(ft\. Ab\-Soul\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
+| 26 | [RiCH MAN DREAMS \(i\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
 | 27 | [Fashion Model \(feat\. Jorjiana\)](https://open.spotify.com/track/2pWJtqIsNdFCQusGHW0mVJ) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [Jorjiana](https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF) | [Zombie Love Kensington Paradise \(Deluxe\)](https://open.spotify.com/album/7rZmKhsbVKUrqApd0GLp8T) | 1:44 |
 | 28 | [Long Time](https://open.spotify.com/track/3bjW6TTjHKtMn9b0Q1D07I) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Breath Of Fresh Air \(Deluxe\)](https://open.spotify.com/album/63Eu8XBHOdPlqxt89zWGiR) | 2:22 |
 | 29 | [Free Car](https://open.spotify.com/track/7GAz71zpIG76OkdoAihlHQ) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Free Car](https://open.spotify.com/album/3nhXOAe2Y7VRIxfIyEQEe5) | 3:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,924 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,922 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 | 6 | [Sinite ti ochi](https://open.spotify.com/track/5muTWlhHQ2MjzTrEQB2MYg) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Sinite ti ochi](https://open.spotify.com/album/5bckQ79f6BJefDBWVHiRJG) | 3:30 |
 | 7 | [1 AM](https://open.spotify.com/track/52p5h1D2QAfjiqmKawgMKg) | [Civ](https://open.spotify.com/artist/7qXQhtVwPF2ze2dLKpb5LT) | [1 AM](https://open.spotify.com/album/6evgAhkIjw7vxBuKLObXWK) | 2:13 |
 | 8 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
-| 9 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2) | 4:27 |
+| 9 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 |
 | 10 | [Sports car](https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 |
 | 11 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:51 |
 | 12 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 | 49 | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 |
 | 50 | [COLD](https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [COLD](https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG) | 2:23 |
 
-Snapshot ID: `L1u+IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L10PoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

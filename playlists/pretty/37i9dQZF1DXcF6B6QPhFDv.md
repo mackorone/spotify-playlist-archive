@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. Cover: ALEXSUCKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,550,212 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,550,057 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

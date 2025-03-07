@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las acústicas\. Cover: Yami Safdie & Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,893,839 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,893,833 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

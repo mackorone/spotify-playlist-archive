@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 
 > 25 songs updated every Tuesday ⏳ \(Email: jahtalksmusic@gmail.com\)
 
-[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 36,859 likes - 25 songs - 1 hr 27 min
+[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 36,878 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 | 16 | [Superstar](https://open.spotify.com/track/4XE0c4iqcAXsHtGSVIOXHd) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [They Left Me With A Gun](https://open.spotify.com/album/1NFdQaJCODmmkMnPfzHDXD) | 2:49 |
 | 17 | [BY ANY MEANS NECESSARY \(feat\. Method Man\)](https://open.spotify.com/track/3OT7nvzecdkwVvr8iD3bGO) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [The Final Call](https://open.spotify.com/album/727O17Cvp3DDONyTshbrG6) | 3:51 |
 | 18 | [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 |
-| 19 | [RiCH MAN DREAMS \(i\) \(ft\. Ab\-Soul\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
+| 19 | [RiCH MAN DREAMS \(i\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
 | 20 | [MARVIN GAYE.](https://open.spotify.com/track/03PYqIVNer7nBktg44SFDz) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [MARVIN GAYE.](https://open.spotify.com/album/1TtRkqZaAsVMh9vIwcxj2y) | 2:50 |
 | 21 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
 | 22 | [Red Clay](https://open.spotify.com/track/4yuO03dVXjzKjqq88L1frt) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Love Song / Red Clay](https://open.spotify.com/album/5VMB8fxPH0X0DTVvyHwhTO) | 3:24 |

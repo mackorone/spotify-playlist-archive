@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Natalia Lafourcade en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,946 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,973 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

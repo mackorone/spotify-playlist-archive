@@ -127625,32 +127625,6 @@
     },
     {
       "album": {
-        "name": "J. S. Bach: Mass in B Minor, BWV 232: Et incarnatus est",
-        "url": "https://open.spotify.com/album/0j2eJC4t8OsyzqMDMbtjTW"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Raphael Pichon",
-          "url": "https://open.spotify.com/artist/7ANQphrf7E3r6dwst8oMbr"
-        },
-        {
-          "name": "Ensemble Pygmalion",
-          "url": "https://open.spotify.com/artist/3iwUaQrP1mJFvC9waHuV4S"
-        }
-      ],
-      "date_added": "2025-02-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223626,
-      "name": "Mass in B Minor, BWV 232, II. Symbolum Nicenum. Credo: No. 16, Et incarnatus est",
-      "url": "https://open.spotify.com/track/3qTz3dMgBGs8w37er28srQ"
-    },
-    {
-      "album": {
         "name": "Bach: Mass in B Minor, BWV 232: Et incarnatus est & Sanctus",
         "url": "https://open.spotify.com/album/7ca6Oy6qEbyFIGiJh9146y"
       },
@@ -127744,6 +127718,32 @@
       "duration_ms": 549000,
       "name": "Mass in B Minor, BWV 232: I. Missa (Kyrie, Gloria) - Kyrie eleison I",
       "url": "https://open.spotify.com/track/01Q0qq2G09Ha9GJSN5RNJm"
+    },
+    {
+      "album": {
+        "name": "J. S. Bach: Mass in B Minor, BWV 232: Et incarnatus est",
+        "url": "https://open.spotify.com/album/0j2eJC4t8OsyzqMDMbtjTW"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Raphael Pichon",
+          "url": "https://open.spotify.com/artist/7ANQphrf7E3r6dwst8oMbr"
+        },
+        {
+          "name": "Ensemble Pygmalion",
+          "url": "https://open.spotify.com/artist/3iwUaQrP1mJFvC9waHuV4S"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223626,
+      "name": "Mass in B Minor, BWV 232: II. Symbolum Nicenum. Credo: No. 16, Et incarnatus est",
+      "url": "https://open.spotify.com/track/3qTz3dMgBGs8w37er28srQ"
     },
     {
       "album": {
@@ -257897,10 +257897,6 @@
         "url": "https://open.spotify.com/album/2kCxt3Z0Bf1LWPDvEplT9p"
       },
       "artists": [
-        {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        },
         {
           "name": "Oph\u00e9lie Gaillard",
           "url": "https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj"

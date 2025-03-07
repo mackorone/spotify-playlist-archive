@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Little Simz",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: BXKS, Travy",
   "name": "Rap UK",
   "tracks": [
     {
@@ -274,6 +274,24 @@
       "duration_ms": 140693,
       "name": "100 Degrees",
       "url": "https://open.spotify.com/track/0ssDmwfJV4Fp5BHUyjWSf3"
+    },
+    {
+      "album": {
+        "name": "100 PULLUPS",
+        "url": "https://open.spotify.com/album/3P0PvNZTlxPm9bDMVeUMSf"
+      },
+      "artists": [
+        {
+          "name": "Ashbeck",
+          "url": "https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164822,
+      "name": "100 PULLUPS",
+      "url": "https://open.spotify.com/track/0iva6TJTCvQyOKvcTkD5Q4"
     },
     {
       "album": {
@@ -2075,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/2nrWRrICuGJOEdmzTL5m18"
+      },
+      "artists": [
+        {
+          "name": "163Margs",
+          "url": "https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118849,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/6jBy6OXWqs0UphUSUtOa8P"
+    },
+    {
+      "album": {
         "name": "Wutm Season 1",
         "url": "https://open.spotify.com/album/5KySpgNlYY3D8vKLisJ8If"
       },
@@ -3624,6 +3660,24 @@
       "duration_ms": 206261,
       "name": "Bad (feat. Aitch)",
       "url": "https://open.spotify.com/track/4HTKztrMHpvn2sAl4HcK3J"
+    },
+    {
+      "album": {
+        "name": "BAD DECISIONS",
+        "url": "https://open.spotify.com/album/6FRtJw6ULKUrSvqXK99PjR"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139867,
+      "name": "BAD DECISIONS",
+      "url": "https://open.spotify.com/track/6DPe3yHTfpFwVVx92AVT54"
     },
     {
       "album": {
@@ -5268,7 +5322,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 261510,
       "name": "Black and British (feat. Little Simz & Benjamin AD)",
       "url": "https://open.spotify.com/track/2CB92kx3Vrgkohe2UC2A4l"
@@ -12994,7 +13048,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 161118,
       "name": "Evicted",
       "url": "https://open.spotify.com/track/7fa52ALD2bCARSLj7R0BUw"
@@ -16155,6 +16209,28 @@
     },
     {
       "album": {
+        "name": "Guestlist",
+        "url": "https://open.spotify.com/album/6ZdQWjbDLw2iqWm2aBnBHR"
+      },
+      "artists": [
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        },
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Guestlist",
+      "url": "https://open.spotify.com/track/2nZE3HwpvIMWDbOt7yCDGV"
+    },
+    {
+      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/1T4gWJ51vZL9tYnoTaXfKH"
       },
@@ -17936,7 +18012,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 190946,
       "name": "HURRICANE",
       "url": "https://open.spotify.com/track/6D8slgwtjJ4ZCxiGHdPlsy"
@@ -20644,7 +20720,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 153763,
       "name": "Last Night In Kingston - Konan Freestyle",
       "url": "https://open.spotify.com/track/4btn0FQ4yVmt455Th68xZM"
@@ -23454,7 +23530,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 139354,
       "name": "Meaningful Captions",
       "url": "https://open.spotify.com/track/2XcjUCCCa914LnuJDI7IND"
@@ -32768,7 +32844,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 175994,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/1ZOdwohDI1QsI8EWvhBf63"
@@ -35429,6 +35505,24 @@
     },
     {
       "album": {
+        "name": "Straight Rhymez 2",
+        "url": "https://open.spotify.com/album/0YQucn2zCE4iugBcCtA9kH"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163594,
+      "name": "Straight Rhymez 2",
+      "url": "https://open.spotify.com/track/5srEoh3bdB2tGTPpbSKqcP"
+    },
+    {
+      "album": {
         "name": "Stratford Job Centre",
         "url": "https://open.spotify.com/album/38ayhfcDwNwk2hrHas9ajO"
       },
@@ -35444,7 +35538,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 185967,
       "name": "Stratford Job Centre",
       "url": "https://open.spotify.com/track/3Ja2ytWoDshniPFbztBo6p"
@@ -40083,6 +40177,24 @@
     },
     {
       "album": {
+        "name": "Wasteman",
+        "url": "https://open.spotify.com/album/2xJKS127RMqv3KpKeiW6Do"
+      },
+      "artists": [
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145879,
+      "name": "Wasteman",
+      "url": "https://open.spotify.com/track/2KEjyn86eHFkWVVjaCUZk9"
+    },
+    {
+      "album": {
         "name": "Wauww",
         "url": "https://open.spotify.com/album/0s57R4NOFgW2DX9P2pix8y"
       },
@@ -41146,6 +41258,24 @@
       "duration_ms": 198583,
       "name": "Winners (feat. C. Biz & H Moneda)",
       "url": "https://open.spotify.com/track/036bb2OdzZTBEwS3HFVwoN"
+    },
+    {
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/7koLpEazXdRYNckonMmLBj"
+      },
+      "artists": [
+        {
+          "name": "K Koke",
+          "url": "https://open.spotify.com/artist/30n2M66Hu0LvcaRAJDrcxQ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/4ydau8p70NZBUpkupgjTEz"
     },
     {
       "album": {

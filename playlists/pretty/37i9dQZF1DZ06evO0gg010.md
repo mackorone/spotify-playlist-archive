@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,434 likes - 52 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,898 likes - 52 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

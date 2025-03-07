@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,053 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,154 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

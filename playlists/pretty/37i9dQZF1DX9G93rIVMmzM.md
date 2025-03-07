@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > sensual songs for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,591 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,686 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

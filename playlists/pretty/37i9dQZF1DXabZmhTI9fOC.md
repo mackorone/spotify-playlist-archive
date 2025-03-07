@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,726 likes - 252 songs - 13 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,734 likes - 252 songs - 13 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 100 | [Unsteady \- Erich Lee Gravity Remix](https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Erich Lee](https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 3:24 |
 | 101 | [Start of Something New](https://open.spotify.com/track/1HQNQun08en2PgCvSEMRwP) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Legend of Ely](https://open.spotify.com/album/7Ci2YH3SZUO6mk2djiHH7J) | 3:02 |
 | 102 | [Suffocate](https://open.spotify.com/track/7Ff5vtoAaIazIxjaQA6hNB) | [DOLL](https://open.spotify.com/artist/0rKZoj6HcuIwB3M99OZ7F3) | [InternetStar](https://open.spotify.com/album/64PJ9haA8oaSFrHEpZT3RB) | 2:39 |
-| 103 | [Pushin On](https://open.spotify.com/track/6ZhEeyHE8SyjQRzRwIWHyG) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/5eHFt6Ecfv45j25kI1KLxN) | 3:02 |
+| 103 | [Pushin On](https://open.spotify.com/track/6ZhEeyHE8SyjQRzRwIWHyG) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Sequels](https://open.spotify.com/album/5eHFt6Ecfv45j25kI1KLxN) | 3:02 |
 | 104 | [Head And My Heart](https://open.spotify.com/track/6yu18Z5nFCXkaCS0EWSHSv) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [AG](https://open.spotify.com/artist/70IRyiXZdU8eIY56M0sBta) | [Head And My Heart](https://open.spotify.com/album/4zrassvYg5gmbC2FZuHvBs) | 3:35 |
 | 105 | [It Must Have Been Love \- Acoustic](https://open.spotify.com/track/0LHH8yZ1MrTFvXDfVIAXps) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [It Must Have Been Love \(Acoustic\)](https://open.spotify.com/album/2ybH1HBG1gq6W4wlafbP7X) | 2:58 |
 | 106 | [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 |

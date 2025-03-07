@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,011,792 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,011,816 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

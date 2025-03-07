@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHEUHxWyR0Kv9vUSsJqVscn3wtaeEu",
+  "snapshot_id": "AAAHE5o3NjUHW4UKKSEt0mYpM+Pd8GpZ",
   "tracks": [
+    {
+      "added_at": "2025-03-07 02:33:56",
+      "album": {
+        "name": "Carmine",
+        "url": "https://open.spotify.com/album/1U6l5Ntbwb6mXKr4wx2w1p"
+      },
+      "artists": [
+        {
+          "name": "Muzzle",
+          "url": "https://open.spotify.com/artist/5VgVGiD89IFKNsQ1n8d9Zd"
+        }
+      ],
+      "duration_ms": 150227,
+      "name": "Damage Done",
+      "url": "https://open.spotify.com/track/3n2skqoSAooYARknCu0MUn"
+    },
     {
       "added_at": "2025-02-28 00:14:14",
       "album": {

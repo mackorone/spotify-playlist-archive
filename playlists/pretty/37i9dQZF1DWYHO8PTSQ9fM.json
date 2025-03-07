@@ -1,15 +1,15 @@
 {
-  "description": "The hottest 50 tracks in Morocco. Cover: Stormy",
-  "num_followers": 680247,
+  "description": "Les hits du moment au Maroc. Cover: GIMS",
+  "num_followers": 680287,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8VY/gAAAADRt+aC5ZkySb50o+SU4gun",
+  "snapshot_id": "Z8oXPgAAAACdM8AWpchhr6tW2CxxuUsu",
   "tracks": [
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "OMEGA",
         "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Jedi ou Jedek",
         "url": "https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv"
@@ -41,59 +41,7 @@
       "url": "https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
-      "album": {
-        "name": "SALGOAT",
-        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "BOUHALI",
-      "url": "https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY"
-    },
-    {
-      "added_at": "2025-02-24 07:27:47",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2025-02-24 07:27:47",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2025-03-03 07:23:42",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
         "url": "https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3"
@@ -109,7 +57,39 @@
       "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
+      "album": {
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "BOUHALI",
+      "url": "https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY"
+    },
+    {
+      "added_at": "2025-03-06 21:44:30",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Dawini",
         "url": "https://open.spotify.com/album/3013V6wepDbBnb81uVU95j"
@@ -129,7 +109,7 @@
       "url": "https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Mahboul Ana",
         "url": "https://open.spotify.com/album/4gsrCRVyVyzxQnaA6ZCi3K"
@@ -145,23 +125,27 @@
       "url": "https://open.spotify.com/track/6bQftLbIxlg6uMXEL77h1a"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "DIPLOMATICO",
         "url": "https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH"
@@ -177,7 +161,23 @@
       "url": "https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "HWASI",
         "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
@@ -193,23 +193,7 @@
       "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
-      "album": {
-        "name": "Midaliya",
-        "url": "https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO"
-      },
-      "artists": [
-        {
-          "name": "RYM",
-          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "Midaliya",
-      "url": "https://open.spotify.com/track/1VfoAPyym2t0DqJcr3uKU3"
-    },
-    {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "P\u00e9lican",
         "url": "https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS"
@@ -225,7 +209,23 @@
       "url": "https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
+      "album": {
+        "name": "Midaliya",
+        "url": "https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "Midaliya",
+      "url": "https://open.spotify.com/track/1VfoAPyym2t0DqJcr3uKU3"
+    },
+    {
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Ghali",
         "url": "https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Y Que Fue?",
         "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Minimum \u00e7a",
         "url": "https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "BOOM BOOM",
         "url": "https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "EL COMIENZO",
         "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "CARR\u00c9 OK",
         "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "CAPITALE DU CRIME RADIO",
         "url": "https://open.spotify.com/album/3GMtKNuvvpiZ6AWsvEGIxe"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/2cbgw1iPeK7dMbOnhD9e8y"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Mab9itich Ch\u00e9rie",
         "url": "https://open.spotify.com/album/2kHcDM7QiYmdQnuLoEnOaR"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/3gEy9hoCGd5OjufRwlyPCh"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "TABOUT",
         "url": "https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "DIARY OF A DEAD MAN (ALIVE SESSION)",
         "url": "https://open.spotify.com/album/4mQeK8UfZQgMkxtynqJXli"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/28azhH8rcRQvoJn4btylPF"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Echoes Of Dust",
         "url": "https://open.spotify.com/album/6e5DWWQd6goRBXoG8U13C8"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/1YxqCYYkfGuFRC7JftjXWj"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Sokkar",
         "url": "https://open.spotify.com/album/3WANh1LW70HosSAYQxWfkd"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/2BYTEkHsEa6BaFxvddYsee"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "APOCALYPSE",
         "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "BERRANI",
         "url": "https://open.spotify.com/album/1E6ZveeUUKohVOqgple86P"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/5fRt5UJxP854arL5XEgL5l"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Slahi",
         "url": "https://open.spotify.com/album/6OVVUX1DvBtnsMtCF0UvqB"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/6lZFFlcjp7inSNs7j5GVp2"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "3DABI",
         "url": "https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "SOIS PAS TIMIDE",
         "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "CHICA BUENA",
         "url": "https://open.spotify.com/album/16S3aQ7fWdkJdbLpQopqRy"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/1I84KvSqQ4R1e80AV8qLGw"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Menina de Vermelho",
         "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Badadi",
         "url": "https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "4 Kamp\u00e9",
         "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Ma Blan Ma Walo",
         "url": "https://open.spotify.com/album/2H9DJkpHyzoJkQQfHcNJPd"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/5VGbv8xVAGFIDdZWGNl4eW"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Mimti",
         "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Bla Bla",
         "url": "https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "POPO",
         "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Lalla w Mali",
         "url": "https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Ya Mektoubi",
         "url": "https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH"
     },
     {
-      "added_at": "2025-02-24 07:27:47",
+      "added_at": "2025-03-06 21:44:30",
       "album": {
         "name": "Matgheltech",
         "url": "https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0"

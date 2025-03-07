@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Albert Heath",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   hun_sagde",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 185500,
       "name": "Bind Mig",
       "url": "https://open.spotify.com/track/7cfDdSNtV5YcF3E3M0LWjB"
@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Gr\u00e5 Skyer",
+        "url": "https://open.spotify.com/album/6pikXZAx9cyLdYSisP5gBE"
+      },
+      "artists": [
+        {
+          "name": "hun_sagde",
+          "url": "https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171186,
+      "name": "Gr\u00e5 Skyer",
+      "url": "https://open.spotify.com/track/0sdW0LZgcaY5KGPzLrq55A"
+    },
+    {
+      "album": {
         "name": "G\u00e5 Itu",
         "url": "https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7"
       },
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-07",
       "duration_ms": 150488,
       "name": "Lige s\u00e5 fucked som mig",
       "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
@@ -2978,6 +2996,24 @@
       "duration_ms": 160974,
       "name": "Ung & Smuk",
       "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
+    },
+    {
+      "album": {
+        "name": "Vinder Ikke Mere",
+        "url": "https://open.spotify.com/album/2lmQ2oaFJjyjbJsock3zdw"
+      },
+      "artists": [
+        {
+          "name": "Astrid Schick",
+          "url": "https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "Vinder Ikke Mere",
+      "url": "https://open.spotify.com/track/6idRbzcrBLHQjCJmTSaqLC"
     },
     {
       "album": {

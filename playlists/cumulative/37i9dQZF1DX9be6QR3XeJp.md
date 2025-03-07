@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Antony Szmierek
+> Discover your new favourite artists from UK&IE\. Cover: Chiderah
 
-299 songs - 16 hr 6 min
+300 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/60XUrkTOflNBTG2792rfxv) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:25 | 2022-07-28 | 2022-10-23 |
 | [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/3CqxeMggZlQ2TBipZO0St5) | [Lynks Afrikka](https://open.spotify.com/artist/47EdbsS4fuxKNkO5beb2Qi) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/4UKOFv0i3LNSZ87HNQH0S9) | 3:25 | 2022-02-18 |  |
 | [Dior](https://open.spotify.com/track/7cjIuwb2Wcli6lKRopM2k5) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Dior](https://open.spotify.com/album/7kWMzEQmQt72v1sTQnaqKo) | 3:14 | 2022-02-18 |  |
+| [Don't Lose Track](https://open.spotify.com/track/2KCzPMDPlL6PCQtap1lpwM) | [Chiderah](https://open.spotify.com/artist/51lUXxQwHhDVh60qJGeidd) | [The Breakdown](https://open.spotify.com/album/6KdrbdsJsxbYTbWwO8Qdk9) | 2:45 | 2025-03-07 |  |
 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/0PXukVbYpvz40KcEFKnIw7) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/album/1UX0F7yksh3rHlEJKvliAT) | 3:27 | 2022-02-18 |  |
 | [Don't See You Around](https://open.spotify.com/track/5JqFDF0EAPFc0S4S3qm4fB) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 3:33 | 2023-04-06 |  |
 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 | 2022-07-28 | 2024-04-19 |

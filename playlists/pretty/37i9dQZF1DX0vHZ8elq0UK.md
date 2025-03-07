@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,323 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,628 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 96 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
 | 97 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 98 | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3) | 3:32 |
-| 99 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ) | 4:11 |
+| 99 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ) | 4:11 |
 | 100 | [Never Forget You](https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:33 |
 | 101 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 |
 | 102 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 |

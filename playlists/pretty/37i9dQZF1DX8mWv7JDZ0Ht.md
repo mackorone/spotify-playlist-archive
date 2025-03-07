@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Lagum
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,925 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,920 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 2 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
 | 3 | [Balada do Amor Inabalável](https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Balada do Amor Inabalável](https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE) | 2:22 |
 | 4 | [Nossa Resenha](https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Nossa Resenha](https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr) | 2:41 |
-| 5 | [Como Posso Amar Assim?](https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Como Posso Amar Assim?](https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs) | 3:13 |
-| 6 | [Mais Raro](https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Mais Raro](https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF) | 3:00 |
-| 7 | [Me Namora](https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Lucas](https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He) | 4:00 |
+| 5 | [não suporto viver sem você \(como dói\)](https://open.spotify.com/track/4y9ngr5Wv76VNkpDGfykTi) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Não suporto viver sem você \(como dói\)](https://open.spotify.com/album/7xwGGMQUNbeGsRuWblyc5j) | 2:38 |
+| 6 | [Como Posso Amar Assim?](https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Como Posso Amar Assim?](https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs) | 3:13 |
+| 7 | [Mais Raro](https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Mais Raro](https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF) | 3:00 |
 | 8 | [Prioridade](https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Prioridade](https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna) | 3:28 |
 | 9 | [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 |
 | 10 | [belo horizonte \(metade de mim\)](https://open.spotify.com/track/4Q668LogaM0KnJWlqSzyHt) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [belo horizonte \(metade de mim\)](https://open.spotify.com/album/0G8JkUOLgYOf5XfgL8Fw2N) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [nada do que você falou](https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc) | [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [nada do que você falou](https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU) | 2:33 |
 | 80 | [Tempo Voa](https://open.spotify.com/track/3TekRNSHjjijQ2SIcY9k1C) | [Marina Gold](https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI) | [Tempo Voa](https://open.spotify.com/album/43ugavm4tgG3EjBnHL0TEZ) | 2:40 |
 
-Snapshot ID: `Z7iBhQAAAADi6uKHeCy6G98/Rx7jGKM0`
+Snapshot ID: `Z8phUQAAAADwB0k4Dh7CacIQ6enUF12c`

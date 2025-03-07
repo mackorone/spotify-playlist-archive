@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Rascal Flatts
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,494 likes - 125 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,729 likes - 125 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

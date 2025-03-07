@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/76Xz6GsYrxBnuKkSphL7FH?si=3tj\_kMuxQ0GIroI54mDeaA">Zingah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,649 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,714 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

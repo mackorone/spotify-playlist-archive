@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Lagum
 
-792 songs - 1 day 15 hr 33 min
+793 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [Me Leva](https://open.spotify.com/track/5qmLMvvMJm8nUAmqJOLB4h) | [Anttónia](https://open.spotify.com/artist/6ljjgnmjb0ayUyMaXVAwf7), [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1) | [Me Leva](https://open.spotify.com/album/1LB7ZCjFraDVz6f99To24u) | 2:54 | 2023-06-09 | 2023-07-01 |
 | [Me Leve](https://open.spotify.com/track/0s5nDuDC0o4zCf1z2nhaQK) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Me Leve](https://open.spotify.com/album/0pVL5tARzVQhDtb4DmS9Sr) | 3:45 | 2023-08-04 | 2023-12-09 |
 | [ME LIGA](https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU) | [ME LIGA](https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka) | 2:13 | 2024-06-21 | 2024-08-17 |
-| [Me Namora](https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Lucas](https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He) | 4:00 | 2024-12-06 |  |
+| [Me Namora](https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Lucas](https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He) | 4:00 | 2024-12-06 | 2025-03-07 |
 | [Melaço](https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Melaço](https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT) | 2:43 | 2024-01-12 | 2024-05-18 |
 | [Melhor do Mundo](https://open.spotify.com/track/7KG23Pebr0cPAzLH8RrpO9) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Melhor do Mundo](https://open.spotify.com/album/4qczavWvfkLgJP2nlYOfbJ) | 3:20 | 2022-09-30 | 2022-11-26 |
 | [Melhor Falar Agora](https://open.spotify.com/track/5Ppya3s6VURsZ4oLwiOj1q) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Melhor Falar Agora](https://open.spotify.com/album/4lzWUsgzXAA2NhmkX3XUIp) | 1:55 | 2022-10-14 | 2023-02-04 |
@@ -481,6 +481,7 @@
 | [não sei dançar \(acústico\)](https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM) | [a trilha do carro dos meus pais \(acústico\)](https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM) | 2:24 | 2024-03-29 | 2024-06-22 |
 | [Não Sou Boa Com Palavras](https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Mais Uma História de Amor](https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ) | 2:23 | 2022-08-26 | 2023-01-28 |
 | [Não Sou De Me Entregar](https://open.spotify.com/track/0tCFKbw0cXe0TIa8PzQgc0) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [Não Sou De Me Entregar](https://open.spotify.com/album/7nR8G0opjRd3AAtzkv3qbr) | 4:02 | 2023-07-14 | 2023-08-19 |
+| [não suporto viver sem você \(como dói\)](https://open.spotify.com/track/4y9ngr5Wv76VNkpDGfykTi) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Não suporto viver sem você \(como dói\)](https://open.spotify.com/album/7xwGGMQUNbeGsRuWblyc5j) | 2:38 | 2025-03-07 |  |
 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 | 2022-05-13 | 2022-11-12 |
 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 | 2023-10-20 | 2024-05-25 |
 | [Não Vou Mais Ceder](https://open.spotify.com/track/4iV9n0PFuhKaFYHv0FHUoM) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM) | [Não Vou Mais Ceder](https://open.spotify.com/album/1EYEen74TH7ONTnfLKYBaf) | 3:00 | 2022-10-14 | 2022-10-29 |

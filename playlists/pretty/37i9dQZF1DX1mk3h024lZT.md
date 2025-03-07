@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mk3h024lZT.md) - [plain]
 
 > set your intentions at the highest of vibrations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,590 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,597 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

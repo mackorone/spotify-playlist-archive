@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,411 likes - 48 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,413 likes - 48 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

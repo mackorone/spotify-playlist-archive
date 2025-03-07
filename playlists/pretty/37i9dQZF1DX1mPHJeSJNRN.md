@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,196 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,220 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

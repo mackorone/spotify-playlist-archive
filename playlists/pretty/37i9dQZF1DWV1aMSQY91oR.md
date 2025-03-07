@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,952 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,963 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 |
 | 2 | [Flood](https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Flood](https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1) | 2:47 |
-| 3 | [RiCH MAN DREAMS \(i\) \(ft\. Ab\-Soul\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
+| 3 | [RiCH MAN DREAMS \(i\)](https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BRAVADO INTiMO...](https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX) | 4:05 |
 | 4 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 |
 | 5 | [WHAT NOW](https://open.spotify.com/track/4bTI0UF71ma665vPMtssMs) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [WHAT NOW](https://open.spotify.com/album/0aJ1HTYuGtwa9AJXBKXR5d) | 3:10 |
 | 6 | [HBK \(feat\. 21 Savage\)](https://open.spotify.com/track/6wje3JOEzPz5TqiDNWTVXk) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WICK](https://open.spotify.com/album/7CDKWBqKdCCw0hN1Mmr6d4) | 3:49 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,113 songs - 2 day 16 hr 47 min
+1,114 songs - 2 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Heart on the Window \(with WENDY\)](https://open.spotify.com/track/1b6qYBwDMBpFylGVT4PRgD) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:57 | 2024-11-16 | 2024-11-21 |
 | [Heart on the Window \(with WENDY\)](https://open.spotify.com/track/4qUmNOnS81p8wrMdBHRbS3) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:57 | 2024-11-21 | 2024-11-27 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-27\* | 2021-05-07 |
+| [Heartbreaker](https://open.spotify.com/track/4oIwqUDqcKyF8M5bmFY8Ax) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Heartbreaker](https://open.spotify.com/album/26Z5V2PyiNfG3nOmtpdNRT) | 3:19 | 2025-03-07 |  |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-24 | 2022-05-07 |
 | [Hey Hey OK!](https://open.spotify.com/track/4pJWCkQnPeXfDyqouuBJ77) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Hey Hey OK!](https://open.spotify.com/album/3oLxZGJGt6R9K7GI1fuW6m) | 3:17 | 2024-07-18 |  |
 | [HEYA](https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:09 | 2024-04-30 | 2024-06-01 |
@@ -510,7 +511,7 @@
 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-02-17 | 2024-03-09 |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-25 | 2022-06-27 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-26 | 2022-07-16 |
-| [POWER](https://open.spotify.com/track/0Q7PMMu2ZDQDF5VjlCOBfc) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:23 | 2025-02-26 |  |
+| [POWER](https://open.spotify.com/track/0Q7PMMu2ZDQDF5VjlCOBfc) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:23 | 2025-02-26 | 2025-03-07 |
 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-11-01 | 2025-01-13 |
 | [QUEEN](https://open.spotify.com/track/5PimlePLQd8xdf7uKccHqS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:43 | 2021-09-01 | 2021-09-06 |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-16 | 2024-01-03 |
@@ -553,7 +554,7 @@
 | [SCIENTIST](https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:14 | 2021-11-14 | 2021-11-21 |
 | [September with You](https://open.spotify.com/track/2BMKgCTdkGCzbVJ1tSftGI) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 2:58 | 2024-03-13 | 2024-03-16 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-04-02 |
-| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 | 2025-03-03 |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 |  |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-11-05 |
 | [Seven \(feat\. Latto\) \(Instrumental\)](https://open.spotify.com/track/2D9mO7arRSeHAEHNVAacaA) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-07-20 |
 | [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:39 | 2023-10-28 | 2023-10-30 |
@@ -963,7 +964,7 @@
 | [永順街39號](https://open.spotify.com/track/3b4dQtIVyVhQdbYVfrik0k) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [永順街39號](https://open.spotify.com/album/47sDT8IseT1h5wbizlMaIj) | 4:40 | 2022-11-13 | 2023-11-25 |
 | [污糟兒](https://open.spotify.com/track/2W9MxlcyMWmeHgZNnCSosb) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [污糟兒](https://open.spotify.com/album/3cAI5qxC8Tk84aCtlyVISB) | 3:45 | 2022-07-21 | 2023-01-13 |
 | [沉默是金](https://open.spotify.com/track/5ezpe0WxjrTXSp82nJDnsM) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [Hot Summer](https://open.spotify.com/album/1e3xezRdT9FNnweZf3XgbP) | 4:09 | 2021-04-03 | 2023-04-04 |
-| [沒啥好說](https://open.spotify.com/track/5F5LOb2vpSW0RHiEQDUq8f) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:29 | 2025-03-03 |  |
+| [沒啥好說](https://open.spotify.com/track/5F5LOb2vpSW0RHiEQDUq8f) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:29 | 2025-03-03 | 2025-03-07 |
 | [沒明日的恐懼](https://open.spotify.com/track/7sQwncmcjPQTKqEPXSot1v) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [沒明日的恐懼](https://open.spotify.com/album/1HxO1UY2Otzf4sLikQ3MMk) | 3:48 | 2021-07-09 | 2021-08-13 |
 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 | 2022-03-12 | 2022-03-16 |
 | [沒有無緣無故的恨](https://open.spotify.com/track/6YI4OXOVtZ29Rc7GxOI4sY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [沒有無緣無故的恨](https://open.spotify.com/album/3UugGjG8QfPiwvBDbRuhL8) | 3:45 | 2021-08-27 | 2021-12-24 |

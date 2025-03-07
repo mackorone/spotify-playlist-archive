@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,500 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,496 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

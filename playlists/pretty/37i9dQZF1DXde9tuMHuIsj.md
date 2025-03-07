@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,925 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,497,926 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

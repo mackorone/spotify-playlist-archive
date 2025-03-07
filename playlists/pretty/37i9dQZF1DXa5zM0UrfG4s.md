@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,329 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,343 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
 | 70 | [Håper du er lykkelig nå](https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5), [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7) | 2:59 |
 
-Snapshot ID: `Z8DulwAAAAADQuIgKGG+ddERH+Gla5aB`
+Snapshot ID: `Z8opCwAAAABgyS4EbwpsC5Ssxt1vXfSE`

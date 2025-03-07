@@ -4,7 +4,7 @@
 
 > De mooiste liedjes van het moment\. Cover: Kensington
 
-586 songs - 1 day 10 hr 9 min
+589 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,9 @@
 | [Bobby](https://open.spotify.com/track/4ZKzPzlHwhAuh5TL0Tqb7I) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Bobby](https://open.spotify.com/album/0ppS2y9KwT8g2bWJddBepm) | 2:57 | 2025-02-21 |  |
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-06-01 | 2024-01-30 |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-11-14 | 2025-02-28 |
+| [Bring Me My Horse](https://open.spotify.com/track/1GovyMSQrOWzL4CySOtr7f) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It Is What It Is](https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd) | 4:22 | 2025-03-06 |  |
 | [Broken Promises](https://open.spotify.com/track/269deQv0LzWjMK4R1Zvb2b) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:02 | 2023-02-23 | 2023-03-25 |
-| [Brotherhood](https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Brotherhood](https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT) | 3:56 | 2024-10-22 |  |
+| [Brotherhood](https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Brotherhood](https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT) | 3:56 | 2024-10-22 | 2025-03-07 |
 | [Brothers and Sisters](https://open.spotify.com/track/45IE1hNbfAzUmRikKLHbO2) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers and Sisters](https://open.spotify.com/album/21gVUcAjsV6Wo2FHGQfpGg) | 3:55 | 2024-04-18 | 2024-06-14 |
 | [Brothers And Sisters](https://open.spotify.com/track/4srsFockSV7zNZjSbvbkML) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers and Sisters](https://open.spotify.com/album/4ZJsUp5BVASSDRKoidrDRU) | 3:55 | 2024-02-15 | 2024-04-08 |
 | [Brothers And Sisters](https://open.spotify.com/track/6YWjxol9LN0KbJHfgJ6aMe) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers & Sisters](https://open.spotify.com/album/2VmcCIkNH8csGrM5ztrs4T) | 3:55 | 2024-04-06 | 2024-04-19 |
@@ -148,6 +149,7 @@
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-02-23 | 2023-05-10 |
 | [Every Day and Every Night](https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 2:54 | 2023-02-23 | 2023-07-15 |
 | [Everybody's Got to Learn](https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:53 | 2023-07-14 | 2024-01-26 |
+| [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-03-06 |  |
 | [Evol Love](https://open.spotify.com/track/7muf6AxPAt2y32KiDgs0kB) | [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Evol Love](https://open.spotify.com/album/5BRxmdYHo1szR8FoqKEunx) | 2:47 | 2024-12-05 |  |
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-24 | 2023-08-04 |
 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-08-03 | 2023-09-12 |
@@ -403,7 +405,7 @@
 | [Rebeccula](https://open.spotify.com/track/0yOM3Pjco863VO8snO0cwa) | [Cosmic Crooner](https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq) | [Rebeccula](https://open.spotify.com/album/1uvgrQwbFgJ21wXCpPJLib) | 3:34 | 2025-02-21 |  |
 | [Reliving](https://open.spotify.com/track/4PofaVZAKYv2z3tWBsunnu) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Reliving](https://open.spotify.com/album/1X7MoOcVPjptu96LYaoKNa) | 3:40 | 2023-07-20 | 2023-12-15 |
 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-06-20 | 2024-10-04 |
-| [Remember Me](https://open.spotify.com/track/60DTWHQSXLdOMairERdoOn) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Self Sabotage](https://open.spotify.com/album/2LMv04vlituVhg9BD2VUVL) | 3:25 | 2024-10-10 |  |
+| [Remember Me](https://open.spotify.com/track/60DTWHQSXLdOMairERdoOn) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Self Sabotage](https://open.spotify.com/album/2LMv04vlituVhg9BD2VUVL) | 3:25 | 2024-10-10 | 2025-03-07 |
 | [Rest In Peace](https://open.spotify.com/track/0F634NqZ65Skv8aRDEsyex) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Rest In Peace](https://open.spotify.com/album/65kQ2jcrYIYAMNiE5Zi704) | 2:55 | 2023-08-24 | 2024-01-26 |
 | [Rise](https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Rise](https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf) | 3:03 | 2023-11-23 | 2024-05-17 |
 | [Routines In The Night](https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:22 | 2024-09-24 | 2024-10-15 |
@@ -420,6 +422,7 @@
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-25 | 2023-10-28 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-18 | 2024-06-21 |
 | [school reunion](https://open.spotify.com/track/0jvuiMZpvrjxTK8iU76PRn) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [school reunion](https://open.spotify.com/album/3HLs4a8BLcCOtDCMEoUGx7) | 2:54 | 2023-08-24 | 2024-02-03 |
+| [Seconds Tick \- Radio Edit](https://open.spotify.com/track/4leW2fnedeluPuT9mUKOdf) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [Seconds Tick \(Radio Edit\)](https://open.spotify.com/album/7jFyNiHnIUQWrSEnah2mIT) | 3:57 | 2025-03-06 |  |
 | [See, I'm Sorry](https://open.spotify.com/track/5lnlFi4cQ2klADNUAXYXdl) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [See, I'm Sorry](https://open.spotify.com/album/5Q6mUe7IdvCTOXzRQ1uPM9) | 3:34 | 2023-02-23 | 2023-05-12 |
 | [Seeing Straight](https://open.spotify.com/track/37jDUmxh5NUuaBWTAOB0si) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [Seeing Straight](https://open.spotify.com/album/4JAKg35Lyg9g9259rmL2cW) | 4:38 | 2023-02-23 | 2023-04-14 |
 | [She Calls Me Back](https://open.spotify.com/track/1LvU6IFqQnXOIwJyBDb2io) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:03 | 2023-10-05 | 2023-10-07 |
@@ -566,7 +569,7 @@
 | [What Are You Waiting For?](https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What Are You Waiting For?](https://open.spotify.com/album/1BTeZsZoB5PK480kmZew8t) | 3:59 | 2023-09-28 | 2024-04-05 |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-05-24 | 2024-10-15 |
 | [What If I Want You Now](https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If I Want You Now](https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq) | 3:10 | 2024-05-02 | 2024-10-09 |
-| [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 | 2024-10-03 |  |
+| [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 | 2024-10-03 | 2025-03-07 |
 | [What You Gonna Do](https://open.spotify.com/track/3g1kcKJuFOQNpmLVi4i0vI) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [What You Gonna Do](https://open.spotify.com/album/7ndrgvQs1wROQByST5SZ3u) | 3:17 | 2024-01-25 | 2024-05-10 |
 | [whatstheuse](https://open.spotify.com/track/73scvnGUKmJGkJmOGf5ZVE) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [whatstheuse](https://open.spotify.com/album/0MV6aHAYFTdLVYIw5Qv0FW) | 3:08 | 2023-07-31 | 2023-11-08 |
 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 | 2023-05-09 | 2023-11-03 |

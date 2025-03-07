@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-276 songs - 11 hr 54 min
+277 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [New Era For Me](https://open.spotify.com/track/3e1LaYRy3UgTqOzVEvkaAz) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [New Era For Me](https://open.spotify.com/album/3ZnZYWFkWrgSZNWGg1sOl4) | 2:37 | 2023-11-29 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2023-04-03 |  |
 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-16 |  |
+| [Nighttime](https://open.spotify.com/track/7lOIqEy05P44D2ZDDrUEF4) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Nighttime](https://open.spotify.com/album/7hDXLdzwTJ5GqB7T0A5bnb) | 2:39 | 2025-03-07 |  |
 | [Nocturne](https://open.spotify.com/track/0poBmYwvWSP2nZYJYbaOu6) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Nocturne](https://open.spotify.com/album/1IP3Dd2jlEHljD9qw5CLj1) | 3:01 | 2023-04-03 |  |
 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 | 2025-01-17 |  |
 | [Notturno](https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Notturno](https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc) | 3:11 | 2024-03-25 |  |
