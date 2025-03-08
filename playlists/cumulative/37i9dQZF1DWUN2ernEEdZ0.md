@@ -4,7 +4,7 @@
 
 > Introducing the hottest new classical music of 2025🔥<br/>Cover: Bruce Liu.
 
-55 songs - 3 hr 28 min
+57 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Nocturne II \- After Dawn](https://open.spotify.com/track/525ryQdhkG7si9Eyky3PGM) | [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Nocturne II \- After Dawn](https://open.spotify.com/album/5lYT3LFBYCqSpB2YqYyUoY) | 3:22 | 2025-01-24 |  |
 | [Nocturne No\. 14 in G Major, H\. 58](https://open.spotify.com/track/0R0Jt6AtWvquyxklC01fQu) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Field: Nocturne No\. 14 in G Major, H\. 58](https://open.spotify.com/album/25H8xWK0FbBVeq2RmSuxXn) | 2:33 | 2025-01-24 |  |
 | [Nyman: The Promise](https://open.spotify.com/track/0yaWT7x4jyX0dT6rpy65lo) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Michael Nyman: The Promise](https://open.spotify.com/album/0M1GxmaJ7vekWhoXGE15Ux) | 1:56 | 2025-01-24 |  |
+| [October](https://open.spotify.com/track/3q0c0pl3XpsG65RbpA5ELk) | [Philipp Hasse](https://open.spotify.com/artist/76Awap7mRTdIk1ACiLdzYX) | [October](https://open.spotify.com/album/16NmntSL31MTCPkB6PkbOZ) | 2:27 | 2025-03-07 |  |
 | [Opera \(Paris\)](https://open.spotify.com/track/3DvbPJL6yFXhgp4mD5j5fD) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Paris](https://open.spotify.com/album/7LSOjGfETku2oPC7mr6ubo) | 4:41 | 2025-01-24 |  |
 | [Parisian Lovers](https://open.spotify.com/track/5uMNEYJedK8eOYcoyzJlMj) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Parisian Lovers](https://open.spotify.com/album/6U0gvl6aazi28oY4wTE9nr) | 2:42 | 2025-01-24 |  |
 | [Pavane Floue](https://open.spotify.com/track/6FxxwOmQkkym2WJkqRosvz) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Pavane Floue](https://open.spotify.com/album/4UQWJkNFyhumm5vouylxGu) | 2:51 | 2025-01-24 |  |
@@ -46,6 +47,7 @@
 | [refuge](https://open.spotify.com/track/5MFUnentmT90GocdjXcnyO) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo), [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [refuge](https://open.spotify.com/album/1vOX4iRyIwBIe1RDYmbHD0) | 2:33 | 2025-01-24 |  |
 | [Renaissance \(Main Theme from "The White Lotus, Series 2"\) \[Arr\. Metcalfe for Guitar, String Quintet & Percussion\]](https://open.spotify.com/track/0UaruzqKjIV2SKgkzDb65f) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM), [Carducci String Quartet](https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI), [Sam Becker](https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT), [Elsa Bradley](https://open.spotify.com/artist/0jmzQxOsKeghTYLLLnLjt6) | [Renaissance \(Main Theme from "The White Lotus, Series 2"\) \[Arr\. Metcalfe for Guitar, String Quintet & Percussion\]](https://open.spotify.com/album/1z134JOpvB2nhJgQYKbqLK) | 4:25 | 2025-02-21 |  |
 | [Rhapsody in Blue \(Solo Piano Version\)](https://open.spotify.com/track/3Oywl0XakigMLVBK57QC4W) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Claire Huangci](https://open.spotify.com/artist/6iFs9LvpM2UzZPmRtOrkLf) | [Made in USA: Gershwin, Beach & Barber](https://open.spotify.com/album/3QrvbRw6k8pVVUN49vWCwF) | 15:16 | 2025-01-24 |  |
+| [Richter: Written on the Sky](https://open.spotify.com/track/0n3CjysTL1Kcuu9BS0lN38) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Max Richter: Written on the Sky](https://open.spotify.com/album/3NTBDwC0a5CtotRCylwCFm) | 1:49 | 2025-03-07 |  |
 | [Ritual](https://open.spotify.com/track/6xvYKwgflLoK9ScVi94YQb) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Ritual](https://open.spotify.com/album/6dpwTCRNhHZPU3AWPbuq3K) | 3:40 | 2025-02-21 |  |
 | [Rose Bay](https://open.spotify.com/track/1EnWUJvL6apLFYFi0iFuyD) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 4:19 | 2025-02-19 |  |
 | [Rêverie et caprice, H\. 88](https://open.spotify.com/track/6Pn0dOVDcJh0LHwZydFBJM) | [Hector Berlioz](https://open.spotify.com/artist/11T8SOX82xraocZzUXzkvM), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY), [Mihhail Gerts](https://open.spotify.com/artist/7eUtW6pegtnlIFXFDH8g9J) | [Paganini: 24 Caprices — Caprices by Berlioz, Cervelló, Kreisler, Ortiz, Saint\-Saëns, Sarasate, Wieniawski](https://open.spotify.com/album/62fO65dt8t8rpLCULZKRKa) | 8:29 | 2025-02-21 |  |

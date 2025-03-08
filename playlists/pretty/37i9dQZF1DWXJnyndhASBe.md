@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> White, kuqe i Eryk Moczko w RAPREZENTACJI Polski w Barcelonie ⚽🇵🇱 Oglądaj relacje na żywo na kanale @spotifypoland <a href=“https://www.instagram.com/spotifypoland”>@spotifypoland</a>
+> White 2115, kuqe 2115 i Eryk Moczko w RAPREZENTACJI Polski w Barcelonie ⚽🇵🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,257 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,547 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [DOLCE VITA](https://open.spotify.com/track/6TDvQQit8Q6EJhHvtx62cp) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Leśny](https://open.spotify.com/artist/2MRSNbEPY2YKzkgDag5fzg) | [DOLCE VITA](https://open.spotify.com/album/4ltl3kxWgO7qq1TbmnUGqw) | 2:33 |
 | 50 | [I00](https://open.spotify.com/track/4kQ9Pv0eBPawJSdCLFpO74) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [I00](https://open.spotify.com/album/4LnqhZH5aShN9kZbVTaTLa) | 2:28 |
 
-Snapshot ID: `Z8opDQAAAAB4AnmmpI0AymQVjT6rX5Ex`
+Snapshot ID: `Z8semgAAAADI0rrbKpwPNhVRUPNU5L/T`

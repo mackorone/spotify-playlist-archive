@@ -3229,6 +3229,32 @@
     },
     {
       "album": {
+        "name": "Mi Chica de Pueblo",
+        "url": "https://open.spotify.com/album/4U34xyInaGSd9nI7JI76PN"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154034,
+      "name": "Mi Chica de Pueblo",
+      "url": "https://open.spotify.com/track/3A0tMwY1oES0QvmdgUIIbk"
+    },
+    {
+      "album": {
         "name": "Este Destino Cantor",
         "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
       },

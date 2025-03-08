@@ -1863,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Data Stream",
+        "url": "https://open.spotify.com/album/6FhIvJlDLlmbRiP2yjacrg"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Hahn",
+          "url": "https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168229,
+      "name": "Data Stream",
+      "url": "https://open.spotify.com/track/1V0hIdLiePAzR7nFQ6TPUt"
+    },
+    {
+      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3K49baBBJqPvxj5u5WtfuW"
       },

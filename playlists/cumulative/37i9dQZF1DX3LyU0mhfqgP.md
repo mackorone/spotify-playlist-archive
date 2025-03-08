@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: lewloh
+> Songs from LGBTQIA+ artists\.  Cover: Joya
 
 1,427 songs - 3 day 5 hr 30 min
 

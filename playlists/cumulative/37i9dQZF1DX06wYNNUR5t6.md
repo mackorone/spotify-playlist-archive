@@ -2,9 +2,9 @@
 
 ### [Christian Rock Hits](https://open.spotify.com/playlist/37i9dQZF1DX06wYNNUR5t6)
 
-> Recent hits from all your favorite Christian Rock artists!  Cover: Skillet
+> Recent hits from all your favorite Christian Rock artists!  Cover: Lacey Sturm
 
-92 songs - 5 hr 49 min
+94 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Baptist](https://open.spotify.com/track/0DoRLxihQQzXXTOuy9eshr) | [Paradise Now](https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB) | [Supernatural](https://open.spotify.com/album/2a9VlLxC7bf7JAmFk0ZPNy) | 3:24 | 2021-04-10 | 2022-11-13 |
 | [Better Off](https://open.spotify.com/track/1iHx9Ge9YO5Le3UCrjWZ8n) | [City of Auburn](https://open.spotify.com/artist/0FYVYl9r4gHtgP9rJD9GKy) | [Spinning](https://open.spotify.com/album/6FHT343fVHWuPvTRgiA1ak) | 3:46 | 2021-04-10 |  |
 | [Black Light](https://open.spotify.com/track/01cIqV4RrN3YoRNcnzVXSr) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Violence](https://open.spotify.com/album/1JEGmU4yqtuuFceHpVCvHK) | 5:02 | 2021-04-10 |  |
+| [Black Roses White Doves](https://open.spotify.com/track/29QhQbPMhgjPrqDznx1pP1) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Black Roses White Doves](https://open.spotify.com/album/6ZbtYlMOYqRGkwxVar9f8V) | 3:29 | 2025-03-07 |  |
 | [Bottom Feed](https://open.spotify.com/track/1juIgyx6a8G5O1Tnlnf4IB) | [Mawcore](https://open.spotify.com/artist/04vYfdkQAWRKmqmsitQbea) | [Where Breaking Begins](https://open.spotify.com/album/3bsRpywxqsiSORItREzXUN) | 3:32 | 2021-04-10 |  |
 | [Breaking Free \(feat\. Lacey Sturm\)](https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:52 | 2021-04-10 | 2024-07-04 |
 | [Breathe Again](https://open.spotify.com/track/5A83Ob2zfm00oahV4ioFNt) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Still Just Breathing](https://open.spotify.com/album/6pX8vrvmBoOg2HF8LK9Gr8) | 3:37 | 2021-04-10 | 2024-04-19 |
@@ -55,7 +56,7 @@
 | [Lost Light](https://open.spotify.com/track/3EIvig8BraPoKYhQ9lzDNI) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [Lost Light](https://open.spotify.com/album/5FL4Jj4XwmZnWtHV8FhXs9) | 3:52 | 2024-11-29 |  |
 | [Misery Game](https://open.spotify.com/track/5ZBrH7WW2KtSg7WxGu794E) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Misery Game](https://open.spotify.com/album/4WEWiaNSX8wxfQfL276fHb) | 3:09 | 2021-04-10 | 2024-07-04 |
 | [More Than Bones](https://open.spotify.com/track/6YPopUgTLk3LaISL9cDAPm) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Peace](https://open.spotify.com/album/4Y1MriICUHdg43Z30CBuxp) | 4:15 | 2021-04-10 | 2024-07-04 |
-| [Mr\. Creeps](https://open.spotify.com/track/2AP3WF1VbuwLXPW5uWZqz0) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Mr\. Creeps](https://open.spotify.com/album/455lo6Fp27QLZO5My8IZqk) | 3:01 | 2021-04-10 |  |
+| [Mr\. Creeps](https://open.spotify.com/track/2AP3WF1VbuwLXPW5uWZqz0) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Mr\. Creeps](https://open.spotify.com/album/455lo6Fp27QLZO5My8IZqk) | 3:01 | 2021-04-10 | 2025-03-08 |
 | [My Declaration](https://open.spotify.com/track/2uD6FPyDovbYAbI7oF2Srs) | [Bayless](https://open.spotify.com/artist/5cTZq90aOtEXdJBX4zThnu) | [My Declaration](https://open.spotify.com/album/1q7degKMC1ik1akGBNO0e9) | 4:12 | 2021-04-10 |  |
 | [NATIVE TONGUE](https://open.spotify.com/track/4zPmVJ51QlCimfTrQIqQiV) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 4:38 | 2021-04-10 | 2024-07-04 |
 | [Nightmare](https://open.spotify.com/track/0qn0EGCOwcRTYM6oI1X8CL) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Nightmare](https://open.spotify.com/album/5o6miCyzka5xeGZ9iHPGfU) | 6:21 | 2024-07-04 |  |
@@ -83,11 +84,12 @@
 | [The Cure](https://open.spotify.com/track/3bimN1JcQkbLWcUJexAEyh) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eclipse](https://open.spotify.com/album/6L8gLKCluioceYP7WNmcol) | 4:16 | 2021-04-10 | 2024-07-04 |
 | [The Evening Hate](https://open.spotify.com/track/2afTqQjKpq8e4qmUwZbQRI) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [The Evening Hate](https://open.spotify.com/album/7CDRVjW6yQIG1nt79t2qFS) | 4:47 | 2021-04-10 | 2024-07-04 |
 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 | 2021-04-10 | 2024-07-04 |
+| [The Memory](https://open.spotify.com/track/0wCbt2OooGJIWAccsP2MpL) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [The Darkness Before The Dawn](https://open.spotify.com/album/2HK9jU69MsXP78rfv4Sj4T) | 3:12 | 2025-03-07 |  |
 | [The Old Me](https://open.spotify.com/track/4mMgi9flknFXQi4VSbhi47) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/0ItP8PEXg35DjbKlso5Gvn) | 3:09 | 2021-04-10 | 2024-04-19 |
 | [The Old Me](https://open.spotify.com/track/7HIQfzq7uFZNZUxzK2OjbH) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/6OjdYx9U5k0Tex2SAKyDSh) | 3:09 | 2021-04-10 | 2024-07-04 |
 | [The Price of Agony](https://open.spotify.com/track/13zKsRskPB1TD9lWtbMoXH) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 4:47 | 2021-04-10 |  |
 | [The Price of Agony](https://open.spotify.com/track/7AtpVDfDXLUFVwojUMUYce) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/1YzifcxmauqYL9BXr0rkKs) | 4:47 | 2021-04-10 | 2024-04-19 |
-| [This Is Us](https://open.spotify.com/track/6oW2rfPx2crZZgxxrboCIZ) | [One Crown](https://open.spotify.com/artist/4TKVKRdQ20EkXxEQG84Syi) | [This Is Us](https://open.spotify.com/album/0Vl04c7ygRUlH9xwn8EjZY) | 3:21 | 2024-07-04 |  |
+| [This Is Us](https://open.spotify.com/track/6oW2rfPx2crZZgxxrboCIZ) | [One Crown](https://open.spotify.com/artist/4TKVKRdQ20EkXxEQG84Syi) | [This Is Us](https://open.spotify.com/album/0Vl04c7ygRUlH9xwn8EjZY) | 3:21 | 2024-07-04 | 2025-03-08 |
 | [Too Late](https://open.spotify.com/track/2HdXs8oiSI2I3K65sPg1WS) | [Amongst the Giants](https://open.spotify.com/artist/12rJfJCwHnKC7VuuLk9xtJ) | [Obscene](https://open.spotify.com/album/0lzEISCPcYEJ78E1qxWGQm) | 3:08 | 2021-04-10 |  |
 | [Victory](https://open.spotify.com/track/3tiumLzoEO3girnNu45ohv) | [DaysEye](https://open.spotify.com/artist/5xXNSdXlFulKXyuOxHeIwW) | [Victory](https://open.spotify.com/album/16G3IromCnZSKdlOsdttXe) | 3:25 | 2021-04-10 | 2024-04-19 |
 | [Victory](https://open.spotify.com/track/5ddlzv2lJ7jCNfkVbqVtfc) | [DaysEye](https://open.spotify.com/artist/5xXNSdXlFulKXyuOxHeIwW) | [Victory](https://open.spotify.com/album/5tKOZ7U2T3ELxL5v1NLmJx) | 3:25 | 2021-04-10 |  |
@@ -95,7 +97,7 @@
 | [When Everything Means Nothing](https://open.spotify.com/track/20dil44lFapp6oNBfCQlif) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 3:51 | 2021-04-10 | 2024-07-04 |
 | [When Everything Means Nothing](https://open.spotify.com/track/7ezIUoHieQUZ2b3czrPp82) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/1YzifcxmauqYL9BXr0rkKs) | 3:51 | 2021-04-10 | 2024-04-19 |
 | [Without a Fight](https://open.spotify.com/track/3d31ajFirzxgYo8SQy6GCn) | [We Are Vessel](https://open.spotify.com/artist/5oOUd9MCX1PnsfolIs7h4X) | [Lift Your Voice](https://open.spotify.com/album/4AAC9PQQgacwlNX2J4tT5x) | 3:37 | 2021-04-10 |  |
-| [Wolves](https://open.spotify.com/track/01HzjrOehvJUlKK3WsQ8qK) | [The Persuaded](https://open.spotify.com/artist/1mKqAPg3t3g6LuBH0Eci7j) | [Dawn Of Destruction](https://open.spotify.com/album/17e9TILgvyuJyuuRIaiT2M) | 3:16 | 2021-04-10 |  |
+| [Wolves](https://open.spotify.com/track/01HzjrOehvJUlKK3WsQ8qK) | [The Persuaded](https://open.spotify.com/artist/1mKqAPg3t3g6LuBH0Eci7j) | [Dawn Of Destruction](https://open.spotify.com/album/17e9TILgvyuJyuuRIaiT2M) | 3:16 | 2021-04-10 | 2025-03-08 |
 | [Words of Fire](https://open.spotify.com/track/6m6ADfHbf2EgRDHd6omxwA) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [End of the World \(feat\. Disciple\)](https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY) | 4:11 | 2024-07-04 |  |
 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-07-04 |  |
 | [Your Devil Is A Ghost](https://open.spotify.com/track/4zBVeBFp5MdOAFJPi2Tk31) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Rated R](https://open.spotify.com/album/1SFJF2gfT4zm3NXG2rImYM) | 3:11 | 2024-07-04 |  |

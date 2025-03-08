@@ -2281,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
+        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u96c6\u9662\u5317\u6597 (CV.\u795e\u539f\u5927\u5730)",
+          "url": "https://open.spotify.com/artist/13f4GKk0tDpNKPJWJ0auUa"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218066,
+      "name": "ROMANTIC SHAKER",
+      "url": "https://open.spotify.com/track/1Zia9UO4AgrArmKu7XoScL"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 05",
         "url": "https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ"
       },
@@ -4164,7 +4182,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 296440,
       "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
       "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"

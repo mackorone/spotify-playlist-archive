@@ -2007,6 +2007,32 @@
     },
     {
       "album": {
+        "name": "Gibeli Moto",
+        "url": "https://open.spotify.com/album/5kvQkDdAlUj0hsZxBip3LB"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        },
+        {
+          "name": "Dangerflex",
+          "url": "https://open.spotify.com/artist/1WzvlCfuTXzPrtvtJqcIo4"
+        },
+        {
+          "name": "Nompumiie",
+          "url": "https://open.spotify.com/artist/0eER89yqphltaST31OvSvm"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Gibeli Moto",
+      "url": "https://open.spotify.com/track/0rEk800eyDwzD6H24qFfhk"
+    },
+    {
+      "album": {
         "name": "Gijima Quantum",
         "url": "https://open.spotify.com/album/4Lm2qC6B7Q2nmwBjoBX8DO"
       },
@@ -4646,6 +4672,24 @@
       "duration_ms": 281782,
       "name": "Ngicela Ungivulele",
       "url": "https://open.spotify.com/track/6KZcIH2LM1jVYvPK5vpCnq"
+    },
+    {
+      "album": {
+        "name": "Ngisakuthanda (Gqom Remake)",
+        "url": "https://open.spotify.com/album/49pPnLhHeH8T1vAcdt1wny"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373000,
+      "name": "Ngisakuthanda - Gqom Remake",
+      "url": "https://open.spotify.com/track/2dZVjKOfZgbfohDF2U8Q42"
     },
     {
       "album": {

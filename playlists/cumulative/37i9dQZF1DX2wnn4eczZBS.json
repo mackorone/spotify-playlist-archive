@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Als Je Nog Wil",
+        "url": "https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d"
+      },
+      "artists": [
+        {
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203264,
+      "name": "Als Je Nog Wil",
+      "url": "https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT"
+    },
+    {
+      "album": {
         "name": "Als Jij Zegt Dat Het Liefde Is",
         "url": "https://open.spotify.com/album/3lOL71xMJrHi69UCRSvnqB"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 153665,
       "name": "Blijven",
       "url": "https://open.spotify.com/track/3iKkOyOmhhavRA3v4Rzy7O"
@@ -370,7 +388,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 126902,
       "name": "BOM",
       "url": "https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6"
@@ -442,7 +460,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 219357,
       "name": "Dag en Nacht",
       "url": "https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 326653,
       "name": "Een Filosofie Van Het Riool",
       "url": "https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS"
@@ -774,7 +792,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 209280,
       "name": "Gebroken Spiegel",
       "url": "https://open.spotify.com/track/10Kg907mXNLeJ0K86gE1Or"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 167826,
       "name": "Onzichtbaar",
       "url": "https://open.spotify.com/track/6MadE1DxKrKN5QeUz5dz4M"
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 206590,
       "name": "platland",
       "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 191453,
       "name": "PRADA STELEN",
       "url": "https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG"
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 262554,
       "name": "Salmari & Kreeft",
       "url": "https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN"
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 231676,
       "name": "Starstruck (Celebrity)",
       "url": "https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx"
@@ -2348,7 +2366,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 242286,
       "name": "Suicide Vest",
       "url": "https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU"
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 152968,
       "name": "Telefoon",
       "url": "https://open.spotify.com/track/7n76BZB7LkeM6DdIT1Y10i"
@@ -2858,6 +2876,24 @@
       "duration_ms": 203229,
       "name": "Zachte Landing",
       "url": "https://open.spotify.com/track/2NsGqzU5IYKu0JHs3WGDbP"
+    },
+    {
+      "album": {
+        "name": "Zieke Wereld",
+        "url": "https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184258,
+      "name": "Zieke Wereld",
+      "url": "https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC"
     },
     {
       "album": {

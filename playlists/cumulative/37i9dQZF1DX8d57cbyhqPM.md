@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Tontons Dadju et Tayc
+> Du Congo, au monde\. 🌍 Photo: Tonton Naza
 
-548 songs - 1 day 7 hr 36 min
+550 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Bleu](https://open.spotify.com/track/3r2j3wDCgyRjBI6qfwnStz) | [Shakis Boy](https://open.spotify.com/artist/76BjGpzdV5DL1IEDOQDKFP) | [Bleu](https://open.spotify.com/album/2kypPpQWf5AcDckZeP3Sfo) | 2:50 | 2024-11-08 | 2025-02-15 |
 | [Bloqué](https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Bloqué](https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8) | 3:18 | 2022-08-05 | 2024-07-27 |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2022-06-30 |  |
+| [Boma Love](https://open.spotify.com/track/456s41homGkd5KpzBMSM6I) | [Jordy](https://open.spotify.com/artist/5tZRrutidZHlufZzoO10Zh), [Bruzer](https://open.spotify.com/artist/1U2Bzt0bhkqHJj7L1WQdnB) | [Boma Love](https://open.spotify.com/album/5BDEuKkCEs4GfW5RA6SQkW) | 1:57 | 2025-03-07 |  |
 | [Boma Moto](https://open.spotify.com/track/2B4bBd8tmT7JGmwg2svEct) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Boma Moto](https://open.spotify.com/album/5wsSj9qX534eND5nu6MI7h) | 2:57 | 2023-01-06 | 2023-03-18 |
 | [Boma nga](https://open.spotify.com/track/3ptSWP4sc1j1sb3G6sTLsd) | [Gathorose](https://open.spotify.com/artist/1YE9jrML8L9IhZyPq90uuZ) | [Boma nga](https://open.spotify.com/album/2KAD04YSQFHXya4NnpKjt7) | 2:10 | 2023-11-10 | 2023-12-02 |
 | [Bomaye](https://open.spotify.com/track/3CEFVlSmv5KRooqXoKSPWS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/2oz2hClmby2iAj7iWulReI) | 2:24 | 2022-10-21 | 2022-12-25 |
@@ -101,7 +102,7 @@
 | [Cascade](https://open.spotify.com/track/75qfjGyoLxXZz5ybYNX9pA) | [Elygha](https://open.spotify.com/artist/6Nh15Mr3cEZL5ayTNArNaH) | [Cascade](https://open.spotify.com/album/3nihl21GfnOtRsjrFnZ37x) | 3:43 | 2022-11-25 | 2023-03-18 |
 | [CDQ](https://open.spotify.com/track/0CjGQyX0YHYibChVyStSnj) | [Arnaud Ndongala](https://open.spotify.com/artist/4MxUaA8AFEgDdjLIQKP3j8) | [CDQ](https://open.spotify.com/album/7e50CSpqBejmMVBRhMDIKy) | 2:52 | 2022-06-30 | 2022-07-16 |
 | [Champion](https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Champion](https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl) | 3:10 | 2022-08-12 | 2024-10-05 |
-| [CHERIE NA NGA](https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [SK](https://open.spotify.com/album/4pRJVA3gBtQIyGBaDP9jkP) | 3:04 | 2024-11-29 |  |
+| [CHERIE NA NGA](https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [SK](https://open.spotify.com/album/4pRJVA3gBtQIyGBaDP9jkP) | 3:04 | 2024-11-29 | 2025-03-08 |
 | [Choco](https://open.spotify.com/track/0xFQrovDKSpOG6rWlcKcnV) | [Moerson](https://open.spotify.com/artist/6I4CPoQeM3qI54JeCqySdW) | [Chocomix](https://open.spotify.com/album/0aeGlsQjatfwXPZwA2VOxh) | 2:56 | 2023-03-17 | 2023-04-29 |
 | [Chouchou des nanas](https://open.spotify.com/track/56Xr14dI8ugeQcuIvTzusS) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [Chouchou des nanas](https://open.spotify.com/album/5Eo9jgJoVDhSArHrMiftFY) | 2:24 | 2024-06-07 |  |
 | [Christina](https://open.spotify.com/track/6DLE4EbQwkxkisd7OftpuG) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Christina](https://open.spotify.com/album/6rCymUM7vsU20Rwvar8dWO) | 2:42 | 2023-03-17 | 2023-09-09 |
@@ -137,7 +138,7 @@
 | [DIVA](https://open.spotify.com/track/1vygEoQhk1WA6WMvIJ9ztW) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [DIVA](https://open.spotify.com/album/51Nm24o9yTWtqNxu3XXiWE) | 3:14 | 2024-06-21 | 2024-07-27 |
 | [DJ](https://open.spotify.com/track/0yHh2v3P5dBSjSyV1uDBhQ) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te) | [DJ](https://open.spotify.com/album/7BTeErAhrTZyPQ5WjsdgZE) | 2:34 | 2024-07-19 | 2024-08-10 |
 | [Djarabi](https://open.spotify.com/track/66JT7NAbV5LlTF0e7hvgs3) | [Barbara Kanam](https://open.spotify.com/artist/6HAIuUS4d8W4zjDTl6rsaU) | [Karibu](https://open.spotify.com/album/522j65oZSditO4myuXLdYI) | 4:44 | 2023-01-27 | 2023-04-09 |
-| [Djigili](https://open.spotify.com/track/0zAGFIM9C5BfqPB9vD57ex) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Djigili](https://open.spotify.com/album/3oqvXLTGxRnAGBSLUVxrFx) | 2:20 | 2024-11-15 |  |
+| [Djigili](https://open.spotify.com/track/0zAGFIM9C5BfqPB9vD57ex) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Djigili](https://open.spotify.com/album/3oqvXLTGxRnAGBSLUVxrFx) | 2:20 | 2024-11-15 | 2025-03-08 |
 | [Djossa](https://open.spotify.com/track/7rD1LKZ7AKHMZHRbkqZVJT) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy), [Sekzy](https://open.spotify.com/artist/3JfKYqGySja1gL67kxe99V) | [Djossa](https://open.spotify.com/album/4bCVmbvrXuhjGe7uHE6B8F) | 2:22 | 2024-11-29 |  |
 | [Do It Yourself](https://open.spotify.com/track/0tMC1luTMsPf0aM47XzQRw) | [Jay Psar](https://open.spotify.com/artist/2FXSYpIIZhJ260UvGZN8wr), [Badi](https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr), [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [Do It Yourself](https://open.spotify.com/album/3i4rvl2M0hEWLhFtKUskyr) | 3:30 | 2023-11-10 | 2024-01-05 |
 | [Do Me Like](https://open.spotify.com/track/5VmdiCzEP9SCU2cpiPOMIE) | [AFROWAVETO](https://open.spotify.com/artist/7rlNBe6IerXXD6HTOaC9Q2), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd), [Cloclo claudel](https://open.spotify.com/artist/4mHCo8XXxd4a2mSVAQwrxV), [Teebee](https://open.spotify.com/artist/29oxPTcfjSkPeXI3P5eP7B) | [AFROWAVETO, Vol\. 1](https://open.spotify.com/album/0g90kMBEocx11P01p23fCK) | 3:45 | 2022-07-15 | 2023-01-06 |
@@ -274,7 +275,7 @@
 | [Libanda](https://open.spotify.com/track/7lxzDgpOgHd8CETw86oXIg) | [Agressivo Nyandoro](https://open.spotify.com/artist/1E09SS6iKT5r8lDG0VdJOn) | [Libanda](https://open.spotify.com/album/5pZQrDVvODszoYNI2jtoZ2) | 2:14 | 2022-09-09 | 2023-01-28 |
 | [Liberté](https://open.spotify.com/track/5sLWCgrKYYNuWfMgu8krCu) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Liberté](https://open.spotify.com/album/3C7SlGR3xxHxftI4UxPmC2) | 6:00 | 2022-09-02 | 2023-01-28 |
 | [Licolo](https://open.spotify.com/track/4sxulmCPiTVmFuvRfTbMij) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy), [Sekzy](https://open.spotify.com/artist/3JfKYqGySja1gL67kxe99V) | [Licolo](https://open.spotify.com/album/5VOIqfnUgpMQTITYb51d7T) | 3:37 | 2023-03-31 | 2023-09-22 |
-| [Lifobo](https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Love Machine, pt\. 1](https://open.spotify.com/album/0ZKtlzCPx0pVK4nCBBU5RJ) | 2:42 | 2024-09-20 |  |
+| [Lifobo](https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Love Machine, pt\. 1](https://open.spotify.com/album/0ZKtlzCPx0pVK4nCBBU5RJ) | 2:42 | 2024-09-20 | 2025-03-08 |
 | [Like \(feat\. Werrason\)](https://open.spotify.com/track/4kQSzndpN5dBXF0gg9A9tH) | [Vicky Malela](https://open.spotify.com/artist/6rQipoRjuSIPfpDpYngBh2), [Werrason](https://open.spotify.com/artist/3aU2pbMucMTW4NYF3ISuVO) | [Like \(feat\. Werrason\)](https://open.spotify.com/album/0LtVTj7yP7NZft3V0hFmjo) | 2:27 | 2023-12-15 | 2024-07-27 |
 | [Like This](https://open.spotify.com/track/3NPhVitPBsJnXkJeMvjNb2) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Like This](https://open.spotify.com/album/5VOK2852Mgf5GBTkUe1mFR) | 2:44 | 2022-06-30 | 2022-08-27 |
 | [LIKOFI \- Sur la route du casino de Paris](https://open.spotify.com/track/0h0m07uXsifK4JN351Q485) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [LIKOFI \(Sur la route du casino de Paris\)](https://open.spotify.com/album/5XYZN6ccj0rwlGhynBvm3g) | 3:57 | 2024-05-03 | 2024-06-08 |
@@ -345,6 +346,7 @@
 | [Motorola](https://open.spotify.com/track/4jq8PMTOOihw7VKEKKn2cg) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Motorola](https://open.spotify.com/album/0bUh1Narkl3HWZ9h37wPkE) | 3:28 | 2024-08-02 | 2025-02-22 |
 | [Motorsport](https://open.spotify.com/track/0dDis2bdAYXAogzrULQx6u) | [Cash Crime](https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn) | [Motorsport](https://open.spotify.com/album/1gqvXyj4Pw5IfyRkYT51uA) | 2:19 | 2024-08-23 | 2024-09-21 |
 | [MOVE](https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ) | [Rita Kamale](https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOVE](https://open.spotify.com/album/0lf0yUHujZT9dNmTGTWbla) | 3:06 | 2024-10-25 | 2024-12-07 |
+| [MUANA CONGO](https://open.spotify.com/track/6CC1PvXWw2ZgpRUszETYkV) | [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [MUANA CONGO](https://open.spotify.com/album/4blbXAJwew6JvhH9gvi72F) | 3:25 | 2025-03-07 |  |
 | [MUANA MUKIE](https://open.spotify.com/track/4CozW8gCGgM6LGddrdLTyR) | [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [KINSHASA BOY](https://open.spotify.com/album/0red0DSnEtH6YcoYNsLDEg) | 2:36 | 2024-03-15 | 2024-04-27 |
 | [Mukila](https://open.spotify.com/track/76Z253AF0PcCEOFbBy3TeS) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Mukila](https://open.spotify.com/album/77JAOcjSdDRaB5PW1j0zDM) | 3:02 | 2022-06-30 | 2022-07-09 |
 | [Mukongo](https://open.spotify.com/track/6WVDlfwQiquzD8daC0vCgI) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te), [Bill Clinton Kalonji](https://open.spotify.com/artist/7LuYI195pq8XPB6FutPLdD) | [Mukongo](https://open.spotify.com/album/5gfuY6txGvt4B32LE5F92L) | 2:50 | 2023-11-24 | 2023-12-09 |

@@ -4,7 +4,7 @@
 
 > 感受超級女聲力量。Cover: Day 許軼
 
-461 songs - 1 day 3 hr 30 min
+462 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2024-06-27 |  |
 | [月色魔美](https://open.spotify.com/track/1g6UgjshVHThcHAZcs52tO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [月色魔美](https://open.spotify.com/album/2ysOdvQRPLIJVdNf9klq8e) | 4:01 | 2024-06-27 |  |
 | [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 | 2024-06-27 |  |
+| [有奶辯士梁](https://open.spotify.com/track/1A3ODSZhO52uC79UmXrkoz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [有奶辯士梁](https://open.spotify.com/album/4xft8kzvgbptDeBNNWUIf6) | 2:45 | 2025-03-06 |  |
 | [有心理準備](https://open.spotify.com/track/4NGRWpeviednr4XniRIlB8) | [Irene 林芊瑩](https://open.spotify.com/artist/1lwAAq6DtTJLWUdDK2quU0) | [有心理準備](https://open.spotify.com/album/6rXb1OfpeGPVOaypjOuLQu) | 3:17 | 2024-07-25 |  |
 | [望年月](https://open.spotify.com/track/3VQKp2htObuxfdbh0280j3) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [望年月](https://open.spotify.com/album/3o4ADKOHZ4Rrmnn9xqusV9) | 3:50 | 2024-06-27 |  |
 | [未晚](https://open.spotify.com/track/2XTZLKd3f7qhNLjsFE4kzS) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [未晚](https://open.spotify.com/album/5NOlCZ8SQuvl8PNZtWiMyF) | 3:38 | 2024-06-27 |  |

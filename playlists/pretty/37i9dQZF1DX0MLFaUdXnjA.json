@@ -1,13 +1,29 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Tiger La Flor",
-  "num_followers": 1823056,
+  "description": "Sit back and relax to the chillest pop.  Cover: Baby Nova",
+  "num_followers": 1823364,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC8gAAAAAuEupwm3dtdBBcK1swSCAR",
+  "snapshot_id": "Z8p9cQAAAAA3km7MH7WDyp25WoHQGOuA",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Too Pretty For Buffalo",
+        "url": "https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 236525,
+      "name": "Too Pretty For Buffalo",
+      "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
+    },
     {
       "added_at": "2025-02-28 05:00:34",
       "album": {
@@ -41,6 +57,26 @@
       "url": "https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G"
     },
     {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
+    },
+    {
       "added_at": "2025-02-28 05:00:34",
       "album": {
         "name": "Next Summer",
@@ -55,6 +91,74 @@
       "duration_ms": 165676,
       "name": "Next Summer",
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "With You (with Sofia Camara)",
+        "url": "https://open.spotify.com/album/703OfuxHtlcsnrdZvAjkan"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 188876,
+      "name": "With You (with Sofia Camara)",
+      "url": "https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "PATTERNS (DELUXE)",
+        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Future Tripping",
+      "url": "https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD"
+    },
+    {
+      "added_at": "2025-01-31 05:00:29",
+      "album": {
+        "name": "LOVE LOOKS PRETTY ON YOU",
+        "url": "https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "LOVE LOOKS PRETTY ON YOU",
+      "url": "https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "As Far As The Eye Can See",
+        "url": "https://open.spotify.com/album/6pE3JPzhidNk7skMmTpcbH"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/64KQopYXPtgr8pg6bLkah1"
     },
     {
       "added_at": "2025-02-17 21:58:16",
@@ -117,6 +221,22 @@
       "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
     },
     {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Everything Everything",
+        "url": "https://open.spotify.com/album/2UXirOekrwMb7pjGVUEePM"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/2dYEoN94CbbMrsE7xF5xNF"
+    },
+    {
       "added_at": "2025-02-21 05:00:19",
       "album": {
         "name": "Movie Scene",
@@ -133,6 +253,22 @@
       "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
     },
     {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/4tGIrqpwEBRV2EbB0ckVDe"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/3J0ALYQczECrd6tmUr5WUH"
+    },
+    {
       "added_at": "2025-02-28 05:00:34",
       "album": {
         "name": "The Alchemist (Gold Edition)",
@@ -147,6 +283,22 @@
       "duration_ms": 230426,
       "name": "Love Will Find Me",
       "url": "https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Lose Me Like You Mean It",
+      "url": "https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K"
     },
     {
       "added_at": "2025-02-14 05:00:39",
@@ -167,22 +319,6 @@
       "duration_ms": 110221,
       "name": "Scared Of Loving You",
       "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-01-31 05:00:29",
-      "album": {
-        "name": "LOVE LOOKS PRETTY ON YOU",
-        "url": "https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "LOVE LOOKS PRETTY ON YOU",
-      "url": "https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj"
     },
     {
       "added_at": "2025-02-28 05:00:34",
@@ -251,22 +387,6 @@
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:24",
-      "album": {
-        "name": "One More Dance",
-        "url": "https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 188863,
-      "name": "One More Dance",
-      "url": "https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV"
     },
     {
       "added_at": "2025-02-07 05:00:24",
@@ -597,22 +717,6 @@
       "url": "https://open.spotify.com/track/4FImnScSpSwubijPj5bUgA"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
-        "name": "Won't Be Long",
-        "url": "https://open.spotify.com/album/5DcTe15NEkFhVrX171TYuU"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 161573,
-      "name": "Won't Be Long",
-      "url": "https://open.spotify.com/track/7FUhfnNPBB7xZUAougxPUJ"
-    },
-    {
       "added_at": "2025-01-17 05:00:35",
       "album": {
         "name": "Dandelion",
@@ -697,22 +801,6 @@
       "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/6dcwju1Kh5LlhyhlUoyWNd"
-      },
-      "artists": [
-        {
-          "name": "Finn Askew",
-          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
-        }
-      ],
-      "duration_ms": 139923,
-      "name": "Dive In",
-      "url": "https://open.spotify.com/track/1VUhLrBErkwHoS0vGEfpzm"
-    },
-    {
       "added_at": "2024-08-31 03:39:11",
       "album": {
         "name": "If Only + No One Noticed",
@@ -795,22 +883,6 @@
       "duration_ms": 194388,
       "name": "If Only With You",
       "url": "https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5"
-    },
-    {
-      "added_at": "2025-01-31 05:00:29",
-      "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj"
     },
     {
       "added_at": "2025-01-31 05:00:29",
@@ -927,38 +999,6 @@
       "duration_ms": 224173,
       "name": "Weathervane",
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
-    },
-    {
-      "added_at": "2025-01-31 05:00:29",
-      "album": {
-        "name": "Breathe In, Breathe Out",
-        "url": "https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 144915,
-      "name": "Breathe In, Breathe Out",
-      "url": "https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa"
-    },
-    {
-      "added_at": "2025-02-14 05:00:39",
-      "album": {
-        "name": "Someone Else's Favorite",
-        "url": "https://open.spotify.com/album/42ixlc6drihnOmPnpZ511k"
-      },
-      "artists": [
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        }
-      ],
-      "duration_ms": 155918,
-      "name": "Someone Else's Favorite",
-      "url": "https://open.spotify.com/track/6bOhl9rzMJeb1Vi0euV1Rt"
     },
     {
       "added_at": "2025-01-31 05:00:29",
@@ -1219,22 +1259,6 @@
       "duration_ms": 168213,
       "name": "Attachment Theory",
       "url": "https://open.spotify.com/track/0iYTLa5yW6BsexECkr2qzT"
-    },
-    {
-      "added_at": "2025-01-17 05:00:35",
-      "album": {
-        "name": "The Child",
-        "url": "https://open.spotify.com/album/4qop49ibIGQTsNVnyH3bOL"
-      },
-      "artists": [
-        {
-          "name": "Geowulf",
-          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
-        }
-      ],
-      "duration_ms": 269826,
-      "name": "Can\u2019t Read Your Mind",
-      "url": "https://open.spotify.com/track/25QfYtLRhvxvkWDXHF8S0v"
     },
     {
       "added_at": "2025-01-03 05:00:26",
@@ -1511,22 +1535,6 @@
       "duration_ms": 235395,
       "name": "MAYBE.",
       "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "LASSO THE MOON",
-        "url": "https://open.spotify.com/album/2cNpkhvN6jixc7uEGj6kmp"
-      },
-      "artists": [
-        {
-          "name": "Tiger La Flor",
-          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
-        }
-      ],
-      "duration_ms": 173416,
-      "name": "LASSO THE MOON",
-      "url": "https://open.spotify.com/track/4KZPQEj1xCByZoDD6ulCmO"
     },
     {
       "added_at": "2024-12-13 05:00:12",

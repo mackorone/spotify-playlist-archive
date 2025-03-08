@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house and techno \u26cf\ufe0f\u26cf\ufe0f \nwith Chris Stussy",
-  "num_followers": 51273,
+  "num_followers": 51358,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8iceQAAAACC1iIDr0A2jSSYcDJ7uMYU",
+  "snapshot_id": "Z8p9eAAAAAAQC6AvpG3KyElpT3PYa/Rv",
   "tracks": [
     {
       "added_at": "2025-02-07 14:44:40",
@@ -23,6 +23,74 @@
       "duration_ms": 215813,
       "name": "Control Yourself - Radio Edit",
       "url": "https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0"
+    },
+    {
+      "added_at": "2025-02-28 05:00:37",
+      "album": {
+        "name": "D.O.P.E.",
+        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        },
+        {
+          "name": "Dan Molinari",
+          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "P!NK",
+      "url": "https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV"
+    },
+    {
+      "added_at": "2025-03-07 05:00:40",
+      "album": {
+        "name": "Gimme The Cheese",
+        "url": "https://open.spotify.com/album/6LlD19pnRVKjpvzpy7tQ0R"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Gimme The Cheese",
+      "url": "https://open.spotify.com/track/24Zma7ZOAwuz7TFhjiLlM0"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Won't Stop (Don't)",
+        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Won't Stop (Don't)",
+      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
+    },
+    {
+      "added_at": "2025-03-05 18:48:25",
+      "album": {
+        "name": "Who You Talking To ?",
+        "url": "https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Wub Riddim - Radio-Edit",
+      "url": "https://open.spotify.com/track/6S72FPVYg4v4STK7kISlXG"
     },
     {
       "added_at": "2025-02-16 00:38:05",
@@ -55,58 +123,6 @@
       "duration_ms": 220312,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1atQBPo7bjrx3JD3mrU30g"
-    },
-    {
-      "added_at": "2025-02-28 05:00:37",
-      "album": {
-        "name": "D.O.P.E.",
-        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
-      },
-      "artists": [
-        {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
-        },
-        {
-          "name": "Dan Molinari",
-          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "P!NK",
-      "url": "https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Won't Stop (Don't)",
-        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "Won't Stop (Don't)",
-      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
-    },
-    {
-      "added_at": "2025-02-28 05:00:37",
-      "album": {
-        "name": "Who You Talking To ?",
-        "url": "https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 167397,
-      "name": "Who You Talking To ? - Radio-Edit",
-      "url": "https://open.spotify.com/track/44MUfjvDTzTHnosJSORMa1"
     },
     {
       "added_at": "2025-02-03 15:39:15",
@@ -157,6 +173,22 @@
       "url": "https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8"
     },
     {
+      "added_at": "2024-11-14 15:25:30",
+      "album": {
+        "name": "Put Your Hands Up For Cologne",
+        "url": "https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT"
+      },
+      "artists": [
+        {
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+        }
+      ],
+      "duration_ms": 408941,
+      "name": "Lick It",
+      "url": "https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud"
+    },
+    {
       "added_at": "2025-01-07 21:49:06",
       "album": {
         "name": "Vintage Culture & Friends, Vol. 6 (Pt. II)",
@@ -179,6 +211,22 @@
     {
       "added_at": "2025-02-28 05:00:37",
       "album": {
+        "name": "wants and needs",
+        "url": "https://open.spotify.com/album/7ekXaFXySyHzm6KhFMKarl"
+      },
+      "artists": [
+        {
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "wants and needs",
+      "url": "https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN"
+    },
+    {
+      "added_at": "2025-02-28 05:00:37",
+      "album": {
         "name": "P Power",
         "url": "https://open.spotify.com/album/5vgwUctmCAXT1JCQSRZ5kz"
       },
@@ -191,6 +239,22 @@
       "duration_ms": 310794,
       "name": "P Power",
       "url": "https://open.spotify.com/track/2VVJAGlI3uYCE3yM1FnRsN"
+    },
+    {
+      "added_at": "2025-03-07 05:00:40",
+      "album": {
+        "name": "Hunger EP",
+        "url": "https://open.spotify.com/album/7D1KarpIninAmg52Pb56wR"
+      },
+      "artists": [
+        {
+          "name": "Boon",
+          "url": "https://open.spotify.com/artist/4CHtxO2tVAs6yG58Q5sW34"
+        }
+      ],
+      "duration_ms": 211162,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/0PRXrjDGVkbpXrMq123tl6"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -265,6 +329,22 @@
       "url": "https://open.spotify.com/track/08YpwzuwC4vtmcCJnk3pqA"
     },
     {
+      "added_at": "2025-03-07 05:00:40",
+      "album": {
+        "name": "Checking Out",
+        "url": "https://open.spotify.com/album/2GAkwG506l4E2kaSOtOijl"
+      },
+      "artists": [
+        {
+          "name": "Guy Mac",
+          "url": "https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk"
+        }
+      ],
+      "duration_ms": 228837,
+      "name": "Checking Out",
+      "url": "https://open.spotify.com/track/0e4ozbPmcfHSi0Iy5RQlkT"
+    },
+    {
       "added_at": "2025-02-28 05:00:37",
       "album": {
         "name": "You're Free Now",
@@ -301,7 +381,7 @@
       "url": "https://open.spotify.com/track/0MMwlA5aeetEX6DuADdTUS"
     },
     {
-      "added_at": "2025-03-05 18:48:25",
+      "added_at": "2025-02-28 05:00:37",
       "album": {
         "name": "Who You Talking To ?",
         "url": "https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc"
@@ -312,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Wub Riddim - Radio-Edit",
-      "url": "https://open.spotify.com/track/6S72FPVYg4v4STK7kISlXG"
+      "duration_ms": 167397,
+      "name": "Who You Talking To ? - Radio-Edit",
+      "url": "https://open.spotify.com/track/44MUfjvDTzTHnosJSORMa1"
     },
     {
       "added_at": "2025-02-28 05:00:37",
@@ -335,6 +415,26 @@
       "duration_ms": 210000,
       "name": "SNITCHES",
       "url": "https://open.spotify.com/track/5mKJBpvDf4wOLxHUnVYti2"
+    },
+    {
+      "added_at": "2025-03-07 05:00:40",
+      "album": {
+        "name": "Guess I Never Know",
+        "url": "https://open.spotify.com/album/4DTPGW8FzybAGJFY4PXJQ9"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        },
+        {
+          "name": "Kxne",
+          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
+        }
+      ],
+      "duration_ms": 149653,
+      "name": "Guess I Never Know",
+      "url": "https://open.spotify.com/track/5Cud5KwxFPYWnxJhARH3Bt"
     },
     {
       "added_at": "2025-02-28 21:12:46",
@@ -389,20 +489,20 @@
       "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
     },
     {
-      "added_at": "2025-02-28 05:00:37",
+      "added_at": "2025-03-07 05:00:40",
       "album": {
-        "name": "wants and needs",
-        "url": "https://open.spotify.com/album/7ekXaFXySyHzm6KhFMKarl"
+        "name": "Play My Game EP",
+        "url": "https://open.spotify.com/album/6CYeR6oNkx58r58UomKbXy"
       },
       "artists": [
         {
-          "name": "Jake Antonio",
-          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+          "name": "Dimmish",
+          "url": "https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG"
         }
       ],
-      "duration_ms": 280000,
-      "name": "wants and needs",
-      "url": "https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN"
+      "duration_ms": 326307,
+      "name": "Play My Game",
+      "url": "https://open.spotify.com/track/1Qg08eEu2pCe6mVugF8i1J"
     },
     {
       "added_at": "2025-01-24 05:00:51",
@@ -555,6 +655,22 @@
       "duration_ms": 210680,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI"
+    },
+    {
+      "added_at": "2025-03-07 05:00:40",
+      "album": {
+        "name": "1999 Love Story",
+        "url": "https://open.spotify.com/album/51N8FDoDFRV9HJcK9ItH2m"
+      },
+      "artists": [
+        {
+          "name": "Ernesto",
+          "url": "https://open.spotify.com/artist/06Tz5j41sfgdku57McWBzh"
+        }
+      ],
+      "duration_ms": 346125,
+      "name": "Hardware Boogie",
+      "url": "https://open.spotify.com/track/5v2VAMv4OpADPlGomp6GJS"
     },
     {
       "added_at": "2024-12-02 22:04:25",
@@ -926,10 +1042,6 @@
         {
           "name": "ENNE (BR)",
           "url": "https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP"
-        },
-        {
-          "name": "Mz BURN",
-          "url": "https://open.spotify.com/artist/1KOzZuPs9tPmpCOElsa6lx"
         }
       ],
       "duration_ms": 176307,
@@ -1299,30 +1411,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Different Side",
-        "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
-        },
-        {
-          "name": "Audio Bullys",
-          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
-        }
-      ],
-      "duration_ms": 193710,
-      "name": "Different Side",
-      "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Bump Artist EP",
         "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
       },
@@ -1533,42 +1621,6 @@
       "url": "https://open.spotify.com/track/3Zt3PHs6cb2ICbtiGo1b56"
     },
     {
-      "added_at": "2024-12-31 01:32:19",
-      "album": {
-        "name": "Blow Your Mind",
-        "url": "https://open.spotify.com/album/6beJ7OczdgHeqb2emAIO1G"
-      },
-      "artists": [
-        {
-          "name": "Ryan Resso",
-          "url": "https://open.spotify.com/artist/5kgvSiEt7OdyYrM0xLHXO9"
-        }
-      ],
-      "duration_ms": 213015,
-      "name": "Blow Your Mind",
-      "url": "https://open.spotify.com/track/6eQ5Fmp7v23vRhzPWaOxu5"
-    },
-    {
-      "added_at": "2025-01-24 05:00:51",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/1Fm4IlMqOKLTWRd5h86Vf5"
-      },
-      "artists": [
-        {
-          "name": "White Off",
-          "url": "https://open.spotify.com/artist/3YYih7Xf8yIMm6nm6r1j7N"
-        },
-        {
-          "name": "Micah Baxter",
-          "url": "https://open.spotify.com/artist/1IHY1bbjZvKR7QSjUAjCje"
-        }
-      ],
-      "duration_ms": 351989,
-      "name": "Slow - Original Mix",
-      "url": "https://open.spotify.com/track/2Uj8rWAGpmqPkd14Mek6jC"
-    },
-    {
       "added_at": "2024-12-13 16:57:38",
       "album": {
         "name": "Falling Back",
@@ -1583,22 +1635,6 @@
       "duration_ms": 218507,
       "name": "Check One",
       "url": "https://open.spotify.com/track/7JI4W4fvPwzoPGcRSKYeHw"
-    },
-    {
-      "added_at": "2024-12-02 21:58:04",
-      "album": {
-        "name": "Take You On A Ride",
-        "url": "https://open.spotify.com/album/5toTQhxSjfy0rMaqbOBajk"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Take You On A Ride",
-      "url": "https://open.spotify.com/track/0EHYJC5x9CNKumQe8WJA6k"
     },
     {
       "added_at": "2024-12-02 22:04:25",
@@ -1663,22 +1699,6 @@
       "duration_ms": 167619,
       "name": "TRY",
       "url": "https://open.spotify.com/track/5TIJovxYDOWg1PZgg1U72L"
-    },
-    {
-      "added_at": "2024-11-14 15:25:30",
-      "album": {
-        "name": "Put Your Hands Up For Cologne",
-        "url": "https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT"
-      },
-      "artists": [
-        {
-          "name": "J.K. Rollin",
-          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
-        }
-      ],
-      "duration_ms": 408941,
-      "name": "Lick It",
-      "url": "https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud"
     },
     {
       "added_at": "2024-11-14 15:25:30",
@@ -1819,26 +1839,6 @@
       "duration_ms": 372923,
       "name": "Fascinator",
       "url": "https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Good Girls",
-        "url": "https://open.spotify.com/album/4GDSsm3nzzCrxeWrKVtxHH"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        },
-        {
-          "name": "George Privatti",
-          "url": "https://open.spotify.com/artist/2sasskQYJB0zDfvUUtw0L6"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Good Girls - Radio-Edit",
-      "url": "https://open.spotify.com/track/1ay3QtSwk4SVlIBdQzG8UO"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -2035,22 +2035,6 @@
       "duration_ms": 234492,
       "name": "Lay Back",
       "url": "https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Journey LP",
-        "url": "https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW"
-      },
-      "artists": [
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        }
-      ],
-      "duration_ms": 205039,
-      "name": "FUTUR",
-      "url": "https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf"
     },
     {
       "added_at": "2024-11-06 22:50:08",

@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 197408,
       "name": "Ahizpa / Germana",
       "url": "https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J"
@@ -3832,7 +3832,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 222740,
       "name": "Dime que no",
       "url": "https://open.spotify.com/track/683QA1npfGquujYETm5ZSF"
@@ -6143,6 +6143,28 @@
     },
     {
       "album": {
+        "name": "la alegr\u00eda de vivir",
+        "url": "https://open.spotify.com/album/0L8QQXr3QimOs5ef5oumgQ"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Pau Figueres",
+          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167063,
+      "name": "la alegr\u00eda de vivir",
+      "url": "https://open.spotify.com/track/76cBcoU2rc2knv8bofccvs"
+    },
+    {
+      "album": {
         "name": "La balada de G. Clark",
         "url": "https://open.spotify.com/album/55RufPnuWd7lDX59tmPS6X"
       },
@@ -7322,7 +7344,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 160452,
       "name": "Llegas t\u00fa",
       "url": "https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W"
@@ -9824,7 +9846,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 240771,
       "name": "Pajarillo Negro",
       "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
@@ -13942,6 +13964,32 @@
       "duration_ms": 269932,
       "name": "Un Golpe de Suerte",
       "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+    },
+    {
+      "album": {
+        "name": "Un Hogar",
+        "url": "https://open.spotify.com/album/2jRu9kgYQ7PDPEF31ztpYr"
+      },
+      "artists": [
+        {
+          "name": "Las Nietas del Charli",
+          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132189,
+      "name": "Un Hogar",
+      "url": "https://open.spotify.com/track/2swtKrgHN16HxDxNtF2rAc"
     },
     {
       "album": {

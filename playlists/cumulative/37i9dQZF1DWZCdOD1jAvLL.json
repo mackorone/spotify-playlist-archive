@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Ride the bassline. Cover: HNTR",
+  "description": "Ride the bassline. Cover: CHYL",
   "name": "Bangers",
   "tracks": [
     {
@@ -3119,6 +3119,28 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
       },
@@ -4766,6 +4788,24 @@
       "duration_ms": 320853,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore"
+    },
+    {
+      "album": {
+        "name": "Return to the Spectrum of Intergalactic Happiness",
+        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253260,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
     },
     {
       "album": {
@@ -7386,7 +7426,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 139047,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/4FnLKHECzy1QCOZUpDZYWA"
@@ -8698,7 +8738,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 175081,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6BMQJGldPH49ZsdyEnTuBs"
@@ -10130,7 +10170,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 188915,
       "name": "New Bottega",
       "url": "https://open.spotify.com/track/2Xy868PdXC7mV3Y9fRBSNz"
@@ -10410,7 +10450,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 156923,
       "name": "No Brake$ (feat. Roshin)",
       "url": "https://open.spotify.com/track/2q5egBQ2XINmx8j5uipF4t"

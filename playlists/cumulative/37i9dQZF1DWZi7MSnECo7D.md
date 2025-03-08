@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Karen Jonz
 
-763 songs - 1 day 19 hr 16 min
+765 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [alice \(só que sem as maravilhas\)](https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [alice \(só que sem as maravilhas\)](https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg) | 2:31 | 2022-06-03 | 2022-11-05 |
 | [AMADA](https://open.spotify.com/track/6nEm0lC3exE9EnyZQLFzBQ) | [Ambivalente](https://open.spotify.com/artist/68sZEcd1SSqZyEE0qK5GUr), [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [AMADA](https://open.spotify.com/album/75NHZbvpPsGxpXtQgoZTuJ) | 2:32 | 2022-01-14 | 2022-08-06 |
 | [Amanhecer](https://open.spotify.com/track/2WGVw1g7HEBSil7q7XKwac) | [Jasmine](https://open.spotify.com/artist/1sFd5ebsD4RUj1nR21LeEt) | [Amanhecer](https://open.spotify.com/album/7JMfg06ZK8uBxdWfclHH9K) | 4:47 | 2024-06-07 | 2024-11-30 |
+| [amanhecer](https://open.spotify.com/track/51hDjMwlkPvc22y3UQ8l1i) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU) | [amanhecer](https://open.spotify.com/album/1lpPLtAJrtdarroSef3aTu) | 2:39 | 2025-03-07 |  |
 | [amanhã eu durmo](https://open.spotify.com/track/28hlY3G6T278H0ib6OYmUN) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA), [enzo dicarlo](https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2), [adieu](https://open.spotify.com/artist/6UzTLaO4vzhybwSrD6Mnik) | [amanhã eu durmo](https://open.spotify.com/album/5zIuk4e5RIJiFosVzJERVC) | 1:51 | 2023-06-09 | 2023-06-24 |
 | [Amantes](https://open.spotify.com/track/01B03FVsHGw6qjarubRPTP) | [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9), [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [Zelena](https://open.spotify.com/album/4IsAans9YBrgY1lznXCEgX) | 3:23 | 2023-05-26 | 2023-09-23 |
 | [amarga](https://open.spotify.com/track/4HAIHkDRNvEdLQpIzrxCxH) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [amarga](https://open.spotify.com/album/2HrEpViiZOxx6fLFpw6uwb) | 3:45 | 2024-06-21 | 2025-01-25 |
@@ -164,7 +165,7 @@
 | [Convenções Humanas](https://open.spotify.com/track/08MJeBwFr7XF74jSHVTrZv) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Convenções Humanas](https://open.spotify.com/album/64dFOgBTk4vXAJbkb9O6gu) | 4:18 | 2022-02-25 | 2023-05-20 |
 | [conversas](https://open.spotify.com/track/3TJg3g7K4BVv8pIqFtZaGh) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU) | [conversas](https://open.spotify.com/album/7LTFP79nLM5wHdPvRhE5De) | 3:41 | 2023-01-27 | 2023-04-01 |
 | [Coocoocrazy](https://open.spotify.com/track/4BliVo1uZWjMDu6iP1S4Gy) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Coocoocrazy](https://open.spotify.com/album/3rRVEwcZU3BTbu2X7AmEPp) | 2:06 | 2023-01-20 | 2023-07-22 |
-| [Copa](https://open.spotify.com/track/6NQFHSTsw7g6lDtWv88yCs) | [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [Copa](https://open.spotify.com/album/3MQ24k5gMz8xZdM13EbrXK) | 3:57 | 2024-08-09 |  |
+| [Copa](https://open.spotify.com/track/6NQFHSTsw7g6lDtWv88yCs) | [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [Copa](https://open.spotify.com/album/3MQ24k5gMz8xZdM13EbrXK) | 3:57 | 2024-08-09 | 2025-03-08 |
 | [Cor de Jasmim](https://open.spotify.com/track/5MHkzuEStgdB11uH0rFnyC) | [Siso](https://open.spotify.com/artist/1wWp9zRDL2466jSAXycCUQ) | [Cor de Jasmim](https://open.spotify.com/album/2doQm73YZifzBJcTPLqpFo) | 3:57 | 2022-04-08 | 2022-04-29 |
 | [Coração Bobo](https://open.spotify.com/track/4P4iLR99z36awxPhEbOfoY) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Extra](https://open.spotify.com/album/0Ky85K9YsToTW5baHDRpKl) | 4:08 | 2024-09-27 |  |
 | [Coração Cometa](https://open.spotify.com/track/0Txofif7SpY4gGzI6eO7L6) | [Livia Nery](https://open.spotify.com/artist/2jgNIddZBgTiswbLmv91Qu), [BAGUM](https://open.spotify.com/artist/3BoGL8EkqaKHmidzJckrO0) | [Coração Cometa](https://open.spotify.com/album/6KMPJESfNAtBd9ktST28yl) | 3:14 | 2023-09-22 | 2024-05-11 |
@@ -287,6 +288,7 @@
 | [Final de Mim](https://open.spotify.com/track/5SKWDRIsZKzLfxPkFs9bjL) | [Ale Sater](https://open.spotify.com/artist/0zeEmlxF30MGOT16dM5vqx) | [Tudo Tão Certo](https://open.spotify.com/album/0poYJHA4qnPswuCQIFEiMu) | 3:24 | 2024-09-13 |  |
 | [Fogos](https://open.spotify.com/track/751Mz7m1H4OLEgRN25jJcR) | [Gabriel Ventura](https://open.spotify.com/artist/5wiFildiVwY61nSDG2ZNIC) | [Fogos](https://open.spotify.com/album/3DL6uecdrSVItdPBmNhd4K) | 3:50 | 2025-02-14 |  |
 | [Foi Assim](https://open.spotify.com/track/7DZYRKQ5T695LPPn98NOGM) | [Limousine](https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Foi Assim](https://open.spotify.com/album/3vLFn7RuyXbQTKpqhPdIwS) | 3:51 | 2023-03-24 | 2023-04-09 |
+| [foi mal \(me atrasei\)](https://open.spotify.com/track/473O9nr4sOfpZlX5H5Qky8) | [Breno Branches](https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj) | [foi mal \(me atrasei\)](https://open.spotify.com/album/0kWwem8YjB7TQUrGd7ebl9) | 3:04 | 2025-03-07 |  |
 | [Fome de Gritar](https://open.spotify.com/track/0wO8onUZub0Y38b1NJhV96) | [Clara Castro](https://open.spotify.com/artist/328HvJJoTrRr4AwtJtlChp), [Laura Conceição](https://open.spotify.com/artist/3GwHMJksRHmGDFCae0Mqs9) | [Perambule](https://open.spotify.com/album/2XVjJ46zj7axjedf1r0kBP) | 4:07 | 2024-08-02 |  |
 | [Forbidden Fruit](https://open.spotify.com/track/070LHp7zkcBY0e3yaGBWjH) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Forbidden Fruit](https://open.spotify.com/album/5JC849KO0dGCfneo4SlTma) | 2:51 | 2023-03-17 | 2023-04-22 |
 | [Fossa](https://open.spotify.com/track/1pDUewwwYjxsfUeFpOHtPe) | [Yan Paiva](https://open.spotify.com/artist/7dSu1TjBg6n9zrXuKRjore) | [Fossa](https://open.spotify.com/album/4Nu9qRZkKSoa3RstdtcwZR) | 4:44 | 2024-05-17 | 2024-09-28 |
@@ -627,7 +629,7 @@
 | [Sonhar](https://open.spotify.com/track/0jgFfeuE6nBR3EV5UQdZUM) | [Nathan Breves](https://open.spotify.com/artist/6peTDrocUvgcTb0yJa4D86) | [Sonhar](https://open.spotify.com/album/3ASjZG7nbh1IC5Y1THHEjZ) | 1:18 | 2024-10-25 | 2024-11-30 |
 | [Sonho](https://open.spotify.com/track/1AazDREEV0aK7wohJClJ1r) | [Brasileiro](https://open.spotify.com/artist/5d2tthD9fxDS7G9C4fiDM4) | [Sonho](https://open.spotify.com/album/41umITmWrGCRQVmIjVSBv7) | 2:00 | 2022-07-08 | 2022-12-03 |
 | [Sons de Ressaca](https://open.spotify.com/track/09XaMGIkBWLHcT3XyebY2l) | [Sergiopí](https://open.spotify.com/artist/1AJbMS0MpfiNzTu0Kf4fOF) | [Sons de Ressaca](https://open.spotify.com/album/4cNYdRqB7KPs0xmlo9onet) | 2:49 | 2023-10-27 | 2024-02-24 |
-| [Sorry](https://open.spotify.com/track/3Fej6iqtBfftO49K2EEhJo) | [Superafim](https://open.spotify.com/artist/7973fubcBVTwBHgPeco1UV) | [Sorry](https://open.spotify.com/album/1jmQiMuAPMz5KuajSS8EqZ) | 3:47 | 2025-01-31 |  |
+| [Sorry](https://open.spotify.com/track/3Fej6iqtBfftO49K2EEhJo) | [Superafim](https://open.spotify.com/artist/7973fubcBVTwBHgPeco1UV) | [Sorry](https://open.spotify.com/album/1jmQiMuAPMz5KuajSS8EqZ) | 3:47 | 2025-01-31 | 2025-03-08 |
 | [Sorte Ainda](https://open.spotify.com/track/6oby4VF2Jhf0XohwsxyZ90) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Gêmeos](https://open.spotify.com/album/0ChE7T4gcw48AEt6cMmaBx) | 2:43 | 2022-03-11 | 2022-04-02 |
 | [SOZINHOS: O Desafio](https://open.spotify.com/track/7fPgDqWqdlEvwNCG9JEmps) | [Mundo Video](https://open.spotify.com/artist/7eug6OaQ8rKdvSCTT6B9ty), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [SOZINHOS: O Desafio](https://open.spotify.com/album/39LqAtXs5dQ3hd4PMj6CK5) | 4:24 | 2024-06-28 | 2025-02-01 |
 | [Sprezzatura](https://open.spotify.com/track/0H2YqUAmW3Sxbqx8ez8jmG) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Sprezzatura](https://open.spotify.com/album/3iULJhexNJQ2w2lUNa6y1c) | 2:57 | 2024-09-13 | 2024-12-21 |

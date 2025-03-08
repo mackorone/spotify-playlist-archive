@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs?si=wKuxa\_YxS7\-WsMsElp712Q">The Parlotones</a>
 
-620 songs - 1 day 12 hr 41 min
+621 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Burn Out](https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY) | [Pony Jones](https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2) | [One](https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e) | 2:41 | 2024-03-22 | 2024-09-07 |
 | [Burn The Witch](https://open.spotify.com/track/1giJa0VnP9hpUN8IMdszl0) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Burn The Witch](https://open.spotify.com/album/6rxwdPtLqT7lAu2vN2GqNC) | 3:15 | 2024-11-14 | 2024-12-10 |
 | [Burning Building](https://open.spotify.com/track/4GCCyU0clhBbGzoylegT0Z) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Burning Building](https://open.spotify.com/album/7L0sDlplj7LoHjZ7mj2ETT) | 2:56 | 2023-01-19 | 2023-03-18 |
+| [Burning For You](https://open.spotify.com/track/1alUZS10M2GGYcJiF9cSv2) | [So Kindly](https://open.spotify.com/artist/6fUX9WpmjfZ6brQClEEuWN) | [Burning For You](https://open.spotify.com/album/1H8LTaqQEooW3kxq46koJY) | 3:52 | 2025-03-07 |  |
 | [Caligulater](https://open.spotify.com/track/6SK3qzRQe8xBo9xNgUhUsO) | [Acid Magus](https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2) | [Caligulater](https://open.spotify.com/album/75a8zGSywMRtgsQlb1nQKM) | 6:53 | 2023-03-23 | 2023-04-15 |
 | [Cancelled](https://open.spotify.com/track/7BhiRAIIveb33FYNdrzBfA) | [Nine](https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me) | [Cancelled](https://open.spotify.com/album/1BUsmvb1vytWr69VgR9hCX) | 4:44 | 2022-09-02 | 2022-09-16 |
 | [Caravan In The Mist](https://open.spotify.com/track/6raknpOUrMns81fs28m5xl) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Caravan In The Mist](https://open.spotify.com/album/63n0zHzpn8Ov5yNoSUoRnE) | 3:26 | 2023-02-16 | 2023-06-09 |
@@ -594,7 +595,7 @@
 | [Vêr Van Die Huis Af](https://open.spotify.com/track/5VgaegynEASH8aApn1fxS0) | [MJ Nel](https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A), [wiesner](https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I) | [Vêr Van Die Huis Af](https://open.spotify.com/album/5exylKwlQSPJE3iI6NTRj9) | 3:46 | 2025-02-20 |  |
 | [Wabaleka](https://open.spotify.com/track/3hYjSz0QfFeaG9CTP8hNJF) | [Hawema](https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK) | [Hawema](https://open.spotify.com/album/5QZq4FHvOHdlgr1mts4T89) | 4:47 | 2023-04-20 | 2023-06-02 |
 | [Walking](https://open.spotify.com/track/0FwEcDBaCxjzZWhp1LY4Oo) | [Tyran Roy](https://open.spotify.com/artist/2p6HLFF5VnxaOEUwDNh7VF) | [Walking](https://open.spotify.com/album/1C6fA2HwKexJ5wV2bXOmua) | 3:56 | 2025-01-23 | 2025-02-15 |
-| [War](https://open.spotify.com/track/6Pai1i2N1e4qTeaIaZsiWE) | [Acid Magus](https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2) | [Scatterling Empire](https://open.spotify.com/album/64O2YUpR3hS7qE4XvJLQMt) | 7:10 | 2025-02-20 |  |
+| [War](https://open.spotify.com/track/6Pai1i2N1e4qTeaIaZsiWE) | [Acid Magus](https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2) | [Scatterling Empire](https://open.spotify.com/album/64O2YUpR3hS7qE4XvJLQMt) | 7:10 | 2025-02-20 | 2025-03-08 |
 | [WAR](https://open.spotify.com/track/45rrUms7GQkfj6XkWoNsmi) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [WAR](https://open.spotify.com/album/2TBi0FV18WhlGi1zGbkgxE) | 1:46 | 2022-07-21 | 2022-11-25 |
 | [Ware Noord](https://open.spotify.com/track/0Q5EE4R2qjXN0DBARGGxUk) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Ware Noord](https://open.spotify.com/album/1BGCuXGsGwL6f2QjhpwnO2) | 3:36 | 2025-03-06 |  |
 | [Wasted Time](https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/15KdGalTwSTxItX1h7kQkG) | 3:58 | 2022-08-04 | 2022-11-20 |

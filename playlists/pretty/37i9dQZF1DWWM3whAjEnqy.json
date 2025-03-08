@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 548,
+  "num_followers": 551,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "GG",
+        "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 243131,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Resolution - EP",
         "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 256389,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 195324,
       "name": "Floating",
       "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "GG",
-        "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 243131,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -443,18 +443,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "In The Sky",
-        "url": "https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C"
+        "name": "The Dark Prince (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm"
+      "duration_ms": 214356,
+      "name": "The Dark Prince (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -475,22 +479,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "The Dark Prince (feat. Mac DeMarco)",
-        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
+        "name": "In The Sky",
+        "url": "https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 214356,
-      "name": "The Dark Prince (feat. Mac DeMarco)",
-      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Moonfire",
-        "url": "https://open.spotify.com/album/3UsAObHERCrshH20RiicHG"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Feeding Line",
-      "url": "https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "The Woods (Acoustic)",
         "url": "https://open.spotify.com/album/4EWd8fo9kyMQjB5LVkFwYI"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 239954,
       "name": "The Woods (Acoustic)",
       "url": "https://open.spotify.com/track/0T7OKMuhcMNClxEYQzVyyb"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Moonfire",
+        "url": "https://open.spotify.com/album/3UsAObHERCrshH20RiicHG"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Feeding Line",
+      "url": "https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "HOPE Campaign Tribute Album 2010",
+        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "HOPE Campaign Tribute Album 2010",
-        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3xwZOyRWoTxdx2w3nKs7a2"
       },
       "artists": [
         {
-          "name": "The Beautiful Girls",
-          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+          "name": "John Butler Trio",
+          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
         }
       ],
-      "duration_ms": 257906,
-      "name": "La Mar",
-      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
+      "duration_ms": 499413,
+      "name": "Betterman",
+      "url": "https://open.spotify.com/track/1SwwSZY0ZLvNf14BADfpQT"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -787,22 +803,6 @@
       "duration_ms": 248590,
       "name": "Be About You",
       "url": "https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3xwZOyRWoTxdx2w3nKs7a2"
-      },
-      "artists": [
-        {
-          "name": "John Butler Trio",
-          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
-        }
-      ],
-      "duration_ms": 499413,
-      "name": "Betterman",
-      "url": "https://open.spotify.com/track/1SwwSZY0ZLvNf14BADfpQT"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Palo Alto",
-        "url": "https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp"
-      },
-      "artists": [
-        {
-          "name": "Jack River",
-          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
-        }
-      ],
-      "duration_ms": 199584,
-      "name": "Palo Alto",
-      "url": "https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "LO LA RU",
         "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
       },
@@ -1279,18 +1263,34 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Memories & Dust",
-        "url": "https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE"
+        "name": "Palo Alto",
+        "url": "https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp"
       },
       "artists": [
         {
-          "name": "Josh Pyke",
-          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+          "name": "Jack River",
+          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
         }
       ],
-      "duration_ms": 147280,
-      "name": "Middle Of The Hill",
-      "url": "https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17"
+      "duration_ms": 199584,
+      "name": "Palo Alto",
+      "url": "https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
+        "name": "Memories & Dust",
+        "url": "https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE"
       },
       "artists": [
         {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
         }
       ],
-      "duration_ms": 203250,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
+      "duration_ms": 147280,
+      "name": "Middle Of The Hill",
+      "url": "https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/2onJzQg0nmBE75fz7HtaEV"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 255517,
+      "name": "We Will Run",
+      "url": "https://open.spotify.com/track/1nKFzsCP6gDbA9V5qmNrXH"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Greed",
         "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 221870,
       "name": "Greed",
       "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
-      },
-      "artists": [
-        {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
-        }
-      ],
-      "duration_ms": 228587,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
     }
   ],
   "unique_name": "Coast to Coast",

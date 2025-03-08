@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH?si=xKEjvLs9Qz2sC0ciFa1\-9Q">GABUISLOST</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-165 songs - 8 hr 43 min
+166 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [stomachache](https://open.spotify.com/track/2Rrob4iFLTexLwFKLxGyjE) | [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [coldpizza](https://open.spotify.com/artist/5RvcrWaucYqDPlrfnMBzDj) | [stomachache](https://open.spotify.com/album/0yGc2nOqI0CsuT3S0sQDd4) | 3:11 | 2025-02-28 |  |
 | [Story](https://open.spotify.com/track/33gdIeqbwFeunpdgTuVApk) | [Really Great](https://open.spotify.com/artist/0qpp5B7UKGpjPwTaVd4XEn) | [Be The Light On](https://open.spotify.com/album/0CuEiQUJtWzCzBkLZ1hfcp) | 2:01 | 2025-02-28 |  |
 | [Streetlight By Streetlight](https://open.spotify.com/track/7nns2Zg9w0wuFbnYZiFEHC) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [867](https://open.spotify.com/album/58Llb22QYZsh84c79agEnc) | 5:36 | 2024-11-14 |  |
+| [the bug song](https://open.spotify.com/track/1UZEdQs6bcIAV8r6Fk6lcA) | [flower.puppy](https://open.spotify.com/artist/0jjZSbhJWA1exGhWKwQ2hM) | [the bug song](https://open.spotify.com/album/3Bl43kD9WX4Lldy5tpJrEj) | 1:46 | 2025-03-07 |  |
 | [The dark lord Sauron stole my lunch money](https://open.spotify.com/track/6KyygJ2xLSNy3HdgLyd4t4) | [Muffin Fox](https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q) | [The dark lord Sauron stole my lunch money](https://open.spotify.com/album/7Byh7B3jl7iOg3zaTxvp3D) | 4:57 | 2024-10-18 |  |
 | [The Great Expedition To Find A Cure For Irony Poisoning \(Ft\. Hexosphere\)](https://open.spotify.com/track/5o1VKXqsuv9QsEPdRkXlFh) | [Plasma Cutter](https://open.spotify.com/artist/4GLMMafAflOXujxZdh4SNW), [Hexosphere](https://open.spotify.com/artist/3MRjjErWqC747FhXSqCzVt) | [III: Swords And Potions And Crystals And Sweet Tea And Flowers And Spell Scrolls And Drawings Of Dogs And Some Songs](https://open.spotify.com/album/2kbXmjnnqNhG1wdxg4Y8ZR) | 3:36 | 2024-06-23 | 2024-12-23 |
 | [The Greatest Showman](https://open.spotify.com/track/5QnjlKGfCXutGR4lZDoyry) | [Furry Loser](https://open.spotify.com/artist/5ZJuxb6oluPvuK2okvCAKk) | [Painting Clouds and Mountaintops](https://open.spotify.com/album/43d8wYLX8bTRf00ikYPGSE) | 3:36 | 2024-09-26 |  |

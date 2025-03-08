@@ -2,9 +2,9 @@
 
 ### [Soul Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVJE8hP95f7v)
 
-> Um apanhado do soul brasileiro para animar e dançar\. Foto: Lino Krizz
+> Um apanhado do soul brasileiro para animar e dançar\. Foto: Paula Lima
 
-105 songs - 6 hr 20 min
+106 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dance Baby](https://open.spotify.com/track/6AUlBVrlbfMLa4X7e3bsNp) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Déjà Vu](https://open.spotify.com/album/5l8NVoBMOuDYPIbqz8uBoQ) | 3:41 | 2023-12-08 |  |
 | [Dance, Dance, Dance](https://open.spotify.com/track/4MX4AmbGwHeHIIlX1ysJ6X) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [Don Pixote](https://open.spotify.com/artist/4SihecP0Ar3ekh29FLZ4w1), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 4:27 | 2023-12-08 |  |
 | [Decolagem](https://open.spotify.com/track/1rEBQsE7emJv5MINSUFKMU) | [Dieguito Reis](https://open.spotify.com/artist/2wC2SRJcX3NRpD5MhqYHnX), [Lau e Eu](https://open.spotify.com/artist/2gh3qTCBKZ5LwVj5zQha9e), [Martin Mendonça](https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b), [Gui Almeida](https://open.spotify.com/artist/14E70kIDtg9NC9tchwjZGw) | [Verão na Cidade Sem Mar](https://open.spotify.com/album/3P9KkOD6yj389jGJe50mbj) | 3:41 | 2023-12-08 |  |
+| [Deguste](https://open.spotify.com/track/08LR6HWU5CfaVOAxjOYs5q) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [Deguste](https://open.spotify.com/album/5Nujjbnz1PSAtvyiqhXhoM) | 3:46 | 2025-03-07 |  |
 | [DEIXA ESTAR](https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 5:06 | 2024-08-23 |  |
 | [Deixa queimar](https://open.spotify.com/track/5sObxQz2kAeBYW1NN1piae) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Deixa queimar](https://open.spotify.com/album/7yPQoeGVeVlXsjTg0eWr5M) | 3:02 | 2023-12-08 |  |
 | [Derrete](https://open.spotify.com/track/7CRkPyNdM9KvvliymmrgV1) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8), [Allure Dayo](https://open.spotify.com/artist/5QXS66BHpTWa3WXKgVbsNx) | [Derrete](https://open.spotify.com/album/5s1HAwaUOQoO10Yf0hik0Z) | 5:03 | 2023-12-08 |  |
@@ -91,7 +92,7 @@
 | [Proposta](https://open.spotify.com/track/6K7RRfMOjRHEwa0JN1tvf1) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Leo Minas.](https://open.spotify.com/artist/5VoUhia4pII9rmZU3fByI3) | [Proposta](https://open.spotify.com/album/3xxzWBSGDSA6wNtT73Xiiv) | 3:44 | 2023-12-08 | 2024-04-19 |
 | [Pétalas Vermelhas](https://open.spotify.com/track/25pUHGs0liXOe2qPc9ZuDa) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY), [Alfonz Jones](https://open.spotify.com/artist/4dI0tjVoli8bZZrRKRCgFa) | [Pétalas Vermelhas](https://open.spotify.com/album/00go5RKRDWp8IJFQKZv1QS) | 3:41 | 2023-12-08 | 2024-03-23 |
 | [QUALQUER LUGAR](https://open.spotify.com/track/46HKh6eZE3NGEtokIMtxLZ) | [POSS](https://open.spotify.com/artist/0VrUyvwd1srJicpy2Pb5xB), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Proteja Os Seus Sonhos, Vol\. 2](https://open.spotify.com/album/5pywJt0uUgyHUUsezivi9K) | 3:39 | 2023-12-08 | 2024-01-27 |
-| [Safely Far](https://open.spotify.com/track/2JXB49LEVXkcf31m7huLzM) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Safely Far](https://open.spotify.com/album/2Wmfvd8fmm1yfwlAPqYA5R) | 3:05 | 2024-03-29 |  |
+| [Safely Far](https://open.spotify.com/track/2JXB49LEVXkcf31m7huLzM) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Safely Far](https://open.spotify.com/album/2Wmfvd8fmm1yfwlAPqYA5R) | 3:05 | 2024-03-29 | 2025-03-08 |
 | [Safely Far](https://open.spotify.com/track/4fouEMdY4YWeF4LFJjwrUs) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Behind the Tea Chronicles](https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9) | 3:05 | 2023-12-08 | 2024-04-19 |
 | [Samba Soul](https://open.spotify.com/track/7ckpt4hV0tQToGvufwhIhs) | [Toninho Crespo](https://open.spotify.com/artist/04ct4xJNyJ22aJ3G2GHcUJ) | [Samba Soul](https://open.spotify.com/album/34IcX0llPVxmCrPk46fvEC) | 4:43 | 2023-12-08 |  |
 | [Se Bem](https://open.spotify.com/track/0oXf1XVXo3Qsm0eqx1pJvo) | [Rívia](https://open.spotify.com/artist/04YyFN1zuxkeu8EH5QWUsm), [Mais Q](https://open.spotify.com/artist/4zkwAP5pD0ZS1JW6mU7ijF) | [Cores](https://open.spotify.com/album/5378Ek1OzMLVklal3J7Nyu) | 3:33 | 2023-12-08 |  |

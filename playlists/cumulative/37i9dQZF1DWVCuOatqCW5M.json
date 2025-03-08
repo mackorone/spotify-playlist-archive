@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover - Asees Kaur",
+  "description": "New music from Shreya Ghoshal, Ayushmann Khurrana,  Aasa Singh and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 155357,
       "name": "Aa Zara",
       "url": "https://open.spotify.com/track/0MoRzKAl00iGQVOfUhmAUJ"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 188256,
       "name": "AANKH",
       "url": "https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx"
@@ -3529,6 +3529,28 @@
     },
     {
       "album": {
+        "name": "Beautiful You",
+        "url": "https://open.spotify.com/album/2ICshrOcYxZPUq0qZAWm9S"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Khanijo",
+          "url": "https://open.spotify.com/artist/4rw24Kp8GUPToxrMHesi5S"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228599,
+      "name": "Beautiful You",
+      "url": "https://open.spotify.com/track/1jeSGOMF8Q1gl3NTwe4kDd"
+    },
+    {
+      "album": {
         "name": "Befikra",
         "url": "https://open.spotify.com/album/3sw5Zb6m4uSfUZLXMDx5my"
       },
@@ -3832,7 +3854,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 180840,
       "name": "BETWEEN FLOWERS",
       "url": "https://open.spotify.com/track/1XjapKb8GMXCoO2WuWlX8x"
@@ -4631,6 +4653,24 @@
     },
     {
       "album": {
+        "name": "Chaand Jaisa Yaar",
+        "url": "https://open.spotify.com/album/2DQIZrOnJ2MiCmxH6CZwxA"
+      },
+      "artists": [
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292333,
+      "name": "Chaand Jaisa Yaar",
+      "url": "https://open.spotify.com/track/3R7447mMv3O3yPR8cBKNVJ"
+    },
+    {
+      "album": {
         "name": "Chaand Ke Paas",
         "url": "https://open.spotify.com/album/578X3v1ZgzpYzIxl3lQqro"
       },
@@ -5078,7 +5118,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 156000,
       "name": "Chhann",
       "url": "https://open.spotify.com/track/2Vsp6qY7Wn6xDouEocHETS"
@@ -5166,6 +5206,32 @@
       "duration_ms": 226296,
       "name": "Chhoo Le Dobara",
       "url": "https://open.spotify.com/track/53UJ1W3coeSHzbt8mphllg"
+    },
+    {
+      "album": {
+        "name": "Chhora Pardesi",
+        "url": "https://open.spotify.com/album/47WsHtGnKir40L3Di8oylC"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208281,
+      "name": "Chhora Pardesi",
+      "url": "https://open.spotify.com/track/3HEofNqegMCevv6TqRyeQK"
     },
     {
       "album": {
@@ -7484,6 +7550,28 @@
       "duration_ms": 160600,
       "name": "Do Do Baarish",
       "url": "https://open.spotify.com/track/69tVk8Dx5r7qTqj2YJFK9m"
+    },
+    {
+      "album": {
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/5vY5n25MSFR3DSUlWXLDW6"
+      },
+      "artists": [
+        {
+          "name": "Remee",
+          "url": "https://open.spotify.com/artist/5tjyFvhnukNkJDBrS4Jahe"
+        },
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142250,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/0W67UuWvEH5mvH7kDQiJKw"
     },
     {
       "album": {
@@ -10388,6 +10476,32 @@
       "duration_ms": 272444,
       "name": "Ho Gaya Hai Pyaar (Featuring. Arjun Bijlani, Surbhi Chandna)",
       "url": "https://open.spotify.com/track/0XCJTgKNn5gQ5McayMv86D"
+    },
+    {
+      "album": {
+        "name": "The Heartbreak Chhora",
+        "url": "https://open.spotify.com/album/1gbk2kMovW8hiA6DJCzuIG"
+      },
+      "artists": [
+        {
+          "name": "Ayushmann Khurrana",
+          "url": "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+        },
+        {
+          "name": "Gourov Dasgupta",
+          "url": "https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W"
+        },
+        {
+          "name": "June Banerjee",
+          "url": "https://open.spotify.com/artist/4UBbDzx1Rdp0qtxD2CccBD"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153823,
+      "name": "Ho Gaya Pyar Re",
+      "url": "https://open.spotify.com/track/1uX0NwDpA6ywsl2WnD73Pi"
     },
     {
       "album": {
@@ -14790,7 +14904,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 212406,
       "name": "Khali Peeli Baatein",
       "url": "https://open.spotify.com/track/2NZk5egfy6KDODjEesUvZL"
@@ -18399,6 +18513,32 @@
     },
     {
       "album": {
+        "name": "Mera Intezaar Karna",
+        "url": "https://open.spotify.com/album/66IfkD0OGDchvtqYVnZRWb"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255095,
+      "name": "Mera Intezaar Karna",
+      "url": "https://open.spotify.com/track/5CYPfBQfYjAxUyE9ETZtei"
+    },
+    {
+      "album": {
         "name": "Achha Lag Raha Hai",
         "url": "https://open.spotify.com/album/5rSSwWHFO7BDclf2ktbsML"
       },
@@ -21995,6 +22135,32 @@
     },
     {
       "album": {
+        "name": "Pyaar Aata Hai",
+        "url": "https://open.spotify.com/album/6WRkYCsWvnoLMXiv1rHDJq"
+      },
+      "artists": [
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263804,
+      "name": "Pyaar Aata Hai",
+      "url": "https://open.spotify.com/track/2MFa2NcTwKmPSsxzswq8my"
+    },
+    {
+      "album": {
         "name": "Pyaar Ban Gaye",
         "url": "https://open.spotify.com/album/6kHxjdLNQWxk327BMHn918"
       },
@@ -22428,7 +22594,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 181856,
       "name": "Raazdaariyan",
       "url": "https://open.spotify.com/track/28q4tY4XwtYiOuTBIS7ehw"
@@ -28712,7 +28878,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 185156,
       "name": "Tu Ru Ruu",
       "url": "https://open.spotify.com/track/3y7WECxvtou36AS4rhwgYO"

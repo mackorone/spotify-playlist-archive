@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 33343,
+  "num_followers": 33352,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2025-03-04 06:46:47",
       "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Wishing On You",
+      "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
+    },
+    {
+      "added_at": "2025-03-04 06:46:47",
+      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 186773,
       "name": "Heaven (Feat. Sam Kim)",
       "url": "https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw"
-    },
-    {
-      "added_at": "2025-03-04 06:46:47",
-      "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Wishing On You",
-      "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
     },
     {
       "added_at": "2025-03-04 06:46:47",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-03-04 06:46:47",
       "album": {
-        "name": "hellbound",
-        "url": "https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo"
-      },
-      "artists": [
-        {
-          "name": "LEEBADA",
-          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "hellbound",
-      "url": "https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o"
-    },
-    {
-      "added_at": "2025-03-04 06:46:47",
-      "album": {
         "name": "S.O.S (Sink or Swim)",
         "url": "https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 180720,
       "name": "Wet The Bed",
       "url": "https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht"
+    },
+    {
+      "added_at": "2025-03-04 06:46:47",
+      "album": {
+        "name": "hellbound",
+        "url": "https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "hellbound",
+      "url": "https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o"
     },
     {
       "added_at": "2025-03-04 06:46:47",
@@ -831,26 +831,6 @@
     {
       "added_at": "2025-03-04 06:46:47",
       "album": {
-        "name": "K.I.S.S",
-        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
-      },
-      "artists": [
-        {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Te Quiero(feat.BIBI)",
-      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
-    },
-    {
-      "added_at": "2025-03-04 06:46:47",
-      "album": {
         "name": "Hated you",
         "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
       },
@@ -871,22 +851,22 @@
     {
       "added_at": "2025-03-04 06:46:47",
       "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov"
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
       },
       "artists": [
         {
-          "name": "Wildberry",
-          "url": "https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf"
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
         },
         {
-          "name": "EunBii",
-          "url": "https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Sunrise (Feat. EunBii)",
-      "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
+      "duration_ms": 194645,
+      "name": "Te Quiero(feat.BIBI)",
+      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
     },
     {
       "added_at": "2025-03-04 06:46:47",
@@ -911,22 +891,6 @@
     {
       "added_at": "2025-03-04 06:46:47",
       "album": {
-        "name": "FRAME",
-        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
-      },
-      "artists": [
-        {
-          "name": "Han Seungwoo",
-          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Dive Into",
-      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
-    },
-    {
-      "added_at": "2025-03-04 06:46:47",
-      "album": {
         "name": "That's Why I Can't Talk About Love",
         "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
@@ -947,18 +911,18 @@
     {
       "added_at": "2025-03-04 06:46:47",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
         }
       ],
-      "duration_ms": 141355,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "added_at": "2025-03-04 06:46:47",
@@ -983,22 +947,6 @@
     {
       "added_at": "2025-03-04 06:46:47",
       "album": {
-        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
-      },
-      "artists": [
-        {
-          "name": "Choco And Vanilla",
-          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
-        }
-      ],
-      "duration_ms": 176997,
-      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
-    },
-    {
-      "added_at": "2025-03-04 06:46:47",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
       },
@@ -1011,6 +959,38 @@
       "duration_ms": 167500,
       "name": "Siren",
       "url": "https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO"
+    },
+    {
+      "added_at": "2025-03-04 06:46:47",
+      "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 141355,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
+    },
+    {
+      "added_at": "2025-03-04 06:46:47",
+      "album": {
+        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
+      },
+      "artists": [
+        {
+          "name": "Choco And Vanilla",
+          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
     },
     {
       "added_at": "2025-03-04 06:46:47",
@@ -1043,6 +1023,26 @@
       "duration_ms": 146402,
       "name": "I Love Yuo",
       "url": "https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X"
+    },
+    {
+      "added_at": "2025-03-04 06:46:47",
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov"
+      },
+      "artists": [
+        {
+          "name": "Wildberry",
+          "url": "https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf"
+        },
+        {
+          "name": "EunBii",
+          "url": "https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Sunrise (Feat. EunBii)",
+      "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
     },
     {
       "added_at": "2025-03-04 06:46:47",

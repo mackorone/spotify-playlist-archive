@@ -1653,6 +1653,32 @@
     },
     {
       "album": {
+        "name": "a second",
+        "url": "https://open.spotify.com/album/3F624um7lJklR0L9xLzi6X"
+      },
+      "artists": [
+        {
+          "name": "Lavender Blu",
+          "url": "https://open.spotify.com/artist/19sfPqgN1yp0YbZpzN6BEr"
+        },
+        {
+          "name": "Rachel Gonzalez",
+          "url": "https://open.spotify.com/artist/63VWVmNJRT50AnblZm24U7"
+        },
+        {
+          "name": "Elin Sandberg",
+          "url": "https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196076,
+      "name": "a second",
+      "url": "https://open.spotify.com/track/42bZLdDCYPTvWoXPiSxrTc"
+    },
+    {
+      "album": {
         "name": "A shot in the dark",
         "url": "https://open.spotify.com/album/3OLQRSVOoLIKLPOfWynPAF"
       },
@@ -2356,6 +2382,24 @@
       "duration_ms": 191666,
       "name": "Ain't Giving Up",
       "url": "https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9"
+    },
+    {
+      "album": {
+        "name": "Ain't I a woman",
+        "url": "https://open.spotify.com/album/0qd58Zxi2R5T2LazOHhBhf"
+      },
+      "artists": [
+        {
+          "name": "Caroline Henderson",
+          "url": "https://open.spotify.com/artist/3xIrRi4oP84o7Jr8OZCnpv"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246262,
+      "name": "Ain't I a woman",
+      "url": "https://open.spotify.com/track/3AeVqJzCKAhcAVKipuQDnJ"
     },
     {
       "album": {
@@ -29295,6 +29339,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239720,
+      "name": "Garden Of Eden",
+      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+    },
+    {
+      "album": {
         "name": "GarraGarra",
         "url": "https://open.spotify.com/album/435uNKRUQ136anVQ5YZSHi"
       },
@@ -31204,6 +31266,24 @@
       "duration_ms": 192616,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4C4ude887twoUoTwhGg4qe"
+    },
+    {
+      "album": {
+        "name": "Gone Girl",
+        "url": "https://open.spotify.com/album/7jchY4CauGHt4POyhigFBs"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177551,
+      "name": "Gone Girl",
+      "url": "https://open.spotify.com/track/6lU0BuAHpcjJ2DYAZc4anN"
     },
     {
       "album": {
@@ -60874,7 +60954,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 229252,
       "name": "Perfect Celebrity",
       "url": "https://open.spotify.com/track/0Tqn5Th0wk55eLdga96vZM"
@@ -63333,7 +63413,7 @@
     },
     {
       "album": {
-        "name": "Racer",
+        "name": "RACER",
         "url": "https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk"
       },
       "artists": [
@@ -63346,7 +63426,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160724,
-      "name": "Racer",
+      "name": "RACER",
       "url": "https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D"
     },
     {
@@ -74103,6 +74183,28 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams (feat. Miguel)",
+        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172952,
+      "name": "Sweet Dreams (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
+    },
+    {
+      "album": {
         "name": "Sweet Emotion",
         "url": "https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0"
       },
@@ -74226,6 +74328,28 @@
       "duration_ms": 135198,
       "name": "Sweet Oblivion",
       "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
+    },
+    {
+      "album": {
+        "name": "Swing For The Fences",
+        "url": "https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202695,
+      "name": "Swing For The Fences",
+      "url": "https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb"
     },
     {
       "album": {

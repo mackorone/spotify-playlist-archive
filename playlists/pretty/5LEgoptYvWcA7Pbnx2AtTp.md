@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 155 songs - 8 hr 54 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 156 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,5 +163,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 153 | [Everyone Speaks Russian](https://open.spotify.com/track/5D57juDPsaYjHA4Wdf2hVw) | [Rotfront](https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz), [Flo Mega](https://open.spotify.com/artist/6fp17K7hcCAijzRgyxvG1j) | [17 Deutsche Tänze](https://open.spotify.com/album/47mQzkFFJj6MrHfV8aLwWH) | 3:08 |
 | 154 | [Redesign Your Logo](https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [The Fump, Vol\. 20: March \- April 2010](https://open.spotify.com/album/795ErcyPhr0Trsq0a4SauM) | 4:19 |
 | 155 | [The Slur Song](https://open.spotify.com/track/1GotsDLkupVeKLe1WgvOm2) | [Bigfoot's Biggest Fan](https://open.spotify.com/artist/55GtCELECsxXn2qGp4GvLg) | [The Slur Song](https://open.spotify.com/album/4sDwp4QXSbdDvSXzJ1K3jI) | 3:35 |
+| 156 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
 
-Snapshot ID: `AAAA0LGeuYzTYp1RxA8M0ttCfVQaM2Qq`
+Snapshot ID: `AAAA0aGByPwoUVyvuviizaBqoB+Fqi+f`

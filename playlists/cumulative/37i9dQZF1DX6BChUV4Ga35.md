@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-134 songs - 4 hr 37 min
+135 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [This Little Piggy](https://open.spotify.com/track/45gz2svkyU2VI3HMSaF0kF) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 2 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/1fGDcgi6S9sclUeyGPMaKU) | 1:37 | 2022-07-25 | 2022-11-14 |
 | [This Little Piggy](https://open.spotify.com/track/6eIAL4vyNV85bS2ibvcBd7) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 2](https://open.spotify.com/album/57EVetORlpx4SiKLTr6KoT) | 1:37 | 2022-02-01 |  |
 | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/track/4oEVDEWT1NhOY1eroalRWq) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/album/38aF5dFMx6IWGMcLVLu59D) | 3:17 | 2024-03-15 |  |
+| [Watching the Ponies](https://open.spotify.com/track/4x6TgA12lMOzcMK9klfQze) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggle Up, Giddy Up!](https://open.spotify.com/album/3KGtEQo5N3kxOWgWDrLHjP) | 1:02 | 2025-03-07 |  |
 | [What Is a Bird?](https://open.spotify.com/track/619VhpdmxCBHpolXyJbyCw) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/6SCnHCUmOHe77UlUouWyrO) | 1:57 | 2022-02-01 |  |
 | [What is a Bird?](https://open.spotify.com/track/6zKoMXI1ApEnbiWyOA1Qy6) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:57 | 2022-07-25 | 2024-04-19 |
 | [When You're Living In The Zoo](https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 1:46 | 2022-02-01 |  |

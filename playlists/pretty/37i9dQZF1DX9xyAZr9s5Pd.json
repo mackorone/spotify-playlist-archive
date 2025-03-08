@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5PtOQAAAADW8mDsAajFwdHQpVR9rB9D",
+  "snapshot_id": "Z8ptCgAAAABjMKKXgTo5uYrtsXB8lwgu",
   "tracks": [
     {
       "added_at": "2025-01-24 19:42:49",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN"
     },
     {
+      "added_at": "2025-03-07 03:49:28",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/0dbTYcYItcpd8iPS3XLg3q"
+      },
+      "artists": [
+        {
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "La Petite Mort",
+      "url": "https://open.spotify.com/track/2f13BemQX8NnUJuuBoCSwk"
+    },
+    {
       "added_at": "2025-01-24 19:42:49",
       "album": {
         "name": "Calle En El Cielo",
@@ -77,6 +93,22 @@
       "url": "https://open.spotify.com/track/5OzacFSmfvLUzd3bcLxdHy"
     },
     {
+      "added_at": "2025-03-07 03:49:28",
+      "album": {
+        "name": "El Sol Sale Para Todos",
+        "url": "https://open.spotify.com/album/4tGzbREm9Rxjh8qh0MEIUw"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 242050,
+      "name": "Dime Si Es Posible Medir",
+      "url": "https://open.spotify.com/track/20CuwWHUvoMM4OVYaUkT4j"
+    },
+    {
       "added_at": "2025-01-24 19:42:49",
       "album": {
         "name": "Los Domingos",
@@ -91,6 +123,22 @@
       "duration_ms": 217540,
       "name": "Los Domingos",
       "url": "https://open.spotify.com/track/7ArjPcNTIMIPTST10plFKV"
+    },
+    {
+      "added_at": "2025-03-07 03:50:34",
+      "album": {
+        "name": "Ca\u00edda Intermitente",
+        "url": "https://open.spotify.com/album/4dOagt8G7sjIIQpwyOweQu"
+      },
+      "artists": [
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "duration_ms": 133280,
+      "name": "Ca\u00edda Intermitente",
+      "url": "https://open.spotify.com/track/2GT7YO160gC7YNxSJIFNmE"
     },
     {
       "added_at": "2025-01-24 19:42:49",
@@ -411,26 +459,6 @@
     {
       "added_at": "2025-01-24 19:42:49",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 198642,
-      "name": "Lugar ideal",
-      "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
-    },
-    {
-      "added_at": "2025-01-24 19:42:49",
-      "album": {
         "name": "las consecuencias",
         "url": "https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9"
       },
@@ -723,22 +751,6 @@
     {
       "added_at": "2025-01-24 19:42:49",
       "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/4Gs5BxNDabBlz281OcxFYO"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 130054,
-      "name": "Souvenir, Pt. 1",
-      "url": "https://open.spotify.com/track/3D7rpYcDzVVTu6bN7is1Ga"
-    },
-    {
-      "added_at": "2025-01-24 19:42:49",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -983,26 +995,6 @@
       "duration_ms": 211000,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/1AgswkAY8csSSfgb2JQkeB"
-    },
-    {
-      "added_at": "2025-01-24 19:42:49",
-      "album": {
-        "name": "No Me Dan Las Cuentas",
-        "url": "https://open.spotify.com/album/5D2lSTtk0P7OTtg4WuzJaE"
-      },
-      "artists": [
-        {
-          "name": "Ceci Juno",
-          "url": "https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu"
-        },
-        {
-          "name": "Pilar Cabrera",
-          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
-        }
-      ],
-      "duration_ms": 235760,
-      "name": "No Me Dan Las Cuentas",
-      "url": "https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw"
     },
     {
       "added_at": "2025-01-24 19:42:49",

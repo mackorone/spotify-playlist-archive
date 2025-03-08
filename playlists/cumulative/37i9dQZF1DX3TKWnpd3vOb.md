@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: El Cómodo Silencio De Los Que Hablan Poco.
 
-306 songs - 19 hr 18 min
+308 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Círculo](https://open.spotify.com/track/74BEycFqYrZTg8vFOj1iEU) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [Canto a Lo Brujo](https://open.spotify.com/album/1Quy87yIayfMxKeD6FpbfJ) | 4:51 | 2022-04-08 | 2022-12-17 |
 | [De La Luz](https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ) | 5:07 | 2023-10-27 |  |
 | [De Policía a Ladrón](https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [De Policía a Ladrón](https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6) | 3:12 | 2022-04-08 |  |
+| [Debo Aterrizar](https://open.spotify.com/track/4MQEsa25Jc6mfLaFYmYhIo) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Satirología, Vol\. 3](https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel) | 4:44 | 2025-03-07 |  |
 | [Dejando Libre el Amor](https://open.spotify.com/track/4IvYW5NRB5U8FE1nHTQkGn) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:22 | 2022-04-08 | 2022-12-17 |
 | [Despacio \- Bonus Track Migra](https://open.spotify.com/track/4x2HBispFiJkuu5jtIv0Py) | [El Ultimo Viaje](https://open.spotify.com/artist/6fpbLCQo7cLpMV1g397HWL) | [Despacio \(Bonus Track Migra\)](https://open.spotify.com/album/46a0OY25sTGfKXaSxQnOl1) | 6:19 | 2022-04-08 | 2022-07-28 |
 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 | 2022-04-08 |  |
@@ -113,7 +114,7 @@
 | [Flores de cartón \- Radio Edit](https://open.spotify.com/track/5SpqY1Aqv6hFt7QbiiHqm2) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Flores de cartón \(Radio Edit\)](https://open.spotify.com/album/5VIQuT9iAnVQQs5CYOBzJq) | 3:27 | 2022-04-08 | 2022-07-29 |
 | [Fresco y Desubicado](https://open.spotify.com/track/1KOt3ftZDzUOzu1q9aNrfR) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Fresco y Desubicado](https://open.spotify.com/album/00fGnqtt8JkQ8gVfS1LGmt) | 3:38 | 2024-06-25 |  |
 | [Fuego y Mar](https://open.spotify.com/track/632EQlodzA2oI40ZjZYa2n) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Cuestiónalo Todo](https://open.spotify.com/album/01VuGsVLgIYVbsh1TDPvhT) | 3:44 | 2023-11-10 | 2024-04-19 |
-| [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 | 2022-04-08 |  |
+| [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 | 2022-04-08 | 2025-03-08 |
 | [Fuegos de Artificio 2.0](https://open.spotify.com/track/5CX7s2RUcpCwZg9XWTR5qM) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3) | [Fuegos de Artificio 2.0](https://open.spotify.com/album/4apeFsL6k0TlfFVJi90zQz) | 2:44 | 2022-04-08 | 2022-07-19 |
 | [Fuerzas Que Retroceden](https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Fuerzas Que Retroceden](https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE) | 3:51 | 2022-09-05 | 2023-03-03 |
 | [Goces](https://open.spotify.com/track/489fxbPaExjr7hfYNCwH5y) | [Parálisis del Sueño](https://open.spotify.com/artist/56cwA6ldbu5N2mB1MDApQo) | [Goces](https://open.spotify.com/album/1aCs9dSByl1i9SAXmtMOGf) | 2:01 | 2023-01-06 | 2023-03-03 |
@@ -122,7 +123,7 @@
 | [Hacia Ti](https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Hacia Ti](https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2) | 3:45 | 2024-03-08 |  |
 | [Hacia una Nueva Dimensión](https://open.spotify.com/track/12jmlcbiaDefKxYcoZ69uc) | [Implos](https://open.spotify.com/artist/56YpnBaRqcv4nmiNmwV6k6) | [Hacia una Nueva Dimensión](https://open.spotify.com/album/1ozLu3pQzjBDO0WGdsDvke) | 4:58 | 2022-04-08 | 2022-07-19 |
 | [Hasta que el Agua al Río Brote](https://open.spotify.com/track/6YDIIC33vXJ3XtS4vbeLvT) | [Pelusa](https://open.spotify.com/artist/1uFuJCsLGA1nzL70bbPMzl) | [Hasta que el Agua al Río Brote](https://open.spotify.com/album/0WJaE3Sxl4dwLuL7GahTJL) | 2:51 | 2022-04-08 | 2023-03-03 |
-| [Hay fuego en Los Andes](https://open.spotify.com/track/23BhXyp9D4asVSn5DhvbHG) | [Los Desaparecidos](https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N) | [Hay fuego en Los Andes](https://open.spotify.com/album/2x2LrD0ZlpRe20urxdPiFV) | 4:06 | 2022-04-08 |  |
+| [Hay fuego en Los Andes](https://open.spotify.com/track/23BhXyp9D4asVSn5DhvbHG) | [Los Desaparecidos](https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N) | [Hay fuego en Los Andes](https://open.spotify.com/album/2x2LrD0ZlpRe20urxdPiFV) | 4:06 | 2022-04-08 | 2025-03-08 |
 | [Hay Fuego en Los Andes](https://open.spotify.com/track/7s18XNjnKPqcGSzKThyChu) | [Los Desaparecidos](https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N) | [Hay Fuego en Los Andes](https://open.spotify.com/album/0fb6c3y3Mg7HTk0OJYl6Ym) | 4:06 | 2023-04-28 | 2024-04-19 |
 | [He Barrido el Sol](https://open.spotify.com/track/4d4JNtg5fvLenZVXK3JJfT) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Grandes Exitos](https://open.spotify.com/album/6Nvv5Jrk3cg5BdplDxEsHq) | 3:44 | 2022-04-08 | 2022-12-17 |
 | [Hojas de Té \- 2023](https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hojas de Té \(2023\)](https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe) | 3:29 | 2023-10-13 |  |
@@ -313,6 +314,7 @@
 | [Yo Sé Que Tu](https://open.spotify.com/track/0cXB1cFmbsJoHOPFZrLxGl) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Yo Sé Que Tu](https://open.spotify.com/album/4ARfV8aN7KdMENCyXedlCF) | 3:49 | 2022-04-08 | 2022-07-28 |
 | [Yod](https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj) | 3:41 | 2022-04-08 | 2025-02-21 |
 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 | 2023-03-03 | 2024-04-19 |
+| [Ícaro](https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Ícaro](https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii) | 4:37 | 2025-03-07 |  |
 | [Únete A Mi Ser](https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0) | 4:41 | 2023-11-24 |  |
 
 \*This playlist was first scraped on 2022-04-16. Prior content cannot be recovered.

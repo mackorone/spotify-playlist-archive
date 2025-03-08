@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "amanhecer",
+        "url": "https://open.spotify.com/album/1lpPLtAJrtdarroSef3aTu"
+      },
+      "artists": [
+        {
+          "name": "terraplana",
+          "url": "https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159013,
+      "name": "amanhecer",
+      "url": "https://open.spotify.com/track/51hDjMwlkPvc22y3UQ8l1i"
+    },
+    {
+      "album": {
         "name": "amanh\u00e3 eu durmo",
         "url": "https://open.spotify.com/album/5zIuk4e5RIJiFosVzJERVC"
       },
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 237063,
       "name": "Copa",
       "url": "https://open.spotify.com/track/6NQFHSTsw7g6lDtWv88yCs"
@@ -5412,6 +5430,24 @@
       "duration_ms": 231120,
       "name": "Foi Assim",
       "url": "https://open.spotify.com/track/7DZYRKQ5T695LPPn98NOGM"
+    },
+    {
+      "album": {
+        "name": "foi mal (me atrasei)",
+        "url": "https://open.spotify.com/album/0kWwem8YjB7TQUrGd7ebl9"
+      },
+      "artists": [
+        {
+          "name": "Breno Branches",
+          "url": "https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "foi mal (me atrasei)",
+      "url": "https://open.spotify.com/track/473O9nr4sOfpZlX5H5Qky8"
     },
     {
       "album": {
@@ -12130,7 +12166,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 227285,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3Fej6iqtBfftO49K2EEhJo"

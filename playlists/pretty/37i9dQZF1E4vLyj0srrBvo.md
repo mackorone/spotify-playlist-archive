@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Eartheater, Pearly Drops and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,214 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,217 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Lost In My Bedroom](https://open.spotify.com/track/61AXzGgiu768lqCXHBHlt8) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/5p7bst30JEHSIe1VMtjbfG) | 3:13 |
 | 50 | [Possession](https://open.spotify.com/track/02zU5fNQX1GaaBMavn6rXd) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Ethereality](https://open.spotify.com/album/3sy3jRg8KrsGYNAuHPQnqk) | 3:59 |
 
-Snapshot ID: `Z8pNPwAAAADoOiPrlvtwl+E7fGox4kvz`
+Snapshot ID: `Z8ue4AAAAABRkb3a88DeweXjbcYaDI4N`

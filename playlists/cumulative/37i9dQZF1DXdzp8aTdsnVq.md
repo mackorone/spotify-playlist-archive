@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Elder Dayán Díaz
 
-167 songs - 11 hr 52 min
+168 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Estoy Como un Quiquí](https://open.spotify.com/track/3mMEqtvJBjjaeDFefTgUgA) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG) | [Estoy Como un Quiquí](https://open.spotify.com/album/1un0c85dgcDajCPIAD9rwm) | 4:40 | 2023-04-05 | 2023-04-15 |
 | [Fanático](https://open.spotify.com/track/4FYukPeQ6S9IxNaWXS9BRm) | [Cayito Dangond](https://open.spotify.com/artist/2MxGUuafZLk4Hgrlk88wbC), [chide garcia](https://open.spotify.com/artist/1QWdrs9RSQ2VapbV6Qf8Mh) | [Fanático](https://open.spotify.com/album/71Ve79IkSzUSXtbTWDVSFR) | 3:25 | 2023-04-05 | 2023-06-03 |
 | [Feliz Aniversario](https://open.spotify.com/track/5OTmOskSgLB3ZfH6mBL9gE) | [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Ronal Urbina](https://open.spotify.com/artist/75YwXrUh0D6hDWh5xFpZEK) | [Feliz Aniversario](https://open.spotify.com/album/0fNd8Ovv5AUxan1p6rgs12) | 4:20 | 2022-09-02 | 2022-12-17 |
-| [Ganas Locas](https://open.spotify.com/track/5bqpj6yxZ9OZepBkml8QGP) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Ganas Locas](https://open.spotify.com/album/4ajpy9aMHgw26P5E0AYpWf) | 3:55 | 2022-09-02 |  |
+| [Ganas Locas](https://open.spotify.com/track/5bqpj6yxZ9OZepBkml8QGP) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Ganas Locas](https://open.spotify.com/album/4ajpy9aMHgw26P5E0AYpWf) | 3:55 | 2022-09-02 | 2025-03-08 |
 | [Ilusiones](https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Franco Argüelles](https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q) | [Experiencias Vividas](https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq) | 4:32 | 2022-09-02 |  |
 | [INALCANZABLE](https://open.spotify.com/track/4KhcXECF8GBXNlEHmkRWZJ) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [INALCANZABLE](https://open.spotify.com/album/4U2AEMR451ZacmMXYAovpl) | 3:38 | 2024-10-03 |  |
 | [La Chica de la Disco](https://open.spotify.com/track/1Rldg5PGFa1LscsLdvsK0u) | [Mono Zabaleta](https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu), [Daniel Maestre](https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202) | [La Bomba](https://open.spotify.com/album/1CfCK4Nx0nnccwueJfp9Hm) | 3:30 | 2022-09-02 | 2023-04-06 |
@@ -115,6 +115,7 @@
 | [Niña Bonita](https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:08 | 2024-01-26 |  |
 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 | 2022-09-02 | 2024-04-19 |
 | [niña bonita binomio de oro vallenato](https://open.spotify.com/track/0LoiirA5aUddQFAjYFpOkn) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 5:10 | 2022-10-21 | 2022-11-13 |
+| [No Damos Pa Olvidarnos](https://open.spotify.com/track/2mhBxoWPpyp3vVofruuOCA) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K) | [No Damos Pa Olvidarnos](https://open.spotify.com/album/6i0qg72tOuzobyy8TWNnjE) | 3:36 | 2025-03-07 |  |
 | [No Te Vayas](https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Version Original](https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo) | 4:56 | 2023-05-19 |  |
 | [No voy a llorar](https://open.spotify.com/track/6icuSHp83cy4GVtqKkohZq) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:43 | 2024-01-26 |  |
 | [No Voy A Llorar](https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [10 Años De Historia](https://open.spotify.com/album/2jLrQzNNyxlqrHZnSU5sCI) | 4:43 | 2023-02-17 | 2024-04-19 |

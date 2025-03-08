@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-177 songs - 12 hr 18 min
+179 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Everybody Loves a Winner](https://open.spotify.com/track/2EUDthXhUTD7M40VSkWDq1) | [Lisa Mills](https://open.spotify.com/artist/5qjvtl7sQsjMEFadXXdEvE) | [The Triangle \(Expanded Edition\)](https://open.spotify.com/album/6ziGDbVoEO24tCewCBejrK) | 3:15 | 2021-07-30 |  |
 | [Fall Apart](https://open.spotify.com/track/1QCxnFbOnDiR1Ynd3cME4k) | [Jeff Jensen](https://open.spotify.com/artist/0GJFspOyGpSZJfFyH9EY3A) | [Morose Elephant](https://open.spotify.com/album/2x2Ot46HRi9VT9i5q9l5ZQ) | 4:27 | 2020-11-05 |  |
 | [Falling](https://open.spotify.com/track/18CULvgFLFllHM07Khy6lH) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/7MFmqMEzQADRE2XBDmeRE4) | 5:03 | 2020-11-05 | 2024-04-12 |
-| [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 | 2020-11-05 |  |
+| [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 | 2020-11-05 | 2025-03-08 |
 | [Fool \(Live\)](https://open.spotify.com/track/60TAAGvOtUcY95dHgvluSw) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fool \(Live\)](https://open.spotify.com/album/4ybMTnHNIQcBzVCFRRHuZZ) | 4:48 | 2023-04-07 |  |
 | [For Better or Worse](https://open.spotify.com/track/1wDDhcsJzOzICXpjLLaxX4) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Bluesamericana](https://open.spotify.com/album/1jeDlHBm4psoSmaphaCZeF) | 3:25 | 2020-11-05 |  |
 | [Forget Yourself](https://open.spotify.com/track/3fWcRT65iy7FIIEjitgfJ6) | [Natalia M\. King](https://open.spotify.com/artist/3fCXXnMGhzvgXkWwerk4hg) | [Forget Yourself](https://open.spotify.com/album/35jiIi7b9WKbmxXfVcT0ai) | 3:38 | 2021-10-15 |  |
@@ -86,11 +86,13 @@
 | [Last Surrender](https://open.spotify.com/track/2qQC0jWfRaUUhGWkPdb7g2) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Honest Man](https://open.spotify.com/album/2ZR9S2HND7WD0zh630IyR1) | 3:17 | 2020-11-05 | 2024-04-19 |
 | [Lay My Head On Your Pillow](https://open.spotify.com/track/6ZN106OpbakIb13AswoWOw) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 3:59 | 2020-11-05 |  |
 | [Little Bit Longer](https://open.spotify.com/track/0Qug6Nrrlw5JDVTbuisYpA) | [Blake O'Connor](https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6) | [Little Bit Longer](https://open.spotify.com/album/4f1ASCJc3Nc4epEhMkAxX7) | 3:55 | 2022-11-18 |  |
+| [Lost Man](https://open.spotify.com/track/2quMvdrHOSiAT0XHTM7Bof) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Lost Man](https://open.spotify.com/album/7D31Tu8Acs4EnAOhHNzm1u) | 5:23 | 2025-03-07 |  |
 | [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 3:26 | 2020-11-05 | 2022-07-29 |
 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 | 2020-11-05 | 2023-12-14 |
 | [Loving Arms](https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Loving Arms](https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK) | 6:21 | 2020-11-05 | 2022-10-01 |
 | [Loving Arms \- \(radio edit\), Masterlink Sessions](https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Loving Arms \- \(Radio Edit\), Masterlink Sessions](https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB) | 5:26 | 2022-07-29 |  |
 | [Lucille](https://open.spotify.com/track/2e6yQaYtbgM2zkNqSB5xGO) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [Lucille](https://open.spotify.com/album/1pIPvngMvFfEJ2TnDrufNp) | 4:35 | 2025-01-24 |  |
+| [Magnolia](https://open.spotify.com/track/0ENoBHeSgaJsnjoY9abf9q) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Magnolia](https://open.spotify.com/album/6pNByFfy2lHC0VO38APy6w) | 4:20 | 2025-03-07 |  |
 | [Magnolia Trees](https://open.spotify.com/track/5GFe6oaCyMUsq6mSgSGCB5) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/6t1L6t6AQqyS4ZUJtnkhBt) | 3:35 | 2023-04-21 |  |
 | [Magnolia Trees](https://open.spotify.com/track/6V7ZRet51m5X0Fbs2Xy0Sa) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:35 | 2023-04-21 | 2024-04-19 |
 | [Me to You](https://open.spotify.com/track/2XBzszqFztAByWUJ82MzKq) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 3:50 | 2021-10-29 |  |
@@ -153,7 +155,7 @@
 | [Tears Run Dry](https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Tears Run Dry](https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ) | 4:14 | 2023-04-14 |  |
 | [Tell Me](https://open.spotify.com/track/6VLqNoGxbJZd3mKa4cCSXS) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 4:55 | 2020-11-05 | 2024-03-09 |
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-09-02 |  |
-| [The Hammer & The Rose](https://open.spotify.com/track/1gDbDOHyTpzB9rVn9BtC05) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Hammer & The Rose](https://open.spotify.com/album/73wi0uQeyjOEZRc98N5qm6) | 3:16 | 2025-02-07 |  |
+| [The Hammer & The Rose](https://open.spotify.com/track/1gDbDOHyTpzB9rVn9BtC05) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Hammer & The Rose](https://open.spotify.com/album/73wi0uQeyjOEZRc98N5qm6) | 3:16 | 2025-02-07 | 2025-03-08 |
 | [The World Moves On](https://open.spotify.com/track/2O8w4ULp2uun76A2IgVjsz) | [Hitman Blues Band](https://open.spotify.com/artist/01auum1XBkykoXiQl6ynkx) | [The World Moves On](https://open.spotify.com/album/4fvPhrcHvGlB9fPD1BjIVK) | 4:44 | 2020-11-05 |  |
 | [They Never Pay Me](https://open.spotify.com/track/0P8bwaiduhHPn872Afg1jf) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Sunset Avenue](https://open.spotify.com/album/58CjcMpyfhzxuAFwDoZEyz) | 3:33 | 2020-11-05 | 2022-11-13 |
 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 | 2020-11-05 | 2023-08-26 |

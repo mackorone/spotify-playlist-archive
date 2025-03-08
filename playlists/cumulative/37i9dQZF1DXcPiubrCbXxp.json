@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 174539,
       "name": "Fast Times",
       "url": "https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH"
@@ -668,6 +668,24 @@
       "duration_ms": 161567,
       "name": "High",
       "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
+    },
+    {
+      "album": {
+        "name": "Hollywood Fame",
+        "url": "https://open.spotify.com/album/2ltN9fyeVvK2Mpyxx9mcE5"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "Hollywood Fame",
+      "url": "https://open.spotify.com/track/2ABFFPMxvXgFdVty8ubLup"
     },
     {
       "album": {

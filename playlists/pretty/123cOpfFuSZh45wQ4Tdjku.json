@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 930,
+  "num_followers": 932,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "ash (Ashley)",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAABWWDXdT160SPGV8gBl0a0AqRqIPVs",
+  "snapshot_id": "AAABWmmRHx2bmvXaSH9mlBZLkUr3XuIF",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -5311,6 +5311,22 @@
       "duration_ms": 156972,
       "name": "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ"
+    },
+    {
+      "added_at": "2025-03-07 18:23:07",
+      "album": {
+        "name": "With My Friends",
+        "url": "https://open.spotify.com/album/1fFd2zeApK1EmTlM7ksl9T"
+      },
+      "artists": [
+        {
+          "name": "Verplex",
+          "url": "https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "With My Friends",
+      "url": "https://open.spotify.com/track/55J7Zl7xiFqiGofRHgodbO"
     }
   ],
   "unique_name": "My favourite furry songs",

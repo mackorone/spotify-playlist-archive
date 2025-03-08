@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Maaike Ouboter & Eric Corton
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,756 likes - 74 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,778 likes - 74 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

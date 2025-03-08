@@ -2,9 +2,9 @@
 
 ### [Top Christian Contemporary](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: Dan Bremnes
+> Tune in here for new and current hits in Contemporary Christian music! Cover: TobyMac
 
-536 songs - 1 day 9 hr 5 min
+539 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Always Only Jesus \- Single Version](https://open.spotify.com/track/2WoikaPwX24vxIv0ABp2LH) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/5fmYFHD0y6zDlUKQLnCf1b) | 3:22 | 2024-07-19 |  |
 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 | 2022-02-25 | 2023-10-07 |
 | [Amazing Grace / My Chains Are Gone](https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Chains Are Gone](https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN) | 4:26 | 2022-03-25 | 2022-04-23 |
-| [Amen](https://open.spotify.com/track/4v6SzqiQf66IlrpUukDRnj) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Amen](https://open.spotify.com/album/35I3FfbWQsifBlPcIGJa7E) | 3:55 | 2025-01-31 |  |
+| [Amen](https://open.spotify.com/track/4v6SzqiQf66IlrpUukDRnj) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Amen](https://open.spotify.com/album/35I3FfbWQsifBlPcIGJa7E) | 3:55 | 2025-01-31 | 2025-03-08 |
 | [Ancient Love](https://open.spotify.com/track/4jKpq2ssEnviL9RjdYjCHI) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Ancient Love](https://open.spotify.com/album/0JThox9ImeiTgqHsPOHgEP) | 5:11 | 2025-01-17 |  |
 | [Ark](https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Vanessa Hill](https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb) | [Ark](https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B) | 3:13 | 2023-03-10 | 2024-06-08 |
 | [Armor](https://open.spotify.com/track/1sYfBuCWTEeB7U120WXO9w) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Armor](https://open.spotify.com/album/62dH7peqNWXmmQPO52Jrq6) | 3:13 | 2024-09-06 |  |
@@ -52,6 +52,7 @@
 | [Black Sheep](https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Black Sheep](https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI) | 3:53 | 2024-10-25 |  |
 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 | 2022-02-25 | 2022-05-29 |
 | [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 | 2022-08-26 | 2023-10-03 |
+| [Breakdown](https://open.spotify.com/track/4wQhi2wkWiEw5vzm8Q4SWG) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Breakdown](https://open.spotify.com/album/7cMfRtuyqutQY7maMsgvzx) | 3:49 | 2025-03-07 |  |
 | [Breath of God \(Speak Peace\)](https://open.spotify.com/track/1HfvEglRq78H8Dk8pYkbGf) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Breath of God \(Speak Peace\)](https://open.spotify.com/album/70w1qIARKCquK1VcSHCy8m) | 3:39 | 2022-02-25 | 2022-04-23 |
 | [Breathe Again](https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz) | [Our Future Glory](https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [The Found](https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u) | [Breathe Again](https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz) | 3:42 | 2022-02-25 | 2022-10-10 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2022-04-29 | 2023-10-07 |
@@ -82,6 +83,7 @@
 | [Count The Stars](https://open.spotify.com/track/30KzJyMbuQqIAoP2p8SzY2) | [Ben Compton](https://open.spotify.com/artist/60KOVif3EfAZFEXMSoSmdg) | [Count The Stars](https://open.spotify.com/album/0Bs3hFZN57WMOuigYtu0vA) | 4:01 | 2024-07-12 | 2024-09-07 |
 | [Crimson Dust \- Live](https://open.spotify.com/track/1mE0BS6BvuoOgSpHEcx1QI) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worthy is the Lamb \(Live\)](https://open.spotify.com/album/6rAbB8RMxupIRZXUIs8sOs) | 4:12 | 2024-03-20 | 2024-10-26 |
 | [Dare You To Move](https://open.spotify.com/track/5ACfoDwpvwGiq6z1SEZlFp) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Dare You To Move](https://open.spotify.com/album/0JkFyP6L9iH5pF697yPdjB) | 3:58 | 2024-08-30 |  |
+| [Deeper Still](https://open.spotify.com/track/36DMRazAVFwDTbclQTGsWY) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Deeper Still](https://open.spotify.com/album/0WXGgsKvFy2eCWwDr6i1TB) | 3:12 | 2025-03-07 |  |
 | [Deeper Waters](https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB) | 2:36 | 2024-03-20 | 2024-08-31 |
 | [Desert Road](https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:38 | 2022-02-25 | 2022-08-27 |
 | [Digital Death](https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Onward & Upward](https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi) | 4:50 | 2022-02-25 | 2022-03-06 |
@@ -186,6 +188,7 @@
 | [Heaven Changes Everything](https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Heaven Changes Everything](https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji) | 3:31 | 2023-03-10 | 2024-06-08 |
 | [Heaven Help Me](https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:22 | 2022-02-25 | 2022-06-25 |
 | [Heaven On Earth](https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Heaven On Earth](https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5) | 3:19 | 2024-03-20 | 2024-06-08 |
+| [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 | 2025-03-07 |  |
 | [Help Me Let Go](https://open.spotify.com/track/6VUqwqfKjVUoh3swTzAlfO) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 2:37 | 2022-05-13 | 2022-05-29 |
 | [HELP!](https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [HELP!](https://open.spotify.com/album/0sVketRXWDWlozs5jNopci) | 3:03 | 2022-04-29 | 2022-07-09 |
 | [Here](https://open.spotify.com/track/0UuMg7nCoCLnaG9qG7B9Ft) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [HERE](https://open.spotify.com/album/1ZLSVYADHHdOKThHW9Ywux) | 4:04 | 2022-02-25 | 2022-03-06 |
@@ -236,7 +239,7 @@
 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 | 2022-10-01 | 2024-06-08 |
 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 | 2022-04-22 | 2023-10-07 |
 | [If God Wrote A Song](https://open.spotify.com/track/2B3fZRkEZiLR5vqpDxLYTy) | [Jaime Jamgochian](https://open.spotify.com/artist/589zPmnl9UayJxgJAyEmpo), [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [If God Wrote A Song](https://open.spotify.com/album/6zev25jw1cTXFrLwdMMbux) | 3:14 | 2024-06-07 | 2024-07-19 |
-| [If I Got Jesus](https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [If I Got Jesus](https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH) | 3:51 | 2024-05-10 |  |
+| [If I Got Jesus](https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [If I Got Jesus](https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH) | 3:51 | 2024-05-10 | 2025-03-08 |
 | [If The Lord Builds The House](https://open.spotify.com/track/1gHEMTscQ1XBevcJsmcMNV) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/3DnbvxLXCsgPs4nUl2mxs9) | 3:55 | 2022-06-10 | 2022-07-29 |
 | [If The Lord Builds The House](https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9) | 3:55 | 2022-10-01 | 2023-10-07 |
 | [If The Lord Builds The House](https://open.spotify.com/track/7baAHpv91hJA3UEAv7qfLH) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ) | 3:55 | 2022-07-08 | 2022-11-07 |
@@ -289,7 +292,7 @@
 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 | 2022-07-08 | 2023-01-29 |
 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 | 2022-03-19 | 2023-03-11 |
 | [Lover Of My Soul](https://open.spotify.com/track/1lJElVuNSdUt0cYFgCbYDF) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Lover Of My Soul](https://open.spotify.com/album/2XiNPGl83ACsMuIMETQXxh) | 3:22 | 2022-03-19 | 2022-04-29 |
-| [Loves Got a Way](https://open.spotify.com/track/3kL6SvzZTi4vweT6KWy8GH) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Loves Got a Way](https://open.spotify.com/album/0UunxdCwAG58nS7UQp2n2x) | 3:18 | 2024-12-13 |  |
+| [Loves Got a Way](https://open.spotify.com/track/3kL6SvzZTi4vweT6KWy8GH) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Loves Got a Way](https://open.spotify.com/album/0UunxdCwAG58nS7UQp2n2x) | 3:18 | 2024-12-13 | 2025-03-08 |
 | [Lucky](https://open.spotify.com/track/0ZQWc4M5WU12imMyPf9HEt) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [The Ache](https://open.spotify.com/album/6T6nhY0edWeDpMV7vHDOoh) | 3:15 | 2024-09-06 | 2024-12-12 |
 | [Made For Heaven](https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:32 | 2024-03-20 | 2024-06-08 |
 | [Made to Fly](https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Made to Fly](https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c) | 3:44 | 2022-02-25 | 2022-04-23 |

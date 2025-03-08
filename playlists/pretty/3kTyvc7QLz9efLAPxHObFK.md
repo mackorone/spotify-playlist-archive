@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 2,077 songs - 4 day 14 hr 1 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 2,081 songs - 4 day 14 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2085,5 +2085,9 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2075 | [Body Move](https://open.spotify.com/track/7oqIwI5vvNXUjnt8EZHVrh) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [TwinTigerz](https://open.spotify.com/artist/0pEKh68H0lmNrnAwV2aU4B) | [Body Move](https://open.spotify.com/album/0P5w4jlC0azTCXjNfC4OFj) | 3:49 |
 | 2076 | [Don't Mind](https://open.spotify.com/track/1Ebuo6hpH8DKjAV4KvwJIq) | [Ducal](https://open.spotify.com/artist/72AN41qIOuqnxpv2WED2oR), [D\-CODED](https://open.spotify.com/artist/1MxfznWrDQtw0HStI1FGX6) | [F\*ck Techno](https://open.spotify.com/album/3AMKXvAzdqqdb727AIm7Bu) | 2:46 |
 | 2077 | [Drop It Hard](https://open.spotify.com/track/1qDyPiqctcoZfHSlzIrAwY) | [Synapze](https://open.spotify.com/artist/1jW6LuIyqoqeVThJeuG8QK) | [Drop It Hard](https://open.spotify.com/album/0WEei61n72xzVUJhjOm3xa) | 2:22 |
+| 2078 | [Rockstar](https://open.spotify.com/track/6FmYeSqcQfEzsFPkTeAckw) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Rockstar](https://open.spotify.com/album/0OKI0mNYeep0XGLPggElew) | 2:01 |
+| 2079 | [The Heat](https://open.spotify.com/track/4Akb1dCljyBeORzhxdtnMb) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh) | [The Heat](https://open.spotify.com/album/70YTGYPi6PKsG1JzspbzWi) | 2:26 |
+| 2080 | [Change To Follow](https://open.spotify.com/track/5M1OQ87CeXnFbduLXxItcy) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Change To Follow](https://open.spotify.com/album/0EolCF8CR5XxhohiY7IQLq) | 3:33 |
+| 2081 | [Fallin](https://open.spotify.com/track/4gOs5DuSvMK6lmNO77wEpU) | [Guiberz](https://open.spotify.com/artist/5foXMuzBwyazFvEVJqUcq4), [Rupture](https://open.spotify.com/artist/3lOEQ9P6GGwwkK6tznHITp) | [Fallin](https://open.spotify.com/album/5GbxkYzMXtCTD1eDSRHXAJ) | 3:13 |
 
-Snapshot ID: `AAAIVQHjmMyCOH8E4UiS19f6wEvlifjS`
+Snapshot ID: `AAAIWbSQpCNExDXHNOy5u4cAIVov2Udk`

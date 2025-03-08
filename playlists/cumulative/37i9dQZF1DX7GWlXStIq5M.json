@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/6PL0hhe8GpyQGiv42QJe1E"
+      },
+      "artists": [
+        {
+          "name": "WENNY",
+          "url": "https://open.spotify.com/artist/4H8hUcllrXmI91BT0fMdWj"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139377,
+      "name": "99",
+      "url": "https://open.spotify.com/track/3PsakU1uM4Hj32qCeKSkas"
+    },
+    {
+      "album": {
         "name": "@ MEH",
         "url": "https://open.spotify.com/album/3hXfBV9COJBTj5rnIh7wcC"
       },
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 266737,
       "name": "CAJU",
       "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
@@ -4730,7 +4748,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 165034,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd"
@@ -6748,7 +6766,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 129399,
       "name": "fetiche",
       "url": "https://open.spotify.com/track/1wZDEMcxsjIxRJmbxsKgMV"
@@ -8337,6 +8355,24 @@
     },
     {
       "album": {
+        "name": "Incerto",
+        "url": "https://open.spotify.com/album/22dYCxyhGbgyFmjDdpn91q"
+      },
+      "artists": [
+        {
+          "name": "Murilo Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210450,
+      "name": "Incerto",
+      "url": "https://open.spotify.com/track/3W5b5HNjXOhyJYElO9ItQL"
+    },
+    {
+      "album": {
         "name": "Aqu\u00e1rio",
         "url": "https://open.spotify.com/album/1Sv9ms2IZZCIbAeoUS5VPA"
       },
@@ -9354,7 +9390,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 173193,
       "name": "Looking For Love",
       "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
@@ -10058,6 +10094,28 @@
       "duration_ms": 204137,
       "name": "Maria do Olho Verde",
       "url": "https://open.spotify.com/track/6c5AQO3llPWxeAK4b3cAut"
+    },
+    {
+      "album": {
+        "name": "Maria Magdalena",
+        "url": "https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156461,
+      "name": "Maria Magdalena",
+      "url": "https://open.spotify.com/track/2TVqEfs20W2rfg0EDAW1MD"
     },
     {
       "album": {
@@ -16568,7 +16626,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 238656,
       "name": "Senhorita XX",
       "url": "https://open.spotify.com/track/6vQJTFZI2ZEuWxfkY1f9aH"
@@ -17192,7 +17250,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 187153,
       "name": "Sou Musa do Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"

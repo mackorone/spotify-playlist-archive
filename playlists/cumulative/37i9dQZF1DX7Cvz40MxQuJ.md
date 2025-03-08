@@ -4,7 +4,7 @@
 
 > It’s giving lantern\-lit banquets, medieval courts and knights in shining armour✨
 
-47 songs - 2 hr 14 min
+48 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ricercare No\. 89](https://open.spotify.com/track/3aOkp5QZYtmyn4WOa5q8fj) | [Francesco da Milano](https://open.spotify.com/artist/4MF2Z1s9xx6vo3QA9VZ1bz), [Sandro Volta](https://open.spotify.com/artist/5g6xJpNet24VEcom6ReFCg) | [Da Milano: Music for Lute](https://open.spotify.com/album/7Igx4R4p62I6oArDJdaN4Q) | 1:45 | 2025-01-10 |  |
 | [Scarborough Fair \(Arr\. Parkin for Cello and Guitar\)](https://open.spotify.com/track/4wlNPczIullwvmwb4x0ltz) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 3:14 | 2025-01-10 |  |
 | [Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/track/7aqx8hsa0qrpkDYfDnQy54) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [LUDWIG Orchestra](https://open.spotify.com/artist/3pAMpzxkvRNTXZZ6EpT41Q) | [Traditional: Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/album/2bGvmIpKf3832AfZ3w3CVD) | 2:47 | 2025-01-10 |  |
+| [Sinfonia \(3\-Part Invention\) No\. 11 in G Minor, BWV 797 \(Transcr\. for Harp\)](https://open.spotify.com/track/6NKrz1n8qHb2a2ZrKnzBCb) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Magdalena Hoffmann](https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT) | [J.S\. Bach: Sinfonia \(3\-Part Invention\) No\. 11 in G Minor, BWV 797 \(Transcr\. for Harp\)](https://open.spotify.com/album/08DQSCK8terstaXdLw9Z9y) | 2:14 | 2025-03-07 |  |
 | [Soliloquies on 3 Welsh Folk Songs: No\. 2, Suo gân](https://open.spotify.com/track/7sMvYO5Ewgmsd4f9pX01ig) | [Haldon Evans](https://open.spotify.com/artist/34Dh8u7A4ikgltN2chKCx2), [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [H\. Evans: Soliloquies on 3 Welsh Folk Songs: No\. 2, Suo gân](https://open.spotify.com/album/7AI1B64FapSsG8vdBu68YD) | 3:53 | 2025-01-10 |  |
 | [Stepping on Bugshells](https://open.spotify.com/track/0WFmmf67LXPF8aLhCceSzj) | [Milo Paulus](https://open.spotify.com/artist/5yFeB38F8WrASkfLYG58jS) | [Bugshell \(Original Game Soundtrack\)](https://open.spotify.com/album/3hsgLDXirOMCVR1ZRlGNEn) | 3:08 | 2025-01-20 |  |
 | [Suite in D Minor: IV\. Gigue](https://open.spotify.com/track/6CVT0xvbHIcEFj1PJfFJwV) | [Esaias Reusner](https://open.spotify.com/artist/7wq74TNAqeYITJH2F7hfjo), [Lutz Kirchhof](https://open.spotify.com/artist/22dMjgcNzSEmrWEtU8JBVH) | [Lute Music for Witches and Alchemists](https://open.spotify.com/album/3PdQWrrT44V9EoZjhccESU) | 1:21 | 2025-01-10 |  |

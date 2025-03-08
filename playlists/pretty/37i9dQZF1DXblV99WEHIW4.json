@@ -1,6 +1,6 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 288123,
+  "num_followers": 288207,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-07-09 21:56:08",
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv"
+    },
+    {
+      "added_at": "2024-07-09 21:56:08",
+      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 276146,
       "name": "Snuff",
       "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
-    },
-    {
-      "added_at": "2024-07-09 21:56:08",
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "All I Wanted",
-      "url": "https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv"
     },
     {
       "added_at": "2024-07-09 21:56:08",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-09 21:56:08",
       "album": {
-        "name": "Haven't Been Myself",
-        "url": "https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 277093,
-      "name": "Eiley",
-      "url": "https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r"
-    },
-    {
-      "added_at": "2024-07-09 21:56:08",
-      "album": {
         "name": "Sap",
         "url": "https://open.spotify.com/album/4b0EWRIWecUztiLiaoEN4K"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 267333,
       "name": "Brother",
       "url": "https://open.spotify.com/track/4hmtCJAsVnaV3g6qkCsJ5b"
+    },
+    {
+      "added_at": "2024-07-09 21:56:08",
+      "album": {
+        "name": "Haven't Been Myself",
+        "url": "https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 277093,
+      "name": "Eiley",
+      "url": "https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r"
     },
     {
       "added_at": "2024-07-09 21:56:08",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-09 21:56:08",
       "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 100533,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
-    },
-    {
-      "added_at": "2024-07-09 21:56:08",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 398026,
       "name": "Wilt",
       "url": "https://open.spotify.com/track/6RRz9PNzcc0I9u3zLPXnS8"
+    },
+    {
+      "added_at": "2024-07-09 21:56:08",
+      "album": {
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 100533,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
     },
     {
       "added_at": "2024-07-09 21:56:08",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-07-09 21:56:08",
       "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 267546,
+      "name": "Your Love (Has Ruined My Life)",
+      "url": "https://open.spotify.com/track/10JEOrrLhzEGQm1HgFnrpN"
+    },
+    {
+      "added_at": "2024-07-09 21:56:08",
+      "album": {
         "name": "Nothing Left to Love",
         "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 374893,
       "name": "And All That Could Have Been",
       "url": "https://open.spotify.com/track/5UMsIIsvwkuIK3AeV7WhAW"
-    },
-    {
-      "added_at": "2024-07-09 21:56:08",
-      "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 267546,
-      "name": "Your Love (Has Ruined My Life)",
-      "url": "https://open.spotify.com/track/10JEOrrLhzEGQm1HgFnrpN"
     },
     {
       "added_at": "2024-07-09 21:56:08",

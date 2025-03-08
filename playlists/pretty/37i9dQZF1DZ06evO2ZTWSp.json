@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 484997,
+  "num_followers": 484979,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAABIo6AVPE3pPT22otywaooy",
+  "snapshot_id": "Z8jlgAAAAAC3SmgUeHzlVNj9Sk/6yJmx",
   "tracks": [
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love in Real Life",
+        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 22615,
+      "name": "Everything Was So Much Simpler\u2026",
+      "url": "https://open.spotify.com/track/5JrEV1dM9byPkTjVhqTvGc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New Eyes",
         "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 226442,
       "name": "New Eyes (feat. Lizzo)",
       "url": "https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love in Real Life",
-        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 22615,
-      "name": "Everything Was So Much Simpler\u2026",
-      "url": "https://open.spotify.com/track/5JrEV1dM9byPkTjVhqTvGc"
     },
     {
       "added_at": null,
@@ -947,22 +947,6 @@
       "duration_ms": 159715,
       "name": "Pink Panther",
       "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lizzobangers",
-        "url": "https://open.spotify.com/album/32UJ8XJogn6T8JSENLETMS"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 133313,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/0R9uQkIu0dr3BU1zXN1X8J"
     }
   ],
   "unique_name": "This Is Lizzo",

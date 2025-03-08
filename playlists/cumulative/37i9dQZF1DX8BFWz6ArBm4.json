@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Mazonakis",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Despina Vandi #\u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1\u0397\u03bc\u03ad\u03c1\u03b1\u0393\u03c5\u03bd\u03b1\u03af\u03ba\u03b1\u03c2",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 197378,
       "name": "24 Ores",
       "url": "https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 171704,
       "name": "7/7",
       "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 136531,
       "name": "DAVATZIS - LIVE by TOKYO THEATER",
       "url": "https://open.spotify.com/track/2Lbjh8H9sFeAPWzldzZ1bW"
@@ -714,6 +714,24 @@
       "duration_ms": 166764,
       "name": "Exeis Ta Matia 2024",
       "url": "https://open.spotify.com/track/6o9Zntn1IUDML3m45AwKp0"
+    },
+    {
+      "album": {
+        "name": "Exo Emena",
+        "url": "https://open.spotify.com/album/1xnDdoDkBv5wRlDFyr5dAR"
+      },
+      "artists": [
+        {
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252957,
+      "name": "Exo Emena",
+      "url": "https://open.spotify.com/track/7ixBF0Qf9jkJMsHtcK9KWd"
     },
     {
       "album": {
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 225450,
       "name": "Ti Perimeneis Apo 'Mena",
       "url": "https://open.spotify.com/track/7hwhamjgTSPsVqSv7WmJvz"
@@ -2488,6 +2506,28 @@
       "duration_ms": 197647,
       "name": "Xeimwnas",
       "url": "https://open.spotify.com/track/47DMuLoJzVMVCiAhgGw0e1"
+    },
+    {
+      "album": {
+        "name": "XENIXTISA",
+        "url": "https://open.spotify.com/album/5W7YHCWAzRQ0bhfpq3hYBF"
+      },
+      "artists": [
+        {
+          "name": "Rene Ageri",
+          "url": "https://open.spotify.com/artist/1FjxtNQOz4jknufS7SVyaj"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "XENIXTISA",
+      "url": "https://open.spotify.com/track/7cgNPyFEoWTO0YAy5AbZ2J"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover - Ronit Vinta",
+  "description": "Naye Indie gaano ka khazana! Cover - Gini",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 167931,
       "name": "Aas Paas",
       "url": "https://open.spotify.com/track/4Y0CVAMUQgpe1I0yV23JmI"
@@ -810,6 +810,24 @@
       "duration_ms": 206052,
       "name": "Aasan Nahi",
       "url": "https://open.spotify.com/track/6DVYiXQW2OYRh8mZjpbMKu"
+    },
+    {
+      "album": {
+        "name": "Aashiyan",
+        "url": "https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Aashiyan",
+      "url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h"
     },
     {
       "album": {
@@ -2657,6 +2675,28 @@
     },
     {
       "album": {
+        "name": "Behkaave",
+        "url": "https://open.spotify.com/album/3zpCQAm4h3FG1bh6OP3Pil"
+      },
+      "artists": [
+        {
+          "name": "Neha Karode",
+          "url": "https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN"
+        },
+        {
+          "name": "Poet Shaf",
+          "url": "https://open.spotify.com/artist/5qlreh49Z5Pwrk8QmQob6b"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195704,
+      "name": "Behkaave",
+      "url": "https://open.spotify.com/track/2diXyFIgXy35WAUnkqrfvv"
+    },
+    {
+      "album": {
         "name": "BEKADRAN",
         "url": "https://open.spotify.com/album/3bA53E1oObbk1lt5PsyinS"
       },
@@ -3606,7 +3646,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 210186,
       "name": "Chameli",
       "url": "https://open.spotify.com/track/3qtvgK1IdAnqxGCYfxekBT"
@@ -5318,7 +5358,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 184218,
       "name": "FALSAFA",
       "url": "https://open.spotify.com/track/50T9qpE9RfbzxqzU3MO2iQ"
@@ -5696,6 +5736,28 @@
       "duration_ms": 168000,
       "name": "Garmi",
       "url": "https://open.spotify.com/track/0iQSCy6dZvu3d65UNsNQj5"
+    },
+    {
+      "album": {
+        "name": "Gehna",
+        "url": "https://open.spotify.com/album/0dVqLmZ6elaPXs6G7N4Vco"
+      },
+      "artists": [
+        {
+          "name": "Rajat Midha",
+          "url": "https://open.spotify.com/artist/5FwKooTbhNi9Xmbv8r9hHK"
+        },
+        {
+          "name": "Ishaan Arora",
+          "url": "https://open.spotify.com/artist/58VXRRTZbBkLuUWjSX6FNb"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160736,
+      "name": "Gehna",
+      "url": "https://open.spotify.com/track/1rnUR1yktDfh6VpxxhIpeb"
     },
     {
       "album": {
@@ -8399,6 +8461,32 @@
     },
     {
       "album": {
+        "name": "Kaaga",
+        "url": "https://open.spotify.com/album/0ACk94Uk59HZllaq85njIz"
+      },
+      "artists": [
+        {
+          "name": "Lopamudra Bandyopadhyay",
+          "url": "https://open.spotify.com/artist/6Wr5reUqHQhpBTLgn82r88"
+        },
+        {
+          "name": "Shivansh Jindal",
+          "url": "https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141212,
+      "name": "Kaaga",
+      "url": "https://open.spotify.com/track/2Q7Z5XeSzwhrtlt3GEEYPm"
+    },
+    {
+      "album": {
         "name": "Kaahe",
         "url": "https://open.spotify.com/album/26gTNAxkAQpM0gO6r8Jnf0"
       },
@@ -9166,7 +9254,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 162857,
       "name": "Keh Do Na",
       "url": "https://open.spotify.com/track/1OImmthBVdJOf0ZCCBQVzv"
@@ -9568,7 +9656,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 125510,
       "name": "Kho Jaana",
       "url": "https://open.spotify.com/track/6MeubrNe5r1kRg18lSCAfg"
@@ -10794,7 +10882,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 182567,
       "name": "Kyun Hai",
       "url": "https://open.spotify.com/track/11GE7ph1JKrcigZSsumY7R"
@@ -15508,7 +15596,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 164411,
       "name": "Rozana",
       "url": "https://open.spotify.com/track/1C2V2Y06UX5V0UQfTWmmcc"
@@ -16943,6 +17031,24 @@
     },
     {
       "album": {
+        "name": "Simti",
+        "url": "https://open.spotify.com/album/7kBUETqxht63KK8ETCZnP3"
+      },
+      "artists": [
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165640,
+      "name": "Simti",
+      "url": "https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q"
+    },
+    {
+      "album": {
         "name": "Sirfira",
         "url": "https://open.spotify.com/album/4tH5BHPomSPEGxjxKTPY8C"
       },
@@ -17762,6 +17868,24 @@
       "duration_ms": 141525,
       "name": "Tera Saaya",
       "url": "https://open.spotify.com/track/1u9dZcTMqoG63GR0w1mY6N"
+    },
+    {
+      "album": {
+        "name": "Tera Yaar",
+        "url": "https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Tera Yaar",
+      "url": "https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9"
     },
     {
       "album": {
@@ -19370,7 +19494,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 171219,
       "name": "Tum Ho Toh",
       "url": "https://open.spotify.com/track/2LUY01YYiSU1LxoyX1ERwQ"
@@ -20058,7 +20182,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 255454,
       "name": "Woh Kitaab",
       "url": "https://open.spotify.com/track/01f9F1FFwOcwZeqogOlCVJ"
@@ -20336,7 +20460,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 230443,
       "name": "Yeh Duniya Jala Do",
       "url": "https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg"

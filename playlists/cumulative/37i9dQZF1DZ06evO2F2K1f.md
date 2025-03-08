@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-155 songs - 6 hr 50 min
+156 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Jukebox](https://open.spotify.com/track/6IoSzAlalRp9HV01CBHMnO) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hawk's Hammond Lounge](https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h) | 2:02 | 2024-07-19 | 2024-07-22 |
 | [Laura](https://open.spotify.com/track/1xm6n05NR02rGfhPXdbmS2) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Laura](https://open.spotify.com/album/7nG2Idce7vm6pBdxp2eEA1) | 4:00 | 2022-06-12 | 2025-03-02 |
 | [Laura](https://open.spotify.com/track/3qXrULeeC4rtod2ZiFbKLn) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Shuttlecraft / Laura](https://open.spotify.com/album/5nJNV4whcSTPS2kzvOWADy) | 4:00 | 2023-08-27 | 2023-10-11 |
+| [Laura](https://open.spotify.com/track/6VFLTOYfy6PwnTIdaLXhik) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Laura](https://open.spotify.com/album/0QnT5C1Stm1qJvakXkX5fA) | 4:00 | 2025-03-08 |  |
 | [Lazy Evening Blues](https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 4:38 | 2022-05-29 | 2025-02-25 |
 | [London Hilton](https://open.spotify.com/track/7zreWwu1eicUJJ4gkPjKnI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 2:34 | 2023-07-29 | 2023-07-31 |
 | [Lounging at Dave's](https://open.spotify.com/track/5byTzKp9kbMCG5miJ7NJZe) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Adam Mills](https://open.spotify.com/artist/3yvNDjWsj4naAfKrhWvH1m) | [Bootleg Beats](https://open.spotify.com/album/5VeLluSageWRYdDLnWKY22) | 1:57 | 2022-08-17 | 2024-08-31 |
@@ -122,7 +123,7 @@
 | [Saturn Rings](https://open.spotify.com/track/77JPdHkaDLrXS1TrIieGnb) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRI6: Frontiers of Science](https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat) | 4:02 | 2024-11-27 |  |
 | [Scooter Girl](https://open.spotify.com/track/4bH1kAgbHVCtxhRFl98Q9L) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:41 | 2022-10-12 | 2025-02-16 |
 | [Senior Thump](https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:52 | 2022-05-29 |  |
-| [Serengeti](https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:02 | 2022-05-29 |  |
+| [Serengeti](https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:02 | 2022-05-29 | 2025-03-08 |
 | [Sheer Elegance](https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:37 | 2022-05-30 | 2023-07-07 |
 | [Sky](https://open.spotify.com/track/7Jr8CUKxhACgEPSWJJmdJm) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRI6: Frontiers of Science](https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat) | 3:12 | 2025-01-04 | 2025-01-23 |
 | [Sky Train](https://open.spotify.com/track/6YwVCVgTqnoCvcJyDGSxC8) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 2:33 | 2022-05-29 |  |

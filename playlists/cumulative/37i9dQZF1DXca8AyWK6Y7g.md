@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> Throw a tantrum like a babydoll 🎀 Cover: Grace VanderWaal & Aliyah's Interlude
+> i'll be your gone girl! cover: Neriah
 
-2,317 songs - 4 day 20 hr 36 min
+2,320 songs - 4 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Call You Mine](https://open.spotify.com/track/17YCVCHb36D7lZ5p0gOOni) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Call You Mine](https://open.spotify.com/album/7kRbk1TezpFAsxkzBWUiWL) | 3:37 | 2024-07-08 | 2024-09-28 |
 | [Callgirl](https://open.spotify.com/track/7ALLv4wodJgAT8cnuBSzhL) | [Ivy Adara](https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq) | [Intraduction](https://open.spotify.com/album/2Twt15SYY7B7xLZlfNKiFY) | 2:44 | 2019-05-26\* | 2019-08-13 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-26 | 2024-01-13 |
+| [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-07 |  |
 | [Can We Talk About Me?](https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Can We Talk About Me?](https://open.spotify.com/album/3MG4Q3ipd9raU28ZBxv89f) | 2:44 | 2023-01-27 | 2023-03-04 |
 | [Can You Love Me Tonight?](https://open.spotify.com/track/38ZK4BFDqxUrEsjuC6DA5X) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Love Letters From Houston](https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI) | 3:15 | 2022-05-27 | 2023-04-22 |
 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 | 2022-06-24 | 2022-09-03 |
@@ -802,6 +803,7 @@
 | [Gone](https://open.spotify.com/track/4UQeq4HUvC5uPEA9pWTgPW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Gone](https://open.spotify.com/album/1Z4Y3sPwR7D7PzPhnjpnbX) | 4:05 | 2019-07-27 | 2020-01-16 |
 | [Gone](https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Gone](https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B) | 2:59 | 2023-01-13 | 2023-04-23 |
 | [gone for good](https://open.spotify.com/track/4DTeo7lwguLqQkIOdLIVGz) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [gone for good](https://open.spotify.com/album/0VlKR6VsPLG50lA3bvw509) | 2:53 | 2024-01-05 | 2024-03-23 |
+| [Gone Girl](https://open.spotify.com/track/6lU0BuAHpcjJ2DYAZc4anN) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Gone Girl](https://open.spotify.com/album/7jchY4CauGHt4POyhigFBs) | 2:57 | 2025-03-07 |  |
 | [GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 6:15 | 2021-02-25 | 2021-03-20 |
 | [Gonna Get Over You](https://open.spotify.com/track/46xiqS8blL06iuufHUnNOC) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Gonna Get Over You](https://open.spotify.com/album/4Dm82oqd0MJ1nWiruKKpOq) | 3:14 | 2022-07-29 | 2022-08-20 |
 | [Goo](https://open.spotify.com/track/386y7lYyXr0sni9FuQNH50) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Egg in the Backseat](https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W) | 2:56 | 2022-08-12 | 2022-09-03 |
@@ -1770,6 +1772,7 @@
 | [sex](https://open.spotify.com/track/26ZX2JrAb8AFbr8FFfAsO7) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [i think you think too much of me](https://open.spotify.com/album/7AVvQhnDEUidKyJsXmQ7ju) | 3:38 | 2020-01-16 | 2020-06-29 |
 | [SEX IN MY MIND](https://open.spotify.com/track/5iPgZ2079YYJladnPMwQTt) | [Adi Ulmansky](https://open.spotify.com/artist/3USGrdyXkg1eLoWJ7KhrhJ) | [BAD INTENTIONS](https://open.spotify.com/album/7C1cIgmLMG0QoktGeCWYvv) | 2:42 | 2019-05-26\* | 2019-08-13 |
 | [Sex In Public](https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Sex In Public](https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV) | 2:23 | 2022-04-15 | 2024-11-12 |
+| [Sex, Drugs & Existential Dread](https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sex, Drugs & Existential Dread](https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0) | 2:35 | 2025-03-07 |  |
 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 | 2024-10-11 | 2025-01-25 |
 | [SH!TSHOW](https://open.spotify.com/track/44BLCiHna5WuziLINWZhYb) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [SH!TSHOW](https://open.spotify.com/album/22yKdIPMgsXi5SsbiCe3Pn) | 3:05 | 2022-11-11 | 2023-04-23 |
 | [Sh\*t People](https://open.spotify.com/track/2o5waDrBvUvW0vmZWQ7DtS) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sh\*t People](https://open.spotify.com/album/2kWbl4QeZsNbCdLAPeV6cR) | 3:16 | 2021-08-13 | 2022-01-29 |

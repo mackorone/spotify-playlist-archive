@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/2iZILXAWVDPppFsX8UhjaZ"
+      },
+      "artists": [
+        {
+          "name": "James Tillman",
+          "url": "https://open.spotify.com/artist/4FXBouJHB0s6E3d6Q9YeSO"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/6X1Q81m06YRrN9yuWek9f6"
+    },
+    {
+      "album": {
         "name": "Sexually Active",
         "url": "https://open.spotify.com/album/2jNzC0Im9D4XyFxL8C6A7R"
       },

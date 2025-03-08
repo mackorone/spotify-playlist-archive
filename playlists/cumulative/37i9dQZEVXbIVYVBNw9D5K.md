@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,151 songs - 2 day 9 hr 49 min
+1,152 songs - 2 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,7 +587,7 @@
 | [İntihar Saatler](https://open.spotify.com/track/5y7ETdiSaRVhkNKn7gRxxC) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [İntihar Saatler](https://open.spotify.com/album/5qPGspCeMttibayZSXBLrx) | 3:08 | 2024-03-12 | 2024-04-21 |
 | [İntihaşk](https://open.spotify.com/track/5bqNvDn1PB16vswbUN5ppx) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [İntihaşk](https://open.spotify.com/album/3Zty9nxrogxLMtMTiLxlCO) | 3:12 | 2021-11-14 | 2021-11-14 |
 | [İntikam](https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İntikam](https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p) | 2:36 | 2023-03-18 | 2023-04-16 |
-| [İNTİHAR](https://open.spotify.com/track/0d8IQRHUFPOXsAVOPfDSgp) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/0UmLFSMGgjpbdobrqEuoc0) | 2:08 | 2025-01-17 |  |
+| [İNTİHAR](https://open.spotify.com/track/0d8IQRHUFPOXsAVOPfDSgp) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/0UmLFSMGgjpbdobrqEuoc0) | 2:08 | 2025-01-17 | 2025-03-08 |
 | [İNTİHAR](https://open.spotify.com/track/0osZ5jmtTtHJt8pPz6RL2N) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/42uMq7fY8KbRhUSwf3Vob0) | 2:08 | 2024-09-20 | 2025-01-18 |
 | [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 | 2024-06-15 | 2024-09-21 |
 | [İstanbul](https://open.spotify.com/track/0IwoMJSeyKvHncd3XDYboj) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Silah Gibi](https://open.spotify.com/album/4ktOuEyfPqsFTxNupKdXoV) | 2:23 | 2024-01-20 | 2024-01-30 |
@@ -750,6 +750,7 @@
 | [Mesafe](https://open.spotify.com/track/68DrWFjKkrn2W3mkIRP3bc) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Mesafe](https://open.spotify.com/album/1bp7hCG7HxaJ0kUjD3eykN) | 5:01 | 2021-03-27\* | 2021-05-23 |
 | [METEOR](https://open.spotify.com/track/4LsPjyty35CPGnvgy4aybJ) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [METEOR](https://open.spotify.com/album/7zzqGk0dc86AYRtcLE532V) | 2:10 | 2021-04-18 | 2021-04-19 |
 | [Mevzu Derin](https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Mevzu Derin](https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7) | 3:29 | 2024-11-21 | 2025-02-09 |
+| [Mey](https://open.spotify.com/track/2Tv2XmPGs0A8esmc4gBkX4) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Mey](https://open.spotify.com/album/6qYDQRSCjOS6apFVKrYKEd) | 4:47 | 2025-03-07 |  |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-11-20 | 2022-05-30 |
 | [Milyoner](https://open.spotify.com/track/5k3Exf5ZlAtDUZnK9cTv3D) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Milyoner](https://open.spotify.com/album/5v7WVyZbgdp8pEwvVYMm5W) | 4:01 | 2021-04-18 | 2021-05-03 |
 | [Mingoflalar](https://open.spotify.com/track/2FRX5tqHnjJKIAAmgRbsvJ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mingoflalar](https://open.spotify.com/album/76kQMgobACSiiOVbuq9Xib) | 2:00 | 2022-07-02 | 2022-11-24 |

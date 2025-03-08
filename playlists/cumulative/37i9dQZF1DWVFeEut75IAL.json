@@ -1397,6 +1397,28 @@
     },
     {
       "album": {
+        "name": "Deep River",
+        "url": "https://open.spotify.com/album/2yVBodoUGmZmw4RW64og0T"
+      },
+      "artists": [
+        {
+          "name": "Samuel Coleridge-Taylor",
+          "url": "https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR"
+        },
+        {
+          "name": "Ashley Jackson",
+          "url": "https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287951,
+      "name": "Deep River I",
+      "url": "https://open.spotify.com/track/1wZYRFn2pFmAICpBLhzCVC"
+    },
+    {
+      "album": {
         "name": "Faur\u00e9: Dolly Suite; Nocturnes; Barcarolles; Impromptus",
         "url": "https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi"
       },

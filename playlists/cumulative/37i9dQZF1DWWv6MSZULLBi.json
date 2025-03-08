@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Michael Marcagi",
+  "description": "A laid-back trip in the folk scene. Cover: Gigi Perez",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 261265,
       "name": "Ashe",
       "url": "https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 341764,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 223437,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6jfiZX1kpuFSfJQeCWNjaD"
@@ -10769,6 +10769,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/05Abr5BF3CZpcjatqNTi1p"
+      },
+      "artists": [
+        {
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226972,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/10e8q50norTRKjCFM3xePC"
+    },
+    {
+      "album": {
         "name": "Maia",
         "url": "https://open.spotify.com/album/1CiFjVxJe7LbAX8i9w6VRN"
       },
@@ -11054,6 +11072,24 @@
       "duration_ms": 179998,
       "name": "Melbourne",
       "url": "https://open.spotify.com/track/3MKXWNCf5HuFnije8DleCS"
+    },
+    {
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/6lLyfQ83nAeBmCBNZWBi7q"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200214,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/3DFfNBtNDKKMaUv3CZ0qsE"
     },
     {
       "album": {
@@ -19592,6 +19628,24 @@
       "duration_ms": 269800,
       "name": "Willow",
       "url": "https://open.spotify.com/track/4ERM0QdLgq9HvZ7zUsiimB"
+    },
+    {
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274210,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM"
     },
     {
       "album": {

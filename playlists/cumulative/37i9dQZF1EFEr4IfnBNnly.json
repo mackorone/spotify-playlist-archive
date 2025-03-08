@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "OXO",
+        "url": "https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT"
+      },
+      "artists": [
+        {
+          "name": "Lola Moxom",
+          "url": "https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228188,
+      "name": "GOOD4U",
+      "url": "https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou"
+    },
+    {
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ"
       },

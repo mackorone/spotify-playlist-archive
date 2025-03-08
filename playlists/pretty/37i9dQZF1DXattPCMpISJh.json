@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 135308,
+  "num_followers": 135355,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIZQAAAAB+GVNMRz+6hAFqVOxgHXJS",
+  "snapshot_id": "Z8p9ZQAAAABncP4Gj5VbzlvpR+Wl67H0",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:21",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0CLDP2n9sn9iTfoTKB6QfK"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5Cmxgp6kvf2M0HoSyjbfjA"
+    },
     {
       "added_at": "2025-02-21 05:00:21",
       "album": {
@@ -79,6 +95,26 @@
       "duration_ms": 168894,
       "name": "Supernova - Jafunk Remix",
       "url": "https://open.spotify.com/track/57peujtPGEpGAS68azZVO1"
+    },
+    {
+      "added_at": "2025-03-07 05:00:21",
+      "album": {
+        "name": "Dance and Fall in Love",
+        "url": "https://open.spotify.com/album/0Sylj4SfR5QryUtD3oj641"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Dance and Fall in Love",
+      "url": "https://open.spotify.com/track/6bMzjurIUwP0ieEJcT8AFU"
     },
     {
       "added_at": "2025-02-07 05:00:23",
@@ -1137,34 +1173,6 @@
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
     },
     {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Groove Continental: Side B",
-        "url": "https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        },
-        {
-          "name": "Diamond Pistols",
-          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Fight My Demons",
-      "url": "https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm"
-    },
-    {
       "added_at": "2023-11-17 05:01:00",
       "album": {
         "name": "Mess It Up (Purple Disco Machine Remix)",
@@ -1835,26 +1843,6 @@
       "duration_ms": 201904,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Summer Lovin'",
-        "url": "https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 189003,
-      "name": "Summer Lovin' - Edit",
-      "url": "https://open.spotify.com/track/7q0vM8woumdTUt30GasolR"
     },
     {
       "added_at": "2022-07-29 04:02:00",

@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Black Magic Woman",
+        "url": "https://open.spotify.com/album/2B2ADzsSJZbI6gbyFbaKhB"
+      },
+      "artists": [
+        {
+          "name": "\u0110INH H\u01af\u01a0NG",
+          "url": "https://open.spotify.com/artist/5BYivses3rt9TZ0SwjlAeM"
+        },
+        {
+          "name": "Jak Nguy\u1ec5n",
+          "url": "https://open.spotify.com/artist/2YgNp2PD3MweSc6hR2xfrk"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224324,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/50Oxiqju15vvtRimrDraa3"
+    },
+    {
+      "album": {
         "name": "LINK",
         "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
       },
@@ -2317,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Black Magic Woman",
+        "url": "https://open.spotify.com/album/2B2ADzsSJZbI6gbyFbaKhB"
+      },
+      "artists": [
+        {
+          "name": "\u0110INH H\u01af\u01a0NG",
+          "url": "https://open.spotify.com/artist/5BYivses3rt9TZ0SwjlAeM"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197747,
+      "name": "In The Mood For Love",
+      "url": "https://open.spotify.com/track/5PCBZMpGgMW47nrfLGPP3B"
+    },
+    {
+      "album": {
         "name": "Internet Love",
         "url": "https://open.spotify.com/album/12QGzRlojlxCuKAAjOPKAB"
       },
@@ -2496,7 +2536,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 218007,
       "name": "Ki\u1ec7t T\u00e1c \u0110\u1eb9p Nh\u1ea5t C\u1ee7a Th\u01b0\u1ee3ng \u0110\u1ebf",
       "url": "https://open.spotify.com/track/1eRWYJaM8jeDbliG4erWSx"
@@ -2544,7 +2584,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 239683,
       "name": "K\u1ebb T\u00e0n Nh\u1eabn Th\u01b0\u1eddng S\u1ed1ng Th\u1ea3nh Th\u01a1i",
       "url": "https://open.spotify.com/track/5DiwZIcu7hma3CliIhaqTW"

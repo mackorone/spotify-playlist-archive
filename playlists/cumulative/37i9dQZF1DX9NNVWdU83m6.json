@@ -320,7 +320,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 193813,
       "name": "Caliber",
       "url": "https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 223320,
       "name": "Fugl F\u00f8nix",
       "url": "https://open.spotify.com/track/6PWqgAei13zNiEMl9VMZeP"
@@ -1995,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "Passion Dance",
+        "url": "https://open.spotify.com/album/5pqbgZOJtFUVbTa76Fay21"
+      },
+      "artists": [
+        {
+          "name": "oreglo",
+          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256206,
+      "name": "Passion Dance",
+      "url": "https://open.spotify.com/track/6xQur55wJVJiL2zujPGXfI"
+    },
+    {
+      "album": {
         "name": "Shapeless",
         "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
       },
@@ -2836,6 +2854,32 @@
       "duration_ms": 289476,
       "name": "Tea Champ",
       "url": "https://open.spotify.com/track/6AuELUc2doFfw6dG3ywwZf"
+    },
+    {
+      "album": {
+        "name": "Tempest",
+        "url": "https://open.spotify.com/album/0JCVaWFdfzUEvOBMAfJzXI"
+      },
+      "artists": [
+        {
+          "name": "Steam Down",
+          "url": "https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        },
+        {
+          "name": "Ahnans\u00e9",
+          "url": "https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296607,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/7qDBCXw48fj85AaJDvyLD9"
     },
     {
       "album": {

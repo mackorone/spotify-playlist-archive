@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-679 songs - 2 day 18 hr 14 min
+680 songs - 2 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Follow \(Max Manie Remix\)](https://open.spotify.com/track/6WkkQXnxsahGrqGLv540AI) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Follow \(Max Manie Remix\)](https://open.spotify.com/album/29nHlh98BX8btGwsApWfih) | 4:52 | 2020-12-24 | 2022-11-09 |
 | [Fragile Star](https://open.spotify.com/track/4Jk3JP8LBArLOOJ5tIPRhs) | [Andy Woldman](https://open.spotify.com/artist/0dKdJTpnoDuWIRBS8Ln3dF), [Katrin Souza](https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf) | [Fragile Star](https://open.spotify.com/album/6N3amu01dB54rKemRUS4GV) | 6:25 | 2021-02-22 | 2021-05-28 |
 | [Free](https://open.spotify.com/track/459MLfXwBxrdjLJiLZfEOa) | [Cusp](https://open.spotify.com/artist/1r4hoXpzODB4wkyWba7EkW) | [Cycle / Free](https://open.spotify.com/album/4fa1YvjUQxoLKScqKIhpKT) | 7:32 | 2021-02-22 | 2021-09-11 |
-| [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 | 2024-10-11 |  |
+| [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 | 2024-10-11 | 2025-03-08 |
 | [Frozen \- Short Version](https://open.spotify.com/track/4ZTkGG6r8Ipqax0iAl46Mq) | [Blindsmyth](https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P) | [Frozen EP](https://open.spotify.com/album/1j5DBaJghkpWSnA75sWHPP) | 3:56 | 2019-08-06\* | 2021-01-18 |
 | [Fuel](https://open.spotify.com/track/4eIP1fVBkhXuyDb8qPT4Qw) | [Brandt Brauer Frick](https://open.spotify.com/artist/29TG40TGDvrOFQZM4adBf7) | [Echo](https://open.spotify.com/album/3DuUCCshIj3IJGISFEVa2f) | 5:37 | 2019-08-06\* | 2020-01-14 |
 | [Further \- Hidden Empire Remix](https://open.spotify.com/track/4BkFVCDaobMOvm56XGdnzQ) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Liu Bei](https://open.spotify.com/artist/5g8huPwwthukeiOFPFfvJ8), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Further EP](https://open.spotify.com/album/0VINHQ0UIRod04uCye1PO2) | 7:11 | 2019-08-22 | 2019-12-03 |
@@ -661,6 +661,7 @@
 | [Waterfront](https://open.spotify.com/track/39btyOP48zWhS95iH8vg8q) | [David Keno](https://open.spotify.com/artist/0cWqRMk3D45eG7PpILb4OL) | [Waterfront](https://open.spotify.com/album/5p8VtaXi9f4YTFaJJ0UaDB) | 6:40 | 2020-08-15 | 2021-05-24 |
 | [Waves of the Past](https://open.spotify.com/track/2oCLA285QlQJnzR9aP6OHb) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Waves of the Past](https://open.spotify.com/album/2UfByHS0EjxscpsLMxg61n) | 5:20 | 2022-04-04 | 2022-04-21 |
 | [We Are Not Alone](https://open.spotify.com/track/71ty7upWSu5JxHcGfWSENY) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [We Are Not Alone](https://open.spotify.com/album/2yakKF1mzcUn6KpowUHtwT) | 6:26 | 2021-05-14 | 2022-07-29 |
+| [We Talk About Dreams](https://open.spotify.com/track/44FdC5CjJJwfecc7BYCE5Q) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [We Talk About Dreams](https://open.spotify.com/album/5GjfIhQtGr2GcbzxHA6yEg) | 6:10 | 2025-03-07 |  |
 | [Weaved Together](https://open.spotify.com/track/2ycW2v85fmjpCTfPdK6pCR) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN), [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7) | [Weaved Together](https://open.spotify.com/album/16op7Wu6WujvSfIB1vAwMN) | 6:14 | 2020-11-28 | 2021-01-15 |
 | [What Are You Waiting For \- Sunrise Mix](https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\) \- EP](https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj) | 3:51 | 2024-12-13 | 2025-03-03 |
 | [What Is Real](https://open.spotify.com/track/6FejG35GjXYmlHwJOdaChF) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv) | [What Is Real / Blisss](https://open.spotify.com/album/7HNywLlITQVZ7cUEFSiO4i) | 3:43 | 2020-04-22 | 2022-07-25 |

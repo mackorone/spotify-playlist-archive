@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "Sunday Sadness",
+        "url": "https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145386,
+      "name": "It's Nice to Feel This Way Again",
+      "url": "https://open.spotify.com/track/59tXrequSEaYqew4Ho1BR5"
+    },
+    {
+      "album": {
         "name": "No Romeo (Deluxe)",
         "url": "https://open.spotify.com/album/1DYZL9YG6FreyTy0uc0HvJ"
       },

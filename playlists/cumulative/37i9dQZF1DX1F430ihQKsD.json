@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Yuki Dreams Again",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Laraw",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -3692,6 +3692,28 @@
       "duration_ms": 172750,
       "name": "Google",
       "url": "https://open.spotify.com/track/5h3mgP97aXfErx9AMUgcrR"
+    },
+    {
+      "album": {
+        "name": "Gordon in the Willows",
+        "url": "https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234454,
+      "name": "Gordon in the Willows",
+      "url": "https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq"
     },
     {
       "album": {
@@ -8830,7 +8852,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 261379,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"

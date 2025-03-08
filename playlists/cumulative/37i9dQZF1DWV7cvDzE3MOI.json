@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Etudes; Pr\u00e9ludes; Polonaises",
+        "url": "https://open.spotify.com/album/6beqQKZ9CiKs8MHUuShzN3"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78466,
+      "name": "24 Preludes, Op. 28: No. 19 in E-Flat Major. Vivace",
+      "url": "https://open.spotify.com/track/2xrdTuS1XLK5iEebMXus8G"
+    },
+    {
+      "album": {
         "name": "Chopin: Preludes",
         "url": "https://open.spotify.com/album/4iYwCjvCuY590kRhaBAHbW"
       },
@@ -200,28 +222,6 @@
       "duration_ms": 87053,
       "name": "24 Pr\u00e9ludes, Op. 28: No. 19 in E-Flat Major",
       "url": "https://open.spotify.com/track/3AmG0JDkqIUuPvIhfZg2V1"
-    },
-    {
-      "album": {
-        "name": "Chopin: Etudes; Pr\u00e9ludes; Polonaises",
-        "url": "https://open.spotify.com/album/6beqQKZ9CiKs8MHUuShzN3"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Maurizio Pollini",
-          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
-        }
-      ],
-      "date_added": "2021-10-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 78466,
-      "name": "24 Pr\u00e9ludes, Op. 28: No. 19 in E-Flat Major. Vivace",
-      "url": "https://open.spotify.com/track/2xrdTuS1XLK5iEebMXus8G"
     },
     {
       "album": {

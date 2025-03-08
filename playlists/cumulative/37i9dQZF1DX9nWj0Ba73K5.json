@@ -811,6 +811,28 @@
     },
     {
       "album": {
+        "name": "Dirt Cheap (Demo)",
+        "url": "https://open.spotify.com/album/7uovaiUY6tB4hlfyuQfq8n"
+      },
+      "artists": [
+        {
+          "name": "Josh Phillips",
+          "url": "https://open.spotify.com/artist/5TxhHYCUoqOugdrEcSIwDj"
+        },
+        {
+          "name": "Original Demos",
+          "url": "https://open.spotify.com/artist/1jQhNAxaUOKGUT01OmmIW8"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245360,
+      "name": "Dirt Cheap (Demo)",
+      "url": "https://open.spotify.com/track/4X9Wn9ijHuGqx14QIhda3P"
+    },
+    {
+      "album": {
         "name": "2017 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp"
       },

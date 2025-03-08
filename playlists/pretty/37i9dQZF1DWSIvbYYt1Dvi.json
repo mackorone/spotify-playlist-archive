@@ -1,15 +1,15 @@
 {
   "description": "o rio que transborda, AULAS do bom menino bk",
-  "num_followers": 1175551,
+  "num_followers": 1175530,
   "original_name": "AULAS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8NjZgAAAACOpyz7C5vJdlNXsxfcBS2f",
+  "snapshot_id": "Z8phfwAAAADSZIfB50SwaorQQ7t8yBMw",
   "tracks": [
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "NUME",
         "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/5na9M4vuGBFxIAQdD3Hg9s"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "PATRONO",
         "url": "https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI"
@@ -77,67 +77,7 @@
       "url": "https://open.spotify.com/track/1rkP1QTDKqKUNkBMqauUz7"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
-      "album": {
-        "name": "Inverno Cigano",
-        "url": "https://open.spotify.com/album/7K1BVkGH4GBm9r7avXPDM6"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Inverno Cigano",
-      "url": "https://open.spotify.com/track/7L2OtqVn0DAunFPEpGyf29"
-    },
-    {
-      "added_at": "2025-03-01 19:43:34",
-      "album": {
-        "name": "PATRONO",
-        "url": "https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI"
-      },
-      "artists": [
-        {
-          "name": "2ZDinizz",
-          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 251001,
-      "name": "Se Eu Pudesse",
-      "url": "https://open.spotify.com/track/0UnVcQR3YU6DDSZ4RCiimj"
-    },
-    {
-      "added_at": "2025-03-01 19:43:34",
-      "album": {
-        "name": "Nunca Tenha Medo",
-        "url": "https://open.spotify.com/album/5DJROt39dDSYnuw80kho6p"
-      },
-      "artists": [
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Nunca Tenha Medo",
-      "url": "https://open.spotify.com/track/3VoOJIr5YuAs2L3XHFWZRB"
-    },
-    {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "F\u00e9rias da Metr\u00f3pole",
         "url": "https://open.spotify.com/album/2zrVQ7cEqAMquEsilCU0U7"
@@ -161,7 +101,95 @@
       "url": "https://open.spotify.com/track/1Yh1BIQoPyH63SUxTGWs6U"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
+      "album": {
+        "name": "Inverno Cigano",
+        "url": "https://open.spotify.com/album/7K1BVkGH4GBm9r7avXPDM6"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Inverno Cigano",
+      "url": "https://open.spotify.com/track/7L2OtqVn0DAunFPEpGyf29"
+    },
+    {
+      "added_at": "2025-03-07 03:01:19",
+      "album": {
+        "name": "PATRONO",
+        "url": "https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI"
+      },
+      "artists": [
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 251001,
+      "name": "Se Eu Pudesse",
+      "url": "https://open.spotify.com/track/0UnVcQR3YU6DDSZ4RCiimj"
+    },
+    {
+      "added_at": "2025-03-07 03:01:19",
+      "album": {
+        "name": "Rap Bom",
+        "url": "https://open.spotify.com/album/0Jw1xflA7TBugdF0BQZ9dQ"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "Jackson Ganga",
+          "url": "https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Rap Bom",
+      "url": "https://open.spotify.com/track/1rAIZVMq28d5xTvbAKjHJR"
+    },
+    {
+      "added_at": "2025-03-07 03:01:19",
+      "album": {
+        "name": "Nunca Tenha Medo",
+        "url": "https://open.spotify.com/album/5DJROt39dDSYnuw80kho6p"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Nunca Tenha Medo",
+      "url": "https://open.spotify.com/track/3VoOJIr5YuAs2L3XHFWZRB"
+    },
+    {
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
@@ -185,7 +213,7 @@
       "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Peita do Coring\u00e3o",
         "url": "https://open.spotify.com/album/02YRoqfpEdkFNwwLpwDvmj"
@@ -213,7 +241,7 @@
       "url": "https://open.spotify.com/track/3efFIMPgqOhupP9mpk9DHG"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Cairo",
         "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
@@ -233,7 +261,7 @@
       "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Ficar Rico Esse Ano",
         "url": "https://open.spotify.com/album/5BTjYmN3eXdGV1uHKgeARb"
@@ -257,23 +285,51 @@
       "url": "https://open.spotify.com/track/44JWBoBnEGNMC8w95HQ1AR"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
-        "name": "Porrad\u00e3o de Muay Thai",
-        "url": "https://open.spotify.com/album/2e0HMDX8z57T8pfgsTB85w"
+        "name": "Poetisas no Topo 4",
+        "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
       },
       "artists": [
         {
-          "name": "Pecaos",
-          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        },
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 144500,
-      "name": "Porrad\u00e3o de Muay Thai",
-      "url": "https://open.spotify.com/track/3eZ4Jh2Qv5oqu0ZmFrIQX1"
+      "duration_ms": 414703,
+      "name": "Poetisas no Topo 4",
+      "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
@@ -293,7 +349,7 @@
       "url": "https://open.spotify.com/track/5YNGlqsKGstyaJilHELAGo"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "TESTEMUNHAS DE TOKIODK",
         "url": "https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA"
@@ -321,7 +377,7 @@
       "url": "https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Poetas no Topo 4",
         "url": "https://open.spotify.com/album/18qyfUQL7yiBIfSGwk8kco"
@@ -393,7 +449,7 @@
       "url": "https://open.spotify.com/track/4w47dntseeMeuLPzFTKKB9"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "OPROPRIO",
         "url": "https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR"
@@ -413,7 +469,7 @@
       "url": "https://open.spotify.com/track/1QD3t3zkwFUdEbMBTApeiZ"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "OPROPRIO",
         "url": "https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR"
@@ -433,35 +489,7 @@
       "url": "https://open.spotify.com/track/0IEVEtKQ4kRgZehxyfUrKS"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
-      "album": {
-        "name": "Rap Bom",
-        "url": "https://open.spotify.com/album/0Jw1xflA7TBugdF0BQZ9dQ"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "Jackson Ganga",
-          "url": "https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Rap Bom",
-      "url": "https://open.spotify.com/track/1rAIZVMq28d5xTvbAKjHJR"
-    },
-    {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "NUME",
         "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
@@ -485,7 +513,7 @@
       "url": "https://open.spotify.com/track/08adMS3hYWRQlYmUwGI5rB"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "MUITO BRABO",
         "url": "https://open.spotify.com/album/6H7CjzXl7ILsfMqs9pyik6"
@@ -509,7 +537,7 @@
       "url": "https://open.spotify.com/track/3QNjS73flaaTBKyxk7E0kL"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
@@ -533,7 +561,7 @@
       "url": "https://open.spotify.com/track/4zRkxMnP9wmAPBPPU0Uds8"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Cartier Santos Dumont",
         "url": "https://open.spotify.com/album/3QXwSeMoEEnD8QHNjfFfG4"
@@ -557,7 +585,7 @@
       "url": "https://open.spotify.com/track/173oBdI5W1ucG1MUdAMsor"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Nunca Foi Sorte",
         "url": "https://open.spotify.com/album/08UroWWdsjAgraYexnmtDx"
@@ -585,7 +613,7 @@
       "url": "https://open.spotify.com/track/2s7vtyL03FsuzbR2CXWIsc"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Abaixo de Zero: Hello Hell",
         "url": "https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT"
@@ -601,7 +629,7 @@
       "url": "https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Peso do Mundo",
         "url": "https://open.spotify.com/album/3m2BryLnwL0MBAKx7PGQ7S"
@@ -633,7 +661,7 @@
       "url": "https://open.spotify.com/track/2wcv3BDS3izeQpJt7vyf03"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm"
@@ -665,7 +693,7 @@
       "url": "https://open.spotify.com/track/7Cfmo0VnZPTxWNKvGilixA"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "O Veneno do Escorpi\u00e3o V.2",
         "url": "https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4"
@@ -689,7 +717,7 @@
       "url": "https://open.spotify.com/track/4L1LMMhee5fvuLLpOtwq4j"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Prata",
         "url": "https://open.spotify.com/album/4AKcYw6MdkS7Zbxhc7pnvo"
@@ -709,7 +737,7 @@
       "url": "https://open.spotify.com/track/2sOvuDxLamSIUFYztPAadB"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "FETICHE",
         "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
@@ -725,7 +753,7 @@
       "url": "https://open.spotify.com/track/6hd5MpG4Wsw8lzGupFegck"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Melhor Momento (Deluxe)",
         "url": "https://open.spotify.com/album/3Buob72sU30zOIsUz6JuqJ"
@@ -749,7 +777,7 @@
       "url": "https://open.spotify.com/track/0tCBJskPo5wOMcXMmJbHFb"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "O MENINO QUE QUERIA SER DEUS",
         "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
@@ -773,7 +801,7 @@
       "url": "https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
@@ -797,7 +825,7 @@
       "url": "https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "BOOMBAP PERFEITO",
         "url": "https://open.spotify.com/album/5BLeGawegQZ8zquNP8hpiu"
@@ -821,7 +849,7 @@
       "url": "https://open.spotify.com/track/5OrfScVAsdqEgo4Og8ebrv"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "ABAIXO DO RADAR",
         "url": "https://open.spotify.com/album/6ap64VE60iIhMk2TAA1ikK"
@@ -845,7 +873,7 @@
       "url": "https://open.spotify.com/track/1FBXdEPpYnaoNAljJPTeFQ"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "HIGHBOYZ",
         "url": "https://open.spotify.com/album/0LXnhPYep0AOA1c7BFg7Vm"
@@ -869,7 +897,7 @@
       "url": "https://open.spotify.com/track/4WwJ4xNXqRjNJOXYm38QNa"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "SKYLINE",
         "url": "https://open.spotify.com/album/30vHn0s0oD01zHExU2JY2k"
@@ -897,7 +925,7 @@
       "url": "https://open.spotify.com/track/2qn8UgOBzaKF3luvJxDWWp"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Dinero - Spotify Singles",
         "url": "https://open.spotify.com/album/550HfEeA8nIJAquFVlejI8"
@@ -921,7 +949,7 @@
       "url": "https://open.spotify.com/track/3f75BmT1ClAVyjjFEw6sws"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "M\u00fasicas pra Sair na M\u00e3o, Vol. 1",
         "url": "https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby"
@@ -953,7 +981,7 @@
       "url": "https://open.spotify.com/track/6pgfR3PbRPj2GFgKnClEOf"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
@@ -981,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2I930q22UY4zvVnpkSgsfD"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Mary Madalena",
         "url": "https://open.spotify.com/album/08TqIiclYI5jy7Dbu1bECt"
@@ -997,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2fRo1ftUovGHSqDSVi9YcA"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Feito \u00e0 M\u00e3o",
         "url": "https://open.spotify.com/album/3ZgrISmo7iUD3dEMbmsS9g"
@@ -1025,7 +1053,7 @@
       "url": "https://open.spotify.com/track/7y4DDeaZivEXjUkJbwaiel"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm"
@@ -1057,7 +1085,7 @@
       "url": "https://open.spotify.com/track/5Mlq6dGC4QUk8p07HLxsMt"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
@@ -1081,7 +1109,7 @@
       "url": "https://open.spotify.com/track/7x9ZGBLZKTPplZIApLJ3Rz"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "M.A.D 2",
         "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
@@ -1109,7 +1137,7 @@
       "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Lugar de Fala I verso 01",
         "url": "https://open.spotify.com/album/4PvHihY9VToqEfCwng5bFh"
@@ -1125,7 +1153,7 @@
       "url": "https://open.spotify.com/track/0VTQpGxq8WpKyLe777Ijxf"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "N\u00e3o Rimo Por Grammys",
         "url": "https://open.spotify.com/album/4htJju9wpP413iOJHuOix1"
@@ -1153,7 +1181,7 @@
       "url": "https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "OBRIGADO MAINSTREAM",
         "url": "https://open.spotify.com/album/69lrnLlq9tJvyfTbQdCaYM"
@@ -1173,7 +1201,7 @@
       "url": "https://open.spotify.com/track/3LFSfqJe7t40fcJybYLJ1L"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Asf\u00e1ltico",
         "url": "https://open.spotify.com/album/6qW68sFJuM9nQqGGjcK1v1"
@@ -1201,7 +1229,7 @@
       "url": "https://open.spotify.com/track/5pgjvAsrgpfciER76jnHMj"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Pensar Direito",
         "url": "https://open.spotify.com/album/0qWbg7ya1AZmhfdOUir4Fj"
@@ -1225,7 +1253,7 @@
       "url": "https://open.spotify.com/track/1ui0q6tFro602g92piLjQF"
     },
     {
-      "added_at": "2025-03-01 19:43:34",
+      "added_at": "2025-03-07 03:01:19",
       "album": {
         "name": "Sem Bala Contada",
         "url": "https://open.spotify.com/album/4WlO7hqFv8sn7QYJ6Dm03S"

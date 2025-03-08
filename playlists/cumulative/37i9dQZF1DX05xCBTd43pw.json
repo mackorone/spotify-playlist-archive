@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 182817,
       "name": "Ashes By The Morning",
       "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 197993,
       "name": "bad in bed",
       "url": "https://open.spotify.com/track/5VEbufushgdxy4ABk3zLgb"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 232405,
       "name": "Ein bisschen Frieden",
       "url": "https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 170146,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 180478,
       "name": "Foto",
       "url": "https://open.spotify.com/track/6zrEOdAyx1vPjSFFgv8pEg"
@@ -2175,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "Hearts Lust",
+        "url": "https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167443,
+      "name": "moonflower",
+      "url": "https://open.spotify.com/track/2cCdH558afXwJ38FkWRNmB"
+    },
+    {
+      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX"
       },
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 183753,
       "name": "Paperhearts",
       "url": "https://open.spotify.com/track/2g32bDB4sA3zGuQ5iyqewv"
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 213494,
       "name": "Someone",
       "url": "https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 177317,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
@@ -3172,7 +3190,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 189022,
       "name": "The Right to Cry",
       "url": "https://open.spotify.com/track/5YzUTY6zW8TFGfGsknq9vQ"
@@ -3352,7 +3370,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 194270,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4VzLCmWpoRxLUNtTw2ybgV"
@@ -3442,7 +3460,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 163712,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"

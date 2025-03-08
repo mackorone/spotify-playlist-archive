@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: timelesz
 
-465 songs - 1 day 2 hr 20 min
+467 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Supernova](https://open.spotify.com/track/2JkRyGtb7dh3OVQKYbCs2L) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [Supernova](https://open.spotify.com/album/3PpQDtKU1WQgHGjDWnWxNV) | 3:14 | 2025-03-06 |  |
 | [surge \(single edit\)](https://open.spotify.com/track/2QmfJsRUsAlcW9wL0MiA6f) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY), [Takumi Kawanishi](https://open.spotify.com/artist/3O8CN28tWSzQszV5K3pi2h) | [surge \(single edit\)](https://open.spotify.com/album/5cHhtcIfWnqNj35VoCWSAw) | 6:37 | 2024-04-30 | 2024-06-13 |
 | [Swan's War](https://open.spotify.com/track/6NjrACdaW9CbacxY6OifUA) | [BMSG SKY](https://open.spotify.com/artist/1o1clsxbVAERVsIpwkg5UY), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [RUI](https://open.spotify.com/artist/2wLXzAFAYWE9KilQt7Zpg2) | [Swan's War](https://open.spotify.com/album/6o5SKW2ZlFK7on9jiuPY7U) | 3:19 | 2024-09-17 | 2024-10-25 |
+| [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 | 2025-03-06 |  |
 | [Sweet Like](https://open.spotify.com/track/5AUVeUcBYoL7SGd8ZWMfqK) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Sweet Like](https://open.spotify.com/album/6dkrgJVu2rfIE8iPpUyIoG) | 2:26 | 2025-03-06 |  |
 | [Sweetest Tune](https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Sweetest Tune](https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc) | 3:25 | 2024-06-11 | 2025-01-17 |
 | [Sweets](https://open.spotify.com/track/073JEUkbq7Obqcl0o2zaTU) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [Sweets](https://open.spotify.com/album/16Dzbyra2qYvkYQu3hMmPN) | 2:51 | 2024-07-30 | 2024-09-11 |
@@ -402,6 +403,7 @@
 | [Wonder Woman](https://open.spotify.com/track/63Z1plOzb8d2Ke0ypFkz2g) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Wonder Woman](https://open.spotify.com/album/4HPznSYTy5MTam9Ug4dHoS) | 2:38 | 2025-02-18 |  |
 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 | 2024-10-01 | 2025-03-07 |
 | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/track/4RH0fMDqhRYglSdEktBREs) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/album/6kcJmk9ijWMla2SKUWEzrq) | 5:45 | 2024-01-19 | 2024-03-17 |
+| [YELLOW](https://open.spotify.com/track/7dOvUyWUlpZP4UjwQY9fzk) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [PLEASURE](https://open.spotify.com/album/6ChUNqlCsnJEOf1PyRZm48) | 3:11 | 2025-03-06 |  |
 | [YG](https://open.spotify.com/track/69DgzXRvRI0YHz6UBv6vjK) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [YG](https://open.spotify.com/album/2UjkJVkg3KwglkkzGvRMWo) | 3:52 | 2024-06-12 | 2024-06-19 |
 | [YIN YANG](https://open.spotify.com/track/6Pyq7yHGdS2irt6PMVm1Ml) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [YIN YANG](https://open.spotify.com/album/1gwgMM45BC0DLxTwwLm5pW) | 3:09 | 2024-07-09 | 2024-07-31 |
 | [YO MA SUNSHINE](https://open.spotify.com/track/5B70iJSr2BaCm1WJvBo2fS) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [YO MA SUNSHINE](https://open.spotify.com/album/4hBZeFNtTuGX89VFdsHevj) | 3:20 | 2024-02-09 | 2024-02-21 |

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-791 songs - 1 day 11 hr 43 min
+792 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Balkan's note](https://open.spotify.com/track/7kS133srGVKhP0pcpCakvh) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA) | [Balkan's note](https://open.spotify.com/album/5fN5rupmALg7QxMiPvfw2o) | 3:45 | 2021-12-23 | 2022-07-26 |
 | [Barefoot](https://open.spotify.com/track/3PYn6FdmTO1qzQc1QE97sM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Barefoot](https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj) | 2:40 | 2024-06-07 |  |
 | [bay](https://open.spotify.com/track/0fTKmtZaWDLDl40LSzug3v) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [bay](https://open.spotify.com/album/5WP2xh5FcWDrsKnNHMGVQR) | 3:12 | 2021-12-23 | 2022-07-29 |
-| [Beat Diary 917](https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x) | [16FLIP](https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT) | [16FLIP \-Atomosphere'22\-](https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH) | 0:45 | 2022-05-26 |  |
+| [Beat Diary 917](https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x) | [16FLIP](https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT) | [16FLIP \-Atomosphere'22\-](https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH) | 0:45 | 2022-05-26 | 2025-03-08 |
 | [Bedroom](https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_1](https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs) | 1:16 | 2021-12-23 |  |
 | [Before The Dawn](https://open.spotify.com/track/5I6LbB47jbWkDOzKOrUNlF) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Before The Dawn](https://open.spotify.com/album/1dddOp0aC7pN0Vh7f1GKTK) | 1:15 | 2021-12-23 | 2022-07-25 |
 | [beginning](https://open.spotify.com/track/0o3doNBnx1bZ1jwC1Ctd9l) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [beginning](https://open.spotify.com/album/5ghXbPt9oQ8WbZKstyKDfR) | 2:32 | 2023-08-10 | 2024-02-22 |
@@ -441,6 +441,7 @@
 | [montage](https://open.spotify.com/track/1xnY2Avak2cLTJ0Zpyk1Qe) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [montage](https://open.spotify.com/album/4gtPolrbZbtXKeDxYZJa1s) | 2:32 | 2022-06-23 | 2022-07-29 |
 | [Mood Ring](https://open.spotify.com/track/1szbxIruSyCYMja99f2OGW) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Mood Ring](https://open.spotify.com/album/7sjSK2BzkjZphjdMmkhiYJ) | 3:39 | 2023-03-02 | 2023-03-04 |
 | [Mood Ring](https://open.spotify.com/track/2wsO3NnI1LtUO2fAqb7tY9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Mood Ring](https://open.spotify.com/album/5b8LIdYst2iRT0fkLpeHc8) | 3:39 | 2023-03-02 | 2023-05-09 |
+| [Moon](https://open.spotify.com/track/2XilllM3LNVQPvCrOX749W) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Nahokimama](https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3) | [Scene](https://open.spotify.com/album/6YcPnmN692PwIMCe7RcCor) | 3:12 | 2025-03-06 |  |
 | [Moon Gazing](https://open.spotify.com/track/3trUWQLZYKSxZPwqhozd4d) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU), [Hanae Sakuyama](https://open.spotify.com/artist/0rg9I9507vQXmmfZquZ7oG) | [Moon Gazing](https://open.spotify.com/album/2zrgZOi7EUgwmmC8G2ee5G) | 4:14 | 2021-12-23 | 2022-01-28 |
 | [Moon Prairie](https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Moon Prairie](https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a) | 1:31 | 2022-02-17 | 2024-08-18 |
 | [Moon Walk](https://open.spotify.com/track/3YwotDcCJreaemW9Zb2PP8) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Moon Walk](https://open.spotify.com/album/5KUtHuA4wzJlbgBSdS81TB) | 2:54 | 2024-02-27 | 2024-06-15 |

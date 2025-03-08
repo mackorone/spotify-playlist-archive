@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. On cover: Tim Hecker",
+  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. On cover: JakoJako",
   "name": "New Ambient",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 437138,
       "name": "#3 (Rhubarb)",
       "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
+      "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "album": {
@@ -176,7 +194,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 184000,
       "name": "12:09pm (Alaskan Tapes Remix)",
       "url": "https://open.spotify.com/track/7oxgt2bH2qvJI7zJmi3s6k"
@@ -3142,7 +3160,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 266558,
       "name": "Blackbox Life Recorder 21f",
       "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
@@ -3363,6 +3381,28 @@
     },
     {
       "album": {
+        "name": "Breathing (Short Mix)",
+        "url": "https://open.spotify.com/album/10HmA4JcZrUufXF8zouONL"
+      },
+      "artists": [
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        },
+        {
+          "name": "Mario Hammer And The Lonely Robot",
+          "url": "https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Breathing - Short Mix",
+      "url": "https://open.spotify.com/track/5cneBSnvxKVhdDErX3TWWp"
+    },
+    {
+      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
       },
@@ -3524,6 +3564,24 @@
       "duration_ms": 386754,
       "name": "Bucolic Architecture - Flug 8 Remix",
       "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
+    },
+    {
+      "album": {
+        "name": "Buffalo",
+        "url": "https://open.spotify.com/album/6yvzNAgiveypuCnMbVnhlZ"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149782,
+      "name": "Buffalo",
+      "url": "https://open.spotify.com/track/6YG169eKjRN0bwwyHxa5MF"
     },
     {
       "album": {
@@ -5688,7 +5746,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 711466,
       "name": "DINORWIC",
       "url": "https://open.spotify.com/track/36ZmV6roe8W8sVlZbvGZd9"
@@ -5862,7 +5920,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 184120,
       "name": "Doff",
       "url": "https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB"
@@ -5902,6 +5960,24 @@
       "duration_ms": 186321,
       "name": "Don't Forget",
       "url": "https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N"
+    },
+    {
+      "album": {
+        "name": "IN/OUT",
+        "url": "https://open.spotify.com/album/0ihnKGaNWwZPDE50WuyP8b"
+      },
+      "artists": [
+        {
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97999,
+      "name": "DONDE ALGUNA VEZ EXISTI\u00d3 ALGO",
+      "url": "https://open.spotify.com/track/2JsYLpVHzfuqnRInfoNy7P"
     },
     {
       "album": {
@@ -7557,6 +7633,24 @@
     },
     {
       "album": {
+        "name": "drift (ambient remixes)",
+        "url": "https://open.spotify.com/album/5ukXJo5pYLBnfzatdJpwDH"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229415,
+      "name": "fields of forever - helios rework",
+      "url": "https://open.spotify.com/track/0eE1sEnpryJdapFNbMm9Ox"
+    },
+    {
+      "album": {
         "name": "bt002 : self hypnosis tape",
         "url": "https://open.spotify.com/album/48NmaNltuqYFPoTDmBNG7L"
       },
@@ -8476,7 +8570,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 160476,
       "name": "Gentle Hum",
       "url": "https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs"
@@ -9006,6 +9100,24 @@
       "duration_ms": 223200,
       "name": "Green Guardian Deity",
       "url": "https://open.spotify.com/track/3Kj4TJ2P0QAeWkdF9wFp6Y"
+    },
+    {
+      "album": {
+        "name": "Grey Interiors",
+        "url": "https://open.spotify.com/album/5mIWrPzuLBpWL4oLGDIBHB"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1241448,
+      "name": "Grey Interiors",
+      "url": "https://open.spotify.com/track/2ofqsikXLUtWhsO9OsjSyr"
     },
     {
       "album": {
@@ -9914,7 +10026,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 292000,
       "name": "If you love solitude, you don\u2019t love freedom",
       "url": "https://open.spotify.com/track/68ehun5XeirwMPnwTSyefV"
@@ -10469,6 +10581,24 @@
     },
     {
       "album": {
+        "name": "it's useless to grieve what could've been",
+        "url": "https://open.spotify.com/album/6Ky8dfEJHvizScRVdIkyhe"
+      },
+      "artists": [
+        {
+          "name": "LochHaven",
+          "url": "https://open.spotify.com/artist/5u9yfFjiKlQJft9MBAcRcr"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130302,
+      "name": "it's useless to grieve what could've been",
+      "url": "https://open.spotify.com/track/5JuEw7SHbgFdHiDGqIjuau"
+    },
+    {
+      "album": {
         "name": "Archipelago: Source Materials",
         "url": "https://open.spotify.com/album/47so72VqSKQJ8sW10RtJGe"
       },
@@ -10876,6 +11006,24 @@
       "duration_ms": 160441,
       "name": "Kommissar Brenkstrupp (Main Titles)",
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
+      "album": {
+        "name": "Kumquat",
+        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196296,
+      "name": "Kumquat",
+      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
     },
     {
       "album": {
@@ -11291,6 +11439,24 @@
     },
     {
       "album": {
+        "name": "Duality Pt 2 Peace",
+        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
+      },
+      "artists": [
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265480,
+      "name": "Let Love Be",
+      "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
+    },
+    {
+      "album": {
         "name": "Library Fields",
         "url": "https://open.spotify.com/album/0X6nasyqM34WZzrxTAv6I8"
       },
@@ -11342,6 +11508,32 @@
       "duration_ms": 263580,
       "name": "LIFE, LIFE",
       "url": "https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW"
+    },
+    {
+      "album": {
+        "name": "Light Bed (Circle 51)",
+        "url": "https://open.spotify.com/album/1RmzyazHty7pPURWu2CFir"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Peia",
+          "url": "https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275568,
+      "name": "Light Bed (Circle 51)",
+      "url": "https://open.spotify.com/track/4qnsORGXJJzD5bw21ec6ck"
     },
     {
       "album": {
@@ -11794,7 +11986,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 354306,
       "name": "Love And The Framed Insects",
       "url": "https://open.spotify.com/track/3uK1I2fCTIvVyRnkcJRuYf"
@@ -13531,6 +13723,28 @@
     },
     {
       "album": {
+        "name": "CORPO MUSIC",
+        "url": "https://open.spotify.com/album/3QbocxxB0TB8YA6bnJwAry"
+      },
+      "artists": [
+        {
+          "name": "Palazzi D'Oriente",
+          "url": "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
+        },
+        {
+          "name": "Giulia Bersani",
+          "url": "https://open.spotify.com/artist/0ZXNX5qRDA5XPy23u1RFIk"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76250,
+      "name": "Nails and Skin",
+      "url": "https://open.spotify.com/track/1NlzYIimn7ywlzSve3ZWNA"
+    },
+    {
+      "album": {
         "name": "Kingen",
         "url": "https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf"
       },
@@ -13728,6 +13942,24 @@
       "duration_ms": 503313,
       "name": "Night Horns (edit)",
       "url": "https://open.spotify.com/track/3N8r3G6oEM125249xMIsPV"
+    },
+    {
+      "album": {
+        "name": "Bolted (Deconstructed)",
+        "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "Night Sculpture - Deconstructed",
+      "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
     },
     {
       "album": {
@@ -15408,7 +15640,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 642066,
       "name": "PHANTOM BRICKWORKS VII",
       "url": "https://open.spotify.com/track/5Bxn4PN46l8nemHBEEd3RJ"
@@ -16329,6 +16561,24 @@
     },
     {
       "album": {
+        "name": "Redwood Resonance",
+        "url": "https://open.spotify.com/album/5hr45RQZOrpK63LuIP6dgX"
+      },
+      "artists": [
+        {
+          "name": "Dianna Lopez",
+          "url": "https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "Redwood Resonance",
+      "url": "https://open.spotify.com/track/4yyZnLXwIcoAILsFL3OaHr"
+    },
+    {
+      "album": {
         "name": "Reflection (Excerpt)",
         "url": "https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av"
       },
@@ -16388,7 +16638,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 100172,
       "name": "Regentag",
       "url": "https://open.spotify.com/track/2SKuIX3Gfg4K8aKoY9Z7k0"
@@ -18492,7 +18742,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 341973,
       "name": "Space - Mind Games Meditation Mix / Binaural \u223fTheta Waves\u223f 8Hz",
       "url": "https://open.spotify.com/track/6p3DdXq6jn5uVOaSGZuSFm"
@@ -18716,7 +18966,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 714769,
       "name": "Spells (Paris)",
       "url": "https://open.spotify.com/track/7zz9W3JMe64DCqkM9pnSD3"
@@ -19686,7 +19936,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 182760,
       "name": "Tear Trails",
       "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
@@ -22556,7 +22806,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 297386,
       "name": "V\u012aS - Aho Ssan Reinterpretation",
       "url": "https://open.spotify.com/track/2DfpVUVBu8YIFos9ZfMs4V"

@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Deus \u00c9 Superior",
+        "url": "https://open.spotify.com/album/4dMjH6TU7dMXSXjWL9QTCT"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180218,
+      "name": "Deus \u00c9 Superior",
+      "url": "https://open.spotify.com/track/1SVncvrNzvFyFH2XX4lXz0"
+    },
+    {
+      "album": {
         "name": "Confian\u00e7a",
         "url": "https://open.spotify.com/album/5lYrNwyDmUG9OYVzeaTcHj"
       },
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 206010,
       "name": "N\u00e3o e Fake News - Ao Vivo",
       "url": "https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN"
@@ -1222,6 +1240,28 @@
       "duration_ms": 336796,
       "name": "O Pr\u00f3digo Vai Voltar",
       "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
+    },
+    {
+      "album": {
+        "name": "Olha Eu Aqui",
+        "url": "https://open.spotify.com/album/02aqcp4nVGbYoujee8jXSy"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Gretter Records",
+          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286886,
+      "name": "Olha Eu Aqui",
+      "url": "https://open.spotify.com/track/4S5zR1JT76yoWLN6uCT67E"
     },
     {
       "album": {
@@ -1468,7 +1508,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 300418,
       "name": "Se V\u00f3s Baterdes, Ele Vos Abre",
       "url": "https://open.spotify.com/track/19smAbcgmDSHlrRLV7wHFy"

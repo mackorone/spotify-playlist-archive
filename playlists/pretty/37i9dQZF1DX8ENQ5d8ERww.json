@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12462,
+  "num_followers": 12465,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
-        "name": "Glanton Gang",
-        "url": "https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef"
-      },
-      "artists": [
-        {
-          "name": "Tommy Vercetti",
-          "url": "https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3"
-        },
-        {
-          "name": "Dezmond Dez",
-          "url": "https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Glasm\u00f6nsch",
-      "url": "https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
         "name": "10 Tracks - Vol. 4",
         "url": "https://open.spotify.com/album/1ZAiyo0VLkq8hO4Ev6mEK0"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 200800,
       "name": "Kei Respekt",
       "url": "https://open.spotify.com/track/0a59i5elndo4piHsthVLAJ"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "Glanton Gang",
+        "url": "https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef"
+      },
+      "artists": [
+        {
+          "name": "Tommy Vercetti",
+          "url": "https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3"
+        },
+        {
+          "name": "Dezmond Dez",
+          "url": "https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Glasm\u00f6nsch",
+      "url": "https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn"
     },
     {
       "added_at": "2024-12-09 12:11:25",
@@ -403,6 +403,38 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
+      },
+      "artists": [
+        {
+          "name": "Tinguely d\u00e4 Chn\u00e4cht",
+          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Mini Homeboys",
+      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "Golden Greats",
+        "url": "https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Mais o\u00fa? - Single Version",
+      "url": "https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
         "name": "Chill",
         "url": "https://open.spotify.com/album/2f5D1RmL2eg6iWFZPjPBxF"
       },
@@ -427,34 +459,22 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
-        "name": "Golden Greats",
-        "url": "https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw"
+        "name": "Fl\u00f6chted",
+        "url": "https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek"
       },
       "artists": [
         {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Mais o\u00fa? - Single Version",
-      "url": "https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
-      },
-      "artists": [
+          "name": "GeilerAsDu",
+          "url": "https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6"
+        },
         {
-          "name": "Tinguely d\u00e4 Chn\u00e4cht",
-          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
+          "name": "Manillio",
+          "url": "https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul"
         }
       ],
-      "duration_ms": 252440,
-      "name": "Mini Homeboys",
-      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
+      "duration_ms": 241333,
+      "name": "Mond",
+      "url": "https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD"
     },
     {
       "added_at": "2024-12-09 12:11:25",
@@ -475,26 +495,6 @@
       "duration_ms": 242293,
       "name": "L\u00e4benslauf",
       "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Fl\u00f6chted",
-        "url": "https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek"
-      },
-      "artists": [
-        {
-          "name": "GeilerAsDu",
-          "url": "https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6"
-        },
-        {
-          "name": "Manillio",
-          "url": "https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Mond",
-      "url": "https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD"
     },
     {
       "added_at": "2024-12-09 12:11:25",

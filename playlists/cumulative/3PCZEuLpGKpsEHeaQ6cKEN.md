@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D, NORTH
 
-1,312 songs - 2 day 22 hr 6 min
+1,313 songs - 2 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,6 +748,7 @@
 | [Muted Mind](https://open.spotify.com/track/1G37NE6B3QmvPnWas85SIj) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Muted Mind](https://open.spotify.com/album/0G9etUl69fd67tM74zfJ6y) | 3:26 | 2024-06-20 | 2024-10-19 |
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-02-16 | 2023-06-23 |
 | [My Head](https://open.spotify.com/track/7fHCJ5esPbjrOf9yJPbYLr) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Detention](https://open.spotify.com/album/4wrHptimsWJK8Z01bsnQ9s) | 2:35 | 2024-06-13 | 2024-10-19 |
+| [My House Is Your House](https://open.spotify.com/track/2w1mC5MeXK92K5Afe0vv6v) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [My House Is Your House](https://open.spotify.com/album/2rR4XQdbZxdTjE8b5KgLiX) | 2:43 | 2025-03-07 |  |
 | [My Love \- Day Mix](https://open.spotify.com/track/0JnKAxW7fp1ssH1RGqMRPG) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [LEØN](https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB) | [My Love \(Day Mix\)](https://open.spotify.com/album/6lNKbjPEddn47eTTwpGxAQ) | 2:26 | 2024-01-18 | 2024-08-31 |
 | [Need U \(100%\)](https://open.spotify.com/track/42nhO9c82Co5mwhi3pdkMJ) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm) | [Need U \(100%\)](https://open.spotify.com/album/22peTNk6tJk5Z4ifWJb9qj) | 2:29 | 2024-04-19 | 2024-10-19 |
 | [Need You Now](https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Need You Now](https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc) | 2:40 | 2023-08-24 | 2024-04-26 |

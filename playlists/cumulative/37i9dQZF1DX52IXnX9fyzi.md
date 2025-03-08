@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-515 songs - 22 hr 15 min
+516 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2022-04-14 | 2024-03-05 |
 | [Dans](https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Dans](https://open.spotify.com/album/5Sb7Qg4vPm2ximin3n4ypK) | 2:22 | 2022-04-14 | 2024-02-15 |
 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2022-04-14 | 2024-02-15 |
+| [Data Stream](https://open.spotify.com/track/1V0hIdLiePAzR7nFQ6TPUt) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Data Stream](https://open.spotify.com/album/6FhIvJlDLlmbRiP2yjacrg) | 2:48 | 2025-03-07 |  |
 | [Deep Blue](https://open.spotify.com/track/138hYSG5oyEk6NwpY9VYrB) | [John Lenehan](https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9) | [Deep Blue](https://open.spotify.com/album/3K49baBBJqPvxj5u5WtfuW) | 2:14 | 2023-07-18 |  |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [Departure](https://open.spotify.com/track/1I9RJCEMEe76p5NtbWGSlS) | [Judy Baker](https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4) | [Departure](https://open.spotify.com/album/7LVDfltFH3FETGCYJU56zO) | 2:27 | 2024-03-19 |  |

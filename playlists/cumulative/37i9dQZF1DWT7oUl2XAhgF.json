@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Can you feel it?",
+        "url": "https://open.spotify.com/album/2agPyWbw0eb0ha480fX3cC"
+      },
+      "artists": [
+        {
+          "name": "Cherrykim",
+          "url": "https://open.spotify.com/artist/2oOKucHCVvvG0s9F2AdG8l"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "Can you feel it?",
+      "url": "https://open.spotify.com/track/3naURs2ms3MFYcE61bBrSC"
+    },
+    {
+      "album": {
         "name": "Can't Hide It",
         "url": "https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6"
       },
@@ -3988,7 +4006,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 167658,
       "name": "I\u2019ll Be Loving You",
       "url": "https://open.spotify.com/track/1L2ynW4tupwphXv7z7aOgL"

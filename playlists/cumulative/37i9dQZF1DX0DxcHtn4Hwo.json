@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 127689,
       "name": "Bedtime",
       "url": "https://open.spotify.com/track/1BjkZQFGbmIknIZHh2Pp6N"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 115958,
       "name": "Bedtime Serenade",
       "url": "https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh"
@@ -3418,7 +3418,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 81812,
       "name": "Dreamer's Haven",
       "url": "https://open.spotify.com/track/2N0RwdlQ5HnnAPFcLcfHVY"
@@ -6050,7 +6050,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 104500,
       "name": "Hush Little Baby",
       "url": "https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI"
@@ -6590,7 +6590,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 103000,
       "name": "If You're Happy and You Know It",
       "url": "https://open.spotify.com/track/3qV8nIm0LTD8PD4VD87P5L"
@@ -7886,7 +7886,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 119000,
       "name": "Little Boy Blue",
       "url": "https://open.spotify.com/track/3F447o8m3RaD1id4WkKzhA"
@@ -8084,7 +8084,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 121948,
       "name": "Little Morning Bell",
       "url": "https://open.spotify.com/track/4SDUlsB2L4I3pEHqzOP7Tl"
@@ -8300,7 +8300,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 99659,
       "name": "Love At First Sight",
       "url": "https://open.spotify.com/track/0BM0YAIxjt9WsFysd8wHKr"
@@ -9650,7 +9650,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 95250,
       "name": "My Pink Baloon",
       "url": "https://open.spotify.com/track/6BDbtRoNOapsFeJQGE5fmv"
@@ -10046,10 +10046,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 81739,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/3uC8zTgiujbXzfjqDWIqVa"
+    },
+    {
+      "album": {
+        "name": "Nightingales",
+        "url": "https://open.spotify.com/album/7gOBRAV2KjPCDCz146QZBD"
+      },
+      "artists": [
+        {
+          "name": "Caprice Henry",
+          "url": "https://open.spotify.com/artist/3MJcT8HEZJ8QsSqgQd2A7G"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "Nightingales",
+      "url": "https://open.spotify.com/track/6XAaEIck50dvq916jorgDQ"
     },
     {
       "album": {
@@ -10377,6 +10395,24 @@
     },
     {
       "album": {
+        "name": "On the bridge of Avignon",
+        "url": "https://open.spotify.com/album/4pv6fAPFwe8rXR6zRYjQ1S"
+      },
+      "artists": [
+        {
+          "name": "Pete Morton",
+          "url": "https://open.spotify.com/artist/4ZPuSOZorbyFg7JrwV1rxz"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61374,
+      "name": "On the bridge of Avignon",
+      "url": "https://open.spotify.com/track/1Er4WgzhppOWFlmflkbwUL"
+    },
+    {
+      "album": {
         "name": "On the Night You Were Born",
         "url": "https://open.spotify.com/album/2t9UIgBagllTRvR8Yb5mjj"
       },
@@ -10586,7 +10622,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 101953,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/76uTqyHnM2QeuQRH45nN60"
@@ -11591,6 +11627,24 @@
     },
     {
       "album": {
+        "name": "Rock a Bye Lil Guy",
+        "url": "https://open.spotify.com/album/4yUjotAG1pLh9EgM3LpvSN"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93286,
+      "name": "Rock a Bye Lil Guy",
+      "url": "https://open.spotify.com/track/1nN1dgmayLzp5278FfAxdg"
+    },
+    {
+      "album": {
         "name": "Rock-A-Bye Baby",
         "url": "https://open.spotify.com/album/6puAfiomzdgM4jcMp28PRV"
       },
@@ -12502,7 +12556,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 71257,
       "name": "Sleepy Clouds",
       "url": "https://open.spotify.com/track/7fMrzJgBQSprNEV7iFI68u"
@@ -12776,6 +12830,24 @@
       "duration_ms": 128449,
       "name": "Slumberhino",
       "url": "https://open.spotify.com/track/78xpirJLnmvnpss75W4hoK"
+    },
+    {
+      "album": {
+        "name": "Slumberland",
+        "url": "https://open.spotify.com/album/7bim9bZHYY8uJSG1ngjIWm"
+      },
+      "artists": [
+        {
+          "name": "Jeb Lucky",
+          "url": "https://open.spotify.com/artist/1sHdqBnwuUJSz1fef6Jk0E"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79140,
+      "name": "Slumberland",
+      "url": "https://open.spotify.com/track/5URb46VpZWLQ1DFAXAo6m8"
     },
     {
       "album": {
@@ -13096,7 +13168,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 130022,
       "name": "Somewhere Out There",
       "url": "https://open.spotify.com/track/6OpoMm8kqOODt7ISNENERJ"
@@ -13460,6 +13532,24 @@
       "duration_ms": 111915,
       "name": "Stories Under The Moon",
       "url": "https://open.spotify.com/track/2mZfjtYBHjsrGmCeglWmnf"
+    },
+    {
+      "album": {
+        "name": "Strawberry Dreams",
+        "url": "https://open.spotify.com/album/1ewCIxf8ghLFrC7OEFB6wT"
+      },
+      "artists": [
+        {
+          "name": "Milo Creek",
+          "url": "https://open.spotify.com/artist/33aBwwHlIzRWzNoOAM39LF"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115848,
+      "name": "Strawberry Dreams",
+      "url": "https://open.spotify.com/track/62NApR4m3AoNBWt5ib2QKR"
     },
     {
       "album": {

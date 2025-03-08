@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Z9",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DIAMOND MQT",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 240000,
       "name": "Blind",
       "url": "https://open.spotify.com/track/66qNGo0bWsOln5hKY7Rmz0"
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 191363,
       "name": "FREESTYL6",
       "url": "https://open.spotify.com/track/63hJL5DRFOLBIVYz1KCazC"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 112116,
       "name": "Good Head",
       "url": "https://open.spotify.com/track/6MnKXAGE0cvNCui5AvXCRo"
@@ -3379,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "No more lie",
+        "url": "https://open.spotify.com/album/2gO113zuLOSiUp1xORzGSj"
+      },
+      "artists": [
+        {
+          "name": "NICECNX",
+          "url": "https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154418,
+      "name": "No more lie",
+      "url": "https://open.spotify.com/track/0WA2aprPA5mSr49EI4Rm3W"
+    },
+    {
+      "album": {
         "name": "No Ticket For Haters",
         "url": "https://open.spotify.com/album/09PWjPIwWlpLN7bN01AS7d"
       },
@@ -4205,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Saranghae",
+        "url": "https://open.spotify.com/album/3a02bJ0chadjGGfzPAqoWT"
+      },
+      "artists": [
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204210,
+      "name": "Saranghae",
+      "url": "https://open.spotify.com/track/7gd8qxnOUtyCvTIUf1QFh8"
+    },
+    {
+      "album": {
         "name": "Saturn (feat. SIMON)",
         "url": "https://open.spotify.com/album/5a2Vnl3BORnCv06Be5GTHd"
       },
@@ -4698,7 +4734,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 213948,
       "name": "Still Loving U",
       "url": "https://open.spotify.com/track/3ctlZbIlZKOv29qocTtZgG"
@@ -5037,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "Turn To Something",
+        "url": "https://open.spotify.com/album/2LwN4BmqOwe7QzLZ9jPMTc"
+      },
+      "artists": [
+        {
+          "name": "HK",
+          "url": "https://open.spotify.com/artist/3ox1cmzcE21qMaFHqHKowu"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148837,
+      "name": "Turn To Something",
+      "url": "https://open.spotify.com/track/7AfBSkrNybrWRUf0tJUGgm"
+    },
+    {
+      "album": {
         "name": "TWIN TAIL",
         "url": "https://open.spotify.com/album/7gdv2nyLMtT1mPfiZtUGe6"
       },
@@ -5100,7 +5154,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 273530,
       "name": "URMAN",
       "url": "https://open.spotify.com/track/6nHh2er3ppLxQdfUdng2tu"
@@ -6031,6 +6085,28 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19",
+        "url": "https://open.spotify.com/album/1MsleWebmajzIxL39q1Q2B"
+      },
+      "artists": [
+        {
+          "name": "WHALJAY",
+          "url": "https://open.spotify.com/artist/00DQn2x4PUykmPHF8EVpYy"
+        },
+        {
+          "name": "Ponderingbaby",
+          "url": "https://open.spotify.com/artist/4YdFT4sqblEIKDcAin0ud8"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19",
+      "url": "https://open.spotify.com/track/029myGXWSBnJjyHN1xNcfo"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e19\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
         "url": "https://open.spotify.com/album/034SKmgQtZNjlsudb92eTe"
       },
@@ -6104,6 +6180,28 @@
       "duration_ms": 160864,
       "name": "\u0e04\u0e19\u0e25\u0e30\u0e21\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/11mHuqEZVq7iCtNjAhAcNW"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e19\u0e2b\u0e25\u0e38\u0e14",
+        "url": "https://open.spotify.com/album/4awy4Vq18fqXXWfU6xHRoO"
+      },
+      "artists": [
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        },
+        {
+          "name": "FATBOII MQT",
+          "url": "https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "\u0e04\u0e19\u0e2b\u0e25\u0e38\u0e14",
+      "url": "https://open.spotify.com/track/7mqc9eJ3387faIKqLmKTqp"
     },
     {
       "album": {
@@ -8946,7 +9044,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 160000,
       "name": "\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e07\u0e32",
       "url": "https://open.spotify.com/track/7l02Qwy8zGufT73QyHY3yk"
@@ -9950,7 +10048,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 244330,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/25a2Lu7yr7UiZjGhCsZBE0"
@@ -10306,7 +10404,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 196363,
       "name": "\u0e40\u0e08\u0e47\u0e1a\u0e1b\u0e27\u0e14\u0e17\u0e32\u0e07\u0e43\u0e08 (Psychogenic Pain)",
       "url": "https://open.spotify.com/track/3CdllNuhOCEVN0tPLw3O6A"
@@ -10436,7 +10534,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 214210,
       "name": "\u0e40\u0e14\u0e47\u0e01\u0e21\u0e31\u0e19\u0e23\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/061JxckUzRVE4iAhTyeHkL"
@@ -11255,6 +11353,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e01\u0e49\u0e27\u0e0b\u0e49\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/6fH53JbtgB6mkxiz6TSMN5"
+      },
+      "artists": [
+        {
+          "name": "APE FREDDA",
+          "url": "https://open.spotify.com/artist/3441oNU7Ok92QFaOwvg5P8"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92876,
+      "name": "\u0e41\u0e01\u0e49\u0e27\u0e0b\u0e49\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/22sR7jhJPipS8aPHMWwdCF"
+    },
+    {
+      "album": {
         "name": "SAD PASSENGERS",
         "url": "https://open.spotify.com/album/0jT2qMo9gwz1O14p2NV4TG"
       },
@@ -11633,6 +11749,24 @@
     },
     {
       "album": {
+        "name": "\u0e42\u0e15\u0e49\u0e23\u0e38\u0e48\u0e07",
+        "url": "https://open.spotify.com/album/2ayPgFvRfnKFAZmKfz2XZ7"
+      },
+      "artists": [
+        {
+          "name": "Maiyarap",
+          "url": "https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163625,
+      "name": "\u0e42\u0e15\u0e49\u0e23\u0e38\u0e48\u0e07",
+      "url": "https://open.spotify.com/track/5MwxcNLYCMRP5XNwGaOEc3"
+    },
+    {
+      "album": {
         "name": "\u0e42\u0e25\u0e21\u0e35\u0e42\u0e2d",
         "url": "https://open.spotify.com/album/096dfwhMPxaUsUi0j7xOcX"
       },
@@ -11894,6 +12028,28 @@
       "duration_ms": 142000,
       "name": "\u0e44\u0e02\u0e48\u0e40\u0e08\u0e35\u0e22\u0e27",
       "url": "https://open.spotify.com/track/44z5pOMJhFDhHoDJzFXLJY"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e14\u0e49\u0e2b\u0e21\u0e14\u0e16\u0e49\u0e32\u0e2a\u0e14\u0e0a\u0e37\u0e48\u0e19",
+        "url": "https://open.spotify.com/album/0EENSfl61FXlHMkH5zcx3x"
+      },
+      "artists": [
+        {
+          "name": "Rap Is Now",
+          "url": "https://open.spotify.com/artist/6WEHKzjzHXaAv9M9bJRYxj"
+        },
+        {
+          "name": "BIGSLP",
+          "url": "https://open.spotify.com/artist/6RFEpEAXB1miAXqMCX2nLc"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111262,
+      "name": "\u0e44\u0e14\u0e49\u0e2b\u0e21\u0e14\u0e16\u0e49\u0e32\u0e2a\u0e14\u0e0a\u0e37\u0e48\u0e19",
+      "url": "https://open.spotify.com/track/6ymfEmknr3bspIFrUkHwHS"
     },
     {
       "album": {
@@ -12318,7 +12474,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 220000,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23",
       "url": "https://open.spotify.com/track/4duVtvs6dIvLR0imBd0sLF"

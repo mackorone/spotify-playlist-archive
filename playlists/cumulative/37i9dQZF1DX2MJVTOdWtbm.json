@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "The home of Latin R&B \u2764\ufe0f La casa del R&B Latino. Cover: Samantha Barr\u00f3n & Leonel Garc\u00eda",
+  "description": "The home of Latin R&B \u2764\ufe0f La casa del R&B Latino. Cover: Tiago PZK, Teddy Swims",
   "name": "Latin R&B",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 182442,
       "name": "5 A.M.",
       "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 138485,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 223084,
       "name": "algo as\u00ed (remix)",
       "url": "https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD"
@@ -490,6 +490,24 @@
       "duration_ms": 172186,
       "name": "Algod\u00f3n",
       "url": "https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw"
+    },
+    {
+      "album": {
+        "name": "Alma Rota",
+        "url": "https://open.spotify.com/album/3KnuWbSj3x6j2p98TuD8RB"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184261,
+      "name": "Alma Rota",
+      "url": "https://open.spotify.com/track/7zZLnnX8xbH4urqaar5tkM"
     },
     {
       "album": {
@@ -1141,6 +1159,32 @@
     },
     {
       "album": {
+        "name": "Bet On Me",
+        "url": "https://open.spotify.com/album/3BjRp58GwvWKMsq6p5mrJX"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238648,
+      "name": "Bet On Me",
+      "url": "https://open.spotify.com/track/4vIf3RaJGJc4VFwrmuOwXN"
+    },
+    {
+      "album": {
         "name": "Blanco Y Negro",
         "url": "https://open.spotify.com/album/5s3KNRr9tjpXQqbPllvKPe"
       },
@@ -1264,6 +1308,24 @@
       "duration_ms": 240315,
       "name": "BUENOS AIRES",
       "url": "https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu"
+    },
+    {
+      "album": {
+        "name": "BURBUJITA",
+        "url": "https://open.spotify.com/album/7eaKADBqG2B7DQt0JJhibT"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166165,
+      "name": "BURBUJITA",
+      "url": "https://open.spotify.com/track/78JgkrplqPjkJhQrYo5LTK"
     },
     {
       "album": {
@@ -2708,7 +2770,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 196823,
       "name": "Dime Si Tu",
       "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
@@ -3758,7 +3820,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
@@ -3924,7 +3986,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
@@ -4369,6 +4431,28 @@
     },
     {
       "album": {
+        "name": "LA PUNTA DEL PEAK",
+        "url": "https://open.spotify.com/album/0UPceeOuRJ5FPSUEshCMXh"
+      },
+      "artists": [
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185106,
+      "name": "LA PUNTA DEL PEAK",
+      "url": "https://open.spotify.com/track/61Sgps44nxvrBE5coeD6c3"
+    },
+    {
+      "album": {
         "name": "entrevayus",
         "url": "https://open.spotify.com/album/2paDCQa4nQzrhdM1GEkoE9"
       },
@@ -4544,7 +4628,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 178626,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
@@ -5329,6 +5413,32 @@
     },
     {
       "album": {
+        "name": "M\u00eda",
+        "url": "https://open.spotify.com/album/1MYX005RfZStIOvkSNElu4"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232763,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/1s30S1LWNUfrZM6tUntDB6"
+    },
+    {
+      "album": {
         "name": "Na Pa Ti (feat. Kofi)",
         "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
@@ -5460,7 +5570,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 155586,
       "name": "Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
@@ -5504,6 +5614,32 @@
       "duration_ms": 272768,
       "name": "NASA",
       "url": "https://open.spotify.com/track/2PpWdLhbZKTfnpdXHOW3KG"
+    },
+    {
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/00cYNAdq8e0rVOKWg7yZnS"
+      },
+      "artists": [
+        {
+          "name": "Soyneel",
+          "url": "https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141394,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/17nkRnPyvv3JjH0bD4bn5f"
     },
     {
       "album": {
@@ -6120,6 +6256,32 @@
       "duration_ms": 218218,
       "name": "Ojos Tristes (feat. Karin B.)",
       "url": "https://open.spotify.com/track/4LyInTQ5BgnQuDud2JAUdf"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/4ss4Hp44BnnJxCQua0TuSk"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187467,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/5gjRYrS0Vp6xO7wwSU9fQv"
     },
     {
       "album": {
@@ -6890,7 +7052,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
@@ -7549,6 +7711,28 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178007,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya"
+    },
+    {
+      "album": {
         "name": "Somos 3",
         "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
       },
@@ -8082,6 +8266,24 @@
       "duration_ms": 202986,
       "name": "Todo",
       "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"
+    },
+    {
+      "album": {
+        "name": "LYKE MIIKE (DELUXE)",
+        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212291,
+      "name": "TONO DE VOZ",
+      "url": "https://open.spotify.com/track/53ZdQQqfCwtkIBjYObbDDy"
     },
     {
       "album": {

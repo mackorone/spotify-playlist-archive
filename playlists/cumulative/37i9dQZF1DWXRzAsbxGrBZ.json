@@ -761,6 +761,28 @@
     },
     {
       "album": {
+        "name": "Fractured Reflections",
+        "url": "https://open.spotify.com/album/7i6HU97dbHiVlKeRvklH1T"
+      },
+      "artists": [
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        },
+        {
+          "name": "Nastic Groove",
+          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381235,
+      "name": "Do You Care",
+      "url": "https://open.spotify.com/track/0NX0CN8OVQZQsmxCJnH0f4"
+    },
+    {
+      "album": {
         "name": "OOO: AFRO",
         "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
@@ -1070,10 +1092,28 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 503606,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/6NOZaJxa4w69hAvMUBmocD"
+    },
+    {
+      "album": {
+        "name": "Over Loved",
+        "url": "https://open.spotify.com/album/2oHEj8GTLy3onemgwEWekf"
+      },
+      "artists": [
+        {
+          "name": "Tebza De SouL",
+          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374444,
+      "name": "Feeling.",
+      "url": "https://open.spotify.com/track/0KIXHtySBkxDB3sNYIVjCj"
     },
     {
       "album": {
@@ -1106,7 +1146,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 302562,
       "name": "For Just A Moment - Mixed",
       "url": "https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp"
@@ -2214,7 +2254,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 300000,
       "name": "LIFE ON THE BLUE LINE",
       "url": "https://open.spotify.com/track/6ytdx3fI5ecsNTSkstv9Gv"
@@ -2353,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Love Grooves",
+        "url": "https://open.spotify.com/album/7pzRWWVaisD4AJclaQN6qb"
+      },
+      "artists": [
+        {
+          "name": "Reemash",
+          "url": "https://open.spotify.com/artist/1Z5BetQ3TLxK1xoiE4oMQi"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404739,
+      "name": "Love Grooves",
+      "url": "https://open.spotify.com/track/17Ntu6hwyIPJ68vqRboxAq"
+    },
+    {
+      "album": {
         "name": "Necessary",
         "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
       },
@@ -2474,7 +2532,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 354000,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB"
@@ -2492,7 +2550,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 439980,
       "name": "Make My Heart Sing",
       "url": "https://open.spotify.com/track/4KTui0DbAetpOjMVRQqnhl"
@@ -3094,7 +3152,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 375233,
       "name": "Not in My Kitchen",
       "url": "https://open.spotify.com/track/066sdKveccU5X0AWozTGFR"
@@ -3318,6 +3376,24 @@
       "duration_ms": 428000,
       "name": "Out Out",
       "url": "https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj"
+    },
+    {
+      "album": {
+        "name": "Over Loved",
+        "url": "https://open.spotify.com/album/2oHEj8GTLy3onemgwEWekf"
+      },
+      "artists": [
+        {
+          "name": "Tebza De SouL",
+          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387574,
+      "name": "Over Loved.",
+      "url": "https://open.spotify.com/track/35cuBaT4Lyb89KSeMeM4Z9"
     },
     {
       "album": {
@@ -3872,7 +3948,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 220800,
       "name": "Sensitive (feat. Lily McKenzie)",
       "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
@@ -4044,6 +4120,28 @@
       "duration_ms": 453569,
       "name": "SOMETHING FOR THE HEART",
       "url": "https://open.spotify.com/track/2crHF2M9NdB8Qsfxvjfil2"
+    },
+    {
+      "album": {
+        "name": "Lost in Rhythmic Echoes",
+        "url": "https://open.spotify.com/album/2eW9TRzI9KuFK0ndmLNxSp"
+      },
+      "artists": [
+        {
+          "name": "Biko King",
+          "url": "https://open.spotify.com/artist/4c65PT6IbqRhW1wNLhjbEj"
+        },
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518086,
+      "name": "Soweto Groove",
+      "url": "https://open.spotify.com/track/3sP4yI6uIfxzMZgO5RZzmw"
     },
     {
       "album": {
@@ -4262,6 +4360,24 @@
       "duration_ms": 399986,
       "name": "The Inglourious",
       "url": "https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8"
+    },
+    {
+      "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
+      },
+      "artists": [
+        {
+          "name": "Sculptured Music",
+          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471724,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/3lnywexmmGZM6epAOYeGIS"
     },
     {
       "album": {
@@ -4506,7 +4622,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 390530,
       "name": "Traveling To Pluto",
       "url": "https://open.spotify.com/track/66u3aazALT5fmstO4btvlz"

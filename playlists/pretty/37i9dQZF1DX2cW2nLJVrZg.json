@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 258266,
+  "num_followers": 258289,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Married Life",
-      "url": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "La La Land (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Married Life",
+      "url": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
-        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
-      },
-      "artists": [
-        {
-          "name": "James Horner",
-          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "The Portrait (From \"Titanic\" Soundtrack)",
-      "url": "https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Al otro lado del rio",
         "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 194626,
       "name": "Al otro lado del r\u00edo",
       "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
+        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "The Portrait (From \"Titanic\" Soundtrack)",
+      "url": "https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -767,8 +767,8 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Little Women (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
+        "name": "The Shape Of Water (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/058fiqH1NYYmur8cicws4l"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Father Comes Home",
-      "url": "https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl"
+      "duration_ms": 222573,
+      "name": "The Shape Of Water",
+      "url": "https://open.spotify.com/track/2VzJH2QeNO1PiZwXZMvx7g"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -875,8 +875,8 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "The Shape Of Water (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/058fiqH1NYYmur8cicws4l"
+        "name": "Little Women (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
         }
       ],
-      "duration_ms": 222573,
-      "name": "The Shape Of Water",
-      "url": "https://open.spotify.com/track/2VzJH2QeNO1PiZwXZMvx7g"
+      "duration_ms": 198440,
+      "name": "Father Comes Home",
+      "url": "https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl"
     },
     {
       "added_at": "2024-01-23 19:55:12",

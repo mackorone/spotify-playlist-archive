@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2025. Hit shuffle for a mixed listening experience. Cover: Neton Vega",
+  "description": "Descubre los nuevos \u00e1lbumes del 2025. Hit shuffle for a mixed listening experience. Cover: Immasoul",
   "name": "New Latin Albums",
   "tracks": [
+    {
+      "album": {
+        "name": "#TETAS",
+        "url": "https://open.spotify.com/album/2nVsMzErBfjaKSl33WsfAq"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149394,
+      "name": "#TETAS",
+      "url": "https://open.spotify.com/track/1wgjAYlp6GHSX6ex8pRJd9"
+    },
     {
       "album": {
         "name": "BROKEN HEART ANTHEMS",
@@ -2569,6 +2595,28 @@
     },
     {
       "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177389,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
+    },
+    {
+      "album": {
         "name": "OCHO",
         "url": "https://open.spotify.com/album/4xepSQ2OnZ016EBmHQg9W9"
       },
@@ -3444,6 +3492,28 @@
       "duration_ms": 204510,
       "name": "Big Bang",
       "url": "https://open.spotify.com/track/6u7lzip5DLfQzyOph4PUR8"
+    },
+    {
+      "album": {
+        "name": "PISTOLA",
+        "url": "https://open.spotify.com/album/2ha5bvXlmL8TSKuR5qf5GY"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186710,
+      "name": "BIGSHORTYS",
+      "url": "https://open.spotify.com/track/50cQxtYpWuqViXC9b7PnzI"
     },
     {
       "album": {
@@ -6089,6 +6159,24 @@
     },
     {
       "album": {
+        "name": "CUERPO",
+        "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198813,
+      "name": "cuerpo",
+      "url": "https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0"
+    },
+    {
+      "album": {
         "name": "FOREVER KING",
         "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
       },
@@ -6448,6 +6536,24 @@
       "duration_ms": 188413,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/4IIdIBVQEXwpE6MlLkHeBm"
+    },
+    {
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239504,
+      "name": "De Nada Me Arrepiento",
+      "url": "https://open.spotify.com/track/31tKIt6qGlzqT3DV3NIQRF"
     },
     {
       "album": {
@@ -8400,6 +8506,32 @@
       "duration_ms": 105629,
       "name": "El Drogadito",
       "url": "https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk"
+    },
+    {
+      "album": {
+        "name": "PAPOTA",
+        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170038,
+      "name": "EL D\u00cdA DEL AMIGO",
+      "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
     },
     {
       "album": {
@@ -10821,6 +10953,24 @@
     },
     {
       "album": {
+        "name": "ibuprofeno",
+        "url": "https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "f\u00e9lix",
+      "url": "https://open.spotify.com/track/3mMMPt1VvYdrg6xpYVD0lb"
+    },
+    {
+      "album": {
         "name": "G O D D E S S",
         "url": "https://open.spotify.com/album/3Nu0PN3Oiw7Z1yCqDubU4m"
       },
@@ -12003,6 +12153,24 @@
     },
     {
       "album": {
+        "name": "ibuprofeno",
+        "url": "https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "ibuprofeno",
+      "url": "https://open.spotify.com/track/6K2lKVZS90RrnZcGA1ALGJ"
+    },
+    {
+      "album": {
         "name": "Trap Island",
         "url": "https://open.spotify.com/album/2YiziMql3dRV3ic0gkEDgv"
       },
@@ -12094,6 +12262,50 @@
       "duration_ms": 149379,
       "name": "Imagin\u00e1ndote",
       "url": "https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr"
+    },
+    {
+      "album": {
+        "name": "PAPOTA",
+        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157937,
+      "name": "IMPOSTOR",
+      "url": "https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM"
+    },
+    {
+      "album": {
+        "name": "PISTOLA",
+        "url": "https://open.spotify.com/album/2ha5bvXlmL8TSKuR5qf5GY"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164594,
+      "name": "IMPREDECIBLE",
+      "url": "https://open.spotify.com/track/6TJa030YtCX4FWDfUlUNEy"
     },
     {
       "album": {
@@ -18727,6 +18939,24 @@
     },
     {
       "album": {
+        "name": "ibuprofeno",
+        "url": "https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132076,
+      "name": "no te enamores de mi",
+      "url": "https://open.spotify.com/track/2affoc6gn3iU3Huc7wacMY"
+    },
+    {
+      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
       },
@@ -19682,6 +19912,24 @@
       "duration_ms": 161164,
       "name": "OYE",
       "url": "https://open.spotify.com/track/5D0N7a6vursEiO2jAC7dAF"
+    },
+    {
+      "album": {
+        "name": "CUERPO",
+        "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "o\u00eddo",
+      "url": "https://open.spotify.com/track/0YYTvFxbCQ0zAXrH7KyQJb"
     },
     {
       "album": {
@@ -21009,6 +21257,24 @@
     },
     {
       "album": {
+        "name": "CUERPO",
+        "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "pies",
+      "url": "https://open.spotify.com/track/5VXCVXc5WlLqhLgQhwtLCd"
+    },
+    {
+      "album": {
         "name": "Narvarte",
         "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
       },
@@ -21046,6 +21312,24 @@
       "duration_ms": 163794,
       "name": "Pikete",
       "url": "https://open.spotify.com/track/4eElSQrNzpkkH9lh11C1oS"
+    },
+    {
+      "album": {
+        "name": "PISTOLA",
+        "url": "https://open.spotify.com/album/2ha5bvXlmL8TSKuR5qf5GY"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181072,
+      "name": "PISTOLA",
+      "url": "https://open.spotify.com/track/3WfysRibQxUZgrMAHXxlAe"
     },
     {
       "album": {
@@ -23548,6 +23832,24 @@
       "duration_ms": 159453,
       "name": "Salvaje (con Justin Quiles)",
       "url": "https://open.spotify.com/track/6E7pz6npdhV2noiFqp0v3l"
+    },
+    {
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218903,
+      "name": "San Fernando",
+      "url": "https://open.spotify.com/track/64vqCRNq65bw6xf46S9N0O"
     },
     {
       "album": {

@@ -1,13 +1,81 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44195,
+  "num_followers": 44191,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ41ODJM5OeQiebiPlwxMsA82nH2rs",
+  "snapshot_id": "AAAZ5/b2cGxKBibED5RWwcuP/4QEzIHr",
   "tracks": [
+    {
+      "added_at": "2025-03-07 15:02:27",
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/0mIcGstMbvfvT5qgvRfEjt"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "x.o.anne",
+          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
+        }
+      ],
+      "duration_ms": 185530,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/1xlypxpI8KiPQxahsIWqWV"
+    },
+    {
+      "added_at": "2025-03-07 15:02:41",
+      "album": {
+        "name": "It Clicked",
+        "url": "https://open.spotify.com/album/5xCcujnvIlwkwhA2QRHglJ"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        }
+      ],
+      "duration_ms": 110399,
+      "name": "It Clicked",
+      "url": "https://open.spotify.com/track/6CZEvodrbQ2peNYVVfH785"
+    },
+    {
+      "added_at": "2025-03-07 15:03:00",
+      "album": {
+        "name": "Crazy Girl",
+        "url": "https://open.spotify.com/album/5nCjCuxUIxaBUxSto8ayxF"
+      },
+      "artists": [
+        {
+          "name": "Callie Reiff",
+          "url": "https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy"
+        }
+      ],
+      "duration_ms": 156732,
+      "name": "Crazy Girl",
+      "url": "https://open.spotify.com/track/0LjhJNwHmrNpiurbvy70jW"
+    },
+    {
+      "added_at": "2025-03-07 20:04:29",
+      "album": {
+        "name": "Left To The Right",
+        "url": "https://open.spotify.com/album/2cuNF6EKv5O8ncRHpE66Fu"
+      },
+      "artists": [
+        {
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
+        }
+      ],
+      "duration_ms": 124714,
+      "name": "Left To The Right",
+      "url": "https://open.spotify.com/track/4Vvrre8ET12YYOVZPGmGRH"
+    },
     {
       "added_at": "2025-02-28 14:44:19",
       "album": {

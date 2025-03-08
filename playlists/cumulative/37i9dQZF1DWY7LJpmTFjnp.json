@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. La Tremenda Korte en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Enrique Bunbury en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -340,10 +340,36 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 207795,
       "name": "Apocalipsis",
       "url": "https://open.spotify.com/track/2iu30VOiuJk3T40v6k9WVO"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Estamos",
+        "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183771,
+      "name": "Aqu\u00ed Estamos",
+      "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
     },
     {
       "album": {
@@ -434,7 +460,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
@@ -496,7 +522,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 196416,
       "name": "B\u00f3tox en el Cora",
       "url": "https://open.spotify.com/track/3K1lcQK8aifX0aBGj40nA1"
@@ -706,7 +732,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 162322,
       "name": "Con Vos",
       "url": "https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR"
@@ -865,6 +891,24 @@
     },
     {
       "album": {
+        "name": "De Egipto a Memphis (Motorepartidor)",
+        "url": "https://open.spotify.com/album/4jEaLpoFaXe8Udbqu1qTtj"
+      },
+      "artists": [
+        {
+          "name": "Los Esquizitos",
+          "url": "https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188863,
+      "name": "De Egipto a Memphis (Motorepartidor)",
+      "url": "https://open.spotify.com/track/468YGwLE4ZRjBVs89Ex84x"
+    },
+    {
+      "album": {
         "name": "Aqui",
         "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
       },
@@ -938,6 +982,24 @@
       "duration_ms": 255920,
       "name": "Dias Peligrosos",
       "url": "https://open.spotify.com/track/0ZLFtOZ5jWUDidCxKwFkGJ"
+    },
+    {
+      "album": {
+        "name": "DOBLE MORAL",
+        "url": "https://open.spotify.com/album/3agZkP21DATyDlts04NM25"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213120,
+      "name": "DOBLE MORAL",
+      "url": "https://open.spotify.com/track/7mtWOsLNHQBbmcvYeBBVB5"
     },
     {
       "album": {
@@ -2475,6 +2537,24 @@
     },
     {
       "album": {
+        "name": "Las chingadas ganas de llorar",
+        "url": "https://open.spotify.com/album/6TR5ROAqehRhQDMAeOmqeR"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199270,
+      "name": "Las chingadas ganas de llorar",
+      "url": "https://open.spotify.com/track/1NNx5a7BoQrKym6DKxmTAI"
+    },
+    {
+      "album": {
         "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
         "url": "https://open.spotify.com/album/2yTicDu0XFg8HUATcCQa3U"
       },
@@ -2654,7 +2734,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 266279,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc"
@@ -2782,7 +2862,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 222994,
       "name": "MELANCOL\u00cdA",
       "url": "https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb"
@@ -2822,6 +2902,28 @@
       "duration_ms": 196212,
       "name": "Memoria Futuro (Cap. 10)",
       "url": "https://open.spotify.com/track/4QgFrf9Giqv3NLUSGaVeMk"
+    },
+    {
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/4Xe8ji6so3Fgxx57BO6Kw0"
+      },
+      "artists": [
+        {
+          "name": "Beto Cuevas",
+          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283238,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/0IopeK5zdadP5J25ohsvkY"
     },
     {
       "album": {
@@ -2990,6 +3092,24 @@
       "duration_ms": 237760,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
+    },
+    {
+      "album": {
+        "name": "MOR",
+        "url": "https://open.spotify.com/album/07tUQaYkbCFrPsJObkcP9y"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178687,
+      "name": "MOR",
+      "url": "https://open.spotify.com/track/1T30RWyqdNMYzWESPqxnhn"
     },
     {
       "album": {
@@ -3492,7 +3612,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 267953,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
@@ -3540,6 +3660,28 @@
       "duration_ms": 240871,
       "name": "Para todo mal",
       "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
+    },
+    {
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/4lIxi618bkEQaCoi4JtOzC"
+      },
+      "artists": [
+        {
+          "name": "D.R.E.A.D",
+          "url": "https://open.spotify.com/artist/1omDHY5qIqriMoJH2C9goA"
+        },
+        {
+          "name": "Pressive",
+          "url": "https://open.spotify.com/artist/0A5tnsz3SjTXp9SOWc2Rx4"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/1enwQLqicpjUkeM8GMuELt"
     },
     {
       "album": {
@@ -3958,7 +4100,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 183353,
       "name": "Rey de la Calumnia",
       "url": "https://open.spotify.com/track/7mjKUNtRa7OZ6FmEySByuS"
@@ -4038,7 +4180,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 186678,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
@@ -4167,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "Santa Ursula",
+        "url": "https://open.spotify.com/album/6iKFX0Mi8dftGut3AkZfVc"
+      },
+      "artists": [
+        {
+          "name": "Carrion Kids",
+          "url": "https://open.spotify.com/artist/3BaXYCo5ZPoXCQ4MW93ulu"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170944,
+      "name": "Santa Ursula",
+      "url": "https://open.spotify.com/track/2fZnIhx4KNOsmImwM6Ad4L"
+    },
+    {
+      "album": {
         "name": "Secuaz (Noches de Sal\u00f3n)",
         "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
       },
@@ -4214,7 +4374,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 205466,
       "name": "Ser\u00eda Feliz",
       "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
@@ -4573,6 +4733,24 @@
     },
     {
       "album": {
+        "name": "Superextra\u00f1o",
+        "url": "https://open.spotify.com/album/2kBcpKY13cIwUQDMrvrFrR"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221260,
+      "name": "Superextra\u00f1o",
+      "url": "https://open.spotify.com/track/3PqIjhaeM3EHhKcRsILaxB"
+    },
+    {
+      "album": {
         "name": "Surf Club",
         "url": "https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL"
       },
@@ -4588,6 +4766,24 @@
       "duration_ms": 101776,
       "name": "Surf Club",
       "url": "https://open.spotify.com/track/3U9tg87S49ITl5vULKvpVr"
+    },
+    {
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188580,
+      "name": "S\u00e1bado - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU"
     },
     {
       "album": {

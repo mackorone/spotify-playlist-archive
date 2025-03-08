@@ -1,13 +1,93 @@
 {
-  "description": "Warm, inspirational pop, that's good at heart.  Cover: Mike Posner",
-  "num_followers": 43635,
+  "description": "Warm, inspirational pop, that's good at heart.  Cover: Josh Groban",
+  "num_followers": 43647,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC8QAAAAD1f3aL0OCNGYxEdFXd1030",
+  "snapshot_id": "Z8p9ZAAAAAAxDO70Re4Z/Nr++dE6YkKG",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/35GvFcCqZCZgrIOIoeGYlX"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "duration_ms": 223226,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM"
+    },
+    {
+      "added_at": "2024-10-11 13:41:50",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw"
+      },
+      "artists": [
+        {
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
+    },
+    {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "Heaven On My Mind",
+        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 203450,
+      "name": "Heaven On My Mind",
+      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
+    },
+    {
+      "added_at": "2024-10-11 13:41:50",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2024-10-11 13:41:50",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
+    },
     {
       "added_at": "2025-02-21 05:00:16",
       "album": {
@@ -27,54 +107,6 @@
       "duration_ms": 221314,
       "name": "Time To Make A Change (feat. MonoNeon)",
       "url": "https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw"
-      },
-      "artists": [
-        {
-          "name": "Samantha Ebert",
-          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "added_at": "2025-02-21 05:00:16",
@@ -367,22 +399,6 @@
     {
       "added_at": "2024-10-11 13:41:50",
       "album": {
-        "name": "VIBRATIONS",
-        "url": "https://open.spotify.com/album/3C7oyoiqfsSL1gAFCI78YQ"
-      },
-      "artists": [
-        {
-          "name": "Cody Towell",
-          "url": "https://open.spotify.com/artist/4zY7rbMHMO7gNlZh2Qk7Us"
-        }
-      ],
-      "duration_ms": 202060,
-      "name": "VIBRATIONS",
-      "url": "https://open.spotify.com/track/4pqwoVOwvSbXhpYwNl0ufU"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
         "name": "What a Day",
         "url": "https://open.spotify.com/album/1ugtQU3rTTss14ky8S4TVU"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 210000,
       "name": "World Famous",
       "url": "https://open.spotify.com/track/5sAkUcPjTGQCmPZtyj8GV7"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Highs Get Low",
-        "url": "https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Highs Get Low",
-      "url": "https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD"
     },
     {
       "added_at": "2024-10-11 13:41:50",

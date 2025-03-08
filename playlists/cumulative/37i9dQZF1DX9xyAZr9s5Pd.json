@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Ca\u00edda Intermitente",
+        "url": "https://open.spotify.com/album/4dOagt8G7sjIIQpwyOweQu"
+      },
+      "artists": [
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133280,
+      "name": "Ca\u00edda Intermitente",
+      "url": "https://open.spotify.com/track/2GT7YO160gC7YNxSJIFNmE"
+    },
+    {
+      "album": {
         "name": "Cien Pies",
         "url": "https://open.spotify.com/album/57ew0qDZTLwGTQmNWacPUc"
       },
@@ -504,6 +522,24 @@
       "duration_ms": 193209,
       "name": "Dif\u00edcil",
       "url": "https://open.spotify.com/track/21HPuDDBXtXJhj3XKp3hni"
+    },
+    {
+      "album": {
+        "name": "El Sol Sale Para Todos",
+        "url": "https://open.spotify.com/album/4tGzbREm9Rxjh8qh0MEIUw"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242050,
+      "name": "Dime Si Es Posible Medir",
+      "url": "https://open.spotify.com/track/20CuwWHUvoMM4OVYaUkT4j"
     },
     {
       "album": {
@@ -903,6 +939,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/0dbTYcYItcpd8iPS3XLg3q"
+      },
+      "artists": [
+        {
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "La Petite Mort",
+      "url": "https://open.spotify.com/track/2f13BemQX8NnUJuuBoCSwk"
+    },
+    {
+      "album": {
         "name": "Ser\u00e1",
         "url": "https://open.spotify.com/album/0JPRp5NYnHzJd9FxyIvKZd"
       },
@@ -1048,7 +1102,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 198642,
       "name": "Lugar ideal",
       "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
@@ -1294,7 +1348,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 235760,
       "name": "No Me Dan Las Cuentas",
       "url": "https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw"
@@ -1664,7 +1718,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 130054,
       "name": "Souvenir, Pt. 1",
       "url": "https://open.spotify.com/track/3D7rpYcDzVVTu6bN7is1Ga"

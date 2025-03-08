@@ -1,13 +1,29 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Spacey Jane",
-  "num_followers": 833743,
+  "description": "Explore all things indie rock right now. Featuring music from Car Seat Headrest",
+  "num_followers": 833761,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FDAAAAAADOQoLSlnAV9W/gd57WxS/C",
+  "snapshot_id": "Z8p9cQAAAACN/FTbVoe8MDMGNebPHU1j",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Gethsemane",
+        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 651992,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
+    },
     {
       "added_at": "2025-02-28 05:00:48",
       "album": {
@@ -41,20 +57,132 @@
       "url": "https://open.spotify.com/track/08aaQA6A7UHvbPGsfPrAFe"
     },
     {
-      "added_at": "2025-02-28 05:00:48",
+      "added_at": "2025-03-07 05:00:33",
       "album": {
-        "name": "Lead Up",
-        "url": "https://open.spotify.com/album/5RhCEqk9Hmw5xWaLdjo2Ge"
+        "name": "Surgery and Pleasure",
+        "url": "https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T"
       },
       "artists": [
         {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
         }
       ],
-      "duration_ms": 318949,
-      "name": "Lead Up",
-      "url": "https://open.spotify.com/track/27MaTwiBKmoQyF2yyINzJg"
+      "duration_ms": 219854,
+      "name": "Beta Fish",
+      "url": "https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 246288,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Call Me Out",
+        "url": "https://open.spotify.com/album/1xYtv6aM7zOVDNS62TzDmI"
+      },
+      "artists": [
+        {
+          "name": "Porch Light",
+          "url": "https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Call Me Out",
+      "url": "https://open.spotify.com/track/7I6jPy2j93A6AViwo1z3wo"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Skullcrusher",
+        "url": "https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Skullcrusher",
+      "url": "https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "The Itch",
+        "url": "https://open.spotify.com/album/3hjCy7Y6sqlwAMQIV3dthU"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 211359,
+      "name": "The Itch",
+      "url": "https://open.spotify.com/track/3zaoYEpZuH4z11m6h37Zwv"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Anomaly II",
+        "url": "https://open.spotify.com/album/6q4rT0kjP8zoMgfDwzz5ij"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "duration_ms": 160017,
+      "name": "Circle of Death",
+      "url": "https://open.spotify.com/track/31JFXsBWzLzsW8DQWrqtY6"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Super Pedestrian",
+        "url": "https://open.spotify.com/album/1VWd62Gbw17U0BUEp1jZE6"
+      },
+      "artists": [
+        {
+          "name": "Annie DiRusso",
+          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
+        }
+      ],
+      "duration_ms": 215045,
+      "name": "Good Ass Movie",
+      "url": "https://open.spotify.com/track/46PtYBXwf9KYL2TF7llg6b"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Ballerina",
+        "url": "https://open.spotify.com/album/0adQNyh7TT9VQME29b0ZLn"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        }
+      ],
+      "duration_ms": 178078,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/1ctY8BRqB4b9VB2beSyhz7"
     },
     {
       "added_at": "2025-02-21 05:00:40",
@@ -71,6 +199,70 @@
       "duration_ms": 234560,
       "name": "Little Bit Closer",
       "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
+    },
+    {
+      "added_at": "2025-02-14 05:00:48",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 183192,
+      "name": "Asshole",
+      "url": "https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "I Am One Thousand",
+        "url": "https://open.spotify.com/album/50fUKvIVKc2X46746Xu8hx"
+      },
+      "artists": [
+        {
+          "name": "The Taxpayers",
+          "url": "https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "I Am One Thousand",
+      "url": "https://open.spotify.com/track/5FM56oTnWDBoHNkj6qZpcP"
+    },
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "We Could Be Brave",
+        "url": "https://open.spotify.com/album/7CrSe4ZbLVmW0jJcuwpvOL"
+      },
+      "artists": [
+        {
+          "name": "Michael Cera Palin",
+          "url": "https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP"
+        }
+      ],
+      "duration_ms": 303097,
+      "name": "Crypto",
+      "url": "https://open.spotify.com/track/14QfDfgWFrPZHO1XPY10Vu"
+    },
+    {
+      "added_at": "2025-02-28 05:00:48",
+      "album": {
+        "name": "Lead Up",
+        "url": "https://open.spotify.com/album/5RhCEqk9Hmw5xWaLdjo2Ge"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 318949,
+      "name": "Lead Up",
+      "url": "https://open.spotify.com/track/27MaTwiBKmoQyF2yyINzJg"
     },
     {
       "added_at": "2025-02-21 05:00:40",
@@ -139,22 +331,6 @@
       "duration_ms": 220000,
       "name": "Felicity",
       "url": "https://open.spotify.com/track/7jhYoHM7KXmVSVKTgSuuPH"
-    },
-    {
-      "added_at": "2025-02-14 05:00:48",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 183192,
-      "name": "Asshole",
-      "url": "https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH"
     },
     {
       "added_at": "2025-02-21 05:00:40",
@@ -441,22 +617,6 @@
       "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
     },
     {
-      "added_at": "2025-02-07 05:00:31",
-      "album": {
-        "name": "Thrift Store",
-        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Thrift Store",
-      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
-    },
-    {
       "added_at": "2025-02-14 05:00:48",
       "album": {
         "name": "Mountain",
@@ -475,22 +635,6 @@
       "duration_ms": 179664,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/2L2gjXyR49y51IyBz7wKvl"
-    },
-    {
-      "added_at": "2025-02-07 05:00:31",
-      "album": {
-        "name": "Ends Meet",
-        "url": "https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y"
-      },
-      "artists": [
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        }
-      ],
-      "duration_ms": 201762,
-      "name": "Ends Meet",
-      "url": "https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng"
     },
     {
       "added_at": "2025-01-31 05:00:35",
@@ -525,22 +669,6 @@
       "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
     },
     {
-      "added_at": "2025-01-31 05:00:35",
-      "album": {
-        "name": "Besties",
-        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 216757,
-      "name": "Besties",
-      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
-    },
-    {
       "added_at": "2025-02-07 05:00:31",
       "album": {
         "name": "Fourth Street",
@@ -555,38 +683,6 @@
       "duration_ms": 252360,
       "name": "Fourth Street",
       "url": "https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB"
-    },
-    {
-      "added_at": "2025-01-31 05:00:35",
-      "album": {
-        "name": "You're All I Got / So Long",
-        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 298134,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/7ASSaHLFnQJKGStATFaDhl"
-    },
-    {
-      "added_at": "2025-02-07 05:00:31",
-      "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/4R1eHgQT9pw9kIANAqlSIj"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 381825,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/4LU6OmxWbg2puqLHamzgLH"
     },
     {
       "added_at": "2025-01-31 05:00:35",
@@ -1149,38 +1245,6 @@
       "url": "https://open.spotify.com/track/6GMjp7U70cORX885mWHZt4"
     },
     {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
-        "name": "new year's eve",
-        "url": "https://open.spotify.com/album/0Z2heez0LaB9Pn8uuV70cc"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 227237,
-      "name": "new year's eve",
-      "url": "https://open.spotify.com/track/3NIob5XXgl0hKE0GX4rBtt"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
-        "name": "When He Comes Around",
-        "url": "https://open.spotify.com/album/4Pw4LalZWzcnve0sH4ms1H"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "When He Comes Around",
-      "url": "https://open.spotify.com/track/2ShbjyFjQJ6mRKy4NykDbU"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "With Only Your Mouth",
@@ -1407,54 +1471,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Give My Heart",
-        "url": "https://open.spotify.com/album/0OX6i6iw4HTmBxfsnAHL7F"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 207695,
-      "name": "Give My Heart",
-      "url": "https://open.spotify.com/track/3mjyXZRQIEe6BuarfoJUDK"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "A Place Like This",
-        "url": "https://open.spotify.com/album/3PfnihjOdjLPvx4lr9D5vM"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 213315,
-      "name": "A Place Like This",
-      "url": "https://open.spotify.com/track/6U2ytaIUJ50HzpCGdFD4w0"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/5fbVCssH2Oei8gJ0LFCbl5"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "the side-effects of living in a fantasy",
         "url": "https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh"
       },
@@ -1483,134 +1499,6 @@
       "duration_ms": 198250,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/1bMV1Dw8B2feFudpLAdZQ8"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Magpie",
-        "url": "https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 254375,
-      "name": "Am I Your Girl",
-      "url": "https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Just A Western",
-        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 269473,
-      "name": "Just A Western",
-      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Girl Prometheus",
-        "url": "https://open.spotify.com/album/3ctSCjMyiG82FJIdXHnSQo"
-      },
-      "artists": [
-        {
-          "name": "Flower Face",
-          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
-        }
-      ],
-      "duration_ms": 226860,
-      "name": "Biblical Love",
-      "url": "https://open.spotify.com/track/4WlGgwoZdNI96WPwsW6Nz5"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Dinner @ Brasserie Z\u00e9del",
-        "url": "https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 204688,
-      "name": "Dinner @ Brasserie Z\u00e9del",
-      "url": "https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Ohio All The Time",
-        "url": "https://open.spotify.com/album/5gS0mVQdlowwHfpf4k5hJO"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 184820,
-      "name": "Ohio All The Time",
-      "url": "https://open.spotify.com/track/63Kd061yhHz1K6UEztFmJ5"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "That Guy",
-        "url": "https://open.spotify.com/album/6Z2EHFIAYvaiMcxC3xHyhQ"
-      },
-      "artists": [
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 182229,
-      "name": "That Guy",
-      "url": "https://open.spotify.com/track/5vpIijHSKmN7h07nIuQZN9"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "God Of Everything Else",
-        "url": "https://open.spotify.com/album/0DR9Msk0sSnmxlVN52exYN"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "God Of Everything Else",
-      "url": "https://open.spotify.com/track/1FdNGkakDRkiySWwQMhn35"
     },
     {
       "added_at": "2024-10-18 04:00:00",

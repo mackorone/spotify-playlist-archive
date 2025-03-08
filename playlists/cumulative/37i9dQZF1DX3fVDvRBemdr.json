@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met Hollands en volks. Cover: FLEMMING & Mart Hoogkamer",
+  "description": "Wekelijkse update met Hollands en volks. Cover: Frank van Etten",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 167462,
       "name": "1 keer in je leven",
       "url": "https://open.spotify.com/track/40k7gc5XwQdU7VtKrRnDAP"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 130128,
       "name": "Aan Van Jou",
       "url": "https://open.spotify.com/track/7FLlO7lEJLmELPvmOLczMc"
@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Altijd Altijd 2.0",
+        "url": "https://open.spotify.com/album/0QO4KLZnIhqEzART4OgoKj"
+      },
+      "artists": [
+        {
+          "name": "Jaman",
+          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188769,
+      "name": "Altijd Altijd 2.0",
+      "url": "https://open.spotify.com/track/6PO8kt1r1k0f4yJkNUEPTz"
+    },
+    {
+      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/4Qec40S0raFaGWTY30j8pl"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 212509,
       "name": "Bedrogen",
       "url": "https://open.spotify.com/track/6mc3vuQVZ2nOp5vysMmHwy"
@@ -645,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Daar Ga Ik Weer",
+        "url": "https://open.spotify.com/album/3HZwT3fHHAY3DiWCrNhJWu"
+      },
+      "artists": [
+        {
+          "name": "Pascal Redeker",
+          "url": "https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225222,
+      "name": "Daar Ga Ik Weer",
+      "url": "https://open.spotify.com/track/4fXbWLmRnOGh0xSteNh1vC"
+    },
+    {
+      "album": {
         "name": "Turk Uit De Kroeg (Deluxe)",
         "url": "https://open.spotify.com/album/1G0zJu4RzdnH5ZD8QkAc7M"
       },
@@ -862,7 +898,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 158857,
       "name": "De Stad",
       "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
@@ -884,6 +920,24 @@
       "duration_ms": 182904,
       "name": "De Waarheid",
       "url": "https://open.spotify.com/track/0c6DXOYQ1fWmj5ZlhUyysi"
+    },
+    {
+      "album": {
+        "name": "De Zuipschuit",
+        "url": "https://open.spotify.com/album/6XFYnlzinUjZybuV8KfOUL"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190846,
+      "name": "De Zuipschuit",
+      "url": "https://open.spotify.com/track/5Hf3Nj5I5p89JDzVre0f6F"
     },
     {
       "album": {
@@ -1064,7 +1118,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 155724,
       "name": "Echte Liefde",
       "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
@@ -1428,7 +1482,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 178826,
       "name": "Het Draaiorgel",
       "url": "https://open.spotify.com/track/3xo1gJy3MTlha5H57XjEQI"
@@ -1684,7 +1738,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 167595,
       "name": "Ik Kan Je Niet Vergeten",
       "url": "https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw"
@@ -2187,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/7sYphJthJf9vZ8BsNNCvIS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Par\u00e9",
+          "url": "https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179269,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/5zlodSRQbrx744RkznuDAU"
+    },
+    {
+      "album": {
         "name": "Kameraden",
         "url": "https://open.spotify.com/album/14FyazPIwBSqIIqxxrjSz2"
       },
@@ -2358,7 +2430,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 183750,
       "name": "Kom Terug",
       "url": "https://open.spotify.com/track/0N551xcSek0OFH8nQ2ORp3"
@@ -3303,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "Rad van Fortuin",
+        "url": "https://open.spotify.com/album/4glskiU08ok4FTiyphg201"
+      },
+      "artists": [
+        {
+          "name": "Jessy Arjaans",
+          "url": "https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142933,
+      "name": "Rad van Fortuin",
+      "url": "https://open.spotify.com/track/2svKnbJyLGfyRtcwRDbIUB"
+    },
+    {
+      "album": {
         "name": "Samen Met Jou",
         "url": "https://open.spotify.com/album/2qUbHG3ZCZSJmVQPGpp7ob"
       },
@@ -3755,6 +3845,24 @@
     },
     {
       "album": {
+        "name": "Vanavond zijn we hier",
+        "url": "https://open.spotify.com/album/6yjeyDSub3nnIWwIcx6QiQ"
+      },
+      "artists": [
+        {
+          "name": "Helemaal Hollands",
+          "url": "https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182745,
+      "name": "Vanavond zijn we hier",
+      "url": "https://open.spotify.com/track/5QdaMBEwFiOOFMxOIMGbLZ"
+    },
+    {
+      "album": {
         "name": "Vandaag Ben Ik Van Jou",
         "url": "https://open.spotify.com/album/6kQ7PZDZMsHTrQwL8sqt4f"
       },
@@ -3814,7 +3922,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 158526,
       "name": "Venten Voor Me Centen",
       "url": "https://open.spotify.com/track/63dE87uLfQbiA1lwNq880B"
@@ -3886,7 +3994,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 197307,
       "name": "Vergeef Me",
       "url": "https://open.spotify.com/track/2kxH1XMnceTTSNQLexMxnb"
@@ -3994,7 +4102,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 201498,
       "name": "Voor Altijd In Ons Hart",
       "url": "https://open.spotify.com/track/4TwZ4I2gv1QiyrvseV6XzF"
@@ -4066,7 +4174,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 216158,
       "name": "Voordat Ik Nog Wat Zeggen Kon",
       "url": "https://open.spotify.com/track/31IueZAqrXobsJbIpYRMSJ"
@@ -4163,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Wat liefde is",
+        "url": "https://open.spotify.com/album/7aMxk1elKgZfZgfpW39XNK"
+      },
+      "artists": [
+        {
+          "name": "Ray Benjamin",
+          "url": "https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183984,
+      "name": "Wat liefde is",
+      "url": "https://open.spotify.com/track/7pF5SrBs97tPSPhPHBLNQz"
+    },
+    {
+      "album": {
         "name": "Wat Maakt Het Uit",
         "url": "https://open.spotify.com/album/0KfUyIG4rn8eRdQr5Oh5hm"
       },
@@ -4222,6 +4348,24 @@
       "duration_ms": 171793,
       "name": "We Gaan Vanavond Naar De Kroeg",
       "url": "https://open.spotify.com/track/6S3eaVWKuKmsNyvF1dw5op"
+    },
+    {
+      "album": {
+        "name": "We Gaan Weer Uit Ons Bol",
+        "url": "https://open.spotify.com/album/6iVGbz9Fu7rej7qSwJYU5q"
+      },
+      "artists": [
+        {
+          "name": "Zonzo Basily",
+          "url": "https://open.spotify.com/artist/3R7xFnUWgnhQVRai7mQ0Fs"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162252,
+      "name": "We Gaan Weer Uit Ons Bol",
+      "url": "https://open.spotify.com/track/4gLJDKJKLOuX8bSrpMu2NS"
     },
     {
       "album": {

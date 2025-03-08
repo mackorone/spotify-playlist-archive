@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 72743,
+  "num_followers": 72782,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC7wAAAADGrP6Ja9PHUwH07B82E0SW",
+  "snapshot_id": "Z8p9ZAAAAAAHtpc92WhY7Q4n8beSLk6H",
   "tracks": [
     {
       "added_at": "2025-02-28 05:00:31",
@@ -41,6 +41,26 @@
       "url": "https://open.spotify.com/track/49Gi1cYc3Po3vLMZD2paZX"
     },
     {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/5hbh3e6Z1b9uLoFxLuqT9L"
+      },
+      "artists": [
+        {
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 238595,
+      "name": "New Hope",
+      "url": "https://open.spotify.com/track/39VzYc43kGePZ9yXZOMuMR"
+    },
+    {
       "added_at": "2025-02-28 05:00:31",
       "album": {
         "name": "Mister Magic",
@@ -71,6 +91,22 @@
       "duration_ms": 226624,
       "name": "Let's Fly Away",
       "url": "https://open.spotify.com/track/5uw1xYhVYVAp8BapqMgmD9"
+    },
+    {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "It's Nice To Be With You",
+        "url": "https://open.spotify.com/album/5DSebblPZC8fvK0IK5CC8E"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 253826,
+      "name": "Beyond the Horizon",
+      "url": "https://open.spotify.com/track/58L4SdyYwI3Kw8q2rk4Lfs"
     },
     {
       "added_at": "2025-02-14 05:00:31",
@@ -267,26 +303,6 @@
       "duration_ms": 219230,
       "name": "Where Do We Go From Here?",
       "url": "https://open.spotify.com/track/6b0rAouRVovuUi1s4x6BiT"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/54td2WbTNgtvvnOUY7CGdF"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
-          "name": "Adam Hawley",
-          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
-        }
-      ],
-      "duration_ms": 263895,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/6d4PdhxDEF9bJFZ74EVwTc"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1611,34 +1627,6 @@
       "duration_ms": 314506,
       "name": "Groove Factor",
       "url": "https://open.spotify.com/track/57NamF1itcWdE3WotFyPqM"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Manhattan Nights (Radio Edit)",
-        "url": "https://open.spotify.com/album/0d8EvAtt2TYQ9F2JPwEy2i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Duros",
-          "url": "https://open.spotify.com/artist/6bMMVhovwIYA1yF1ZLHZwq"
-        },
-        {
-          "name": "Ken Freeman",
-          "url": "https://open.spotify.com/artist/3Zkyc5Jp05iEeC73U1BNW7"
-        },
-        {
-          "name": "Larry Crowe",
-          "url": "https://open.spotify.com/artist/0YMgRY0jbFVyTnA5vYvQe6"
-        },
-        {
-          "name": "Lenny Castro",
-          "url": "https://open.spotify.com/artist/19raT6ODTtEVtTTSgB9T1Z"
-        }
-      ],
-      "duration_ms": 234988,
-      "name": "Manhattan Nights (Radio Edit)",
-      "url": "https://open.spotify.com/track/2XqxCo0Nx93z6e6dusrfcM"
     },
     {
       "added_at": "2023-04-07 04:01:00",

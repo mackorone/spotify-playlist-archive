@@ -1,12 +1,12 @@
 {
   "description": "Lady Gaga au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 364835,
+  "num_followers": 365459,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8opDAAAAAA3zlmKDS9hQOzs/4XY1YfB",
+  "snapshot_id": "Z8qv4gAAAACHfhCeTY+GubfpQ2u//0zz",
   "tracks": [
     {
       "added_at": "2025-03-06 23:00:28",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 244915,
-      "name": "Vanish Into You",
-      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+      "duration_ms": 239720,
+      "name": "Garden Of Eden",
+      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
     },
     {
       "added_at": "2025-03-06 23:00:28",
@@ -252,7 +252,7 @@
           "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
         }
       ],
-      "duration_ms": 156923,
+      "duration_ms": 156461,
       "name": "Maria Magdalena",
       "url": "https://open.spotify.com/track/2TVqEfs20W2rfg0EDAW1MD"
     },
@@ -479,6 +479,26 @@
     {
       "added_at": "2025-03-06 23:00:28",
       "album": {
+        "name": "Classy Girl",
+        "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Classy Girl",
+      "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
+    },
+    {
+      "added_at": "2025-03-06 23:00:28",
+      "album": {
         "name": "graou",
         "url": "https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW"
       },
@@ -540,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 239720,
-      "name": "Garden Of Eden",
-      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "added_at": "2025-03-06 23:00:28",
@@ -895,6 +915,26 @@
       "duration_ms": 172554,
       "name": "AQUAMOTO",
       "url": "https://open.spotify.com/track/1n5ixhWn0xYmr4KLXO6zBM"
+    },
+    {
+      "added_at": "2025-03-06 23:00:28",
+      "album": {
+        "name": "Sweet Dreams (feat. Miguel)",
+        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 172952,
+      "name": "Sweet Dreams (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
     },
     {
       "added_at": "2025-03-06 23:00:28",

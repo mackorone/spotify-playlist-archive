@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Ecca Vandal.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Ghost.
 
-927 songs - 2 day 10 hr 7 min
+933 songs - 2 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Big Man](https://open.spotify.com/track/5RvkIiOCUCUNpHRnrbzpEC) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [Big Man](https://open.spotify.com/album/0aVjveFPW5GO8RnwSu0JjP) | 1:45 | 2023-04-13 | 2024-02-03 |
 | [BITE MY FACE \(FEAT\. COREY TAYLOR\)](https://open.spotify.com/track/5edonX335e9w96au4UTRn5) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 3:06 | 2022-03-11 | 2023-07-15 |
 | [Bite The Hook](https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Bite The Hook](https://open.spotify.com/album/4O73RVcXZeXUDtBZSHnd8p) | 2:55 | 2023-03-17 | 2024-02-03 |
+| [Black Rainbow](https://open.spotify.com/track/3xNwSLvN6QsZ6BgUbQKRm3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:24 | 2025-03-07 |  |
 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-17 |  |
 | [Blind](https://open.spotify.com/track/29Cd4nVlCL3gT3ZuEoUsFb) | [Fentanyl](https://open.spotify.com/artist/6ymyFsvAhvTJTgOqlFaiGb) | [Or So I Thought / Blind / Detached](https://open.spotify.com/album/2XC4AVj5pijoCPkgyWOSib) | 0:59 | 2024-08-16 |  |
 | [Blind Side Sonny](https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Blind Side Sonny](https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ) | 2:22 | 2024-10-04 |  |
@@ -114,6 +115,7 @@
 | [Burning Down](https://open.spotify.com/track/3ArvybjycId27hEs9VDaMY) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Burning Down](https://open.spotify.com/album/3N0MmEkRF87NFwaRWppLr0) | 6:12 | 2024-02-16 |  |
 | [Bury](https://open.spotify.com/track/105trhpiqettXhZUJg1FEe) | [King Woman](https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn) | [Bury](https://open.spotify.com/album/3IkVaTVkT6UitOnJVkQaZB) | 4:53 | 2024-05-10 |  |
 | [Bury Me \(One Thousand Times\)](https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [Bury Me \(One Thousand Times\)](https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg) | 2:21 | 2025-01-10 |  |
+| [Button Eyes](https://open.spotify.com/track/2DOUn2VHfSfUIyyZLE9Ig9) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [Button Eyes](https://open.spotify.com/album/1Ea8ce1wPV4CthoUAEkbtL) | 3:38 | 2025-03-07 |  |
 | [Cage Intimacy](https://open.spotify.com/track/36QLWRuc1cdQBQEC6hqiwn) | [Primitive Man](https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx) | [Cage Intimacy](https://open.spotify.com/album/1PhB912BQ5if1T7ynBeA7W) | 11:02 | 2022-04-15 | 2023-07-15 |
 | [Call for the Blood](https://open.spotify.com/track/1Rp24znByAhS8OFTsg698V) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Call for the Blood](https://open.spotify.com/album/2UrBt0wuAjZ0nf3jIwU1mN) | 3:14 | 2022-06-17 | 2023-07-15 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-01-21 | 2023-07-15 |
@@ -466,6 +468,7 @@
 | [Mark of the Beast](https://open.spotify.com/track/2H7S1nfwOMiorqcxIngVdx) | [Jarhead Fertilizer](https://open.spotify.com/artist/58NoEzpin3N6OEtvVZwOtj) | [Mark of the Beast](https://open.spotify.com/album/5HxfVHLTw5GbJ6sPxxEITk) | 3:11 | 2023-12-01 | 2024-02-03 |
 | [Martyr](https://open.spotify.com/track/2wtCQ4hMGsPQrQ45Kq98qJ) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/7iSh8UZLiaaxaxi6H8BRjc) | 2:36 | 2024-08-16 |  |
 | [Masc](https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Masc](https://open.spotify.com/album/3kiTF4RUr3WAoV4fZiHXSA) | 4:09 | 2024-08-23 |  |
+| [Mascot](https://open.spotify.com/track/2cxkTaDpJz0F2WRHVa8Ti1) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Mascot](https://open.spotify.com/album/4kSyalTUF0LmvLJykLFHPO) | 2:42 | 2025-03-07 |  |
 | [Masters of Morbidity](https://open.spotify.com/track/0T6GFp0XeYDiQv083xTZyp) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Masters of Morbidity](https://open.spotify.com/album/7IAQnZhOMVvzgeAS4BMRu7) | 4:22 | 2022-11-11 | 2023-07-15 |
 | [Mau Moko](https://open.spotify.com/track/7GEGSpjoraxIjBixahlNGq) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Mau Moko](https://open.spotify.com/album/2NnSQN57zQmBuOE855iDxF) | 3:45 | 2025-01-17 |  |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-08-30 |  |
@@ -534,6 +537,7 @@
 | [NUGE SNIGHT](https://open.spotify.com/track/2UCgCgrVNGPND618mlS9eo) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [NUGE SNIGHT](https://open.spotify.com/album/3gSv2igJIJ6V9UaWv927mb) | 1:31 | 2022-02-11 | 2023-07-15 |
 | [Numb To What Is Real](https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone / Numb To What Is Real](https://open.spotify.com/album/0g2f9LqOKNbRB0vDcHf6P9) | 2:49 | 2024-12-13 |  |
 | [Nympheas](https://open.spotify.com/track/6dlvIEP0oxOCs4XtA3JPfc) | [Birds in Row](https://open.spotify.com/artist/2H5x6tCSjQ4N5Lh7pRrTNo) | [Nympheas](https://open.spotify.com/album/0uHCBkvSUkndSSVKxKqPWm) | 3:24 | 2022-07-15 | 2023-07-15 |
+| [Nü Burn](https://open.spotify.com/track/6SpXyStq0oiro815bJLey9) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Nü Burn](https://open.spotify.com/album/01i8t4KWDs5RSTO6mR69m0) | 4:01 | 2025-03-07 |  |
 | [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 | 2023-09-15 | 2024-02-03 |
 | [Ode To Jimbo](https://open.spotify.com/track/7q6vrn80hhtQNWww0XJ8GX) | [Couch Slut](https://open.spotify.com/artist/4fBGtHTw0pGQ9C0vbg7UBp) | [Ode To Jimbo](https://open.spotify.com/album/620sI4XfiLMTpiKcw6l2Zc) | 3:11 | 2024-02-23 |  |
 | [Of Days Renewed](https://open.spotify.com/track/4miqxJDAzac7riX5p3RNAl) | [Magnitude](https://open.spotify.com/artist/2NwDYPbgMbSAXLbTL0VaUQ) | [Of Days Renewed](https://open.spotify.com/album/4zchFiJME9vUv36mLReDAH) | 3:21 | 2023-08-11 | 2024-02-03 |
@@ -644,6 +648,7 @@
 | [RUIN](https://open.spotify.com/track/5422oh6gdTk5iRElU7mctV) | [Heal The Hurt](https://open.spotify.com/artist/6ZTUkCnG7AQ85xxoC9fuNN) | [RUIN](https://open.spotify.com/album/6HDiybJgkvzTNDcQMr9iPj) | 2:43 | 2024-07-26 |  |
 | [Sacrifice Me](https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Sacrifice Me](https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN) | 3:58 | 2024-08-09 |  |
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 | 2023-07-15 |
+| [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-03-07 |  |
 | [Save Yourself](https://open.spotify.com/track/5LRSgPo7BKrhIBYrX1mL8z) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:45 | 2024-03-29 |  |
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-07 | 2023-07-15 |
 | [Say It](https://open.spotify.com/track/4UCEwS1cNO5qvEJKTx8tJC) | [Strict](https://open.spotify.com/artist/06beC3T1RvJWUKZAMEMOxa) | [Say It](https://open.spotify.com/album/1ic6F5y9ph8qM4UIYkDq0d) | 2:12 | 2024-11-01 |  |
@@ -818,6 +823,7 @@
 | [To Live Deliciously](https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [To Live Deliciously](https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB) | 5:32 | 2025-01-24 |  |
 | [To The Dance Floor For Shelter](https://open.spotify.com/track/56Vtx5Pdhg0sgmbczxJ5b5) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [To The Dance Floor For Shelter \(feat\. Courtney LaPlante\)](https://open.spotify.com/album/5S9zh1BaFjgNq1TdDNH1Se) | 4:19 | 2024-03-29 |  |
 | [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 | 2024-05-17 |  |
+| [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 | 2025-03-07 |  |
 | [Too Much](https://open.spotify.com/track/6F4qSBCQTV36A4U8qBTAjS) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Too Much](https://open.spotify.com/album/4PEpzl1k2KTG6oCMiTMviE) | 3:41 | 2025-01-17 |  |
 | [Toothache](https://open.spotify.com/track/1ebbuLtMSqv3epP1UCDZRk) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [Toothache](https://open.spotify.com/album/1TEguvuGEPkC2DaNXIJBE2) | 1:54 | 2024-08-09 |  |
 | [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-04-07 | 2024-02-03 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Ecca Vandal.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Ghost.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,864 likes - 347 songs - 20 hr 57 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,865 likes - 353 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -355,5 +355,11 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 345 | [Bananarchy Zoo](https://open.spotify.com/track/5jbB924JhR1lKjdZn58OoV) | [Eye Flys](https://open.spotify.com/artist/7GzM51BvYYlZ6Hdef6fM41) | [Bananarchy Zoo](https://open.spotify.com/album/4aR9eUz1g7Nx6RGnhnauwz) | 5:25 |
 | 346 | [Shame and its Afterbirth](https://open.spotify.com/track/70tCzTXSThhKWtk1njrMOm) | [Vitriol](https://open.spotify.com/artist/7E4LULB8UkUOTEBbpTbLma) | [Shame and its Afterbirth](https://open.spotify.com/album/6tgUVPW5ncqIDCJGnDHh6S) | 6:43 |
 | 347 | [Paranoia](https://open.spotify.com/track/5WQOU9N0eVbFP448Mw7fhn) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [Paranoia](https://open.spotify.com/album/7be4xm8QKyrU69PnkD3XTF) | 1:30 |
+| 348 | [Mascot](https://open.spotify.com/track/2cxkTaDpJz0F2WRHVa8Ti1) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Mascot](https://open.spotify.com/album/4kSyalTUF0LmvLJykLFHPO) | 2:42 |
+| 349 | [Nü Burn](https://open.spotify.com/track/6SpXyStq0oiro815bJLey9) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Nü Burn](https://open.spotify.com/album/01i8t4KWDs5RSTO6mR69m0) | 4:01 |
+| 350 | [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 |
+| 351 | [Button Eyes](https://open.spotify.com/track/2DOUn2VHfSfUIyyZLE9Ig9) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [Button Eyes](https://open.spotify.com/album/1Ea8ce1wPV4CthoUAEkbtL) | 3:38 |
+| 352 | [Black Rainbow](https://open.spotify.com/track/3xNwSLvN6QsZ6BgUbQKRm3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:24 |
+| 353 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
 
-Snapshot ID: `AAANr91MigRz1xxyeWdY+hw70Q4z3wm9`
+Snapshot ID: `AAANtmJqQ8p3wm8n2B1CPk7pMxh1QYXp`

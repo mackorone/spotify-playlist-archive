@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Astral Dreams",
+        "url": "https://open.spotify.com/album/13Tkc4hBONVfp1jjcfwe46"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137018,
+      "name": "Astral Dreams",
+      "url": "https://open.spotify.com/track/2plMHxPFQftIBbpRitLiD4"
+    },
+    {
+      "album": {
         "name": "All Creatures",
         "url": "https://open.spotify.com/album/24G9IRMiW5mT7Xc42t4Xza"
       },
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 170730,
       "name": "coconut",
       "url": "https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu"
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 101363,
       "name": "Faded",
       "url": "https://open.spotify.com/track/3zp0Y3dGRQFdU9KpFV11Pq"
@@ -3314,7 +3332,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 171290,
       "name": "Footsteps In The Rain",
       "url": "https://open.spotify.com/track/4S2AXwTNLyhmPF7aaXeRC6"
@@ -6314,7 +6332,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 128823,
       "name": "Patient",
       "url": "https://open.spotify.com/track/0JiC3KyAo384rat8Jr94fP"
@@ -6372,10 +6390,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 127918,
       "name": "peaceful",
       "url": "https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe"
+    },
+    {
+      "album": {
+        "name": "Pebbles",
+        "url": "https://open.spotify.com/album/1vCG1uGoUIoFeCILsbmq3U"
+      },
+      "artists": [
+        {
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96774,
+      "name": "Pebbles",
+      "url": "https://open.spotify.com/track/0OL92n7zIj1up8vY7DQFHg"
     },
     {
       "album": {
@@ -9558,6 +9594,24 @@
       "duration_ms": 120843,
       "name": "Vibrant",
       "url": "https://open.spotify.com/track/2qKmdUdWLc6QCckruxwl2D"
+    },
+    {
+      "album": {
+        "name": "violett",
+        "url": "https://open.spotify.com/album/0oVauZ9v5kgCLQJSfqreUP"
+      },
+      "artists": [
+        {
+          "name": "yellofish",
+          "url": "https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "violett",
+      "url": "https://open.spotify.com/track/6Gpsp7BIZaXuMua2uoozYM"
     },
     {
       "album": {

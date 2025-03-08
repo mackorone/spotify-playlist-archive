@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/5kopp3hL0uRgLZUh7nOvia?si=a13755939e5a433a">Las Alucines</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,981 likes - 11 songs - 14 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,979 likes - 11 songs - 14 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

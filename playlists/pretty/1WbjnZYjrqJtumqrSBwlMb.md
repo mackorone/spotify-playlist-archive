@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,026 songs - 2 day 15 hr 4 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,029 songs - 2 day 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1034,5 +1034,8 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1024 | [Raven](https://open.spotify.com/track/7qCojYqfbCKWVb0lDGpfCv) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Raven](https://open.spotify.com/album/4LD1uDOWIXub9KVhXebZAO) | 2:44 |
 | 1025 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 1026 | [Basic Being Basic](https://open.spotify.com/track/2KjS3oMF96NxiskpSlinpn) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 2:38 |
+| 1027 | [Battlefield](https://open.spotify.com/track/2Y0DLfSAncXNhn2tOjmvSD) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 1:54 |
+| 1028 | [Pieces Of You](https://open.spotify.com/track/5bQrrbXqR6MDnuyYYuoq7S) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 2:48 |
+| 1029 | [Song to the Siren ft\. Courtney Love](https://open.spotify.com/track/4ebM8xnMGL0JYU6F9Lp6iy) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Courtney Love](https://open.spotify.com/artist/4vI0xGbQl2cMnMiagUEBOj) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 2:59 |
 
-Snapshot ID: `AAAIyIvMXwhwEmBFI0iGqBsfYZg5D1Za`
+Snapshot ID: `AAAIywrSBnOTaTNluGA7xOXU9YUgOPfI`

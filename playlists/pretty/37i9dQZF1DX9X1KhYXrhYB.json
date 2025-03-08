@@ -1,13 +1,29 @@
 {
   "description": "Secrets will be spilled. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.",
-  "num_followers": 150993,
+  "num_followers": 151350,
   "original_name": "Yellowjackets Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FtEAAAAABg1rFgyjCRXodjLHXzsb2u",
+  "snapshot_id": "Z8qnjgAAAAALxfZZ0b0pWp+heXrTZlQr",
   "tracks": [
+    {
+      "added_at": "2025-03-07 08:00:14",
+      "album": {
+        "name": "Rid Of Me",
+        "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 268826,
+      "name": "Rid Of Me",
+      "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
+    },
     {
       "added_at": "2025-02-28 08:00:16",
       "album": {

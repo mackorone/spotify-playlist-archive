@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX50YO169g6dw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX50YO169g6dw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX50YO169g6dw)
 
-### [This Is Within Temptation](https://open.spotify.com/playlist/37i9dQZF1DX50YO169g6dw)
+### [This Is Within Temptation \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX50YO169g6dw)
 
 > The best of Within Temptation, all in one playlist.
 

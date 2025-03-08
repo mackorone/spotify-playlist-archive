@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Jim Legxacy
 
-1,452 songs - 3 day 1 hr 32 min
+1,453 songs - 3 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1214,6 +1214,7 @@
 | [Str8 Outta Kennington \(feat\. Blanco & NSJ Mali\)](https://open.spotify.com/track/2ivzkozfHlHCabNGJOr5Qe) | [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [The Cost of Being](https://open.spotify.com/album/1NHAoAwuN2OwtfJUPeY75d) | 2:53 | 2024-05-17 | 2024-06-14 |
 | [Straight Back to It](https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:16 | 2022-02-25 | 2022-06-10 |
 | [Straight Drop X5](https://open.spotify.com/track/3kUbJTF3u2Ge4j4IzCwlz5) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r) | [Straight Drop X5](https://open.spotify.com/album/7Kj7DByiJxyuUIfCHqYrTe) | 3:26 | 2024-12-06 | 2025-02-28 |
+| [Straight Rhymez 2](https://open.spotify.com/track/5srEoh3bdB2tGTPpbSKqcP) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Straight Rhymez 2](https://open.spotify.com/album/0YQucn2zCE4iugBcCtA9kH) | 2:43 | 2025-03-07 |  |
 | [Stratford Job Centre](https://open.spotify.com/track/3Ja2ytWoDshniPFbztBo6p) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK), [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Stratford Job Centre](https://open.spotify.com/album/38ayhfcDwNwk2hrHas9ajO) | 3:05 | 2024-10-24 | 2025-01-10 |
 | [Streets Made Me A King](https://open.spotify.com/track/1w7H5i90qKI84qdPaNpthi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/6UwxCr559vsWAmVC6WkrI3) | 3:04 | 2024-10-02 | 2024-10-04 |
 | [Stress Free \- Raw](https://open.spotify.com/track/6SJiWvwpl8A6Q9swnk1j5k) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Stress Free](https://open.spotify.com/album/0xDQfHj9i7SAwQX0MyGr72) | 2:11 | 2024-08-02 | 2024-10-04 |

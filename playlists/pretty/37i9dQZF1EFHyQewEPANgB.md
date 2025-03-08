@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1t4poam1A1i9RT8MUOhfh2">Earlly Mac</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 85 | [In New York \(feat\. Chaz French\)](https://open.spotify.com/track/6JP0FpO4vBfhVwYqd4RZGM) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 3:30 |
 | 86 | [Keep Cryin' \(feat\. Dusty McFly\)](https://open.spotify.com/track/55BVa5wtSdJ83KZvG19E0Q) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Dusty McFly](https://open.spotify.com/artist/0ekbxDROhz27q5QvYDCOsj) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 3:07 |
 | 87 | [1 of 1](https://open.spotify.com/track/72O33pptTabvp2zApzOge6) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [1 of 1](https://open.spotify.com/album/3etMIrphuPTdPOAFWune5i) | 2:30 |
-| 88 | [Gem In Eye](https://open.spotify.com/track/2koaO0Gmm39zgb8xOq91WU) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4) | [Gem In Eye \(feat\. Daz Dillinger\) \- Single](https://open.spotify.com/album/3aHdZUBqFaUHhLG4RrN4Nf) | 2:44 |
-| 89 | [Indiana Jones](https://open.spotify.com/track/5FTs2c08hz7s4kTZE6QK6o) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Jayla Darden](https://open.spotify.com/artist/2iKwz9zIZgysHu8SNuL0G7), [Supakaine](https://open.spotify.com/artist/3O3f7GxKMdA1Re1T3wNxpZ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 3:54 |
+| 88 | [Indiana Jones](https://open.spotify.com/track/5FTs2c08hz7s4kTZE6QK6o) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Jayla Darden](https://open.spotify.com/artist/2iKwz9zIZgysHu8SNuL0G7), [Supakaine](https://open.spotify.com/artist/3O3f7GxKMdA1Re1T3wNxpZ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 3:54 |
+| 89 | [Gem In Eye](https://open.spotify.com/track/2koaO0Gmm39zgb8xOq91WU) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4) | [Gem In Eye \(feat\. Daz Dillinger\) \- Single](https://open.spotify.com/album/3aHdZUBqFaUHhLG4RrN4Nf) | 2:44 |
 | 90 | [Camera Phone](https://open.spotify.com/track/1qA744mgwsiyE8TYafGiqD) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Dusty McFly](https://open.spotify.com/artist/0ekbxDROhz27q5QvYDCOsj), [B\. Lewie](https://open.spotify.com/artist/6PaR8BiEKBuKDML0yTChAs) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 3:13 |
 | 91 | [January 1st/ ManiGoat \(interlude\)](https://open.spotify.com/track/7BN2T2fvAYz5fcIXslY9Qc) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 2:20 |
 | 92 | [STILL GRIND](https://open.spotify.com/track/2NGi1vhgh3vgfJEMtiU2sW) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 1:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 99 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 100 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `AbrXCgAAAAC4aVRlr54qAyW/K8Grm5IC`
+Snapshot ID: `AbrcbAAAAAACy+5RmgilrXrbncr8V2w4`

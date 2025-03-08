@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-105 songs - 7 hr 30 min
+106 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Sintonizando](https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:22 | 2022-06-04 |  |
 | [Soy Latino](https://open.spotify.com/track/4uTFBaXZuwmgqJSovORGtk) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Soy Latino](https://open.spotify.com/album/7zOn2qIf0RXmNm3SBmz1VR) | 3:53 | 2025-02-19 |  |
 | [Soy Latino](https://open.spotify.com/track/08W016xoCPlcEFCfcbZg1n) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Soy Latino](https://open.spotify.com/album/4vpU0mnMhhUpi4crJhWiFN) | 3:53 | 2022-06-04 | 2025-02-20 |
-| [Sujeito Que Trabalha \- Ao Vivo](https://open.spotify.com/track/223LpIUBk8JbVU4gyal37f) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Blessed Sessions \(Ao Vivo\)](https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5) | 3:12 | 2022-06-04 |  |
+| [Sujeito Que Trabalha \(Pura Vida Brasil Riddim\)](https://open.spotify.com/track/1FS9JNe0pH3QafcNrO3y8o) | [Freedom Sounds](https://open.spotify.com/artist/7ev1JqsE5mapWZWDxm0RrH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sujeito Que Trabalha \(Pura Vida Brasil Riddim\)](https://open.spotify.com/album/1IqGS4y9XfWMgtNrbpYZT9) | 3:02 | 2025-03-07 |  |
+| [Sujeito Que Trabalha \- Ao Vivo](https://open.spotify.com/track/223LpIUBk8JbVU4gyal37f) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Blessed Sessions \(Ao Vivo\)](https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5) | 3:12 | 2022-06-04 | 2025-03-08 |
 | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/track/1XrYudR4oBTKGj4pqtb2lZ) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Dimme Roots](https://open.spotify.com/artist/4TNnhByA0EyFuJojfULhkz), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/album/5I9kknvTmA4mxOlA4hTtxJ) | 5:27 | 2022-06-17 |  |
 | [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/0yMFy59oKCccLsr3WvwsYZ) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [15 Anos \- Ao Vivo na Vila Madalena](https://open.spotify.com/album/7xE7jx2uzO77Ml4f7Ml3Kf) | 4:53 | 2023-12-19 |  |
 | [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/0quexAwNw8E8AUjJAGdLlf) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Planta e Raiz no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/1WWkbeVJxqyVgfRemIBZjY) | 3:58 | 2022-06-04 | 2023-12-20 |

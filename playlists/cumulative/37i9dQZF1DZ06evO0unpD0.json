@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00e9rie",
+        "url": "https://open.spotify.com/album/61uRI4s6CyYitUSVQNsqhr"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/6ki0DHqBJJHtQjZ9FoM3n6"
+    },
+    {
+      "album": {
         "name": "Soro",
         "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
       },

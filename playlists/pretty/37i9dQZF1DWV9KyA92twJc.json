@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05d9\u05e1\u05de\u05d9\u05df \u05de\u05d5\u05e2\u05dc\u05dd",
-  "num_followers": 25549,
+  "num_followers": 25552,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-03-06 22:00:08",
       "album": {
-        "name": "Sports car",
-        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 165045,
-      "name": "Sports car",
-      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
-    },
-    {
-      "added_at": "2025-03-06 22:00:08",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2025-03-06 22:00:08",
+      "album": {
+        "name": "Sports car",
+        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 165045,
+      "name": "Sports car",
+      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
     },
     {
       "added_at": "2025-03-06 22:00:08",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2025-03-06 22:00:08",
       "album": {
+        "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
+        "url": "https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM"
+      },
+      "artists": [
+        {
+          "name": "LifeSwisa",
+          "url": "https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu"
+        },
+        {
+          "name": "RONNY",
+          "url": "https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
+      "url": "https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6"
+    },
+    {
+      "added_at": "2025-03-06 22:00:08",
+      "album": {
         "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
         "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 238000,
       "name": "\u05dc\u05d3\u05e4\u05d5\u05e7 \u05ea'\u05e8\u05d0\u05e9",
       "url": "https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB"
-    },
-    {
-      "added_at": "2025-03-06 22:00:08",
-      "album": {
-        "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
-        "url": "https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM"
-      },
-      "artists": [
-        {
-          "name": "LifeSwisa",
-          "url": "https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu"
-        },
-        {
-          "name": "RONNY",
-          "url": "https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
-      "url": "https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6"
     },
     {
       "added_at": "2025-03-06 22:00:08",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-03-06 22:00:08",
       "album": {
-        "name": "\u05dc\u05d9\u05e8\u05d6",
-        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
-      },
-      "artists": [
-        {
-          "name": "Static",
-          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
-        }
-      ],
-      "duration_ms": 114625,
-      "name": "\u05e8\u05d5\u05e0\u05d3\u05dc\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3"
-    },
-    {
-      "added_at": "2025-03-06 22:00:08",
-      "album": {
         "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 218692,
       "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
       "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
+    },
+    {
+      "added_at": "2025-03-06 22:00:08",
+      "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "duration_ms": 114625,
+      "name": "\u05e8\u05d5\u05e0\u05d3\u05dc\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3"
     },
     {
       "added_at": "2025-03-06 22:00:08",

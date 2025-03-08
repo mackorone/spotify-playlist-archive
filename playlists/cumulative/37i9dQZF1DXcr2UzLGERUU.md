@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-157 songs - 8 hr 30 min
+159 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 | 2022-04-01 |  |
 | [Catch the Moon](https://open.spotify.com/track/5wfIDxNK5oaoxxIfLHJAAA) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/0qITXseHwyX8TiC0MdaLbq) | 3:06 | 2023-07-12 | 2024-04-19 |
 | [Colors](https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 2:40 | 2022-04-01 |  |
+| [Colours Are Beautiful](https://open.spotify.com/track/2ssVQ5QWeWa8dVCsUb24qe) | [Mr Roberelli](https://open.spotify.com/artist/4RYKM6DmBOElM8nqIqRenW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Colours Are Beautiful](https://open.spotify.com/album/0oeVmjdk7MKKjOjyVu2ORe) | 2:55 | 2025-03-07 |  |
 | [Dance for the Sun](https://open.spotify.com/track/5OoDqQXT5jqWoIKhNn9HIB) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Dance for the Sun: Yoga Songs for Kids](https://open.spotify.com/album/4JPicsqmJZFZ1zJE05nSuo) | 2:48 | 2022-04-01 |  |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-04-01 |  |
 | [Dandelion](https://open.spotify.com/track/6SFmihbeYCMTGczBQupH7c) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:06 | 2022-04-01 | 2023-04-09 |
@@ -102,7 +103,7 @@
 | [Look Up, Slow Down](https://open.spotify.com/track/5G6BsPcp90Hnkl0ed0lPmy) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc), [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Look Up, Slow Down](https://open.spotify.com/album/2RsQxq9lTwabFtHN3OfVJ3) | 3:14 | 2022-04-01 |  |
 | [Lost Boy](https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 4:36 | 2022-04-01 |  |
 | [Lullaby](https://open.spotify.com/track/1G0TdnHQLeVY7X1rQJOb93) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:47 | 2022-04-01 | 2024-04-19 |
-| [Lullaby](https://open.spotify.com/track/1swssW59uZWMmqLBEAoJR2) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/641SHR0kg4ZwvSLg4OmuH4) | 2:47 | 2022-04-01 |  |
+| [Lullaby](https://open.spotify.com/track/1swssW59uZWMmqLBEAoJR2) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/641SHR0kg4ZwvSLg4OmuH4) | 2:47 | 2022-04-01 | 2025-03-08 |
 | [Lullaby](https://open.spotify.com/track/3koMMMP2Ra6KVPru8XMsXQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Sing\-A\-Longs & Lullabies For The Film Curious George](https://open.spotify.com/album/0kYv61g7n6ZPe2TVaIBeeJ) | 2:47 | 2022-04-01 | 2022-11-13 |
 | [momma told me imma be](https://open.spotify.com/track/0IRCfQvGYNKd5P8hT7VPxD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc) | 2:13 | 2022-04-01 | 2022-07-29 |
 | [momma told me imma be](https://open.spotify.com/track/4GVgJQHyuTNoYVTabkTCil) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34) | 2:13 | 2022-04-01 | 2022-11-13 |
@@ -122,6 +123,7 @@
 | [Rest Your Head On My Shoulder](https://open.spotify.com/track/07jFL6Z173J4zH2R2SGGRM) | [Seeker Lover Keeper](https://open.spotify.com/artist/18E9agcfYi1KIQlJivdEcX) | [Seeker Lover Keeper](https://open.spotify.com/album/1uEWX9bX1dnHFY4WUN5r9F) | 3:31 | 2022-04-01 | 2024-06-01 |
 | [Right Here](https://open.spotify.com/track/1qE2VaY6WxPzPFraprTIX7) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Right Here](https://open.spotify.com/album/5aPuy7TykLKig3QG4Ca6Tu) | 3:55 | 2022-04-01 |  |
 | [Round and Round](https://open.spotify.com/track/37VX6Nxmj2cN3FlV0mK9HN) | [Lucy Kalantari & the Jazz Cats](https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8) | [What Kind of World?](https://open.spotify.com/album/585HjRgw08zmo5tlbWfZOE) | 2:48 | 2022-04-01 | 2023-04-09 |
+| [Row Row Row Your Boat \- Acoustic Version](https://open.spotify.com/track/5f40rbUdWGoe1XvDBX2Sbc) | [The Treebees](https://open.spotify.com/artist/776zwehFOhgZJr3iwN5OeA) | [Row Row Row Your Boat \(Acoustic Version\)](https://open.spotify.com/album/7K7xlhsOnDiZAtLPu0Z2Eq) | 2:38 | 2025-03-07 |  |
 | [Sea of Love](https://open.spotify.com/track/1J3w85cS3FEmoSKRu2dQJ8) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/5FbcUqv44TZnt8Ox6bzzZT) | 2:19 | 2022-04-01 |  |
 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 | 2022-04-01 | 2024-04-19 |
 | [Set Me Free](https://open.spotify.com/track/7d7bokEHYGrUc5snfIpHIw) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [Songs with My Daughters](https://open.spotify.com/album/4MyybH1mOTmaADrhjWXDgb) | 3:06 | 2022-04-01 |  |

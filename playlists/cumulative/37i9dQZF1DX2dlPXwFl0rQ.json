@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables de la M\u00fasica Mexicana. Edith M\u00e1rquez en portada.",
+  "description": "Estas son las indomables de la M\u00fasica Mexicana. Camila Fern\u00e1ndez en portada.",
   "name": "Mujeres Brav\u00edas",
   "tracks": [
     {
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 195466,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 173571,
       "name": "La Mejor Decisi\u00f3n",
       "url": "https://open.spotify.com/track/1o8tDip84CWVKXmZUYtHOh"
@@ -3535,6 +3535,24 @@
     },
     {
       "album": {
+        "name": "Las Ganas",
+        "url": "https://open.spotify.com/album/6wDq412yOizKrW3yVmmqYB"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195263,
+      "name": "Las Ganas",
+      "url": "https://open.spotify.com/track/5DWw655U4irhM7TZU2pYQl"
+    },
+    {
+      "album": {
         "name": "Las Mexicanas",
         "url": "https://open.spotify.com/album/7JD3x8vLMOIIzruPBVmjgo"
       },
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 152768,
       "name": "Le Cale A Quien Le Cale",
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
@@ -4845,6 +4863,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Libre Que En Casa",
+        "url": "https://open.spotify.com/album/3wICFJzDXLNbHpcaYXSiRf"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161117,
+      "name": "M\u00e1s Libre Que En Casa",
+      "url": "https://open.spotify.com/track/1MNeTjwMOALVRqapVrBgFj"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Que Un Rolex",
         "url": "https://open.spotify.com/album/15Zw9lOyNpsVMAuujnLKRh"
       },
@@ -5836,6 +5872,24 @@
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo"
+    },
+    {
+      "album": {
+        "name": "PLH (Pa' los Haters)",
+        "url": "https://open.spotify.com/album/1lvZWUvndUB1USnNK5TiHA"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163989,
+      "name": "PLH (Pa' los Haters)",
+      "url": "https://open.spotify.com/track/0ehk27kRaKKfbYqJSq21rG"
     },
     {
       "album": {

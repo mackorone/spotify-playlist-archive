@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Faul Gayo
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,399 likes - 92 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,412 likes - 92 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sakit Karena Cinta](https://open.spotify.com/track/6anG2cD3dp7yOxdcvlB3FI) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz) | [Sakit Karena Cinta](https://open.spotify.com/album/5keIXzGTxenH2oe3pBx26a) | 5:56 |
-| 2 | [Sholatlah Sebelum Kau Disholatkan](https://open.spotify.com/track/6n52z2t5n1pxXEknekVc7w) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Sholatlah Sebelum Kau Disholatkan](https://open.spotify.com/album/7CtMFVyeoLO7Q2ouU0HpkP) | 3:41 |
+| 1 | [Sholatlah Sebelum Kau Disholatkan](https://open.spotify.com/track/6n52z2t5n1pxXEknekVc7w) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Sholatlah Sebelum Kau Disholatkan](https://open.spotify.com/album/7CtMFVyeoLO7Q2ouU0HpkP) | 3:41 |
+| 2 | [Sakit Karena Cinta](https://open.spotify.com/track/6anG2cD3dp7yOxdcvlB3FI) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz) | [Sakit Karena Cinta](https://open.spotify.com/album/5keIXzGTxenH2oe3pBx26a) | 5:56 |
 | 3 | [Tanyakan Pada Hatimu](https://open.spotify.com/track/5dZhfSfgBFoftFV5agpTuj) | [Nazia Marwiana](https://open.spotify.com/artist/7g39o49fJ4Ku91kiBVmaCW) | [Tanyakan Pada Hatimu](https://open.spotify.com/album/641QUCL8LNngbYoKUDbavO) | 5:40 |
 | 4 | [Peluk Aku](https://open.spotify.com/track/0DGeqjxmICnJZWUFbc5kJh) | [Kabut Salju](https://open.spotify.com/artist/0Pp6pS7hDj733RBgVjXb6t), [DJ RBA](https://open.spotify.com/artist/74qLL4QhhMEFidqI5544Q0) | [Peluk Aku](https://open.spotify.com/album/2aQKNcv1m7lT1qKnKhRZNh) | 3:17 |
 | 5 | [Di Kenang Bukan Untuk Di Ulang](https://open.spotify.com/track/4opOZoKboOjUohYUxTt0jg) | [Yollanda](https://open.spotify.com/artist/6lruGjGA2RQwJyZMmOpL7e) | [Di Kenang Bukan Untuk Di Ulang](https://open.spotify.com/album/0HSjeYlTQAOdlKcm2AGI0T) | 5:22 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 91 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 |
 | 92 | [Cuma Kamu](https://open.spotify.com/track/2QnaLtjWrC4UMMVU6IspOo) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu](https://open.spotify.com/album/7mrO78qasVB2HQ17sywB3u) | 4:04 |
 
-Snapshot ID: `Z8pKYwAAAAA1yi7VxxFOYOLQFzubHbLM`
+Snapshot ID: `Z8p+1wAAAADaI+Y+fY4GZymVJbD4hLs1`

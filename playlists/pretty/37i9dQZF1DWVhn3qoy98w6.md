@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Ana Farelo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,457 likes - 66 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,461 likes - 66 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [Nuestros Himnos](https://open.spotify.com/track/0SmTi8jwk2FWM4LVNBYq8N) | [Hermano Salvaje](https://open.spotify.com/artist/4Pdw31CcKADRMfv8pZiZTC) | [Nuestros Himnos](https://open.spotify.com/album/0C91IoVs73ts2Jm9hkcYmx) | 3:17 |
 | 60 | [La Carga](https://open.spotify.com/track/3JIzRdPxElysZMqKaBcwSk) | [Fango Club](https://open.spotify.com/artist/5Sl5ZyDZOG9se8zc7IM3Kf) | [Menú Degustación](https://open.spotify.com/album/5kdlNiqqLX2wWD522qwP1m) | 3:33 |
 | 61 | [Aparato](https://open.spotify.com/track/2fr63Uqo55MlIgJ1lC2qpr) | [Henko](https://open.spotify.com/artist/6euEaUskx8IOFgR6Iq9wuF) | [Aparato](https://open.spotify.com/album/0SdFr4GKfWe6UrEpcJGOGe) | 5:35 |
-| 62 | [ambienti](https://open.spotify.com/track/3Vc5QGTB45hp6KzjjTQKD8) | [Mararia](https://open.spotify.com/artist/3ptwPWJo2y7ekhs4tNABKn), [JAVITO](https://open.spotify.com/artist/0SrMoPYe3YVD69wOu3zGDj) | [ambienti](https://open.spotify.com/album/6cIhOlDUE0lyFn5SgJ9zVF) | 2:30 |
+| 62 | [ambienti](https://open.spotify.com/track/3Vc5QGTB45hp6KzjjTQKD8) | [Mararia](https://open.spotify.com/artist/3ptwPWJo2y7ekhs4tNABKn), [JAVIT0](https://open.spotify.com/artist/7rQXBrC75hW1JsKsihv2dO) | [ambienti](https://open.spotify.com/album/6cIhOlDUE0lyFn5SgJ9zVF) | 2:30 |
 | 63 | [Cara o mar](https://open.spotify.com/track/4c4Yqvd3XMs4uz74rQz4Zy) | [Gala i Ovidio](https://open.spotify.com/artist/1WDaT0hseXn1UAQRQwtM1P) | [Cara o mar](https://open.spotify.com/album/5xhEnbt8MqeGFN6prp0jFy) | 2:48 |
 | 64 | [La Ciutat](https://open.spotify.com/track/4jNzAaVUhziU6v8tdiQz7Y) | [GIN](https://open.spotify.com/artist/2F1IyDZFiGWfHcGZMOGWGI) | [La Ciutat](https://open.spotify.com/album/6koxObXS3Y8g0nB7pcgMLZ) | 2:34 |
 | 65 | [Naja](https://open.spotify.com/track/4W3ZUEL9TSHoNpXr9IUHia) | [FIKUS](https://open.spotify.com/artist/5szRJH6PvPsvN61YlwkP1s), [CORALS](https://open.spotify.com/artist/4lwySrcxmy04axgrWQ7Qer) | [NO LOVE](https://open.spotify.com/album/5NjpWshnVoMc9t4BoalSUW) | 2:40 |

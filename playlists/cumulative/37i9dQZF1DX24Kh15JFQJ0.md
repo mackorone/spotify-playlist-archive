@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Dwight Yoakam
 
-306 songs - 17 hr 57 min
+307 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [I'm Your Puppet](https://open.spotify.com/track/4jB5tcoNY3duJxB4f8o9Fh) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik), [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [From Memphis to Muscle Shoals](https://open.spotify.com/album/6YcBXzmWkLRQCf2jik9UPl) | 3:01 | 2024-08-02 |  |
 | [If the World Had a Front Porch](https://open.spotify.com/track/7AW2WsM8dc5pmXIgdn2SpC) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Good Ole Days](https://open.spotify.com/album/7CHs8peAikJJll2udTEDWh) | 3:01 | 2021-10-15 | 2024-02-17 |
 | [If There Weren't So Many Damn Songs](https://open.spotify.com/track/0zhQYIwWGcjQ3wnCd3qjse) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [If There Weren't So Many Damn Songs](https://open.spotify.com/album/6g0jNAgCfeOKPzgz0LLXwQ) | 3:46 | 2021-10-15 |  |
+| [If You Hadn’t Been There](https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [If You Hadn’t Been There](https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD) | 3:28 | 2025-03-07 |  |
 | [If You See Him, If You See Her \- Acoustic Version](https://open.spotify.com/track/2BwIm4JJJOv4lbfskscKW1) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [If You See Him, If You See Her \(Acoustic Version\)](https://open.spotify.com/album/0Q2NGzdPFp05YAaLRqudLk) | 3:59 | 2023-04-28 |  |
 | [In My Book](https://open.spotify.com/track/71Em00OWrDMDT3tGJE9YoC) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [In My Book](https://open.spotify.com/album/1MKAux7mx63s3lcRKkyQ8r) | 3:01 | 2023-07-07 |  |
 | [It All Falls Down to the River](https://open.spotify.com/track/5S6Wzgth3a8WfttfEdfRij) | [Suzy Bogguss](https://open.spotify.com/artist/13YoXxZt6SLg96dQE1vkHy) | [Praying' for Sunshine](https://open.spotify.com/album/1DTqHjYNTSswC8OEF0V5VO) | 4:03 | 2023-11-06 |  |

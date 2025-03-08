@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Michael Marcagi
+> A laid\-back trip in the folk scene\. Cover: Gigi Perez
 
-1,086 songs - 2 day 17 hr 21 min
+1,089 songs - 2 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,13 +75,13 @@
 | [Are We Good](https://open.spotify.com/track/2rjopNdeDSuLAEqoLKPmOK) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp) | [Are We Good](https://open.spotify.com/album/1P326E01rUHqZ8pFLTCs5C) | 4:30 | 2023-04-07 | 2023-04-29 |
 | [Are You Ok?](https://open.spotify.com/track/5teaSgkyMy3HyRWV2KePmS) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Are You Ok?](https://open.spotify.com/album/0cdJWbsnAFXRF42UtrekBl) | 3:27 | 2024-01-19 | 2024-04-06 |
 | [Armour](https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Armour](https://open.spotify.com/album/6FSGKvGRDmBSGmhfSmVEh8) | 3:13 | 2022-06-29 | 2023-03-04 |
-| [Ashe](https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashe](https://open.spotify.com/album/3OokDJn75iFhsvGmfOALoY) | 4:21 | 2024-09-06 |  |
+| [Ashe](https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashe](https://open.spotify.com/album/3OokDJn75iFhsvGmfOALoY) | 4:21 | 2024-09-06 | 2025-03-08 |
 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 | 2025-02-14 |  |
 | [Audience of One](https://open.spotify.com/track/6hbMsSfvZND7EZeTrJitit) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Audience of One](https://open.spotify.com/album/7mbzYiuy6W2oquB6HbasxJ) | 3:55 | 2024-09-06 |  |
 | [Ba Ba Song](https://open.spotify.com/track/1Ety9Dt4hIaKZGyocjilLJ) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Ba Ba Song](https://open.spotify.com/album/3p2eePj2vNHZLn8s1WVgJ2) | 2:58 | 2024-06-28 | 2025-01-11 |
 | [Babe, I'm All Yours](https://open.spotify.com/track/0ObTn3Xn2B28LpFqFrMmLd) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Babe, I'm All Yours](https://open.spotify.com/album/2HHy6xAYe8T0UD3mzaGo9M) | 3:17 | 2024-07-05 | 2024-08-10 |
 | [Baby, You Know](https://open.spotify.com/track/4t5wDXWX3BwwgkqzdYieH3) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Baby, You Know](https://open.spotify.com/album/330iEZ1HuQ1ghRg53B0xog) | 3:02 | 2022-07-01 | 2022-08-13 |
-| [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 | 2024-10-18 |  |
+| [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 | 2024-10-18 | 2025-03-08 |
 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 | 2024-08-02 | 2025-01-18 |
 | [Back For The Funeral](https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Back For The Funeral](https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX) | 3:12 | 2024-05-03 | 2024-06-08 |
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-01-31 |  |
@@ -99,7 +99,7 @@
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-03-08 | 2024-07-13 |
 | [Begin Again](https://open.spotify.com/track/02TKEQYD6jLEB0cYpBflFE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Begin Again](https://open.spotify.com/album/5XSgaLPBoAAno2FwKhaIHl) | 3:19 | 2022-05-13 | 2022-08-27 |
 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 | 2024-09-13 |  |
-| [Believer](https://open.spotify.com/track/6jfiZX1kpuFSfJQeCWNjaD) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Believer](https://open.spotify.com/album/2H7hAkHkueG8CYwyW5I2Ce) | 3:43 | 2025-01-24 |  |
+| [Believer](https://open.spotify.com/track/6jfiZX1kpuFSfJQeCWNjaD) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Believer](https://open.spotify.com/album/2H7hAkHkueG8CYwyW5I2Ce) | 3:43 | 2025-01-24 | 2025-03-08 |
 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-06 | 2023-02-04 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-15 | 2024-06-29 |
 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 | 2025-02-14 |  |
@@ -588,6 +588,7 @@
 | [Lully Lullay](https://open.spotify.com/track/73gk7tdQ6hq1LqDpV69ytB) | [Myriam Gendron](https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU), [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [Jim White](https://open.spotify.com/artist/2e5Czu1HGML44EmIuNsA4o) | [Mayday](https://open.spotify.com/album/68WcI67Cm1Ag9R6zNdqEBE) | 4:28 | 2024-05-03 | 2024-05-11 |
 | [Machine](https://open.spotify.com/track/2CnxDWao2XOYRXnYDIGIv5) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg), [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Machine](https://open.spotify.com/album/7GukStaF1Xjt2p31kgHQyC) | 2:59 | 2024-12-06 |  |
 | [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 | 2023-01-20 | 2023-06-03 |
+| [Magic](https://open.spotify.com/track/10e8q50norTRKjCFM3xePC) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Magic](https://open.spotify.com/album/05Abr5BF3CZpcjatqNTi1p) | 3:46 | 2025-03-07 |  |
 | [Maia](https://open.spotify.com/track/7GRw86pBE9E2kiH40ee9Nm) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Maia](https://open.spotify.com/album/1CiFjVxJe7LbAX8i9w6VRN) | 3:30 | 2024-03-15 | 2024-04-19 |
 | [Make No Mistakes](https://open.spotify.com/track/0YT0OGtTkkYOlqVXfMOqE5) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Make No Mistakes](https://open.spotify.com/album/3WMpLhAIpkQrimjZlk4XRJ) | 3:11 | 2023-03-31 | 2023-05-20 |
 | [Maker Taker](https://open.spotify.com/track/4Eg7gCb7YW3ASrcjNMrHTw) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Strange Medicine](https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D) | 3:39 | 2024-05-17 | 2024-07-27 |
@@ -604,6 +605,7 @@
 | [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 | 2023-12-22 | 2024-01-20 |
 | [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-01 | 2023-12-24 |
 | [Melbourne](https://open.spotify.com/track/3MKXWNCf5HuFnije8DleCS) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Melbourne](https://open.spotify.com/album/33RsBJcgXW6cIrBgoVfmWO) | 2:59 | 2022-08-26 | 2022-10-22 |
+| [Melody](https://open.spotify.com/track/3DFfNBtNDKKMaUv3CZ0qsE) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Melody](https://open.spotify.com/album/6lLyfQ83nAeBmCBNZWBi7q) | 3:20 | 2025-03-07 |  |
 | [Memory Palace](https://open.spotify.com/track/60wYARCUwuFlDHumkWOIv7) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/2XYClv25hWniJ6eUrejkEe) | 4:01 | 2023-06-30 | 2023-10-14 |
 | [Mesmerized](https://open.spotify.com/track/0sEwzHkr0Zjln1drW3tuRo) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [For Eden](https://open.spotify.com/album/2cyMFfHbKbYQPRGPemBp8f) | 3:15 | 2024-07-19 | 2025-01-18 |
 | [Michigan](https://open.spotify.com/track/3aKIwhm12lkuZAp0AjalYy) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [Michigan](https://open.spotify.com/album/0gILM2JR7Hx68yyU2SWSGm) | 3:55 | 2023-02-17 | 2023-07-15 |
@@ -1057,6 +1059,7 @@
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-04-05 | 2024-08-24 |
 | [Willow](https://open.spotify.com/track/1wJdEsTX2x1uzIfDdkuVdJ) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/2awMslAt7eh8sTwTs8kqWr) | 4:29 | 2023-04-21 | 2023-04-30 |
 | [Willow](https://open.spotify.com/track/4ERM0QdLgq9HvZ7zUsiimB) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds) | 4:29 | 2023-04-28 | 2023-06-03 |
+| [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 | 2025-03-07 |  |
 | [Wise Old Owl](https://open.spotify.com/track/7pvGhGX3wmSGpmEhMxKSse) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Wise Old Owl](https://open.spotify.com/album/5Y5LTUkigNOMdVm7Ep7CSW) | 1:31 | 2023-06-09 | 2023-08-12 |
 | [Wishbone](https://open.spotify.com/track/1JFz7nBOYZkC1lu9JLapvJ) | [Phöenix Lazare](https://open.spotify.com/artist/35tv3JaOeSZMF1ScsWmlVy) | [Wishbone](https://open.spotify.com/album/52s1OjYNTVAh86m6HXqipg) | 4:10 | 2022-06-24 | 2023-02-04 |
 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-04-26 | 2024-05-25 |

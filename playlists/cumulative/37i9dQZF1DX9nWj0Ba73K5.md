@@ -4,7 +4,7 @@
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: Lori McKenna
 
-265 songs - 15 hr 30 min
+266 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Deeper Than The Holler](https://open.spotify.com/track/0XJJs5CnaQ0mKyFea5s1F0) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Mountaintop](https://open.spotify.com/album/31WOBFBlfjF7qjW3uURoT6) | 3:32 | 2022-01-01 |  |
 | [Diamond Rings and Old Barstools](https://open.spotify.com/track/14ZolByRHEVshRFROsU83q) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Barry Dean](https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7) | [Diamond Rings and Old Barstools](https://open.spotify.com/album/4hjM7kfH0SloPU8Qdhxui6) | 2:45 | 2023-02-24 |  |
 | [Dirt](https://open.spotify.com/track/1sr81nHFuOxCR5yM3P7GZ8) | [Rodney Clawson](https://open.spotify.com/artist/7etwQwzmdaax62i3ol2NXC) | [Dirt](https://open.spotify.com/album/0LhsVBwS1rBISECjWJwAzv) | 3:35 | 2024-09-13 |  |
+| [Dirt Cheap \(Demo\)](https://open.spotify.com/track/4X9Wn9ijHuGqx14QIhda3P) | [Josh Phillips](https://open.spotify.com/artist/5TxhHYCUoqOugdrEcSIwDj), [Original Demos](https://open.spotify.com/artist/1jQhNAxaUOKGUT01OmmIW8) | [Dirt Cheap \(Demo\)](https://open.spotify.com/album/7uovaiUY6tB4hlfyuQfq8n) | 4:05 | 2025-03-07 |  |
 | [Dirt on My Boots](https://open.spotify.com/track/29HapPRVNbjLxkMp92m5rk) | [Ashley Gorley](https://open.spotify.com/artist/0kTOf32ibrDhDYZCjbZ64T), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 2:41 | 2022-01-01 | 2022-03-01 |
 | [Dirt on My Boots](https://open.spotify.com/track/6GU9iBzArpImM40kV9jUpe) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24), [Jesse Frasure](https://open.spotify.com/artist/7oLBWgHxUovQlxZG2D6bNy), [Ashley Gorley](https://open.spotify.com/artist/0kTOf32ibrDhDYZCjbZ64T) | [Dirt on My Boots](https://open.spotify.com/album/6rpSPKwoAfkLk1mNxVvQyc) | 2:45 | 2022-02-28 |  |
 | [Don't Blink](https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Don't Blink](https://open.spotify.com/album/2y5AP6VVxw4FFR96AUeoVh) | 3:28 | 2022-01-01 |  |

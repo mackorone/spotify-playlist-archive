@@ -648,7 +648,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 303600,
       "name": "Falling",
       "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Lost Man",
+        "url": "https://open.spotify.com/album/7D31Tu8Acs4EnAOhHNzm1u"
+      },
+      "artists": [
+        {
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323437,
+      "name": "Lost Man",
+      "url": "https://open.spotify.com/track/2quMvdrHOSiAT0XHTM7Bof"
+    },
+    {
+      "album": {
         "name": "Two's Company",
         "url": "https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG"
       },
@@ -1540,6 +1558,24 @@
       "duration_ms": 275195,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/2e6yQaYtbgM2zkNqSB5xGO"
+    },
+    {
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/6pNByFfy2lHC0VO38APy6w"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260519,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/0ENoBHeSgaJsnjoY9abf9q"
     },
     {
       "album": {
@@ -2714,7 +2750,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 196080,
       "name": "The Hammer & The Rose",
       "url": "https://open.spotify.com/track/1gDbDOHyTpzB9rVn9BtC05"

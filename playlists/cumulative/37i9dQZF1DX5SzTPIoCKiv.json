@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "American Gospel",
+        "url": "https://open.spotify.com/album/2mI9nnJ9LJeLBvnMhWWig7"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188714,
+      "name": "American Gospel",
+      "url": "https://open.spotify.com/track/70ZJchbrhFgSO4q8JVSHwr"
+    },
+    {
+      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 217809,
       "name": "Exit Us",
       "url": "https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m"
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 205273,
       "name": "Not Finished Yet",
       "url": "https://open.spotify.com/track/6KOODaO7lys3ialQZJh2Db"
@@ -3894,7 +3912,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 212618,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/1ChWLfZppNHE101YA0QFgT"

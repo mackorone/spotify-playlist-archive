@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-396 songs - 21 hr 31 min
+397 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [2 The Brain](https://open.spotify.com/track/1sR0NZ42EGY6bW2lidiC45) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [2 The Brain](https://open.spotify.com/album/7fVwQzo8mG4GlPAhHn5ElW) | 3:25 | 2021-11-19 | 2022-01-08 |
 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 | 2024-05-10 |  |
 | [AETHER \- Hex Cougar Remix](https://open.spotify.com/track/0JT6aP58HKQ80VrXSVD8cK) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [AETHER \(Hex Cougar Remix\)](https://open.spotify.com/album/6lEL2qnKiGsbpvDEtcc9lN) | 4:03 | 2021-11-19 | 2022-01-08 |
-| [All Black](https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Feral](https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN) | 2:14 | 2024-08-02 |  |
+| [All Black](https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Feral](https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN) | 2:14 | 2024-08-02 | 2025-03-08 |
 | [All I Need \- VIP](https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [All I Need \(VIP\)](https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv) | 3:15 | 2021-11-19 | 2023-04-29 |
 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 | 2022-09-09 |  |
 | [Anthem](https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Anthem](https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY) | 2:15 | 2022-01-14 | 2023-06-18 |
@@ -193,6 +193,7 @@
 | [Legendary](https://open.spotify.com/track/3yFb3JWYOaKdgwViCGPnM2) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK), [Vkay](https://open.spotify.com/artist/26Na9AsGDehQcRBgPMewIy), [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Legendary](https://open.spotify.com/album/2xWaI7sAZVyz6axpQUizZ5) | 4:57 | 2021-11-19 | 2023-09-24 |
 | [Level](https://open.spotify.com/track/2EaQrkCOe5Esv3NWSnk4sX) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Level](https://open.spotify.com/album/60Td5Qx0Cs0ua9sAqePcPX) | 2:40 | 2022-04-15 | 2022-06-20 |
 | [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 | 2023-04-28 | 2025-02-08 |
+| [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 | 2025-03-07 |  |
 | [Lights On](https://open.spotify.com/track/38WJwT5IIZ3dCRadIaKmKM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [The R♾️ts](https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7) | 2:49 | 2024-11-22 |  |
 | [LIKE ME](https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LIKE ME](https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4) | 3:27 | 2024-08-31 |  |
 | [LOADED](https://open.spotify.com/track/7w53Q075Nr0s8UbAL1Una0) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [It’s Riddim Time](https://open.spotify.com/album/52MZ9cM7DPDCrJZktsHKF0) | 2:55 | 2024-05-24 | 2024-07-13 |

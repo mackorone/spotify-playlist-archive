@@ -2,9 +2,9 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover: Sleep Theory
+> The rock songs you need to know\. Turn it  ⬆️ Cover: Ghost
 
-1,413 songs - 3 day 12 hr 15 min
+1,416 songs - 3 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 | 2023-01-13 | 2023-03-18 |
 | [Blow \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/2Kh3cX18dUwMz9SnI0uBse) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Blow \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/4y6cmFtySUIrspN4VwYIha) | 2:45 | 2022-06-10 | 2022-09-24 |
 | [Blow \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/3YqJ7QhsNbmluU3qzbd3ns) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Love, Drugs & Misery](https://open.spotify.com/album/0P49eFNrsqjfnz4txLvFe6) | 2:45 | 2022-09-23 | 2023-05-13 |
-| [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-10-04 |  |
+| [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-10-04 | 2025-03-08 |
 | [Body Bag](https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Body Bag](https://open.spotify.com/album/7bZMcP6paQcjkuLwVkB7aN) | 3:16 | 2022-06-17 | 2022-08-13 |
 | [BODY//TEMPLE](https://open.spotify.com/track/0Vd9Rbw2dBRcrw5OBnGK7X) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [BODY//TEMPLE](https://open.spotify.com/album/7BmY2Ihzn5D4DgEmhzFCCS) | 3:25 | 2023-09-22 | 2023-11-04 |
 | [BODY//TEMPLE](https://open.spotify.com/track/27JkJCQwvAxWOvGotwkiBp) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [BODY//TEMPLE](https://open.spotify.com/album/54mE6GU9wTbt7e0tgGhC6P) | 3:25 | 2023-11-03 | 2023-11-25 |
@@ -200,6 +200,7 @@
 | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU) | 3:37 | 2023-11-17 | 2023-12-04 |
 | [Burn With You](https://open.spotify.com/track/59HNDyS0NSPoPU1BjvVebk) | [Egypt Central](https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w) | [Burn With You](https://open.spotify.com/album/4RxTruqh7IQ6zMG44NAdhS) | 3:14 | 2021-07-09 | 2022-02-12 |
 | [Bury Me](https://open.spotify.com/track/1NSYXbAScmN0YlfrA7wTuS) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Bury Me](https://open.spotify.com/album/473EymkgPRlNPrNULlRcau) | 3:22 | 2023-10-27 | 2024-01-13 |
+| [By a Monster's Hand](https://open.spotify.com/track/1h837MpNwbxLmbozm54JgE) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster's Hand](https://open.spotify.com/album/1UySfuZwFqzldyUFqvogi7) | 3:42 | 2025-03-07 |  |
 | [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 | 2023-02-17 | 2023-05-20 |
 | [By The Way](https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [By The Way](https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8) | 2:52 | 2025-01-10 | 2025-02-15 |
 | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f) | 3:59 | 2023-06-16 | 2023-10-07 |
@@ -696,7 +697,7 @@
 | [Lets Go](https://open.spotify.com/track/2Huoe7IkblyOcQZP3No6uH) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Lets Go](https://open.spotify.com/album/7f8VPd0sSK9RaDywtguiqE) | 2:39 | 2023-03-10 | 2023-05-13 |
 | [Letterman](https://open.spotify.com/track/20IiJcm7Kur78VPm53uO87) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 3:01 | 2024-06-28 | 2024-08-10 |
 | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/5BdiprSBqgkULtloEFbhfF) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/41xx4p0Q1MhE2Bnfkeo6b0) | 3:32 | 2021-09-24 | 2022-01-15 |
-| [Liar](https://open.spotify.com/track/0BKLYnngsUyaEwWPOJjGxc) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Liar](https://open.spotify.com/album/0L7WPQBymCeeXmbWiWQBxX) | 3:24 | 2024-09-13 |  |
+| [Liar](https://open.spotify.com/track/0BKLYnngsUyaEwWPOJjGxc) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Liar](https://open.spotify.com/album/0L7WPQBymCeeXmbWiWQBxX) | 3:24 | 2024-09-13 | 2025-03-08 |
 | [LIES WE TELL OURSELVES](https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [LIES WE TELL OURSELVES](https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4) | 3:27 | 2024-03-22 | 2024-04-13 |
 | [Lifeline](https://open.spotify.com/track/7ALsy4QJ5BdzWiHbJPglf6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Lifeline](https://open.spotify.com/album/4ByxEMaefZBFPA3LqYrQOv) | 3:13 | 2021-09-10 | 2022-03-18 |
 | [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 | 2022-05-06 | 2022-10-15 |
@@ -926,7 +927,7 @@
 | [PIECES](https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [PIECES](https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM) | 4:04 | 2024-03-22 | 2024-10-26 |
 | [Piggy](https://open.spotify.com/track/5RoG0iXCoMzys5LHxw4KqE) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Piggy](https://open.spotify.com/album/5YQD1h6JKgfcVIYUGjChDW) | 2:37 | 2022-01-28 | 2022-02-26 |
 | [Pigs](https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pigs](https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC) | 3:53 | 2023-01-27 | 2023-04-15 |
-| [Pitch Black](https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Pitch Black](https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS) | 4:25 | 2024-11-15 |  |
+| [Pitch Black](https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Pitch Black](https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS) | 4:25 | 2024-11-15 | 2025-03-08 |
 | [Pity Sex](https://open.spotify.com/track/5IbSfGOpPGcpeKn6lPaMFr) | [Off Road Minivan](https://open.spotify.com/artist/21JxgGAXZjSjBg9JRgIo9q) | [May This Keep You Safe From Harm](https://open.spotify.com/album/4QP40xoxTzTyDrDJ86MjMy) | 4:24 | 2023-06-23 | 2023-07-29 |
 | [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 | 2022-10-14 | 2022-11-08 |
 | [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 | 2022-06-24 | 2022-10-20 |
@@ -1012,6 +1013,7 @@
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-10-07 | 2022-11-19 |
 | [San Quentin](https://open.spotify.com/track/4Q9zJZBVJRGkiOWaZbEFIK) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:31 | 2022-11-18 | 2023-04-09 |
 | [Sane \- Radio Edit](https://open.spotify.com/track/3JMXQTQ6ai6lAPN82UdOox) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Sane](https://open.spotify.com/album/63TT4OsgibdCVUVCTdCg0W) | 3:50 | 2021-05-28 | 2022-03-12 |
+| [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-07 |  |
 | [Saturation \(Strange Love\)](https://open.spotify.com/track/3USDxKVLG1hbnAnY3zGXL4) | [Grey Daze](https://open.spotify.com/artist/1OPyWvWWkx18pqGjugyxrl) | [Saturation \(Strange Love\)](https://open.spotify.com/album/6IxQJ1qcKfSmDWVZ4Nniox) | 3:55 | 2022-04-15 | 2022-08-27 |
 | [Saturday Night](https://open.spotify.com/track/7BssDn6I8fEzYms6FlkXtC) | [The Black Moods](https://open.spotify.com/artist/3SMJIplWXJ4qwuuGRHZyJH) | [Into the Night](https://open.spotify.com/album/2H1et6Vfi611cTyK1mRykH) | 3:45 | 2022-06-10 | 2022-07-23 |
 | [Savage](https://open.spotify.com/track/4wQOoSjqkdLbfSuYYoGsuv) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Songs From Savage](https://open.spotify.com/album/7C0G7YUeJn2UhgnDC0iNRL) | 3:15 | 2024-06-28 | 2024-09-07 |
@@ -1398,6 +1400,7 @@
 | [Words Lost Meaning](https://open.spotify.com/track/3AZiiXjlPqIg6ZU6qo42pE) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Words Lost Meaning](https://open.spotify.com/album/2erPcgak09jhbYN5UUfmbz) | 3:45 | 2024-12-06 | 2025-01-04 |
 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 | 2023-05-12 | 2023-06-17 |
 | [WORLD vs PEACE](https://open.spotify.com/track/7KcGQ9oNG74zlRGdh9kjRv) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [WORLD vs PEACE](https://open.spotify.com/album/63L9C9oxsYSUogz10eyQjL) | 2:58 | 2024-10-18 | 2025-02-01 |
+| [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 | 2025-03-07 |  |
 | [Worst Is On Its Way](https://open.spotify.com/track/4mvAZT5CKaKZjvNGmjoHRA) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 4:03 | 2022-06-10 | 2023-03-18 |
 | [Worth It](https://open.spotify.com/track/2lGhCDe6WiI0NV2qvD5TJa) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Skeletons](https://open.spotify.com/album/53Qn747V1G16yJvN363RZA) | 3:48 | 2024-03-22 | 2024-08-10 |
 | [Wrap Your Head Around](https://open.spotify.com/track/4hxSk3I2h69RF0L3WQdkEZ) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Wrap Your Head Around](https://open.spotify.com/album/6r1Rm3AVrodwaFJnwcPgF9) | 4:35 | 2022-12-09 | 2023-02-11 |

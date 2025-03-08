@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -5192,7 +5192,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 223500,
       "name": "I Just Wanna Know",
       "url": "https://open.spotify.com/track/2a78JDp7YVCyEydtRiHOn7"
@@ -9164,7 +9164,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 182453,
       "name": "Promethazine",
       "url": "https://open.spotify.com/track/25n8diXqpb6LKyL0Dwzwoy"
@@ -9410,7 +9410,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 165395,
       "name": "Rapunzel (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t"
@@ -14090,6 +14090,24 @@
     {
       "album": {
         "name": "Juicy",
+        "url": "https://open.spotify.com/album/1RUT3hcRVsNmP46IL7vmqH"
+      },
+      "artists": [
+        {
+          "name": "Silly Fools",
+          "url": "https://open.spotify.com/artist/2xjp1njSsecnNhjgKZ35Ok"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266280,
+      "name": "\u0e02\u0e35\u0e49\u0e2b\u0e36\u0e07",
+      "url": "https://open.spotify.com/track/1nmdJTwB575vxvNm6PdXHq"
+    },
+    {
+      "album": {
+        "name": "Juicy",
         "url": "https://open.spotify.com/album/7CYTViNhrd1uXR1AkgVPjr"
       },
       "artists": [
@@ -15822,7 +15840,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 236062,
       "name": "\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs"
@@ -16140,7 +16158,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 207387,
       "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/4WkNie7Ys3kDgfmIPvMOsg"
@@ -18432,7 +18450,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 207032,
       "name": "\u0e40\u0e14\u0e47\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk"

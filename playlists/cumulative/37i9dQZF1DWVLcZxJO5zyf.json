@@ -3959,6 +3959,28 @@
     },
     {
       "album": {
+        "name": "Maria Magdalena",
+        "url": "https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156461,
+      "name": "Maria Magdalena",
+      "url": "https://open.spotify.com/track/2TVqEfs20W2rfg0EDAW1MD"
+    },
+    {
+      "album": {
         "name": "MAR\u00c9",
         "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
       },

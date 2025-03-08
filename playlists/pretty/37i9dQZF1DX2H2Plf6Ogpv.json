@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 28718,
+  "num_followers": 28744,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA"
-      },
-      "artists": [
-        {
-          "name": "Flycatcher",
-          "url": "https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn"
-        }
-      ],
-      "duration_ms": 176981,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "EELS",
         "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
       },
@@ -499,6 +483,26 @@
       "duration_ms": 213904,
       "name": "Van Goes",
       "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Ill Times",
+        "url": "https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J"
+      },
+      "artists": [
+        {
+          "name": "GUM",
+          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+        },
+        {
+          "name": "Ambrose Kenny-Smith",
+          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+        }
+      ],
+      "duration_ms": 227702,
+      "name": "Dud",
+      "url": "https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -583,38 +587,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Ill Times",
-        "url": "https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J"
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA"
       },
       "artists": [
         {
-          "name": "GUM",
-          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
-        },
-        {
-          "name": "Ambrose Kenny-Smith",
-          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+          "name": "Flycatcher",
+          "url": "https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn"
         }
       ],
-      "duration_ms": 227702,
-      "name": "Dud",
-      "url": "https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Crispy Skin",
-        "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 379400,
-      "name": "Crispy Skin",
-      "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
+      "duration_ms": 176981,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -635,18 +619,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Counting Sheep",
-        "url": "https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC"
+        "name": "Crispy Skin",
+        "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
       },
       "artists": [
         {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 246231,
-      "name": "Counting Sheep",
-      "url": "https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN"
+      "duration_ms": 379400,
+      "name": "Crispy Skin",
+      "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Counting Sheep",
+        "url": "https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 246231,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Feast",
         "url": "https://open.spotify.com/album/5I66m64ybG92bPlUkJ5Q2b"
       },
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Suck The Cherry",
-        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
+        "name": "I Just Needed You To Know",
+        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
       "artists": [
         {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
         }
       ],
-      "duration_ms": 183246,
-      "name": "Suck The Cherry",
-      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
+      "duration_ms": 275586,
+      "name": "I Just Needed You To Know",
+      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -727,22 +727,6 @@
       "duration_ms": 178770,
       "name": "ATTENTION",
       "url": "https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "I Just Needed You To Know",
-        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "I Just Needed You To Know",
-      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
     },
     {
       "added_at": "2024-12-04 13:59:39",
@@ -775,6 +759,22 @@
       "duration_ms": 204283,
       "name": "Bardo",
       "url": "https://open.spotify.com/track/5bpNUso3XpgZ0jsFMBoYMV"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Under The Skin",
+        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Under The Skin",
+      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Under The Skin",
-        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
+        "name": "Suck The Cherry",
+        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
       },
       "artists": [
         {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Under The Skin",
-      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
+      "duration_ms": 183246,
+      "name": "Suck The Cherry",
+      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "life till bones",
-        "url": "https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS"
-      },
-      "artists": [
-        {
-          "name": "Oso Oso",
-          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "that's what time does",
-      "url": "https://open.spotify.com/track/6CpaWnrVt7lyGALNFUNgdt"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "lightweight",
         "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Adoringly Drunk",
-        "url": "https://open.spotify.com/album/32xqQUt1BvPqxRjjdjts7C"
+        "name": "life till bones",
+        "url": "https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS"
       },
       "artists": [
         {
-          "name": "The Criticals",
-          "url": "https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK"
+          "name": "Oso Oso",
+          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
         }
       ],
-      "duration_ms": 185811,
-      "name": "Adoringly Drunk",
-      "url": "https://open.spotify.com/track/14cTaKkjwvw9nZFk7DC1UX"
+      "duration_ms": 188840,
+      "name": "that's what time does",
+      "url": "https://open.spotify.com/track/6CpaWnrVt7lyGALNFUNgdt"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -991,6 +975,22 @@
       "duration_ms": 195303,
       "name": "Dull (feat. Softcult)",
       "url": "https://open.spotify.com/track/62zUR9KtxLb9h0ytBPjZWG"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Adoringly Drunk",
+        "url": "https://open.spotify.com/album/32xqQUt1BvPqxRjjdjts7C"
+      },
+      "artists": [
+        {
+          "name": "The Criticals",
+          "url": "https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK"
+        }
+      ],
+      "duration_ms": 185811,
+      "name": "Adoringly Drunk",
+      "url": "https://open.spotify.com/track/14cTaKkjwvw9nZFk7DC1UX"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/60blq04fivxFDr2whVvM5r"
-      },
-      "artists": [
-        {
-          "name": "Telescreens",
-          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
-        }
-      ],
-      "duration_ms": 243792,
-      "name": "Floods",
-      "url": "https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "pinky boy",
         "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
       },
@@ -1107,18 +1091,34 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Unbelonging",
-        "url": "https://open.spotify.com/album/2BFkJStiIJzPeDGLpQ5CYU"
+        "name": "Stay Golden",
+        "url": "https://open.spotify.com/album/3eOka6weED6Atrxap8V15u"
       },
       "artists": [
         {
-          "name": "Cloakroom",
-          "url": "https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj"
+          "name": "Combat",
+          "url": "https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx"
         }
       ],
-      "duration_ms": 210711,
-      "name": "Unbelonging",
-      "url": "https://open.spotify.com/track/39Lwc0RPO0H9Mx5gAQAsD3"
+      "duration_ms": 118595,
+      "name": "Stay Golden",
+      "url": "https://open.spotify.com/track/3LDShVeLxQkQldsomd0n2k"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/60blq04fivxFDr2whVvM5r"
+      },
+      "artists": [
+        {
+          "name": "Telescreens",
+          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
+        }
+      ],
+      "duration_ms": 243792,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Stay Golden",
-        "url": "https://open.spotify.com/album/3eOka6weED6Atrxap8V15u"
-      },
-      "artists": [
-        {
-          "name": "Combat",
-          "url": "https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx"
-        }
-      ],
-      "duration_ms": 118595,
-      "name": "Stay Golden",
-      "url": "https://open.spotify.com/track/3LDShVeLxQkQldsomd0n2k"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Ode To Clio",
         "url": "https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 197590,
       "name": "Ode To Clio",
       "url": "https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Debris Joice",
+        "url": "https://open.spotify.com/album/78yiDQnS2cf6zoS6pSTOa4"
+      },
+      "artists": [
+        {
+          "name": "Humane The Moon",
+          "url": "https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m"
+        }
+      ],
+      "duration_ms": 225139,
+      "name": "The Curb",
+      "url": "https://open.spotify.com/track/33w5GjWZ6HfR4UPtxmuEq2"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "duration_ms": 165510,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "I Loved Everyone",
         "url": "https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 320016,
       "name": "I Loved Everyone",
       "url": "https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Debris Joice",
-        "url": "https://open.spotify.com/album/78yiDQnS2cf6zoS6pSTOa4"
-      },
-      "artists": [
-        {
-          "name": "Humane The Moon",
-          "url": "https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m"
-        }
-      ],
-      "duration_ms": 225139,
-      "name": "The Curb",
-      "url": "https://open.spotify.com/track/33w5GjWZ6HfR4UPtxmuEq2"
     }
   ],
   "unique_name": "2024 Rock songs you may have missed",

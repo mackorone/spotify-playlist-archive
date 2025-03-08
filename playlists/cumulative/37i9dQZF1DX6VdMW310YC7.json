@@ -819,6 +819,28 @@
     },
     {
       "album": {
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/7jSorPOKtgRzqenk5JBdSd"
+      },
+      "artists": [
+        {
+          "name": "Miravo",
+          "url": "https://open.spotify.com/artist/6fQv6TtFek01MKvkXUa4m9"
+        },
+        {
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184634,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/3SmgPYIvylEkKBwIDRzC7l"
+    },
+    {
+      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/0ShhlWkhFhZmdz81oADxlO"
       },
@@ -12521,6 +12543,24 @@
     },
     {
       "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+      },
+      "artists": [
+        {
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
+    },
+    {
+      "album": {
         "name": "Heading Home",
         "url": "https://open.spotify.com/album/63bTrVZUP6nrisVDZbkzSc"
       },
@@ -22050,7 +22090,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 273624,
       "name": "No Way Back",
       "url": "https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt"
@@ -23840,6 +23880,28 @@
       "duration_ms": 210000,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
+    },
+    {
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/3bKS1jrPEjD4Bp6BCtbYRc"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "PHILDEL",
+          "url": "https://open.spotify.com/artist/7B0uXJvJUTwwbeSToeZeJ4"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg"
     },
     {
       "album": {
@@ -31550,7 +31612,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 124710,
       "name": "Time - Edit",
       "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
@@ -32156,7 +32218,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 183774,
       "name": "True",
       "url": "https://open.spotify.com/track/6BUboGsbk4M4eed4pfKGbz"

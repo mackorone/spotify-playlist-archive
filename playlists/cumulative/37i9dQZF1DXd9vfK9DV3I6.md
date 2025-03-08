@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-304 songs - 22 hr 16 min
+305 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Follow You](https://open.spotify.com/track/5zKRmc6gTge68PS5EqagXG) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Kanita](https://open.spotify.com/artist/5bXGHYmmARo1ixC6mGHIge) | [Follow You](https://open.spotify.com/album/5NdBszLrgcaFiq5sjr3vgJ) | 2:58 | 2021-06-04 | 2023-10-01 |
 | [Free](https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Free](https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0) | 3:04 | 2022-01-03 |  |
 | [Fur](https://open.spotify.com/track/4u6ljcfLSWPIeqCa94jRFu) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV), [BuVu](https://open.spotify.com/artist/7iNFWO5iE6bWNQefPQPdPy) | [Fur](https://open.spotify.com/album/2VntJqtkExVpftATLphtwV) | 6:19 | 2023-01-13 | 2023-03-04 |
-| [Galata](https://open.spotify.com/track/4X1dCRlx1f2VQvzHAhA6jn) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau) | [Galata](https://open.spotify.com/album/21TBQY99v6kfUoAQ7WZIqk) | 3:00 | 2025-01-10 |  |
+| [Galata](https://open.spotify.com/track/4X1dCRlx1f2VQvzHAhA6jn) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau) | [Galata](https://open.spotify.com/album/21TBQY99v6kfUoAQ7WZIqk) | 3:00 | 2025-01-10 | 2025-03-08 |
 | [Galaxy](https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA) | [Müslüm Arı](https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ) | [Galaxy](https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et) | 2:48 | 2023-06-29 |  |
 | [Give a Little \(feat\. Naila\)](https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS), [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Give a Little \(feat\. Naila\)](https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b) | 3:54 | 2020-12-08 |  |
 | [Give It To Me \(feat\. Ezgi Kosa\) \- Padé Remix](https://open.spotify.com/track/2fPOQTdBExhbsu9j1pOuv2) | [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn), [Rednod](https://open.spotify.com/artist/5AiAZqe3QhCSrROQCAtWpE), [Ezgi Kosa](https://open.spotify.com/artist/6fuRfSBoGP6XYSQa0eY1Jz), [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Give It To Me \(feat\. Ezgi Kosa\) \[Remixes\]](https://open.spotify.com/album/6Lk1ovuSfjEx28Bf6K8GLW) | 2:44 | 2021-04-24 | 2023-03-18 |
@@ -188,6 +188,7 @@
 | [Mindreader](https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Mindreader](https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM) | 2:52 | 2020-10-18\* |  |
 | [Mirage \- Original](https://open.spotify.com/track/2fBOS1NT8dYFrypecpjoOS) | [Goldcap](https://open.spotify.com/artist/0uoaqsdWJ2Mbm9g0hjjZns) | [Visceral 048 \- Past Forward IV](https://open.spotify.com/album/5gwYVe3uLbE4kLIf1kSAF7) | 8:00 | 2020-10-18\* | 2023-03-13 |
 | [MIRAN](https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [MIRAN](https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc) | 2:09 | 2023-09-21 |  |
+| [Mitad De La Noche \- Chris IDH Remix](https://open.spotify.com/track/00kPPdI7l3Cn3KKJowYQgW) | [Ephlum](https://open.spotify.com/artist/6joEcvciPG2LzFyWAiI8vN), [KXDR](https://open.spotify.com/artist/4oZkVBTLC3sbookJzyVoLX), [Chris IDH](https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9) | [Mitad De La Noche](https://open.spotify.com/album/2UzOerh1n51ZpCj1Ycs8BS) | 5:58 | 2025-02-07 |  |
 | [Mizaru](https://open.spotify.com/track/0KcO9fZg4t4iEX2Ug0hvrY) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [Emircan Fidan](https://open.spotify.com/artist/1AFnr63dwLoIEQ962J4sB9) | [Three Wise Monkeys](https://open.spotify.com/album/30cXN71kK6LFGH7OBIUkXJ) | 4:13 | 2022-06-27 | 2023-03-18 |
 | [Mizaru](https://open.spotify.com/track/3zEjvQVs0DQO0rU6KDWe4C) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [Emircan Fidan](https://open.spotify.com/artist/1AFnr63dwLoIEQ962J4sB9) | [Three Wise Monkeys](https://open.spotify.com/album/20F8sUhG4t7spxKMdOAUGg) | 4:13 | 2020-10-18\* | 2022-07-28 |
 | [Moroccan Sahara](https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL) | [Palmtherapy by DrNR](https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho) | [Moroccan Sahara](https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD) | 3:05 | 2021-01-30 |  |

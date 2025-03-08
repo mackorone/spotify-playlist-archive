@@ -3417,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "Hypothetically",
+        "url": "https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161991,
+      "name": "Hypothetically",
+      "url": "https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww"
+    },
+    {
+      "album": {
         "name": "Snow Angel (Deluxe)",
         "url": "https://open.spotify.com/album/0Mfr63cdEz8JOfl51qSmaq"
       },

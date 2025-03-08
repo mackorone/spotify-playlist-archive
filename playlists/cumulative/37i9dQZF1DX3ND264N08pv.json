@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 140250,
       "name": "365",
       "url": "https://open.spotify.com/track/7FeG9loIhGzhqnIH72hTd7"
@@ -3677,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/08Mz2EPv19ITTa6ScLo3nP"
+      },
+      "artists": [
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/1LPHe6Gm9NfUBhhSUTRQrb"
+    },
+    {
+      "album": {
         "name": "MORE THAN HUMAN",
         "url": "https://open.spotify.com/album/3GJfH79LQ6vBNLtA7rvNpF"
       },
@@ -4765,6 +4783,24 @@
     },
     {
       "album": {
+        "name": "Witch Queen EP",
+        "url": "https://open.spotify.com/album/4OGLu6ud8DZt8BFzzVVPZ7"
+      },
+      "artists": [
+        {
+          "name": "DJ Ruffneck",
+          "url": "https://open.spotify.com/artist/0Zr8KrP13XdTkcbhn3bv8Y"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Ruffneck (Still) Rules The Hardcore Scene",
+      "url": "https://open.spotify.com/track/2M7b4VKISXJIQE1pw5TJfS"
+    },
+    {
+      "album": {
         "name": "Run 4 Your Life",
         "url": "https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew"
       },
@@ -5746,7 +5782,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 191779,
       "name": "The Protest",
       "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"

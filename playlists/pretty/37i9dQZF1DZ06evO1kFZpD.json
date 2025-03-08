@@ -1,12 +1,12 @@
 {
   "description": "This is Raveena. The essential tracks, all in one playlist.",
-  "num_followers": 6915,
+  "num_followers": 6925,
   "original_name": "This Is Raveena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAABcDYc1mW8hSf3upaymV/1e",
+  "snapshot_id": "Z8jlgAAAAAC8MrPjXtrYfbZhTh04LYUg",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Johnny It's the Last Time",
-        "url": "https://open.spotify.com/album/6iz6kClVQTu8MBWh166XwT"
+        "name": "Where the Butterflies Go in the Rain (Deluxe)",
+        "url": "https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 193913,
-      "name": "Johnny It's the Last Time",
-      "url": "https://open.spotify.com/track/6dykAIAUe10GWeNUs0Rsre"
+      "duration_ms": 171922,
+      "name": "Every Color",
+      "url": "https://open.spotify.com/track/4xjhwjkc3Lk1DLgNBShMkx"
     },
     {
       "added_at": null,
@@ -355,6 +355,38 @@
       "duration_ms": 187163,
       "name": "Petal",
       "url": "https://open.spotify.com/track/12Aq4Ryc1rZQ0hWnT8wZNe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Johnny It's the Last Time",
+        "url": "https://open.spotify.com/album/6iz6kClVQTu8MBWh166XwT"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 193913,
+      "name": "Johnny It's the Last Time",
+      "url": "https://open.spotify.com/track/6dykAIAUe10GWeNUs0Rsre"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shanti",
+        "url": "https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 163072,
+      "name": "Love Child",
+      "url": "https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq"
     },
     {
       "added_at": null,
@@ -379,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shanti",
-        "url": "https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz"
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
       },
       "artists": [
         {
@@ -388,9 +420,25 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 163072,
-      "name": "Love Child",
-      "url": "https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq"
+      "duration_ms": 251298,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/7qKWAtneIWuObMgaj57yvx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where the Butterflies Go in the Rain (Deluxe)",
+        "url": "https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "You're So Good To Me",
+      "url": "https://open.spotify.com/track/1w6dmAckr5t7Jloh0bxsUZ"
     },
     {
       "added_at": null,
@@ -407,22 +455,6 @@
       "duration_ms": 212390,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/1TRXyuei4Nzc5wAkzHd123"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lucid",
-        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 251298,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/7qKWAtneIWuObMgaj57yvx"
     },
     {
       "added_at": null,
@@ -470,11 +502,15 @@
         {
           "name": "Raveena",
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        },
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
         }
       ],
-      "duration_ms": 153253,
-      "name": "You're So Good To Me",
-      "url": "https://open.spotify.com/track/1w6dmAckr5t7Jloh0bxsUZ"
+      "duration_ms": 110487,
+      "name": "We Should Move Somewhere Beautiful (feat. Arima Ederra)",
+      "url": "https://open.spotify.com/track/3ufZfIHKU1C2WUJbOCfI2l"
     },
     {
       "added_at": null,
@@ -536,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 35726,
-      "name": "Afternoon Tea with the Auroras (Interlude)",
-      "url": "https://open.spotify.com/track/0qB0x66qsoE7Ja4iZpDzcR"
+      "duration_ms": 209944,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/0MNCbevebpbLdEVxvzQXMk"
     },
     {
       "added_at": null,
@@ -608,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 155094,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/5BidO02y2epLpSsOcgP8xu"
+      "duration_ms": 35726,
+      "name": "Afternoon Tea with the Auroras (Interlude)",
+      "url": "https://open.spotify.com/track/0qB0x66qsoE7Ja4iZpDzcR"
     },
     {
       "added_at": null,
@@ -663,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where the Butterflies Go in the Rain (Deluxe)",
+        "url": "https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/5BidO02y2epLpSsOcgP8xu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Asha\u2019s Awakening",
         "url": "https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC"
       },
@@ -707,26 +759,6 @@
       "duration_ms": 185426,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3XE2o2cDDT16Oq2fcM4sOe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Asha\u2019s Awakening",
-        "url": "https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Secret (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/1taBEywFZlZO7xiEEIyajF"
     }
   ],
   "unique_name": "This Is Raveena",

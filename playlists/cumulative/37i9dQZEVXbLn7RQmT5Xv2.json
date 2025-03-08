@@ -4226,7 +4226,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 186233,
       "name": "Etabelna",
       "url": "https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr"
@@ -6396,7 +6396,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 282430,
       "name": "Kan Mawdo3",
       "url": "https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC"
@@ -8080,7 +8080,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 156415,
       "name": "Matafetch",
       "url": "https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7"
@@ -10446,7 +10446,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 147692,
       "name": "Ramadan Fi Masr Haja Taniah",
       "url": "https://open.spotify.com/track/3Ro4duVEwWgCyCRH4e4NWh"
@@ -14855,6 +14855,28 @@
     },
     {
       "album": {
+        "name": "\u0627\u0646\u0627 \u062e\u062f\u062a \u0627\u0642\u0648\u0649 \u062f\u0631\u0633 \u0645\u0646\u0643\u0648 (\u0628\u062d\u0628 \u0646\u0641\u0633\u064a \u0646\u0641\u0633\u064a \u062b\u0645 \u0646\u0641\u0633\u064a)",
+        "url": "https://open.spotify.com/album/6F9C0urOflnTPDeAodAgtg"
+      },
+      "artists": [
+        {
+          "name": "Kimo Eldeeb",
+          "url": "https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky"
+        },
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231131,
+      "name": "\u0627\u0646\u0627 \u062e\u062f\u062a \u0627\u0642\u0648\u0649 \u062f\u0631\u0633 \u0645\u0646\u0643\u0648 - \u0628\u062d\u0628 \u0646\u0641\u0633\u064a \u0646\u0641\u0633\u064a \u062b\u0645 \u0646\u0641\u0633\u064a",
+      "url": "https://open.spotify.com/track/5se53ZxAG8P1SKQMtDUmC0"
+    },
+    {
+      "album": {
         "name": "\u0627\u0646\u0627 \u0632\u0639\u0644\u062a\u0643",
         "url": "https://open.spotify.com/album/2kMAQwPx9QOZedvJ5Np61H"
       },
@@ -16528,7 +16550,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 253361,
       "name": "\u0633\u0648\u0631\u064a \u0645\u0628\u0631\u062f\u0634 \u0627\u0646\u0627 \u0628\u0633\u062a\u0648\u0631\u064a",
       "url": "https://open.spotify.com/track/6XnBt8ME4K8d9oYf7SE5Wa"

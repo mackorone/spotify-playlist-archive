@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Braye
 
-1,188 songs - 2 day 9 hr 11 min
+1,189 songs - 2 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Distance](https://open.spotify.com/track/0ggCD4HQ0FdHQL23yHLTBV) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Distance](https://open.spotify.com/album/31UrS5lzAhtQLtNKQqb9Hl) | 3:53 | 2023-10-27 | 2023-10-28 |
 | [Distance](https://open.spotify.com/track/4VfXcG4R34Wu0AMsQCMQKu) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Loved Ones](https://open.spotify.com/album/2uVBRxKpcJAh0LwANbtmRa) | 3:53 | 2023-10-27 | 2024-02-16 |
 | [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 | 2023-10-20 | 2023-11-03 |
+| [DND](https://open.spotify.com/track/5c86UmBcVZJkpUttaeKsKo) | [Nikos](https://open.spotify.com/artist/41lBmO0enK0DHy25OV0LRy) | [DND](https://open.spotify.com/album/6bCy1xuzmkc1xHTIXTfohG) | 2:28 | 2025-03-07 |  |
 | [Do \(The Kids Are Watching\)](https://open.spotify.com/track/72HKJ3tTJWao1YZIHUgjSg) | [Ahki](https://open.spotify.com/artist/5875m9R9PmEl5MLJv8Bm56) | [Do \(The Kids Are Watching\)](https://open.spotify.com/album/1YkjuD2cuICcJvMb9EMRVS) | 2:28 | 2023-11-24 | 2024-01-12 |
 | [Do It All](https://open.spotify.com/track/1cEzYBALniy8FkkWVsfud9) | [Agyakomah](https://open.spotify.com/artist/0cujx2Q4DVpVPO0bf05DOm) | [Do It All](https://open.spotify.com/album/1BSXnC2RrdNr9jBggnHvBf) | 3:12 | 2024-04-12 | 2024-07-27 |
 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 | 2023-12-02 |
@@ -618,7 +619,7 @@
 | [Love Sick](https://open.spotify.com/track/5jahNLedLxT9dTBcgb6hMn) | [Kwabsmah](https://open.spotify.com/artist/7zHkgmNbakU3qbOTVxYnYT) | [Love Sick](https://open.spotify.com/album/3TnN0O1Q5BPdNzxbHgVncD) | 2:43 | 2022-11-15 | 2022-12-14 |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 | 2023-02-04 |
 | [Lover](https://open.spotify.com/track/4QZH6wpyyznGaNAk24DtLl) | [CN Amazing](https://open.spotify.com/artist/4cp5TnmcbIwjsJAznM15CC) | [Lover](https://open.spotify.com/album/3Eop2mkvqOaCjggYcx8e5z) | 2:45 | 2024-05-24 | 2024-07-27 |
-| [Lovespell](https://open.spotify.com/track/2aYuVjc4CwK0Wug0id3F0E) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps) | [Lovespell](https://open.spotify.com/album/175BauU0ljMwlLBe5qCJuz) | 2:22 | 2024-10-04 |  |
+| [Lovespell](https://open.spotify.com/track/2aYuVjc4CwK0Wug0id3F0E) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps) | [Lovespell](https://open.spotify.com/album/175BauU0ljMwlLBe5qCJuz) | 2:22 | 2024-10-04 | 2025-03-08 |
 | [Loving You](https://open.spotify.com/track/3hMFV4kyz0XkLYXLneEvqw) | [Welmz](https://open.spotify.com/artist/1tQiHnuwQxWAAaFHyTqRFu), [Aderinsola Adeyemi](https://open.spotify.com/artist/7FFvaEjo5whoDkKGayjqf7) | [Loving You](https://open.spotify.com/album/0s6OouXXqvm1fGHarO3t41) | 2:47 | 2023-05-12 | 2023-05-26 |
 | [Low eyes](https://open.spotify.com/track/1Yo8mvFfFQswraMF7uuhIn) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Iordan](https://open.spotify.com/artist/3pUxEfvD8SmdUQONUmfqZo) | [Low eyes](https://open.spotify.com/album/5BKCapyPTSHptN7k2oAxXX) | 2:11 | 2023-04-14 | 2023-04-21 |
 | [Lowkey](https://open.spotify.com/track/35rjIaj1FibJnFFz0YJWnQ) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Lowkey](https://open.spotify.com/album/15s7cPQMJh3OHcbjgxXhpp) | 3:16 | 2023-12-01 | 2024-02-23 |

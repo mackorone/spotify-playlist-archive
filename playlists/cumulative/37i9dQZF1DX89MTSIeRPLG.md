@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-61 songs - 2 hr 55 min
+62 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Blackberry Zap](https://open.spotify.com/track/7nQ5vYfpRleN1UPTD1vgj1) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:58 | 2022-10-01 |  |
 | [Blue C Notes](https://open.spotify.com/track/0Fe3DejKWiHKPsrgjvLzk4) | [Ry1ne](https://open.spotify.com/artist/2Ed8g6zhad8SaxQM9LMqgJ) | [Rookie Campaign](https://open.spotify.com/album/5ttwB57qlSZNR13AzK10xT) | 2:19 | 2022-10-01 | 2024-05-04 |
 | [Bounty](https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Bounty](https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS) | 3:46 | 2022-10-01 |  |
+| [Boys To Men](https://open.spotify.com/track/1U1VI1YDJbxfWpRmZ2qLMp) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Boys To Men](https://open.spotify.com/album/27au7UPN6qTdmKNZkDR6Qk) | 2:04 | 2022-10-01 |  |
 | [Boys To Men](https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Blessed, I Guess](https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL) | 2:04 | 2022-10-01 | 2024-04-19 |
 | [Bulgari Shades](https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [X\-Tra Laps](https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi) | 2:43 | 2022-10-01 |  |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2022-10-01 |  |
@@ -66,7 +67,7 @@
 | [Top \(Remix\) feat\. Lil Durk](https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [In The Name Of Gee \(Still Most Hated\)](https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T) | 2:38 | 2022-10-01 |  |
 | [Treat Me Right](https://open.spotify.com/track/1K7fLNnA0T0hotZlJDqr78) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 2:56 | 2022-10-01 |  |
 | [What Love \(feat\. Calboy\)](https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [What Love \(feat\. Calboy\)](https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY) | 3:10 | 2022-10-01 |  |
-| [Wordplay](https://open.spotify.com/track/3wAf5EJ8NnnMlZjGCIVkMm) | [Canjelae](https://open.spotify.com/artist/4emKaFvC3K7pyskD0SiLrp), [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo) | [Wordplay](https://open.spotify.com/album/1V9Pfv9TM2df6bXCfuLUMX) | 3:16 | 2022-10-01 |  |
+| [Wordplay](https://open.spotify.com/track/3wAf5EJ8NnnMlZjGCIVkMm) | [Canjelae](https://open.spotify.com/artist/4emKaFvC3K7pyskD0SiLrp), [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo) | [Wordplay](https://open.spotify.com/album/1V9Pfv9TM2df6bXCfuLUMX) | 3:16 | 2022-10-01 | 2025-03-08 |
 | [Zero Tolerance](https://open.spotify.com/track/4jStn4ko3zvyLkY2upthYM) | [Pacman da Gunman](https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Zero Tolerance](https://open.spotify.com/album/4XyOdD2CwwEWZbSzjcZhgZ) | 4:17 | 2022-10-01 | 2024-04-19 |
 | [Zero Tolerance](https://open.spotify.com/track/617jfrefuywyFVV2E5Skec) | [Pacman da Gunman](https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Zero Tolerance](https://open.spotify.com/album/0PgLy1qD6OoQo1r4pmawob) | 4:17 | 2022-10-01 | 2025-02-17 |
 

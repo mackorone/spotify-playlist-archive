@@ -3340,7 +3340,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 177333,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI"
@@ -16407,6 +16407,28 @@
     },
     {
       "album": {
+        "name": "Es \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/5Vk9T7AnWfvszkXyVEk9xS"
+      },
+      "artists": [
+        {
+          "name": "Felipe S. Santos",
+          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442894,
+      "name": "Es \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/2I62ilF5qfbJqDwaIJ5snf"
+    },
+    {
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -18736,7 +18758,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 145115,
       "name": "Funk de Beleza - Slowed",
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
@@ -30572,7 +30594,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 183954,
       "name": "Mi Orgullo",
       "url": "https://open.spotify.com/track/5HWickg10vbWoyPgmkyKKq"
@@ -46304,7 +46326,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 214573,
       "name": "Supermercado",
       "url": "https://open.spotify.com/track/7L72ZKa8nvYc0SvrYkhoux"
@@ -50662,7 +50684,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 257333,
       "name": "Ultra Complicado (feat. Sebas) - Remix",
       "url": "https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe"
@@ -54640,7 +54662,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 262310,
       "name": "Ya No Est\u00e1s",
       "url": "https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx"
@@ -54774,6 +54796,24 @@
       "duration_ms": 216317,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
+    },
+    {
+      "album": {
+        "name": "Ya Tengo Candidata",
+        "url": "https://open.spotify.com/album/1WNpllMytse2xQBEALnGJh"
+      },
+      "artists": [
+        {
+          "name": "Rixi Presidenta",
+          "url": "https://open.spotify.com/artist/7MiJrmlhVBqrUDmWV9ph5m"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114736,
+      "name": "Ya Tengo Candidata",
+      "url": "https://open.spotify.com/track/033nsWcjR9OcMNMDsxJVLc"
     },
     {
       "album": {

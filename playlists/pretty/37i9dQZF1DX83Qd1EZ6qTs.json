@@ -1,6 +1,6 @@
 {
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Zakir Hussain",
-  "num_followers": 8419,
+  "num_followers": 8425,
   "original_name": "ECHO : Tabla Rhythms",
   "owner": {
     "name": "Spotify",
@@ -335,42 +335,6 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "CHAKRA",
-        "url": "https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p"
-      },
-      "artists": [
-        {
-          "name": "ARAJ",
-          "url": "https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD"
-        }
-      ],
-      "duration_ms": 300444,
-      "name": "Sargam Crossing",
-      "url": "https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
-      },
-      "artists": [
-        {
-          "name": "Nayan Ghosh",
-          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
-        },
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
-        }
-      ],
-      "duration_ms": 348615,
-      "name": "Tabla Solo - Taal Rupak",
-      "url": "https://open.spotify.com/track/5cdhZYN3heCcIaZyyj4nWs"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
         "name": "TablaTrap",
         "url": "https://open.spotify.com/album/0k3N7vIB6q6AKwQN1XycNQ"
       },
@@ -403,22 +367,18 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "The Very Best of Ravi Shankar",
-        "url": "https://open.spotify.com/album/0gzAYyDJW2HiIkcOoQCWjm"
+        "name": "The World's Musical Traditions, Vol. 10: Tabla Tarang--Melody on Drums",
+        "url": "https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ"
       },
       "artists": [
         {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Ravi Shankar",
-          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+          "name": "Kamalesh Maitra",
+          "url": "https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51"
         }
       ],
-      "duration_ms": 292666,
-      "name": "Tabla - Dhwani - Digitally Remastered",
-      "url": "https://open.spotify.com/track/0c5Vqd09VAMMdrq3bnYOTc"
+      "duration_ms": 588133,
+      "name": "Raag Bhupal Todi",
+      "url": "https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -439,18 +399,22 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "The World's Musical Traditions, Vol. 10: Tabla Tarang--Melody on Drums",
-        "url": "https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ"
+        "name": "The Very Best of Ravi Shankar",
+        "url": "https://open.spotify.com/album/0gzAYyDJW2HiIkcOoQCWjm"
       },
       "artists": [
         {
-          "name": "Kamalesh Maitra",
-          "url": "https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
         }
       ],
-      "duration_ms": 588133,
-      "name": "Raag Bhupal Todi",
-      "url": "https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ"
+      "duration_ms": 292666,
+      "name": "Tabla - Dhwani - Digitally Remastered",
+      "url": "https://open.spotify.com/track/0c5Vqd09VAMMdrq3bnYOTc"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -467,6 +431,26 @@
       "duration_ms": 358755,
       "name": "Tabla Magic",
       "url": "https://open.spotify.com/track/2qDM7VAHTWUIiwY3ocvaz0"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "duration_ms": 348615,
+      "name": "Tabla Solo - Taal Rupak",
+      "url": "https://open.spotify.com/track/5cdhZYN3heCcIaZyyj4nWs"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -551,6 +535,22 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
+        "name": "Ustad Alla Rakha - The Multifaceted Genius",
+        "url": "https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk"
+      },
+      "artists": [
+        {
+          "name": "Alla Rakha",
+          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
+        }
+      ],
+      "duration_ms": 640906,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
         "name": "Authentic India: Indian Percussion",
         "url": "https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO"
       },
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "Ustad Alla Rakha - The Multifaceted Genius",
-        "url": "https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk"
+        "name": "CHAKRA",
+        "url": "https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p"
       },
       "artists": [
         {
-          "name": "Alla Rakha",
-          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
+          "name": "ARAJ",
+          "url": "https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD"
         }
       ],
-      "duration_ms": 640906,
-      "name": "Tabla",
-      "url": "https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh"
+      "duration_ms": 300444,
+      "name": "Sargam Crossing",
+      "url": "https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
+        "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
+        "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
+      },
+      "artists": [
+        {
+          "name": "Adho Vrikshasana",
+          "url": "https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx"
+        }
+      ],
+      "duration_ms": 380995,
+      "name": "Tabla Music for Meditation",
+      "url": "https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
         "name": "CHAKRA",
         "url": "https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 116122,
       "name": "Ananta (Tabla & Sitar)",
       "url": "https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
-        "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
-        "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
-      },
-      "artists": [
-        {
-          "name": "Adho Vrikshasana",
-          "url": "https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx"
-        }
-      ],
-      "duration_ms": 380995,
-      "name": "Tabla Music for Meditation",
-      "url": "https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "Drums Of India - Pt. Jnan Prakash Ghosh",
-        "url": "https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT"
-      },
-      "artists": [
-        {
-          "name": "Jnan Prakash Ghosh",
-          "url": "https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg"
-        }
-      ],
-      "duration_ms": 771373,
-      "name": "Tabla",
-      "url": "https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
         "name": "Lagrima",
         "url": "https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 159582,
       "name": "Delirio de Ale",
       "url": "https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
+        "name": "Drums Of India - Pt. Jnan Prakash Ghosh",
+        "url": "https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT"
+      },
+      "artists": [
+        {
+          "name": "Jnan Prakash Ghosh",
+          "url": "https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg"
+        }
+      ],
+      "duration_ms": 771373,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur"
     },
     {
       "added_at": "2024-01-29 10:55:46",

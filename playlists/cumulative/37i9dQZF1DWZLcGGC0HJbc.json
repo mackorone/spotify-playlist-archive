@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 202737,
       "name": "Ceiling Stars",
       "url": "https://open.spotify.com/track/1oYhmvMDaObdrBG3USn3Mw"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 229146,
       "name": "Changing",
       "url": "https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W"
@@ -918,6 +918,28 @@
       "duration_ms": 178544,
       "name": "hello",
       "url": "https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6"
+    },
+    {
+      "album": {
+        "name": "High Up",
+        "url": "https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        },
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221043,
+      "name": "High Up",
+      "url": "https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW"
     },
     {
       "album": {
@@ -2436,6 +2458,24 @@
       "duration_ms": 203575,
       "name": "Wild Dreams",
       "url": "https://open.spotify.com/track/3ryQlOYypwEgxO3Ro6diSr"
+    },
+    {
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274210,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM"
     },
     {
       "album": {

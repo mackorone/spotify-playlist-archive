@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Aya Nakamura
 
-440 songs - 20 hr 55 min
+441 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-01-25 | 2024-03-29 |
 | [Ti Ki Da](https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Ti Ki Da](https://open.spotify.com/album/7GUiNTPVHZYiI77Ao6CiJV) | 2:41 | 2023-10-05 | 2023-12-08 |
 | [TIKI](https://open.spotify.com/track/1OllFSK8xhYTE0x0BCJb6B) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [TIKI](https://open.spotify.com/album/5hgEGdVbCxx6caMeRxeS5U) | 2:12 | 2024-09-12 | 2024-11-08 |
+| [Toi](https://open.spotify.com/track/5p9LbKWY50IZ72KO7gfGTT) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I) | [Toi](https://open.spotify.com/album/4Hw0mZfcfRUJ1Pz3k0V3CO) | 2:23 | 2025-03-06 |  |
 | [Toi](https://open.spotify.com/track/21l6PyBDypB0peam7yC6Vr) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Toi](https://open.spotify.com/album/78IQIFTCIh4BJvp5SwUlO2) | 2:55 | 2025-01-16 | 2025-02-21 |
 | [Tolo \(Faut m'oublier\)](https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Tolo \(Faut m'oublier\)](https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3) | 2:49 | 2024-05-02 | 2024-06-28 |
 | [Tomber](https://open.spotify.com/track/5Ahu1gSbeqZo1YxPTl7Wzq) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Tomber](https://open.spotify.com/album/6Q13IzviW0AWv3dUoXtS1X) | 2:37 | 2022-11-24 | 2022-12-16 |

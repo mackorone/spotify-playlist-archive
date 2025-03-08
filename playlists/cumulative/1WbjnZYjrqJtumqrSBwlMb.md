@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,047 songs - 2 day 16 hr 18 min
+1,050 songs - 2 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Bandito](https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:30 | 2021-08-10 |  |
 | [Basic Being Basic](https://open.spotify.com/track/2KjS3oMF96NxiskpSlinpn) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 2:38 | 2025-03-02 |  |
 | [Batphone](https://open.spotify.com/track/7aiKdAM9WYW3GzWSA9OXIl) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 4:31 | 2020-03-03 |  |
+| [Battlefield](https://open.spotify.com/track/2Y0DLfSAncXNhn2tOjmvSD) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 1:54 | 2025-03-07 |  |
 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 | 2022-10-18 |  |
 | [Be Your Drug](https://open.spotify.com/track/73KET3327jJ8M42hVqRIEw) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Happy](https://open.spotify.com/album/0SVNUvUTd8ab9VmvguVIQf) | 2:28 | 2024-05-10 | 2024-05-20 |
 | [Before The Day Is Over](https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:33 | 2022-11-06 |  |
@@ -676,6 +677,7 @@
 | [Pet Cheetah](https://open.spotify.com/track/7daBwTiPNOVgoMUG4SICgh) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:18 | 2022-03-15 |  |
 | [Photobook/Easy Listening](https://open.spotify.com/track/56odYTD71HSDrNbaQHbxhb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Easy Listening](https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo) | 3:59 | 2023-06-29 |  |
 | [picking up hands](https://open.spotify.com/track/2xierjLR7uw06LgO6eETwN) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 4:59 | 2022-11-11 |  |
+| [Pieces Of You](https://open.spotify.com/track/5bQrrbXqR6MDnuyYYuoq7S) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 2:48 | 2025-03-07 |  |
 | [Piledriver waltz](https://open.spotify.com/track/3s5ogvexUgA6XjNj37zpnP) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:24 | 2025-01-09 |  |
 | [Piledriver Waltz](https://open.spotify.com/track/4Ai0ANRDYwx6mCD4Uty1WS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:23 | 2019-11-03 |  |
 | [Pink as Floyd](https://open.spotify.com/track/03GSskFw5AAKkwlOfiUMpR) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Pink as Floyd / Your Eyes Girl](https://open.spotify.com/album/582BvSmU6StxTJ4PmTR79j) | 4:53 | 2023-09-16 |  |
@@ -813,6 +815,7 @@
 | [Someday](https://open.spotify.com/track/1sufemUrp56GbKAPVxU8iZ) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/5yIIxsXGdQucmqHN82xGig) | 3:07 | 2020-12-26 |  |
 | [Something Real](https://open.spotify.com/track/444vevlQjTnKioLLncteGv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:25 | 2023-07-29 |  |
 | [Something To Rely On](https://open.spotify.com/track/2k2rzJvEZcNxFABtddUQ8N) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Coup De Grace](https://open.spotify.com/album/6aeQVwrZZu7wDpFMtTApyC) | 3:19 | 2021-01-24 |  |
+| [Song to the Siren ft\. Courtney Love](https://open.spotify.com/track/4ebM8xnMGL0JYU6F9Lp6iy) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Courtney Love](https://open.spotify.com/artist/4vI0xGbQl2cMnMiagUEBOj) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 2:59 | 2025-03-07 |  |
 | [SORRY NOT SORRY](https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:26 | 2023-03-31 |  |
 | [sorry4dying](https://open.spotify.com/track/1ljziaoMnRH95aPeOSGAtr) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 4:44 | 2022-11-11 |  |
 | [SOS](https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:57 | 2022-12-10 |  |

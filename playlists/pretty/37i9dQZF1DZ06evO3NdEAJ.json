@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 49093,
+  "num_followers": 49115,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAABKi+U7XEZwIHbB1el9sXdY",
+  "snapshot_id": "Z8jlgAAAAAD1XbIte8PmOs8oAOtlMXxw",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Boca Les Callamos, Vol. 2",
+        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 166272,
+      "name": "Vac\u00edo",
+      "url": "https://open.spotify.com/track/3fxKox0e8TPyrIOiOC5Hkf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/69uof5JlfcjKcxNewJVI9P"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Boca Les Callamos, Vol. 2",
-        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 166272,
-      "name": "Vac\u00edo",
-      "url": "https://open.spotify.com/track/3fxKox0e8TPyrIOiOC5Hkf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empezar Desde Cero",
         "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7.2",
-        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 147328,
-      "name": "Cuento las Horas",
-      "url": "https://open.spotify.com/track/7tc7eQJbQEssPJBoB89gFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Hice Mal",
         "url": "https://open.spotify.com/album/6QSWl8pogGdQSB6kt6YjrS"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 196964,
       "name": "Te Hice Mal",
       "url": "https://open.spotify.com/track/16RpBbmgnsraKlaSngEwmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7.2",
+        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 147328,
+      "name": "Cuento las Horas",
+      "url": "https://open.spotify.com/track/7tc7eQJbQEssPJBoB89gFw"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+        "name": "La Leona y El Carcomido",
+        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 228863,
-      "name": "A Decir Verdad",
-      "url": "https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch"
+      "duration_ms": 153478,
+      "name": "La Leona y El Carcomido",
+      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Leona y El Carcomido",
-        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 153478,
-      "name": "La Leona y El Carcomido",
-      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
+      "duration_ms": 228863,
+      "name": "A Decir Verdad",
+      "url": "https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chingo de Amor",
+        "url": "https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 174645,
+      "name": "Chingo de Amor",
+      "url": "https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Otro Canal",
         "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
@@ -487,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chingo de Amor",
-        "url": "https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU"
+        "name": "Retro & Hits",
+        "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
       },
       "artists": [
         {
@@ -496,9 +512,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 174645,
-      "name": "Chingo de Amor",
-      "url": "https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2"
+      "duration_ms": 160568,
+      "name": "No Me Doy por Vencido",
+      "url": "https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retro & Hits",
-        "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 160568,
-      "name": "No Me Doy por Vencido",
-      "url": "https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Sale Bien",
         "url": "https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No S\u00e9 T\u00fa",
-        "url": "https://open.spotify.com/album/5TzoaMI27c1GGdfuvjShWt"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/6N271rSS177egQnJBDkq4F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Equiv\u00f3cate",
         "url": "https://open.spotify.com/album/5DpbtwxV4sqyZkuqpM0oPd"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No S\u00e9 T\u00fa",
+        "url": "https://open.spotify.com/album/5TzoaMI27c1GGdfuvjShWt"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/6N271rSS177egQnJBDkq4F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jalas o No Jalas",
         "url": "https://open.spotify.com/album/1D1JE18eOkgQEaYqsf83nV"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 189320,
       "name": "Duele",
       "url": "https://open.spotify.com/track/0ryQ7XtLxVMXPZ9VY94y8J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROBOT",
-        "url": "https://open.spotify.com/album/1ffcgZehqaCzpuu85BHshW"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 140746,
-      "name": "ROBOT",
-      "url": "https://open.spotify.com/track/13xTFlHxWacBxVG3NBAXJC"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
       "duration_ms": 204970,
       "name": "Me Derrumb\u00e9 a Tus Pies",
       "url": "https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROBOT",
+        "url": "https://open.spotify.com/album/1ffcgZehqaCzpuu85BHshW"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 140746,
+      "name": "ROBOT",
+      "url": "https://open.spotify.com/track/13xTFlHxWacBxVG3NBAXJC"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neta Que No",
-        "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "No Mata Un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/57t2aQMU7ALAuH8GRbCqy7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7.2",
         "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
       },
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4"
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 170408,
-      "name": "Ya No Te Quiero Querer",
-      "url": "https://open.spotify.com/track/28yEy7OAKeiAZ1m0td8N3H"
+      "duration_ms": 192520,
+      "name": "No Mata Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/57t2aQMU7ALAuH8GRbCqy7"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 207182,
       "name": "Olvidarte \u00bfC\u00f3mo?",
       "url": "https://open.spotify.com/track/6qoLoLaw4zC48XERFdTBgN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 170408,
+      "name": "Ya No Te Quiero Querer",
+      "url": "https://open.spotify.com/track/28yEy7OAKeiAZ1m0td8N3H"
     },
     {
       "added_at": null,

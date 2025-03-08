@@ -2,7 +2,7 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Faul Gayo
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
 230 songs - 18 hr 5 min
 

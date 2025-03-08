@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. \nC-Kan est\u00e1 en la casa. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. \nKevin AMF, Victor Mendivil, Dani FLow y Los Esquivel est\u00e1n en la casa. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -546,6 +546,32 @@
       "duration_ms": 299706,
       "name": "Alguien Te Mira",
       "url": "https://open.spotify.com/track/2HeAEO5IN1vivStyO8h2Ta"
+    },
+    {
+      "album": {
+        "name": "Alley Oop",
+        "url": "https://open.spotify.com/album/7zdLY5YF5DfG096Th62ipi"
+      },
+      "artists": [
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200064,
+      "name": "Alley Oop",
+      "url": "https://open.spotify.com/track/4prSeUgilnoQ6J5I3iMpQT"
     },
     {
       "album": {
@@ -1807,6 +1833,32 @@
     },
     {
       "album": {
+        "name": "Bien Locos",
+        "url": "https://open.spotify.com/album/5FwnGEvNX02tL3lKqVa8OA"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "Bien Locos",
+      "url": "https://open.spotify.com/track/1FoRhO8UUmgUOrX9oCuASy"
+    },
+    {
+      "album": {
         "name": "Bien Volao",
         "url": "https://open.spotify.com/album/2cXh1YpUWLQb38qr6hNw8j"
       },
@@ -2008,6 +2060,48 @@
       "duration_ms": 229800,
       "name": "C'est Fini",
       "url": "https://open.spotify.com/track/6Kb0qq3HhGT1ikAh0tCAew"
+    },
+    {
+      "album": {
+        "name": "Cachondos Session #1 (feat. Victor Mendivil, Dani Flow, Tiagz & Los Esquivel)",
+        "url": "https://open.spotify.com/album/7MAbhQjPNHnD411F8VyamG"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297969,
+      "name": "Cachondos Session #1 (feat. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel)",
+      "url": "https://open.spotify.com/track/5vNRuXbnqV6ISkNxvHEfbM"
     },
     {
       "album": {
@@ -4888,7 +4982,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 189100,
       "name": "Est\u00e1n Hablando de M\u00ed",
       "url": "https://open.spotify.com/track/5kizwBZRrAjxUNgyq5jP4B"
@@ -5122,7 +5216,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 184948,
       "name": "FISG\u00d3N",
       "url": "https://open.spotify.com/track/7uzY1pb6g0xJSIAd8Hps9D"
@@ -6302,7 +6396,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 199411,
       "name": "Konektando Kilos",
       "url": "https://open.spotify.com/track/3j5uuJPoAhbuJ3LbxeBRGY"
@@ -6846,7 +6940,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 152425,
       "name": "La Patrona",
       "url": "https://open.spotify.com/track/79rmrc4k6h4hd0hWSUglew"
@@ -7218,6 +7312,24 @@
       "duration_ms": 220612,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW"
+    },
+    {
+      "album": {
+        "name": "Les Falta Flow",
+        "url": "https://open.spotify.com/album/3dGdh7goIDW5lXzrdCoKlr"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Les Falta Flow",
+      "url": "https://open.spotify.com/track/038ue34wBpW0YVBBhYOrn1"
     },
     {
       "album": {
@@ -7658,6 +7770,28 @@
       "duration_ms": 193714,
       "name": "LQRA Session #14",
       "url": "https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7"
+    },
+    {
+      "album": {
+        "name": "Lumbre",
+        "url": "https://open.spotify.com/album/2HBkphAPdufNRv4DTpbCXi"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Lumbre",
+      "url": "https://open.spotify.com/track/2axhW4wllSrMM9yRIRjGdE"
     },
     {
       "album": {
@@ -10000,7 +10134,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 222857,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/2Prv9miT3gsQNty90Sy2k0"

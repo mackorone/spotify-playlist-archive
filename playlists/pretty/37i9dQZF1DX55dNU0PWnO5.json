@@ -1,13 +1,37 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 578714,
+  "num_followers": 578740,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC8AAAAABtqBip/j+pD9H+iI+9+6og",
+  "snapshot_id": "Z8p9ZAAAAABLe+YPPRFkpAbsjKnk3kh3",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "Don't Be That Guy",
+        "url": "https://open.spotify.com/album/0XJCljJFcG0BExLsxNIyDd"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Francisco Ojeda",
+          "url": "https://open.spotify.com/artist/1UgroYG94KwDUqXorgJSmN"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Don't Be That Guy",
+      "url": "https://open.spotify.com/track/3CmuFO0UX8wBr75HMoTh10"
+    },
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
@@ -151,26 +175,6 @@
       "duration_ms": 154840,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/61vVI6qo8zhw2OWM96ReDd"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "EEEEEE",
-        "url": "https://open.spotify.com/album/2dk4jep9MfQytEnNhepL2k"
-      },
-      "artists": [
-        {
-          "name": "cosmic collective",
-          "url": "https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW"
-        },
-        {
-          "name": "Ted Taforo",
-          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "EEEEEE",
-      "url": "https://open.spotify.com/track/4cwZccylplyt4Q5dJP5HBR"
     },
     {
       "added_at": "2024-10-04 04:00:00",

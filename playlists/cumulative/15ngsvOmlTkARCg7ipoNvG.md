@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,919 songs - 1 day 15 hr 6 min
+1,921 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,6 +736,7 @@
 | [Gentle Sun Arr\. For Cello](https://open.spotify.com/track/2egZdp3IXU8pNfo9uENF2r) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Gentle Sun](https://open.spotify.com/album/3lc9JgTfUtCJOAqEuVw5cS) | 1:00 | 2023-04-08 | 2024-02-13 |
 | [Gentle Sun Arr\. For Strings](https://open.spotify.com/track/3Wo2jOsMMXErt80zjcwgnD) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Gentle Sun](https://open.spotify.com/album/3lc9JgTfUtCJOAqEuVw5cS) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Gentle Sunlight](https://open.spotify.com/track/0Aua52MU7cWGnd7EwvVqcc) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
+| [Gentle Sunlight Arr\. For Felt Piano](https://open.spotify.com/track/46CrQJ9QN8J8ozagyx7W55) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [In Winter Light](https://open.spotify.com/album/2d5fkyyjF2mfcoQ2wPoUvZ) | 1:00 | 2025-03-07 |  |
 | [Gentle Warrior](https://open.spotify.com/track/312UAAlXHoNuS84ouSVdTG) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Being Peace](https://open.spotify.com/album/3mWPJ1zkSKPGtk31qnZNXG) | 2:53 | 2022-01-12 | 2024-01-30 |
 | [Gentle Waves](https://open.spotify.com/track/0zMTNh071AzPhYQ7lzNnl1) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Cello Ambience](https://open.spotify.com/album/3d4A1XQAVvCZhzFnBGV4Kt) | 1:27 | 2022-01-12 |  |
 | [Gentle Whispers](https://open.spotify.com/track/6mrn3x8j7mLKF5itGM0QSZ) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calming Moments](https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z) | 1:01 | 2022-05-15 | 2025-03-03 |
@@ -1916,6 +1917,7 @@
 | [Your Calming Love \- Strings Version](https://open.spotify.com/track/0BEuBeKh7qL2MfnJDVksu2) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Your Calming Love \(Strings Version\)](https://open.spotify.com/album/3yV7MORO8qxueoUlXddiFk) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Your Footsteps](https://open.spotify.com/track/6OT4gGyDLpzonX8fJDuC5v) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Footsteps](https://open.spotify.com/album/2ZLd8zUysnG7nePQOm23I1) | 1:00 | 2022-06-16 |  |
 | [Your Heart](https://open.spotify.com/track/0p9BqUK4erJ4N0ujcESkb9) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2025-03-03 |
+| [Your Heart Arr\. For Felt Piano](https://open.spotify.com/track/3D4lGxu7rPl1DbjwFBtbQf) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [In Winter Light](https://open.spotify.com/album/2d5fkyyjF2mfcoQ2wPoUvZ) | 1:00 | 2025-03-07 |  |
 | [Your Heart Once Again](https://open.spotify.com/track/2oyqmudakBtzwCMZ4WQrmL) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Your Kindness \- Cello Version](https://open.spotify.com/track/7AJTYoDgAMs4lPukdiTH5Z) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Your Kindness](https://open.spotify.com/album/7kLxTeMirMNm7bhBaNGM1C) | 1:02 | 2022-02-24 | 2024-02-13 |
 | [Your Light](https://open.spotify.com/track/3ClCqwF6ulO190HG7bcUUu) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Your Light](https://open.spotify.com/album/1SRIxp4FBNtsG1oKehMtmP) | 1:02 | 2024-02-09 | 2024-02-13 |

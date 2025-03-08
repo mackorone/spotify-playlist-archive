@@ -1,13 +1,33 @@
 {
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Alan Ram\u00edrez & Yeison Jim\u00e9nez",
-  "num_followers": 237530,
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Nico Hern\u00e1ndez",
+  "num_followers": 237567,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fy/QAAAAAUnPDtwbftzWDSgISY5Hww",
+  "snapshot_id": "Z8prZgAAAAA+96nYIoMPtDNGFlh+XW/v",
   "tracks": [
+    {
+      "added_at": "2025-03-07 03:43:34",
+      "album": {
+        "name": "Lo M\u00e1s Importante Es El Amor",
+        "url": "https://open.spotify.com/album/3RFzIXaLYrCxF7t8yqOC1R"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/6yh4phrNduhMduSKHdW626"
+    },
     {
       "added_at": "2025-02-21 03:29:01",
       "album": {
@@ -29,10 +49,10 @@
       "url": "https://open.spotify.com/track/76FxJmndkNGzmBELUvV106"
     },
     {
-      "added_at": "2025-02-21 03:29:01",
+      "added_at": "2025-03-07 03:43:34",
       "album": {
-        "name": "Chismofilia",
-        "url": "https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB"
+        "name": "El Ni\u00f1o del Barrio",
+        "url": "https://open.spotify.com/album/1iYbnwi0y6IUfUCA4YWBzm"
       },
       "artists": [
         {
@@ -40,9 +60,9 @@
           "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
         }
       ],
-      "duration_ms": 178608,
-      "name": "Chismofilia",
-      "url": "https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G"
+      "duration_ms": 136022,
+      "name": "El Ni\u00f1o del Barrio",
+      "url": "https://open.spotify.com/track/1AeXahQor3fgffkLy5yuZg"
     },
     {
       "added_at": "2025-02-21 03:29:01",
@@ -87,6 +107,22 @@
       "duration_ms": 208900,
       "name": "Me Recordaras",
       "url": "https://open.spotify.com/track/1Rgapgagk9d7HnGrcYh55l"
+    },
+    {
+      "added_at": "2025-02-21 03:29:01",
+      "album": {
+        "name": "Chismofilia",
+        "url": "https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "duration_ms": 178608,
+      "name": "Chismofilia",
+      "url": "https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G"
     },
     {
       "added_at": "2025-02-21 03:29:01",
@@ -175,26 +211,6 @@
     {
       "added_at": "2025-02-21 03:29:01",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/0QsgJCBjrJijhx96xr6nBC"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        },
-        {
-          "name": "B'rek",
-          "url": "https://open.spotify.com/artist/1sXnV1d2mysveOHNr5dXd6"
-        }
-      ],
-      "duration_ms": 152645,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/67seSqcptL305O57Htb8ow"
-    },
-    {
-      "added_at": "2025-02-21 03:29:01",
-      "album": {
         "name": "Mirame (feat. Blessd) [Remix]",
         "url": "https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 199399,
       "name": "En Privado",
       "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
-    },
-    {
-      "added_at": "2025-02-21 03:29:01",
-      "album": {
-        "name": "CABALLERO",
-        "url": "https://open.spotify.com/album/1TbBPReIMQpt3yquoZrvEN"
-      },
-      "artists": [
-        {
-          "name": "Julian Daza",
-          "url": "https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose"
-        }
-      ],
-      "duration_ms": 160511,
-      "name": "CABALLERO",
-      "url": "https://open.spotify.com/track/07OBTyppEJC4JPGJt4Gro2"
     },
     {
       "added_at": "2025-02-21 03:29:01",

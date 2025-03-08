@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: ALALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,040 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,051 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 14 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
 | 15 | [แผ่มวล \(Spread Love\)](https://open.spotify.com/track/4DVoBUqqaEPlm4baaJpFd1) | [La Moon](https://open.spotify.com/artist/7J2qcWgTJLmRFdOdl9rn5g) | [แผ่มวล \(Spread Love\)](https://open.spotify.com/album/7tTyBJVuCK0QlYozZTm3FZ) | 4:02 |
 | 16 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 |
-| 17 | [แค่อีกนิดเดียว \(Just a little more\)](https://open.spotify.com/track/5JrHECJxfsBOWEK1KjzMWG) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [แค่อีกนิดเดียว \(Just a little more\)](https://open.spotify.com/album/5pFCDc6aPEMc7URxeeGcqW) | 3:38 |
+| 17 | [แค่อีกนิดเดียว \(Just a little more\)](https://open.spotify.com/track/5JrHECJxfsBOWEK1KjzMWG) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [แค่อีกนิดเดียว \(Just a little more\)](https://open.spotify.com/album/5pFCDc6aPEMc7URxeeGcqW) | 3:38 |
 | 18 | [ไม่เคยได้เห็นตัวเองที่ยิ้มได้มากแบบนี้ \(Glad\)](https://open.spotify.com/track/7vgDg9Zz5nGQ6FycmPhzvR) | [LADIIPRANG](https://open.spotify.com/artist/5bAPqOCPEHPnrJWCbiA6SC) | [ไม่เคยได้เห็นตัวเองที่ยิ้มได้มากแบบนี้ \(Glad\)](https://open.spotify.com/album/0PsYW5qxWeBQYUJi9t0yW1) | 3:12 |
 | 19 | [อย่าเก็บ](https://open.spotify.com/track/4oKFJJ65E19e71o1kNng66) | [Pearpilincys](https://open.spotify.com/artist/3Htj1ew5zqwv3nJNNFfXxP) | [อย่าเก็บ](https://open.spotify.com/album/2hS3FQZvS3WeWsp2JFviJL) | 3:41 |
 | 20 | [แค่เอาคืน](https://open.spotify.com/track/5VIznsuk1ELcy98qvk7Io3) | [KNOMJEAN](https://open.spotify.com/artist/7AV6Ugsnsm9WXDVQWVcg1F) | [แค่เอาคืน](https://open.spotify.com/album/1bnbAGe9amRd6L6gPjt4Yo) | 4:06 |

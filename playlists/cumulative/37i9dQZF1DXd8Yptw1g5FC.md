@@ -4,7 +4,7 @@
 
 > Sedef Sebüktekin, Sıla, Lady Gaga ve haftanın en iyi çıkışları!
 
-301 songs - 15 hr 6 min
+303 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [FUCK IT](https://open.spotify.com/track/2PWln9ZjksTV66s6JGqwc5) | [Buse Ayla](https://open.spotify.com/artist/59FSDgp7VBJnjaGk4m6Ud4) | [FUCK IT](https://open.spotify.com/album/6fPvCjBUOjnNyKwZKknuiV) | 2:46 | 2025-02-27 | 2025-03-07 |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-02-27 | 2025-03-07 |
 | [Fırtınam](https://open.spotify.com/track/5xbVWh4zxwzUfi8dnhgAfz) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fırtınam](https://open.spotify.com/album/5ZAihw7AqO2Q0Yu0AWQqT5) | 3:12 | 2025-02-20 | 2025-02-28 |
+| [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-07 |  |
 | [Gece Boyu](https://open.spotify.com/track/3TmxBVYIHQr3khR7rSk0PU) | [Chef Bi](https://open.spotify.com/artist/6Cf83I8yeJUd9uIPEUV6IM) | [Gece Boyu](https://open.spotify.com/album/4GCpJE2DUHSWSjMNzO00Yh) | 2:25 | 2025-02-27 | 2025-03-07 |
 | [GELDİĞİM YER](https://open.spotify.com/track/2Yrv0aUPh6NHFS8EbEHeL5) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [GELDİĞİM YER](https://open.spotify.com/album/1lWiSSBsilOq3LE1K3UUgZ) | 2:00 | 2025-02-27 | 2025-03-07 |
 | [Gemiler](https://open.spotify.com/track/6P70DwYpvAW5iw34Ph6buT) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Sana Yazmadığım Şarkılar](https://open.spotify.com/album/2Dbpe6mOnryH6QPIOr7csE) | 2:38 | 2025-02-27 | 2025-03-07 |
@@ -252,6 +253,7 @@
 | [Swing For The Fences](https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Swing For The Fences](https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3) | 3:22 | 2025-03-06 |  |
 | [Tam İstediğim Gibisin](https://open.spotify.com/track/3AcOENYOsFpj3fDIvTXtA3) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Tam İstediğim Gibisin](https://open.spotify.com/album/3Q7GkVROgeFX51Mzvrxq8j) | 2:36 | 2025-03-06 |  |
 | [TAMAM SENSİN](https://open.spotify.com/track/6oc2WQSZv5jZ1XXFw37GiS) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [TAMAM SENSİN](https://open.spotify.com/album/3UrsDDzsM6SPz13RE47RVR) | 2:22 | 2025-02-20 | 2025-02-28 |
+| [Tamba Tumba](https://open.spotify.com/track/4n5R75r3NS85VCsnBXYs8W) | [B\-Ko](https://open.spotify.com/artist/7LNsvzAb4lbRI2FuZQkEx9), [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Tamba Tumba](https://open.spotify.com/album/5hsFB0cy58oKWCKi9kvnDC) | 4:30 | 2025-03-06 |  |
 | [Tek Son Bu Mu?](https://open.spotify.com/track/6sylA3i5kJJLUtmRIylSIr) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO), [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Tek Son Bu Mu?](https://open.spotify.com/album/6SY7Z6y4VcJwzkvVUhPHD9) | 4:00 | 2025-02-20 | 2025-02-28 |
 | [Tek Taraflı Aşk](https://open.spotify.com/track/33cv941sPN3OQ9wBLL55ID) | [Ömer Öz](https://open.spotify.com/artist/3bw3IL3B9fbUsMezrk7tOO) | [Sevdaya Dahil Mi \(EP\)](https://open.spotify.com/album/7MXFcGa9sevoJkJ2rHt3Uz) | 3:01 | 2025-03-06 |  |
 | [Teşekkürler Düşünceler](https://open.spotify.com/track/3eg8GTjc2SnPMKnx7xDvdN) | [light motiv](https://open.spotify.com/artist/6rLXE13y3DrO2mZ8GJqJsZ) | [Geçen Günler Düşen Yapraklar Gibi](https://open.spotify.com/album/52eLrmEUGqCZQNGD41vOoj) | 3:59 | 2025-03-06 |  |
@@ -263,7 +265,7 @@
 | [Uzak Selamlar](https://open.spotify.com/track/0iMKNj2LTtQrSZoEPAU1ZN) | [Zeynep Casalini](https://open.spotify.com/artist/7gcpWHccoirYLWCkHgyKtI) | [Uzak Selamlar](https://open.spotify.com/album/5xXyGiu9lkDq0FxMNMF36K) | 3:58 | 2025-03-06 |  |
 | [Uzaktan Biri](https://open.spotify.com/track/3EUbQ8gOVePK42p4AG6F4s) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [Uzaktan Biri](https://open.spotify.com/album/6T8Pt8JZFK22EGdec01fg9) | 3:41 | 2025-02-27 | 2025-03-07 |
 | [Vamos](https://open.spotify.com/track/2eAYqEOLBu7JRVNRppuJFj) | [Idin Gorji](https://open.spotify.com/artist/1SBoQTgHLHfOY6bKVc5MeR), [Sebastian Hal](https://open.spotify.com/artist/3d0AWw0nFEhuhPRTuY7uY4) | [Vamos](https://open.spotify.com/album/2oSKO7Gvy1K5J1UTMxf4Cd) | 5:54 | 2025-03-06 |  |
-| [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-06 |  |
+| [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-06 | 2025-03-08 |
 | [Vay Halime](https://open.spotify.com/track/3r2PTXMDIbi08WXyNNXNzs) | [Heja](https://open.spotify.com/artist/3G0XxE8TxeByKXgwtmVE8n), [Destina](https://open.spotify.com/artist/0rBNuprjKLbiNhbqkHC5SE) | [Vay Halime](https://open.spotify.com/album/4ml4Pk8yFVDfixFsXSEzZt) | 3:17 | 2025-03-06 |  |
 | [Vesaire](https://open.spotify.com/track/7iwDH8HN1tKxYylJJPb1OV) | [Hakan Tunçbilek](https://open.spotify.com/artist/7Ejh8LL9odzXRIDGVWcCTw) | [Vesaire](https://open.spotify.com/album/4diLiliB29F2ojbhDnRbjD) | 4:11 | 2025-02-20 | 2025-02-28 |
 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 | 2025-02-27 | 2025-03-07 |

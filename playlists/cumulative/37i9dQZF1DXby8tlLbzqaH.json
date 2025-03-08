@@ -2093,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Ivory Whispers",
+        "url": "https://open.spotify.com/album/0bS3t5S05IXrlIumgadQsP"
+      },
+      "artists": [
+        {
+          "name": "Brightlo",
+          "url": "https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293871,
+      "name": "Ivory Whispers",
+      "url": "https://open.spotify.com/track/08wETzn6J6OVWkugoAbW3M"
+    },
+    {
+      "album": {
         "name": "Fountains From Wonderland",
         "url": "https://open.spotify.com/album/4j3s6FImdTmh7gcDKnmBO2"
       },
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 186000,
       "name": "Sleep Noise - Streamlined",
       "url": "https://open.spotify.com/track/697Fb07sG7t3IlklebLp17"

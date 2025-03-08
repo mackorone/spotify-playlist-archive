@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Graham Barham
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,144 likes - 145 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,146 likes - 145 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 96 | [If You Were My Girl](https://open.spotify.com/track/4lJHWJx0QXiQO4bwLGJEft) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [If You Were My Girl](https://open.spotify.com/album/1ne7atFrKKogLQ2SVvk4by) | 2:59 |
 | 97 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 |
 | 98 | [Ain't Missin' You](https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc) | 2:56 |
-| 99 | [Dive Bar](https://open.spotify.com/track/7Es3jo5w8VMQai8U9U0pO2) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Dive Bar](https://open.spotify.com/album/4vzsVvIlOfhkH3Ka6QkfXi) | 3:15 |
+| 99 | [Dive Bar](https://open.spotify.com/track/7Es3jo5w8VMQai8U9U0pO2) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Ovilla the Bruho](https://open.spotify.com/artist/7rR514NnmG9T2QmtcUhhH3) | [Dive Bar](https://open.spotify.com/album/4vzsVvIlOfhkH3Ka6QkfXi) | 3:15 |
 | 100 | [Never Needed Much](https://open.spotify.com/track/2JNmPKPJw6tkWMugkVKkvn) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Never Needed Much](https://open.spotify.com/album/3uCAFMyONkTNG50OOzexne) | 2:14 |
 | 101 | [Sad in the Summer \(feat\. Lily Rose\)](https://open.spotify.com/track/29Zod043iIX27WBv0duEDn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:21 |
 | 102 | [Next Town Over](https://open.spotify.com/track/2gpdZEqYzZmm4GRfY5GxQo) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Next Town Over](https://open.spotify.com/album/1MmsRlknDmG5seUMloCKJO) | 2:44 |

@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Abandon",
+        "url": "https://open.spotify.com/album/4rg1XkLIglBNxmQ7pTWHIa"
+      },
+      "artists": [
+        {
+          "name": "Demon Hyde",
+          "url": "https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137891,
+      "name": "Abandon",
+      "url": "https://open.spotify.com/track/24Pxr8BzAH4FbpTYW9pTHK"
+    },
+    {
+      "album": {
         "name": "Trilogy of the Toads",
         "url": "https://open.spotify.com/album/27Fhlqk8ij2J7lM6UcNok4"
       },
@@ -865,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Irie",
+        "url": "https://open.spotify.com/album/1puqX1n9dWHMVXLuEGiNYm"
+      },
+      "artists": [
+        {
+          "name": "Ganyaman",
+          "url": "https://open.spotify.com/artist/67ay2OgHoJ9fy8wo5eD20c"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141879,
+      "name": "Irie",
+      "url": "https://open.spotify.com/track/6MYxRLJrUQVvXRfVl7YHWi"
+    },
+    {
+      "album": {
         "name": "Koshi",
         "url": "https://open.spotify.com/album/2SwzlOLKcWmN9NCrsWU8GO"
       },
@@ -876,7 +912,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 370280,
       "name": "Koshi",
       "url": "https://open.spotify.com/track/5f3PUD9AdDVGKcZnwZxoud"

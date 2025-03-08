@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=JStfUNLrT5uP8CVC\_Twf5A>Ebuka Songs</a>
 
-474 songs - 1 day 21 hr 46 min
+475 songs - 1 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-09-01 | 2024-07-27 |
 | [Brighter Days](https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days / Tin Roof](https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX) | 3:28 | 2022-06-09 | 2023-09-01 |
 | [Broken \(Live\)](https://open.spotify.com/track/5iISN230UakPWUWgZSPkVH) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Broken \(Live\)](https://open.spotify.com/album/2KEY3q6BpkOtm8Aa3r5w5T) | 9:31 | 2024-01-19 | 2024-02-09 |
+| [BURN](https://open.spotify.com/track/1IG95S18k0RC5nUpyFCRfF) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Steph Ade](https://open.spotify.com/artist/3HqZE7YMwvtMRBUw3GvoGU) | [BURN](https://open.spotify.com/album/67GxAXdtyiSkbBbm8XIGYV) | 3:34 | 2025-02-28 |  |
 | [Calling \(Bless Me\)](https://open.spotify.com/track/70phX1Md7Hertk651Q06Z2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Calling \(Bless Me\)](https://open.spotify.com/album/6tgGEm8JciW3omq5q6kJKB) | 3:00 | 2025-03-07 |  |
 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 | 2022-06-09 | 2023-06-01 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-07-16 |
@@ -392,7 +393,7 @@
 | [Thank You Jesus](https://open.spotify.com/track/0ckaJapxvZXRheLq71K2bC) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Songs of the Spirit](https://open.spotify.com/album/4VT477X1Zs9XZkevo0dVEf) | 5:11 | 2022-10-14 | 2022-11-05 |
 | [That's The Power \- Live](https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [These Same Skies \(Live\)](https://open.spotify.com/album/08skyG33WqHITgFg6S09LR) | 4:34 | 2022-06-09 | 2024-07-27 |
 | [The Blessing](https://open.spotify.com/track/6F8PbXZTeRxKc3ac032E00) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [The Blessing](https://open.spotify.com/album/5x04NdHCuFQjBhbxQD9Lad) | 3:26 | 2024-07-12 | 2024-07-27 |
-| [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 | 2024-09-20 |  |
+| [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 | 2024-09-20 | 2025-03-08 |
 | [The Edge](https://open.spotify.com/track/4cChKOsyTd7YEzKMZd9ia2) | [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS), [Shiv Musiq](https://open.spotify.com/artist/1qzw0kNp2vIeSD93nVQapH) | [The Edge](https://open.spotify.com/album/1ojpDRM33MLwyGSqBAjclK) | 3:56 | 2024-09-20 | 2024-11-22 |
 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 | 2022-08-12 | 2023-11-18 |
 | [The Name of Jesus \- Live in Concert](https://open.spotify.com/track/4KTSpi2D4uoHcwxcPvvt3v) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 8:10 | 2023-12-05 | 2023-12-11 |

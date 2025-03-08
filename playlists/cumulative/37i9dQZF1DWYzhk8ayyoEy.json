@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-07",
-  "description": "Warm, inspirational pop, that's good at heart.  Cover: Mike Posner",
+  "description": "Warm, inspirational pop, that's good at heart.  Cover: Josh Groban",
   "name": "shine",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 173984,
       "name": "BACK ON TOP (feat. Griff)",
       "url": "https://open.spotify.com/track/4WwfMajCmOe3ApD9eF5B15"
+    },
+    {
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/35GvFcCqZCZgrIOIoeGYlX"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223226,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM"
     },
     {
       "album": {
@@ -911,6 +929,24 @@
     },
     {
       "album": {
+        "name": "Heaven On My Mind",
+        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203450,
+      "name": "Heaven On My Mind",
+      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
+    },
+    {
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/0UNq2Rh80UIYuaXHwgMMQM"
       },
@@ -958,7 +994,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 174800,
       "name": "Highs Get Low",
       "url": "https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD"
@@ -2654,7 +2690,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 202060,
       "name": "VIBRATIONS",
       "url": "https://open.spotify.com/track/4pqwoVOwvSbXhpYwNl0ufU"

@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kekel",
-  "num_followers": 84550,
+  "num_followers": 84560,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,34 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
+        "name": "Moletom",
+        "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
+      },
+      "artists": [
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 334153,
+      "name": "Moletom",
+      "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
         "name": "Love (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/75CDVz8yhYyB920rQGszBf"
       },
@@ -827,34 +855,6 @@
       "duration_ms": 610515,
       "name": "Love - Ac\u00fastico",
       "url": "https://open.spotify.com/track/59glxsHIDG5MSdPuqh8fpW"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
-        "name": "Moletom",
-        "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
-      },
-      "artists": [
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC Neguinho do Kaxeta",
-          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 334153,
-      "name": "Moletom",
-      "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
     },
     {
       "added_at": "2024-12-13 16:53:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
-        "name": "Tom de Pele",
-        "url": "https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Tom de Pele",
-      "url": "https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
         "name": "Poesia Ac\u00fastica #9: Melhor Forma",
         "url": "https://open.spotify.com/album/6drqaBLJWKqoNlKvOQeBTm"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 611076,
       "name": "Poesia Ac\u00fastica #9: Melhor Forma",
       "url": "https://open.spotify.com/track/2fmeSswdyVq4wcqhY41UHk"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
+        "name": "Tom de Pele",
+        "url": "https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Tom de Pele",
+      "url": "https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN"
     },
     {
       "added_at": "2024-12-13 16:53:30",

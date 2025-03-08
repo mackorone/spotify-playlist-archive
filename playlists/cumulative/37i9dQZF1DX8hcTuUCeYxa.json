@@ -14951,6 +14951,28 @@
     },
     {
       "album": {
+        "name": "Row Row",
+        "url": "https://open.spotify.com/album/7wuMkle88Axgx6giiEgMfb"
+      },
+      "artists": [
+        {
+          "name": "JW Francis",
+          "url": "https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6"
+        },
+        {
+          "name": "Paul Cherry",
+          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196890,
+      "name": "Row Row",
+      "url": "https://open.spotify.com/track/3sKuLclT7cyG5Sd0trMtzB"
+    },
+    {
+      "album": {
         "name": "Loveseat",
         "url": "https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A"
       },

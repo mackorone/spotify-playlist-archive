@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 226 songs - 11 hr 24 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 227 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,5 +234,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 224 | [Pyro](https://open.spotify.com/track/3Icp3VqFjDmRUBYeuCX6C6) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Pyro](https://open.spotify.com/album/2tuOiDWzEppASG9EBRT0aW) | 2:38 |
 | 225 | [Final Warning](https://open.spotify.com/track/0TRAB2HnQHrMlOy7UrniZf) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Final Warning](https://open.spotify.com/album/4tNM4cqi8o0KE2ZmVtdhGR) | 2:43 |
 | 226 | [Pole Up](https://open.spotify.com/track/5EIXidjeXvKcPvCIMbmdu1) | [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [Pole Up](https://open.spotify.com/album/1Byq2kGSGvZgBbJpakcX8L) | 2:06 |
+| 227 | [Arizona](https://open.spotify.com/track/6X1Q81m06YRrN9yuWek9f6) | [James Tillman](https://open.spotify.com/artist/4FXBouJHB0s6E3d6Q9YeSO) | [Arizona](https://open.spotify.com/album/2iZILXAWVDPppFsX8UhjaZ) | 4:13 |
 
-Snapshot ID: `AAAeAypiOaNgV1IUp/xvW+aZHO/PlN+Q`
+Snapshot ID: `AAAeBHusQepCQDWdRDbERPZvD6/WJjEw`

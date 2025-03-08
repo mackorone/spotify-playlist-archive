@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143661,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g"
+    },
+    {
+      "album": {
         "name": "Richey Rich",
         "url": "https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB"
       },
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 225139,
       "name": "lemme get ya #",
       "url": "https://open.spotify.com/track/3PU4l9xwLw7jqjazooLqL1"
@@ -1402,6 +1420,24 @@
       "duration_ms": 179200,
       "name": "Pray 4 Us",
       "url": "https://open.spotify.com/track/09NJWVz1VAUrLFX6pkWxbd"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls Like R&B",
+        "url": "https://open.spotify.com/album/0Tij4YB5O8MByK4Ze0SnqF"
+      },
+      "artists": [
+        {
+          "name": "Aaron Page",
+          "url": "https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144063,
+      "name": "Pretty Girls Like R&B",
+      "url": "https://open.spotify.com/track/4rYAFaC42GZuSM5PTv2ili"
     },
     {
       "album": {

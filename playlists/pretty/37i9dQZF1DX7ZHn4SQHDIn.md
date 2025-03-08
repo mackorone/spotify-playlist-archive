@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 
 > All in us! ITZY is back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,038 likes - 107 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,055 likes - 107 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GOLD](https://open.spotify.com/track/1dqN2j0jL4qB72CNgCdQ09) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:07 |
 | 2 | [Why Not](https://open.spotify.com/track/415dzQamP5pJ8dMfNVfUHL) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\) Part.3](https://open.spotify.com/album/7D0gQELLdvfMjodh6xNUA8) | 2:58 |
-| 3 | [Think about you](https://open.spotify.com/track/4og3b64aWTdgVk1ILheWxG) | [YEJI \(ITZY\)](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Love Your Enemy OST Part 3](https://open.spotify.com/album/0PHVTVnoPMOdTmKUVog8hB) | 3:09 |
+| 3 | [Think about you](https://open.spotify.com/track/4og3b64aWTdgVk1ILheWxG) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Love Your Enemy OST Part 3](https://open.spotify.com/album/0PHVTVnoPMOdTmKUVog8hB) | 3:09 |
 | 4 | [Imaginary Friend](https://open.spotify.com/track/06BeeZaS4YArThfTMu80QS) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:22 |
 | 5 | [Bad Girls R Us](https://open.spotify.com/track/0mfE7vrtspTMJHCpnrF6UC) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:02 |
 | 6 | [Supernatural](https://open.spotify.com/track/0Mm4N4N3LWt3bYbKgZRtkL) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:08 |

@@ -574,7 +574,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 330265,
       "name": "Another World - Alt. ver.",
       "url": "https://open.spotify.com/track/0Ig0YS2HO6bPBhWgJ0OLXr"
@@ -8136,7 +8136,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 197500,
       "name": "\u3044\u3051\u306a\u3044\u30b5\u30f3\u30bf",
       "url": "https://open.spotify.com/track/0BpocnVyMNs8DWgnGQGcjs"
@@ -11747,6 +11747,24 @@
     },
     {
       "album": {
+        "name": "\u30d6\u30e9\u30f3\u30cb\u30e5\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/1Zo82DYs6D8tgpzmQZuQaU"
+      },
+      "artists": [
+        {
+          "name": "chef's",
+          "url": "https://open.spotify.com/artist/7I6vgeUew4Ew1pxztnFhMa"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239560,
+      "name": "\u30d6\u30e9\u30f3\u30cb\u30e5\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/69wlrQjMXsN9ozcAMAHXTN"
+    },
+    {
+      "album": {
         "name": "\u30d6\u30eb\u30fc\u30b7\u30d5\u30c8",
         "url": "https://open.spotify.com/album/5oAZrUOyJ5bODLqWsB8PMA"
       },
@@ -13076,6 +13094,24 @@
       "duration_ms": 270400,
       "name": "\u4e00\u65e5\u6570\u79d2\u306e\u826f\u3044\u30b7\u30fc\u30f3",
       "url": "https://open.spotify.com/track/6sgCpPWZ2Te19RLgCaqVv2"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u306e\u3061\u541b\u3067\u6674\u308c\u306b\u5909\u308f\u308b",
+        "url": "https://open.spotify.com/album/33xIgOBdbzlabS2vHTiNQH"
+      },
+      "artists": [
+        {
+          "name": "\u30ac\u30e9\u30af\u30bf",
+          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "\u4e00\u76ee\u60da\u308c",
+      "url": "https://open.spotify.com/track/0Hf5QDObwSrceexKd0Xre5"
     },
     {
       "album": {

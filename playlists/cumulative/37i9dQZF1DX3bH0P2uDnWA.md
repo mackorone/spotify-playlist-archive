@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-403 songs - 22 hr 42 min
+404 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Prohibition](https://open.spotify.com/track/2l9emRx1ah5F2zTpiTqCcT) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Spooktober: Halloween Electro Swing](https://open.spotify.com/album/40m7XojB60MxvDnpsUtoj7) | 3:34 | 2022-10-12 | 2022-11-08 |
 | [Re\-Charleston \(Radio Edit\)](https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Re\-Charleston \(Electro Swing\)](https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo) | 2:47 | 2020-10-30 | 2024-11-23 |
 | [Retronik](https://open.spotify.com/track/7q3sBCvNeZep3Ppz2ySBST) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Retronik](https://open.spotify.com/album/4mubKPIoSCoePyKvxCrESc) | 3:49 | 2023-08-11 | 2024-06-29 |
+| [Rico's Groove](https://open.spotify.com/track/0nEWWblhoj0hNGrmCrHcJV) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Rico's Groove](https://open.spotify.com/album/0K8BlGTH4azUJpbfR3Mghn) | 3:04 | 2025-03-07 |  |
 | [Rosco's Groove](https://open.spotify.com/track/1bm1Zba5IyvaBP6Q9oyq8i) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Rosco's Groove](https://open.spotify.com/album/2mTXktFqQA61Amotu6fQwq) | 2:54 | 2024-05-31 |  |
 | [Rose](https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Rose](https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl) | 3:33 | 2021-01-22 | 2024-05-25 |
 | [Rug Cutter](https://open.spotify.com/track/2cpJJubKd3E8DiRZvnNgJZ) | [The Hebbe Sisters](https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Rug Cutter](https://open.spotify.com/album/3HLK2bbzAYOfmccK1BIcil) | 2:58 | 2023-06-02 | 2024-03-09 |
@@ -356,7 +357,7 @@
 | [The Istrian Job](https://open.spotify.com/track/1gaiAr6VmelPRGY4uFrbLk) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Teo Collori in Momento Cigano](https://open.spotify.com/artist/48cneGFVFRk062PwTL22iH) | [The Istrian Job](https://open.spotify.com/album/5gswEdrxMo8lMzn2OxyXRn) | 3:00 | 2024-06-28 |  |
 | [The Jungle Jive](https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [Bongo Chic](https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052) | 3:51 | 2021-02-19 |  |
 | [The Junker](https://open.spotify.com/track/1EmHeOAiZpHgLMbAXUQENm) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [The Junker](https://open.spotify.com/album/5HEBeoM8fE1Sj6xidb5an9) | 2:58 | 2023-01-27 |  |
-| [The Little Man Who Wasn't There](https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [The Little Man Who Wasn't There](https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX) | 3:26 | 2020-10-30 |  |
+| [The Little Man Who Wasn't There](https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [The Little Man Who Wasn't There](https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX) | 3:26 | 2020-10-30 | 2025-03-08 |
 | [The Mayor of Storyville \- Electro Swing Spin](https://open.spotify.com/track/1Yu8LT5fuomnLUcnpuJEOR) | [Swing'it](https://open.spotify.com/artist/2acptETX6n0IHKXyybYgWS), [Jonah Hitchens](https://open.spotify.com/artist/62dpqHNrPSn56BQK7zoROE), [Sam Norris](https://open.spotify.com/artist/1i3MM8Iwhjv1KnpCVYebY6) | [The Mayor of Storyville \(Electro Swing Spin\)](https://open.spotify.com/album/0FlV6WAxVjBtubyCYzlwRY) | 3:16 | 2023-07-21 |  |
 | [The Munsters \- Electro Swing Mix](https://open.spotify.com/track/6KSx750dE2LN3iRgKsbnkO) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [The Munsters \(Electro Swing Mix\)](https://open.spotify.com/album/67drYtHDl9aU68cP8X5ezb) | 2:08 | 2022-10-12 | 2023-10-14 |
 | [Think Twice](https://open.spotify.com/track/0GDtLtIJ4zbXfo4oDGq3oz) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Think Twice](https://open.spotify.com/album/3RDPYwu7EqUVyUBglOlGfs) | 2:51 | 2024-01-26 | 2024-11-23 |

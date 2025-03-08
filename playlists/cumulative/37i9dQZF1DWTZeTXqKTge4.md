@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: High Klassified
 
-784 songs - 1 day 15 hr 59 min
+785 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,8 @@
 | [Mew](https://open.spotify.com/track/0XyFWTz62YHIppuJHsdCXS) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Mew](https://open.spotify.com/album/7z4jZcsp7l9U6j5Q5ydhrW) | 3:17 | 2023-03-10 | 2023-06-03 |
 | [MICRODOSE](https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g) | [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [VITE!](https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj) | 2:09 | 2022-05-13 | 2022-07-23 |
 | [MIKE TANGO LIMA](https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:24 | 2023-08-04 | 2023-09-30 |
-| [MILLIONS](https://open.spotify.com/track/6i41rtq4kG7KNhw7r07fV1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MILLIONS](https://open.spotify.com/album/3kA1BrEN312GfMQqt3kJG9) | 2:50 | 2025-01-31 |  |
+| [MILLIONS](https://open.spotify.com/track/6i41rtq4kG7KNhw7r07fV1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MILLIONS](https://open.spotify.com/album/3kA1BrEN312GfMQqt3kJG9) | 2:50 | 2025-01-31 | 2025-03-08 |
+| [MINIMUM](https://open.spotify.com/track/6iI22KVyY5EeixVUwt7nHB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MINIMUM](https://open.spotify.com/album/1wEUBXA2dKjrKAfBa7HlNF) | 3:16 | 2025-03-07 |  |
 | [Mission Nocturne](https://open.spotify.com/track/7g1sKd5TXXMMVTaBlssG2U) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Mission Nocturne](https://open.spotify.com/album/3tKvDoCb5VgKj7lQZO50Bc) | 2:40 | 2023-04-28 | 2024-02-10 |
 | [Misunderstood](https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW) | [DARY](https://open.spotify.com/artist/7vfo5uAqkgpHfgTW2LmSPG) | [HAINE MOI](https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD) | 3:48 | 2022-01-21 | 2022-07-02 |
 | [Mode Avion](https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mode Avion](https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H) | 3:17 | 2023-05-12 | 2023-07-08 |

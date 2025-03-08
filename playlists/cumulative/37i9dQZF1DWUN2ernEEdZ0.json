@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/16NmntSL31MTCPkB6PkbOZ"
+      },
+      "artists": [
+        {
+          "name": "Philipp Hasse",
+          "url": "https://open.spotify.com/artist/76Awap7mRTdIk1ACiLdzYX"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147276,
+      "name": "October",
+      "url": "https://open.spotify.com/track/3q0c0pl3XpsG65RbpA5ELk"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/7LSOjGfETku2oPC7mr6ubo"
       },
@@ -874,6 +892,24 @@
       "duration_ms": 916000,
       "name": "Rhapsody in Blue (Solo Piano Version)",
       "url": "https://open.spotify.com/track/3Oywl0XakigMLVBK57QC4W"
+    },
+    {
+      "album": {
+        "name": "Max Richter: Written on the Sky",
+        "url": "https://open.spotify.com/album/3NTBDwC0a5CtotRCylwCFm"
+      },
+      "artists": [
+        {
+          "name": "Dalal",
+          "url": "https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109380,
+      "name": "Richter: Written on the Sky",
+      "url": "https://open.spotify.com/track/0n3CjysTL1Kcuu9BS0lN38"
     },
     {
       "album": {

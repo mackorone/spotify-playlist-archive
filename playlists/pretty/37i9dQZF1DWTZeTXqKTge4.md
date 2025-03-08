@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: High Klassified
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,140 likes - 74 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,145 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LomeLaval](https://open.spotify.com/track/2Q7CpbLeZhE8Rq8YPSiOhf) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [LomeLaval](https://open.spotify.com/album/21pJeD4qusaQ9YsBwfdKOW) | 2:21 |
 | 2 | [Allez](https://open.spotify.com/track/6CFUaCvxQ0O0My0Lg2imF5) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Allez](https://open.spotify.com/album/1aUewgj8QzwXqcWukIG9yl) | 2:50 |
-| 3 | [Papa n'était plus là](https://open.spotify.com/track/4Cs8POKuvs6YCoxRLcxDmv) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence Complice](https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB) | 2:51 |
-| 4 | [MILLIONS](https://open.spotify.com/track/6i41rtq4kG7KNhw7r07fV1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MILLIONS](https://open.spotify.com/album/3kA1BrEN312GfMQqt3kJG9) | 2:50 |
+| 3 | [MINIMUM](https://open.spotify.com/track/6iI22KVyY5EeixVUwt7nHB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MINIMUM](https://open.spotify.com/album/1wEUBXA2dKjrKAfBa7HlNF) | 3:16 |
+| 4 | [Papa n'était plus là](https://open.spotify.com/track/4Cs8POKuvs6YCoxRLcxDmv) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence Complice](https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB) | 2:51 |
 | 5 | [Zombie](https://open.spotify.com/track/20ksbbNMgK3j0oXac3lJBj) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [jeunesept](https://open.spotify.com/artist/4hwTBvo8ykVqflub3cKVr9) | [Zombie](https://open.spotify.com/album/2LiiNK3Mz0P0wU8OGKeh2z) | 2:55 |
 | 6 | [Free un tel](https://open.spotify.com/track/5zfz3YA4if2BCG2UW4jyDk) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Porter le coup, oublier\. Porter la marque, se souvenir](https://open.spotify.com/album/47wpyURruMQckYemmj2fb5) | 3:36 |
 | 7 | [KX](https://open.spotify.com/track/3aChirEW4T3P7AWpywqCbW) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [KX](https://open.spotify.com/album/0DRBSlecaDkg2LgFeYooIp) | 3:14 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 73 | [Va bene](https://open.spotify.com/track/38Toj0y1veSV0StPFwYBGj) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Renaissance \(Act\. II\) \(Bonus\)](https://open.spotify.com/album/7kin5hd0nUWpMmzC3OKfDH) | 2:35 |
 | 74 | [Good Intentions](https://open.spotify.com/track/3JlPF4v0bMkVxxKo0ebr9J) | [Modlee](https://open.spotify.com/artist/1vJ2skBECCSXeUdgbQadBW), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Koyo Sur La Prod](https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu) | [Good Intentions](https://open.spotify.com/album/5gchAW3dOVohQVT3E2WHHj) | 3:24 |
 
-Snapshot ID: `Z8FDAAAAAAAd9C+5SrkDavcSMQSuH7l3`
+Snapshot ID: `Z8p9bgAAAACryuew1IXsX5MmlD4Mmdf3`

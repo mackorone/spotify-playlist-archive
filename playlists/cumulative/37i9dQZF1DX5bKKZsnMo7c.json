@@ -592,7 +592,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 308823,
       "name": "Austrian Dream",
       "url": "https://open.spotify.com/track/7tMmo6tUPxYpbNKTK2X0HF"
@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 225032,
       "name": "Dog's Dinner",
       "url": "https://open.spotify.com/track/6pVOmtY7MYzOdV5KwVEvDQ"
@@ -3974,6 +3974,24 @@
       "duration_ms": 191696,
       "name": "Jenna",
       "url": "https://open.spotify.com/track/4OuS6CcTr3kofsSYpDyrTB"
+    },
+    {
+      "album": {
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/1smFBTxb71pr5K3rVjc1Yt"
+      },
+      "artists": [
+        {
+          "name": "SOFIA ISELLA",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277037,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/14ZMcrAWGFB0ltAxgrtH5U"
     },
     {
       "album": {
@@ -6736,6 +6754,24 @@
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "album": {
+        "name": "The Actor",
+        "url": "https://open.spotify.com/album/4j2UpVOzXDCQqcuEqqCy4G"
+      },
+      "artists": [
+        {
+          "name": "Jason Kimmel",
+          "url": "https://open.spotify.com/artist/2trESuPFMgjzzjbrscrt0Y"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206521,
+      "name": "The Actor",
+      "url": "https://open.spotify.com/track/6hzTD5ZrzKUBrav7gEUxpy"
     },
     {
       "album": {

@@ -1,15 +1,31 @@
 {
   "description": "Listen to all her biggest hits, in one place.",
-  "num_followers": 1776138,
+  "num_followers": 1777116,
   "original_name": "This Is Lady Gaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6A50gAAAAAT1wQYX7i9PYBWuzknikdf",
+  "snapshot_id": "Z8sv8wAAAACqjicX8BFTuRmGwceY90CL",
   "tracks": [
     {
-      "added_at": "2025-02-03 03:36:50",
+      "added_at": "2025-03-07 17:29:39",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "Garden Of Eden",
+      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+    },
+    {
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -45,71 +61,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "Born This Way (International Special Edition Version)",
-        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 320546,
-      "name": "The Edge Of Glory",
-      "url": "https://open.spotify.com/track/57F80059mWaWFvWG3tBTbO"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "The Fame Monster (UK Deluxe)",
-        "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 294466,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/5WFIK6GKHpNXfjlH3BSnep"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "The Fame Monster (UK Deluxe)",
         "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
@@ -129,7 +81,71 @@
       "url": "https://open.spotify.com/track/6nCDnzErqalOaIY3EJM8NK"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "The Edge Of Glory",
+      "url": "https://open.spotify.com/track/57F80059mWaWFvWG3tBTbO"
+    },
+    {
+      "added_at": "2025-03-07 17:29:39",
+      "album": {
+        "name": "The Fame Monster (UK Deluxe)",
+        "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 294466,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/5WFIK6GKHpNXfjlH3BSnep"
+    },
+    {
+      "added_at": "2025-03-07 17:29:39",
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
+    },
+    {
+      "added_at": "2025-03-07 17:29:39",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+    },
+    {
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Born This Way (International Standard Version)",
         "url": "https://open.spotify.com/album/30D9CrjDAZRrN7esS8CCgO"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/4yQmDtjax2Ye9wY8EPAO1x"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Born This Way (International Special Edition Version)",
         "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "ARTPOP",
         "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
@@ -177,7 +193,27 @@
       "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "duration_ms": 210651,
+      "name": "Killah (feat. Gesaffelstein)",
+      "url": "https://open.spotify.com/track/4pNzBbGcqXofx8mLBPTeih"
+    },
+    {
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
@@ -193,7 +229,23 @@
       "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Rain On Me (with Ariana Grande)",
         "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
@@ -213,7 +265,7 @@
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "The Fame Monster (UK Deluxe)",
         "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
@@ -229,7 +281,23 @@
       "url": "https://open.spotify.com/track/0iOu4s8w3pE9vbpb1SHXsL"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 193232,
+      "name": "LoveDrug",
+      "url": "https://open.spotify.com/track/3hcivoswCVR8LZkHR8MYA5"
+    },
+    {
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Born This Way (International Special Edition Version)",
         "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
@@ -245,7 +313,7 @@
       "url": "https://open.spotify.com/track/1ADciGUxOaUbBFd0rpYx7d"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
@@ -261,7 +329,7 @@
       "url": "https://open.spotify.com/track/1rpDLMm4FjGqMz6N1dZZo8"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
@@ -281,7 +349,7 @@
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
@@ -297,7 +365,23 @@
       "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 199723,
+      "name": "Shadow Of A Man",
+      "url": "https://open.spotify.com/track/6OC87jHRiovNPEUrgaqFSu"
+    },
+    {
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe"
@@ -313,7 +397,7 @@
       "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
@@ -329,7 +413,7 @@
       "url": "https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Born This Way (International Special Edition Version)",
         "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
@@ -345,7 +429,7 @@
       "url": "https://open.spotify.com/track/53jnnqFSRGMDB9ADrNriCA"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
@@ -365,7 +449,7 @@
       "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Born This Way (International Special Edition Version)",
         "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
@@ -381,7 +465,7 @@
       "url": "https://open.spotify.com/track/02d1E4NRuh7OEQO4vCb9PD"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
@@ -397,7 +481,7 @@
       "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
@@ -413,7 +497,7 @@
       "url": "https://open.spotify.com/track/4CpYy3xVz778722sv0odtm"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "ARTPOP",
         "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
@@ -429,7 +513,7 @@
       "url": "https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
@@ -445,7 +529,7 @@
       "url": "https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
@@ -461,7 +545,7 @@
       "url": "https://open.spotify.com/track/0eH2eHURaXUP15D8gQlfjx"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
@@ -477,7 +561,7 @@
       "url": "https://open.spotify.com/track/2KZSAE8Q2czVxKAzEuxbNu"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
@@ -493,7 +577,7 @@
       "url": "https://open.spotify.com/track/4gdfWGyzB9j4ZVc2JWdpv2"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE"
@@ -509,7 +593,7 @@
       "url": "https://open.spotify.com/track/51PIvodunv6NmX5250zxAh"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
@@ -525,7 +609,7 @@
       "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
@@ -545,7 +629,7 @@
       "url": "https://open.spotify.com/track/554PnB96IltLzVlbinBstw"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "The Fame Monster (UK Deluxe)",
         "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
@@ -561,7 +645,7 @@
       "url": "https://open.spotify.com/track/1fs2Dab8RbaOfbLvaiOsX7"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Born This Way (International Special Edition Version)",
         "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
@@ -577,7 +661,7 @@
       "url": "https://open.spotify.com/track/4u8q2Gddnu8jqCFzxm5IZs"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/6r15S0qfBJoXSNMjGQouGW"
@@ -593,7 +677,7 @@
       "url": "https://open.spotify.com/track/4m7UoCZhKkIWMjuEfrp1JE"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Sour Candy (with BLACKPINK)",
         "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB"
@@ -613,23 +697,7 @@
       "url": "https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Look What I Found",
-      "url": "https://open.spotify.com/track/1l9G7M8gNyQsgOGWZGoQsT"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
@@ -645,7 +713,7 @@
       "url": "https://open.spotify.com/track/4KZAsdL0PeGvmPbSr0hyG4"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
@@ -661,7 +729,7 @@
       "url": "https://open.spotify.com/track/1vwTGFOq34pA2d0VUikL3W"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "ARTPOP",
         "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
@@ -677,23 +745,7 @@
       "url": "https://open.spotify.com/track/73zDQykFwu3yT5VQ6MwYbh"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "Joanne (Deluxe)",
-        "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "A-YO",
-      "url": "https://open.spotify.com/track/4aea4osXbQHKgeOwZGzgEV"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
@@ -709,7 +761,7 @@
       "url": "https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
@@ -725,7 +777,7 @@
       "url": "https://open.spotify.com/track/73nUaV6tDyvCiBZKhAR7kL"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "The Fame Monster (UK Deluxe)",
         "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
@@ -741,23 +793,7 @@
       "url": "https://open.spotify.com/track/1LwISx4hhmcKw4CL78CCnu"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/7sKbyYeJnITO1Eh9xd0lKd"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "The Fame Monster (UK Deluxe)",
         "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
@@ -773,23 +809,7 @@
       "url": "https://open.spotify.com/track/36ebL42b6QAqitgzbkIjw5"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "Beautiful, Dirty, Rich",
-      "url": "https://open.spotify.com/track/0Bjr5EAEa5YxfSHHWzZmds"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Do What U Want",
         "url": "https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm"
@@ -809,23 +829,7 @@
       "url": "https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo"
     },
     {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "The Fame",
-      "url": "https://open.spotify.com/track/3HhAZV8ngUOOt4eUHovhud"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
+      "added_at": "2025-03-07 17:29:39",
       "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"

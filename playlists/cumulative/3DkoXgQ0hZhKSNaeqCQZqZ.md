@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-319 songs - 16 hr 53 min
+322 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [I Don't Need Love](https://open.spotify.com/track/6UbEBm0sFHunsjZ7KCjTXR) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [I Don't Need Love](https://open.spotify.com/album/0eDzQHbimt2oZQVYNBa0AF) | 4:56 | 2023-06-14 |  |
 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 | 2024-11-18 |  |
 | [I DONT UNDERSTAND](https://open.spotify.com/track/74KNOo0ILoRMyD7NT5gDgy) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [I DONT UNDERSTAND](https://open.spotify.com/album/0XZN4GHwWZGy0oIz49oVu0) | 3:08 | 2025-01-30 |  |
+| [I FEEL LIKE RYAN SEACREST!](https://open.spotify.com/track/766wyP4PUBQFbDi8OUrCfM) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [I FEEL LIKE RYAN SEACREST!](https://open.spotify.com/album/24DMxLAjxbShCcn9PZYvpC) | 2:19 | 2025-03-07 |  |
 | [I Know, I Hear You](https://open.spotify.com/track/4uBVRH3YUy0eSMnxKFVWwZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:19 | 2024-11-25 |  |
 | [I LOVE BEING NORMAL](https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [I LOVE BEING NORMAL](https://open.spotify.com/album/5Us6d5XJoDoJlDN903GibE) | 2:08 | 2025-01-07 |  |
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-10-21 |  |
@@ -201,6 +202,7 @@
 | [No Matter What \- 2024](https://open.spotify.com/track/2XJlp7wla0EJI8CNlzICpG) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo), [Sylver Stripe](https://open.spotify.com/artist/0aohwwtpLSJi4RAXQkjKkb), [Namii](https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6), [GalaxySquid](https://open.spotify.com/artist/5Bf0U4uWT0KwE3047UWYja) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 4:35 | 2025-01-07 |  |
 | [NO PARACHUTE](https://open.spotify.com/track/4qJfMx6rVlGvXioDPqEQ6w) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [NO PARACHUTE](https://open.spotify.com/album/5iZlQDAdbtNOiSjVRrm710) | 2:18 | 2024-11-18 |  |
 | [Noise \- Memory Pool](https://open.spotify.com/track/5VjrJ13g4ypdYi0uOHlTJk) | [June LaLonde](https://open.spotify.com/artist/1IU8Y8EUogFf85PtoaikIK) | [Headjack](https://open.spotify.com/album/5xpPrOjFjak4HT7v33FIKm) | 3:45 | 2024-05-28 |  |
+| [nonbinary](https://open.spotify.com/track/3hJl4ZMJkaPCowO2BdE2Oe) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 2:44 | 2025-03-07 |  |
 | [not askin 4 much](https://open.spotify.com/track/4O6qnVx4R1LJSPsXKYFrAG) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [not askin 4 much](https://open.spotify.com/album/7uTSVs0t0qhynCUG36MjvM) | 2:13 | 2024-11-25 |  |
 | [Not Holding Back](https://open.spotify.com/track/0zILcaJBCn72ShpNizqrQW) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [Not Holding Back](https://open.spotify.com/album/1bAZ4KCxSVc65jK4mebnCa) | 2:47 | 2024-04-12 |  |
 | [NOTORIOUS](https://open.spotify.com/track/0RAnQRTlzL5uXp3mwsHkz9) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [NOTORIOUS](https://open.spotify.com/album/64hrwE6RioD6Uy45WonTPF) | 2:32 | 2023-10-05 |  |
@@ -271,6 +273,7 @@
 | [someone special](https://open.spotify.com/track/67s2DeBt7fAQ7RqAIP99tD) | [Blueberry](https://open.spotify.com/artist/0YojyCH6OZsxIXzNMRY12Z) | [someone special](https://open.spotify.com/album/77AJxNfFKAwpTiNyDVLjYV) | 2:54 | 2024-05-28 |  |
 | [something new](https://open.spotify.com/track/0JtDlZYd3rcmJNAT5JWeA8) | [xaev](https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL), [mopearound](https://open.spotify.com/artist/0XzFJD8UCjI0vkRofftT8Y), [Exobolt](https://open.spotify.com/artist/5FdGHOu3JjJbZ5jcPcI9Km) | [something new](https://open.spotify.com/album/3ngY5oSa4mUFC6ThZk2cdc) | 5:35 | 2024-06-09 |  |
 | [something to hold](https://open.spotify.com/track/3XGmJg7p3an829jy9GqwtQ) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [partners](https://open.spotify.com/album/6ZiZe0XmjcnIycBJCYynbo) | 2:12 | 2025-01-25 |  |
+| [south](https://open.spotify.com/track/0RGO0OK4kV9bKviTFjcllk) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [south](https://open.spotify.com/album/2F7xWlv89FfERq4uTBiACU) | 1:25 | 2025-03-07 |  |
 | [Spider Bites](https://open.spotify.com/track/4QYiQ5PpL19NoGabu2zFNE) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Spider Bites](https://open.spotify.com/album/1k0KDOkgfGA0Nwov5ncseo) | 3:31 | 2023-12-05 |  |
 | [spinnin round my head](https://open.spotify.com/track/7DSWwFavn5AqUs9Mg2FkrQ) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [spinnin round my head](https://open.spotify.com/album/4k1EN8sYA2ujbVVbohtd5p) | 1:51 | 2025-01-25 |  |
 | [SPOOKY](https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva) | [fennecxx](https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2), [DJ ALEX](https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL) | [SPOOKY](https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9) | 1:36 | 2025-01-17 |  |

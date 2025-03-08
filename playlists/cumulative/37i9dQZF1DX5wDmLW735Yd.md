@@ -2,7 +2,7 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: Turno, D Double E, Morrisson, Catching Cairo
+> The world's biggest Drum 'n' Bass playlist! Cover: Wilkinson
 
 862 songs - 2 day 3 hr 41 min
 

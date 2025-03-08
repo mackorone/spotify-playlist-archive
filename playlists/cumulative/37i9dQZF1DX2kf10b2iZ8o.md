@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-207 songs - 15 hr 15 min
+208 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Resonate Blessing](https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm) | [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx) | [THE IDOLM@STER SideM 49 ELEMENTS \-07 Altessimo](https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4) | 5:09 | 2023-02-25 | 2024-12-26 |
 | [Reversed Masquerade](https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 5:20 | 2022-12-01 | 2025-01-17 |
 | [ROAD TO THE FUTURE](https://open.spotify.com/track/3845SOwA3hXDHMijSX1caF) | [円城寺道流 \(CV.濱野大輝\)](https://open.spotify.com/artist/53qbQRpLiystrtb7ujOgmV) | [THE IDOLM@STER SideM ORIGIN@L PIECES 06](https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB) | 5:02 | 2025-01-14 | 2025-01-31 |
+| [ROMANTIC SHAKER](https://open.spotify.com/track/1Zia9UO4AgrArmKu7XoScL) | [伊集院北斗 \(CV.神原大地\)](https://open.spotify.com/artist/13f4GKk0tDpNKPJWJ0auUa) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 3:38 | 2025-01-14 |  |
 | [RULE～牙ヲ穿テヨ～](https://open.spotify.com/track/5wuI32XPpxSTUrh2CqSDVk) | [牙崎 漣 \(CV.小松昌平\)](https://open.spotify.com/artist/0WDJ6ittFP69OvaKvNX9Dz) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 3:43 | 2022-12-01 |  |
 | [Sanctuary World](https://open.spotify.com/track/3nHXtBRdhD4W339n5qmPMl) | [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/2FRTPqaf3Ov9swyGdP7Etq) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:49 | 2024-03-05 | 2024-11-20 |
 | [SASH OF SMILE](https://open.spotify.com/track/2FMynFjE0WU3DfIgRPOqoS) | [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 3:54 | 2023-05-09 | 2025-01-12 |
@@ -208,7 +209,7 @@
 | [理由あって、アイドル!](https://open.spotify.com/track/7wK09hemIqf4AxVK5DUNVR) | [EFFY](https://open.spotify.com/artist/5jNbdaPfhmYcIub0YFgUgP) | [THE IDOLM@STER SideM ANIMATION PROJECT 08 Original Soundtrack: GLORIOUS RO@D](https://open.spotify.com/album/5g7hs5KQjp31HFvi9JJQEm) | 3:48 | 2022-12-01 | 2022-12-03 |
 | [眠らぬ夜にスパシーバ!](https://open.spotify.com/track/4SJ8Erz6FFM0GsOKt5j0KO) | [Yukihiro Kamiya \(CV: Sho Karino\)](https://open.spotify.com/artist/3BIkEVhgtjHtXs1wwTtdT1), [Jiro Yamashita \(CV: Yoshiki Nakajima\)](https://open.spotify.com/artist/4zUbhdm1GyDSGMXy1K8ft5), [Chris Koron \(CV: Wataru Komada\)](https://open.spotify.com/artist/5525KflQhcAxPFnx2i2fpA) | [THE IDOLM@STER SideM WORLD TRE@SURE 09](https://open.spotify.com/album/2ISzgwWVgaMlpRy0pymmCw) | 4:18 | 2022-12-20 | 2023-10-12 |
 | [祝彩！](https://open.spotify.com/track/2s6pBB0FZLJn9Gp0fRRriA) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 3:47 | 2024-03-05 | 2024-11-13 |
-| [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 | 2022-12-13 |  |
+| [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 | 2022-12-13 | 2025-03-08 |
 | [筆跡の彼方](https://open.spotify.com/track/2IHhUwKn9gmSp13XW7gpXl) | [九十九一希 \(CV.比留間俊哉\)](https://open.spotify.com/artist/1DgrivlMLKajVXwUmzArhf) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 3:56 | 2023-05-09 | 2023-12-10 |
 | [素敵にCon grazia！](https://open.spotify.com/track/7aY5G6hQ98G1nxxNgshPiY) | [伊集院北斗 \(CV.神原大地\)](https://open.spotify.com/artist/0AZPqKpHkcLELOWmVEvMDo) | [THE IDOLM@STER SideM 49 ELEMENTS \-05 Jupiter](https://open.spotify.com/album/3zBCmvg7DUOCEaIbTY8xOt) | 3:58 | 2023-05-09 |  |
 | [羽ばたきのMy Soul](https://open.spotify.com/track/7dbJHWEPrDikiGbG6kBQPV) | [秋月 涼 \(CV.三瓶由布子\)](https://open.spotify.com/artist/3rnZQSon7LNBIUiXm9U28F) | [THE IDOLM@STER SideM ORIGIN@L PIECES 02](https://open.spotify.com/album/7vKuKjUjsikdlFhOXbX4Ld) | 4:46 | 2024-03-05 | 2024-12-15 |

@@ -4,7 +4,7 @@
 
 > ¡Mujeres mexicanas a todo volumen! Yuridia en portada 💚
 
-1,332 songs - 3 day 0 hr 52 min
+1,336 songs - 3 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,8 +136,10 @@
 | [Barby Bellaka](https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Barby Bellaka](https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR) | 2:42 | 2024-05-01 | 2024-06-06 |
 | [Barco](https://open.spotify.com/track/3kCqWOMnlfZylvw76TAY5d) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ISABEL LP](https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX) | 4:01 | 2024-04-03 | 2024-05-02 |
 | [Bassline](https://open.spotify.com/track/6sd926szaoZ9av5dRbJNsu) | [CRYSTAL](https://open.spotify.com/artist/1omZgglAvXKWjtB2AzxwQn), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Bassline](https://open.spotify.com/album/6zgjfv5UuR8M6ppjGXeoTL) | 3:06 | 2022-04-06 | 2022-05-05 |
+| [BBTRUCOS](https://open.spotify.com/track/2FRMBN0FNaulDesgK1GIOp) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [BBTRUCOS](https://open.spotify.com/album/1S0qI6e4xbqhVSQhzS40x2) | 1:12 | 2025-03-07 |  |
 | [Bebe Ricota](https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [Bebe Ricota](https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l) | 2:31 | 2024-12-04 | 2025-02-06 |
 | [BEIBY](https://open.spotify.com/track/1nYf6k2HrGJxSE0vDIsrY9) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [SEXOLANDIA](https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy) | 2:19 | 2025-03-03 |  |
+| [BEIBY](https://open.spotify.com/track/2QGrlOTCxANQOfgKf7kTzH) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [BEIBY](https://open.spotify.com/album/2P9GoHvBQi1nblhXAjWfYi) | 2:19 | 2025-03-07 |  |
 | [Belize](https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:41 | 2023-09-06 | 2024-04-04 |
 | [Bella Traicion](https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:45 | 2023-11-08 | 2023-11-30 |
 | [Bem Melhor](https://open.spotify.com/track/4FByyg1619bF6D1j8fE78c) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Salvar el Fuego](https://open.spotify.com/album/4b9MYYAYV7rsh61K1loExz) | 3:43 | 2022-10-05 | 2022-11-03 |
@@ -358,6 +360,7 @@
 | [Disco Hadas](https://open.spotify.com/track/3k535qr8YnvxStuuHGb9CX) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Disco Hadas](https://open.spotify.com/album/55BBK1R42EIwRKI97HIEdY) | 2:58 | 2023-07-05 | 2023-07-27 |
 | [Disco Hadas](https://open.spotify.com/track/6CgPa2pjPnG6tKSprkPOhJ) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Disco Hadas](https://open.spotify.com/album/5FjbAicZSNPQJDSAqtimy8) | 2:58 | 2023-07-05 | 2023-08-03 |
 | [Disco Sex](https://open.spotify.com/track/4uaj3mrr984XSCYMH0LjN2) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Disco Sex](https://open.spotify.com/album/0E62ANHggdc0xtJlaIVGlS) | 3:40 | 2022-06-01 | 2022-07-07 |
+| [Distante](https://open.spotify.com/track/1T1DjLjxX8SHBqva8E8yBt) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Distante](https://open.spotify.com/album/7oB95w3WxmSGIZ6DINTdJK) | 2:09 | 2025-03-07 |  |
 | [Distintos](https://open.spotify.com/track/4hw9Y2bv19kOb6o02cViiF) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [J Heras](https://open.spotify.com/artist/3MItNga2j91Iul6BYGWEoE) | [Distintos](https://open.spotify.com/album/17tM3A86mfYvnxwq4k3xdP) | 2:44 | 2023-01-04 | 2023-02-02 |
 | [Diva](https://open.spotify.com/track/3F5noAzNQwxdJbUyKg3koP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 2:52 | 2022-02-02 | 2023-02-02 |
 | [DM](https://open.spotify.com/track/7nmBL7pC8NfvEuPhO489NK) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [DM](https://open.spotify.com/album/4GR94M7zemJWFWyxnzsJSy) | 2:09 | 2024-12-04 | 2025-03-04 |
@@ -1073,6 +1076,7 @@
 | [Shankara \(Sunburn Goa 2019 Anthem\)](https://open.spotify.com/track/3AQWRQhkvOEQOw4DsajYpP) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Shankara \(Sunburn Goa 2019 Anthem\)](https://open.spotify.com/album/6T0gt1pQXTA08Xo4wKzwWs) | 3:08 | 2022-04-06 | 2022-05-05 |
 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 | 2022-01-05 | 2022-02-03 |
 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 | 2022-02-02 | 2023-01-05 |
+| [Si Tú No Vuelves](https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Si Tú No Vuelves](https://open.spotify.com/album/6kauhrMCA9h8KT7PltZJ7T) | 3:27 | 2025-03-07 |  |
 | [Siempre en Mi Mente](https://open.spotify.com/track/68l8HTNeB8mDv2Yl3C3DSF) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 4:04 | 2024-07-03 | 2024-08-08 |
 | [Siempre Estoy Mintiendo](https://open.spotify.com/track/5t6jPbVYGz1DdD3JdyB6qP) | [Lolita De Sola](https://open.spotify.com/artist/3atamZsM1eCmbn9kiqo7dO) | [Siempre Estoy Mintiendo](https://open.spotify.com/album/53N35MNKJEC7xlmuZKkWX6) | 2:58 | 2023-04-05 | 2023-05-04 |
 | [Siempre Nada](https://open.spotify.com/track/78nDlJ35V2e7xSKuyxfFPm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Siempre Nada](https://open.spotify.com/album/12ZgUXs3fsGKi8hwIS3fYc) | 3:10 | 2023-07-05 | 2023-08-03 |

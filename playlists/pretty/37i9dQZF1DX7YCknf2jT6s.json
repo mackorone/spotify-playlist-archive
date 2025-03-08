@@ -1,13 +1,29 @@
 {
-  "description": "New jazz for open minds. Cover: Terrace Martin",
-  "num_followers": 948734,
+  "description": "New jazz for open minds. Cover: ARTEMIS",
+  "num_followers": 948752,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC+AAAAAA1AvoKjIVZotmI7PuiTlIn",
+  "snapshot_id": "Z8p9ewAAAADUPq5m9BF8FInAkofuB5fj",
   "tracks": [
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "ARBORESQUE",
+        "url": "https://open.spotify.com/album/00LZu5if6qbDOrC1SBKx1s"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "duration_ms": 331047,
+      "name": "Olive Branch",
+      "url": "https://open.spotify.com/track/0Tu3PCVFQ2xl0ojwPoGUEQ"
+    },
     {
       "added_at": "2025-02-28 05:00:40",
       "album": {
@@ -27,6 +43,50 @@
       "duration_ms": 253231,
       "name": "Not Sharing",
       "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Hungarian Dance No. 1",
+        "url": "https://open.spotify.com/album/1hE84HzioHqqTTGkdFXBev"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Jean-Paul Brodbeck",
+          "url": "https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02"
+        },
+        {
+          "name": "Lukas Traxel",
+          "url": "https://open.spotify.com/artist/0FOqf6DjkWNBn62GJDd3So"
+        },
+        {
+          "name": "Jorge Rossy",
+          "url": "https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE"
+        }
+      ],
+      "duration_ms": 494391,
+      "name": "Hungarian Dance No. 1",
+      "url": "https://open.spotify.com/track/4hkSWsvKxfPwf1GI1NKJWT"
     },
     {
       "added_at": "2025-02-28 05:00:40",
@@ -143,22 +203,6 @@
       "duration_ms": 242530,
       "name": "Body Language (feat. Sasha Keable)",
       "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
-    },
-    {
-      "added_at": "2025-02-28 05:00:40",
-      "album": {
-        "name": "ARBORESQUE",
-        "url": "https://open.spotify.com/album/00LZu5if6qbDOrC1SBKx1s"
-      },
-      "artists": [
-        {
-          "name": "ARTEMIS",
-          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
-        }
-      ],
-      "duration_ms": 331047,
-      "name": "Olive Branch",
-      "url": "https://open.spotify.com/track/0Tu3PCVFQ2xl0ojwPoGUEQ"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -753,22 +797,6 @@
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
     },
     {
-      "added_at": "2025-01-17 05:00:30",
-      "album": {
-        "name": "Southwood",
-        "url": "https://open.spotify.com/album/0cdAJ8EByPMuMcg8f7xlSb"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "Southwood",
-      "url": "https://open.spotify.com/track/1vlR2uBjK3TUM8rcU7F43Z"
-    },
-    {
       "added_at": "2025-01-24 05:00:29",
       "album": {
         "name": "Hotel Clara",
@@ -875,22 +903,6 @@
       "duration_ms": 282562,
       "name": "Pickles",
       "url": "https://open.spotify.com/track/4ZylM8818hpzl7Y1ilOJU2"
-    },
-    {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
-        "name": "Silhouettes: A Dream Sphere Journal",
-        "url": "https://open.spotify.com/album/5HBvvp3lcKavJbw9vnHMwP"
-      },
-      "artists": [
-        {
-          "name": "MATTERS UNKNOWN",
-          "url": "https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz"
-        }
-      ],
-      "duration_ms": 215168,
-      "name": "What Are You About?",
-      "url": "https://open.spotify.com/track/0wjqeLd0hcvSF2D7rKoVjh"
     },
     {
       "added_at": "2024-10-04 04:00:00",

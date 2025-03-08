@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Mar 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Mar 19:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 182099,
       "name": "(Re)-Extract",
       "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
+    },
+    {
+      "album": {
+        "name": "+ sargasso +",
+        "url": "https://open.spotify.com/album/2x2oSr03mohnIV021ZWg1R"
+      },
+      "artists": [
+        {
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405132,
+      "name": "+ sargasso +",
+      "url": "https://open.spotify.com/track/5B3xFiAHesPmNHpW2eDJp8"
     },
     {
       "album": {
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 192000,
       "name": "5 Night",
       "url": "https://open.spotify.com/track/6PP3cULCIdLQcvqMj15rfn"
@@ -3832,7 +3850,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 278973,
       "name": "Always Some MF",
       "url": "https://open.spotify.com/track/1DPycGNFfBveTyk51nG9VG"
@@ -11545,6 +11563,24 @@
     },
     {
       "album": {
+        "name": "By a Monster\u2019s Hand",
+        "url": "https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222960,
+      "name": "By a Monster\u2019s Hand",
+      "url": "https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9"
+    },
+    {
+      "album": {
         "name": "By The Evening",
         "url": "https://open.spotify.com/album/3rRTLxAgSPxOD5i4p1a8ab"
       },
@@ -12416,6 +12452,24 @@
       "duration_ms": 180000,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY"
+    },
+    {
+      "album": {
+        "name": "Cataract Time",
+        "url": "https://open.spotify.com/album/0kE0sFfDTd1n8y8hW0MzoY"
+      },
+      "artists": [
+        {
+          "name": "Destroyer",
+          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480306,
+      "name": "Cataract Time",
+      "url": "https://open.spotify.com/track/681ZfGnArxSspYkBw7eg2n"
     },
     {
       "album": {
@@ -17107,6 +17161,24 @@
     },
     {
       "album": {
+        "name": "DANCE ON ME",
+        "url": "https://open.spotify.com/album/1A4XtcimYQPgU6kSDWjOdk"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "DANCE ON ME",
+      "url": "https://open.spotify.com/track/5xdjNYpQNhRldPHcl6FfgQ"
+    },
+    {
+      "album": {
         "name": "Dance on the Shoreline",
         "url": "https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5"
       },
@@ -18312,7 +18384,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 203349,
       "name": "Delete Ya",
       "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
@@ -28308,7 +28380,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 230229,
       "name": "Girl's Always Right",
       "url": "https://open.spotify.com/track/6pSP4kvMxN4yf6k4pKSALi"
@@ -34993,6 +35065,24 @@
     },
     {
       "album": {
+        "name": "I Walk Ahead Of You",
+        "url": "https://open.spotify.com/album/2tV1FUHP7d6OB1voXQzxwP"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131699,
+      "name": "I Walk Ahead Of You",
+      "url": "https://open.spotify.com/track/4atdgp9zlKObNl97QpPHqP"
+    },
+    {
+      "album": {
         "name": "I WANNA BE",
         "url": "https://open.spotify.com/album/0xdlQ55UOIikv6P4DifQb4"
       },
@@ -35668,7 +35758,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 148967,
       "name": "I00",
       "url": "https://open.spotify.com/track/4kQ9Pv0eBPawJSdCLFpO74"
@@ -37006,7 +37096,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 278583,
       "name": "Industry Corporate Freak",
       "url": "https://open.spotify.com/track/33aigucvBFkOAa2yRHy7g5"
@@ -41875,6 +41965,24 @@
     },
     {
       "album": {
+        "name": "Limelight",
+        "url": "https://open.spotify.com/album/5x2ybzUxgUq67ig0swZmok"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/0OyTkxom7HBZ3lM1U2Fskz"
+    },
+    {
+      "album": {
         "name": "LIMERENCE",
         "url": "https://open.spotify.com/album/2dmZ1mL7C0ykfvY14Lpsd2"
       },
@@ -44930,6 +45038,44 @@
       "duration_ms": 169738,
       "name": "ManDarE TuTto All'aRIA",
       "url": "https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq"
+    },
+    {
+      "album": {
+        "name": "Mandingo",
+        "url": "https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        },
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268630,
+      "name": "Mandingo",
+      "url": "https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR"
     },
     {
       "album": {
@@ -59606,6 +59752,24 @@
     {
       "album": {
         "name": "Run It Up",
+        "url": "https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173502,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
+    },
+    {
+      "album": {
+        "name": "Run It Up",
         "url": "https://open.spotify.com/album/7k7WGd0BtUjotRRpGUheHQ"
       },
       "artists": [
@@ -60108,7 +60272,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 133639,
       "name": "safeword",
       "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
@@ -64870,7 +65034,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 156582,
       "name": "Sorry I'm Here For Someone Else",
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"

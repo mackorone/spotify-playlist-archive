@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtTK5Bo0anL.md) - [plain]
 
 > <a href="spotify:artist:144HzhpLjcR9k37w5Ico9B">Deborah De Luca</a>'s favorite tracks\. Updated regularly\. Curated by Deborah De Luca\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,641 likes - 55 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,660 likes - 55 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

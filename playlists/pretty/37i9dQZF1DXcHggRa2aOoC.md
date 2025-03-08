@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHggRa2aOoC.md) - [plain]
 
 > You know that all mornings call for Fairuz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,656 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,660 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

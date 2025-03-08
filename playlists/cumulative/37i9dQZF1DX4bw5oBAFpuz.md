@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-521 songs - 1 day 5 hr 52 min
+523 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Anything To Feel Alive](https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Anything To Feel Alive](https://open.spotify.com/album/68gQpGGfxAXDokf3PBLCzQ) | 4:20 | 2023-02-23 | 2024-04-05 |
 | [Anywhere Away from Here \- Acoustic](https://open.spotify.com/track/58OJ0w2DrwAvS4bf54iLWj) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Anywhere Away From Here \(Remixes\)](https://open.spotify.com/album/1ItTc2EfjzuF7Y85ieQbyG) | 3:56 | 2023-02-23 | 2024-04-19 |
 | [Are You With Me \- Radio Edit](https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:18 | 2024-03-21 | 2024-04-12 |
-| [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2024-09-27 |  |
+| [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2024-09-27 | 2025-03-08 |
 | [As It Was \- Acoustic](https://open.spotify.com/track/3Ui57V8wCESmGs615NTC2b) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [As It Was \(Acoustic\)](https://open.spotify.com/album/5tozhcFvFMQl9vjheT5PCj) | 2:35 | 2023-02-23 |  |
 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 | 2024-03-26 |  |
 | [Babylon](https://open.spotify.com/track/0hltBiPrw06vWjtadBn6oe) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(2020 Remaster\)](https://open.spotify.com/album/65dV0TVZ9BEfudSPEt1hb6) | 4:25 | 2024-04-04 | 2024-04-19 |
@@ -143,6 +143,7 @@
 | [Fatherhood](https://open.spotify.com/track/22W5OLsXEcu5qc6cSblrvr) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Fatherhood](https://open.spotify.com/album/3EIuPSXucrog6yYBwITBXB) | 2:58 | 2023-02-23 | 2024-04-19 |
 | [Feel At Home](https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc), [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Quarter Life Crisis](https://open.spotify.com/album/4sfC2BT8zecnW2Lh9rDml1) | 3:55 | 2023-04-12 |  |
 | [Feel The Love \- Sam Feldt Edit](https://open.spotify.com/track/3kxwFmWdVNvaJKE0xNGHpQ) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Feel The Love \(Sam Feldt Edit\)](https://open.spotify.com/album/6BO3DfKyMnvK3OzVZUDLYW) | 2:50 | 2023-02-23 |  |
+| [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2025-03-07 |  |
 | [Finding Out More](https://open.spotify.com/track/5Ur5a9sA6N9TGUDrQJsTxh) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:23 | 2023-02-23 | 2024-03-27 |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2023-02-23 | 2023-04-26 |
 | [First Times](https://open.spotify.com/track/5QYnNhTKsN3kE7OaqILA1U) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:05 | 2023-02-23 |  |
@@ -158,7 +159,7 @@
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2023-02-23 | 2023-04-26 |
 | [get older](https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [get older](https://open.spotify.com/album/0WBPBQuEfYJcRmIA3OdJmq) | 2:57 | 2023-02-23 |  |
 | [Get There When I Get There](https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Left on McKinney](https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9) | 2:56 | 2024-10-03 |  |
-| [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 | 2024-11-08 |  |
+| [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 | 2024-11-08 | 2025-03-08 |
 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 | 2024-04-11 |  |
 | [Give Me That Feeling](https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:14 | 2024-02-26 | 2024-04-19 |
 | [Glow](https://open.spotify.com/track/09NpMJO80vtOO5kH0uKPaw) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Glow](https://open.spotify.com/album/1R6ntu2OZzt8K8trkqtjPQ) | 3:08 | 2024-03-26 | 2024-05-25 |
@@ -419,6 +420,7 @@
 | [Stranger I Once Knew](https://open.spotify.com/track/3qyL58GhGGIEOYfBUGeit9) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/1LSZphyIjbXDJ2nTUECsSg) | 3:27 | 2024-12-20 | 2025-02-04 |
 | [Summer Haze](https://open.spotify.com/track/2wL5gUdq6fweMjaFVMWmc2) | [Close to Fire](https://open.spotify.com/artist/659oLAkAQQTvYQR9zr98jA) | [This Is What It Feels Like](https://open.spotify.com/album/64CFi1tG0UmknPzxMZCZWD) | 3:38 | 2023-02-23 | 2024-04-19 |
 | [Summer of My Life](https://open.spotify.com/track/5e1qJDCinxx2XGGEAnffMb) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Project Me](https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj) | 3:06 | 2023-02-23 |  |
+| [Summer Song](https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Summer Song](https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK) | 3:52 | 2025-03-07 |  |
 | [Sun Goes Down \(Acoustic Version\)](https://open.spotify.com/track/1Vt9LAUmkUM41DLCLlIMUc) | [Kenn Colt](https://open.spotify.com/artist/0vSNFAo2h20zd3HOBcM8BX) | [Sun Goes Down \(Acoustic Version\)](https://open.spotify.com/album/5lJHfXBdOgmi6Sc5tqMFk4) | 3:03 | 2023-02-23 | 2025-01-25 |
 | [Sunday Morning](https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:04 | 2023-02-23 |  |
 | [Sunny Days](https://open.spotify.com/track/6RrUUleT9JI0KQHZYBdJMB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Sunny Days](https://open.spotify.com/album/0SottnyJaBApBrZZT6Y3kb) | 3:30 | 2023-02-23 | 2023-04-26 |

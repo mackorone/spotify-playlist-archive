@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 322643,
+  "num_followers": 322722,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAADraxEqh2FsBGiyjFSzTlN5",
+  "snapshot_id": "Z8jlgAAAAAAgxcrrcQN4dGLKHjHliOgZ",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
-        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Las Uvas",
-      "url": "https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Los F\u00e9lix Y Los Quintero",
         "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 226603,
       "name": "Tino Quintero",
       "url": "https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
+        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Las Uvas",
+      "url": "https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF"
     },
     {
       "added_at": null,

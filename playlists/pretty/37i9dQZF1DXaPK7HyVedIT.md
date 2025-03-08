@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Zerb, Ape Drums, Jeremih
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,320 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,473 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 13 | [Brasileirinha \(GoodTimes Mix\)](https://open.spotify.com/track/0v7Wol4NzsvR6FtTrkDUGA) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L) | [Brasileirinha \(GoodTimes Mix\)](https://open.spotify.com/album/4niKshYWG6kbAni5JxsyQz) | 5:05 |
 | 14 | [Cherry Blossom \- Vintage Culture Remix](https://open.spotify.com/track/7qTu1G3gDgC5qJ6Eu71OUs) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Cherry Blossom \(Vintage Culture Remix\)](https://open.spotify.com/album/1O5zlTiK5ZTJDmMnsVJaxd) | 4:13 |
 | 15 | [Somebody'25](https://open.spotify.com/track/7sq9DUoHZR7Zxbb3sC2ejv) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [Somebody'25](https://open.spotify.com/album/6bhoXie2eUiR8r0bQwtV7N) | 4:52 |
-| 16 | [ANTO](https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF) | [MRTINI](https://open.spotify.com/artist/4G7KDsNuWQydICTmPuezLL), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [ANTO EP](https://open.spotify.com/album/3VNVC60g0SXRfqI7d1ivAj) | 3:24 |
+| 16 | [ANTO](https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF) | [MRTNI](https://open.spotify.com/artist/0O8F8VzYUlBBnMU1TdaaCa), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [ANTO EP](https://open.spotify.com/album/3VNVC60g0SXRfqI7d1ivAj) | 3:24 |
 | 17 | [Mariana's Call](https://open.spotify.com/track/75cQhmcEgnzTOx2iYug5ag) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Scarpelli](https://open.spotify.com/artist/45De8f6RWrQNhMxnAlSW1r) | [Mariana's Call](https://open.spotify.com/album/5gYgr7rP80Wi77fe9lXLC9) | 4:24 |
 | 18 | [All Night](https://open.spotify.com/track/5q70NzpSB223xTobKCFOA4) | [Carol Fávero](https://open.spotify.com/artist/07C0sQMH55r5E8RqMpDlyd) | [All Night](https://open.spotify.com/album/69SKR3UdCr44Qp9IN9jLV6) | 3:34 |
 | 19 | [Burugudum](https://open.spotify.com/track/4deY3ALshu0QMAeGSCJkEo) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Victor Alc](https://open.spotify.com/artist/7EFV6WDiCud4RtQWpdvK0E) | [Burugudum](https://open.spotify.com/album/6pIEb8jLJt7EYk0x47mAOH) | 4:44 |

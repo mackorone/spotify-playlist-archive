@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-350 songs - 21 hr 41 min
+351 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [YOU CAN DO IT](https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq) | 2:56 | 2023-01-30 | 2023-03-18 |
 | [You Da Shit Girl \(feat\. LATASHÁ\) \- Nick Godmode mø8b Remix](https://open.spotify.com/track/4MAzJOogUwWzMB8jKTOdRP) | [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi), [Nick Godmode](https://open.spotify.com/artist/1AuJTtLgvKpgJ0zkxP9nOc) | [You Da Shit Girl \(feat\. LATASHÁ\)](https://open.spotify.com/album/00X9a5p33fuzyJoffuWGX7) | 3:34 | 2023-08-30 | 2024-07-23 |
 | [You Should Run](https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [You Should Run](https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY) | 4:59 | 2022-09-08 | 2023-04-09 |
+| [You Still Come Over](https://open.spotify.com/track/5aeTM0t6aeFx5A2j6w4T4P) | [Zuzu Silk](https://open.spotify.com/artist/04BCKgFQYPrONAk85R7CeP), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [You Still Come Over](https://open.spotify.com/album/7vfJYVPD3JIObu4NAWrlF4) | 3:09 | 2025-03-07 |  |
 | [You'll Be the One](https://open.spotify.com/track/1XmHaSNqlrHEuQ5JIVjnlK) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [You'll Be the One](https://open.spotify.com/album/0BNhlIIB8v4C60LyTOQYYj) | 3:33 | 2022-09-08 | 2022-10-13 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

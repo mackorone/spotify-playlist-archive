@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-448 songs - 22 hr 55 min
+450 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Downing](https://open.spotify.com/track/0eGoaVmfcruvpJmPKoNuLg) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Downing](https://open.spotify.com/album/6Rbe6eULIQSIbQFrkxVxdM) | 3:09 | 2025-02-28 |  |
 | [Dream Creator](https://open.spotify.com/track/59RuuDJJIilK0EBvt4e5Cq) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Dream Creator](https://open.spotify.com/album/3BWpdkTtTFpAlu9zKNONS6) | 2:59 | 2024-01-17 |  |
 | [dream voyage](https://open.spotify.com/track/071keE1dQVjf9ErDpdZBDv) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [dream voyage](https://open.spotify.com/album/6imgVrU8qI0QumuPRF7vnh) | 3:27 | 2024-09-06 |  |
+| [Dreamcatcher](https://open.spotify.com/track/45gMeES3VvxZdUey7SYryS) | [Rikkas](https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us) | [Dreamcatcher](https://open.spotify.com/album/2ZmeAZ258xhc6jPbJysT2o) | 2:59 | 2025-02-28 |  |
 | [Dreaming Away](https://open.spotify.com/track/0ZEUMCMGtMqSHXRHQ2nnsR) | [Greyling](https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz) | [Dreaming Away](https://open.spotify.com/album/1JpH3mFTaO2658hvhdTRXS) | 1:57 | 2022-01-12 | 2022-02-19 |
 | [Drifting Away](https://open.spotify.com/track/63DYW0thoEaYcoz0z1Ei3P) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Drifting Away](https://open.spotify.com/album/5OSS2Wr61ht4r3K6fmPp7i) | 3:08 | 2025-02-28 |  |
 | [Drifting Away](https://open.spotify.com/track/1vt8Zy7zSCCDYwF2s622Tv) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 3:21 | 2022-01-12 | 2023-07-29 |
@@ -145,7 +146,7 @@
 | [Elevation](https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Elevation](https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP) | 2:50 | 2024-07-09 |  |
 | [Elusive Thoughts](https://open.spotify.com/track/6cYBl8KJEgVMFiSYEPHyOm) | [Nayantara](https://open.spotify.com/artist/6nyEz0nYXb8PwCF3QOEuj3) | [Elusive Thoughts](https://open.spotify.com/album/2IYILu4PofhTJ0KaYAQC17) | 2:21 | 2022-01-12 | 2023-07-29 |
 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 | 2022-12-09 | 2024-09-07 |
-| [En el Espacio](https://open.spotify.com/track/5ZRWtriBKg5blYLi2UDLMP) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [En el Espacio](https://open.spotify.com/album/7q0vBgCyzRg8iufFApO4J5) | 3:02 | 2024-01-17 |  |
+| [En el Espacio](https://open.spotify.com/track/5ZRWtriBKg5blYLi2UDLMP) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [En el Espacio](https://open.spotify.com/album/7q0vBgCyzRg8iufFApO4J5) | 3:02 | 2024-01-17 | 2025-03-08 |
 | [Enchanter](https://open.spotify.com/track/6Fakj19etJLkMV6Q4CgFWF) | [Venom Faun](https://open.spotify.com/artist/79zZ9jIHNl8UmjHSf3TXIM) | [Focus](https://open.spotify.com/album/17bCi53jDS78g7T2IE4Sd7) | 3:40 | 2022-04-13 | 2022-04-21 |
 | [Endless Hope](https://open.spotify.com/track/76ph3BPshzbP1Ph4BLTSHU) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Legacy](https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr) | 2:41 | 2023-02-25 | 2025-01-22 |
 | [Enhance](https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Enhance](https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay) | 2:52 | 2024-07-09 |  |
@@ -187,6 +188,7 @@
 | [Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/4uoKvNOS3juPZeI1rqvWmR) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta Hz](https://open.spotify.com/album/27AWjUaOfAFqukeJGgV119) | 3:24 | 2022-01-12 | 2023-04-22 |
 | [Gateway](https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Gateway](https://open.spotify.com/album/33d61WIwA3YlHAcW4sXVjl) | 2:51 | 2024-01-17 | 2025-03-01 |
 | [Gemoedsrust](https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Gemoedsrust](https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC) | 2:17 | 2023-05-05 |  |
+| [Gentle Nightfall](https://open.spotify.com/track/4DRfS8xhfum6aXOs6CpaDE) | [Luminous Dreamer](https://open.spotify.com/artist/3uq69LjzFbJ2hoM4ZQ6X4U) | [Gentle Nightfall](https://open.spotify.com/album/2GeBv6aWVQTRZRc6q4I6GS) | 3:12 | 2025-02-28 |  |
 | [Glacier](https://open.spotify.com/track/7FNjSThORckWUhxLh9bzLy) | [Constellationes](https://open.spotify.com/artist/12R2nJ1KzSG6ZbnaZ1l72h) | [Glacier](https://open.spotify.com/album/6JpIe64nHeX4yHr2qxspAa) | 4:02 | 2024-05-20 |  |
 | [Glaciers](https://open.spotify.com/track/2DFEXBkwfIN4r1P5JMdxiI) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Glaciers](https://open.spotify.com/album/4cU5BIohnVNLHJxW0rEuWY) | 2:23 | 2024-05-20 | 2025-02-02 |
 | [Glade](https://open.spotify.com/track/4PIGadKUPZnug5cXtaMus2) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Rusted Waters](https://open.spotify.com/album/1kG7ooS7ra0bNHkwXCLf3c) | 3:16 | 2022-04-13 | 2022-04-19 |
@@ -303,7 +305,7 @@
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-01-12 | 2024-11-22 |
 | [Ocean Vibrations](https://open.spotify.com/track/1F2I0zog3dDvCFZcxIChkp) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Ocean Vibrations](https://open.spotify.com/album/7of4m4kduCV2M3juaXtp2b) | 2:56 | 2025-01-21 |  |
 | [Omegagigia](https://open.spotify.com/track/7bgTGa2DeDTFX8yIbjhl2s) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Omegagigia](https://open.spotify.com/album/64vtZ76endgd7UTXcuOmOU) | 2:53 | 2024-02-07 |  |
-| [Once More Forever](https://open.spotify.com/track/63B7LUA9cMoC1Ssk1DrPWx) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Once More Forever](https://open.spotify.com/album/18o0ClCIX8wrxpZfVXf84w) | 3:38 | 2025-02-28 |  |
+| [Once More Forever](https://open.spotify.com/track/63B7LUA9cMoC1Ssk1DrPWx) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Once More Forever](https://open.spotify.com/album/18o0ClCIX8wrxpZfVXf84w) | 3:38 | 2025-02-28 | 2025-03-08 |
 | [Only Questions](https://open.spotify.com/track/3AUdlTHQPSfW7VudQg4xXY) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Max Richter: Piano Works](https://open.spotify.com/album/6rMEMWqwtuzVBGZJ1af0qJ) | 1:56 | 2022-04-13 | 2022-04-21 |
 | [Onthou 432 Hz](https://open.spotify.com/track/7COlRpwJZKvioLFQNTDoJr) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Onthou 432 Hz](https://open.spotify.com/album/6TSFGLI8KxF4KyB3oUeXXY) | 2:53 | 2024-11-21 |  |
 | [Oort Impressions](https://open.spotify.com/track/6Hcqf5pG4yUYcS972jVyQU) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Oort Impressions](https://open.spotify.com/album/5X6rZIMU2FGUEVJ6iRrvcr) | 2:44 | 2025-01-21 |  |

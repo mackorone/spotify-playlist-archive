@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Lauana Prado, Simone Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,880,356 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,881,111 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 43 | [Depois \- Ao Vivo](https://open.spotify.com/track/1Ms6NNsLMqdC5v1qE3d89p) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/2r7Ojc9IwEpjQu4Ga76fFw) | 2:36 |
 | 44 | [Meu Pra Sempre Não Era Meu \- Ao Vivo](https://open.spotify.com/track/7CutNxjzAKbs7EhBAlnRJt) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Meu Pra Sempre Não Era Meu \(Ao Vivo\)](https://open.spotify.com/album/3Zdg35YqxOS1Sfz74ifi8u) | 2:43 |
 | 45 | [CACO DE GENTE \- Ao Vivo](https://open.spotify.com/track/6saU47oJ8952GeNfpbpl7d) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [ESOTÉRICO \(Ao Vivo\)](https://open.spotify.com/album/1VR7zwpshHJ5CdlTo1TORp) | 3:14 |
-| 46 | [Pega Cabuloso \- Ao Vivo em São Paulo](https://open.spotify.com/track/4A59ygOlOd3V0GbyEmUxKs) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Pega Cabuloso \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/6uRV64iVNlNYDSjIq2ZD0o) | 2:17 |
-| 47 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 |
-| 48 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
-| 49 | [Término Covarde \- Ao Vivo](https://open.spotify.com/track/2DtHi3V76ntRw1RIKgYMfe) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa \(Ao Vivo\)](https://open.spotify.com/album/6HRnBP63zoxLHmmfeovVMX) | 2:33 |
-| 50 | [Ativou a Saudade \- Ao Vivo](https://open.spotify.com/track/513hO8ivMCeHoV25e1ivOa) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ativou a Saudade \(Ao Vivo\)](https://open.spotify.com/album/7Abtn5OTa0B4CsJP0EFlDw) | 2:53 |
+| 46 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 |
+| 47 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
+| 48 | [Término Covarde \- Ao Vivo](https://open.spotify.com/track/2DtHi3V76ntRw1RIKgYMfe) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa \(Ao Vivo\)](https://open.spotify.com/album/6HRnBP63zoxLHmmfeovVMX) | 2:33 |
+| 49 | [Ativou a Saudade \- Ao Vivo](https://open.spotify.com/track/513hO8ivMCeHoV25e1ivOa) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ativou a Saudade \(Ao Vivo\)](https://open.spotify.com/album/7Abtn5OTa0B4CsJP0EFlDw) | 2:53 |
 
-Snapshot ID: `Z76EaQAAAADb5iSmNXHsDKdOv4g4LfOL`
+Snapshot ID: `Z8sMvQAAAADhBLDbBZud31MDXNUWyonl`

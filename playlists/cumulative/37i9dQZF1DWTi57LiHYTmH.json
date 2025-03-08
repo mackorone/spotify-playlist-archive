@@ -75,6 +75,28 @@
     },
     {
       "album": {
+        "name": "Chopin: \u00c9tudes",
+        "url": "https://open.spotify.com/album/3OUQNvIRDG3ioZP3FgiIuz"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234466,
+      "name": "12 \u00c9tudes, Op. 10: No. 3 in E Major",
+      "url": "https://open.spotify.com/track/6YDgMoJ8ssOuKjQ6jiz4Kk"
+    },
+    {
+      "album": {
         "name": "Sibelius",
         "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
       },
@@ -1484,7 +1506,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 193266,
       "name": "Chopin: Nocturne No. 21 in C Minor, Op. Posth.",
       "url": "https://open.spotify.com/track/0OZftmWNkDJDdxjCvSSbGa"
@@ -1592,7 +1614,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 309466,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/5GnRdw3oNKF8Mz6gdEcQLK"
@@ -3414,7 +3436,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 102826,
       "name": "Noel Symphony No. 4 in D Minor: I. Une jeune pucelle: Moderato",
       "url": "https://open.spotify.com/track/6JkDThoofgbKj59ykGwRph"

@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-118 songs - 6 hr 38 min
+119 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [El Lunar \(Live\)](https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:54 | 2024-04-28 |  |
 | [EL MAGO “EL MÁGICO”](https://open.spotify.com/track/7n1mrrgEcpSXpjULsOQZmO) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:03 | 2024-01-29 | 2024-06-12 |
 | [El Operativo](https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Entre Los Grandes](https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK) | 3:01 | 2024-01-29 | 2025-03-05 |
+| [EL REY DE MIL CORONAS \- En Vivo](https://open.spotify.com/track/607UzP52FhSsDKCAWasZ2S) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Tomas Madrigal](https://open.spotify.com/artist/29MvAYU9dWzjODhCShvn4C) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW) | 3:40 | 2025-03-08 |  |
 | [El Rival](https://open.spotify.com/track/1m2ryoXIICvX9pRXNZb3D6) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [El Rival](https://open.spotify.com/album/1MafQQzWNKUr7iTQ7SWE4O) | 3:09 | 2024-12-20 |  |
 | [El Rival](https://open.spotify.com/track/2IvkCzmXWixXtMA1v8S2eT) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Esta Que Arde la Finikera](https://open.spotify.com/album/7lM5mJprKzHhntpJ5uXB5y) | 3:09 | 2024-12-15 | 2024-12-20 |
 | [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/1x8Fw4vwlxsupmVUDEK6hl) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EL SUBE Y BAJA \(En Vivo\)](https://open.spotify.com/album/6J4oo3VvSrs8OsNwS0Tp9E) | 2:47 | 2025-02-02 |  |
@@ -65,7 +66,7 @@
 | [Ismael \- En Vivo](https://open.spotify.com/track/1DNSgyWVtQp3TqWmksmVgr) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ismael \(En Vivo\)](https://open.spotify.com/album/6bHWJYwlZw44HFgKCWVCZ3) | 3:15 | 2024-02-01 | 2024-10-16 |
 | [La Ambición](https://open.spotify.com/track/3lo1Mv3ovnJLijz5BppO48) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [La Ambición](https://open.spotify.com/album/1QbFLgmBJcU1zxxvxpsq5S) | 3:43 | 2024-02-12 | 2024-11-22 |
 | [La Cadenita \(Live\)](https://open.spotify.com/track/6rekTj3LwYOz9C4C2Tcz7g) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 2:32 | 2024-04-01 |  |
-| [La Canelera \- En Vivo](https://open.spotify.com/track/08dFJtcFBMVs8EAyoIcSyR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 4:09 | 2024-11-18 |  |
+| [La Canelera \- En Vivo](https://open.spotify.com/track/08dFJtcFBMVs8EAyoIcSyR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 4:09 | 2024-11-18 | 2025-03-08 |
 | [LA CARRETERA](https://open.spotify.com/track/2mjiVUUTy0RkK9pfaSyAkB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LA CARRETERA](https://open.spotify.com/album/1BxkK7beRTaYflcU33pJlc) | 3:01 | 2024-07-27 | 2024-10-31 |
 | [La Chona \- En Vivo](https://open.spotify.com/track/3Lrw6HpAN3sUnlcZU7AmQt) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:44 | 2024-02-19 | 2024-04-05 |
 | [La F\*\*\*\*g Ola](https://open.spotify.com/track/0HN4gWiwydXWLsXaRBQ2CW) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [La F\*\*\*\*g Ola](https://open.spotify.com/album/60dcyhKJXf69o3jx474mAE) | 3:27 | 2024-01-29 | 2024-12-22 |

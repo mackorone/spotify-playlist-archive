@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tontons Dadju et Tayc",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Naza",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -1351,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "Boma Love",
+        "url": "https://open.spotify.com/album/5BDEuKkCEs4GfW5RA6SQkW"
+      },
+      "artists": [
+        {
+          "name": "Jordy",
+          "url": "https://open.spotify.com/artist/5tZRrutidZHlufZzoO10Zh"
+        },
+        {
+          "name": "Bruzer",
+          "url": "https://open.spotify.com/artist/1U2Bzt0bhkqHJj7L1WQdnB"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117052,
+      "name": "Boma Love",
+      "url": "https://open.spotify.com/track/456s41homGkd5KpzBMSM6I"
+    },
+    {
+      "album": {
         "name": "Boma Moto",
         "url": "https://open.spotify.com/album/5wsSj9qX534eND5nu6MI7h"
       },
@@ -1874,7 +1896,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 184378,
       "name": "CHERIE NA NGA",
       "url": "https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ"
@@ -2590,7 +2612,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 140064,
       "name": "Djigili",
       "url": "https://open.spotify.com/track/0zAGFIM9C5BfqPB9vD57ex"
@@ -5416,7 +5438,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 162000,
       "name": "Lifobo",
       "url": "https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1"
@@ -6860,6 +6882,24 @@
       "duration_ms": 186206,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ"
+    },
+    {
+      "album": {
+        "name": "MUANA CONGO",
+        "url": "https://open.spotify.com/album/4blbXAJwew6JvhH9gvi72F"
+      },
+      "artists": [
+        {
+          "name": "Tres",
+          "url": "https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "MUANA CONGO",
+      "url": "https://open.spotify.com/track/6CC1PvXWw2ZgpRUszETYkV"
     },
     {
       "album": {

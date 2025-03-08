@@ -1,13 +1,37 @@
 {
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: GALE, ROBI",
-  "num_followers": 65554,
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: ASTROPICAL",
+  "num_followers": 65561,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FCqQAAAADt2hpZCsuGwRogcqtMI6gT",
+  "snapshot_id": "Z8qHoQAAAAAFny6fIWaQFOJAD4z4UzB7",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:44:01",
+      "album": {
+        "name": "ASTROPICAL",
+        "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "duration_ms": 219221,
+      "name": "Brinca (Acuario)",
+      "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
+    },
     {
       "added_at": "2025-02-28 04:59:20",
       "album": {
@@ -27,6 +51,30 @@
       "duration_ms": 177049,
       "name": "una noche",
       "url": "https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m"
+    },
+    {
+      "added_at": "2025-03-07 05:44:01",
+      "album": {
+        "name": "Rayo (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        },
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        },
+        {
+          "name": "Maria McCausland",
+          "url": "https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm"
+        }
+      ],
+      "duration_ms": 175299,
+      "name": "Rayo - Spotify Singles",
+      "url": "https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA"
     },
     {
       "added_at": "2025-02-28 04:59:20",
@@ -63,6 +111,34 @@
       "duration_ms": 221935,
       "name": "Por Toda la Vida (feat. Jhonathan Chavez, Alejandro Torres, Kenny y Kiara, Ra\u00fal Aparicio & Anarkelys Arias) - Versi\u00f3n Tipiquero",
       "url": "https://open.spotify.com/track/6BVwjfkHaq3oxomEvu1kET"
+    },
+    {
+      "added_at": "2025-03-07 05:44:01",
+      "album": {
+        "name": "La Cantina",
+        "url": "https://open.spotify.com/album/0BtKA3nCo2aGd3yte5G8fF"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        },
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        },
+        {
+          "name": "Mauricio & PalodeAgua",
+          "url": "https://open.spotify.com/artist/3odWGV3m6MfdawwEXIyyhr"
+        },
+        {
+          "name": "Lucas Arnau",
+          "url": "https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "La Cantina",
+      "url": "https://open.spotify.com/track/73G3ZxbNKaJgDKQiXPQSGO"
     },
     {
       "added_at": "2025-02-28 04:59:20",
@@ -599,38 +675,6 @@
     {
       "added_at": "2025-02-28 04:59:20",
       "album": {
-        "name": "Mi Piel",
-        "url": "https://open.spotify.com/album/4HMLFh6CByF3Pwabbddufq"
-      },
-      "artists": [
-        {
-          "name": "Vale Garz\u00f3n",
-          "url": "https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ"
-        }
-      ],
-      "duration_ms": 171450,
-      "name": "Mi Piel",
-      "url": "https://open.spotify.com/track/58fQ7cd0DFCfbowqm8MZAe"
-    },
-    {
-      "added_at": "2025-02-28 04:59:20",
-      "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/4qY2ES8tfdwjnbOV2UdBJA"
-      },
-      "artists": [
-        {
-          "name": "Johann Vera",
-          "url": "https://open.spotify.com/artist/3LP4XtcdBxAaO3ZevTTppB"
-        }
-      ],
-      "duration_ms": 186366,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/3bvjZlJsB3qkjieaPMZnrX"
-    },
-    {
-      "added_at": "2025-02-28 04:59:20",
-      "album": {
         "name": "un",
         "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
       },
@@ -739,26 +783,6 @@
       "duration_ms": 196426,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
-    },
-    {
-      "added_at": "2025-02-28 04:59:20",
-      "album": {
-        "name": "Bolerito (Remix)",
-        "url": "https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 165542,
-      "name": "Bolerito - Remix",
-      "url": "https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE"
     },
     {
       "added_at": "2025-02-28 04:59:20",

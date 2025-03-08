@@ -1,13 +1,29 @@
 {
   "description": "A different shade of the blues. Cover: Dan Auerbach",
-  "num_followers": 59400,
+  "num_followers": 59431,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY/wAAAADOFfnKH1TKzIjF3oMrOhET",
+  "snapshot_id": "Z8p9ZAAAAABQjSCWEpHMLyBz/Xk4uWsJ",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "Bell",
+        "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "duration_ms": 268768,
+      "name": "Bell",
+      "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
+    },
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
@@ -691,22 +707,6 @@
       "duration_ms": 191920,
       "name": "Healing Creek",
       "url": "https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN"
-    },
-    {
-      "added_at": "2022-08-31 19:53:08",
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin\u2019",
-      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
     },
     {
       "added_at": "2022-08-31 19:53:08",

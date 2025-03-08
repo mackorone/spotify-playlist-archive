@@ -1,18 +1,18 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 76580,
+  "num_followers": 76602,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAACp06NH0+Y5U/w8gSROIpJ4",
+  "snapshot_id": "Z8jlgAAAAADGnmMI8ByfvJJ7z69hNPjS",
   "tracks": [
     {
       "added_at": null,
       "album": {
         "name": "Paper Tiger",
-        "url": "https://open.spotify.com/album/1IC5YSNaOSsHPqNPeoYtLm"
+        "url": "https://open.spotify.com/album/0ZdgpbDDrPdvV5iEgPM6vs"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 236746,
       "name": "Paper Tiger",
-      "url": "https://open.spotify.com/track/4jJw1XWe4hq0UIOQkUeGLz"
+      "url": "https://open.spotify.com/track/1eeNl33TLVUVBZmqKT3Yed"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Khaos Legions",
-        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 309613,
-      "name": "Through the Eyes of a Raven",
-      "url": "https://open.spotify.com/track/5f60khlT0IoDy2ontDl3aD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 309613,
+      "name": "Through the Eyes of a Raven",
+      "url": "https://open.spotify.com/track/5f60khlT0IoDy2ontDl3aD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 212080,
       "name": "I Will Live Again",
       "url": "https://open.spotify.com/track/19lYRLj7L8F6oUejDM7pgX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 92893,
-      "name": "Snow Bound",
-      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
     }
   ],
   "unique_name": "This Is Arch Enemy",

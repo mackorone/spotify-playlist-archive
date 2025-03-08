@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8602,
+  "num_followers": 8601,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAABlJx+EuRHfKYl8j6w+vwGv",
+  "snapshot_id": "Z8jlgAAAAACOuTx5VJsfFpdG1u1nN+dX",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Somewhere In Between",
+      "url": "https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hawthorne Heights / Emery",
         "url": "https://open.spotify.com/album/0R46evZSMibVrQooZN69xg"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Somewhere In Between",
-      "url": "https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rain Just Follows Me",
         "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
       },
@@ -534,11 +534,15 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Anthony Raneri",
+          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
+      "duration_ms": 198066,
+      "name": "Spray Paint It Black",
+      "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
     },
     {
       "added_at": null,
@@ -602,15 +606,11 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Anthony Raneri",
-          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 198066,
-      "name": "Spray Paint It Black",
-      "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
     },
     {
       "added_at": null,

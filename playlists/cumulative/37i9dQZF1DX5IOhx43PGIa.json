@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere.  Cover: Tiger La Flor",
+  "description": "Illuminating Asian artists everywhere.  Cover: yung kai",
   "name": "Jasmine",
   "tracks": [
     {
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 138030,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp"
@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 260560,
       "name": "Dance on the Shoreline",
       "url": "https://open.spotify.com/track/7uUwOx2B3emiTPtlhuRsMy"
@@ -4617,6 +4617,24 @@
     },
     {
       "album": {
+        "name": "Anti-People Pleaser, Pt. 1",
+        "url": "https://open.spotify.com/album/5Qf3rfAwHvdye91p3ebaiu"
+      },
+      "artists": [
+        {
+          "name": "Chace",
+          "url": "https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253815,
+      "name": "Do Not Go Gentle into Goodbyes",
+      "url": "https://open.spotify.com/track/4J5MVJGewv7MjA2uuruxGV"
+    },
+    {
+      "album": {
         "name": "Do You Like That?",
         "url": "https://open.spotify.com/album/1godwceDz9lC2nR3euqNmz"
       },
@@ -4632,6 +4650,24 @@
       "duration_ms": 137493,
       "name": "Do You Like That?",
       "url": "https://open.spotify.com/track/4iPDeH7j5ukp65ru6Vf7OQ"
+    },
+    {
+      "album": {
+        "name": "do you think you could love me?",
+        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236140,
+      "name": "do you think you could love me?",
+      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
     },
     {
       "album": {
@@ -7401,6 +7437,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
+    },
+    {
+      "album": {
         "name": "whatislove2u?",
         "url": "https://open.spotify.com/album/54PDrXJ7a0If3sawApXJQ3"
       },
@@ -8503,6 +8561,24 @@
     },
     {
       "album": {
+        "name": "i could be yours",
+        "url": "https://open.spotify.com/album/0D4fhZJ3OR3HWUSsxuKY0z"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "i could be yours",
+      "url": "https://open.spotify.com/track/4sNSluQmZZ30XxIWETyZvj"
+    },
+    {
+      "album": {
         "name": "Crush(ed)",
         "url": "https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG"
       },
@@ -8870,6 +8946,24 @@
       "duration_ms": 189214,
       "name": "I Wish I Didn't Love You",
       "url": "https://open.spotify.com/track/6JuD8oygJeA3kfUH7BqXZg"
+    },
+    {
+      "album": {
+        "name": "Blood On the Silver Screen",
+        "url": "https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208591,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U"
     },
     {
       "album": {
@@ -9346,7 +9440,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 161818,
       "name": "Inspiration",
       "url": "https://open.spotify.com/track/0aRgUjPU47NdUA9TZlQGfP"
@@ -9812,7 +9906,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 205779,
       "name": "KILLER!",
       "url": "https://open.spotify.com/track/62VMrTv6dQ4YCNP2GNPm8N"
@@ -10884,7 +10978,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
@@ -11958,6 +12052,28 @@
       "duration_ms": 150645,
       "name": "Miss Me Too",
       "url": "https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr"
+    },
+    {
+      "album": {
+        "name": "MOBBY MIYAZAKI",
+        "url": "https://open.spotify.com/album/6VltGrp7oudLrlAJJWfWeg"
+      },
+      "artists": [
+        {
+          "name": "seiji oda",
+          "url": "https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp"
+        },
+        {
+          "name": "Young Bari",
+          "url": "https://open.spotify.com/artist/0J3g9zJYrynvzchjVCeiO4"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175841,
+      "name": "MOBBY MIYAZAKI",
+      "url": "https://open.spotify.com/track/3JxPCjtpGAJb6zNKrddAz8"
     },
     {
       "album": {
@@ -13517,6 +13633,24 @@
     },
     {
       "album": {
+        "name": "pity dirty",
+        "url": "https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "pity dirty",
+      "url": "https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06"
+    },
+    {
+      "album": {
         "name": "playing tricks",
         "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
       },
@@ -13608,7 +13742,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 125165,
       "name": "poison",
       "url": "https://open.spotify.com/track/55u4CeJTKxORY3rlF4RWDP"
@@ -14946,7 +15080,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 178750,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2c8RCiW2RGoX2KbQSdw0QY"
@@ -14990,6 +15124,24 @@
       "duration_ms": 255287,
       "name": "SEX TAPE",
       "url": "https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr"
+    },
+    {
+      "album": {
+        "name": "Sex, Drugs & Existential Dread",
+        "url": "https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155571,
+      "name": "Sex, Drugs & Existential Dread",
+      "url": "https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk"
     },
     {
       "album": {
@@ -16944,7 +17096,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 160629,
       "name": "talk to me",
       "url": "https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N"

@@ -4,7 +4,7 @@
 
 > New music from: Roxy Dekker, Lady Gaga & JENNIE
 
-3,839 songs - 8 day 11 hr 29 min
+3,842 songs - 8 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1243,6 +1243,7 @@
 | [Gamins des sables](https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamins des sables](https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG) | 2:59 | 2024-07-26 | 2024-08-02 |
 | [Gangster History 5 \(Neige\)](https://open.spotify.com/track/3fvnGrAW9YknRa7q0AnXBI) | [OG Gold](https://open.spotify.com/artist/1MdO2qXpn6Ub2G4WAde1oT) | [Gangster History 5 \(Neige\)](https://open.spotify.com/album/2cTHGWuKCOa3U0EKjr9xQY) | 2:29 | 2024-09-26 | 2024-10-04 |
 | [Garden](https://open.spotify.com/track/29DdvWUvx1CTrIS4LtpXhx) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Garden](https://open.spotify.com/album/4tQ2nIqxjL2iRON1hoW6Qi) | 3:05 | 2024-08-29 | 2024-09-06 |
+| [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-07 |  |
 | [Garmonbozia](https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Garmonbozia](https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc) | 3:33 | 2024-08-16 | 2024-11-08 |
 | [GAT IN MIJN HAND](https://open.spotify.com/track/74IygEQwl7foJlQGGpVWFH) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4), [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [GAT IN MIJN HAND](https://open.spotify.com/album/54FzPqnBzFiOGWTEuDhgHP) | 2:47 | 2024-10-03 | 2024-10-11 |
 | [Gateway Drug](https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Gateway Drug](https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v) | 3:00 | 2024-10-10 | 2024-10-18 |
@@ -2315,6 +2316,7 @@
 | [Need A Friend](https://open.spotify.com/track/34DNlE5GyR7YjRmq4iuCLH) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P) | [Need A Friend](https://open.spotify.com/album/20XRZlCGAZkkqaba3i8an0) | 3:53 | 2024-10-10 | 2024-10-18 |
 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 | 2024-11-21 | 2024-11-29 |
 | [Need It](https://open.spotify.com/track/0rcmK9k60g3gtpL2hz0Dpr) | [Yung Mavu](https://open.spotify.com/artist/6lVRinYmZqt7NFNPZHx0TP) | [Need It](https://open.spotify.com/album/0WmKf26mKifeqsnaOwNhip) | 1:43 | 2024-04-26 | 2024-05-03 |
+| [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 | 2025-03-07 |  |
 | [Need You Now](https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [December](https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW) | 2:28 | 2024-12-12 | 2024-12-20 |
 | [Needed You](https://open.spotify.com/track/7jeNDxcVWuexlp92tFlpBo) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Needed You](https://open.spotify.com/album/61A8H7HWSGoqszTaWx5Btk) | 3:48 | 2025-02-21 | 2025-02-28 |
 | [Neem Me Mee](https://open.spotify.com/track/4ZndmMvPcQjRHG1bWwvNk1) | [XINK](https://open.spotify.com/artist/3vpNdTIG77Bvs7rprMmXYb) | [Neem Me Mee](https://open.spotify.com/album/7KLX28Srejahd4rqgGZ8Ek) | 2:59 | 2024-10-10 | 2024-10-18 |
@@ -2563,6 +2565,7 @@
 | [Own Lane](https://open.spotify.com/track/5J0JMQtHObPqSy04UHuX8d) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Own Lane](https://open.spotify.com/album/2BnHWc2Qd2bCRfBHASeZUv) | 2:40 | 2024-08-08 | 2024-08-17 |
 | [Own The Night](https://open.spotify.com/track/505wnDupaWOys4V2UveW6n) | [5NAPBACK](https://open.spotify.com/artist/0ERCrnTOTP6m7KbCLTliEj), [SHY](https://open.spotify.com/artist/2uQC5G5FpIwZZr0aPQuXzX) | [Own The Night](https://open.spotify.com/album/3LzGzOBTzXNr8O9QmCbnqd) | 2:34 | 2024-07-12 | 2024-07-19 |
 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/3cERUrT0BE1QPgs8VXJlOw) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 | 2024-11-15 | 2024-11-22 |
+| [P2](https://open.spotify.com/track/2a2kh05nsQr3RRWMqcoJvH) | [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [P2](https://open.spotify.com/album/03WMPp35MfHMStJhQlp1zZ) | 2:56 | 2025-03-06 |  |
 | [Painkiller](https://open.spotify.com/track/1FmgTAoC16gigHr2mx1cmC) | [JEN](https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY) | [Painkiller](https://open.spotify.com/album/45D55zXNlh80oV6hRXc8LP) | 2:26 | 2024-09-12 | 2024-09-20 |
 | [Paname](https://open.spotify.com/track/1S8c7fI9aJ1kTigg91dJlk) | [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G) | [Paname](https://open.spotify.com/album/0mfL18XxACvWPgPX2Pvatq) | 1:55 | 2024-06-27 | 2024-07-05 |
 | [Panda](https://open.spotify.com/track/4tdJtdkyUxLVHXmddOoYx1) | [Rumix](https://open.spotify.com/artist/7eqieEH36QOT0ce6SPKSs2), [Highbreeze](https://open.spotify.com/artist/5KmY1ByYczn6OKCurEyO3O) | [Panda](https://open.spotify.com/album/5raKFg0aTEyTpBl4ParvLU) | 2:34 | 2024-05-09 | 2024-05-17 |
@@ -2698,7 +2701,6 @@
 | [PSILOCYBIN & DAISIES](https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PSILOCYBIN & DAISIES](https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH) | 2:17 | 2025-03-06 |  |
 | [Psychedelics](https://open.spotify.com/track/5sLUqTN7nAO0LNkQUpAhCT) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Psychedelics](https://open.spotify.com/album/0fwSo1RwvBtVM2HR7BB1Cf) | 3:36 | 2024-08-01 | 2024-08-09 |
 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-10 | 2024-10-18 |
-| [PT\. 2](https://open.spotify.com/track/2a2kh05nsQr3RRWMqcoJvH) | [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [PT\. 2](https://open.spotify.com/album/03WMPp35MfHMStJhQlp1zZ) | 2:56 | 2025-03-06 |  |
 | [Pull Up](https://open.spotify.com/track/3g3sRCV6w3MFbrNqjVo8ja) | [Grace](https://open.spotify.com/artist/3GKpXtb9Zb3QvDg9uzNi98) | [Pull Up](https://open.spotify.com/album/12KeZ2DPiZOfazFZXnmB2K) | 2:40 | 2025-01-30 | 2025-02-07 |
 | [Pulling Me Down](https://open.spotify.com/track/17yEub7G5j7Y10Fn2BqX7S) | [Kyrill](https://open.spotify.com/artist/5e5rUBxDpavATXOiXbaoQK) | [Pulling Me Down](https://open.spotify.com/album/2MVwSXtuUwTefuK8uE2uKZ) | 3:31 | 2024-06-27 | 2024-07-05 |
 | [Pump It Up](https://open.spotify.com/track/4Z13mrmcGnngLcAUeQryEu) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Danzel](https://open.spotify.com/artist/0o2RZsw6cgJAO7e4N3x7dJ) | [Pump It Up](https://open.spotify.com/album/76X3dmI5Vdn8y2zO0XiWgH) | 2:21 | 2025-02-06 | 2025-02-14 |
@@ -3387,6 +3389,7 @@
 | [Time Will Tell](https://open.spotify.com/track/6XhwSh89lYobx3M5LE8vHO) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Time Will Tell](https://open.spotify.com/album/3PbDdReywktWEnHMcU7TF4) | 4:04 | 2024-05-09 | 2024-05-17 |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-26 | 2024-10-04 |
 | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/album/5fjHswZXTtTNkMoIX8XV7X) | 2:49 | 2024-06-20 | 2024-06-28 |
+| [Tired](https://open.spotify.com/track/6XWUYo3WlkVm3aySUwKj0i) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [Tired](https://open.spotify.com/album/4JtXjciEnrKFCxwIqQO2Sr) | 3:30 | 2025-03-07 |  |
 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 | 2024-06-06 | 2024-06-14 |
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-05-31 | 2024-06-07 |
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 | 2024-08-09 |

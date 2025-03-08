@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Chasing Thrills",
+        "url": "https://open.spotify.com/album/4OEZyk2librDK5xV4NH0Es"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186099,
+      "name": "Chasing Thrills",
+      "url": "https://open.spotify.com/track/1ce0YjciXVfVjzQtAYWHoL"
+    },
+    {
+      "album": {
         "name": "COLOGNE",
         "url": "https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1"
       },
@@ -1744,6 +1766,28 @@
       "duration_ms": 184918,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+    },
+    {
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214921,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
     },
     {
       "album": {
@@ -4706,7 +4750,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 237289,
       "name": "Oh I",
       "url": "https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q"
@@ -6164,7 +6208,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 180250,
       "name": "SURF",
       "url": "https://open.spotify.com/track/3Dsyx9AGZIjwvEucp1HHYm"

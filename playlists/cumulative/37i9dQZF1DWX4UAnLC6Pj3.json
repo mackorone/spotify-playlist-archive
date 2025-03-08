@@ -3187,6 +3187,24 @@
     },
     {
       "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Est\u00e1s Cancelada",
+      "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
+    },
+    {
+      "album": {
         "name": "Los Prohibidos en Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
       },
@@ -3252,7 +3270,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 163978,
       "name": "Fruta Prohibida (En Vivo)",
       "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
@@ -6044,7 +6062,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 157561,
       "name": "Por Si Me Les Adelanto",
       "url": "https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL"
@@ -7194,7 +7212,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 195000,
       "name": "Soy de Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/58ylor5aPoUgcg2E6sCQ7o"

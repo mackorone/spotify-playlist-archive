@@ -5617,6 +5617,24 @@
     },
     {
       "album": {
+        "name": "With My Friends",
+        "url": "https://open.spotify.com/album/1fFd2zeApK1EmTlM7ksl9T"
+      },
+      "artists": [
+        {
+          "name": "Verplex",
+          "url": "https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "With My Friends",
+      "url": "https://open.spotify.com/track/55J7Zl7xiFqiGofRHgodbO"
+    },
+    {
+      "album": {
         "name": "World of Everything",
         "url": "https://open.spotify.com/album/2ieB64E9yWOez0VDgP2Mvo"
       },

@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-135 songs - 7 hr 7 min
+136 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 | 2024-06-21 | 2024-09-27 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-21 | 2024-09-20 |
 | [FRÆG GELLA](https://open.spotify.com/track/3HEwjmSwSV7YEVF1RL1zBP) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL), [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6) | [FRÆG GELLA](https://open.spotify.com/album/4tQprC8v0x4O6FwwijuJJD) | 2:09 | 2024-09-13 |  |
+| [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-07 |  |
 | [Gemmér Gemmér](https://open.spotify.com/track/6WTAHBYCAuzikPp5XBiOGO) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [Gemmér Gemmér](https://open.spotify.com/album/7LJEDCRPzOWRbWbNgtx5zP) | 3:01 | 2024-07-26 |  |
 | [Gleyma](https://open.spotify.com/track/0XCsvpGH9u2ZpmijyjYW5F) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL), [Valdimar Guðmundsson](https://open.spotify.com/artist/28FtvCIh12VQL6ggWDS1ps) | [Gleyma](https://open.spotify.com/album/6HdFEqxXGGVpZsVE5cKmF7) | 4:06 | 2025-02-14 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-26 | 2025-02-21 |
@@ -134,7 +135,7 @@
 | [Til í allt, Pt\. III](https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG) | [Friðrik Dór](https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t), [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4), [Steindi Jr.](https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE) | [Til í allt, Pt\. III](https://open.spotify.com/album/09KYxBRoopLruITkHnv69i) | 3:54 | 2024-06-21 | 2024-11-01 |
 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-04 | 2025-03-07 |
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-06-21 | 2024-10-04 |
-| [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-07 |  |
+| [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-07 | 2025-03-08 |
 | [Veit ekki með þig](https://open.spotify.com/track/5BsvubZKwChZFcNRkxlOgD) | [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [Veit ekki með þig](https://open.spotify.com/album/4080PUV38C8ZVnEE65s7EO) | 2:42 | 2024-06-21 | 2024-09-27 |
 | [Wash It Away](https://open.spotify.com/track/6uWg8e184kvHyy2LkDVoHj) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Wash It Away](https://open.spotify.com/album/3VRr7bkdTRnc5Gej5ymHGt) | 4:03 | 2024-06-21 | 2024-09-14 |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-23 | 2025-01-17 |

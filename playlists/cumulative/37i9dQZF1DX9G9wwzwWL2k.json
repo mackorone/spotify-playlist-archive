@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/0pbJOsLKpr5pu4YQaU9uMj"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berenguer",
+          "url": "https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178686,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/5nU4u6hTdtpsp3NLDsgeG1"
+    },
+    {
+      "album": {
         "name": "Quirk",
         "url": "https://open.spotify.com/album/1EICPBWv4fDj3sy3vn6p0y"
       },
@@ -1874,6 +1892,40 @@
       "duration_ms": 106000,
       "name": "Requiem in D minor, K.626: 3. Sequentia: Dies irae",
       "url": "https://open.spotify.com/track/2r2U2tFfbtHzzhjI0YDaIU"
+    },
+    {
+      "album": {
+        "name": "Mozart: Requiem Realisations",
+        "url": "https://open.spotify.com/album/2wNvwhS6pLo6jFydj10KCt"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Michael Finnissy",
+          "url": "https://open.spotify.com/artist/2tsOm9CPRD4SbZagsqAhj4"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169666,
+      "name": "Requiem, K. 626: Lacrimosa",
+      "url": "https://open.spotify.com/track/3oHSL6pt9LpNrQZuQGu9wL"
     },
     {
       "album": {

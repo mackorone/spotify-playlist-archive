@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-378 songs - 19 hr 36 min
+380 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 | 2023-06-13 | 2024-03-14 |
 | [All Day, All Night](https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 | 2024-04-26 | 2024-08-03 |
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 | 2023-05-12 | 2024-03-14 |
+| [All I Need](https://open.spotify.com/track/0D8o8KQzuOtxxgaDDiasxW) | [VASA](https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN) | [All I Need](https://open.spotify.com/album/6O9GRSikWchQaCnzAevGhh) | 2:59 | 2025-03-07 |  |
 | [All I Want](https://open.spotify.com/track/0U0hYjI9boxgmloVfMdfWe) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR) | [All I Want](https://open.spotify.com/album/1davgSnBAmq2l7EeDPelI2) | 2:56 | 2023-04-26 | 2024-05-01 |
 | [All Night](https://open.spotify.com/track/0s8S6DLgldcYVR0pvL4Z7t) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9), [KO3](https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy) | [All Night](https://open.spotify.com/album/1Px6f3ysBmcKMQHKffIMoD) | 2:20 | 2024-12-13 |  |
 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 | 2024-04-26 |  |
@@ -99,6 +100,7 @@
 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 | 2023-07-28 | 2024-05-01 |
 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 | 2023-10-13 |  |
 | [Drink, Drank, Dancefloor \- Lexa'S Peak Mix](https://open.spotify.com/track/4Snp6mqDCUzPJfnKxdC3AW) | [Lexa Hill](https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI) | [Drink, Drank, Dancefloor \(Lexa'S Peak Mix\)](https://open.spotify.com/album/2fgVuOyGchBrKXrsz4hyrC) | 5:16 | 2025-02-03 |  |
+| [Drip](https://open.spotify.com/track/0dfNT0PN07Ea7EU7lpoedL) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Drip](https://open.spotify.com/album/4M1hKTiZyAn6fA169Fr8MB) | 3:27 | 2025-03-07 |  |
 | [EASE MY MIND](https://open.spotify.com/track/2RwGziqLwMsSTE6tZdckEh) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [EASE MY MIND](https://open.spotify.com/album/2Gp2L1uGCTT7f7x3wYKuUc) | 2:53 | 2024-04-26 |  |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-07-28 | 2024-08-03 |
 | [Echo](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Echo](https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x) | 2:14 | 2023-08-17 | 2024-05-01 |

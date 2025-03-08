@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Malayalam Hip-Hop! \nCover : Dabzee & Rishi Roy",
+  "description": "Best of Malayalam Hip-Hop! \nCover : Thirumali",
   "name": "RAP 91 Malayalam",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 241583,
       "name": "Arivu",
       "url": "https://open.spotify.com/track/7dj8zJse4K39kODoi1eGl2"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 151562,
       "name": "Kali",
       "url": "https://open.spotify.com/track/41ayv69t4dbYm7zMPcNUot"
@@ -2056,6 +2056,50 @@
       "duration_ms": 253399,
       "name": "Kathare Kathare",
       "url": "https://open.spotify.com/track/6h6HZq8FjOZLdlRdgDenf3"
+    },
+    {
+      "album": {
+        "name": "Kavala Talk",
+        "url": "https://open.spotify.com/album/1h0RwoBq2MMkLC2TniI4nx"
+      },
+      "artists": [
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        },
+        {
+          "name": "Jay Stellar",
+          "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190016,
+      "name": "Kavala Talk",
+      "url": "https://open.spotify.com/track/3dRAOp5MMKxMQdRu6JneKk"
+    },
+    {
+      "album": {
+        "name": "Kedu Paad",
+        "url": "https://open.spotify.com/album/5bTGRFQ7fkaJXFVCiMyFFc"
+      },
+      "artists": [
+        {
+          "name": "ARGYZM",
+          "url": "https://open.spotify.com/artist/6TYn4CSy7DJ0LEh70tGBBu"
+        },
+        {
+          "name": "Prashant Singh",
+          "url": "https://open.spotify.com/artist/7jOZcQODVv7ui0kZfFzGrm"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149059,
+      "name": "Kedu Paad",
+      "url": "https://open.spotify.com/track/2qv73mnazsmpjp5zPuTRu0"
     },
     {
       "album": {
@@ -2755,6 +2799,28 @@
     },
     {
       "album": {
+        "name": "MARULOKAM",
+        "url": "https://open.spotify.com/album/3MgVhZPdUiPBIxynX6Ax5N"
+      },
+      "artists": [
+        {
+          "name": "46FLOW",
+          "url": "https://open.spotify.com/artist/3zQt5tn7i7l07bJ5AplrtB"
+        },
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/2fM6JdDJYYFKerp0aftbIu"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165194,
+      "name": "MARULOKAM",
+      "url": "https://open.spotify.com/track/42eQSipA74ggJbV0SrGxVE"
+    },
+    {
+      "album": {
         "name": "Methi, Pt. 1",
         "url": "https://open.spotify.com/album/44bdtCuOHWHzTDojk6EGJm"
       },
@@ -3386,7 +3452,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 232986,
       "name": "Open Your Wings (Chirakukal Mulakkuvan)",
       "url": "https://open.spotify.com/track/6BizyNqcM7O8tWkRm2AuDm"
@@ -3452,7 +3518,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 140667,
       "name": "Ozhukam Njan Nadhi",
       "url": "https://open.spotify.com/track/5zVtrPpAYw6gmSvNQ14izP"
@@ -3874,6 +3940,32 @@
       "duration_ms": 82014,
       "name": "Porinayi Njan Varunneda",
       "url": "https://open.spotify.com/track/4EI1CHrdS8Nj7NzYULDKQG"
+    },
+    {
+      "album": {
+        "name": "poye",
+        "url": "https://open.spotify.com/album/7nKqGrIm0Qt9u410plnPtN"
+      },
+      "artists": [
+        {
+          "name": "DJSHA",
+          "url": "https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu"
+        },
+        {
+          "name": "Jimmy Godrick",
+          "url": "https://open.spotify.com/artist/2ueCQSKYyrkNhU4gAVBOum"
+        },
+        {
+          "name": "AYARKAY",
+          "url": "https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181025,
+      "name": "poye",
+      "url": "https://open.spotify.com/track/0KMeA3cfukOMuSVv6a0qkX"
     },
     {
       "album": {
@@ -5300,7 +5392,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 186874,
       "name": "Voice of Voiceless",
       "url": "https://open.spotify.com/track/2zMoJSaDqs4CqmYY2xsYce"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,523 likes - 67 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,629 likes - 67 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

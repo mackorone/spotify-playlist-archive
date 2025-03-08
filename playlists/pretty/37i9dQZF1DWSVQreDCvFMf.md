@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jayda
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,917 likes - 78 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,991 likes - 78 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zero Pressure](https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [BINIverse](https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5) | 2:50 |
 | 2 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 |
-| 3 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 |
-| 4 | [Gets Better](https://open.spotify.com/track/7hAdfMGXQFwdquBTkGKDiA) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Gets Better](https://open.spotify.com/album/3xauh6n5Hk1ZVEP2ZIx6JP) | 3:12 |
-| 5 | [Loved For Once](https://open.spotify.com/track/1MEWoZA2iNHNL3tb1e22Zm) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER) | [Loved For Once](https://open.spotify.com/album/4y5pQr79iY387t8FINjwlV) | 3:17 |
+| 3 | [Bida](https://open.spotify.com/track/0Atjxyw1HqYHUxbzmiKQ5C) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER) | [Bida](https://open.spotify.com/album/5f5OtDoffOlZb4Jl9m30Ei) | 3:20 |
+| 4 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 |
+| 5 | [Gets Better](https://open.spotify.com/track/7hAdfMGXQFwdquBTkGKDiA) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Gets Better](https://open.spotify.com/album/3xauh6n5Hk1ZVEP2ZIx6JP) | 3:12 |
 | 6 | [Boomerang](https://open.spotify.com/track/0Bs1P0jxQvvjQixTbVcUa2) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Boomerang](https://open.spotify.com/album/10SCAVdi1ZYBKDQvVK51zB) | 4:26 |
 | 7 | [Oh, Irog](https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Oh, Irog](https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY) | 4:56 |
 | 8 | [Honey](https://open.spotify.com/track/3uXryDGtXl7mXdzQn3P1t6) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [Honey](https://open.spotify.com/album/4IJeJY8810GXBW0d5913ch) | 4:31 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 77 | [Nobya](https://open.spotify.com/track/6eBIvH2ARm4psC3kkbARSn) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Nobya](https://open.spotify.com/album/5Bhm5NsqTDSjBdUzoWripN) | 6:18 |
 | 78 | [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 |
 
-Snapshot ID: `Z8nGowAAAACMFxKg3MCJIjlAH6sOCgfn`
+Snapshot ID: `Z8prDQAAAADMfxmIrCMKp0RUEVKIomfd`

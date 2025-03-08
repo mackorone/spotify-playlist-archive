@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xU1q2lviYWohSFWY85KmU.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から元気が出るパワフル＆ポップなボカロ曲選曲。毎週更新。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 139 likes - 40 songs - 2 hr 5 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 140 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

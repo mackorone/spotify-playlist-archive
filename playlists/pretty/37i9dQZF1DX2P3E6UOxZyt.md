@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: Tyson Yoshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,870 likes - 33 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,871 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [anybody?](https://open.spotify.com/track/2qOU9AuLf83Zd1BcyDVJTI) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [anybody?](https://open.spotify.com/album/1FLKcdBX8eGOVXHneR8lKL) | 2:34 |
+| 1 | [⁠Godspeed](https://open.spotify.com/track/33u4P7aW3p8l6M14QvoJvo) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [3rd Rocket 666](https://open.spotify.com/album/04GxVH15zJEDngF4Qf5Wvs) | 4:01 |
 | 2 | [瓶中信](https://open.spotify.com/track/3DnBzKHNsVSUH49on6xHBN) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [瓶中信](https://open.spotify.com/album/5CdEIaE3PzgSdSrobvasQ9) | 3:25 |
 | 3 | [澀 \(feat.國蛋\)](https://open.spotify.com/track/1ZO94uA0ZKXJ5joKj1mFkT) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG), [Gordon](https://open.spotify.com/artist/4L4ArdVJzY6Uxbd82fJjqu) | [咖啡氤](https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V) | 3:49 |
 | 4 | [想寫一首情歌給你](https://open.spotify.com/track/18MWw902cGonMsCbWjoJkZ) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [想寫一首情歌給你](https://open.spotify.com/album/0SaL2FBYObFbkhRisnIhag) | 2:42 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 32 | [沒有星星的夜晚](https://open.spotify.com/track/5cRvWXQoPrb7v8zNaxGSdP) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [沒有星星的夜晚](https://open.spotify.com/album/6poFxx2ZXIRrzjxltHcpl7) | 3:01 |
 | 33 | [泡沫](https://open.spotify.com/track/7KC34sQVSeBg6TknhoAh7h) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [泡沫](https://open.spotify.com/album/4n6T1B13KYgQZz80hYer1o) | 3:02 |
 
-Snapshot ID: `Z8nJCgAAAADmOxQ9nEovtyNQ+Bt0lPsY`
+Snapshot ID: `Z8p9aQAAAAC4CDopoSp82iuUHe5IMpAZ`

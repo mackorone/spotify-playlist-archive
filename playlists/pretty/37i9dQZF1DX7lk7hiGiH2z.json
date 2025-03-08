@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "num_followers": 50434,
+  "num_followers": 50441,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -223,30 +223,6 @@
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
-        "name": "Freunde finden / Devenir Amis",
-        "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
-      },
-      "artists": [
-        {
-          "name": "Team Karacho",
-          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
-        },
-        {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "Freunde finden / Devenir Amis (feat. ZO\u00cb M\u00cb)",
-      "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
-    },
-    {
-      "added_at": "2025-03-06 00:01:38",
-      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -267,6 +243,30 @@
       "duration_ms": 117213,
       "name": "Ich lieb den Fr\u00fchling",
       "url": "https://open.spotify.com/track/3UvFfxNQFGEa1jIOVWuyrf"
+    },
+    {
+      "added_at": "2025-03-06 00:01:38",
+      "album": {
+        "name": "Freunde finden / Devenir Amis",
+        "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
+      },
+      "artists": [
+        {
+          "name": "Team Karacho",
+          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
+        },
+        {
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "Freunde finden / Devenir Amis (feat. ZO\u00cb M\u00cb)",
+      "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
     },
     {
       "added_at": "2025-03-06 00:01:38",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
-        "name": "015/Abends im Walde",
-        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
-      },
-      "artists": [
-        {
-          "name": "Unser Sandm\u00e4nnchen",
-          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
-        }
-      ],
-      "duration_ms": 123320,
-      "name": "Fr\u00fchlingslied",
-      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
-    },
-    {
-      "added_at": "2025-03-06 00:01:38",
-      "album": {
         "name": "Kinderlieder - Fr\u00fchling & Ostern",
         "url": "https://open.spotify.com/album/5Whc7quTjPIXUT3aYsZF3z"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 124426,
       "name": "Ich liebe den Fr\u00fchling \ud83d\ude0a",
       "url": "https://open.spotify.com/track/40l8za7YRSWkNGaTdBelUB"
+    },
+    {
+      "added_at": "2025-03-06 00:01:38",
+      "album": {
+        "name": "015/Abends im Walde",
+        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
+      },
+      "artists": [
+        {
+          "name": "Unser Sandm\u00e4nnchen",
+          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "Fr\u00fchlingslied",
+      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
     },
     {
       "added_at": "2025-03-06 00:01:38",
@@ -783,18 +783,18 @@
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
-        "name": "Unter meinem Bett 7",
-        "url": "https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy"
+        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
+        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
       "artists": [
         {
-          "name": "Berend Intelmann",
-          "url": "https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v"
+          "name": "KIDDINX Music",
+          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
         }
       ],
-      "duration_ms": 220173,
-      "name": "Drachenwind",
-      "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
+      "duration_ms": 95173,
+      "name": "Bl\u00fcht ein Bl\u00fcmlein",
+      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
     },
     {
       "added_at": "2025-03-06 00:01:38",
@@ -815,38 +815,34 @@
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
-        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
-        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
+        "name": "Unter meinem Bett 7",
+        "url": "https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy"
       },
       "artists": [
         {
-          "name": "KIDDINX Music",
-          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
+          "name": "Berend Intelmann",
+          "url": "https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v"
         }
       ],
-      "duration_ms": 95173,
-      "name": "Bl\u00fcht ein Bl\u00fcmlein",
-      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
+      "duration_ms": 220173,
+      "name": "Drachenwind",
+      "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
     },
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
-        "name": "Unter meinem Bett. Best Of",
-        "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
+        "name": "Rolfs Hasengeschichte - Die Lieder",
+        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
       },
       "artists": [
         {
-          "name": "Bernd Begemann",
-          "url": "https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY"
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
         }
       ],
-      "duration_ms": 149360,
-      "name": "Rumspringen",
-      "url": "https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ"
+      "duration_ms": 157793,
+      "name": "Wenn es Fr\u00fchling wird im Hasenland",
+      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
     },
     {
       "added_at": "2025-03-06 00:01:38",
@@ -875,18 +871,22 @@
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
-        "name": "Rolfs Hasengeschichte - Die Lieder",
-        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
+        "name": "Unter meinem Bett. Best Of",
+        "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
       },
       "artists": [
         {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+          "name": "Bernd Begemann",
+          "url": "https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY"
         }
       ],
-      "duration_ms": 157793,
-      "name": "Wenn es Fr\u00fchling wird im Hasenland",
-      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
+      "duration_ms": 149360,
+      "name": "Rumspringen",
+      "url": "https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ"
     },
     {
       "added_at": "2025-03-06 00:01:38",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
-        "name": "Fr\u00fchlingslieder: Sch\u00f6ne Kinderlieder zum Fr\u00fchling",
-        "url": "https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5"
-      },
-      "artists": [
-        {
-          "name": "Sternschnuppe",
-          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
-        }
-      ],
-      "duration_ms": 336386,
-      "name": "Dann ist der Fr\u00fchling da! (Fr\u00f6hliches Kinderlied zum Fr\u00fchling)",
-      "url": "https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6"
-    },
-    {
-      "added_at": "2025-03-06 00:01:38",
-      "album": {
         "name": "Fr\u00fchlingsspa\u00df und Osterhas",
         "url": "https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 146546,
       "name": "Bunte Blumen auf der Wiese",
       "url": "https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6"
+    },
+    {
+      "added_at": "2025-03-06 00:01:38",
+      "album": {
+        "name": "Fr\u00fchlingslieder: Sch\u00f6ne Kinderlieder zum Fr\u00fchling",
+        "url": "https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5"
+      },
+      "artists": [
+        {
+          "name": "Sternschnuppe",
+          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
+        }
+      ],
+      "duration_ms": 336386,
+      "name": "Dann ist der Fr\u00fchling da! (Fr\u00f6hliches Kinderlied zum Fr\u00fchling)",
+      "url": "https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6"
     },
     {
       "added_at": "2025-03-06 00:01:38",

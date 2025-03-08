@@ -2,9 +2,9 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Ana Tijoux en Portada
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Samantha Barrón en Portada
 
-360 songs - 17 hr 55 min
+362 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alerta](https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Alerta](https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl) | 3:09 | 2023-09-15 | 2024-11-16 |
 | [Aletheia](https://open.spotify.com/track/0HkIlCA0q9HHLGVhRU1tGM) | [Dilema](https://open.spotify.com/artist/3eCEorgAoZkvnAQLdy4x38), [Zaque](https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN) | [Aletheia](https://open.spotify.com/album/27AaB0tquSmq1HvR44he0D) | 3:13 | 2024-04-19 | 2024-10-05 |
 | [Allá Donde Voy](https://open.spotify.com/track/639XUxDc2pDTxoyUE8rB55) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB), [High Paw](https://open.spotify.com/artist/7EDCXmuq81vjBRU98KxD59) | [Allá Donde Voy](https://open.spotify.com/album/4jVCmeVqySAEjvCk4THlMp) | 4:25 | 2025-02-21 |  |
+| [Alma Rota](https://open.spotify.com/track/7zZLnnX8xbH4urqaar5tkM) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Alma Rota](https://open.spotify.com/album/3KnuWbSj3x6j2p98TuD8RB) | 3:04 | 2025-03-07 |  |
 | [Almacén de Datos](https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Almacén de Datos](https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx) | 3:32 | 2022-08-03 | 2023-07-01 |
 | [Alto Voltaje](https://open.spotify.com/track/0kRc7CgL2zznefYVYfCM1u) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Alto Voltaje](https://open.spotify.com/album/1KDs7zf9avbajx2jtOTqOe) | 2:50 | 2023-04-21 | 2024-07-19 |
 | [Alzypher Vol\. 16](https://open.spotify.com/track/5u89qLN3SSj4jELsCLZ61K) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Alzypher Vol\. 16](https://open.spotify.com/album/4yKlBRqB6qCAoZzQPcBZeg) | 2:19 | 2023-12-22 | 2024-03-30 |
@@ -104,6 +105,7 @@
 | [Desértico](https://open.spotify.com/track/6eTtks8qtmshX0HGjWk28v) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/0mloTUqmpH2WzwpdkXN7rS) | 3:41 | 2022-06-27 | 2022-08-06 |
 | [Desértico](https://open.spotify.com/track/6p8qaRzcAGpkaeJ0S2dawv) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/6MECZ5zdS2PN0qEjS7uR6a) | 3:41 | 2021-12-13 | 2022-07-29 |
 | [Desértico](https://open.spotify.com/track/36tR2PtULkfUDaYZufUE1W) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/3R8phbfheU9iJ1LYQJymZT) | 3:41 | 2022-08-03 | 2023-09-30 |
+| [DIAVLO](https://open.spotify.com/track/7Lqg10QrEZnW9b8bq0u34j) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [DIAVLO](https://open.spotify.com/album/6Fysv8Y6bcXtHK8tK9drMB) | 3:37 | 2025-03-07 |  |
 | [DINAMITA](https://open.spotify.com/track/2z1J0ARtt7WUsarFsNtmxO) | [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [DINAMITA](https://open.spotify.com/album/4dRpKzpWPEi9NYY84ChNhS) | 2:43 | 2024-09-13 |  |
 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 | 2023-05-19 |  |
 | [Don't Stop](https://open.spotify.com/track/7pNk0wJBkt30rKifsPUt04) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Don't Stop](https://open.spotify.com/album/1zuzyKT3Z063oxlvNcQgLq) | 3:33 | 2021-12-13 | 2023-07-01 |

@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 230093,
       "name": "Ever Be",
       "url": "https://open.spotify.com/track/0P8ANiSwsjYPx3zrmgN2Pv"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 255640,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 176615,
       "name": "God Is on the Move",
       "url": "https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 242122,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/1pAkVoknb9Mlk7bYO2ZCJP"
@@ -3411,6 +3411,24 @@
     },
     {
       "album": {
+        "name": "Light Up the Sky",
+        "url": "https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0i08LLgnQSCIVAXdKztzZ8"
+    },
+    {
+      "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 254453,
       "name": "My Hope Is In You",
       "url": "https://open.spotify.com/track/5m0IsXTsXWxSbdltKmsKlI"

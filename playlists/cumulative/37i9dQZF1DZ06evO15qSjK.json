@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168279,
+      "name": "10,000 Hours",
+      "url": "https://open.spotify.com/track/3swVZl6ayrUkNaujFC9XeS"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP 34",
         "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,013 likes - 113 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,025 likes - 113 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 3 | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/track/6zd7EGess2mwXiS70RSRRR) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/album/1pBr99gwaeeLzfmcdqDY8W) | 2:08 |
 | 4 | [Love Doctor's](https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love Doctor's](https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY) | 3:32 |
 | 5 | [Secret](https://open.spotify.com/track/7uifbpk6BOwusz3pqkuxDz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Secret](https://open.spotify.com/album/6kVvuKiJRKeJWp8iMJszTP) | 3:16 |
-| 6 | [Morgonkvisten](https://open.spotify.com/track/7ITtw8y3Egz8sk9TxcaWsb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Morgonkvisten](https://open.spotify.com/album/2rwyriumBjz17fzGRmw8cJ) | 2:28 |
+| 6 | [Morgonkvisten](https://open.spotify.com/track/7ITtw8y3Egz8sk9TxcaWsb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Morgonkvisten](https://open.spotify.com/album/2rwyriumBjz17fzGRmw8cJ) | 2:28 |
 | 7 | [Dansa](https://open.spotify.com/track/6Skh4lWhrgPDUI4zZG3JBT) | [Ravin](https://open.spotify.com/artist/28VTtzM04dYRIMwaRTnAbm) | [Dansa](https://open.spotify.com/album/4sSLcBi5f5B0oHejht8mQw) | 2:01 |
 | 8 | [ord mot ord](https://open.spotify.com/track/5KqdQSnwZHvSkzjfBToKga) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [ord mot ord](https://open.spotify.com/album/57O0oZw1dXNehqQmLQdlwB) | 2:39 |
 | 9 | [Mi Vida](https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mi Vida](https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE) | 2:17 |

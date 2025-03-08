@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30c7\u30c3\u30c9\u30de\u30f3\u30ba\u300cROCK ROAR\u300d (Game Edit)",
+        "url": "https://open.spotify.com/album/0U1g4lLPkcJdib2IiK2cSU"
+      },
+      "artists": [
+        {
+          "name": "\u30c7\u30c3\u30c9\u30de\u30f3\u30ba\uff0f\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u84ee\u5df3 \u656c\u4eba(CV.\u6885\u539f \u88d5\u4e00\u90ce)\u3001\u5927\u795e \u6643\u7259(CV.\u5c0f\u91ce \u53cb\u6a39)\u3001\u9b3c\u9f8d \u7d05\u90ce (CV.\u795e\u5c3e \u664b\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/15JhHuwM0wSTUl0muVA45Z"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150365,
+      "name": "ROCK ROAR - Game Edit",
+      "url": "https://open.spotify.com/track/6ScjwtZQgKtgG7KVIJZAgk"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Switch",
         "url": "https://open.spotify.com/album/6njWkigxSwfHCCXG2LQfoE"
       },
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 334213,
       "name": "Temptation Magic",
       "url": "https://open.spotify.com/track/0b5yb5KzoZidRrBopIP33d"
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 248840,
       "name": "THE GENESIS",
       "url": "https://open.spotify.com/track/5tY74vouzdfyGYpTqFFmev"
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 132000,
       "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30f4\u30a3\u30fc\u30c7 - Game Edit",
       "url": "https://open.spotify.com/track/1Y3zlrI3V32ljmtFDjPgHY"

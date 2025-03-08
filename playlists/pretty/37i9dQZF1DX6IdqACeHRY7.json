@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 155151,
+  "num_followers": 155166,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
+        "name": "Perfect to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Perfect To Me - Acoustic",
+      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
         "name": "Wild Enough",
         "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 182708,
       "name": "Hey Honey (fra filmen Honey)",
       "url": "https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
-        "name": "Perfect to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Perfect To Me - Acoustic",
-      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "It's Gotta Be You",
-        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 191433,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 181600,
       "name": "Would You",
       "url": "https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "It's Gotta Be You",
+        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 191433,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Nervous (The Ooh Song) [Mark McCabe Remix]",
         "url": "https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux"
       },
@@ -951,6 +935,38 @@
       "duration_ms": 195194,
       "name": "Nervous (The Ooh Song) - Mark McCabe Remix",
       "url": "https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1067,6 +1067,26 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "Still the Same (feat. Boy In Space)",
+        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        },
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 178139,
+      "name": "Still the Same (feat. Boy In Space)",
+      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1155,22 +1175,18 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Still the Same (feat. Boy In Space)",
-        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
+        "name": "Out of My Hands",
+        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
       },
       "artists": [
         {
           "name": "shy martin",
           "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        },
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
         }
       ],
-      "duration_ms": 178139,
-      "name": "Still the Same (feat. Boy In Space)",
-      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
+      "duration_ms": 203089,
+      "name": "Out of My Hands",
+      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Out of My Hands",
-        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 203089,
-      "name": "Out of My Hands",
-      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Mads Langer",
-        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Fact - Fiction",
-      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Hey Ya!",
         "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 214689,
       "name": "Hey Ya! - Acoustic",
       "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "Mads Langer",
+        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Fact - Fiction",
+      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "A Little More",
-        "url": "https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "So Last Year",
-        "url": "https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2"
-      },
-      "artists": [
-        {
-          "name": "Magnus M\u00fcnster",
-          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
-        }
-      ],
-      "duration_ms": 205579,
-      "name": "So Last Year",
-      "url": "https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Say Goodnight",
         "url": "https://open.spotify.com/album/2SZ5OldmAx9zijGjLbSfor"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 166258,
       "name": "Say Goodnight",
       "url": "https://open.spotify.com/track/4xYTaeo4725e2XJTJYz3km"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "So Last Year",
+        "url": "https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2"
+      },
+      "artists": [
+        {
+          "name": "Magnus M\u00fcnster",
+          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
+        }
+      ],
+      "duration_ms": 205579,
+      "name": "So Last Year",
+      "url": "https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
+        "name": "Same Old",
+        "url": "https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 175536,
+      "name": "Same Old",
+      "url": "https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
         "name": "Inner Critic's Choice Awards",
         "url": "https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 167942,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
-        "name": "Same Old",
-        "url": "https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 175536,
-      "name": "Same Old",
-      "url": "https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3"
     },
     {
       "added_at": "2025-02-10 10:04:29",

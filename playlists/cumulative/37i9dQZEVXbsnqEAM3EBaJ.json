@@ -245,6 +245,48 @@
     },
     {
       "album": {
+        "name": "100 D\u00edas",
+        "url": "https://open.spotify.com/album/4EQc6eZ7mZ3iaSaSH0BMaA"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3TJRGXCpHoXsFuISJFxBpZ"
+        },
+        {
+          "name": "Bascur",
+          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
+        },
+        {
+          "name": "99",
+          "url": "https://open.spotify.com/artist/6gWIciYPLz8BAYx3ZPkig4"
+        },
+        {
+          "name": "Basek",
+          "url": "https://open.spotify.com/artist/6MOyW5A4U8MlcX87Mssnhm"
+        },
+        {
+          "name": "Birrabeat",
+          "url": "https://open.spotify.com/artist/1m37qWU8fQYoChJgzbuPGs"
+        },
+        {
+          "name": "Inefable",
+          "url": "https://open.spotify.com/artist/6ZcoYaPtvs9OVb0LJyiTHo"
+        },
+        {
+          "name": "otros.",
+          "url": "https://open.spotify.com/artist/5SonVgOW7gagvOxxOmY7rp"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 985638,
+      "name": "100 D\u00edas",
+      "url": "https://open.spotify.com/track/6fEZkRRaZugFoDZE9YCbWl"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: 12 Pieces, Op.40 No.2 Chanson triste Allegro non troppo in G minor",
         "url": "https://open.spotify.com/album/7iQhKQCIqCn3zufBeIj5Ac"
       },
@@ -3125,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Anta Nante. (from \"Ranma 1/2 Remake 2024\") [En Espa\u00f1ol]",
+        "url": "https://open.spotify.com/album/3GvNn5o65LEJvmX6Wn7emr"
+      },
+      "artists": [
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241546,
+      "name": "Anta Nante. (from \"Ranma 1/2 Remake 2024\") - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/38CGwMFrr7wTbDkzXIWEb2"
+    },
+    {
+      "album": {
         "name": "Best of: Living the Dream (Tarja's Personal Favourites)",
         "url": "https://open.spotify.com/album/6Lwb4EAr96txRoYtTbp2ce"
       },
@@ -3834,6 +3894,24 @@
       "duration_ms": 128699,
       "name": "Awaits Clouds",
       "url": "https://open.spotify.com/track/0h8vChP5RgPClAd0xvhZtI"
+    },
+    {
+      "album": {
+        "name": "Awen",
+        "url": "https://open.spotify.com/album/6ZxBSS6hPV1IDtnAQ2Cjuw"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262400,
+      "name": "Awen",
+      "url": "https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu"
     },
     {
       "album": {
@@ -7814,7 +7892,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 202306,
       "name": "Collusion",
       "url": "https://open.spotify.com/track/5XnMnPwif551rCg6Vjwu3d"
@@ -8871,6 +8949,24 @@
     },
     {
       "album": {
+        "name": "Oceanside Countryside",
+        "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152998,
+      "name": "Dance Dance Dance",
+      "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
+    },
+    {
+      "album": {
         "name": "DANCE WITH ME",
         "url": "https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh"
       },
@@ -8958,7 +9054,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 278956,
       "name": "Danza",
       "url": "https://open.spotify.com/track/0kBmoW23WXg9UTzfbqDcD2"
@@ -9034,7 +9130,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 305120,
       "name": "Dark Is This Night",
       "url": "https://open.spotify.com/track/2f86GptjGpm7xP6DoTrvlM"
@@ -9372,6 +9468,28 @@
       "duration_ms": 250408,
       "name": "Death's Forgotten Children",
       "url": "https://open.spotify.com/track/5BVYN9Wv6bVAROkmtpqNul"
+    },
+    {
+      "album": {
+        "name": "Satirolog\u00eda, Vol. 3",
+        "url": "https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284091,
+      "name": "Debo Aterrizar",
+      "url": "https://open.spotify.com/track/4MQEsa25Jc6mfLaFYmYhIo"
     },
     {
       "album": {
@@ -11774,6 +11892,28 @@
       "duration_ms": 396069,
       "name": "El Sur Es Hardcore (La Venganza de los Mc's, Pt. 2)",
       "url": "https://open.spotify.com/track/70eTVy4QG1GKENmNqrRYJo"
+    },
+    {
+      "album": {
+        "name": "P\u00e1nico (VMG)",
+        "url": "https://open.spotify.com/album/6LTWQ01avRapIfYca9gWal"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292634,
+      "name": "El Viejo Comunista (VMG)",
+      "url": "https://open.spotify.com/track/5KoBBIXjlNhYeBLisjmu0r"
     },
     {
       "album": {
@@ -14764,6 +14904,24 @@
       "duration_ms": 232791,
       "name": "Geburt einer Nation - Rico Conning's Inner Ear RMX 2024",
       "url": "https://open.spotify.com/track/6lhlwz5AgDk1b5PvXvk3hH"
+    },
+    {
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/69u8fJRhAoYjaiuj5sac14"
+      },
+      "artists": [
+        {
+          "name": "Lacrimosa",
+          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354426,
+      "name": "Geliebtes Monster",
+      "url": "https://open.spotify.com/track/0hPjYlFsTRPlSWdweQPW01"
     },
     {
       "album": {
@@ -18092,7 +18250,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 232736,
       "name": "I Am... All of Me (From \"Shadow the Hedgehog\") - En Espa\u00f1ol",
       "url": "https://open.spotify.com/track/2ms1BTHIwITNfpqcuj43Ib"
@@ -18114,6 +18272,24 @@
       "duration_ms": 234931,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
+    },
+    {
+      "album": {
+        "name": "I Believe (Alternate Edit)",
+        "url": "https://open.spotify.com/album/1KNS3sHZ6es6nrpA6nF4dv"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205393,
+      "name": "I Believe (Alternate Edit)",
+      "url": "https://open.spotify.com/track/3lLXCf8wmwk3qIHGLEzUDI"
     },
     {
       "album": {
@@ -23189,6 +23365,32 @@
     },
     {
       "album": {
+        "name": "Let\u2019s Stay Together (Alternative Radio Mix, 1983)",
+        "url": "https://open.spotify.com/album/7sBqVyoUD6me10VdO0bNL3"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Greg Walsh",
+          "url": "https://open.spotify.com/artist/1oVGKaQu7WJwgR6668lrrI"
+        },
+        {
+          "name": "Martyn Ware",
+          "url": "https://open.spotify.com/artist/0g4bxJkNeoMi0rRJw5hGPV"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230146,
+      "name": "Let's Stay Together - Alternative Radio Mix, 1983",
+      "url": "https://open.spotify.com/track/37gLEFVAkPi68XoZhwldgY"
+    },
+    {
+      "album": {
         "name": "Man Down",
         "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
       },
@@ -24908,6 +25110,24 @@
       "duration_ms": 188607,
       "name": "Make It Make Sense",
       "url": "https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1"
+    },
+    {
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
     },
     {
       "album": {
@@ -29607,6 +29827,24 @@
     },
     {
       "album": {
+        "name": "Curious Ruminant",
+        "url": "https://open.spotify.com/album/1m5tTXkBOzJEiwDz1TyPIG"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355680,
+      "name": "Over Jerusalem",
+      "url": "https://open.spotify.com/track/3PcSN0Crczqq6WHCGlUyiq"
+    },
+    {
+      "album": {
         "name": "We Take No Prisoners (The Singles 1995 - 2006)",
         "url": "https://open.spotify.com/album/6ZOKfW7b5wK3gXviW1s6l6"
       },
@@ -33042,7 +33280,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 212858,
       "name": "Roll With The Punches",
       "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
@@ -38155,6 +38393,28 @@
     },
     {
       "album": {
+        "name": "Swing For The Fences",
+        "url": "https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202695,
+      "name": "Swing For The Fences",
+      "url": "https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb"
+    },
+    {
+      "album": {
         "name": "vol huis (Live)",
         "url": "https://open.spotify.com/album/3tYOO1SUShFTDag2iNbzlu"
       },
@@ -38544,6 +38804,32 @@
       "duration_ms": 84135,
       "name": "Tchaikovsky: Swan Lake - Mazurka - Excerpt",
       "url": "https://open.spotify.com/track/2EG7fplRiQhGo5TBQcVLKW"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Swan Lake - Neapolitan Dance (Excerpt)",
+        "url": "https://open.spotify.com/album/2uyVJZsuSG0CkEH8iw8RE4"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Alexander Titov",
+          "url": "https://open.spotify.com/artist/0i7LEbNYupmNEuVG7GJr7O"
+        },
+        {
+          "name": "Orchestra New Philharmony St. Petersburg",
+          "url": "https://open.spotify.com/artist/6PC5mHlqB8BIbsDJ9QSVZx"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50792,
+      "name": "Tchaikovsky: Swan Lake - Neapolitan Dance - Excerpt",
+      "url": "https://open.spotify.com/track/5MmhK1FDPjuUOeWSHEG0s1"
     },
     {
       "album": {
@@ -41107,6 +41393,24 @@
     },
     {
       "album": {
+        "name": "The Shadow Elite",
+        "url": "https://open.spotify.com/album/368LvzVtG97TQPF42TAwch"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279493,
+      "name": "The Shadow Elite",
+      "url": "https://open.spotify.com/track/1hjiZRmHByToO3dPjFSGUH"
+    },
+    {
+      "album": {
         "name": "The Shit Ov God",
         "url": "https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC"
       },
@@ -43288,7 +43592,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 329066,
       "name": "Tu Muhabbat.",
       "url": "https://open.spotify.com/track/0SsIIxurRuS1Bo0GeT2Sji"
@@ -44287,6 +44591,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+    },
+    {
+      "album": {
         "name": "Vapor",
         "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
       },
@@ -44604,7 +44926,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 387333,
       "name": "Violin Concerto in D Major, Op. 35: II. Canzonetta. Andante",
       "url": "https://open.spotify.com/track/52G5LbdzNFP4NuuJlKMMrV"

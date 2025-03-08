@@ -2233,6 +2233,32 @@
     },
     {
       "album": {
+        "name": "Don't Be That Guy",
+        "url": "https://open.spotify.com/album/0XJCljJFcG0BExLsxNIyDd"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Francisco Ojeda",
+          "url": "https://open.spotify.com/artist/1UgroYG94KwDUqXorgJSmN"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "Don't Be That Guy",
+      "url": "https://open.spotify.com/track/3CmuFO0UX8wBr75HMoTh10"
+    },
+    {
+      "album": {
         "name": "Trouvaille",
         "url": "https://open.spotify.com/album/0UQwQHWci0xsj4jeoQOsmv"
       },
@@ -2584,7 +2610,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 141666,
       "name": "EEEEEE",
       "url": "https://open.spotify.com/track/4cwZccylplyt4Q5dJP5HBR"

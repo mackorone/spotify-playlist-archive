@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Charles Wesley Godwin",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Mackenzie Carpenter",
   "name": "New Boots",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 158333,
       "name": "3,2,1",
       "url": "https://open.spotify.com/track/2mxyToKuuc2JGhxBNlJzUh"
@@ -5571,6 +5571,24 @@
     },
     {
       "album": {
+        "name": "Call Me If You Miss Me",
+        "url": "https://open.spotify.com/album/1XTodZ2bafoeNTgWnm4RNg"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193753,
+      "name": "Call Me If You Miss Me",
+      "url": "https://open.spotify.com/track/3LWYsVIye7sFfYTL3s9ksO"
+    },
+    {
+      "album": {
         "name": "Call You Names",
         "url": "https://open.spotify.com/album/4vbq9kUCiAAeJMjt06RIw4"
       },
@@ -7836,7 +7854,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 148626,
       "name": "Damn Good Country Song",
       "url": "https://open.spotify.com/track/7xXtjD7xcsp7HHl8T7Vy38"
@@ -12003,6 +12021,24 @@
     },
     {
       "album": {
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/76S9gvnk84KNWLTXLQyFAx"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241120,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ"
+    },
+    {
+      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -12932,6 +12968,24 @@
       "duration_ms": 184800,
       "name": "Ghost Town Nation",
       "url": "https://open.spotify.com/track/4TDNhRedXB1F49DMpwJBR8"
+    },
+    {
+      "album": {
+        "name": "Girl I Never Met",
+        "url": "https://open.spotify.com/album/00RBopMn0LvTbCOnoK15hu"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177506,
+      "name": "Girl I Never Met",
+      "url": "https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x"
     },
     {
       "album": {
@@ -15082,7 +15136,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 183615,
       "name": "Happen To Me",
       "url": "https://open.spotify.com/track/64KV9vjChfN2w9vA4j7A2K"
@@ -18028,7 +18082,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 172181,
       "name": "Hundred Mile High",
       "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
@@ -23227,6 +23281,24 @@
     },
     {
       "album": {
+        "name": "Love Myself",
+        "url": "https://open.spotify.com/album/7ka7U27Hz0kZPEBUIYmeha"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/1RWpjHVBMDONhpD1gTjbPG"
+    },
+    {
+      "album": {
         "name": "Relapse",
         "url": "https://open.spotify.com/album/6qjHXAoCQWAwOwOCjdSvEN"
       },
@@ -25590,7 +25662,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 201133,
       "name": "Mr. Predictable",
       "url": "https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG"
@@ -26134,7 +26206,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 189226,
       "name": "Need To",
       "url": "https://open.spotify.com/track/02JME7zoJ1EYMYBJAg4TMN"
@@ -28507,6 +28579,28 @@
     },
     {
       "album": {
+        "name": "Only God Knows",
+        "url": "https://open.spotify.com/album/0kvNhrR0LLNPiGQbHYQhwX"
+      },
+      "artists": [
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246861,
+      "name": "Only God Knows",
+      "url": "https://open.spotify.com/track/0H8C3HyC1pK75EI06SVYZd"
+    },
+    {
+      "album": {
         "name": "Sunsets & Soundwaves",
         "url": "https://open.spotify.com/album/2cth57XHkrgSDCRUJjSIpd"
       },
@@ -28634,6 +28728,24 @@
       "duration_ms": 234771,
       "name": "Open the Gate",
       "url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF"
+    },
+    {
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169331,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
     },
     {
       "album": {
@@ -31198,7 +31310,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 191146,
       "name": "Roses and Wolves (feat. Hailey Whitters)",
       "url": "https://open.spotify.com/track/0Q9ILgShrEv0ap5YIaMAC7"
@@ -38660,6 +38772,24 @@
       "duration_ms": 222013,
       "name": "To Tell You The Truth",
       "url": "https://open.spotify.com/track/3vgdTBd541sOtok3Pa450z"
+    },
+    {
+      "album": {
+        "name": "PATTERNS (DELUXE)",
+        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "To The Men That Love Women After Heartbreak",
+      "url": "https://open.spotify.com/track/1epG8jhfeJW54B8dt6pCg9"
     },
     {
       "album": {

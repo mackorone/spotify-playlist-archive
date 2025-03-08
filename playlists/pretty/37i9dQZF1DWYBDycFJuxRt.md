@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: AAAMYYY \*👉 <a href="https://spice.eplus.jp/articles/336043">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,477 likes - 71 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,491 likes - 71 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 24 | [Paradise Has No Border \- feat.NO BORDER ALL STARS](https://open.spotify.com/track/3WsAAe39IXnj58KrVviRV6) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [NO BORDER ALL STARS](https://open.spotify.com/artist/56qEfLXtOGNjdlmHdJJMsO) | [NO BORDER HITS 2025→2001 ～ベスト・オブ・東京スカパラダイスオーケストラ～](https://open.spotify.com/album/2TAuss8hF85yVeF4sexNuj) | 4:19 |
 | 25 | [Time lapse \(feat\. Yella.E\)](https://open.spotify.com/track/6qpdq4KC0ENSodfwFgz691) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x), [Yella.E](https://open.spotify.com/artist/2RVYFlbKp6p9WhlUAlsWGD) | [Time lapse \(feat\. Yella.E\)](https://open.spotify.com/album/7om6T6sGVolRmPdQw0J6O0) | 4:48 |
 | 26 | [フリーバード](https://open.spotify.com/track/6YzcVKLwMFTMS7QvE9GirI) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [フリーバード](https://open.spotify.com/album/4cncNu8EvPvNMgVfynNUoQ) | 3:36 |
-| 27 | [U](https://open.spotify.com/track/71YcMOKK5aWZRvDkmpM7BA) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [U](https://open.spotify.com/album/4w6GbcHchDqVFsWqyZwwvr) | 2:48 |
+| 27 | [U \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/71YcMOKK5aWZRvDkmpM7BA) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [U \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/4w6GbcHchDqVFsWqyZwwvr) | 2:48 |
 | 28 | [ぐらぐら](https://open.spotify.com/track/3bkVrZhc45T120CCPQBmJ1) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [The Water](https://open.spotify.com/album/1PDOiHUsOrzAyHUXlcubC0) | 4:11 |
 | 29 | [ONLY HELLO part1](https://open.spotify.com/track/1tVd9LWZC73jxNzYMpN5nQ) | [INABA / SALAS](https://open.spotify.com/artist/2jrmtlq6cZjytdgG8xW6BG) | [ATOMIC CHIHUAHUA](https://open.spotify.com/album/57YC7T7lxxVgfsLFJP3ITt) | 3:24 |
 | 30 | [Arashi No Yoruni](https://open.spotify.com/track/3uBbdClP2IeaIN3Z2IthDb) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Shape the water](https://open.spotify.com/album/4QaZqoS88RyznzKJQjDP3Q) | 4:35 |

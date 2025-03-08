@@ -903,24 +903,6 @@
     },
     {
       "album": {
-        "name": "Christmas Hits",
-        "url": "https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "date_added": "2021-09-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 123640,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/0JoLc8rgQBJhDMolSCuRuw"
-    },
-    {
-      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/1lpV694JtG8ZQgS38f5EKR"
       },
@@ -972,6 +954,24 @@
       "duration_ms": 148740,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5LGTvFtIFGue0TJL4SNGst"
+    },
+    {
+      "album": {
+        "name": "Christmas Hits",
+        "url": "https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "date_added": "2021-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123640,
+      "name": "Jingle Bell Rock - Daryl's Version",
+      "url": "https://open.spotify.com/track/0JoLc8rgQBJhDMolSCuRuw"
     },
     {
       "album": {

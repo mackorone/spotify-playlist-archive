@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-642 songs - 1 day 20 hr 44 min
+643 songs - 1 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Sweat It Out](https://open.spotify.com/track/7tuP0f0jiZT7fHg3VyDDrJ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 6:38 | 2022-09-08 |  |
 | [Sweet Painted Lady \- Remastered 2014](https://open.spotify.com/track/7sGL3k2M6FiWFP9x83wiLA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:54 | 2022-09-08 |  |
 | [Sweetheart on Parade](https://open.spotify.com/track/1WRxaw2VdAjgbbXjjjjjAs) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Home Again](https://open.spotify.com/album/3OKVSjWQav880sfD7GS5DM) | 4:45 | 2023-05-26 |  |
+| [Swing For The Fences](https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Swing For The Fences](https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3) | 3:22 | 2025-03-07 |  |
 | [Tactics](https://open.spotify.com/track/4GP1WhzP3nQxJZgSUIjNsQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:48 | 2023-05-26 |  |
 | [Taivas Katseessaan](https://open.spotify.com/track/32kVv2gCU558EavsvX4dq1) | [Pentti Hietanen](https://open.spotify.com/artist/5WKwKSJSvST4M68V2NerXc) | [Kyynelten Kiertorata](https://open.spotify.com/album/4tIiXIOacVfOQDnFEFajSP) | 3:31 | 2023-05-26 |  |
 | [Tak Já Zas Stojím](https://open.spotify.com/track/3wdzFK4hcZRrnl6wYEAJy4) | [Alena](https://open.spotify.com/artist/43Ubj5xwJn75ljUs0eQEtG) | [Já a ty](https://open.spotify.com/album/7EXwdt5mIE6GAdSCuaPnMN) | 3:17 | 2024-06-20 |  |

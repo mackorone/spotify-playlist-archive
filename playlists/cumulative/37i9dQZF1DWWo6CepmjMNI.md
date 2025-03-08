@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Something Sweet
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: TWODAYS
 
-166 songs - 11 hr 55 min
+169 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/track/7tN2lVM53EY0vFtObxxIEG) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/album/1teI8blyB4bMMQ6tCsH2A3) | 3:54 | 2024-06-21 |  |
 | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/track/2GMgbkn4qdTV5PuG9ggkdw) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/album/4ak31D4lpQ5PbTMTlCGLzh) | 3:50 | 2024-06-21 | 2024-10-12 |
 | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/track/7h5hVqASUr1YAb5Y1PD5IG) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL) | 3:31 | 2024-12-20 | 2025-02-13 |
+| [จับมือฉันไว้](https://open.spotify.com/track/68zDVn6aPQRLIhpd1by36V) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [จับมือฉันไว้](https://open.spotify.com/album/0iDiM9ntw1LwtGitcSdbhX) | 3:32 | 2025-03-07 |  |
 | [จากวันที่เธอลา \(YT\-1300\)](https://open.spotify.com/track/0MQpFb7vmL6pweZ0cfJzXp) | [MAN IN PHARMACY](https://open.spotify.com/artist/1AGzRS5zJLTwySvklwcgxU) | [จากวันที่เธอลา \(YT\-1300\)](https://open.spotify.com/album/4KxG5Miv9zHKxEPGBg12Uq) | 4:03 | 2024-12-13 | 2025-02-22 |
 | [จากเมื่อวาน \(present\)](https://open.spotify.com/track/22NejFlrIPRARMMKZRke5A) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [จากเมื่อวาน \(present\)](https://open.spotify.com/album/6mjFCfCHUe17B3opy0FulL) | 4:27 | 2024-07-05 |  |
 | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/track/1Q74VWWMSq4CU30yUQdFdd) | [A Irynn](https://open.spotify.com/artist/1Eyb60kL2vSZ7OAxygY9Xt) | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/album/49s5RFPDHJLLfMeCyFXs0w) | 5:08 | 2024-06-21 |  |
@@ -85,6 +86,7 @@
 | [ปล่อยใจ](https://open.spotify.com/track/6YEXIvR9f3S1Ca9E6Dn5uM) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ปล่อยใจ](https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf) | 4:00 | 2024-07-05 | 2024-08-17 |
 | [ปิดฉาก เดินจากไปพร้อมความต้องการของเธอ](https://open.spotify.com/track/6nquKmifNmk8JRy61FkHFx) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ปิดฉาก เดินจากไปพร้อมความต้องการของเธอ](https://open.spotify.com/album/3DXpBDOGRI8PwrL6z53xvR) | 4:30 | 2024-10-04 | 2024-10-26 |
 | [ผีเสื้อ](https://open.spotify.com/track/6PeUVVDPiXQOLsVas33rLh) | [ดารารัญชน์ \(Dararunch\)](https://open.spotify.com/artist/4Y2O9t1WvTloQJLQgX9B5Y) | [ผีเสื้อ](https://open.spotify.com/album/1fC3gkmNLahs5XyjmpTU9Q) | 4:35 | 2025-02-21 | 2025-03-01 |
+| [ผู้ชม](https://open.spotify.com/track/23hHRScGll3GDtCcfVxeAv) | [World Nopparuj](https://open.spotify.com/artist/4YJf8IYiDgp0THhDwwRodb), [Khem Freehand](https://open.spotify.com/artist/2c1mD0pzkcaoMHbfUzi6Ih) | [ผู้ชม](https://open.spotify.com/album/1aoBuh75sH3YVll8tj4eDu) | 5:40 | 2025-03-07 |  |
 | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/track/5lB51wzR4OxghE3qvREaaj) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/album/0eBVwsYfR3cDooFjZJGyyZ) | 4:06 | 2024-06-21 |  |
 | [ฝันไป](https://open.spotify.com/track/2VP1vuiq8XKnOVyiwctD7h) | [Vitamin D from The Sun](https://open.spotify.com/artist/5zngLj3BO0BHiyuXaPEQYJ) | [ฝันไป \- Single](https://open.spotify.com/album/6msuekm9iwP2z7jSl5heFs) | 5:25 | 2024-06-21 | 2025-02-22 |
 | [พรุ่งนี้ที่ไม่มีฉัน \- Love Getaway](https://open.spotify.com/track/7ByZTcfU7kI04NcxCqj03J) | [Apollo Thirteen](https://open.spotify.com/artist/0B6mKOEMvQU8Kfyg03ZQSF) | [พรุ่งนี้ที่ไม่มีฉัน \(Love Getaway\)](https://open.spotify.com/album/29nJTlNCjHfBTKRMIrl862) | 4:33 | 2024-11-22 | 2024-11-29 |
@@ -100,7 +102,8 @@
 | [มีตลอด](https://open.spotify.com/track/34DTcqp51oF4ERR5yFT01S) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [มีตลอด](https://open.spotify.com/album/3EMih7yPAeSQXJWmXzaCBN) | 3:53 | 2024-12-13 | 2024-12-27 |
 | [ยอมเธอ\(ahhh\)](https://open.spotify.com/track/7pMs1Te4Z2KwJbqx1j7nyl) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [ยอมเธอ\(ahhh\)](https://open.spotify.com/album/3HuQtv6FggFCkTnNav87wh) | 3:44 | 2024-11-22 | 2024-12-14 |
 | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/track/1J3iDnjS2TFCfWYVSh7F18) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/album/68HaaheRhVVNkDilm5qE7A) | 4:56 | 2024-06-21 | 2024-10-19 |
-| [ยังคิดถึงอยู่เลย](https://open.spotify.com/track/6pSVHNVH1kZjlRu9DSm8op) | [sriattle](https://open.spotify.com/artist/3SHuorzd9Ib3cz0tGvnYxn) | [ยังคิดถึงอยู่เลย](https://open.spotify.com/album/1C9kzjo2lH0sW9tfFBCQ9O) | 4:54 | 2025-02-28 |  |
+| [ยังคิดถึงอยู่เลย](https://open.spotify.com/track/6pSVHNVH1kZjlRu9DSm8op) | [sriattle](https://open.spotify.com/artist/3SHuorzd9Ib3cz0tGvnYxn) | [ยังคิดถึงอยู่เลย](https://open.spotify.com/album/1C9kzjo2lH0sW9tfFBCQ9O) | 4:54 | 2025-02-28 | 2025-03-08 |
+| [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/track/76f0EYKaPbHHshFPmDcGSN) | [Almondeptt](https://open.spotify.com/artist/77p8feYnlVx5htNAWQxXi9) | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/album/7pSxZAv4NE47r4mvfsXaEq) | 2:50 | 2025-03-07 |  |
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-06-28 | 2024-07-06 |
 | [ยิ้มเธอ\(Still\)](https://open.spotify.com/track/19C1zQ4ChUqYzA17q7kexu) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [ยิ้มเธอ\(Still\)](https://open.spotify.com/album/0CH79nEW5Cq2epIlOyrShj) | 3:49 | 2024-06-21 | 2024-08-31 |
 | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/track/6NxfzvGM8l0yINzmQxGft4) | [Yacht](https://open.spotify.com/artist/41AuZ5SgqlI1HR78GPn2Zr) | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/album/4JRWZJ9Aif3RXwGdwNGtxJ) | 3:45 | 2024-09-20 | 2024-11-29 |
@@ -113,7 +116,7 @@
 | [วันนี้เธอต้องบอกลา](https://open.spotify.com/track/0KH1V9wxZyUBfnfvGehLRf) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [วันนี้เธอต้องบอกลา](https://open.spotify.com/album/0setFdD9Lf4YhuS3EogbAp) | 4:29 | 2024-10-18 |  |
 | [วันนี้เมื่อปีก่อน \(to day.\)](https://open.spotify.com/track/7Ktt0XzFxAkiix4uUsmmgj) | [uptrend](https://open.spotify.com/artist/3NrXEEQS9rT3suVMTmZTYu) | [วันนี้เมื่อปีก่อน \(to day.\)](https://open.spotify.com/album/6msdO5alw939U94TIqyU4f) | 4:12 | 2024-09-13 | 2024-09-21 |
 | [วันวานยังหวานอยู่](https://open.spotify.com/track/2d78c1cdCYSZx8jdh3sAuH) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [วันวานยังหวานอยู่](https://open.spotify.com/album/1LHO0EMowXhPkRj5H6q9aq) | 5:10 | 2024-09-06 | 2024-11-16 |
-| [วิวา\(ท์\)](https://open.spotify.com/track/4Fs2GKXQGTcTp1fYKUEzLl) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [วิวา\(ท์\) \- Single](https://open.spotify.com/album/3N9k496GsV3jsN1SsaNJzk) | 5:43 | 2024-12-13 |  |
+| [วิวา\(ท์\)](https://open.spotify.com/track/4Fs2GKXQGTcTp1fYKUEzLl) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [วิวา\(ท์\) \- Single](https://open.spotify.com/album/3N9k496GsV3jsN1SsaNJzk) | 5:43 | 2024-12-13 | 2025-03-08 |
 | [ว่างเปล่า \(Me On The Road\)](https://open.spotify.com/track/54Up0c46YsjdsS0xYfdIjZ) | [Banana Jogging](https://open.spotify.com/artist/2Y1efsJI1aQw1subyVEW8W) | [ว่างเปล่า \(Me On The Road\)](https://open.spotify.com/album/0a5GBgOBrke7E4NNVlxbqb) | 3:48 | 2024-08-02 | 2024-08-10 |
 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 | 2024-06-21 |  |
 | [หนี \(run again\)](https://open.spotify.com/track/13GHCppwVLxFsNZKu0bcjh) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [หนี \(run again\)](https://open.spotify.com/album/1EwGe8ID4l7iEG95HPwCCG) | 4:44 | 2024-06-21 |  |
@@ -154,7 +157,7 @@
 | [แค่เพียงบังเอิญ](https://open.spotify.com/track/1yojnSiavtYx6byEbWOMsX) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แค่เพียงบังเอิญ \(Nostalgia\)](https://open.spotify.com/album/54U3Bnqm294T63Lt6SZ3P8) | 4:28 | 2024-06-21 |  |
 | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/track/6xUpgdaBkxFot3bhoT1BiW) | [Snowman Listen](https://open.spotify.com/artist/31jtvjImeB55ztAELOvu0y) | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/album/1dy7TvVvfVdcVrzFY2e2Ad) | 4:09 | 2024-06-21 | 2025-01-10 |
 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-06-21 | 2024-09-14 |
-| [โลกนี้มีแต่คำลา \(Good\)Bye](https://open.spotify.com/track/2ZkgmOYai2l0x38Wti8nzr) | [Lost n' Found](https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt) | [โลกนี้มีแต่คำลา \(Good\)Bye](https://open.spotify.com/album/4K55gPyJQP9B8mSnDSD5su) | 4:52 | 2024-11-15 |  |
+| [โลกนี้มีแต่คำลา \(Good\)Bye](https://open.spotify.com/track/2ZkgmOYai2l0x38Wti8nzr) | [Lost n' Found](https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt) | [โลกนี้มีแต่คำลา \(Good\)Bye](https://open.spotify.com/album/4K55gPyJQP9B8mSnDSD5su) | 4:52 | 2024-11-15 | 2025-03-08 |
 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 | 2025-02-21 |  |
 | [โลกอาจเหวี่ยงเรามาพบกัน](https://open.spotify.com/track/2FV8l4rRoN4bYpVpfqOvpB) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [โลกอาจเหวี่ยงเรามาพบกัน](https://open.spotify.com/album/5jsCmjKzmKt26gm3krBC0C) | 4:21 | 2024-10-04 | 2024-11-29 |
 | [โอบกอด](https://open.spotify.com/track/64ftqC2EIsiQ2ALvWIF3wo) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R) | [โอบกอด](https://open.spotify.com/album/1yWcrnPdkDe2yUa04VcVUc) | 4:51 | 2024-08-09 | 2024-10-05 |

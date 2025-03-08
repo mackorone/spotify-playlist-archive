@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Delia\. O ediție specială de Ziua Femeii
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,078 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,105 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 38 | [Același oraș](https://open.spotify.com/track/6MeoGIs5zRBXhEEwUWSewZ) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Același oraș](https://open.spotify.com/album/3yIKJPCbmKQ80UFV6IS7Qh) | 3:02 |
 | 39 | [De ce plang chitarele](https://open.spotify.com/track/1LviVFquiwbz2qsiVzbC4W) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw), [Mark Stam](https://open.spotify.com/artist/2TfjCSwYNNsUvw3uhjK9mh) | [De ce plang chitarele](https://open.spotify.com/album/4kXNDZdMEpJIGIKjUnG9Dt) | 2:39 |
 | 40 | [Niciodată](https://open.spotify.com/track/1ad3VcBShCyHo43vLq75JB) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Niciodată](https://open.spotify.com/album/0ULRCiP92LGXs2Y9v1lfMa) | 3:15 |
-| 41 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:30 |
+| 41 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:29 |
 | 42 | [Fă\-ți numărul](https://open.spotify.com/track/7gdvXyK82he3mbsJ2H5dAI) | [Damian & Brothers](https://open.spotify.com/artist/36ddmqY1toa8sWvyYDBqFn), [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [Fă\-ți numărul](https://open.spotify.com/album/1J2POqIj515c455uR3hkyP) | 3:18 |
 | 43 | [Lalele](https://open.spotify.com/track/0WxfUn0nvxIpHMRYKLHtYA) | [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb) | [Lalele](https://open.spotify.com/album/4y1jBOFhRMOvXQ7uKr8H4V) | 3:46 |
 | 44 | [7 zile de 8 ori](https://open.spotify.com/track/4r8QP0r8oEWjNRiqRa1JyC) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [7 zile de 8 ori](https://open.spotify.com/album/0cMi3lBoihkgoc2M6GqE0B) | 2:34 |

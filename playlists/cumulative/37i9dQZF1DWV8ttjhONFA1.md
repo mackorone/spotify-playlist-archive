@@ -4,7 +4,7 @@
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: BLAIR.
 
-347 songs - 18 hr 58 min
+349 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Mi Corazón](https://open.spotify.com/track/7orQCAJ1TR4MFce8ZuXBb8) | [Tango Astral](https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j), [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Tango Astral](https://open.spotify.com/album/2hB6vHZH9hkwMprvYsMFek) | 3:49 | 2024-07-05 |  |
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2024-04-05 |  |
 | [Miento](https://open.spotify.com/track/6i90M2ASVt5RvZbU4LL18S) | [Ronén](https://open.spotify.com/artist/63rTLHGtrSuIpefqOZtGZz), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Miento](https://open.spotify.com/album/6rKzGByvy6mkWgaHdtsySG) | 3:18 | 2024-10-04 | 2024-10-26 |
+| [Mirar Películas](https://open.spotify.com/track/5WjvBDFZYmIaGTJEiXm6kX) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mirar Películas](https://open.spotify.com/album/1FvbmFRihA5bc6ql67RNRP) | 3:29 | 2025-03-07 |  |
 | [Momento de Fe](https://open.spotify.com/track/33G4Qp8lIYsLlj8HZ5Nf76) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Momento de Fe](https://open.spotify.com/album/4RAQ1BWTyoy2213F8YlyCq) | 2:48 | 2024-04-12 | 2024-09-07 |
 | [Morena mía](https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Morena mía](https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK) | 3:08 | 2024-01-19 | 2024-04-06 |
 | [Muévelo](https://open.spotify.com/track/3MZV3tbR1kPuBGwmejNRdX) | [Renzo Montalbano](https://open.spotify.com/artist/1042A8hLdGGnCSn3y1cZKr) | [Hasta Luego](https://open.spotify.com/album/5FJtAkxSHK3C3cqjVNGoMd) | 3:21 | 2024-08-30 | 2025-01-11 |
@@ -234,7 +235,7 @@
 | [no hay porqué](https://open.spotify.com/track/4z8v6dinom02IRU69Mp5XN) | [Tarsitano](https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG) | [no hay porqué](https://open.spotify.com/album/0k6CNiHqCfZd42VOp8WhZt) | 2:21 | 2024-08-16 | 2024-11-30 |
 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 | 2024-02-16 | 2024-09-14 |
 | [No Me Quiero Ir Lejos](https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [No Me Quiero Ir Lejos](https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy) | 3:24 | 2024-03-01 | 2024-04-06 |
-| [No me quiero ver](https://open.spotify.com/track/005O2j2sL3Yr7tTpTBLH0u) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [No me quiero ver](https://open.spotify.com/album/4GZA9S2CSDq0i0yCS6vc2a) | 1:51 | 2025-02-21 |  |
+| [No me quiero ver](https://open.spotify.com/track/005O2j2sL3Yr7tTpTBLH0u) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [No me quiero ver](https://open.spotify.com/album/4GZA9S2CSDq0i0yCS6vc2a) | 1:51 | 2025-02-21 | 2025-03-08 |
 | [No Necesito](https://open.spotify.com/track/1Eb2UZizkuq7pLsRr0bDk9) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [No Necesito](https://open.spotify.com/album/50EqGBQOkwChY0J6ehpNGW) | 3:30 | 2024-06-07 | 2024-07-19 |
 | [No Queda Nada](https://open.spotify.com/track/08IaZh6hNzDvxevR9d0Pa9) | [LUASÓ](https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7) | [No Queda Nada](https://open.spotify.com/album/3u5y0f4jmVEMRfYQwhVhYf) | 3:47 | 2025-01-24 |  |
 | [NO TE ALEJES](https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:30 | 2023-12-15 | 2024-04-19 |
@@ -242,6 +243,7 @@
 | [No Te Olvidaras De Mi](https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [No Te Olvidarás de Mí](https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr) | 2:40 | 2024-11-08 |  |
 | [no te suelto](https://open.spotify.com/track/3Q8vjtUXxkpCivLrRm84wf) | [Martina Brito](https://open.spotify.com/artist/1g9OkXK7eB3DnWuVnUXpNJ), [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [no te suelto](https://open.spotify.com/album/0ObPGkq7o2XU6n38Mnh2aS) | 3:00 | 2024-05-03 | 2024-11-09 |
 | [No Vale](https://open.spotify.com/track/0djDTuNDZ4W6C621lD1GNu) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Nadie Duerma](https://open.spotify.com/album/2AXJcDmxkNrrtUkbjZGfv9) | 4:11 | 2023-12-15 | 2024-04-06 |
+| [no vengas](https://open.spotify.com/track/1CTqCgQp1jF8wnNCzHHnkC) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [no vengas](https://open.spotify.com/album/5rfUIPG21M6cAqDiV6KNbW) | 4:06 | 2025-03-07 |  |
 | [Nos Pasa Lo Mismo](https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Nos Pasa Lo Mismo](https://open.spotify.com/album/0S052giv0KheknU0PiEY5C) | 3:01 | 2023-12-15 | 2024-07-19 |
 | [Nuestro Vuelo](https://open.spotify.com/track/0P3ABqtwEYh7mHstHzDBnA) | [BADS](https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3) | [Nuestro Vuelo](https://open.spotify.com/album/57hOmfTXjTKvZ0kqBUcpzI) | 2:50 | 2024-10-25 | 2025-02-22 |
 | [Nueva forma](https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Nueva forma](https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF) | 3:14 | 2023-12-15 | 2024-08-13 |
@@ -312,7 +314,7 @@
 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 | 2024-04-05 |  |
 | [Te Miento \- Al Piano](https://open.spotify.com/track/1cPyKHSbPoQ0RNOEwuaugN) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Potra al Piano](https://open.spotify.com/album/39IiI16vrMXz85wT7u5Nyp) | 3:20 | 2024-12-27 |  |
 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 | 2023-12-15 | 2024-04-06 |
-| [Te vi](https://open.spotify.com/track/6Gio20biKmJWb7tPJXDgRS) | [Uma German](https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY) | [Te vi](https://open.spotify.com/album/2wNysotC6ih2dyCUgS3y3n) | 2:54 | 2024-11-22 |  |
+| [Te vi](https://open.spotify.com/track/6Gio20biKmJWb7tPJXDgRS) | [Uma German](https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY) | [Te vi](https://open.spotify.com/album/2wNysotC6ih2dyCUgS3y3n) | 2:54 | 2024-11-22 | 2025-03-08 |
 | [Telepatía Animal](https://open.spotify.com/track/67fm3w8yfTXVwIYb06U3Js) | [Tango Astral](https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j) | [Telepatía Animal](https://open.spotify.com/album/5U3A9qKOYbyXDkfDze7PAB) | 3:56 | 2024-05-24 | 2024-10-05 |
 | [Texto](https://open.spotify.com/track/6uNhKL6VOWNxyA0GO82kId) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Texto](https://open.spotify.com/album/3segVWdI8FZGGGiDJogPEV) | 2:37 | 2024-07-19 | 2024-08-17 |
 | [tiré](https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [tiré](https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx) | 2:30 | 2024-08-23 | 2024-12-07 |

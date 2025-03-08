@@ -1,12 +1,12 @@
 {
   "description": "The best new dance music by independent artists and labels, featuring Ruthlss. Artwork by Rewina Beshue.",
-  "num_followers": 193723,
+  "num_followers": 193781,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ikVAAAAAAxAr06gsJ/uT5GoNJB5uZ+",
+  "snapshot_id": "Z8qGagAAAAAPH3rahTsGK1X2ad2FxXVP",
   "tracks": [
     {
       "added_at": "2025-02-28 13:21:20",
@@ -23,6 +23,70 @@
       "duration_ms": 261333,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/3bt4iH6cBrJPPbCas44szD"
+    },
+    {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "Forest",
+        "url": "https://open.spotify.com/album/51LurIeHKzLDF3QWoGUqQR"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "duration_ms": 232688,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/6BDN2TmqPwbpx64EGjnWgo"
+    },
+    {
+      "added_at": "2025-03-05 19:21:56",
+      "album": {
+        "name": "just a feeling",
+        "url": "https://open.spotify.com/album/4j0wvCuZDQk2kfhiAM1Twv"
+      },
+      "artists": [
+        {
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "just a feeling",
+      "url": "https://open.spotify.com/track/5b6BUda5b3JGm7ForCOQL0"
+    },
+    {
+      "added_at": "2025-01-21 20:16:13",
+      "album": {
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx"
+      },
+      "artists": [
+        {
+          "name": "REESE",
+          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
+    },
+    {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5yPEKzoF9ir3F9XbwtH5Te"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/4ABrByvdgKYhhKbYFmpRW3"
     },
     {
       "added_at": "2025-03-05 19:21:56",
@@ -45,54 +109,6 @@
       "url": "https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV"
     },
     {
-      "added_at": "2025-02-19 18:46:11",
-      "album": {
-        "name": "I Think I Love Her",
-        "url": "https://open.spotify.com/album/67E9JS1wtkBlI3oVwZMMka"
-      },
-      "artists": [
-        {
-          "name": "jWave",
-          "url": "https://open.spotify.com/artist/0FUSntuT77SPvfqmXxdl7h"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "I Think I Love Her",
-      "url": "https://open.spotify.com/track/2JkLiT6omy9J7aOcpB9G6B"
-    },
-    {
-      "added_at": "2025-01-21 20:16:13",
-      "album": {
-        "name": "Where Have You Been",
-        "url": "https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx"
-      },
-      "artists": [
-        {
-          "name": "REESE",
-          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
-    },
-    {
-      "added_at": "2025-02-19 18:46:11",
-      "album": {
-        "name": "Don't Wanna Leave You",
-        "url": "https://open.spotify.com/album/4ff0XAf0LS9nT98hNT7dMT"
-      },
-      "artists": [
-        {
-          "name": "Tiffy Vera",
-          "url": "https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0"
-        }
-      ],
-      "duration_ms": 231117,
-      "name": "Don't Wanna Leave You",
-      "url": "https://open.spotify.com/track/5Yorfyc51Q8mh5kQ6qXqif"
-    },
-    {
       "added_at": "2025-02-26 20:11:47",
       "album": {
         "name": "Loca",
@@ -111,6 +127,38 @@
       "duration_ms": 116624,
       "name": "Loca",
       "url": "https://open.spotify.com/track/06uxVLAbj4sZOMQbN77qS5"
+    },
+    {
+      "added_at": "2025-02-19 18:46:11",
+      "album": {
+        "name": "Don't Wanna Leave You",
+        "url": "https://open.spotify.com/album/4ff0XAf0LS9nT98hNT7dMT"
+      },
+      "artists": [
+        {
+          "name": "Tiffy Vera",
+          "url": "https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0"
+        }
+      ],
+      "duration_ms": 231117,
+      "name": "Don't Wanna Leave You",
+      "url": "https://open.spotify.com/track/5Yorfyc51Q8mh5kQ6qXqif"
+    },
+    {
+      "added_at": "2025-02-19 18:46:11",
+      "album": {
+        "name": "I Think I Love Her",
+        "url": "https://open.spotify.com/album/67E9JS1wtkBlI3oVwZMMka"
+      },
+      "artists": [
+        {
+          "name": "jWave",
+          "url": "https://open.spotify.com/artist/0FUSntuT77SPvfqmXxdl7h"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "I Think I Love Her",
+      "url": "https://open.spotify.com/track/2JkLiT6omy9J7aOcpB9G6B"
     },
     {
       "added_at": "2025-01-15 05:00:03",
@@ -133,22 +181,6 @@
       "url": "https://open.spotify.com/track/09WWogYSiDlStcXfDRGY9o"
     },
     {
-      "added_at": "2025-03-05 19:21:56",
-      "album": {
-        "name": "just a feeling",
-        "url": "https://open.spotify.com/album/4j0wvCuZDQk2kfhiAM1Twv"
-      },
-      "artists": [
-        {
-          "name": "jungle bobby",
-          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "just a feeling",
-      "url": "https://open.spotify.com/track/5b6BUda5b3JGm7ForCOQL0"
-    },
-    {
       "added_at": "2025-02-21 05:00:45",
       "album": {
         "name": "EPTWO",
@@ -163,6 +195,22 @@
       "duration_ms": 122880,
       "name": "AIRPLANE",
       "url": "https://open.spotify.com/track/2SQxQNQE9MkcKft4i3ZdPp"
+    },
+    {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "Do You Wrong",
+        "url": "https://open.spotify.com/album/3UIwnlyuYiCSXk0WL6nKL2"
+      },
+      "artists": [
+        {
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        }
+      ],
+      "duration_ms": 226086,
+      "name": "Do You Wrong",
+      "url": "https://open.spotify.com/track/1fVMPkM0jXEZQj9s9GXWzw"
     },
     {
       "added_at": "2025-03-05 19:21:56",
@@ -241,6 +289,22 @@
       "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
     },
     {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6O9GRSikWchQaCnzAevGhh"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0D8o8KQzuOtxxgaDDiasxW"
+    },
+    {
       "added_at": "2025-02-14 05:00:40",
       "album": {
         "name": "Flex My Ice",
@@ -309,6 +373,22 @@
       "url": "https://open.spotify.com/track/2VVJAGlI3uYCE3yM1FnRsN"
     },
     {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "Losing my mind <3",
+        "url": "https://open.spotify.com/album/22wkwu6ew3HcIN7rZlhIgp"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "duration_ms": 134528,
+      "name": "Losing my mind <3",
+      "url": "https://open.spotify.com/track/3S9zQDwOt2SWxvMwdxRt1a"
+    },
+    {
       "added_at": "2025-03-05 19:21:56",
       "album": {
         "name": "Something About You",
@@ -341,6 +421,22 @@
       "url": "https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT"
     },
     {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "1807",
+        "url": "https://open.spotify.com/album/5cz2R0ksoOpe4lMPvsNz6x"
+      },
+      "artists": [
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "1807",
+      "url": "https://open.spotify.com/track/2UVmpnHJ3Y4656YZSgAMnx"
+    },
+    {
       "added_at": "2025-02-26 20:11:47",
       "album": {
         "name": "Dreamer",
@@ -357,6 +453,22 @@
       "url": "https://open.spotify.com/track/65rib6eB7RZpaMhv1T0oaw"
     },
     {
+      "added_at": "2025-03-07 05:38:50",
+      "album": {
+        "name": "Hearts Of Lions",
+        "url": "https://open.spotify.com/album/1Y7j5VaiMvL8y7mCet9NWd"
+      },
+      "artists": [
+        {
+          "name": "Atura",
+          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Hearts Of Lions",
+      "url": "https://open.spotify.com/track/2EbimxMc7mN1dl4dS9pXwl"
+    },
+    {
       "added_at": "2025-03-05 19:21:56",
       "album": {
         "name": "Trip Mode",
@@ -371,6 +483,22 @@
       "duration_ms": 234503,
       "name": "Trip Mode",
       "url": "https://open.spotify.com/track/4SrHhOkSb5gFiOKheXdPjH"
+    },
+    {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "Hunger EP",
+        "url": "https://open.spotify.com/album/7D1KarpIninAmg52Pb56wR"
+      },
+      "artists": [
+        {
+          "name": "Boon",
+          "url": "https://open.spotify.com/artist/4CHtxO2tVAs6yG58Q5sW34"
+        }
+      ],
+      "duration_ms": 211162,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/0PRXrjDGVkbpXrMq123tl6"
     },
     {
       "added_at": "2025-03-04 14:34:39",
@@ -437,6 +565,22 @@
       "url": "https://open.spotify.com/track/71TRHJxxUIWK0otGFSar5Y"
     },
     {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "Brum",
+        "url": "https://open.spotify.com/album/62OXFzvNAmO2OuvZiq4EHh"
+      },
+      "artists": [
+        {
+          "name": "Skarby",
+          "url": "https://open.spotify.com/artist/3Iq4xdmSR2UfOAORhoH334"
+        }
+      ],
+      "duration_ms": 179239,
+      "name": "Brum",
+      "url": "https://open.spotify.com/track/3CuKNFfWrsY3WeI8Y8ikTY"
+    },
+    {
       "added_at": "2025-02-19 18:46:11",
       "album": {
         "name": "Moving",
@@ -451,6 +595,26 @@
       "duration_ms": 231527,
       "name": "Moving",
       "url": "https://open.spotify.com/track/6UjPjOsEpOJlWO94CvY0tZ"
+    },
+    {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "Run Back To U",
+        "url": "https://open.spotify.com/album/59DSsM8BhR2AHzyE0cAPjr"
+      },
+      "artists": [
+        {
+          "name": "STRAWBRY",
+          "url": "https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi"
+        },
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Run Back To U",
+      "url": "https://open.spotify.com/track/1syid0VofiOoKlVzIYWbRw"
     },
     {
       "added_at": "2025-02-28 13:21:20",
@@ -563,6 +727,22 @@
       "duration_ms": 156184,
       "name": "llamando",
       "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
+    },
+    {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "Me n U",
+        "url": "https://open.spotify.com/album/2XqosoBx2UqggLxiYH32Vp"
+      },
+      "artists": [
+        {
+          "name": "Josh Dorey",
+          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Me n U",
+      "url": "https://open.spotify.com/track/1dxHo9NhYIO4o9caoK8BT1"
     },
     {
       "added_at": "2025-03-05 19:21:56",
@@ -909,38 +1089,6 @@
       "url": "https://open.spotify.com/track/7MAzQxiaDHTCSnN6soemCW"
     },
     {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "Mona",
-        "url": "https://open.spotify.com/album/6jBjkj8fn53AqvktVsHNcw"
-      },
-      "artists": [
-        {
-          "name": "Entasia",
-          "url": "https://open.spotify.com/artist/4hhSH03TjHXI2OcnRzBDll"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Mona",
-      "url": "https://open.spotify.com/track/0Y8B1zHNuWZdn2BA4wv3Z9"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "Consequences (One Day At A Time)",
-        "url": "https://open.spotify.com/album/2Q2xrifIMfpCntzL0ypSGu"
-      },
-      "artists": [
-        {
-          "name": "Brad Mullins",
-          "url": "https://open.spotify.com/artist/5yGxsoA0P5Era0ha3F6kBd"
-        }
-      ],
-      "duration_ms": 187142,
-      "name": "Consequences (One Day At A Time)",
-      "url": "https://open.spotify.com/track/0WWOCAXVa0aQWxJUGktFhX"
-    },
-    {
       "added_at": "2025-02-05 20:13:14",
       "album": {
         "name": "Odyssey EP",
@@ -979,26 +1127,6 @@
       "duration_ms": 141818,
       "name": "TYAR FAYA",
       "url": "https://open.spotify.com/track/1Y3VOo1YqggkiBt7vknogs"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "SATOSHI'S NIGHTMARE",
-        "url": "https://open.spotify.com/album/4TkSkTNaWrICwdbeFA3CYF"
-      },
-      "artists": [
-        {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
-        },
-        {
-          "name": "Dan Molinari",
-          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
-        }
-      ],
-      "duration_ms": 302919,
-      "name": "SATOSHI'S NIGHTMARE",
-      "url": "https://open.spotify.com/track/2Qm5EB1sSlUK2LeWr3wKYD"
     },
     {
       "added_at": "2025-02-19 18:46:11",
@@ -1429,22 +1557,6 @@
       "url": "https://open.spotify.com/track/4FXgEovOf3Zw7kJ3R9i8ih"
     },
     {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/0zb9lr7PqxrUIbqtpYJOeZ"
-      },
-      "artists": [
-        {
-          "name": "LAMMER",
-          "url": "https://open.spotify.com/artist/5XCMynHbftLKbZ0Mp6iHdc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6z0zgDonyxu4NrU06Vq9wk"
-    },
-    {
       "added_at": "2025-01-31 05:00:44",
       "album": {
         "name": "Freak In The Streets",
@@ -1545,22 +1657,6 @@
       "url": "https://open.spotify.com/track/6lpdBm0IQiLJfULgAPqDzb"
     },
     {
-      "added_at": "2025-01-29 19:38:38",
-      "album": {
-        "name": "F.F.F.T.DJ",
-        "url": "https://open.spotify.com/album/60GqhNB2MM7l9wwmsUDNOR"
-      },
-      "artists": [
-        {
-          "name": "deBasement",
-          "url": "https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl"
-        }
-      ],
-      "duration_ms": 201563,
-      "name": "F.F.F.T.DJ",
-      "url": "https://open.spotify.com/track/7yzo7xOGnvUZviEawNz5sL"
-    },
-    {
       "added_at": "2025-01-22 17:33:58",
       "album": {
         "name": "No Sunshine",
@@ -1591,90 +1687,6 @@
       "duration_ms": 233142,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/5ZTRxwqNEDMg7itvpIH8aK"
-    },
-    {
-      "added_at": "2025-01-29 19:38:38",
-      "album": {
-        "name": "everything",
-        "url": "https://open.spotify.com/album/34NX1Fd0lBsoluX6qTtED5"
-      },
-      "artists": [
-        {
-          "name": "Cucina Sonora",
-          "url": "https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES"
-        },
-        {
-          "name": "Pentola",
-          "url": "https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/2Nby1Q0ozXqR9EZtBV9Y1C"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "Think I'm Gonna Love U",
-        "url": "https://open.spotify.com/album/362YrIeDYd5qEZNsH4Yulf"
-      },
-      "artists": [
-        {
-          "name": "Longo",
-          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
-        }
-      ],
-      "duration_ms": 236470,
-      "name": "Think I'm Gonna Love U",
-      "url": "https://open.spotify.com/track/53d8NXevHZWGFg3l3iXgKm"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "MELBOURNE'S DEAD!!",
-        "url": "https://open.spotify.com/album/1q465dLj8WqBV3hCPvzwgy"
-      },
-      "artists": [
-        {
-          "name": "Normal Pleasure",
-          "url": "https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI"
-        }
-      ],
-      "duration_ms": 314358,
-      "name": "Play With Fire",
-      "url": "https://open.spotify.com/track/0Mft6nUX3bh3ZcgVJv1iwB"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "Harri Poter",
-        "url": "https://open.spotify.com/album/4cxMY0PxzpJry88fvw39mB"
-      },
-      "artists": [
-        {
-          "name": "Mainline Magic Orchestra",
-          "url": "https://open.spotify.com/artist/05zSozHG9kAvZTCmEo1fFT"
-        }
-      ],
-      "duration_ms": 212516,
-      "name": "BDSM (BLISS, DREAMS, SOUL, MEMORIES)",
-      "url": "https://open.spotify.com/track/4rcmIIdM55mOPvJ43VMuWV"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4G3RWbPZaxoMpZeGVLxqOj"
-      },
-      "artists": [
-        {
-          "name": "Kelbin",
-          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
-        }
-      ],
-      "duration_ms": 212031,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/0WMJcXEEj7Vll3V77OtbwS"
     },
     {
       "added_at": "2025-01-17 05:00:52",
@@ -1711,22 +1723,6 @@
       "duration_ms": 171576,
       "name": "Give U (All The Love)",
       "url": "https://open.spotify.com/track/10g3i4raFjBaSGTqhqvuoz"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "HIGHER",
-        "url": "https://open.spotify.com/album/5mZnnmsDpQMxhkwPkibBxp"
-      },
-      "artists": [
-        {
-          "name": "Fraxy",
-          "url": "https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa"
-        }
-      ],
-      "duration_ms": 134125,
-      "name": "HIGHER",
-      "url": "https://open.spotify.com/track/7bzlFabE42gI3jTP5Wtc9u"
     }
   ],
   "unique_name": "Fresh Finds Dance",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,956 likes - 1,077 songs - 2 day 16 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,022 likes - 1,077 songs - 2 day 16 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

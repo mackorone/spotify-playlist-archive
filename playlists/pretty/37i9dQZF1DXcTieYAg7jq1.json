@@ -1,13 +1,29 @@
 {
-  "description": "Featuring that new vintage. Cover: Leon Bridges",
-  "num_followers": 418367,
+  "description": "Featuring that new vintage. Cover: Josh Groban",
+  "num_followers": 418366,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTZwAAAABHcZqXkXsnOq0ybDUQCMfi",
+  "snapshot_id": "Z8tFEwAAAABWPYulcTdBE5LI1kQXu7+J",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/35GvFcCqZCZgrIOIoeGYlX"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "duration_ms": 223226,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM"
+    },
     {
       "added_at": "2025-02-07 05:00:23",
       "album": {
@@ -1093,7 +1109,7 @@
       "url": "https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2025-03-07 05:00:32",
       "album": {
         "name": "Party City",
         "url": "https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo"
@@ -1299,22 +1315,6 @@
       "duration_ms": 252026,
       "name": "Freedom (Johnny's Song)",
       "url": "https://open.spotify.com/track/6t5GWZG3EtEwjGdHSnZPJq"
-    },
-    {
-      "added_at": "2022-05-17 14:55:58",
-      "album": {
-        "name": "BREATH",
-        "url": "https://open.spotify.com/album/4pMqeL0MbG9Zjvr555FpNl"
-      },
-      "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "BREATH",
-      "url": "https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC"
     },
     {
       "added_at": "2022-06-17 04:02:00",

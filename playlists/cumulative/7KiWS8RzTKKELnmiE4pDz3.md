@@ -4,7 +4,7 @@
 
 > 
 
-911 songs - 1 day 20 hr 16 min
+912 songs - 1 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [And I Gangbang](https://open.spotify.com/track/5VIcIdLfWpNZKjlUGcC17y) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:13 | 2024-10-03 |  |
 | [Animal Instinct \(feat\. Ty Nitty & Gambino\)](https://open.spotify.com/track/2AeVg9Nf6dAHweYkDowG1J) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Ty Nitty](https://open.spotify.com/artist/1kyDI05lYZzpa3jr7ZorlJ), [Gambino](https://open.spotify.com/artist/7fjyYTTFsOknoLNTRTYdeR) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 3:29 | 2024-05-23 | 2024-11-06 |
 | [Arcteryx V1](https://open.spotify.com/track/1kQ7IyOGHln9PI9eHgzQvY) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Arcteryx V1](https://open.spotify.com/album/1o1FVR3jywN1DrMUb60l8m) | 2:08 | 2022-09-11 | 2023-12-14 |
+| [Arizona](https://open.spotify.com/track/6X1Q81m06YRrN9yuWek9f6) | [James Tillman](https://open.spotify.com/artist/4FXBouJHB0s6E3d6Q9YeSO) | [Arizona](https://open.spotify.com/album/2iZILXAWVDPppFsX8UhjaZ) | 4:13 | 2025-03-07 |  |
 | [Armani \(feat\. Autumn\)](https://open.spotify.com/track/6JLR7m8dYXOD0LLmxHxu6Y) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Autumn](https://open.spotify.com/artist/68dG3CTN6Yf3SU6HZELzps) | [Sexually Active](https://open.spotify.com/album/2jNzC0Im9D4XyFxL8C6A7R) | 3:03 | 2022-09-07 | 2023-05-09 |
 | [At the Hotel \(feat\. Lil Uzi Vert & Young Jordan\)](https://open.spotify.com/track/5RIVAc0J3PAsw4aqkzO7TM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Young Jordan](https://open.spotify.com/artist/2S4IY1ApijvgSCQzg3KhC0) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:49 | 2022-04-09 |  |
 | [ATLANTIS \(feat\. Chief Keef\)](https://open.spotify.com/track/61KJmkiPBcNr5oLzDNTUt2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 4:12 | 2023-01-20 | 2023-04-24 |

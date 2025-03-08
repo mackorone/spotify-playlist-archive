@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jayda
 
-296 songs - 18 hr 42 min
+297 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Believing in Magic \- Yakap Mo](https://open.spotify.com/track/5eJxqoLNNLaw4ZFcswEjAR) | [Alexa Ilacad](https://open.spotify.com/artist/623Vaj6cZgsHTyni1r3FTd) | [Believing in Magic \(Yakap Mo\)](https://open.spotify.com/album/1Pz3Matosr3B72myICukGB) | 4:40 | 2024-07-02 | 2024-07-09 |
 | [bestfriend](https://open.spotify.com/track/1qUcFABxKEe0YZa2sTL24i) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [bestfriend](https://open.spotify.com/album/6VZhkGKPGpAvEtfq7yE5Le) | 2:38 | 2025-02-14 |  |
 | [better than he does](https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [better than he does](https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF) | 2:33 | 2024-11-04 | 2025-02-01 |
+| [Bida](https://open.spotify.com/track/0Atjxyw1HqYHUxbzmiKQ5C) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER) | [Bida](https://open.spotify.com/album/5f5OtDoffOlZb4Jl9m30Ei) | 3:20 | 2025-03-07 |  |
 | [Bighani](https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Bighani](https://open.spotify.com/album/7bAOyHhBcCVWZMttZcWGqd) | 3:55 | 2024-11-22 | 2025-02-26 |
 | [Biglaan](https://open.spotify.com/track/7ru7FxWX5ZJ4Mdp3XakKPr) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Believe](https://open.spotify.com/album/3nBITHBcLyFHmoqN5yCP5J) | 2:53 | 2024-07-08 | 2024-09-25 |
 | [Bittersweet](https://open.spotify.com/track/2shSyMcN6RhgJsPxhrWE0i) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd), [Lois](https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV) | [Bittersweet](https://open.spotify.com/album/5Ybza4wV7jnIfWw3zNHjnI) | 2:57 | 2024-08-21 | 2024-11-21 |
@@ -147,7 +148,7 @@
 | [Little Paradise](https://open.spotify.com/track/34l48eopIEbS9l475GAFDy) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Little Paradise](https://open.spotify.com/album/3Dnwf0bINwnc20LQ033gfI) | 3:18 | 2024-07-02 | 2024-07-19 |
 | [Liwanag sa Dilim \- from “Incognito”](https://open.spotify.com/track/3Ynpt5qseTmDdl9bN21FNJ) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [Liwanag sa Dilim \(from "Incognito"\)](https://open.spotify.com/album/1vCSYqaZovDj09EiUgBjdJ) | 3:39 | 2025-02-12 |  |
 | [Love Is](https://open.spotify.com/track/2SABOK9LGZ68jM5TPPHBvD) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [Love Is](https://open.spotify.com/album/4RU1GrHbHIXBlrVOrUdwfw) | 3:52 | 2024-07-26 | 2024-11-09 |
-| [Loved For Once](https://open.spotify.com/track/1MEWoZA2iNHNL3tb1e22Zm) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER) | [Loved For Once](https://open.spotify.com/album/4y5pQr79iY387t8FINjwlV) | 3:17 | 2025-03-06 |  |
+| [Loved For Once](https://open.spotify.com/track/1MEWoZA2iNHNL3tb1e22Zm) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER) | [Loved For Once](https://open.spotify.com/album/4y5pQr79iY387t8FINjwlV) | 3:17 | 2025-03-06 | 2025-03-08 |
 | [Lulay](https://open.spotify.com/track/6IVoV10fauImZHBVmc4vAF) | [Nowan.](https://open.spotify.com/artist/2FhQRdH3HIiapENFKfBvXJ) | [Lulay](https://open.spotify.com/album/6ntZ2nx0HXRj3Vb5gYkUOo) | 3:12 | 2024-11-20 |  |
 | [Lumayo](https://open.spotify.com/track/6EaSUjAd1Zi2jK6PMqWKEz) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23) | 2:55 | 2024-10-04 | 2025-02-01 |
 | [M.I.N.O.Y.](https://open.spotify.com/track/34WtPmBapjEfO6iItLb51A) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [M.I.N.O.Y.](https://open.spotify.com/album/78F8Zvv1TZRSlugLNjlnMd) | 3:26 | 2024-11-22 | 2025-02-15 |

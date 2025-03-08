@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-430 songs - 1 day 6 hr 57 min
+431 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Original Call](https://open.spotify.com/track/6WLB2iNK2PChDDx4FrTt7f) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Keep Heart / Original Call](https://open.spotify.com/album/3YOAnJSLfYRuUfPOsYt9N5) | 3:47 | 2022-05-17 | 2022-07-17 |
 | [overtuRe](https://open.spotify.com/track/2LWATBNOgMvQO7A750DdJq) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR) | 4:04 | 2022-05-17 | 2022-07-29 |
 | [PASSIONATE ANTHEM](https://open.spotify.com/track/2q0jKDgxCmgpGbtYJYyB7A) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Safe and Sound](https://open.spotify.com/album/36ShywSeUlxbIckvlvdTmt) | 4:02 | 2022-06-23 | 2022-07-02 |
+| [Photograph](https://open.spotify.com/track/53N4g5riYJaAKnyog0VxTd) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:16 | 2025-02-25 |  |
 | [Photograph](https://open.spotify.com/track/0fNoGzHAhHpCpwsUkL55SO) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Photograph](https://open.spotify.com/album/4N721OcjQQhZtB9wtzhxGY) | 4:17 | 2022-05-17 | 2022-07-26 |
 | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/track/1z08YefAMfJ2ptFaniswty) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/album/4pWMug5ycdlFxRDG0Cj2xI) | 4:18 | 2022-06-23 | 2022-10-01 |
 | [Prelude to Gold](https://open.spotify.com/track/0Rbgngwzqoshr5LpGVZ7xB) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight](https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0) | 4:30 | 2022-08-30 | 2022-09-21 |
@@ -423,7 +424,7 @@
 | [遠い音楽 ～ハートビート～](https://open.spotify.com/track/4C6qS2CKdop4uiJZ4Wfwc6) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8) | 4:00 | 2022-05-17 |  |
 | [遠い音楽 ～ハートビート～](https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK) | 4:03 | 2022-09-20 | 2024-04-19 |
 | [金色へのプレリュード](https://open.spotify.com/track/39qOf330P5x9h4JCRBMQhV) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight \-デイライト\-](https://open.spotify.com/album/4cfIgVvrx4fzEx8LHNyhY9) | 4:30 | 2022-05-17 | 2022-07-24 |
-| [金色へのプレリュード](https://open.spotify.com/track/224WuVYXY6jHhWartnLxyG) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:31 | 2024-03-23 |  |
+| [金色へのプレリュード](https://open.spotify.com/track/224WuVYXY6jHhWartnLxyG) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:31 | 2024-03-23 | 2025-03-08 |
 | [閃光](https://open.spotify.com/track/5oy2Ji7NwgE2EYCuky51MX) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1) | 3:38 | 2022-05-17 | 2022-07-28 |
 | [閃光](https://open.spotify.com/track/10TQk2XVEhrTxODRemdsxT) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 3:38 | 2022-09-20 | 2023-09-11 |
 | [開けたらDream!](https://open.spotify.com/track/44JqljlFHyeWreCloOEEAT) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Photograph](https://open.spotify.com/album/4N721OcjQQhZtB9wtzhxGY) | 5:09 | 2022-05-17 | 2022-07-29 |

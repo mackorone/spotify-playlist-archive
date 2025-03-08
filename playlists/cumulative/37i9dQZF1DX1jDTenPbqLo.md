@@ -4,7 +4,7 @@
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-54 songs - 3 hr 45 min
+55 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2 Arabesques, L\. 66: No\. 1 in E Major](https://open.spotify.com/track/2mS2F4fD8rCOdD7uCCUkV3) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Efflam Bavouzet](https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ) | [Debussy: Complete Works for Piano](https://open.spotify.com/album/4GhW2WNxCn55Vp1UjXDYtK) | 4:04 | 2022-10-03 | 2022-11-13 |
 | [4 Impromptus, Op\. 90, D\. 899: No\. 3 in G\-flat major](https://open.spotify.com/track/1Uld5u6GAksDqd6K8xnmGS) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Schubert](https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC) | 6:17 | 2021-09-27 |  |
 | [6 Pieces for Piano, P\. 44: No\. 3\. Notturno\. Lento \(Version for Harp\)](https://open.spotify.com/track/3mk0kPavvau5tz8b174cdl) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Magdalena Hoffmann](https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT) | [Respighi: 6 Pieces for Piano, P\. 44: No\. 3\. Notturno\. Lento \(Version for Harp\)](https://open.spotify.com/album/00IH40TMmGPf83GY5eiOng) | 5:00 | 2021-09-27 |  |
+| [Adagio in C Major for Glass Harmonica, K\. 356 \(Transcr\. for Piano\)](https://open.spotify.com/track/3Bw8tNViGRpU5apRbgdNE9) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [MOZART: Piano Works 3](https://open.spotify.com/album/3kHdBZKRhA6ZSDIi3iM5DS) | 2:31 | 2025-03-07 |  |
 | [Adagio in E Flat \(Arr\. Ólafsson from String Quintet No\. 3 in G Minor, K\. 516\)](https://open.spotify.com/track/1pcsXJHyzP8YXVOMH3Noox) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Mozart: Adagio in E Flat \(Arr\. Ólafsson from String Quintet No\. 3 in G Minor, K\. 516\)](https://open.spotify.com/album/2I4kned3lywzMzR6WcNgoo) | 8:04 | 2021-09-27 |  |
 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 | 2021-09-27 |  |
 | [Bagatelles I\-XIII: Bagatelle III](https://open.spotify.com/track/766z8SbSmEmkprAFF4ff6A) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [The Messenger \(Extended Version\)](https://open.spotify.com/album/0KHFzKj2JJAojWJGh1scpL) | 4:26 | 2021-09-27 |  |

@@ -3437,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Loose Strings",
+        "url": "https://open.spotify.com/album/1xf21UlZJHtKSOp9BILArs"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166360,
+      "name": "Loose Strings",
+      "url": "https://open.spotify.com/track/6CyCApgBPVnJg6lKvWoDws"
+    },
+    {
+      "album": {
         "name": "Losing Sleep",
         "url": "https://open.spotify.com/album/0Kz5Gl8KgN8Kbc5Ls20WMf"
       },

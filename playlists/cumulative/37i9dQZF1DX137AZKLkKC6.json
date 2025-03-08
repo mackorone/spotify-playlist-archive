@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Alan Ram\u00edrez & Yeison Jim\u00e9nez",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Nico Hern\u00e1ndez",
   "name": "La + Popular",
   "tracks": [
     {
@@ -548,7 +548,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 152645,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/67seSqcptL305O57Htb8ow"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 160511,
       "name": "CABALLERO",
       "url": "https://open.spotify.com/track/07OBTyppEJC4JPGJt4Gro2"
@@ -1700,6 +1700,24 @@
       "duration_ms": 259910,
       "name": "El Malo - Remix",
       "url": "https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW"
+    },
+    {
+      "album": {
+        "name": "El Ni\u00f1o del Barrio",
+        "url": "https://open.spotify.com/album/1iYbnwi0y6IUfUCA4YWBzm"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136022,
+      "name": "El Ni\u00f1o del Barrio",
+      "url": "https://open.spotify.com/track/1AeXahQor3fgffkLy5yuZg"
     },
     {
       "album": {
@@ -3106,6 +3124,28 @@
       "duration_ms": 182166,
       "name": "Matemos Las Ganas",
       "url": "https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Importante Es El Amor",
+        "url": "https://open.spotify.com/album/3RFzIXaLYrCxF7t8yqOC1R"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177366,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/6yh4phrNduhMduSKHdW626"
     },
     {
       "album": {

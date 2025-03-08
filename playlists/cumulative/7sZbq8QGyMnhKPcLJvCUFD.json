@@ -7601,6 +7601,24 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/7ltRABgT2mNpJtQMG0uvZu"
+      },
+      "artists": [
+        {
+          "name": "m3gatron",
+          "url": "https://open.spotify.com/artist/6dKmSxQAjW9bjedEGhsIzj"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83142,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/1HAFtDbZYkYoqDSmTdIGxt"
+    },
+    {
+      "album": {
         "name": "Keep",
         "url": "https://open.spotify.com/album/11gPSu8vh1e4velnMh8VOr"
       },

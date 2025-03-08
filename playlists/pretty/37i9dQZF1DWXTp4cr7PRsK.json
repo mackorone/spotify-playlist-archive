@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 8729,
+  "num_followers": 8732,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Cafeteria (feat. Gunna)",
         "url": "https://open.spotify.com/album/01XHfJ7cuU8QjJ5pwCpMW8"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 214285,
       "name": "Cafeteria (feat. Gunna)",
       "url": "https://open.spotify.com/track/7l28SBHS3zmKDVnOzG8BM7"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 177445,
+      "name": "Still Your Best",
+      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "CASINO",
+        "url": "https://open.spotify.com/album/2ei8Qi53hzaa0c7BXrRIW4"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        },
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        }
+      ],
+      "duration_ms": 214847,
+      "name": "CASINO",
+      "url": "https://open.spotify.com/track/4gnPzSCKecLy9WJeHeJBrk"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
         "url": "https://open.spotify.com/album/3dPUHr57sBFTHiVtpeO7rv"
       },
@@ -467,26 +487,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "CASINO",
-        "url": "https://open.spotify.com/album/2ei8Qi53hzaa0c7BXrRIW4"
-      },
-      "artists": [
-        {
-          "name": "Ashton Travis",
-          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
-        },
-        {
-          "name": "CHASE B",
-          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
-        }
-      ],
-      "duration_ms": 214847,
-      "name": "CASINO",
-      "url": "https://open.spotify.com/track/4gnPzSCKecLy9WJeHeJBrk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Rap N Roll",
         "url": "https://open.spotify.com/album/1K1x5xDGJoPrZVitY4H7Iu"
       },
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ"
         }
       ],
-      "duration_ms": 157779,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/4S0oaxUJqJQVytyxcHNm0h"
+      "duration_ms": 184137,
+      "name": "Luka/New President",
+      "url": "https://open.spotify.com/track/0OIXxIL4UmAU0vO30lwEUY"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ"
         }
       ],
-      "duration_ms": 184137,
-      "name": "Luka/New President",
-      "url": "https://open.spotify.com/track/0OIXxIL4UmAU0vO30lwEUY"
+      "duration_ms": 157779,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/4S0oaxUJqJQVytyxcHNm0h"
     }
   ],
   "unique_name": "Chase B's Taste",

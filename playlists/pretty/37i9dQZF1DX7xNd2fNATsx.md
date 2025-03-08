@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un\. Photo : Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,114 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,119 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 35 | [Blind](https://open.spotify.com/track/7rWS1umX04r7zzWnGNDu8w) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/6LPZgo0gjHTMmOwzMSUqAV) | 6:16 |
 | 36 | [I Wont Tell You](https://open.spotify.com/track/6SVNJBqKbqVFt9uoIgXUNg) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [I Wont Tell You](https://open.spotify.com/album/2DVtyd8VsQHY6AwjLYUo96) | 3:33 |
 | 37 | [L'hiver au soleil \- Napkey Remix](https://open.spotify.com/track/1LcLM1VMwpKbX5aW0PVQ5r) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Cliff Schneider](https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD), [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [L'hiver au soleil \(Napkey Remix\)](https://open.spotify.com/album/3gmI8TtovNwo4SkGWFSSj8) | 3:11 |
-| 38 | [ANTO](https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF) | [MRTINI](https://open.spotify.com/artist/4G7KDsNuWQydICTmPuezLL), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [ANTO EP](https://open.spotify.com/album/3VNVC60g0SXRfqI7d1ivAj) | 3:24 |
+| 38 | [ANTO](https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF) | [MRTNI](https://open.spotify.com/artist/0O8F8VzYUlBBnMU1TdaaCa), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [ANTO EP](https://open.spotify.com/album/3VNVC60g0SXRfqI7d1ivAj) | 3:24 |
 | 39 | [Loud Places](https://open.spotify.com/track/0Sl8C9oeS3b5Kv9bSvTPDr) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I) | 4:43 |
 | 40 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 |
 | 41 | [Always On The Run](https://open.spotify.com/track/3McVJ4pdwNMP4RJtsJAogG) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/0hFRGY5FtkENV4TkbwjCMM) | 3:43 |

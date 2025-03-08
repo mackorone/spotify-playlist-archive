@@ -1,12 +1,12 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=DUTpxbScSdma0rEXXrW3Nw\">Hugo Pooe</a>",
-  "num_followers": 12486,
+  "num_followers": 12488,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8oa7AAAAACrYTeEcLUAHRJg3ZMWTuCj",
+  "snapshot_id": "Z8rAIAAAAACOmvf5nlBLdkW62dcI8IkT",
   "tracks": [
     {
       "added_at": "2025-02-27 22:00:21",
@@ -187,6 +187,22 @@
       "duration_ms": 234523,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/7iIKRkh2JzmmCWUZN0e1MX"
+    },
+    {
+      "added_at": "2025-03-07 09:45:04",
+      "album": {
+        "name": "Running To You",
+        "url": "https://open.spotify.com/album/2c4BnHtRgZVj5IDoFOzdiI"
+      },
+      "artists": [
+        {
+          "name": "Alisha Popat",
+          "url": "https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn"
+        }
+      ],
+      "duration_ms": 201402,
+      "name": "Running To You",
+      "url": "https://open.spotify.com/track/5gQS9fLQ9g4Rc3elzDdRP9"
     },
     {
       "added_at": "2025-02-27 22:00:21",
@@ -1615,22 +1631,6 @@
       "duration_ms": 294102,
       "name": "23 Down the Line",
       "url": "https://open.spotify.com/track/4iw1yLGbSGQKWEFsVYhbUX"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "In Breech",
-        "url": "https://open.spotify.com/album/0PsNN3eGsmrzfB1R2QRkfC"
-      },
-      "artists": [
-        {
-          "name": "M. Byrd",
-          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
-        }
-      ],
-      "duration_ms": 237750,
-      "name": "One Way or the Other",
-      "url": "https://open.spotify.com/track/6bX80hmB6BJQgHGeCn41OU"
     }
   ],
   "unique_name": "Indie GO",

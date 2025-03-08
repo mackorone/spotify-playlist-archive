@@ -9461,6 +9461,24 @@
     },
     {
       "album": {
+        "name": "BOUNCE FUNK",
+        "url": "https://open.spotify.com/album/3lBDDIwmkYQiPwbCdbokle"
+      },
+      "artists": [
+        {
+          "name": "SAPFIR",
+          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81290,
+      "name": "BOUNCE FUNK",
+      "url": "https://open.spotify.com/track/0TimfLIiUYUoDg0pwkoAMS"
+    },
+    {
+      "album": {
         "name": "THE WORLD EP.2 : OUTLAW",
         "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
       },
@@ -13986,20 +14004,20 @@
           "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
         },
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
           "name": "MC Kevin o Chris",
           "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
         },
         {
           "name": "Mc Rodrigo do CN",
           "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
         },
         {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         }
       ],
       "date_added": "2025-03-04",
@@ -26334,6 +26352,32 @@
       "duration_ms": 198448,
       "name": "Got Me Started",
       "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
+    },
+    {
+      "album": {
+        "name": "Grande, Grosso e Macio",
+        "url": "https://open.spotify.com/album/1CdxA89eLJd7oi8r1bFdFF"
+      },
+      "artists": [
+        {
+          "name": "MC PR",
+          "url": "https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX"
+        },
+        {
+          "name": "MC DO JOB",
+          "url": "https://open.spotify.com/artist/1DcNUAZ40hXQdtXwKzxGaD"
+        },
+        {
+          "name": "DJ TS",
+          "url": "https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "Grande, Grosso e Macio",
+      "url": "https://open.spotify.com/track/4S5iwbA79qdQ6JivzAvUX4"
     },
     {
       "album": {
@@ -44640,7 +44684,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 212013,
       "name": "O Ver\u00e3o Bateu Em Minha Porta - Ao Vivo",
       "url": "https://open.spotify.com/track/2Y1gfUWswhEKfGddd72XhF"
@@ -54088,7 +54132,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 162593,
       "name": "Santo",
       "url": "https://open.spotify.com/track/23n4YuEtkZuALpk0wG3ZMT"
@@ -59672,7 +59716,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 180000,
       "name": "Tadala - Ao Vivo",
       "url": "https://open.spotify.com/track/0WNwVKkUp2AvIlK6grc5Ra"
@@ -69266,7 +69310,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 373899,
       "name": "\u00c0 Flor da Terra \u2013 No Rio da Negritude Entre Dores e Paix\u00f5es",
       "url": "https://open.spotify.com/track/4dcdeb5UircJEbAmIbgXv8"

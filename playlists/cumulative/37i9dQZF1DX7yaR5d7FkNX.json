@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "BARRY",
+        "url": "https://open.spotify.com/album/16EQNci1ENzfg8TvzoWTTf"
+      },
+      "artists": [
+        {
+          "name": "ni\u00f1o viejo",
+          "url": "https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133717,
+      "name": "BARRY",
+      "url": "https://open.spotify.com/track/1J0K2JjJPIvvlxudrMBiA4"
+    },
+    {
+      "album": {
         "name": "Mariana",
         "url": "https://open.spotify.com/album/4gEn3RMghDcVTo47wnqm4A"
       },
@@ -914,7 +932,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 184780,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 228450,
       "name": "DECIR ADIOS \"OYE NARRADOR\" (with Cuco)",
       "url": "https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG"
@@ -1392,6 +1410,28 @@
       "duration_ms": 218013,
       "name": "Desde Que",
       "url": "https://open.spotify.com/track/4QLfVqOrpBOJra53EhlEX0"
+    },
+    {
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
     },
     {
       "album": {
@@ -2108,7 +2148,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 269866,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
@@ -4982,6 +5022,24 @@
       "duration_ms": 224085,
       "name": "Visita",
       "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
+    },
+    {
+      "album": {
+        "name": "Viva la Luna",
+        "url": "https://open.spotify.com/album/2LMmcmRt9JKuphVsbrlDI7"
+      },
+      "artists": [
+        {
+          "name": "Laila \u00cdndigo",
+          "url": "https://open.spotify.com/artist/46kbVlGAx6QtyatU9Zg0Zl"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352671,
+      "name": "Viva la Luna",
+      "url": "https://open.spotify.com/track/6zyed5iezjFmNSE0cXnCn4"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Asake
+> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Odeal, DJ Maphorisa, Xduppy
 
-274 songs - 18 hr 49 min
+275 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bells](https://open.spotify.com/track/7c5rKCDYYbyBsLlJ00NgCD) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [DJ Stopper](https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8), [EltonK](https://open.spotify.com/artist/10pVHSoimTxm86twXjuEkG) | [Bells](https://open.spotify.com/album/5fb9nAydl4x1Orhsrd4622) | 5:51 | 2022-05-23 | 2023-03-03 |
 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 | 2024-03-14 |  |
 | [Billions](https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Billions](https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2) | 3:44 | 2024-05-23 |  |
+| [Blame U \(DJ Maphorisa & Xduppy Mix\)](https://open.spotify.com/track/29KRWSvsogyAuSAhBfeOO9) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i) | [Blame U \(DJ Maphorisa & Xduppy Mix\)](https://open.spotify.com/album/3WbtlBaWGQ1tViFIXkdsFr) | 6:02 | 2025-03-07 |  |
 | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV) | 3:42 | 2023-03-02 | 2023-03-23 |
 | [Body Work \- AQ Amapiano Remix \[Edit\]](https://open.spotify.com/track/39ng3n2wKeTg2X268QlWiU) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [AQ](https://open.spotify.com/artist/2MKTsKp8Zp38s0VFRY8Uv9) | [Body Work \(AQ Amapiano Remix\)](https://open.spotify.com/album/4xwrO9A3O9Yszxf7F7WMiA) | 4:04 | 2023-08-25 | 2024-05-10 |
 | [Bongoman \- Remix](https://open.spotify.com/track/4IWoOQRngyaOaXJPzRavFS) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Dj Awakening](https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d), [S2kizzy](https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc) | [Bongoman \(Remix\)](https://open.spotify.com/album/5oRaFnSA74keKkAn9iQGy0) | 4:01 | 2024-12-19 |  |

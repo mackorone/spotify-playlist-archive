@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Rachel Chinouriri
 
-1,127 songs - 2 day 16 hr 30 min
+1,128 songs - 2 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,6 +821,7 @@
 | [Room 341](https://open.spotify.com/track/3Rx4kOvXwVWxfs0sDk4o1F) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Room 341](https://open.spotify.com/album/5vC4OlYTJuc9MlygNuHwV1) | 3:03 | 2024-10-17 | 2024-11-01 |
 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-25 | 2024-08-16 |
 | [Rose of Jericho](https://open.spotify.com/track/13pytfNKJm5Mre34HjLZcI) | [Albertine Sarges](https://open.spotify.com/artist/1bo2PjIgDEptAlEzxyOIuX) | [Girl Missing](https://open.spotify.com/album/3SyaVEpSSab06QxbBGeRYh) | 3:47 | 2025-02-20 | 2025-03-07 |
+| [Row Row](https://open.spotify.com/track/3sKuLclT7cyG5Sd0trMtzB) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6), [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Row Row](https://open.spotify.com/album/7wuMkle88Axgx6giiEgMfb) | 3:16 | 2025-03-06 |  |
 | [Run It Back](https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A) | 2:27 | 2024-06-28 | 2024-07-19 |
 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 | 2025-01-16 | 2025-02-14 |
 | [Rust Never Sleeps](https://open.spotify.com/track/5ISEfRrhTRoY5k9UtGgKOD) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [Rust Never Sleeps](https://open.spotify.com/album/44e6bs9W5gVbYbXG7De6HG) | 3:06 | 2025-02-06 | 2025-02-14 |

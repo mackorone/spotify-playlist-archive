@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,362 likes - 111 songs - 5 hr 32 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,364 likes - 113 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 109 | [Believe](https://open.spotify.com/track/0xwI8bk8UBQHh6QemR76kR) | [Autone](https://open.spotify.com/artist/0WGyRlpVIGUFhFxdJI3pue), [James Alexandr](https://open.spotify.com/artist/7dBNlsD2vMoHenuE5Wuguc), [PENELOPE](https://open.spotify.com/artist/3nAVFW9Ici1N82YmQMbV8J) | [Believe](https://open.spotify.com/album/3cIjSNMTG8gk1UzRCBXnNV) | 3:20 |
 | 110 | [Try Try Try](https://open.spotify.com/track/5UcXIF9BHOS8DP2mmFZ801) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11), [Martay M'Kenzy](https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb) | [Try Try Try \(feat\. Martay M'Kenzy\)](https://open.spotify.com/album/6qHoPyFEpxGY31QGj1kmHZ) | 2:29 |
 | 111 | [El Tikital \- Day Mix](https://open.spotify.com/track/4rO3saoNRkL2ar4FjqNr1y) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Morena](https://open.spotify.com/artist/3BWeOnJwxUekZWj9kPGGKM), [Jay Rah](https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv) | [El Tikital \(Day Mix\)](https://open.spotify.com/album/1FXhQE5t2L23FM4OwJq915) | 2:30 |
+| 112 | [Drip](https://open.spotify.com/track/0dfNT0PN07Ea7EU7lpoedL) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Drip](https://open.spotify.com/album/4M1hKTiZyAn6fA169Fr8MB) | 3:27 |
+| 113 | [All I Need](https://open.spotify.com/track/0D8o8KQzuOtxxgaDDiasxW) | [VASA](https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN) | [All I Need](https://open.spotify.com/album/6O9GRSikWchQaCnzAevGhh) | 2:59 |
 
-Snapshot ID: `AAAKP1Aw3rZUvArSoDUTkeDtIapnz92j`
+Snapshot ID: `AAAKQVZRfwM2GWNufw35BbLKpmkkeCvq`

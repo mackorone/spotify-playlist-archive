@@ -4,7 +4,7 @@
 
 > Clásicos de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino
 
-247 songs - 14 hr 29 min
+248 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Mama Vieja](https://open.spotify.com/track/7GxW2uJnZEkDeDiO74hanI) | [El Chango Nieto](https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl) | 3:15 | 2021-07-23 |  |
 | [Maricón](https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki) | [Aca Seca Trio](https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA) | [Avenido](https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM) | 1:58 | 2022-02-21 | 2024-04-19 |
 | [Maricón](https://open.spotify.com/track/3DfMnarQAwzJCB8v6kWOPN) | [Aca Seca Trio](https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA) | [Avenido](https://open.spotify.com/album/2PqHUFNbVRLFXaIwypVQwm) | 1:58 | 2024-05-03 | 2024-11-12 |
+| [Mi Chica de Pueblo](https://open.spotify.com/track/3A0tMwY1oES0QvmdgUIIbk) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Mi Chica de Pueblo](https://open.spotify.com/album/4U34xyInaGSd9nI7JI76PN) | 2:34 | 2025-03-07 |  |
 | [Mi Luna Cautiva](https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Este Destino Cantor](https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3) | 3:34 | 2021-07-23 |  |
 | [Mi Última Carta](https://open.spotify.com/track/43WqH65SJnBZThYmkQ7qzE) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Mi Última Carta](https://open.spotify.com/album/11O74gRggmfrtEYoNAem0U) | 3:05 | 2024-07-12 | 2024-10-12 |
 | [Milonga Del Solitario](https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Guitarra, Dímelo Tu](https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx) | 4:14 | 2022-02-21 | 2024-11-12 |

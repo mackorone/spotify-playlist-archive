@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,197 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,250 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 6 | [Strong Healthy Relationship Affirmations](https://open.spotify.com/track/7j2InlJ6DrazSaFaEs2xhx) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [Love Affirmations](https://open.spotify.com/album/1u5j6CKpBKF2D4xKgDHlSG) | 2:58 |
 | 7 | [Gliding \(432 Hz\)](https://open.spotify.com/track/3rzxwzDHfFVSFLFi2AoIjS) | [El Ambiente](https://open.spotify.com/artist/65DwviFYxUr0wAh3Du1y2J) | [Gliding \(432 Hz\)](https://open.spotify.com/album/3UG5yRWKkbkewqYDC1Raus) | 2:45 |
 | 8 | [Upwards](https://open.spotify.com/track/7AR7xW0wCscHZeYf2zj7Fc) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Signals Cometh](https://open.spotify.com/album/1wn3AKz6aDS0NHOkFgTi8L) | 2:03 |
-| 9 | [Non\-Judgment](https://open.spotify.com/track/6e212dsNzeLiNLVUrfK16X) | [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Meditation Moment](https://open.spotify.com/album/5nryDKtXpZXpyhhqMjkkju) | 1:11 |
+| 9 | [Non\-Judgment](https://open.spotify.com/track/6e212dsNzeLiNLVUrfK16X) | [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV) | [Meditation Moment](https://open.spotify.com/album/5nryDKtXpZXpyhhqMjkkju) | 1:11 |
 | 10 | [Starting Fresh](https://open.spotify.com/track/473jqot4B9jxOm7XiOdSLT) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Starting Fresh](https://open.spotify.com/album/5sn9KGRmiJ3wVzDdw3Arzl) | 2:52 |
 | 11 | [Beyond Thought](https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Beyond Thought](https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b) | 2:48 |
 | 12 | [Playful, Harmonious and Happy](https://open.spotify.com/track/3oI6AgASkpUBdgCW0qnTvN) | [Anna Thompson](https://open.spotify.com/artist/5JoRvqviRCB3B6i4b1vBCl) | [Self Confidence and Charisma, Hypnosis for Developing Personal Magnetism and High Self\-Esteem](https://open.spotify.com/album/3ij5HXzoOi76MvldPK0Nzf) | 5:52 |

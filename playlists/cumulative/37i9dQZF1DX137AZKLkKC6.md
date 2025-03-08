@@ -2,9 +2,9 @@
 
 ### [La + Popular](https://open.spotify.com/playlist/37i9dQZF1DX137AZKLkKC6)
 
-> Las grandes del Despecho y el Género Popular\. Foto: Alan Ramírez & Yeison Jiménez
+> Las grandes del Despecho y el Género Popular\. Foto: Nico Hernández
 
-289 songs - 14 hr 53 min
+291 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Así Es la Vida](https://open.spotify.com/track/4KhBwHZ2x6vCkzIjh6ffo9) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Así Es la Vida](https://open.spotify.com/album/56pIZUQqtx72HZLYvX4isJ) | 3:10 | 2024-04-05 |  |
 | [Así Es La Vida](https://open.spotify.com/track/6ZMXWQmqoPXDpQIZb8Ek7L) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Así Es la Vida](https://open.spotify.com/album/29qpYeOQXOq8OzSNbtxyti) | 3:10 | 2022-08-12 | 2024-04-19 |
 | [Aventurero](https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Aventurero](https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG) | 3:10 | 2022-08-12 |  |
-| [Bandido](https://open.spotify.com/track/67seSqcptL305O57Htb8ow) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [B'rek](https://open.spotify.com/artist/1sXnV1d2mysveOHNr5dXd6) | [Bandido](https://open.spotify.com/album/0QsgJCBjrJijhx96xr6nBC) | 2:32 | 2025-02-14 |  |
+| [Bandido](https://open.spotify.com/track/67seSqcptL305O57Htb8ow) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [B'rek](https://open.spotify.com/artist/1sXnV1d2mysveOHNr5dXd6) | [Bandido](https://open.spotify.com/album/0QsgJCBjrJijhx96xr6nBC) | 2:32 | 2025-02-14 | 2025-03-08 |
 | [Bebiendo Me Entretengo](https://open.spotify.com/track/2mPvmRtUoUIFS2JCERwUz0) | [Alexandra Colorado](https://open.spotify.com/artist/4X5JWaBP73DBk4nxNFV1uQ) | [Bebiendo Me Entretengo](https://open.spotify.com/album/2OmnOo0O8JNaklxLeCc1Qc) | 2:47 | 2023-04-28 | 2023-05-13 |
 | [Bendecida](https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Bendecida](https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0) | 3:10 | 2022-08-12 |  |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-10-18 | 2024-01-26 |
@@ -42,7 +42,7 @@
 | [Brillarosa](https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:49 | 2024-02-09 | 2024-10-18 |
 | [Busca Un Confidente \- En Vivo](https://open.spotify.com/track/5ybdHemTCDqwPOrrGNt9PB) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Busca Un Confidente \(En Vivo\)](https://open.spotify.com/album/5pjRfkF6HSgrawn27YliQd) | 4:09 | 2022-10-28 | 2022-12-17 |
 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-05-26 | 2023-06-17 |
-| [CABALLERO](https://open.spotify.com/track/07OBTyppEJC4JPGJt4Gro2) | [Julian Daza](https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose) | [CABALLERO](https://open.spotify.com/album/1TbBPReIMQpt3yquoZrvEN) | 2:40 | 2025-01-17 |  |
+| [CABALLERO](https://open.spotify.com/track/07OBTyppEJC4JPGJt4Gro2) | [Julian Daza](https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose) | [CABALLERO](https://open.spotify.com/album/1TbBPReIMQpt3yquoZrvEN) | 2:40 | 2025-01-17 | 2025-03-08 |
 | [Cacho x Cacho](https://open.spotify.com/track/6Ua4ro11UTORImQSH9qWON) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [Cacho x Cacho](https://open.spotify.com/album/6ZUJ5zMylfc6Vrb2l8etbM) | 2:24 | 2024-07-12 | 2024-11-08 |
 | [Cariñito](https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cariñito](https://open.spotify.com/album/0ygfl7lRlhyGtLz7dF4e8q) | 3:03 | 2024-10-11 | 2024-12-07 |
 | [Cazzualidades](https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP2](https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g) | 3:08 | 2023-05-26 | 2023-06-24 |
@@ -93,6 +93,7 @@
 | [EL KARMA \- Remix](https://open.spotify.com/track/2vvueBffS7Mb0HHLJZ8lBc) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q), [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [EL KARMA \(Remix\)](https://open.spotify.com/album/24WqSqxlxukWGqFdNQ3oTz) | 2:58 | 2024-12-06 | 2025-01-18 |
 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 | 2023-02-13 | 2023-08-19 |
 | [El Malo \- Remix](https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Malo \(Remix\)](https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9) | 4:19 | 2023-08-18 |  |
+| [El Niño del Barrio](https://open.spotify.com/track/1AeXahQor3fgffkLy5yuZg) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [El Niño del Barrio](https://open.spotify.com/album/1iYbnwi0y6IUfUCA4YWBzm) | 2:16 | 2025-03-07 |  |
 | [El Precio de Tu Error \- En Vivo](https://open.spotify.com/track/45DhsSxAU4rENWHUfaZedt) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Ayer, Hoy y Siempre \(En Vivo\)](https://open.spotify.com/album/3hoHs5feFArgYdfpEoQTqq) | 5:01 | 2022-08-12 | 2024-04-19 |
 | [El Precio de Tu Error \- En Vivo](https://open.spotify.com/track/4LbGHQLSkcDZlYpufbtJBQ) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Ayer, Hoy y Siempre \(En Vivo\)](https://open.spotify.com/album/5mab8qFRUJFw6ale18NflS) | 5:01 | 2024-04-05 |  |
 | [El Problema](https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Problema](https://open.spotify.com/album/1GnZsUWgomAWdrU6lj49lf) | 3:35 | 2022-08-12 | 2023-09-09 |
@@ -160,6 +161,7 @@
 | [Mas Altas Que Bajadas](https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:13 | 2023-06-30 | 2023-08-26 |
 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 | 2022-08-12 | 2024-04-19 |
 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 | 2024-04-05 |  |
+| [Me Enamoré](https://open.spotify.com/track/6yh4phrNduhMduSKHdW626) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Lo Más Importante Es El Amor](https://open.spotify.com/album/3RFzIXaLYrCxF7t8yqOC1R) | 2:57 | 2025-03-07 |  |
 | [Me Liberé](https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Me Liberé](https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx) | 2:59 | 2023-07-28 | 2023-09-16 |
 | [Me Llamó Mi Ex \- Remix](https://open.spotify.com/track/0FcAVXegYuB0UTAQOdhBoZ) | [Dany Cardona](https://open.spotify.com/artist/3JgApvKfEl4tdErCKQEhIv), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/album/0Whs8AXifgHtgXauwndBLe) | 3:09 | 2024-08-02 | 2025-02-08 |
 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 | 2023-04-14 | 2023-05-13 |

@@ -2233,6 +2233,28 @@
     },
     {
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/62WULPhnAcW0QBf8A3DSMx"
+      },
+      "artists": [
+        {
+          "name": "Taelimb",
+          "url": "https://open.spotify.com/artist/23O0ghrrk4pKzf82XxSGVU"
+        },
+        {
+          "name": "Molife",
+          "url": "https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176428,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/1ZgM9tKRzYoh3xl8eA4Nth"
+    },
+    {
+      "album": {
         "name": "Hospital Mixtape: Lens",
         "url": "https://open.spotify.com/album/4FsoFxjPW2TjpiZ292xL2h"
       },

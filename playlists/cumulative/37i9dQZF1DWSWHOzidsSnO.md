@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Ana Sanz, Lil Keren y María McCausland.
 
-504 songs - 1 day 3 hr 35 min
+509 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Algo Hermoso Termina](https://open.spotify.com/track/6vLSpP0HTFZBPAy0DGflyR) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Algo Hermoso Termina](https://open.spotify.com/album/5SCuA150dDqy1sOUOysBK5) | 2:55 | 2023-05-26 | 2023-11-25 |
 | [Alguien](https://open.spotify.com/track/06GNb7cUCN6YTQmzfFd2m1) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/6Tm5rVXr3ofn5d5vK8U6ie) | 4:32 | 2023-01-04 | 2023-03-09 |
 | [Alguien](https://open.spotify.com/track/0W0TfbLgn0G6Jea3d4W0Oc) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/1JQXeWn40cYX0smhF8nSqm) | 4:32 | 2023-03-03 | 2024-03-07 |
+| [Alma Pequeña](https://open.spotify.com/track/50DOz8EiOdMIQr2lC5GZYn) | [Flor de Lava](https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6) | [Alma Pequeña](https://open.spotify.com/album/6hlznNMsSsIpUdz6PiKnaj) | 3:54 | 2025-03-07 |  |
 | [Alma Sola](https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Cuchara Chueca](https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V) | 4:31 | 2024-09-04 | 2025-03-06 |
 | [Amante y Amigo](https://open.spotify.com/track/4UvRhamcRD4kpjEFtVN2ef) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Mi Historia](https://open.spotify.com/album/2FQg1fzHKwyTEZgk1XziKf) | 3:04 | 2023-02-01 | 2024-06-06 |
 | [Amar Así](https://open.spotify.com/track/4e6eL4Iv54MzHC6Ce9lL5C) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:57 | 2022-01-05 | 2022-03-10 |
@@ -119,6 +120,7 @@
 | [Cuánto Más](https://open.spotify.com/track/1JtUWtyTkuqPtzOpA5A6l0) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [1995](https://open.spotify.com/album/4YP2J5XSLVWWaztTV4PmW3) | 3:31 | 2024-06-05 | 2024-07-04 |
 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 | 2022-01-05 | 2022-03-05 |
 | [cómo acaba](https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:44 | 2024-03-06 | 2024-04-04 |
+| [Cómo Te Atreves](https://open.spotify.com/track/3Iw5nYAPwHw12sjhTaVn5P) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Cómo Te Atreves](https://open.spotify.com/album/5jBnlgFRHm1gJHrhVDdE5I) | 2:59 | 2025-03-07 |  |
 | [Cómplices](https://open.spotify.com/track/6nnHFpDXW8VJyqsL6JOZd8) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:39 | 2023-11-21 | 2024-12-07 |
 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-05-03 | 2023-07-01 |
 | [Cóseme \(2:22am\)](https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL) | [Juliana Velasquez](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 2:49 | 2022-01-05 | 2022-03-10 |
@@ -259,6 +261,7 @@
 | [Las Ganas](https://open.spotify.com/track/7Jc2A3fxhUvNLt45IGcjGL) | [La Klinkert](https://open.spotify.com/artist/1jPMt3YAkFx3tcPFYxaMKx) | [MELODRAMA](https://open.spotify.com/album/3kRRslBCdKfnLRoOGBMChH) | 2:34 | 2023-11-01 | 2024-03-07 |
 | [Lento](https://open.spotify.com/track/1UT81mWIvNdng0hb2qvHlL) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Lento](https://open.spotify.com/album/6kxkdZth2jAn69eCMbjpL2) | 2:55 | 2023-08-02 | 2025-03-06 |
 | [León](https://open.spotify.com/track/6Yz79UMkQgpkeelujnkbIh) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Mis Amores](https://open.spotify.com/album/1spQ6P6TdE9gqf14SoKJQa) | 2:56 | 2022-01-05 | 2022-03-05 |
+| [Libéralo](https://open.spotify.com/track/3K4d84LJBpW0JIXqJMlMdi) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Libéralo](https://open.spotify.com/album/041WoitdSnRjP4T36tfwZo) | 2:58 | 2025-03-07 |  |
 | [Limón](https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Limón](https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo) | 2:27 | 2024-10-02 | 2025-03-06 |
 | [llueve afuera y ni sabemos](https://open.spotify.com/track/7JwJmPADYryPSwRjtJQOyx) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [llueve afuera y ni sabemos](https://open.spotify.com/album/2UapdWeMUS2990oj8fO9oR) | 2:04 | 2025-03-05 |  |
 | [Lluviare](https://open.spotify.com/track/7tQICvPQ491u8JnHnR2ann) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Sodot a Rama](https://open.spotify.com/album/34od7O3gBdrusV1DzlxjM8) | 4:40 | 2022-01-05 | 2023-01-05 |
@@ -383,6 +386,7 @@
 | [psicópata](https://open.spotify.com/track/44uOMj2Q9H5GcFKVYfKsVm) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 3:01 | 2024-11-06 | 2025-03-06 |
 | [QLQ](https://open.spotify.com/track/4AIohYuFOuGlck4a4WPwer) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [QLQ](https://open.spotify.com/album/12SrWPi6P4YE75GutgfxN2) | 2:29 | 2023-06-07 | 2023-11-22 |
 | [QQQQ](https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 3:23 | 2025-01-17 | 2025-03-06 |
+| [QSV](https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [QSV](https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1) | 2:05 | 2025-03-07 |  |
 | [Que me quiera](https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:34 | 2024-11-06 | 2025-03-06 |
 | [Que No Se Apague](https://open.spotify.com/track/1fEc6t9NteHIqXv0sgpEIW) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Que No Se Apague](https://open.spotify.com/album/7CNlOGFOtPr9PeWYHEzL1y) | 4:44 | 2023-11-21 | 2024-10-03 |
 | [Quema](https://open.spotify.com/track/1qvEn0FGwIhvvUggNcV9k5) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:36 | 2023-01-04 | 2023-09-07 |
@@ -395,6 +399,7 @@
 | [Qué Más Da](https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Qué Más Da](https://open.spotify.com/album/2WyN5yIB3Izq1c5xODMywD) | 2:34 | 2024-05-01 | 2025-03-06 |
 | [Rabia](https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Rabia](https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf) | 3:37 | 2024-03-06 | 2025-03-06 |
 | [Raices del Festejo \- Le Dije a Papa](https://open.spotify.com/track/4VufezCz0uNJknt5ffTtgs) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [25 Años, 25 Exitos](https://open.spotify.com/album/4fRHhR0AhoWhsSNCYg85xK) | 4:06 | 2023-01-04 | 2024-06-06 |
+| [Rayo \- Spotify Singles](https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt), [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Rayo \(Spotify Singles\)](https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT) | 2:55 | 2025-03-07 |  |
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2023-01-04 | 2024-10-03 |
 | [REINA DE COPAS](https://open.spotify.com/track/5F4CvMx0NxOLam2uj8KgDV) | [SELVA VOLCÁN](https://open.spotify.com/artist/4ILt3KJymazlIiAwYr3KBI) | [ARCANOS](https://open.spotify.com/album/1eF3qQGgZBXO93PFNAf17z) | 3:42 | 2024-09-04 | 2025-02-07 |
 | [Remolino](https://open.spotify.com/track/7r4biENX41GzIlIJa1mguM) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Remolino](https://open.spotify.com/album/5j6oC1iKYDKxIu3QrV39oD) | 3:33 | 2025-01-08 | 2025-03-06 |

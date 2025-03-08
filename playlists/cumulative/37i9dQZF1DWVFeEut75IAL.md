@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-176 songs - 11 hr 31 min
+177 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dappled Light](https://open.spotify.com/track/5bhbv1xIbk0SbfQ2MEXe8F) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [Howard: Dappled Light](https://open.spotify.com/album/7GuRclIncpIaFUj7MZJGlF) | 4:11 | 2021-11-15 | 2022-07-09 |
 | [De Visée / Transcr\. Garcia: Pièces de théorbe et de luth, Suite en la mineur: IV\. Sarabande](https://open.spotify.com/track/5SFdpYdc4uDqkQqW7UzSqB) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Thibaut García](https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t) | [Aranjuez](https://open.spotify.com/album/2K6XjvDKO2HTCDqGZkph9e) | 2:14 | 2021-11-15 | 2023-03-18 |
 | [December 32nd \- Piano Solo Version](https://open.spotify.com/track/4OuqXdLeZpQJYlruSsSOHb) | [Julius Asal](https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE) | [December 32nd](https://open.spotify.com/album/7uxO2W10ECHsn6xUW5CFxy) | 4:38 | 2024-03-15 |  |
+| [Deep River I](https://open.spotify.com/track/1wZYRFn2pFmAICpBLhzCVC) | [Samuel Coleridge\-Taylor](https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR), [Ashley Jackson](https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk) | [Deep River](https://open.spotify.com/album/2yVBodoUGmZmw4RW64og0T) | 4:47 | 2025-03-07 |  |
 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 | 2021-11-15 |  |
 | [Dusklight Movement](https://open.spotify.com/track/39H9T9bTB3A8Pf3LCJ2LOt) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 4:17 | 2024-11-19 |  |
 | [El cant dels ocells \(Song of the Birds\) \(version for cello and orchestra\)](https://open.spotify.com/track/5k4Eagqnz3YKdMLjSSi0DD) | [Pablo Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Deutsche Staatsphilharmonie Rheinland\-Pfalz](https://open.spotify.com/artist/2WFslyxlAJwH2al4xZztFW), [Gustavo Gimeno](https://open.spotify.com/artist/4neZeAHXeNMscSVJqEG7wY) | [Elegy](https://open.spotify.com/album/6ui6clzZVh0hYGcklqLBdy) | 3:49 | 2021-11-15 |  |

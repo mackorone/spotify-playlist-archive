@@ -1,28 +1,28 @@
 {
-  "description": "Songs from LGBTQIA+ artists.  Cover: lewloh",
-  "num_followers": 1078173,
+  "description": "Songs from LGBTQIA+ artists.  Cover: Joya",
+  "num_followers": 1078133,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8aI0QAAAAATXxdYkNcKyIirzrKicUsv",
+  "snapshot_id": "Z8rDvAAAAAAtjntpvEBkdcWfNlsllzc8",
   "tracks": [
     {
-      "added_at": "2025-02-25 05:00:07",
+      "added_at": "2025-02-18 05:00:26",
       "album": {
-        "name": "Peripheral Lover",
-        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
+        "name": "Like Snow",
+        "url": "https://open.spotify.com/album/5e8i3FDjlVjXBaqVS7Xhv6"
       },
       "artists": [
         {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
         }
       ],
-      "duration_ms": 195486,
-      "name": "Peripheral Lover",
-      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
+      "duration_ms": 171911,
+      "name": "Like Snow",
+      "url": "https://open.spotify.com/track/4I131FIIWoy8Qd8DPX7gdD"
     },
     {
       "added_at": "2025-02-18 05:00:26",
@@ -91,6 +91,22 @@
       "duration_ms": 191458,
       "name": "Fleeting Friend",
       "url": "https://open.spotify.com/track/1eMffhZjusGh5ft6DnYSzG"
+    },
+    {
+      "added_at": "2025-02-25 05:00:07",
+      "album": {
+        "name": "Peripheral Lover",
+        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 195486,
+      "name": "Peripheral Lover",
+      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
     },
     {
       "added_at": "2025-02-18 05:00:26",
@@ -791,22 +807,6 @@
       "duration_ms": 247185,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/6uFDcKDKm2QgdgtEcDQGoU"
-    },
-    {
-      "added_at": "2025-02-18 05:00:26",
-      "album": {
-        "name": "Like Snow",
-        "url": "https://open.spotify.com/album/5e8i3FDjlVjXBaqVS7Xhv6"
-      },
-      "artists": [
-        {
-          "name": "Joya",
-          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
-        }
-      ],
-      "duration_ms": 171911,
-      "name": "Like Snow",
-      "url": "https://open.spotify.com/track/4I131FIIWoy8Qd8DPX7gdD"
     },
     {
       "added_at": "2025-02-18 05:00:26",

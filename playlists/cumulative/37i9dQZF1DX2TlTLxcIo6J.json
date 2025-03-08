@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "New songwriters on the horizon from around the world. Cover: JAB.",
+  "description": "New songwriters on the horizon from around the world. Cover: <a href=\"spotify:artist:0QPC36N4aQVrUp0NzaSXHI\">Mamii</a.>.",
   "name": "RADAR Songwriters",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 182073,
       "name": "anatomy",
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 131918,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks"
@@ -708,6 +708,24 @@
       "duration_ms": 219455,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF"
+    },
+    {
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100364,
+      "name": "FLAMENCO",
+      "url": "https://open.spotify.com/track/3tmrwNhOKNDMUVg1Z924Aq"
     },
     {
       "album": {
@@ -842,10 +860,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 170920,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1dHhX4kzzge5XYRL6S2L6q"
+    },
+    {
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247729,
+      "name": "GrooveTheory",
+      "url": "https://open.spotify.com/track/5oxUDQOmmC7hAzv9wWvvDA"
     },
     {
       "album": {
@@ -1373,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53442,
+      "name": "MY ROSE",
+      "url": "https://open.spotify.com/track/486YUqcmF9IWPkreU0THcQ"
+    },
+    {
+      "album": {
         "name": "Nada de Nada",
         "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
       },
@@ -1384,7 +1438,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
@@ -1937,6 +1991,32 @@
     },
     {
       "album": {
+        "name": "Sucia (feat. Jill Scott & Young Miko)",
+        "url": "https://open.spotify.com/album/6FLRmUOtKGzeYeMrx3uysz"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262261,
+      "name": "Sucia (feat. Jill Scott & Young Miko)",
+      "url": "https://open.spotify.com/track/5tSMsACHoOswbbg9Hn5GJx"
+    },
+    {
+      "album": {
         "name": "Sweet Escape",
         "url": "https://open.spotify.com/album/4A8p0LGa7QVi7fv0jtHhEL"
       },
@@ -1970,6 +2050,32 @@
       "duration_ms": 245933,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185131,
+      "name": "TALKING",
+      "url": "https://open.spotify.com/track/2os3F2ZKbj02ZWXWAdWGFD"
     },
     {
       "album": {

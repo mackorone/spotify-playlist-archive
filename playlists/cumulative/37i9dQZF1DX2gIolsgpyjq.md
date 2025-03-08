@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: ELIA
 
-897 songs - 1 day 23 hr 8 min
+898 songs - 1 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Little Kinder](https://open.spotify.com/track/2FW5ayCDLgY1UiB5KeeiyO) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [A Little Kinder](https://open.spotify.com/album/0PSfzTtE8Z7ax2V2aknKCy) | 2:52 | 2025-01-16 |  |
 | [A Little Too Real](https://open.spotify.com/track/49OPnSiQqtCF8Yz7YdOhGD) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [FREAK](https://open.spotify.com/album/3SqXo3XcVunYmwUTNRIlUv) | 2:47 | 2025-01-02 | 2025-02-07 |
 | [A Mother's Touch](https://open.spotify.com/track/36QR24ko74w3ZZ6RbHjJjb) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [A Mother's Touch](https://open.spotify.com/album/2xKU9gBYRXTOLaVJdYDGJv) | 2:57 | 2024-03-07 | 2024-04-26 |
+| [a second](https://open.spotify.com/track/42bZLdDCYPTvWoXPiSxrTc) | [Lavender Blu](https://open.spotify.com/artist/19sfPqgN1yp0YbZpzN6BEr), [Rachel Gonzalez](https://open.spotify.com/artist/63VWVmNJRT50AnblZm24U7), [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA) | [a second](https://open.spotify.com/album/3F624um7lJklR0L9xLzi6X) | 3:16 | 2025-03-06 |  |
 | [ABOUT YOU](https://open.spotify.com/track/0r0QzIYzJiOveIUWnRGXjU) | [Julian Hall](https://open.spotify.com/artist/0hFYvKvXCBlrnTghqcm9Lj) | [ABOUT YOU](https://open.spotify.com/album/6KJV5yel4I60lYBmMvylBL) | 2:29 | 2025-01-02 | 2025-02-14 |
 | [Acid Island 45](https://open.spotify.com/track/2NAap7hg4WFqVHbp8bNGfO) | [Kindsight](https://open.spotify.com/artist/69INXmdJGXIPAZQuThqRjw) | [Acid Island 45](https://open.spotify.com/album/093IjFAwne2RIarSPLzrpX) | 2:11 | 2024-03-14 | 2024-06-01 |
 | [Adore \- A COLORS SHOW](https://open.spotify.com/track/3WBx2YupM6jUdW0JlVlOga) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Adore \- A COLORS SHOW](https://open.spotify.com/album/1PgsYpzMelCGxvJz8XT29y) | 3:20 | 2024-06-20 | 2025-01-03 |

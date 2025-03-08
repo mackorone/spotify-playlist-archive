@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Bell",
+        "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268768,
+      "name": "Bell",
+      "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
+    },
+    {
+      "album": {
         "name": "Choke Cherry Tree",
         "url": "https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR"
       },
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 193389,
       "name": "Keep Diggin\u2019",
       "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"

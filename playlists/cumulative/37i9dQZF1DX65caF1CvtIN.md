@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-231 songs - 10 hr 18 min
+233 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [IV](https://open.spotify.com/track/06SriN75l1KQP34fJwGINe) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [IV](https://open.spotify.com/album/3TARj7IOjOntqhX7UEkACi) | 2:00 | 2022-08-03 | 2025-01-22 |
 | [Je m'amoure de cette sensation](https://open.spotify.com/track/63PdrrV4D4DtKpB4JEKMTJ) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Je m'amoure de cette sensation](https://open.spotify.com/album/43fbFte7qzVb4OGBl0wTK8) | 2:31 | 2023-01-26 |  |
 | [La lune](https://open.spotify.com/track/4vuX4bbfayOyWpOYswDBGo) | [Remko Kühne](https://open.spotify.com/artist/6LNkjwPSnLW93YeQz777zC) | [La lune](https://open.spotify.com/album/2xLVugO9GUd9UerwgD5ABB) | 4:27 | 2022-08-03 |  |
+| [La Montaña Y El Valle](https://open.spotify.com/track/2d62e3sDHNXzd7A3SyMuwZ) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [La Montaña Y El Valle](https://open.spotify.com/album/3viGBYvVCdpU6u44iHGdDM) | 2:21 | 2025-03-07 |  |
 | [Lament](https://open.spotify.com/track/20p6ToTwOlMsocEiFtQm1I) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Lament](https://open.spotify.com/album/5D9OH4oMw2vOC5rSCbJbvZ) | 2:10 | 2022-10-24 |  |
 | [Langoureux](https://open.spotify.com/track/5gFmVs2O2ktf3OfZ3EGvHS) | [Zoé Gaspard](https://open.spotify.com/artist/1Yl2JFN0X1iXATUTTgTbZ5) | [Langoureux](https://open.spotify.com/album/0rFjIkwwX47iLXcyP1c0PE) | 2:28 | 2023-01-26 |  |
 | [Last Dance](https://open.spotify.com/track/3eCueoiyNs7xUYqX05IEoy) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 3:09 | 2022-08-03 |  |
@@ -167,6 +168,7 @@
 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 | 2025-02-25 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2022-08-03 | 2025-01-22 |
 | [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 | 2022-08-26 |  |
+| [Reconciled](https://open.spotify.com/track/1WWVPdv9SIkSEoA9504Jbr) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Reconciled](https://open.spotify.com/album/6eI8v5R0jKzkf2QxRLmbxD) | 2:20 | 2025-03-07 |  |
 | [Red Moon](https://open.spotify.com/track/5pjBpeey8Pu3bmagRRoYYT) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Red Moon](https://open.spotify.com/album/09HHQfCYHpREMeigIqEQzk) | 3:12 | 2022-12-06 |  |
 | [Remembering](https://open.spotify.com/track/1W8N95zUTtQNllHu8Ki0sP) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Remembering](https://open.spotify.com/album/3JMZ7hTq1NBXWp9C9OZUMa) | 2:19 | 2022-08-03 | 2025-01-22 |
 | [Renaissance](https://open.spotify.com/track/5O0GM5NdPDLIhkxbQKlxFL) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Renaissance](https://open.spotify.com/album/5s31Hfu0bB2BiTuU9AbUKy) | 2:37 | 2022-08-26 |  |

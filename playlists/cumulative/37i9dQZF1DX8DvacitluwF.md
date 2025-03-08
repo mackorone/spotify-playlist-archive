@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=6qN5XSU4Th\-i2Wt97acFfQ">Odeal</a>
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd?si=TsDkAagBRgq\_ZdeZK0yOqA">Coco Jones</a>
 
-460 songs - 1 day 0 hr 43 min
+464 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Dear Lord](https://open.spotify.com/track/511IyVYtIhyy0CzAjDGmbi) | [RUVA](https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3) | [from RUVA to El Roi](https://open.spotify.com/album/4GuSLW3DJtppiGMUQq5Pz7) | 3:40 | 2024-09-02 | 2024-09-12 |
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 | 2024-09-03 |
 | [Decide](https://open.spotify.com/track/47RGBqVpDOuG1lQXheVEuh) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Decide](https://open.spotify.com/album/28qJotgVoss0htjx54Z33G) | 2:48 | 2023-12-14 | 2024-06-28 |
+| [DEEPER](https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 2:52 | 2025-03-07 |  |
 | [Delusion](https://open.spotify.com/track/7atJqz72vCyJyNIiRo33XO) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Delusion](https://open.spotify.com/album/02Sbm2LatYl69bi0sWv4zc) | 2:50 | 2024-02-22 | 2024-06-14 |
 | [Delusional](https://open.spotify.com/track/7eAOmWPf1yCyqKHi7zYXsV) | [Jemapelle James](https://open.spotify.com/artist/3j7tJ1MrdVZR6gLm0Xg0Zj), [Verge](https://open.spotify.com/artist/5JSbmIBhsY9fnPnhDtkgcs) | [Delusional](https://open.spotify.com/album/5BkASJHrCDav2Ntvv319rs) | 3:36 | 2024-09-02 | 2024-09-12 |
 | [Demi God](https://open.spotify.com/track/0tksP2JLwvrsOKbm1xjYYF) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU) | [Demi God](https://open.spotify.com/album/5q08kDdIVPD5m3XBQGwmUh) | 2:56 | 2024-07-18 | 2024-09-03 |
@@ -224,6 +225,7 @@
 | [Know Each Other](https://open.spotify.com/track/7CeXK938f5kEdkIUDl7nHP) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Stone Cold Heart](https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf) | 4:14 | 2025-02-13 | 2025-03-01 |
 | [Know Me](https://open.spotify.com/track/7vkRrTEyZZ71DAPk6ItG2M) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Roho](https://open.spotify.com/artist/2Rej3KxSUUiNplmlnfNdUd) | [Know Me](https://open.spotify.com/album/0rSAPCKrf4mzerV2m3mJAK) | 2:40 | 2024-02-08 | 2024-05-17 |
 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 | 2024-04-18 | 2024-07-12 |
+| [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 | 2025-03-07 |  |
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-25 | 2024-09-03 |
 | [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 | 2024-01-12 | 2024-03-29 |
 | [Limbo](https://open.spotify.com/track/0S9JTiTJwZwkHI0VyoDeGn) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Limbo](https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj) | 3:03 | 2024-10-11 |  |
@@ -317,7 +319,8 @@
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-23 | 2024-03-22 |
 | [Pumua](https://open.spotify.com/track/2Py1BuxAHgOH0bA9w0imQE) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Pumua](https://open.spotify.com/album/5RZLdQdcNmJMm9D0jgeJCk) | 2:39 | 2025-01-30 |  |
 | [PURPLE SLUSHIES](https://open.spotify.com/track/3igf2ZaBhLdgVi7hQLXI5Z) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [Therapy Is Cancelled](https://open.spotify.com/album/4nUOULl5gl3Dr0velwTNFs) | 4:01 | 2023-10-12 | 2024-02-23 |
-| [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-11 |  |
+| [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-11 | 2025-03-08 |
+| [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 | 2025-03-07 |  |
 | [Put it Down](https://open.spotify.com/track/0HQVlbkWghJ4ZI80cDlLjY) | [Skys a Blu](https://open.spotify.com/artist/3xMYjNtDQl2dviQ5g6EuRc) | [Put it Down](https://open.spotify.com/album/629dAepl2HBb1Y9mALJBRa) | 2:52 | 2024-03-14 | 2024-04-26 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-14 | 2024-07-12 |
 | [Range 95’](https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 2:59 | 2023-10-12 | 2024-01-26 |
@@ -405,6 +408,7 @@
 | [TAKES TWO TO TANGO](https://open.spotify.com/track/58h0eY4GbidYlPoFRMQlme) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Slailah](https://open.spotify.com/artist/22iYTRzRdq07ngvF5ZAC5U), [Mikkah](https://open.spotify.com/artist/77L9ffhefvK540POxDBkRA) | [TAKES TWO TO TANGO](https://open.spotify.com/album/6T3PBBwxvTcaKD3gdkK2GB) | 3:29 | 2025-02-28 |  |
 | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/track/00pWq1F4xyqPWPeo0hiUu8) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/album/11JX0v0Diz3q0FUpB12Q1b) | 2:53 | 2023-10-12 | 2024-03-15 |
 | [Talk 2 Me \(feat\. Mike BGRZ\)](https://open.spotify.com/track/6EwnRdSwd6UTlQF4Ro9ebT) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mike BGRZ](https://open.spotify.com/artist/3RGHZwxg9IcltCx0RqSYhW) | [The Waiting Room](https://open.spotify.com/album/5dE0mvQOTu4FbHfZQs7zLj) | 2:53 | 2024-09-02 | 2025-03-01 |
+| [Taste](https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Taste](https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK) | 2:44 | 2025-03-07 |  |
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 |  |
 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 | 2023-10-26 | 2024-03-15 |
 | [Temptation](https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Temptation](https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY) | 2:22 | 2024-05-23 | 2024-09-03 |

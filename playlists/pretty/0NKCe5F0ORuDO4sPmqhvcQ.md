@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,589 likes - 129 songs - 7 hr 31 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,589 likes - 135 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,5 +137,11 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 127 | [Shout It Out](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Shout It Out](https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms) | 3:08 |
 | 128 | [stereoluv](https://open.spotify.com/track/4uUmk2NZOzNOjKF82dZ4OK) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [stereoluv](https://open.spotify.com/album/6K62oIRD6U3XvfsWMkJTIR) | 4:34 |
 | 129 | [ARRIVAL](https://open.spotify.com/track/1WjTYi3pmVxaAogY4EmNXF) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [axxa\*](https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5) | [6AE](https://open.spotify.com/album/6TAKPPLhU5c5J4g5z4ZdXf) | 3:35 |
+| 130 | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5) | 2:53 |
+| 131 | [TALK MY SH\*T](https://open.spotify.com/track/1ARXBu3ed24rrwaHDykRpM) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Dean Mitchell](https://open.spotify.com/artist/4f1eEtlpI6Sjtj1obWK1zz) | [TALK MY SH\*T \(DJ Topgun Remix\)](https://open.spotify.com/album/5JSFTa4Z7OvZfIaQv3HbxV) | 3:09 |
+| 132 | [Dance and Fall in Love](https://open.spotify.com/track/6bMzjurIUwP0ieEJcT8AFU) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Dance and Fall in Love](https://open.spotify.com/album/0Sylj4SfR5QryUtD3oj641) | 2:31 |
+| 133 | [Pound Town](https://open.spotify.com/track/61yXM2XDYQkjWJsydNtwTz) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Pound Town](https://open.spotify.com/album/6oqFuZKIyU7FKnk4RyjXET) | 3:19 |
+| 134 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
+| 135 | [MOVEMENT! \(feat\. XKYLAR\)](https://open.spotify.com/track/6l19K7QQtoEjQ9lIYTIYul) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [MOVEMENT! \(feat\. XKYLAR\)](https://open.spotify.com/album/21w0JBs8aPxFLb2Qx9ZPTk) | 3:07 |
 
-Snapshot ID: `AAAqROlZk7e6QZt0iW6FvEQ6DC8M7C/r`
+Snapshot ID: `AAAqSpjIyGaX1cJmnfWP3P6stFU4r7F8`

@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: KNEECAP
 
-423 songs - 1 day 0 hr 43 min
+424 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Pray for Me](https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 7:14 | 2024-12-23 | 2025-02-14 |
 | [Precious](https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 3:40 | 2024-10-17 | 2025-02-14 |
 | [Pretty Boy, Pt\. 2 \(feat\. Zino Vinci\)](https://open.spotify.com/track/76uL7x7Ar7WurNG7WsuLIG) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM), [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Pretty Boy, Pt\. 2 \(feat\. Zino Vinci\)](https://open.spotify.com/album/3APB1ROZYZdC57LzEwudNM) | 4:37 | 2024-11-29 | 2025-01-24 |
+| [Pretty Words](https://open.spotify.com/track/2CzPV6BQsDX3UXoi4w7hyj) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Pretty Words](https://open.spotify.com/album/6qEbR3N1Gvf9TGTUnUBqST) | 3:02 | 2025-03-07 |  |
 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2024-11-29 |  |
 | [PURE LOVE](https://open.spotify.com/track/4zAvLrnmzYAc55qfUG7coN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [PURE LOVE](https://open.spotify.com/album/22AuMsgiDu1rAu7hPAylZE) | 3:24 | 2025-02-21 |  |
 | [Quick Thrill](https://open.spotify.com/track/0nb762Wwh7xIBykXuIIMzQ) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Quick Thrill](https://open.spotify.com/album/52VGb5JqftUx6tsqDBSstL) | 2:52 | 2024-11-08 |  |

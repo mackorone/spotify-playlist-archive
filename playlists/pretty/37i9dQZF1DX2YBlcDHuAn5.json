@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 31715,
+  "num_followers": 31720,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-02-27 23:00:31",
       "album": {
-        "name": "Can A Heart Take",
-        "url": "https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Can A Heart Take",
-      "url": "https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE"
-    },
-    {
-      "added_at": "2025-02-27 23:00:31",
-      "album": {
         "name": "Wanna Be Loved",
         "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 217307,
       "name": "Wanna Be Loved",
       "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
+    },
+    {
+      "added_at": "2025-02-27 23:00:31",
+      "album": {
+        "name": "Can A Heart Take",
+        "url": "https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Can A Heart Take",
+      "url": "https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE"
     },
     {
       "added_at": "2025-02-27 23:00:31",
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-02-27 23:00:31",
       "album": {
-        "name": "Gorgeous",
-        "url": "https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli"
-    },
-    {
-      "added_at": "2025-02-27 23:00:31",
-      "album": {
         "name": "It Takes A Woman",
         "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 246986,
       "name": "It Takes A Woman",
       "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
+    },
+    {
+      "added_at": "2025-02-27 23:00:31",
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli"
     },
     {
       "added_at": "2025-02-27 23:00:31",
@@ -279,26 +279,6 @@
     {
       "added_at": "2025-02-27 23:00:31",
       "album": {
-        "name": "Sugar in the Tank",
-        "url": "https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 222654,
-      "name": "Sugar in the Tank",
-      "url": "https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj"
-    },
-    {
-      "added_at": "2025-02-27 23:00:31",
-      "album": {
         "name": "Good Horses (feat. Miranda Lambert)",
         "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
       },
@@ -319,18 +299,38 @@
     {
       "added_at": "2025-02-27 23:00:31",
       "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+        "name": "Sugar in the Tank",
+        "url": "https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
         }
       ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
+      "duration_ms": 222654,
+      "name": "Sugar in the Tank",
+      "url": "https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj"
+    },
+    {
+      "added_at": "2025-02-27 23:00:31",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3cZYZeskSVIYAUdBYarTCE"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2OWWVJ4aCJfaATMozLKkQz"
     },
     {
       "added_at": "2025-02-27 23:00:31",
@@ -355,18 +355,18 @@
     {
       "added_at": "2025-02-27 23:00:31",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3cZYZeskSVIYAUdBYarTCE"
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
       },
       "artists": [
         {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
         }
       ],
-      "duration_ms": 179200,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2OWWVJ4aCJfaATMozLKkQz"
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2025-02-27 23:00:31",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-02-27 23:00:31",
       "album": {
-        "name": "Mortality Blues",
-        "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 195490,
-      "name": "Mortality Blues",
-      "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
-    },
-    {
-      "added_at": "2025-02-27 23:00:31",
-      "album": {
         "name": "Sugah Rush",
         "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 160594,
       "name": "Sugah Rush",
       "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+    },
+    {
+      "added_at": "2025-02-27 23:00:31",
+      "album": {
+        "name": "Mortality Blues",
+        "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 195490,
+      "name": "Mortality Blues",
+      "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
     },
     {
       "added_at": "2025-02-27 23:00:31",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-02-27 23:00:31",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/6TWKVr6ZbFwVsxHstHnCkI"
-      },
-      "artists": [
-        {
-          "name": "Jana Mila",
-          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "I Wasn\u2019t Gonna",
-      "url": "https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp"
-    },
-    {
-      "added_at": "2025-02-27 23:00:31",
-      "album": {
         "name": "First Round's On Me",
         "url": "https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 205091,
       "name": "Changing Waters",
       "url": "https://open.spotify.com/track/3xyHbp6IiNdAIRrteoHs3Q"
+    },
+    {
+      "added_at": "2025-02-27 23:00:31",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 194474,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
     }
   ],
   "unique_name": "Country & Americana",

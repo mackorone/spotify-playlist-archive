@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 247646,
+  "num_followers": 247664,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAACZSjaYnlYyL3KBnGKsKKgc",
+  "snapshot_id": "Z8jlgAAAAABqrUF29Qia9or/mFp6c/wp",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Stanotte in Poi (From This Moment On)",
-        "url": "https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Da Stanotte in Poi (From This Moment On)",
-      "url": "https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
         "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 176000,
       "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
       "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Da Stanotte in Poi (From This Moment On)",
+        "url": "https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Da Stanotte in Poi (From This Moment On)",
+      "url": "https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Of Me",
-        "url": "https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w"
+        "name": "Not Just A Girl (The Highlights)",
+        "url": "https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 159382,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
+      "duration_ms": 191493,
+      "name": "Not Just A Girl",
+      "url": "https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Just A Girl (The Highlights)",
-        "url": "https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS"
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 191493,
-      "name": "Not Just A Girl",
-      "url": "https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d"
+      "duration_ms": 159382,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
     },
     {
       "added_at": null,

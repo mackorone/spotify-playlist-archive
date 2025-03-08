@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Frozouda en la casa del Trap Argentino.
+> Zell, Neo Pistea & Duki  en la casa del Trap Argentino.
 
-381 songs - 18 hr 4 min
+383 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Si Viene](https://open.spotify.com/track/1zgsPCOjI8mo5ppsYRwgLO) | [Bize 4r](https://open.spotify.com/artist/1BOreb2HnMed0s1z68eD4c), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Si Viene](https://open.spotify.com/album/2FVxQkFqXOjdqDXv35hmaT) | 2:00 | 2022-01-21 | 2022-04-02 |
 | [Siempre Peleamos](https://open.spotify.com/track/1bvB9q2rVa9dwaxNABeis2) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Siempre Peleamos](https://open.spotify.com/album/3MLWKAGd2WdGc8PKBnnBeM) | 2:44 | 2025-02-28 |  |
 | [Sin Berretín](https://open.spotify.com/track/2Lc0gZjqHoK3dWYdxExKoL) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Sin Berretín](https://open.spotify.com/album/1JCKngBmpkr0FJ1AJ8zHXf) | 2:22 | 2023-10-27 | 2024-10-19 |
+| [SIN CADENAS](https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:22 | 2025-03-07 |  |
 | [Sin Dudar](https://open.spotify.com/track/0Ngq1ZDzAZERsiBfmbacgL) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Sin Dudar](https://open.spotify.com/album/73OkatcQIyfZ51l6gxzFyw) | 3:12 | 2022-07-29 | 2023-01-14 |
 | [Sin Seguro](https://open.spotify.com/track/1UdeNGfkn5EpXjyEHJAwO0) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Sin Seguro](https://open.spotify.com/album/6kLqLQ54MsqhTirkuDZfu8) | 2:33 | 2023-08-18 | 2024-02-17 |
 | [Slow](https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Slow](https://open.spotify.com/album/63Evq6spRulb51uVevqui3) | 2:15 | 2023-02-24 | 2024-05-18 |
@@ -317,6 +318,7 @@
 | [SONIDO DEL AÑO](https://open.spotify.com/track/1QNifxPOa17DtmPn54Ac4d) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 2:49 | 2023-09-08 |  |
 | [SPACE SEX](https://open.spotify.com/track/0gk8KeUZy6MGycu06QgBf1) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [SPACE SEX](https://open.spotify.com/album/5LGvRtKKfzkQPbVLy1u80o) | 3:07 | 2023-02-17 | 2024-04-27 |
 | [Star](https://open.spotify.com/track/6VSt5xYZtM9576SbMBZG1l) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Star](https://open.spotify.com/album/0fyBNvSaylRBFIjtIzLopH) | 3:16 | 2022-01-21 | 2023-01-14 |
+| [Starboy Remix](https://open.spotify.com/track/0D9Fzc8Lea0JZTAvnZcnyZ) | [Zell](https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Starboy Remix](https://open.spotify.com/album/7FH7cLQJnNiiDyJ5ojGEES) | 3:40 | 2025-03-07 |  |
 | [SUBIDÓN](https://open.spotify.com/track/1ssssn5yKcbad3IDFHMON4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [SUBIDÓN](https://open.spotify.com/album/4CWTxKNjbnjbSr71MIiFxF) | 2:18 | 2023-08-04 | 2024-02-17 |
 | [SUNDAY](https://open.spotify.com/track/79vWGx71o8stKSXdBzsWJh) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [SUNDAY](https://open.spotify.com/album/6OQCwKo6nKn6qGmZ11VZMN) | 2:56 | 2024-10-15 |  |
 | [Superpoderes](https://open.spotify.com/track/4BHCQ6e9Ig5fpPqQuLMNHl) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Superpoderes](https://open.spotify.com/album/1mcR90ap9C4fw4UihjXvNt) | 2:39 | 2022-08-26 | 2023-05-27 |

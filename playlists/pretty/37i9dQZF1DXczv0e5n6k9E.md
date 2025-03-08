@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο:  Dani Gambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,656 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,721 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 6 | [TIFFANY](https://open.spotify.com/track/01uZUp6CVnT0wXBebCJZlV) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [TIFFANY](https://open.spotify.com/album/7bZmIoJpx7T24YUWeUoYSz) | 2:31 |
 | 7 | [Let You Go](https://open.spotify.com/track/4Sfb8n4vc3tPOC5dk5A33s) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Lil Koni](https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV) | [Let You Go](https://open.spotify.com/album/2l66ZnB5fKPkQkv6KVZB3f) | 3:12 |
 | 8 | [4 My People](https://open.spotify.com/track/6VazZGCjYSMKpU50JXH9qz) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [Melow](https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61) | [4 My People](https://open.spotify.com/album/5Z1Gw8KzdJrdbhCTPVKh72) | 3:18 |
-| 9 | [Jeff Dahmer](https://open.spotify.com/track/7k9HUu4QwXgkDsuGfCGPeb) | [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Jeff Dahmer](https://open.spotify.com/album/4hZ8W7l1HwbsM7WboSNFiP) | 3:13 |
+| 9 | [Jeff Dahmer](https://open.spotify.com/track/7k9HUu4QwXgkDsuGfCGPeb) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Jeff Dahmer](https://open.spotify.com/album/4hZ8W7l1HwbsM7WboSNFiP) | 3:13 |
 | 10 | [TALK DIRTY](https://open.spotify.com/track/09SR4ae23k90zbTHDBdqfX) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Stepper](https://open.spotify.com/artist/0TC65JpujHr8WnThBPFhiA) | [DIRTY LOVE](https://open.spotify.com/album/7N1BbYw96KGIBCwFEcgj2Q) | 2:21 |
 | 11 | [ETSI DE GINETE](https://open.spotify.com/track/5sQVqxvMimtLqi6p1d9tby) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [ETSI DE GINETE](https://open.spotify.com/album/1KC4msEl1UmvQSfJOcNRxu) | 2:34 |
 | 12 | [ROLEX & BENZ](https://open.spotify.com/track/4DSkK1XfAaO0qDfcoyqTXc) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [VERY RARE](https://open.spotify.com/album/5DOZblhavobX4qd3Q7ollG) | 2:13 |

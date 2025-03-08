@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 72468,
+  "num_followers": 72477,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,22 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "De Padre Desconocido",
-        "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
       },
       "artists": [
         {
-          "name": "Los Llaneros De La Frontera",
-          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
+          "name": "L\u00edderes de Chile",
+          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 154266,
-      "name": "Ni Por Mil Pu\u00f1ados De Oro",
-      "url": "https://open.spotify.com/track/1Xo6UbLWD2INjx1vMT7FUh"
+      "duration_ms": 200707,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -271,6 +275,22 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
+        "name": "De Padre Desconocido",
+        "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
+      },
+      "artists": [
+        {
+          "name": "Los Llaneros De La Frontera",
+          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
+        }
+      ],
+      "duration_ms": 154266,
+      "name": "Ni Por Mil Pu\u00f1ados De Oro",
+      "url": "https://open.spotify.com/track/1Xo6UbLWD2INjx1vMT7FUh"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
         "name": "La Nueva Fiesta de los Charros",
         "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 316240,
       "name": "C\u00f3mo Dejar de Amarte y Otros",
       "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
-      },
-      "artists": [
-        {
-          "name": "L\u00edderes de Chile",
-          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
-        }
-      ],
-      "duration_ms": 200707,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "La Carta N\u00b0 3",
-        "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Bustos",
-          "url": "https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "La Carta N\u00b03 - 1986 Digital Remaster",
-      "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
         "name": "Voy a Ser",
         "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 237840,
       "name": "Voy a Ser",
       "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
+        "name": "La Carta N\u00b0 3",
+        "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Bustos",
+          "url": "https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "La Carta N\u00b03 - 1986 Digital Remaster",
+      "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
-        "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
-      },
-      "artists": [
-        {
-          "name": "Los Diamantes de Purapel",
-          "url": "https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Tu Me Estrujaste",
-      "url": "https://open.spotify.com/track/3x5RC95BsHI7AgDtFIMiYf"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
         "name": "Una Hora para Bailar",
         "url": "https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 201627,
       "name": "All\u00e1 Va la Liebre",
       "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
+        "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
+        "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
+      },
+      "artists": [
+        {
+          "name": "Los Diamantes de Purapel",
+          "url": "https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Tu Me Estrujaste",
+      "url": "https://open.spotify.com/track/3x5RC95BsHI7AgDtFIMiYf"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "Me Voy a Lanzar",
-        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
-      },
-      "artists": [
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        }
-      ],
-      "duration_ms": 177363,
-      "name": "Me Voy a Lanzar",
-      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
         "name": "Guarachas Rancheras",
         "url": "https://open.spotify.com/album/6nASV1w9xlItVsMV9QTSaI"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 188156,
       "name": "Dame Tu Pelo Ni\u00f1a",
       "url": "https://open.spotify.com/track/4ht12mGJ4B7wf7cJ4wmxuI"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
+        "name": "Me Voy a Lanzar",
+        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
+      },
+      "artists": [
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 177363,
+      "name": "Me Voy a Lanzar",
+      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1259,34 +1259,18 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
+        "name": "Para Mi Gente Campesina",
+        "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
       "artists": [
         {
-          "name": "Los Charros de Luchito y Rafael",
-          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
+          "name": "Rel\u00e1mpagos de Chile",
+          "url": "https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD"
         }
       ],
-      "duration_ms": 684016,
-      "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
+      "duration_ms": 196662,
+      "name": "Pecado de Amor",
+      "url": "https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "Para Mi Gente Campesina",
-        "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
+        "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
       },
       "artists": [
         {
-          "name": "Rel\u00e1mpagos de Chile",
-          "url": "https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD"
+          "name": "Los Charros de Luchito y Rafael",
+          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
         }
       ],
-      "duration_ms": 196662,
-      "name": "Pecado de Amor",
-      "url": "https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz"
+      "duration_ms": 684016,
+      "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
         "name": "Tornado Ranchero",
         "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 267859,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
-        "name": "Para Nuestra Gente",
-        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Sin Coronas Ni Reinas",
-      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
+        "name": "Para Nuestra Gente",
+        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Sin Coronas Ni Reinas",
+      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
         "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
         "url": "https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 572865,
       "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
       "url": "https://open.spotify.com/track/71z1ZW6RS5apxcjKrwSs0w"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
-        "name": "Claveles de Enero",
-        "url": "https://open.spotify.com/album/14A1gd17HW0epUcTqFu49C"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Claveles de Enero",
-      "url": "https://open.spotify.com/track/3qcEUQO11QYYaDvfNFALEq"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "Cumbias Campesinas",
-        "url": "https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt"
+        "name": "Claveles de Enero",
+        "url": "https://open.spotify.com/album/14A1gd17HW0epUcTqFu49C"
       },
       "artists": [
         {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
         }
       ],
-      "duration_ms": 237975,
-      "name": "Guaijirito",
-      "url": "https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW"
+      "duration_ms": 212040,
+      "name": "Claveles de Enero",
+      "url": "https://open.spotify.com/track/3qcEUQO11QYYaDvfNFALEq"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1519,6 +1503,22 @@
       "duration_ms": 268324,
       "name": "Golero Emparamao",
       "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
+        "name": "Cumbias Campesinas",
+        "url": "https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        }
+      ],
+      "duration_ms": 237975,
+      "name": "Guaijirito",
+      "url": "https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "Ni Por Mil Pu\u00f1ados de Oro / Dos Monedas / De Padre Desconocido (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/4PrQw2MbxeywRgy6zjZWdU"
-      },
-      "artists": [
-        {
-          "name": "Los Llaneros De La Frontera",
-          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
-        }
-      ],
-      "duration_ms": 692845,
-      "name": "Ni Por Mil Pu\u00f1ados de Oro / Dos Monedas / De Padre Desconocido (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/74ge2rdkufNd7a6F6Tnle0"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
         "name": "Amor Traicionero",
         "url": "https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 256346,
       "name": "Amor Traicionero",
       "url": "https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
+        "name": "Ni Por Mil Pu\u00f1ados de Oro / Dos Monedas / De Padre Desconocido (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/4PrQw2MbxeywRgy6zjZWdU"
+      },
+      "artists": [
+        {
+          "name": "Los Llaneros De La Frontera",
+          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
+        }
+      ],
+      "duration_ms": 692845,
+      "name": "Ni Por Mil Pu\u00f1ados de Oro / Dos Monedas / De Padre Desconocido (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/74ge2rdkufNd7a6F6Tnle0"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
-        "url": "https://open.spotify.com/album/3mbYBkz6udI9fjkOMCJwAj"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
-        }
-      ],
-      "duration_ms": 752378,
-      "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
-      "url": "https://open.spotify.com/track/6EzlHIY7kPsF6X2JmzR8UV"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
         "name": "Entre el Amor y el Odio",
         "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 194481,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
+        "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
+        "url": "https://open.spotify.com/album/3mbYBkz6udI9fjkOMCJwAj"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
+        }
+      ],
+      "duration_ms": 752378,
+      "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
+      "url": "https://open.spotify.com/track/6EzlHIY7kPsF6X2JmzR8UV"
     },
     {
       "added_at": "2025-02-13 20:15:03",

@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-428 songs - 1 day 1 hr 47 min
+429 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Dimitive](https://open.spotify.com/track/7rGhZMJO80BnSgeCsYdP9B) | [Stan van Dijk](https://open.spotify.com/artist/25GV3gaaXXUYzESF1TiNFS) | [Dimitive](https://open.spotify.com/album/5D9SB5fEJjndOPxg2mbKnk) | 2:13 | 2022-12-16 |  |
 | [Dirty Mariposa](https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Moonlight Love Affair](https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp) | 5:24 | 2022-06-24 |  |
 | [Distant Siren](https://open.spotify.com/track/7BarE6oFEX8WTFGk35Brqr) | [Sunda Arc](https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj) | [Distant Siren](https://open.spotify.com/album/6MLbsv7Ty01NegwBQu6Ve9) | 5:43 | 2022-09-16 | 2022-11-24 |
+| [Don't Be That Guy](https://open.spotify.com/track/3CmuFO0UX8wBr75HMoTh10) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Francisco Ojeda](https://open.spotify.com/artist/1UgroYG94KwDUqXorgJSmN), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1) | [Don't Be That Guy](https://open.spotify.com/album/0XJCljJFcG0BExLsxNIyDd) | 4:53 | 2025-03-07 |  |
 | [Doppelganger](https://open.spotify.com/track/1Zj4AHgqSCwkk0eSV6urkI) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF), [QSTN](https://open.spotify.com/artist/4064K2hGMavsOltwUzVRjG) | [Trouvaille](https://open.spotify.com/album/0UQwQHWci0xsj4jeoQOsmv) | 4:00 | 2021-01-29 | 2021-12-28 |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2022-09-02 | 2024-08-31 |
 | [Dr\. T](https://open.spotify.com/track/5x53ccMRbSrLsmdMhkZAHF) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F) | [Dr\. T](https://open.spotify.com/album/3VyBpt3BJXx5GiuVAcBz1f) | 2:33 | 2022-08-26 | 2022-11-05 |
@@ -130,7 +131,7 @@
 | [Earthbound](https://open.spotify.com/track/7BxU2TjXBu8vsj8b65pZOx) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [9](https://open.spotify.com/album/0tFXAGYveNW9bQYRBXOwKO) | 6:49 | 2022-03-25 |  |
 | [Eating Stars](https://open.spotify.com/track/7euExgLs6Biwgay4LgXmAd) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Eating Stars](https://open.spotify.com/album/4HWYpLapCz4IrxJqq3wvgW) | 2:55 | 2024-09-20 |  |
 | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/track/6NEr5gRrW3lD2o5Oi1yigG) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1), [Elia Bishara](https://open.spotify.com/artist/3xZoTrvQZKGDJERzVcjW5q) | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/album/5eG9SYzeKrnU0TjwGMQgcR) | 3:14 | 2021-08-06 |  |
-| [EEEEEE](https://open.spotify.com/track/4cwZccylplyt4Q5dJP5HBR) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [EEEEEE](https://open.spotify.com/album/2dk4jep9MfQytEnNhepL2k) | 2:21 | 2024-10-11 |  |
+| [EEEEEE](https://open.spotify.com/track/4cwZccylplyt4Q5dJP5HBR) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [EEEEEE](https://open.spotify.com/album/2dk4jep9MfQytEnNhepL2k) | 2:21 | 2024-10-11 | 2025-03-08 |
 | [Elegua](https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y), [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Elegua](https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA) | 2:28 | 2022-07-05 |  |
 | [Elias](https://open.spotify.com/track/7gypKFtIpctPB9CjofGdEC) | [pyxis](https://open.spotify.com/artist/6Hb29cwvtPMH6wThCBqGQ5) | [Gradients Part One](https://open.spotify.com/album/2Cyt2GG3bGywzFbgOt2y7k) | 4:56 | 2022-07-29 |  |
 | [Enchantment](https://open.spotify.com/track/4XypIbYvnG6IpK2CWJRLy1) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Enchantment](https://open.spotify.com/album/1awwSmSOly9gaWqbzG9tfK) | 4:05 | 2025-02-28 |  |

@@ -8131,6 +8131,24 @@
     },
     {
       "album": {
+        "name": "My Dear",
+        "url": "https://open.spotify.com/album/5o7lpQPDKWmXkNy5xyoMZa"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162104,
+      "name": "My Dear",
+      "url": "https://open.spotify.com/track/0D9BDXMutO8EgfkujTDmC9"
+    },
+    {
+      "album": {
         "name": "Maverick",
         "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
       },
@@ -8558,7 +8576,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 192053,
       "name": "ODESHI",
       "url": "https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA"

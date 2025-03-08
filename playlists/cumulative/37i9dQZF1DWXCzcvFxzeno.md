@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-238 songs - 17 hr 53 min
+239 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Don’t Say A Word](https://open.spotify.com/track/0KhH0P4Gfs5h2wNB5gzPph) | [Kander](https://open.spotify.com/artist/3gSVZTpmVW2JKzngOCDXkd) | [R007](https://open.spotify.com/album/6VEgiBh9LDRQRIuznd8hcT) | 4:46 | 2024-04-09 | 2024-06-26 |
 | [Dooms Night](https://open.spotify.com/track/0V8yBXUvXv5PascZlSTKVc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/1gXOorzuKBK9WnfX7AU5wc) | 3:25 | 2025-01-18 |  |
 | [Drop The Bomb](https://open.spotify.com/track/4yU6ZZmBIffFRe8BXJxmkc) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Drop The Bomb](https://open.spotify.com/album/5rvu2p5QSMZOj6VaVEZJsD) | 3:33 | 2024-04-09 | 2024-07-15 |
-| [Duality](https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Duality](https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge) | 3:27 | 2024-11-13 |  |
+| [Duality](https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Duality](https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge) | 3:27 | 2024-11-13 | 2025-03-08 |
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-27 | 2024-11-14 |
 | [Eiskalt \- Short Mix](https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Eiskalt \(Short Mix\)](https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f) | 3:33 | 2024-04-09 | 2024-10-15 |
 | [ESSEM!NJO](https://open.spotify.com/track/4sm8GdxepC7g9P9PKPgf3t) | [Noneoftheabove](https://open.spotify.com/artist/3O02ateaX0BgRKwB3D53Oa), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [TAR VARIOUS ARTISTS](https://open.spotify.com/album/1EcILTSariejjul2lWn1kl) | 6:30 | 2024-04-09 | 2024-04-19 |
@@ -163,6 +163,7 @@
 | [Phiom Enhah](https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Rik1](https://open.spotify.com/album/4gC5qeoacwAk63tLRB518u) | 5:31 | 2024-04-09 | 2024-06-14 |
 | [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 | 2024-04-17 |
 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 |  |
+| [Plur](https://open.spotify.com/track/2QYLBNj1fX9oD7RVcKgnXu) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Plur](https://open.spotify.com/album/06nKb1lnkGylo7Mca18s7k) | 4:27 | 2025-03-07 |  |
 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 | 2024-04-09 | 2024-08-14 |
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 | 2025-02-19 |
 | [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-05 | 2024-10-04 |

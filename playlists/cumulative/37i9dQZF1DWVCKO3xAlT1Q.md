@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-62 songs - 3 hr 3 min
+65 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [In the Middle](https://open.spotify.com/track/5ViF3hsL0iwD7jhh5JB2Ip) | [Natalia Barbu](https://open.spotify.com/artist/6dICPcKkYBBS4lW6TdxUQr) | [In the Middle](https://open.spotify.com/album/560gPARoBrtx4oQhrVj6KH) | 2:58 | 2024-05-11 | 2025-03-01 |
 | [Jako](https://open.spotify.com/track/2MiEtw8UquKvxOwu47oTMu) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Ladaniva](https://open.spotify.com/album/1XtgrVhoVHWCqrUhx2ITDk) | 2:25 | 2024-05-11 | 2025-03-01 |
 | [Kant](https://open.spotify.com/track/3RHRXSKaQ6oBS29iiDI3as) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [Kant](https://open.spotify.com/album/4szjsBraAhoWG3XNHednZK) | 2:59 | 2025-02-28 |  |
+| [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-03-07 |  |
 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-05-11 | 2025-03-01 |
 | [La poupée monte le son](https://open.spotify.com/track/7uUZf0d7YEFvfEspnYopXN) | [Laura Thorn](https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx) | [La poupée monte le son](https://open.spotify.com/album/6anSSKFQybFbbOLdhdJMj1) | 2:58 | 2025-02-28 |  |
 | [Laika Party](https://open.spotify.com/track/5PZnJ8GErvuiCo7wKKtpKo) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Laika Party](https://open.spotify.com/album/44LjhJDVICLc7cgAgQ9nTX) | 3:00 | 2025-02-28 |  |
@@ -65,7 +66,9 @@
 | [Unforgettable](https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/7LJDPOglV0dhqpO1DGrvob) | 2:48 | 2024-05-11 | 2025-03-01 |
 | [Veronika](https://open.spotify.com/track/5M2L5RqF8zRvFwPUrQ1tX6) | [Raiven](https://open.spotify.com/artist/5RBzgTi4eJswbWLigxtNkI) | [Veronika](https://open.spotify.com/album/3Ep62W58uONUkDa6yphNDq) | 2:46 | 2024-05-11 | 2025-03-01 |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-28 |  |
+| [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-03-07 |  |
 | [We Will Rave](https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8) | [Kaleen](https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P) | [We Will Rave](https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl) | 3:05 | 2024-05-11 | 2025-03-01 |
+| [What The Hell Just Happened?](https://open.spotify.com/track/0z64zsYHTmiTyddbFJ1S6y) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [What The Hell Just Happened?](https://open.spotify.com/album/71KjEbRzpreoPULoJdMcjT) | 2:56 | 2025-03-07 |  |
 | [ZARI](https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/1sQlfXEIFzHXutnKTGlWbz) | 3:00 | 2024-05-11 | 2025-03-01 |
 | [Zjerm](https://open.spotify.com/track/34ozWcKZQ0RvV9td8EHfXO) | [Shkodra Elektronike](https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD) | [Zjerm](https://open.spotify.com/album/6yelOhQls6XqW9y4bxVkXK) | 3:04 | 2025-02-28 |  |
 | [ZORRA](https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [ZORRA](https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf) | 3:03 | 2024-05-11 | 2025-03-01 |

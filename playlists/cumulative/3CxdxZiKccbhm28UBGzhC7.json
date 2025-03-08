@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Playland",
+        "url": "https://open.spotify.com/album/7pG8gRZMb15vG0kMH8epU1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243188,
+      "name": "Easy Money",
+      "url": "https://open.spotify.com/track/00OguRNWLi6uPAROsZgNzT"
+    },
+    {
+      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },

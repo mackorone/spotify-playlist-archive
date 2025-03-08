@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Ac\u00e1 no importan el g\u00e9nero.\n\ud83d\udcf7 Bandalos Chinos.",
+  "description": "Ac\u00e1 no importan el g\u00e9nero.\n\ud83d\udcf7 CA7RIEL  & Paco Amoroso.",
   "name": "piola",
   "tracks": [
     {
@@ -872,7 +872,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 191702,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/1c7mns2I81sJ4QWYcvHvec"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -2267,6 +2267,28 @@
     },
     {
       "album": {
+        "name": "Due\u00f1a de mi Voz",
+        "url": "https://open.spotify.com/album/0hh4dPjoZ45LWfwPsiojry"
+      },
+      "artists": [
+        {
+          "name": "Solange Prat",
+          "url": "https://open.spotify.com/artist/7C5xrdStb0IkEVADE2QGqi"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Due\u00f1a de mi Voz",
+      "url": "https://open.spotify.com/track/2MypvJtCAQ0fa1BrDfUwCE"
+    },
+    {
+      "album": {
         "name": "DUMBAI",
         "url": "https://open.spotify.com/album/32jPIll7NE64gqohc6twQC"
       },
@@ -2290,6 +2312,32 @@
       "duration_ms": 148253,
       "name": "DUMBAI",
       "url": "https://open.spotify.com/track/0W8v6pvZhuMZJFWihE0usa"
+    },
+    {
+      "album": {
+        "name": "DUMBAI (Live at NPR MUSIC's Tiny Desk)",
+        "url": "https://open.spotify.com/album/3UA0ftXwo4zg0qPDrsQhrB"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161962,
+      "name": "DUMBAI - Live at NPR MUSIC's Tiny Desk",
+      "url": "https://open.spotify.com/track/75XpK1eCoq48JeDt8r0Lfk"
     },
     {
       "album": {
@@ -3104,6 +3152,28 @@
       "duration_ms": 211101,
       "name": "Hijos del Mar",
       "url": "https://open.spotify.com/track/3kJQBC699d773mxTQXO28z"
+    },
+    {
+      "album": {
+        "name": "Hit Me Up",
+        "url": "https://open.spotify.com/album/23oV8httW2FZA7m8FF0mWr"
+      },
+      "artists": [
+        {
+          "name": "Aleshit",
+          "url": "https://open.spotify.com/artist/2KqQtJvZlyjq6Rhcuthl11"
+        },
+        {
+          "name": "Sofia Hervier",
+          "url": "https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92598,
+      "name": "Hit Me Up",
+      "url": "https://open.spotify.com/track/0AFYW9TUYP2DEGk97PK0Wy"
     },
     {
       "album": {
@@ -4166,6 +4236,28 @@
       "duration_ms": 206701,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4PsxrLdMFaaYbZn8unq6t4"
+    },
+    {
+      "album": {
+        "name": "ME DESPERT\u00c9",
+        "url": "https://open.spotify.com/album/2EmbsO7UpvytILKap1Ua8N"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "ME DESPERT\u00c9",
+      "url": "https://open.spotify.com/track/36adkTfwc2FXj87ajCjXCY"
     },
     {
       "album": {
@@ -5838,7 +5930,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 163239,
       "name": "Pensamientos Intrusivos",
       "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
@@ -6198,7 +6290,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 186721,
       "name": "PURA POSE",
       "url": "https://open.spotify.com/track/2nxNiskZJuU0lka2ZVzizM"
@@ -7152,6 +7244,24 @@
       "duration_ms": 200163,
       "name": "Te Miento - Al Piano",
       "url": "https://open.spotify.com/track/1cPyKHSbPoQ0RNOEwuaugN"
+    },
+    {
+      "album": {
+        "name": "Temporal (Bby date cuenta)",
+        "url": "https://open.spotify.com/album/0hxSPPhAH1qeVpf2nLX7R5"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172983,
+      "name": "Temporal (Bby date cuenta)",
+      "url": "https://open.spotify.com/track/2xWqMw3XIEnMni7GJDxqQc"
     },
     {
       "album": {

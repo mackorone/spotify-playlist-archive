@@ -4,7 +4,7 @@
 
 > Secrets will be spilled\. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.
 
-120 songs - 7 hr 51 min
+121 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ready to Go](https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Republica](https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK) | 5:01 | 2023-05-26 |  |
 | [Rebel Girl](https://open.spotify.com/track/4eG0Q6AJ30ClDUm2GNLi6W) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:49 | 2025-02-14 |  |
 | [Rescue Me](https://open.spotify.com/track/44Ug5qtRwXXrJ7jZB8EHLQ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rescue Me](https://open.spotify.com/album/3FqRjNzMnREFSHX9Rd5Ka1) | 4:56 | 2023-05-26 |  |
+| [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 | 2025-03-07 |  |
 | [Rump Shaker](https://open.spotify.com/track/4dY4JVC0Q9CwpeZ6JAclIc) | [Wreckx\-N\-Effect](https://open.spotify.com/artist/6lLYZf9GpSq6Pf09g2N2xK) | [Hard Or Smooth](https://open.spotify.com/album/6xLyv6QON3hOuKiqRKvNOw) | 5:12 | 2023-05-26 |  |
 | [S P A C E](https://open.spotify.com/track/5qbNuYdT99BCBM8KwVNVW5) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:25 | 2023-05-26 |  |
 | [Sad But True](https://open.spotify.com/track/4HP8PWR9iXY62ZB0oijpoK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Sad But True](https://open.spotify.com/album/5I2lH99d5gMyqKRobgW47K) | 4:12 | 2023-05-26 |  |

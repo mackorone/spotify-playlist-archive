@@ -1,6 +1,6 @@
 {
   "description": "Face-melters only. Cover: Eddie Van Halen",
-  "num_followers": 1505660,
+  "num_followers": 1505849,
   "original_name": "Legendary Guitar Solos",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Surfing With The Alien",
-        "url": "https://open.spotify.com/album/4SFG7APMZeeM97ixKPoQuk"
-      },
-      "artists": [
-        {
-          "name": "Joe Satriani",
-          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
-        }
-      ],
-      "duration_ms": 266386,
-      "name": "Surfing with the Alien",
-      "url": "https://open.spotify.com/track/2ekfM9Dcslm7l9Lh7HGT0i"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 224600,
       "name": "I'm the One - 2015 Remaster",
       "url": "https://open.spotify.com/track/2xS1lC45sjj60M1eeRsOUp"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Surfing With The Alien",
+        "url": "https://open.spotify.com/album/4SFG7APMZeeM97ixKPoQuk"
+      },
+      "artists": [
+        {
+          "name": "Joe Satriani",
+          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+        }
+      ],
+      "duration_ms": 266386,
+      "name": "Surfing with the Alien",
+      "url": "https://open.spotify.com/track/2ekfM9Dcslm7l9Lh7HGT0i"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Flying In A Blue Dream",
-        "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
-      },
-      "artists": [
-        {
-          "name": "Joe Satriani",
-          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
-        }
-      ],
-      "duration_ms": 323066,
-      "name": "Flying in a Blue Dream",
-      "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 310013,
       "name": "Brighton Rock - Remastered 2011",
       "url": "https://open.spotify.com/track/4ObxJP7kYUkBqpiklCzrBo"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Van Halen II (Remastered)",
+        "url": "https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 61640,
+      "name": "Spanish Fly - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3rUHyuFsFizq8gIQO0z2jH"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -795,18 +795,18 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Van Halen II (Remastered)",
-        "url": "https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI"
+        "name": "Flying In A Blue Dream",
+        "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Joe Satriani",
+          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
         }
       ],
-      "duration_ms": 61640,
-      "name": "Spanish Fly - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3rUHyuFsFizq8gIQO0z2jH"
+      "duration_ms": 323066,
+      "name": "Flying in a Blue Dream",
+      "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
     }
   ],
   "unique_name": "Legendary Guitar Solos",

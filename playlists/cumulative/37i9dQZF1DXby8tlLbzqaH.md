@@ -4,7 +4,7 @@
 
 > White noise to help babies fall asleep.
 
-396 songs - 18 hr 26 min
+397 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [In Somnio](https://open.spotify.com/track/1mZrMMxn7NiWOHMOnbpJ3r) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [In Somnio](https://open.spotify.com/album/060GnhHLT7K6aFa2HA9393) | 3:03 | 2022-10-27 |  |
 | [In The Zone Noise](https://open.spotify.com/track/5hLTLYmJskPHuyEmOzqNG6) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [In The Zone](https://open.spotify.com/album/5NTdKWD4sZcX5h15MKZpmK) | 3:00 | 2022-03-21 | 2022-05-20 |
 | [In White Atmosphere](https://open.spotify.com/track/5TVNQWqTMdJxg4H5LxrzW1) | [Lilly Almberg](https://open.spotify.com/artist/6LiML5bva810pCMI3MGXif) | [Cloud White Noise](https://open.spotify.com/album/5PyzfPy1AYilqzNLPThpct) | 2:24 | 2022-04-28 |  |
+| [Ivory Whispers](https://open.spotify.com/track/08wETzn6J6OVWkugoAbW3M) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Ivory Whispers](https://open.spotify.com/album/0bS3t5S05IXrlIumgadQsP) | 4:53 | 2025-02-04 |  |
 | [Life On The Sky](https://open.spotify.com/track/2wsosTZ3Rrl68esEF1uGTy) | [Skiez](https://open.spotify.com/artist/76TpbhaDR5e489v77KxN3H) | [Fountains From Wonderland](https://open.spotify.com/album/4j3s6FImdTmh7gcDKnmBO2) | 2:21 | 2022-03-21 | 2025-02-05 |
 | [Ljudet av en skugga](https://open.spotify.com/track/3po8Ur8zo1NZ6mbk0nxUAJ) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Vitt Brus](https://open.spotify.com/album/5pYHh9WVIkmt8thx2nMvlT) | 2:44 | 2024-02-05 |  |
 | [Loopable Pink Noise Flowing Waters](https://open.spotify.com/track/28Wnwp5FDBU0vzlU2BbKR0) | [Pink Noise](https://open.spotify.com/artist/3SwqynF0kqvqwKJX9EXEQ3) | [Pink Noise for Sleeping](https://open.spotify.com/album/20VDYEeMS9iB9XQ4M5Wrno) | 3:36 | 2022-03-21 | 2022-06-10 |
@@ -223,7 +224,7 @@
 | [Sleep In Outer Space](https://open.spotify.com/track/5rtJcpeyhFEykbaqNGEMX1) | [Scientific Sleep](https://open.spotify.com/artist/02Mjmf0YHGLykH3ET3nJ37) | [Sleep In Outer Space](https://open.spotify.com/album/0QoBo09odd3fT0jhojratL) | 1:56 | 2022-04-28 | 2022-06-10 |
 | [Sleep Machine](https://open.spotify.com/track/76XzFvQ33HSifgaRBGipU3) | [Buka](https://open.spotify.com/artist/3rUoChxYEhIRmwJvDSg24A) | [Noise Generator](https://open.spotify.com/album/1fckNlClKXniSGA5DTfWdB) | 2:40 | 2022-03-21 |  |
 | [Sleep Noise](https://open.spotify.com/track/5y4rFaGDEGApxOucqOGuU9) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [In The Clouds](https://open.spotify.com/album/7DPyh7f3GZettY0LPuXP4X) | 3:08 | 2022-03-21 | 2022-06-10 |
-| [Sleep Noise \- Streamlined](https://open.spotify.com/track/697Fb07sG7t3IlklebLp17) | [Noise Sucre](https://open.spotify.com/artist/0VaiZ9oyrhoCIqIzyVJdgq) | [White Noise for Endless Nights](https://open.spotify.com/album/4wvUDn4r0ZirS4roGVZrPs) | 3:06 | 2022-03-21 |  |
+| [Sleep Noise \- Streamlined](https://open.spotify.com/track/697Fb07sG7t3IlklebLp17) | [Noise Sucre](https://open.spotify.com/artist/0VaiZ9oyrhoCIqIzyVJdgq) | [White Noise for Endless Nights](https://open.spotify.com/album/4wvUDn4r0ZirS4roGVZrPs) | 3:06 | 2022-03-21 | 2025-03-08 |
 | [Sleep Noise for Babies 3](https://open.spotify.com/track/1BqAXzVcZvhjdBD6h4j58y) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Baby Sleep Noise \- Vol 2](https://open.spotify.com/album/6s4qyyBJMHky7KbsvHn967) | 1:45 | 2022-03-21 | 2023-06-28 |
 | [Sleeping Forever](https://open.spotify.com/track/3dVazyzNwvYlkN1QYIHerW) | [Storms and Lightz](https://open.spotify.com/artist/1xP9QacwLLmj8cxGpr4EtL) | [World Noises](https://open.spotify.com/album/0UVfAJxJqgUZKdN7CpJ2JR) | 2:34 | 2022-03-21 |  |
 | [Sleeping Like a Baby with White Noise](https://open.spotify.com/track/0sb1fCD9OSi43f1mMFbdsc) | [Atmosphere of Calm](https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09) | [White Noise Sleeping Pill](https://open.spotify.com/album/0H8mV5NFiwHiNP9hAizSLZ) | 2:24 | 2022-10-27 |  |

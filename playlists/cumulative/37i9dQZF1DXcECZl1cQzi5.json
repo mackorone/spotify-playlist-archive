@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Deep Surrender",
+        "url": "https://open.spotify.com/album/4GjxOSn5T0bqCucFm59YJH"
+      },
+      "artists": [
+        {
+          "name": "Nebuu",
+          "url": "https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152875,
+      "name": "Deep Surrender",
+      "url": "https://open.spotify.com/track/7f6USZOojzum21fDfZGESr"
+    },
+    {
+      "album": {
         "name": "Deep Waters 432Hz",
         "url": "https://open.spotify.com/album/04DUTY1SOJFPjdViDnh8iZ"
       },
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 188584,
       "name": "The Tower of Embellion",
       "url": "https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT"

@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-428 songs - 21 hr 32 min
+432 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2022-05-10 | 2023-01-07 |
 | [Rooftop Prelude](https://open.spotify.com/track/5ghSf2DY96iGYoB4vQePpE) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Rooftop Prelude](https://open.spotify.com/album/04mVbv0JlznRDcTBneKQQw) | 3:00 | 2022-10-28 |  |
 | [rouge](https://open.spotify.com/track/4zzEVfqWdajmKLY79CL45N) | [Hula Hoops](https://open.spotify.com/artist/5QmlQ9G1MllDh6ilEC2p1Y) | [rouge](https://open.spotify.com/album/6SBU98zyWyPIbgjVMjJuf0) | 2:19 | 2023-09-22 | 2024-09-03 |
+| [Roughtrade Secret](https://open.spotify.com/track/0bWdEERcgJgrYyqIiBwKfR) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [Roughtrade Secret](https://open.spotify.com/album/4Jd95MWkWXvBeBjCmCUitq) | 2:46 | 2025-03-07 |  |
 | [Saint Tropez](https://open.spotify.com/track/4JO8HC0O0wJAjjiC01OISb) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Saint Tropez](https://open.spotify.com/album/3zvW548gu7s9f5k2fndTej) | 2:35 | 2022-04-15 | 2022-09-02 |
 | [Salt & Saffron](https://open.spotify.com/track/2THy66DUF8R63vi3FmYYeV) | [Baja Azul](https://open.spotify.com/artist/4ONAwjrF7zzC2tKaWMrjaA) | [Salt & Saffron](https://open.spotify.com/album/4rYwJjWQXoD86kQstu4Pxf) | 2:10 | 2025-02-28 |  |
 | [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2022-04-15 |  |
@@ -389,11 +390,12 @@
 | [Sunkissed](https://open.spotify.com/track/2tX6KMIEgB11uvahcpkbGK) | [Mill Falc](https://open.spotify.com/artist/5Wh82ZLZ5dAP7xF91Qki3j) | [Sunkissed](https://open.spotify.com/album/6URLn2KY0LdVdrigh8b8ZG) | 2:12 | 2024-03-04 |  |
 | [Sunny Daydream](https://open.spotify.com/track/3YqJWoEXBf9UQ0vxbB39av) | [Ocean Lights](https://open.spotify.com/artist/2rCoNCmsCtzV7fQyhKvQ8Z) | [Sunny Daydream](https://open.spotify.com/album/404mBSjQ9FRsqQoejpLaUe) | 2:46 | 2022-04-15 | 2023-08-19 |
 | [Sunny Nelson \(Edit\)](https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get) | [Abel Tasman](https://open.spotify.com/artist/4D2dWZ7uyVyqDj3Ah05Xtr) | [Sunny Nelson \(Edit\)](https://open.spotify.com/album/67hBb3jhTHYrHk9Dtfy5bR) | 3:48 | 2022-04-15 | 2025-01-18 |
-| [Sunset Mellow](https://open.spotify.com/track/51gHyLT4YbSJ328kSCqTxW) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Sunset Mellow](https://open.spotify.com/album/0lqfbtFk1PcVh6dUhwIxTs) | 3:04 | 2022-09-02 |  |
+| [Sunset Mellow](https://open.spotify.com/track/51gHyLT4YbSJ328kSCqTxW) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Sunset Mellow](https://open.spotify.com/album/0lqfbtFk1PcVh6dUhwIxTs) | 3:04 | 2022-09-02 | 2025-03-08 |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-04-15 | 2024-12-07 |
 | [Swimming Pool \- Radio\-Edit](https://open.spotify.com/track/0RZ2dez2Kx1x5xUFksqWUr) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Swimming Pool \(Radio\-Edit\)](https://open.spotify.com/album/4tf9JtpAwzgeuR9htVFUU9) | 3:52 | 2022-10-14 | 2025-01-18 |
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2022-04-15 | 2022-08-19 |
 | [Swop](https://open.spotify.com/track/20E9U5wU3GgtkyW3UI4xWW) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Swop](https://open.spotify.com/album/4i99afEtQFwrgl6DRL2DPn) | 2:50 | 2023-01-20 |  |
+| [Take Five](https://open.spotify.com/track/1rBQwSrPhKeWsjtCZgmr9J) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Take Five](https://open.spotify.com/album/2wWxSRJWVCvKWt0QBA8KY5) | 2:14 | 2025-03-07 |  |
 | [talking to the stars](https://open.spotify.com/track/7nPMoLmBEkX5RZJFu69yBJ) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [talking to the stars](https://open.spotify.com/album/0QYLpRpeFBLc9ZluwNesya) | 3:10 | 2023-01-06 | 2023-07-15 |
 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 | 2022-04-15 | 2025-03-01 |
 | [Tekapo \- Edit](https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ) | [Walter Woods](https://open.spotify.com/artist/1k1WrqbhNylomjfqZ0lq4D) | [Tekapo \(Edit\)](https://open.spotify.com/album/4M8lta7iSWNHxh7eHMpY8Y) | 2:28 | 2022-04-15 | 2022-06-10 |
@@ -416,17 +418,19 @@
 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 | 2022-04-15 | 2023-01-20 |
 | [Untouched Hours](https://open.spotify.com/track/51qXHSywnVVYGTBzooCbk0) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Layer Cake](https://open.spotify.com/album/2A8BYu3CWlRc0cZ0iN2Oc0) | 4:00 | 2022-12-23 | 2023-01-07 |
 | [Urban Exploration](https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT) | [SÁBADA](https://open.spotify.com/artist/4XzpwlfkxNpig7JhxSJxTn) | [Urban Exploration](https://open.spotify.com/album/61uzHmj37eSY7jeP7UHM4s) | 2:11 | 2022-04-15 | 2022-06-10 |
+| [Utopia](https://open.spotify.com/track/6yVl4xl7KIEviXsdGI1eM8) | [Wibbie Slush](https://open.spotify.com/artist/2f93ehlJ2VtVnE8EahLevj) | [Utopia](https://open.spotify.com/album/567jQW6ag6SNBdwRAHdgtG) | 2:32 | 2025-03-07 |  |
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2022-04-15 | 2023-02-10 |
 | [Vana](https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vana / Ocea](https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU) | 4:20 | 2022-10-07 | 2023-08-19 |
-| [Vapor](https://open.spotify.com/track/2Mt60ByiUEt1CEoMG6vdTo) | [Triomphe](https://open.spotify.com/artist/3hoXsvr32pFGEiJvju63jQ) | [Vapor](https://open.spotify.com/album/6qT52SHbsLLy9PmaLvNFOr) | 2:06 | 2022-09-02 |  |
+| [Vapor](https://open.spotify.com/track/2Mt60ByiUEt1CEoMG6vdTo) | [Triomphe](https://open.spotify.com/artist/3hoXsvr32pFGEiJvju63jQ) | [Vapor](https://open.spotify.com/album/6qT52SHbsLLy9PmaLvNFOr) | 2:06 | 2022-09-02 | 2025-03-08 |
 | [Varuna](https://open.spotify.com/track/3jxl6mTtkQwGCgzKleyYC5) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Varuna / UP2U](https://open.spotify.com/album/6Sq4QBMeCu2DrYOW6gRFqO) | 5:14 | 2022-10-07 | 2023-07-22 |
 | [velvet](https://open.spotify.com/track/4OHBaKg7bfK7WebPndG6N5) | [PANZAR](https://open.spotify.com/artist/4wlzlofouyl4SNGj8RGriA) | [velvet](https://open.spotify.com/album/1VICKEDFGvcVjGHT3WXA6W) | 2:26 | 2022-10-28 | 2025-01-18 |
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2022-04-15 |  |
 | [Vienna](https://open.spotify.com/track/4Yi1GkoCzBpOLY0vJWFyI6) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Vienna](https://open.spotify.com/album/0yvjAGN26SS2v1GeCiySAu) | 2:51 | 2022-06-17 | 2023-08-19 |
 | [Walk me home](https://open.spotify.com/track/1BuqwQuyQKhvxa5X3iDkec) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Walk me home](https://open.spotify.com/album/1nn4r3h755kRkcKSrWvw4X) | 2:45 | 2022-05-20 | 2022-07-01 |
 | [Wanderer](https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi) | [Contrapad](https://open.spotify.com/artist/71Zfyo2kB4HlEexwmxQMv3) | [Wanderer](https://open.spotify.com/album/5859wmoAVfWKUfz6wtaVol) | 3:41 | 2022-04-15 | 2022-05-27 |
+| [Warm Currents](https://open.spotify.com/track/0xA6Kdb43lEmjZJH7bLGsI) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Warm Currents](https://open.spotify.com/album/5cOKkSyCw3jaEsolXsgYsO) | 3:09 | 2025-03-07 |  |
 | [Warm Place](https://open.spotify.com/track/2Zr8hwWlpCGBbAVSu13ERC) | [Thoinas](https://open.spotify.com/artist/0QZQ7EFvqi07gUI9UQvNGu) | [Warm Place](https://open.spotify.com/album/0znJ32D0A1EwSrAhnJTRRA) | 3:14 | 2024-03-21 |  |
-| [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2022-04-15 |  |
+| [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2022-04-15 | 2025-03-08 |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2022-04-15 |  |
 | [What Was It Like](https://open.spotify.com/track/7rwWQ2lBEQvLzalmgIdEH7) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [What Was It Like](https://open.spotify.com/album/5Qgjv6Z2zgtMDtdRQhRDki) | 2:55 | 2022-10-07 | 2025-01-18 |
 | [Where When](https://open.spotify.com/track/0WJjY4u7gtDDgKseWFXiG3) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Where When](https://open.spotify.com/album/6A49euv0NWuguiIrQBAAov) | 2:36 | 2022-11-25 | 2024-12-07 |

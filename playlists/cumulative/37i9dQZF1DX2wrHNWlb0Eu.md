@@ -4,7 +4,7 @@
 
 > มาฟังเพลงสำหรับคนคลั่งรักกัน\. ศิลปิน: BELL WARISARA
 
-200 songs - 12 hr 19 min
+201 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [ถ้าเธอ feat\. Violette Wautier](https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ถ้าเธอ](https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD) | 3:19 | 2023-02-10 |  |
 | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ถ้าเธอรักใครคนหนึ่ง \- Single](https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU) | 4:06 | 2023-02-10 |  |
 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 | 2023-06-09 |  |
-| [ทะเลสีดำ](https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB), [Tar Paradox](https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ) | [Urban Lullaby](https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p) | 3:47 | 2023-02-21 |  |
+| [ทะเลสีดำ](https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB), [Tar Paradox](https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ) | [Urban Lullaby](https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p) | 3:47 | 2023-02-21 | 2025-03-08 |
 | [ทำไมต้องคนนี้?](https://open.spotify.com/track/3R82wt4JmRcgjP4qUlHFOn) | [MEAN Band](https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG) | [ทำไมต้องคนนี้?](https://open.spotify.com/album/2E0mvHoOhKLRcewQLgd9ee) | 2:50 | 2023-02-10 | 2024-04-19 |
 | [ที่รักที่รัก \- Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series](https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [ที่รักที่รัก \(Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series\)](https://open.spotify.com/album/3jtC1t9oitElqgXhqdaKo9) | 3:19 | 2023-02-10 | 2025-02-27 |
 | [นะครับ \(ได้ไหม\) \- Acoustic Version](https://open.spotify.com/track/51GuxG7BsdZ0MRR3CgbhFp) | [spsalola](https://open.spotify.com/artist/0KLp5ppsZerGbWrWnO7lXG) | [นะครับ \(ได้ไหม\) \[Acoustic Version\]](https://open.spotify.com/album/1i0J3VWxDAqpCaZcf5PJoM) | 4:09 | 2023-02-10 | 2024-05-21 |
@@ -149,6 +149,7 @@
 | [หวง\(You're Mine\)](https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [หวง\(You're Mine\)](https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa) | 3:36 | 2023-02-10 | 2024-04-19 |
 | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC), [Koen](https://open.spotify.com/artist/0Uz2jjlCiSOpsxSD7qOEB0) | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/album/49h8RHuCZSrOZKqsE9q8JM) | 3:35 | 2023-02-10 |  |
 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 | 2023-02-10 |  |
+| [เกิดอาการ \- Heartquake](https://open.spotify.com/track/6IhouTQgPPFY8GIR9JpFhB) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [เกิดอาการ \(Heartquake\)](https://open.spotify.com/album/35Pm6UpEeUQtTBrTxT342m) | 3:22 | 2025-03-05 |  |
 | [เกินต้าน](https://open.spotify.com/track/3GMvQQ1R91hkdoGPYBQTlu) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 3:06 | 2024-08-23 | 2024-09-19 |
 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 | 2023-02-10 |  |
 | [เคียงกัน](https://open.spotify.com/track/2zq7H7SWQC9ldZy1f7e8kC) | [Gun Napat](https://open.spotify.com/artist/051lp6s3ON69PxioINt2xE), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [เคียงกัน \- Single](https://open.spotify.com/album/06lJwr75SxBCdJkS9VAR3V) | 4:52 | 2024-03-16 | 2024-06-17 |

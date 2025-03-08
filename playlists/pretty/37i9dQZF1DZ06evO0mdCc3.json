@@ -1,13 +1,45 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 14227,
+  "num_followers": 14237,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAAAjKRGHAtll283IKDjQGSqn",
+  "snapshot_id": "Z8jlgAAAAACyyV+qmGQrxiAY72hRb2jb",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
+        "url": "https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        },
+        {
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+        },
+        {
+          "name": "The Pretty Wild",
+          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
+        },
+        {
+          "name": "Aaron Gilhuis",
+          "url": "https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG"
+        },
+        {
+          "name": "Queen of the Ring",
+          "url": "https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn"
+        }
+      ],
+      "duration_ms": 352242,
+      "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
+      "url": "https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1"
+    },
     {
       "added_at": null,
       "album": {

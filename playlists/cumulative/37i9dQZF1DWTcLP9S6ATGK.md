@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover:  Budi Doremi
 
-393 songs - 1 day 1 hr 43 min
+394 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Ikrar](https://open.spotify.com/track/1OgA9TJ5Ufreycsge4hmMO) | [The Chasmala](https://open.spotify.com/artist/0VIItj9liYV72uUhayMLGB) | [Persona](https://open.spotify.com/album/1dHDWidr3Xm53bapLwvans) | 4:04 | 2024-06-28 | 2024-08-02 |
 | [Indah Pada Waktunya](https://open.spotify.com/track/2UAgx5YTxZpUcb5AuPkcdZ) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Indah Pada Waktunya](https://open.spotify.com/album/0tpiMc5UyAepTh01ut8lkA) | 4:00 | 2025-02-20 |  |
 | [Indonesiaku](https://open.spotify.com/track/6pKrxfoAsq0quIIb3yyKdP) | [Fryda Lucyana](https://open.spotify.com/artist/1ojpEVe6PlHO8BxSTGFSQX), [Sastrani Wirata](https://open.spotify.com/artist/0TyEL8NDOB8rrva2puCA5d), [Shri Yogi Lestari](https://open.spotify.com/artist/6nbH1OiZmvH8wMvIY728ix), [Farman Purnama](https://open.spotify.com/artist/7ty3EVtTkBNdSdkXfQpPQV), [Gabriel Harvianto](https://open.spotify.com/artist/3iHFu1qjpkN8l0ge4rQvAg) | [Indonesiaku](https://open.spotify.com/album/0VbTmCO48Qo5WvuUInEt3H) | 3:33 | 2024-07-25 | 2024-09-06 |
+| [Ini Panggung Sandiwara](https://open.spotify.com/track/5Myzlwe1UqFUeMMCP5WbUX) | [Sarwendah](https://open.spotify.com/artist/5UBkLLBPICz1UoMehxUN86) | [Ini Panggung Sandiwara](https://open.spotify.com/album/5xrCorNSSyFkMWaSjocK83) | 4:00 | 2025-03-06 |  |
 | [Ironi](https://open.spotify.com/track/190I0SRAUoxqrGK9nDnIpq) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [Ironi](https://open.spotify.com/album/1ogXr29ImTamdjmOZCCyxt) | 3:19 | 2024-06-27 | 2024-08-02 |
 | [Iya Lagi](https://open.spotify.com/track/2Mi1SY9Meu5kOBUbO8q3bk) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Iya Lagi](https://open.spotify.com/album/7s4N4WQgAh6XriikwXlJg1) | 3:01 | 2025-02-13 |  |
 | [Jahat Sekali](https://open.spotify.com/track/2CazsQWcpzxqTq1sjHiV6x) | [Kezia](https://open.spotify.com/artist/2CcuEDxpgMLXTjNf1sci2b) | [Jahat Sekali](https://open.spotify.com/album/7uGeYMbJ1fAcPRywmZbVFv) | 3:32 | 2024-06-27 | 2024-07-27 |

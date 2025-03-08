@@ -4,7 +4,7 @@
 
 > 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: Tyson Yoshi
 
-628 songs - 1 day 12 hr 5 min
+629 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Angel](https://open.spotify.com/track/5eockMzdIsGJcPUSLz4lDX) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [Angel](https://open.spotify.com/album/5Z1XXzGLaMGkBVwG7AXCLB) | 3:34 | 2022-04-21 | 2022-05-13 |
 | [Angel](https://open.spotify.com/track/0TIyJ5FEqtwwW8HFPFI328) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [沒有靈魂的軀殼](https://open.spotify.com/album/6wJkHAUmRxmtVhLLCw2nT6) | 3:35 | 2023-05-11 | 2024-03-29 |
 | [another time](https://open.spotify.com/track/4vHvm27vjR1BoaokJS16XV) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [another time](https://open.spotify.com/album/7HDHQ9hnmUjceC9AwMcvKE) | 3:30 | 2024-03-28 |  |
-| [anybody?](https://open.spotify.com/track/2qOU9AuLf83Zd1BcyDVJTI) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [anybody?](https://open.spotify.com/album/1FLKcdBX8eGOVXHneR8lKL) | 2:34 | 2025-01-16 |  |
+| [anybody?](https://open.spotify.com/track/2qOU9AuLf83Zd1BcyDVJTI) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [anybody?](https://open.spotify.com/album/1FLKcdBX8eGOVXHneR8lKL) | 2:34 | 2025-01-16 | 2025-03-08 |
 | [Aphrodite](https://open.spotify.com/track/1SDJc7GlAZWHf7E72DUbSA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Aphrodite](https://open.spotify.com/album/4LD1Urj2qAUoyMSlXDz1QU) | 3:53 | 2022-06-02 | 2022-07-01 |
 | [AsiaFreaks Cypher Vol\. 1](https://open.spotify.com/track/36TyWbi4RfriFc3rZX9sEu) | [AsiaFreaks](https://open.spotify.com/artist/4a5T1aDrbNzFj41wwcngjD), [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl), [五木](https://open.spotify.com/artist/3mhUWAPuY8zwG5ucHzAPa8), [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [Starr Chen](https://open.spotify.com/artist/1r0vOsQYMTyq1qkDv7p9QD), [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa), [潮州土狗](https://open.spotify.com/artist/7jMy8JE32Ck096LLh6Hy4L) | [AsiaFreaks Cypher Vol\. 1](https://open.spotify.com/album/1YOgmakjBpWlTxqlj8O6Ye) | 5:09 | 2023-11-02 | 2024-01-05 |
 | [Baby Blue](https://open.spotify.com/track/7nCHYzmZMV178mQBzdDCRD) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Baby Blue](https://open.spotify.com/album/5nroWaxABx7UtxMTEW8At6) | 2:29 | 2022-08-11 | 2024-03-15 |
@@ -251,6 +251,7 @@
 | [ZENBORGHINI](https://open.spotify.com/track/2S4eDk7e1O716tWlbe3wtQ) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [超未来波2](https://open.spotify.com/album/3WocBt3tYIxwYVvMpbFfRD) | 2:56 | 2024-11-21 | 2025-02-07 |
 | [ZENBORGHINI](https://open.spotify.com/track/2gdC1h1TgzjR97gvaDcBkS) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [禪波基尼](https://open.spotify.com/album/1k2J4XYVVQovJegN8nJHEZ) | 2:56 | 2024-05-23 | 2024-07-05 |
 | [Αφροδίτη](https://open.spotify.com/track/58s2FsMYLHbm2gnIqDqsH8) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK), [林奕碩](https://open.spotify.com/artist/7xywz1UywWdW98s6N05KE3) | [Αφροδίτη](https://open.spotify.com/album/3sGumso7JlqiWbKQReAzmW) | 3:53 | 2022-11-17 | 2022-12-16 |
+| [⁠Godspeed](https://open.spotify.com/track/33u4P7aW3p8l6M14QvoJvo) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [3rd Rocket 666](https://open.spotify.com/album/04GxVH15zJEDngF4Qf5Wvs) | 4:01 | 2025-03-07 |  |
 | [一日](https://open.spotify.com/track/7w2w3bLo37unLedpgOTXyr) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 4:45 | 2021-12-30 | 2023-02-17 |
 | [一次成像](https://open.spotify.com/track/4cctRd6UUBmw2KEWTOFydH) | [Orange Ocean](https://open.spotify.com/artist/3xcaXZYFSV0iRmgu9defBW), [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [一次成像](https://open.spotify.com/album/0iBL2C3gjVehNFdQ32JIXc) | 2:54 | 2023-06-08 | 2023-10-20 |
 | [一派輕鬆](https://open.spotify.com/track/36JeQiNJvvpnCTZCDDgKuB) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:30 | 2021-12-30 | 2024-01-05 |

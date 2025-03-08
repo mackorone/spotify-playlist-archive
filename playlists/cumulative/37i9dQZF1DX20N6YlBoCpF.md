@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=\-\_YTdqB\-SviFo5WYECAZ9A">Franja Du Plessis</a>
 
-1,559 songs - 3 day 14 hr 53 min
+1,560 songs - 3 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [Heito Potato](https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Heito Potato](https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e) | 3:37 | 2024-05-09 | 2024-10-18 |
 | [Helder Hoek van die Heelal](https://open.spotify.com/track/77cyqEhW4bDwYA9gKY1Rsn) | [Philip Godfrey](https://open.spotify.com/artist/1Y1OPJQidfekOKUu3YCqi7) | [Helder Hoek van die Heelal](https://open.spotify.com/album/1q91AhOVX7F3DhOTEvvT17) | 2:55 | 2025-02-27 |  |
 | [Helemal](https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Helemal](https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR) | 3:47 | 2023-11-23 | 2024-03-15 |
+| [Help 'n Bietjie](https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Help 'n Bietjie](https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ) | 3:18 | 2025-03-07 |  |
 | [Hemel Op Die Aarde](https://open.spotify.com/track/3QlKVFn5qe3ZhGpXhZqfkz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Hemel Op Die Aarde](https://open.spotify.com/album/3DiRpHm0a7V7UWZAMtS16Z) | 3:45 | 2024-11-14 | 2024-11-29 |
 | [Hemel se Deur](https://open.spotify.com/track/3wZYtFzzcrowIquMHaX2pY) | [Tian Nienaber](https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf) | [Hemel se Deur](https://open.spotify.com/album/6Z4VE4i1riW3upnaGJ3IYl) | 3:46 | 2023-10-26 | 2023-11-17 |
 | [Hephzibah](https://open.spotify.com/track/6D1hKHOc5L439rSmvT5tZi) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Land & Sand](https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN) | 2:30 | 2024-10-10 | 2024-10-18 |

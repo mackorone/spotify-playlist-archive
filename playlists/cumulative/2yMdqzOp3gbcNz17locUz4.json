@@ -2867,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "the bug song",
+        "url": "https://open.spotify.com/album/3Bl43kD9WX4Lldy5tpJrEj"
+      },
+      "artists": [
+        {
+          "name": "flower.puppy",
+          "url": "https://open.spotify.com/artist/0jjZSbhJWA1exGhWKwQ2hM"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106562,
+      "name": "the bug song",
+      "url": "https://open.spotify.com/track/1UZEdQs6bcIAV8r6Fk6lcA"
+    },
+    {
+      "album": {
         "name": "The dark lord Sauron stole my lunch money",
         "url": "https://open.spotify.com/album/7Byh7B3jl7iOg3zaTxvp3D"
       },

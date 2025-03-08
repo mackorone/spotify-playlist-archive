@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: iolanda
+> Uma playlist de pura alma pop! Foto: iolanda\. Edição do Dia Internacional das Mulheres
 
-200 songs - 10 hr 40 min
+201 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Loucamente](https://open.spotify.com/track/7dmP18O7QHHwf2VXjBauJ3) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Loucamente](https://open.spotify.com/album/4uuGVn3VQKek2PYwMLfH33) | 3:42 | 2024-06-27 | 2025-02-21 |
 | [Ma Chérie](https://open.spotify.com/track/1aIJLbvrWSW7NGLlprGhBo) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Ma Chérie](https://open.spotify.com/album/0LZKMs9mwAGp3NXqsUpieg) | 2:52 | 2024-11-29 |  |
 | [Maria Joana](https://open.spotify.com/track/4yY22pTpZ7qqOEGUtbE6D4) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN) | [Maria Joana](https://open.spotify.com/album/0jmto7Z5M3Tcd1Kb3MZmpz) | 3:47 | 2024-06-27 | 2024-12-06 |
-| [Maya](https://open.spotify.com/track/76lnq6raCPupukROLdLmwG) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Voyage \(Part III\)](https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa) | 3:30 | 2024-11-08 |  |
+| [Maya](https://open.spotify.com/track/76lnq6raCPupukROLdLmwG) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Voyage \(Part III\)](https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa) | 3:30 | 2024-11-08 | 2025-03-08 |
 | [Melodia](https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Melodia](https://open.spotify.com/album/2RZXeyPA9S4ePRYwDvID1P) | 2:55 | 2024-11-08 |  |
 | [milésimo de segundo](https://open.spotify.com/track/4ylpwnweqo0b8J8CThRp0g) | [Pedro Mafama](https://open.spotify.com/artist/69ca2Xp6iQx8kzL4jXnrWk), [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [milésimo de segundo + PALMAS](https://open.spotify.com/album/2JpxRviSMV7xBcmRX7p4ZT) | 3:28 | 2025-02-21 |  |
 | [Modo Auto\-Piloto](https://open.spotify.com/track/3ykuhBzBU4CBWh6wEb2Nt1) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Modo Auto\-Piloto](https://open.spotify.com/album/5oigX6lMEiruRpxSuuPljl) | 3:17 | 2024-06-27 | 2024-09-13 |
@@ -158,6 +158,7 @@
 | [Pensar Em Mim](https://open.spotify.com/track/6HZIbKTqiac2EqFAVvcxNc) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Pensar Em Mim](https://open.spotify.com/album/4jOWofeLIJPF45XM3EwHqP) | 2:44 | 2025-01-17 |  |
 | [Perfume](https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Perfume](https://open.spotify.com/album/5zJ1AeTR9z6a7XuEaHxuRF) | 3:40 | 2024-06-27 | 2024-08-16 |
 | [Perfume \- Ao Vivo](https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Perfume \(Ao Vivo\)](https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A) | 2:54 | 2024-10-03 |  |
+| [Perfume \- Live in MEO Arena](https://open.spotify.com/track/7FvgEkjajUc4vD2wmGUAMm) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Voyage Tour \(Live in MEO Arena\)](https://open.spotify.com/album/0fOL1n6Wp4IOhxph1Z5Yjm) | 3:48 | 2025-03-07 |  |
 | [podíamos ser nós](https://open.spotify.com/track/7rWYvfOX3c6JoenZBxQFYI) | [IRMA](https://open.spotify.com/artist/06bkZI3iWhUmFYWNovMkCp) | [TWALA KUMOXI](https://open.spotify.com/album/3uG9ynIapv6TUJbzWjURi4) | 2:24 | 2024-09-26 | 2024-10-11 |
 | [POP TOMA](https://open.spotify.com/track/3QOvVqKEPJpQVCqckmSUO5) | [Lena d’Água](https://open.spotify.com/artist/6236JGmsEzqSEobDtH75lS) | [POP TOMA](https://open.spotify.com/album/3vNo4rcNjJTI6oPYLfasOF) | 2:57 | 2024-06-28 | 2024-07-12 |
 | [Por ti Amor](https://open.spotify.com/track/2ZrBQjL7BS9y1zXUgWSf4U) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2), [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Por ti Amor](https://open.spotify.com/album/3YVyoehZPAYBgr5q4GtCnu) | 3:08 | 2024-11-15 |  |

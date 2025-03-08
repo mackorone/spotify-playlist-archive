@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 163217,
+  "num_followers": 163301,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAADr2tXP1Xd41iTAvGpWNJWl",
+  "snapshot_id": "Z8jlgAAAAAAq4LIWQ2gMFbnySVecZHw7",
   "tracks": [
     {
       "added_at": null,
@@ -959,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveller (Extended Mix)",
-        "url": "https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB"
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
       },
       "artists": [
         {
@@ -968,17 +968,13 @@
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Nomsa Mazwai",
-          "url": "https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5"
-        },
-        {
-          "name": "Black Motion",
-          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
         }
       ],
-      "duration_ms": 439308,
-      "name": "Traveller - Extended Mix",
-      "url": "https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU"
+      "duration_ms": 397426,
+      "name": "Take It All Off",
+      "url": "https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1"
     },
     {
       "added_at": null,
@@ -1003,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africa Rising",
-        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+        "name": "Traveller (Extended Mix)",
+        "url": "https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB"
       },
       "artists": [
         {
@@ -1012,13 +1008,17 @@
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+          "name": "Nomsa Mazwai",
+          "url": "https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5"
+        },
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
         }
       ],
-      "duration_ms": 397426,
-      "name": "Take It All Off",
-      "url": "https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1"
+      "duration_ms": 439308,
+      "name": "Traveller - Extended Mix",
+      "url": "https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU"
     },
     {
       "added_at": null,

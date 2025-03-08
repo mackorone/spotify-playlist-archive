@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "claymore",
+        "url": "https://open.spotify.com/album/7mLCu2UGDtYKn7T2OMx688"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152430,
+      "name": "claymore",
+      "url": "https://open.spotify.com/track/22ahQd7UNBLb9JVt7LoFI2"
+    },
+    {
+      "album": {
         "name": "Fuck The World",
         "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
       },
@@ -768,7 +786,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 232697,
       "name": "Distant",
       "url": "https://open.spotify.com/track/1IfzkSkbzqAoEgO1u2EoYN"
@@ -1188,6 +1206,24 @@
       "duration_ms": 154782,
       "name": "FOCUS ON ME",
       "url": "https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3"
+    },
+    {
+      "album": {
+        "name": "Forget U",
+        "url": "https://open.spotify.com/album/6B6rKxe9yVNtMGrQztaTLO"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Forget U",
+      "url": "https://open.spotify.com/track/7FgjoiSwkVAHHUAzubUTc5"
     },
     {
       "album": {
@@ -1993,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111866,
+      "name": "No Cares",
+      "url": "https://open.spotify.com/track/7efe84XgsSB5zjcW4IpgfG"
+    },
+    {
+      "album": {
         "name": "Chilombo",
         "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
       },
@@ -2321,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Receipts",
+      "url": "https://open.spotify.com/track/1Lw4Q4fdDkm9teelfS3fx9"
+    },
+    {
+      "album": {
         "name": "Receipts",
         "url": "https://open.spotify.com/album/5ReTSrbMWIIW8UN8ZCD7IP"
       },
@@ -2332,7 +2404,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 204280,
       "name": "Receipts",
       "url": "https://open.spotify.com/track/2xOjybeL1vGxDldY7IDnsw"
@@ -2712,7 +2784,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 134814,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9"
@@ -3026,7 +3098,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 164825,
       "name": "Unsettling (feat. Vory)",
       "url": "https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh"

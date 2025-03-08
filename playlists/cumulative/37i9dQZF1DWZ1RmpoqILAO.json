@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Big Ugly",
+        "url": "https://open.spotify.com/album/6jNbLon7QmLGibekT6RFOa"
+      },
+      "artists": [
+        {
+          "name": "Fust",
+          "url": "https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294780,
+      "name": "Gateleg",
+      "url": "https://open.spotify.com/track/6uePw5sQerL7xUV3QlICaD"
+    },
+    {
+      "album": {
         "name": "Acetone",
         "url": "https://open.spotify.com/album/7reRvUl6TnOYkfgKO5kDP9"
       },

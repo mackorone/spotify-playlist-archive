@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2025年5月24日\(土\), 25日\(日\)に幕張メッセで開催！国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のラインナップをチェック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,165 likes - 74 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,194 likes - 74 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 32 | [No.5](https://open.spotify.com/track/55TarCmm2umLi8nd0db4tZ) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20](https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS) | 3:05 |
 | 33 | [Boss Bitch \- Remix](https://open.spotify.com/track/35KNZlorV8tFWaOCGyWa49) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [LANA](https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [7 \(Boss Bitch Edition\)](https://open.spotify.com/album/7wVZvzhAREfRwhVcxi2ik5) | 3:32 |
 | 34 | [777](https://open.spotify.com/track/7rc4LM94BAPwdMK2GHjmWb) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [777](https://open.spotify.com/album/2zxe9UJRT9bE7slnhqqf39) | 1:41 |
-| 35 | [SLICK BACK \(feat\. Tiji Jojo, Myghty Tommy & LEX\)](https://open.spotify.com/track/04N23tB31o5meYYoKaQKUu) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Myghty Tommy](https://open.spotify.com/artist/4jqLZ8fErX4bAamCiKngKk), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SLICK BACK \(feat\. Tiji Jojo, Myghty Tommy & LEX\)](https://open.spotify.com/album/2hR1USmPQm808oiAhC8Olc) | 3:40 |
+| 35 | [SLICK BACK \(feat\. Myghty Tommy\)](https://open.spotify.com/track/04N23tB31o5meYYoKaQKUu) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Myghty Tommy](https://open.spotify.com/artist/4jqLZ8fErX4bAamCiKngKk) | [SLICK BACK \(feat\. Myghty Tommy\)](https://open.spotify.com/album/2hR1USmPQm808oiAhC8Olc) | 3:40 |
 | 36 | [Daydreaming pt.2](https://open.spotify.com/track/5QiW6j1KP29lX0gT4PuEkY) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [Daydreaming pt.2](https://open.spotify.com/album/3BeelkxGiq7pBOC9kPoH9U) | 3:54 |
 | 37 | [Ozone](https://open.spotify.com/track/6f1gUCBXKNq9FN1GCpjyLV) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Ozone](https://open.spotify.com/album/0uICw6NVHNg1vyrzfQNBkE) | 3:14 |
 | 38 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 |

@@ -1,13 +1,29 @@
 {
-  "description": "a little indie, a little pop.  Cover: Moody Joody",
-  "num_followers": 217536,
+  "description": "a little indie, a little pop.  Cover: Daniel Seavey",
+  "num_followers": 217594,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FDDAAAAAAwumxSsYzOciIfVQZ9jey0",
+  "snapshot_id": "Z8p9dwAAAAAtZSXGVxkmJwazOsvdC9Y3",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:39",
+      "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Lose Me Like You Mean It",
+      "url": "https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K"
+    },
     {
       "added_at": "2025-02-28 05:01:00",
       "album": {
@@ -49,6 +65,22 @@
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
     },
     {
+      "added_at": "2025-03-07 05:00:39",
+      "album": {
+        "name": "are we in love yet?",
+        "url": "https://open.spotify.com/album/2xQI0evHXKQ3I38ubLaRy6"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 177193,
+      "name": "are we in love yet?",
+      "url": "https://open.spotify.com/track/59bPrwlWkwqqDSFu8o1cdu"
+    },
+    {
       "added_at": "2025-02-21 05:00:23",
       "album": {
         "name": "Angel",
@@ -83,6 +115,22 @@
       "duration_ms": 179373,
       "name": "Bleed (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
+    },
+    {
+      "added_at": "2025-03-07 05:00:39",
+      "album": {
+        "name": "songs to drive to",
+        "url": "https://open.spotify.com/album/2XIykPMdAG9JRZ8xWqS7Eu"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 173473,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6Kq3k4yZdiwfxvYRBy4Qpv"
     },
     {
       "added_at": "2025-02-14 05:00:19",
@@ -131,6 +179,22 @@
       "duration_ms": 167404,
       "name": "Almost, So Close, Maybe",
       "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
+    },
+    {
+      "added_at": "2025-03-07 05:00:39",
+      "album": {
+        "name": "abyss",
+        "url": "https://open.spotify.com/album/3hZjfIVdPdCym1PRPD57JT"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 129942,
+      "name": "abyss",
+      "url": "https://open.spotify.com/track/40LqINLIDhx5qEJQfG7rnN"
     },
     {
       "added_at": "2025-02-28 05:01:00",
@@ -1009,22 +1073,6 @@
       "url": "https://open.spotify.com/track/0iYTLa5yW6BsexECkr2qzT"
     },
     {
-      "added_at": "2025-01-24 05:00:53",
-      "album": {
-        "name": "Royalty",
-        "url": "https://open.spotify.com/album/5MbwoC7nxHIMbrNwatnbol"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Royalty",
-      "url": "https://open.spotify.com/track/6Zc9QSFfz5MR61vRS06Wh1"
-    },
-    {
       "added_at": "2025-01-17 05:01:01",
       "album": {
         "name": "Blind (feat. Keiynan Lonsdale)",
@@ -1145,42 +1193,6 @@
       "url": "https://open.spotify.com/track/4g7t4gur0b65QHYjNmq4J5"
     },
     {
-      "added_at": "2025-01-10 05:01:06",
-      "album": {
-        "name": "Red",
-        "url": "https://open.spotify.com/album/1sgjxEl0WbYxAkJEkgk54x"
-      },
-      "artists": [
-        {
-          "name": "bob junior",
-          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
-        },
-        {
-          "name": "Hot Flash Heat Wave",
-          "url": "https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add"
-        }
-      ],
-      "duration_ms": 208093,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/0AoZZWaJZnuCHoSS7qn5zP"
-    },
-    {
-      "added_at": "2025-01-03 05:00:25",
-      "album": {
-        "name": "You and your eyes",
-        "url": "https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 156942,
-      "name": "You and your eyes",
-      "url": "https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u"
-    },
-    {
       "added_at": "2025-01-03 05:00:25",
       "album": {
         "name": "enough for you",
@@ -1211,22 +1223,6 @@
       "duration_ms": 145866,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4bYTWJm6jDyVA68YAyI6JX"
-    },
-    {
-      "added_at": "2024-12-20 05:00:39",
-      "album": {
-        "name": "Fall Into Forever",
-        "url": "https://open.spotify.com/album/1rdlcAWpa4UaubKLGDVm6j"
-      },
-      "artists": [
-        {
-          "name": "PARKWILD",
-          "url": "https://open.spotify.com/artist/37pbVQWclfUKj4ZKb049zA"
-        }
-      ],
-      "duration_ms": 179423,
-      "name": "Fall Into Forever",
-      "url": "https://open.spotify.com/track/5oCaywXYB8wG0Vq6m0RViS"
     },
     {
       "added_at": "2024-12-13 05:00:37",

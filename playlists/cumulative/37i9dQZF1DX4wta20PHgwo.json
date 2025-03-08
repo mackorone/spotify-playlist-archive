@@ -3293,6 +3293,32 @@
     },
     {
       "album": {
+        "name": "Gilado",
+        "url": "https://open.spotify.com/album/0ilhBIWc5aTMRmdjNYZuoW"
+      },
+      "artists": [
+        {
+          "name": "Leszek Mo\u017cd\u017cer",
+          "url": "https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G"
+        },
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Zohar Fresco",
+          "url": "https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "Gilado",
+      "url": "https://open.spotify.com/track/1O1n29nn1XVj7IMb0LpoyU"
+    },
+    {
+      "album": {
         "name": "Glimmer Of Hope",
         "url": "https://open.spotify.com/album/4HAq8zTLcUsbBMM7WOAtcu"
       },
@@ -9990,7 +10016,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 299090,
       "name": "Wall",
       "url": "https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a"

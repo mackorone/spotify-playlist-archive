@@ -4,7 +4,7 @@
 
 > mostly furry
 
-295 songs - 15 hr 0 min
+296 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Whatever U Want Me 2 Be](https://open.spotify.com/track/70ViO6ChzdWHdDjVfU6jrn) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 3:11 | 2023-11-18 |  |
 | [When You See My Friends](https://open.spotify.com/track/23CMyEdFVAh93MdT6kaGkD) | [Cyberhound](https://open.spotify.com/artist/0B15suDyWUUrMTXJNUJ5gH) | [Disconnections](https://open.spotify.com/album/4V33QyADTVjJgFwI2Ss8xG) | 3:23 | 2024-01-20 |  |
 | [White Goo Jungle](https://open.spotify.com/track/1UZhtfHDCyes8L8rQ6JoJx) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:22 | 2024-12-24 |  |
+| [With My Friends](https://open.spotify.com/track/55J7Zl7xiFqiGofRHgodbO) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [With My Friends](https://open.spotify.com/album/1fFd2zeApK1EmTlM7ksl9T) | 2:28 | 2025-03-07 |  |
 | [World of Everything](https://open.spotify.com/track/76lFf0HFsdi6tCh8xA1PTF) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [World of Everything](https://open.spotify.com/album/2ieB64E9yWOez0VDgP2Mvo) | 2:55 | 2024-01-20 |  |
 | [Y2K](https://open.spotify.com/track/7wWqdXBLZMxdCWphYfln9a) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 2:18 | 2024-12-07 |  |
 | [You Didn’t Know](https://open.spotify.com/track/1EXcVTWW9vciHp4hzQHqAG) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Shoba Narayan](https://open.spotify.com/artist/5LNiqorupgMehK3ewlUCvj), [Patina Miller](https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp), [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Hazbin Hotel Original Soundtrack \(Part 2\)](https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis) | 3:08 | 2024-05-14 |  |

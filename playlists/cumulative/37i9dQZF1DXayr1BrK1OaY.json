@@ -3563,6 +3563,28 @@
     },
     {
       "album": {
+        "name": "When it all ends (part 01)",
+        "url": "https://open.spotify.com/album/3LySlHm3UaMj0lA3zLs015"
+      },
+      "artists": [
+        {
+          "name": "Noche",
+          "url": "https://open.spotify.com/artist/0mnOvl550DlpNOKzb0y07F"
+        },
+        {
+          "name": "CARLWILLSON",
+          "url": "https://open.spotify.com/artist/48vdX8oZSg3eIKq9jvGQVr"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208315,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/6xGqHddDBOXwD7U9oL2oAA"
+    },
+    {
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/1MRXF24aiT8BLW0hV7seBo"
       },
@@ -3720,7 +3742,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 188983,
       "name": "I DON'T WANT TO FALL IN LOVE",
       "url": "https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku"
@@ -4062,7 +4084,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 193548,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl"
@@ -5159,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Meet Me at the Bottom",
+        "url": "https://open.spotify.com/album/0Pq4pKQ6WSXxxS6vcchJzt"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133482,
+      "name": "Meet Me at the Bottom",
+      "url": "https://open.spotify.com/track/11qe0DyXUBbs8uQR16u4dG"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -5254,6 +5294,28 @@
       "duration_ms": 200000,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/5jhaaWjYuXOOjdcf8GePey"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/3ZIKYH8bygjC3aHDACwIm4"
+      },
+      "artists": [
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        },
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194887,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5Pjs5I7sQPgip0iabFNip6"
     },
     {
       "album": {
@@ -5786,7 +5848,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 190113,
       "name": "not sorry",
       "url": "https://open.spotify.com/track/6yIBiB7kctd505SPcP2inR"
@@ -7030,7 +7092,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 167671,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/1hVHjnRHGAaQ7MGCLjCanQ"
@@ -9114,6 +9176,24 @@
       "duration_ms": 144724,
       "name": "When Did You Know?",
       "url": "https://open.spotify.com/track/3YCqzGoLy0mVos7Xso2OLl"
+    },
+    {
+      "album": {
+        "name": "When She Was Your Soldier",
+        "url": "https://open.spotify.com/album/3DOeXsUP2EkZXgJTTedkjr"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190922,
+      "name": "When She Was Your Soldier",
+      "url": "https://open.spotify.com/track/78eQEMgFcJfd6KFid2N8fb"
     },
     {
       "album": {

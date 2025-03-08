@@ -1203,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "end",
+        "url": "https://open.spotify.com/album/3TmfvKMug3sBJLcjLnK8UK"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "Jay Karin",
+          "url": "https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81869,
+      "name": "end",
+      "url": "https://open.spotify.com/track/38v7S7cPbYMm2rjKqWELOj"
+    },
+    {
+      "album": {
         "name": "endless time",
         "url": "https://open.spotify.com/album/0SKPG2tHMeWzPiUmqziq7z"
       },
@@ -1871,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Shards",
+        "url": "https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288216,
+      "name": "Heaven Will Come",
+      "url": "https://open.spotify.com/track/4XL9nn0qDcLA25X88wxmrw"
+    },
+    {
+      "album": {
         "name": "Het Wed",
         "url": "https://open.spotify.com/album/63EnNcLoZCCKPv3zHrETr0"
       },
@@ -2409,6 +2449,28 @@
     },
     {
       "album": {
+        "name": "long, long ago",
+        "url": "https://open.spotify.com/album/24zVvxOBXzNkrbKeygGw8d"
+      },
+      "artists": [
+        {
+          "name": "Hinoku",
+          "url": "https://open.spotify.com/artist/4VL8BfRXdbEuK5UoqQWezr"
+        },
+        {
+          "name": "pandora.",
+          "url": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "long, long ago",
+      "url": "https://open.spotify.com/track/4SjJhVMgxVLqZ0uL6JNhUN"
+    },
+    {
+      "album": {
         "name": "lose yourself",
         "url": "https://open.spotify.com/album/25my7x6vePhDAG31H4qxpo"
       },
@@ -2438,7 +2500,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 90468,
       "name": "losing interest",
       "url": "https://open.spotify.com/track/4F0J0ZLPPGBVeq2jFVpAw7"
@@ -3286,7 +3348,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 117340,
       "name": "reflection",
       "url": "https://open.spotify.com/track/16igczsGuK0Efsp3TiUbRW"
@@ -3852,7 +3914,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 146283,
       "name": "start living",
       "url": "https://open.spotify.com/track/62eW2PIGflirLxrzV7H8sv"

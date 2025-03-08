@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,433 songs - 3 day 3 hr 44 min
+1,434 songs - 3 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [ANGYAL](https://open.spotify.com/track/0nKzWWRcRiPdgvhJCkHTj9) | [Beatrick](https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0), [Miller David](https://open.spotify.com/artist/5xtng3g0tqSa7rCATgm1Cu) | [ANGYAL](https://open.spotify.com/album/55BQ99xY1uBAUQ3KVYzCiN) | 2:52 | 2023-05-20 | 2023-05-23 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-14 | 2023-02-22 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2022-11-27 |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-07 |  |
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-02-28 |  |
 | [Anya](https://open.spotify.com/track/1iD1gkUhOrj6fD5QrFrA8b) | [Berry](https://open.spotify.com/artist/2bEeaSG5gZ9beyGIn55Mp0) | [Anya](https://open.spotify.com/album/47KIF0JUmxMOfjXyldkhXl) | 2:44 | 2022-09-08 | 2022-10-02 |
 | [Anya mérges](https://open.spotify.com/track/0xHCcgCYUgohuHWZmOcl6C) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Szörnyeteg](https://open.spotify.com/album/3fwAWokcyYJTxZWDsyOjYm) | 4:12 | 2021-07-31 | 2021-08-02 |
@@ -911,7 +912,7 @@
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-01-09 | 2024-02-08 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-07 | 2021-11-21 |
 | [Open Hearts](https://open.spotify.com/track/0stJVUUSrbEwyFHOp2dRu0) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:54 | 2025-02-01 | 2025-02-07 |
-| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-08 |  |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-08 | 2025-03-08 |
 | [Orgonabokor](https://open.spotify.com/track/6PfQxSKdb1T71Y6rotJ5a9) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor](https://open.spotify.com/album/1WNazH6XAncw7qxBR60nHV) | 3:35 | 2025-02-16 |  |
 | [Orgonabokor](https://open.spotify.com/track/6hWRlcm3CHovEzXNjsIJUG) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor](https://open.spotify.com/album/4xn0VgbSMtx1mXopS3bYat) | 3:35 | 2025-01-10 | 2025-02-17 |
 | [Orrvérzés](https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Orrvérzés](https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC) | 3:19 | 2024-04-10 | 2024-04-12 |

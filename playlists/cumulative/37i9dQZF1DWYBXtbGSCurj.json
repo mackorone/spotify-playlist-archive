@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Major RD, Borges, MC Cabelinho, Yung Ganni\n",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: MC Igu\n",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -970,6 +970,32 @@
       "duration_ms": 168000,
       "name": "70 Gramas",
       "url": "https://open.spotify.com/track/6rHsGUU8PEmuHEB5EQIhan"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/1p7BRSu4cSJ5cR8UrSXCBj"
+      },
+      "artists": [
+        {
+          "name": "Luccakum",
+          "url": "https://open.spotify.com/artist/3H66IizDsD45zeqdrVBn9d"
+        },
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "FamousKyo",
+          "url": "https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "777",
+      "url": "https://open.spotify.com/track/4eB5UQKOXAdpCYlbJKxRci"
     },
     {
       "album": {
@@ -12654,7 +12680,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 152115,
       "name": "Espinafre",
       "url": "https://open.spotify.com/track/7K9j6LICm02OlSjEu026qN"
@@ -12706,7 +12732,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 144533,
       "name": "ESQV",
       "url": "https://open.spotify.com/track/5KnGDIGzxFCZz87q7nkDds"
@@ -22995,6 +23021,32 @@
     },
     {
       "album": {
+        "name": "Morfeus",
+        "url": "https://open.spotify.com/album/5bXgvAF9U6Tu3icIo3HEYy"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "vvallace",
+          "url": "https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO"
+        },
+        {
+          "name": "FrostyBoy",
+          "url": "https://open.spotify.com/artist/63Yp9u6BLpsLm8OUEr2f69"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164102,
+      "name": "Morfeus",
+      "url": "https://open.spotify.com/track/25syIpasDfj8gh1P1I9SGn"
+    },
+    {
+      "album": {
         "name": "Morrer De Amor",
         "url": "https://open.spotify.com/album/4SwlZmYs7EIx8Ipbi8HOgi"
       },
@@ -24858,6 +24910,24 @@
       "duration_ms": 160000,
       "name": "No Papo",
       "url": "https://open.spotify.com/track/2T527ULYGny2LL8GGb1Psj"
+    },
+    {
+      "album": {
+        "name": "No Talk",
+        "url": "https://open.spotify.com/album/2GJRu8NdRuPSBTEagFiWDe"
+      },
+      "artists": [
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "No Talk",
+      "url": "https://open.spotify.com/track/1xjYJxjrBjQGdQ9IICedHu"
     },
     {
       "album": {
@@ -31610,7 +31680,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 168205,
       "name": "Recusei Todas",
       "url": "https://open.spotify.com/track/2hPIjGXMROxIvaewI7Ttx1"

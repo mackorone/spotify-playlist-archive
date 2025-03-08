@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 208785,
       "name": "Before I Loved You",
       "url": "https://open.spotify.com/track/2JxNmnMnMLO12m5l20x73G"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 203472,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
@@ -3945,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "Lonely Road",
+        "url": "https://open.spotify.com/album/4hF7ABLDR0AUUcCzhJA1Fq"
+      },
+      "artists": [
+        {
+          "name": "Bradley Denniston",
+          "url": "https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191724,
+      "name": "Lonely Road",
+      "url": "https://open.spotify.com/track/2LhwyenNKYLqqEscGbGT3z"
+    },
+    {
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/5znBaBjG7vMjRdSdKcNV6Q"
       },
@@ -5502,6 +5520,28 @@
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "album": {
+        "name": "Running On A Feeling",
+        "url": "https://open.spotify.com/album/6I47GpVjl5bFXlidsWbp5G"
+      },
+      "artists": [
+        {
+          "name": "L\u00d2NIS",
+          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
+        },
+        {
+          "name": "Jon Mero",
+          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165102,
+      "name": "Running On A Feeling",
+      "url": "https://open.spotify.com/track/3tnNVMo4lw67r6PTHM8RTT"
     },
     {
       "album": {

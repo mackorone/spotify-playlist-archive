@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,117 songs - 4 day 23 hr 50 min
+2,120 songs - 5 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1708,6 +1708,7 @@
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2022-11-18 | 2022-11-29 |
 | [Stronger](https://open.spotify.com/track/1gqRLGe1HWXqwaRw4NOMyp) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Stronger](https://open.spotify.com/album/5IqP9C9cQdux5zJpGUOdPI) | 2:32 | 2023-04-07 | 2023-04-22 |
 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 | 2022-07-01 | 2022-07-10 |
+| [Stunner \- Original Mix](https://open.spotify.com/track/5dFPkVJKFyy1WEZ471gjKz) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Stunner](https://open.spotify.com/album/1WddSukHJztab96YiwuM4r) | 3:19 | 2025-03-07 |  |
 | [Stutter](https://open.spotify.com/track/5iUAme4MwC2xvPqeSSGgrA) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Gorillowz](https://open.spotify.com/artist/45oMgBI6YCpxhr29PnmRE9) | [Bring The Noise / Stutter](https://open.spotify.com/album/0Tp4HZEY7LTY11vIN8uhgy) | 2:57 | 2023-10-27 | 2023-11-04 |
 | [Subject Study](https://open.spotify.com/track/21ZOkp2EWJw7whsBhds5U5) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Subject Study](https://open.spotify.com/album/2wz9kI2ozsay6rrECF49aR) | 3:30 | 2023-11-03 | 2023-11-10 |
 | [Sudando](https://open.spotify.com/track/00bwY24h5wRkH4dEDvYxuv) | [96 Vibe](https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI), [DEM2](https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB), [Yuliesky](https://open.spotify.com/artist/1yovZXHEExzif20uz6foeV) | [Sudando](https://open.spotify.com/album/3SS2CBEzuoHsJEyr5t6ZpX) | 3:26 | 2023-10-27 | 2023-11-04 |
@@ -1774,6 +1775,7 @@
 | [Tefé](https://open.spotify.com/track/0GGFrmZVMTdti1BVtZpSH2) | [Fredy Lane](https://open.spotify.com/artist/4eqF8svFUIhgdkR7bSlQ6M) | [Tefé](https://open.spotify.com/album/6aqreTVS6wP0ALMBd2JRKL) | 2:52 | 2023-10-27 | 2023-11-04 |
 | [Tego](https://open.spotify.com/track/3R6oE0rXv8bgwMg1yytcbd) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Tego](https://open.spotify.com/album/1NSqRiadlzpChQcLifrGAR) | 2:39 | 2022-07-01 | 2022-07-10 |
 | [Teka \(with Peso Pluma\) \- Matroda Remix](https://open.spotify.com/track/0eF9MPddedbS6MngSnB9RC) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Teka \(with Peso Pluma\) \[Matroda Remix\]](https://open.spotify.com/album/1xhIlcaKLZZAnDtumF0Qd6) | 3:15 | 2024-07-12 | 2024-08-03 |
+| [TELEMARKETER](https://open.spotify.com/track/5YtFmJF6RzB4etYr1rls48) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [TELEMARKETER](https://open.spotify.com/album/47WCuW1XFyEo0P8w2brTx7) | 3:34 | 2025-03-07 |  |
 | [Tell Me](https://open.spotify.com/track/7wcBjem7yS10mCTL7Tf14k) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Tell Me](https://open.spotify.com/album/2Ij05JnZx2T3CaWMWhPuLS) | 3:30 | 2025-02-28 |  |
 | [Tell That Boy](https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Tell That Boy](https://open.spotify.com/album/1pQODgWcJzz8oUoucbos1R) | 3:34 | 2023-10-13 | 2023-10-28 |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-04-28 | 2023-05-06 |
@@ -1895,6 +1897,7 @@
 | [Tonight \(Radio Edit\)](https://open.spotify.com/track/2Tdaar6a4LavWGudVtepMy) | [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Bauti Tesei](https://open.spotify.com/artist/17YsLIhtMx8p4QaDAqpPh6) | [Tonight](https://open.spotify.com/album/6XtwlBk57v3vQnFt5QFloa) | 2:48 | 2022-07-29 | 2022-08-06 |
 | [Tonight's The Night](https://open.spotify.com/track/1jA4ZlY89Pxkl7322hXt3b) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Billy Valentine](https://open.spotify.com/artist/4AYoCwXHaaxeaM8DtzP3zg) | [Tonight's The Night](https://open.spotify.com/album/16jPPH6iLZPmy8EPDSnjvt) | 3:04 | 2022-10-28 | 2022-11-06 |
 | [Too Soon](https://open.spotify.com/track/0F9ouRFOFjmVNbU2CTEwrq) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Too Soon](https://open.spotify.com/album/1K7lklhhIIcBW5vPUKTdfK) | 2:56 | 2023-09-15 | 2023-09-23 |
+| [Tootsie Pop](https://open.spotify.com/track/6iEcJOCsj7rmmJmOO3s7Ok) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [Tootsie Pop](https://open.spotify.com/album/5WX2ezXljLgIEVOrqUp513) | 2:59 | 2025-03-07 |  |
 | [TORN OPEN](https://open.spotify.com/track/4rGQ5q4fL9iWDJJVX3sbVE) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [TORN OPEN](https://open.spotify.com/album/51PtgEAyYVQvX7o28LBAlH) | 3:25 | 2023-05-19 | 2023-06-10 |
 | [Toro Loco \- Original Mix](https://open.spotify.com/track/7vDFkKOBHlB163wnJIpwcE) | [DEM2](https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB), [Cion Daddy](https://open.spotify.com/artist/30eyXwvifdiwjh2exXJw6h) | [Toro Loco](https://open.spotify.com/album/2R21Qz8bKxvRFQ5Gdr7Wss) | 5:02 | 2025-01-10 | 2025-02-22 |
 | [Torro](https://open.spotify.com/track/3jhWAnzwmFCAfjokMg9AsG) | [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Torro](https://open.spotify.com/album/1Xuw8xJCbmOPuLBAXxGfi5) | 2:51 | 2024-08-09 | 2024-09-14 |

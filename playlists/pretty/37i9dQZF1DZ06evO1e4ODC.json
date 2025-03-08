@@ -1,13 +1,29 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 201996,
+  "num_followers": 202052,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAAB70EvWRhnwqhC3Mi0LfDG8",
+  "snapshot_id": "Z8jlgAAAAAB7QPp6VVP4gx2zeZJf86Qb",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Me Dice Que Me Ama",
+      "url": "https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 214773,
       "name": "Dame Tus Ojos",
       "url": "https://open.spotify.com/track/3HZCMyuazaSOLgXexcMASl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Me Dice Que Me Ama",
-      "url": "https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN"
     },
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 327653,
-      "name": "Sum\u00e9rgeme",
-      "url": "https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 253200,
       "name": "Mi Universo",
       "url": "https://open.spotify.com/track/6lMk5sY36yHg5vY2Q29lJd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colecci\u00f3n Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 327653,
+      "name": "Sum\u00e9rgeme",
+      "url": "https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD"
     },
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Es Por Tu Gracia",
-      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 198986,
       "name": "Tu Bandera",
       "url": "https://open.spotify.com/track/2cpTtthg2R3PMRjkxOJJyK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Es Por Tu Gracia",
+      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 299200,
-      "name": "No Es Como Yo",
-      "url": "https://open.spotify.com/track/6C7MQrVotSOLaEmWlFJ5Xh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colecci\u00f3n Duetos",
         "url": "https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 204760,
       "name": "Cada D\u00eda",
       "url": "https://open.spotify.com/track/58W8qcqC1GEWJ6Ubzd18H3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 299200,
+      "name": "No Es Como Yo",
+      "url": "https://open.spotify.com/track/6C7MQrVotSOLaEmWlFJ5Xh"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
       "duration_ms": 241586,
       "name": "Tienen Tu Color",
       "url": "https://open.spotify.com/track/2ObrJKsc5W0Gqhnshj1Igs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 310613,
-      "name": "Esp\u00e9rame",
-      "url": "https://open.spotify.com/track/0nVAXr2tTHrFzx7ORvR6e1"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 310613,
+      "name": "Esp\u00e9rame",
+      "url": "https://open.spotify.com/track/0nVAXr2tTHrFzx7ORvR6e1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Origen Y Esencia",
         "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Aqui Estoy",
-      "url": "https://open.spotify.com/track/0IEPPVl1khipGmiTDJmwLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 211053,
       "name": "El Brillo De Mis Ojos",
       "url": "https://open.spotify.com/track/2vBLWOaYsg9lclJYBGiL6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Aqui Estoy",
+      "url": "https://open.spotify.com/track/0IEPPVl1khipGmiTDJmwLb"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soplando Vida",
-        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 255120,
-      "name": "Soplando Vida",
-      "url": "https://open.spotify.com/track/3T1HAdzG1iXUmgGV7lO9Mb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Vivir",
         "url": "https://open.spotify.com/album/0Qnz5UhfoT7meU6rIIa5jH"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 257552,
       "name": "A Vivir",
       "url": "https://open.spotify.com/track/38YkAPODtVFCodo68wzNhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soplando Vida",
+        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 255120,
+      "name": "Soplando Vida",
+      "url": "https://open.spotify.com/track/3T1HAdzG1iXUmgGV7lO9Mb"
     },
     {
       "added_at": null,

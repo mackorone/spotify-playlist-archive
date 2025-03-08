@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 366183,
+  "num_followers": 366349,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,38 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2d8MweiVKq4HbVmYqFIVAk"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Carlo",
+          "url": "https://open.spotify.com/artist/3A7Ajwwlko5vqI6dyy7LN2"
+        }
+      ],
+      "duration_ms": 203342,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM"
+    },
+    {
+      "added_at": "2025-02-28 17:10:11",
+      "album": {
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/2l1uiUn0H6RV7ULkzj5jPv"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 148445,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/5NeGYCOfojjoFdgYf3zupx"
+    },
+    {
+      "added_at": "2025-02-28 17:10:11",
+      "album": {
         "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
         "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
       },
@@ -471,22 +503,6 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
-        "name": "Me Leva",
-        "url": "https://open.spotify.com/album/2l1uiUn0H6RV7ULkzj5jPv"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 148445,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/5NeGYCOfojjoFdgYf3zupx"
-    },
-    {
-      "added_at": "2025-02-28 17:10:11",
-      "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 207808,
       "name": "Rede no Coqueiro",
       "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
-    },
-    {
-      "added_at": "2025-02-28 17:10:11",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2d8MweiVKq4HbVmYqFIVAk"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Carlo",
-          "url": "https://open.spotify.com/artist/3A7Ajwwlko5vqI6dyy7LN2"
-        }
-      ],
-      "duration_ms": 203342,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM"
     },
     {
       "added_at": "2025-02-28 17:10:11",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
-        "name": "Toda Noite",
-        "url": "https://open.spotify.com/album/5ZSiRjfNCBEyF20FtrEL6j"
-      },
-      "artists": [
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Toda Noite",
-      "url": "https://open.spotify.com/track/4yK5IkPZoj0RCWcn6vJz74"
-    },
-    {
-      "added_at": "2025-02-28 17:10:11",
-      "album": {
         "name": "Na Positiva",
         "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/5ZSiRjfNCBEyF20FtrEL6j"
       },
       "artists": [
         {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE"
         }
       ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
+      "duration_ms": 229866,
+      "name": "Toda Noite",
+      "url": "https://open.spotify.com/track/4yK5IkPZoj0RCWcn6vJz74"
+    },
+    {
+      "added_at": "2025-02-28 17:10:11",
+      "album": {
+        "name": "S\u00f3 Pra Brilhar",
+        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 198340,
+      "name": "S\u00f3 Pra Brilhar",
+      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
     },
     {
       "added_at": "2025-02-28 17:10:11",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
-        "name": "S\u00f3 Pra Brilhar",
-        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
       },
       "artists": [
         {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
         }
       ],
-      "duration_ms": 198340,
-      "name": "S\u00f3 Pra Brilhar",
-      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2025-02-28 17:10:11",

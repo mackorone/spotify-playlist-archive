@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,031 likes - 48 songs - 2 hr 28 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,039 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,8 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 46 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
 | 47 | [5AM At Bagleys](https://open.spotify.com/track/3nKFvxs17ez3awL6S0IS8k) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [5AM At Bagleys](https://open.spotify.com/album/1BJAJAuOKPc5HoNfpzZrIK) | 4:10 |
 | 48 | [Analog \(feat\. Amarha\)](https://open.spotify.com/track/1FdRehYYRkQSTJYmDy4OHG) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Amarha](https://open.spotify.com/artist/5mCw0MYwknWl0KPTSwX0hh) | [Analog \(feat\. Amarha\)](https://open.spotify.com/album/56LMUEk9u1vJ70O7VF9iiF) | 3:14 |
+| 49 | [Stunner \- Original Mix](https://open.spotify.com/track/5dFPkVJKFyy1WEZ471gjKz) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Stunner](https://open.spotify.com/album/1WddSukHJztab96YiwuM4r) | 3:19 |
+| 50 | [Tootsie Pop](https://open.spotify.com/track/6iEcJOCsj7rmmJmOO3s7Ok) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [Tootsie Pop](https://open.spotify.com/album/5WX2ezXljLgIEVOrqUp513) | 2:59 |
+| 51 | [TELEMARKETER](https://open.spotify.com/track/5YtFmJF6RzB4etYr1rls48) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [TELEMARKETER](https://open.spotify.com/album/47WCuW1XFyEo0P8w2brTx7) | 3:34 |
 
-Snapshot ID: `AAAk67/lYqTDbKuEs1OqLqadHceZbkIh`
+Snapshot ID: `AAAk8LvOt6dbzOFi6EpDjMvZLbt7Lkc2`

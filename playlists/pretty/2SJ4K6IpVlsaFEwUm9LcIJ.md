@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,862 likes - 21 songs - 1 hr 21 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,857 likes - 22 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,5 +29,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 19 | [Mountain Language](https://open.spotify.com/track/0oyjNHLOXu0aewrfGaxk75) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Mountain Language](https://open.spotify.com/album/7511ZMwlaJlDZspKq6latL) | 4:16 |
 | 20 | [Do It Yourself](https://open.spotify.com/track/7mqzQCR7KIPxvPFU5IoFkn) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:56 |
 | 21 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
+| 22 | [Magnólia](https://open.spotify.com/track/68DcdIbgA4vEektkulFWPZ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:14 |
 
-Snapshot ID: `AAAMCHbqGc7slqQnfHcfVNtIce87LpI1`
+Snapshot ID: `AAAMCferJrNaRHvbNIiGEjLtkFDga0jJ`

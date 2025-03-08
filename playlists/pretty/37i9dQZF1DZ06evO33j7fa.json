@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 56236,
+  "num_followers": 56251,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAADZ3xB0+LiA3w/IXm6Aw9Fk",
+  "snapshot_id": "Z8jlgAAAAACemM610g6CSGuZaSQovaRU",
   "tracks": [
     {
       "added_at": null,
@@ -386,11 +386,15 @@
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        },
+        {
+          "name": "Gabrielle Drake",
+          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 31146,
-      "name": "Come Into The Garden (Introduction)",
-      "url": "https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK"
+      "duration_ms": 115960,
+      "name": "All My Trials",
+      "url": "https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML"
     },
     {
       "added_at": null,
@@ -454,15 +458,11 @@
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        },
-        {
-          "name": "Gabrielle Drake",
-          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 115960,
-      "name": "All My Trials",
-      "url": "https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML"
+      "duration_ms": 31146,
+      "name": "Come Into The Garden (Introduction)",
+      "url": "https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK"
     },
     {
       "added_at": null,

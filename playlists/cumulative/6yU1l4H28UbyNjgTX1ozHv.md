@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-274 songs - 14 hr 3 min
+275 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Hey Ya! \- Acoustic](https://open.spotify.com/track/7id2nRroQIMekiV1KRWzGW) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Hey Ya! \(Acoustic\)](https://open.spotify.com/album/7CRgaJzV0QUPKI423ONdwQ) | 2:27 | 2025-02-09 | 2025-02-26 |
 | [Hey, Soul Sister \- Acoustic](https://open.spotify.com/track/0kIqUDiAD6k4Zu1RdMPFmw) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Hey, Soul Sister \(Acoustic\)](https://open.spotify.com/album/32lSvUMKuLxKeQKRU1stmB) | 3:18 | 2020-11-14 | 2024-03-04 |
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2019-10-13 |  |
-| [Ho Hey \- Acoustic](https://open.spotify.com/track/4KDEiIgwb6TZHDj3sygAXd) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [Ho Hey \(Acoustic\)](https://open.spotify.com/album/2yGZezSK0hywQ2j1SWobcQ) | 2:23 | 2025-02-07 |  |
+| [Ho Hey \- Acoustic](https://open.spotify.com/track/4KDEiIgwb6TZHDj3sygAXd) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [Ho Hey \(Acoustic\)](https://open.spotify.com/album/2yGZezSK0hywQ2j1SWobcQ) | 2:23 | 2025-02-07 | 2025-03-08 |
 | [How Will I Know](https://open.spotify.com/track/64oxbrbRQV6MZto7o8Y42P) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:52 | 2019-10-13 |  |
 | [How Will I Know \- Acoustic](https://open.spotify.com/track/3VwiktbNsP7nksJj2Kegpn) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [How Will I Know \(Acoustic\)](https://open.spotify.com/album/0snjZU2AY3rlxHjPMBNk8N) | 3:13 | 2024-05-05 | 2025-02-10 |
 | [Human \- Acoustic](https://open.spotify.com/track/70fdF045x3n1ahv7MG6Z4H) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Remixes\)](https://open.spotify.com/album/4RtiPIrZPPG8iPZC9xQnP3) | 3:49 | 2019-10-13 |  |
@@ -127,6 +127,7 @@
 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 | 2020-11-04 | 2023-01-28 |
 | [Iris \- Acoustic](https://open.spotify.com/track/2bvnbXhGaMnl8QBYqzbHdD) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Iris \(Acoustic\)](https://open.spotify.com/album/3C6YfaOgmdH7A40A6JHuMU) | 3:02 | 2023-08-21 | 2023-12-16 |
 | [Is This Love \- Acoustic](https://open.spotify.com/track/2tEQ3siZZLl82xeX5IOZaJ) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4MrABMjlVpUJ1QllzRRrwv) | 3:57 | 2023-06-16 | 2023-08-06 |
+| [Is This Love \- Acoustic](https://open.spotify.com/track/4JGlFaRIOBZ9j2DQaDXmVw) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4q1wY0maG1DpmxLFsBU3Cs) | 2:51 | 2025-03-07 |  |
 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 | 2019-10-13 |  |
 | [I’d Do Anything for Love \(But I Won’t Do That\) \- Acoustic](https://open.spotify.com/track/6FwHlZaHRx2q6d9p3m2mzo) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [I’d Do Anything for Love \(But I Won’t Do That\) \[Acoustic\]](https://open.spotify.com/album/6keIY7MeHgs7YqtAVSilyv) | 3:13 | 2024-04-29 |  |
 | [I’m Still Standing \- Acoustic](https://open.spotify.com/track/2hnhNNo5Rk65UX8GIlhsAM) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [I’m Still Standing \(Acoustic\)](https://open.spotify.com/album/2GwQircFAs910nPqQUT7jP) | 3:01 | 2022-02-11 | 2023-02-02 |

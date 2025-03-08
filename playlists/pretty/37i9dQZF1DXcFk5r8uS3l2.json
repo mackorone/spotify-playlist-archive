@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Ruthie Foster",
-  "num_followers": 455379,
+  "num_followers": 455420,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIYQAAAADQgYUrpxUNA53k2Z+yj7+0",
+  "snapshot_id": "Z8p9ZAAAAADpNAh53lobEvMv/IbcZTh4",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "Time is a Thief (Deluxe)",
+        "url": "https://open.spotify.com/album/46upZj2t2hft857WHMp3fQ"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "You Deserve More - Magic Bus Sessions",
+      "url": "https://open.spotify.com/track/0S8Rr1eEh348hp2CYLuTV9"
+    },
     {
       "added_at": "2025-02-21 05:00:17",
       "album": {
@@ -81,6 +97,22 @@
       "url": "https://open.spotify.com/track/4LQRjtlOnHX2k8Tjs4n3fk"
     },
     {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "I'm Getting Ready",
+        "url": "https://open.spotify.com/album/4RyIcdSpFQEQFgIW2LrXt9"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 179053,
+      "name": "I'm Getting Ready",
+      "url": "https://open.spotify.com/track/33eyk71WojAYebC0cta8OJ"
+    },
+    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Mileage",
@@ -95,6 +127,22 @@
       "duration_ms": 250765,
       "name": "Mileage",
       "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
+    },
+    {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
+      },
+      "artists": [
+        {
+          "name": "Moose Miller",
+          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
+        }
+      ],
+      "duration_ms": 251197,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
     },
     {
       "added_at": "2025-01-24 05:00:25",
@@ -715,22 +763,6 @@
       "duration_ms": 214500,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6R8g4UJc2jYda4wmrtz09d"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Take Me To The River",
-        "url": "https://open.spotify.com/album/0gSwm3mTIljhLhvQV5ScNN"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/0Z4Pscp8wATq2NkY7PwLOi"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1583,22 +1615,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Bayou Blues (Demo Version)",
         "url": "https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 159427,
       "name": "So Long Savior",
       "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 209475,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R"
     },
     {
       "added_at": "2023-10-06 04:00:00",

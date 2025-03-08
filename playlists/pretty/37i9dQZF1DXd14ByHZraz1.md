@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,490 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,492 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 3 | [Vibe](https://open.spotify.com/track/1B02CC2kZAgs6yPgQH5qpk) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Vibe](https://open.spotify.com/album/4AsPHpiOavaG0a4X8wk85E) | 2:46 |
 | 4 | [Machine](https://open.spotify.com/track/4qHCsEA7EtRKUQVf00tybz) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Human Experience](https://open.spotify.com/album/4Gv0T3z8IBCxGaohWJvoBf) | 2:55 |
 | 5 | [Cuerpo Pegado](https://open.spotify.com/track/5Aquk2RpKdwaMK7s6yFGLA) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Cuerpo Pegado EP](https://open.spotify.com/album/4eJUoi8EvwvCLtXSLmRHvq) | 4:07 |
-| 6 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [MRTINI](https://open.spotify.com/artist/4G7KDsNuWQydICTmPuezLL), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 |
+| 6 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [MRTNI](https://open.spotify.com/artist/0O8F8VzYUlBBnMU1TdaaCa), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 |
 | 7 | [Fighting](https://open.spotify.com/track/1WD13O1Fxz8UfHKAmrbOp6) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Fighting](https://open.spotify.com/album/3CUd8OGMA8tGPOwMcWdNdh) | 2:28 |
 | 8 | [Champagne Bottle](https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Mazzocchi](https://open.spotify.com/artist/3nMnwaOd4MPONzv5i46Wza) | [Champagne Bottle](https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof) | 1:58 |
 | 9 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |

@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-158 songs - 9 hr 45 min
+159 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Comfortable](https://open.spotify.com/track/6xvMkF9YbgGS0TC53ysmWo) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX), [Sareem Poems](https://open.spotify.com/artist/0eftDOchNXxRmc1krF1ZKi) | [Comfortable](https://open.spotify.com/album/7DU6NhZpWMOWsi7kbzgP3l) | 3:05 | 2021-07-26 |  |
 | [Coming Back Around](https://open.spotify.com/track/5NpZjhChvYiJzbBlXynlMy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Cory and the Wongnotes](https://open.spotify.com/album/6DoHXjDY8U748166kiW8J3) | 4:08 | 2021-07-26 |  |
 | [cOoL WATeR foR thE nIGHT](https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:54 | 2024-02-09 |  |
-| [Crazy About You](https://open.spotify.com/track/0huzyKskhjraWtPgj2d1Zu) | [Scott Vlassis](https://open.spotify.com/artist/4e0QYCA4OB6BIG8RNZagSC) | [Crazy About You](https://open.spotify.com/album/0bG9YusGtMBHucPDqtvdGJ) | 3:29 | 2023-05-05 |  |
+| [Crazy About You](https://open.spotify.com/track/0huzyKskhjraWtPgj2d1Zu) | [Scott Vlassis](https://open.spotify.com/artist/4e0QYCA4OB6BIG8RNZagSC) | [Crazy About You](https://open.spotify.com/album/0bG9YusGtMBHucPDqtvdGJ) | 3:29 | 2023-05-05 | 2025-03-08 |
 | [Crush](https://open.spotify.com/track/7GkmADl4mQgmk9x1upnjjN) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt), [Adesha](https://open.spotify.com/artist/24dFswAz2Xxqyju3SqasUw) | [Crush](https://open.spotify.com/album/5DsyOlmMeQK9kdnir41SXe) | 2:46 | 2021-07-26 |  |
 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 | 2021-07-26 |  |
 | [Dance To Keep From Crying \- Extended Mix](https://open.spotify.com/track/025orqTVzganndkUT0M3B0) | [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Dance To Keep From Crying \(Extended\)](https://open.spotify.com/album/1h8QZxz7F5ZiHKUicOJf5X) | 7:58 | 2022-11-18 |  |
@@ -112,6 +112,7 @@
 | [Next To You](https://open.spotify.com/track/4b5djboQENpRDpaiv12t06) | [Oral Bee](https://open.spotify.com/artist/4QawfzCb5NbFRNn4BySXb1), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Splash Bros.](https://open.spotify.com/artist/0IQ1IyebgwJTW4bECBWla3) | [Next To You](https://open.spotify.com/album/6yIMIDnefGWURSE5iEcsLf) | 2:47 | 2023-08-25 |  |
 | [No Apologies](https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G) | [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [No Apologies](https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3) | 2:38 | 2021-07-26 |  |
 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 | 2022-09-23 |  |
+| [Oh, Tommy!](https://open.spotify.com/track/4xnp1CZkHFyC0Z1aExGd70) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Oh, Tommy!](https://open.spotify.com/album/3WSjNtMF6kkQbw4yVSem7l) | 3:49 | 2025-03-07 |  |
 | [On Time](https://open.spotify.com/track/0asGu28LvcTJPa0vxjyJmw) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Kunta](https://open.spotify.com/artist/3ishWMiOKQ8C7iUViLsS6V) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:04 | 2022-06-24 | 2024-01-20 |
 | [Play Your Cards Rite](https://open.spotify.com/track/1yruiYdVJaIV1SzitlHkBO) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Charge It To The Game](https://open.spotify.com/album/4rkOYVGaJHlaeBLJ9ppuGL) | 3:21 | 2021-07-26 |  |
 | [Pootie Tang \(G.T.K.Y\)](https://open.spotify.com/track/64cbbJwQHReRmRaXCZO07f) | [Your Grandparents](https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq) | [Pootie Tang \(G.T.K.Y\)](https://open.spotify.com/album/2GLWCjmTKFZGRxIQXHgcvx) | 3:32 | 2022-07-01 |  |

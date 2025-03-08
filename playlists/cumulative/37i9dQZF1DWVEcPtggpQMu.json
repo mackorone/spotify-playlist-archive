@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/76Xz6GsYrxBnuKkSphL7FH?si=3tj_kMuxQ0GIroI54mDeaA\">Zingah</a> ",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba?si=9jwBgIopSV-dIsK0-813cQ\">Money Badoo</a> ",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 144000,
       "name": "Cheque",
       "url": "https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v"
@@ -3856,7 +3856,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 148855,
       "name": "Dan Up",
       "url": "https://open.spotify.com/track/2JmwtW8RzEtvRLImKEyOQX"
@@ -4646,7 +4646,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 240288,
       "name": "Elokishin",
       "url": "https://open.spotify.com/track/3l2sFobwAtdTmU5oosq8Ie"
@@ -6240,6 +6240,28 @@
       "duration_ms": 172200,
       "name": "Get To Working",
       "url": "https://open.spotify.com/track/0IUM796sKtZbrI1mnt5OV9"
+    },
+    {
+      "album": {
+        "name": "MSRYLUV$CMPNY",
+        "url": "https://open.spotify.com/album/49LGouxaKBJxFRHqiEvVTg"
+      },
+      "artists": [
+        {
+          "name": "Money Badoo",
+          "url": "https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104800,
+      "name": "Gimme My Money",
+      "url": "https://open.spotify.com/track/7iY8FiYAwk1B1HM9tGXl4J"
     },
     {
       "album": {
@@ -10666,7 +10688,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 192463,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4l7JbYlpHAvjz7nhyXhnNe"
@@ -12156,7 +12178,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 176611,
       "name": "Oh My (OMG)",
       "url": "https://open.spotify.com/track/0eK4UXK55n87FrNbVgcK2Y"
@@ -13309,6 +13331,24 @@
     },
     {
       "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/6tIveFyAHJc6EHKxbDQxHY"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198187,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6ljHcnMZWFWI6yi3KR6Elh"
+    },
+    {
+      "album": {
         "name": "Pushing All Day",
         "url": "https://open.spotify.com/album/4SFgy5moP4oKLrzBeOppXs"
       },
@@ -13486,6 +13526,24 @@
       "duration_ms": 254896,
       "name": "Ragga Ragga",
       "url": "https://open.spotify.com/track/5kkZ8HEDP5GlicN4aprvwn"
+    },
+    {
+      "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/7rkPwpqJslMoMXDD68il3O"
+      },
+      "artists": [
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193839,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/3A4hfcOXYkK8ToJWudDrtg"
     },
     {
       "album": {
@@ -17688,7 +17746,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 195552,
       "name": "TOYOTA",
       "url": "https://open.spotify.com/track/5N55suVRCcouaoIxKjNz6x"
@@ -18272,7 +18330,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 219247,
       "name": "Ushukela (feat. Blue Pappi, Sastii & Lowfeye)",
       "url": "https://open.spotify.com/track/623xoswmJONiZIXblBTIVz"
@@ -18620,7 +18678,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 150743,
       "name": "W.G.T.B.H",
       "url": "https://open.spotify.com/track/0j9vntEfH5NNetX7i4hfyj"
@@ -18964,6 +19022,24 @@
       "duration_ms": 180052,
       "name": "WHAT I LIKE",
       "url": "https://open.spotify.com/track/2fjyQGAFWVxjCTNG0AaRb0"
+    },
+    {
+      "album": {
+        "name": "Lord Faku - The Life Of A Dyan",
+        "url": "https://open.spotify.com/album/0ZEMOVswIWO9Hp3nLcolRK"
+      },
+      "artists": [
+        {
+          "name": "Yanga Chief",
+          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185813,
+      "name": "What If? (Mngani)",
+      "url": "https://open.spotify.com/track/7Ez1p7fKxXISiD4bEwo57E"
     },
     {
       "album": {
@@ -19746,7 +19822,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 196624,
       "name": "Year 24",
       "url": "https://open.spotify.com/track/1lYUZRJQCMQRqZZeVi2bdk"

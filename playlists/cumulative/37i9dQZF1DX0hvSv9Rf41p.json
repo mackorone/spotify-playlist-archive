@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with NGHTMRE & A$AP Ferg",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Zeds Dead",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 185600,
       "name": "2 Da Floor",
       "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 168017,
       "name": "Abomination",
       "url": "https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 178285,
       "name": "ACID",
       "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
@@ -1593,6 +1593,28 @@
     },
     {
       "album": {
+        "name": "Back To Life (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/7ottNjrMancqvRpwvJLK2H"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Back To Life (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/5zsfgeZ8D7G6aE0FXF0mAZ"
+    },
+    {
+      "album": {
         "name": "Back To The Top",
         "url": "https://open.spotify.com/album/2vKBP1HzJYgc0aWk1Xqhbj"
       },
@@ -2610,7 +2632,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 260001,
       "name": "Black Ice (feat. Phantogram)",
       "url": "https://open.spotify.com/track/0i3NZpE5KwC70tf0GSKekx"
@@ -4030,7 +4052,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 160000,
       "name": "CHAOS WILL BRING PEACE",
       "url": "https://open.spotify.com/track/6OBJOJLrj6X3rr4O09ROKa"
@@ -5925,6 +5947,28 @@
     },
     {
       "album": {
+        "name": "DIZZY SPELL",
+        "url": "https://open.spotify.com/album/2K09XunjUmF6fU9cc5OeS6"
+      },
+      "artists": [
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DIZZY SPELL",
+      "url": "https://open.spotify.com/track/4MgG06U8F0OdSxaEUInEtK"
+    },
+    {
+      "album": {
         "name": "Glass Orchid",
         "url": "https://open.spotify.com/album/3isMZiyI71ULCUxfif0lnL"
       },
@@ -6551,6 +6595,50 @@
     },
     {
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/36rLDnmL9b3aCdKv1aixd8"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/3oh96zFJQ3wDLW9hv0pDKQ"
+    },
+    {
+      "album": {
+        "name": "DROWNING",
+        "url": "https://open.spotify.com/album/2VWkCiuaQC0gIQcALLp8fR"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        },
+        {
+          "name": "FLY",
+          "url": "https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/4m2T30pUUdeqEr655gMWzF"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "DROWNING",
+      "url": "https://open.spotify.com/track/1ESY1ydyrdB4FxedIgRuQG"
+    },
+    {
+      "album": {
         "name": "Duckstep",
         "url": "https://open.spotify.com/album/5RgFdWIcMQkhs0cstj0iQr"
       },
@@ -7074,7 +7162,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 244965,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0WestNiV3HHGYx241RZb0J"
@@ -7559,6 +7647,24 @@
     },
     {
       "album": {
+        "name": "Return to the Spectrum of Intergalactic Happiness",
+        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253260,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
+    },
+    {
+      "album": {
         "name": "Fall Into Me",
         "url": "https://open.spotify.com/album/7pydg30ApU7ce5KzBeIiET"
       },
@@ -7934,6 +8040,24 @@
       "duration_ms": 140000,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
+    },
+    {
+      "album": {
+        "name": "Feed Your Soul",
+        "url": "https://open.spotify.com/album/5VkZldRsVD5PDL9qrhBKNM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223885,
+      "name": "Feed Your Soul",
+      "url": "https://open.spotify.com/track/0sre5meVOLd1WwoAKN9KTI"
     },
     {
       "album": {
@@ -8588,7 +8712,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 187916,
       "name": "Flip It - Tape B Remix",
       "url": "https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT"
@@ -8994,7 +9118,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 188108,
       "name": "French Love Poem",
       "url": "https://open.spotify.com/track/527QAJEQwKLM4utnk5dwrA"
@@ -9346,6 +9470,28 @@
       "duration_ms": 192722,
       "name": "Get Off The Internet",
       "url": "https://open.spotify.com/track/6XalOWSuUETUT1YEXqMWmJ"
+    },
+    {
+      "album": {
+        "name": "GET SMACKED",
+        "url": "https://open.spotify.com/album/4fxtTnPxoJpfL2z9FgFZ2j"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220350,
+      "name": "GET SMACKED",
+      "url": "https://open.spotify.com/track/4d9PS5dlzlRd3oGhNLxPCb"
     },
     {
       "album": {
@@ -11933,6 +12079,24 @@
     },
     {
       "album": {
+        "name": "Industry Corporate Freak",
+        "url": "https://open.spotify.com/album/30Nk32LOHIeOd9TGxbaW3c"
+      },
+      "artists": [
+        {
+          "name": "Syzy",
+          "url": "https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278583,
+      "name": "Industry Corporate Freak",
+      "url": "https://open.spotify.com/track/33aigucvBFkOAa2yRHy7g5"
+    },
+    {
+      "album": {
         "name": "INERTIA",
         "url": "https://open.spotify.com/album/7E8dIBhTuiuivNbLk4qSgg"
       },
@@ -12224,7 +12388,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 183428,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/2wVGikrHyivMCxdXTc5fsx"
@@ -19716,7 +19880,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 202400,
       "name": "Self Titled Tour Edit - Intro",
       "url": "https://open.spotify.com/track/4gAlboBIF5OGQiMYWa9aqU"
@@ -22506,6 +22670,24 @@
       "duration_ms": 202285,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/5XlufuPluY6GRBlXZvnZVJ"
+    },
+    {
+      "album": {
+        "name": "THE FUNK",
+        "url": "https://open.spotify.com/album/4ywNcvQLQ5kxeT7EYI05Ll"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "THE FUNK",
+      "url": "https://open.spotify.com/track/4ANKIna0NVJ9hayUbv8mRQ"
     },
     {
       "album": {
@@ -25368,6 +25550,28 @@
       "duration_ms": 250312,
       "name": "WON'T FEEL LOVE THE SAME",
       "url": "https://open.spotify.com/track/1AG7tnUYMfaJV79luapn4T"
+    },
+    {
+      "album": {
+        "name": "WONKY",
+        "url": "https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "WONKY",
+      "url": "https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw"
     },
     {
       "album": {

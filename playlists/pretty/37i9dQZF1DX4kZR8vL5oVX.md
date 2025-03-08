@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Yoa \(du titre \#1 au \#12\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,308 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,339 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 19 | [Pour te plaire](https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Pour te plaire](https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq) | 3:04 |
 | 20 | [J'SUIS PAS CELLE 非你所想](https://open.spotify.com/track/16nLNS3trFS9gKDyzdnYrB) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [J'SUIS PAS CELLE 非你所想](https://open.spotify.com/album/4LezVEgzKDGQhpVjbFN4Xq) | 2:26 |
 | 21 | [CONTACT](https://open.spotify.com/track/2IFC0LT6JTyZ5FuobotM6Q) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [CONTACT](https://open.spotify.com/album/7zyPJj0qqTjVUtP5A9Ilz0) | 2:08 |
-| 22 | [Ma faute](https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 3:19 |
+| 22 | [Ma faute](https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 3:19 |
 | 23 | [Ex æquo](https://open.spotify.com/track/1APeKWbOHLEygigClkqJn3) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Ex æquo](https://open.spotify.com/album/465QdjgM6b3VJQo8CgGfPz) | 3:57 |
 | 24 | [Tout pour moi](https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:34 |
 | 25 | [Daddy](https://open.spotify.com/track/6Do4bqBjIN6ZlAXsBY5050) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Daddy](https://open.spotify.com/album/1jysTp8hYT1f8wb4Mbf45P) | 2:05 |

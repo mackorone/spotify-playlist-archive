@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Red Rocks Worship",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Tasha Layton",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -3229,7 +3229,7 @@
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 731465,
+      "duration_ms": 731000,
       "name": "Desirable",
       "url": "https://open.spotify.com/track/5UREzf4cUiZ9gkmcl7poLe"
     },
@@ -4582,6 +4582,24 @@
       "duration_ms": 306988,
       "name": "Good Plans (Studio Version) (feat. Cody Carnes)",
       "url": "https://open.spotify.com/track/2fcXG9pwt3K5P9mSLPTO3D"
+    },
+    {
+      "album": {
+        "name": "Worship Through It (Live from Hope UC)",
+        "url": "https://open.spotify.com/album/7vxvR1MjsjhsfaAefTz4fS"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350990,
+      "name": "Good Plans - Live",
+      "url": "https://open.spotify.com/track/29Zbu7SURpkRooBONvmU30"
     },
     {
       "album": {
@@ -9014,7 +9032,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 576960,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/41fkWLD3nIyHrjDo0zg2oJ"
@@ -15842,7 +15860,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 220133,
       "name": "Worship Through It",
       "url": "https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I"
@@ -15908,6 +15926,32 @@
       "duration_ms": 415598,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
+    },
+    {
+      "album": {
+        "name": "Worthy (Single)",
+        "url": "https://open.spotify.com/album/4Xmx7uvGaQYb0K36ZnnHAv"
+      },
+      "artists": [
+        {
+          "name": "ReFRESH Worship",
+          "url": "https://open.spotify.com/artist/5LVfUFtAdRpEe3zTzZnQLp"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Nicole Binion",
+          "url": "https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516309,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/3HnlDT6ymq3eYX1aRPcUTB"
     },
     {
       "album": {

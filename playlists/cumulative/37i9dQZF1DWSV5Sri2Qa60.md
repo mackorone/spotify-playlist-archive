@@ -2,25 +2,27 @@
 
 ### [Hot New Bands](https://open.spotify.com/playlist/37i9dQZF1DWSV5Sri2Qa60)
 
-> Where your new favourite bands are discovered\. Cover: PUNCHBAG
+> Where your new favourite bands are discovered\. Cover: Girl Group
 
-145 songs - 8 hr 36 min
+151 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2010](https://open.spotify.com/track/7xmCHaJqmZe9uhd3YeM987) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [2010](https://open.spotify.com/album/0HAbMqWVCeVwOBRNPIN02H) | 2:50 | 2024-06-14 | 2024-10-07 |
 | [21st Century Suffragette](https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [21st Century Suffragette](https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z) | 2:26 | 2024-06-14 | 2024-07-13 |
 | [Aon](https://open.spotify.com/track/31NMfMxMEnqDich4OYD8sE) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Aon](https://open.spotify.com/album/6WaqLy4NZfIdPYFmvLa3B2) | 7:10 | 2025-02-07 |  |
-| [Artificial Light](https://open.spotify.com/track/4tleJEhw78LYRpk2Yi7jx0) | [alphabet](https://open.spotify.com/artist/6XcO14dMsawxjyAJOcmjM2) | [Artificial Light](https://open.spotify.com/album/3YA1gyP0uSFcLEjfWyYbSr) | 3:35 | 2024-09-13 |  |
+| [Artificial Light](https://open.spotify.com/track/4tleJEhw78LYRpk2Yi7jx0) | [alphabet](https://open.spotify.com/artist/6XcO14dMsawxjyAJOcmjM2) | [Artificial Light](https://open.spotify.com/album/3YA1gyP0uSFcLEjfWyYbSr) | 3:35 | 2024-09-13 | 2025-03-08 |
 | [Average Boy](https://open.spotify.com/track/1fmo0pStmPFomccb9oY3Mg) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Average Boy](https://open.spotify.com/album/4BYqY0LvQLdxlacGlpIGob) | 3:44 | 2024-06-14 | 2024-07-27 |
 | [AWOL](https://open.spotify.com/track/2aZ5hd1ZxWZD9os2lZcVCV) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Tightropes and Limericks](https://open.spotify.com/album/3OiZGdAnVrEzWECXrDtZq7) | 3:16 | 2024-10-06 |  |
 | [Beach House](https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Beach House](https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt) | 3:17 | 2024-06-14 | 2024-12-13 |
+| [Beautiful Hands](https://open.spotify.com/track/7uOgRXGJD7kHoZGjkjgkYA) | [Big Fear](https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS) | [Beautiful Hands](https://open.spotify.com/album/1k2nj68i8nUY0iT3pA1Pj6) | 3:43 | 2025-03-07 |  |
 | [Bedwetter](https://open.spotify.com/track/0Pkkje3ykyNs1reEKq2Xih) | [Makeshift Art Bar](https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH) | [Bedwetter](https://open.spotify.com/album/3boYoDjJRkzVCRtruIGDXX) | 5:26 | 2025-01-22 |  |
 | [Bleeding](https://open.spotify.com/track/0pj4uSiZvfWSzXsG44sxrN) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [Bleeding](https://open.spotify.com/album/1haIHMphCyAK4P3YWOvNQF) | 4:49 | 2024-08-16 | 2025-01-23 |
 | [Borderline](https://open.spotify.com/track/5ZeId40tYso3dnPaH0Irnl) | [Adult Leisure](https://open.spotify.com/artist/1x8fyCiAVXjUlU0yfRSIP7) | [Borderline](https://open.spotify.com/album/5sFHFJWNEZ1aBBG8z57CcK) | 3:41 | 2024-08-16 | 2025-01-23 |
 | [Brain Freeze](https://open.spotify.com/track/57E8bTfIbarOcrs95hNYI7) | [Everyone Says Hi](https://open.spotify.com/artist/4sGoAzUUT1W6GuzLVEbuBa) | [Brain Freeze](https://open.spotify.com/album/6RiDmI2bffYe65lrZutsau) | 4:16 | 2024-06-14 | 2024-10-07 |
 | [Break The Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break The Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 | 2024-10-06 | 2025-02-08 |
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-06-14 | 2024-10-07 |
+| [Building Roads](https://open.spotify.com/track/4xjZOMTWj9ZsfZKaxCxlaD) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Building Roads](https://open.spotify.com/album/7itUe0aCfugwV54Y7MgobA) | 4:12 | 2025-03-07 |  |
 | [Carnival](https://open.spotify.com/track/1byfGV9rZiQ6JUWusNlFSm) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Carnival](https://open.spotify.com/album/6hoc9hWzAKyCzOL1TYkkgd) | 3:38 | 2024-07-12 | 2024-09-14 |
 | [CEASE.](https://open.spotify.com/track/1B472gBXtRLSnYW91YJzvB) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [CEASE.](https://open.spotify.com/album/22MeZuh7uiFhLz4JNj6L9f) | 3:40 | 2024-06-14 | 2024-09-07 |
 | [Charlie's Comet](https://open.spotify.com/track/2Y7Z6kTzPQFwStThi451lf) | [Mandrake Handshake](https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn) | [Charlie's Comet](https://open.spotify.com/album/5Rfey08LMXUVIPlXr3r6HH) | 4:02 | 2024-07-26 | 2024-10-07 |
@@ -57,7 +59,9 @@
 | [Frog](https://open.spotify.com/track/1NRYR8oEWf17e3wcEbG06O) | [Daisy and The Deadheads](https://open.spotify.com/artist/2W9Smxs6424NtrKRN53rSb) | [Butter Wouldn't Melt](https://open.spotify.com/album/1boGE1Y6CfBS2s6JjRZ7BM) | 4:04 | 2024-07-12 | 2024-11-09 |
 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 | 2024-06-14 | 2024-07-27 |
 | [Fuck It](https://open.spotify.com/track/2EvTsqvQ1nT7Mp2xgPl1fm) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [Fuck It](https://open.spotify.com/album/1eg74Dv2l9Rq2fWvkici0w) | 2:16 | 2025-02-14 |  |
+| [Get 2 Me](https://open.spotify.com/track/4nyQO3FVAI63h5a0HMgY9w) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Get 2 Me](https://open.spotify.com/album/7CYwA8ioZnpTaCJiYVLvxq) | 3:14 | 2025-03-07 |  |
 | [Getting Good](https://open.spotify.com/track/4y3KiwLcKLaKPHf6tH4s7F) | [Lazy Day](https://open.spotify.com/artist/0F9wD0Nf2Hm0iiFJUqsHLy) | [Getting Good](https://open.spotify.com/album/6vdXlGyH1FuAbrkIeQ75iH) | 2:38 | 2024-11-08 |  |
+| [Ghost](https://open.spotify.com/track/6rPmWz9aoFcSqYMoxeMwuD) | [Delivery Service](https://open.spotify.com/artist/2ldcalEDsVntItKFwQgy4W) | [Ghost](https://open.spotify.com/album/7ncGRefKCkvmqtxPKuw1EM) | 3:46 | 2025-03-07 |  |
 | [Glue](https://open.spotify.com/track/64ogJV998yBGKEnu5VrUeB) | [Florentenes](https://open.spotify.com/artist/3ARtFR3uitcSLCVxhnYln0) | [Glue](https://open.spotify.com/album/756HTjlhhotoXjG0egC407) | 4:21 | 2024-10-06 |  |
 | [Golden](https://open.spotify.com/track/2vnGiiOUKM8dUU7RmRs2Bs) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Golden](https://open.spotify.com/album/0FgWiapCduK5CnjIw2hUmo) | 3:42 | 2025-02-14 |  |
 | [Gone Girl](https://open.spotify.com/track/5bajgZvZb1x9OScsPAC1gB) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Gone Girl](https://open.spotify.com/album/3Fgk1n5Tdm7FcE7SpAlW39) | 2:58 | 2024-06-14 | 2024-07-27 |
@@ -90,6 +94,7 @@
 | [Like Best Friends](https://open.spotify.com/track/0g95vn2Szj5apK4CIOcyAZ) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Like Best Friends / Fine For Now](https://open.spotify.com/album/469c6WV6LEt6AjZv4QqYxG) | 3:09 | 2024-06-14 | 2024-10-07 |
 | [Loving Feeling](https://open.spotify.com/track/2LikCq4xT7CO3X3HTeTanh) | [PARTICLS](https://open.spotify.com/artist/2B7GYX6sOts4KNiI6ZLjrK) | [Loving Feeling/ Face To Face](https://open.spotify.com/album/5BaAm9TcA9UYTkdyFXbY4w) | 3:27 | 2025-01-22 |  |
 | [Man Of Ill Repute](https://open.spotify.com/track/5YUJszTDZObtNi9exv7eVm) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Man Of Ill Repute](https://open.spotify.com/album/5wqrQL1wdxlOrB5Sxuu8Tc) | 3:26 | 2024-11-08 |  |
+| [Master Plan](https://open.spotify.com/track/6mwSxfB6frIf2PuZmSNe1V) | [Melin Melyn](https://open.spotify.com/artist/0wTfMphWYgAHdaXricLywe) | [Mill On The Hill](https://open.spotify.com/album/4tTefEgaW53zHYtrV9ZUHn) | 4:32 | 2025-03-07 |  |
 | [MEASURE ME](https://open.spotify.com/track/0YmbGL8wGTW9nJ538LEqnF) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv), [Softlizard](https://open.spotify.com/artist/4pGYioOoAwTF2d44wFGTHM) | [MEASURE ME](https://open.spotify.com/album/5L8bwluc0aeraI6sjNR7VU) | 4:08 | 2024-10-06 | 2024-11-09 |
 | [Meltdown](https://open.spotify.com/track/0efAWuRMkdOdFdCHWM6E2I) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Meltdown](https://open.spotify.com/album/0FPCutnlPOJfCrQkdgMnYi) | 3:36 | 2024-12-13 |  |
 | [Mown In Circles](https://open.spotify.com/track/4g7YnATFgEFKmRxqnlQqtL) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Mown In Circles](https://open.spotify.com/album/6G7iPqdN75EsnBjIWdrSW0) | 2:35 | 2024-07-12 | 2024-08-17 |
@@ -153,5 +158,6 @@
 | [Why](https://open.spotify.com/track/3ChcaaT5urGKwbNk6Xr8ko) | [Y](https://open.spotify.com/artist/3Lj9IhE3QFZJo2N2RcQ7Ih) | [Why](https://open.spotify.com/album/77XPxlBWq02sddg7jXYCJB) | 3:02 | 2025-02-07 |  |
 | [Wife Once](https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR) | [Memory of Speke](https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78) | [Wife Once](https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt) | 3:45 | 2024-09-13 | 2025-02-08 |
 | [Yard](https://open.spotify.com/track/1C2TixzCNkUiSqJqkOckor) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Yard](https://open.spotify.com/album/2tJx1gxkXtuCXHWz3G8bib) | 3:08 | 2024-10-06 | 2025-02-08 |
+| [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 | 2025-03-07 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

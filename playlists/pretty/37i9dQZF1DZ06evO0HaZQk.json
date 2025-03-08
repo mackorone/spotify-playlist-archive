@@ -1,37 +1,13 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 510970,
+  "num_followers": 511030,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAAAZHwz44nYS2OjGi1ZTw45I",
+  "snapshot_id": "Z8jlgAAAAAA7rF7IKZe46qI/mg3VF4Nq",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Clandestino (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/7x2bjtxejjCzg64hRa5f5Y"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Israel Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/1Ix5ads4niaRP9TnT08gqI"
-        },
-        {
-          "name": "Diego del Morao",
-          "url": "https://open.spotify.com/artist/0SJeISsEAcENQ8JU6w9FPw"
-        }
-      ],
-      "duration_ms": 290401,
-      "name": "Amor Clandestino - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/3QsAugA92ZAQxysKw2ebAz"
-    },
     {
       "added_at": null,
       "album": {
@@ -903,6 +879,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Clandestino (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7x2bjtxejjCzg64hRa5f5Y"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Israel Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/1Ix5ads4niaRP9TnT08gqI"
+        },
+        {
+          "name": "Diego del Morao",
+          "url": "https://open.spotify.com/artist/0SJeISsEAcENQ8JU6w9FPw"
+        }
+      ],
+      "duration_ms": 290401,
+      "name": "Amor Clandestino - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3QsAugA92ZAQxysKw2ebAz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -955,26 +955,6 @@
       "duration_ms": 236480,
       "name": "Vivir\u00e9 para Ti (feat. Natalia Lafourcade) - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universo De Ley",
-        "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 199990,
-      "name": "Ese Beso",
-      "url": "https://open.spotify.com/track/1IRfZJq6prpHXM3HZFejb0"
     },
     {
       "added_at": null,

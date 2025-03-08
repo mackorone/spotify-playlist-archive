@@ -1,13 +1,33 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 40374,
+  "num_followers": 40501,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAAAyC7WRzqxylG43/PqAIxYl",
+  "snapshot_id": "Z8jlgAAAAABWMEHNZu6VaoKQrG7MtXqq",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "DEFIENDO EL TERRE",
+        "url": "https://open.spotify.com/album/3dSuYPcIUIgUdUZsKZiDMh"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1xima Ventaja",
+          "url": "https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "DEFIENDO EL TERRE",
+      "url": "https://open.spotify.com/track/150x3uhN0IOSohoxaj3auy"
+    },
     {
       "added_at": null,
       "album": {
@@ -595,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros de Encargo, Vol. 1",
+        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 247875,
+      "name": "Estratega de Guerra",
+      "url": "https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Torre Eiffel",
         "url": "https://open.spotify.com/album/7zkdFW7q3ASZDMewQSV4Ab"
       },
@@ -631,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros de Encargo, Vol. 1",
-        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 247875,
-      "name": "Estratega de Guerra",
-      "url": "https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mas Buscado",
         "url": "https://open.spotify.com/album/16MeKaH8tGMsB5CqfN5s5o"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 185000,
       "name": "El Mas Buscado",
       "url": "https://open.spotify.com/track/0vtteN4GAHvd6XUQIpwzYI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muchas Gracias Chavalones (En Vivo)",
-        "url": "https://open.spotify.com/album/7nTD2z80D62N6JoyPtVjZA"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 228875,
-      "name": "Muchas Gracias Chavalones (En Vivo)",
-      "url": "https://open.spotify.com/track/1BlDvvKfBQZZn2wnJdUshp"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Elegancia Se Mir\u00f3",
-        "url": "https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD"
+        "name": "Muchas Gracias Chavalones (En Vivo)",
+        "url": "https://open.spotify.com/album/7nTD2z80D62N6JoyPtVjZA"
       },
       "artists": [
         {
@@ -712,13 +712,13 @@
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         },
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 208011,
-      "name": "La Elegancia Se Miro",
-      "url": "https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN"
+      "duration_ms": 228875,
+      "name": "Muchas Gracias Chavalones (En Vivo)",
+      "url": "https://open.spotify.com/track/1BlDvvKfBQZZn2wnJdUshp"
     },
     {
       "added_at": null,
@@ -739,6 +739,26 @@
       "duration_ms": 208373,
       "name": "Nos Cayeron los Guachitos",
       "url": "https://open.spotify.com/track/2OcwUZJSDpmqDTdHoGI1PH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Elegancia Se Mir\u00f3",
+        "url": "https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 208011,
+      "name": "La Elegancia Se Miro",
+      "url": "https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN"
     },
     {
       "added_at": null,
@@ -875,26 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.L.V.",
-        "url": "https://open.spotify.com/album/3SxCRrJRJuFwtw2x4j86bU"
+        "name": "No Son Caricaturas",
+        "url": "https://open.spotify.com/album/4kIdCDTBEwE0aH19xyWdmt"
       },
       "artists": [
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
         }
       ],
-      "duration_ms": 159608,
-      "name": "A.L.V.",
-      "url": "https://open.spotify.com/track/29gK0gdgTdn0LsU9UTEwsn"
+      "duration_ms": 202418,
+      "name": "No Son Caricaturas",
+      "url": "https://open.spotify.com/track/3DiUJWoWuCbxqBdHAYYGt7"
     },
     {
       "added_at": null,

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125410,
+  "num_followers": 125416,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATwqHTBpEXpZV5Hh2TkfoyGeG3rG0M",
+  "snapshot_id": "AAATxNThoRrHLpXTG4o7ME1b26+ZA7Ag",
   "tracks": [
+    {
+      "added_at": "2025-03-07 14:49:09",
+      "album": {
+        "name": "Erased",
+        "url": "https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Erased",
+      "url": "https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq"
+    },
     {
       "added_at": "2025-03-06 16:01:44",
       "album": {
@@ -1183,78 +1203,6 @@
       "duration_ms": 235200,
       "name": "PLAY - VIP",
       "url": "https://open.spotify.com/track/5aR1RuL4EFsiYFl99lkdbR"
-    },
-    {
-      "added_at": "2024-11-29 17:08:05",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/6WPrb9Tj8DszFIUhnzjg2Y"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        },
-        {
-          "name": "UnityTX",
-          "url": "https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/6FVi8am0wUrPVKte7uOhaj"
-    },
-    {
-      "added_at": "2024-11-28 15:31:27",
-      "album": {
-        "name": "Honey Water",
-        "url": "https://open.spotify.com/album/3DKQOnlXdHWQaX2Br1evcw"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        }
-      ],
-      "duration_ms": 220031,
-      "name": "Honey Water",
-      "url": "https://open.spotify.com/track/6UNPW2DYLu0j2PInw98KXo"
-    },
-    {
-      "added_at": "2024-11-27 13:47:47",
-      "album": {
-        "name": "High Octane",
-        "url": "https://open.spotify.com/album/5Oju8kpo1S0PxcpF83pdIu"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        }
-      ],
-      "duration_ms": 110344,
-      "name": "High Octane",
-      "url": "https://open.spotify.com/track/3SsRCTJzSTkf6pX8Yf1cU2"
-    },
-    {
-      "added_at": "2024-11-26 11:53:56",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/2FlGX8esQqep3E7GSVsdwK"
-      },
-      "artists": [
-        {
-          "name": "Duce",
-          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
-        }
-      ],
-      "duration_ms": 179468,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5oGYQBgAZHvdAaWTw59eWb"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

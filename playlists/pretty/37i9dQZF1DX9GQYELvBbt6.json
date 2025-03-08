@@ -1,6 +1,6 @@
 {
   "description": "\u9670\u30ad\u30e3\u3067\u3082\u3044\u3044\u3002\u96c6\u56e3\u306b\u306a\u3058\u3081\u306a\u304f\u3066\u3082\u3044\u3044\u3002\u3072\u3068\u308a\u3067\u904e\u3054\u3059\u6642\u9593\u306b\u3082\u3001\u97f3\u697d\u306f\u305d\u3063\u3068\u5bc4\u308a\u6dfb\u3063\u3066\u304f\u308c\u308b\u3002 Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 29915,
+  "num_followers": 29921,
   "original_name": "\u5b64\u72ec\u306e\u97f3\u304c\u8074\u3053\u3048\u308b",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-03-04 15:00:29",
       "album": {
-        "name": "DiNA",
-        "url": "https://open.spotify.com/album/02hQy084ewZMZCKLtxwg6c"
+        "name": "\u6b63\u89e3",
+        "url": "https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X"
       },
       "artists": [
         {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
         }
       ],
-      "duration_ms": 263360,
-      "name": "DiNA",
-      "url": "https://open.spotify.com/track/4ga5kO7qacjGkYZQYCK9Og"
+      "duration_ms": 358666,
+      "name": "\u6b63\u89e3",
+      "url": "https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF"
     },
     {
       "added_at": "2025-03-04 15:00:29",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-03-04 15:00:29",
       "album": {
+        "name": "DiNA",
+        "url": "https://open.spotify.com/album/02hQy084ewZMZCKLtxwg6c"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "DiNA",
+      "url": "https://open.spotify.com/track/4ga5kO7qacjGkYZQYCK9Og"
+    },
+    {
+      "added_at": "2025-03-04 15:00:29",
+      "album": {
         "name": "HEART STATION",
         "url": "https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 317946,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L"
-    },
-    {
-      "added_at": "2025-03-04 15:00:29",
-      "album": {
-        "name": "\u6b63\u89e3",
-        "url": "https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "\u6b63\u89e3",
-      "url": "https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF"
     },
     {
       "added_at": "2025-03-04 15:00:29",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-03-04 15:00:29",
       "album": {
-        "name": "\u30d3\u30ea\u30df\u30ea\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 226627,
-      "name": "\u30d3\u30ea\u30df\u30ea\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9"
-    },
-    {
-      "added_at": "2025-03-04 15:00:29",
-      "album": {
         "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 273437,
       "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+    },
+    {
+      "added_at": "2025-03-04 15:00:29",
+      "album": {
+        "name": "\u30d3\u30ea\u30df\u30ea\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 226627,
+      "name": "\u30d3\u30ea\u30df\u30ea\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9"
     },
     {
       "added_at": "2025-03-04 15:00:29",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-03-04 15:00:29",
       "album": {
-        "name": "12:45 (Stripped)",
-        "url": "https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv"
-      },
-      "artists": [
-        {
-          "name": "Etham",
-          "url": "https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "12:45 - Stripped",
-      "url": "https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP"
-    },
-    {
-      "added_at": "2025-03-04 15:00:29",
-      "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/33enKMlM08AOwYBvnMWeqc"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 204100,
       "name": "Letters",
       "url": "https://open.spotify.com/track/1uGSFblwtIIvje1iJXbpFT"
+    },
+    {
+      "added_at": "2025-03-04 15:00:29",
+      "album": {
+        "name": "12:45 (Stripped)",
+        "url": "https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv"
+      },
+      "artists": [
+        {
+          "name": "Etham",
+          "url": "https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "12:45 - Stripped",
+      "url": "https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP"
     },
     {
       "added_at": "2025-03-04 15:00:29",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-03-04 15:00:29",
       "album": {
-        "name": "Faster than me",
-        "url": "https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5"
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 158838,
-      "name": "Faster than me",
-      "url": "https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv"
+      "duration_ms": 286640,
+      "name": "\u30ed\u30f3\u30ea\u30fc\u30e9\u30d7\u30bd\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/2T2PRhaEQLPoo78E8zyVgw"
     },
     {
       "added_at": "2025-03-04 15:00:29",
@@ -783,18 +783,18 @@
     {
       "added_at": "2025-03-04 15:00:29",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
+        "name": "Faster than me",
+        "url": "https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 286640,
-      "name": "\u30ed\u30f3\u30ea\u30fc\u30e9\u30d7\u30bd\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/2T2PRhaEQLPoo78E8zyVgw"
+      "duration_ms": 158838,
+      "name": "Faster than me",
+      "url": "https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv"
     },
     {
       "added_at": "2025-03-04 15:00:29",

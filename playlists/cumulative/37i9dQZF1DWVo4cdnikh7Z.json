@@ -847,6 +847,32 @@
     },
     {
       "album": {
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/3BW412loH9RSSRxVrzBsuK"
+      },
+      "artists": [
+        {
+          "name": "Johan Shevanesh",
+          "url": "https://open.spotify.com/artist/6o8E6PZY8PvJP3zu0XkAIF"
+        },
+        {
+          "name": "Miran",
+          "url": "https://open.spotify.com/artist/1gke7mIenpjgit8Qa6TUXO"
+        },
+        {
+          "name": "Lil Shiva",
+          "url": "https://open.spotify.com/artist/0euGRs7e4ZKsWFEsUfeu24"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215375,
+      "name": "Aaya Vadai",
+      "url": "https://open.spotify.com/track/1U6MIZo8qh9nQndsur9Vgh"
+    },
+    {
+      "album": {
         "name": "Aayah Song",
         "url": "https://open.spotify.com/album/3Gqyb6zx8fHbn2qX82H57m"
       },
@@ -914,7 +940,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 217592,
       "name": "Aazhi - From \"Niram Marum Ulagil\"",
       "url": "https://open.spotify.com/track/32KsKCSxwYBsLTr4b84jjb"
@@ -2256,6 +2282,32 @@
       "duration_ms": 244000,
       "name": "Ammadi",
       "url": "https://open.spotify.com/track/7oktIeahxdxDxLiZE3qYkh"
+    },
+    {
+      "album": {
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/3BW412loH9RSSRxVrzBsuK"
+      },
+      "artists": [
+        {
+          "name": "Johan Shevanesh",
+          "url": "https://open.spotify.com/artist/6o8E6PZY8PvJP3zu0XkAIF"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Logan",
+          "url": "https://open.spotify.com/artist/2q8w1qcJJmvYpTc58BaaaD"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264458,
+      "name": "Ammak Ammak",
+      "url": "https://open.spotify.com/track/0DfQJ6edCtMUo3a3ZcdJCg"
     },
     {
       "album": {
@@ -3886,7 +3938,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 222400,
       "name": "Awsum Kissa - From \"Sweetheart\"",
       "url": "https://open.spotify.com/track/15oBrSz76DwNEMmdLRVTOa"

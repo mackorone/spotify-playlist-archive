@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 ill quentin.",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 Los T\u00edteres.",
   "name": "el under",
   "tracks": [
     {
@@ -2719,6 +2719,24 @@
     },
     {
       "album": {
+        "name": "Me Tir\u00e9",
+        "url": "https://open.spotify.com/album/2qphEdvWd6vCJWQsI4Q99m"
+      },
+      "artists": [
+        {
+          "name": "Los T\u00edteres",
+          "url": "https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316508,
+      "name": "Me Tir\u00e9",
+      "url": "https://open.spotify.com/track/0ApZq70y3QiAZIVFeXkXP7"
+    },
+    {
+      "album": {
         "name": "Un Dios Nuevo",
         "url": "https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll"
       },
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 202827,
       "name": "NT al sol",
       "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
@@ -3938,7 +3956,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 239827,
       "name": "Simulando Esperar",
       "url": "https://open.spotify.com/track/29NlMSR1PJstmIksMhLMKt"
@@ -4032,7 +4050,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 290793,
       "name": "Su Forma de Mirar",
       "url": "https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT"
@@ -4054,6 +4072,24 @@
       "duration_ms": 242186,
       "name": "Such A Witch",
       "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
+    },
+    {
+      "album": {
+        "name": "Temporal (Bby date cuenta)",
+        "url": "https://open.spotify.com/album/0hxSPPhAH1qeVpf2nLX7R5"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172983,
+      "name": "Temporal (Bby date cuenta)",
+      "url": "https://open.spotify.com/track/2xWqMw3XIEnMni7GJDxqQc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Playlista współtworzona z marcową ambasadorką <a href=“spotify:artist:5GTjrNnnlOPxOgi3JAW2Eq”>Melą Koteluk</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,470 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,482 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

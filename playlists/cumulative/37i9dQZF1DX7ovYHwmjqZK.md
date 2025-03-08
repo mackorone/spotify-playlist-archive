@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-159 songs - 9 hr 28 min
+160 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Flor De Lis](https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d) | [Duo Flamingo](https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3) | [Rosa Morena EP](https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm) | 3:02 | 2021-11-26 |  |
 | [Garoto \- Ao Vivo](https://open.spotify.com/track/6O2l61ZGgLo2X4jk37L62k) | [Wanderson Lopez](https://open.spotify.com/artist/6h9bYkUKLSwIz5QpU5pQ5A), [Daniel Freire](https://open.spotify.com/artist/6onbHhPrPUlO3oZVI3d2gF), [Gabriela Deps](https://open.spotify.com/artist/2opxc4s9hYeX6m64w0P1eI), [Ariana Mendonça](https://open.spotify.com/artist/4F41zUk5aoh9aBmZojdSMF), [Cristiano Costa](https://open.spotify.com/artist/2pVlCFhYdHicGSXHKLZQad), [Renato Rocha](https://open.spotify.com/artist/57mFL4s85u6sFhZKuEYxxf), [Gabriel Novaes](https://open.spotify.com/artist/4TwEzkGnAshfu8bJtpbxQZ), [Roger Bezerra](https://open.spotify.com/artist/0zQ9H0IO107WhC2nQZWQEW), [Hugo Maciel](https://open.spotify.com/artist/3MqqQAc1pTbDBlj9N6jbtG), [Jonathan Yoshikawa](https://open.spotify.com/artist/6lRUToyBDaLfA88MMwTTYA) | [Garoto \- Wanderson Lopez Ensemble \(Ao Vivo\)](https://open.spotify.com/album/56Qvs3eXRYJhbZhXBZSWJT) | 3:29 | 2023-07-07 |  |
 | [Garra \- Ao vivo](https://open.spotify.com/track/2sc5q8Zd8kpvJ3hAJJmBwG) | [Dani Gurgel](https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw), [Debora Gurgel](https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT), [Thiago Rabello](https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB), [Sidiel Vieira](https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50) | [Garra](https://open.spotify.com/album/1CiGUeRx6a1yAvLwB0l3w2) | 3:48 | 2021-11-26 |  |
+| [Girls from Bela Vista](https://open.spotify.com/track/1av15BaMO4D40o7ndvriul) | [Petit Comité](https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK), [Maurício Tagliari](https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml), [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3) | [Bossa nova \- Girls from Bela Vista](https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT) | 4:24 | 2025-03-07 |  |
 | [Hermana](https://open.spotify.com/track/5JR2HVcJoTWsk7ekHMd5RM) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 4:33 | 2021-11-26 |  |
 | [India \(Tarde De Sol\)](https://open.spotify.com/track/1O5NM6DEmroU160palBrX7) | [Last Aliens in Rio](https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8) | [India](https://open.spotify.com/album/0ZUGe88QMoEUDETw0rOao3) | 3:08 | 2021-11-26 |  |
 | [Ingênuo](https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Happy Madness](https://open.spotify.com/album/4ATSdXBELcnSW957onlnTJ) | 4:25 | 2021-11-26 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/0Y2DVvg0bwD4dBrjNZTxqd?si=EWU53sHxThqJJzdHNOdyUA">Logan Pietersen</a>
 
-150 songs - 8 hr 25 min
+151 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [COUNTRY IS FOR ME](https://open.spotify.com/track/5ZQThi4zaMjCYWCnJQiCTa) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [COUNTRY IS FOR ME](https://open.spotify.com/album/1zvLuzCsvWou3ERPsjkpiN) | 3:00 | 2024-10-24 |  |
 | [Country Song Came On](https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country Song Came On](https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC) | 3:54 | 2024-09-05 | 2024-11-09 |
 | [Country Till I Die](https://open.spotify.com/track/1AwFtV87jGkDKHLm7OZcea) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Country Till I Die](https://open.spotify.com/album/0jJ9YbIbrkY0jyQrye8O4u) | 2:31 | 2024-12-05 | 2025-01-31 |
-| [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-08-09 |  |
+| [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-08-09 | 2025-03-08 |
 | [Crying In The Rain](https://open.spotify.com/track/0ggzUgUkwFxNrXdNDe4lfU) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa), [Mark Beling](https://open.spotify.com/artist/6XuQauMi5r2sQiiek0lz7V) | [Crying In The Rain](https://open.spotify.com/album/6eVqKwcleqvmIHMOt5cFFo) | 3:06 | 2024-09-12 | 2024-09-24 |
 | [Damn Love](https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai) | 3:10 | 2024-02-09 | 2024-09-13 |
 | [Dancin' In The Stars](https://open.spotify.com/track/627prN1Fich2Z7u0zttQat) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Dancin' In The Stars](https://open.spotify.com/album/5I8QMWeW9JjS1NHNyAcaFd) | 3:19 | 2024-09-05 |  |
@@ -93,6 +93,7 @@
 | [Making Good Time](https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Making Good Time](https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ) | 2:47 | 2025-02-06 | 2025-03-07 |
 | [Maybe My Baby](https://open.spotify.com/track/3lcbd1EnJrVl2gWeQnZHfJ) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Maybe My Baby](https://open.spotify.com/album/0F8MksmxSo8spHZifIP0qQ) | 3:28 | 2024-06-13 | 2024-07-05 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-02 |  |
+| [Mulcair Road](https://open.spotify.com/track/3TqBb0sI0oXZqy9LFMQykc) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Mulcair Road](https://open.spotify.com/album/70hsR0QI8ssdyHYJhxmCbh) | 3:30 | 2025-03-07 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-05-30 | 2025-01-31 |
 | [My Refuge](https://open.spotify.com/track/0EAgg3cSPMDPV18k4qfpCx) | [Mag Neef](https://open.spotify.com/artist/5D0CI2zgDZ3rbRWrPwAi9V) | [My Life, Adonai's Script](https://open.spotify.com/album/0jp827smsnG7tjw3edozAY) | 3:59 | 2025-01-30 | 2025-02-07 |
 | [Neon Moon](https://open.spotify.com/track/2VgtXJ0mz6LWNL1aWoqhcP) | [Minke Brits](https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x) | [Neon Moon](https://open.spotify.com/album/4FyHcKd600yQ6xSVA3BbPy) | 3:13 | 2024-12-19 | 2025-01-31 |

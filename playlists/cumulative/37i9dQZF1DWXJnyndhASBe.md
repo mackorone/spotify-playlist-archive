@@ -2,7 +2,7 @@
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> White, kuqe i Eryk Moczko w RAPREZENTACJI Polski w Barcelonie ⚽🇵🇱 Oglądaj relacje na żywo na kanale @spotifypoland <a href=“https://www.instagram.com/spotifypoland”>@spotifypoland</a>
+> White 2115, kuqe 2115 i Eryk Moczko w RAPREZENTACJI Polski w Barcelonie ⚽🇵🇱
 
 584 songs - 1 day 3 hr 22 min
 

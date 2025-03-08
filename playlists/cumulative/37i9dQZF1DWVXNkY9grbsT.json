@@ -824,7 +824,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 221775,
       "name": "An Absolute Living Hell, Pt. 1",
       "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 172000,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/0ueQD35KaDdJ5gSmLebaIa"
@@ -4407,6 +4407,24 @@
     },
     {
       "album": {
+        "name": "Kumquat",
+        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196296,
+      "name": "Kumquat",
+      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
+    },
+    {
+      "album": {
         "name": "La Hormiga",
         "url": "https://open.spotify.com/album/14jVdvucxcnyMieoKd1rwb"
       },
@@ -5618,7 +5636,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 210520,
       "name": "Our Wretched Fantasy",
       "url": "https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF"
@@ -6697,6 +6715,28 @@
     },
     {
       "album": {
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS"
+      },
+      "artists": [
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "James Grant",
+          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270996,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
+    },
+    {
+      "album": {
         "name": "Trance Spirits (2022 Remaster)",
         "url": "https://open.spotify.com/album/4GLYU9Ajjtqe9QwU8wOviJ"
       },
@@ -7300,6 +7340,24 @@
       "duration_ms": 317228,
       "name": "Subtle Bodies",
       "url": "https://open.spotify.com/track/4x9L4R5dxQsTEUcx4YgzU7"
+    },
+    {
+      "album": {
+        "name": "Sumerian Green",
+        "url": "https://open.spotify.com/album/5cEjLVwvdg1uf5L6b6xb7d"
+      },
+      "artists": [
+        {
+          "name": "Arborra",
+          "url": "https://open.spotify.com/artist/3badfEfCjnC3Du7lTZLSNK"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "Sumerian Green",
+      "url": "https://open.spotify.com/track/1clrCBwtMxOc9KoZLh1Iy4"
     },
     {
       "album": {

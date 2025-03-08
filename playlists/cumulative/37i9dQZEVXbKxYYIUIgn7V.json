@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 128780,
       "name": "Angels Sippen Mashup",
       "url": "https://open.spotify.com/track/6WpRQIRWVfmaS6gr22Zxh0"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 128780,
       "name": "Angels Sippen Mashup",
       "url": "https://open.spotify.com/track/7CwJ8o9FdExCbIuLCnsHK8"
@@ -4797,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "Can't Help But Worry (Every Night Every Day)",
+        "url": "https://open.spotify.com/album/7vJm6qiekHsbQ5HJBSnfwX"
+      },
+      "artists": [
+        {
+          "name": "Soluna",
+          "url": "https://open.spotify.com/artist/2fRP0DEazBFA0FoLvkyHTY"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109440,
+      "name": "Can't Help But Worry (Every Night Every Day)",
+      "url": "https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i"
+    },
+    {
+      "album": {
         "name": "AKKOR",
         "url": "https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G"
       },
@@ -5892,7 +5910,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 166425,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ"
@@ -6626,7 +6644,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 224548,
       "name": "Die Tasse Kaffee - Radio",
       "url": "https://open.spotify.com/track/1NW41sXZl4oo2zpMO5LzUj"
@@ -7182,6 +7200,24 @@
       "duration_ms": 171428,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/4Q9ZUCGB0K3QDCNQBeV8GQ"
+    },
+    {
+      "album": {
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/47z8Jo5YL09Q6urbDyo257"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171443,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/3gWH0ShPSdYemjRpShD0jA"
     },
     {
       "album": {
@@ -12825,6 +12861,24 @@
     },
     {
       "album": {
+        "name": "ICH KOMME",
+        "url": "https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180314,
+      "name": "ICH KOMME",
+      "url": "https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q"
+    },
+    {
+      "album": {
         "name": "Ich lieb dich kaputt",
         "url": "https://open.spotify.com/album/4BxFHItBLCsQW6XQ4Wf63K"
       },
@@ -15483,6 +15537,24 @@
     },
     {
       "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror"
+      },
+      "artists": [
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175853,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
+    },
+    {
+      "album": {
         "name": "Like A Boss",
         "url": "https://open.spotify.com/album/4AQXRW8Hwrs9h9XyVOfyHD"
       },
@@ -16026,7 +16098,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -16946,7 +17018,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 104253,
       "name": "Matrix Lights Hoodtrap",
       "url": "https://open.spotify.com/track/0eeJLxswpJjflHlvasmmYK"
@@ -22514,7 +22586,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
@@ -24128,7 +24200,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 142943,
       "name": "Something to Believe In",
       "url": "https://open.spotify.com/track/5J40E1eRcEKaN8xl3Ba0D5"
@@ -24844,7 +24916,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 135192,
       "name": "strangers",
       "url": "https://open.spotify.com/track/2QdcmNlQdW8iA4JEg29cgx"
@@ -28175,6 +28247,24 @@
     },
     {
       "album": {
+        "name": "Wasted Love",
+        "url": "https://open.spotify.com/album/7ejbwyfj7WyTJQq3vdShck"
+      },
+      "artists": [
+        {
+          "name": "JJSine",
+          "url": "https://open.spotify.com/artist/0D8upgYF7q9t2nzerw7ctC"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233617,
+      "name": "Wasted Love",
+      "url": "https://open.spotify.com/track/2OMiavjnXi4yDTBYPEo1gy"
+    },
+    {
+      "album": {
         "name": "Wasted Youth",
         "url": "https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy"
       },
@@ -28354,10 +28444,28 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
+    },
+    {
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: PARTYNEXTDOOR & Drake
 
-673 songs - 1 day 9 hr 51 min
+674 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Give You What You Want](https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Give You What You Want](https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep) | 2:39 | 2022-11-11 | 2023-07-22 |
 | [GLOCK](https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:48 | 2024-06-14 |  |
 | [Go Down \(feat\. TisaKorean\)](https://open.spotify.com/track/2Qr5PWUt8XycAAv338LicY) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:30 | 2023-02-24 | 2023-09-23 |
+| [Go Girl!](https://open.spotify.com/track/79U3cGFJgD70GjihrqSe4X) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Go Girl!](https://open.spotify.com/album/7xmbSYBTLAIBVArsmcYe09) | 3:36 | 2025-03-07 |  |
 | [Goals](https://open.spotify.com/track/7iOwNBjjSi4siEMGryzUx4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Mac & Cheese 5 \(Versions\)](https://open.spotify.com/album/4X7trxVVObj1mdGvdl08Fs) | 3:37 | 2024-02-23 | 2024-02-28 |
 | [God Sent \(feat\. Vory\)](https://open.spotify.com/track/00oGVikl6GISbBbCiJyyi4) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Lost In Melody](https://open.spotify.com/album/5T3IUCaNX06cTAk38oZlIj) | 2:54 | 2022-10-21 | 2023-04-01 |
 | [Gold Medals](https://open.spotify.com/track/3OCMZxU1rN32Kvb39JdsDm) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 4:32 | 2023-11-10 | 2024-01-27 |
@@ -676,7 +677,7 @@
 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2023-11-17 | 2024-07-13 |
 | [You Got Me](https://open.spotify.com/track/1T095p75wC8BqEYlk0ld56) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [2 Get You Thru The Rain](https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji) | 1:51 | 2021-12-10 | 2022-04-30 |
 | [You know My body \(feat\. Capella Grey\)](https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [You know My body \(feat\. Capella Grey\)](https://open.spotify.com/album/2TJan1yGyJ1Rq6IissY9Gu) | 2:35 | 2021-10-15 | 2022-03-26 |
-| [You The One](https://open.spotify.com/track/0s5XQmXojAvhbX7IxpqDlq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [You The One](https://open.spotify.com/album/2t4e1LAgV9nYBCEO8lKpp6) | 2:45 | 2025-02-21 |  |
+| [You The One](https://open.spotify.com/track/0s5XQmXojAvhbX7IxpqDlq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [You The One](https://open.spotify.com/album/2t4e1LAgV9nYBCEO8lKpp6) | 2:45 | 2025-02-21 | 2025-03-08 |
 | [You're Mine](https://open.spotify.com/track/07xqoIMfRqqlh945iNXZ94) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [EROS](https://open.spotify.com/album/2gSZZtjbuBEJ4G9qavkfUG) | 2:05 | 2024-04-05 | 2024-04-27 |
 | [Young & Free](https://open.spotify.com/track/6fAykULmAdoUNqIorQZAVs) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Young & Free](https://open.spotify.com/album/0UeyTVnph7j8kYLCJMcYai) | 3:02 | 2023-11-03 | 2024-02-17 |
 | [Your Friends](https://open.spotify.com/track/6ZOCnU7MLtcZeRKAxgsqTT) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Your Friends](https://open.spotify.com/album/14LBhlalfWuVwSoLMEW8I1) | 2:19 | 2023-08-25 | 2024-02-24 |

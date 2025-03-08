@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-15",
-  "description": "Um apanhado do soul brasileiro para animar e dan\u00e7ar. Foto: Lino Krizz",
+  "description": "Um apanhado do soul brasileiro para animar e dan\u00e7ar. Foto: Paula Lima",
   "name": "Soul Brasil",
   "tracks": [
     {
@@ -578,6 +578,24 @@
       "duration_ms": 221640,
       "name": "Decolagem",
       "url": "https://open.spotify.com/track/1rEBQsE7emJv5MINSUFKMU"
+    },
+    {
+      "album": {
+        "name": "Deguste",
+        "url": "https://open.spotify.com/album/5Nujjbnz1PSAtvyiqhXhoM"
+      },
+      "artists": [
+        {
+          "name": "Paula Lima",
+          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226403,
+      "name": "Deguste",
+      "url": "https://open.spotify.com/track/08LR6HWU5CfaVOAxjOYs5q"
     },
     {
       "album": {
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 185151,
       "name": "Safely Far",
       "url": "https://open.spotify.com/track/2JXB49LEVXkcf31m7huLzM"

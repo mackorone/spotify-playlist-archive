@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Deyco, Faker & Lowqua.
 
-338 songs - 17 hr 4 min
+340 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Doble Ipa](https://open.spotify.com/track/012xMpaiBc98zrexgJ8HfH) | [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [Leal](https://open.spotify.com/album/0SM5wWcaQVOXTerFFrr9hq) | 3:45 | 2022-04-11 | 2022-07-29 |
 | [Doble Ipa](https://open.spotify.com/track/79R83OrWPJhzOhyjcfQAwN) | [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [Leal](https://open.spotify.com/album/78mCf8tXP7zoxxUmiTDF1P) | 3:45 | 2022-06-10 | 2022-11-19 |
 | [Domingo 18](https://open.spotify.com/track/0AFQVgU1fJzte2elv5fehr) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21) | [Bad Week](https://open.spotify.com/album/4njk6awCFJyapgmgL4Qm4R) | 3:14 | 2022-02-18 | 2022-10-28 |
+| [Don´ t get it twisted](https://open.spotify.com/track/3RS1ihyponepAi2YGwnhcY) | [ARA](https://open.spotify.com/artist/3e7RQVUk78GpHhRiBWULff) | [Don´ t get it twisted](https://open.spotify.com/album/71dpR933rqGGO8XgyfGPKy) | 2:38 | 2025-03-07 |  |
 | [El Camino](https://open.spotify.com/track/6tKHO7Y06ZmJmYbcc1YS6q) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [El Gordo S aka Sony](https://open.spotify.com/artist/7DRN60ZXkjx3xn8rxOEvLU) | [El Camino](https://open.spotify.com/album/5m2bgCZPJoriDgvMZ4EWdn) | 5:15 | 2021-11-26 | 2023-03-03 |
 | [El Canton Norte](https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El 17](https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj) | 2:45 | 2023-09-29 | 2024-07-27 |
 | [El Mal Necesario](https://open.spotify.com/track/5SLT2KCIVLw8mLJ0xAag5M) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg) | [El Mal Necesario](https://open.spotify.com/album/1eK7XuLoEbjuEpHCUafgOX) | 2:25 | 2024-09-13 |  |
@@ -202,6 +203,7 @@
 | [Los Pumas](https://open.spotify.com/track/4yN6f9onu86pSfpayG7ryc) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Los Pumas](https://open.spotify.com/album/2Q95rrB6nNBee2PXD2hGnD) | 2:38 | 2023-08-25 | 2024-09-14 |
 | [Low La](https://open.spotify.com/track/7tWS3WOhV4OErtDDB7YE65) | [Rapstinencia](https://open.spotify.com/artist/7dAfBnC7ILLBR3eIWocI9c), [T&K](https://open.spotify.com/artist/2SMK4TrK8djKN6CuunZpcr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Low La](https://open.spotify.com/album/2YNDW8yGbk1ITM68xgLatS) | 4:02 | 2021-11-26 | 2024-05-25 |
 | [LQRA Session \#8](https://open.spotify.com/track/1Z65FyDTWd2DAi5ZcowZ52) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LQRA Session \#8](https://open.spotify.com/album/5Z592gYrUeJwm50Z3UDY79) | 2:32 | 2022-11-18 | 2024-03-02 |
+| [LUNES PM](https://open.spotify.com/track/5ZMVoeESUk5zl0sfENea0O) | [Carajita](https://open.spotify.com/artist/0EGnen60b0WKZQaoOsGsqJ) | [LUNES PM](https://open.spotify.com/album/0L9AUFYdTtUFuBKBGT7Q11) | 2:01 | 2025-03-07 |  |
 | [Malas Vistas](https://open.spotify.com/track/01A48XpjWFsdh3iF7mC37N) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Paterna09](https://open.spotify.com/album/4LY7eHDCFXfdL7IrW72Q7L) | 3:33 | 2021-11-26 | 2023-05-27 |
 | [MALIBÚ](https://open.spotify.com/track/5HnoOSSCujQPn1nUEzmwJT) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [MALIBÚ](https://open.spotify.com/album/2I603kkEIEkMM14UgHTkZ0) | 3:10 | 2024-07-26 | 2024-10-19 |
 | [MAMBO GANGSTA](https://open.spotify.com/track/3h7VpPv7Ka5QGUqklxsgDZ) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [MAMBO GANGSTA](https://open.spotify.com/album/7GLAuGxyaU9sfIDqy9AzVe) | 2:25 | 2023-05-12 | 2024-11-09 |

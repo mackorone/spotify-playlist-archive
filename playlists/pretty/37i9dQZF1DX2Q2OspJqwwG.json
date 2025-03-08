@@ -1,12 +1,12 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 32615,
+  "num_followers": 32628,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8XSHgAAAACkyjE5/3X8+SXhJNvV0gqD",
+  "snapshot_id": "Z8rTHQAAAADiwm9S/eS8LmPkhMsbeGiB",
   "tracks": [
     {
       "added_at": "2025-03-03 16:00:30",
@@ -273,24 +273,20 @@
       "url": "https://open.spotify.com/track/4mC0XJcNito55X2pvNoTvs"
     },
     {
-      "added_at": "2025-03-03 16:00:30",
+      "added_at": "2025-03-07 11:06:05",
       "album": {
-        "name": "Boy Meets World",
-        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby"
       },
       "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 148928,
-      "name": "ANXIETY (feat. Doechii)",
-      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7"
     },
     {
       "added_at": "2025-03-03 16:00:30",
@@ -495,38 +491,6 @@
     {
       "added_at": "2025-03-03 16:00:30",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "NEW DROP",
-      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -551,6 +515,38 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "NEW DROP",
+      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2025-03-03 16:00:30",
@@ -667,6 +663,22 @@
     {
       "added_at": "2025-03-03 16:00:30",
       "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 312240,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
         "name": "AFTERCARE",
         "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
       },
@@ -695,22 +707,6 @@
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 312240,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
     },
     {
       "added_at": "2025-03-03 16:00:30",
@@ -795,22 +791,6 @@
     {
       "added_at": "2025-03-03 16:00:30",
       "album": {
-        "name": "Hozier (Special Edition)",
-        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Do I Wanna Know? - Live At the BBC",
-      "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -823,6 +803,22 @@
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
     },
     {
       "added_at": "2025-03-03 16:00:30",
@@ -1003,22 +999,6 @@
     {
       "added_at": "2025-03-03 16:00:30",
       "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef"
-      },
-      "artists": [
-        {
-          "name": "MGEE",
-          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
-        }
-      ],
-      "duration_ms": 143811,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
         "name": "Angel Of My Dreams",
         "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
       },
@@ -1031,6 +1011,22 @@
       "duration_ms": 197639,
       "name": "Angel Of My Dreams",
       "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef"
+      },
+      "artists": [
+        {
+          "name": "MGEE",
+          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
+        }
+      ],
+      "duration_ms": 143811,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg"
     },
     {
       "added_at": "2025-03-03 16:00:30",
@@ -1112,7 +1108,7 @@
           "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
         }
       ],
-      "duration_ms": 150000,
+      "duration_ms": 149606,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA"
     },
@@ -1211,8 +1207,8 @@
     {
       "added_at": "2025-03-03 16:00:30",
       "album": {
-        "name": "Yali, Yali",
-        "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
+        "name": "P\u0103i naa",
+        "url": "https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q"
       },
       "artists": [
         {
@@ -1224,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 155714,
-      "name": "Yali, Yali",
-      "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
+      "duration_ms": 160450,
+      "name": "P\u0103i naa",
+      "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
     },
     {
       "added_at": "2025-03-03 16:00:30",
@@ -1303,42 +1299,6 @@
     {
       "added_at": "2025-03-03 16:00:30",
       "album": {
-        "name": "Jenifer buci de fier",
-        "url": "https://open.spotify.com/album/3rLWJ7cgo4moVie8cNs2ME"
-      },
-      "artists": [
-        {
-          "name": "Raihold",
-          "url": "https://open.spotify.com/artist/4Imlr3Uol1yePpItVufDed"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jenifer buci de fier",
-      "url": "https://open.spotify.com/track/40GLYWLoMFhkuoDImEwHm4"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
-        "name": "P\u0103i naa",
-        "url": "https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 160450,
-      "name": "P\u0103i naa",
-      "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
         "name": "Love Is The Answer",
         "url": "https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD"
       },
@@ -1351,6 +1311,42 @@
       "duration_ms": 212076,
       "name": "Love Is The Answer",
       "url": "https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
+        "name": "Yali, Yali",
+        "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "Yali, Yali",
+      "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
+        "name": "Jenifer buci de fier",
+        "url": "https://open.spotify.com/album/3rLWJ7cgo4moVie8cNs2ME"
+      },
+      "artists": [
+        {
+          "name": "Raihold",
+          "url": "https://open.spotify.com/artist/4Imlr3Uol1yePpItVufDed"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jenifer buci de fier",
+      "url": "https://open.spotify.com/track/40GLYWLoMFhkuoDImEwHm4"
     },
     {
       "added_at": "2025-03-03 16:00:30",
@@ -1411,22 +1407,6 @@
     {
       "added_at": "2025-03-03 16:00:30",
       "album": {
-        "name": "Turbo Orange",
-        "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Turbo Orange",
-      "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
         "name": "Lamborghini",
         "url": "https://open.spotify.com/album/5bW7HtCbJ6bNSwoJYRBGXF"
       },
@@ -1463,6 +1443,22 @@
       "duration_ms": 159350,
       "name": "Vorba Francezului - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
+        "name": "Turbo Orange",
+        "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Turbo Orange",
+      "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
     },
     {
       "added_at": "2025-03-03 16:00:30",
@@ -1615,22 +1611,6 @@
     {
       "added_at": "2025-03-03 16:00:30",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
-      },
-      "artists": [
-        {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
         "name": "Eee Aaa | Burj Khalifa",
         "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
       },
@@ -1647,6 +1627,22 @@
       "duration_ms": 151099,
       "name": "Eee Aaa | Burj Khalifa",
       "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
+      },
+      "artists": [
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
     },
     {
       "added_at": "2025-03-03 16:00:30",
@@ -1727,6 +1723,22 @@
     {
       "added_at": "2025-03-03 16:00:30",
       "album": {
+        "name": "Maria, Maria",
+        "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
+      },
+      "artists": [
+        {
+          "name": "Lidia Buble",
+          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Maria, Maria",
+      "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
         "name": "Fana",
         "url": "https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg"
       },
@@ -1747,38 +1759,6 @@
     {
       "added_at": "2025-03-03 16:00:30",
       "album": {
-        "name": "COMBINA\u021aII",
-        "url": "https://open.spotify.com/album/1FB9b9BY9FVO8hgFP1Y2G2"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "COMBINA\u021aII",
-      "url": "https://open.spotify.com/track/6Z0Mb8terxwVLRvSYQhwgu"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
-        "name": "Maria, Maria",
-        "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
-      },
-      "artists": [
-        {
-          "name": "Lidia Buble",
-          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Maria, Maria",
-      "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
-    },
-    {
-      "added_at": "2025-03-03 16:00:30",
-      "album": {
         "name": "Paharul sus",
         "url": "https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z"
       },
@@ -1795,6 +1775,22 @@
       "duration_ms": 169361,
       "name": "Paharul sus",
       "url": "https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh"
+    },
+    {
+      "added_at": "2025-03-03 16:00:30",
+      "album": {
+        "name": "COMBINA\u021aII",
+        "url": "https://open.spotify.com/album/1FB9b9BY9FVO8hgFP1Y2G2"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "COMBINA\u021aII",
+      "url": "https://open.spotify.com/track/6Z0Mb8terxwVLRvSYQhwgu"
     },
     {
       "added_at": "2025-03-03 16:00:30",

@@ -926,7 +926,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 218411,
       "name": "De Sobremanera",
       "url": "https://open.spotify.com/track/3cVKbHNzwHOqsqJB70H63R"
@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 138839,
       "name": "El Amor No Existe",
       "url": "https://open.spotify.com/track/05iyuBjH0VKipzIGRuDQUp"
@@ -3394,6 +3394,28 @@
       "duration_ms": 163865,
       "name": "El Chucu Chucu",
       "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/6oDhTZU2iifDYg6RYTKTKA"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "El Festejado",
+      "url": "https://open.spotify.com/track/5YfCnHZf1fvCIFO7mNZV72"
     },
     {
       "album": {
@@ -3754,7 +3776,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
@@ -6485,6 +6507,44 @@
     },
     {
       "album": {
+        "name": "Mamame El Bicho",
+        "url": "https://open.spotify.com/album/5SQJgMjiOJyVvH7PapRi40"
+      },
+      "artists": [
+        {
+          "name": "Moncholo La Vainilla",
+          "url": "https://open.spotify.com/artist/11QRlEwbooxjVZNRQHH1KX"
+        },
+        {
+          "name": "Negro Escobar",
+          "url": "https://open.spotify.com/artist/2BQY9hACH0eS3jbhCwyW8L"
+        },
+        {
+          "name": "Loco Prieto Oficial",
+          "url": "https://open.spotify.com/artist/4lpMINWZQ39N9joHJFmgDE"
+        },
+        {
+          "name": "El Domi Blanco",
+          "url": "https://open.spotify.com/artist/2lYYTh54aFc39yR3J8rcZ0"
+        },
+        {
+          "name": "Leon Chitara",
+          "url": "https://open.spotify.com/artist/7CqXhfGCbLBZMkfOzuwuGh"
+        },
+        {
+          "name": "Menor DX",
+          "url": "https://open.spotify.com/artist/3Z7GiXGg8Z5EqBUsseehP5"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170762,
+      "name": "Mamame El Bicho",
+      "url": "https://open.spotify.com/track/3eNSRbKhlJH7ppyC9cvWEU"
+    },
+    {
+      "album": {
         "name": "MAMI CHAKALOSA",
         "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
       },
@@ -6826,7 +6886,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 192001,
       "name": "Miau (feat. Uzielito Mix)",
       "url": "https://open.spotify.com/track/0spIfr7PKo381CocT4XnYN"
@@ -7398,6 +7458,24 @@
       "duration_ms": 225680,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
+    },
+    {
+      "album": {
+        "name": "Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/6WMDYWIAJWQp6gv3yO8FXD"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190214,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/1gRcJF4V0Mcw6MT7keHIEt"
     },
     {
       "album": {
@@ -8770,7 +8848,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 216333,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
@@ -9341,6 +9419,28 @@
     },
     {
       "album": {
+        "name": "Rompe el Bajo",
+        "url": "https://open.spotify.com/album/6h4uKwNFtNHQ6Xl9XmHC4f"
+      },
+      "artists": [
+        {
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+        },
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "Rompe el Bajo",
+      "url": "https://open.spotify.com/track/1kiG7QbAQPVLzI3g7D1f17"
+    },
+    {
+      "album": {
         "name": "Ropa Cara",
         "url": "https://open.spotify.com/album/02ydUO8KGCVf3WQyCmEh4G"
       },
@@ -9388,7 +9488,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
@@ -10216,7 +10316,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 139681,
       "name": "Super Bendikeo",
       "url": "https://open.spotify.com/track/2wbJ42gupYMo1QQxMAvnhL"
@@ -11263,6 +11363,28 @@
     },
     {
       "album": {
+        "name": "Una Caguama en la Banqueta",
+        "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Tony Montoya",
+          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166232,
+      "name": "Una Caguama en la Banqueta",
+      "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
+    },
+    {
+      "album": {
         "name": "Una Chica Como T\u00fa",
         "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
       },
@@ -11332,7 +11454,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 141003,
       "name": "Una Peda Menos",
       "url": "https://open.spotify.com/track/3Sra9m62gSgycclKeKgn68"
@@ -11380,7 +11502,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 143123,
       "name": "Unas Heladas",
       "url": "https://open.spotify.com/track/3tBQOzfAYaIbiZm2U5BsYx"
@@ -11530,7 +11652,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 178666,
       "name": "Ushua\u00efa",
       "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
@@ -12008,7 +12130,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 189408,
       "name": "Ya Acabo",
       "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
@@ -12330,7 +12452,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 137406,
       "name": "\u00d1ero Session 16",
       "url": "https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3"

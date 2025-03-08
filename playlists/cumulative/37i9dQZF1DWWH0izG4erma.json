@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "Alexis Texas",
+        "url": "https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164441,
+      "name": "Alexis Texas",
+      "url": "https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK"
+    },
+    {
+      "album": {
         "name": "Alive and Well",
         "url": "https://open.spotify.com/album/3i0bY9DahJDlfdzYEsUuvF"
       },
@@ -3330,7 +3348,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 26139,
+  "num_followers": 26153,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
@@ -307,26 +307,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Lucky Guy!",
-        "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
-      },
-      "artists": [
-        {
-          "name": "Nick Moss Band",
-          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
-        },
-        {
-          "name": "Dennis Gruenling",
-          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
-        }
-      ],
-      "duration_ms": 189213,
-      "name": "312 Blood",
-      "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "West Side Strut",
         "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 187893,
       "name": "Ain't No Fun (When The Rabbit Got The Gun)",
       "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Lucky Guy!",
+        "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
+      },
+      "artists": [
+        {
+          "name": "Nick Moss Band",
+          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
+        },
+        {
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
+        }
+      ],
+      "duration_ms": 189213,
+      "name": "312 Blood",
+      "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
     },
     {
       "added_at": "2023-05-17 15:52:13",

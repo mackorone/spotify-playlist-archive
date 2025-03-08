@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 8404,
+  "num_followers": 8440,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8ZCgAAAAAA0tAgJDJh3yMQNSPB5ZzVD",
+  "snapshot_id": "Z8jlgAAAAAD5p8jUSPpSEvTDpY8vlVzA",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 232896,
-      "name": "Glowing Up",
-      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
+      "duration_ms": 212755,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+        "name": "Beyond the Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 77077,
-      "name": "Somebody Gonna Love You",
-      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/4ifnF552GdodBaOmdSOUP2"
     },
     {
       "added_at": null,
@@ -448,25 +448,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 212755,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beyond the Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/4ifnF552GdodBaOmdSOUP2"
+      "duration_ms": 232896,
+      "name": "Glowing Up",
+      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
     },
     {
       "added_at": null,
@@ -511,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 206948,
-      "name": "What In The World",
-      "url": "https://open.spotify.com/track/6kxmbaSZGtxnWkSO50FFku"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singing You Home - Children's Songs for Family Reunification",
         "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
       },
@@ -543,6 +511,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 206948,
+      "name": "What In The World",
+      "url": "https://open.spotify.com/track/6kxmbaSZGtxnWkSO50FFku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 77077,
+      "name": "Somebody Gonna Love You",
+      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
@@ -555,6 +555,26 @@
       "duration_ms": 167693,
       "name": "Hold On I'm Coming",
       "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
+        }
+      ],
+      "duration_ms": 284751,
+      "name": "Anything Worth Holding On To",
+      "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
     },
     {
       "added_at": null,
@@ -591,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
-        }
-      ],
-      "duration_ms": 284751,
-      "name": "Anything Worth Holding On To",
-      "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forbidden",
         "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
       },
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "STEP (Music From and Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 359706,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inspirational",
         "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 360527,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STEP (Music From and Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 359706,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA"
     },
     {
       "added_at": null,

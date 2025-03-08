@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Cash Cobain
 
-100 songs - 4 hr 43 min
+102 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Choosy](https://open.spotify.com/track/3KVCN9ODBU5EMzsmljXYOA) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Choosy](https://open.spotify.com/album/2HYBLSNEyoLtTf1VH5jx99) | 2:15 | 2024-12-10 |  |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-10-25 |  |
 | [Closure \(with Cash Cobain\)](https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Closure](https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6) | 2:58 | 2024-10-25 |  |
+| [COLD](https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [COLD](https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG) | 2:23 | 2025-03-07 |  |
 | [Come Outside \(So Sick\)](https://open.spotify.com/track/6ueIEZa5Gbu6n9jLdFUyh9) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 2:40 | 2024-11-08 |  |
 | [Confession](https://open.spotify.com/track/1YQrPTJGpJBX11sGdPHFJn) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Confession](https://open.spotify.com/album/0rzh6xdUO0raP6H7FmZHss) | 2:52 | 2024-10-25 |  |
 | [copy my drip](https://open.spotify.com/track/7bHIWlVy5WLS6RMRfwO0nv) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [copy my drip](https://open.spotify.com/album/65RYCA2Ve7EKew5hk3qiU6) | 2:18 | 2024-10-25 | 2025-02-08 |
@@ -57,7 +58,7 @@
 | [Jodeci \(Remix\) \[with Vontee the Singer & Cash Cobain\]](https://open.spotify.com/track/0FJs8qeAmoEwmZ6ofaBYrx) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Jodeci \(Remix\)](https://open.spotify.com/album/1kyI3Ci7WNgngBwjffXBFE) | 3:30 | 2024-12-13 |  |
 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 | 2024-10-25 |  |
 | [Kill Shit \(feat\. Lil Bibby\) \- Bonus Track](https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 2:59 | 2025-02-28 |  |
-| [lemme get ya \#](https://open.spotify.com/track/3PU4l9xwLw7jqjazooLqL1) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 3:45 | 2025-02-14 |  |
+| [lemme get ya \#](https://open.spotify.com/track/3PU4l9xwLw7jqjazooLqL1) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 3:45 | 2025-02-14 | 2025-03-08 |
 | [Lexy Sove](https://open.spotify.com/track/28xIKL8bPz0xsyAkNpyQpp) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [BIRTHDAY MIX 6](https://open.spotify.com/album/33nkEur8beeeEcTA4nxapX) | 2:52 | 2025-02-28 |  |
 | [Lifted](https://open.spotify.com/track/0zMzOp7GY9yBrTFB8ZKtpK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:50 | 2024-12-26 |  |
 | [Like This \(Remix\) \[feat\. Bay Swag and wolfacejoeyy\]](https://open.spotify.com/track/09VSVEnGU1QDktP3WBRQRF) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [2 Sides of the Story \(Deluxe\)](https://open.spotify.com/album/4448e2jWEMcHjOQJKQk2u9) | 3:10 | 2024-12-13 | 2025-01-18 |
@@ -76,6 +77,7 @@
 | [party girl](https://open.spotify.com/track/3siyy7mj0ahl0987mmvsPK) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [cupid](https://open.spotify.com/album/5DmIgNTkiwzv9aAfmqfKji) | 2:42 | 2025-01-10 | 2025-01-25 |
 | [PIMPIN AINT EASY \(feat\. Lil Yachty\)](https://open.spotify.com/track/1uUpPNu1XGxkOLD4ezarim) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:24 | 2024-10-25 |  |
 | [Pray 4 Us](https://open.spotify.com/track/09NJWVz1VAUrLFX6pkWxbd) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Saint Michael](https://open.spotify.com/album/3hfXFibd09Z5FjzkVir5lw) | 2:59 | 2024-10-25 |  |
+| [Pretty Girls Like R&B](https://open.spotify.com/track/4rYAFaC42GZuSM5PTv2ili) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Pretty Girls Like R&B](https://open.spotify.com/album/0Tij4YB5O8MByK4Ze0SnqF) | 2:24 | 2025-03-07 |  |
 | [Private Room](https://open.spotify.com/track/35qWJOaWkfaGLuY9Ngn6VV) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Coming Out Party](https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz) | 2:33 | 2024-10-25 | 2024-11-14 |
 | [problem](https://open.spotify.com/track/62DOQC3exqebSVLWyN2mWa) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 7:39 | 2024-10-25 |  |
 | [PROGRESSION](https://open.spotify.com/track/5gPOvRTZlGvva5RkZIGIuO) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [PROGRESSION](https://open.spotify.com/album/1yIUDCF985oPjob0CBcSeZ) | 2:34 | 2025-01-17 |  |

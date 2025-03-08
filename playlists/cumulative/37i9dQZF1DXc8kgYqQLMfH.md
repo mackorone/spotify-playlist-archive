@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,204 songs - 1 day 21 hr 53 min
+1,205 songs - 1 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-11-10 | 2022-07-22 |
 | [Cozy](https://open.spotify.com/track/4GJmFQTiFcpTHxhu08RIlx) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [Cozy](https://open.spotify.com/album/4AYK42KZsekEDCi1rxnYN5) | 2:28 | 2024-01-05 |  |
 | [Cozy Cabin](https://open.spotify.com/track/7nnnBJFl8r283qVvKsMk6z) | [Elon Husky](https://open.spotify.com/artist/4MSu62C3898KnZ5tNT3MKI) | [Cozy Cabin](https://open.spotify.com/album/77VvjjPPUHVzYz0Hvo5qPL) | 2:58 | 2023-12-08 |  |
-| [Cozy Snow Day](https://open.spotify.com/track/29VMXBsPGYwjTgZpCy2i0d) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Cozy Snow Day](https://open.spotify.com/album/5X2TCtMfK0Ms10pH2a8wJM) | 2:03 | 2022-12-09 |  |
+| [Cozy Snow Day](https://open.spotify.com/track/29VMXBsPGYwjTgZpCy2i0d) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Cozy Snow Day](https://open.spotify.com/album/5X2TCtMfK0Ms10pH2a8wJM) | 2:03 | 2022-12-09 | 2025-03-08 |
 | [Cracks](https://open.spotify.com/track/3wx8UcizTr4xtjpBlRfL9r) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Cracks](https://open.spotify.com/album/1Go5kxxnG2vqF09gVhXdWj) | 2:58 | 2022-02-18 |  |
 | [Crawl in a Tube](https://open.spotify.com/track/56uIN8rYI0qu5ajQFDAIiy) | [Troy Vibes](https://open.spotify.com/artist/5F1euTC1Sqpk3VJ4aReY41) | [Crawl in a Tube](https://open.spotify.com/album/1BnZGn0ExlpMhIefaXtSIG) | 3:33 | 2022-06-17 | 2023-03-18 |
 | [Crazy Love](https://open.spotify.com/track/57pur3MoSCX7raelUCpiAK) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Crazy Love](https://open.spotify.com/album/4k72z9GeyqEkRD7jtE6lTI) | 1:48 | 2023-12-08 |  |
@@ -409,7 +409,7 @@
 | [gallery](https://open.spotify.com/track/1PNjgT1UgvI2ZbBNEi1MZf) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [gallery](https://open.spotify.com/album/6oyJOJvkJbfV7K5GXZeQDV) | 1:46 | 2022-10-01 |  |
 | [garden bed](https://open.spotify.com/track/1l52MnASg7swhbLFtBhVJb) | [orcanite](https://open.spotify.com/artist/3dGc9ZNUwjtjtug9qAomYS) | [garden bed](https://open.spotify.com/album/1a1QguNAJiFe3mDVzipzY3) | 1:55 | 2021-11-10 | 2023-03-02 |
 | [Gardening On Mars](https://open.spotify.com/track/79i8XMKhu0RGMFV9ppZF8n) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Gardening On Mars](https://open.spotify.com/album/7HSs5riFuaFuhqXm914Gb0) | 1:50 | 2023-09-01 | 2023-10-23 |
-| [Gelato Afternoon](https://open.spotify.com/track/4c4VDNmYelvfPOv19qCGlE) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Gelato Afternoon](https://open.spotify.com/album/7r9Cgz0UCb6gqwGkakCTWX) | 2:51 | 2022-12-09 | 2025-03-03 |
+| [Gelato Afternoon](https://open.spotify.com/track/4c4VDNmYelvfPOv19qCGlE) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Gelato Afternoon](https://open.spotify.com/album/7r9Cgz0UCb6gqwGkakCTWX) | 2:51 | 2022-12-09 |  |
 | [Get Me Z](https://open.spotify.com/track/4ZFVMtqtJe1vnPXe3jKEx0) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Floshi Mosh](https://open.spotify.com/album/5guGYkjMzLGu1ut2woB33o) | 1:29 | 2023-03-16 |  |
 | [Getaway Shack](https://open.spotify.com/track/2g5p0HAHft0wEphhZGFrS1) | [Gittiye](https://open.spotify.com/artist/4g4I92b4rKtESZUpNA0w5f) | [Getaway Shack](https://open.spotify.com/album/7hToZsaSWSKNzKYF8hLsFv) | 2:16 | 2024-05-13 |  |
 | [Ghostboy](https://open.spotify.com/track/3gTqbgP4Kq4i1p27vCpiL8) | [mëow mëow](https://open.spotify.com/artist/02qU2mdtmh74BV5ashkMFn) | [Ghostboy](https://open.spotify.com/album/4XBaiclHrnTRyY3OV02aPi) | 1:46 | 2022-04-15 | 2023-09-16 |
@@ -1080,9 +1080,10 @@
 | [Through the Portal](https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Through the Portal](https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F) | 1:55 | 2023-09-29 |  |
 | [Through the Rain](https://open.spotify.com/track/4yV4OoJcLydUdBoJZ03vAw) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Through the Rain](https://open.spotify.com/album/4GSVk0FGRG1XJNBN7zg6LP) | 2:39 | 2023-05-19 |  |
 | [thyme](https://open.spotify.com/track/01u7mnb7IIIPwzyS2JMLkr) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [thyme](https://open.spotify.com/album/19By3kTebpVXN7WLzpUZx4) | 2:03 | 2021-11-10 | 2022-06-10 |
+| [Tiara](https://open.spotify.com/track/5Bajh2P9CcqPmNTwolJTPP) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [Tiara](https://open.spotify.com/album/3ViTShNy22Hi10GyXLKfrd) | 3:25 | 2025-02-19 |  |
 | [Time \- Birds of the West Remix](https://open.spotify.com/track/1kl3d9lcw2OaIx1I3JmfLS) | [Karmacoda](https://open.spotify.com/artist/4X45nKUBNLpHB92NUo3TQE), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Time \(Birds of the West Remix\)](https://open.spotify.com/album/5FO1Dap8bsOhZ98WMy5Vv5) | 2:59 | 2022-09-09 | 2023-10-06 |
 | [Time Out](https://open.spotify.com/track/0XucO4F8DbXgABJvfDgY8F) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Layandar](https://open.spotify.com/artist/3SE9JR8Ors7GGbUWHYjgsv), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Time Out](https://open.spotify.com/album/7b3ICAYEyq0JiGVZZgEIth) | 2:14 | 2022-06-10 | 2023-09-22 |
-| [Time To Fly](https://open.spotify.com/track/4lnTZHXAvMOuQSeAI4pp8o) | [KLYKA](https://open.spotify.com/artist/0OWKTmghewHnHIJzyYjSPP) | [Time To Fly](https://open.spotify.com/album/4LRz5K5TPO3MQDw5Iavkeb) | 1:44 | 2022-12-09 |  |
+| [Time To Fly](https://open.spotify.com/track/4lnTZHXAvMOuQSeAI4pp8o) | [KLYKA](https://open.spotify.com/artist/0OWKTmghewHnHIJzyYjSPP) | [Time To Fly](https://open.spotify.com/album/4LRz5K5TPO3MQDw5Iavkeb) | 1:44 | 2022-12-09 | 2025-03-08 |
 | [Time Voyagers](https://open.spotify.com/track/1zuzGuafawLRigw1I1NW8M) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Time Voyagers](https://open.spotify.com/album/2hqJIu5LcnkOJ4ou5ezxPe) | 2:37 | 2022-11-25 | 2023-04-28 |
 | [Time's Memories](https://open.spotify.com/track/6MEdygUrQQcTBonYYMhb7g) | [MY7O](https://open.spotify.com/artist/29bFz21OCfBIhQ7RoAfI5z) | [Time's Memories](https://open.spotify.com/album/2wxkse9MOM5dNrzu2U32PV) | 2:12 | 2022-07-22 | 2023-10-06 |
 | [Timeless](https://open.spotify.com/track/29fn9cpQP5bXvTOQiJrUfq) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Timeless](https://open.spotify.com/album/3GhCdZi59qYMUNbHTvDdsp) | 2:21 | 2023-05-19 |  |

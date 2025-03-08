@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-67 songs - 2 hr 52 min
+68 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 | 2024-01-29 |  |
 | [Pocketful of Sunshine](https://open.spotify.com/track/4wY5xcMsdYBGphuO4vEao1) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN) | [Pocketful of Sunshine](https://open.spotify.com/album/5M5dIzCCOQI84JA5ONuIRN) | 2:29 | 2024-06-22 |  |
 | [Rock N Roll Style](https://open.spotify.com/track/21UzAA0Sq5Vgaf3OYcqxZ0) | [CALEIDESCOPE](https://open.spotify.com/artist/40Cha4Qon7sdhQIBkZwlQl), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [FSDW](https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw) | [Rock N Roll Style](https://open.spotify.com/album/3ZqaShirb0rDd77DIKiDmj) | 2:54 | 2024-07-04 |  |
+| [Summer Sumwhere](https://open.spotify.com/track/7qIe2Z0VHanQOAgq48x08o) | [JONI](https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS) | [Summer Sumwhere](https://open.spotify.com/album/5YNQfFnOvE01w4flgU7hay) | 2:27 | 2025-03-07 |  |
 | [Talk To My Body](https://open.spotify.com/track/1gE7in0fMOo1IENW4A5aa8) | [J\-MOX](https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Talk To My Body](https://open.spotify.com/album/7195Cy2KrFsFpizBGCTaKO) | 2:46 | 2024-01-29 | 2024-04-27 |
 | [Talk To My Body](https://open.spotify.com/track/5NIRs5yzSHnD4lDiZhTyt1) | [J\-MOX](https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Talk To My Body](https://open.spotify.com/album/0lhCnHBthlbwEaQuvvhPWB) | 2:46 | 2024-04-26 |  |
 | [This Melody](https://open.spotify.com/track/5S5fBN39X06z6dCrfyc1QO) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [Da Brozz](https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [This Melody](https://open.spotify.com/album/43Cy3S3bdMlgFYbYXjaYk5) | 2:46 | 2024-01-29 |  |

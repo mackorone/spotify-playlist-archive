@@ -1,13 +1,53 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 57196,
+  "num_followers": 57209,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MeaQAAAAD0eKsdooymTH06WDzQ/vDh",
+  "snapshot_id": "Z8p9ZAAAAADI+LU6ZYuXijSxZnmfJR7E",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "Passion Dance",
+        "url": "https://open.spotify.com/album/5pqbgZOJtFUVbTa76Fay21"
+      },
+      "artists": [
+        {
+          "name": "oreglo",
+          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+        }
+      ],
+      "duration_ms": 256206,
+      "name": "Passion Dance",
+      "url": "https://open.spotify.com/track/6xQur55wJVJiL2zujPGXfI"
+    },
+    {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "Tempest",
+        "url": "https://open.spotify.com/album/0JCVaWFdfzUEvOBMAfJzXI"
+      },
+      "artists": [
+        {
+          "name": "Steam Down",
+          "url": "https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        },
+        {
+          "name": "Ahnans\u00e9",
+          "url": "https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl"
+        }
+      ],
+      "duration_ms": 296607,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/7qDBCXw48fj85AaJDvyLD9"
+    },
     {
       "added_at": "2025-01-24 05:00:25",
       "album": {
@@ -327,22 +367,6 @@
       "duration_ms": 284186,
       "name": "Consider Yourself Judged",
       "url": "https://open.spotify.com/track/2L11VPEQ44OCSTjjHp4HdE"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Walk the Nile",
-        "url": "https://open.spotify.com/album/2nhPYKY52vgXfJa6shs32U"
-      },
-      "artists": [
-        {
-          "name": "Elephant9",
-          "url": "https://open.spotify.com/artist/7fX6TkG03KYZv7jAaZKC5v"
-        }
-      ],
-      "duration_ms": 223320,
-      "name": "Fugl F\u00f8nix",
-      "url": "https://open.spotify.com/track/6PWqgAei13zNiEMl9VMZeP"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -1063,34 +1087,6 @@
       "duration_ms": 544186,
       "name": "Radio School",
       "url": "https://open.spotify.com/track/7dKllKoKw2hddcsyMEDG90"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Caliber",
-        "url": "https://open.spotify.com/album/1Gr1MnBQE43JRmeccpu8La"
-      },
-      "artists": [
-        {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        },
-        {
-          "name": "Dana Hawkins",
-          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
-        },
-        {
-          "name": "Tigran Hamasyan",
-          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
-        },
-        {
-          "name": "Fredrik Thordendal",
-          "url": "https://open.spotify.com/artist/5I0eQC4oxRaW8DRe4XithF"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Caliber",
-      "url": "https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp"
     },
     {
       "added_at": "2022-06-10 04:02:00",

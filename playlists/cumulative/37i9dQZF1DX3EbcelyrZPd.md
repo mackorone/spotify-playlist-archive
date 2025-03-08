@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Kusah
+> Get your fill of vibes straight out of Tanzania\. Cover: Abigail Chams
 
-521 songs - 1 day 5 hr 49 min
+522 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Deka \(feat\. Mabantu\)](https://open.spotify.com/track/7KjPkecOPSbOakRrlrfbZF) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Deka \(feat\. Mabantu\)](https://open.spotify.com/album/4hp2roWquO9nf8LZL8qF5m) | 3:08 | 2022-06-09 | 2023-06-16 |
 | [Densi](https://open.spotify.com/track/6HNSAY9YaF6jv0rPHuwyPa) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Densi](https://open.spotify.com/album/4x565F1bILYjiejXljqpIc) | 2:59 | 2024-11-14 |  |
 | [Desh Desh](https://open.spotify.com/track/1ZDuaLvkiFkpsdY588XgO1) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Desh Desh](https://open.spotify.com/album/5TeobdTGGuqEeAJVmFMAe8) | 4:08 | 2022-09-01 | 2023-03-25 |
-| [Dharau](https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dharau](https://open.spotify.com/album/4fAfuvu9kF55EA8uqlhwcy) | 3:32 | 2024-02-22 |  |
+| [Dharau](https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dharau](https://open.spotify.com/album/4fAfuvu9kF55EA8uqlhwcy) | 3:32 | 2024-02-22 | 2025-03-08 |
 | [Disconnect \(feat\. Marioo\)](https://open.spotify.com/track/5QH75Csj5dy5eJA66cyOZ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Disconnect \(feat\. Marioo\)](https://open.spotify.com/album/5mMzFbsinhdB2lCXOwKc1j) | 3:25 | 2024-05-16 | 2024-10-25 |
 | [Dodo](https://open.spotify.com/track/2iMxlpiSajGwrkSqWn7RIh) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Dodo](https://open.spotify.com/album/29laMqyXW8THPpNK3tTsNj) | 3:59 | 2021-06-25 | 2022-01-07 |
 | [Dokta \(feat\. Dj Awakening\)](https://open.spotify.com/track/11DClOmMIOO7AjuqZVNKao) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Dj Awakening](https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d) | [Dokta \(feat\. Dj Awakening\)](https://open.spotify.com/album/3fiutdRgB0nWaooZ6FlP72) | 4:23 | 2024-07-04 | 2024-10-04 |
@@ -232,6 +232,7 @@
 | [Mazoea](https://open.spotify.com/track/7GvUgSu32aNICCupZqUxnP) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Mazoea](https://open.spotify.com/album/2LF6l6r1OaEoPRbzYLhshL) | 3:20 | 2024-10-18 |  |
 | [Mchuchu](https://open.spotify.com/track/4yDggExRPsd917Kewd2bP1) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Mchuchu](https://open.spotify.com/album/2wlhplBGSd8wewG9gPD5Ux) | 3:11 | 2024-06-07 | 2024-10-25 |
 | [Mchumba](https://open.spotify.com/track/2CNtq7md5SkG2mRge5Ruj1) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mchumba](https://open.spotify.com/album/6FKYjhPJ2o9VXmpbLm6Koo) | 3:36 | 2022-10-21 | 2023-09-01 |
+| [Me too](https://open.spotify.com/track/0f69wNZrUKPe4s2EnSA5ai) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Me too](https://open.spotify.com/album/03Ip4Xc6gRdo2SkJtAh8N9) | 2:38 | 2025-03-07 |  |
 | [Melody](https://open.spotify.com/track/4SU8d5EyTg6fM4AUkrWmCg) | [Robby Vibe](https://open.spotify.com/artist/5MbMEjr2wDI9iczXvMCmUC), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Melody](https://open.spotify.com/album/3IsdN5UkV8Ri9F1KFDiL05) | 2:58 | 2022-10-07 | 2023-06-02 |
 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 | 2022-03-10 | 2023-01-20 |
 | [Mi Amor](https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Mi Amor](https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm) | 3:05 | 2022-01-06 | 2023-01-20 |

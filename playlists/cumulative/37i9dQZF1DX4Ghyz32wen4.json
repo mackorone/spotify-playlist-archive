@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "111",
+      "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
+    },
+    {
+      "album": {
         "name": "19 HORAS",
         "url": "https://open.spotify.com/album/0I8diZN920PZQawwNu2Iud"
       },
@@ -439,6 +457,32 @@
     },
     {
       "album": {
+        "name": "Bet On Me",
+        "url": "https://open.spotify.com/album/3BjRp58GwvWKMsq6p5mrJX"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238648,
+      "name": "Bet On Me",
+      "url": "https://open.spotify.com/track/4vIf3RaJGJc4VFwrmuOwXN"
+    },
+    {
+      "album": {
         "name": "Dalt\u00f3nico Pero Me Siento Azul",
         "url": "https://open.spotify.com/album/2GS4OCw6wd47mu7OFdzWFH"
       },
@@ -490,7 +534,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 169365,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ"
@@ -1234,7 +1278,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 129893,
       "name": "DM",
       "url": "https://open.spotify.com/track/7nmBL7pC8NfvEuPhO489NK"
@@ -1438,6 +1482,28 @@
       "duration_ms": 157746,
       "name": "en la cara",
       "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
+    },
+    {
+      "album": {
+        "name": "en la cara (remixXx)",
+        "url": "https://open.spotify.com/album/5aszvVYXNnOR1IaLmC7XBL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183493,
+      "name": "en la cara - remixXx",
+      "url": "https://open.spotify.com/track/1eJzCV4uvsxLYRsFM1b1Wi"
     },
     {
       "album": {
@@ -1796,7 +1862,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 177680,
       "name": "Hora y Cuarto",
       "url": "https://open.spotify.com/track/0FBxeN2bXaWtKBnCEibsYk"
@@ -1962,7 +2028,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 206256,
       "name": "la nena de un gang$ter",
       "url": "https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk"
@@ -2202,6 +2268,28 @@
       "duration_ms": 246480,
       "name": "Me Da Lo Mismo",
       "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
+    },
+    {
+      "album": {
+        "name": "ME DESPERT\u00c9",
+        "url": "https://open.spotify.com/album/2EmbsO7UpvytILKap1Ua8N"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "ME DESPERT\u00c9",
+      "url": "https://open.spotify.com/track/36adkTfwc2FXj87ajCjXCY"
     },
     {
       "album": {
@@ -3061,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "NSQMQ",
+        "url": "https://open.spotify.com/album/5ju1Ks1bFGHxuBphsgY0fX"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "NSQMQ",
+      "url": "https://open.spotify.com/track/6VKD9CaG2mCqbFhwkYHGyZ"
+    },
+    {
+      "album": {
         "name": "Nuestra Canci\u00f3n",
         "url": "https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2"
       },
@@ -3142,6 +3248,32 @@
       "duration_ms": 155730,
       "name": "Odio Perder",
       "url": "https://open.spotify.com/track/4Pj2PU2O4txl0MOx7CNB0z"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/4ss4Hp44BnnJxCQua0TuSk"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187467,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/5gjRYrS0Vp6xO7wwSU9fQv"
     },
     {
       "album": {
@@ -3324,7 +3456,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 121290,
       "name": "posta",
       "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
@@ -3908,7 +4040,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 148000,
       "name": "Solo Tu Y Yo",
       "url": "https://open.spotify.com/track/79IcxcNr3Ddgwi5ux9UiAQ"

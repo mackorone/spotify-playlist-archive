@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/1toAvZiVpZjfAYRhwy8Qav"
+      },
+      "artists": [
+        {
+          "name": "Takek",
+          "url": "https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169210,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/0kLFCLOe4pMZmqivsOjgNa"
+    },
+    {
+      "album": {
         "name": "Selected Archive (1996 - 2002) - No. 5",
         "url": "https://open.spotify.com/album/5NbcdKLDqdkgZyUgsxUnME"
       },
@@ -641,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/2JwHsX9I0fc6geK9WJWTyg"
+      },
+      "artists": [
+        {
+          "name": "Takek",
+          "url": "https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181624,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/3XOaq2ojqcJtHdl2MPDx1D"
+    },
+    {
+      "album": {
         "name": "FMS Instrumentales 2022",
         "url": "https://open.spotify.com/album/6A7zSbHYZZquZNDqDtBMuE"
       },
@@ -945,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Hades Sorrow",
+        "url": "https://open.spotify.com/album/29YdMxQRDsYU7ZGMWlV7kZ"
+      },
+      "artists": [
+        {
+          "name": "No Man In Sight",
+          "url": "https://open.spotify.com/artist/2KhyX2WaqJ4hsyymTFKbcL"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131076,
+      "name": "Hades Sorrow",
+      "url": "https://open.spotify.com/track/5EkiYgbK2NaJkdhgBAdLUc"
+    },
+    {
+      "album": {
         "name": "Heirloom",
         "url": "https://open.spotify.com/album/0iZ9k0l0Rbjuz9GUaFtHrE"
       },
@@ -999,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Hyper Glow",
+        "url": "https://open.spotify.com/album/4ig598umqe4Ee9zQhevBVQ"
+      },
+      "artists": [
+        {
+          "name": "Bahtar",
+          "url": "https://open.spotify.com/artist/4n53TzoRFhYOjUHMFHBm7d"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127204,
+      "name": "Hyper Glow",
+      "url": "https://open.spotify.com/track/2vc6rsNIQzFH7J2tkytUzp"
+    },
+    {
+      "album": {
         "name": "Big Big Man",
         "url": "https://open.spotify.com/album/28EtX6paSslPKDaEbzCSWd"
       },
@@ -1050,6 +1122,24 @@
       "duration_ms": 177692,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/0v5gPiLqq5C2cQrLr1S9VK"
+    },
+    {
+      "album": {
+        "name": "kobe",
+        "url": "https://open.spotify.com/album/4zxoqhGlzPsHzUvu1K4jjS"
+      },
+      "artists": [
+        {
+          "name": "Testomoron",
+          "url": "https://open.spotify.com/artist/70j04I0wpjJTeI5U9EjZFQ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150692,
+      "name": "kobe",
+      "url": "https://open.spotify.com/track/4nLMn3N7DOIWCulkX6heUP"
     },
     {
       "album": {
@@ -1331,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "My Own Way",
+        "url": "https://open.spotify.com/album/5b3GfF8Uy6p4AZSZAzOEcI"
+      },
+      "artists": [
+        {
+          "name": "Pixel Souls",
+          "url": "https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175056,
+      "name": "My Own Way",
+      "url": "https://open.spotify.com/track/3yxYRedMKqrNDxKmoUfSXa"
+    },
+    {
+      "album": {
         "name": "NASA",
         "url": "https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI"
       },
@@ -1520,7 +1628,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 181714,
       "name": "Pandora Box",
       "url": "https://open.spotify.com/track/1QGYmgxQgxwT3qSPXAsfpp"
@@ -1610,7 +1718,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 161666,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/7mo9bcfoariVaBVDB7MzAE"
@@ -1776,7 +1884,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 153433,
       "name": "Spider Ceiling",
       "url": "https://open.spotify.com/track/4NYpYKCKpi2AfaDkKgwV7G"
@@ -1981,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "The End of the World",
+        "url": "https://open.spotify.com/album/0U0EHpecjKIs8fv8z62N9q"
+      },
+      "artists": [
+        {
+          "name": "Pixel Souls",
+          "url": "https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161769,
+      "name": "The End of the World",
+      "url": "https://open.spotify.com/track/1JqHzJJ4Y1pNKVfPMslz1q"
+    },
+    {
+      "album": {
         "name": "The Good, The Bad And The Ugly",
         "url": "https://open.spotify.com/album/0lknQFn8DB2nLF3hTDgReC"
       },
@@ -2172,7 +2298,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 192964,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/61PZO6qSaGjqfllC5gu4Hn"
@@ -2248,6 +2374,24 @@
       "duration_ms": 146740,
       "name": "Whirlpool",
       "url": "https://open.spotify.com/track/3aZfUnI78dyExxPFl2Inux"
+    },
+    {
+      "album": {
+        "name": "Whispers of the Void",
+        "url": "https://open.spotify.com/album/7z6OhoCQ1wySLcF8PCMX0C"
+      },
+      "artists": [
+        {
+          "name": "Alien Academy",
+          "url": "https://open.spotify.com/artist/37MJLRFMewr3LFXff6skVk"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Whispers of the Void",
+      "url": "https://open.spotify.com/track/4CZtk5nptGwOewY3K9bYZw"
     },
     {
       "album": {

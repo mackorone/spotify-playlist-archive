@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Wiggle Up, Giddy Up!",
+        "url": "https://open.spotify.com/album/3KGtEQo5N3kxOWgWDrLHjP"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62076,
+      "name": "Watching the Ponies",
+      "url": "https://open.spotify.com/track/4x6TgA12lMOzcMK9klfQze"
+    },
+    {
+      "album": {
         "name": "Pancake Manor",
         "url": "https://open.spotify.com/album/6SCnHCUmOHe77UlUouWyrO"
       },

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-491 songs - 1 day 5 hr 35 min
+492 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Call Me](https://open.spotify.com/track/4vVEXX53H6SD1PHX8lCDIv) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Call Me](https://open.spotify.com/album/5NjIbGFj7Wrvbmg3aMHWHO) | 4:13 | 2024-01-12 | 2024-09-21 |
 | [Call Me](https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 2:51 | 2021-07-09 | 2023-04-22 |
 | [Call Me](https://open.spotify.com/track/7279Xzu3rlTXVdtKb5unBA) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/3SDb4R79A7riso7rpRZGGW) | 2:51 | 2021-07-09 | 2022-07-29 |
+| [Can you feel it?](https://open.spotify.com/track/3naURs2ms3MFYcE61bBrSC) | [Cherrykim](https://open.spotify.com/artist/2oOKucHCVvvG0s9F2AdG8l) | [Can you feel it?](https://open.spotify.com/album/2agPyWbw0eb0ha480fX3cC) | 3:29 | 2025-03-07 |  |
 | [Can't Hide It](https://open.spotify.com/track/2ylagHw0kTIK0trKihKMjI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Can't Hide It](https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6) | 3:19 | 2021-09-10 | 2022-07-29 |
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2021-09-10 | 2023-01-28 |
 | [Carry My Name \- Magic Bus Sessions](https://open.spotify.com/track/26PuNsYkMzveo40E5eNOFJ) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Magic Bus Sessions](https://open.spotify.com/album/7wbQ4FeW8zl8hhDdfSuuEK) | 3:43 | 2025-02-07 |  |
@@ -216,7 +217,7 @@
 | [It's Gonna Be Alright](https://open.spotify.com/track/74kOgrikSn2UQ8UptnRUxb) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It's Gonna Be Alright](https://open.spotify.com/album/193sR0w8SGseTgMIEU6VKw) | 4:36 | 2022-07-29 | 2023-05-11 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/1PmcWcWiC1qy3D4o7aZO3C) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It’s Gonna Be Alright](https://open.spotify.com/album/4wDe4yF1Ij4lTBOsqLPxPA) | 4:37 | 2022-07-29 | 2023-05-20 |
 | [It's Time](https://open.spotify.com/track/0J682N2n8YoOFq3z02ItvK) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [Wildman](https://open.spotify.com/artist/3cKiY3udEXBzVYO2Ce1PrQ) | [It's Time](https://open.spotify.com/album/1vAppHpW6mUSUIP4MbQUOv) | 2:50 | 2024-10-18 |  |
-| [I’ll Be Loving You](https://open.spotify.com/track/1L2ynW4tupwphXv7z7aOgL) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [I'll Be Loving You](https://open.spotify.com/album/0Am0k5KrvnhpwATTwPefgy) | 2:47 | 2023-10-20 |  |
+| [I’ll Be Loving You](https://open.spotify.com/track/1L2ynW4tupwphXv7z7aOgL) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [I'll Be Loving You](https://open.spotify.com/album/0Am0k5KrvnhpwATTwPefgy) | 2:47 | 2023-10-20 | 2025-03-08 |
 | [Jean Leon](https://open.spotify.com/track/4UvTu4SIHtRQl173OZbFRj) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Jean Leon](https://open.spotify.com/album/1yxktlUWjFQb7EHerR7Wme) | 2:53 | 2022-02-15 | 2024-03-09 |
 | [Joy & Pain](https://open.spotify.com/track/1iHj6nbjMHFpH73fl4AyWB) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Joy & Pain](https://open.spotify.com/album/6OoLcz38MMFvn9l6nAweXC) | 3:43 | 2022-01-14 | 2022-07-29 |
 | [Joy & Pain](https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:43 | 2022-01-14 | 2023-02-18 |

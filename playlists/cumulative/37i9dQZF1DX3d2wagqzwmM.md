@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: D'Angello & Francis
 
-557 songs - 1 day 4 hr 37 min
+558 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Open Your Eyes](https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Open Your Eyes](https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK) | 3:05 | 2024-07-19 |  |
 | [Our Happiness](https://open.spotify.com/track/1cz2AfXziuBivVSLmThU6g) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Our Happiness](https://open.spotify.com/album/6HJRgQY8cQ9vuffzbWcnZq) | 3:31 | 2023-08-24 | 2023-09-08 |
 | [Our House](https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Our House](https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs) | 3:12 | 2024-08-29 | 2024-11-27 |
+| [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 | 2025-03-06 |  |
 | [Out Of My Mind](https://open.spotify.com/track/2wSudk1Z9HMdPNrWnwu6mc) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Out Of My Mind](https://open.spotify.com/album/2TbwXR0NgqoHoHjorIX3s5) | 3:00 | 2022-04-14 | 2022-07-29 |
 | [P.R.O.G.](https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [P.R.O.G.](https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd) | 2:58 | 2022-08-18 | 2022-09-19 |
 | [PACMAN](https://open.spotify.com/track/0V0FJBR8xhhMuirhRY15we) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [PACMAN](https://open.spotify.com/album/78smiyLXB1YjwnTSZ2U6jB) | 3:52 | 2022-06-09 | 2023-01-03 |
@@ -415,7 +416,7 @@
 | [Rock Da House](https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Rock Da House](https://open.spotify.com/album/7jVI8Hx2v5yahCSTCoViFB) | 2:27 | 2024-07-11 | 2024-11-15 |
 | [Rock My Body \(with Sash!\) \- W&W x R3HAB VIP Remix](https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with SASH!\) \[W&W x R3HAB VIP Remix\]](https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0) | 2:48 | 2023-08-10 | 2025-03-07 |
 | [Rock The House](https://open.spotify.com/track/7u95bREFrttCYkHUEARwYG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Rock The House](https://open.spotify.com/album/14CcOmDbh7oVvFJgXLIx63) | 2:17 | 2024-12-03 | 2025-01-11 |
-| [Rocking With The Best](https://open.spotify.com/track/2jPWHAWKupwkn9aSeS8qfH) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Rocking With The Best](https://open.spotify.com/album/1lp0OBDlot2MRaPUMwa8vP) | 2:45 | 2024-12-17 |  |
+| [Rocking With The Best](https://open.spotify.com/track/2jPWHAWKupwkn9aSeS8qfH) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Rocking With The Best](https://open.spotify.com/album/1lp0OBDlot2MRaPUMwa8vP) | 2:45 | 2024-12-17 | 2025-03-08 |
 | [Rockstar Rave \- Extended Mix](https://open.spotify.com/track/1RCn9CiipgZ49rNV7lquqc) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [Rockstar Rave](https://open.spotify.com/album/1a4BXtziLRL6Q3XQOt6XWV) | 3:37 | 2024-12-03 | 2024-12-18 |
 | [Rollin Up](https://open.spotify.com/track/2GtAvkQM9hMpM4mRoSIHwX) | [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Van Heden](https://open.spotify.com/artist/7ARg1U4yL7yEnaE3pf1gN0), [A\-Trick](https://open.spotify.com/artist/4IR7Q0Fqnx1jC3oiHz4TBW) | [Rollin Up](https://open.spotify.com/album/3THVd9cRFXnUKP3JLph0ZP) | 2:39 | 2023-01-19 | 2023-02-20 |
 | [ROOTS](https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [ROOTS](https://open.spotify.com/album/0tJtaoY8U81yyKCbXDean8) | 2:58 | 2023-07-27 | 2023-10-08 |

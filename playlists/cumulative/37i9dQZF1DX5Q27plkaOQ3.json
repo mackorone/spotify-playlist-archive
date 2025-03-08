@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Black Tiger Sex Machine",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Saka",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 185600,
       "name": "2 Da Floor",
       "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Bastet",
+        "url": "https://open.spotify.com/album/7BRBQ77whTHGk8aJG3MV4p"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "Bastet",
+      "url": "https://open.spotify.com/track/4dN0HAexm85GZTkHlXG9OB"
+    },
+    {
+      "album": {
         "name": "MIDHEAVEN: OPUS 03",
         "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
       },
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 178758,
       "name": "BEAMS",
       "url": "https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS"
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 222857,
       "name": "Become A God",
       "url": "https://open.spotify.com/track/40kpDixmgcVgLp1mbnk9py"
@@ -4753,6 +4771,28 @@
     },
     {
       "album": {
+        "name": "DIZZY SPELL",
+        "url": "https://open.spotify.com/album/2K09XunjUmF6fU9cc5OeS6"
+      },
+      "artists": [
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DIZZY SPELL",
+      "url": "https://open.spotify.com/track/4MgG06U8F0OdSxaEUInEtK"
+    },
+    {
+      "album": {
         "name": "Glass Orchid",
         "url": "https://open.spotify.com/album/3isMZiyI71ULCUxfif0lnL"
       },
@@ -5213,6 +5253,50 @@
     },
     {
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/36rLDnmL9b3aCdKv1aixd8"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/3oh96zFJQ3wDLW9hv0pDKQ"
+    },
+    {
+      "album": {
+        "name": "DROWNING",
+        "url": "https://open.spotify.com/album/2VWkCiuaQC0gIQcALLp8fR"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        },
+        {
+          "name": "FLY",
+          "url": "https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/4m2T30pUUdeqEr655gMWzF"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "DROWNING",
+      "url": "https://open.spotify.com/track/1ESY1ydyrdB4FxedIgRuQG"
+    },
+    {
+      "album": {
         "name": "The Prophecy: Volume 9",
         "url": "https://open.spotify.com/album/4bb1xzMxWiFhEKscFigL42"
       },
@@ -5428,7 +5512,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 264000,
       "name": "Eat Your Heart Out",
       "url": "https://open.spotify.com/track/2MymKtopdFwaGQfecL4rQY"
@@ -6085,6 +6169,24 @@
     },
     {
       "album": {
+        "name": "Return to the Spectrum of Intergalactic Happiness",
+        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253260,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
+    },
+    {
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/4gLtEjpQonZ0UQ8jdd6IFq"
       },
@@ -6648,7 +6750,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 186437,
       "name": "Florida",
       "url": "https://open.spotify.com/track/0X4rmRgLzakHuykZOwhNVD"
@@ -6736,7 +6838,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 187034,
       "name": "Focal",
       "url": "https://open.spotify.com/track/2hTI8SLKEnDhxsjkjZA5fT"
@@ -6832,6 +6934,24 @@
       "duration_ms": 185357,
       "name": "Fracture",
       "url": "https://open.spotify.com/track/2tSi83cOo4S6XRuAhoNSMK"
+    },
+    {
+      "album": {
+        "name": "Freak On",
+        "url": "https://open.spotify.com/album/4C7HudFwlkdOoWZJqtiY1l"
+      },
+      "artists": [
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Freak On",
+      "url": "https://open.spotify.com/track/3brwcsPOEVJThiVLKBs91Y"
     },
     {
       "album": {
@@ -7348,6 +7468,28 @@
       "duration_ms": 185571,
       "name": "Get It On",
       "url": "https://open.spotify.com/track/3Ho2FJutH67enqPLYc1K51"
+    },
+    {
+      "album": {
+        "name": "GET SMACKED",
+        "url": "https://open.spotify.com/album/4fxtTnPxoJpfL2z9FgFZ2j"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220350,
+      "name": "GET SMACKED",
+      "url": "https://open.spotify.com/track/4d9PS5dlzlRd3oGhNLxPCb"
     },
     {
       "album": {
@@ -8130,7 +8272,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 156444,
       "name": "Hertz Donut",
       "url": "https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk"
@@ -11553,6 +11695,28 @@
     },
     {
       "album": {
+        "name": "Need U",
+        "url": "https://open.spotify.com/album/1Ww82q3hxt5bpnHl46ORlR"
+      },
+      "artists": [
+        {
+          "name": "Ann!hilate",
+          "url": "https://open.spotify.com/artist/4CQSsq2HQaRa66hoQ37ky9"
+        },
+        {
+          "name": "Outertone",
+          "url": "https://open.spotify.com/artist/76EQ6xxFd24ZJ4GKq8FOEX"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231857,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/2GgjG2cccBKPvvcAyCzdgA"
+    },
+    {
+      "album": {
         "name": "Need Ur Love",
         "url": "https://open.spotify.com/album/7EDw4BnBIj2WLbiRrXXb6u"
       },
@@ -12966,7 +13130,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 185600,
       "name": "Play With Fire - MUST DIE! Remix",
       "url": "https://open.spotify.com/track/2M1IYbGBsf4z0aB7KY20C9"
@@ -14280,7 +14444,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 239697,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/3DnzrubszBKIYTDzTEfhGg"
@@ -15590,7 +15754,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 178857,
       "name": "SIXTH SENSE",
       "url": "https://open.spotify.com/track/1sbB0gYEzdyNZJKFEz436H"
@@ -15992,6 +16156,28 @@
       "duration_ms": 199384,
       "name": "Sonic Resonator",
       "url": "https://open.spotify.com/track/6ykdS4Q9JVgnpPmHO17nnT"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3LU0ZNiP5XDlT2pOBuSgUb"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245142,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2PFb529GawSghUq9dFJULp"
     },
     {
       "album": {
@@ -17036,7 +17222,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 214344,
       "name": "Tax Evasion",
       "url": "https://open.spotify.com/track/5NiVqcP6gFcPoeIEOtUKlE"
@@ -17458,6 +17644,24 @@
       "duration_ms": 153600,
       "name": "The Epic",
       "url": "https://open.spotify.com/track/0AhFGeVzLGn3VaPplKhSKZ"
+    },
+    {
+      "album": {
+        "name": "THE FUNK",
+        "url": "https://open.spotify.com/album/4ywNcvQLQ5kxeT7EYI05Ll"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "THE FUNK",
+      "url": "https://open.spotify.com/track/4ANKIna0NVJ9hayUbv8mRQ"
     },
     {
       "album": {
@@ -18793,6 +18997,28 @@
     },
     {
       "album": {
+        "name": "UNICORN",
+        "url": "https://open.spotify.com/album/7pgxrNFIg7oezWqKB6KRLW"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "KinderCore",
+          "url": "https://open.spotify.com/artist/2VkN179NjmbLh9R2Tpjdp2"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "UNICORN",
+      "url": "https://open.spotify.com/track/5pjBTRBqUuQIVTyDqz60ha"
+    },
+    {
+      "album": {
         "name": "IDK, Vol. 2",
         "url": "https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt"
       },
@@ -19090,6 +19316,28 @@
       "duration_ms": 195428,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/5uHPyFEWZOFGFY7EMvhFxc"
+    },
+    {
+      "album": {
+        "name": "Wasabi",
+        "url": "https://open.spotify.com/album/7m9ybkhQoRbOcg1QRaytLo"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237103,
+      "name": "Wasabi",
+      "url": "https://open.spotify.com/track/0bm5Knfk6RmT9aluocj1rY"
     },
     {
       "album": {
@@ -19638,7 +19886,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 170785,
       "name": "You Shall See",
       "url": "https://open.spotify.com/track/5xlL7u88s2y09tzMU0569W"

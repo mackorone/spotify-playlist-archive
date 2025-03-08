@@ -313,6 +313,32 @@
     },
     {
       "album": {
+        "name": "a second",
+        "url": "https://open.spotify.com/album/3F624um7lJklR0L9xLzi6X"
+      },
+      "artists": [
+        {
+          "name": "Lavender Blu",
+          "url": "https://open.spotify.com/artist/19sfPqgN1yp0YbZpzN6BEr"
+        },
+        {
+          "name": "Rachel Gonzalez",
+          "url": "https://open.spotify.com/artist/63VWVmNJRT50AnblZm24U7"
+        },
+        {
+          "name": "Elin Sandberg",
+          "url": "https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196076,
+      "name": "a second",
+      "url": "https://open.spotify.com/track/42bZLdDCYPTvWoXPiSxrTc"
+    },
+    {
+      "album": {
         "name": "ABOUT YOU",
         "url": "https://open.spotify.com/album/6KJV5yel4I60lYBmMvylBL"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Dan Bremnes",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: TobyMac",
   "name": "Top Christian Contemporary",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 235750,
       "name": "Amen",
       "url": "https://open.spotify.com/track/4v6SzqiQf66IlrpUukDRnj"
@@ -838,6 +838,24 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
+    },
+    {
+      "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/7cMfRtuyqutQY7maMsgvzx"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229016,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/4wQhi2wkWiEw5vzm8Q4SWG"
     },
     {
       "album": {
@@ -1414,6 +1432,24 @@
       "duration_ms": 238336,
       "name": "Dare You To Move",
       "url": "https://open.spotify.com/track/5ACfoDwpvwGiq6z1SEZlFp"
+    },
+    {
+      "album": {
+        "name": "Deeper Still",
+        "url": "https://open.spotify.com/album/0WXGgsKvFy2eCWwDr6i1TB"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192182,
+      "name": "Deeper Still",
+      "url": "https://open.spotify.com/track/36DMRazAVFwDTbclQTGsWY"
     },
     {
       "album": {
@@ -3381,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "Heaven On My Mind",
+        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203450,
+      "name": "Heaven On My Mind",
+      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
+    },
+    {
+      "album": {
         "name": "How Far",
         "url": "https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy"
       },
@@ -4320,7 +4374,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 231320,
       "name": "If I Got Jesus",
       "url": "https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc"
@@ -5314,7 +5368,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 198000,
       "name": "Loves Got a Way",
       "url": "https://open.spotify.com/track/3kL6SvzZTi4vweT6KWy8GH"

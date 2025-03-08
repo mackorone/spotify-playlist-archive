@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-53 songs - 3 hr 7 min
+54 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [FINDING JOY](https://open.spotify.com/track/5EO6BbpRLsNvvGu89l9Z4x) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART TWO](https://open.spotify.com/album/7hltHXLUrAImGEqdNw5OGL) | 1:08 | 2024-02-12 |  |
 | [Fine Lines](https://open.spotify.com/track/7vAe6XVRwfVjNq51ui5EfZ) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:53 | 2024-01-29 |  |
 | [Gone](https://open.spotify.com/track/2ej590OSETiOikX8Oaiguo) | [Naomi Banks](https://open.spotify.com/artist/0Xqny1HXPGaxHIasTndWeS) | [Gone](https://open.spotify.com/album/2MkmtRjGOss89QGJ5Qw1ch) | 2:52 | 2024-01-29 |  |
+| [GOOD4U](https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou) | [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [OXO](https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT) | 3:48 | 2025-03-07 |  |
 | [GOT IT GOOD \(feat\. Craig David\)](https://open.spotify.com/track/2xyi5jBkaQ741tXWTiqyr0) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 3:48 | 2024-01-29 |  |
 | [HAPPINESS IN LIMBO](https://open.spotify.com/track/7GlCuPNA2ARZ93sHgK7Kpi) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 2:31 | 2024-01-29 |  |
 | [Heart Eyes](https://open.spotify.com/track/3dkelZbHXxqpdgVueyQtoT) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Heart Eyes](https://open.spotify.com/album/4C2HRJSaZwBzwIpcxCdKhN) | 2:58 | 2024-01-29 |  |

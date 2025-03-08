@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Julio Caesar
 
-190 songs - 10 hr 27 min
+191 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [I Am a Mexican](https://open.spotify.com/track/5v3JieJAHIspWkXNVy5rHq) | [Rick Trevino](https://open.spotify.com/artist/28yWs7I4FXiDyBuHoZqkY8), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M) | [I Am a Mexican](https://open.spotify.com/album/1Qij0nelotbxl3wu3h0rx8) | 3:24 | 2021-12-10 | 2024-04-10 |
 | [I Can't Even Drink Straight](https://open.spotify.com/track/07hSFiKCVTEOxjRn5agBkS) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [I Can't Even Drink Straight](https://open.spotify.com/album/3HAnMO7pzNRKMuTU2U99VD) | 3:26 | 2022-05-27 |  |
 | [I Could Fall in Love](https://open.spotify.com/track/7ydcEgOlAOg0b1ZflBaL9e) | [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8) | [ENVY](https://open.spotify.com/album/4ycNhte5aZy91NZk4iBQfG) | 4:09 | 2024-08-09 |  |
+| [I Don't \- Spanglish Version](https://open.spotify.com/track/5mHXNiKL69t8qxXHejPzP6) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [That Girl \- EP](https://open.spotify.com/album/4MbWWjYTBk58xKGTgPeT4m) | 3:51 | 2025-03-07 |  |
 | [I Got It](https://open.spotify.com/track/1d0w3hqOzIB5p1qTv2BzC4) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [I Got It](https://open.spotify.com/album/5u81MkIsVVDZtApxC2wBxm) | 3:08 | 2024-08-16 |  |
 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 | 2022-02-25 | 2024-04-10 |
 | [I'm the One \- Remix](https://open.spotify.com/track/3OTOuRFsNPz18mM9oor9vJ) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [I'm the One \(Remix\)](https://open.spotify.com/album/7wHphNvWeFFo4vQWMluzSL) | 2:16 | 2022-04-15 | 2024-04-10 |

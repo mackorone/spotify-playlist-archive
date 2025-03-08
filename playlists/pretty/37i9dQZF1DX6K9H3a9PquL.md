@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K9H3a9PquL.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/suetsai/">Sue Tsai</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,365 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,406 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

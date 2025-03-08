@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/2ZmeAZ258xhc6jPbJysT2o"
+      },
+      "artists": [
+        {
+          "name": "Rikkas",
+          "url": "https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179509,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/45gMeES3VvxZdUey7SYryS"
+    },
+    {
+      "album": {
         "name": "Dreaming Away",
         "url": "https://open.spotify.com/album/1JpH3mFTaO2658hvhdTRXS"
       },
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 182044,
       "name": "En el Espacio",
       "url": "https://open.spotify.com/track/5ZRWtriBKg5blYLi2UDLMP"
@@ -3244,6 +3262,24 @@
       "duration_ms": 137142,
       "name": "Gemoedsrust",
       "url": "https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS"
+    },
+    {
+      "album": {
+        "name": "Gentle Nightfall",
+        "url": "https://open.spotify.com/album/2GeBv6aWVQTRZRc6q4I6GS"
+      },
+      "artists": [
+        {
+          "name": "Luminous Dreamer",
+          "url": "https://open.spotify.com/artist/3uq69LjzFbJ2hoM4ZQ6X4U"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Gentle Nightfall",
+      "url": "https://open.spotify.com/track/4DRfS8xhfum6aXOs6CpaDE"
     },
     {
       "album": {
@@ -5354,7 +5390,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 218250,
       "name": "Once More Forever",
       "url": "https://open.spotify.com/track/63B7LUA9cMoC1Ssk1DrPWx"

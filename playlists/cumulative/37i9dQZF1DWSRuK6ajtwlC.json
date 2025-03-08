@@ -1567,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "Intento Diez Mil",
+        "url": "https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149825,
+      "name": "Intento Diez Mil",
+      "url": "https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok"
+    },
+    {
+      "album": {
         "name": "Juan Ayon",
         "url": "https://open.spotify.com/album/3ElfgDqD8nuLTKb7s8sXOZ"
       },
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 144124,
       "name": "La Mini Mini",
       "url": "https://open.spotify.com/track/503eZ5ygoYu95VGQlZeZKj"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 184296,
       "name": "Lo Intent\u00e9",
       "url": "https://open.spotify.com/track/4fk109Oq5DDPvMktKcS8tR"
@@ -3864,6 +3882,24 @@
       "duration_ms": 143871,
       "name": "Ya No Me Dueles",
       "url": "https://open.spotify.com/track/0MDYYptUiQEqB7srakmdXh"
+    },
+    {
+      "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/1bJBpoL9bZquq4LbdhDS37"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142048,
+      "name": "Yin Yang",
+      "url": "https://open.spotify.com/track/5Dfy3shEvp2fNkJe5MQTI2"
     },
     {
       "album": {

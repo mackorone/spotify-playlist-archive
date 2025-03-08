@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Tiësto &amp; Oscar L
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,678 likes - 63 songs - 3 hr 1 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,679 likes - 63 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 62 | [Dark Days](https://open.spotify.com/track/0hR5LkJ583zCT6SeNacuBV) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Dark Days](https://open.spotify.com/album/3s2OsUcKQigkeEnnU5ZHfg) | 2:33 |
 | 63 | [Destination Calabria](https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Destination Calabria](https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o) | 2:40 |
 
-Snapshot ID: `AAAe3f+gbCAVxtAvmwnOw4J1hhvspO5l`
+Snapshot ID: `AAAe3q1sc04LbuGUGOxljjRmoKdZdtES`

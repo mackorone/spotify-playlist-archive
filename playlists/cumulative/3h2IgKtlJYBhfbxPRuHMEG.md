@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
-161 songs - 9 hr 6 min
+162 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Empress](https://open.spotify.com/track/7FOKSW5gRor6OiAFb5TtEi) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Empress](https://open.spotify.com/album/3DHXtr7PruK4VAgEYq6HZF) | 2:40 | 2023-12-01 |  |
 | [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-12-01 |  |
 | [Everywhere, Nowhere](https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Everywhere, Nowhere](https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7) | 3:05 | 2024-03-01 | 2024-03-16 |
+| [Fall Away](https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 4:13 | 2025-03-07 |  |
 | [Falling Over You](https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Falling Over You](https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL) | 3:14 | 2023-12-01 |  |
 | [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 | 2024-05-10 | 2024-11-09 |
 | [Flip It \- ÆON:MODE Remix](https://open.spotify.com/track/6zw7s3znqtUvU90Q5blgEj) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [Flip It \(ÆON:MODE Remix\)](https://open.spotify.com/album/2SQt6DV4BmY6XonaNZCPOg) | 2:32 | 2024-06-07 | 2024-11-09 |

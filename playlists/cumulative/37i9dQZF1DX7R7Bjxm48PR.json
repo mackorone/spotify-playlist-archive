@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Oceans of dreams",
+        "url": "https://open.spotify.com/album/1S28M9KkO2lyyzMroR4JDW"
+      },
+      "artists": [
+        {
+          "name": "Emilio Chiara",
+          "url": "https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134642,
+      "name": "Oceans of dreams",
+      "url": "https://open.spotify.com/track/4nuOT2R4KCUKaSPxWYWr0b"
+    },
+    {
+      "album": {
         "name": "Oculis",
         "url": "https://open.spotify.com/album/1bPneybtqTRAZ9UZaehET0"
       },

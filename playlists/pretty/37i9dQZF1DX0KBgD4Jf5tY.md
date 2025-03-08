@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente italiana, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:60hS0Wt0Px2B3rr9Zzur8E">Coco93</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,002 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,013 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

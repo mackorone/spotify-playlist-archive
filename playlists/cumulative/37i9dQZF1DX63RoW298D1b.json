@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Entranced",
+        "url": "https://open.spotify.com/album/1BAFS0pfZU4UrYrcp5b9eb"
+      },
+      "artists": [
+        {
+          "name": "Thom Nelson",
+          "url": "https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125724,
+      "name": "Entranced",
+      "url": "https://open.spotify.com/track/7l3b9ZibmTp34ZSAmSvC0t"
+    },
+    {
+      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/09cW79JXOPShafrskPjFxK"
       },

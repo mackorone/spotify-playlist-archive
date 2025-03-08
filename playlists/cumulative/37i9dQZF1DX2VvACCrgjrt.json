@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 194285,
       "name": "AUTOMATIC",
       "url": "https://open.spotify.com/track/1geATcpIabznNvS0GSTFEm"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 160000,
       "name": "Bass",
       "url": "https://open.spotify.com/track/2Yeg5H1I7pG9KQSN4wLw5I"
@@ -4267,6 +4267,28 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW"
+    },
+    {
+      "album": {
         "name": "Crew",
         "url": "https://open.spotify.com/album/6dMhTnkHKvIFCeldylvkIQ"
       },
@@ -4424,7 +4446,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 144248,
       "name": "Dancefloor",
       "url": "https://open.spotify.com/track/1L7hO5kFCPdhYRNVD7xn50"
@@ -6257,6 +6279,24 @@
     },
     {
       "album": {
+        "name": "Feel So Right",
+        "url": "https://open.spotify.com/album/1HK3AXlfMIYy9m7TLnxQRs"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "Feel So Right",
+      "url": "https://open.spotify.com/track/0fpDD4JKDf35bUyU8gPOnl"
+    },
+    {
+      "album": {
         "name": "Feeling Naughty",
         "url": "https://open.spotify.com/album/1Eozvs60IkKnm4cRIHHtsw"
       },
@@ -6532,6 +6572,24 @@
       "duration_ms": 280771,
       "name": "Fiya - Curbi Edit",
       "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
+    },
+    {
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/2u64xM5mYc5qBvOQfkGPm5"
+      },
+      "artists": [
+        {
+          "name": "Helang",
+          "url": "https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/622eAV8J0zkZyrCH5pZqF4"
     },
     {
       "album": {
@@ -7530,7 +7588,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 216000,
       "name": "GHOST",
       "url": "https://open.spotify.com/track/1Z80aMp7Zxk4jqHoy4m9OI"
@@ -8180,6 +8238,28 @@
       "duration_ms": 172380,
       "name": "Gua Gua",
       "url": "https://open.spotify.com/track/4OlDil0aYB6e9G0ojfKZFy"
+    },
+    {
+      "album": {
+        "name": "Guess I Never Know",
+        "url": "https://open.spotify.com/album/4DTPGW8FzybAGJFY4PXJQ9"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        },
+        {
+          "name": "Kxne",
+          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149653,
+      "name": "Guess I Never Know",
+      "url": "https://open.spotify.com/track/5Cud5KwxFPYWnxJhARH3Bt"
     },
     {
       "album": {
@@ -9960,7 +10040,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 160827,
       "name": "LA FAMILIA",
       "url": "https://open.spotify.com/track/5KoHcFPZXpYY4PefooRiK6"
@@ -14270,7 +14350,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 183750,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/2o2qzhEatKmbCOZy07nrFh"
@@ -15086,7 +15166,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 157846,
       "name": "ROTATION",
       "url": "https://open.spotify.com/track/7GTUoWhahYmX0jxJea2IFg"
@@ -17156,7 +17236,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 189850,
       "name": "TALK MY SH*T (feat. Dean Mitchell)",
       "url": "https://open.spotify.com/track/4VqqbHPyCQ5LNZRs7gfIRW"
@@ -17310,6 +17390,24 @@
       "duration_ms": 153333,
       "name": "TECHNO N' BASS",
       "url": "https://open.spotify.com/track/3eC5zOfHgLYK2FYv8ObvMC"
+    },
+    {
+      "album": {
+        "name": "Techno Sh",
+        "url": "https://open.spotify.com/album/30CDYNwvWQ6DYPkSa2aLjn"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "Techno Sh",
+      "url": "https://open.spotify.com/track/3r3Vinc9oBAnIUjolTemFf"
     },
     {
       "album": {
@@ -17626,7 +17724,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 173333,
       "name": "The Blur",
       "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"

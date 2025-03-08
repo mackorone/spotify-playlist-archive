@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 505 likes - 107 songs - 6 hr 6 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 505 likes - 108 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hush](https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [Hush](https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y) | 3:15 |
-| 2 | [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 |
+| 1 | [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 |
+| 2 | [Hush](https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [Hush](https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y) | 3:15 |
 | 3 | [West End Wobbler](https://open.spotify.com/track/7hmv0wbnoi8n7Mbe8fHwQM) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [West End Wobbler](https://open.spotify.com/album/2ysqBWfWSJj9tyYn4yJsuf) | 3:17 |
 | 4 | [All Too Late](https://open.spotify.com/track/4m1KSPhZ74hYFDd6pq5Cz6) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Rhode](https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi) | [All Too Late](https://open.spotify.com/album/7uz6W3xnVGod7qtJHbAePW) | 3:36 |
 | 5 | [Patterns](https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Stay In Your Lane](https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI) | 3:40 |
@@ -115,5 +115,6 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 | 105 | [Alive \- One True God Remix](https://open.spotify.com/track/72B9xPjLnAYyigLEgy1Z2E) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Alive \(One True God Remix\)](https://open.spotify.com/album/572eGkvBysIHmsXZFNQst0) | 3:27 |
 | 106 | [Dirty Talk](https://open.spotify.com/track/1b4WGUgsfdiJYStI6W1mo4) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [Dirty Talk](https://open.spotify.com/album/4OQBeRy1QK8N9HdVI657lm) | 2:55 |
 | 107 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 |
+| 108 | [Fall Away](https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 4:13 |
 
-Snapshot ID: `AAAEWMzACn23Q1wL9XxZo15hzohRQWtJ`
+Snapshot ID: `AAAEWpi7gcoumn3D8plNZHJFzNKfQlcQ`

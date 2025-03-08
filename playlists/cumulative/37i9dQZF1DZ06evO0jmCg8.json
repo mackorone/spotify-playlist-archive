@@ -852,6 +852,24 @@
     {
       "album": {
         "name": "Paper Tiger",
+        "url": "https://open.spotify.com/album/0ZdgpbDDrPdvV5iEgPM6vs"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236746,
+      "name": "Paper Tiger",
+      "url": "https://open.spotify.com/track/1eeNl33TLVUVBZmqKT3Yed"
+    },
+    {
+      "album": {
+        "name": "Paper Tiger",
         "url": "https://open.spotify.com/album/1IC5YSNaOSsHPqNPeoYtLm"
       },
       "artists": [
@@ -862,7 +880,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 236746,
       "name": "Paper Tiger",
       "url": "https://open.spotify.com/track/4jJw1XWe4hq0UIOQkUeGLz"
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 92893,
       "name": "Snow Bound",
       "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"

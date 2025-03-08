@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: amy michelle",
+  "description": "New tunes from Ireland for your discovery. Cover: Amble",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -348,6 +348,28 @@
       "duration_ms": 169468,
       "name": "Baker",
       "url": "https://open.spotify.com/track/0W6nT0cnGAVf7PDSAzg3wh"
+    },
+    {
+      "album": {
+        "name": "Beauty In The Beast",
+        "url": "https://open.spotify.com/album/6kGSQUbpfwjGkdPg3RQSbX"
+      },
+      "artists": [
+        {
+          "name": "Curtisy",
+          "url": "https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35"
+        },
+        {
+          "name": "hikii",
+          "url": "https://open.spotify.com/artist/7ptF6sBmG9wPc0qEVP6awE"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183104,
+      "name": "Beauty In The Beast",
+      "url": "https://open.spotify.com/track/1XHIrtSMQxi25WVeDNGmbW"
     },
     {
       "album": {
@@ -1155,6 +1177,28 @@
     },
     {
       "album": {
+        "name": "Date Nite",
+        "url": "https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        },
+        {
+          "name": "Saint Demarcus",
+          "url": "https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151281,
+      "name": "Date Nite",
+      "url": "https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH"
+    },
+    {
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/74MQXYjrUQbJ7W818qOUw7"
       },
@@ -1278,6 +1322,24 @@
       "duration_ms": 260962,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/0telt43FI47tAzJUB5oaPG"
+    },
+    {
+      "album": {
+        "name": "DM:AM",
+        "url": "https://open.spotify.com/album/26BvD7KR2R6SXD0qFSXDGt"
+      },
+      "artists": [
+        {
+          "name": "Mhaol",
+          "url": "https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131657,
+      "name": "DM:AM",
+      "url": "https://open.spotify.com/track/7sJQG7BjDIj3DWLUdqsNKH"
     },
     {
       "album": {
@@ -1512,6 +1574,24 @@
       "duration_ms": 195250,
       "name": "elegy",
       "url": "https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM"
+    },
+    {
+      "album": {
+        "name": "for james",
+        "url": "https://open.spotify.com/album/2BokFGMyNZrL9GEraM1Vho"
+      },
+      "artists": [
+        {
+          "name": "how r u",
+          "url": "https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "eliana",
+      "url": "https://open.spotify.com/track/0cL1vePQmfGl6GdqNFXrsf"
     },
     {
       "album": {
@@ -2198,7 +2278,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 103464,
       "name": "im good",
       "url": "https://open.spotify.com/track/2RwtjM2ZtxVSYQdlFd7hp3"
@@ -3693,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Schoolyard Days",
+        "url": "https://open.spotify.com/album/5nOsAuzb5X7CmWmDG0FAcK"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189527,
+      "name": "Schoolyard Days",
+      "url": "https://open.spotify.com/track/3nNXXPHGzCObHA50xCLzSf"
+    },
+    {
+      "album": {
         "name": "See You In a Year and a Half",
         "url": "https://open.spotify.com/album/3wOvqeu8ZppPF9LWD2bcYz"
       },
@@ -3992,7 +4090,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 176500,
       "name": "spring will come",
       "url": "https://open.spotify.com/track/5E7N0nr63wL3A5lWwlMxHq"
@@ -4162,7 +4260,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 196700,
       "name": "Supermum!",
       "url": "https://open.spotify.com/track/02CaCPaW8wzDT10YbkueCG"
@@ -4256,7 +4354,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 152173,
       "name": "That Sound (Remix)",
       "url": "https://open.spotify.com/track/74d4xa0cCOO6n0KYGocP1z"
@@ -4844,7 +4942,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 193970,
       "name": "WELL ENOUGH!",
       "url": "https://open.spotify.com/track/0v8itswFBG0nfiWvLQzjCW"

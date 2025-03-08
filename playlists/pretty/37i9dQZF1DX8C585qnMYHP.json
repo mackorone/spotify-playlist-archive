@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 185483,
+  "num_followers": 185511,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -541,6 +541,22 @@
       "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
     },
     {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+    },
+    {
       "added_at": "2024-10-04 14:02:22",
       "album": {
         "name": "Things We Have In Common",
@@ -559,22 +575,6 @@
       "duration_ms": 216566,
       "name": "Balancing Stones",
       "url": "https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+        "name": "Worm",
+        "url": "https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0"
       },
       "artists": [
         {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+      "duration_ms": 198000,
+      "name": "Bearded Fireworm",
+      "url": "https://open.spotify.com/track/5BcRJWAjXxxhdpwEo4wW06"
     },
     {
       "added_at": "2024-09-11 15:31:53",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
       "added_at": "2024-10-25 06:00:00",
       "album": {
         "name": "Under the Sun",
@@ -755,22 +771,6 @@
       "duration_ms": 477048,
       "name": "Analemma",
       "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Worm",
-        "url": "https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Bearded Fireworm",
-      "url": "https://open.spotify.com/track/5BcRJWAjXxxhdpwEo4wW06"
     },
     {
       "added_at": "2024-09-11 15:31:53",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
     },
     {
-      "added_at": "2024-09-11 15:31:53",
-      "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 277042,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Nomad",
@@ -883,6 +867,22 @@
       "duration_ms": 257226,
       "name": "Distance Learner",
       "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
+    },
+    {
+      "added_at": "2024-09-11 15:31:53",
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 277042,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Joachim",
-          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
-        }
-      ],
-      "duration_ms": 320409,
-      "name": "Ki moun ou ye",
-      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 203955,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/6SfxRLlE2hfTxJjG4Y5vrq"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        }
+      ],
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
     },
     {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Webcrawler",
-      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Worm",
@@ -1047,6 +1031,22 @@
       "duration_ms": 104000,
       "name": "Hornworm Metamorphosis",
       "url": "https://open.spotify.com/track/2OWIW0RtHMknFI2OTeZqHb"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
-    },
-    {
       "added_at": "2024-10-23 05:18:13",
       "album": {
         "name": "Oxido En El Espejo",
@@ -1213,20 +1197,20 @@
       "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
     },
     {
-      "added_at": "2025-01-15 18:16:36",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Pordeno Me",
-        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
       },
       "artists": [
         {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
         }
       ],
-      "duration_ms": 149457,
-      "name": "Pordeno Me",
-      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 224064,
       "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
+    },
+    {
+      "added_at": "2025-01-15 18:16:36",
+      "album": {
+        "name": "Pordeno Me",
+        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 149457,
+      "name": "Pordeno Me",
+      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2024-06-19 16:42:50",
       "album": {
-        "name": "Hailu",
-        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
+        "name": "Forest Drone",
+        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Baraka",
-      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
+      "duration_ms": 287976,
+      "name": "Forest Drone",
+      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Arcadian Daze",
-        "url": "https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 199894,
-      "name": "Echo Drift",
-      "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 229602,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Arcadian Daze",
+        "url": "https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 199894,
+      "name": "Echo Drift",
+      "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1547,8 +1547,8 @@
     {
       "added_at": "2024-06-19 16:42:50",
       "album": {
-        "name": "Forest Drone",
-        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+        "name": "Hailu",
+        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
       },
       "artists": [
         {
@@ -1556,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
         }
       ],
-      "duration_ms": 287976,
-      "name": "Forest Drone",
-      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
+      "duration_ms": 155000,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/6dmczsqgtAQ7O8PXX9vD0l"
     },
     {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
-        "name": "IN:titolo",
-        "url": "https://open.spotify.com/album/1IfDRUJl02s8omCCPnhg0Y"
-      },
-      "artists": [
-        {
-          "name": "Giulia Impache",
-          "url": "https://open.spotify.com/artist/37QS09rahGmzedxYYv93tb"
-        }
-      ],
-      "duration_ms": 319389,
-      "name": "Sailor (for fin)",
-      "url": "https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "V\u00e4ter und S\u00f6hne",
@@ -1607,6 +1591,22 @@
       "duration_ms": 353250,
       "name": "V\u00e4ter und S\u00f6hne",
       "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
+    },
+    {
+      "added_at": "2025-01-15 18:16:36",
+      "album": {
+        "name": "IN:titolo",
+        "url": "https://open.spotify.com/album/1IfDRUJl02s8omCCPnhg0Y"
+      },
+      "artists": [
+        {
+          "name": "Giulia Impache",
+          "url": "https://open.spotify.com/artist/37QS09rahGmzedxYYv93tb"
+        }
+      ],
+      "duration_ms": 319389,
+      "name": "Sailor (for fin)",
+      "url": "https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt"
     },
     {
       "added_at": "2025-01-15 18:16:36",

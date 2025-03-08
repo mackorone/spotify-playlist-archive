@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Brett Kissel",
+  "description": "The home of Canadian country music. Cover: Kalsey Kulyk",
   "name": "North Country",
   "tracks": [
     {
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Born to Lose",
+        "url": "https://open.spotify.com/album/1IvI41efUdVWK0Kk5N3OcO"
+      },
+      "artists": [
+        {
+          "name": "Ty Wilson",
+          "url": "https://open.spotify.com/artist/4RkiQ55j8u1VDG5TH9cSl1"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235108,
+      "name": "Born to Lose",
+      "url": "https://open.spotify.com/track/3LuZ6UdShLmxUY0FeHkxBt"
+    },
+    {
+      "album": {
         "name": "Broken Heart Thing (feat. Dustin Lynch)",
         "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
       },
@@ -670,6 +688,24 @@
       "duration_ms": 256517,
       "name": "Coyote",
       "url": "https://open.spotify.com/track/0uQxv3pvFrL3ri6Cec2dQ1"
+    },
+    {
+      "album": {
+        "name": "Crushin' Cans",
+        "url": "https://open.spotify.com/album/1Ohy30OrKy7b0ewzmnuHYN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Langdon",
+          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150138,
+      "name": "Crushin' Cans",
+      "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
     },
     {
       "album": {
@@ -1490,7 +1526,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 172181,
       "name": "Hundred Mile High",
       "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 167485,
       "name": "My Bedroom",
       "url": "https://open.spotify.com/track/4s2hYIjegeOxsVXpVtwywh"
@@ -2394,6 +2430,24 @@
       "duration_ms": 176610,
       "name": "One More",
       "url": "https://open.spotify.com/track/2Pl5M4e1slMK9WM8eqrt2p"
+    },
+    {
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169331,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
     },
     {
       "album": {
@@ -2654,6 +2708,24 @@
       "duration_ms": 197043,
       "name": "Ready To Roll",
       "url": "https://open.spotify.com/track/6AepOgQoCRCenmlSii4H59"
+    },
+    {
+      "album": {
+        "name": "Reason To Love",
+        "url": "https://open.spotify.com/album/5tg7NcUK6SS93Q1QNJl51f"
+      },
+      "artists": [
+        {
+          "name": "Chad Brownlee",
+          "url": "https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161796,
+      "name": "Reason To Love",
+      "url": "https://open.spotify.com/track/7zmPA1n8avOloSbeTkGrRq"
     },
     {
       "album": {
@@ -3422,7 +3494,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 160730,
       "name": "Upside of Being Down",
       "url": "https://open.spotify.com/track/2qJN9RuKAZYXfMRynYMuXN"
@@ -3538,7 +3610,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-08",
       "duration_ms": 196000,
       "name": "What Got Me Here",
       "url": "https://open.spotify.com/track/7lqeJAu2vzi32nSCINfEJz"

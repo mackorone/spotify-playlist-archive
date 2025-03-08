@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: You Are the Apple of My Eye\(그 시절, 우리가 좋아했던 소녀\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529,661 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,606 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 55 | [Hear Me Out](https://open.spotify.com/track/3kIfkgbWkry7J3I97frclr) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [When The Phone Rings, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/5oILTtaFeYOUWCVklmz9Fs) | 3:43 |
 | 56 | [A New Chapter](https://open.spotify.com/track/0a4LeoAZXqrAkyZzyi4WHA) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Sorry Not Sorry OST Part 1](https://open.spotify.com/album/5NlleCH2jOKKIDgXtC0F5z) | 3:08 |
 | 57 | [HUNJUNG YEONSUH](https://open.spotify.com/track/08Pvcb7tO6Ac2TRB9zr4Wa) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [The Tale of Lady Ok \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0riQ4lsX6mFk9DKDx8WLnE) | 4:23 |
-| 58 | [Think about you](https://open.spotify.com/track/4og3b64aWTdgVk1ILheWxG) | [YEJI \(ITZY\)](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Love Your Enemy OST Part 3](https://open.spotify.com/album/0PHVTVnoPMOdTmKUVog8hB) | 3:09 |
+| 58 | [Think about you](https://open.spotify.com/track/4og3b64aWTdgVk1ILheWxG) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Love Your Enemy OST Part 3](https://open.spotify.com/album/0PHVTVnoPMOdTmKUVog8hB) | 3:09 |
 | 59 | [Why Not](https://open.spotify.com/track/415dzQamP5pJ8dMfNVfUHL) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\) Part.3](https://open.spotify.com/album/7D0gQELLdvfMjodh6xNUA8) | 2:58 |
 | 60 | [Day after day](https://open.spotify.com/track/66lJ4IajLbS87o11xp5Ik2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Love Your Enemy OST Part 2](https://open.spotify.com/album/49xddz6nqaZ1Rn9bb0cV0R) | 3:45 |
 | 61 | [Can′t Stop](https://open.spotify.com/track/6Tmjq4da2hLGJyuSPWKLiP) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [BREWING LOVE, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5EefRGqibq87o8RYMMQgn2) | 3:10 |

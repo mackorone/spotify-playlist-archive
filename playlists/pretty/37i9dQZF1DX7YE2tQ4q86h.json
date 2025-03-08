@@ -1,50 +1,18 @@
 {
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Rebecca Black",
-  "num_followers": 202438,
+  "description": "Put your paws all over me!",
+  "num_followers": 202505,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC+AAAAAADGMT7dAN8d7U6fdD3HysW",
+  "snapshot_id": "Z8q2TwAAAABB+5aelLT36j9sDG6lKoSt",
   "tracks": [
     {
-      "added_at": "2025-02-28 05:00:40",
+      "added_at": "2025-03-07 05:00:37",
       "album": {
-        "name": "SALVATION",
-        "url": "https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
-        }
-      ],
-      "duration_ms": 205634,
-      "name": "Twist The Knife",
-      "url": "https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg"
-    },
-    {
-      "added_at": "2025-02-21 05:00:18",
-      "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 171335,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
-    },
-    {
-      "added_at": "2025-02-05 17:14:42",
-      "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
@@ -52,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+      "duration_ms": 213337,
+      "name": "Zombieboy",
+      "url": "https://open.spotify.com/track/0ElVpg9XIswx3XWs6kUj6a"
     },
     {
       "added_at": "2025-02-28 05:00:40",
@@ -73,6 +41,86 @@
       "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"
     },
     {
+      "added_at": "2025-03-07 05:00:37",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "Garden Of Eden",
+      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "SALVATION",
+        "url": "https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "duration_ms": 205634,
+      "name": "Twist The Knife",
+      "url": "https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg"
+    },
+    {
+      "added_at": "2025-03-07 05:00:37",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 199723,
+      "name": "Shadow Of A Man",
+      "url": "https://open.spotify.com/track/6OC87jHRiovNPEUrgaqFSu"
+    },
+    {
+      "added_at": "2025-02-21 05:00:18",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 171335,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
+    },
+    {
+      "added_at": "2025-03-07 05:00:37",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 238886,
+      "name": "How Bad Do U Want Me",
+      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
+    },
+    {
       "added_at": "2025-02-28 05:00:40",
       "album": {
         "name": "Alter Ego",
@@ -87,6 +135,38 @@
       "duration_ms": 161667,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/2DMC4phhdMN0sHg1F0A4qD"
+    },
+    {
+      "added_at": "2025-03-07 05:00:37",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 225804,
+      "name": "Don't Call Tonight",
+      "url": "https://open.spotify.com/track/0uoWOZeZZiC90RMNDQBqj4"
+    },
+    {
+      "added_at": "2025-03-07 05:00:37",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 151776,
+      "name": "Filter",
+      "url": "https://open.spotify.com/track/104KjF0t9EnlFOoxGLxiSQ"
     },
     {
       "added_at": "2025-02-28 05:00:40",
@@ -353,26 +433,6 @@
       "url": "https://open.spotify.com/track/6ZesoJSuyvKskuAH63UBH9"
     },
     {
-      "added_at": "2025-02-14 05:00:39",
-      "album": {
-        "name": "last night i dreamt i fell in love",
-        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 126508,
-      "name": "last night i dreamt i fell in love",
-      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
-    },
-    {
       "added_at": "2025-02-07 05:00:29",
       "album": {
         "name": "On and On and On",
@@ -403,22 +463,6 @@
       "duration_ms": 179631,
       "name": "Kant",
       "url": "https://open.spotify.com/track/3RHRXSKaQ6oBS29iiDI3as"
-    },
-    {
-      "added_at": "2025-02-21 05:00:18",
-      "album": {
-        "name": "ON THE MONEY",
-        "url": "https://open.spotify.com/album/7tjJBbMowzxHXnd5Xl4pRf"
-      },
-      "artists": [
-        {
-          "name": "BRONZE AVERY",
-          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
-        }
-      ],
-      "duration_ms": 144444,
-      "name": "ON THE MONEY",
-      "url": "https://open.spotify.com/track/4X4QySVLdBnOd2HoXQLs0I"
     },
     {
       "added_at": "2025-02-03 15:36:43",
@@ -551,42 +595,6 @@
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
-    },
-    {
-      "added_at": "2025-02-14 05:29:52",
-      "album": {
-        "name": "24K Gold",
-        "url": "https://open.spotify.com/album/4oXZ87dBtRWJuLE9NzzKfT"
-      },
-      "artists": [
-        {
-          "name": "Malou Prytz",
-          "url": "https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "24K Gold",
-      "url": "https://open.spotify.com/track/78NhuVWEaTukGw1I61Wd1c"
-    },
-    {
-      "added_at": "2025-02-07 05:00:29",
-      "album": {
-        "name": "Putita Boutique (feat. TAICHU)",
-        "url": "https://open.spotify.com/album/2Zl0muZNPDJtNGWrEXauDL"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 141077,
-      "name": "Putita Boutique",
-      "url": "https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg"
     },
     {
       "added_at": "2025-02-07 05:00:29",
@@ -999,26 +1007,6 @@
       "duration_ms": 244473,
       "name": "shoreline",
       "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 153207,
-      "name": "Last Song (feat. Faouzia)",
-      "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
     },
     {
       "added_at": "2025-01-10 05:00:40",

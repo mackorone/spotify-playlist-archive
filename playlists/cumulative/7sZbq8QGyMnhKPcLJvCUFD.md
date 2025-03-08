@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-677 songs - 1 day 10 hr 22 min
+678 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Lost](https://open.spotify.com/track/0kjlUvExDoEcubLyo2VY9l) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Lost](https://open.spotify.com/album/1LOfcHJVo5BMjcn0qQmRz7) | 2:37 | 2023-08-08 | 2024-01-25 |
 | [Lost In The Middle](https://open.spotify.com/track/73Ir0ULVmuRYLlg9MH4yYG) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Lost In The Middle](https://open.spotify.com/album/38GI8CmepSQ8Pfihwhk3dN) | 4:02 | 2023-05-19 | 2023-08-28 |
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 | 2023-04-28 |
+| [Love Letter](https://open.spotify.com/track/1HAFtDbZYkYoqDSmTdIGxt) | [m3gatron](https://open.spotify.com/artist/6dKmSxQAjW9bjedEGhsIzj) | [Love Letter](https://open.spotify.com/album/7ltRABgT2mNpJtQMG0uvZu) | 1:23 | 2025-03-07 |  |
 | [Love U](https://open.spotify.com/track/7qKXidnk1oaOl0DKAobGib) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Keep](https://open.spotify.com/album/11gPSu8vh1e4velnMh8VOr) | 3:58 | 2024-01-16 | 2024-08-28 |
 | [Love You \(Anyway\)](https://open.spotify.com/track/1IW2vOjLuuydvReY90arGE) | [LAADS](https://open.spotify.com/artist/4NBJ1qcdssZZRKNiVa1vKP) | [Love You \(Anyway\)](https://open.spotify.com/album/2lg5LxHMW3lRS81RFDYzNh) | 2:33 | 2024-07-19 |  |
 | [Magnetic](https://open.spotify.com/track/6uH5jMuZ5F4Uh5cS2QilLw) | [springs!](https://open.spotify.com/artist/7BFXtdXfpw2kj0kAOs73cn) | [Magnetic](https://open.spotify.com/album/0kReeQiJA0nlejIOX6TfkE) | 2:03 | 2024-10-08 |  |

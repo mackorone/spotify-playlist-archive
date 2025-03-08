@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Nxdia
 
-855 songs - 1 day 15 hr 27 min
+858 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [3 Times](https://open.spotify.com/track/4Dk1ZnnKsxQqAbRHQgeqDx) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [3 Times](https://open.spotify.com/album/75UP0VTcDDi6CSi6VUGqZ8) | 2:27 | 2022-11-18 | 2023-02-11 |
 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 | 2023-10-20 | 2024-03-23 |
 | [99 boys](https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [99 boys](https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX) | 2:26 | 2024-04-12 | 2024-06-29 |
+| [a little bit](https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [a little bit](https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n) | 2:45 | 2025-03-07 |  |
 | [A Series of Unfortunate Events](https://open.spotify.com/track/4jkFpWbEpiS7LBmSidWwUX) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [A Series of Unfortunate Events](https://open.spotify.com/album/791lKGOskm8eOC85qu1XGQ) | 2:45 | 2023-09-08 | 2023-10-21 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-09-10 | 2022-02-19 |
 | [Actress](https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Actress](https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5) | 3:14 | 2024-09-13 | 2024-10-19 |
@@ -371,7 +372,7 @@
 | [hot yoga in hell](https://open.spotify.com/track/2piKFLVacDlwV0U0JZmWSp) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [hot yoga in hell](https://open.spotify.com/album/6Pj9FD1lLjDemuRdRrxkCD) | 2:43 | 2025-01-10 |  |
 | [House Of Cards](https://open.spotify.com/track/5IHkkPgiIRaEnAIjWKdT9G) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [House Of Cards](https://open.spotify.com/album/1tuAaXyzHRHdwYBrzPub3t) | 2:57 | 2023-05-19 | 2023-08-19 |
 | [how does your girlfriend feel about it](https://open.spotify.com/track/6Z1nBzbcsdCvoLF2G3Cl35) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [how does your girlfriend feel about it](https://open.spotify.com/album/5z3YYg8ZszvGO836MiYu1o) | 2:33 | 2022-04-01 | 2022-07-16 |
-| [How To Hide A Body](https://open.spotify.com/track/1IdJzfAHivOqqxrKJV7vPc) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [How To Hide A Body](https://open.spotify.com/album/2KtAUlsmDGvAJztdw25nAN) | 2:41 | 2024-10-18 |  |
+| [How To Hide A Body](https://open.spotify.com/track/1IdJzfAHivOqqxrKJV7vPc) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [How To Hide A Body](https://open.spotify.com/album/2KtAUlsmDGvAJztdw25nAN) | 2:41 | 2024-10-18 | 2025-03-08 |
 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 | 2024-12-13 |  |
 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 | 2021-11-12 | 2022-03-18 |
 | [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 | 2022-10-07 | 2023-04-01 |
@@ -400,7 +401,7 @@
 | [I Wish I Gave You Hell](https://open.spotify.com/track/7iNGrDHPTT8ZVEjPS8Lo13) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Wish I Gave You Hell](https://open.spotify.com/album/08s3DeMH86rfM9Nso6qqB3) | 3:39 | 2024-06-14 | 2024-09-14 |
 | [I Woke Up](https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [I Woke Up](https://open.spotify.com/album/40s29e7Y7S6ZlaYyYf520J) | 2:38 | 2024-02-09 | 2024-05-18 |
 | [I'll Just Say It](https://open.spotify.com/track/3OaR8YS7CCELb4nzDcmxMw) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [I'll Just Say It](https://open.spotify.com/album/2rKjWKEvNheSppihIV5OWG) | 2:38 | 2024-08-09 | 2024-09-21 |
-| [I'm So Happy](https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I'm So Happy](https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s) | 2:26 | 2024-10-25 |  |
+| [I'm So Happy](https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I'm So Happy](https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s) | 2:26 | 2024-10-25 | 2025-03-08 |
 | [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 | 2022-07-01 | 2022-10-22 |
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2022-10-28 | 2023-07-08 |
 | [I've Got A Bad Side](https://open.spotify.com/track/3zaSRGFPFnNKY42TUjoGwM) | [ADONA](https://open.spotify.com/artist/2O8CMGDnzYHpcZOSNVoLdQ) | [I've Got A Bad Side](https://open.spotify.com/album/5CY5RFnrmyGMHcp3EWhhFM) | 2:48 | 2022-05-27 | 2022-08-06 |
@@ -521,6 +522,7 @@
 | [Monster Under The Bed](https://open.spotify.com/track/0TmcuYEvnC77EIaLEQ5sgq) | [Emily Mei](https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk) | [Monster Under The Bed](https://open.spotify.com/album/00jBOyWu8bXrdIN3GGCc0x) | 3:50 | 2024-03-29 | 2024-06-29 |
 | [MONSTERS IN MY MIND](https://open.spotify.com/track/1OFpHG8xgfp7NnmJRjpNsK) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [MONSTERS IN MY MIND](https://open.spotify.com/album/1q1jARykCzN5uVVHRtKxbZ) | 2:04 | 2022-10-28 | 2023-04-29 |
 | [Morally Grey \- Nation Haven Edition](https://open.spotify.com/track/7eVqXk41Uv6mUhc4s3sB2D) | [April Jai](https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ), [Nation Haven](https://open.spotify.com/artist/266zMJv8G84icIhwQMQ56L) | [Morally Grey \(Nation Haven Edition\)](https://open.spotify.com/album/3EPjtINkYOX4HPjK3Blr7X) | 2:43 | 2024-01-12 | 2024-05-25 |
+| [Mortal Kombat](https://open.spotify.com/track/0bJR1UNUVlYLfFRUrAqKFn) | [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [Mortal Kombat](https://open.spotify.com/album/7tYTD9ApMBnfvxcL8kMVdC) | 1:59 | 2025-03-07 |  |
 | [MOST WANTED MAN](https://open.spotify.com/track/7mLoL2o1O1adcbi30eU7o7) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [MOST WANTED MAN](https://open.spotify.com/album/4RjkqlSc7GqoqyOYqOtXOx) | 2:47 | 2024-09-06 | 2025-01-25 |
 | [Mouthwash](https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Melancholia](https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi) | 2:54 | 2022-09-09 | 2023-02-04 |
 | [Muddy Feet \(feat\. Sia\)](https://open.spotify.com/track/1S1WWTuydW6zljNeHOpZXe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:16 | 2023-03-10 | 2023-04-09 |
@@ -772,6 +774,7 @@
 | [Touch Therapy](https://open.spotify.com/track/26121YtyDrlazXPzMxmJx7) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Touch Therapy](https://open.spotify.com/album/5opyM4qE5y3xM6etvgBzzF) | 2:29 | 2024-05-31 | 2024-09-14 |
 | [touching myself](https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [touching myself](https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t) | 2:39 | 2023-05-05 | 2023-08-05 |
 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 | 2024-07-26 | 2024-10-19 |
+| [Tough Luck](https://open.spotify.com/track/7HOUb3yqu08VJHI81cq7xt) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Tough Luck](https://open.spotify.com/album/2sLG38zmVGBx38pYtYTtbD) | 2:43 | 2025-03-07 |  |
 | [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 | 2022-04-08 | 2022-08-20 |
 | [Trophy](https://open.spotify.com/track/5igLTHeeq84I50vFL4ZS2j) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/3DcH7VLRiXxiuWu91XjJy7) | 2:40 | 2022-04-08 | 2022-07-29 |
 | [Trust Issues](https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9) | 2:20 | 2022-08-19 | 2022-12-03 |
@@ -840,7 +843,7 @@
 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 | 2024-04-24 | 2024-06-15 |
 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 | 2024-01-19 | 2024-04-27 |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv) | 2:32 | 2022-03-18 | 2022-05-14 |
-| [Wings](https://open.spotify.com/track/1HpwlMAZx46pCOoJkqKFRA) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Wings](https://open.spotify.com/album/78Ji0FAkPNoEiXmryrDyhK) | 3:05 | 2024-09-27 |  |
+| [Wings](https://open.spotify.com/track/1HpwlMAZx46pCOoJkqKFRA) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Wings](https://open.spotify.com/album/78Ji0FAkPNoEiXmryrDyhK) | 3:05 | 2024-09-27 | 2025-03-08 |
 | [WISH U HELL](https://open.spotify.com/track/2OpUJfXLRo0Tk1q4Uo0iVu) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WISH U HELL](https://open.spotify.com/album/5gWxq8KmRs1opcukXf7q5H) | 3:11 | 2022-01-21 | 2022-07-16 |
 | [Wish You the Worst](https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/3CJXPqgGd9igKie4C0YyiJ) | 2:23 | 2022-05-20 | 2022-08-19 |
 | [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 | 2022-05-20 | 2022-10-22 |

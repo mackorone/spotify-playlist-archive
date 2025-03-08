@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\.  Emanero & Luciano Pereyra.
 
-3,592 songs - 8 day 15 hr 57 min
+3,593 songs - 8 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2514,6 +2514,7 @@
 | [POR QUÉ NO LE DICES?](https://open.spotify.com/track/2IWwQ7EQxV0KR79xWSmaG8) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M) | [POR QUÉ NO LE DICES?](https://open.spotify.com/album/0uFjWv1Xw4hCRC0J0inOtm) | 3:15 | 2025-01-24 | 2025-02-15 |
 | [POR QUÉ SERÁ](https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:29 | 2024-05-10 | 2024-05-25 |
 | [Por Qué Será](https://open.spotify.com/track/56s6HH4zgao2iu9QduHd0p) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Por Qué Será](https://open.spotify.com/album/3giuLFpvYRGQdoxaLTMbXn) | 2:48 | 2024-03-15 | 2024-05-04 |
+| [Por Qué Te Fuiste](https://open.spotify.com/track/7v5eqR1MII7sUKPLf4PGjU) | [Los Avila](https://open.spotify.com/artist/5SosBSTY7bj3DskXWgcg9j) | [Por Qué Te Fuiste](https://open.spotify.com/album/7q9YRwCUbPdDgcmUfM53IR) | 3:45 | 2025-03-07 |  |
 | [Por Retenerte](https://open.spotify.com/track/5NQVgyomgTIHmtxfTZfncp) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Por Retenerte](https://open.spotify.com/album/1dcxcjZiHUGWDUzX8T62E5) | 4:27 | 2023-08-25 | 2023-09-09 |
 | [Por Segunda Vez \(Versión Cuarteto\)](https://open.spotify.com/track/6QmQXIf2VffSXXlyPe85lv) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Por Segunda Vez \(Versión Cuarteto\)](https://open.spotify.com/album/4tjJGUArl5zuJzbTMpZoDE) | 3:24 | 2024-03-08 | 2024-04-27 |
 | [Por Si Te Me Vas](https://open.spotify.com/track/4UMkE2VnydbDOZvAaRSurZ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Por Si Te Me Vas](https://open.spotify.com/album/6cc3dWvd3Dywlcjblp3atC) | 3:45 | 2024-10-18 | 2024-10-26 |

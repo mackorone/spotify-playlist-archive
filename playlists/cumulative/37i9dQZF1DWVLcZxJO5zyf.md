@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Rael, LUDMILLA
 
-375 songs - 17 hr 48 min
+376 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [MAMACITA \(remix\)](https://open.spotify.com/track/1a2Bj6LIrpIE5gwmKqEFZv) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [MAMACITA \(remix\)](https://open.spotify.com/album/1nb8pWduew0lIni8jqSuYU) | 2:16 | 2023-02-17 | 2024-09-07 |
 | [Mande um Sinal \- Acústico](https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mande um Sinal \(Acústico\)](https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq) | 3:58 | 2024-06-28 | 2024-10-12 |
 | [Manifestação do Amor](https://open.spotify.com/track/1QxfiSKbs0x9FIljyq5XqF) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Manifestação do Amor](https://open.spotify.com/album/6JLg48mqCPlSxQZkLP8RQR) | 2:42 | 2025-02-28 |  |
+| [Maria Magdalena](https://open.spotify.com/track/2TVqEfs20W2rfg0EDAW1MD) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Maria Magdalena](https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8) | 2:36 | 2025-03-07 |  |
 | [MARÉ](https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARÉ](https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ) | 2:48 | 2024-04-19 | 2024-06-01 |
 | [Me Deixa Viver](https://open.spotify.com/track/5iJvohWRfudJWPr7XpDHGM) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Me Deixa Viver](https://open.spotify.com/album/2nDaxKg56RVEtrnSATeAAV) | 3:14 | 2024-09-16 |  |
 | [Me dói, boy](https://open.spotify.com/track/4uCFdG7R68kRkddT2KYc29) | [Lori](https://open.spotify.com/artist/30zBkdxHh8fXgxTx99rwhH), [Matias](https://open.spotify.com/artist/3hHdEHtL3SZWDjjz4cAWP2), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Me dói, boy](https://open.spotify.com/album/5tuAV2Ou1rWmoCKUZC1U3T) | 3:02 | 2023-02-03 | 2023-02-24 |

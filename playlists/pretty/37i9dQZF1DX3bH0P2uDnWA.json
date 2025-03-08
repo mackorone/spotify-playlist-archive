@@ -1,13 +1,29 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 382846,
+  "num_followers": 382864,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTZQAAAAC2ImAunWIUyhw3P9YCKRiP",
+  "snapshot_id": "Z8p9ZAAAAAAQ4q6isW4LHq/0Ve7snc2y",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:20",
+      "album": {
+        "name": "Rico's Groove",
+        "url": "https://open.spotify.com/album/0K8BlGTH4azUJpbfR3Mghn"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 184382,
+      "name": "Rico's Groove",
+      "url": "https://open.spotify.com/track/0nEWWblhoj0hNGrmCrHcJV"
+    },
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
@@ -2331,22 +2347,6 @@
       "duration_ms": 199626,
       "name": "Busy Doing Nothing",
       "url": "https://open.spotify.com/track/1WJkGgiuF9ye09HqMiU2Pw"
-    },
-    {
-      "added_at": "2024-11-04 16:02:20",
-      "album": {
-        "name": "The Little Man Who Wasn't There",
-        "url": "https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 206541,
-      "name": "The Little Man Who Wasn't There",
-      "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
     },
     {
       "added_at": "2024-11-04 16:02:20",

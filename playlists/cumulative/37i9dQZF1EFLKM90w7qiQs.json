@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "BED HEAD",
+        "url": "https://open.spotify.com/album/2UJLclWoaA3eoYrXO7v1cp"
+      },
+      "artists": [
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132293,
+      "name": "BED HEAD",
+      "url": "https://open.spotify.com/track/6PRahCQJDYsU4SKWiWvXQh"
+    },
+    {
+      "album": {
         "name": "UNHEALTHY (Deluxe)",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },

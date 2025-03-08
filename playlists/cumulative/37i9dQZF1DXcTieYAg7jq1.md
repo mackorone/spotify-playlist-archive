@@ -2,9 +2,9 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: Leon Bridges
+> Featuring that new vintage\. Cover: Josh Groban
 
-424 songs - 1 day 0 hr 16 min
+425 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2021-12-03 | 2023-01-28 |
 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 | 2023-03-31 | 2023-11-11 |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2022-06-24 | 2023-02-16 |
+| [Be Alright](https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Be Alright](https://open.spotify.com/album/35GvFcCqZCZgrIOIoeGYlX) | 3:43 | 2025-03-07 |  |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-04 | 2023-09-23 |
 | [Beautiful Stranger](https://open.spotify.com/track/2EDxQGcJlVi32jBCXzUZhL) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love \(Deluxe Edition\)](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 3:21 | 2022-08-26 | 2022-11-13 |
 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-26 | 2022-10-14 |
@@ -54,7 +55,7 @@
 | [Breaking Myself](https://open.spotify.com/track/7jDlsRzKo3tsMsTEjL1Ns2) | [Grace Kinstler](https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u) | [Breaking Myself](https://open.spotify.com/album/2cpfzE4YqxiesLIQaFqMzt) | 2:54 | 2022-05-20 | 2024-04-19 |
 | [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 | 2024-02-23 | 2024-04-06 |
 | [BREATH](https://open.spotify.com/track/0goFsDJnWHwEoVXESYH3cB) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [ALGORHYTHM](https://open.spotify.com/album/15AhB3pd27Jn2XxMCKDgI8) | 3:30 | 2022-05-13 | 2023-08-23 |
-| [BREATH](https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [BREATH](https://open.spotify.com/album/4pMqeL0MbG9Zjvr555FpNl) | 3:30 | 2022-05-13 |  |
+| [BREATH](https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [BREATH](https://open.spotify.com/album/4pMqeL0MbG9Zjvr555FpNl) | 3:30 | 2022-05-13 | 2025-03-08 |
 | [BREATH](https://open.spotify.com/track/7nP1S5bBL1WVSegAul8hHD) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [ALGORHYTHM](https://open.spotify.com/album/14K5hifezIvbkbKuQCkY1s) | 3:30 | 2022-05-17 | 2024-04-19 |
 | [Bright \(Fast\)](https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8) | [Original Cast of Stereophonic](https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9), [Sarah Pidgeon](https://open.spotify.com/artist/5CHHfbhxEXG1z77bbj4ila), [Will Brill](https://open.spotify.com/artist/5J7cdiHUhj1czoAsBFG4dd), [Juliana Canfield](https://open.spotify.com/artist/6Q2PaUxhasOg5BZWUDvWAK), [Tom Pecinka](https://open.spotify.com/artist/2rjaQ9SW19AqHuD5d8vyJz), [Chris Stack](https://open.spotify.com/artist/3fE1pLoa2o2aejSTzBc9ag), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Justin Craig](https://open.spotify.com/artist/7vEryrK6GxnOKI3sGyPjHN) | [Stereophonic \(Original Cast Recording\)](https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB) | 4:48 | 2024-05-10 |  |
 | [Bring It On Home to Me](https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 4:35 | 2022-03-25 | 2023-02-16 |

@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Ruth de las Plantas \u2728",
-  "num_followers": 54093,
+  "num_followers": 54088,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-02-28 06:26:21",
       "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
+    },
+    {
+      "added_at": "2025-02-28 06:26:21",
+      "album": {
         "name": "las calles de mi ciudad",
         "url": "https://open.spotify.com/album/2UA7eyMtgoFEqkR4U3eQ1S"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 189187,
       "name": "las calles de mi ciudad",
       "url": "https://open.spotify.com/track/5wPC3oJqHkrFqnpO5Hk2q9"
-    },
-    {
-      "added_at": "2025-02-28 06:26:21",
-      "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 213088,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
     },
     {
       "added_at": "2025-02-28 06:26:21",
@@ -467,18 +467,18 @@
     {
       "added_at": "2025-02-28 06:26:21",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/2Ijg105iAPEqjlgt7H7cC7"
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
       },
       "artists": [
         {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
         }
       ],
-      "duration_ms": 131253,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/0obiVvoMb80sR2oWDtJLOD"
+      "duration_ms": 162421,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2025-02-28 06:26:21",
@@ -495,22 +495,6 @@
       "duration_ms": 155675,
       "name": "Todo Lamento",
       "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2025-02-28 06:26:21",
-      "album": {
-        "name": "las cosas no son lo que parecen",
-        "url": "https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 174659,
-      "name": "las cosas no son lo que parecen",
-      "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
     },
     {
       "added_at": "2025-02-28 06:26:21",
@@ -535,18 +519,34 @@
     {
       "added_at": "2025-02-28 06:26:21",
       "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
+        "name": "las cosas no son lo que parecen",
+        "url": "https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
+      "duration_ms": 174659,
+      "name": "las cosas no son lo que parecen",
+      "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
+    },
+    {
+      "added_at": "2025-02-28 06:26:21",
+      "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/2Ijg105iAPEqjlgt7H7cC7"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/0obiVvoMb80sR2oWDtJLOD"
     },
     {
       "added_at": "2025-02-28 06:26:21",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-02-28 06:26:21",
       "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "added_at": "2025-02-28 06:26:21",
+      "album": {
         "name": "En Todas Partes",
         "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 217636,
       "name": "En Todas Partes",
       "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
-    },
-    {
-      "added_at": "2025-02-28 06:26:21",
-      "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2025-02-28 06:26:21",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-02-28 06:26:21",
       "album": {
-        "name": "hoy no me encuentro para nadie",
-        "url": "https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 164540,
-      "name": "hoy no me encuentro para nadie",
-      "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
-    },
-    {
-      "added_at": "2025-02-28 06:26:21",
-      "album": {
         "name": "Horas Contigo",
         "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 159254,
       "name": "Horas Contigo",
       "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
+    },
+    {
+      "added_at": "2025-02-28 06:26:21",
+      "album": {
+        "name": "hoy no me encuentro para nadie",
+        "url": "https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 164540,
+      "name": "hoy no me encuentro para nadie",
+      "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
     },
     {
       "added_at": "2025-02-28 06:26:21",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-02-28 06:26:21",
       "album": {
-        "name": "Lenguaje Universal",
-        "url": "https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Lenguaje Universal",
-      "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
-    },
-    {
-      "added_at": "2025-02-28 06:26:21",
-      "album": {
         "name": "Te encontr\u00e9",
         "url": "https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 160035,
       "name": "Te encontr\u00e9",
       "url": "https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4"
+    },
+    {
+      "added_at": "2025-02-28 06:26:21",
+      "album": {
+        "name": "Lenguaje Universal",
+        "url": "https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Lenguaje Universal",
+      "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
     },
     {
       "added_at": "2025-02-28 06:26:21",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-02-28 06:26:21",
       "album": {
-        "name": "i miss u",
-        "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        },
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 155812,
-      "name": "i miss u",
-      "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
-    },
-    {
-      "added_at": "2025-02-28 06:26:21",
-      "album": {
         "name": "Stuck in California",
         "url": "https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 126720,
       "name": "Stuck in California",
       "url": "https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik"
+    },
+    {
+      "added_at": "2025-02-28 06:26:21",
+      "album": {
+        "name": "i miss u",
+        "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        },
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "duration_ms": 155812,
+      "name": "i miss u",
+      "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
     },
     {
       "added_at": "2025-02-28 06:26:21",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-02-28 06:26:21",
       "album": {
-        "name": "Toda La Luz",
-        "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Toda La Luz",
-      "url": "https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb"
-    },
-    {
-      "added_at": "2025-02-28 06:26:21",
-      "album": {
         "name": "Acic\u00e1lame",
         "url": "https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 235596,
       "name": "Acic\u00e1lame",
       "url": "https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO"
+    },
+    {
+      "added_at": "2025-02-28 06:26:21",
+      "album": {
+        "name": "Toda La Luz",
+        "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Toda La Luz",
+      "url": "https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb"
     },
     {
       "added_at": "2025-02-28 06:26:21",
