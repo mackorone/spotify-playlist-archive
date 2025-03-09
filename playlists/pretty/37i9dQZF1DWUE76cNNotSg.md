@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,352 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,392 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 57 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
 | 58 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
 | 59 | [How It Feels](https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 2:18 |
-| 60 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:32 |
+| 60 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 |
 | 61 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 |
 | 62 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
 | 63 | [Back 2 Me \(feat\. Sadie Walker\)](https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Back 2 Me \(feat\. Sadie Walker\)](https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3) | 4:13 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 93 | [Heartbeat Highway](https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:41 |
 | 94 | [Moment](https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 2:12 |
 | 95 | [joycelyn's dance](https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [joycelyn's dance](https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ) | 3:18 |
-| 96 | [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 |
-| 97 | [stay alive](https://open.spotify.com/track/1bP6FLHUIUjfecYLsNPK16) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [stay alive](https://open.spotify.com/album/3FE6DDUtqAM7HrKueMyXAZ) | 2:10 |
+| 96 | [stay alive](https://open.spotify.com/track/1bP6FLHUIUjfecYLsNPK16) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [stay alive](https://open.spotify.com/album/3FE6DDUtqAM7HrKueMyXAZ) | 2:10 |
+| 97 | [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 |
 | 98 | [Wait on You](https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Notes from a Quiet Life](https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue) | 2:56 |
 | 99 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 |
 | 100 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 |

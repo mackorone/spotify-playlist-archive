@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [40 cartas](https://open.spotify.com/track/1FWZ1dIHeA55a4bbvkragj) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:09 | 2022-06-01 | 2024-06-09 |
+| [40 cartas](https://open.spotify.com/track/1FWZ1dIHeA55a4bbvkragj) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:09 | 2022-06-01 |  |
 | [911](https://open.spotify.com/track/4xr5M4pgpUYpkeTN08Qwo1) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [911](https://open.spotify.com/album/7AdAZUSQ45Pi8m8mQqDdrJ) | 3:24 | 2022-06-01 | 2022-10-13 |
 | [A Capa Y Espada](https://open.spotify.com/track/2270JBx0iahesyJZAGzAuN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa Y Espada](https://open.spotify.com/album/1TvAyYwsIzIn1SNaYB2tTy) | 4:31 | 2023-06-18 | 2024-08-14 |
 | [A prueba de balas](https://open.spotify.com/track/2KoqK3sE07EAA8OfC9NvsI) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [A prueba de balas](https://open.spotify.com/album/0dXYdDDNYFOdR0fLzMnlVx) | 3:21 | 2024-02-14 |  |
@@ -21,7 +21,7 @@
 | [Corrido de la Hermana](https://open.spotify.com/track/5X9rrWWiacx19R8iIovft7) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [El Próximo Tonto](https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF) | 2:58 | 2022-06-01 | 2023-11-11 |
 | [Cuatro Meses \(Que Se Te Quite Ese Orgullo\)](https://open.spotify.com/track/7nBdxRmU1GvUf4ZbOLKQEx) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [A Pesar de Todo](https://open.spotify.com/album/2yVyjnqGVXytCjfMqe1lp9) | 3:02 | 2022-06-01 |  |
 | [Cumbia torera](https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 2:57 | 2022-06-01 |  |
-| [El bilingüe](https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:15 | 2022-06-01 |  |
+| [El bilingüe](https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:15 | 2022-06-01 | 2025-03-09 |
 | [El mandilon](https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:10 | 2022-06-01 | 2024-12-21 |
 | [El Próximo Tonto](https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [El Próximo Tonto](https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF) | 3:26 | 2022-06-01 |  |
 | [El puchoncito](https://open.spotify.com/track/1kwKUM2BG2Myfj7FmImZEU) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:38 | 2024-05-14 | 2024-08-25 |

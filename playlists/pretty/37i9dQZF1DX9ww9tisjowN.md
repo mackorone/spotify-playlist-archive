@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: LiSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,222 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,380 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 20 | [スマイリーを探して](https://open.spotify.com/track/0XgoXio6L2d5tFhIq0K0ty) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:31 |
 | 21 | [モエチャッカファイア](https://open.spotify.com/track/43CMcyGeImlZjy1oN0NVNG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [モエチャッカファイア](https://open.spotify.com/album/1AzkXE2hgeuHGPKAqcGgHD) | 2:35 |
 | 22 | [Magic Clock](https://open.spotify.com/track/1XzmDchjeqwC0VVjHuxKFz) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [Magic Clock](https://open.spotify.com/album/4m3R9tE7P4F9jqYYPgPJBK) | 2:13 |
-| 23 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 |
+| 23 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
 | 24 | [イガク](https://open.spotify.com/track/6r5PYnGBu1hkQrk3zPkt1I) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [イガク](https://open.spotify.com/album/39ZWZuqNYMhzNsIkHt5tEr) | 2:00 |
 | 25 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 26 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Saint\-Seiya](https://open.spotify.com/track/62i7iuG7akqkLJGLAyRxlx) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [zero\-one](https://open.spotify.com/album/6mj5Cq5VB75f9PQG2xNI5w) | 1:41 |
 | 75 | [異議なし](https://open.spotify.com/track/3KBEHEIakrZyndL4sh28v6) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [EP!!!!NI\-HAO!!!!](https://open.spotify.com/album/0VgkAbqypRDe2ryOnf9rtF) | 1:57 |
 
-Snapshot ID: `Z8m4gwAAAAAtG5asbj685SF8+QXc58FY`
+Snapshot ID: `Z8u1lwAAAADWalI55z7qV+OBv7DcHheZ`

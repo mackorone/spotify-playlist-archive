@@ -4,13 +4,14 @@
 
 > This is Aidan Bissett\. The essential tracks, all in one playlist.
 
-23 songs - 1 hr 8 min
+24 songs - 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Song For Her](https://open.spotify.com/track/0K7FOB1sgaKj4KdUWFiR8J) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen) | 2:39 | 2024-01-10 |  |
 | [All That I'm Craving](https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD) | 3:12 | 2024-01-10 |  |
 | [All That I'm Craving](https://open.spotify.com/track/4O5nxqanPukQ9WTPyW0D0X) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [How’s It Gonna End? Tour Setlist](https://open.spotify.com/album/7csEaA2IcLhGNi4vQ5RjFv) | 3:12 | 2024-06-19 | 2024-06-20 |
+| [are we in love yet?](https://open.spotify.com/track/59bPrwlWkwqqDSFu8o1cdu) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [are we in love yet?](https://open.spotify.com/album/2xQI0evHXKQ3I38ubLaRy6) | 2:57 | 2025-03-09 |  |
 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 | 2024-01-10 |  |
 | [Communication](https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Communication](https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb) | 3:07 | 2024-01-10 |  |
 | [Different](https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Different](https://open.spotify.com/album/2gMqEdAujugcErSftyzTki) | 3:20 | 2024-01-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Playlist oficial del j\-hope \- Hope On The Stage POP UP Tour en CDMX 💜✨🫰🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,915 likes - 41 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,860 likes - 41 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 14 | [MAMA](https://open.spotify.com/track/51hIGgLnT8s6gEzjVqKlEF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:32 |
 | 15 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 |
 | 16 | [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 |
-| 17 | [lock / unlock \(with benny blanco & Nile Rodgers\)](https://open.spotify.com/track/3aKXtIPNRoD73KLpsNnNoK) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:01 |
-| 18 | [on the street \(solo version\)](https://open.spotify.com/track/0Gxnj8yTGYxMYyWcR4wawW) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:11 |
+| 17 | [on the street \(solo version\)](https://open.spotify.com/track/0Gxnj8yTGYxMYyWcR4wawW) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:11 |
+| 18 | [lock / unlock \(with benny blanco & Nile Rodgers\)](https://open.spotify.com/track/3aKXtIPNRoD73KLpsNnNoK) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:01 |
 | 19 | [Hope World](https://open.spotify.com/track/5UMPPsXaGbR1qtzcnEtTpM) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:24 |
 | 20 | [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 |
 | 21 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A) | 3:55 |

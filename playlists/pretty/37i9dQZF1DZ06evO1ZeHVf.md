@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,655 likes - 49 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,694 likes - 49 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 11 | [Be Still and Know](https://open.spotify.com/track/30snoZvilHid7ou2YKKkfj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 4:04 |
 | 12 | [Alabaster Box](https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 5:32 |
 | 13 | [Jesus, You're Beautiful](https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:54 |
-| 14 | [Holy Spirit, Come Fill This Place](https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 5:35 |
-| 15 | [I Surrender All](https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:29 |
+| 14 | [I Surrender All](https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:29 |
+| 15 | [Holy Spirit, Come Fill This Place](https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 5:35 |
 | 16 | [Never Lost](https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:10 |
 | 17 | [A Heart Like Yours](https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 3:39 |
 | 18 | [Great Is Thy Faithfulness](https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:21 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 48 | [You're The One](https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:54 |
 | 49 | [Thank You for Being You](https://open.spotify.com/track/6b7xNBl42iQIoB3bR2sK4h) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [B.J\. Thomas](https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf), [Maureen McGovern](https://open.spotify.com/artist/3bnf5pPVQFWv762IiavilV), [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6), [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc), [Toni Rose](https://open.spotify.com/artist/1NqrEarOHLaEmhw2UBUc69), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks), [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Songs from the Neighborhood: The Music of Mister Rogers](https://open.spotify.com/album/3cBGz03vO7HN2LOBeTtwy7) | 3:14 |
 
-Snapshot ID: `Z8jlgAAAAAD1drRiqg6rnoQEikgPsdEE`
+Snapshot ID: `Z8o3AAAAAABvh19PgEavgfBKbZWUv/RR`

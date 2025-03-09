@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover \- Gini
 
-999 songs - 2 day 6 hr 36 min
+1,000 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [Kyu Kya Kahan?](https://open.spotify.com/track/2FqMNQxKDu8uLEUr54c8v6) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF) | [Kyu Kya Kahan?](https://open.spotify.com/album/41uwOruafS3dOjz5IkjZe0) | 2:42 | 2024-12-13 | 2025-01-25 |
 | [Kyun Akela](https://open.spotify.com/track/1HOuZKGtiwI7vucAovemAT) | [Aakaash Kapoor](https://open.spotify.com/artist/5KbnPMn190YkWBHnW4N8jO), [Daivik](https://open.spotify.com/artist/6VwxTlxSiHzD5tY9cQBYRB), [Shivam Sengupta](https://open.spotify.com/artist/3p9iqVv8YUPK53CfSdS9uq) | [Kyun Akela](https://open.spotify.com/album/3zWRvnHsUY3sdmedPhGD7M) | 2:59 | 2024-02-09 | 2024-03-23 |
 | [Kyun Duur](https://open.spotify.com/track/4DzDq3SyvyMfMaoeI8tZky) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4), [Samaksh](https://open.spotify.com/artist/4sg10DL1H0NZPt5GQSE1UQ) | [Kyun Duur](https://open.spotify.com/album/1ZBZWVDNfgIP0P2EPHv997) | 3:00 | 2024-02-02 | 2024-03-02 |
-| [Kyun Hai](https://open.spotify.com/track/11GE7ph1JKrcigZSsumY7R) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Syed Amir Hussain](https://open.spotify.com/artist/3Ta9hKgobHQ29R0EwDhwou), [Shibangs Chakraborty](https://open.spotify.com/artist/4CIG9jEEuBuUKQJAMrIDiH) | [Kyun Hai](https://open.spotify.com/album/04NSRqMPecVKkqE5am7Uq1) | 3:02 | 2025-01-24 |  |
+| [Kyun Hai](https://open.spotify.com/track/11GE7ph1JKrcigZSsumY7R) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Syed Amir Hussain](https://open.spotify.com/artist/3Ta9hKgobHQ29R0EwDhwou), [Shibangs Chakraborty](https://open.spotify.com/artist/4CIG9jEEuBuUKQJAMrIDiH) | [Kyun Hai](https://open.spotify.com/album/04NSRqMPecVKkqE5am7Uq1) | 3:02 | 2025-01-24 | 2025-03-09 |
 | [Kyun Judaai](https://open.spotify.com/track/3vMJUYdpZTSbHADB3kn0lU) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek) | [Kyun Judaai](https://open.spotify.com/album/2LcKuniOp6Jcs0IfpbglHJ) | 4:42 | 2024-02-02 | 2024-03-02 |
 | [Kyun Mujhse](https://open.spotify.com/track/3FvlW2jocUaRyHDE4sOjVX) | [Vivek Mishraa](https://open.spotify.com/artist/6XBUeRr6GThrECBLie68Cu) | [Kyun Mujhse](https://open.spotify.com/album/0BMcbADwE3voXregSD2F6r) | 4:12 | 2024-07-26 | 2024-08-31 |
 | [Kyun Ruthi Ho](https://open.spotify.com/track/23x1eViO9lEWP6uyk88mJv) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Kyun Ruthi Ho](https://open.spotify.com/album/1xIorZwe7jA7FZcz5gefuB) | 3:18 | 2023-05-19 | 2023-06-30 |
@@ -592,6 +592,7 @@
 | [Mehfooz](https://open.spotify.com/track/63PBLCusJc0ZMaKSA0pfex) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Mehfooz](https://open.spotify.com/album/774XcXabwenOF4KYWhy9xe) | 2:40 | 2024-11-08 | 2024-11-30 |
 | [MEHFOOZ](https://open.spotify.com/track/5rfOUeUYRc7VHnbFgczTQI) | [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Shreya](https://open.spotify.com/artist/4rSaLcdoKWIZiJOsUJzeCT) | [MEHFOOZ](https://open.spotify.com/album/47M5qZnaJ8bKLBhEHj5hII) | 3:01 | 2024-09-06 | 2024-10-19 |
 | [Mehsoos](https://open.spotify.com/track/1CpPNLb6wX0VRDki8JsFuu) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Mehsoos](https://open.spotify.com/album/1A01ciWQAlggJKclr8GOPX) | 6:35 | 2023-12-08 | 2024-01-20 |
+| [Mein Tera Hojaau](https://open.spotify.com/track/2cbq58YcyyWQx92ccTEWPy) | [The Kabir](https://open.spotify.com/artist/6yPhcGRmraBwXnqANykgQS), [Sayli Kamble](https://open.spotify.com/artist/4bjftmzN2eJwJMxinRq6lD), [BYG BASS](https://open.spotify.com/artist/7qScqy8QkqngHWUluAWVux) | [Mein Tera Hojaau](https://open.spotify.com/album/7IevyEJ5ATBeRpBytWmGbA) | 3:40 | 2025-03-07 |  |
 | [Melt](https://open.spotify.com/track/5I8LXURY4AJdZHtsUfxGlx) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Melt](https://open.spotify.com/album/3Bkkh7N0ia6j5PhpDTQlkt) | 2:52 | 2023-08-25 | 2023-10-07 |
 | [Mera Chaand](https://open.spotify.com/track/1OpaXuFejD7SZihxltCY0i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Mera Chaand](https://open.spotify.com/album/5t0eb1ckENCqaz7DPkksRY) | 2:55 | 2024-02-09 | 2024-04-27 |
 | [Mera Channa Ve](https://open.spotify.com/track/4bFllAKWZLxpVHkKWthUkh) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Mera Channa Ve](https://open.spotify.com/album/0CITkgeTwhMiJPU8T6cwKX) | 2:50 | 2024-03-08 | 2024-04-19 |

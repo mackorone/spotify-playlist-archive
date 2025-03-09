@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 24031,
+  "num_followers": 24035,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAABWzQsVd+/1rxCb3DOC7vK",
+  "snapshot_id": "Z8o3AAAAAACBgMUn1q7rBb7Uh/Msa+cJ",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Rolling Stones",
-        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 114266,
-      "name": "The Road To Gundagai - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 174333,
       "name": "Give Me Room",
       "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs For Rolling Stones",
+        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 114266,
+      "name": "The Road To Gundagai - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slim Dusty... Live Into The 90's",
-        "url": "https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "I'm Going Back Again To Yarrawonga - Live",
-      "url": "https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slim Dusty Sings Stan Coster",
         "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 178760,
       "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
       "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slim Dusty... Live Into The 90's",
+        "url": "https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "I'm Going Back Again To Yarrawonga - Live",
+      "url": "https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Songs from LGBTQIA+ artists\.  Cover: Joya
 
-1,427 songs - 3 day 5 hr 30 min
+1,428 songs - 3 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Eye Candy](https://open.spotify.com/track/4HIXMVQsgysJZGr5WoNLNo) | [A boy named ROSA.](https://open.spotify.com/artist/0yTFQZGr5jAeddtiWxXeSF) | [Eye Candy](https://open.spotify.com/album/5jgVZG644WVgXDEc5sFOrl) | 4:42 | 2023-03-07 | 2023-04-01 |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2023-04-18 | 2023-06-02 |
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-04-29 | 2022-07-16 |
-| [Faded](https://open.spotify.com/track/5HUcdWBPlXRQXBTW2XnfKM) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Faded](https://open.spotify.com/album/0drD49MS1Um3TlYdJS9Ib3) | 4:09 | 2024-12-04 |  |
+| [Faded](https://open.spotify.com/track/5HUcdWBPlXRQXBTW2XnfKM) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Faded](https://open.spotify.com/album/0drD49MS1Um3TlYdJS9Ib3) | 4:09 | 2024-12-04 | 2025-03-09 |
 | [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 | 2022-08-26 | 2022-10-30 |
 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:10 | 2022-02-25 | 2022-12-01 |
 | [Falling In Love](https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl) | [Craig Lucas](https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ) | [Falling In Love](https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2) | 2:56 | 2024-10-08 | 2024-12-05 |
@@ -649,6 +649,7 @@
 | [In The Business](https://open.spotify.com/track/5wBeqF4IpiPFyUZf347KfG) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [SUPER NOVAA](https://open.spotify.com/album/3eKmwCRUPW3KapM3iIlQsJ) | 3:34 | 2023-11-14 | 2023-11-30 |
 | [In Transit \(Remix\)](https://open.spotify.com/track/6gdjpaN6otq6bQZ0MIy2NN) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80), [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2), [rache.](https://open.spotify.com/artist/7AKcDM5gGJGXcq6Pg7FqbC) | [In Transit \(Remix\)](https://open.spotify.com/album/6m7bENWvTDiMiVHrrdza3Q) | 2:54 | 2022-06-10 | 2022-07-29 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-12-17 | 2022-01-14 |
+| [Inertia](https://open.spotify.com/track/5i2ebk1q837ky2fawuM5Ce) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [AFTERGLOW](https://open.spotify.com/album/1AyGNMtcZOJEnTdmkgsOV3) | 1:10 | 2025-03-08 |  |
 | [Infinit](https://open.spotify.com/track/0OfFRnxYnkeebUWDGqorD5) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Infinit](https://open.spotify.com/album/2UCIBmgKHSTQY9qQpvxgDv) | 3:25 | 2023-10-10 | 2023-11-30 |
 | [insecure](https://open.spotify.com/track/45kycPq8eq0O4KDpxzxoQj) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [insecure](https://open.spotify.com/album/4wC9uXVAFz5m6dgC2dUJjp) | 3:06 | 2022-01-14 | 2022-04-16 |
 | [INSOLITO](https://open.spotify.com/track/05VBdpFyIcXk0Ybe6UY4xS) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Jovencito Fuksbrauner](https://open.spotify.com/artist/4bHXpJ2FCXasr4lx1lZ38V) | [INSOLITO](https://open.spotify.com/album/7EUEvZd0Meiv7StmNSdISn) | 4:06 | 2024-05-06 | 2024-06-06 |

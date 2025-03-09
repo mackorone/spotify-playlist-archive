@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABWCSVCPGErh/XZN5ZZ97Oc",
+  "snapshot_id": "AAAAAAAAAACsE6KWk242QfeqPxjnkYAK",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:00",
+      "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
+    },
     {
       "added_at": "2025-03-07 05:00:00",
       "album": {
@@ -91,18 +107,58 @@
     {
       "added_at": "2025-03-07 05:00:00",
       "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+        "name": "A Small Fortune",
+        "url": "https://open.spotify.com/album/3gmQ6hfPw3imNcmNBjpN0S"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Stik Figa",
+          "url": "https://open.spotify.com/artist/2EOYzFWSEZyYkMfWq7K6nj"
+        },
+        {
+          "name": "Dj Sean P",
+          "url": "https://open.spotify.com/artist/4P08e76i9aRYNoE5c7otBB"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
         }
       ],
-      "duration_ms": 236800,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
+      "duration_ms": 289315,
+      "name": "Cold Train",
+      "url": "https://open.spotify.com/track/1wQ7fLaQ5Fz0RcrSCsqKDU"
+    },
+    {
+      "added_at": "2025-03-07 05:00:00",
+      "album": {
+        "name": "I Choose Violence EP",
+        "url": "https://open.spotify.com/album/2OLbMH2CuhQ3OewJ9uqZPO"
+      },
+      "artists": [
+        {
+          "name": "The Incomplete Orchestra",
+          "url": "https://open.spotify.com/artist/67yjRwHktoYxrMKMbqL7BG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        },
+        {
+          "name": "Lost Wisdom",
+          "url": "https://open.spotify.com/artist/13aHhV9xoISNzKs2osXu83"
+        }
+      ],
+      "duration_ms": 188341,
+      "name": "I Choose Violence (Original)",
+      "url": "https://open.spotify.com/track/4zkg8JIpqhWIZLwm2J9aZ1"
     },
     {
       "added_at": "2025-03-07 05:00:00",
@@ -143,38 +199,6 @@
     {
       "added_at": "2025-03-07 05:00:00",
       "album": {
-        "name": "I Choose Violence EP",
-        "url": "https://open.spotify.com/album/2OLbMH2CuhQ3OewJ9uqZPO"
-      },
-      "artists": [
-        {
-          "name": "The Incomplete Orchestra",
-          "url": "https://open.spotify.com/artist/67yjRwHktoYxrMKMbqL7BG"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        },
-        {
-          "name": "Lost Wisdom",
-          "url": "https://open.spotify.com/artist/13aHhV9xoISNzKs2osXu83"
-        }
-      ],
-      "duration_ms": 188341,
-      "name": "I Choose Violence (Original)",
-      "url": "https://open.spotify.com/track/4zkg8JIpqhWIZLwm2J9aZ1"
-    },
-    {
-      "added_at": "2025-03-07 05:00:00",
-      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -195,22 +219,6 @@
       "duration_ms": 230171,
       "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
       "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
-    },
-    {
-      "added_at": "2025-03-07 05:00:00",
-      "album": {
-        "name": "Strange Animals",
-        "url": "https://open.spotify.com/album/0sZDetiZ5I88Q0FZm2MAIt"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 220696,
-      "name": "Strange Animals",
-      "url": "https://open.spotify.com/track/4lu9v8tQ7dfQWGArDwKPBi"
     },
     {
       "added_at": "2025-03-07 05:00:00",
@@ -239,6 +247,70 @@
     {
       "added_at": "2025-03-07 05:00:00",
       "album": {
+        "name": "Strange Animals",
+        "url": "https://open.spotify.com/album/0sZDetiZ5I88Q0FZm2MAIt"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 220696,
+      "name": "Strange Animals",
+      "url": "https://open.spotify.com/track/4lu9v8tQ7dfQWGArDwKPBi"
+    },
+    {
+      "added_at": "2025-03-07 05:00:00",
+      "album": {
+        "name": "cLOUDs",
+        "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 242086,
+      "name": "cLOUDs",
+      "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
+    },
+    {
+      "added_at": "2025-03-07 05:00:00",
+      "album": {
+        "name": "check",
+        "url": "https://open.spotify.com/album/7hCpAt99Yn4Ny26WZUBuBi"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 122037,
+      "name": "check",
+      "url": "https://open.spotify.com/track/02b35qI48b1RWhsFNKCb1Y"
+    },
+    {
+      "added_at": "2025-03-07 05:00:00",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "added_at": "2025-03-07 05:00:00",
+      "album": {
         "name": "Crashing (with Kali Uchis)",
         "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
       },
@@ -255,26 +327,6 @@
       "duration_ms": 187660,
       "name": "Crashing (with Kali Uchis)",
       "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
-    },
-    {
-      "added_at": "2025-03-07 05:00:00",
-      "album": {
-        "name": "Pipeline",
-        "url": "https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Pipeline",
-      "url": "https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu"
     },
     {
       "added_at": "2025-03-07 05:00:00",
@@ -359,6 +411,22 @@
     {
       "added_at": "2025-03-07 05:00:00",
       "album": {
+        "name": "Worm in the Sun",
+        "url": "https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 161240,
+      "name": "Worm in the Sun",
+      "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"
+    },
+    {
+      "added_at": "2025-03-07 05:00:00",
+      "album": {
         "name": "BENT",
         "url": "https://open.spotify.com/album/2oj24prkNRyDJQtkVlmWux"
       },
@@ -375,74 +443,6 @@
       "duration_ms": 177530,
       "name": "BENT",
       "url": "https://open.spotify.com/track/49Tynaepq59P6LAoAlzaIe"
-    },
-    {
-      "added_at": "2025-03-07 05:00:00",
-      "album": {
-        "name": "The Bald Man Flies At Midnight",
-        "url": "https://open.spotify.com/album/6FmeUrfvp5nx2nNI3AQICD"
-      },
-      "artists": [
-        {
-          "name": "Heisenherg",
-          "url": "https://open.spotify.com/artist/5yKwHDxi5Hpt0UhQZwomt6"
-        },
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        }
-      ],
-      "duration_ms": 132604,
-      "name": "The Rise of Lunchmoney Lewis",
-      "url": "https://open.spotify.com/track/1xkDqw6kAABLg7YDJc9Inq"
-    },
-    {
-      "added_at": "2025-03-07 05:00:00",
-      "album": {
-        "name": "UKMF (AZ2KC)",
-        "url": "https://open.spotify.com/album/3fJ2RdGoMIawjTiCZPvDNi"
-      },
-      "artists": [
-        {
-          "name": "unConventionAl KingZ",
-          "url": "https://open.spotify.com/artist/6keni3JqMEreVEd84PDfrG"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Big Doobie",
-          "url": "https://open.spotify.com/artist/02KFeQhOPykPOei34dmHc1"
-        },
-        {
-          "name": "Recker Eans",
-          "url": "https://open.spotify.com/artist/5rHsws2TANhbqTCjsRF76S"
-        }
-      ],
-      "duration_ms": 255555,
-      "name": "EXECUTION",
-      "url": "https://open.spotify.com/track/0VwObah0e0BsvzMHLbFWsy"
-    },
-    {
-      "added_at": "2025-03-07 05:00:00",
-      "album": {
-        "name": "Satisfied Soul",
-        "url": "https://open.spotify.com/album/5SLxNDXwM2CR8P0HOtCGBz"
-      },
-      "artists": [
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        },
-        {
-          "name": "Ant",
-          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
-        }
-      ],
-      "duration_ms": 258446,
-      "name": "Satisfied Soul",
-      "url": "https://open.spotify.com/track/6pbnu7jv86u1pGReZZT9kQ"
     },
     {
       "added_at": "2025-03-07 05:00:00",
@@ -471,50 +471,50 @@
     {
       "added_at": "2025-03-07 05:00:00",
       "album": {
-        "name": "Worm in the Sun",
-        "url": "https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN"
+        "name": "Satisfied Soul",
+        "url": "https://open.spotify.com/album/5SLxNDXwM2CR8P0HOtCGBz"
       },
       "artists": [
         {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "Ant",
+          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
         }
       ],
-      "duration_ms": 161240,
-      "name": "Worm in the Sun",
-      "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"
+      "duration_ms": 258446,
+      "name": "Satisfied Soul",
+      "url": "https://open.spotify.com/track/6pbnu7jv86u1pGReZZT9kQ"
     },
     {
       "added_at": "2025-03-07 05:00:00",
       "album": {
-        "name": "Let's Go Fall In Love",
-        "url": "https://open.spotify.com/album/4D1yk4cblbqhS3Yww7L1iU"
+        "name": "UKMF (AZ2KC)",
+        "url": "https://open.spotify.com/album/3fJ2RdGoMIawjTiCZPvDNi"
       },
       "artists": [
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Let's Go Fall In Love",
-      "url": "https://open.spotify.com/track/1ve5rb6l0zTd2hD01apEaB"
-    },
-    {
-      "added_at": "2025-03-07 05:00:00",
-      "album": {
-        "name": "Parasomnia",
-        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
-      },
-      "artists": [
+          "name": "unConventionAl KingZ",
+          "url": "https://open.spotify.com/artist/6keni3JqMEreVEd84PDfrG"
+        },
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Big Doobie",
+          "url": "https://open.spotify.com/artist/02KFeQhOPykPOei34dmHc1"
+        },
+        {
+          "name": "Recker Eans",
+          "url": "https://open.spotify.com/artist/5rHsws2TANhbqTCjsRF76S"
         }
       ],
-      "duration_ms": 322520,
-      "name": "In the Arms of Morpheus",
-      "url": "https://open.spotify.com/track/4egp3L6e8e93EaHbWyN5Az"
+      "duration_ms": 255555,
+      "name": "EXECUTION",
+      "url": "https://open.spotify.com/track/0VwObah0e0BsvzMHLbFWsy"
     },
     {
       "added_at": "2025-03-07 05:00:00",

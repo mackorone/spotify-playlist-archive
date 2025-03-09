@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 
 > Focus with nature sounds in the background...
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,477 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,530 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 27 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 |
 | 28 | [Gentle Brook](https://open.spotify.com/track/0LmZCiJJm2g4ZPiN3B7hgB) | [Natural Symphony](https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF) | [Calming Nature Sounds](https://open.spotify.com/album/68zHKb2TfQN0NnUXotpZNM) | 3:16 |
 | 29 | [Distant Waterfall And Brook](https://open.spotify.com/track/4SLuqAtsNE258Aql5keUsN) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Binaural Water](https://open.spotify.com/album/0xQArU4l4FMn0WhLpQE2GN) | 3:08 |
-| 30 | [Soulful Rainforest](https://open.spotify.com/track/5n8BELPdmR9WR6HLygp13j) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Soulful Rainforest](https://open.spotify.com/album/4A95IxKKlF7XwtOW6asfSW) | 2:34 |
-| 31 | [Peaceful Ocean Swell](https://open.spotify.com/track/5CEjQkKaqViM0jPnG8DJZW) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 3:55 |
-| 32 | [Rain by Little River](https://open.spotify.com/track/2brWHSL7SJHBdfQ73Wolxo) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 2:44 |
+| 30 | [Rain by Little River](https://open.spotify.com/track/2brWHSL7SJHBdfQ73Wolxo) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 2:44 |
+| 31 | [Soulful Rainforest](https://open.spotify.com/track/5n8BELPdmR9WR6HLygp13j) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Soulful Rainforest](https://open.spotify.com/album/4A95IxKKlF7XwtOW6asfSW) | 2:34 |
+| 32 | [Peaceful Ocean Swell](https://open.spotify.com/track/5CEjQkKaqViM0jPnG8DJZW) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 3:55 |
 | 33 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
 | 34 | [Stream Of Rain](https://open.spotify.com/track/1t2qgFuUPlkCDOy8YXQ64e) | [Mirai](https://open.spotify.com/artist/6oEZ7IsYCH7xwmb83A6eQx) | [Stream Of Rain](https://open.spotify.com/album/09vojMSSTFVj9Mi1KmW8J5) | 2:28 |
 | 35 | [Summer Song](https://open.spotify.com/track/5SZN94c5Neyb7tUNMGmykq) | [Under Bare Sky](https://open.spotify.com/artist/7KcqBIpoFRx659XfOwH8NK) | [Brook and Birds](https://open.spotify.com/album/1d8yAL9vhDTbuf6ARhzR6w) | 3:16 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 52 | [Gentle & Soothing Waves](https://open.spotify.com/track/4tCdxjBYd8FB37Ghzm90xv) | [Natalia Cornell](https://open.spotify.com/artist/4tudTZdoFOJkJqoxf584HK) | [Gentle & Soothing Waves](https://open.spotify.com/album/1O1oCL07H8eaNA9kjKYYRT) | 2:47 |
 | 53 | [Birdsongs](https://open.spotify.com/track/1fAJhJEdYYXDFGqFnZD6cz) | [Tura Cos](https://open.spotify.com/artist/1HH2hoJuJUgwfa5VTMVGsE) | [Birds Chirping](https://open.spotify.com/album/0pR4wlkLjIbvFvEgKRCjmS) | 2:16 |
 | 54 | [Western Ocean Waves](https://open.spotify.com/track/6oGDf7vGsT9Xp2ABRil9ss) | [All Night Chill Makers](https://open.spotify.com/artist/2i0PdFbccjRzAc6ZZPwk5O) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:44 |
-| 55 | [Swedish Ice River Stream](https://open.spotify.com/track/6ybQfDhYT6CDhN9iHHHW0n) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [Swedish River Sounds](https://open.spotify.com/album/0henBYTj7A7rqO4OZ4TC7S) | 2:37 |
-| 56 | [Calm Flood At Night](https://open.spotify.com/track/6VkZJJuyt2SLgZWnwaalHo) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Binaural Water](https://open.spotify.com/album/0xQArU4l4FMn0WhLpQE2GN) | 4:31 |
+| 55 | [Calm Flood At Night](https://open.spotify.com/track/6VkZJJuyt2SLgZWnwaalHo) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Binaural Water](https://open.spotify.com/album/0xQArU4l4FMn0WhLpQE2GN) | 4:31 |
+| 56 | [Swedish Ice River Stream](https://open.spotify.com/track/6ybQfDhYT6CDhN9iHHHW0n) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [Swedish River Sounds](https://open.spotify.com/album/0henBYTj7A7rqO4OZ4TC7S) | 2:37 |
 | 57 | [Rainy River](https://open.spotify.com/track/1Fb4WFrV09zRVT7EMZ0Jm9) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Waterways](https://open.spotify.com/album/0chQez1VOlWV1lV6hkdmgv) | 2:02 |
 | 58 | [Dream A Little Ocean](https://open.spotify.com/track/53zuMhOcAgFoyiqWTWbAyu) | [Dreams of Dreams](https://open.spotify.com/artist/3ukM0chAmXUoKjdG4evPMZ) | [Ocean Sound Effects](https://open.spotify.com/album/6mKOEeFkctULRUSSvG9p0H) | 2:52 |
 | 59 | [Gentle River Stream](https://open.spotify.com/track/3blTUGzyf6wXsHHtnaKSFj) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Waterfalls](https://open.spotify.com/album/1s4YsdTG2OuTydHldsAW0L) | 3:05 |

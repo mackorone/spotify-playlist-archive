@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1201646,
+  "num_followers": 1201742,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAATJlOsfCrwatBh6wx94HNc",
+  "snapshot_id": "Z8o3AAAAAADNg3TL7QcJTgo7vap9TGto",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
         "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
     },
     {
       "added_at": null,

@@ -1,13 +1,29 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1418,
+  "num_followers": 1422,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABUtf/fC+eAbCU2+IByW8Do",
+  "snapshot_id": "Z8o3AAAAAABHCScTopB8XFPfrLZUUWTe",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "are we in love yet?",
+        "url": "https://open.spotify.com/album/2xQI0evHXKQ3I38ubLaRy6"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 177193,
+      "name": "are we in love yet?",
+      "url": "https://open.spotify.com/track/59bPrwlWkwqqDSFu8o1cdu"
+    },
     {
       "added_at": null,
       "album": {

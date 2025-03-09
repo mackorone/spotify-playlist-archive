@@ -4,7 +4,7 @@
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 45 min
+97 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Audio \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/100eDEmpWV5YGVCqHI0leU) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:24 | 2023-07-28 |  |
 | [Bang My Head \(feat\. Sia & Fetty Wap\)](https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 3:13 | 2023-09-15 |  |
 | [Beautiful Pain](https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 4:25 | 2023-07-28 |  |
+| [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-09 |  |
 | [Big Girls Cry](https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:30 | 2023-07-28 |  |
 | [Bird Set Free](https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:12 | 2023-07-28 |  |
 | [Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:32 | 2023-07-28 |  |
@@ -69,7 +70,7 @@
 | [Never Give Up \(From "Lion" Soundtrack\)](https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Never Give Up \(From "Lion" Soundtrack\)](https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n) | 3:41 | 2023-07-28 |  |
 | [No New Friends \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 2:55 | 2023-07-28 |  |
 | [Nowhere To Be](https://open.spotify.com/track/0MBw7KEU6wxhhRTD3j4qpv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:16 | 2024-05-07 | 2024-08-09 |
-| [ON \(Feat\. Sia\)](https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 | 2023-07-28 |  |
+| [ON \(Feat\. Sia\)](https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 | 2023-07-28 | 2025-03-09 |
 | [One Night](https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:58 | 2024-05-10 | 2024-06-02 |
 | [Original \(from Dolittle\)](https://open.spotify.com/track/0YoquWDxpwAq8jFPj3K8wp) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Original \(from Dolittle\)](https://open.spotify.com/album/00CTugKcgZzpPJKpmeNdDS) | 3:33 | 2023-07-28 | 2024-05-03 |
 | [Puppies Are Forever](https://open.spotify.com/track/5Uj1LL6HaSFYlfyC6o42ZC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:43 | 2023-12-21 | 2023-12-30 |

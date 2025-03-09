@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,156 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,189 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 21 | [En Eso No Quedamos](https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:57 |
 | 22 | [Laurita Garza](https://open.spotify.com/track/3R8wD60sNRPZYldMZsCVGk) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 3:06 |
 | 23 | [Corazón de Oro \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/1z23S5YZhteXztItJpblPV) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 3:49 |
-| 24 | [Me Refiero A Ti \- Live At Nuevo León México/2009](https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Desde La Cantina Vol\. II \(Live At Nuevo León México / 2009\)](https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp) | 3:52 |
-| 25 | [Si Llego a Viejo](https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Amo del Imperio](https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo) | 4:02 |
+| 24 | [Si Llego a Viejo](https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Amo del Imperio](https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo) | 4:02 |
+| 25 | [Me Refiero A Ti \- Live At Nuevo León México/2009](https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Desde La Cantina Vol\. II \(Live At Nuevo León México / 2009\)](https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp) | 3:52 |
 | 26 | [Ojitos a Mi Gusto](https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:40 |
 | 27 | [Aviéntame \(EN VIVO DESDE EL DOMO CARE\)](https://open.spotify.com/track/4kk1USe5mVA2RlGCHY6Iv7) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [PALOMAZO NORTEÑO VOL\. 2 \(EN VIVO DESDE EL DOMO CARE\)](https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3) | 3:21 |
 | 28 | [Amigo Mío \- Dueto Con Lalo Mora](https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 4:00 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 43 | [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 |
 | 44 | [Lucio Peña](https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:19 |
 | 45 | [Bajo Mil Llaves \- En Vivo](https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo \(En Vivo \- México / 2005\)](https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s) | 2:48 |
-| 46 | [Con el Brazo Derecho](https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:42 |
-| 47 | [Entre La Vida Y La Muerte](https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Serie Diamante\-15 Súper Éxitos](https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR) | 3:18 |
+| 46 | [Entre La Vida Y La Muerte](https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Serie Diamante\-15 Súper Éxitos](https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR) | 3:18 |
+| 47 | [Con el Brazo Derecho](https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:42 |
 | 48 | [Mi Casa Nueva](https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Visión 20.20 Éxitos](https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1) | 2:41 |
 | 49 | [Los Sauces Llorones](https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 3:19 |
 
-Snapshot ID: `Z8jlgAAAAACQcHKc9/1eDCZ5J6DrUnqY`
+Snapshot ID: `Z8o3AAAAAABG9eV0pVfMMyKVOsoTX1PW`

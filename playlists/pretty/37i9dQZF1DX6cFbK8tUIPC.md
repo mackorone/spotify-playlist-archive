@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,110 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,082 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 97 | [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 |
 | 98 | [When Will I Be Alright](https://open.spotify.com/track/5S1CxlxcDGMf6c0WcEvF4K) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 2:55 |
 | 99 | [Child of Summer](https://open.spotify.com/track/31tYotXu03oqTo8Avxbwdc) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:41 |
-| 100 | [Screamland](https://open.spotify.com/track/6vmb72xFV5gq2Lg7ZRS2LB) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Screamland](https://open.spotify.com/album/1cWcuem4swWjrTCPnga6Wd) | 6:51 |
+| 100 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 |
 
 Snapshot ID: `Z0iFKAAAAAA46UYwcrwRf5j49h/7ucwi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: Lady Gaga, David Guetta, Sia, JENNIE, Dua Lipa, The Wiggles, Lainey Wilson & Blusher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,857 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,888 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

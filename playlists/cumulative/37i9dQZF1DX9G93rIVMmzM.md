@@ -4,7 +4,7 @@
 
 > for the baddies.
 
-129 songs - 7 hr 48 min
+130 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [devotion](https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [devotion](https://open.spotify.com/album/3QH5py8IQGQqSxNRomdUIB) | 3:29 | 2025-02-14 |  |
 | [Die On The Cross Of The Martyr](https://open.spotify.com/track/2MuPNWG7PIUQccZljWGx6W) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Scott LePage](https://open.spotify.com/artist/2jBipF7DotEupjgfBqSdO0) | [...And Everything In Between](https://open.spotify.com/album/3LDYeoNeId8Eb6ssztA8B8) | 4:30 | 2024-02-12 |  |
 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 | 2023-10-20 |  |
-| [Dissociate](https://open.spotify.com/track/6ulu17cqr52bymx8fXl8Yw) | [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [Dissociate](https://open.spotify.com/album/3wObYPAXqsIPRcPtgtC2Pk) | 4:17 | 2024-05-31 |  |
+| [Dissociate](https://open.spotify.com/track/6ulu17cqr52bymx8fXl8Yw) | [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [Dissociate](https://open.spotify.com/album/3wObYPAXqsIPRcPtgtC2Pk) | 4:17 | 2024-05-31 | 2025-03-09 |
 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 | 2024-02-15 |  |
 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 | 2023-09-20 |  |
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-22 | 2024-11-06 |
@@ -125,6 +125,7 @@
 | [Ultraviolet](https://open.spotify.com/track/6qR5axxGIS7JORzaYM0YRs) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:08 | 2023-11-08 | 2025-01-28 |
 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 | 2024-09-10 |  |
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-01-29 | 2024-04-20 |
+| [velvet](https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [velvet](https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez) | 2:50 | 2025-03-07 |  |
 | [Vermilion, Pt\. 2](https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 3:44 | 2023-09-20 | 2024-07-13 |
 | [Vertigo](https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Vertigo](https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV) | 3:39 | 2024-02-12 | 2024-10-12 |
 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 | 2023-09-20 |  |

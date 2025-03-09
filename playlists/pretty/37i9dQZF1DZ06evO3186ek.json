@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 156106,
+  "num_followers": 156148,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAC2guWCm72IAA+/bgqi2A2a",
+  "snapshot_id": "Z8o3AAAAAAAVm3BTx437oKMvYcofsWri",
   "tracks": [
     {
       "added_at": null,
@@ -1083,6 +1083,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 513188,
+      "name": "Yes & Amen",
+      "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Hold It All Together",
         "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
       },
@@ -1111,30 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "My Mom",
-          "url": "https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R"
-        }
-      ],
-      "duration_ms": 231161,
-      "name": "Came Too Far (feat. Maverick City Music & My Mom)",
-      "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maverick City, Vol. 2",
         "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
       },
@@ -1155,22 +1151,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 2",
-        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
       },
       "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "My Mom",
+          "url": "https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R"
         }
       ],
-      "duration_ms": 513188,
-      "name": "Yes & Amen",
-      "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
+      "duration_ms": 231161,
+      "name": "Came Too Far (feat. Maverick City Music & My Mom)",
+      "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
     },
     {
       "added_at": null,

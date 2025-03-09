@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 8125,
+  "num_followers": 8167,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "ALV (Remix)",
         "url": "https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 177000,
       "name": "ALV - Remix",
       "url": "https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "ALVRGZO",
-        "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 162187,
-      "name": "ALVRGZO",
-      "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "ALVRGZO",
+        "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "ALVRGZO",
+      "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG Tropicana",
         "url": "https://open.spotify.com/album/7wVMhb43j1AzGLM1Ek8HwX"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 105114,
       "name": "MTG Tropicana",
       "url": "https://open.spotify.com/track/5Dki7m3M8mJR1ozN3Mkep4"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG COLO DE MENINA",
-        "url": "https://open.spotify.com/album/3wDQXvoToiiDEhE0sc1GXN"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Rastap\u00e9",
-          "url": "https://open.spotify.com/artist/4gocL2mlvwlI1G6TAYwQYx"
-        }
-      ],
-      "duration_ms": 118730,
-      "name": "MTG COLO DE MENINA",
-      "url": "https://open.spotify.com/track/3DNwrOexgGtykcPU8bEs2e"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "SaxoSuelta Oriente Tribe",
         "url": "https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 229437,
       "name": "SaxoSuelta Oriente Tribe",
       "url": "https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG COLO DE MENINA",
+        "url": "https://open.spotify.com/album/3wDQXvoToiiDEhE0sc1GXN"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Rastap\u00e9",
+          "url": "https://open.spotify.com/artist/4gocL2mlvwlI1G6TAYwQYx"
+        }
+      ],
+      "duration_ms": 118730,
+      "name": "MTG COLO DE MENINA",
+      "url": "https://open.spotify.com/track/3DNwrOexgGtykcPU8bEs2e"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2163,6 +2163,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Guaracha Con \u00d1ejo",
         "url": "https://open.spotify.com/album/4IO5DGuCyaO1iYOKtHkfM9"
       },
@@ -2211,46 +2231,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Mtg Vou Machucar",
         "url": "https://open.spotify.com/album/63KojY32gE1KxKvnmuH1Ja"
       },
@@ -2275,6 +2255,26 @@
       "duration_ms": 168800,
       "name": "Mtg Vou Machucar",
       "url": "https://open.spotify.com/track/2ZJTnpCp73UwYp7gYt2WRF"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2591,6 +2591,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Saxofon",
+        "url": "https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm"
+      },
+      "artists": [
+        {
+          "name": "Gio Silva",
+          "url": "https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Saxofon",
+      "url": "https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Hasta El QLO",
         "url": "https://open.spotify.com/album/59QlyRjPd5USQQ7OdbMIe3"
       },
@@ -2639,22 +2655,6 @@
       "duration_ms": 194000,
       "name": "Buenos Aires (en la cara)",
       "url": "https://open.spotify.com/track/6sn9Dgxbh4FBDrxs2EOhrr"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Saxofon",
-        "url": "https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm"
-      },
-      "artists": [
-        {
-          "name": "Gio Silva",
-          "url": "https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Saxofon",
-      "url": "https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2951,26 +2951,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
-        "url": "https://open.spotify.com/album/6daS2BRfBTVWHz734TTatM"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 177807,
-      "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
-      "url": "https://open.spotify.com/track/4aez0pjAdzFs5XIhVPH7CM"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "El Merengue (HUGEL Remix)",
         "url": "https://open.spotify.com/album/11XlVWabaJZbSWaKipFp9k"
       },
@@ -2995,26 +2975,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Mtg Alibi",
-        "url": "https://open.spotify.com/album/0GJwwMpIUzTaPLKKXxzDpt"
+        "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
+        "url": "https://open.spotify.com/album/6daS2BRfBTVWHz734TTatM"
       },
       "artists": [
         {
-          "name": "Dj W-Beatz",
-          "url": "https://open.spotify.com/artist/1359cXd992MwCyGCgbPDcS"
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
         },
         {
-          "name": "DJ Katrip",
-          "url": "https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 133740,
-      "name": "Mtg Alibi",
-      "url": "https://open.spotify.com/track/3JTuZvqu7bWkQj1oDDM9AQ"
+      "duration_ms": 177807,
+      "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
+      "url": "https://open.spotify.com/track/4aez0pjAdzFs5XIhVPH7CM"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3035,6 +3011,30 @@
       "duration_ms": 210466,
       "name": "Multiples Efectos",
       "url": "https://open.spotify.com/track/2xb1NMY8ot0M3RRxeJt7nJ"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Mtg Alibi",
+        "url": "https://open.spotify.com/album/0GJwwMpIUzTaPLKKXxzDpt"
+      },
+      "artists": [
+        {
+          "name": "Dj W-Beatz",
+          "url": "https://open.spotify.com/artist/1359cXd992MwCyGCgbPDcS"
+        },
+        {
+          "name": "DJ Katrip",
+          "url": "https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 133740,
+      "name": "Mtg Alibi",
+      "url": "https://open.spotify.com/track/3JTuZvqu7bWkQj1oDDM9AQ"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3171,6 +3171,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Modo St1ngy",
+        "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 144406,
+      "name": "Modo St1ngy",
+      "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
       },
@@ -3195,22 +3211,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Modo St1ngy",
-        "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
-      },
-      "artists": [
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 144406,
-      "name": "Modo St1ngy",
-      "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Perdiendo El Control",
         "url": "https://open.spotify.com/album/48GzWmYraDHofGXOhtMlx4"
       },
@@ -3231,22 +3231,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Que Todo",
-        "url": "https://open.spotify.com/album/7qisRmx60mvtn2yWhtwfn8"
-      },
-      "artists": [
-        {
-          "name": "Elee Bermudez",
-          "url": "https://open.spotify.com/artist/3XL83JdrAA1BDV1yVTcskW"
-        }
-      ],
-      "duration_ms": 302832,
-      "name": "Que Todo",
-      "url": "https://open.spotify.com/track/70i9IQXt2ECmLbFStHI9kK"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -3259,6 +3243,22 @@
       "duration_ms": 172133,
       "name": "Luces",
       "url": "https://open.spotify.com/track/2FBhUA36t0zThJdCrX1Qis"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Que Todo",
+        "url": "https://open.spotify.com/album/7qisRmx60mvtn2yWhtwfn8"
+      },
+      "artists": [
+        {
+          "name": "Elee Bermudez",
+          "url": "https://open.spotify.com/artist/3XL83JdrAA1BDV1yVTcskW"
+        }
+      ],
+      "duration_ms": 302832,
+      "name": "Que Todo",
+      "url": "https://open.spotify.com/track/70i9IQXt2ECmLbFStHI9kK"
     }
   ],
   "unique_name": "los prohibidos",

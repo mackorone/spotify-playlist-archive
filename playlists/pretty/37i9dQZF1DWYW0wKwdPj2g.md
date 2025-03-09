@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,515 likes - 100 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,542 likes - 100 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 67 | [Prayer \- Live](https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY) | [Minstrel K.I](https://open.spotify.com/artist/1KGm6LnIBHf7Ki5MgTeBKR), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Prayer \(Live\)](https://open.spotify.com/album/5IzpZ1rz36w0rq32M6paX4) | 9:19 |
 | 68 | [Testimony](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 3:44 |
 | 69 | [Ogo](https://open.spotify.com/track/2wKX6c2aXplDCJZT301jBM) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Ogo](https://open.spotify.com/album/6lCqBg5DySvDfvZXNXSURk) | 10:48 |
-| 70 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
+| 70 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 | 71 | [O Ti Mu Wa Ye \(Live\)](https://open.spotify.com/track/3QQNpV4ibRElGVP2sP3rC7) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb) | [O Ti Mu Wa Ye \(Live\)](https://open.spotify.com/album/5aghmvJXRrVci1JuxgJ9r4) | 8:17 |
 | 72 | [Never seen \- Live](https://open.spotify.com/track/2chS8q9WHvYzt6Jui4tSfu) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Never seen \(Live\)](https://open.spotify.com/album/4o26uOP0J3WDXtQAdE2FX2) | 10:21 |
 | 73 | [Emmanuel \- Live](https://open.spotify.com/track/0yd8O2jhQgaJ09ev2Xs1t2) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [DOMINUS OMNIUM \(Live\)](https://open.spotify.com/album/3yeICbZK652HJMHgu47FK5) | 7:40 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 95 | [No Weapon](https://open.spotify.com/track/5THnN0q7w8w34BMp7WGZlA) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All Things New](https://open.spotify.com/album/1S1Zy7QMIHAZAWXY5Uy55n) | 5:14 |
 | 96 | [Not My Will \( Live \)](https://open.spotify.com/track/2SKJFXD7b31nX4yD8W41ZT) | [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Not My Will \( Live \)](https://open.spotify.com/album/2MC1vGGqfZWGLBFKnIIYPd) | 9:44 |
 | 97 | [Àánú \(Live\)](https://open.spotify.com/track/5sgKNXUfwjMEKBGlTUXy9W) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Àánú / Here By Mercy](https://open.spotify.com/album/7KxQwlSdCYbkR48iWm0ZAR) | 7:42 |
-| 98 | [My Heart \- Live](https://open.spotify.com/track/23z2W3zMFGYdQHjZBRFlzG) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [My Heart \(Live\)](https://open.spotify.com/album/37x0CE3N0FD17bAhG3BVHG) | 5:20 |
+| 98 | [My Heart \- Live from London](https://open.spotify.com/track/23z2W3zMFGYdQHjZBRFlzG) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [My Heart \(Live from London\)](https://open.spotify.com/album/37x0CE3N0FD17bAhG3BVHG) | 5:20 |
 | 99 | [I'm Ready \(The Overflow\) \- Live](https://open.spotify.com/track/71IcZyrAeBeilJkmXB6fWG) | [Uzo Oachi](https://open.spotify.com/artist/3UlV06XcGOAy8dL0QYVHu3) | [I'm Ready \(The Overflow\) \[Live\]](https://open.spotify.com/album/2huzVTyEQtpERhYSqDc7xX) | 9:46 |
 | 100 | [Most High](https://open.spotify.com/track/7LUi65oi6NDM5v9OKgKs9E) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Most High](https://open.spotify.com/album/77IntAt7QZ3xzk1Qfn6zny) | 6:21 |
 

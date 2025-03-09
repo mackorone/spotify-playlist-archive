@@ -4,7 +4,7 @@
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Chloe Qisha
 
-104 songs - 5 hr 18 min
+105 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,9 +94,10 @@
 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 | 2024-12-04 |  |
 | [Scatterbrain](https://open.spotify.com/track/0LVdV9NG0y0ROxbYLpjbKc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:09 | 2023-11-29 | 2024-12-05 |
 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-12-04 | 2025-01-08 |
+| [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-12-04 |  |
 | [Solo](https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Solo](https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ) | 2:34 | 2023-11-29 | 2024-12-05 |
 | [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 | 2024-12-04 |  |
-| [someday, someone](https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye \(over nostalgic edition\)](https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0) | 3:37 | 2024-12-04 |  |
+| [someday, someone](https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye \(over nostalgic edition\)](https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0) | 3:37 | 2024-12-04 | 2025-03-09 |
 | [Sour](https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Sour](https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c) | 3:07 | 2024-12-04 |  |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-12-04 |  |
 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 | 2024-12-04 |  |

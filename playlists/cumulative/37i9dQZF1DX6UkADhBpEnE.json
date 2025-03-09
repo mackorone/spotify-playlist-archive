@@ -4687,6 +4687,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
+    },
+    {
+      "album": {
         "name": "Happiness Music",
         "url": "https://open.spotify.com/album/1ErGAm3H6h8vBOb4DPossx"
       },
@@ -6606,7 +6628,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 169651,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
@@ -7928,7 +7950,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 166812,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
@@ -8714,7 +8736,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 311480,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
@@ -11099,6 +11121,28 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams (feat. Miguel)",
+        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172952,
+      "name": "Sweet Dreams (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
+    },
+    {
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -12320,6 +12364,24 @@
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "album": {

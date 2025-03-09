@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,242 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,359 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 18 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 |
 | 19 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 |
 | 20 | [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 |
-| 21 | [Heavy Heart](https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Heavy Heart](https://open.spotify.com/album/7eNj0dNMVR2mH1E6sqhEtg) | 5:28 |
-| 22 | [What I Might Do](https://open.spotify.com/track/5ea9yZi9Dv6MuJa8V2kpUq) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [What I Might Do \(Radio Edit\)](https://open.spotify.com/album/4SdrC7w58BEVFdaOhbWbBG) | 3:15 |
+| 21 | [What I Might Do](https://open.spotify.com/track/5ea9yZi9Dv6MuJa8V2kpUq) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [What I Might Do \(Radio Edit\)](https://open.spotify.com/album/4SdrC7w58BEVFdaOhbWbBG) | 3:15 |
+| 22 | [Heavy Heart](https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Heavy Heart](https://open.spotify.com/album/7eNj0dNMVR2mH1E6sqhEtg) | 5:28 |
 | 23 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 |
 | 24 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
 | 25 | [Atmosphere](https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV) | 3:02 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 41 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
 | 42 | [I Am The One](https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [I Am The One](https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9) | 3:20 |
 | 43 | [Buggin' \- Edit](https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 4:35 |
-| 44 | [Gold Touch](https://open.spotify.com/track/3uyVVGJZxiTL2CkfufthDP) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Gold Touch](https://open.spotify.com/album/1luUub9pWlHNLOKojdhFFN) | 2:25 |
-| 45 | [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 |
+| 44 | [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 |
+| 45 | [Gold Touch](https://open.spotify.com/track/3uyVVGJZxiTL2CkfufthDP) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Gold Touch](https://open.spotify.com/album/1luUub9pWlHNLOKojdhFFN) | 2:25 |
 | 46 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 47 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 |
-| 48 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
-| 49 | [Lights Out](https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Lights Out](https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5) | 3:27 |
+| 48 | [Lights Out](https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Lights Out](https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5) | 3:27 |
+| 49 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
 | 50 | [Heat \- Hot Since 82 Remix](https://open.spotify.com/track/1l6yZtbSONcATuswhd2Hcq) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Heat \(Hot Since 82 Remix\)](https://open.spotify.com/album/3R8Njx6RCLfil5YiZ3p7uk) | 3:35 |
 
 Snapshot ID: `Z7fCEwAAAACmmHHFNfz51LsiTU7U2xW8`

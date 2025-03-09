@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > pura morra rifada\. RPLK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,875 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,878 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 25 | [Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:15 |
 | 26 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 27 | [Hasta la Piel](https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 4:01 |
-| 28 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
-| 29 | [Loba](https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Loba](https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9) | 3:08 |
+| 28 | [Loba](https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Loba](https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9) | 3:08 |
+| 29 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
 | 30 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 |
 | 31 | [OKI DOKI](https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:23 |
 | 32 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 60 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 61 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 |
 | 62 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
-| 63 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
+| 63 | [El Cuerpo Que Habito](https://open.spotify.com/track/40CUrSilracUtZTKc7V2mN) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:17 |
 | 64 | [El Disfraz](https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Disfraz](https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb) | 2:48 |
-| 65 | [El Cuerpo Que Habito](https://open.spotify.com/track/40CUrSilracUtZTKc7V2mN) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:17 |
+| 65 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
 | 66 | [tu liga del pelo](https://open.spotify.com/track/3tX4hFG4uCVgGVUWdZzK5z) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [tu liga del pelo](https://open.spotify.com/album/33UOUfdOGdD3BJgU5u4NaD) | 3:36 |
 | 67 | [Fuega](https://open.spotify.com/track/4xspJCCiPHDCu5lgJOXJjR) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [Hieva](https://open.spotify.com/artist/3vLNmRETMGAOugcWZ8AhFI) | [Cancionero del Nuevo Milenio](https://open.spotify.com/album/1soI4NhDklGb6M7hv31bLA) | 2:52 |
 | 68 | [Astros Prohibidos](https://open.spotify.com/track/6RjsCyrZ1HH5T9I2Tn5NBt) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr), [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Astros Prohibidos](https://open.spotify.com/album/0vldS5AY8rsDiSIbf7eMaD) | 3:14 |

@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2427931,
+  "num_followers": 2428116,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "panaginip",
-        "url": "https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA"
+        "name": "Twelve: Fifty One (International Version)",
+        "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
       },
       "artists": [
         {
-          "name": "iluna",
-          "url": "https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE"
+          "name": "krissy & ericka",
+          "url": "https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V"
         }
       ],
-      "duration_ms": 332406,
-      "name": "panaginip",
-      "url": "https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh"
+      "duration_ms": 246280,
+      "name": "12:51",
+      "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Twelve: Fifty One (International Version)",
-        "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
+        "name": "panaginip",
+        "url": "https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA"
       },
       "artists": [
         {
-          "name": "krissy & ericka",
-          "url": "https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V"
+          "name": "iluna",
+          "url": "https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE"
         }
       ],
-      "duration_ms": 246280,
-      "name": "12:51",
-      "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
+      "duration_ms": 332406,
+      "name": "panaginip",
+      "url": "https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh"
     }
   ],
   "unique_name": "OPM Favorites",

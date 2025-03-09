@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,495 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,662 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 58 | [Down On Me](https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:28 |
 | 59 | [Triplets](https://open.spotify.com/track/5K2nfj6reBygjD9gcI7AIH) | [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH) | [UK Garage Beats V2](https://open.spotify.com/album/7KLkeK27wbHpuuUaHNr1Yr) | 5:09 |
 | 60 | [Deep Inside \- Shadow Child Remix Edit](https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(Remixes\)](https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs) | 2:25 |
-| 61 | [Wishing I Were Home](https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Wishing I Were Home](https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i) | 6:15 |
-| 62 | [Decoy](https://open.spotify.com/track/1jnXvUg6FbG89itv7aXHh1) | [Agent X](https://open.spotify.com/artist/3gnnsoDJAHfrNZXd2mgzZa) | [Pure Grime \- The Very Best of Grime](https://open.spotify.com/album/4KoltQiyOJAt1ToaeyKkYj) | 5:49 |
+| 61 | [Decoy](https://open.spotify.com/track/1jnXvUg6FbG89itv7aXHh1) | [Agent X](https://open.spotify.com/artist/3gnnsoDJAHfrNZXd2mgzZa) | [Pure Grime \- The Very Best of Grime](https://open.spotify.com/album/4KoltQiyOJAt1ToaeyKkYj) | 5:49 |
+| 62 | [Wishing I Were Home](https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Wishing I Were Home](https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i) | 6:15 |
 | 63 | [Let Yourself Go \- Capitol Mix](https://open.spotify.com/track/67arHtJfnuyN5LuxqqFT9A) | [95 North](https://open.spotify.com/artist/7GgRGnImx1cLLS73bDnpFV) | [Let Yourself Go](https://open.spotify.com/album/58iuajzHYoeJJsbD0HBD67) | 7:19 |
 | 64 | [Pick Me Up \- Licenced Mix](https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Pick Me Up](https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl) | 6:43 |
 | 65 | [Attitude](https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 5:09 |
-| 66 | [Oh Boy \- Rafmat Radio Edit](https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ) | [Fabulous Baker Boys](https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH) | [Oh Boy](https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX) | 4:03 |
-| 67 | [Jump to It](https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Double 99 Double Pack](https://open.spotify.com/album/7zIkRSt3IFmc8pxW25jyHz) | 5:24 |
+| 66 | [Jump to It](https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Double 99 Double Pack](https://open.spotify.com/album/7zIkRSt3IFmc8pxW25jyHz) | 5:24 |
+| 67 | [Oh Boy \- Rafmat Radio Edit](https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ) | [Fabulous Baker Boys](https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH) | [Oh Boy](https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX) | 4:03 |
 | 68 | [All I Do \(Bump & Flex Club Mix\)](https://open.spotify.com/track/6d5kAMXULpIYwfM5MgpiiM) | [Cleptomaniacs](https://open.spotify.com/artist/5vsTFEVitPhOSaJy0aQN6L) | [All I do](https://open.spotify.com/album/7fR9oZPJHUDHoIxD1SxdOw) | 6:08 |
 | 69 | [Joy](https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0) | [Janet Rushmore](https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU) | [Smack Da House Vol.2](https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT) | 5:29 |
 | 70 | [Dancing for Heaven \- Club](https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [House Tracks for the Dancefloor, Vol\. One](https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9) | 6:12 |

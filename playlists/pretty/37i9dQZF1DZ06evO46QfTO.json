@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 73829,
+  "num_followers": 73831,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAAr3RGUNFHtjot9ygZH8JI7",
+  "snapshot_id": "Z8o3AAAAAAA5bHHOo51WP0JXbVXzJz+S",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Texas (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Changes",
         "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
@@ -123,6 +103,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kiss the Sky (from The Wild Robot)",
         "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
       },
@@ -135,26 +135,6 @@
       "duration_ms": 215716,
       "name": "Kiss the Sky (from The Wild Robot)",
       "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scissors",
-        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 145622,
-      "name": "Scissors",
-      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
     },
     {
       "added_at": null,
@@ -175,6 +155,26 @@
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scissors",
+        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 145622,
+      "name": "Scissors",
+      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
     },
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "All My Favorite People (feat. Brothers Osborne)",
+      "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "cut! (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
       },
@@ -503,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "All My Favorite People (feat. Brothers Osborne)",
-      "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 291533,
       "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
       "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "To Hell & Back",
+      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "To Hell & Back",
-      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope i never fall in love",
         "url": "https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz"
       },
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 216720,
+      "name": "push me over",
+      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intermission",
-        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "push me over",
-      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 251309,
-      "name": "Dancing with Myself",
-      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 345026,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing with Myself",
+        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 251309,
+      "name": "Dancing with Myself",
+      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
     },
     {
       "added_at": null,
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 169306,
-      "name": "I Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
+      "duration_ms": 214186,
+      "name": "Background Music",
+      "url": "https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Still Show Up",
-        "url": "https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 172719,
-      "name": "People Still Show Up",
-      "url": "https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Than We Found It",
         "url": "https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "People Still Show Up",
+        "url": "https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 172719,
+      "name": "People Still Show Up",
+      "url": "https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Background Music",
-      "url": "https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT"
+      "duration_ms": 169306,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Dam Swindle
 
-279 songs - 17 hr 37 min
+280 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Big Man](https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb) | 4:13 | 2024-06-21 |  |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-05-24 | 2025-02-19 |
 | [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-07-03 | 2025-02-28 |
+| [Boxing feat\. King Krule \- DJ Python Remix](https://open.spotify.com/track/6czf3lyVvUFkYYsFbJbafS) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Boxing feat\. King Krule \(DJ Python Remix\)](https://open.spotify.com/album/4c3ieE9hkCpGLuUL59MrE1) | 7:38 | 2025-03-07 |  |
 | [Break It Off](https://open.spotify.com/track/1Z8PTHAZDU21sc4YI2FuHe) | [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh) | [Break It Off](https://open.spotify.com/album/6cJlNHxEOuGgKvNu2jJy3b) | 3:17 | 2024-04-12 | 2025-02-14 |
 | [Broke My Heart](https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7) | 2:46 | 2024-09-19 | 2025-02-14 |
 | [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 | 2024-10-03 |  |
@@ -65,7 +66,7 @@
 | [Coming Back To Me Good](https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Coming Back To Me Good](https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE) | 2:49 | 2024-04-12 |  |
 | [Contact](https://open.spotify.com/track/5ludDBASLNjFINkMhMs8Al) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Contact](https://open.spotify.com/album/1LOWYMjMQJxGazjrlpnI6L) | 3:12 | 2024-10-03 | 2025-02-14 |
 | [CONTROL](https://open.spotify.com/track/5R1p5pX20rbo67fmyWZViD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [CONTROL / REAL MOVE TOUCH](https://open.spotify.com/album/27uTH714qvBzWTHAKIWPGq) | 3:44 | 2024-10-03 | 2025-02-14 |
-| [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:01 | 2024-07-26 |  |
+| [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:01 | 2024-07-26 | 2025-03-09 |
 | [Curiosity \(Dawn\)](https://open.spotify.com/track/5LTx2spPrYmQp9ArW5LYMc) | [Dead Naked Hippies](https://open.spotify.com/artist/1YZNXPLpIO7jdHaGAVCwAL) | [Curiosity \(Dawn\)](https://open.spotify.com/album/5SCX0vSZ33bxGHZDDIC84Q) | 3:33 | 2021-10-28 | 2024-03-02 |
 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 | 2025-01-31 |  |
 | [cyanotype memories \- edit \- joe goddard remix](https://open.spotify.com/track/1qTLK7XA1zRMcrmXQ2VLsr) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [cyanotype memories \(joe goddard remix\)](https://open.spotify.com/album/5AUpxQhx2aZmUdHc3DQKx8) | 3:11 | 2024-04-12 | 2025-02-14 |

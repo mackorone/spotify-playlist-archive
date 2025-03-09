@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,575 likes - 50 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,595 likes - 50 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 20 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
 | 21 | [Vida aos Sepulcros](https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Vida aos Sepulcros](https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV) | 4:53 |
 | 22 | [És o Amor \- Ao Vivo](https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [És o Amor \(Ao Vivo\)](https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER) | 6:43 |
-| 23 | [O Mover do Espírito \(Quero que Valorize\)](https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 3:50 |
-| 24 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
+| 23 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
+| 24 | [O Mover do Espírito \(Quero que Valorize\)](https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 3:50 |
 | 25 | [Atos 2 \(feat\. Gabriela Rocha\)](https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L) | [ALEXANDRE APOSAN](https://open.spotify.com/artist/5aqyG1NWZsQ3F1puhd9egt), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Atos 2 \(feat\. Gabriela Rocha\)](https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J) | 5:42 |
 | 26 | [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu) | 8:40 |
 | 27 | [Bom Bom Pai](https://open.spotify.com/track/5VfjpBT1ZLGx9lCmYixWmm) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 49 | [Outro Na Fornalha](https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:26 |
 | 50 | [Oh, Quão Lindo esse nome é / Só Tu és Santo / Pra Te adorar \- Live 2020](https://open.spotify.com/track/7ERFUQjK0xf7BvZlANUY5o) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Melhores Louvores Gabriela Rocha](https://open.spotify.com/album/5CG0LuTpuGVxXdCPQ6zxaJ) | 12:28 |
 
-Snapshot ID: `Z8jlgAAAAAAioEApMyJJ+eXc2z8FQ6tV`
+Snapshot ID: `Z8o3AAAAAAC1ByIwavxzHahuptP9zxAO`

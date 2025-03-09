@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-228 songs - 11 hr 52 min
+229 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-06-27 | 2024-11-02 |
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-06-27 | 2024-11-05 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-06-27 | 2024-11-02 |
-| [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-30 |  |
+| [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-30 | 2025-03-09 |
 | [hvem kan seile foruten vind?](https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR), [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [hvem kan seile foruten vind?](https://open.spotify.com/album/4qcCIJbTFJUNY88g9tuMo3) | 3:23 | 2025-03-06 |  |
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-02-20 | 2025-03-08 |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-06-27 |  |
@@ -148,6 +148,7 @@
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-11-01 | 2025-02-16 |
 | [Nesten narkoman](https://open.spotify.com/track/6fIZ8qagHdeAd1eZvTW3Iu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Nesten narkoman](https://open.spotify.com/album/5Xwt2LIrD7s0njAEZvRylz) | 3:07 | 2025-02-13 | 2025-02-21 |
 | [Never Look Down](https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m) | 3:37 | 2025-01-09 | 2025-01-24 |
+| [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-03-07 |  |
 | [Noe mere](https://open.spotify.com/track/4kShoXoqe2QniNPnLNHyT4) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Noe mere](https://open.spotify.com/album/220NnZ6lJVzdgmY9YPr86n) | 2:17 | 2025-02-06 | 2025-02-14 |
 | [Now and Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now and Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 | 2025-01-02 | 2025-01-10 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 |  |

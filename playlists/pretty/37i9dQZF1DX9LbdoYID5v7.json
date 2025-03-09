@@ -1,6 +1,6 @@
 {
   "description": "20 years of <a href=\"https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7?si=Up0hqVCISie7spJeiLtmXQ\">I'm Wide Awake, It's Morning</a> Cover: Bright Eyes",
-  "num_followers": 540487,
+  "num_followers": 540707,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
         "name": "I Had The Blues But I Shook Them Loose",
         "url": "https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 245640,
       "name": "Always Like This",
       "url": "https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "This Modern Love",
-      "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
         "name": "Girls and Boys",
         "url": "https://open.spotify.com/album/5S6f5k6au5uJpGhhQ0wgBw"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 135386,
       "name": "The Way I Am",
       "url": "https://open.spotify.com/track/43ddJFnP8m3PzNJXiHuiyJ"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "This Modern Love",
+      "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
     },
     {
       "added_at": "2024-07-03 04:00:00",

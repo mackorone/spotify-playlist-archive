@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > bold tracks, serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,375,895 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,376,208 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 16 | [Glitter & Gold](https://open.spotify.com/track/1aJtyIMev4kW8IMUxOjn1Y) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 2:56 |
 | 17 | [All on My Mind](https://open.spotify.com/track/5GRPAVCMwnUNvIOKzDYYSb) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:44 |
 | 18 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
-| 19 | [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 |
-| 20 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 |
+| 19 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 |
+| 20 | [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 |
 | 21 | [Tell That Devil](https://open.spotify.com/track/4wU4XL8nX0we6MXgmFAmnh) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Tell That Devil](https://open.spotify.com/album/4SUzxP2sBgdjiogiNlbSaw) | 2:38 |
 | 22 | [Empire Now](https://open.spotify.com/track/6WIctLx62k1gJALmLe7rXj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 2:58 |
 | 23 | [Take The Journey](https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:42 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 38 | [Trouble In Mind](https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ) | 3:42 |
 | 39 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
 | 40 | [Where We Are \- Edit](https://open.spotify.com/track/4ebNp6KQ4cUVeD3YSXcWTI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Where We Are](https://open.spotify.com/album/7ckwltseCfQmCc7JvobNeE) | 3:58 |
-| 41 | [Trouble Finds You](https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [From the Grave](https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD) | 3:35 |
+| 41 | [Beach Seduction \(feat\. Leah Wellbaum\)](https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Leah Wellbaum](https://open.spotify.com/artist/2IeRkiNiO3aibtTyAWntzp) | [The Major Minor Collective \(Bonus Track Edition\)](https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j) | 4:16 |
 | 42 | [Be](https://open.spotify.com/track/7hfi4ZTfV7akmGINh6qYCF) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:49 |
-| 43 | [Beach Seduction \(feat\. Leah Wellbaum\)](https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Leah Wellbaum](https://open.spotify.com/artist/2IeRkiNiO3aibtTyAWntzp) | [The Major Minor Collective \(Bonus Track Edition\)](https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j) | 4:16 |
+| 43 | [Trouble Finds You](https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [From the Grave](https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD) | 3:35 |
 | 44 | [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 |
-| 45 | [Carnival of Crows '06](https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z) | [The Parlor Mob](https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV) | [Back in '06](https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3) | 3:11 |
-| 46 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 |
+| 45 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 |
+| 46 | [Carnival of Crows '06](https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z) | [The Parlor Mob](https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV) | [Back in '06](https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3) | 3:11 |
 | 47 | [Rocky](https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Love and the Death of Damnation](https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW) | 3:57 |
 | 48 | [Retrograde](https://open.spotify.com/track/17KeHeGWyRNkbGnZxGBPl7) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Retrograde](https://open.spotify.com/album/60QwS2TtQfyLMdMcbc6ayo) | 3:25 |
-| 49 | [Ain't No Angel](https://open.spotify.com/track/6ATkdQDvgPt8W06XPjcB8Z) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Ain't No Angel](https://open.spotify.com/album/4ADyT6cpGaqGdLRmlx7S5F) | 3:43 |
-| 50 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
+| 49 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
+| 50 | [Ain't No Angel](https://open.spotify.com/track/6ATkdQDvgPt8W06XPjcB8Z) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Ain't No Angel](https://open.spotify.com/album/4ADyT6cpGaqGdLRmlx7S5F) | 3:43 |
 
 Snapshot ID: `ZsitzQAAAAD841ubuJrpI7ofWtrs4PNd`

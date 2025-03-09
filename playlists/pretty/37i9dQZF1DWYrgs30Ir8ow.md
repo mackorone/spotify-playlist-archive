@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,903 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,917 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
-| 2 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 |
-| 3 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
-| 4 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
+| 2 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
+| 3 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 |
+| 4 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
 | 5 | [The Baddest](https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [The Baddest](https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV) | 2:51 |
 | 6 | [Wat Zou Je Doen?](https://open.spotify.com/track/4lHhgAyYDkW0J5ykdyf9OF) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Wat Zou Je Doen?](https://open.spotify.com/album/19LO8205QQBIjA424ES7ej) | 2:11 |
 | 7 | [Bezwen Ou \(feat\. Joé Dwet Filé\)](https://open.spotify.com/track/1jNS59FIqYLpde5th5RFQk) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:30 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 |
 | 40 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 
-Snapshot ID: `Z8oqeAAAAAAdJn3NS0E5kBCok/HVCO8p`
+Snapshot ID: `Z8yDhwAAAADVLzNtdGwR3aAGNfIT992W`

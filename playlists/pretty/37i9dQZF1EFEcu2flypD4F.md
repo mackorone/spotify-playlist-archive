@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,076 likes - 337 songs - 21 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,088 likes - 337 songs - 21 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,13 +108,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 98 | [Puppies Are Forever](https://open.spotify.com/track/5Uj1LL6HaSFYlfyC6o42ZC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:43 |
 | 99 | [Confetti](https://open.spotify.com/track/3kikZxz3Sg6lwG72ZLssIL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:06 |
 | 100 | [Sunshine](https://open.spotify.com/track/0ApkFFU362NocXTexqWPYn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:25 |
-| 101 | [Double Rainbow](https://open.spotify.com/track/7B8TA3WaoMiKZ3wfnF7PgN) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:51 |
-| 102 | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo) | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu) | 2:03 |
+| 101 | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo) | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu) | 2:03 |
+| 102 | [Double Rainbow](https://open.spotify.com/track/7B8TA3WaoMiKZ3wfnF7PgN) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:51 |
 | 103 | [Fear](https://open.spotify.com/track/5WfBl43XUcWng7OnB8LKNW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fear](https://open.spotify.com/album/2wmvVAqB2sAiJQpp2pRWcD) | 4:40 |
 | 104 | [Battle Cry](https://open.spotify.com/track/13kiXTWqDhjZFh6A8dsJvl) | [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dirty Gold \(Deluxe\)](https://open.spotify.com/album/44OLN0q78wTRrMcAWzSDLy) | 4:52 |
 | 105 | [Straight for the Knife](https://open.spotify.com/track/6AAl7AECcCH7mVGNqHGmaI) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:31 |
-| 106 | [Courage](https://open.spotify.com/track/3wNPirSnPtlJOS2PSBQGqG) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 4:19 |
-| 107 | [Opportunity](https://open.spotify.com/track/4RlEfpp0p8TzRwseTUA4fp) | [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:06 |
+| 106 | [Opportunity](https://open.spotify.com/track/4RlEfpp0p8TzRwseTUA4fp) | [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:06 |
+| 107 | [Courage](https://open.spotify.com/track/3wNPirSnPtlJOS2PSBQGqG) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 4:19 |
 | 108 | [Déjà Vu](https://open.spotify.com/track/60XMmxciP1qewvkcD16qKQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:17 |
 | 109 | [The Girl You Lost To Cocaine](https://open.spotify.com/track/3o9JsjPISLo2T9rcXLDT0a) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 2:40 |
 | 110 | [Underneath the Christmas Lights](https://open.spotify.com/track/1KuPjp2SyimuFq2Hh62Tym) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:36 |
@@ -346,4 +346,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 336 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbrcgAAAAACam9t0ElS3oJDrfAFULDPM`
+Snapshot ID: `AbriDAAAAACa6XbOEVWBJ0xhWxOLvE+3`

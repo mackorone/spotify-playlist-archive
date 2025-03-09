@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,198 songs - 2 day 16 hr 20 min
+1,199 songs - 2 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,7 @@
 | [Heatwave \(feat\. Robbie Jay\)](https://open.spotify.com/track/5mi9BFrugew7j9HzUpgPEI) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Robbie Jay](https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K) | [Heatwave \(feat\. Robbie Jay\)](https://open.spotify.com/album/3gzzOdF1CxP1Sa9wihhdrE) | 3:21 | 2022-04-01 | 2022-04-16 |
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-05-13 | 2024-04-19 |
 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 | 2023-03-03 | 2023-06-06 |
-| [Hesitate](https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC) | [Picco](https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK) | [Hesitate](https://open.spotify.com/album/1NphNEK4Twi2yrGmLkjym8) | 2:50 | 2024-04-19 |  |
+| [Hesitate](https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC) | [Picco](https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK) | [Hesitate](https://open.spotify.com/album/1NphNEK4Twi2yrGmLkjym8) | 2:50 | 2024-04-19 | 2025-03-09 |
 | [Hey Hey](https://open.spotify.com/track/0R8dsqbzcoHoqUN5MLWyOi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Hey Hey](https://open.spotify.com/album/3hsd4yQ7Bk7k2OpRyGTtF1) | 3:10 | 2020-05-22\* | 2020-09-05 |
 | [Hey Pablo](https://open.spotify.com/track/4gnH8nfdJfN115QAzzUc3E) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Hey Pablo EP](https://open.spotify.com/album/2Mzhih2f9yASsifcemdbZy) | 4:09 | 2020-05-22\* | 2021-12-20 |
 | [High and I Like it](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like it](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 | 2024-05-17 | 2024-08-10 |
@@ -570,6 +570,7 @@
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-07-01 | 2024-05-18 |
 | [Kickin' Hard \- Tom Staar Remix](https://open.spotify.com/track/0kEH8mL7LfYnXhN6VaY2iH) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u) | [Kickin' Hard \(Tom Staar Remix\)](https://open.spotify.com/album/7jvlCBJr57QMnKouk1civc) | 3:25 | 2020-05-22\* | 2022-04-20 |
 | [Kids \(feat\. MKLA\)](https://open.spotify.com/track/3rgTS3933lMWoPiN6CW4qY) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Kids \(feat\. MKLA\)](https://open.spotify.com/album/3iYUmg1PpY33KH7QW0goe1) | 3:04 | 2020-12-12 | 2023-03-21 |
+| [Killah \(feat\. Gesaffelstein\)](https://open.spotify.com/track/4pNzBbGcqXofx8mLBPTeih) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:30 | 2025-03-07 |  |
 | [Kilt](https://open.spotify.com/track/2xYGMOnVUO9P62uiYDu4aD) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Bucklyn Bridge EP](https://open.spotify.com/album/6L25aUr2Ntt2pfYfXMcpDp) | 4:47 | 2022-07-14 | 2022-07-30 |
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-17 |  |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-05-31 | 2025-03-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Nyt album fra <a href="spotify:artist:7nCIXUCqZmxntAGJMyls5c">Lady Gaga</a> og ny musik fra Anton Westerlin, Lamin, ozzy & Zuloo 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,235 likes - 105 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,247 likes - 105 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 72 | [Erased](https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Erased](https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs) | 3:02 |
 | 73 | [Downfall](https://open.spotify.com/track/6pw4p1jgeEhgoubStEviG8) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [Downfall](https://open.spotify.com/album/3uLlGkUpclfJvRC2BXHH1O) | 3:49 |
 | 74 | [Oh No! Lindsey's Coming Back To Town](https://open.spotify.com/track/5eTyU7wDSP2P71ZExbxTqk) | [Klara Kristin](https://open.spotify.com/artist/4Mz7RGQDwV3HN1njKVbMcF) | [Oh No! Lindsey's Coming Back To Town](https://open.spotify.com/album/6kUy8HaRPLT6CsyVtZahv7) | 4:00 |
-| 75 | [Think About It](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Think About It](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
+| 75 | [Think About It](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
 | 76 | [Where's my gun](https://open.spotify.com/track/6L2L9876hsCZCa35nlb3RF) | [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP) | [Where's my gun](https://open.spotify.com/album/7uLl7ESICLbVQHgfV5VmyX) | 2:44 |
 | 77 | [Options](https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Options](https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04) | 2:49 |
 | 78 | [Previous Problems](https://open.spotify.com/track/25MWgy2uTBd60hRqvR4pVz) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Previous Problems](https://open.spotify.com/album/0lrcEwKTEiF2Za8aBtZtAf) | 3:15 |

@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 261408,
+  "num_followers": 261376,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "We're The Lucky Ones",
         "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 215933,
       "name": "We're the Lucky Ones",
       "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Slowed Down Songs + Reverb",
+          "url": "https://open.spotify.com/artist/4PW2bYNsDzxkREpAw8fAuI"
+        }
+      ],
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
         "name": "When Christmas Comes Again",
         "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 186763,
       "name": "Late Night Phone Call",
       "url": "https://open.spotify.com/track/4B7gTTd4Tqz2jvzDzioGuv"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        },
-        {
-          "name": "Slowed Down Songs + Reverb",
-          "url": "https://open.spotify.com/artist/4PW2bYNsDzxkREpAw8fAuI"
-        }
-      ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Deck The Halls",
-        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Purple Snowflakes / This Wintertime",
         "url": "https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "When I Get Home for Christmas",
-        "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
       },
       "artists": [
         {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 256773,
-      "name": "When I Get Home for Christmas",
-      "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"
+      "duration_ms": 124000,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1187,6 +1171,22 @@
       "duration_ms": 217733,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "When I Get Home for Christmas",
+        "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "When I Get Home for Christmas",
+      "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"
     },
     {
       "added_at": "2024-12-13 04:00:30",

@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-437 songs - 1 day 4 hr 4 min
+438 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2022-12-08 | 2023-04-01 |
 | [Didn't Cha Know](https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [On & On](https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA) | 5:02 | 2023-01-19 | 2023-10-06 |
 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 | 2025-01-13 |  |
+| [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 | 2025-03-06 |  |
 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 | 2023-09-14 | 2024-04-19 |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-30 | 2023-08-23 |
 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-26 | 2023-12-06 |
@@ -265,7 +266,7 @@
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-17 |  |
 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 | 2023-12-07 | 2024-03-08 |
 | [Nowhere to Hide](https://open.spotify.com/track/2kgTT46SOeDyViOIWtmU1N) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Nowhere to Hide](https://open.spotify.com/album/0iwbgBKp5FKjItE7bMeocQ) | 3:19 | 2024-01-11 | 2024-01-26 |
-| [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 | 2025-01-24 |  |
+| [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 | 2025-01-24 | 2025-03-09 |
 | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/track/6cLAX064e8EpvsA31qIIyM) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc) | 4:17 | 2022-10-20 | 2023-01-13 |
 | [Off The Wall](https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:11 | 2023-03-21 | 2023-05-12 |
 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-09-07 |  |

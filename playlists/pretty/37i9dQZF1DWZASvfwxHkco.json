@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: David Guetta, Sia",
-  "num_followers": 69032,
+  "num_followers": 69036,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2025-03-06 15:00:20",
       "album": {
+        "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
+        "url": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
+      "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
+    },
+    {
+      "added_at": "2025-03-06 15:00:20",
+      "album": {
         "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 165299,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
-    },
-    {
-      "added_at": "2025-03-06 15:00:20",
-      "album": {
-        "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
-        "url": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 208159,
-      "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
-      "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
     },
     {
       "added_at": "2025-03-06 15:00:20",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2025-03-06 15:00:20",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253770,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
-    },
-    {
-      "added_at": "2025-03-06 15:00:20",
-      "album": {
         "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
@@ -1443,22 +1423,22 @@
     {
       "added_at": "2025-03-06 15:00:20",
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
         },
         {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 153207,
-      "name": "Last Song (feat. Faouzia)",
-      "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
+      "duration_ms": 253770,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
     },
     {
       "added_at": "2025-03-06 15:00:20",
@@ -1511,6 +1491,26 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+    },
+    {
+      "added_at": "2025-03-06 15:00:20",
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 153207,
+      "name": "Last Song (feat. Faouzia)",
+      "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
     },
     {
       "added_at": "2025-03-06 15:00:20",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2025-03-06 15:00:20",
       "album": {
-        "name": "Hold On Me",
-        "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 171165,
-      "name": "Hold On Me",
-      "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
-    },
-    {
-      "added_at": "2025-03-06 15:00:20",
-      "album": {
         "name": "My Oh My",
         "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 160529,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "added_at": "2025-03-06 15:00:20",
+      "album": {
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 171165,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
     },
     {
       "added_at": "2025-03-06 15:00:20",

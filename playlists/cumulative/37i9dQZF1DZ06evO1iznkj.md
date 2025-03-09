@@ -4,7 +4,7 @@
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 15 min
+88 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [ca$h $hit](https://open.spotify.com/track/48rsYvIQXUAtxcmIoStOaM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:11 | 2023-11-10 | 2024-10-07 |
 | [Champs Élysées \(feat\. Gunna\)](https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Champs Élysées \(feat\. Gunna\)](https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz) | 2:36 | 2024-09-08 | 2024-12-16 |
 | [Champs Élysées \(feat\. Gunna\)](https://open.spotify.com/track/4iuYxZ3kGHQuPkLSvyrqgs) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:36 | 2024-12-16 |  |
+| [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 | 2025-03-09 |  |
 | [collage](https://open.spotify.com/track/41TXadM22OIJY04xSW9iuv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:27 | 2024-05-12 |  |
 | [DOLLAZ ON MY HEAD \(feat\. Young Thug\)](https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 | 2023-11-10 |  |
 | [Drip or Drown](https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip or Drown](https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ) | 2:06 | 2023-11-10 |  |

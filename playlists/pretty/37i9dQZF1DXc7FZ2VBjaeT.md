@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 
 > Listen to all her biggest hits, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,777,116 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,777,999 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 | 49 | [Do What U Want](https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Do What U Want](https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm) | 3:36 |
 | 50 | [ScheiBe](https://open.spotify.com/track/1RFXENx9ILC6PECmNhEstC) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 3:45 |
 
-Snapshot ID: `Z8sv8wAAAACqjicX8BFTuRmGwceY90CL`
+Snapshot ID: `Z8y/QAAAAADh7aySbrlanbnlMPfJnbau`

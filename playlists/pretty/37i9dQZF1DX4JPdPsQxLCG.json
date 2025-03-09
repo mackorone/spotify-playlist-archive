@@ -1,6 +1,6 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 103240,
+  "num_followers": 103236,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "duration_ms": 168491,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
         "name": "Purple Gas",
         "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 180152,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF"
-      },
-      "artists": [
-        {
-          "name": "Devon Cole",
-          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
-        }
-      ],
-      "duration_ms": 168491,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f"
     },
     {
       "added_at": "2025-01-22 20:21:19",

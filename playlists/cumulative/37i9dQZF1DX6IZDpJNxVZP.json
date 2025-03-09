@@ -576,24 +576,6 @@
     {
       "album": {
         "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC"
-      },
-      "artists": [
-        {
-          "name": "Fixiki",
-          "url": "https://open.spotify.com/artist/3YDDfBycguqyJnWZdvOaWj"
-        }
-      ],
-      "date_added": "2024-12-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 125048,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg"
-    },
-    {
-      "album": {
-        "name": "Christmas Time",
         "url": "https://open.spotify.com/album/3jOlSmUriGAdcDeSwZjgEH"
       },
       "artists": [
@@ -626,6 +608,24 @@
       "duration_ms": 121000,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/7zaBeDLJCht8KSvkvGIRje"
+    },
+    {
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC"
+      },
+      "artists": [
+        {
+          "name": "The Fixies",
+          "url": "https://open.spotify.com/artist/1GmIrV9vwP3OqwrvUI64nm"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125048,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uVP1agvV5rba3MqLQ0pzy.md) - [plain]
 
 > Despite their nomenclature defying eclecticism, these folk inspired artists share a collective penchant for welding experimentation with tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275 likes - 45 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 274 likes - 45 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

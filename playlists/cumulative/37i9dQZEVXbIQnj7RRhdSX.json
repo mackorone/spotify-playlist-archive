@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
@@ -11034,10 +11052,28 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 194090,
       "name": "CUORICINI",
       "url": "https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc"
+    },
+    {
+      "album": {
+        "name": "VITA_FUSA",
+        "url": "https://open.spotify.com/album/7lUQ8zSvRJwgC77Pb3St5Z"
+      },
+      "artists": [
+        {
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194090,
+      "name": "CUORICINI",
+      "url": "https://open.spotify.com/track/0fPhrbZJqHbmsuV2RQbeSB"
     },
     {
       "album": {
@@ -12262,6 +12298,28 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "album": {
@@ -14962,7 +15020,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 209117,
       "name": "Fango in Paradiso",
       "url": "https://open.spotify.com/track/7Co4JFHHRVoAf9lCx37aGx"
@@ -38786,7 +38844,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 192989,
       "name": "Rossetto e caff\u00e8",
       "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"

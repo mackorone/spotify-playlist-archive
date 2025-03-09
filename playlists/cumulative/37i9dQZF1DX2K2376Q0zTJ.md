@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Elle Teresa
 
-1,299 songs - 3 day 4 hr 29 min
+1,300 songs - 3 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,8 @@
 | [INSOMNIA](https://open.spotify.com/track/3dHae3aTte5vwlSjKGBph6) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [INSOMNIA](https://open.spotify.com/album/5IxRTv4XQgTvewH3fwHnew) | 3:14 | 2024-06-20 | 2025-01-18 |
 | [INVITATION](https://open.spotify.com/track/5UeAFjIxgay5XnbfhaJ0hq) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [INVITATION](https://open.spotify.com/album/4ZifRxvNe7VyUx2puhgVXP) | 1:59 | 2022-09-06 | 2022-10-05 |
 | [IRREGULAR LIFE](https://open.spotify.com/track/0d2a2dazmNexzIDBOHsnSY) | [eco skinny](https://open.spotify.com/artist/5XAY6FqqxqPclsCmTVaqkb), [Neon Nonthana](https://open.spotify.com/artist/5wMTr5Xt9bqktsgr5UDQKn) | [IRREGULAR LIFE](https://open.spotify.com/album/2l1yExF7fdGlNpgFBdAtjT) | 2:08 | 2022-04-05 | 2022-05-05 |
-| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-03-04 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-03-04 | 2025-03-09 |
+| [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-08 |  |
 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 | 2022-05-31 | 2023-11-30 |
 | [It's a piece of cake](https://open.spotify.com/track/6HIIjoK4W36ZzJz3bdBSFB) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [It's a piece of cake](https://open.spotify.com/album/05uOqKsjHjMu9frNzuquot) | 3:03 | 2024-06-20 | 2025-01-18 |
 | [It's you](https://open.spotify.com/track/7bWdCPvRqQbBG2s5FJ6B8M) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [JQ](https://open.spotify.com/artist/1ghv26dA3RvlYBaXzlZvJN) | [It's you](https://open.spotify.com/album/2YACr8RMXS8zRo5fBTPUYV) | 4:18 | 2021-11-30 | 2022-01-05 |

@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 228560,
       "name": "Deu\u00f1o De Ti",
       "url": "https://open.spotify.com/track/60qMXOUgTo6mhnW2ls9AMr"
@@ -3814,10 +3814,32 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "album": {
@@ -5934,7 +5956,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 198495,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
@@ -11846,7 +11868,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -13034,6 +13056,28 @@
       "duration_ms": 114693,
       "name": "Super Tuna",
       "url": "https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams (feat. Miguel)",
+        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172952,
+      "name": "Sweet Dreams (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
     },
     {
       "album": {

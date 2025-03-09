@@ -1,6 +1,6 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2024! \ud83c\udf1e",
-  "num_followers": 112350,
+  "num_followers": 112347,
   "original_name": "Ver\u00e3o 2024 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Tamborz\u00e3o Raiz",
-        "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "MC Caja",
-          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "Papin",
-      "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 110222,
       "name": "DAN\u00c7ARINA",
       "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Tamborz\u00e3o Raiz",
+        "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "MC Caja",
+          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "Papin",
+      "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
     },
     {
       "added_at": "2024-08-22 23:00:00",

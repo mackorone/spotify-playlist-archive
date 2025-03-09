@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-570 songs - 1 day 4 hr 4 min
+571 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-21 |  |
 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 | 2023-05-19 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-04-21 |  |
+| [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-07 |  |
 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-04-21 |  |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2023-02-24 | 2023-05-17 |
 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 | 2022-10-28 | 2024-06-22 |
@@ -283,7 +284,7 @@
 | [Keep On Moving \(with NEZ feat\. Theophilus London\)](https://open.spotify.com/track/4S2GeYH3n62svWelQOYw3T) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Keep On Moving \(with NEZ feat\. Theophilus London\)](https://open.spotify.com/album/3D64CfImqie7cZUChp3AL0) | 3:08 | 2022-01-07 | 2022-04-23 |
 | [Keep The Faith](https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV) | 3:13 | 2025-02-28 |  |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-06-17 | 2024-09-21 |
-| [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-24 |  |
+| [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-24 | 2025-03-09 |
 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 | 2024-11-29 | 2024-12-22 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-06-21 | 2025-02-24 |
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2022-01-07 | 2022-05-06 |

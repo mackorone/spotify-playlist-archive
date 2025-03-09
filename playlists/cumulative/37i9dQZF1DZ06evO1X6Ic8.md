@@ -4,7 +4,7 @@
 
 > This is The 1975\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 48 min
+58 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 | 2023-03-19 |  |
 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 | 2023-03-19 | 2023-10-11 |
 | [Looking For Somebody \(To Love\)](https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:58 | 2023-03-19 |  |
+| [Looking For Somebody To Love \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/track/1RmVIc0JioOJHOVMIF64G9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Still..\. At Their Very Best \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I) | 3:25 | 2025-03-09 |  |
 | [Love It If We Made It](https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:12 | 2023-03-19 |  |
 | [Me](https://open.spotify.com/track/4GjRDgb77p27GQnbZpv1OJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:35 | 2023-03-19 | 2024-01-04 |
 | [Me](https://open.spotify.com/track/4w0joPRhKJsrzq1euxkpZ2) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:35 | 2023-03-21 |  |

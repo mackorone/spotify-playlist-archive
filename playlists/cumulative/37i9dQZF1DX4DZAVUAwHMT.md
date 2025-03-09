@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Spiritbox
 
-889 songs - 2 day 1 hr 9 min
+890 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Easy Distraction](https://open.spotify.com/track/2zLek2ZAy5bZiLmiyUWcMw) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Easy Distraction](https://open.spotify.com/album/0zHgc3eS8X20SdPkJhPRgF) | 3:50 | 2024-08-29 | 2024-10-11 |
 | [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 | 2023-01-13 | 2023-02-03 |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-01-13 | 2023-02-03 |
+| [Eighteen Crows](https://open.spotify.com/track/6NFU9CdbiesVSuApjQf5NT) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Eighteen Crows](https://open.spotify.com/album/3C5ZbazmOazNqqkj5enOEZ) | 3:25 | 2025-03-08 |  |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-11 | 2023-07-14 |
 | [Erasure](https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 2:46 | 2023-09-15 | 2023-10-13 |
 | [Eulogy](https://open.spotify.com/track/4JfMlJsDGIu1bVOYUnUYYH) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Eulogy](https://open.spotify.com/album/1yoLIxqTVxN9O5U5KmwIIj) | 2:21 | 2023-03-03 | 2023-03-25 |

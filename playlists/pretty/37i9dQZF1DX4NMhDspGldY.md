@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 
 > Leeds! Leeds! Leeds! Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 919 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 920 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 27 | [Give It To Dem](https://open.spotify.com/track/2BJmRwIyiRyRIVV4AaIqrl) | [Graft](https://open.spotify.com/artist/4D8x62ZMhyT8vZifuO6nXc) | [Give It To Dem](https://open.spotify.com/album/6UUdD0Mqdv3iVt2dr1pHzK) | 3:10 |
 | 28 | [The Last Remaining Light](https://open.spotify.com/track/2PGg8lNkzACoNt3OnaRXZ3) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [The Last Remaining Light](https://open.spotify.com/album/2cjv8TWDCVVNuCdcTGKah2) | 3:08 |
 | 29 | [Midnight Mass](https://open.spotify.com/track/5pSJTwM7xnTcjAus8yilY3) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [Natural Habitat](https://open.spotify.com/album/2JawSHh0PDTVl4n3DL9sPd) | 3:54 |
-| 30 | [L4V](https://open.spotify.com/track/42j3r1LFYw2BEZQMZkwWpw) | [Agxny](https://open.spotify.com/artist/1C01qD310JFINaNl8SNzcd), [Haze Da Martian](https://open.spotify.com/artist/3579nmnoMn3NAoO7BCr6aF) | [L4V](https://open.spotify.com/album/5qcjNHcBzOCmds5JiFt30S) | 2:21 |
-| 31 | [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 |
+| 30 | [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 |
+| 31 | [L4V](https://open.spotify.com/track/42j3r1LFYw2BEZQMZkwWpw) | [Agxny](https://open.spotify.com/artist/1C01qD310JFINaNl8SNzcd), [Haze Da Martian](https://open.spotify.com/artist/3579nmnoMn3NAoO7BCr6aF) | [L4V](https://open.spotify.com/album/5qcjNHcBzOCmds5JiFt30S) | 2:21 |
 | 32 | [Tagliatelle](https://open.spotify.com/track/3TWRsylgFQJo01jpa46pwn) | [Bert](https://open.spotify.com/artist/7oHUE5iM2Mn1lughMs1H00), [Swifty Blu](https://open.spotify.com/artist/0F4JiG2pd75jzRVimScHoP) | [It's all gd, dw](https://open.spotify.com/album/0z5H8Ykg2sD8FPuCMZnz62) | 2:19 |
 | 33 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 |
 | 34 | [Closer](https://open.spotify.com/track/7lHNiN7bI3mi6bYFpnOau7) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Closer / Strangers](https://open.spotify.com/album/7KedalFRqXcnAEl66Q83tC) | 3:42 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 44 | [Emotion](https://open.spotify.com/track/7cY4qru57sGf77xkUvtYwr) | [GEO](https://open.spotify.com/artist/3A5PSHQgA7r8hs9M5p2iIz) | [Emotion](https://open.spotify.com/album/0YYPm7yqaeFKtFI2Dp9VMu) | 3:34 |
 | 45 | [Home](https://open.spotify.com/track/1zFNz0vqPbNyBhBwB7yghZ) | [Emma Johnson's Gravy Boat](https://open.spotify.com/artist/3wXfTrVFn5UQd9cSV2d1W8) | [Northern Flame](https://open.spotify.com/album/0EiS0yRleyWdBmo4pyxI6s) | 4:47 |
 | 46 | [Bff](https://open.spotify.com/track/6NvH9j53XhLJq3G5ucuI10) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Bff](https://open.spotify.com/album/7jPIgC4AJtuCtwCE1EHwvs) | 2:31 |
-| 47 | [Bebaynetu](https://open.spotify.com/track/5dThygvX9AZmUj58dRDiJ3) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Bebaynetu](https://open.spotify.com/album/1Vu6krP87Wv0M5OMinxWbq) | 4:03 |
-| 48 | [The Sky Tonight](https://open.spotify.com/track/4yETyNaa9Aed6veTZFu4hK) | [Emmeline](https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR) | [Small\-Town Girls and Soft Summer Nights](https://open.spotify.com/album/6isLTenhMfUWI3VQ5KIfvJ) | 3:00 |
+| 47 | [The Sky Tonight](https://open.spotify.com/track/4yETyNaa9Aed6veTZFu4hK) | [Emmeline](https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR) | [Small\-Town Girls and Soft Summer Nights](https://open.spotify.com/album/6isLTenhMfUWI3VQ5KIfvJ) | 3:00 |
+| 48 | [Bebaynetu](https://open.spotify.com/track/5dThygvX9AZmUj58dRDiJ3) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Bebaynetu](https://open.spotify.com/album/1Vu6krP87Wv0M5OMinxWbq) | 4:03 |
 | 49 | [Alone With U](https://open.spotify.com/track/3eVPlHoRinMGANyHTjyCTw) | [Stone Forte](https://open.spotify.com/artist/0FUx2oTzlbJ1eR8I9EmpAQ) | [Alone With U](https://open.spotify.com/album/3iHEf58joahl3W6wx0YyAw) | 3:06 |
 | 50 | [Closer](https://open.spotify.com/track/1VTWCauhhZ23hDHMjsVCWb) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Closer](https://open.spotify.com/album/1AqR0VZf6nkCN4c9sNXSoO) | 3:18 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,452 likes - 94 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,449 likes - 94 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 17 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 |
 | 18 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
 | 19 | [The Night Before Christmas](https://open.spotify.com/track/3qYP1z6cSQuTUosdMURZtw) | [Katy Healy](https://open.spotify.com/artist/4FSVptHzrQg8goD1Evmdgo) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/3jkYXSoDo3mH23yZaTVy6W) | 2:52 |
-| 20 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 |
-| 21 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 |
+| 20 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 |
+| 21 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 |
 | 22 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
 | 23 | [The Chipmunk Song](https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg) | 2:43 |
 | 24 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 50 | [Away in a manger](https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Away in a manger](https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz) | 2:06 |
 | 51 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
 | 52 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
-| 53 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
-| 54 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
+| 53 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
+| 54 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
 | 55 | [Angels We Have Heard on High](https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Angels We Have Heard on High](https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF) | 2:40 |
 | 56 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 |
 | 57 | [A Wishful Night](https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [A Wishful Night](https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA) | 2:27 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 172078,
+  "num_followers": 172084,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAACKDqa2GKOTURrfSk6WRbui",
+  "snapshot_id": "Z8o3AAAAAABQVOdiPkeoVNQe74NpyO87",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 259279,
-      "name": "Tin Man",
-      "url": "https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE"
+      "duration_ms": 240280,
+      "name": "Vice",
+      "url": "https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Vice",
-      "url": "https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc"
+      "duration_ms": 259279,
+      "name": "Tin Man",
+      "url": "https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 183242,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -547,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 183242,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Note To Self (Deluxe)",
+        "url": "https://open.spotify.com/album/0AfEmFAU5rR2dZbMPHu5cM"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Still That Cowboy (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/3MwXKXU4VhP3faG9fob310"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 178849,
       "name": "Space in My Heart",
       "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Note To Self (Deluxe)",
-        "url": "https://open.spotify.com/album/0AfEmFAU5rR2dZbMPHu5cM"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Still That Cowboy (feat. Miranda Lambert)",
-      "url": "https://open.spotify.com/track/3MwXKXU4VhP3faG9fob310"
     },
     {
       "added_at": null,

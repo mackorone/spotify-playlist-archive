@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Zuta
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,621 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,618 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 20 | [Nie bolało](https://open.spotify.com/track/1RJfHolln7fiPAOBWleNFL) | [Klaudia Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Nie bolało](https://open.spotify.com/album/6iWtrne7gJQfcsmbtcmuPL) | 2:48 |
 | 21 | [Było miło](https://open.spotify.com/track/6ZceODjmxnenMVZG5HxEAx) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Wani](https://open.spotify.com/artist/4VqnvuLdn0LsrrASwNSuuA) | [Było miło](https://open.spotify.com/album/4jqLIlSZWJ95kVcWOQXWgu) | 3:06 |
 | 22 | [Niemoc](https://open.spotify.com/track/2WUiGW64CGugcDdW1PWue9) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA) | [Niemoc](https://open.spotify.com/album/0Wej8BPHlSxJlebl8vSEUa) | 3:52 |
-| 23 | [Co z tobą mała](https://open.spotify.com/track/3w3qkgukyfwjttvLFLH03N) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV) | [Ala17 EP](https://open.spotify.com/album/36aVKcErFCbFaklRrJXudh) | 2:12 |
+| 23 | [Co z tobą mała](https://open.spotify.com/track/3w3qkgukyfwjttvLFLH03N) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Kacha](https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er) | [Ala17 EP](https://open.spotify.com/album/36aVKcErFCbFaklRrJXudh) | 2:12 |
 | 24 | [nie mam dla ciebie nic](https://open.spotify.com/track/0CrP2iqI8dOZG75eLtr2LX) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Piotr Rogucki](https://open.spotify.com/artist/6gG1FOW5CoylM7858JYboD) | [nie mam dla ciebie nic](https://open.spotify.com/album/2SOM72XykpsANO0wWmOoU0) | 2:41 |
 | 25 | [FIXACJE](https://open.spotify.com/track/4ZJDNndRmSwbRPLThyOnfn) | [PYCORKA](https://open.spotify.com/artist/3SOW8wH1Xm0epMxdIO1eAE) | [FIXACJE](https://open.spotify.com/album/3tQlAWPZW0Wg0BhxjNP3z7) | 2:30 |
 | 26 | [Pomelo](https://open.spotify.com/track/0WnTAa51ehPCWu3ycYNOSs) | [Skarby](https://open.spotify.com/artist/3Iq4xdmSR2UfOAORhoH334) | [Pomelo](https://open.spotify.com/album/3LvEnayzQLzeYi1iGIzysa) | 3:41 |

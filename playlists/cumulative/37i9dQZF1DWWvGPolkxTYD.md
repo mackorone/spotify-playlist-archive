@@ -4,14 +4,14 @@
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-60 songs - 4 hr 33 min
+60 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Cool Wind Is Blowing](https://open.spotify.com/track/74EHZDVuASkFGH5BSy9KPp) | [Djivan Gasparyan](https://open.spotify.com/artist/7ABrk0PO1Bz1U4G023WzSk) | [I Will Not Be Sad In This World](https://open.spotify.com/album/21UjyMSvz5ujaFfrs3ZT8x) | 4:04 | 2024-01-17 | 2024-04-19 |
 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 | 2024-01-17 |  |
 | [Al\-Andalus Abre Sus Puertas\. Al\-Andalus Opens Its Gates](https://open.spotify.com/track/4iQvCKLlT8DlRm7hqBPS3n) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ), [Shabbaz Hussain](https://open.spotify.com/artist/1entpGIZiFUjcFLOMzbXUL), [Ashraf Sharif Khan](https://open.spotify.com/artist/75hY1HGxwO5zlBmXzj1UQs) | [Viaje De Las Almas\. Travelling Souls](https://open.spotify.com/album/1nEZo4Uk9UfaAnt0AvqDAb) | 6:35 | 2024-01-17 |  |
-| [Aman avcı vurma beni \(Turkey\)](https://open.spotify.com/track/3seIC3w5tl74L5CwUMtzU2) | [Ismail Ounal](https://open.spotify.com/artist/3n3Whufi84YqBH5BA6YnP9) | [Oriental Guitar \- Turkish & Arabic Instrumental Music](https://open.spotify.com/album/3YShnla4X4oKouDTJH9JKl) | 1:48 | 2024-01-17 |  |
+| [Aman Avcı Vurma Beni \- Turkey](https://open.spotify.com/track/3seIC3w5tl74L5CwUMtzU2) | [Ismail Ounal](https://open.spotify.com/artist/3n3Whufi84YqBH5BA6YnP9) | [Oriental Guitar \- Turkish & Arabic Instrumental Music](https://open.spotify.com/album/3YShnla4X4oKouDTJH9JKl) | 1:45 | 2024-01-17 |  |
 | [Amoudou](https://open.spotify.com/track/1QnWVnnt2AOT7psq22mO5I) | [Sarah & Ismael](https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt) | [Amoudou](https://open.spotify.com/album/12OPu793Jldrmt0fMkXpby) | 4:47 | 2024-03-11 | 2024-03-13 |
 | [Aridda wal noor](https://open.spotify.com/track/7Itre0ipPz3XVU9nx85SXv) | [Bashir Abdel Aal](https://open.spotify.com/artist/1LUP5tRXvMB3Oc9YFUnfMe), [Ivor Goldberg](https://open.spotify.com/artist/5cgyJ65fkE9qRAQxwCgzvj), [George Dergham](https://open.spotify.com/artist/0w2t7XcxtOVGc9rkPsmbtw) | [Bashir Abdel Aal: Master of Arabian Flute](https://open.spotify.com/album/5WiJ9bzESeuDxa0P6MmSt1) | 3:02 | 2024-01-17 |  |
 | [Astrakan Café \- 1](https://open.spotify.com/track/3w6Q4UYdUbAkwT4Plhh3Tp) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Astrakan Café](https://open.spotify.com/album/11AANoNamBHA1GwL2naAQb) | 3:15 | 2024-01-17 |  |

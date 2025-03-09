@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 184085,
+  "num_followers": 184162,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
+        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Verdammt Ich lieb' dich",
+      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Keine Homies",
         "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 122241,
       "name": "Keine Homies",
       "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
-        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Verdammt Ich lieb' dich",
-      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Irgendwie anders",
+        "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Kaum Erwarten",
+      "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Es ist Abend und wir sitzen bei mir",
         "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 176250,
       "name": "Liege wieder wach",
       "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Irgendwie anders",
-        "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
-      },
-      "artists": [
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Kaum Erwarten",
-      "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Zwischen meinen Zeilen (Deluxe)",
+        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Zu dir",
+      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "UDOPIUM - Das Beste (Special Edition)",
         "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 204291,
       "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
       "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Zwischen meinen Zeilen (Deluxe)",
-        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
-      },
-      "artists": [
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Zu dir",
-      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
+      },
+      "artists": [
+        {
+          "name": "Andreas Bourani",
+          "url": "https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "Ultraleicht",
+      "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "paris syndrom (dach session)",
         "url": "https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 170658,
       "name": "paris syndrom - dach session",
       "url": "https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Hey",
-        "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
-      },
-      "artists": [
-        {
-          "name": "Andreas Bourani",
-          "url": "https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "Ultraleicht",
-      "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
     },
     {
       "added_at": "2024-11-09 06:24:53",

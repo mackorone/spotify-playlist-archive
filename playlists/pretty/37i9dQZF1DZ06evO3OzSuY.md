@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,512 likes - 35 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,517 likes - 35 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 12 | [Rue's I'm Tired \(with Zendaya\)](https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:17 |
 | 13 | [Butterflies](https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:47 |
 | 14 | [Something To Dance For](https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Something to Dance For \(From "Shake It Up: Live 2 Dance"\)](https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le) | 2:43 |
-| 15 | [X \(feat\. Zendaya\)](https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:52 |
-| 16 | [Watch Me](https://open.spotify.com/track/6i2AmqDwaicOn2NGFsd5nn) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Cast of Shake It Up: Break It Down](https://open.spotify.com/artist/116v5BJngSpJcXNml0OPeu) | [Shake It Up: Break It Down](https://open.spotify.com/album/18c2h2tjmiJYSFVe144llF) | 2:55 |
+| 15 | [Watch Me](https://open.spotify.com/track/6i2AmqDwaicOn2NGFsd5nn) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Cast of Shake It Up: Break It Down](https://open.spotify.com/artist/116v5BJngSpJcXNml0OPeu) | [Shake It Up: Break It Down](https://open.spotify.com/album/18c2h2tjmiJYSFVe144llF) | 2:55 |
+| 16 | [X \(feat\. Zendaya\)](https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:52 |
 | 17 | [My Baby](https://open.spotify.com/track/3fdSRtcCW3Jkl4M7Dv4rGK) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:07 |
 | 18 | [Wonderful Questions](https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a) | [Channing Tatum](https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Smallfoot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9) | 2:12 |
 | 19 | [Swag It Out](https://open.spotify.com/track/1UQbzags87OFERvmaJw9yb) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Swag It Out \- Single](https://open.spotify.com/album/2nqXchNFJiwWRae1YHAlSg) | 3:12 |
-| 20 | [Fashion Is My Kryptonite \(from "Shake It Up: Made In Japan"\)](https://open.spotify.com/track/7H9vfjM5tu6TX2ClilT3u7) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Fashion Is My Kryptonite \(from "Shake It Up: Made In Japan"\)](https://open.spotify.com/album/0KeTEWCMTNGLKvgS4mj8C9) | 2:44 |
+| 20 | [Too Much](https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Too Much \(From “Zapped”\)](https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2) | 3:07 |
 | 21 | [Fireflies](https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 4:13 |
-| 22 | [Too Much](https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Too Much \(From “Zapped”\)](https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2) | 3:07 |
+| 22 | [Fashion Is My Kryptonite \(from "Shake It Up: Made In Japan"\)](https://open.spotify.com/track/7H9vfjM5tu6TX2ClilT3u7) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Fashion Is My Kryptonite \(from "Shake It Up: Made In Japan"\)](https://open.spotify.com/album/0KeTEWCMTNGLKvgS4mj8C9) | 2:44 |
 | 23 | [My Jam](https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [To Live For](https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5) | 3:50 |
 | 24 | [Remember Me \- From "Shake It Up"](https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Channel Play It Loud](https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT) | 3:03 |
 | 25 | [Scared](https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 2:57 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 34 | [I'm Back](https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:26 |
 | 35 | [My Jam \- Track Commentary](https://open.spotify.com/track/6iYBqmCFPD5HzWq9Bfyiab) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [My Jam \- Track Commentary](https://open.spotify.com/album/2J9D3akwEAUR4kfYHQvtww) | 2:24 |
 
-Snapshot ID: `Z8jlgAAAAACqjc15zrVzVwQRJJDA3cTL`
+Snapshot ID: `Z8o3AAAAAAAI/GlgXlIA34kIY/6SM2lv`

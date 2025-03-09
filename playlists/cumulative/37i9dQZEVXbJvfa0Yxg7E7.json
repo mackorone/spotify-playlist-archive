@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
@@ -972,7 +990,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -1945,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
       },
@@ -2888,7 +2924,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 107555,
       "name": "Badebussen (feat. Kjartan Lauritzen)",
       "url": "https://open.spotify.com/track/3LKrHeYXOEKNQQVl9auofC"
@@ -3348,6 +3384,28 @@
       "duration_ms": 167855,
       "name": "Beautiful Nightmare",
       "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
+    },
+    {
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
     },
     {
       "album": {
@@ -7217,6 +7275,24 @@
     },
     {
       "album": {
+        "name": "Dama Di (Fargeblind)",
+        "url": "https://open.spotify.com/album/24CXVs3eXAeYctRkMZKuCe"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146434,
+      "name": "Dama Di (Fargeblind)",
+      "url": "https://open.spotify.com/track/2Zuo6do5Eih7pmnHZ69GoA"
+    },
+    {
+      "album": {
         "name": "Damdiggida",
         "url": "https://open.spotify.com/album/0hUgd4d2fNZ1t7GctBDl9b"
       },
@@ -8426,10 +8502,32 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "album": {
@@ -13083,6 +13181,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239720,
+      "name": "Garden Of Eden",
+      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -13112,7 +13228,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 149939,
       "name": "Gassed",
       "url": "https://open.spotify.com/track/4EHOlCY87X7Tak4Ql8exiS"
@@ -13984,7 +14100,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -14542,6 +14658,28 @@
       "duration_ms": 156509,
       "name": "HALLO",
       "url": "https://open.spotify.com/track/1WjLQsbfei4kk9OaVxtfIB"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
       "album": {
@@ -16915,6 +17053,24 @@
     },
     {
       "album": {
+        "name": "HURT PEOPLE",
+        "url": "https://open.spotify.com/album/1nfmrIktUb1iSmMWf5HJSU"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190803,
+      "name": "HURTS NOW",
+      "url": "https://open.spotify.com/track/6MslNo3veVuM4XCX3O08s8"
+    },
+    {
+      "album": {
         "name": "hva om jeg slutta \u00e5 bry meg",
         "url": "https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b"
       },
@@ -16978,6 +17134,28 @@
       "duration_ms": 121629,
       "name": "Hva Vil Du",
       "url": "https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom"
+    },
+    {
+      "album": {
+        "name": "hvem kan seile foruten vind?",
+        "url": "https://open.spotify.com/album/4qcCIJbTFJUNY88g9tuMo3"
+      },
+      "artists": [
+        {
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+        },
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203693,
+      "name": "hvem kan seile foruten vind?",
+      "url": "https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq"
     },
     {
       "album": {
@@ -23320,7 +23498,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -26024,7 +26202,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 142509,
       "name": "Narco Freestyle",
       "url": "https://open.spotify.com/track/6abCeotQ2T6eFP2zTjW7WN"
@@ -31738,7 +31916,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 163142,
       "name": "Sees Igjen",
       "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
@@ -32247,6 +32425,24 @@
     },
     {
       "album": {
+        "name": "Singel til jeg d\u00f8r",
+        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142620,
+      "name": "Singel til jeg d\u00f8r",
+      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
+    },
+    {
+      "album": {
         "name": "Single Soon",
         "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
       },
@@ -32298,7 +32494,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 183747,
       "name": "Siren sounds (bonus)",
       "url": "https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa"
@@ -37286,7 +37482,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -37344,6 +37540,32 @@
       "duration_ms": 171940,
       "name": "Tipp Topp",
       "url": "https://open.spotify.com/track/6Xa36bTWPOC9ju4dQHguci"
+    },
+    {
+      "album": {
+        "name": "Tipp Topp Hum\u00f8r",
+        "url": "https://open.spotify.com/album/0DDszi5SJ6ooRqrKbRBxpf"
+      },
+      "artists": [
+        {
+          "name": "OnklP",
+          "url": "https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6"
+        },
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        },
+        {
+          "name": "Joddski",
+          "url": "https://open.spotify.com/artist/5tfrFbvyCsgWoKlXrAgGUD"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Tipp Topp Hum\u00f8r",
+      "url": "https://open.spotify.com/track/4jdqbnHs8xNf4NpkT2TT2r"
     },
     {
       "album": {
@@ -38110,7 +38332,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -38888,6 +39110,24 @@
       "duration_ms": 139516,
       "name": "Vanilj",
       "url": "https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "album": {
@@ -40320,7 +40560,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

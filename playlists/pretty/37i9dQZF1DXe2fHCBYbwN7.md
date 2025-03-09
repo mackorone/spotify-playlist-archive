@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 
 > The saddest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,705 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,768 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 | 20 | [Don't Leave Me Now](https://open.spotify.com/track/2Fc0uxBiHg5qIVyORYKrTV) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 1:59 |
 | 21 | [Broken Hearted Melody](https://open.spotify.com/track/5X4lsUAYrT5m0IyL6Xm8T5) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:23 |
 | 22 | [Prisoner Of Love](https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 3:04 |
-| 23 | [Blue Velvet](https://open.spotify.com/track/5sMVujBLwXJH9AjToNoSbH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [60 Years: The Artistry of Tony Bennett](https://open.spotify.com/album/4PEuqYJixNSCMotzbfmWNb) | 3:01 |
-| 24 | [Blue, Blue Day](https://open.spotify.com/track/4xWohADqZ5oFXcFOiC10l4) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [Oh Lonesome Me](https://open.spotify.com/album/3eF77ZXB0LzpodTAgPIK8a) | 1:53 |
+| 23 | [Blue, Blue Day](https://open.spotify.com/track/4xWohADqZ5oFXcFOiC10l4) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [Oh Lonesome Me](https://open.spotify.com/album/3eF77ZXB0LzpodTAgPIK8a) | 1:53 |
+| 24 | [Blue Velvet](https://open.spotify.com/track/5sMVujBLwXJH9AjToNoSbH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [60 Years: The Artistry of Tony Bennett](https://open.spotify.com/album/4PEuqYJixNSCMotzbfmWNb) | 3:01 |
 | 25 | [I Couldn't Sleep A Wink Last Night \- 1999 Remastered](https://open.spotify.com/track/4Hbk7bsJPmM0CkVOElCBdB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Close To You And More \(Remastered\)](https://open.spotify.com/album/0ntYrgH2CUtgdpuEsqKzEn) | 3:25 |
 | 26 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
 | 27 | [My Baby Left Me](https://open.spotify.com/track/1ZwHq094yOjH9hFYyouTOW) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 2:12 |

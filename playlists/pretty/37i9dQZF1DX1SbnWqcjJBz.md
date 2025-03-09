@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,350 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,393 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 56 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 |
 | 57 | [I’m Ready \(with Demi Lovato\)](https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I’m Ready \(with Demi Lovato\)](https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU) | 3:20 |
 | 58 | [Battlefield](https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Battlefield](https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt) | 4:01 |
-| 59 | [Dirty Talk](https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:17 |
+| 59 | [Holler](https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:15 |
 | 60 | [Lowlife](https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bubblebath](https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s) | 3:25 |
-| 61 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
-| 62 | [Holler](https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:15 |
+| 61 | [Dirty Talk](https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:17 |
+| 62 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 63 | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf) | 2:32 |
 | 64 | [Upside Down](https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Teen Spirit](https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF) | 3:17 |
 | 65 | [Daddy AF](https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Daddy AF](https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV) | 2:31 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 76 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |
 | 77 | [Radar](https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:48 |
 | 78 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |
-| 79 | [Somebody To Love](https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe) | [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Somebody To Love](https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9) | 3:32 |
-| 80 | [Sparks](https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Breathe In\. Breathe Out.](https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT) | 3:05 |
+| 79 | [Sparks](https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Breathe In\. Breathe Out.](https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT) | 3:05 |
+| 80 | [Somebody To Love](https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe) | [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Somebody To Love](https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9) | 3:32 |
 | 81 | [Braveheart](https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an) | [Neon Jungle](https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL) | [Welcome to the Jungle \(Deluxe\)](https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v) | 3:44 |
 | 82 | [Lost In My Bedroom](https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 3:14 |
 | 83 | [How to Be a Heartbreaker](https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 87 | [Want You In My Room](https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 2:46 |
 | 88 | [Somebody to Love Me](https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Business Intl](https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4) | [Record Collection](https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h) | 4:57 |
 | 89 | [Girl Gone Wild](https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA \(Deluxe Version\)](https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG) | 3:43 |
-| 90 | [SuperLove](https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SuperLove](https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU) | 3:13 |
-| 91 | [Hair Body Face](https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:22 |
+| 90 | [Hair Body Face](https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:22 |
+| 91 | [SuperLove](https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SuperLove](https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU) | 3:13 |
 | 92 | [A Public Affair](https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me) | 3:21 |
 | 93 | [American Girl](https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [American Girl](https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb) | 3:44 |
 | 94 | [Touch Me \(All Night Long\) \- 7" Mix](https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V) | [Cathy Dennis](https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp) | [Move To This \(Polydor Expanded Edition\)](https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c) | 3:29 |

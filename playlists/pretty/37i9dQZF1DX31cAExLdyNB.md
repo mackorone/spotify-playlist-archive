@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,890 likes - 69 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,910 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 47 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 | 48 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 |
 | 49 | [Viento](https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Viento](https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9) | 2:48 |
-| 50 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 |
-| 51 | [Digging Deeper](https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Digging Deeper](https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl) | 3:17 |
+| 50 | [Digging Deeper](https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Digging Deeper](https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl) | 3:17 |
+| 51 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 |
 | 52 | [The Look](https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi) | 4:37 |
 | 53 | [Heavy \(feat\. Your Smith\)](https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Heavy](https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA) | 3:22 |
 | 54 | [Catching Eyes](https://open.spotify.com/track/4GmMP0OFOFa1IyKAAloN1z) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/23e5nDOtNtNou7pfR431YI) | 4:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,334 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,298 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 47 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
 | 48 | [Dead Souls](https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:53 |
 | 49 | [Damnation Flame](https://open.spotify.com/track/3VZw8hjoUpHXg9k5jbzlcK) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:33 |
-| 50 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 |
-| 51 | [Lost Boys](https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Devils](https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc) | 3:23 |
+| 50 | [Lost Boys](https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Devils](https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc) | 3:23 |
+| 51 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 |
 | 52 | [Undead Ahead 2: The Tale of the Midnight Ride](https://open.spotify.com/track/4DQPKxM9mp70Nxz0FH051A) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 4:33 |
 | 53 | [Ghost On The Dance Floor](https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 4:17 |
 | 54 | [Halloween](https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:52 |

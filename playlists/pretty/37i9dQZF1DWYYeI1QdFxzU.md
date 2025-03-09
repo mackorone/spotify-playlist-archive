@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,622 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,624 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 33 | [One Last Stand](https://open.spotify.com/track/6Pz5Uucqu9D4XAysJMUxTA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [One Last Stand](https://open.spotify.com/album/0N38YlPeHTvHw9B8xf6rou) | 2:17 |
 | 34 | [Yorokobi](https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Yorokobi](https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw) | 2:17 |
 | 35 | [Sorrow Stutter](https://open.spotify.com/track/0HL6bNzpulo1DRLmPGG6uV) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Sorrow Stutter](https://open.spotify.com/album/39RPb0ePvso317NSsRmoNX) | 2:50 |
-| 36 | [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 |
-| 37 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
+| 36 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
+| 37 | [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 |
 | 38 | [Feel So Alive](https://open.spotify.com/track/6T72wSyvuUJgCc8EH5wRfw) | [Limelight Sound](https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi) | [Feel So Alive](https://open.spotify.com/album/3FU3PiQqpMQzsTgEwsoqtK) | 2:15 |
 | 39 | [Sunrise Song \- Luttrell Revisit](https://open.spotify.com/track/4ut30hNj4ye8hwkHcqbwXj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Sunrise Song \(Luttrell Revisit\)](https://open.spotify.com/album/4Uc9g6bHlSNL2NzWzd6vMh) | 3:04 |
 | 40 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 47 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
 | 48 | [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 |
 | 49 | [when you're around](https://open.spotify.com/track/1O5uSo8AZc1myGSsT9GTp6) | [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru) | [when you're around](https://open.spotify.com/album/1I8tbNiFDk4oMjIQQXnTon) | 3:12 |
-| 50 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
+| 50 | [Do It For You](https://open.spotify.com/track/4ZxdIXCycwS16uEaO4Mlby) | [Moses Ideka](https://open.spotify.com/artist/3wXkwKekKUy1Hfi60sxB8s), [phil](https://open.spotify.com/artist/7kPw0lfDERbzcrpz39TAMY) | [Do It For You](https://open.spotify.com/album/7pX0QNJsro8DaVrCBjVQHq) | 3:34 |
 
 Snapshot ID: `Z7dArwAAAADrrZrHIO9S4olVJy5Vm/xX`

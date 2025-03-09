@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,583 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,716 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 3 | [Mulher da Amazônia](https://open.spotify.com/track/2nkppTrdoS5Dztms7DvoJ0) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Mulher da Amazônia](https://open.spotify.com/album/2TCChPcM5XBSiEajXQhlgJ) | 3:41 |
 | 4 | [Príncipe Encantado](https://open.spotify.com/track/3xXCzYlV8U1Bin2tjVwGnX) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo que Conquistou o Brasil](https://open.spotify.com/album/0yjytTotHFUh68zECxBSIr) | 3:45 |
 | 5 | [Aquele Alguém \- Ao Vivo](https://open.spotify.com/track/1nAD91gB0vCiMUPS0D90tZ) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Aquele Alguém \(Ao Vivo\)](https://open.spotify.com/album/5exAOaD06kYTFxUfPDdLDp) | 2:54 |
-| 6 | [Eu Vou Te Deixa Ir](https://open.spotify.com/track/7c7MSxSjue7jKtdxl2lHDP) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Destino, Vol\. 2](https://open.spotify.com/album/1gilju6x25IA4Caw6o1vVl) | 2:45 |
+| 6 | [Eu Vou Te Deixar Ir](https://open.spotify.com/track/7c7MSxSjue7jKtdxl2lHDP) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Destino, Vol\. 2](https://open.spotify.com/album/1gilju6x25IA4Caw6o1vVl) | 2:45 |
 | 7 | [Príncipe Negro](https://open.spotify.com/track/51lvHVjDd4ZaqBfycAtDWm) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [A Rainha das Aparelhagens, Vol\. 3](https://open.spotify.com/album/3xR49vqFimEPnvt24en3E7) | 3:36 |
 | 8 | [Olha Bem pra Mim](https://open.spotify.com/track/5GUaslGmGrizqWohLhEcsN) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Olha Bem pra Mim](https://open.spotify.com/album/4Fy72e6MMBcGDIdE1wmI59) | 3:52 |
 | 9 | [Foi no Teu Olhar](https://open.spotify.com/track/1xRPZSsnyZOje2akLf3hKT) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Harrisson Lemos](https://open.spotify.com/artist/5iNIf91QnE9ViRRK6dSb70) | [Disparando o Sucesso Vol\. 5](https://open.spotify.com/album/59pwOf6MGXPUYSc1uT8SxG) | 3:46 |

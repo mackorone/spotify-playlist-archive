@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Hanumankind
 
-511 songs - 1 day 1 hr 57 min
+512 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 | 2022-07-27 |  |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-04-05 | 2024-08-02 |
 | [Circadian Rhythm](https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 2:06 | 2024-09-06 |  |
+| [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 | 2025-03-07 |  |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-27 | 2024-03-01 |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 | 2025-03-07 |  |
 | [Cobra](https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Cobra](https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl) | 2:48 | 2023-11-10 | 2023-12-14 |
@@ -136,7 +137,7 @@
 | [Diamonds](https://open.spotify.com/track/2bvA68s3IbxC7hEIkGYcuP) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Diamonds](https://open.spotify.com/album/5QmuMhvFICNvvRSYObZbtU) | 2:49 | 2022-07-27 | 2023-02-18 |
 | [Did It](https://open.spotify.com/track/0GVm96bQVgjUEcEm5C7NNH) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Did It](https://open.spotify.com/album/3g4pu5GNFWgYWwBlq0sfSt) | 2:44 | 2024-09-20 | 2024-10-21 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-12 | 2024-08-08 |
-| [Different Pattern](https://open.spotify.com/track/7fLCROqSZ6vqVAbuYZnjVT) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Different Pattern](https://open.spotify.com/album/4xGQkrkVUNM0X2tqjUdKze) | 1:50 | 2025-03-07 |  |
+| [DIFFERENT PATTERN](https://open.spotify.com/track/7fLCROqSZ6vqVAbuYZnjVT) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [DIFFERENT PATTERN](https://open.spotify.com/album/4xGQkrkVUNM0X2tqjUdKze) | 1:50 | 2025-03-07 |  |
 | [Dissin the Dead](https://open.spotify.com/track/5EeFkn825wcD3q2Tkk2vCu) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Dissin the Dead](https://open.spotify.com/album/4ls5UaYdO6EZHiry7sr8Po) | 3:48 | 2022-07-27 | 2022-11-05 |
 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-07-27 | 2022-09-24 |
 | [Do I \- Remix](https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Do I \(Remix\)](https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m) | 2:18 | 2023-12-22 |  |
@@ -153,7 +154,7 @@
 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2022-07-27 | 2023-09-19 |
 | [Ease](https://open.spotify.com/track/39qkz1q7TkelO5Eb6YTKOv) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 4:17 | 2023-02-23 | 2023-04-15 |
 | [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 | 2024-02-16 | 2024-05-24 |
-| [EKWE](https://open.spotify.com/track/35sIpW2RtmVPZLbSsQCyJF) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [EKWE](https://open.spotify.com/album/4NKJzYRQc1POilG4lil3IN) | 2:31 | 2024-11-15 |  |
+| [EKWE](https://open.spotify.com/track/35sIpW2RtmVPZLbSsQCyJF) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [EKWE](https://open.spotify.com/album/4NKJzYRQc1POilG4lil3IN) | 2:31 | 2024-11-15 | 2025-03-09 |
 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 | 2024-03-15 | 2024-09-10 |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-28 | 2023-08-08 |
 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 | 2023-12-22 | 2024-07-05 |

@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 47928,
+  "num_followers": 48009,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "Z8GdpQAAAACQx1TBvTjlwDtqjC34tvnA",
   "tracks": [
-    {
-      "added_at": "2025-02-28 11:27:33",
-      "album": {
-        "name": "Awuke",
-        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 172628,
-      "name": "Awuke",
-      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
-    },
     {
       "added_at": "2025-02-28 11:27:33",
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 157756,
       "name": "JUJU (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
+    },
+    {
+      "added_at": "2025-02-28 11:27:33",
+      "album": {
+        "name": "Awuke",
+        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
       "added_at": "2025-02-28 11:27:33",
@@ -171,22 +171,30 @@
     {
       "added_at": "2025-02-28 11:27:33",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+        "name": "Tshwala Bam (feat. S.N.E)",
+        "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
         },
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
         }
       ],
-      "duration_ms": 194040,
-      "name": "KANTE (feat. Fave)",
-      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
+      "duration_ms": 203571,
+      "name": "Tshwala Bam (feat. S.N.E)",
+      "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
       "added_at": "2025-02-28 11:27:33",
@@ -255,30 +263,22 @@
     {
       "added_at": "2025-02-28 11:27:33",
       "album": {
-        "name": "Tshwala Bam (feat. S.N.E)",
-        "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
       "artists": [
         {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Yuppe",
-          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 203571,
-      "name": "Tshwala Bam (feat. S.N.E)",
-      "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
+      "duration_ms": 194040,
+      "name": "KANTE (feat. Fave)",
+      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
     },
     {
       "added_at": "2025-02-28 11:27:33",
@@ -467,34 +467,6 @@
     {
       "added_at": "2025-02-28 11:27:33",
       "album": {
-        "name": "Feel D Mood",
-        "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
-      },
-      "artists": [
-        {
-          "name": "Outsyd DJ",
-          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Outsyd Eddie",
-          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
-        }
-      ],
-      "duration_ms": 133172,
-      "name": "Feel D Mood",
-      "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
-    },
-    {
-      "added_at": "2025-02-28 11:27:33",
-      "album": {
         "name": "Conse (feat. May D, Fatboy E & Smada)",
         "url": "https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC"
       },
@@ -523,6 +495,34 @@
       "duration_ms": 169411,
       "name": "Conse (feat. May D, Fatboy E & Smada)",
       "url": "https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV"
+    },
+    {
+      "added_at": "2025-02-28 11:27:33",
+      "album": {
+        "name": "Feel D Mood",
+        "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
+      },
+      "artists": [
+        {
+          "name": "Outsyd DJ",
+          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Outsyd Eddie",
+          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "duration_ms": 133172,
+      "name": "Feel D Mood",
+      "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
     },
     {
       "added_at": "2025-02-28 11:27:33",
@@ -827,46 +827,6 @@
     {
       "added_at": "2025-02-28 11:27:33",
       "album": {
-        "name": "Pawon Boy Vol.1",
-        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Dj 4kerty",
-          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
-    },
-    {
-      "added_at": "2025-02-28 11:27:33",
-      "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 143111,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
-    },
-    {
-      "added_at": "2025-02-28 11:27:33",
-      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -887,22 +847,22 @@
     {
       "added_at": "2025-02-28 11:27:33",
       "album": {
-        "name": "Pullover",
-        "url": "https://open.spotify.com/album/3tCwy6XbsVDTTq3Tif01Lx"
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
       },
       "artists": [
         {
-          "name": "sabrina",
-          "url": "https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         },
         {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 193835,
-      "name": "Pullover",
-      "url": "https://open.spotify.com/track/4mY467JUAY6RYm4NkuuBDc"
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
     },
     {
       "added_at": "2025-02-28 11:27:33",
@@ -943,6 +903,62 @@
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
+    },
+    {
+      "added_at": "2025-02-28 11:27:33",
+      "album": {
+        "name": "Pawon Boy Vol.1",
+        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Dj 4kerty",
+          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
+    },
+    {
+      "added_at": "2025-02-28 11:27:33",
+      "album": {
+        "name": "Pullover",
+        "url": "https://open.spotify.com/album/3tCwy6XbsVDTTq3Tif01Lx"
+      },
+      "artists": [
+        {
+          "name": "sabrina",
+          "url": "https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 193835,
+      "name": "Pullover",
+      "url": "https://open.spotify.com/track/4mY467JUAY6RYm4NkuuBDc"
+    },
+    {
+      "added_at": "2025-02-28 11:27:33",
+      "album": {
+        "name": "Orobo",
+        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 133285,
+      "name": "Orobo",
+      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
     },
     {
       "added_at": "2025-02-28 11:27:33",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2025-02-28 11:27:33",
       "album": {
-        "name": "Orobo",
-        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 133285,
-      "name": "Orobo",
-      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
-    },
-    {
-      "added_at": "2025-02-28 11:27:33",
-      "album": {
         "name": "Blessings (Alubarika) (feat. Soundz)",
         "url": "https://open.spotify.com/album/2G9y69aorCh1O6jfQATmfK"
       },
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-02-28 11:27:33",
       "album": {
-        "name": "My Brother",
-        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 158520,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     }
   ],
   "unique_name": "Keep Fit Club ",

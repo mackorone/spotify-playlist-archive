@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 
 > Thanks for another great year of CMA Fest! Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,125 likes - 93 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,131 likes - 93 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

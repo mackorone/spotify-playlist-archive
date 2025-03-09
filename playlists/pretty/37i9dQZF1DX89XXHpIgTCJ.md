@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,235 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,296 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 38 | [Wicked \(feat\. Chino Moreno\)](https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 4:00 |
 | 39 | [Game On \(feat\. Good Charlotte\) \- From "Pixels \- The Movie"](https://open.spotify.com/track/2qUTxCqJW2Irez1eYZcGNx) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Game On \(feat\. Good Charlotte\) \[from "Pixels \- The Movie"\]](https://open.spotify.com/album/45qTcdlqFuZfj25pnYxeVL) | 3:47 |
 | 40 | [I Love You Mary Jane](https://open.spotify.com/track/4eObWNJwTvfQe66wIzfHjb) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Judgment Night](https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh) | 3:49 |
-| 41 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 |
-| 42 | [It's Goin' Down \(feat\. Mike Shinoda & Mr\. Hahn\)](https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq) | [X\-Ecutioners](https://open.spotify.com/artist/7eVbT3G1ggf2sz6s7ZV0Ap), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Mr\. Hahn](https://open.spotify.com/artist/73yonhSeG9UY7shqUfk6cd) | [Built From Scratch](https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv) | 4:08 |
+| 41 | [It's Goin' Down \(feat\. Mike Shinoda & Mr\. Hahn\)](https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq) | [X\-Ecutioners](https://open.spotify.com/artist/7eVbT3G1ggf2sz6s7ZV0Ap), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Mr\. Hahn](https://open.spotify.com/artist/73yonhSeG9UY7shqUfk6cd) | [Built From Scratch](https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv) | 4:08 |
+| 42 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 |
 | 43 | [Wretches and Kings](https://open.spotify.com/track/5U4RjLvUsjYaKu1dKWzSsP) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 4:10 |
 | 44 | [The Mighty Fall](https://open.spotify.com/track/4rNOFJdwQq0ulVDKOF447L) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:32 |
 | 45 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |

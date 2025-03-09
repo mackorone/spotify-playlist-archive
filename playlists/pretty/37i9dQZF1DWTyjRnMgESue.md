@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Sydney Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,402 likes - 78 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,434 likes - 78 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 3 | [Smoker](https://open.spotify.com/track/2oOvlOt5LtDLTYHeGUVhq1) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Smoker](https://open.spotify.com/album/6WWsQ3L08foDx5WdI6qOwe) | 4:08 |
 | 4 | [generations in the making](https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [if i'm honest for once](https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM) | 4:17 |
 | 5 | [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 |
-| 6 | [Think About It](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Think About It](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
+| 6 | [Think About It](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
 | 7 | [KISSING](https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/5l746yNWWESUlLuveqla2p) | 2:40 |
 | 8 | [Good Love Die](https://open.spotify.com/track/1U0nCqVolsvRmTianW7H8w) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Good Love Die](https://open.spotify.com/album/3G0ExGf9uPg10OOL2VBHUD) | 3:27 |
 | 9 | [Call of Duty](https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Achilles](https://open.spotify.com/album/5baUTzkWiIeFGyEWFAMYB7) | 3:11 |

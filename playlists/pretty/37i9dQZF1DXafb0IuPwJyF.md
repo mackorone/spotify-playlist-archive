@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: HANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 966,295 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,411 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drop](https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Drop](https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E) | 2:28 |
 | 2 | [NG](https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [NG](https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw) | 2:51 |
-| 3 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 |
+| 3 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
 | 4 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 |
 | 5 | [Eureka](https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Eureka](https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL) | 3:31 |
 | 6 | [masshiro \(pure white\)](https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [masshiro \(pure white\)](https://open.spotify.com/album/6YChKs8gVLOWqQhmUyybOg) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [ビーナスバグ](https://open.spotify.com/track/3f8zEj3BQlGAVtJtErWLqF) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [新星目録](https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z) | 2:49 |
 | 50 | [GOD\_i](https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOD\_i](https://open.spotify.com/album/4fU7LKsNvfSiqBWreDtW1I) | 3:35 |
 
-Snapshot ID: `Z8cVhwAAAAAmEeZPKeLhFv1cGJJnj8iS`
+Snapshot ID: `Z8u09gAAAABvJZLLKreONYp7pCUmoAwA`

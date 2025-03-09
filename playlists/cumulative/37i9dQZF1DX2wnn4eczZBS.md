@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Joost & Spinvis
 
-164 songs - 8 hr 38 min
+165 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Heilige Nacht](https://open.spotify.com/track/0bMRaBlTh2DgbayK6qebQi) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Heilige Nacht](https://open.spotify.com/album/3Q1VNqBxfb7yuLoqzlO1TU) | 3:12 | 2025-01-10 |  |
 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 | 2024-10-24 |  |
 | [Het Outro](https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Het Outro](https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY) | 3:20 | 2024-11-07 |  |
+| [Het Vliegt Voorbij](https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Vliegt Voorbij](https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl) | 2:43 | 2025-03-07 |  |
 | [Hotel de Goudfazanten](https://open.spotify.com/track/3k10pBkw1BbRf7gUmWARQM) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Hotel de Goudfazanten](https://open.spotify.com/album/5c3FvmDVsg3K2dNpWZGS6X) | 3:21 | 2024-10-11 | 2025-01-11 |
 | [Hou ik te weinig van mezelf](https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Hou ik te weinig van mezelf](https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0) | 2:24 | 2024-06-26 | 2024-09-10 |
 | [Huisje Boompje Hypotheek](https://open.spotify.com/track/1FFpBCHbDsFFoEODQvG9g1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Huisje Boompje Hypotheek](https://open.spotify.com/album/3Ga4adTPm86fH9534gf98J) | 3:04 | 2024-06-26 | 2024-07-27 |
@@ -117,7 +118,7 @@
 | [Nieuw Begin](https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Naamloze Liefde](https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw) | 2:37 | 2025-01-10 |  |
 | [Odysseus](https://open.spotify.com/track/0ejJdwdiL6zfFzZc7E1NqL) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [Odysseus](https://open.spotify.com/album/3d0vgaxBeSvrstgy2fVNXQ) | 3:26 | 2024-06-26 | 2024-10-23 |
 | [Onderaan](https://open.spotify.com/track/5Pj28CGATQQ78LsVJ1ug5d) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Onderaan](https://open.spotify.com/album/4AcHfI9uHulK73ES6fyE0r) | 4:33 | 2025-02-07 | 2025-03-02 |
-| [Onzichtbaar](https://open.spotify.com/track/6MadE1DxKrKN5QeUz5dz4M) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Onzichtbaar](https://open.spotify.com/album/5wHDgUd0gH8yXuiezp97pf) | 2:47 | 2025-01-16 |  |
+| [Onzichtbaar](https://open.spotify.com/track/6MadE1DxKrKN5QeUz5dz4M) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Onzichtbaar](https://open.spotify.com/album/5wHDgUd0gH8yXuiezp97pf) | 2:47 | 2025-01-16 | 2025-03-09 |
 | [Oog om Oog \(feat\. Spinvis\)](https://open.spotify.com/track/58eFsIty3d3vyNRmM9q9T7) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Oog om Oog \(feat\. Spinvis\)](https://open.spotify.com/album/5x5WE4VmjdXv7kLI1HIdOG) | 4:22 | 2024-06-26 | 2024-10-10 |
 | [Perfect voor een Ander](https://open.spotify.com/track/7g5D5cjHsmhb9yE1w43EB8) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Perfect voor een Ander](https://open.spotify.com/album/5xoTPUULJamW9d0p05zTMX) | 2:51 | 2024-07-05 | 2024-11-15 |
 | [platland](https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [platland](https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC) | 3:26 | 2024-08-29 |  |

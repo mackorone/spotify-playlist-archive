@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,620 likes - 51 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,685 likes - 51 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 12 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
 | 13 | [Praying for Time \- Remastered](https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 |
 | 14 | [Kissing a Fool \- Remastered](https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:40 |
-| 15 | [Roxanne](https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:11 |
+| 15 | [You Have Been Loved](https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:30 |
 | 16 | [A Different Corner](https://open.spotify.com/track/1Tb9OskLklgUMb0tUBJwRy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:03 |
 | 17 | [Waiting for That Day \- Remastered](https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:49 |
-| 18 | [You Have Been Loved](https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:30 |
-| 19 | [Too Funky \- Single Edit](https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:50 |
+| 18 | [Too Funky \- Single Edit](https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:50 |
+| 19 | [Roxanne](https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:11 |
 | 20 | [Outside](https://open.spotify.com/track/6SfWgcAHkQo3SMRvRIzJm6) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:43 |
-| 21 | [Miss Sarajevo](https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:10 |
-| 22 | [Spinning the Wheel](https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:21 |
-| 23 | [Heal the Pain \- Remastered](https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 |
+| 21 | [Spinning the Wheel](https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:21 |
+| 22 | [Heal the Pain \- Remastered](https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 |
+| 23 | [Miss Sarajevo](https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:10 |
 | 24 | [Killer / Papa Was a Rollin' Stone](https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:15 |
 | 25 | [I Can't Make You Love Me \- Studio Version](https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 5:18 |
 | 26 | [Older](https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 50 | [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 |
 | 51 | [Brother Can You Spare a Dime?](https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:23 |
 
-Snapshot ID: `Z8jlgAAAAABNjXTOn3YIPpOlkw3ezPYX`
+Snapshot ID: `Z8o3AAAAAAALuOTp95Gbz9znCrrCTf+D`

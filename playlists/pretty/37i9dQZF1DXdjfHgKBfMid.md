@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 
 > 💃🏽🕺🏼🪇🎺🪘
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,795 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,805 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 17 | [Linda \- Remix](https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Linda \(Remix\)](https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb) | 3:54 |
 | 18 | [Entre Beso y Beso](https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Entre Beso y Beso](https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a) | 2:33 |
 | 19 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 |
-| 20 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
+| 20 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
 | 21 | [Te Mentiría](https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:38 |
 | 22 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 |
 | 23 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,170 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,173 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 20 | [Rather Be Alone](https://open.spotify.com/track/5zAjGORs9r1VGXv9rrgCPw) | [The Rhythm Shakers](https://open.spotify.com/artist/6mlUdYWiqDyrAVDHwddCkQ) | [Voodoo](https://open.spotify.com/album/15AyjB0TYLriPym8G87vLI) | 2:24 |
 | 21 | [C’Mon Everybody](https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 1:56 |
 | 22 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:13 |
-| 23 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 |
-| 24 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
+| 23 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
+| 24 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 |
 | 25 | [Depression](https://open.spotify.com/track/28vMuX0gRJMeIhGaW0cQPn) | [The Hillbilly Moon Explosion](https://open.spotify.com/artist/2osRW41mzIig6TuqQeNsJR) | [With Monsters and Gods](https://open.spotify.com/album/5ejGluFtTbkWyVTRY7LU5z) | 2:08 |
 | 26 | [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 |
 | 27 | [Another Sunday Morning](https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 2:40 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 55 | [Far Too Far Away](https://open.spotify.com/track/26LN2TRg48VT6qKVo5O7Wt) | [Cat Lee King & His Cocks](https://open.spotify.com/artist/0TW61xr4ymSp2KxgiBXRJT) | [Cock Tales](https://open.spotify.com/album/0R9uSz4xu1Vxqpxp5sK52O) | 2:37 |
 | 56 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
 | 57 | [Wild Saxophone](https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:01 |
-| 58 | [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 |
-| 59 | [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 |
-| 60 | [Good Rockin' Boogie](https://open.spotify.com/track/7yV2BSU9Nmnw1xv1ldozhJ) | [Sleepy LaBeef](https://open.spotify.com/artist/4TWlhLMKfoIXqJOYxwKhdf) | [Rockabilly 1977](https://open.spotify.com/album/6wCq4bDPpN1sr9KtXq3vYf) | 1:52 |
+| 58 | [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 |
+| 59 | [Forever](https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:41 |
+| 60 | [Oh Baby](https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd) | 2:40 |
 
 Snapshot ID: `Z8lhngAAAAD3Jh2DPN+yRRawy8kOsY2G`

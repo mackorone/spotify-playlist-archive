@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 130258,
+  "num_followers": 130305,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAAtvZqhkzXohUOVnsfsffHm",
+  "snapshot_id": "Z8o3AAAAAAAxSf1OUr0eS0qR/T2fI4Vk",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 282546,
-      "name": "Promise Me",
-      "url": "https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance With My Father",
         "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 304666,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 282546,
+      "name": "Promise Me",
+      "url": "https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 384746,
-      "name": "Better Love",
-      "url": "https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance With My Father",
         "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 385506,
       "name": "The Closer I Get to You (feat. Beyonc\u00e9 Knowles)",
       "url": "https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 384746,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Night With You: The Best Of Love, Volume 2",
-        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 264746,
-      "name": "One Night With You (Everyday of Your Life)",
-      "url": "https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever, For Always, For Love",
         "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 382920,
       "name": "Forever, for Always, for Love",
       "url": "https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Night With You: The Best Of Love, Volume 2",
+        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 264746,
+      "name": "One Night With You (Everyday of Your Life)",
+      "url": "https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c"
     },
     {
       "added_at": null,

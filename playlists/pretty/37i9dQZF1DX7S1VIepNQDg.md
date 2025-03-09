@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,341 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,342 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 27 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
 | 28 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 |
 | 29 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 |
-| 30 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 |
-| 31 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 |
+| 30 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 |
+| 31 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 |
 | 32 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 |
 | 33 | [Ant Pile](https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ant Pile](https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4) | 2:06 |
 | 34 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 |
 | 35 | [Good Enough](https://open.spotify.com/track/4ip14QnIGPERqjdiDqU6a0) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:02 |
-| 36 | [Still Have Room](https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Still Have Room](https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1) | 2:22 |
-| 37 | [Rhinestone 1.7.2 \[2018 Export Wav\] feat\. Isabella Manfredi](https://open.spotify.com/track/06gtPF7fljlItis2PohQP0) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:53 |
-| 38 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 |
+| 36 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 |
+| 37 | [Still Have Room](https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Still Have Room](https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1) | 2:22 |
+| 38 | [Rhinestone 1.7.2 \[2018 Export Wav\] feat\. Isabella Manfredi](https://open.spotify.com/track/06gtPF7fljlItis2PohQP0) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:53 |
 | 39 | [Sunshine](https://open.spotify.com/track/1Q9j9J64lNWMJPuKP3Wd14) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:15 |
 | 40 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
 | 41 | [Reelin'](https://open.spotify.com/track/0HbCokHXRLW8xEuvkiEfRm) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/3wZ0ouF94SRD7EwX2NI4h0) | 3:28 |

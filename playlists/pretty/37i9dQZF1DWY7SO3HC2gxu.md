@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa\. Cover: Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,660 likes - 90 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,674 likes - 90 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wale Wale](https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wale Wale](https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1) | 5:17 |
-| 2 | [Rattlesnake \- Radio Edit](https://open.spotify.com/track/5j7Y6BNujbpkmsCdRT4Q6n) | [Aahil](https://open.spotify.com/artist/7p8qDVof1pxZoldqfG3Se3), [Dylan\-S](https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O), [Cordoban](https://open.spotify.com/artist/4PNhlUC7uWuIdN44pobkoz) | [Rattlesnake \(Radio Edit\)](https://open.spotify.com/album/3u0ukS6I1XMlwLxUBlf6VV) | 4:06 |
+| 2 | [Rattlesnake](https://open.spotify.com/track/5j7Y6BNujbpkmsCdRT4Q6n) | [Aahil](https://open.spotify.com/artist/7p8qDVof1pxZoldqfG3Se3), [Dylan\-S](https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O), [Cordoban](https://open.spotify.com/artist/3IcPBOoE1lbDlX8Uh5yoqH) | [Rattlesnake](https://open.spotify.com/album/3u0ukS6I1XMlwLxUBlf6VV) | 4:06 |
 | 3 | [Wangui](https://open.spotify.com/track/1tITCqfRxbgxLW4YfytIlr) | [keyløud](https://open.spotify.com/artist/5C4b6m5tGXVChiVSa6JaK2), [Lonely Night](https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx), [Salim Junior](https://open.spotify.com/artist/5K04mWdbeyhjWcFUiVL5zh) | [Wangui](https://open.spotify.com/album/5mE1CrPOpWF3gST3iKEvXO) | 3:18 |
 | 4 | [Songa Songa](https://open.spotify.com/track/6Fkmp0WvgM0KWFodJQXg7y) | [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql), [Tefo Foxx](https://open.spotify.com/artist/4lbSJYKEwAaBPoQNIjdljh), [Fadhilee](https://open.spotify.com/artist/0jrOqe6KcVhhuUl3BsdAZJ) | [Songa Songa](https://open.spotify.com/album/4hiWoWjU84qVDcoERuRRzW) | 3:37 |
 | 5 | [Digathie](https://open.spotify.com/track/6ozszwBNyUHATidupX3WHW) | [RAYZ](https://open.spotify.com/artist/75NLfElJ44AsJo5M5raDH6), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Digathie](https://open.spotify.com/album/1a57j93aQcQIfWZeCC33zr) | 4:56 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 42854,
+  "num_followers": 42859,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAANuYrVyZQ8X3exjj0qRp1H",
+  "snapshot_id": "Z8o3AAAAAAC0XwihAD7vFJqU8WcDb6q2",
   "tracks": [
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "coRaZ\u00d3n fR\u00edO",
-        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "coRaZ\u00d3n fR\u00edO",
-      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "tqum (feat. Kim Petras) [Remix]",
         "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 149589,
       "name": "tqum (feat. Kim Petras) - Remix",
       "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "coRaZ\u00d3n fR\u00edO",
+        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 204633,
+      "name": "coRaZ\u00d3n fR\u00edO",
+      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuevos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe"
-      },
-      "artists": [
-        {
-          "name": "Carlos Zaur",
-          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 194954,
-      "name": "Duele Tanto",
-      "url": "https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sped Up Songs Vol. 1",
         "url": "https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 170765,
       "name": "1, 2, 3 - Sped Up",
       "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuevos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Zaur",
+          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 194954,
+      "name": "Duele Tanto",
+      "url": "https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p"
     },
     {
       "added_at": null,

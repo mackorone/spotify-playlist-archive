@@ -4,7 +4,7 @@
 
 > Feel the spirit of Ramadan with Amdah and Anashid songs.
 
-158 songs - 8 hr 18 min
+159 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Shahr Ramadan](https://open.spotify.com/track/1eKfU40hKG21tJz0J8VgMW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [El Ganna Fi Beyoutna](https://open.spotify.com/album/0wOv5sjQ2MM0rkgpX4qKFx) | 1:47 | 2024-03-11 | 2024-04-09 |
 | [Shalawatul Fathilah](https://open.spotify.com/track/1DMVxWECl7MH3cdGHkSqF2) | [Raihan](https://open.spotify.com/artist/0wWm1rOeaLQ4jkLpn8tmTt) | [The Spirit of Shalawat](https://open.spotify.com/album/58xi5vzp02AeFFo5I0Vey8) | 5:03 | 2025-01-28 |  |
 | [Shalawatul Fathilah](https://open.spotify.com/track/66OQfujyetSoPMTeTFf0SV) | [Raihan](https://open.spotify.com/artist/0wWm1rOeaLQ4jkLpn8tmTt) | [The Spirit of Shalawat](https://open.spotify.com/album/4HA6gNFD8CHrbCKE23sb0h) | 5:05 | 2024-03-11 | 2024-04-09 |
+| [Shokran Ya Rab](https://open.spotify.com/track/3uOPqVKXqNvolcaX2Gq73y) | [Magd El Kassem](https://open.spotify.com/artist/0tz11jY18zha2FDFurzaAS) | [Shokran Ya Rab](https://open.spotify.com/album/4CX55j0G6IWDBnibn2xLGR) | 2:02 | 2025-03-07 |  |
 | [Siraj Al\-Medina \- Arabic & Turkish](https://open.spotify.com/track/5UBv9IyyeXWeuBzGQcmxXp) | [Murat Belet](https://open.spotify.com/artist/1aGDQkLy73SE8pPwdkZAxn), [Ali Magrebi](https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN) | [Siraj Al\-Medina](https://open.spotify.com/album/44eX3kbYvSqLsGjkDjRrMw) | 2:53 | 2024-03-11 |  |
 | [Sobhanak](https://open.spotify.com/track/0ITQTpYV1ITZXotaUz7fNs) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs) | [Sobhanak](https://open.spotify.com/album/27CvW6MmQ4JZYMZAP098IQ) | 4:52 | 2024-03-11 |  |
 | [Tasbih](https://open.spotify.com/track/0OrThl2QQEzkqqJMb68JG0) | [Ayisha Abdul Basith](https://open.spotify.com/artist/5CK0g8yxcuauorabPxsA5K) | [Tasbih](https://open.spotify.com/album/0hXU1iLKtaUb3pviwtvxjD) | 3:24 | 2024-03-11 |  |
@@ -156,7 +157,7 @@
 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 | 2024-04-08 | 2025-01-29 |
 | [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 | 2024-04-08 | 2024-04-19 |
 | [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2024-04-10 | 2025-01-29 |
-| [مفيش غيرك احن يارب](https://open.spotify.com/track/7oYnLRqYvPnnQRElg6XY2j) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [مفيش غيرك احن يارب](https://open.spotify.com/album/4JH9w7bp3W2Iba6T7umPxS) | 2:37 | 2024-03-11 |  |
+| [مفيش غيرك احن يارب](https://open.spotify.com/track/7oYnLRqYvPnnQRElg6XY2j) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [مفيش غيرك احن يارب](https://open.spotify.com/album/4JH9w7bp3W2Iba6T7umPxS) | 2:37 | 2024-03-11 | 2025-03-09 |
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/5PTcKJsd0jFJtSf5GhE6IF) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة](https://open.spotify.com/album/2TjoHRwrTEce1SJZBkZFXn) | 2:47 | 2024-04-08 | 2025-01-29 |
 | [هل هلالك يا رمضان](https://open.spotify.com/track/1QW644IFwYjUP46aS7Dik3) | [Al Wasmi](https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9) | [هل هلالك يا رمضان](https://open.spotify.com/album/7Ezl1DqSaOvXKUkbdFcgP5) | 1:28 | 2024-03-11 |  |
 | [هنغني كمان وكمان](https://open.spotify.com/track/1bVHiY8JtZGhXcrmYVd2QC) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [صاحبة رأي](https://open.spotify.com/album/4PxfvkleMJtcPnDFtKvQ9W) | 3:46 | 2024-04-08 | 2024-04-19 |

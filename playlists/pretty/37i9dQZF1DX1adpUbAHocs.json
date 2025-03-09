@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 660795,
+  "num_followers": 660790,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Timeline",
-        "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
+        "name": "Reunions",
+        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
       },
       "artists": [
         {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
         }
       ],
-      "duration_ms": 332585,
-      "name": "Timeline",
-      "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
+      "duration_ms": 224034,
+      "name": "Dreamsicle",
+      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Reunions",
-        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
+        "name": "Timeline",
+        "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
       },
       "artists": [
         {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
         }
       ],
-      "duration_ms": 224034,
-      "name": "Dreamsicle",
-      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
+      "duration_ms": 332585,
+      "name": "Timeline",
+      "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Where'd All the Time Go",
         "url": "https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 241023,
       "name": "Where'd All the Time Go",
       "url": "https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Foxwarren",
+        "url": "https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp"
+      },
+      "artists": [
+        {
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "Sunset Canyon",
+      "url": "https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Don't Do Me Good",
         "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Foxwarren",
-        "url": "https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp"
-      },
-      "artists": [
-        {
-          "name": "Foxwarren",
-          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
-        }
-      ],
-      "duration_ms": 260093,
-      "name": "Sunset Canyon",
-      "url": "https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Lost Track",
+        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Lost Track",
+      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
         "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 197474,
       "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
       "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Lost Track",
-        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Lost Track",
-      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Speed, Sound, Lonely KV (ep)",
         "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 315080,
       "name": "Speed of the Sound of Loneliness",
       "url": "https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "8th Wonder",
         "url": "https://open.spotify.com/album/5GA9VdRshqKOSOdAEPYG0b"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 226116,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/3wCgdTY19EGEvBVdz2yZ9s"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
     },
     {
       "added_at": "2024-07-05 20:58:56",

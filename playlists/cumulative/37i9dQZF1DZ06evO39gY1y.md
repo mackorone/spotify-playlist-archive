@@ -4,7 +4,7 @@
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 52 min
+82 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Empapelado](https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Empapelado](https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei) | 3:41 | 2023-11-10 |  |
 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 | 2023-11-10 |  |
 | [Esta Noche](https://open.spotify.com/track/5vS3tfCF9cEnK32q7YrVNs) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:12 | 2023-11-10 |  |
+| [Graciela / "Carta a Mi Abuela"](https://open.spotify.com/track/1yZZsjAwvLfeHdOIEdlHGR) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Brujas y Otros Hábitos](https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd) | 2:52 | 2025-03-09 |  |
 | [Guapa!](https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Slim](https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP) | [Guapa!](https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo) | 5:14 | 2023-11-10 |  |
 | [Hace Tanto Tiempo](https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:39 | 2023-11-10 |  |
 | [Hasta Que la Muerte Nos Separe](https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Hasta Que la Muerte Nos Separe](https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb) | 3:52 | 2023-11-10 |  |

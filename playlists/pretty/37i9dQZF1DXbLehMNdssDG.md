@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,250 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,293 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 42 | [Breathing](https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Breathing](https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW) | 2:30 |
 | 43 | [Chakra](https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Chakra](https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD) | 2:10 |
 | 44 | [Dream Spheres](https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Dream Spheres](https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD) | 4:25 |
-| 45 | [Star Above Parvati](https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Star Above Parvati](https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k) | 3:04 |
-| 46 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 |
+| 45 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 |
+| 46 | [Star Above Parvati](https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Star Above Parvati](https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k) | 3:04 |
 | 47 | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/track/3mmo00VwW1NzRcK6QsfsF9) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/album/4uEYqgYfHUab4CsoioqaAn) | 2:50 |
-| 48 | [Continuing Endlessly](https://open.spotify.com/track/0IiVkUz6EE1a9OgUMr9KXB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Continuing Endlessly](https://open.spotify.com/album/0q25lL0bB1GKES6cqr15NI) | 3:03 |
-| 49 | [Courageous Healing \- 174 Hz](https://open.spotify.com/track/4XTFF9BX7qfWjTNSmydBNl) | [Sleep Sound Hub](https://open.spotify.com/artist/0eQbWfd6C8ygIpoWvUQHJY) | [Courageous Healing \- 174 Hz](https://open.spotify.com/album/4Il09onZqCgQ5keq6X1tim) | 2:27 |
+| 48 | [Courageous Healing \- 174 Hz](https://open.spotify.com/track/4XTFF9BX7qfWjTNSmydBNl) | [Sleep Sound Hub](https://open.spotify.com/artist/0eQbWfd6C8ygIpoWvUQHJY) | [Courageous Healing \- 174 Hz](https://open.spotify.com/album/4Il09onZqCgQ5keq6X1tim) | 2:27 |
+| 49 | [Continuing Endlessly](https://open.spotify.com/track/0IiVkUz6EE1a9OgUMr9KXB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Continuing Endlessly](https://open.spotify.com/album/0q25lL0bB1GKES6cqr15NI) | 3:03 |
 | 50 | [Vibrating with Calm \- 285 Hz](https://open.spotify.com/track/1geG3OimV05iMnChjbWdyz) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Vibrating with Calm \- 285 Hz](https://open.spotify.com/album/1KWtye7sNbmjGvqyrJVZEj) | 2:20 |
 
 Snapshot ID: `Zs80WgAAAAAMm4wTEF5Gpj+MiHkyES5i`

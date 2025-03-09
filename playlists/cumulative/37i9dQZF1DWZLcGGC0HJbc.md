@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-138 songs - 8 hr 9 min
+139 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [I Don't Believe in Loss](https://open.spotify.com/track/2aoY4HdLifNtBstsyNt0Cg) | [Lucas Laufen](https://open.spotify.com/artist/19gboEzhj5N9maAsyg3TkW) | [I Don't Believe in Loss](https://open.spotify.com/album/0whqdcQ6pZ7v0pC713ZOqc) | 3:19 | 2024-06-27 | 2024-07-19 |
 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-06-27 | 2024-12-19 |
 | [I Dream of An Island](https://open.spotify.com/track/2t0qGhf56y8gJ3fz60JpDN) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [I Dream of An Island](https://open.spotify.com/album/1XKOOMZRIN7hCbwm1hwDRs) | 3:18 | 2024-12-18 | 2025-01-31 |
-| [I Love You](https://open.spotify.com/track/331cDftoOsSIHQFEoW20k1) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Love You / Greyhound Station](https://open.spotify.com/album/4OTg2qCDAhhlFrhPLjGJF7) | 3:58 | 2025-02-20 |  |
+| [I Love You](https://open.spotify.com/track/331cDftoOsSIHQFEoW20k1) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Love You / Greyhound Station](https://open.spotify.com/album/4OTg2qCDAhhlFrhPLjGJF7) | 3:58 | 2025-02-20 | 2025-03-09 |
 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 | 2024-08-29 |  |
 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 | 2024-10-22 |  |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2024-06-27 | 2024-12-19 |
@@ -115,6 +115,7 @@
 | [Rust.](https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Rust.](https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU) | 3:35 | 2025-01-23 |  |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-19 |  |
 | [Same Train](https://open.spotify.com/track/68kOKBGVtfygCkxbquTG5D) | [Heart Shaped](https://open.spotify.com/artist/3Ivs2ffC6O6pfCJuTzAj11), [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Same Train](https://open.spotify.com/album/53kAWzQODCcQygVjIfQJJQ) | 4:32 | 2025-01-23 | 2025-01-30 |
+| [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 | 2025-03-07 |  |
 | [Science](https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Science](https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP) | 3:55 | 2025-01-27 |  |
 | [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 | 2024-06-27 |  |
 | [Shoulders Knees](https://open.spotify.com/track/7z8SS9zjHCO0R87ZpWmsoz) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Shoulders Knees](https://open.spotify.com/album/2oiusrsL6SM0BHoLXJY28O) | 4:41 | 2024-06-27 | 2024-12-21 |

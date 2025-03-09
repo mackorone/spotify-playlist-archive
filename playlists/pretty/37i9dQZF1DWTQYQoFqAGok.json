@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 62582,
+  "num_followers": 62587,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
     },
     {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Jazztepec",
-      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
@@ -407,6 +391,22 @@
       "duration_ms": 148786,
       "name": "Charleston",
       "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+    },
+    {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Jazztepec",
+      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
-      },
-      "artists": [
-        {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
-        }
-      ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+      },
+      "artists": [
+        {
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+        }
+      ],
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -841,24 +841,32 @@
       "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
     },
     {
-      "added_at": "2023-04-13 19:45:15",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Calladito Te Ves Mejor",
-        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/1OO7YDQAmbhblQPXRUNBzU"
       },
       "artists": [
         {
-          "name": "La Berm\u00fadez",
-          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
+          "name": "Israel Cupich",
+          "url": "https://open.spotify.com/artist/2t9XirPShcuGdlxerMuPlK"
         },
         {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+          "name": "Roberto Ver\u00e1stegui",
+          "url": "https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa"
+        },
+        {
+          "name": "Jahaziel Arrocha",
+          "url": "https://open.spotify.com/artist/5trOtil7K2FmvGWSf4FiqP"
+        },
+        {
+          "name": "Pedro Cervera",
+          "url": "https://open.spotify.com/artist/1lKxZeH7ZVKj8uITI8D70s"
         }
       ],
-      "duration_ms": 236419,
-      "name": "Calladito Te Ves Mejor",
-      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
+      "duration_ms": 244040,
+      "name": "Centro-Norte",
+      "url": "https://open.spotify.com/track/6MIh0n7W9dCGGA5NanrekF"
     },
     {
       "added_at": "2024-08-29 03:09:23",

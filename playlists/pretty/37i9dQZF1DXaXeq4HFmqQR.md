@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen: un homenaje a Violeta Parra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,129 likes - 35 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,326 likes - 35 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 22 | [Tu Isla](https://open.spotify.com/track/3gDgHQ0o6d4QFGh8Uo1jSF) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Humboldt](https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6) | [Tu Isla](https://open.spotify.com/album/78d7xBJ5aj3JHBCHJObniR) | 4:42 |
 | 23 | [Barquito de Papel](https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj) | [Elizabeth Morris](https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi) | [Los Ojos del Corazón](https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b) | 3:51 |
 | 24 | [Colibrí](https://open.spotify.com/track/0EKGAB37A6Pi3Sc59jUATI) | [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV) | [Del otro lado](https://open.spotify.com/album/0CxTT7EJUX7xluQQyBL1Au) | 2:47 |
-| 25 | [Una pena y un cariño](https://open.spotify.com/track/2AtHrzS1aqODE7eoILb1he) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Una pena y un cariño](https://open.spotify.com/album/7bSOUW9DY7RK8cT5UpaFPe) | 3:28 |
+| 25 | [Huaynito de Amor](https://open.spotify.com/track/4p6Qm5fkbJaedDg1U3020S) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 2:28 |
 | 26 | [Ser jazmín, ser golondrina](https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Aurora](https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx) | 3:18 |
-| 27 | [Huaynito de Amor](https://open.spotify.com/track/4p6Qm5fkbJaedDg1U3020S) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 2:28 |
+| 27 | [Una pena y un cariño](https://open.spotify.com/track/2AtHrzS1aqODE7eoILb1he) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Una pena y un cariño](https://open.spotify.com/album/7bSOUW9DY7RK8cT5UpaFPe) | 3:28 |
 | 28 | [La culpa](https://open.spotify.com/track/7zXinGDq0pdDD7dZ6TORbs) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La culpa](https://open.spotify.com/album/2lsItjwkRiLurSvlcy0691) | 5:30 |
-| 29 | [entre las sombras,](https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 4:30 |
-| 30 | [Canción Sencilla](https://open.spotify.com/track/1ceJvEoUjmq0MaM6kOIZh9) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Los Muertos](https://open.spotify.com/album/1LispKb3uy0Xs9Ta8zPvik) | 4:36 |
+| 29 | [Canción Sencilla](https://open.spotify.com/track/1ceJvEoUjmq0MaM6kOIZh9) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Los Muertos](https://open.spotify.com/album/1LispKb3uy0Xs9Ta8zPvik) | 4:36 |
+| 30 | [entre las sombras,](https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 4:30 |
 | 31 | [Noche no te vayas](https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Aunque Duela](https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C) | 3:41 |
 | 32 | [LLORAR](https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf) | [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [LLORAR](https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M) | 3:58 |
-| 33 | [Ruka](https://open.spotify.com/track/4xGH1TnAIRjplERSykBNBS) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6), [sgomez](https://open.spotify.com/artist/6HLvJhMwLNouctYrL6KiSN) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 4:33 |
-| 34 | [Que me des tu cariño](https://open.spotify.com/track/6UFrpHowqX4yrcHuAsXem7) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Que me des tu cariño](https://open.spotify.com/album/0xbWZ29zelFd3pRliOx3K6) | 3:30 |
+| 33 | [Que me des tu cariño](https://open.spotify.com/track/6UFrpHowqX4yrcHuAsXem7) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Que me des tu cariño](https://open.spotify.com/album/0xbWZ29zelFd3pRliOx3K6) | 3:30 |
+| 34 | [Ruka](https://open.spotify.com/track/4xGH1TnAIRjplERSykBNBS) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6), [sgomez](https://open.spotify.com/artist/6HLvJhMwLNouctYrL6KiSN) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 4:33 |
 | 35 | [Petronila](https://open.spotify.com/track/3mBj9zNLz4AvSEIauquNt7) | [Belencha](https://open.spotify.com/artist/76nNpUoU7lXyRKmoAkKPTM), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Petronila](https://open.spotify.com/album/6gyKGERNhWJWIL76C9VRq6) | 3:31 |
 
 Snapshot ID: `Z6OHdAAAAADx1NlA50FQkgQO3y5fvvWJ`

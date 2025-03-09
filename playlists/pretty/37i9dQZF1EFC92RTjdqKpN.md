@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025 likes - 197 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026 likes - 197 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 51 | [Them Girls Be Like](https://open.spotify.com/track/5L5zJyglhpR0iHKoMLNaBJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:42 |
 | 52 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
 | 53 | [If You Were Mine](https://open.spotify.com/track/3szbYyYgEBehQG7q0kv5qb) | [Ocean Park Standoff](https://open.spotify.com/artist/1qGohIp3a4kh1Euymx0pyL), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [If You Were Mine](https://open.spotify.com/album/4UUGCh5nEuHXFaDcPTq93r) | 3:24 |
-| 54 | [I Lied](https://open.spotify.com/track/7EvIMAbhkHXcV8rHbOyNzh) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:23 |
-| 55 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
+| 54 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
+| 55 | [I Lied](https://open.spotify.com/track/7EvIMAbhkHXcV8rHbOyNzh) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:23 |
 | 56 | [Remember](https://open.spotify.com/track/2uAX7DbFp5GWCkE1bpkUn4) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:09 |
 | 57 | [Mona Lisa](https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:18 |
 | 58 | [World For Two](https://open.spotify.com/track/4K7uhx9RpAQayZwKIxwGRh) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 3:05 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 196 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 197 | [Impossible](https://open.spotify.com/track/42gXlZEqFQ6Slmo9jxATv5) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#69](https://open.spotify.com/album/5p1EcRrbWRuuCL8hlitUXQ) | 3:06 |
 
-Snapshot ID: `AbrcbAAAAAC9k9Dv1asQ/sXDoHTZFLVM`
+Snapshot ID: `AbriPgAAAADnJVJ2FBzIWZEKL17afBUF`

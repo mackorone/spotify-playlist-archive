@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,978 likes - 70 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,029 likes - 70 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 40 | [Nothing Without You \- Live](https://open.spotify.com/track/3c14NjEO3dR6bGZpCl7VBp) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [Nothing Without You \(Live\)](https://open.spotify.com/album/1jQQP8xN0197YhIRumYCia) | 6:35 |
 | 41 | [We Pull On Heaven](https://open.spotify.com/track/3mrqldfyhQndPOFaHDcooW) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Jonathan Stamper](https://open.spotify.com/artist/0ONgXApuMkymQG94eMeDSA), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [We Pull On Heaven](https://open.spotify.com/album/7e4Ub3iqfXl59eoqGQAAaE) | 7:47 |
 | 42 | [Make Room \- NEW Version](https://open.spotify.com/track/5bcFYUqNGMNsxkqK3FmUqL) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R) | [New](https://open.spotify.com/album/0qCl8ZVtzAf3rUTJrsYjBz) | 6:08 |
-| 43 | [My Heart \- Live](https://open.spotify.com/track/23z2W3zMFGYdQHjZBRFlzG) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [My Heart \(Live\)](https://open.spotify.com/album/37x0CE3N0FD17bAhG3BVHG) | 5:20 |
+| 43 | [My Heart \- Live from London](https://open.spotify.com/track/23z2W3zMFGYdQHjZBRFlzG) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [My Heart \(Live from London\)](https://open.spotify.com/album/37x0CE3N0FD17bAhG3BVHG) | 5:20 |
 | 44 | [Hallelujah \(feat\. Dunsin Oyekan\) \- Live](https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Hallelujah \(feat\. Dunsin Oyekan\) \[Live\]](https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV) | 5:20 |
 | 45 | [Dance Anyhow](https://open.spotify.com/track/3TLl80bJcNDDgay3jMclgp) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Dance Anyhow](https://open.spotify.com/album/3daXjHEwk4AtkIMDyhFL6d) | 8:24 |
 | 46 | [There For Me](https://open.spotify.com/track/6MOLlzdQfGPR1xLVSEHG8T) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM) | [There For Me](https://open.spotify.com/album/0mc0EvdbLGj8rOsNp3S1CJ) | 8:47 |

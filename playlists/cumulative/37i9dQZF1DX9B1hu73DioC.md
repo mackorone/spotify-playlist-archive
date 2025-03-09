@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-886 songs - 2 day 4 hr 35 min
+887 songs - 2 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 | 2023-09-15 | 2024-06-18 |
 | [All Your Love](https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All Your Love](https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6) | 2:55 | 2020-10-05\* | 2022-04-19 |
 | [Alone At Last](https://open.spotify.com/track/0alDLLDIkMkji1jZEHMpK9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [47](https://open.spotify.com/album/1GxLTepQmtaSm6HEslKjz4) | 2:57 | 2024-12-17 |  |
-| [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 | 2024-06-17 |  |
+| [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 | 2024-06-17 | 2025-03-09 |
 | [Alright, OK](https://open.spotify.com/track/7hj2XcjFRk7CG1aL0GqTQP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [SUNSTRIKES](https://open.spotify.com/album/116qceKwaUUDLL7qh1tJsO) | 3:30 | 2023-12-12 | 2024-01-13 |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2020-10-16 | 2022-04-17 |
 | [AMAMA](https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA) | 3:10 | 2024-04-05 | 2024-07-08 |
@@ -100,6 +100,7 @@
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-03-07 | 2022-04-13 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2020-10-16 | 2023-06-17 |
 | [Basic Instinct](https://open.spotify.com/track/5E0pS3sXgWdQZMKChqYXHE) | [The Acid](https://open.spotify.com/artist/0bRtSoJSpQdnbB3dWrWprR) | [Liminal](https://open.spotify.com/album/1cMYjuN71NCON0vlQyTgJM) | 4:49 | 2020-10-16 | 2022-04-18 |
+| [be mine](https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [be mine](https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL) | 4:41 | 2025-03-03 |  |
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-11 | 2023-03-11 |
 | [Beautiful Time](https://open.spotify.com/track/3qdb9PbihUEMX6nJJmlDfr) | [ONUR](https://open.spotify.com/artist/5KFv770m4wjhl6DAUqKskw) | [Beautiful Time](https://open.spotify.com/album/0yHBBkMvtm61C9uX6a8XAq) | 2:46 | 2020-10-05\* | 2020-10-06 |
 | [Beauty Rains](https://open.spotify.com/track/5SEiOGFQsL6fJAwD0AWHBJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Beauty Rains](https://open.spotify.com/album/24z9o5rVLMHLmrMyH7WUJv) | 3:31 | 2021-08-27 | 2022-04-20 |

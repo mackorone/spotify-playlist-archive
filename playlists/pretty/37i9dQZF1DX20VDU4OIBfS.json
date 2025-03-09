@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3061679,
+  "num_followers": 3061792,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Franco de Vita",
-        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
       "artists": [
         {
           "name": "Franco De Vita",
           "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        },
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 240226,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
+      "duration_ms": 248000,
+      "name": "Si la Ves (feat. Sin Bandera)",
+      "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -347,22 +351,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+        "name": "Franco de Vita",
+        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
       },
       "artists": [
         {
           "name": "Franco De Vita",
           "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        },
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Si la Ves (feat. Sin Bandera)",
-      "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
+      "duration_ms": 240226,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "El Idolo De Mexico",
         "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 157493,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 217129,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Dos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Due\u00f1o de Nada",
-      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "De Nina A Mujer",
         "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 198200,
       "name": "De Ni\u00f1a a Mujer",
       "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Dos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Due\u00f1o de Nada",
+      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "My Life: The Greatest Hits",
-        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
-      "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Un Angel",
         "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 172626,
       "name": "Cachetada",
       "url": "https://open.spotify.com/track/034ZPIOtdd5zO0Cka0Sdt5"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "My Life: The Greatest Hits",
+        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
+      "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Ave F\u00e9nix",
-        "url": "https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 304853,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/7JqCob0wCNfmvPYx9sd5ba"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 187093,
       "name": "Vive",
       "url": "https://open.spotify.com/track/5e4TreyakmdimOHgtg177M"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Ave F\u00e9nix",
+        "url": "https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 304853,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Mi Chile Lindo",
-        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
-      },
-      "artists": [
-        {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Con el Paso del Tiempo",
         "url": "https://open.spotify.com/album/3rCxaZwnmmWYhEx0QffUbx"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 288733,
       "name": "Qu\u00e9 Canten los Ni\u00f1os - Homenaje a las Aldeas SOS",
       "url": "https://open.spotify.com/track/27ZrFLElsXCUIrSvgGD497"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "20 Secretos de Amor - Manolo Galv\u00e1n",
-        "url": "https://open.spotify.com/album/4MCG1gzqoCpGhXSEueSwZR"
-      },
-      "artists": [
-        {
-          "name": "Manolo Galvan",
-          "url": "https://open.spotify.com/artist/1SG96KWhgaZlnLZO18KUHA"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Las Estrellas Del Fonografo RCA Victor",
         "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 193706,
       "name": "Estoy Perdido",
       "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "20 Secretos de Amor - Manolo Galv\u00e1n",
+        "url": "https://open.spotify.com/album/4MCG1gzqoCpGhXSEueSwZR"
+      },
+      "artists": [
+        {
+          "name": "Manolo Galvan",
+          "url": "https://open.spotify.com/artist/1SG96KWhgaZlnLZO18KUHA"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "El Ultimo Beso",
         "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 162186,
       "name": "El \u00faltimo beso - The Last Kiss",
       "url": "https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj"
     },
     {
       "added_at": "2024-06-04 19:16:04",

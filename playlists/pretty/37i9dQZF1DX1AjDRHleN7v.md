@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,349 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,676 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 21 | [Olha Pra Mim](https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Olha Pra Mim](https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d) | 2:57 |
 | 22 | [Tô Em Casa](https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô Em Casa](https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7) | 2:46 |
 | 23 | [Flor de Aruanda](https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Flor de Aruanda](https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er) | 3:03 |
-| 24 | [Brisa Positiva](https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Brisa Positiva](https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT) | 3:24 |
-| 25 | [Sunshine](https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM) | [Alexandre Carlo](https://open.spotify.com/artist/3A7Ajwwlko5vqI6dyy7LN2) | [Sunshine](https://open.spotify.com/album/2d8MweiVKq4HbVmYqFIVAk) | 3:23 |
+| 24 | [Sunshine](https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM) | [Alexandre Carlo](https://open.spotify.com/artist/3A7Ajwwlko5vqI6dyy7LN2) | [Sunshine](https://open.spotify.com/album/2d8MweiVKq4HbVmYqFIVAk) | 3:23 |
+| 25 | [Brisa Positiva](https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Brisa Positiva](https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT) | 3:24 |
 | 26 | [Me Leva](https://open.spotify.com/track/5NeGYCOfojjoFdgYf3zupx) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Me Leva](https://open.spotify.com/album/2l1uiUn0H6RV7ULkzj5jPv) | 2:28 |
 | 27 | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO) | [Maipê](https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Pedro Schin](https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P), [Dias Bruno](https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk) | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u) | 2:38 |
 | 28 | [Rede no Coqueiro](https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Entre Borboletas e Aviões](https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC) | 3:27 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 47 | [Paradisíaca](https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tropical](https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf) | 3:50 |
 | 48 | [Santa Terra](https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG) | [Qback](https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q) | [Santa Terra](https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B) | 4:36 |
 | 49 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
-| 50 | [LEVE](https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi), [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw) | [LEVE](https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr) | 2:23 |
+| 50 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 |
 | 51 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 |
-| 52 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 |
+| 52 | [LEVE](https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi), [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw) | [LEVE](https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr) | 2:23 |
 | 53 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
 | 54 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 |
 | 55 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 |

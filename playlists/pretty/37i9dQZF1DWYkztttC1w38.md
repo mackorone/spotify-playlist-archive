@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,405 likes - 71 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,476 likes - 71 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 51 | [Goldberg Variations, BWV 988: Aria da capo \(Arr\. for Violin, Guitar & Cello by David Juritz\)](https://open.spotify.com/track/3k6MvrijJjZZXjBLbevjbr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [David Juritz](https://open.spotify.com/artist/5Xyu14RdgJeW896p80XDFU), [Craig Ogden](https://open.spotify.com/artist/07pZelCNTBK93CD474588Q), [Tim Hugh](https://open.spotify.com/artist/1O6njeMdZ3Jm2lnR9s5lEk) | [J.S\. Bach: Goldberg Variations arranged for Violin, Guitar & Cello](https://open.spotify.com/album/6xHkcQexkgKAphQAB4M8DW) | 2:19 |
 | 52 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 |
 | 53 | [Mrs\. Potter's Garden](https://open.spotify.com/track/4hRULDo9fR449jPin3MmIg) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Mrs\. Potter's Garden](https://open.spotify.com/album/4wgoLr9H9hmCscuUF72E1r) | 2:38 |
-| 54 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:19 |
+| 54 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:26 |
 | 55 | [L'Arlésienne Suite No\. 2 \(Arr\. Guiraud\): III\. Menuet](https://open.spotify.com/track/0Tx61KMDoqr3uNMhNcXXhB) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Charles Dutoit](https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ) | [Bizet: Carmen Suites 1 & 2; L'Arlésienne Suites 1 & 2](https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn) | 4:27 |
 | 56 | [Due tramonti](https://open.spotify.com/track/1Zv6RyHM08gyC4qvOlCZUL) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Passaggio](https://open.spotify.com/album/7FLcizCIuoOOTEKUZlrANJ) | 4:27 |
 | 57 | [All Clear](https://open.spotify.com/track/6kwPQEP7rHdubkgDvVhNOf) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [All Clear](https://open.spotify.com/album/1MZ1vm0zHq7Q2jCMhz1A7R) | 3:44 |

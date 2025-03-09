@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,271 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,282 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 35 | [Tercipta Untukku](https://open.spotify.com/track/4CGpzrPjP0xaJfN9g9FN9A) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Melayang](https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt) | 4:25 |
 | 36 | [Aku Cinta Padamu](https://open.spotify.com/track/7IsErGQbe4jnjBKLd2uGoq) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Aku Cinta Padamu](https://open.spotify.com/album/2qSbdOw1byknZvx0RJsfHL) | 5:28 |
 | 37 | [Berdua Lebih Baik](https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:41 |
-| 38 | [Hanya Aku](https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg) | [Hyper Act](https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb) | [Impian](https://open.spotify.com/album/1rGFUVZxs41YwTvWv0q0Xt) | 3:20 |
-| 39 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
+| 38 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
+| 39 | [Hanya Aku](https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg) | [Hyper Act](https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb) | [Impian](https://open.spotify.com/album/1rGFUVZxs41YwTvWv0q0Xt) | 3:20 |
 | 40 | [Akhir Cerita Cinta](https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 4:00 |
 | 41 | [Aku Bukan Untukmu](https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Kembali](https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ) | 4:01 |
 | 42 | [Demi Waktu](https://open.spotify.com/track/150GrtIUJF0IDT1KQb8JR8) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Melayang](https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt) | 5:07 |

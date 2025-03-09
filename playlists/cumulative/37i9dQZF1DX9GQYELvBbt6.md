@@ -4,7 +4,7 @@
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-168 songs - 10 hr 58 min
+169 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [DiNA](https://open.spotify.com/track/4ga5kO7qacjGkYZQYCK9Og) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [DiNA](https://open.spotify.com/album/02hQy084ewZMZCKLtxwg6c) | 4:23 | 2025-01-15 |  |
 | [Dramaturgy](https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:58 | 2023-11-21 | 2024-04-19 |
 | [Endless](https://open.spotify.com/track/4qTY7rQSQ4M6JP3TfoMbG6) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Endless](https://open.spotify.com/album/3IVlzFO79ROq2pCINRfr2s) | 4:01 | 2024-10-23 | 2024-12-04 |
-| [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 | 2024-12-19 |  |
+| [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 | 2024-12-19 | 2025-03-09 |
 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 | 2023-11-21 | 2024-04-19 |
 | [Haikei](https://open.spotify.com/track/2gGndsagLCcAwzk3tV1lV8) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Haikei](https://open.spotify.com/album/7IYVvXAdFDlxMkWLHSDtLR) | 3:30 | 2023-11-21 | 2024-03-17 |
 | [Haikei](https://open.spotify.com/track/0oj8WIDCfJ5lxJoGC2EKVx) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Throw](https://open.spotify.com/album/1OvpWrhUgMO2moBeKeVd1q) | 3:31 | 2024-03-05 | 2024-04-19 |
@@ -117,6 +117,7 @@
 | [マジックアワー](https://open.spotify.com/track/5KFwt828Q8lPpUSs69TWZV) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [マジックアワー](https://open.spotify.com/album/1VV09JUhf3tWApPKwszd56) | 3:25 | 2023-11-21 | 2024-01-11 |
 | [ムーンライト](https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ムーンライト](https://open.spotify.com/album/6ZiDAkFSWrnERzsSnto80l) | 2:59 | 2024-10-09 |  |
 | [ユアーズ](https://open.spotify.com/track/6eS0ZKrSBScOPE74eOLGQC) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [ユアーズ](https://open.spotify.com/album/2KCZ6tmHpxjC5VuRzTtY8R) | 4:26 | 2023-11-21 | 2023-11-29 |
+| [ユーモア](https://open.spotify.com/track/11PjPUWOqFDsuMllKqGZsB) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ユーモア](https://open.spotify.com/album/2eHiBlntcUdCv5nGbGv8Vm) | 4:27 | 2025-03-04 |  |
 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 | 2024-03-05 |  |
 | [ロンリーラプソディ](https://open.spotify.com/track/2T2PRhaEQLPoo78E8zyVgw) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:46 | 2024-09-11 |  |
 | [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 | 2023-11-29 | 2025-02-08 |

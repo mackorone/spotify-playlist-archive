@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBBiyFHfY0t.md) - [plain]
 
 > For frolicking joyously, freely and theatrically in this world\. Cover: TLDP at The BRITs 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,894 likes - 113 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,910 likes - 113 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27720,
+  "num_followers": 27724,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABY8t7jTqQuvqRdOEl/ihQS",
+  "snapshot_id": "Z8o3AAAAAACPe2/PwBsVQrXZpMb5LF5v",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Drive Away",
-      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "United Kids of the World (feat. Krewella)",
         "url": "https://open.spotify.com/album/2kMgZuBJTzKxOr4pJdyHk0"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 256000,
       "name": "United Kids of the World (feat. Krewella)",
       "url": "https://open.spotify.com/track/61Cx5cbYUgDTA2m4SuKJ37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Drive Away",
+      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "TH2C",
-      "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dead af",
         "url": "https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 279160,
       "name": "Set Yourself Free",
       "url": "https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "TH2C",
+      "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
     },
     {
       "added_at": null,
@@ -907,22 +907,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+        "name": "Krewella (Hits Japan Special Edition)",
+        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
       },
       "artists": [
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "MADGRRL",
-          "url": "https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX"
         }
       ],
-      "duration_ms": 163479,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/296JDELU3ARzEcYzHgPoFP"
+      "duration_ms": 214453,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
     },
     {
       "added_at": null,
@@ -947,18 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Krewella (Hits Japan Special Edition)",
-        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
       "artists": [
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "MADGRRL",
+          "url": "https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX"
         }
       ],
-      "duration_ms": 214453,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
+      "duration_ms": 163479,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/296JDELU3ARzEcYzHgPoFP"
     },
     {
       "added_at": null,
@@ -979,8 +979,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 277500,
-      "name": "War Forever",
-      "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
+      "duration_ms": 196026,
+      "name": "Feel Me",
+      "url": "https://open.spotify.com/track/2mvjYOhEJ1T8f9UYT7fnPv"
     }
   ],
   "unique_name": "This Is Krewella",

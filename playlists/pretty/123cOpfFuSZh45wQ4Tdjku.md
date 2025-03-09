@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 932 likes - 295 songs - 15 hr 1 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 933 likes - 295 songs - 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

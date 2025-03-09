@@ -4,7 +4,7 @@
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-97 songs - 6 hr 23 min
+98 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 | 2023-06-22 |  |
 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 | 2023-08-14 |  |
 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 | 2023-06-22 |  |
+| [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/4IVtWtV0W351mqs7DcCHpa) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:51 | 2024-06-12 |  |
 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 | 2023-06-22 |  |
 | [Circunvalación](https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:54 | 2023-06-22 | 2024-08-07 |
 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 | 2024-06-12 |  |
@@ -82,7 +83,7 @@
 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 | 2023-06-22 |  |
 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 | 2023-08-14 |  |
 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 | 2023-06-22 | 2024-04-19 |
-| [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 | 2024-06-12 |  |
+| [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 | 2024-06-12 | 2025-03-09 |
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2023-06-22 |  |
 | [Sal a Caminar](https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 5:05 | 2023-06-22 |  |
 | [San Bá](https://open.spotify.com/track/1SZmIlruJaumMmS2CzTdDE) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Candela](https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe) | 3:14 | 2023-06-22 |  |

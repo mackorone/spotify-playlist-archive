@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 528172,
+  "num_followers": 528278,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Roy Ayers - Universal Masters",
+        "url": "https://open.spotify.com/album/5xO3QmYfDvMSR5UQtlXmy5"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/42kFGNfCDZQWnql4rSiKhT"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
         "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 180906,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/2I6Jfs4VsWwpo3SI0yMEVz"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Roy Ayers - Universal Masters",
-        "url": "https://open.spotify.com/album/5xO3QmYfDvMSR5UQtlXmy5"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/42kFGNfCDZQWnql4rSiKhT"
     },
     {
       "added_at": "2021-07-04 17:34:32",

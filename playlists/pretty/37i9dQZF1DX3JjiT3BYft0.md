@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,091 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,109 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 39 | [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 |
 | 40 | [Life on the Lotus](https://open.spotify.com/track/097HmQLvdW3Qe15LDrV4ue) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [SAVAGE](https://open.spotify.com/album/4or1XUBWoANxo0vINF2LIT) | 4:03 |
 | 41 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
-| 42 | [TARINAI](https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TARINAI/トレモロアイズ](https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I) | 3:39 |
+| 42 | [DOKI DOKI SCARY](https://open.spotify.com/track/59nmwMUOGWvypaoHkiYgS3) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:00 |
 | 43 | [アイのシナリオ \- Cover](https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:19 |
 | 44 | [コハク](https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:40 |
 | 45 | [えがお、み～っけた!](https://open.spotify.com/track/58qgn1BHFxLaVPbrUtaSA6) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [うぃーきゃん☆フレフレっ!](https://open.spotify.com/album/0l8Ay8vHgLHxtE1fKgVqhH) | 4:29 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 68 | [Yes! BanG\_Dream! \- Acoustic Ver.](https://open.spotify.com/track/2XVzZxfLb4unbJBM9pzK1x) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY) | 5:04 |
 | 69 | [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 |
 | 70 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 |
-| 71 | [DOKI DOKI SCARY](https://open.spotify.com/track/59nmwMUOGWvypaoHkiYgS3) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:00 |
+| 71 | [TARINAI](https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TARINAI/トレモロアイズ](https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I) | 3:39 |
 | 72 | [Floral Haven](https://open.spotify.com/track/25CbX0dHAeQq8HUwSSLyfC) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Für immer](https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9) | 4:41 |
 | 73 | [Dear Gleam](https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 4:13 |
 | 74 | [Swear ～Night & Day～](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear ～Night & Day～](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,427,931 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,428,116 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 45 | [Magkabilang Mundo](https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 3:56 |
 | 46 | [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 |
 | 47 | [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 |
-| 48 | [panaginip](https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [panaginip](https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA) | 5:32 |
+| 48 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
 | 49 | [ERE](https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [ERE](https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD) | 4:44 |
-| 50 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
+| 50 | [panaginip](https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [panaginip](https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA) | 5:32 |
 
 Snapshot ID: `Z8gZagAAAABdXWvHBwx7Qzzfa3ndr5hh`

@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-139 songs - 6 hr 53 min
+140 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [abc](https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:47 | 2023-02-16 |  |
 | [About That Time](https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:12 | 2023-02-16 |  |
 | [Apple](https://open.spotify.com/track/2qVxkSW21r1r6aXRbCA3Q6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Apple](https://open.spotify.com/album/6i0atmeYVUoeI58dINmglw) | 2:15 | 2024-12-22 |  |
+| [APT.](https://open.spotify.com/track/6m58F8A3vrcKGHQMZGtCyl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [APT.](https://open.spotify.com/album/5odVzsmbNhcFtBCpUQ1cc8) | 2:42 | 2025-03-09 |  |
 | [As It Was](https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:42 | 2023-02-16 |  |
 | [Astronaut In The Ocean](https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:14 | 2023-02-16 |  |
 | [Avenir](https://open.spotify.com/track/68fAJJmNwY2wKnCkIgxaa0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Avenir](https://open.spotify.com/album/0TlmXtDrdGgkynRQeRtwHO) | 3:03 | 2023-12-13 | 2024-02-03 |

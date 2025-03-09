@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Lady Gaga \(Cover\), Doechii, JENNIE, LUNAX und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,107 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,174 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 27 | [Hypnotising](https://open.spotify.com/track/3dMeC0ZvUkklhOHIEzQcfH) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Hypnotising](https://open.spotify.com/album/1Tr0AxBFOfcfvYTFAn9vHC) | 2:42 |
 | 28 | [meine haut, meine lippen](https://open.spotify.com/track/514nvTe6xChfujXmP8Dt9n) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [meine haut, meine lippen](https://open.spotify.com/album/0vzalyhJBg7k1Xi4IXPoCR) | 2:37 |
 | 29 | [brenn für dich](https://open.spotify.com/track/4uSQjki3S6ErDmMKzsbB1U) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [brenn für dich](https://open.spotify.com/album/6lfEwMO9F3RRj81safLB5i) | 2:32 |
-| 30 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:32 |
+| 30 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 |
 | 31 | [Live Forever](https://open.spotify.com/track/107O9gvmL7ClYS5sLx5T0U) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Live Forever](https://open.spotify.com/album/3tlRjJl8xGqxXPOSmroGV4) | 2:35 |
 | 32 | [DURO](https://open.spotify.com/track/2spZQeEnPRJ7e3jj9vMXNC) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [TNY](https://open.spotify.com/artist/4CroZ02OMqULf4GM6UkMnw) | [DURO](https://open.spotify.com/album/7vHU6Thcn0BNx8esO7y2Ws) | 3:07 |
 | 33 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 |

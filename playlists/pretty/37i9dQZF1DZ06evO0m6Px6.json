@@ -1,12 +1,12 @@
 {
   "description": "This is Harrison. The essential tracks, all in one playlist.",
-  "num_followers": 237,
+  "num_followers": 238,
   "original_name": "This Is Harrison",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAD1CBYrvmS+36s2w6CVchdZ",
+  "snapshot_id": "Z8o3AAAAAADeJxz7Ot0PAEzVHf4n+c5/",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,25 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
+      "duration_ms": 183263,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 120502,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
       "duration_ms": 152472,
       "name": "New Harrison Again",
       "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 120502,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 183263,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
+      "duration_ms": 195431,
+      "name": "Right Hook",
+      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,

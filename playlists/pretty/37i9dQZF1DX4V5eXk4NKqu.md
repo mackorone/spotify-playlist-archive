@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring Bandalos Chinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,313 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,319 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 10 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 |
 | 11 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 |
 | 12 | [Persona Favorita](https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [HENRY](https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb) | 3:27 |
-| 13 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
-| 14 | [ya no me llames](https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [ULTRA SODADE](https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH) | 3:21 |
+| 13 | [ya no me llames](https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [ULTRA SODADE](https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH) | 3:21 |
+| 14 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
 | 15 | [Nada por Hecho \(feat\. Leiva\)](https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Nada por Hecho \(feat\. Leiva\)](https://open.spotify.com/album/6dD5pmen05khim74MHtYC9) | 3:28 |
 | 16 | [SOPHIA](https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SOPHIA](https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu) | 3:04 |
 | 17 | [BRUJERIA!](https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:44 |
 | 18 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 |
-| 19 | [Hora Dorada](https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5) | 3:14 |
-| 20 | [Una Playa En Nayarit](https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:34 |
+| 19 | [Una Playa En Nayarit](https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:34 |
+| 20 | [Hora Dorada](https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5) | 3:14 |
 | 21 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 22 | [deja vu](https://open.spotify.com/track/38kgqntjgPizqgvhsjKwky) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [deja vu](https://open.spotify.com/album/1AeWnVwD0xiMYTvfXh8EZj) | 2:22 |
 | 23 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 71 | [Quicksand](https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [ESPÍRITU](https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7) | 3:06 |
 | 72 | [Radiocaset](https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Radiocaset](https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7) | 3:28 |
 | 73 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 |
-| 74 | [Ángel](https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mostly Fresh](https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR) | 2:47 |
-| 75 | [Una Cosa Lleva a la Otra](https://open.spotify.com/track/5UdQff8TOnWpO7Q1UjPR7x) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [David Velasco](https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL) | [Una Cosa Lleva a la Otra](https://open.spotify.com/album/48ebpXiKqVAdQnx5fy2WsV) | 3:32 |
+| 74 | [Una Cosa Lleva a la Otra](https://open.spotify.com/track/5UdQff8TOnWpO7Q1UjPR7x) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [David Velasco](https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL) | [Una Cosa Lleva a la Otra](https://open.spotify.com/album/48ebpXiKqVAdQnx5fy2WsV) | 3:32 |
+| 75 | [Ángel](https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mostly Fresh](https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR) | 2:47 |
 
 Snapshot ID: `Z67N/QAAAABk+MFIFJ9mEH/QByK3wt1R`

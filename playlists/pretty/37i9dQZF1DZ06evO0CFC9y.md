@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,011 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,015 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 20 | [He Who Laughs Last...](https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:50 |
 | 21 | [Kill Caustic](https://open.spotify.com/track/1g3GsYGMF9veVHh1sZn6me) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 2:39 |
 | 22 | [Bleed Black](https://open.spotify.com/track/2d7D8CladbfO6SOTcTLTXN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:14 |
-| 23 | [Ever And A Day](https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:06 |
+| 23 | [Sacrifice Theory](https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 1:58 |
 | 24 | [Porphyria](https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:07 |
 | 25 | [I Hope You Suffer](https://open.spotify.com/track/1bl434nynICAlETvh9kf4e) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14) | 4:37 |
 | 26 | [Snow Cats](https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 3:20 |
-| 27 | [Sacrifice Theory](https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 1:58 |
+| 27 | [Ever And A Day](https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:06 |
 | 28 | [Malleus Maleficarum](https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 4:01 |
 | 29 | [God Called In Sick Today](https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI](https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw) | 3:21 |
 | 30 | [Aurelia](https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:54 |
 | 31 | [Wester](https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:02 |
 | 32 | [A Deep Slow Panic](https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14) | 4:01 |
-| 33 | [The Last Kiss](https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:02 |
-| 34 | [Rabbits Are Roadkill On Rt\. 37](https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow \(Deluxe\)](https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs) | 3:48 |
+| 33 | [Rabbits Are Roadkill On Rt\. 37](https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow \(Deluxe\)](https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs) | 3:48 |
+| 34 | [The Last Kiss](https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:02 |
 | 35 | [The Nephilim](https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 2:35 |
 | 36 | [Begging For Trouble](https://open.spotify.com/track/19elq0F6glRZAResdR1XTR) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 |
 | 37 | [File 13](https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:48 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 43 | [Narrative Of Soul Against Soul](https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:29 |
 | 44 | [The Checkered Demon](https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 2:08 |
 | 45 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
-| 46 | [Get Dark](https://open.spotify.com/track/1NdkKzGcN1e5h2Quk6tuXF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Get Dark](https://open.spotify.com/album/6tyg893U6i4o9yKH0K6Pms) | 2:40 |
+| 46 | [Third Season](https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 2:49 |
 | 47 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 |
-| 48 | [Third Season](https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 2:49 |
+| 48 | [Get Dark](https://open.spotify.com/track/1NdkKzGcN1e5h2Quk6tuXF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Get Dark](https://open.spotify.com/album/6tyg893U6i4o9yKH0K6Pms) | 2:40 |
 | 49 | [Wake\-Up Call](https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:42 |
-| 50 | [Your Name Here](https://open.spotify.com/track/03clzUiJrTQDkckYgEznfO) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 2:27 |
+| 50 | [Three Reasons](https://open.spotify.com/track/3buW09qkN0WsPWmeStXdDC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 1:33 |
 
-Snapshot ID: `Z8jlgAAAAAA1TxGyOb/oVeGcCVJV/vvR`
+Snapshot ID: `Z8o3AAAAAABgKkzclRnTNAsEarLs5f6A`

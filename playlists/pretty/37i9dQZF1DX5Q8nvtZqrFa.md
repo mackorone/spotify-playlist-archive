@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,225 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,228 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 46 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 |
 | 47 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 |
 | 48 | [Mouiiyo](https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Mouiiyo](https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV) | 2:57 |
-| 49 | [ねぇ](https://open.spotify.com/track/4OL2UHjasZp21Z1c2htqPj) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ねぇ](https://open.spotify.com/album/0LA32zD1z0qow1CiuBXTlR) | 3:20 |
-| 50 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 |
+| 49 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 |
+| 50 | [ねぇ](https://open.spotify.com/track/4OL2UHjasZp21Z1c2htqPj) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ねぇ](https://open.spotify.com/album/0LA32zD1z0qow1CiuBXTlR) | 3:20 |
 
 Snapshot ID: `Z73bCwAAAAArH5/1fMA+LAtkrjU+a3C0`

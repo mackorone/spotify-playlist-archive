@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,179,772 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,179,967 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 49 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 |
 | 50 | [Let's Get It Up](https://open.spotify.com/track/1EJIEPzahlUiev5IQ1HnuL) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 3:54 |
 
-Snapshot ID: `Z8jlgAAAAAC72WvJaaxJ1b6a9k5otfSr`
+Snapshot ID: `Z8o3AAAAAABeuImDbs4eSUtvn4RHK3vb`

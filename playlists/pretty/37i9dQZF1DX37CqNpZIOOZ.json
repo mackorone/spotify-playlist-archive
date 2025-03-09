@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 24936,
+  "num_followers": 24940,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -139,30 +139,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Der Rosenkavalier",
-        "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Munich Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
-      "url": "https://open.spotify.com/track/4kFj3UgPlF9QnvQecwPv1p"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R.: Four Last Songs, etc.",
         "url": "https://open.spotify.com/album/0sIuKA8hHwodqk2nQ8qv1k"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 461453,
       "name": "4 Letzte Lieder, TrV 296: No. 4, Im Abendrot",
       "url": "https://open.spotify.com/track/7JVYGlKBO4ZqkH1RB9XV96"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Der Rosenkavalier",
+        "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Munich Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
+      "url": "https://open.spotify.com/track/4kFj3UgPlF9QnvQecwPv1p"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -651,6 +651,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Through Life & Love",
+        "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Louise Alder",
+          "url": "https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq"
+        },
+        {
+          "name": "Joseph Middleton",
+          "url": "https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd"
+        }
+      ],
+      "duration_ms": 138834,
+      "name": "Rote Rosen, TrV 119",
+      "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Sinfonia Domestica; Macbeth (The Originals / Live)",
         "url": "https://open.spotify.com/album/6JEexXnUl1TsPNBVJqPi6r"
       },
@@ -671,54 +695,6 @@
       "duration_ms": 314533,
       "name": "Sinfonia Domestica, Op. 53: I. Themes. Bewegt \u2013 Sehr lebhaft \u2013 Ruhig - Live",
       "url": "https://open.spotify.com/track/6GrbXVGfli9piw0DtBElH3"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R.: Vier letzte Lieder; Ein Heldenleben (Live)",
-        "url": "https://open.spotify.com/album/7vgUpW5MllSVaL3YgT7ge1"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Ein Heldenleben, Op. 40: Der Held - Live",
-      "url": "https://open.spotify.com/track/0PNYkBH06gRTUKvQiIMyCm"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Complete Orchestral Works",
-        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/497iqJYjqDQnf1SunGf0j5"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
-      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -751,8 +727,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Through Life & Love",
-        "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
+        "name": "Strauss: Complete Orchestral Works",
+        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
       },
       "artists": [
         {
@@ -760,17 +736,41 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Louise Alder",
-          "url": "https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq"
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/497iqJYjqDQnf1SunGf0j5"
         },
         {
-          "name": "Joseph Middleton",
-          "url": "https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd"
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
         }
       ],
-      "duration_ms": 138834,
-      "name": "Rote Rosen, TrV 119",
-      "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
+      "duration_ms": 217733,
+      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
+      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Vier letzte Lieder; Ein Heldenleben (Live)",
+        "url": "https://open.spotify.com/album/7vgUpW5MllSVaL3YgT7ge1"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Ein Heldenleben, Op. 40: Der Held - Live",
+      "url": "https://open.spotify.com/track/0PNYkBH06gRTUKvQiIMyCm"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -819,6 +819,38 @@
       "duration_ms": 155560,
       "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
       "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Marc, Alessandra: Arias (Opera Gala) -Bellini, V. / Donizetti, G. / Hofmannsthal, H. / Barber, S. / Puccini, G.",
+        "url": "https://open.spotify.com/album/0eBBqRUksRqE0JWjvRsFNQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Alessandra Marc",
+          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
+        },
+        {
+          "name": "Dallas Symphony Chorus",
+          "url": "https://open.spotify.com/artist/3E1E0IFBwcrTNi2p9RvNJD"
+        },
+        {
+          "name": "Dallas Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/30ywQdA4ElkX92wuEe9YdP"
+        },
+        {
+          "name": "Andrew Litton",
+          "url": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
+        }
+      ],
+      "duration_ms": 311840,
+      "name": "Die Agyptische Helena, Op. 75, TrV 255, Act II: Zweite Brautnacht! Zaubernacht",
+      "url": "https://open.spotify.com/track/6iKuENO12ch6vV1wZXjPK1"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -875,38 +907,6 @@
       "duration_ms": 421200,
       "name": "Ariadne auf Naxos, Op. 60 / Opera: Ein Sch\u00f6nes war: hiess Theseus - Ariadne",
       "url": "https://open.spotify.com/track/4HFqlyxdEybDTBMTlR3ETW"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Marc, Alessandra: Arias (Opera Gala) -Bellini, V. / Donizetti, G. / Hofmannsthal, H. / Barber, S. / Puccini, G.",
-        "url": "https://open.spotify.com/album/0eBBqRUksRqE0JWjvRsFNQ"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Alessandra Marc",
-          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
-        },
-        {
-          "name": "Dallas Symphony Chorus",
-          "url": "https://open.spotify.com/artist/3E1E0IFBwcrTNi2p9RvNJD"
-        },
-        {
-          "name": "Dallas Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/30ywQdA4ElkX92wuEe9YdP"
-        },
-        {
-          "name": "Andrew Litton",
-          "url": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
-        }
-      ],
-      "duration_ms": 311840,
-      "name": "Die Agyptische Helena, Op. 75, TrV 255, Act II: Zweite Brautnacht! Zaubernacht",
-      "url": "https://open.spotify.com/track/6iKuENO12ch6vV1wZXjPK1"
     },
     {
       "added_at": "2022-06-20 09:55:21",

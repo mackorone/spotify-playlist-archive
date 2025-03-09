@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 231317,
+  "num_followers": 231422,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAADYLn97+GfjCWXXCEBPmszU",
+  "snapshot_id": "Z8o3AAAAAAACunm4wLztpfbMRU8DtrM8",
   "tracks": [
     {
       "added_at": null,
@@ -367,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
       "artists": [
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 260732,
-      "name": "Connaissais de Face",
-      "url": "https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW"
+      "duration_ms": 283406,
+      "name": "C-Side",
+      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
     },
     {
       "added_at": null,
@@ -399,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 283406,
-      "name": "C-Side",
-      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
+      "duration_ms": 260732,
+      "name": "Connaissais de Face",
+      "url": "https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 240742,
-      "name": "Evan Finds the Third Room",
-      "url": "https://open.spotify.com/track/6u9UBhoz36duB4eLoYuPB9"
+      "duration_ms": 258044,
+      "name": "Lady and Man",
+      "url": "https://open.spotify.com/track/6izNOFapl67iFcq8OPdwby"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 258044,
-      "name": "Lady and Man",
-      "url": "https://open.spotify.com/track/6izNOFapl67iFcq8OPdwby"
+      "duration_ms": 240742,
+      "name": "Evan Finds the Third Room",
+      "url": "https://open.spotify.com/track/6u9UBhoz36duB4eLoYuPB9"
     },
     {
       "added_at": null,

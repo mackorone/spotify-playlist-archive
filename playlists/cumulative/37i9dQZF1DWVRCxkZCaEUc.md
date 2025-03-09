@@ -4,7 +4,7 @@
 
 > windows down, elbows out & bass UP ⬆️ rap + r&b anthems for your commute.
 
-339 songs - 20 hr 33 min
+340 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2022-06-27 | 2022-07-27 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2025-02-13 |  |
 | [REEL IT IN](https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 2:01 | 2022-04-09 | 2022-04-14 |
+| [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 | 2025-02-20 |  |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2022-07-26 | 2025-02-13 |
 | [Ribs](https://open.spotify.com/track/38WyDtxZhxm63jiythwemE) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 4:18 | 2022-06-27 | 2022-07-29 |
 | [Ribs](https://open.spotify.com/track/6RkbWSg7BERrqohwadO7eG) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Lo\-Fi Chill](https://open.spotify.com/album/1lqsaGfQnES7sOl0PnIPEA) | 4:18 | 2022-08-11 | 2022-11-13 |
@@ -265,7 +266,7 @@
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-04-04 | 2022-06-23 |
 | [Soundtrack 2 My Life](https://open.spotify.com/track/1cdC9TCqyLwAlsw3fVJaJS) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 3:55 | 2021-09-04 | 2022-04-18 |
 | [Sour Patch Kids](https://open.spotify.com/track/5DJNyvuMmZfsfvdTpMMmUq) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Lazy Fair](https://open.spotify.com/album/08IW6sUfN9fRYG8Xlgm4oC) | 4:12 | 2022-06-22 | 2025-02-13 |
-| [SPINNIN \(Segway Remix\)](https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Segway](https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak) | [SPINNIN \(Segway Remix\)](https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu) | 2:42 | 2025-02-13 |  |
+| [SPINNIN \(Segway Remix\)](https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Segway](https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak) | [SPINNIN \(Segway Remix\)](https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu) | 2:42 | 2025-02-13 | 2025-03-09 |
 | [Spins](https://open.spotify.com/track/3611av7ekGmtDo12haIGzG) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Spins](https://open.spotify.com/album/0MLvYnNSsZclPBEuuE6M9M) | 3:33 | 2021-09-04 | 2022-06-23 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2025-02-13 |  |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2025-02-13 |  |

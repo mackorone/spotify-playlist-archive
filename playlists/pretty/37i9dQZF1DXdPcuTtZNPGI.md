@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,446 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,579 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

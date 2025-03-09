@@ -1,37 +1,13 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 225713,
+  "num_followers": 225721,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABcrUKLCZj+b3gGfkhGPJU/",
+  "snapshot_id": "Z8o3AAAAAACzxYqHnmDgl71AIkitlNHb",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 134579,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl"
-    },
     {
       "added_at": null,
       "album": {
@@ -167,30 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Kevin McCall",
-          "url": "https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "Deuces (feat. Tyga & Kevin McCall)",
-      "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -211,6 +163,30 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Kevin McCall",
+          "url": "https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "Deuces (feat. Tyga & Kevin McCall)",
+      "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
     },
     {
       "added_at": null,
@@ -403,6 +379,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 134579,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wait For A Minute",
         "url": "https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69"
       },
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 128750,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/10FUBoAjYTJzGcphHbvPkF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 128750,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/10FUBoAjYTJzGcphHbvPkF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4REAL 4REAL",
         "url": "https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm"
       },
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Girl You Loud",
+      "url": "https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
       },
@@ -795,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fan of A Fan The Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
       },
       "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Girl You Loud",
-      "url": "https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg"
+      "duration_ms": 132110,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/0KCeHr5HbTyj3GQ4mzCXgW"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 244855,
       "name": "soak city (feat. OhGeesy & BlueBucksClan)",
       "url": "https://open.spotify.com/track/1Drdj1A2fmtweiAZdpCF6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 132110,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/0KCeHr5HbTyj3GQ4mzCXgW"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 196254,
+      "name": "Found Someone",
+      "url": "https://open.spotify.com/track/2iYy47ISUsgUKwjqEIvss7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legendary (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 145813,
       "name": "Blessed (with Tyga)",
       "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 196254,
-      "name": "Found Someone",
-      "url": "https://open.spotify.com/track/2iYy47ISUsgUKwjqEIvss7"
     },
     {
       "added_at": null,
@@ -1059,22 +1059,6 @@
       "duration_ms": 184615,
       "name": "GFU",
       "url": "https://open.spotify.com/track/3I3JCtkBC9iEDUQKdZFDeF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bops Goin Brazy",
-        "url": "https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 128367,
-      "name": "Bops Goin Brazy",
-      "url": "https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q"
     }
   ],
   "unique_name": "This Is Tyga",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,627 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,649 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 35 | [La Reyna De Mi Hogar](https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 3:32 |
 | 36 | [Lucharé Por Ti](https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Lucharé Por Ti](https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7) | 3:30 |
 | 37 | [Mi Gran Problema](https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:35 |
-| 38 | [De Frente Al Mar](https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:05 |
-| 39 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 |
+| 38 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 |
+| 39 | [De Frente Al Mar](https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:05 |
 | 40 | [Qué Bonito](https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Qué Bonito](https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u) | 2:47 |
 | 41 | [Acá Entre Nos \(En Vivo\)](https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE) | 4:14 |
-| 42 | [Compañera Mía](https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya Se Fue](https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH) | 3:26 |
-| 43 | [Ya No Vives En Mí \(¿Cuál Adiós?\) \- Banda](https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya No Vives En Mí \(¿Cuál Adiós?\) \[Banda\]](https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1) | 3:38 |
+| 42 | [Ya No Vives En Mí \(¿Cuál Adiós?\) \- Banda](https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya No Vives En Mí \(¿Cuál Adiós?\) \[Banda\]](https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1) | 3:38 |
+| 43 | [Compañera Mía](https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya Se Fue](https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH) | 3:26 |
 | 44 | [Pero La Recuerdo](https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Pero La Recuerdo](https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG) | 3:45 |
 | 45 | [Historia De Un Amor](https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Historia De Un Amor](https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D) | 2:59 |
 | 46 | [Cien Por Ciento Sincero](https://open.spotify.com/track/0Vp2IK6mnqGiJGmH2SKIH7) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cien Por Ciento Sincero](https://open.spotify.com/album/6HOlmYD1XgnsPTvPUqUYbq) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Con El Alma Marchita](https://open.spotify.com/track/0u0BI9iLG7JzCr0x4eXXWw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Con El Alma Marchita](https://open.spotify.com/album/7sYFshjpDNY6M4Z1AGySqb) | 3:20 |
 | 50 | [Invéntame Un Amor](https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 4:01 |
 
-Snapshot ID: `Z8jlgAAAAAD2sbe3yuJRo1oG3Xn4OBFP`
+Snapshot ID: `Z8o3AAAAAADjoqFBGnQX/7bFRqKr5WWC`

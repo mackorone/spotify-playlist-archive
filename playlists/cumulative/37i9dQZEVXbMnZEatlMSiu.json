@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 194733,
       "name": "ATTITUDE",
       "url": "https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg"
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
@@ -2643,6 +2643,32 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230171,
+      "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
+      "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
+    },
+    {
+      "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
@@ -2976,10 +3002,32 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "album": {
@@ -3677,6 +3725,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/4EIFwndJvGpgFjsEbNuYif"
+    },
+    {
+      "album": {
         "name": "ExtraL (feat. Doechii)",
         "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
       },
@@ -3692,7 +3762,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 167754,
       "name": "ExtraL (feat. Doechii)",
       "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
@@ -3768,6 +3838,24 @@
       "duration_ms": 202280,
       "name": "F*ck My Life",
       "url": "https://open.spotify.com/track/3tgWMPOY4stCdKYj5NjrAe"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152750,
+      "name": "F.T.S.",
+      "url": "https://open.spotify.com/track/1iRIdATb1I276VdKK7JVAB"
     },
     {
       "album": {
@@ -4014,6 +4102,24 @@
       "duration_ms": 214620,
       "name": "Film out",
       "url": "https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151776,
+      "name": "Filter",
+      "url": "https://open.spotify.com/track/104KjF0t9EnlFOoxGLxiSQ"
     },
     {
       "album": {
@@ -4944,6 +5050,28 @@
       "duration_ms": 174692,
       "name": "hair tie",
       "url": "https://open.spotify.com/track/2bLGJ6yOPN4fAKQkLrJYxp"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
       "album": {
@@ -6161,6 +6289,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98255,
+      "name": "Intro : JANE with FKJ",
+      "url": "https://open.spotify.com/track/0eWDLVMI5mB2x3WWOjL6uu"
+    },
+    {
+      "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
@@ -6280,7 +6430,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
@@ -7167,6 +7317,24 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
       },
@@ -7391,6 +7559,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv"
+    },
+    {
+      "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
@@ -7406,7 +7596,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
@@ -7442,7 +7632,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -7728,6 +7918,24 @@
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/1kUyOJb3fzUo8r0OCz5SQk"
     },
     {
       "album": {
@@ -8518,7 +8726,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 209440,
       "name": "Nothing's gonna change my love for you",
       "url": "https://open.spotify.com/track/20WIExWA0CPJ92x9jm7hNR"
@@ -9446,7 +9654,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
@@ -11043,6 +11251,24 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168457,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0kHZ0qrGL9MohF9R8Uw77Y"
+    },
+    {
+      "album": {
         "name": "Stars Align (with Jolin Tsai)",
         "url": "https://open.spotify.com/album/3NaSfby8UoOmwbNKFlo1zu"
       },
@@ -11062,6 +11288,24 @@
       "duration_ms": 161904,
       "name": "Stars Align (with Jolin Tsai)",
       "url": "https://open.spotify.com/track/0xDQPgYdTQZCn92Ee1W0WW"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165066,
+      "name": "start a war",
+      "url": "https://open.spotify.com/track/6SaSFVlIQC1L6Fh1QKLeFi"
     },
     {
       "album": {
@@ -11486,7 +11730,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4"
@@ -11576,7 +11820,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
@@ -11652,7 +11896,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 219004,
       "name": "TAKE ME",
       "url": "https://open.spotify.com/track/3vIkVVbhpMvsOJ1BKWT0nT"
@@ -11988,7 +12232,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 178900,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
@@ -12452,6 +12696,24 @@
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208909,
+      "name": "twin",
+      "url": "https://open.spotify.com/track/6vUlAOoP5qqS3nPQmyc0Yc"
     },
     {
       "album": {
@@ -13052,7 +13314,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -13070,7 +13332,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
@@ -13364,6 +13626,24 @@
       "duration_ms": 132800,
       "name": "Winter Wonderland - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163899,
+      "name": "with the IE (way up)",
+      "url": "https://open.spotify.com/track/7rzzByujLJIBXpyOCnJhfx"
     },
     {
       "album": {
@@ -13736,6 +14016,24 @@
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201446,
+      "name": "ZEN",
+      "url": "https://open.spotify.com/track/2chbuybiy6aDDBC985tJcP"
     },
     {
       "album": {
@@ -15758,7 +16056,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 236343,
       "name": "\u56de\u7559",
       "url": "https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX"
@@ -16372,7 +16670,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 200000,
       "name": "\u5b57\u5b57\u53e5\u53e5",
       "url": "https://open.spotify.com/track/7fAdinC2UTc0Y9GiKrkTtu"
@@ -17964,7 +18262,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 289066,
       "name": "\u6211\u61f7\u5ff5\u7684",
       "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
@@ -19372,7 +19670,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 197273,
       "name": "\u70ba\u59b3\u5beb\u7684\u6b4c",
       "url": "https://open.spotify.com/track/5qmtIGToI36Z9sNE7bvghH"
@@ -20116,7 +20414,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 236093,
       "name": "\u7d05\u8c46",
       "url": "https://open.spotify.com/track/5TkQbhQm9BXONk2agDo4w9"
@@ -20134,7 +20432,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 236093,
       "name": "\u7d05\u8c46",
       "url": "https://open.spotify.com/track/6fINptnBBbiz2JPIBhkJL7"
@@ -22032,7 +22330,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 288360,
       "name": "\u9ea5\u6069\u8389",
       "url": "https://open.spotify.com/track/04GSbfB9TU0uH32b3rZbLs"

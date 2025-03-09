@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,433,328 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,433,315 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 12 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 |
 | 13 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 |
 | 14 | [all night long](https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [all night long](https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO) | 3:14 |
-| 15 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
-| 16 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
+| 15 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
+| 16 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
 | 17 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 |
 | 18 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 |
 | 19 | [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 38 | [Little Lies](https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Little Lies](https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV) | 3:17 |
 | 39 | [Blinding Lights](https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Blinding Lights](https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1) | 3:26 |
 | 40 | [The Scientist](https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Scientist](https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse) | 4:35 |
-| 41 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 |
-| 42 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd) | 3:37 |
+| 41 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd) | 3:37 |
+| 42 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 |
 | 43 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 |
 | 44 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 |
 | 45 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 64 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
 | 65 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
 | 66 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 |
-| 67 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 |
-| 68 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 67 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 68 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 |
 | 69 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
 | 70 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 |
 | 71 | [I Was Never There](https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe) | [Parker Clair](https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr) | [I Was Never There](https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz) | 2:59 |
 | 72 | [I Ain't Worried](https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I Ain't Worried](https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb) | 2:44 |
-| 73 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 |
-| 74 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 |
+| 73 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 |
+| 74 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 |
 | 75 | [Good](https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Good](https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe) | 4:01 |
 | 76 | [Ghost \- Acoustic](https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Ghost \- acoustic](https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE) | 2:31 |
 | 77 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Out Of My Head And Back In My Bed](https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M) | 3:10 |

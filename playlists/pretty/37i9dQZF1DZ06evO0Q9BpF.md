@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,003 likes - 50 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,029 likes - 50 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 29 | [Es por Fe](https://open.spotify.com/track/08TSCtVrDwbShoX72DOG23) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 5:41 |
 | 30 | [Él Me Amó Primero](https://open.spotify.com/track/6cn1iz7f2V7MSds6OkjwOF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Tu Amor No Tiene Fin](https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz) | 10:16 |
 | 31 | [Tu Nombre Santo Es](https://open.spotify.com/track/6q4pu6sxXBRst4nvYbdf56) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 7:49 |
-| 32 | [Mientras Viva](https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 3:28 |
+| 32 | [Venga Tu Reino](https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 8:25 |
 | 33 | [Somos Tu Iglesia](https://open.spotify.com/track/3SEOCoySutuNM3ErXmPTnP) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Daniel Jr.](https://open.spotify.com/artist/6RgPTfxsFtycQgzm9rLOU5), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ), [Julian Gamba](https://open.spotify.com/artist/10a3kp2IK6PTgCAYH6BuSh) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 7:52 |
-| 34 | [Venga Tu Reino](https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 8:25 |
+| 34 | [Mientras Viva](https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 3:28 |
 | 35 | [Pródigo](https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 7:30 |
 | 36 | [Cristo Te Amo](https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 5:59 |
 | 37 | [Nada Más](https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 49 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
 | 50 | [Milagros](https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 6:28 |
 
-Snapshot ID: `Z8jlgAAAAABw4cJ5OQj7aoMUq5bL2CXv`
+Snapshot ID: `Z8o3AAAAAAADezPC3ier7YprhJNn1/ET`

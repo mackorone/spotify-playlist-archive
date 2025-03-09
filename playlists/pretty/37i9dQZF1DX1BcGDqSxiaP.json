@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 26153,
+  "num_followers": 26164,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Wander This World",
+        "url": "https://open.spotify.com/album/1gGPShgwiwjAXBOYwWgVV9"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Cherry Red Wine",
+      "url": "https://open.spotify.com/track/7vr9bUkivHRKfQoJeYXQmq"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 189213,
       "name": "312 Blood",
       "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Wander This World",
-        "url": "https://open.spotify.com/album/1gGPShgwiwjAXBOYwWgVV9"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Cherry Red Wine",
-      "url": "https://open.spotify.com/track/7vr9bUkivHRKfQoJeYXQmq"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -676,13 +676,13 @@
       },
       "artists": [
         {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
         }
       ],
-      "duration_ms": 279600,
-      "name": "Cotton Picking Blues",
-      "url": "https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF"
+      "duration_ms": 254080,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -692,13 +692,13 @@
       },
       "artists": [
         {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Common Ground",
-      "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
+      "duration_ms": 279600,
+      "name": "Cotton Picking Blues",
+      "url": "https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF"
     },
     {
       "added_at": "2023-05-17 15:52:13",

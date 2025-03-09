@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,547 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,709 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 19 | [El Rey De Corazones](https://open.spotify.com/track/5hXA2phKHcWusWa2UmKeAO) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:35 |
 | 20 | [El 24](https://open.spotify.com/track/3NonQgxZnkfpWDBdzHQf0k) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Lo Más Escuchado De](https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA) | 2:34 |
 | 21 | [Niégame](https://open.spotify.com/track/3A3En2MIrcY4S6aKVCBTQo) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Seguimos Sumando](https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk) | 3:35 |
-| 22 | [Pideme La Luna](https://open.spotify.com/track/4j3Mb447tHZjjW5Q24aSvd) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ['10 Exitazos "A Cada Instante"](https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC) | 2:17 |
+| 22 | [La Hielera](https://open.spotify.com/track/2iBdXFIWdH4iTk4lYS5cl9) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ['10 Exitazos "A Cada Instante"](https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC) | 3:35 |
 | 23 | [Dos Botellas De Mezcal](https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Millas Y Millas](https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM) | 3:16 |
 | 24 | [Corrido Del Chapo](https://open.spotify.com/track/7eklxTiqZNbzeGyNClZd9L) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [Ultimas Noticias](https://open.spotify.com/album/3Hl1IiF7mJuQ8GFxojPDaU) | 4:19 |
 | 25 | [Provócame](https://open.spotify.com/track/0NZ4QDyau19VUO9dSZuyWA) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Para Reconquistarte](https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP) | 2:39 |
 | 26 | [Por No Perderte Te Perdi](https://open.spotify.com/track/2ztISQmyTEG5YFb6z3VX3O) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:32 |
-| 27 | [La Hielera](https://open.spotify.com/track/2iBdXFIWdH4iTk4lYS5cl9) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ['10 Exitazos "A Cada Instante"](https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC) | 3:35 |
+| 27 | [Pideme La Luna](https://open.spotify.com/track/4j3Mb447tHZjjW5Q24aSvd) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ['10 Exitazos "A Cada Instante"](https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC) | 2:17 |
 | 28 | [Flor Hermosa](https://open.spotify.com/track/3UTj5afltxN4pVei3W29QF) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:10 |
 | 29 | [Los Chiquinarcos](https://open.spotify.com/track/4zoUYrtW9Pql2fGVaiCnhU) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Lo Más Escuchado De](https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA) | 2:38 |
 | 30 | [No Existe Amor Igual \- Versiones con Guitarras](https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su) | [Ulises Quintero](https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu) | [Contigo](https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw) | 2:58 |

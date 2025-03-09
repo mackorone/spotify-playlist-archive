@@ -4,7 +4,7 @@
 
 > A salute to all of the women who open up the pit\. Cover: Courtney LaPlante of Spiritbox
 
-419 songs - 1 day 2 hr 47 min
+420 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Diamonds and Dark](https://open.spotify.com/track/1fNO2fYTMVnadgqF5Aqui7) | [Phantom Elite](https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX) | [Diamonds and Dark](https://open.spotify.com/album/0REvlMPAOWsiNrjin4bmdw) | 4:49 | 2020-12-07\* | 2022-07-29 |
 | [Diana](https://open.spotify.com/track/6mJ1xzqTOpUfIKVc4d5HDl) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Diana](https://open.spotify.com/album/3KQGVYjzN1c5QhhdeGwIMF) | 4:16 | 2021-05-29 | 2022-07-16 |
 | [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 | 2023-08-07 | 2024-07-20 |
-| [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 | 2022-11-18 |  |
+| [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 | 2022-11-18 | 2025-03-09 |
 | [Drive](https://open.spotify.com/track/1D27ysHw4QbNyGfEe4yljT) | [Clio Cadence](https://open.spotify.com/artist/7ptBJGsem3xogV261ZUhtq) | [Drive](https://open.spotify.com/album/6fdWJnMaCRzCvsHhTvrXGU) | 3:42 | 2020-12-07\* | 2022-10-30 |
 | [Drive It Like You Stole It](https://open.spotify.com/track/74qhamOhw3kR1BCgpCnsiW) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [Drive It Like You Stole It](https://open.spotify.com/album/7sUt71Y22RFvzGHYFolvaB) | 3:33 | 2020-12-07\* | 2022-07-29 |
 | [Drive It Like You Stole It](https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [20/20](https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan) | 3:36 | 2022-03-11 | 2024-02-10 |
@@ -416,6 +416,7 @@
 | [Whisper](https://open.spotify.com/track/1TU3KOnNwSERgNbF2Yzl7N) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 5:27 | 2024-06-01 | 2025-03-08 |
 | [Whore](https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l) | 4:05 | 2023-03-02 | 2025-03-08 |
 | [Wicked Woman](https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF) | [Coven](https://open.spotify.com/artist/6eTKX1Kyy9gMamdDyj736Y) | [Witchcraft Destroys Minds And Reaps Souls](https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF) | 2:57 | 2025-03-07 |  |
+| [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 | 2025-03-08 |  |
 | [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 | 2024-02-16 | 2025-03-08 |
 | [Yeah Right](https://open.spotify.com/track/3dLSEH3LqTsCcBFMzsE0Er) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 3:29 | 2023-09-15 | 2024-04-19 |
 | [Yeah Right](https://open.spotify.com/track/0UY45tlfKBdZhhku10TBEc) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Yeah Right](https://open.spotify.com/album/4Iz5ekk3xTAlml2xuo406P) | 3:30 | 2020-12-07\* | 2022-07-29 |

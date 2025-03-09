@@ -4,7 +4,7 @@
 
 > The latest of R&B in the UK\. Cover: Mychelle
 
-362 songs - 18 hr 52 min
+363 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Girlfriend](https://open.spotify.com/track/5deRvXDZlILXkHZG1DA4sJ) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Girlfriend](https://open.spotify.com/album/48MblNhpA4tKaIxlev3VvE) | 2:49 | 2023-07-21 | 2023-09-15 |
 | [Give](https://open.spotify.com/track/6nIEeQkpfPtijiUVsgiqTI) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Give](https://open.spotify.com/album/0CI4HNURaCU5gDJrfSv2Db) | 3:49 | 2024-05-10 | 2025-03-07 |
 | [Give Up The Fear](https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/3MS50q90DYesShrGsqAFve) | 2:39 | 2024-05-31 | 2025-03-07 |
+| [Glow](https://open.spotify.com/track/0coL1H5F5ZvN4fzPMWxvWq) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Glow](https://open.spotify.com/album/3uKS7fIydLpnjcCfDlSMkd) | 3:17 | 2025-03-07 |  |
 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 | 2023-05-15 | 2023-09-15 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-09-22 | 2024-09-13 |
 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 | 2023-09-22 | 2024-09-13 |
@@ -296,7 +297,7 @@
 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 | 2023-10-19 | 2024-09-13 |
 | [sore loser \- Acoustic](https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [sore loser \(Acoustic\)](https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam) | 2:11 | 2023-05-15 | 2024-09-13 |
 | [Special Feeling](https://open.spotify.com/track/5PFwsxWhzsjb3Yfi8U9XdM) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Special Feeling](https://open.spotify.com/album/5CuVwOalisvrfvgvgvFAgx) | 3:15 | 2024-04-26 | 2024-05-11 |
-| [STAIN\. \(Golden Tears\)](https://open.spotify.com/track/6c5gVdxYZZFGHHxnKF44FD) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [STAIN\. \(Golden Tears\)](https://open.spotify.com/album/2DeMi7HcPgh2svwiUlMzvZ) | 4:27 | 2024-12-13 |  |
+| [STAIN\. \(Golden Tears\)](https://open.spotify.com/track/6c5gVdxYZZFGHHxnKF44FD) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [STAIN\. \(Golden Tears\)](https://open.spotify.com/album/2DeMi7HcPgh2svwiUlMzvZ) | 4:27 | 2024-12-13 | 2025-03-09 |
 | [Stay](https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Stay](https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB) | 3:05 | 2024-04-26 | 2025-02-07 |
 | [stick around](https://open.spotify.com/track/4QB4OhHRXjaSAa2FjLURGw) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [how did we end up here? \(Deluxe\)](https://open.spotify.com/album/7x9hKDNgOWyzn3OrKVixBt) | 2:43 | 2025-01-17 |  |
 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/6jeP9JMozdxrVzvVXp6FKj) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:25 | 2022-07-17 | 2023-05-15 |

@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 202658,
       "name": "Four Day Honory Scat (Take 1)",
       "url": "https://open.spotify.com/track/0jaNMavPO23d0ut1KfBCGA"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 168763,
       "name": "Honey Where You Been So Long",
       "url": "https://open.spotify.com/track/6BzU24Sabe64hspKCx7hUk"
@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Gone Daddy Blues",
+        "url": "https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170480,
+      "name": "Lost Wandering Blues",
+      "url": "https://open.spotify.com/track/0fpBJbQMS9t0k5bVz9zdkD"
+    },
+    {
+      "album": {
         "name": "Presenting Ma Rainey",
         "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
       },
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 203986,
       "name": "Ma Rainey's Mystery Blues",
       "url": "https://open.spotify.com/track/0KTEMMfYtJKmluofk8WVRa"

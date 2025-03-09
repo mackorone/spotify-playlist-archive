@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,443 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,509 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 40 | [FUMETEO \- Remix](https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [FUMETEO \(Remix\)](https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD) | 3:34 |
 | 41 | [Hielo](https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:11 |
 | 42 | [77](https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:35 |
-| 43 | [Caras Vemos](https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:36 |
-| 44 | [Friends \- Remix](https://open.spotify.com/track/54iyLNmcnLWNdCqX5pdtuL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:08 |
-| 45 | [Heavyweight](https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:44 |
-| 46 | [Especial](https://open.spotify.com/track/5sY7UZw6t8CYJNXp1K2y49) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz Care Package](https://open.spotify.com/album/2xx0ajBaOvCKDgGCgEHNIA) | 2:45 |
-| 47 | [Hugo](https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:58 |
-| 48 | [¿Qué Carajos Quieres Tú Ahora?](https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:35 |
-| 49 | [TQMQA](https://open.spotify.com/track/0Xm7WesKiHAAbLYluGqBZ7) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:49 |
-| 50 | [LA MAYBACH](https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA MAYBACH](https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff) | 4:00 |
+| 43 | [Friends \- Remix](https://open.spotify.com/track/54iyLNmcnLWNdCqX5pdtuL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:08 |
+| 44 | [Caras Vemos](https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:36 |
+| 45 | [TQMQA](https://open.spotify.com/track/0Xm7WesKiHAAbLYluGqBZ7) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:49 |
+| 46 | [Heavyweight](https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:44 |
+| 47 | [¿Qué Carajos Quieres Tú Ahora?](https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:35 |
+| 48 | [Hugo](https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:58 |
+| 49 | [Especial](https://open.spotify.com/track/5sY7UZw6t8CYJNXp1K2y49) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz Care Package](https://open.spotify.com/album/2xx0ajBaOvCKDgGCgEHNIA) | 2:45 |
+| 50 | [El Malo](https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:29 |
 
-Snapshot ID: `Z8jlgAAAAADO+9gWajF7jxVZgZFxVghn`
+Snapshot ID: `Z8o3AAAAAADEpcdl8djWs5YIlDosOoE2`

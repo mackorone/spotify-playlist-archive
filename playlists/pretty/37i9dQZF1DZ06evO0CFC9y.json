@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 36011,
+  "num_followers": 36015,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAA1TxGyOb/oVeGcCVJV/vvR",
+  "snapshot_id": "Z8o3AAAAAABgKkzclRnTNAsEarLs5f6A",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Ever And A Day",
-      "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
+      "duration_ms": 118866,
+      "name": "Sacrifice Theory",
+      "url": "https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 118866,
-      "name": "Sacrifice Theory",
-      "url": "https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP"
+      "duration_ms": 186933,
+      "name": "Ever And A Day",
+      "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing The Sorrow (Deluxe)",
         "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 228440,
       "name": "Rabbits Are Roadkill On Rt. 37",
       "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Dark",
-        "url": "https://open.spotify.com/album/6tyg893U6i4o9yKH0K6Pms"
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 160923,
-      "name": "Get Dark",
-      "url": "https://open.spotify.com/track/1NdkKzGcN1e5h2Quk6tuXF"
+      "duration_ms": 169293,
+      "name": "Third Season",
+      "url": "https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Your Mouth And Open Your Eyes",
-        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+        "name": "Get Dark",
+        "url": "https://open.spotify.com/album/6tyg893U6i4o9yKH0K6Pms"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 169293,
-      "name": "Third Season",
-      "url": "https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF"
+      "duration_ms": 160923,
+      "name": "Get Dark",
+      "url": "https://open.spotify.com/track/1NdkKzGcN1e5h2Quk6tuXF"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 147133,
-      "name": "Your Name Here",
-      "url": "https://open.spotify.com/track/03clzUiJrTQDkckYgEznfO"
+      "duration_ms": 93706,
+      "name": "Three Reasons",
+      "url": "https://open.spotify.com/track/3buW09qkN0WsPWmeStXdDC"
     }
   ],
   "unique_name": "This Is AFI",

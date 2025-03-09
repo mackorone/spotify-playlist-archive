@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: JENNIE
 
-1,404 songs - 3 day 2 hr 58 min
+1,406 songs - 3 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2022-12-29 | 2023-03-29 |
 | [HANA](https://open.spotify.com/track/0UXWF5PYBunoB1iQjQ5moz) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [PREZENT](https://open.spotify.com/album/2W4coh0YmTpCovcdoyxmGd) | 3:11 | 2025-01-28 | 2025-03-07 |
 | [HANA MICHI](https://open.spotify.com/track/6Ype063HsGKF7AholzHRFh) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [HANA MICHI](https://open.spotify.com/album/4rHAamZcFkv1pnv2FHKua4) | 3:44 | 2023-03-14 | 2023-03-22 |
-| [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 |  |
+| [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 | 2025-03-09 |
 | [Hands Up](https://open.spotify.com/track/0Wp5yopFqgKyklOReg9S8a) | [NCT NEW TEAM](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Hands Up](https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR) | 3:14 | 2023-10-10 | 2023-11-23 |
 | [Happy Death Day](https://open.spotify.com/track/6IU2u7AKUffdmcbYPK9YR1) | [Xdinary Heroes](https://open.spotify.com/artist/5FgP85u2BR2WFWhMz959es) | [Happy Death Day](https://open.spotify.com/album/3sQhbas4eoH7l38Uy0ZJ3z) | 3:40 | 2021-12-23 | 2022-02-16 |
 | [HARD](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [HARD \- The 8th Album](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) | 2:56 | 2023-06-27 | 2023-09-13 |
@@ -599,7 +599,8 @@
 | [Into You](https://open.spotify.com/track/049uXN76j7jCn0OrQiSDCm) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Into You](https://open.spotify.com/album/3rLteXReBNmvMLaTufI17p) | 2:38 | 2024-06-25 | 2024-08-16 |
 | [Invincible](https://open.spotify.com/track/3FWXkGqJx0giJzQNqkcK74) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [EVOLution <⟡>](https://open.spotify.com/album/3Y0JJMZ92U2D5zKGQDfkH5) | 3:17 | 2023-10-11 | 2023-12-06 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 | 2022-05-03 |
-| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-03-06 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-03-06 | 2025-03-09 |
+| [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-08 |  |
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2023-07-17 | 2023-09-15 |
 | [Ito](https://open.spotify.com/track/0Fb1M7rbOnydw6SrXXSlHr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Ito](https://open.spotify.com/album/4kZPJgs4OcK4AXHlEbIwuU) | 4:03 | 2021-12-23 | 2022-01-11 |
 | [IZNA](https://open.spotify.com/track/2rekyusaTqo0OseugmKV9h) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:36 | 2024-11-25 |  |
@@ -660,6 +661,7 @@
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-24 | 2023-08-11 |
 | [LIKE IT LIKE IT](https://open.spotify.com/track/6VgpwRvDpTt880tIhkGjap) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv) | 3:08 | 2023-04-05 | 2023-05-26 |
 | [LIKE IT LIKE IT](https://open.spotify.com/track/7ISeBBHzZgNWiDjJEcv3YH) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/78pg93B2eu8AMtNtCyWyA2) | 3:08 | 2023-03-03 | 2023-05-10 |
+| [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-08 |  |
 | [Like Snow\-White](https://open.spotify.com/track/4UWMq8MZLZoYp6sPfau7bj) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Epitaph](https://open.spotify.com/album/0G2cUavLBvDifRqcO1d9qJ) | 3:04 | 2022-03-15 | 2022-04-13 |
 | [Like That](https://open.spotify.com/track/1sxNix9ZqNI50638iunh68) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Like That](https://open.spotify.com/album/4SOTVJp2kAs4oZYCER8hYu) | 2:43 | 2024-04-12 | 2024-05-08 |
 | [LIKE U 100](https://open.spotify.com/track/25ujeTA1Ma2rYzxr7ozdrP) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Flowering](https://open.spotify.com/album/2UUsZyRmggGvLJTnp0ZKcE) | 2:46 | 2025-02-25 |  |

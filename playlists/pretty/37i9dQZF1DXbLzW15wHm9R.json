@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8XyzwAAAABCxnpckqtb9AVD1+pgRCEG",
+  "snapshot_id": "Z8u15wAAAAARlkgdToK1RP4JGZlrPplF",
   "tracks": [
+    {
+      "added_at": "2025-03-08 03:13:43",
+      "album": {
+        "name": "Waiting On A Wish (From \"Disney's Snow White\")",
+        "url": "https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Waiting On A Wish - From \"Disney's Snow White\"",
+      "url": "https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx"
+    },
     {
       "added_at": "2024-11-13 01:01:44",
       "album": {
@@ -551,22 +571,6 @@
       "duration_ms": 151395,
       "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
-    },
-    {
-      "added_at": "2024-11-22 06:56:36",
-      "album": {
-        "name": "The Way It Was Before (End Credits Version) [From the Netflix film by Skydance Animation \"Spellbound\"]",
-        "url": "https://open.spotify.com/album/60hiESggNyRXv4japokeyn"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 226277,
-      "name": "The Way It Was Before (End Credits Version)",
-      "url": "https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB"
     },
     {
       "added_at": "2024-06-07 04:00:00",

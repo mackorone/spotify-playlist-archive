@@ -1,6 +1,6 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks. (\uadf8 \uc2dc\uc808 \uadf8 \ub54c\uc758 \uac10\uc131\uc774 \ub2f4\uaca8 \uc788\ub294 OST \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 925418,
+  "num_followers": 925736,
   "original_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 5",
-        "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
-      },
-      "artists": [
-        {
-          "name": "DOKYEOM",
-          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
-        }
-      ],
-      "duration_ms": 209711,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 195333,
       "name": "You are so beautiful",
       "url": "https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 5",
+        "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
+      },
+      "artists": [
+        {
+          "name": "DOKYEOM",
+          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
+        }
+      ],
+      "duration_ms": 209711,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 11",
-        "url": "https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 217989,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Heartstrings OST Part.1",
         "url": "https://open.spotify.com/album/4wPXtpmM46V8TgyE2cgkiZ"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 191007,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/0mtuqz4rcMYCKjF1cjmlu6"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 11",
+        "url": "https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 217989,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Sensibility",
-        "url": "https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E"
-      },
-      "artists": [
-        {
-          "name": "Baek Z Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "\ucd1d\ub9de\uc740\uac83\ucc98\ub7fc",
-      "url": "https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Cinderella & Four Knights, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3heg9wwUtmvksQ1s68OZBT"
       },
@@ -1635,22 +1619,34 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 12",
-        "url": "https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ"
+        "name": "Sensibility",
+        "url": "https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E"
       },
       "artists": [
         {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        },
-        {
-          "name": "EZ Kim",
-          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
+          "name": "Baek Z Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
         }
       ],
-      "duration_ms": 259786,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f"
+      "duration_ms": 239146,
+      "name": "\ucd1d\ub9de\uc740\uac83\ucc98\ub7fc",
+      "url": "https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Descendants Of The Sun Pt.10 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2pnAzG7QBcvCcZFBvp1Pvl"
+      },
+      "artists": [
+        {
+          "name": "XIA",
+          "url": "https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi"
+        }
+      ],
+      "duration_ms": 260294,
+      "name": "How Can I Love You",
+      "url": "https://open.spotify.com/track/2bgOhdw80vH03155D5Bm3s"
     }
   ],
   "unique_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",

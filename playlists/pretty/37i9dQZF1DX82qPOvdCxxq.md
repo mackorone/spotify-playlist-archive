@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Taylor Tripodi \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,076 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,099 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover:  Budi Doremi
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,613 likes - 88 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,616 likes - 88 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 63 | [Antara Kita](https://open.spotify.com/track/2GU8Xs5cuFuxjvc21MQzij) | [Five Minutes](https://open.spotify.com/artist/1jpcciDZSo632cA34WIfTX) | [Antara Kita](https://open.spotify.com/album/1iptQNpfeyDYIjbBKfnT7R) | 3:55 |
 | 64 | [SEBENING SENJA](https://open.spotify.com/track/5NQd1x8wIVw1gCCJhiJbkE) | [Letto](https://open.spotify.com/artist/2vRToyl7mxoVbwwSsRBXAM) | [SEBENING SENJA](https://open.spotify.com/album/0E2gghCiWbWGTYKkuOTsz4) | 3:27 |
 | 65 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 |
-| 66 | [Di Sore Hari yang Lucu](https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu), [Videmarsha](https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB) | [The Folk: Side B](https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi) | 4:39 |
+| 66 | [Di Sore Hari yang Lucu](https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu), [Videmarsha](https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB) | [The Folk: Side B](https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi) | 4:39 |
 | 67 | [Sejauhjauhjauhnya](https://open.spotify.com/track/6MCtc6P8vJM3lleGjFULcf) | [Maisha Kanna](https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw) | [Sejauhjauhjauhnya](https://open.spotify.com/album/7m9ibx4PLPwhNX6bo2uu9u) | 4:07 |
 | 68 | [Lanjutkan Perjuangan Kita!](https://open.spotify.com/track/1t3HDSnYKVW0MDyKcuUFyD) | [Gusti Irwan Wibowo](https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3) | [Lanjutkan Perjuangan Kita!](https://open.spotify.com/album/67rFsdqNvxkLSMPd7tuzVZ) | 4:05 |
 | 69 | [Tarik Ulur](https://open.spotify.com/track/4geXWfWtm5WCaiXeIP28oT) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Tarik Ulur](https://open.spotify.com/album/25WHSHiaxGwQEHgmzAmZRs) | 4:01 |

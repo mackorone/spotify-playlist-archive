@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,341,811 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,342,425 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 23 | [Get A Way](https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 3:46 |
 | 24 | [Think About the Way](https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:20 |
 | 25 | [Another Night](https://open.spotify.com/track/0gggjVyUJd90tYzAnmBjFV) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0xHHJdnDNOUDmIKqBZnHV9) | 3:56 |
-| 26 | [The Summer Is Magic \(Radio Mix\)](https://open.spotify.com/track/6bXFXDYcwHiuvW1IDayCPA) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \(Radio Mix\)](https://open.spotify.com/album/5VE3kQMUhC8dqhBziRsQ28) | 3:56 |
-| 27 | [More And More \- Single Version](https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Love Is Not Sex](https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo) | 4:13 |
+| 26 | [More And More \- Single Version](https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Love Is Not Sex](https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo) | 4:13 |
+| 27 | [The Summer Is Magic \(Radio Mix\)](https://open.spotify.com/track/6bXFXDYcwHiuvW1IDayCPA) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \(Radio Mix\)](https://open.spotify.com/album/5VE3kQMUhC8dqhBziRsQ28) | 3:56 |
 | 28 | [Missing \- Todd Terry Club Mix / US Radio Edit](https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart](https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR) | 4:09 |
 | 29 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Music For Girls Night Out](https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k) | 3:37 |
 | 30 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 42 | [Right in the Night \(Fall in Love with Music\)](https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Plavka](https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2) | [Tripomatic Fairytales 2001 \(Deluxe Edition\)](https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt) | 6:04 |
 | 43 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 | 44 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
-| 45 | [No More \(I Can't Stand It\)](https://open.spotify.com/track/6JXghpembwocSY1Ky0TxTt) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 4:41 |
+| 45 | [Bailando \- Video Edit](https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Bailando](https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y) | 3:49 |
 | 46 | [Can‘t Stop Raving \(Video Mix\)](https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r) | [Can‘t Stop Raving](https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB) | 3:36 |
-| 47 | [Bailando \- Video Edit](https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Bailando](https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y) | 3:49 |
+| 47 | [No More \(I Can't Stand It\)](https://open.spotify.com/track/6JXghpembwocSY1Ky0TxTt) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 4:41 |
 | 48 | [I Give You My Heart](https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:35 |
 | 49 | [Tarzan & Jane](https://open.spotify.com/track/2R3gfyDoBo0uXZSwTiKysZ) | [Toy\-Box](https://open.spotify.com/artist/0BYEp3eyHK9Wsp4t2Ad1R8) | [FanTastic](https://open.spotify.com/album/7pZA63LsjuRCziMYfjEYjf) | 3:06 |
 | 50 | [United \- Short Mix](https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm) | [Mark 'Oh](https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1) | [United](https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF) | 3:41 |

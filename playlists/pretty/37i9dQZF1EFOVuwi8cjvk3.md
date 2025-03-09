@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339 likes - 241 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 340 likes - 241 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 240 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 | 241 | [Get Krazy](https://open.spotify.com/track/2O3YgsmoPyKvbHCNmRFEOA) | [Bigg Dogg](https://open.spotify.com/artist/2Fsd7VeBkpjuYnPk87X57g) | [The Vaccine](https://open.spotify.com/album/2Uky9NSAp1e9ILVPIBqoLE) | 4:11 |
 
-Snapshot ID: `AbrcdgAAAACA6rR467Fql++3WOSJ3alv`
+Snapshot ID: `AbriFgAAAABT4phHiA4Mk8B/YVY3Ae4Y`

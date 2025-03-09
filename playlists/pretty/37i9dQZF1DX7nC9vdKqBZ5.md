@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515,506 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515,517 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 53 | [Energia Surreal \- Acústica](https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Energia Surreal \(Acústica\)](https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc) | 2:57 |
 | 54 | [ciumeira](https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:31 |
 | 55 | [Rei do Luau \- Infusão](https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Capim\-Cidreira \(Infusão\)](https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5) | 2:54 |
-| 56 | [Cartas e Versos](https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Cartas e Versos](https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7) | 3:19 |
-| 57 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
+| 56 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
+| 57 | [Cartas e Versos](https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Cartas e Versos](https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7) | 3:19 |
 | 58 | [Último Romance](https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Último Romance](https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU) | 4:17 |
 | 59 | [Alto Mar \- Sessions](https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar \(Sessions\)](https://open.spotify.com/album/1WM4nNIbeBe9hzYecKlMA9) | 3:20 |
 | 60 | [Gostosin \(Acoustic\)](https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [Ventura](https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF) | [Gostosin \(Acoustic\)](https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy) | 3:00 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 81 | [Quando a Chuva Passar](https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip) | [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Peu Canta Ivete](https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw) | 4:03 |
 | 82 | [Fica](https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5) | 3:04 |
 | 83 | [Frágil Coração](https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Frágil Coração](https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP) | 3:36 |
-| 84 | [Meu Abrigo](https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1) | 3:51 |
+| 84 | [Sorte](https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Sorte](https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG) | 3:15 |
 | 85 | [Novo Ciclo](https://open.spotify.com/track/5HhcXOota042Ync4U2OCfc) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Cabelera](https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Novo Ciclo](https://open.spotify.com/album/3Uayj41Ce88zsnjXajnGG2) | 3:50 |
 | 86 | [Morena \(Acoustic Version\)](https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Morena \(Acoustic Version\)](https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h) | 2:46 |
-| 87 | [Sorte](https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Sorte](https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG) | 3:15 |
+| 87 | [Meu Abrigo](https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1) | 3:51 |
 | 88 | [Eu Não Falo Te Amo \- Acústico](https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Não Falo Te Amo \(Acústico\)](https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY) | 2:18 |
 | 89 | [Agora Eu Quero Ir](https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:12 |
 | 90 | [Porque Eu Sei Que É Amor \- Acústico](https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Porque Eu Sei Que É Amor \(Acústico\)](https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ) | 3:23 |

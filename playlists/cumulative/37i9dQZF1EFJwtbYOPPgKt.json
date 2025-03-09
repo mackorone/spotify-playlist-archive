@@ -1130,6 +1130,24 @@
     {
       "album": {
         "name": "Summer Sumwhere",
+        "url": "https://open.spotify.com/album/7MabKKcRShWZLvtxBGuM3X"
+      },
+      "artists": [
+        {
+          "name": "JONI",
+          "url": "https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Summer Sumwhere",
+      "url": "https://open.spotify.com/track/2FU5HIB4iqKvxSlPAxzvft"
+    },
+    {
+      "album": {
+        "name": "Summer Sumwhere",
         "url": "https://open.spotify.com/album/5YNQfFnOvE01w4flgU7hay"
       },
       "artists": [
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 147200,
       "name": "Summer Sumwhere",
       "url": "https://open.spotify.com/track/7qIe2Z0VHanQOAgq48x08o"

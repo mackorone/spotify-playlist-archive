@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,020 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,029 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 22 | [Merry Christmas Mary Jane](https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Merry Christmas Mary Jane](https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j) | 4:12 |
 | 23 | [Let It Snow](https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Let It Snow](https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh) | 2:16 |
 | 24 | [Baby, It’s Cold Outside](https://open.spotify.com/track/6CGdeRGSoKtrzFo5XSypid) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:13 |
-| 25 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
-| 26 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
+| 25 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
+| 26 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
 | 27 | [Blame It on the Mistletoe](https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [For Christmas](https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G) | 3:18 |
 | 28 | [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 |
 | 29 | [Christmas Tree in the Window](https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Christmas Tree in the Window](https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES) | 4:24 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 38 | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ) | 3:52 |
 | 39 | [Christmas Time's A\-Comin' \- Live](https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b) | [Jerry Garcia Acoustic Band](https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1) | [Christmas Time's A\-Comin'](https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v) | 3:02 |
 | 40 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 |
-| 41 | [The Brightest Star](https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ) | [Jim Avett](https://open.spotify.com/artist/1Pv7Pz9LKcQBJUDCgJHVwA) | [My Favorite Gifts \- Christmas Album](https://open.spotify.com/album/1vp1t3L2xcRoCz9HuFJSDN) | 4:14 |
-| 42 | [Fishing for Christmas](https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Fishing for Christmas](https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c) | 4:16 |
+| 41 | [Fishing for Christmas](https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Fishing for Christmas](https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c) | 4:16 |
+| 42 | [The Brightest Star](https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ) | [Jim Avett](https://open.spotify.com/artist/1Pv7Pz9LKcQBJUDCgJHVwA) | [My Favorite Gifts \- Christmas Album](https://open.spotify.com/album/1vp1t3L2xcRoCz9HuFJSDN) | 4:14 |
 | 43 | [Wonderful Christmas Time](https://open.spotify.com/track/3ojZyttDj9BPo3IJfYYeeB) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [The Songs the Season Brings, Vol\. 5](https://open.spotify.com/album/1oFbCfHaZmS713CJfmcnll) | 2:25 |
 | 44 | [Christmas in Prison](https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Christmas in Prison](https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG) | 3:32 |
 | 45 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 |

@@ -1,6 +1,6 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 81302,
+  "num_followers": 81322,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "All Of The Above",
         "url": "https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D"
       },
@@ -519,18 +503,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
       "artists": [
         {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
         }
       ],
-      "duration_ms": 192926,
-      "name": "Fear No More",
-      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -551,6 +535,22 @@
       "duration_ms": 426320,
       "name": "Grace To Grace",
       "url": "https://open.spotify.com/track/6arhFMHHQFVAKUINBs8wjQ"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 192926,
+      "name": "Fear No More",
+      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Purpose By Design",
         "url": "https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA"
       },
@@ -1139,6 +1119,26 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Be One (Deluxe Version)",
         "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
       },
@@ -1155,26 +1155,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 537866,
-      "name": "Your Glory / Nothing But The Blood - Live",
-      "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1199,22 +1191,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 291715,
-      "name": "Crowns & Thorns (Oceans)",
-      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/2fezbaVpWGGtsIvs8vHZLA"
       },
@@ -1227,6 +1203,30 @@
       "duration_ms": 310293,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/06wxyCQFJOT0bjvSPMQj7x"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 537866,
+      "name": "Your Glory / Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
-        }
-      ],
-      "duration_ms": 225187,
-      "name": "There Is Power",
-      "url": "https://open.spotify.com/track/68x16tb33FQdWyiOaZYteP"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "All My Hope",
         "url": "https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "duration_ms": 225187,
+      "name": "There Is Power",
+      "url": "https://open.spotify.com/track/68x16tb33FQdWyiOaZYteP"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Hallelujah For The Cross (Live)",
         "url": "https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 257666,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 505120,
-      "name": "If God / Nothing But the Blood",
-      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1655,22 +1639,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "My Hope Secure",
-        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 256734,
-      "name": "My Hope Secure",
-      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Something Different (Deluxe Version)",
         "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
       },
@@ -1683,22 +1651,6 @@
       "duration_ms": 228040,
       "name": "To Live Is Christ",
       "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 329720,
-      "name": "The Power Of The Cross",
-      "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1727,6 +1679,38 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "My Hope Secure",
+        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 256734,
+      "name": "My Hope Secure",
+      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 329720,
+      "name": "The Power Of The Cross",
+      "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2QPKh4LqUxtwXGwbriYzqZ"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 308274,
       "name": "Sweet Victory",
       "url": "https://open.spotify.com/track/3RpcCr8ZlIiYEctUYBAGQm"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 505120,
+      "name": "If God / Nothing But the Blood",
+      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 338466,
-      "name": "Risen",
-      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/3BB1Pe1PfijkrftFVmBEBs"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 190560,
       "name": "Lay 'Em Down",
       "url": "https://open.spotify.com/track/5384anjbn1d5biZEgrDUA7"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 338466,
+      "name": "Risen",
+      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 322261,
-      "name": "New Every Morning",
-      "url": "https://open.spotify.com/track/2J99v7FF6WQDMxaWPqM2Hg"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Valley of the Shadow",
         "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 256127,
       "name": "Glory & Grace",
       "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 322261,
+      "name": "New Every Morning",
+      "url": "https://open.spotify.com/track/2J99v7FF6WQDMxaWPqM2Hg"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 568786,
-      "name": "Broken Vessels (Amazing Grace) - Live",
-      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "My Utmost For His Highest",
         "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 201401,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "No Other Name (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 568786,
+      "name": "Broken Vessels (Amazing Grace) - Live",
+      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Already Not Yet - EP",
-        "url": "https://open.spotify.com/album/6XYL9HyAKieqmNHCwB9CCJ"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "Nothing but the Blood",
-      "url": "https://open.spotify.com/track/065Co6FqBnpguEmwSOzJ4q"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 205666,
       "name": "Alive",
       "url": "https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Already Not Yet - EP",
+        "url": "https://open.spotify.com/album/6XYL9HyAKieqmNHCwB9CCJ"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "Nothing but the Blood",
+      "url": "https://open.spotify.com/track/065Co6FqBnpguEmwSOzJ4q"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
-        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 329213,
-      "name": "O Praise The Name (An\u00e1stasis) - Live",
-      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "BEGINNINGS - 2 CD Set",
         "url": "https://open.spotify.com/album/6b5XytCLYrxIjlxTQgcoz7"
       },
@@ -2175,18 +2159,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2gpp8a4mU5gsAZbCMY1KjN"
+        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
+        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
       },
       "artists": [
         {
-          "name": "Brian Doerksen",
-          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         }
       ],
-      "duration_ms": 292546,
-      "name": "Refiner's Fire",
-      "url": "https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF"
+      "duration_ms": 329213,
+      "name": "O Praise The Name (An\u00e1stasis) - Live",
+      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2231,6 +2215,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 292289,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Of Dirt And Grace (Live From The Land)",
         "url": "https://open.spotify.com/album/3UE6nEjBDG16jE3DvSyioz"
       },
@@ -2251,18 +2251,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "When The Light Comes",
-        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2gpp8a4mU5gsAZbCMY1KjN"
       },
       "artists": [
         {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          "name": "Brian Doerksen",
+          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
         }
       ],
-      "duration_ms": 292289,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi"
+      "duration_ms": 292546,
+      "name": "Refiner's Fire",
+      "url": "https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2479,22 +2479,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Cornerstone (Live)",
-        "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
+        "name": "Grace In The Wilderness",
+        "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "David Ware",
-          "url": "https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7"
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
         }
       ],
-      "duration_ms": 409146,
-      "name": "Cornerstone - Live",
-      "url": "https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb"
+      "duration_ms": 255522,
+      "name": "Prepare The Way",
+      "url": "https://open.spotify.com/track/6b9SUi3Kc19DKilrsGzLe0"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2511,22 +2507,6 @@
       "duration_ms": 227013,
       "name": "Amen",
       "url": "https://open.spotify.com/track/77ntXt0HAf9cn9WJpzQQ3g"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Grace In The Wilderness",
-        "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 255522,
-      "name": "Prepare The Way",
-      "url": "https://open.spotify.com/track/6b9SUi3Kc19DKilrsGzLe0"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2579,6 +2559,26 @@
       "duration_ms": 323384,
       "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
       "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Cornerstone (Live)",
+        "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "David Ware",
+          "url": "https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7"
+        }
+      ],
+      "duration_ms": 409146,
+      "name": "Cornerstone - Live",
+      "url": "https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb"
     },
     {
       "added_at": "2024-07-02 00:52:59",

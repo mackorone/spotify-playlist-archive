@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: De Poema's & Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,732 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,776 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

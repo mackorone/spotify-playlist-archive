@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,288 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,472 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 43 | [Talking Like That](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Talking Like That](https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi) | 3:51 |
 | 44 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
 | 45 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
-| 46 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 |
-| 47 | [Indigo](https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Indigo EP](https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM) | 6:12 |
-| 48 | [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 |
+| 46 | [Indigo](https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Indigo EP](https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM) | 6:12 |
+| 47 | [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 |
+| 48 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 |
 | 49 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 |
 | 50 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,322 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,395 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 38 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
 | 39 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
 | 40 | [Southern Rock](https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:38 |
-| 41 | [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 |
-| 42 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
+| 41 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
+| 42 | [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 |
 | 43 | [Homeboy](https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:47 |
 | 44 | [I ain't Country](https://open.spotify.com/track/7HoqLd4ZXftkWF1TkQgSt2) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Heart On Ice](https://open.spotify.com/album/59AFllTisSU6QjmiBjIO82) | 2:40 |
 | 45 | [Drowning](https://open.spotify.com/track/22AYv6oubrOclu24nNux0M) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Drowning](https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF) | 4:48 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 97 | [Sorry For Nothing](https://open.spotify.com/track/0H4hXxR6cP8kvXfJf0xMou) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Sorry For Nothing](https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ) | 3:18 |
 | 98 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
 | 99 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
-| 100 | [Live Here To Work](https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Live Here To Work](https://open.spotify.com/album/02V2Qy6dT7y3eVZPQB0HsY) | 4:42 |
+| 100 | [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 |
 
 Snapshot ID: `Z8p9dgAAAAAYx1rt5Q2l6s7f90O7l9tb`

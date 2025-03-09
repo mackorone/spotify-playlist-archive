@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 69855,
+  "num_followers": 69864,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Innocent Eyes",
+        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
+      },
+      "artists": [
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Sneaky Sound System",
         "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 237247,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Innocent Eyes",
-        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
-      },
-      "artists": [
-        {
-          "name": "Delta Goodrem",
-          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Perennial",
+        "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Regular Touch",
+      "url": "https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Thirty One",
         "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Perennial",
-        "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
+        "name": "Watching Angels Mend",
+        "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
       },
       "artists": [
         {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+          "name": "Alex Lloyd",
+          "url": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
         }
       ],
-      "duration_ms": 208146,
-      "name": "Regular Touch",
-      "url": "https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5"
+      "duration_ms": 203213,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1155,22 +1171,6 @@
       "duration_ms": 167058,
       "name": "Fake Magic",
       "url": "https://open.spotify.com/track/0lvXfUug5YmOHOyHgXufqF"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Watching Angels Mend",
-        "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
-      },
-      "artists": [
-        {
-          "name": "Alex Lloyd",
-          "url": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
     }
   ],
   "unique_name": "Aussie Pop Classics",

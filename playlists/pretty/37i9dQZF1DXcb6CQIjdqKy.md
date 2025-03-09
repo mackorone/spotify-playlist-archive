@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Elle Limebear
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,626,781 likes - 99 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,626,904 likes - 99 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Los Títeres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,570 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,572 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 41 | [Ya No Quiero Bailar](https://open.spotify.com/track/3NMp7NOrfSsCtx4DjOzY3e) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Varias Paredes Pintadas](https://open.spotify.com/album/2LWOlZkkp3aXYCEVkBpyv6) | 3:59 |
 | 42 | [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 |
 | 43 | [Fantasma](https://open.spotify.com/track/6asMMsmhA6YXxu7YrYI8vr) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Fantasma](https://open.spotify.com/album/02PKUPTxOOUw2aPJtvBHPo) | 3:20 |
-| 44 | [D.I.E \(Dance In Ecstasy\)](https://open.spotify.com/track/03y9Y3WXf2A4RvNl7c4FN2) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que Obtenés cuando te Cansás de lo que Ya Obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 5:49 |
+| 44 | [D.I.E \(Dance In Ecstasy\)](https://open.spotify.com/track/03y9Y3WXf2A4RvNl7c4FN2) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que obtenés cuando te cansás de lo que ya obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 5:49 |
 | 45 | [Ciclos](https://open.spotify.com/track/4UMt3b7pmMC6cVmvePzhXA) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Ciclos](https://open.spotify.com/album/39cJ89qNaFHypKcucHwMfc) | 3:48 |
 | 46 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 |
 | 47 | [Piedra del Águila](https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Piedra del Águila](https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ) | 3:14 |

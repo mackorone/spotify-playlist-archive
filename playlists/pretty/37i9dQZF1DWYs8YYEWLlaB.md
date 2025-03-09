@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: Gülden
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,257 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,415 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 12 | [Bağışla](https://open.spotify.com/track/43Kpm3kz8904r3DCvrCx5h) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Bağışla](https://open.spotify.com/album/2se3g3MA4orPR1OI5TjWOP) | 3:37 |
 | 13 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 |
 | 14 | [YANKI X İNTİHAR](https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [YANKI X İNTİHAR](https://open.spotify.com/album/5ldopWpksuXdFaKyvQP7gr) | 2:31 |
-| 15 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 |
-| 16 | [Silinmez](https://open.spotify.com/track/4sVIEO6DXqoGakHuixuPad) | [Mansur Ark](https://open.spotify.com/artist/4dtvhNNnGCEi7bGpi3DsQd) | [Gazla Gitsin](https://open.spotify.com/album/0tvnLtAh5B0INwHi14UoW5) | 4:07 |
+| 15 | [Silinmez](https://open.spotify.com/track/4sVIEO6DXqoGakHuixuPad) | [Mansur Ark](https://open.spotify.com/artist/4dtvhNNnGCEi7bGpi3DsQd) | [Gazla Gitsin](https://open.spotify.com/album/0tvnLtAh5B0INwHi14UoW5) | 4:07 |
+| 16 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 |
 | 17 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 |
 | 18 | [Yasemen](https://open.spotify.com/track/2SVoUZdzxuDuxBdHSO73KF) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Yasemen](https://open.spotify.com/album/10hs7zZCXHauEHe9mjzG0z) | 2:30 |
 | 19 | [Ama Yine Sen](https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Yine Sen](https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj) | 2:14 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 37 | [Tırnağın Kırılmasın](https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Tırnağın Kırılmasın](https://open.spotify.com/album/3X5k2n8X0KaJF2GBFfvVBl) | 3:35 |
 | 38 | [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 |
 | 39 | [Neyleyim](https://open.spotify.com/track/3QSJlPYxNXCBP0y4SNB2E7) | [Emre Altuğ](https://open.spotify.com/artist/6CtMmrX12kYA3O4kINuWjZ) | [Kişiye Özel](https://open.spotify.com/album/0YKWM0fWJPqohGAIj9nTEw) | 4:45 |
-| 40 | [Gönlüm](https://open.spotify.com/track/5kGvQXOy9zumMUtmaYn2A9) | [Electro Tülay](https://open.spotify.com/artist/3nYlYKL8wcK4OertfuVsfl) | [Gece Film \(Soundtrack\)](https://open.spotify.com/album/7Kenl6rraE4GJi7RRev7LD) | 4:24 |
-| 41 | [Düşüşlerim Fazla](https://open.spotify.com/track/3AaGQ8lTi31RBk9WMDfPX5) | [ZEDİ](https://open.spotify.com/artist/3FzjRFPl2VuRcDP0lH6sR8) | [Düşüşlerim Fazla](https://open.spotify.com/album/3wvLRWKTy8exkhC81GjyNV) | 2:19 |
-| 42 | [Yok Bana Bu Cihanda](https://open.spotify.com/track/4DhyDAN1yx5WNYQEeWaCSd) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Yok Bana Bu Cihanda](https://open.spotify.com/album/26VGDBIPiwDyJxOC9N77Hn) | 4:28 |
+| 40 | [Yok Bana Bu Cihanda](https://open.spotify.com/track/4DhyDAN1yx5WNYQEeWaCSd) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Yok Bana Bu Cihanda](https://open.spotify.com/album/26VGDBIPiwDyJxOC9N77Hn) | 4:28 |
+| 41 | [Gönlüm](https://open.spotify.com/track/5kGvQXOy9zumMUtmaYn2A9) | [Electro Tülay](https://open.spotify.com/artist/3nYlYKL8wcK4OertfuVsfl) | [Gece Film \(Soundtrack\)](https://open.spotify.com/album/7Kenl6rraE4GJi7RRev7LD) | 4:24 |
+| 42 | [Düşüşlerim Fazla](https://open.spotify.com/track/3AaGQ8lTi31RBk9WMDfPX5) | [ZEDİ](https://open.spotify.com/artist/3FzjRFPl2VuRcDP0lH6sR8) | [Düşüşlerim Fazla](https://open.spotify.com/album/3wvLRWKTy8exkhC81GjyNV) | 2:19 |
 | 43 | [Salla](https://open.spotify.com/track/04Aq0PDoKzXkNvW0suggOt) | [Atiye](https://open.spotify.com/artist/56g1u3Bu0S5072aksxyBei) | [Atiye](https://open.spotify.com/album/3hgQ2xSCrBLEcVL0GZMwC1) | 3:31 |
 | 44 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 |
 | 45 | [Bir Bela](https://open.spotify.com/track/5kR2RqcjHEyCDXkE9WHhoF) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Kraliçe](https://open.spotify.com/album/4kHAWGBdk9ZlMAqSKW7LCU) | 4:33 |

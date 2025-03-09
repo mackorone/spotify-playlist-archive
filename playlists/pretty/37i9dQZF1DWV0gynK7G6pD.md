@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Nicola Benedetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,616 likes - 76 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,701 likes - 76 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

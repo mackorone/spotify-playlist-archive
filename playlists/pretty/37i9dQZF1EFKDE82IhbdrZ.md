@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309 likes - 337 songs - 18 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310 likes - 337 songs - 18 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 75 | [Alive](https://open.spotify.com/track/31tjImR06JCJswXViIvFuk) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:41 |
 | 76 | [Beautiful As You](https://open.spotify.com/track/1SBoKG4MjtH2vMUpftdQtc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:43 |
 | 77 | [Illusion](https://open.spotify.com/track/23xx852ectQgmp1G78zSpd) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:14 |
-| 78 | [Reflection](https://open.spotify.com/track/7IHlcNipLVFTGch6r2H354) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:08 |
-| 79 | [Heartbreaker](https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker](https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM) | 3:42 |
+| 78 | [Heartbreaker](https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker](https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM) | 3:42 |
+| 79 | [Reflection](https://open.spotify.com/track/7IHlcNipLVFTGch6r2H354) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:08 |
 | 80 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 |
 | 81 | [We Made It](https://open.spotify.com/track/3tCYlGxMS5ht2g3vB36SiJ) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Walls](https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9) | 3:21 |
 | 82 | [Leave Right Now](https://open.spotify.com/track/0wyja8xD9cNhDtfuY0dVMP) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:15 |
@@ -346,4 +346,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 336 | [Walk with Me](https://open.spotify.com/track/4hJwxO5eaINWALI4GLywXp) | [N.I.T.Z.](https://open.spotify.com/artist/5ij9fGCGIkU1LLKgdJH3Qb) | [Pit Stop](https://open.spotify.com/album/7cIDzeXmvSlr7ftCLb5JuM) | 2:47 |
 | 337 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AbrcgAAAAADH4xs1BhjHsAGjCJN5GHeu`
+Snapshot ID: `AbriDAAAAAAkNJWOX39cCJ2Pfa43E1sO`

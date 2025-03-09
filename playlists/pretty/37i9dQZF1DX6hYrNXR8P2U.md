@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Acá no importan el género.<br/>📷 CA7RIEL  & Paco Amoroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,385 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,423 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 26 | [Tristeza de la Ciudad](https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Tristeza de la Ciudad](https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ) | 2:44 |
 | 27 | [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 |
 | 28 | [\(Te Espero En La\) Playa](https://open.spotify.com/track/08hN4STQPw1MwqaYIJuwRS) | [Alter Vu](https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU) | [LA RED](https://open.spotify.com/album/0bMuaS8RADa8I71hKOCuqM) | 3:52 |
-| 29 | [PERFUME](https://open.spotify.com/track/04wRhNvu27f04JlvZnazWx) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [PERFUME](https://open.spotify.com/album/2WmyzZpgVIo0DFMQRq4Qkb) | 2:37 |
+| 29 | [PERFUME](https://open.spotify.com/track/04wRhNvu27f04JlvZnazWx) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [PERFUME](https://open.spotify.com/album/2WmyzZpgVIo0DFMQRq4Qkb) | 2:38 |
 | 30 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 31 | [DUMBAI](https://open.spotify.com/track/0W8v6pvZhuMZJFWihE0usa) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [DUMBAI](https://open.spotify.com/album/32jPIll7NE64gqohc6twQC) | 2:28 |
 | 32 | [Monopoly](https://open.spotify.com/track/0nIgM0NsnIx0JubYaX4prh) | [Ádeniz](https://open.spotify.com/artist/4c3VOSvqlC71g9rcuO7Rl5) | [Monopoly](https://open.spotify.com/album/4O1TPgHFCv5W7rWmZFAtDZ) | 2:24 |

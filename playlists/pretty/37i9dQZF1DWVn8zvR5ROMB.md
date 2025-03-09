@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Ingrid Andress, Kelsea Ballerini, Cameron Whitcomb and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,768 likes - 78 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,888 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

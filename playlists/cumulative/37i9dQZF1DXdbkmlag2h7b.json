@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Apogee",
+        "url": "https://open.spotify.com/album/5xrbFlHe5YxRFctRbWyzmq"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Apogee",
+      "url": "https://open.spotify.com/track/3nCjMRvyfq0wgR3hDcAcWb"
+    },
+    {
+      "album": {
         "name": "Tenebris",
         "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
       },
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 170483,
       "name": "Whispers of Tomorrow",
       "url": "https://open.spotify.com/track/21ZPsBqkh3f66WnDREoHqY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,063 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,084 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 17 | [Fuera Ropa](https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:19 |
 | 18 | [Cuando No Estoy Contigo](https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:40 |
 | 19 | [Magneto](https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [The Incredible Crocotiger](https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P) | 2:50 |
-| 20 | [Wipeout](https://open.spotify.com/track/7MDhNSelA2xaMH60WCypF4) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [60s Rock Instrumental Collection, Vol\. 2](https://open.spotify.com/album/4rsapx0Krcb08U1NubmC6f) | 3:53 |
-| 21 | [St James Infirmary Blues](https://open.spotify.com/track/3BdWsPOR6zmT9O5gNytgn4) | [Carlos Feral](https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC) | [St James Infirmary Blues](https://open.spotify.com/album/16krZ9iXZUKtYxjGAGlUyA) | 1:51 |
+| 20 | [St James Infirmary Blues](https://open.spotify.com/track/3BdWsPOR6zmT9O5gNytgn4) | [Carlos Feral](https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC) | [St James Infirmary Blues](https://open.spotify.com/album/16krZ9iXZUKtYxjGAGlUyA) | 1:51 |
+| 21 | [Wipeout](https://open.spotify.com/track/7MDhNSelA2xaMH60WCypF4) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [60s Rock Instrumental Collection, Vol\. 2](https://open.spotify.com/album/4rsapx0Krcb08U1NubmC6f) | 3:53 |
 | 22 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 |
 | 23 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
 | 24 | [Farewell to Monster Island](https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 8:26 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 62 | [El Garage de Gina Monster](https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tequila Connection 3](https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC) | 3:03 |
 | 63 | [Runaway \- En Directo](https://open.spotify.com/track/6n9lXiZ7ncFaTQyGV9RaAy) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV), [Los Coronas](https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN) | [Dos Bandas y un Destino: El Concierto \(En Directo\)](https://open.spotify.com/album/7tpauqGPBkR0RHrDhSSH0a) | 3:03 |
 | 64 | [Huevos Al Motor](https://open.spotify.com/track/49dC4peDBvX1jjxaxgXaPs) | [Yokozuna](https://open.spotify.com/artist/0m8WjSikRGBl70zGGUukbK) | [EP](https://open.spotify.com/album/31Zc2FUYI5ckAeI5qKGmV2) | 2:43 |
-| 65 | [No Tengo Hogar](https://open.spotify.com/track/7nQuxoPIZk8dtmYVtKkj9e) | [Los K’comxtles](https://open.spotify.com/artist/73CTe8KuKRZkoFdbyDyauj) | [No Tengo Hogar](https://open.spotify.com/album/7djmDHzGKB8oKwJY8Kl9EP) | 3:28 |
-| 66 | [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 |
+| 65 | [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 |
+| 66 | [No Tengo Hogar](https://open.spotify.com/track/7nQuxoPIZk8dtmYVtKkj9e) | [Los K’comxtles](https://open.spotify.com/artist/73CTe8KuKRZkoFdbyDyauj) | [No Tengo Hogar](https://open.spotify.com/album/7djmDHzGKB8oKwJY8Kl9EP) | 3:28 |
 | 67 | [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 |
 | 68 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 |
 | 69 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
-| 70 | [Rocket Song](https://open.spotify.com/track/0yvPC1XEX2lnY3dFpuRgkN) | [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K), [Stag Girls](https://open.spotify.com/artist/3x3erz9ReUd13rHrUh76o5) | [Rocket Song](https://open.spotify.com/album/7mM4xNYZMMZO79JxEzI5aw) | 2:45 |
-| 71 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
+| 70 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
+| 71 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
 | 72 | [Spy Cam](https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Las Mejores Olas](https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt) | 3:05 |
-| 73 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
-| 74 | [Blue Demon Jr.](https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Dr\. Malicia / 10 Años Elásticos](https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss) | 2:14 |
+| 73 | [Blue Demon Jr.](https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Dr\. Malicia / 10 Años Elásticos](https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss) | 2:14 |
+| 74 | [Rocket Song](https://open.spotify.com/track/0yvPC1XEX2lnY3dFpuRgkN) | [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K), [Stag Girls](https://open.spotify.com/artist/3x3erz9ReUd13rHrUh76o5) | [Rocket Song](https://open.spotify.com/album/7mM4xNYZMMZO79JxEzI5aw) | 2:45 |
 | 75 | [Fathom This!](https://open.spotify.com/track/7fiTe4XWrQbJpAhnxqmM4U) | [The Fathoms](https://open.spotify.com/artist/0doqn5jnYAYSpkhmafrmkl) | [Fathom This!](https://open.spotify.com/album/2o0iSopA79scEHq1vvNasA) | 3:15 |
 
 Snapshot ID: `Z8qLeAAAAADxub+76LZql57Lb8IW2/i3`

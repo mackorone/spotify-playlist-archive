@@ -9340,7 +9340,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 184698,
       "name": "Handlebars (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
@@ -11146,10 +11146,28 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 155080,
       "name": "IS THIS LOVE",
       "url": "https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar"
+    },
+    {
+      "album": {
+        "name": "IS THIS LOVE",
+        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155080,
+      "name": "IS THIS LOVE",
+      "url": "https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at"
     },
     {
       "album": {
@@ -12290,6 +12308,24 @@
       "duration_ms": 188772,
       "name": "LIKE IT LIKE IT",
       "url": "https://open.spotify.com/track/7ISeBBHzZgNWiDjJEcv3YH"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
     },
     {
       "album": {

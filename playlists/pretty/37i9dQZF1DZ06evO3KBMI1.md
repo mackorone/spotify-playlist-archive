@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,389 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,391 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [Countdown](https://open.spotify.com/track/47mhAtXo0qbNLJcJzSIT5s) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [PHOENIX](https://open.spotify.com/album/21JuxhUEdvFZRPav9wDDjc) | 3:48 |
 | 50 | [MONDO PIECE](https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 5:28 |
 
-Snapshot ID: `Z8jlgAAAAACpBPcCX+JL9AUmcfN8rbG0`
+Snapshot ID: `Z8o3AAAAAACGHjfgFc64bN0W9uFf3utl`

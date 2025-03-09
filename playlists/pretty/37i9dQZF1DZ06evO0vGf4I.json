@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1599890,
+  "num_followers": 1600023,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAACGzPcVAnfvktA6kI0SQNS/",
+  "snapshot_id": "Z8o3AAAAAACu65V+4VMcK/0x5b+d0xU3",
   "tracks": [
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 172597,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Aint Feeling You",
         "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 205298,
       "name": "Houstatlantaville (feat. Lil Baby & Travis Scott)",
       "url": "https://open.spotify.com/track/6LjUHEO9mdsGGxnss3oAb1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 172597,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU"
     },
     {
       "added_at": null,

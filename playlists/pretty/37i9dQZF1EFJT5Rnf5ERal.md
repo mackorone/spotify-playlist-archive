@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,561 likes - 273 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,560 likes - 273 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 38 | [100 Shooters \(feat\. Meek Mill & Doe Boy\)](https://open.spotify.com/track/3Uoy2lrZdhocMWO0jIdjAp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:28 |
 | 39 | [Loop Hole \(feat\. 21 Savage\)](https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 2:31 |
 | 40 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 |
-| 41 | [Real Rich \(feat\. Gucci Mane\)](https://open.spotify.com/track/5t8djD6oZcfAyqF4cTQfFb) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Rolling Papers 2](https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz) | 2:04 |
-| 42 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |
+| 41 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |
+| 42 | [Real Rich \(feat\. Gucci Mane\)](https://open.spotify.com/track/5t8djD6oZcfAyqF4cTQfFb) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Rolling Papers 2](https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz) | 2:04 |
 | 43 | [Who Want The Smoke? \(feat\. Cardi B & Offset\)](https://open.spotify.com/track/3wqjGZfKW36WhUeLHTlKzg) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Nuthin' 2 Prove](https://open.spotify.com/album/4qplno3lbet8WvuTGdDG3T) | 3:18 |
 | 44 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
 | 45 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 272 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 273 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbrcbAAAAADiEIJl/X7gPsvIuceEEZdr`
+Snapshot ID: `AbriPgAAAACrYPEELd8GApWttn+BHeDm`

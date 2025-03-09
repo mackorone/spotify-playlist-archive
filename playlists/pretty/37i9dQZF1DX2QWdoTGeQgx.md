@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > wo hen lei \(i'm very tired\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,233 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,237 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 17 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
 | 18 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 19 | [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 |
-| 20 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
+| 20 | [BUBBLY](https://open.spotify.com/track/6bc2ROroe6mWMUu6BjN0pl) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [GEMINI](https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW) | 2:51 |
 | 21 | [talking to myself](https://open.spotify.com/track/0sSyDptzNXHBODOssLukZT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [relationshit](https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2) | 3:21 |
-| 22 | [BUBBLY](https://open.spotify.com/track/6bc2ROroe6mWMUu6BjN0pl) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [GEMINI](https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW) | 2:51 |
+| 22 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
 | 23 | [Old Love \(Stripped\)](https://open.spotify.com/track/6WMbbSonBub9Rlv64hG6aH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love \(Stripped\)](https://open.spotify.com/album/3PZ2XdG3dVMamV6E7Dr1KU) | 4:20 |
-| 24 | [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 |
-| 25 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 |
+| 24 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 |
+| 25 | [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 |
 | 26 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 27 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
 | 28 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 48 | [shortcut to heaven](https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [shortcut to heaven](https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ) | 3:04 |
 | 49 | [m00d](https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [m00d](https://open.spotify.com/album/5zFqEhDGip3zPPvLshFeDk) | 3:04 |
 | 50 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
-| 51 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX) | 3:23 |
-| 52 | [For No Reason](https://open.spotify.com/track/6AFUs8A7itwJ2BF0Q8xXnW) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [For No Reason](https://open.spotify.com/album/0YxfTVkwTEk8XiRyC6G2WQ) | 3:15 |
+| 51 | [For No Reason](https://open.spotify.com/track/6AFUs8A7itwJ2BF0Q8xXnW) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [For No Reason](https://open.spotify.com/album/0YxfTVkwTEk8XiRyC6G2WQ) | 3:15 |
+| 52 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX) | 3:23 |
 | 53 | [Shouldn't Have To Run](https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Shouldn't Have To Run](https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV) | 2:45 |
 | 54 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 |
 | 55 | [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 64 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 |
 | 65 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
 | 66 | [Buat Selamanya](https://open.spotify.com/track/30RXOBps0tCYY6AuM4Rfog) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [Buat Selamanya](https://open.spotify.com/album/7An5iHB0LphcsUvwRiRHHl) | 3:34 |
-| 67 | [parasite](https://open.spotify.com/track/4ASoS06kltBvEel1ekoziv) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [parasite](https://open.spotify.com/album/6wXSu1dznZzEXakEeMmPca) | 2:11 |
-| 68 | [Smile For Me](https://open.spotify.com/track/49z2kxEp9AzpDY66YuD1jJ) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Smile For Me](https://open.spotify.com/album/0swAhdQVwcJatFVNKPOkyK) | 2:46 |
+| 67 | [Smile For Me](https://open.spotify.com/track/49z2kxEp9AzpDY66YuD1jJ) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Smile For Me](https://open.spotify.com/album/0swAhdQVwcJatFVNKPOkyK) | 2:46 |
+| 68 | [parasite](https://open.spotify.com/track/4ASoS06kltBvEel1ekoziv) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [parasite](https://open.spotify.com/album/6wXSu1dznZzEXakEeMmPca) | 2:11 |
 | 69 | [Belaian Jiwa](https://open.spotify.com/track/5DmXiAJka1BizGPcV3ME3Y) | [Innuendo](https://open.spotify.com/artist/3QkhrBoDxbCaX6B7KxfAXk) | [Innuendo](https://open.spotify.com/album/1Hz2RjuJq55piRp6x89Riz) | 4:33 |
 | 70 | [Moonlight](https://open.spotify.com/track/54EWwXt6RCv5Err39SHUxK) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Moonlight](https://open.spotify.com/album/1GoPGMUac5hoSm6A7UF819) | 3:06 |
 

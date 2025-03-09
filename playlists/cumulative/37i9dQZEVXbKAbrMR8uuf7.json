@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 139742,
       "name": "Back To Back",
       "url": "https://open.spotify.com/track/14ljxdLzjTxpfSA5oPee59"
@@ -8515,6 +8515,28 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
+    },
+    {
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/6ktYpvMBy06liW00kKUxNB"
       },
@@ -10168,7 +10190,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 146479,
       "name": "Ella",
       "url": "https://open.spotify.com/track/4Z64NtDGD0nuIbUXCXCHnQ"
@@ -11554,7 +11576,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 186212,
       "name": "FANTAS\u00cdA",
       "url": "https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb"
@@ -11608,7 +11630,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 106625,
       "name": "Fast",
       "url": "https://open.spotify.com/track/3VSULmoUDZpC1LqApCQoGr"
@@ -12198,7 +12220,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 165178,
       "name": "Frente al Mar",
       "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
@@ -24672,7 +24694,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 180677,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/41GDLSpgQ7BGIAMVQaIrKp"
@@ -31036,6 +31058,24 @@
       "duration_ms": 116683,
       "name": "Sobalo",
       "url": "https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN"
+    },
+    {
+      "album": {
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
     },
     {
       "album": {

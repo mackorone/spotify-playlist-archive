@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,890 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,897 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 29 | [A Simple Tune](https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 4:11 |
 | 30 | [Las Vegas Tango](https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Individualism Of Gil Evans](https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms) | 6:35 |
 | 31 | [Caravan](https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 9:40 |
-| 32 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 |
-| 33 | [On The Sunny Side Of The Street](https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Side Up](https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY) | 5:40 |
+| 32 | [On The Sunny Side Of The Street](https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Side Up](https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY) | 5:40 |
+| 33 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 |
 | 34 | [My Baby Just Cares For Me \- Live At Vine St\. Bar & Grill, 1987](https://open.spotify.com/track/07Xrizjzvky8DVmXUGsQrS) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It Be Me \(Live\)](https://open.spotify.com/album/3jF9Zz9QlwIMgNvSaY8KW9) | 3:01 |
 | 35 | [Noche De Ronda](https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:40 |
 | 36 | [River](https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 5:24 |

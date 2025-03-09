@@ -1,29 +1,13 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 75803,
+  "num_followers": 75837,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAAOmuj/UHt0nf80GEQcDwMs",
+  "snapshot_id": "Z8o3AAAAAACcVKJJGq9wlWdSDJFARFdx",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "HARDY (Live from Red Rocks)",
-        "url": "https://open.spotify.com/album/7IyJPZEJJ9csqDhRz4EOrE"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 207915,
-      "name": "God\u2019s Country - Live from Red Rocks",
-      "url": "https://open.spotify.com/track/5kMyufGmzElsXKTfaCOmgc"
-    },
     {
       "added_at": null,
       "album": {
@@ -127,6 +111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nobody Likes Your Girlfriend",
+        "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Nobody Likes Your Girlfriend",
+      "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -147,26 +151,6 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nobody Likes Your Girlfriend",
-        "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Nobody Likes Your Girlfriend",
-      "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
     },
     {
       "added_at": null,
@@ -207,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 201832,
+      "name": "REDNECKER",
+      "url": "https://open.spotify.com/track/6LLe2s3JrbawMkHzgyYeek"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 213693,
       "name": "He Went To Jared (HARDY feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/49lYjrC2iz9Kqb30EL8XmK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 201832,
-      "name": "REDNECKER",
-      "url": "https://open.spotify.com/track/6LLe2s3JrbawMkHzgyYeek"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 221795,
+      "name": "JIM BOB",
+      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -307,22 +307,6 @@
       "duration_ms": 154960,
       "name": "Turn You Down (HARDY feat. Morgan Wallen, Zakk Wylde)",
       "url": "https://open.spotify.com/track/395Vms42bEvN38TBqsXGO3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 221795,
-      "name": "JIM BOB",
-      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
     },
     {
       "added_at": null,
@@ -359,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 199360,
       "name": "My Kinda Livin\u2019 (HARDY feat. Hunter Phelps, Jameson Rodgers)",
       "url": "https://open.spotify.com/track/0aAOaGw2wPv6X3mi5Wjeqy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 194341,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
     },
     {
       "added_at": null,
@@ -435,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 193397,
+      "name": "WHYBMWL",
+      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 189153,
       "name": "Goin\u2019 Nowhere (feat. HARDY, Morgan Wallen & Chris Shiflett)",
       "url": "https://open.spotify.com/track/7G66MHMKZFlajn5iNiH8Uc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 193397,
-      "name": "WHYBMWL",
-      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
     },
     {
       "added_at": null,
@@ -1003,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLURRY",
-        "url": "https://open.spotify.com/album/1R8ivIkOSjti4kY3wVzvjM"
+        "name": "HARDY (Live from Red Rocks)",
+        "url": "https://open.spotify.com/album/7IyJPZEJJ9csqDhRz4EOrE"
       },
       "artists": [
         {
@@ -1012,9 +996,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 300874,
-      "name": "BLURRY",
-      "url": "https://open.spotify.com/track/2CpP8toXIhX3oEClILk4NB"
+      "duration_ms": 207915,
+      "name": "God\u2019s Country - Live from Red Rocks",
+      "url": "https://open.spotify.com/track/5kMyufGmzElsXKTfaCOmgc"
     }
   ],
   "unique_name": "This Is HARDY",

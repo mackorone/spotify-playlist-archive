@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,520 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,537 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 30 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
 | 31 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 |
 | 32 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一：一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 |
-| 33 | [陪著你](https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 5:10 |
+| 33 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
 | 34 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
-| 35 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
+| 35 | [陪著你](https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 5:10 |
 | 36 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
 | 37 | [如果我還剩一件事情可以做](https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [重拾\_快樂](https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm) | 4:09 |
 | 38 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |

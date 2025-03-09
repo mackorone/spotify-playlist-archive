@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,722,330 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,722,332 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 52 | [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 |
 | 53 | [Till Forever \(Acoustic\)](https://open.spotify.com/track/3bELVNyQDvjRqJiMiFoohe) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 3:55 |
 | 54 | [Old Town](https://open.spotify.com/track/62wUcF268nKH9HcMaY247d) | [Luis Trindade](https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk) | [Dead Leaves](https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ) | 3:07 |
-| 55 | [So Are You To Me](https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS) | [Eastmountainsouth](https://open.spotify.com/artist/4H7QVpyCHkaUeEOpCPzZQk) | [Eastmountainsouth](https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp) | 1:57 |
-| 56 | [Take Your Time](https://open.spotify.com/track/4B5Opwj9GzHEWizfD5ZLzQ) | [Humbear](https://open.spotify.com/artist/2u6q1sXo1CNVNLFCWqWDGo) | [Take Your Time](https://open.spotify.com/album/1LVvgt8v7FuFux2bJAYb2F) | 3:24 |
+| 55 | [Take Your Time](https://open.spotify.com/track/4B5Opwj9GzHEWizfD5ZLzQ) | [Humbear](https://open.spotify.com/artist/2u6q1sXo1CNVNLFCWqWDGo) | [Take Your Time](https://open.spotify.com/album/1LVvgt8v7FuFux2bJAYb2F) | 3:24 |
+| 56 | [So Are You To Me](https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS) | [Eastmountainsouth](https://open.spotify.com/artist/4H7QVpyCHkaUeEOpCPzZQk) | [Eastmountainsouth](https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp) | 1:57 |
 | 57 | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/track/10jrqgyC1u81RhIgtLUfdR) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua) | 3:33 |
 | 58 | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t) | 3:58 |
 | 59 | [Hearts](https://open.spotify.com/track/5E8MFkrcyd9w621kmLhDFO) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ) | 4:52 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 66 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 |
 | 67 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
 | 68 | [I'm so in Love with You \(feat\. Seth Avett\)](https://open.spotify.com/track/1uGwCbelG6h8hdcCPFSN1Z) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [The War Inside \(Deluxe Edition\)](https://open.spotify.com/album/6NFJbFjFfRGHYGxlGNecYy) | 3:46 |
-| 69 | [Machine](https://open.spotify.com/track/5bd7amccz6nBtODT3TgAZE) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Augusta](https://open.spotify.com/album/0f76y2SetY65asEqyesJed) | 2:53 |
-| 70 | [Winners](https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wild Animals](https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S) | 5:14 |
+| 69 | [Winners](https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wild Animals](https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S) | 5:14 |
+| 70 | [Machine](https://open.spotify.com/track/5bd7amccz6nBtODT3TgAZE) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Augusta](https://open.spotify.com/album/0f76y2SetY65asEqyesJed) | 2:53 |
 | 71 | [Sail on the Water](https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sail on the Water](https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5) | 4:21 |
 | 72 | [I Like to Be With Me When I'm With You](https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [The Collection](https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i) | 3:50 |
 | 73 | [Wedding Ring](https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 4:47 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 89 | [I Do](https://open.spotify.com/track/0x2kJ54nT96frJQ27700jS) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Euphorics](https://open.spotify.com/album/1WPoh6fbUUAapxP6xfeY9D) | 3:39 |
 | 90 | [Wondrous Love](https://open.spotify.com/track/1XxBNS8YE8bSpzXjXYpQCY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 2:35 |
 | 91 | [Chandelier Love](https://open.spotify.com/track/1ct2wAU6FAIIGhfw8EsnKA) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:23 |
-| 92 | [Marry Me](https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Marry Me](https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD) | 3:01 |
-| 93 | [Everything's Fine](https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Everything's Fine](https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ) | 3:29 |
+| 92 | [Everything's Fine](https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Everything's Fine](https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ) | 3:29 |
+| 93 | [Marry Me](https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Marry Me](https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD) | 3:01 |
 | 94 | [Highway Woman](https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Highway Woman](https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI) | 3:48 |
 | 95 | [From This Valley \- Acoustic](https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:26 |
 | 96 | [Love You the Most](https://open.spotify.com/track/6I0b7U4mlURIEL7uiIxjhj) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Love You the Most](https://open.spotify.com/album/4pbTZ28exY6GZ6x3Hm5psZ) | 2:51 |

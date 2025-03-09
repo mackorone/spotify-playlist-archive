@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,481 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,482 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,7 +283,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 273 | [Iano](https://open.spotify.com/track/6wQK08aHTFcBP42CUMYJZk) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Insen](https://open.spotify.com/album/2EQuq6735uJj8T6xHZ1BPf) | 6:52 |
 | 274 | [Red Tarn](https://open.spotify.com/track/1UAdZy6TonYf48JXIa2ha9) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [In Cadence EP](https://open.spotify.com/album/41IdtO0ijNb8HTLtiKWr6E) | 5:22 |
 | 275 | [Backwards](https://open.spotify.com/track/2LUvEI9tnkp9Wrq0fFl2H1) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Backwards](https://open.spotify.com/album/0xB9fmB7FwD6MRmSHCXEEt) | 3:33 |
-| 276 | [Fuego \(Florentino Remix\)](https://open.spotify.com/track/1a7lH7Eee0FJuykoTTTEY0) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6) | [Fuego Remixes](https://open.spotify.com/album/2O6diItPqh4K24pp2tiDGk) | 3:13 |
+| 276 | [Fuego \- Florentino Remix](https://open.spotify.com/track/1a7lH7Eee0FJuykoTTTEY0) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6) | [Fuego Remixes](https://open.spotify.com/album/2O6diItPqh4K24pp2tiDGk) | 3:13 |
 | 277 | [V.I.P.](https://open.spotify.com/track/3gL4sDjQuIzQy6d8v4Zyk6) | [ESP](https://open.spotify.com/artist/0G2H8XIsqcdI5GJrYdRRPa) | [Forever](https://open.spotify.com/album/41ZVcjCy19SruijxVQDHDA) | 3:25 |
 | 278 | [Tech Savior](https://open.spotify.com/track/3xKxq9nHsb0UvkH1iZPa8O) | [Posh God](https://open.spotify.com/artist/0lfyIdndkSg4k1iQHq8Xnv) | [Virus 2055](https://open.spotify.com/album/15aWFRwc2y9kylUk7BgyYs) | 3:11 |
 | 279 | [Abo Mvelo \(feat\. Mellow & Sleazy & M.J\)](https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P) | [Abo Mvelo \(feat\. Mellow & Sleazy & M.J\)](https://open.spotify.com/album/437dkJZjTY2KPRtZAVleKs) | 8:00 |

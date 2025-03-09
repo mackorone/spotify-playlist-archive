@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 70985,
+  "num_followers": 70996,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAAUDU0LpIc7jKJYA9tvajQB",
+  "snapshot_id": "Z8o3AAAAAACiV0N54RMj9PmbZXNP/89N",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Alma De Lila Downs",
+        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Fiesta Contin\u00faa",
         "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 180813,
       "name": "El Yerbero Moderno (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Alma De Lila Downs",
-        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "La Sandunga",
+      "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "La Sandunga",
-      "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
     },
     {
       "added_at": null,

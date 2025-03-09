@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > J Balvin & ESPN's Top Plays bring "Back to the Rayo" energy, from kick off all the way to the fourth quarter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,353 likes - 54 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,417 likes - 54 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

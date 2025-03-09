@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-975 songs - 2 day 3 hr 36 min
+976 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Despójate Vol.2](https://open.spotify.com/track/6ViJgiKfyqfs52x2pGhuPF) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Despójate Vol.2](https://open.spotify.com/album/2rIGm59XDgX2eYwiOWtFgV) | 4:00 | 2024-10-16 | 2025-02-05 |
 | [Diabólica](https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:12 | 2024-03-23 | 2024-07-27 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2025-02-06 | 2025-03-06 |
+| [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-03-08 |  |
 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 | 2023-11-18 | 2024-01-13 |
 | [Dime Dónde](https://open.spotify.com/track/4cvNRoECGS2sUiw5Q5RRsb) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Dime Dónde](https://open.spotify.com/album/2dAGcCM4RdkYzQXih5gg7c) | 3:00 | 2021-06-27 | 2021-07-25 |
 | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn) | 2:51 | 2023-09-03 | 2024-01-29 |
@@ -748,7 +749,7 @@
 | [Rompe](https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Rompe](https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X) | 2:21 | 2023-01-06 | 2023-02-19 |
 | [Rompela](https://open.spotify.com/track/3BSA7eRvD25S4oX4rdngpU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 1:44 | 2024-09-13 | 2024-09-15 |
 | [Ropa Cara](https://open.spotify.com/track/2zY1iTaEgs8ROkkWtWLe7l) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:42 | 2021-03-27\* | 2021-04-20 |
-| [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 | 2023-12-22 |  |
+| [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 | 2023-12-22 | 2025-03-09 |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-26 | 2022-05-08 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-07 | 2022-07-10 |
 | [Running Wild](https://open.spotify.com/track/45DB3yqxYGAnKN3YmLWbAX) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:31 | 2024-11-20 | 2024-11-22 |

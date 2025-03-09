@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba?si=9jwBgIopSV\-dIsK0\-813cQ">Money Badoo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,763 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,809 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > y de la buena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,826 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,104 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 18 | [ADIÓS \(Live Version\)](https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [ADIÓS \(Live Version\)](https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282) | 2:44 |
 | 19 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 |
 | 20 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 |
-| 21 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
+| 21 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
 | 22 | [Casi Siempre Estoy Pensando en Ti \- Session \# 1](https://open.spotify.com/track/6etAudZOHHoS1zsjyMFoZL) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Casi Siempre Estoy Pensando en Ti \(Session \# 1\)](https://open.spotify.com/album/7DUUJ8b8YBdCzYfzZsknPx) | 2:37 |
 | 23 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 |
 | 24 | [Latidos](https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx) | 2:09 |

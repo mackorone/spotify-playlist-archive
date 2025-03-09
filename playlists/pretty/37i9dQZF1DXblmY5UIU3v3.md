@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,186 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,255 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 30 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
 | 31 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
 | 32 | [Cradles](https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Cradles](https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq) | 3:04 |
-| 33 | [Mafia \- Remix](https://open.spotify.com/track/3rkSjkhFvhRt4BZKXq99d4) | [JVLA](https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Mafia \(Remix\)](https://open.spotify.com/album/5f1JJTRqqYQVC1stqR869n) | 2:02 |
-| 34 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
-| 35 | [Enemy](https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Enemy](https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF) | 3:31 |
+| 33 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
+| 34 | [Enemy](https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Enemy](https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF) | 3:31 |
+| 35 | [Mafia \- Remix](https://open.spotify.com/track/3rkSjkhFvhRt4BZKXq99d4) | [JVLA](https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Mafia \(Remix\)](https://open.spotify.com/album/5f1JJTRqqYQVC1stqR869n) | 2:02 |
 | 36 | [Close Ya](https://open.spotify.com/track/3KK71qLRNq9A0H3Zoj2jY3) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM) | [Close Ya](https://open.spotify.com/album/6cQ3bvLmo96impgeIfqkqX) | 2:50 |
 | 37 | [E S C O B a R](https://open.spotify.com/track/75BDGJuV727Qx2qkSqx5Fy) | [Şevket Öndaş](https://open.spotify.com/artist/5acooQjRlNtjcI4cHSOlki), [Egemen Kızıltekin](https://open.spotify.com/artist/7qcEBm8FydNYp8jZagSq2W) | [E S C O B a R](https://open.spotify.com/album/3Km6AfOXnr94jZbOWVyhPa) | 3:05 |
 | 38 | [Sweet Dreams](https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Sweet Dreams](https://open.spotify.com/album/2iDZUi1B2nw1T3SHY8RGjJ) | 2:32 |

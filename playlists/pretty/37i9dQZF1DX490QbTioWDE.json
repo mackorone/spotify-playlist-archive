@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K\u00b4onga & L-Gante.",
-  "num_followers": 752366,
+  "num_followers": 752423,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,26 @@
     {
       "added_at": "2025-03-07 03:00:35",
       "album": {
+        "name": "Potra Salvaje (En Vivo)",
+        "url": "https://open.spotify.com/album/40E1VjYtqDikeIF3xeKCSx"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 234754,
+      "name": "Potra Salvaje - En Vivo",
+      "url": "https://open.spotify.com/track/24tH8rauLX2iFWaG7LmtfK"
+    },
+    {
+      "added_at": "2025-03-07 03:00:35",
+      "album": {
         "name": "Olvidarte de Mi Jamas Podras",
         "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 193358,
       "name": "Olvidarte de Mi Jamas Podras",
       "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
-    },
-    {
-      "added_at": "2025-03-07 03:00:35",
-      "album": {
-        "name": "Potra Salvaje (En Vivo)",
-        "url": "https://open.spotify.com/album/40E1VjYtqDikeIF3xeKCSx"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 234754,
-      "name": "Potra Salvaje - En Vivo",
-      "url": "https://open.spotify.com/track/24tH8rauLX2iFWaG7LmtfK"
     },
     {
       "added_at": "2025-03-07 03:00:35",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2025-03-07 03:00:35",
       "album": {
-        "name": "Claro Que Lo Hice (En vivo)",
-        "url": "https://open.spotify.com/album/6ZnNCbnDFX72KUG89gZl9G"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 206094,
-      "name": "Claro Que Lo Hice - En vivo",
-      "url": "https://open.spotify.com/track/0l3KYSBuArosib58MemWQF"
-    },
-    {
-      "added_at": "2025-03-07 03:00:35",
-      "album": {
         "name": "Tus Botellas",
         "url": "https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04"
       },
@@ -1119,18 +1099,38 @@
     {
       "added_at": "2025-03-07 03:00:35",
       "album": {
-        "name": "La \u00daltima Granada (DQV Premium)",
-        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
+        "name": "Claro Que Lo Hice (En vivo)",
+        "url": "https://open.spotify.com/album/6ZnNCbnDFX72KUG89gZl9G"
       },
       "artists": [
         {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 182532,
-      "name": "La \u00daltima Granada (DQV Premium)",
-      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
+      "duration_ms": 206094,
+      "name": "Claro Que Lo Hice - En vivo",
+      "url": "https://open.spotify.com/track/0l3KYSBuArosib58MemWQF"
+    },
+    {
+      "added_at": "2025-03-07 03:00:35",
+      "album": {
+        "name": "Baby Nueva",
+        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 167450,
+      "name": "Baby Nueva",
+      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
     },
     {
       "added_at": "2025-03-07 03:00:35",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2025-03-07 03:00:35",
       "album": {
-        "name": "Baby Nueva",
-        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
+        "name": "La \u00daltima Granada (DQV Premium)",
+        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
       },
       "artists": [
         {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
         }
       ],
-      "duration_ms": 167450,
-      "name": "Baby Nueva",
-      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
+      "duration_ms": 182532,
+      "name": "La \u00daltima Granada (DQV Premium)",
+      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
     },
     {
       "added_at": "2025-03-07 03:00:35",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-03-07 03:00:35",
       "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+    },
+    {
+      "added_at": "2025-03-07 03:00:35",
+      "album": {
         "name": "Conmigo Te Gust\u00f3 - Pechos Calientes",
         "url": "https://open.spotify.com/album/26xqJNDKQXuWBAn5B1cfBW"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 291393,
       "name": "Conmigo Te Gust\u00f3 - Pechos Calientes",
       "url": "https://open.spotify.com/track/35Tg0oVEBdJFYxaxRM0AHJ"
-    },
-    {
-      "added_at": "2025-03-07 03:00:35",
-      "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 152432,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
     },
     {
       "added_at": "2025-03-07 03:00:35",
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2025-03-07 03:00:35",
       "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+        "name": "Buena Vida",
+        "url": "https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu"
       },
       "artists": [
         {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
         }
       ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
+      "duration_ms": 142463,
+      "name": "Buena Vida",
+      "url": "https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV"
     },
     {
       "added_at": "2025-03-07 03:00:35",
@@ -1587,26 +1591,6 @@
     {
       "added_at": "2025-03-07 03:00:35",
       "album": {
-        "name": "Buena Vida",
-        "url": "https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 142463,
-      "name": "Buena Vida",
-      "url": "https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV"
-    },
-    {
-      "added_at": "2025-03-07 03:00:35",
-      "album": {
         "name": "Fugitiva",
         "url": "https://open.spotify.com/album/4MEck9jYCiuyI2OzaxufYS"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 210857,
       "name": "Fugitiva",
       "url": "https://open.spotify.com/track/1mCvdynoZdBorLVY65NrBm"
+    },
+    {
+      "added_at": "2025-03-07 03:00:35",
+      "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2025-03-07 03:00:35",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2025-03-07 03:00:35",
       "album": {
+        "name": "Adelantos (Live)",
+        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Marquez",
+          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
+        }
+      ],
+      "duration_ms": 239726,
+      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
+    },
+    {
+      "added_at": "2025-03-07 03:00:35",
+      "album": {
         "name": "Son De Amores",
         "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 181600,
       "name": "Son De Amores",
       "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
-    },
-    {
-      "added_at": "2025-03-07 03:00:35",
-      "album": {
-        "name": "Adelantos (Live)",
-        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Marquez",
-          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
-        }
-      ],
-      "duration_ms": 239726,
-      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
-      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
     },
     {
       "added_at": "2025-03-07 03:00:35",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2025-03-07 03:00:35",
       "album": {
-        "name": "Hasta Que Te Conoci",
-        "url": "https://open.spotify.com/album/5Y9VVWPYWobRe8eDtD7II1"
+        "name": "Loca de Amor - Vestido Azul",
+        "url": "https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk"
       },
       "artists": [
         {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
         }
       ],
-      "duration_ms": 167680,
-      "name": "Hasta Que Te Conoci",
-      "url": "https://open.spotify.com/track/47Jer41va3Qk9gDQHTCtns"
+      "duration_ms": 366368,
+      "name": "Loca de Amor - Vestido Azul",
+      "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
     }
   ],
   "unique_name": "100% Cuarteto",

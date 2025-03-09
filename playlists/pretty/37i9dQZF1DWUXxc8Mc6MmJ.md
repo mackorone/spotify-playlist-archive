@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,418 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,736 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 39 | [Reset \(feat\. Jinsil\)](https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Jinsil](https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq) | [Who Are You : School 2015\(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq) | 4:02 |
 | 40 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 41 | [Star](https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lovely Runner, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP) | 3:38 |
-| 42 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
-| 43 | [You are so beautiful](https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Guardian \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu) | 3:15 |
+| 42 | [You are so beautiful](https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Guardian \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu) | 3:15 |
+| 43 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
 | 44 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
 | 45 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
 | 46 | [A Lot Like Love](https://open.spotify.com/track/5Mu3n2L96MX1lU2EHqnD7p) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 7](https://open.spotify.com/album/5sziiV2dSUuADgsBl2M39P) | 3:23 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 86 | [Sweet](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Sweet \(A Business Proposal OST Part.1\)](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) | 3:36 |
 | 87 | [From now on](https://open.spotify.com/track/6vic1TI7BdzAc9HM0LnAF0) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3) | 3:10 |
 | 88 | [What If Love](https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Touch your heart OST Part.3](https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5) | 3:39 |
-| 89 | [Wind](https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 11](https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK) | 3:37 |
-| 90 | [Heartstrings](https://open.spotify.com/track/0mtuqz4rcMYCKjF1cjmlu6) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [Heartstrings OST Part.1](https://open.spotify.com/album/4wPXtpmM46V8TgyE2cgkiZ) | 3:11 |
+| 89 | [Heartstrings](https://open.spotify.com/track/0mtuqz4rcMYCKjF1cjmlu6) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [Heartstrings OST Part.1](https://open.spotify.com/album/4wPXtpmM46V8TgyE2cgkiZ) | 3:11 |
+| 90 | [Wind](https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 11](https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK) | 3:37 |
 | 91 | [Eternal Love](https://open.spotify.com/track/0HIr8uSRGF14DHO1sckYx0) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Healer \(Original Television Soundtrack\)](https://open.spotify.com/album/0EQJ8RXISHsoZafV3PgUFv) | 4:16 |
 | 92 | [Home](https://open.spotify.com/track/5c26OuSMT9s3zuNxA8GvHu) | [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/22vwnmmlPoPk04mJfvwTBo) | 3:51 |
 | 93 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 95 | [The First Snow](https://open.spotify.com/track/43ogAyFAzG58KW7rhWeGQE) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Guardian \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5YTid0Ew5Mvlq08gE6ehqc) | 4:56 |
 | 96 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 |
 | 97 | [When I Saw You](https://open.spotify.com/track/1K3egcETTo3nLQkxmsoRUM) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/25Hiqyo9VBhheykjheHPbI) | 2:56 |
-| 98 | [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 |
-| 99 | [For You](https://open.spotify.com/track/0tejqLrXfsXT5SEDld8fKk) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Cinderella & Four Knights, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3heg9wwUtmvksQ1s68OZBT) | 4:19 |
-| 100 | [HEAVEN](https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Guardian \(Original Television Soundtrack\), Pt\. 12](https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ) | 4:19 |
+| 98 | [For You](https://open.spotify.com/track/0tejqLrXfsXT5SEDld8fKk) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Cinderella & Four Knights, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3heg9wwUtmvksQ1s68OZBT) | 4:19 |
+| 99 | [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 |
+| 100 | [How Can I Love You](https://open.spotify.com/track/2bgOhdw80vH03155D5Bm3s) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Descendants Of The Sun Pt.10 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pnAzG7QBcvCcZFBvp1Pvl) | 4:20 |
 
 Snapshot ID: `Zwd9FAAAAADVCjr9iG6yYN3fJOoaamGG`

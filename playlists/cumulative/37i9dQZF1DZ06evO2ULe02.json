@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "are we in love yet?",
+        "url": "https://open.spotify.com/album/2xQI0evHXKQ3I38ubLaRy6"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177193,
+      "name": "are we in love yet?",
+      "url": "https://open.spotify.com/track/59bPrwlWkwqqDSFu8o1cdu"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
       },

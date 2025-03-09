@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa BESS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,542 likes - 84 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,575 likes - 84 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

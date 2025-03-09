@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 198697,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/3YuqIR7XjXU7Gy2EEu0IE8"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 198697,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/6cy6q63aHMraSCtwt9bwMy"
@@ -200,10 +200,28 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 263426,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+    },
+    {
+      "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/6OfYVC4m7EmGIxaKOgaoZs"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263880,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf"
     },
     {
       "album": {
@@ -830,7 +848,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 224218,
       "name": "Curve",
       "url": "https://open.spotify.com/track/3lIizfjVFUTOnsmoBJEDjV"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 224218,
       "name": "Curve",
       "url": "https://open.spotify.com/track/6FoeJWd7LcHVDXWZ8FQEiz"
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 226813,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0bYAjmHs31OEFgRPatLkjj"
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 226813,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4noRLVoGQH2YCtJ1JUKDKi"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 198405,
       "name": "Gulible",
       "url": "https://open.spotify.com/track/2KLTc4Rz7YBc9sc6vJLTSl"
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 198405,
       "name": "Gullible",
       "url": "https://open.spotify.com/track/5LmDcY3e50ideiP3hE0NVB"
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 219421,
       "name": "L Word",
       "url": "https://open.spotify.com/track/1oc2IjNoUMrCiQ5dA6ggP6"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 219421,
       "name": "L Word",
       "url": "https://open.spotify.com/track/2Oz1RvJAy2Z17xFtJVL4D7"
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 216574,
       "name": "Love Just Ain't Enough",
       "url": "https://open.spotify.com/track/4hyH2d2ndbRbzfeib3kgkt"
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 216574,
       "name": "Love Just Ain't Enough",
       "url": "https://open.spotify.com/track/6ccP5gih4lhJWoYrBK3ZgH"

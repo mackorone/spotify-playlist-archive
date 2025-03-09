@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 109909,
+  "num_followers": 109922,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,62 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Hublot",
+        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Hublot",
+      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Billete Grande (En Vivo)",
+        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 163940,
+      "name": "Billete Grande (En Vivo)",
+      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
       },
@@ -683,62 +739,6 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Billete Grande (En Vivo)",
-        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 163940,
-      "name": "Billete Grande (En Vivo)",
-      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Hublot",
-        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        }
-      ],
-      "duration_ms": 225250,
-      "name": "Hublot",
-      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+      "duration_ms": 221083,
+      "name": "Chica Paranormal",
+      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
         }
       ],
-      "duration_ms": 221083,
-      "name": "Chica Paranormal",
-      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1199,22 +1199,26 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Apaga El Cel",
-        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 170832,
-      "name": "Apaga El Cel",
-      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
+      "duration_ms": 230693,
+      "name": "Una Locura",
+      "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1239,26 +1243,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+        "name": "Apaga El Cel",
+        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 230693,
-      "name": "Una Locura",
-      "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+      "duration_ms": 170832,
+      "name": "Apaga El Cel",
+      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 292160,
+      "name": "Bombos y Tarolas",
+      "url": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "Entre Nosotros",
         "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 292160,
-      "name": "Bombos y Tarolas",
-      "url": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 186366,
-      "name": "Chambeando En Lo Verde",
-      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "Disfrutando El Proceso",
         "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 177230,
       "name": "Una Ruedita",
       "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 186366,
+      "name": "Chambeando En Lo Verde",
+      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
     },
     {
       "added_at": "2024-10-04 19:39:18",

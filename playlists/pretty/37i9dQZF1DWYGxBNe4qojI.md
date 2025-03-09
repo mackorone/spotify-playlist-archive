@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Jadakiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,005 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,078 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 5 | [Why](https://open.spotify.com/track/58LflM1owDAzQkYIL7ayCX) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Kiss Of Death](https://open.spotify.com/album/3P7zOlM3IYKqW7f4Px6WKv) | 4:00 |
 | 6 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 |
 | 7 | [Ether](https://open.spotify.com/track/06UPCXzhIsXnceSXmKLMEY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Stillmatic](https://open.spotify.com/album/0cLzuJG2UDa0axMQkF7JR6) | 4:37 |
-| 8 | [Still Not a Player \(feat\. Joe\) \- Radio Version](https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:56 |
-| 9 | [C.R.E.A.M\. \(Cash Rules Everything Around Me\)](https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:12 |
+| 8 | [C.R.E.A.M\. \(Cash Rules Everything Around Me\)](https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:12 |
+| 9 | [Still Not a Player \(feat\. Joe\) \- Radio Version](https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:56 |
 | 10 | [U Make Me Wanna](https://open.spotify.com/track/66PlVvBwKgTseZ1vCU3e46) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Kiss Of Death](https://open.spotify.com/album/3P7zOlM3IYKqW7f4Px6WKv) | 4:53 |
 | 11 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 |
 | 12 | [21 Questions](https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:44 |

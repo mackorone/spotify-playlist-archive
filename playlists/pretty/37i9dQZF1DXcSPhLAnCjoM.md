@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Je pense à vous" de Linh est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,466 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,556 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 3 | [CIEL](https://open.spotify.com/track/78FNSZkI1968KTtyf2s315) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CIEL](https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL) | 3:06 |
 | 4 | [Feel Good](https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:43 |
 | 5 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
-| 6 | [Ma faute](https://open.spotify.com/track/3bTdmYAMKIvDLhxYDy9xHU) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Ma faute](https://open.spotify.com/album/3PBzXcnYwVuxFq6QGpXUYT) | 3:19 |
+| 6 | [Ma faute](https://open.spotify.com/track/3bTdmYAMKIvDLhxYDy9xHU) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Ma faute](https://open.spotify.com/album/3PBzXcnYwVuxFq6QGpXUYT) | 3:19 |
 | 7 | [Adieu, nous deux](https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 3:08 |
 | 8 | [La belle et la bête \- Single Version](https://open.spotify.com/track/6RAf7QUuJzSZXAZcJO8q0G) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [La belle et la bête](https://open.spotify.com/album/0NEreCWbXNKpXwvhYjYtTA) | 3:41 |
 | 9 | [Je Vis Pour Elle \(feat\. Kendji Girac\)](https://open.spotify.com/track/5PTRbObGxCYNkmzKcwY4RF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Je Vis Pour Elle \(feat\. Kendji Girac\)](https://open.spotify.com/album/0D2Hgi2CrM24wn1pdBN1sp) | 4:25 |

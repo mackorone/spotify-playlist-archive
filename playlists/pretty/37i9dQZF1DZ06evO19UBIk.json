@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 670794,
+  "num_followers": 670846,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABYM429jIgWxmb4zJYLyhez",
+  "snapshot_id": "Z8o3AAAAAABa1JUh0xc+ENb19GAfHD17",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,41 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 264960,
-      "name": "Five to One",
-      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
+      "duration_ms": 178306,
+      "name": "Spanish Caravan",
+      "url": "https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Queen of the Highway",
+      "url": "https://open.spotify.com/track/1tBMs9Rmw3UMvPJrsXsUyL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Been down so Long",
+      "url": "https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh"
     },
     {
       "added_at": null,
@@ -471,38 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Been down so Long",
-      "url": "https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Queen of the Highway",
-      "url": "https://open.spotify.com/track/1tBMs9Rmw3UMvPJrsXsUyL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 178306,
-      "name": "Spanish Caravan",
-      "url": "https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B"
+      "duration_ms": 264960,
+      "name": "Five to One",
+      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
     },
     {
       "added_at": null,

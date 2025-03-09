@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Celebremos la magia de estar juntxs, ¡Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href="https://bahidora.com//"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,772 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,771 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,18 +64,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 54 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 |
 | 55 | [Se Va, Se Va](https://open.spotify.com/track/4FdAAU9OClnZ5jclUZhVIE) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Se Va, Se Va](https://open.spotify.com/album/3e1o7UkNTr0dTQyW9aNvn9) | 4:25 |
 | 56 | [Can You See Me?](https://open.spotify.com/track/4jbxZxReqWBaiTbQOXNVW6) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Resonant Body](https://open.spotify.com/album/6KvNf7qKt0wgLEz56NQyXP) | 8:22 |
-| 57 | [Tal Vez](https://open.spotify.com/track/115lwfgNYH57ftzB6knHIv) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Tal Vez](https://open.spotify.com/album/5ZYnTQjdntcqX7nRbkc60v) | 4:22 |
+| 57 | [Quiero Ser Sexy](https://open.spotify.com/track/0pB2IRloEdYo9F3qwcIAYy) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2) | [Quiero Ser Sexy](https://open.spotify.com/album/2IH5JvSodRPEiHbpRTte8m) | 3:55 |
 | 58 | [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 |
-| 59 | [Quiero Ser Sexy](https://open.spotify.com/track/0pB2IRloEdYo9F3qwcIAYy) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2) | [Quiero Ser Sexy](https://open.spotify.com/album/2IH5JvSodRPEiHbpRTte8m) | 3:55 |
+| 59 | [Tal Vez](https://open.spotify.com/track/115lwfgNYH57ftzB6knHIv) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Tal Vez](https://open.spotify.com/album/5ZYnTQjdntcqX7nRbkc60v) | 4:22 |
 | 60 | [El Circo](https://open.spotify.com/track/73RnzyAGGOZ9nsBTRkc0lv) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Obrigaggi](https://open.spotify.com/album/7g0kxl7mi7E5YLKiDd1f5t) | 4:04 |
 | 61 | [Trans Love Vibration \(Eris Goes to Church\)](https://open.spotify.com/track/2pu66iltKEpEmVx1aK8wRh) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:04 |
 | 62 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 |
 | 63 | [Pardon](https://open.spotify.com/track/1nBA4QinIbQyRzVgG0UJGy) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 3:48 |
 | 64 | [Acuyuye](https://open.spotify.com/track/7x9Fzi3wwowHa4HJmeBpux) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Diva Cruz](https://open.spotify.com/artist/6XePd0EqV9enJtOlKcb6o6) | [Brujas EP](https://open.spotify.com/album/1Gby8YIACpxTKO6lV5Ilj9) | 4:29 |
-| 65 | [Juanita](https://open.spotify.com/track/17j3whgzlB8jJPwQZDqiSc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Gemelo](https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m) | 3:46 |
+| 65 | [Kiero K Me Kieras](https://open.spotify.com/track/1ahEs6Mn7tP8SGN1WXuvbF) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2) | [Kiero K Me Kieras](https://open.spotify.com/album/7a94blel8vrcVTyeWH77Dy) | 3:43 |
 | 66 | [Take No Prisoners \- Original Mix](https://open.spotify.com/track/3DboHPRHcpgiMO3jYabfFW) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0), [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [Take No Prisoners](https://open.spotify.com/album/1nFOclPZWkBj4luiXLjKgx) | 6:06 |
-| 67 | [Kiero K Me Kieras](https://open.spotify.com/track/1ahEs6Mn7tP8SGN1WXuvbF) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2) | [Kiero K Me Kieras](https://open.spotify.com/album/7a94blel8vrcVTyeWH77Dy) | 3:43 |
-| 68 | [Miso](https://open.spotify.com/track/3mDRf1zjvoSOlIGjcIZdJ6) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Kinesia](https://open.spotify.com/album/717qkZW9A78xtt11FHM6e6) | 3:32 |
+| 67 | [Miso](https://open.spotify.com/track/3mDRf1zjvoSOlIGjcIZdJ6) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Kinesia](https://open.spotify.com/album/717qkZW9A78xtt11FHM6e6) | 3:32 |
+| 68 | [Juanita](https://open.spotify.com/track/17j3whgzlB8jJPwQZDqiSc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Gemelo](https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m) | 3:46 |
 | 69 | [Hold Me \- Synth\-a\-pella](https://open.spotify.com/track/401IoxkzMv0h4kkuNWyyfZ) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 2:20 |
 | 70 | [Telepathy](https://open.spotify.com/track/2pniyAySZsOuSbfStSQGxk) | [Mystery Affair](https://open.spotify.com/artist/7uC8zxltPgrwtEqWRWwHFv) | [Telepathy](https://open.spotify.com/album/74s3acCJloOEtfjPJCLgPL) | 5:15 |
 | 71 | [Still Flowing Water](https://open.spotify.com/track/6mUcXOfpjOwlIeSZ7WXdkL) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic / Still Flowing Water](https://open.spotify.com/album/5aP5JuYG4xOpdRU7MTOloL) | 5:59 |

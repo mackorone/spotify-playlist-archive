@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,508 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,522 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 14 | [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 |
 | 15 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 |
 | 16 | [Mombattiye \- Folk Recreation](https://open.spotify.com/track/7CAKJJmeiQsupcz8pTQjtx) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY), [Pam Sengh](https://open.spotify.com/artist/5LSheYLF7ZnIulhPQ5aEgx) | [Mombattiye \(Folk Recreation\)](https://open.spotify.com/album/71Q135Dh7bT8eNXVz2VQYM) | 3:25 |
-| 17 | [Matthe Te Chamkan](https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [DAWgeek](https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD) | [Matthe Te Chamkan](https://open.spotify.com/album/7p3s1PZHAVJ8by9m7vdXhs) | 2:41 |
-| 18 | [Charkha The Vibe](https://open.spotify.com/track/09R2sRYoPdCcDNcCiyGQJI) | [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Charkha The Vibe](https://open.spotify.com/album/7IwTJvvcQF74BnkFLp0rDD) | 3:50 |
+| 17 | [Charkha The Vibe](https://open.spotify.com/track/09R2sRYoPdCcDNcCiyGQJI) | [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Charkha The Vibe](https://open.spotify.com/album/7IwTJvvcQF74BnkFLp0rDD) | 3:50 |
+| 18 | [Matthe Te Chamkan](https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [DAWgeek](https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD) | [Matthe Te Chamkan](https://open.spotify.com/album/7p3s1PZHAVJ8by9m7vdXhs) | 2:41 |
 | 19 | [Wanga Satrangiyan](https://open.spotify.com/track/5cYxayct1FIWABUGxZTrrW) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Wanga Satrangiyan](https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI) | 3:26 |
 | 20 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 |
 | 21 | [Dupatta Tera Sat Rang Da](https://open.spotify.com/track/4ADBNyJrE1xDeOGU8aCByZ) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [Dupatta Tera Sat Rang Da](https://open.spotify.com/album/3v6noFGkc8KKejSetXmWLv) | 4:28 |

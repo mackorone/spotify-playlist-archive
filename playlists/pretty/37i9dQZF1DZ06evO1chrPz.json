@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 203223,
+  "num_followers": 203234,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABrje11p20t+vfJF4oXKy+I",
+  "snapshot_id": "Z8o3AAAAAABav5JLtt35pJ2byGhnR2Ph",
   "tracks": [
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 301090,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 293377,
       "name": "Tend",
       "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 301090,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
     },
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "William Matthews",
+          "url": "https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA"
+        }
+      ],
+      "duration_ms": 324174,
+      "name": "Glory to Glory (Live)",
+      "url": "https://open.spotify.com/track/4ITWue8Tu2ihipYvhoOo8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -779,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have It All (Live)",
-        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
       },
       "artists": [
         {
@@ -788,13 +808,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "William Matthews",
-          "url": "https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA"
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
         }
       ],
-      "duration_ms": 324174,
-      "name": "Glory to Glory (Live)",
-      "url": "https://open.spotify.com/track/4ITWue8Tu2ihipYvhoOo8g"
+      "duration_ms": 294155,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7"
     },
     {
       "added_at": null,
@@ -819,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
       "artists": [
         {
@@ -828,13 +848,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+          "name": "Steffany Gertzinger",
+          "url": "https://open.spotify.com/artist/3rUPosNas9HRJr9kpCYzU3"
         }
       ],
-      "duration_ms": 294155,
-      "name": "Surrounded By Holy",
-      "url": "https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7"
+      "duration_ms": 339870,
+      "name": "Pieces (Live)",
+      "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
     },
     {
       "added_at": null,
@@ -863,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have It All (Live)",
-        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
       "artists": [
         {
@@ -872,13 +892,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Steffany Gertzinger",
-          "url": "https://open.spotify.com/artist/3rUPosNas9HRJr9kpCYzU3"
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 339870,
-      "name": "Pieces (Live)",
-      "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
+      "duration_ms": 317789,
+      "name": "By the Grace of God",
+      "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
     },
     {
       "added_at": null,
@@ -903,42 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 317789,
-      "name": "By the Grace of God",
-      "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 314306,
-      "name": "Gravity (Instrumental)",
-      "url": "https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 485396,
       "name": "Be Enthroned (Live)",
       "url": "https://open.spotify.com/track/4Q73DCRJjgfNP6cmW73Igw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 314306,
+      "name": "Gravity (Instrumental)",
+      "url": "https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Tenxi, Jemsii, Naykilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,176 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,241 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

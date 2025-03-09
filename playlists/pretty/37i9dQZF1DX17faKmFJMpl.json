@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 4288,
+  "num_followers": 4291,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Matics",
+        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 237772,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/0yqX4crC7Bf9vWCHGZem2T"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Fanatic",
         "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 249400,
       "name": "\uac00\uba74 \ubb34\ub3c4\ud68c The Masquerade",
       "url": "https://open.spotify.com/track/2Hi8362chY7CZhyjX15ELG"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Best of Best",
-        "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 188969,
-      "name": "\ud0c4\ub760",
-      "url": "https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Best of Best",
+        "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 188969,
+      "name": "\ud0c4\ub760",
+      "url": "https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Massmediah",
         "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 222693,
       "name": "\ud6d4\uccd0 Rob It (feat. Double K)",
       "url": "https://open.spotify.com/track/5UaGldAL222nOHnIS78vfO"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "but I \ub4dc\ub824",
-        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 218671,
-      "name": "\ub098\ub294\ub098\ubed0",
-      "url": "https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "but I \ub4dc\ub824",
+        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 218671,
+      "name": "\ub098\ub294\ub098\ubed0",
+      "url": "https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Matics",
         "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
       },
@@ -540,25 +556,9 @@
           "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
         }
       ],
-      "duration_ms": 237772,
-      "name": "Whistle",
-      "url": "https://open.spotify.com/track/0yqX4crC7Bf9vWCHGZem2T"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Mirror (28 Look at Youth)",
-        "url": "https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 299470,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W"
+      "duration_ms": 267493,
+      "name": "Movement \u2162",
+      "url": "https://open.spotify.com/track/5j4ZSzlf2kcP3gxs6bIVlf"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -583,22 +583,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+        "name": "HONEY FAMILY",
+        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
       "artists": [
         {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Epik High & MYK",
-          "url": "https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs"
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
         }
       ],
-      "duration_ms": 255866,
-      "name": "It\u2019s Me (feat. Epik High & MYK)",
-      "url": "https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts"
+      "duration_ms": 293041,
+      "name": "\ub7a9\uad50 1\ub9c9",
+      "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -615,6 +611,22 @@
       "duration_ms": 227775,
       "name": "The Movement",
       "url": "https://open.spotify.com/track/77tm4bsQ9boEXrlIOtI4eC"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Mirror (28 Look at Youth)",
+        "url": "https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 299470,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -639,18 +651,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Matics",
-        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
       },
       "artists": [
         {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Epik High & MYK",
+          "url": "https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs"
         }
       ],
-      "duration_ms": 267493,
-      "name": "Movement \u2162",
-      "url": "https://open.spotify.com/track/5j4ZSzlf2kcP3gxs6bIVlf"
+      "duration_ms": 255866,
+      "name": "It\u2019s Me (feat. Epik High & MYK)",
+      "url": "https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -671,22 +687,6 @@
       "duration_ms": 254640,
       "name": "\ub208\uc744 \ub728\uba74",
       "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "HONEY FAMILY",
-        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
-      },
-      "artists": [
-        {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
-        }
-      ],
-      "duration_ms": 293041,
-      "name": "\ub7a9\uad50 1\ub9c9",
-      "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Massmediah",
+        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 260062,
+      "name": "compass",
+      "url": "https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Best of Best",
         "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 256417,
       "name": "\uac70\uc6b8 - New Version",
       "url": "https://open.spotify.com/track/067JwMslZJtxRP7NdriuM5"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Massmediah",
-        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 260062,
-      "name": "compass",
-      "url": "https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -807,22 +807,6 @@
       "duration_ms": 216821,
       "name": "Handalas",
       "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "You Don\u2019t Know",
-      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "You Don\u2019t Know",
+      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Bizzionary",
         "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 477231,
       "name": "Movement 4",
       "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Yangdonggeun a.k.a Madman",
-        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 243621,
-      "name": "\uc120\ubb38\ub2f5",
-      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -927,6 +911,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Yangdonggeun a.k.a Madman",
+        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 243621,
+      "name": "\uc120\ubb38\ub2f5",
+      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Fanatic",
         "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
       },
@@ -943,6 +943,30 @@
       "duration_ms": 258506,
       "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
       "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+      },
+      "artists": [
+        {
+          "name": "Onesun",
+          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
+        },
+        {
+          "name": "T'ache",
+          "url": "https://open.spotify.com/artist/5Wgz2qwf3Cn5N0NUyAhS5r"
+        },
+        {
+          "name": "Mithra Jin",
+          "url": "https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke"
+        }
+      ],
+      "duration_ms": 282586,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -995,30 +1019,6 @@
       "duration_ms": 506070,
       "name": "\ud55c\uae38\uc744 \uac78\uc5b4\uac00\ub77c (with \ud53c\ud0c0\uc785, \ub77c\uc784\uc5b4\ud0dd, \ub9c8\uc774\ub178\uc2a4, \ub300\ud314, \ub098\ucc30, \ub10b\uc5c5\uc0e8, MC \uba54\ud0c0, Wimpy & Sean2slow) - Remix Version",
       "url": "https://open.spotify.com/track/4orjqC4JPPjNFy1oVnArEP"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
-      },
-      "artists": [
-        {
-          "name": "Onesun",
-          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
-        },
-        {
-          "name": "T'ache",
-          "url": "https://open.spotify.com/artist/5Wgz2qwf3Cn5N0NUyAhS5r"
-        },
-        {
-          "name": "Mithra Jin",
-          "url": "https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke"
-        }
-      ],
-      "duration_ms": 282586,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp"
     },
     {
       "added_at": "2024-11-20 08:34:55",

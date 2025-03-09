@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > All Black like the cover of Essence\. Cover: <a href="spotify:artist:4nqQTosM2Mbg7iRjvJU0N0">Samara Cyn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066,023 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,066,340 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

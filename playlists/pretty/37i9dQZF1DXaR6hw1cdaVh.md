@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,913 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,935 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 27 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
 | 28 | [Un Tempo piccolo](https://open.spotify.com/track/7cd6rqy01GXaUBJkzJvGzO) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Non Escludo Il Ritorno](https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk) | 4:11 |
 | 29 | [Un tempo piccolo \(feat\. Tiromancino & Ditonellapiaga\)](https://open.spotify.com/track/2N68dlweJK3bjxCprbmm75) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Sulla riva del fiume](https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6) | 3:45 |
-| 30 | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d), [Neri Per Caso](https://open.spotify.com/artist/0LiO8GSrYuUjCWMpM0M28q) | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz) | 3:21 |
-| 31 | [Yes I Know My Way \(Live \- Sanremo 2025\)](https://open.spotify.com/track/02bftO6MWRAGc5vSKqayR7) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Yes I Know My Way \(Live \- Sanremo 2025\)](https://open.spotify.com/album/1HWnQW1O3g1sS0uk1GNgqI) | 3:28 |
+| 30 | [Yes I Know My Way \(Live \- Sanremo 2025\)](https://open.spotify.com/track/02bftO6MWRAGc5vSKqayR7) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Yes I Know My Way \(Live \- Sanremo 2025\)](https://open.spotify.com/album/1HWnQW1O3g1sS0uk1GNgqI) | 3:28 |
+| 31 | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d), [Neri Per Caso](https://open.spotify.com/artist/0LiO8GSrYuUjCWMpM0M28q) | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz) | 3:21 |
 | 32 | [Amor de mi vida](https://open.spotify.com/track/1V88gWT2lkujA6094zxA39) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Sotto lo stesso effetto](https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0) | 4:55 |
 | 33 | [Io Sono Francesco](https://open.spotify.com/track/2iFGo3WcU80Jmv6Kb24bga) | [Tricarico](https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2) | [Tricarico](https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG) | 4:07 |
 | 34 | [Nel blu dipinto di blu](https://open.spotify.com/track/0aHF6drKFMYZzVOj6w4XD1) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Il Meglio Di Domenico Modugno](https://open.spotify.com/album/10SVRDLGL9tVABKADwUgzL) | 3:36 |

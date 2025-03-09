@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip hop\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,771 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,784 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 44 | [Put Me Back Together](https://open.spotify.com/track/2qU8O6nsI8smkXTgG21IDf) | [Taelor Gray](https://open.spotify.com/artist/581tKXVRFKxu6aSyhYMqan) | [Find a Way to Smile Again](https://open.spotify.com/album/0AMPhQCVq4L6dYWMa2Zi2e) | 3:20 |
 | 45 | [Throne](https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [Throne](https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ) | 2:42 |
 | 46 | [Blessings from You](https://open.spotify.com/track/6nSwLd1Bfw7P2U0wKa8skc) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Blessings from You](https://open.spotify.com/album/33zun5PDGGOUHjtJ6lD11c) | 3:26 |
-| 47 | [POSSIBLE](https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs) | [Ngoga](https://open.spotify.com/artist/0xotvpYJxDDrxTu6MFS17C) | [POSSIBLE](https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0) | 3:07 |
+| 47 | [POSSIBLE](https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs) | [KATALAYI](https://open.spotify.com/artist/2LxNotaSxtfn4X78ksdvc6) | [POSSIBLE](https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0) | 3:07 |
 | 48 | [Never Scared](https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt) | 3:16 |
 | 49 | [CLEAR SKIES](https://open.spotify.com/track/4MIpHdVgSMCngmwUmSgW1q) | [RAY G](https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [CLEAR SKIES](https://open.spotify.com/album/6TyAJnWKr8kMBZo9L9EWy7) | 2:06 |
 | 50 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |

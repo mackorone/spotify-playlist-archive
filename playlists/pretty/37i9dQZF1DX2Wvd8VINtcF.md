@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week \- Saya Gray!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,104 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,134 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 42 | [At Night](https://open.spotify.com/track/0SczLLTksxjwNrNKG0pun3) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [At Night](https://open.spotify.com/album/0hv0y069oLIA5qUodqvEJb) | 2:36 |
 | 43 | [New Beginnings](https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [New Beginnings](https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv) | 3:04 |
 | 44 | [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 |
-| 45 | [How Does It Feel \(feat\. Dakota\)](https://open.spotify.com/track/2Epm6mdhdQ0HKM2I5fYpyQ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:16 |
+| 45 | [How Does It Feel \(feat\. Dakota and King Docious\)](https://open.spotify.com/track/2Epm6mdhdQ0HKM2I5fYpyQ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms), [King Docious](https://open.spotify.com/artist/0EQ9n8yt7k2tZxMUJGFJMb) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:16 |
 | 46 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
 | 47 | [Stoner](https://open.spotify.com/track/3Cr1VDxAsrPbkldz1eUUMm) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Stoner](https://open.spotify.com/album/1RPzqHEjhx6ZG2XlaVYoY2) | 2:17 |
 | 48 | [Fuck It](https://open.spotify.com/track/2EvTsqvQ1nT7Mp2xgPl1fm) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [Fuck It](https://open.spotify.com/album/1eg74Dv2l9Rq2fWvkici0w) | 2:16 |

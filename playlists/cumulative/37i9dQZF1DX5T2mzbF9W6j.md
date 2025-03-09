@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-199 songs - 9 hr 57 min
+200 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Kosmosy](https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP) | [Kosmosy](https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7) | 2:55 | 2024-07-05 | 2024-07-19 |
 | [Kwiaty](https://open.spotify.com/track/0ppPlaEg7IM8qOfIZ6pOHR) | [Zakopower](https://open.spotify.com/artist/7ipF6efgwi4IXIGUWDVN4d), [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Kwiaty](https://open.spotify.com/album/2XilX8PBQC9F0bKob3ZoND) | 3:30 | 2024-11-08 | 2024-12-15 |
 | [Las](https://open.spotify.com/track/5F1XV0JtbhmFz8JdeyKZQP) | [Bracia Parzychowscy](https://open.spotify.com/artist/7qrkkDKeLFYRb39mJlnrwn) | [Las](https://open.spotify.com/album/6sIvOR3TkGmJddYW7uHMKq) | 2:43 | 2024-11-08 | 2024-11-16 |
-| [Lepiej niż teraz](https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Lepiej niż teraz](https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF) | 2:54 | 2024-11-29 |  |
+| [Lepiej niż teraz](https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Lepiej niż teraz](https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF) | 2:54 | 2024-11-29 | 2025-03-09 |
 | [Lights Go Loud](https://open.spotify.com/track/32yM3qgoGGbwny8Fo8jfEW) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [Lights Go Loud](https://open.spotify.com/album/64elWMzIP1J5xNSjpVFd0L) | 2:51 | 2024-06-28 | 2024-07-19 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-10-17 |  |
 | [Mamy farta](https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [Mamy farta](https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS) | 3:09 | 2024-11-15 | 2025-01-01 |
@@ -123,6 +123,7 @@
 | [Nie trzeba mi nic](https://open.spotify.com/track/6fFsWZDzd2Hdw48ZYkxLz6) | [Anna Iwanek](https://open.spotify.com/artist/6nDN2jmwSvfjDqtzhUhhmS) | [Nie trzeba mi nic](https://open.spotify.com/album/2vdEJg7gNZUzQ6b6W6YQ6e) | 2:13 | 2025-01-17 | 2025-01-25 |
 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 | 2024-11-29 | 2025-01-27 |
 | [Nigdy więcej nie tańcz ze mną](https://open.spotify.com/track/42MCChf8AwjmBFOzrwGK0l) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [KAPEWU](https://open.spotify.com/album/3UEy7yK76QNnWHh39NlqaB) | 2:57 | 2024-06-28 | 2024-07-19 |
+| [Nightlight](https://open.spotify.com/track/0M4KeIwyDamQsQrVLLcTqu) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [A Hometown Odyssey \(The Story Continues\)](https://open.spotify.com/album/1nXhV18HsP8vnB8JnNai75) | 2:49 | 2025-03-07 |  |
 | [Nimbostratus](https://open.spotify.com/track/1aSxqyObq0lfd8P4rHIESF) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 3:15 | 2024-06-28 | 2024-11-30 |
 | [No Angels](https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:28 | 2024-06-28 | 2024-07-27 |
 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 | 2025-02-07 |  |

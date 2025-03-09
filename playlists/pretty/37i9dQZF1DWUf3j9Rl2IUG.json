@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover:  Kel P & Wande Coal",
-  "num_followers": 154898,
+  "num_followers": 155043,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,18 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
-        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
+        "name": "Laho",
+        "url": "https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 206948,
-      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
+      "duration_ms": 144000,
+      "name": "Laho",
+      "url": "https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy"
     },
     {
       "added_at": "2025-03-07 00:01:36",
@@ -131,18 +123,26 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
-        "name": "Laho",
-        "url": "https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ"
+        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Laho",
-      "url": "https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy"
+      "duration_ms": 206948,
+      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
       "added_at": "2025-03-07 00:01:36",
@@ -243,26 +243,6 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
-        "name": "Awuke",
-        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 172628,
-      "name": "Awuke",
-      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
-    },
-    {
-      "added_at": "2025-03-07 00:01:36",
-      "album": {
         "name": "Candor",
         "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
+    },
+    {
+      "added_at": "2025-03-07 00:01:36",
+      "album": {
+        "name": "Awuke",
+        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
       "added_at": "2025-03-07 00:01:36",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
-        "name": "Joy Is Coming",
-        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Joy Is Coming",
-      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
-    },
-    {
-      "added_at": "2025-03-07 00:01:36",
-      "album": {
         "name": "Update",
         "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 207865,
       "name": "Update",
       "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
+    },
+    {
+      "added_at": "2025-03-07 00:01:36",
+      "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
     },
     {
       "added_at": "2025-03-07 00:01:36",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
+        "name": "Jay Jay",
+        "url": "https://open.spotify.com/album/0U3J75IccPlheYKYgCjdNm"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Jay Jay",
+      "url": "https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7"
+    },
+    {
+      "added_at": "2025-03-07 00:01:36",
+      "album": {
         "name": "Favourite Girl",
         "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 156000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
-    },
-    {
-      "added_at": "2025-03-07 00:01:36",
-      "album": {
-        "name": "Jay Jay",
-        "url": "https://open.spotify.com/album/0U3J75IccPlheYKYgCjdNm"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Jay Jay",
-      "url": "https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7"
     },
     {
       "added_at": "2025-03-07 00:01:36",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC"
+    },
+    {
+      "added_at": "2025-03-07 00:01:36",
+      "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
-    },
-    {
-      "added_at": "2025-03-07 00:01:36",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC"
     },
     {
       "added_at": "2025-03-07 00:01:36",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
-    },
-    {
-      "added_at": "2025-03-07 00:01:36",
-      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
       },
@@ -859,22 +839,22 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 168406,
-      "name": "Bad Vibes (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2025-03-07 00:01:36",
@@ -895,6 +875,26 @@
       "duration_ms": 160885,
       "name": "Ilashe",
       "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+    },
+    {
+      "added_at": "2025-03-07 00:01:36",
+      "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
       "added_at": "2025-03-07 00:01:36",
@@ -951,8 +951,8 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
-        "name": "Sooner",
-        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 169811,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2025-03-07 00:01:36",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 151282,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
-    },
-    {
-      "added_at": "2025-03-07 00:01:36",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
-    },
-    {
-      "added_at": "2025-03-07 00:01:36",
-      "album": {
         "name": "Turn Off The Lights",
         "url": "https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d"
       },
@@ -1119,6 +1087,38 @@
       "duration_ms": 263683,
       "name": "Yebo",
       "url": "https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp"
+    },
+    {
+      "added_at": "2025-03-07 00:01:36",
+      "album": {
+        "name": "Sooner",
+        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
+    },
+    {
+      "added_at": "2025-03-07 00:01:36",
+      "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 151282,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
     },
     {
       "added_at": "2025-03-07 00:01:36",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-03-07 00:01:36",
       "album": {
+        "name": "Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "Till Thy Kingdom Come",
+      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
+    },
+    {
+      "added_at": "2025-03-07 00:01:36",
+      "album": {
         "name": "Management",
         "url": "https://open.spotify.com/album/7wO7ortMBavUmgj8pEELkq"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 155669,
       "name": "Management",
       "url": "https://open.spotify.com/track/4Ivn5yGEU3tRVhMhIjvAVl"
-    },
-    {
-      "added_at": "2025-03-07 00:01:36",
-      "album": {
-        "name": "Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 149743,
-      "name": "Till Thy Kingdom Come",
-      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
     },
     {
       "added_at": "2025-03-07 00:01:36",

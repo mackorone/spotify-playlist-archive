@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 69470,
+  "num_followers": 69539,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABYF4mlHQvmytJATAJtv+MN",
+  "snapshot_id": "Z8o3AAAAAAAieJvs5fMYN8Ma/aYB39RE",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
       },
       "artists": [
         {
@@ -556,13 +556,17 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
         }
       ],
-      "duration_ms": 249490,
-      "name": "Castelos & Ru\u00ednas",
-      "url": "https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame"
+      "duration_ms": 256161,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
     },
     {
       "added_at": null,
@@ -591,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
       },
       "artists": [
         {
@@ -600,17 +604,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
         }
       ],
-      "duration_ms": 256161,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 167999,
-      "name": "Caminhos",
-      "url": "https://open.spotify.com/track/2m1ecu2OlaHCXJQP7EJauN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O L\u00edder em Movimento",
         "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 152342,
       "name": "Amor",
       "url": "https://open.spotify.com/track/3bdgb8PuKpkA54t4SPN0cG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Caminhos",
+      "url": "https://open.spotify.com/track/2m1ecu2OlaHCXJQP7EJauN"
     },
     {
       "added_at": null,
@@ -739,34 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VER\u00c3O CRIMINOSO",
-        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
-      },
-      "artists": [
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 240055,
-      "name": "HOTEL ZONA SUL",
-      "url": "https://open.spotify.com/track/3yavOAIet93Kag6H5ZeECs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antes dos Gigantes Chegarem, Vol. 2",
         "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
       },
@@ -791,6 +763,34 @@
       "duration_ms": 305002,
       "name": "Antes dos Gigantes Chegarem",
       "url": "https://open.spotify.com/track/1Iz2RJFAbcyAwB9sOaXvLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VER\u00c3O CRIMINOSO",
+        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
+      },
+      "artists": [
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 240055,
+      "name": "HOTEL ZONA SUL",
+      "url": "https://open.spotify.com/track/3yavOAIet93Kag6H5ZeECs"
     },
     {
       "added_at": null,
@@ -903,6 +903,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TESTEMUNHAS DE TOKIODK",
         "url": "https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA"
       },
@@ -927,30 +951,6 @@
       "duration_ms": 217872,
       "name": "250 por rota",
       "url": "https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEMR\u00c9H",
-        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
-      },
-      "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        }
-      ],
-      "duration_ms": 147967,
-      "name": "SEMR\u00c9H",
-      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
     },
     {
       "added_at": null,

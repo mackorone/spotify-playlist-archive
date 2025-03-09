@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lady Gaga, JENNIE, Doechii, SASAMI, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,312,728 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,313,793 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 63 | [Pound Town](https://open.spotify.com/track/61yXM2XDYQkjWJsydNtwTz) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Pound Town](https://open.spotify.com/album/6oqFuZKIyU7FKnk4RyjXET) | 3:19 |
 | 64 | [Basically Suicide](https://open.spotify.com/track/0q154OHWJcal4R4wbuh0en) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [Basically Suicide](https://open.spotify.com/album/586pmKBAXhamJAEt8bCuKR) | 1:46 |
 | 65 | [Say You're Sorry \(feat\. Hurricane Wisdom\)](https://open.spotify.com/track/2hnvXdKGGqILaktwzsCSXh) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu), [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Say You're Sorry \(feat\. Hurricane Wisdom\)](https://open.spotify.com/album/56251K6O65AtlfOuXxOl1c) | 2:01 |
-| 66 | [Think About It](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Think About It](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
+| 66 | [Think About It](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
 | 67 | [Perdido](https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Perdido](https://open.spotify.com/album/1bySzNQNPElENKhS564NkO) | 2:36 |
 | 68 | [Crazy](https://open.spotify.com/track/3hb7X2wYx06jhuPnDP4bV7) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Crazy](https://open.spotify.com/album/6KxVsMuUQ4OO83QfkGZsI5) | 4:35 |
 | 69 | [Circle of Death](https://open.spotify.com/track/31JFXsBWzLzsW8DQWrqtY6) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Anomaly II](https://open.spotify.com/album/6q4rT0kjP8zoMgfDwzz5ij) | 2:40 |

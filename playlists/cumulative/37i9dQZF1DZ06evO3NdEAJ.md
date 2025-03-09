@@ -4,7 +4,7 @@
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 41 min
+75 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Espero Lo Mejor de Ti](https://open.spotify.com/track/4qdbqHhzFOTLWu4DgoGIXb) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 2:57 | 2024-10-28 | 2024-11-11 |
 | [Globo Desinflado](https://open.spotify.com/track/0VP0h7wyd7h4H4qzizi4IS) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Globo Desinflado](https://open.spotify.com/album/1TIhRK5WrbC3BjbmiQubPA) | 2:13 | 2024-08-08 | 2024-09-07 |
 | [Infinito](https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Infinito](https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9) | 2:51 | 2024-08-08 |  |
+| [Intento Diez Mil](https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Intento Diez Mil](https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW) | 2:29 | 2025-03-09 |  |
 | [La Boca Les Callamos](https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos](https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9) | 2:44 | 2024-08-08 |  |
 | [La Leona y El Carcomido](https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Leona y El Carcomido](https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j) | 2:33 | 2024-09-22 |  |
 | [La Luna de Miel](https://open.spotify.com/track/2JQ4kacSA0S9bAkEzejRpH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Luna de Miel](https://open.spotify.com/album/3XFkmdFswCXR8jw6inTShg) | 2:42 | 2024-08-08 | 2024-11-08 |
@@ -54,7 +55,7 @@
 | [No Me Doy por Vencido](https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 2:40 | 2024-08-08 |  |
 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/1UvgNeeoqaa7f1vCgTnM0P) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas \(Edición Deluxe\)](https://open.spotify.com/album/7CwFeQuVgWTxhn3ufnuNX5) | 3:05 | 2024-08-08 | 2024-12-28 |
 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 | 2024-12-28 |  |
-| [No Quería Hacerte Llorar](https://open.spotify.com/track/04YZ3EDM7zyhcJQt2QgwCj) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Manuel Reza](https://open.spotify.com/artist/5Myyjo1fqz0iYDLVew4qVl) | [No Quería Hacerte Llorar](https://open.spotify.com/album/02xAkEA8q6170NgZdSoYsi) | 3:27 | 2024-10-01 |  |
+| [No Quería Hacerte Llorar](https://open.spotify.com/track/04YZ3EDM7zyhcJQt2QgwCj) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Manuel Reza](https://open.spotify.com/artist/5Myyjo1fqz0iYDLVew4qVl) | [No Quería Hacerte Llorar](https://open.spotify.com/album/02xAkEA8q6170NgZdSoYsi) | 3:27 | 2024-10-01 | 2025-03-09 |
 | [No Quiero Compartir](https://open.spotify.com/track/7fzMXmWm7vONX6aRq7M1jI) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Quiero Compartir](https://open.spotify.com/album/3D9xpDoODtzajKTq6oqV6k) | 2:45 | 2024-08-08 |  |
 | [No Sé Tú](https://open.spotify.com/track/6N271rSS177egQnJBDkq4F) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Sé Tú](https://open.spotify.com/album/5TzoaMI27c1GGdfuvjShWt) | 2:38 | 2024-08-08 |  |
 | [Nuestro Secreto Será](https://open.spotify.com/track/6LC5B96OY8bi4RjYB72wSv) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 2:31 | 2024-08-08 |  |

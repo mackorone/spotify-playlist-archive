@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 8492,
+  "num_followers": 8498,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABOQDbCPaNXKvC9iUQf3hZz",
+  "snapshot_id": "Z8o3AAAAAAC4AxJnFWTydXnwmoPV17/a",
   "tracks": [
     {
       "added_at": null,
@@ -503,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tomorrow (Give It Up)",
-        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u6728\u6751\u6634",
+          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 266406,
-      "name": "No Tomorrow (Give It Up)",
-      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
+      "duration_ms": 246839,
+      "name": "Whole Lotta Love",
+      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
     },
     {
       "added_at": null,
@@ -555,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+        "name": "No Tomorrow (Give It Up)",
+        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u6728\u6751\u6634",
-          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 246839,
-      "name": "Whole Lotta Love",
-      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
+      "duration_ms": 266406,
+      "name": "No Tomorrow (Give It Up)",
+      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
     },
     {
       "added_at": null,
@@ -683,38 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tokyo Pharaoh",
-        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 213406,
-      "name": "Tokyo Pharaoh",
-      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHOW TIME",
         "url": "https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw"
       },
@@ -735,22 +703,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+        "name": "Tokyo Pharaoh",
+        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
         }
       ],
-      "duration_ms": 289306,
-      "name": "FOUND BLUE",
-      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
+      "duration_ms": 213406,
+      "name": "Tokyo Pharaoh",
+      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "FOUND BLUE",
+      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALI",
         "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vim",
-        "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 314282,
-      "name": "Vim",
-      "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 316833,
       "name": "Funky Nassau",
       "url": "https://open.spotify.com/track/4BDfJFLVXQhYI5ruXkrvVe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vim",
+        "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 314282,
+      "name": "Vim",
+      "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
     },
     {
       "added_at": null,

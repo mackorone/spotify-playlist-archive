@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,577 likes - 44 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,572 likes - 44 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 38 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 |
 | 39 | [Sou o Que Sou](https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 5:23 |
 | 40 | [Pai, Preciso de Ti](https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:33 |
-| 41 | [Em adoração \- Ao Vivo](https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Damares 2011 \(ao vivo\)](https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp) | 6:41 |
-| 42 | [Não pare \(Participação especial de Damares\)](https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Cadê o vencedor?](https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq) | 3:42 |
+| 41 | [Não pare \(Participação especial de Damares\)](https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Cadê o vencedor?](https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq) | 3:42 |
+| 42 | [Em adoração \- Ao Vivo](https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Damares 2011 \(ao vivo\)](https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp) | 6:41 |
 | 43 | [Terceiro Céu](https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:28 |
 | 44 | [Obra Prima](https://open.spotify.com/track/3928bnwtme1mZo7NV0kYpf) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 5:34 |
 
-Snapshot ID: `Z8jlgAAAAAC6G8ANeH35kpSkoGrh7ctn`
+Snapshot ID: `Z8o3AAAAAAAWL0Ni7Buofs97W/+AXs/f`

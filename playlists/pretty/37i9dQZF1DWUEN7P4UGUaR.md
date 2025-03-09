@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,797 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,806 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 19 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |
 | 20 | [Amen \- Live](https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Amen \(Live\)](https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA) | 3:20 |
 | 21 | [Yahweh](https://open.spotify.com/track/2XEnKPHU13Jyz95z8rETwv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Songs of the Spirit](https://open.spotify.com/album/5MgNmvdoouYvbg05neKNkv) | 5:07 |
-| 22 | [Holy](https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Miracles](https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3) | 3:19 |
+| 22 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
 | 23 | [You Saved Me](https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [God Reigns](https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN) | 3:12 |
 | 24 | [Matwen 20](https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Matwen 20](https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6) | 6:05 |
-| 25 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
+| 25 | [Holy](https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Miracles](https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3) | 3:19 |
 | 26 | [Come and See \(Remix\)](https://open.spotify.com/track/15D677rtBhHsiLiva3Wjv3) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Afiba](https://open.spotify.com/artist/1eKnW8PmxRivaPkqgYinPz), [KWAKU HYDRO](https://open.spotify.com/artist/543kVDVPx8oHgDdbPs7Yjm) | [Come and See \(Remix\)](https://open.spotify.com/album/5aZIYtIubUJiX5GkqRgDNu) | 3:15 |
 | 27 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 |
 | 28 | [FAKY3 ME](https://open.spotify.com/track/7Msv1XFUkPhVQSqj3QVZmW) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr), [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [FAKY3 ME](https://open.spotify.com/album/6fwyJzUNTd0eEoJENZXnlT) | 5:11 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 37 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 |
 | 38 | [Blessed](https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Blessed](https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP) | 3:38 |
 | 39 | [Show Them](https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz) | [Ewura Abena](https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ) | [REBIRTH \(Mary's Child\)](https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t) | 4:19 |
-| 40 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
-| 41 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 |
+| 40 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 |
+| 41 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
 | 42 | [Man on a Mission](https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 2:37 |
 | 43 | [Believe](https://open.spotify.com/track/6tTwVPhMIgzCsQlHullPO2) | [David Dvnks](https://open.spotify.com/artist/3jGgIlufVEHOF3Ckyb2L2R), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL), [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Believe](https://open.spotify.com/album/5AhyxOO5MvwHZDx0E1S5KP) | 3:44 |
 | 44 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 46 | [Chale](https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Chale](https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17) | 2:26 |
 | 47 | [Mile \(I Know\)](https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD) | [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [Mile \(I Know\)](https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2) | 5:42 |
 | 48 | [Come and See](https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Come and See](https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g) | 5:42 |
-| 49 | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I) | 8:33 |
-| 50 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |
+| 49 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |
+| 50 | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I) | 8:33 |
 
 Snapshot ID: `Z7xncQAAAAAz4LaWHa9zQ1RvslXRA+4e`

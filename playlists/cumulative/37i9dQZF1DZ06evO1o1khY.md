@@ -4,7 +4,7 @@
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 2 min
+105 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Blessed](https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Blessed](https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v) | 3:36 | 2022-10-28 | 2023-03-12 |
 | [Blessed](https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:36 | 2023-03-11 |  |
 | [BOP \(feat\. GloRilla\)](https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:22 | 2024-02-24 |  |
+| [Can You Please \(feat\. GloRilla\)](https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Can You Please](https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI) | 2:34 | 2025-03-09 |  |
 | [Can’t Get ‘Em](https://open.spotify.com/track/6DXOKzHb12X2Cg6xN8M2Z9) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [FCK GIRL SZN](https://open.spotify.com/album/190BmxsocJbQBw3yNdluVN) | 2:15 | 2024-05-19 | 2024-10-13 |
 | [Can’t Get ‘Em](https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 2:17 | 2023-11-10 | 2024-05-01 |
 | [Cha Cha Cha \(GloRilla, Fivio Foreign\)](https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 3:31 | 2023-10-01 | 2024-10-23 |
@@ -74,7 +75,7 @@
 | [Opp Shit](https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:06 | 2024-04-07 | 2025-02-02 |
 | [Out Loud Thinking](https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:50 | 2022-11-12 |  |
 | [Outside](https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:08 | 2023-04-29 | 2025-01-27 |
-| [Outside](https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Niki Pooh](https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX) | [Outside](https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC) | 2:35 | 2022-10-28 |  |
+| [Outside](https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Niki Pooh](https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX) | [Outside](https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC) | 2:35 | 2022-10-28 | 2025-03-09 |
 | [Overstood \(GloRilla\)](https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:36 | 2023-10-01 |  |
 | [PHATNALL](https://open.spotify.com/track/3HEiAAH5AdjA3ac3aVTQpE) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:55 | 2022-11-12 | 2024-07-24 |
 | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/track/0j1rvfvR1StaYrOaBLtj0a) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:54 | 2023-10-01 | 2024-04-12 |

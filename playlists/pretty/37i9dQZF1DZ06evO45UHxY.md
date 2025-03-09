@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,583 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,584 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 5 | [Hotel California](https://open.spotify.com/track/7aGYG6w2hMxiJXot3LZVTS) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 4:16 |
 | 6 | [Bandrobic's](https://open.spotify.com/track/26a5Wt3kbRA7bt64czqupC) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:40 |
 | 7 | [Balada Del Parque Frío](https://open.spotify.com/track/0IhM4cYDTuD5CN9EnW5uFo) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:57 |
-| 8 | [El Pasito Perron](https://open.spotify.com/track/70cAHG35vnpbGnoykbIFcn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [El Pasito Perron](https://open.spotify.com/album/6CiXXNc8Mg5rFwbUwcZ68k) | 2:51 |
+| 8 | [La buenotota](https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:11 |
 | 9 | [Zapatos De Bailador](https://open.spotify.com/track/35UoR8RpKtdvI2TUFVeKmU) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:49 |
-| 10 | [La buenotota](https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:11 |
+| 10 | [El Pasito Perron](https://open.spotify.com/track/70cAHG35vnpbGnoykbIFcn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [El Pasito Perron](https://open.spotify.com/album/6CiXXNc8Mg5rFwbUwcZ68k) | 2:51 |
 | 11 | [Reventón Unisex](https://open.spotify.com/track/41HebIRHAPoidrilXQ0udy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 4:04 |
 | 12 | [Vamos a Bailar](https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Vamos a Bailar](https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z) | 2:45 |
 | 13 | [El Gato Del Vecindario](https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:31 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 41 | [Cena de Plomo](https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:49 |
 | 42 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 |
 | 43 | [Clases de baile](https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:59 |
-| 44 | [El cariño que perdí](https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [CORRIDOS!](https://open.spotify.com/album/2L1OGQ2Ds0VttVp7XmPFTk) | 2:47 |
+| 44 | [Dame Chamoy](https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf) | [Marea Musical](https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL), [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Dame Chamoy](https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T) | 2:26 |
 | 45 | [Un Engaño Más](https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:59 |
-| 46 | [Ya parará](https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Cumbia Explosión](https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa) | 0:38 |
-| 47 | [Dame Chamoy](https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf) | [Marea Musical](https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL), [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Dame Chamoy](https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T) | 2:26 |
+| 46 | [El cariño que perdí](https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [CORRIDOS!](https://open.spotify.com/album/2L1OGQ2Ds0VttVp7XmPFTk) | 2:47 |
+| 47 | [Ya parará](https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Cumbia Explosión](https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa) | 0:38 |
 | 48 | [El señor de las canas](https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 2:48 |
 | 49 | [Hasta El Fondo Del Abismo](https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:17 |
 | 50 | [La Morena](https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:54 |
 
-Snapshot ID: `Z8jlgAAAAAAYevCAHddEk/WF4jKq83lf`
+Snapshot ID: `Z8o3AAAAAADeawIJUWXDByWpJMIEqsge`

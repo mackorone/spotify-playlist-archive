@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 912724,
+  "num_followers": 912844,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAALUCFmdk56AXdL+6kwFUK9",
+  "snapshot_id": "Z8o3AAAAAABW3DP0JxVZrbxE7k/WpgWA",
   "tracks": [
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruby Rosary (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 256786,
-      "name": "Ruby Rosary (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 169146,
       "name": "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
       "url": "https://open.spotify.com/track/36J0iaPDGbYGsHvYpaYs3k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruby Rosary (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 256786,
+      "name": "Ruby Rosary (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
     }
   ],
   "unique_name": "This Is J. Cole",

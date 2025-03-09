@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Sweet Things Just for You",
+        "url": "https://open.spotify.com/album/262ELeoj9M4JdbBDmWIiDG"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157987,
+      "name": "Sweet Things Just for You",
+      "url": "https://open.spotify.com/track/68UyOxMA7KV67b6i07QTSK"
+    },
+    {
+      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },

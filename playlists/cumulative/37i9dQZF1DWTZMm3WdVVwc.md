@@ -4,7 +4,7 @@
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-177 songs - 12 hr 2 min
+178 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 | 2024-01-23 |  |
 | [illumination](https://open.spotify.com/track/0uqKMcnIFBGD2h0FAqsVf9) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [illumination](https://open.spotify.com/album/516cSsK1gUdpPRmNzh8zPe) | 3:26 | 2024-12-10 |  |
 | [Image Word \- New Recording Ver.](https://open.spotify.com/track/6TmzSGN9QZjtGFD0lHgH1i) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Image Word \(New Recording Ver.\)](https://open.spotify.com/album/5iOMMgOubOCQVhOBoXUuWj) | 4:46 | 2023-12-12 | 2024-12-25 |
-| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2024-12-03 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2024-12-03 | 2025-03-09 |
+| [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-08 |  |
 | [Kaihyou](https://open.spotify.com/track/6apFysy7yb3sbnVdtR68yA) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Kaihyou](https://open.spotify.com/album/6UQRkpePvNR3YVmZrJ0tvp) | 2:18 | 2023-12-12 | 2024-04-19 |
 | [kani](https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [kani](https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28) | 1:49 | 2023-12-19 | 2024-12-13 |
 | [KILALI](https://open.spotify.com/track/7MShqazWIn2DpLDuQhZkLH) | [WITHDOM](https://open.spotify.com/artist/5Pfi9Ji3hoWZRuY69MZP8N) | [KILALI](https://open.spotify.com/album/5z9VA1fPDz916FAtHY4ZsQ) | 3:28 | 2024-01-16 | 2024-01-24 |

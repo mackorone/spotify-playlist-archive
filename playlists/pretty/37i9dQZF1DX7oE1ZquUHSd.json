@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 199054,
+  "num_followers": 199112,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Faruz Vs. Proof",
-        "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        },
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 218154,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/5zntHJg9JeFCOgD0yskuq3"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Lista de Invitados",
         "url": "https://open.spotify.com/album/2hVyIvwrZs10yqHYfGXtFd"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 292093,
       "name": "Blondapetit",
       "url": "https://open.spotify.com/track/6VnTJEOE3PlAG8plyOmldd"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Faruz Vs. Proof",
+        "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 218154,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/5zntHJg9JeFCOgD0yskuq3"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Expreso Aerophon",
+        "url": "https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr"
+      },
+      "artists": [
+        {
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+        }
+      ],
+      "duration_ms": 313183,
+      "name": "Mi Familia",
+      "url": "https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/5GVNLD6AGiNGOVNPkLc6rI"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 243693,
       "name": "Madafaka (feat. Molotov)",
       "url": "https://open.spotify.com/track/3SfFu1MfHefPC55gW4ngH3"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Expreso Aerophon",
-        "url": "https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr"
-      },
-      "artists": [
-        {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
-        }
-      ],
-      "duration_ms": 313183,
-      "name": "Mi Familia",
-      "url": "https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

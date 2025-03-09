@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1049550,
+  "num_followers": 1049566,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 180757,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Desce Pro Play (PA PA PA)",
         "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 168507,
       "name": "Desce Pro Play (PA PA PA)",
       "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 180757,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Alien (Topic Remix)",
-        "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 159927,
-      "name": "Alien - Topic Remix",
-      "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "No Therapy",
         "url": "https://open.spotify.com/album/0XTNNkLIXEGtOqevtADXgi"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 172909,
       "name": "No Therapy",
       "url": "https://open.spotify.com/track/7tUTCcqkMCnC9qLqbQeI0T"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Alien (Topic Remix)",
+        "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 159927,
+      "name": "Alien - Topic Remix",
+      "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
     },
     {
       "added_at": "2024-11-15 03:00:00",

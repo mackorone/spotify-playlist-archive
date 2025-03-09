@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 446359,
+  "num_followers": 446380,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZpUglgAAAADLzKQT05CuQvYfiqFbpOmb",
   "tracks": [
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
+      "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
+    },
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
-      "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
-        "url": "https://open.spotify.com/album/3bj35fk8CPlghdLVOiDZnF"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Moraes",
-          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
-        },
-        {
-          "name": "Maraisa",
-          "url": "https://open.spotify.com/artist/7xRbrPoxLDHtoZ8PkUKAOr"
-        }
-      ],
-      "duration_ms": 170517,
-      "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
-      "url": "https://open.spotify.com/track/5M78WUOq5AjcDfLoj9yi6a"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Volta Marcada",
         "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 167573,
       "name": "Volta Marcada",
       "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
+        "url": "https://open.spotify.com/album/3bj35fk8CPlghdLVOiDZnF"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Moraes",
+          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
+        },
+        {
+          "name": "Maraisa",
+          "url": "https://open.spotify.com/artist/7xRbrPoxLDHtoZ8PkUKAOr"
+        }
+      ],
+      "duration_ms": 170517,
+      "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
+      "url": "https://open.spotify.com/track/5M78WUOq5AjcDfLoj9yi6a"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Esquece de Me Esquecer",
-        "url": "https://open.spotify.com/album/4Cv439w6zA8dOOFcPVggMv"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 180905,
-      "name": "Esquece de Me Esquecer",
-      "url": "https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Noites Frustradas (Ao Vivo)",
         "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 196662,
       "name": "Noites Frustradas - Ao Vivo",
       "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Esquece de Me Esquecer",
+        "url": "https://open.spotify.com/album/4Cv439w6zA8dOOFcPVggMv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 180905,
+      "name": "Esquece de Me Esquecer",
+      "url": "https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr"
     },
     {
       "added_at": "2024-07-15 13:13:58",

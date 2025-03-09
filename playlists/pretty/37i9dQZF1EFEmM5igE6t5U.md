@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622 likes - 191 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 623 likes - 191 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 100 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 |
 | 101 | [Harlem's Nocturne](https://open.spotify.com/track/1B6dE1LulqFg6OjHIVBv3r) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 1:43 |
 | 102 | [So Simple \(feat\. Lellow\)](https://open.spotify.com/track/4SZOVptbDIwRegbsYCOHRJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lellow](https://open.spotify.com/artist/1HWJoW0XfznpegdxFQXXPQ) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:49 |
-| 103 | [One Thing](https://open.spotify.com/track/5oBaKT5xC8Qjr1E5xIGQGa) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 4:08 |
-| 104 | [Wake Up](https://open.spotify.com/track/5uOLfAXKYvGB57XRNCejRu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:27 |
+| 103 | [Wake Up](https://open.spotify.com/track/5uOLfAXKYvGB57XRNCejRu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:27 |
+| 104 | [One Thing](https://open.spotify.com/track/5oBaKT5xC8Qjr1E5xIGQGa) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 4:08 |
 | 105 | [Prelude To a Kiss](https://open.spotify.com/track/3tKe0M3LzqgmItYMVuzTKj) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 2:07 |
 | 106 | [Underdog \(Nicky Jam & Rauw Alejandro Remix\)](https://open.spotify.com/track/7xaZEMkGsrqrME6vWQzHGq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Nicky Jam & Rauw Alejandro Remix\)](https://open.spotify.com/album/6aof4WPnlXmqfL1MVt2cI2) | 3:25 |
 | 107 | [The Beginning \(Interlude\)](https://open.spotify.com/track/1vsMpyfbr0EVX4BOrmEr2k) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 1:04 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 130 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 |
 | 131 | [Caged Bird](https://open.spotify.com/track/1G0GVr97uqZiNt5VGt35KC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:02 |
 | 132 | [Nobody Not Really \(Interlude\)](https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:56 |
-| 133 | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/track/52HkYMgslCfQjNuQ8zjE4P) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/album/4Vppt72lQJuwdBaK9HCh5E) | 4:06 |
-| 134 | [Lifeline \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Lifeline \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV) | 3:47 |
+| 133 | [Lifeline \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Lifeline \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV) | 3:47 |
+| 134 | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/track/52HkYMgslCfQjNuQ8zjE4P) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/album/4Vppt72lQJuwdBaK9HCh5E) | 4:06 |
 | 135 | [Ocean Skies](https://open.spotify.com/track/1w9BpVr1IUekRxTxB68bsT) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Ludaversal \(Deluxe\)](https://open.spotify.com/album/2KlVwY7H9B9KvFXJglqzWq) | 4:49 |
 | 136 | [Warrior Song \(feat\. Alicia Keys\)](https://open.spotify.com/track/4UW7rFZxZsW70PbEgHqHWU) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [God's Son](https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY) | 4:42 |
 | 137 | [Hold Me Down \(feat\. Alicia Keys\)](https://open.spotify.com/track/3GdIsT7MjA8CEkOQ77KpXQ) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Exodus](https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM) | 3:39 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 190 | [I Got A Little Something \- Live In Seattle](https://open.spotify.com/track/79H23cYdXUmMj0Ceo2Hx8Y) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 1:42 |
 | 191 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `AbrcdgAAAABov/S/F+eAEMkgPNpS6wuA`
+Snapshot ID: `AbriFgAAAABBt/ETWCHlri2+pKxpidcU`

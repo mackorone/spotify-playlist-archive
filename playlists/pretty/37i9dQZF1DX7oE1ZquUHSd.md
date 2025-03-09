@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,054 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,112 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 63 | [Tequila Sunrise \- Spanish Version](https://open.spotify.com/track/71irkRXv8MoAoJo6oZjjAe) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Tequila Sunrise](https://open.spotify.com/album/03tKydztnZhkF2ZFVv4VYV) | 3:57 |
 | 64 | [A Praga](https://open.spotify.com/track/6jlT1zT7tKV8YUqJe08rfD) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [A Praga](https://open.spotify.com/album/02Lwolo9461GRQH8mLaHHi) | 3:12 |
 | 65 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
-| 66 | [Invierno](https://open.spotify.com/track/5zntHJg9JeFCOgD0yskuq3) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Faruz Vs\. Proof](https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8) | 3:38 |
-| 67 | [Blondapetit](https://open.spotify.com/track/6VnTJEOE3PlAG8plyOmldd) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Accion Sanchez](https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs), [Gordo Master](https://open.spotify.com/artist/5y1Ia0TH2oNXKLkKNOdjZQ) | [Lista de Invitados](https://open.spotify.com/album/2hVyIvwrZs10yqHYfGXtFd) | 4:52 |
+| 66 | [Blondapetit](https://open.spotify.com/track/6VnTJEOE3PlAG8plyOmldd) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Accion Sanchez](https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs), [Gordo Master](https://open.spotify.com/artist/5y1Ia0TH2oNXKLkKNOdjZQ) | [Lista de Invitados](https://open.spotify.com/album/2hVyIvwrZs10yqHYfGXtFd) | 4:52 |
+| 67 | [Invierno](https://open.spotify.com/track/5zntHJg9JeFCOgD0yskuq3) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Faruz Vs\. Proof](https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8) | 3:38 |
 | 68 | [Mis Disculpas](https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Mis Disculpas](https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB) | 8:08 |
 | 69 | [Desde](https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Desde](https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL) | 4:37 |
 | 70 | [Meñiques](https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:20 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 96 | [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 |
 | 97 | [Balance](https://open.spotify.com/track/6udpsP3eFtN0CtaXLquDdb) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Faruz Vs\. Proof](https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8) | 3:24 |
 | 98 | [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 |
-| 99 | [Madafaka \(feat\. Molotov\)](https://open.spotify.com/track/3SfFu1MfHefPC55gW4ngH3) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg), [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Chances](https://open.spotify.com/album/5GVNLD6AGiNGOVNPkLc6rI) | 4:03 |
-| 100 | [Mi Familia](https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Expreso Aerophon](https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr) | 5:13 |
+| 99 | [Mi Familia](https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Expreso Aerophon](https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr) | 5:13 |
+| 100 | [Madafaka \(feat\. Molotov\)](https://open.spotify.com/track/3SfFu1MfHefPC55gW4ngH3) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg), [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Chances](https://open.spotify.com/album/5GVNLD6AGiNGOVNPkLc6rI) | 4:03 |
 
 Snapshot ID: `ZpF6EQAAAAAd/8yAeJMF6VkOwx0kuWUi`

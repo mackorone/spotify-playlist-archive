@@ -1,12 +1,12 @@
 {
   "description": "This is Glassjaw. The essential tracks, all in one playlist.",
-  "num_followers": 2222,
+  "num_followers": 2223,
   "original_name": "This Is Glassjaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAAk9C4tvSGwqXCNR8h8klMq",
+  "snapshot_id": "Z8o3AAAAAABIBAHX0eNP4hAPoRfRCs/A",
   "tracks": [
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Color Green (The Singles)",
-        "url": "https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH"
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 307309,
-      "name": "Jesus Glue",
-      "url": "https://open.spotify.com/track/1aLd9GXy4kOZzCJsyIfTZT"
+      "duration_ms": 164293,
+      "name": "my conscience weighs a ton",
+      "url": "https://open.spotify.com/track/3QNDMB1kuF99oWG5aFKhYe"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+        "name": "Our Color Green (The Singles)",
+        "url": "https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 265839,
-      "name": "new white extremity",
-      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
+      "duration_ms": 307309,
+      "name": "Jesus Glue",
+      "url": "https://open.spotify.com/track/1aLd9GXy4kOZzCJsyIfTZT"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Color Green (The Singles)",
-        "url": "https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH"
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 316402,
-      "name": "You Think You're (John Fucking Lennon)",
-      "url": "https://open.spotify.com/track/09VDpaucF3nSyTznLePzI7"
+      "duration_ms": 265839,
+      "name": "new white extremity",
+      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "my conscience weighs a ton",
-      "url": "https://open.spotify.com/track/3QNDMB1kuF99oWG5aFKhYe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mark",
         "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
       },
@@ -439,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Our Color Green (The Singles)",
+        "url": "https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 316402,
+      "name": "You Think You're (John Fucking Lennon)",
+      "url": "https://open.spotify.com/track/09VDpaucF3nSyTznLePzI7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
@@ -451,38 +451,6 @@
       "duration_ms": 322106,
       "name": "Daytona White",
       "url": "https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Rabbits",
-        "url": "https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat"
-      },
-      "artists": [
-        {
-          "name": "Bad Rabbits",
-          "url": "https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR"
-        },
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        },
-        {
-          "name": "Black Sheep",
-          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
-        },
-        {
-          "name": "Justin Beck",
-          "url": "https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq"
-        },
-        {
-          "name": "Dres",
-          "url": "https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "The Choice Is Yours",
-      "url": "https://open.spotify.com/track/3RTRfCPMOVnmHUtvnJ1f9s"
     },
     {
       "added_at": null,
@@ -515,6 +483,38 @@
       "duration_ms": 303746,
       "name": "The Number No Good Things Can Come Of",
       "url": "https://open.spotify.com/track/6dw1ALjnu29L8XrxTEvLg3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Rabbits",
+        "url": "https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat"
+      },
+      "artists": [
+        {
+          "name": "Bad Rabbits",
+          "url": "https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        },
+        {
+          "name": "Black Sheep",
+          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
+        },
+        {
+          "name": "Justin Beck",
+          "url": "https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq"
+        },
+        {
+          "name": "Dres",
+          "url": "https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "The Choice Is Yours",
+      "url": "https://open.spotify.com/track/3RTRfCPMOVnmHUtvnJ1f9s"
     },
     {
       "added_at": null,

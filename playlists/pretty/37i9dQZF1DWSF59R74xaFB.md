@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 
 > El amor no se escucha, se siente...
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,252 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,281 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 58 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
 | 59 | [Dos Soledades](https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm) | 3:10 |
 | 60 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 |
-| 61 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 |
-| 62 | [Lo Que Tenías Conmigo](https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Lo Que Tenías Conmigo](https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb) | 3:53 |
+| 61 | [Lo Que Tenías Conmigo](https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Lo Que Tenías Conmigo](https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb) | 3:53 |
+| 62 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 |
 | 63 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 64 | [Te Equivocaste](https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
 | 65 | [A quien tú decidiste amar](https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Lo Que Siempre Soñamos Ser](https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx) | 3:49 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 77 | [A Donde Va El Viento \(Canción de la Serie Original de Prime\)](https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [A Donde Va El Viento \(Canción de la Serie Original de Prime\)](https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M) | 2:46 |
 | 78 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
 | 79 | [Cinco Minutos Más](https://open.spotify.com/track/1U6gcdaWujPBqQ01c4Wt6S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Cinco Minutos Más](https://open.spotify.com/album/51RUUGrrYNFB5H2jIftYzo) | 3:00 |
-| 80 | [Lienzo](https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lienzo](https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv) | 3:00 |
-| 81 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
+| 80 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
+| 81 | [Lienzo](https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lienzo](https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv) | 3:00 |
 | 82 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
 | 83 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 |
 | 84 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |

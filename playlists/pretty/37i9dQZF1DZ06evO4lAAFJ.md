@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,462 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,489 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 46 | [LAX](https://open.spotify.com/track/2N3YZ075lq9z1ObaAiX6l1) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 1:29 |
 | 47 | [Aunque Es De Noche](https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aunque Es De Noche](https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk) | 4:13 |
 | 48 | [LA KILIÉ](https://open.spotify.com/track/1xtfUae857RhiCclSlAOIV) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:11 |
-| 49 | [Thank Yu :\)](https://open.spotify.com/track/1nsHEIMiqiPzlwaZu5ykZG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 0:34 |
 
-Snapshot ID: `Z8jlgAAAAABmIxknMpxPSt68VOdVMExp`
+Snapshot ID: `Z8o3AAAAAACtLtt4dU4Dj33e6sYVxIhF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 
 > Agárrense fuerte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,834 likes - 55 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,890 likes - 55 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 | 37 | [Without You](https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Earth Is...](https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3) | 4:32 |
 | 38 | [Ode To My Family](https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L) | 4:31 |
 | 39 | [Crazy](https://open.spotify.com/track/74irxdVWstNlEQjsvArITq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:16 |
-| 40 | [Wind Of Change](https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 5:13 |
-| 41 | [Don't Know Why](https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:06 |
+| 40 | [Don't Know Why](https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:06 |
+| 41 | [Wind Of Change](https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 5:13 |
 | 42 | [Heaven](https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless](https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA) | 4:03 |
 | 43 | [Everybody Hurts](https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(U.S\. Version\)](https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf) | 5:18 |
 | 44 | [Tears in Heaven](https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 4:31 |

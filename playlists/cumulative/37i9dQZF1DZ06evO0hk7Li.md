@@ -4,7 +4,7 @@
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 47 min
+106 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bang](https://open.spotify.com/track/5cECPK2MfXHYncVB9wLoMR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Bang](https://open.spotify.com/album/2nqTrXkTZV9pQgDU8Bde00) | 3:22 | 2022-08-27 | 2022-10-27 |
 | [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-10-26 |  |
 | [Be Good To Me \(feat\. Seinabo Sey\)](https://open.spotify.com/track/7juealXfkel1kLInjvY4W8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:10 | 2021-12-29 |  |
-| [Black N White](https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:38 | 2022-05-21 |  |
+| [Black N White](https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:38 | 2022-05-21 | 2025-03-09 |
 | [Blame](https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Blame](https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p) | 4:11 | 2021-12-28 |  |
 | [Blind](https://open.spotify.com/track/6Yk2g7SHvLwpPHhLtqEveo) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book II](https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA) | 3:24 | 2025-02-01 |  |
 | [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 | 2021-12-28 | 2024-07-14 |
@@ -42,6 +42,7 @@
 | [Good Evening](https://open.spotify.com/track/5ujvilUlDY0p6VMWshWsnS) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 0:53 | 2024-07-14 | 2024-09-05 |
 | [Grace](https://open.spotify.com/track/1aTsh0N4mZvzdY9Ure3eBo) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:36 | 2022-09-19 | 2024-09-02 |
 | [Grace](https://open.spotify.com/track/2ZKHqERUbvXfcJGXLObv0X) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 3:36 | 2021-12-28 | 2022-09-19 |
+| [Heavy Love](https://open.spotify.com/track/3K8YcoWwPJBSB8duxMc3Aw) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book III](https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa) | 4:01 | 2025-03-09 |  |
 | [Home](https://open.spotify.com/track/1LtJ3tdHHxeV8mQ4hhFLCB) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 3:28 | 2021-12-28 | 2022-09-21 |
 | [Home](https://open.spotify.com/track/3mVAVmOOPfix072ec37bNe) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:28 | 2022-09-20 | 2025-02-01 |
 | [Homecoming](https://open.spotify.com/track/2SVFDK1ijwMleKl68vaKLx) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL) | 2:59 | 2022-05-02 | 2022-05-04 |

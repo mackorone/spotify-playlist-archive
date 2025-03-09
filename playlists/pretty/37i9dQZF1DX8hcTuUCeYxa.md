@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Rachel Chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,361 likes - 89 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,373 likes - 89 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
 | 2 | [Make It Work](https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Make It Work](https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB) | 4:15 |
-| 3 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:32 |
+| 3 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 |
 | 4 | [Cataract Time](https://open.spotify.com/track/681ZfGnArxSspYkBw7eg2n) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Cataract Time](https://open.spotify.com/album/0kE0sFfDTd1n8y8hW0MzoY) | 8:00 |
 | 5 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 6 | [Blue Demon](https://open.spotify.com/track/1GxaEkfGQrN6cuUOMJ8yqi) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Blue Demon](https://open.spotify.com/album/4EjU3mNmfEVljQgGbuZz1l) | 3:45 |

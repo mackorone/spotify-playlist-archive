@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 
 > This is Deftones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,341 likes - 53 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,535 likes - 53 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 52 | [Battle\-axe](https://open.spotify.com/track/2ouqll9zsD2cjcGUfgtInW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 5:01 |
 | 53 | [Urantia](https://open.spotify.com/track/33WXUh74RZ4CEfUkpJwHWE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:30 |
 
-Snapshot ID: `Z8jlgAAAAAAbcImhfC0NGXHGrqti8k4r`
+Snapshot ID: `Z8o3AAAAAAAkx/5axoRN1Nh5B1B2ogyO`

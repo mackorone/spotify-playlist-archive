@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudarte a dormir.
 
-326 songs - 14 hr 17 min
+327 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Deep Phase Noise 1](https://open.spotify.com/track/5MOWBRtP53q5yNOtHaMVTh) | [Milli Hughes](https://open.spotify.com/artist/5qq6C4dNld3AWHbh2WaNAR) | [Deep Phase Noise](https://open.spotify.com/album/2jiaVZwVTy1c1lmu1ifoud) | 2:23 | 2023-04-12 |  |
 | [Deep Space Voyage](https://open.spotify.com/track/6PvAlp8pKy23Bff6tUjhl0) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 | 2023-03-09 | 2025-01-31 |
 | [Deepest Noise](https://open.spotify.com/track/4i564XRLtCHgVcOCLHbGsX) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [My White Noise](https://open.spotify.com/album/7MmViEsPhKqmO2JAc8CGm7) | 1:38 | 2023-04-12 | 2023-06-29 |
+| [Delicate White Noise](https://open.spotify.com/track/6sUY8p4taLXxhqoo3JbOhR) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [Delicate White Noise](https://open.spotify.com/album/4PwZOVcCvo0QkWtgTVEEIw) | 2:42 | 2025-01-30 |  |
 | [Digital Waves](https://open.spotify.com/track/6DDLnwNKKt5jRjghysaLem) | [Sleeping Voyage](https://open.spotify.com/artist/7v3zY7R3YebusTme8ScaaX) | [Digital Waves](https://open.spotify.com/album/0skuQXE2EMOp6OHysUQxQs) | 2:55 | 2023-04-12 |  |
 | [Do You Mind?](https://open.spotify.com/track/3uN5SegBAYYuoDEDYIU1lw) | [HOLISTIK](https://open.spotify.com/artist/5snzdlYPB9rks7jXF4bxl4) | [Do You Mind?](https://open.spotify.com/album/5mkGpRwDHBuQsTtzeexCDy) | 1:35 | 2023-04-12 | 2023-06-29 |
 | [Doze Off](https://open.spotify.com/track/4pU7rgTDiVrCGwFhM4u3Rm) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:57 | 2023-03-09 |  |
@@ -89,7 +90,7 @@
 | [Good Night, White Noise](https://open.spotify.com/track/7wvFYp6DH6wnmssGxljA6Y) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Good Night, White Noise](https://open.spotify.com/album/6JdZfBjzn0tyfuzu0efVYp) | 4:58 | 2023-03-09 |  |
 | [Grainy White & Brown Noise \- 653hz 3.2dB Slope](https://open.spotify.com/track/1ksiTvcujtLM4UFNWvcnG9) | [Astral Noise](https://open.spotify.com/artist/6ukbhEhFk72rEfygTKIdIE) | [Intergalactic Sleep Sounds](https://open.spotify.com/album/1dKAPcNK146NsW8Aqkqr4F) | 1:04 | 2023-04-12 | 2023-06-29 |
 | [Harmonious](https://open.spotify.com/track/1wUzoaQgii2QrgnqlcRPAC) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Harmonious](https://open.spotify.com/album/3IDmrMJl8iGvEXij8TqaPO) | 2:53 | 2023-04-12 |  |
-| [Harmonious Noise](https://open.spotify.com/track/76acca0MmdeFW5L8m1yL1T) | [Chen Pa](https://open.spotify.com/artist/6tBqsxZQcS6IjIwzZ3axD9) | [Steady White Noise](https://open.spotify.com/album/14hlWan4DFAHTypwMU1jwJ) | 2:11 | 2023-03-09 |  |
+| [Harmonious Noise](https://open.spotify.com/track/76acca0MmdeFW5L8m1yL1T) | [Chen Pa](https://open.spotify.com/artist/6tBqsxZQcS6IjIwzZ3axD9) | [Steady White Noise](https://open.spotify.com/album/14hlWan4DFAHTypwMU1jwJ) | 2:11 | 2023-03-09 | 2025-03-09 |
 | [Heavenly White](https://open.spotify.com/track/6kpj39kjc6RXinIQSMn36K) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Heavenly White](https://open.spotify.com/album/2SRlxVlbNsTy5OqZvLBwCh) | 3:07 | 2023-04-12 |  |
 | [Heavenly White Sound](https://open.spotify.com/track/62aNf1nRrwUhMT6idGiQAZ) | [Noises Of Life](https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi) | [Heavenly White Sound](https://open.spotify.com/album/00osT0x2XHlVBMhBtnr20V) | 1:44 | 2023-03-09 | 2023-06-29 |
 | [Hemelse Witte Ruis](https://open.spotify.com/track/3nRv6eO0ZxOnwr8n62QTvH) | [Audio signaal](https://open.spotify.com/artist/0pv53NCu9RJRbpPDcqiRcI) | [Stille Witte Ruis](https://open.spotify.com/album/2O6y5VNrswpWapUGZ3yftm) | 3:07 | 2023-03-09 |  |

@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -8772,7 +8790,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 165082,
       "name": "CELOU NOC 2",
       "url": "https://open.spotify.com/track/2SdeE22RomGIWq3xZwk7aF"
@@ -13284,7 +13302,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 149766,
       "name": "Doot Doot (6 7) (Bonus Track)",
       "url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu"
@@ -22650,7 +22668,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 129542,
       "name": "I Can't Fit In",
       "url": "https://open.spotify.com/track/2ZDhEadCNyggLJWGETk7sQ"
@@ -41920,7 +41938,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 189176,
       "name": "Propanbutan",
       "url": "https://open.spotify.com/track/4JcyWgqQUVwHhjUHMgUSYY"
@@ -44260,7 +44278,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 124620,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
@@ -50684,7 +50702,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 101142,
       "name": "Ta\u0144cowa\u0142a Ryba z Rakiem - Meme Techno Cover",
       "url": "https://open.spotify.com/track/7rNhMBFlB9gCvce7GGgMVT"
@@ -51508,7 +51526,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
@@ -60170,7 +60188,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 195505,
       "name": "\u041e \u043c\u043e\u0435\u0439 \u043b\u044e\u0431\u0432\u0438",
       "url": "https://open.spotify.com/track/5AeVHI8Ch7irMbODMiObp2"

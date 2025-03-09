@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Bandalos Chinos.",
-  "num_followers": 167313,
+  "num_followers": 167319,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Tarde o temprano",
-      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
         "name": "ULTRA SODADE",
         "url": "https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 201106,
       "name": "ya no me llames",
       "url": "https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
     },
     {
       "added_at": "2025-02-14 05:00:45",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 194523,
-      "name": "Hora Dorada",
-      "url": "https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
         "name": "El Show Debe Continuar",
         "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 214133,
       "name": "Una Playa En Nayarit",
       "url": "https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 194523,
+      "name": "Hora Dorada",
+      "url": "https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i"
     },
     {
       "added_at": "2025-02-14 05:00:45",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
-        "name": "Mostly Fresh",
-        "url": "https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 167888,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
         "name": "Una Cosa Lleva a la Otra",
         "url": "https://open.spotify.com/album/48ebpXiKqVAdQnx5fy2WsV"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 212631,
       "name": "Una Cosa Lleva a la Otra",
       "url": "https://open.spotify.com/track/5UdQff8TOnWpO7Q1UjPR7x"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
+        "name": "Mostly Fresh",
+        "url": "https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 167888,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2"
     }
   ],
   "unique_name": "Top Latin Indie",

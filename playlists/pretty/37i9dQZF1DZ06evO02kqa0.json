@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 38398,
+  "num_followers": 38412,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAADKpLyoCjIEVKMTBCmfGAgE",
+  "snapshot_id": "Z8o3AAAAAADpimpSVTztMbTnKJ4fJhDL",
   "tracks": [
     {
       "added_at": null,
@@ -943,34 +943,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ponchielli: La Gioconda, Op. 9",
-        "url": "https://open.spotify.com/album/3psVD4zIuKCJw8hVFr5oY3"
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
       "artists": [
         {
-          "name": "Amilcare Ponchielli",
-          "url": "https://open.spotify.com/artist/088fpww3Ae4U9cMZv5O6m8"
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Coro di Torino della RAI",
-          "url": "https://open.spotify.com/artist/23DWBnk0R0snPWZyQQQvbs"
-        },
-        {
           "name": "Antonino Votto",
           "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
         },
         {
-          "name": "Orchestra Sinfonica Di Torino Della Rai",
-          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         }
       ],
-      "duration_ms": 90133,
-      "name": "Ponchielli: La Gioconda, Op. 9, Act 3: \"Prodigio! Incanto!\" (Coro)",
-      "url": "https://open.spotify.com/track/2YNHKWPuAJiSCHkiSgr8w0"
+      "duration_ms": 205826,
+      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
+      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
     },
     {
       "added_at": null,
@@ -1007,30 +1003,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+        "name": "Ponchielli: La Gioconda, Op. 9",
+        "url": "https://open.spotify.com/album/3psVD4zIuKCJw8hVFr5oY3"
       },
       "artists": [
         {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+          "name": "Amilcare Ponchielli",
+          "url": "https://open.spotify.com/artist/088fpww3Ae4U9cMZv5O6m8"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
+          "name": "Coro di Torino della RAI",
+          "url": "https://open.spotify.com/artist/23DWBnk0R0snPWZyQQQvbs"
+        },
+        {
           "name": "Antonino Votto",
           "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
         },
         {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+          "name": "Orchestra Sinfonica Di Torino Della Rai",
+          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
         }
       ],
-      "duration_ms": 205826,
-      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
-      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
+      "duration_ms": 90133,
+      "name": "Ponchielli: La Gioconda, Op. 9, Act 3: \"Prodigio! Incanto!\" (Coro)",
+      "url": "https://open.spotify.com/track/2YNHKWPuAJiSCHkiSgr8w0"
     },
     {
       "added_at": null,

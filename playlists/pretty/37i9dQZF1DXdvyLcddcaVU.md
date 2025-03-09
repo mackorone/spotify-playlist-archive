@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,700 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,294 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

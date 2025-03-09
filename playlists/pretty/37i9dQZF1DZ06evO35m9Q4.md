@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,173 likes - 48 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,190 likes - 48 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 43 | [Letter to My Girlfriend \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 3:08 |
 | 44 | [Give Me Back My Wig](https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:07 |
 | 45 | [I'm Gonna Move To The Outskirts Of Town \- Remastered 2024](https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 23:22 |
-| 46 | [Live Another Day \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 3:49 |
-| 47 | [Don't Lie To Me](https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 8:57 |
+| 46 | [Don't Lie To Me](https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 8:57 |
+| 47 | [Live Another Day \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 3:49 |
 | 48 | [Shake for Me \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 3:48 |
 
-Snapshot ID: `Z8jlgAAAAAB33eAS2MMe6oA8n2Rjl5Zg`
+Snapshot ID: `Z8o3AAAAAADvoscse3XtPnOu4tnjv+0I`

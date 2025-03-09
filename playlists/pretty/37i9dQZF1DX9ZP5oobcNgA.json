@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 133219,
+  "num_followers": 133248,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
+      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Messiah",
         "url": "https://open.spotify.com/album/4fMwLdKBFB0A2XjrB8vvM5"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 219360,
       "name": "Messiah, HWV 56, Pt. 2: No. 44, Chorus. Hallelujah, for the Lord God Omnipotent Reigneth",
       "url": "https://open.spotify.com/track/4TNCQyG2gmepsGoeLdRKn4"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
-      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -607,30 +607,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Baroque Masterpieces",
-        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
-      "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Music for the Royal Fireworks; Water Music Suites",
         "url": "https://open.spotify.com/album/0W4OhMLKiSF0yACzBMjQ2c"
       },
@@ -655,8 +631,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music/Sonatas etc.",
-        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
+        "name": "Baroque Masterpieces",
+        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
       },
       "artists": [
         {
@@ -664,17 +640,17 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Yehudi Menuhin",
-          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
         },
         {
-          "name": "Bath Festival Orchestra",
-          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
         }
       ],
-      "duration_ms": 121493,
-      "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: III. Gigue",
-      "url": "https://open.spotify.com/track/38gibGVp2n7D0GQKoUTPRj"
+      "duration_ms": 174320,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
+      "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -703,6 +679,30 @@
       "duration_ms": 164320,
       "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
       "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music/Sonatas etc.",
+        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Yehudi Menuhin",
+          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
+        },
+        {
+          "name": "Bath Festival Orchestra",
+          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
+        }
+      ],
+      "duration_ms": 121493,
+      "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: III. Gigue",
+      "url": "https://open.spotify.com/track/38gibGVp2n7D0GQKoUTPRj"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1471,34 +1471,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "HANDEL: Oboe Concertos Nos. 1- 3 / Suite in G Minor",
-        "url": "https://open.spotify.com/album/4GU7XfRe0pC1qeIvCWAOOS"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Anthony Camden",
-          "url": "https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        },
-        {
-          "name": "Nicholas Ward",
-          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Oboe Concerto No. 3 in G Minor, HWV 287: III. Sarabande. Largo",
-      "url": "https://open.spotify.com/track/3frij1etbhokEz1aEZr6rB"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Ode for St. Cecilia's Day",
         "url": "https://open.spotify.com/album/5U0Py9YY5AwiH2BiH5nrI8"
       },
@@ -1531,6 +1503,34 @@
       "duration_ms": 498200,
       "name": "Ode for St. Cecilia's Day, HWV 76: What Passion Cannot Music Raise and Quell",
       "url": "https://open.spotify.com/track/352FMQLrt2Ppl2RdOUn9AA"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "HANDEL: Oboe Concertos Nos. 1- 3 / Suite in G Minor",
+        "url": "https://open.spotify.com/album/4GU7XfRe0pC1qeIvCWAOOS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Anthony Camden",
+          "url": "https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Oboe Concerto No. 3 in G Minor, HWV 287: III. Sarabande. Largo",
+      "url": "https://open.spotify.com/track/3frij1etbhokEz1aEZr6rB"
     },
     {
       "added_at": "2022-06-28 08:56:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,290 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,299 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 22 | [De Janeiro a Janeiro](https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Varrendo a Lua \(Deluxe Edition\)](https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ) | 3:10 |
 | 23 | [Coisa Linda](https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 2:58 |
 | 24 | [Ainda Gosto Dela](https://open.spotify.com/track/2wtnWkmyE2ivwmDyVfJ8N5) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Estandarte](https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz) | 5:13 |
-| 25 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
-| 26 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
+| 25 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
+| 26 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
 | 27 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
 | 28 | [Felicidade](https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 2](https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3) | 4:27 |
 | 29 | [Você me faz tão bem](https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico](https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3) | 4:14 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 43 | [Por Você \- Ao Vivo](https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Frejat Ao Vivo No Rock In Rio](https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T) | 3:35 |
 | 44 | [Sorte \- Ao Vivo](https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Silva & Liniker \(Ao Vivo\)](https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG) | 3:50 |
 | 45 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
-| 46 | [Espatódea](https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Sim E Não](https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu) | 3:46 |
-| 47 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
+| 46 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
+| 47 | [Espatódea](https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Sim E Não](https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu) | 3:46 |
 | 48 | [Quando A Chuva Passar](https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [As Super Novas](https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF) | 4:06 |
 | 49 | [Bela Flor](https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:03 |
 | 50 | [Um certo alguém](https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 3:33 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 67 | [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 |
 | 68 | [Aliança](https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Aliança](https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM) | 3:56 |
 | 69 | [A Cara do Amor da Minha Vida](https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [A Cara do Amor da Minha Vida](https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC) | 2:31 |
-| 70 | [Massagem nas Costas](https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Massagem nas Costas](https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq) | 2:39 |
-| 71 | [Eclipse](https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Eclipse](https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc) | 3:06 |
+| 70 | [Eclipse](https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Eclipse](https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc) | 3:06 |
+| 71 | [Massagem nas Costas](https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Massagem nas Costas](https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq) | 2:39 |
 | 72 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 |
 | 73 | [O amor me fala de você](https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [O amor me fala de você](https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz) | 3:19 |
 | 74 | [O Nosso Amor É Tão Bom](https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [O Nosso Amor É Tão Bom](https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7) | 3:22 |

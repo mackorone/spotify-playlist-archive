@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,705 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,727 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 | 30 | [ずっこけ！ばいきんまん](https://open.spotify.com/track/4xg1oz4inny0FGAbAjp3Mz) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン げんき100ばいソングス ばいきんまん](https://open.spotify.com/album/7g5iW7JrxrR9M0zcZrCnxL) | 2:56 |
 | 31 | [どんぶりまんトリオ うきうき歌](https://open.spotify.com/track/29EsQIFpDNIYDBHyvi4hJh) | [坂本千夏 \(てんどんまん\)](https://open.spotify.com/artist/4V7B51RciMPnbx203XtuwQ), [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2), [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:59 |
 | 32 | [くろゆき姫のタンゴ](https://open.spotify.com/track/56smx2x9NE00Bh8LfjQ2kZ) | [愛華みれ \(くろゆき姫\)](https://open.spotify.com/artist/3twytdc7N3Fy3A9jCtBsRK) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 2:54 |
-| 33 | [ルンルンおむすび仁義](https://open.spotify.com/track/1tBFVGmkfWMymXHbJoH2Tc) | [柳志乃 \(おむすびまん\)](https://open.spotify.com/artist/4oFGrkXSTHQtZ8ZBWUayFV) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 4:22 |
-| 34 | [夕日にむかって](https://open.spotify.com/track/4DvkO0jUUvxO5yz2YQw0vP) | [南果歩\(サニー姫\)](https://open.spotify.com/artist/4Z9rAFmiqCkeylhX3l0Owl), [島本須美 \(しょくぱんまん\)](https://open.spotify.com/artist/6dmmdl7OR2xbdGtliMZXBt) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:23 |
+| 33 | [夕日にむかって](https://open.spotify.com/track/4DvkO0jUUvxO5yz2YQw0vP) | [南果歩\(サニー姫\)](https://open.spotify.com/artist/4Z9rAFmiqCkeylhX3l0Owl), [島本須美 \(しょくぱんまん\)](https://open.spotify.com/artist/6dmmdl7OR2xbdGtliMZXBt) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:23 |
+| 34 | [ルンルンおむすび仁義](https://open.spotify.com/track/1tBFVGmkfWMymXHbJoH2Tc) | [柳志乃 \(おむすびまん\)](https://open.spotify.com/artist/4oFGrkXSTHQtZ8ZBWUayFV) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 4:22 |
 | 35 | [ぼくらはヒーロー](https://open.spotify.com/track/5fjkZffOYnUxszvP5VEwns) | [戸田恵子 \(アンパンマン\)](https://open.spotify.com/artist/2gBqMXiaVeB6af4dDB5cP7), [島本須美 \(しょくぱんまん\)](https://open.spotify.com/artist/6dmmdl7OR2xbdGtliMZXBt), [柳沢三千代 \(カレーパンマン\)](https://open.spotify.com/artist/7kelNClypvYqzLtU8rBg5p) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 5:22 |
 | 36 | [悪いはすてき](https://open.spotify.com/track/1qVFtQgFx5sGUS1i6EwNIy) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 2:20 |
 | 37 | [おなじみしょくぱんまん](https://open.spotify.com/track/6QBK3qn0SWzsBxVwXrmvtx) | [島本須美 \(しょくぱんまん\)](https://open.spotify.com/artist/6dmmdl7OR2xbdGtliMZXBt) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:28 |

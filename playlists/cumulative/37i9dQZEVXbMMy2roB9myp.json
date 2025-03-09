@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "PAPOTA",
+        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149394,
+      "name": "#TETAS",
+      "url": "https://open.spotify.com/track/2RAKwOzLiXA8AgA1pFIuFe"
+    },
+    {
+      "album": {
         "name": "Antes de Ameri",
         "url": "https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU"
       },
@@ -600,6 +626,24 @@
       "duration_ms": 206659,
       "name": "A200",
       "url": "https://open.spotify.com/track/6hLsMjw00j3HGrkUjKwmgo"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
     },
     {
       "album": {
@@ -4010,7 +4054,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 242520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/0iwmZVScrpLcbbfHbdJGT0"
@@ -5380,10 +5424,32 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "album": {
@@ -13076,7 +13142,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 215372,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/1Zh6HllrXT0Khrwk2j3TrZ"
@@ -15406,7 +15472,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 283884,
       "name": "Por Mil Noches",
       "url": "https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN"
@@ -17700,7 +17766,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 217490,
       "name": "SINVERG\u00dcENZA - con Angela Torres",
       "url": "https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,992 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,102 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

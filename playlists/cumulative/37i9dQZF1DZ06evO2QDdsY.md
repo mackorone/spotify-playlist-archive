@@ -4,7 +4,7 @@
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 31 min
+81 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Summer's End](https://open.spotify.com/track/4XEJxDDGvxgAAUXJGMWg0h) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 3:29 | 2022-09-16 | 2024-10-23 |
 | [Summer's End](https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70) | 3:29 | 2024-11-12 |  |
 | [Sure to Fall](https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Red Hot: A Memphis Celebration of Sun Records](https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c) | 2:51 | 2022-09-16 |  |
+| [Sweet Things Just for You](https://open.spotify.com/track/68UyOxMA7KV67b6i07QTSK) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweet Things Just for You](https://open.spotify.com/album/262ELeoj9M4JdbBDmWIiDG) | 2:37 | 2025-03-09 |  |
 | [Tennessee Time](https://open.spotify.com/track/3L2DzPh6UCxtgehSnjSB4s) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:12 | 2022-09-21 | 2024-07-23 |
 | [The Drifter](https://open.spotify.com/track/0ZX0mqvRzmI7fR5w6eq7UN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 3:15 | 2022-09-16 | 2022-10-09 |
 | [The Fact](https://open.spotify.com/track/1Xq0XTjQVQkLNrOgDQ7hrf) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Goodtime Charlie](https://open.spotify.com/album/58WR5ej6EJFRGjQp1qrfpN) | 3:27 | 2023-09-18 |  |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,361 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,777 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 |
-| 2 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
-| 3 | [Ese Vato No Te Queda](https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ese Vato No Te Queda](https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9) | 3:18 |
+| 2 | [Ese Vato No Te Queda](https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ese Vato No Te Queda](https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9) | 3:18 |
+| 3 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
 | 4 | [Una Vida Pasada](https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 3:38 |
 | 5 | [Ahí Estabas Tú](https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 1:52 |
 | 6 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/1393rKYgZHNphZrdx1jWoN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:49 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 31 | [⁠Aviso importante](https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Bolela](https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:11 |
 | 32 | [Ocupo Una Limpia](https://open.spotify.com/track/70e72bFvwBdxU4OlVCkpby) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:34 |
 | 33 | [Secuelas De Amor](https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX) | 2:34 |
-| 34 | [Dame un Beso y Dime Adios \(En Vivo\)](https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 3:59 |
+| 34 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 |
 | 35 | [Por culpa de un tercero](https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:54 |
-| 36 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 |
+| 36 | [Dame un Beso y Dime Adios \(En Vivo\)](https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 3:59 |
 | 37 | [Cuando La Vida Sea Trago](https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cuando La Vida Sea Trago](https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x) | 2:53 |
 | 38 | [Si Tu Amor No Vuelve \- En Vivo](https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1) | 3:20 |
 | 39 | [Te quiero](https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te quiero](https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe) | 3:34 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 50 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 |
 | 51 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Los Honorables](https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL) | [Borrachera Con Los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 |
 
-Snapshot ID: `Z8jlgAAAAAC5tSRbSSaSQjk/Jgy+z1cV`
+Snapshot ID: `Z8o3AAAAAAAiyVueMFc8COX1cp7eND6x`

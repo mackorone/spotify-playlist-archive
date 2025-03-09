@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/3x9wI2YbixwKFQwfawMAOl"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "Better Love - From \"The Legend Of Tarzan\" Original Motion Picture Soundtrack / Single Version",
+      "url": "https://open.spotify.com/track/1xSNfIhSXHEJIwqDXHAxQ7"
+    },
+    {
+      "album": {
         "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },

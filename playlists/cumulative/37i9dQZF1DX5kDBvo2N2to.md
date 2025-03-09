@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-235 songs - 13 hr 19 min
+237 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Closer To You](https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Closer To You](https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V) | 2:33 | 2024-06-28 | 2024-09-20 |
 | [Cold As Ice](https://open.spotify.com/track/3tW9811KrWQxa0SIxaFWUF) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Cold As Ice](https://open.spotify.com/album/3GUacx6dbm7SNjNGel4srO) | 3:30 | 2025-01-16 |  |
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-06-28 | 2024-08-16 |
-| [Daisy](https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Daisy](https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7) | 3:28 | 2025-01-16 |  |
+| [Daisy](https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Daisy](https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7) | 3:28 | 2025-01-16 | 2025-03-09 |
 | [Dance Alone](https://open.spotify.com/track/51bfC0IWSuuN6x0TKTWcb3) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Dance Alone](https://open.spotify.com/album/3Cv4PRHPdzt5A6BUpNnY0H) | 2:38 | 2024-10-24 |  |
 | [Dansa med mig själv](https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Dansa med mig själv](https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn) | 2:07 | 2025-02-21 |  |
 | [Dansa runt problemen](https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Dansa runt problemen](https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8) | 2:50 | 2024-06-28 | 2025-02-26 |
@@ -88,6 +88,7 @@
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 |  |
 | [GEN Z](https://open.spotify.com/track/1jcyd0Qq7rJroTz6ImNnIS) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [GEN Z](https://open.spotify.com/album/2CboZV6emhWjGOKJK5kFg0) | 2:50 | 2025-03-07 |  |
 | [Gimme](https://open.spotify.com/track/6f2x86p54shxxPVEmhkJPm) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Gimme](https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae) | 3:04 | 2024-10-24 | 2025-01-19 |
+| [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 | 2025-03-07 |  |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-28 | 2024-08-30 |
 | [GODDESS](https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [GODDESS](https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx) | 3:10 | 2024-10-24 |  |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 |  |
@@ -148,7 +149,7 @@
 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 | 2024-09-19 |  |
 | [luminary rainbows](https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [luminary rainbows](https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr) | 4:52 | 2024-08-22 | 2024-10-28 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-28 | 2024-08-16 |
-| [Lupins In Blue \- Harry Hayes Remix](https://open.spotify.com/track/33gniadkmUayASOPuTQnLb) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Lupins In Blue \(Harry Hayes Remix\)](https://open.spotify.com/album/7mI6yE9duwF1z3vlBVoiT1) | 2:57 | 2024-09-19 |  |
+| [Lupins In Blue \- Harry Hayes Remix](https://open.spotify.com/track/33gniadkmUayASOPuTQnLb) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Lupins In Blue \(Harry Hayes Remix\)](https://open.spotify.com/album/7mI6yE9duwF1z3vlBVoiT1) | 2:57 | 2024-09-19 | 2025-03-09 |
 | [Låta Dig Gå](https://open.spotify.com/track/4d3UATZjyBqff5U6Cbs08h) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Låta Dig Gå](https://open.spotify.com/album/4aVb3fj8jMFZa8WJq3NPqh) | 3:22 | 2024-06-28 | 2024-08-09 |
 | [Maskinen är tillbaka](https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Maskinen är tillbaka](https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm) | 2:19 | 2024-06-28 |  |
 | [MATTER](https://open.spotify.com/track/47QalI5Og1vXqbBblXjnir) | [NAVII](https://open.spotify.com/artist/4WzIyUXg4knXtXjuFxwW9l) | [MATTER](https://open.spotify.com/album/0BkB3Hwmw0aQ7VgVC3mI9V) | 2:45 | 2024-08-15 | 2024-09-13 |
@@ -191,6 +192,7 @@
 | [Scenic Route](https://open.spotify.com/track/4QgU8OOYkBIgCtL7b2PWCT) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Scenic Route](https://open.spotify.com/album/5pY9QTvDI1YZ7NORuL6qqS) | 3:43 | 2024-10-24 | 2025-01-10 |
 | [Se på oss](https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP) | [Faråker](https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt) | [Se på oss](https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY) | 3:29 | 2024-08-08 | 2024-09-22 |
 | [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 | 2024-08-22 | 2024-12-04 |
+| [Settle Down](https://open.spotify.com/track/24nrsUD8dIaX8gkiotxy6w) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Settle Down](https://open.spotify.com/album/2BOhNUPQwvNFxH1rdjnqUc) | 3:18 | 2025-03-07 |  |
 | [Sexy](https://open.spotify.com/track/1cTJBsAwjKxZggc8HTeSrs) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Sexy](https://open.spotify.com/album/5uAVsNYiC7FTKTGWUgfm5w) | 2:02 | 2024-06-28 | 2024-08-16 |
 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 |  |
 | [Sjuk i Huvudet](https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Sjuk i Huvudet – Paul Gascoigne](https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq) | 4:30 | 2024-08-22 | 2024-10-06 |

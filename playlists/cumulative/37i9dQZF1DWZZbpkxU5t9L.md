@@ -4,7 +4,7 @@
 
 > いま話題の曲を週末にまとめてチェック。Cover: XG
 
-3,251 songs - 7 day 23 hr 25 min
+3,252 songs - 7 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -984,7 +984,8 @@
 | [INZM \- Hyper Band ver.](https://open.spotify.com/track/0lO1oO4pUGZU8FTBTp46SF) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 3:42 | 2024-12-13 | 2024-12-21 |
 | [iPhone feat\. Skaai](https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [iPhone feat\. Skaai](https://open.spotify.com/album/4TVblZTOgvpzp9f5WAEwmM) | 2:55 | 2024-03-08 | 2024-03-16 |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-11-10 | 2023-12-02 |
-| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-02-14 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-02-14 | 2025-03-09 |
+| [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-08 |  |
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2023-07-21 | 2023-08-05 |
 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-07-19 | 2024-07-27 |
 | [It's a piece of cake](https://open.spotify.com/track/6HIIjoK4W36ZzJz3bdBSFB) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [It's a piece of cake](https://open.spotify.com/album/05uOqKsjHjMu9frNzuquot) | 3:03 | 2024-04-12 | 2024-04-20 |

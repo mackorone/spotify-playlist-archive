@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 420708,
       "name": "Algo Novo Vindo",
       "url": "https://open.spotify.com/track/6fP2IJGSEvzIFEGJDNWvf4"
@@ -22962,7 +22962,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 334133,
       "name": "Fara\u00f3",
       "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
@@ -26874,7 +26874,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
@@ -34098,7 +34098,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 330824,
       "name": "Malunguinho, o Mensageiro de Tr\u00eas Mundos",
       "url": "https://open.spotify.com/track/7uWhHzNBn4OhfkaYyFWpk7"
@@ -35336,7 +35336,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 141266,
       "name": "Me D\u00e1 Um Dinheiro A\u00ed",
       "url": "https://open.spotify.com/track/6LZbr5LJXHvFG1Cztgs1HF"
@@ -56705,6 +56705,28 @@
     },
     {
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
@@ -59734,7 +59756,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 410493,
       "name": "Taj Mahal / Filho Maravilha / Pa\u00eds Tropical - Ao Vivo",
       "url": "https://open.spotify.com/track/5lHuWUt1vdpef2bl93mp3P"
@@ -67114,6 +67136,32 @@
       "duration_ms": 118882,
       "name": "Voltei pra Put4Ria",
       "url": "https://open.spotify.com/track/724pvVQHyko3mId2lLWQJ9"
+    },
+    {
+      "album": {
+        "name": "Tribo & Na\u00e7\u00e3o Vol.1",
+        "url": "https://open.spotify.com/album/2y4OVWwz1MMFceZMFpjKGC"
+      },
+      "artists": [
+        {
+          "name": "Som Do Reino",
+          "url": "https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq"
+        },
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365728,
+      "name": "Voltemos ao In\u00edcio",
+      "url": "https://open.spotify.com/track/7a4oy7bDzadJHvJ9m3o7zc"
     },
     {
       "album": {

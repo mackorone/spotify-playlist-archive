@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: 宇多田ヒカル & Arca
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,076 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,078 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

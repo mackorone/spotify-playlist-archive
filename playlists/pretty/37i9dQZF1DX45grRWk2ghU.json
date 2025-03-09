@@ -1,6 +1,6 @@
 {
   "description": "I'll help you be popular!",
-  "num_followers": 710235,
+  "num_followers": 710722,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "duration_ms": 292373,
+      "name": "Fergalicious",
+      "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "Charlie's Angels (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 190066,
       "name": "Don\u2019t Call Me Angel (Charlie\u2019s Angels) (with Miley Cyrus & Lana Del Rey)",
       "url": "https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        }
-      ],
-      "duration_ms": 292373,
-      "name": "Fergalicious",
-      "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Hey, Mickey!",
-        "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I"
       },
       "artists": [
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 115555,
-      "name": "Hey, Mickey!",
-      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I"
+        "name": "Hey, Mickey!",
+        "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg"
+      "duration_ms": 115555,
+      "name": "Hey, Mickey!",
+      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
     },
     {
       "added_at": "2024-08-03 15:31:45",

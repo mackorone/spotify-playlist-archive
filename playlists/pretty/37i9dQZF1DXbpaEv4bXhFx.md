@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,498 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,497 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 25 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 |
 | 26 | [I’ll Hold You Tight](https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [Destined with You \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK) | 3:35 |
 | 27 | [RAINY DAYS](https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hierarchy \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ) | 3:34 |
-| 28 | [Can We Talk Again](https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Can We Talk Again](https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA) | 3:04 |
-| 29 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
+| 28 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
+| 29 | [Can We Talk Again](https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Can We Talk Again](https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA) | 3:04 |
 | 30 | [ddu ddu ddu](https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:32 |
 | 31 | [A Trivial Story](https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 3:32 |
 | 32 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 39 | [빗소리 \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [음악 캠핑 갈래?](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 |
 | 40 | [A Kind Of Confession \(Male Ver.\)](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 |
 | 41 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
-| 42 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 |
-| 43 | [If I hug you](https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 4:21 |
+| 42 | [If I hug you](https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 4:21 |
+| 43 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 |
 | 44 | [From the Rain \(Feat\. Ahn Ye Eun\)](https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 2:44 |
 | 45 | [Rain](https://open.spotify.com/track/0oc1bsAWCjIxDOzmHPBgYP) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Dead End](https://open.spotify.com/album/1DR3SrjL4u4y59DuIjWnlG) | 4:46 |
 | 46 | [HOW YOU FEEL?](https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [HOW YOU FEEL?](https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW) | 2:44 |

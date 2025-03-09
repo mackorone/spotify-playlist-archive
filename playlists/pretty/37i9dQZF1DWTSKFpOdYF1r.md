@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,866 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,523 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 21 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
 | 22 | [Monkey Gone to Heaven](https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:55 |
 | 23 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 |
-| 24 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 |
-| 25 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
+| 24 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
+| 25 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 |
 | 26 | [Pretty in Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 |
 | 27 | [Bigmouth Strikes Again \- 2011 Remaster](https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:13 |
 | 28 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 52 | [Genius Of Love](https://open.spotify.com/track/6UGlSlhwl2MNhsrg5Wepq3) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club \- Deluxe Edition](https://open.spotify.com/album/0n4nGny616qpi5I087S8ur) | 5:39 |
 | 53 | [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 |
 | 54 | [Whip It](https://open.spotify.com/track/6QG0wcgoCsa9pqFyTg0rRO) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Oh No It's Devo / Freedom Of Choice](https://open.spotify.com/album/7xlatGl8WN5yAth6PJu3E1) | 2:38 |
-| 55 | [The Cutter](https://open.spotify.com/track/617ahruubznvqzv7Nas3QX) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Porcupine \(Expanded; 2004 Remaster\)](https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC) | 3:52 |
-| 56 | [When Love Breaks Down \- 2007 Remastered Version](https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf), [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Steve McQueen](https://open.spotify.com/album/07CZepJZT17AllXPFRvogL) | 4:05 |
-| 57 | [All Cried Out](https://open.spotify.com/track/74BiRtgDe2YPETdTCcsXoG) | [Alison Moyet](https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4) | [Singles](https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5) | 3:41 |
+| 55 | [When Love Breaks Down \- 2007 Remastered Version](https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf), [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Steve McQueen](https://open.spotify.com/album/07CZepJZT17AllXPFRvogL) | 4:05 |
+| 56 | [All Cried Out](https://open.spotify.com/track/74BiRtgDe2YPETdTCcsXoG) | [Alison Moyet](https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4) | [Singles](https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5) | 3:41 |
+| 57 | [The Cutter](https://open.spotify.com/track/617ahruubznvqzv7Nas3QX) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Porcupine \(Expanded; 2004 Remaster\)](https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC) | 3:52 |
 | 58 | [Crash](https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Best Of](https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw) | 2:32 |
 | 59 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 60 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 |

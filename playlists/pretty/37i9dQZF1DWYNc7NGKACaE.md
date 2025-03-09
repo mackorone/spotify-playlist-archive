@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,308 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,298 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 36 | [Ela Tá Querendo \- Remix](https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez) | [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [2L Motta](https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm), [DJ MK De Niterói](https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Ela Tá Querendo \(Remix\)](https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O) | 1:15 |
 | 37 | [Sou Eu \- Speed](https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [Sou Eu \(Speed\)](https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6) | 2:05 |
 | 38 | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh) | 2:40 |
-| 39 | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk) | 1:39 |
-| 40 | [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [L.HARD](https://open.spotify.com/artist/4X1JOqzevl6se7AQyJy0Vj) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 |
+| 39 | [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [L.HARD](https://open.spotify.com/artist/4X1JOqzevl6se7AQyJy0Vj) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 |
+| 40 | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk) | 1:39 |
 | 41 | [Plug do São João SPEED](https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [SPEED Versions](https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw) | 1:46 |
 | 42 | [Rede Social \- Speed](https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Rede Social \(Speed\)](https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ) | 2:34 |
 | 43 | [Felina, Ai Meu Deus](https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP) | [DJ MT SILVÉRIO](https://open.spotify.com/artist/3BYtk2sGyLpV9UfmCghNSd), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [Felina, Ai Meu Deus](https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt) | 2:27 |

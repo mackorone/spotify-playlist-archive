@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Ben Figueroa Artwork: Isu Kim
 
-3,047 songs - 7 day 10 hr 35 min
+3,047 songs - 7 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1370,7 +1370,7 @@
 | [Kailangang makuha](https://open.spotify.com/track/0Gt4BcpEQebLGPvgOgkv3E) | [Luwi](https://open.spotify.com/artist/0xbHD9GWJjzAlVPPfzItTD) | [Kailangang makuha](https://open.spotify.com/album/3Lc3CGCAdUpPUGG0UDcLhG) | 3:42 | 2024-10-24 | 2025-02-14 |
 | [Kainotophobia](https://open.spotify.com/track/3yRKBns117Tl8ugEgL514m) | [frostedglasses](https://open.spotify.com/artist/34dAKgZ9JhjwP9LuNxKLho) | [Kainotophobia](https://open.spotify.com/album/2aOAZDl90dQVOEYIgTkxIA) | 4:42 | 2023-07-20 | 2023-08-11 |
 | [Kakaiba](https://open.spotify.com/track/6pfxUTPzuxWpW5CX6PnFLv) | [Jade Ivy](https://open.spotify.com/artist/6krwmRWIoIZyJIyU9sSabI) | [Kakaiba](https://open.spotify.com/album/4oYtgmTo8Piwtb7minFWz4) | 2:45 | 2023-06-22 | 2023-07-07 |
-| [Kalaban](https://open.spotify.com/track/3ImjcKyIfIGncrvAztaGyy) | [Zynfinity](https://open.spotify.com/artist/3hhvszAhc2fpQ8Sm6HmQhr), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Kalaban](https://open.spotify.com/album/1zF93p6J59ifj4m21OudHS) | 3:20 | 2025-03-06 |  |
+| [Kalaban](https://open.spotify.com/track/3ImjcKyIfIGncrvAztaGyy) | [Zynfinity](https://open.spotify.com/artist/3hhvszAhc2fpQ8Sm6HmQhr), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Kalaban](https://open.spotify.com/album/1zF93p6J59ifj4m21OudHS) | 4:09 | 2025-03-06 |  |
 | [kalawakan](https://open.spotify.com/track/6E9pUgfTrVoapaJbR6t693) | [Brxdvcl](https://open.spotify.com/artist/6cAz2eSvy5z4SFDCwxZKgv), [yxngfub](https://open.spotify.com/artist/2qqmPhc23flZCymOheieKk) | [kalawakan](https://open.spotify.com/album/4rzfM0Mi6gnimqyf8OLVtg) | 3:42 | 2023-05-25 | 2023-06-09 |
 | [Kalawakan](https://open.spotify.com/track/04FeIFmjbhSquER1v4DeB7) | [Jean Flores](https://open.spotify.com/artist/6008BItDf2Xyd2L9Jv49Ks) | [Kalawakan](https://open.spotify.com/album/3EjVyxIGUHcQi1VkE2O7kY) | 2:40 | 2024-02-15 | 2024-03-08 |
 | [Kalendaryo](https://open.spotify.com/track/2DVn61yo490GnmuDrzWkST) | [studioghela](https://open.spotify.com/artist/1z7mJjng2SOFGxvvwQI7YV) | [Kalendaryo](https://open.spotify.com/album/7y6zoeoMaFbs2aD7UWcRKx) | 4:02 | 2024-05-02 | 2024-06-07 |

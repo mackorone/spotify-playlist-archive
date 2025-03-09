@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-519 songs - 1 day 7 hr 46 min
+520 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A New Day](https://open.spotify.com/track/33iQBe9ZjtlFclMAmHHGct) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf), [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [A New Day](https://open.spotify.com/album/47OqE3Y9K0hDZLWBA0NUZG) | 3:19 | 2025-01-10 |  |
 | [A&S](https://open.spotify.com/track/627wB1SaZ0HHinIiubj3UE) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [A&S](https://open.spotify.com/album/6axKcYTdVeXG0eRyZOHn2p) | 3:20 | 2024-05-10 | 2024-07-13 |
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2023-02-06 |  |
+| [About Last Night](https://open.spotify.com/track/4ORnzlTobOUSShAKrzwcQ3) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [About Last Night](https://open.spotify.com/album/1FPmyRt7iGEJ4ILYXSGE3Q) | 2:30 | 2025-03-07 |  |
 | [Addicted \- Zerb Acid VIP](https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [ADDICTED: REFRESHED](https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio) | 3:09 | 2024-05-24 |  |
 | [After Five](https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five](https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe) | 3:36 | 2024-11-08 |  |
 | [Ain't No Stoppin Us Now](https://open.spotify.com/track/107W8c21mrB1oDCnqKEs3v) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Ain't No Stopping Us Now](https://open.spotify.com/album/3qS3S3PPAaJflTW3jTdbzK) | 4:08 | 2022-06-09 | 2022-08-06 |
@@ -422,7 +423,7 @@
 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-05-03 |  |
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2022-01-14 | 2023-11-04 |
 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 | 2023-10-02 | 2024-04-19 |
-| [Sex on Fire \(Disco Mix\)](https://open.spotify.com/track/7pn1zBl8bSOzvhleJrFgwY) | [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG) | [Sex on Fire](https://open.spotify.com/album/0jNAFmoykutJmxjxzZuwm0) | 3:11 | 2024-05-17 |  |
+| [Sex on Fire \(Disco Mix\)](https://open.spotify.com/track/7pn1zBl8bSOzvhleJrFgwY) | [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG) | [Sex on Fire](https://open.spotify.com/album/0jNAFmoykutJmxjxzZuwm0) | 3:11 | 2024-05-17 | 2025-03-09 |
 | [Shake It](https://open.spotify.com/track/5gATjfPkp8eYQ9FQm2vTG0) | [HP Vince](https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW) | [Shake It](https://open.spotify.com/album/6b7QdhT9QW1ZkmFZDGYgnv) | 6:58 | 2024-08-16 | 2024-08-31 |
 | [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/45eQUenvHhoTUVgRvt7Fai) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/7IO47OClgjkDi6qbDUxmjs) | 3:22 | 2024-02-02 | 2024-02-10 |
 | [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/4PkyBwZolHSrkPiBB7418h) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/0Hpu0hHFUjcGijSVZTR6Qw) | 3:22 | 2024-02-02 | 2024-02-08 |

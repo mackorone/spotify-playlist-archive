@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Thaíde
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,921 likes - 78 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,937 likes - 78 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 8 | [Raciocínio Carregado](https://open.spotify.com/track/5yceWzubKUcz1JYO2Hd45G) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv) | [Raciocínio Carregado](https://open.spotify.com/album/0v0ZxXdCXL819DVr3erKDB) | 4:41 |
 | 9 | [Gostou do Meu Rap](https://open.spotify.com/track/6SZpWjWoDVI2HyrUOJRr9o) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Invisível Azul](https://open.spotify.com/album/2NRLRvaELqvwnW9E3xzuKH) | 2:52 |
 | 10 | [Ponto 41](https://open.spotify.com/track/6hl9gtqJie4kqa56xa8qpC) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Ponto 41](https://open.spotify.com/album/4V2NrBZ0mL8KoSlXkianDZ) | 3:42 |
-| 11 | [Terra da Garoa](https://open.spotify.com/track/6rdXsiq2CgIFWo6s1YtkHf) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [kiko de sousa](https://open.spotify.com/artist/2NA6u5A9JtHxwmBydfRDdu), [MxM](https://open.spotify.com/artist/4aPJtQduDm1E21WI3LgiF6), [Deborah Crespo](https://open.spotify.com/artist/2oePGqnENPf3MD86YVtP4x) | [Terra da Garoa](https://open.spotify.com/album/3GwDdEl3Zes0wdh43zs5nd) | 3:12 |
+| 11 | [Terra da Garoa](https://open.spotify.com/track/6rdXsiq2CgIFWo6s1YtkHf) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Kiko de Sousa](https://open.spotify.com/artist/2NA6u5A9JtHxwmBydfRDdu), [MxM](https://open.spotify.com/artist/4aPJtQduDm1E21WI3LgiF6), [Deborah Crespo](https://open.spotify.com/artist/2oePGqnENPf3MD86YVtP4x) | [Terra da Garoa](https://open.spotify.com/album/3GwDdEl3Zes0wdh43zs5nd) | 3:12 |
 | 12 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/1J4tWt31G0Klu7R6pMb3Nl) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Hip Hop \- Rap](https://open.spotify.com/album/0J4Q8MK2zce9EFgMdIgulZ) | 6:23 |
 | 13 | [Abandono](https://open.spotify.com/track/1nP013EbFH0JPWLHaiHSkw) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Abandono](https://open.spotify.com/album/7DCwbI6AHOIO9FpmfYvK8r) | 5:34 |
 | 14 | [Dança do Pensamento](https://open.spotify.com/track/38sNUG2AIrO7P2lWqLQEHG) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Invisível Azul](https://open.spotify.com/album/2NRLRvaELqvwnW9E3xzuKH) | 3:31 |

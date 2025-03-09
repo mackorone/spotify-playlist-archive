@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,182 likes - 52 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,200 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 17 | [Un Viejo Amor \(feat\. Edith Márquez\)](https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Tributo a](https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR) | 2:41 |
 | 18 | [Si Me Tenías](https://open.spotify.com/track/6vKrT4AyGYxpuXD3ZDZMf6) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:53 |
 | 19 | [Procuro Olvidarte](https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:05 |
-| 20 | [Acostúmbrame al cielo](https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:08 |
-| 21 | [Soñé Que Te Perdía](https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:43 |
-| 22 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 |
+| 20 | [Soñé Que Te Perdía](https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:43 |
+| 21 | [Acostúmbrame al cielo](https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:08 |
+| 22 | [Por hablarle de ti](https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:40 |
 | 23 | [Hasta Que Amanezca](https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:45 |
-| 24 | [Por hablarle de ti](https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:40 |
+| 24 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 |
 | 25 | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw) | 3:32 |
 | 26 | [No Renunciaré](https://open.spotify.com/track/4MMnXhO0Heihs9pGWLq5u1) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Memorias Del Corazón](https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26) | 4:09 |
 | 27 | [Ódiame](https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:53 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 51 | [Ya que voy a estar sin ti](https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:59 |
 | 52 | [La Memoria Del Corazón](https://open.spotify.com/track/21RRlWWp4eBfo0Avxxmaso) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Memorias Del Corazón](https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26) | 4:49 |
 
-Snapshot ID: `Z8jlgAAAAACArEfDZoe6PcxmoYQ5xmQn`
+Snapshot ID: `Z8o3AAAAAACiNshtc54UnLWZ2fHaA+OD`

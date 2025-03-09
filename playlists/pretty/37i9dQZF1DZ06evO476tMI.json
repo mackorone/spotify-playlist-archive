@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 621531,
+  "num_followers": 621587,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAB+CxqhT8WoB5GtnNfET6Hp",
+  "snapshot_id": "Z8o3AAAAAAD+WhwiSNqwRO+T3geov3Zw",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Preacher's Wife",
         "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 296373,
       "name": "I Love The Lord (with Georgia Mass Choir)",
       "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 260293,
-      "name": "You'll Never Stand Alone",
-      "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 298106,
       "name": "Same Script, Different Cast",
       "url": "https://open.spotify.com/track/2tzf1KhNuANrujMqN10fvF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 260293,
+      "name": "You'll Never Stand Alone",
+      "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "One Of Those Days",
-      "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 260000,
       "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
       "url": "https://open.spotify.com/track/66RwIlYInGwQB4BokNhRnd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Whitney",
+        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "One Of Those Days",
+      "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
     },
     {
       "added_at": null,
@@ -851,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
       },
       "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 221866,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
+      "duration_ms": 301573,
+      "name": "The Prince Of Egypt (When You Believe)",
+      "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
     }
   ],
   "unique_name": "This Is Whitney Houston",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Evangelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,188 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,255 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 24 | [Vres allou magkia](https://open.spotify.com/track/1FGNdHGsdvOMAhKUhCuM2r) | [Sofia Kourtidou](https://open.spotify.com/artist/1B9W1Rx6pmnoHdWfshpAA6) | [Vres allou magkia](https://open.spotify.com/album/7868TcPoeKZTz7S0OJWOhR) | 4:04 |
 | 25 | [Prospathise Ksana](https://open.spotify.com/track/6nnoy4lSnV6ISz5AKDALB5) | [Nina](https://open.spotify.com/artist/5FZQ1UyAFUGEPIvd00VUvr) | [Prospathise Ksana](https://open.spotify.com/album/3QE77UIX6TGINou4YKizjP) | 3:32 |
 | 26 | [Tha Erthi Kapote I Stigmi](https://open.spotify.com/track/5kJXp3oUnFNrCZppwVjav5) | [Valia Tsirgioti](https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki), [Despina Kefalidi](https://open.spotify.com/artist/5YYbb211kZLL1V56t0tUon) | [Tha Erthi Kapote I Stigmi](https://open.spotify.com/album/6mdmBpL830w0UIGLjrp5bD) | 3:29 |
-| 27 | [Fige](https://open.spotify.com/track/382o6FZPZvvbJnQ1xCxgV8) | [Sofia Manousaki](https://open.spotify.com/artist/4HOhcDTOk0JfElBEZynmcO) | [Fige](https://open.spotify.com/album/42jzv4NctmEM0SegZ8t4ID) | 3:42 |
+| 27 | [Fige](https://open.spotify.com/track/382o6FZPZvvbJnQ1xCxgV8) | [Sofia Manousaki](https://open.spotify.com/artist/4HOhcDTOk0JfElBEZynmcO), [Stefanos Korkolis](https://open.spotify.com/artist/1ZvewXx4WAhSSrxoUDb4Nz), [Gerasimos Evangelatos](https://open.spotify.com/artist/3FOcz0CoQjXRhfnKLqrXQq) | [Fige](https://open.spotify.com/album/42jzv4NctmEM0SegZ8t4ID) | 3:42 |
 | 28 | [Eho Psychologika](https://open.spotify.com/track/4E8GG14RgHvqpgOwyIxGZt) | [Crystallia](https://open.spotify.com/artist/7EGpmVdibkfXUVtOW3bWPu) | [Eho Psychologika](https://open.spotify.com/album/2bu9dEB1mGrtYER9oA9R80) | 2:50 |
 | 29 | [To Koritsaki Sou To Pligoses](https://open.spotify.com/track/5EnZbxNkjrERC1lT6vtuxx) | [Elena Papapanagiotou](https://open.spotify.com/artist/55JrrlHk9ukadeNKnQd8mA) | [To Koritsaki Sou To Pligoses](https://open.spotify.com/album/1SQY79LmfSriP0L8edfK24) | 2:44 |
 | 30 | [EPANO STO TRAPEZI](https://open.spotify.com/track/3wpiU5pc42REYEW9vd7fBa) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [EPANO STO TRAPEZI](https://open.spotify.com/album/1ZiVzPUElXoi8M8bENOhag) | 2:24 |

@@ -1,6 +1,6 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e \ud83e\udd94",
-  "num_followers": 192480,
+  "num_followers": 192598,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-02-26 10:43:28",
       "album": {
-        "name": "Listener's Digest",
-        "url": "https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB"
-      },
-      "artists": [
-        {
-          "name": "Roudoudou",
-          "url": "https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL"
-        }
-      ],
-      "duration_ms": 253706,
-      "name": "Peace and Tranquility to Earth",
-      "url": "https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR"
-    },
-    {
-      "added_at": "2025-02-26 10:43:28",
-      "album": {
         "name": "You Might Need Somebody",
         "url": "https://open.spotify.com/album/73sppbd5vjMj9FkogKQN6r"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 292626,
       "name": "You Might Need Somebody",
       "url": "https://open.spotify.com/track/5lijIZgEqHF35VSG6WtYCC"
+    },
+    {
+      "added_at": "2025-02-26 10:43:28",
+      "album": {
+        "name": "Listener's Digest",
+        "url": "https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB"
+      },
+      "artists": [
+        {
+          "name": "Roudoudou",
+          "url": "https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL"
+        }
+      ],
+      "duration_ms": 253706,
+      "name": "Peace and Tranquility to Earth",
+      "url": "https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR"
     },
     {
       "added_at": "2025-02-26 10:43:28",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-02-26 10:43:28",
       "album": {
-        "name": "Keep Running",
-        "url": "https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a"
-      },
-      "artists": [
-        {
-          "name": "Yodelice",
-          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Keep Running",
-      "url": "https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu"
-    },
-    {
-      "added_at": "2025-02-26 10:43:28",
-      "album": {
         "name": "Dimanche",
         "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 163200,
       "name": "Envoie-moi une musique",
       "url": "https://open.spotify.com/track/1gehv5bmBAdAVDWEbiBLRU"
+    },
+    {
+      "added_at": "2025-02-26 10:43:28",
+      "album": {
+        "name": "Keep Running",
+        "url": "https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a"
+      },
+      "artists": [
+        {
+          "name": "Yodelice",
+          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Keep Running",
+      "url": "https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

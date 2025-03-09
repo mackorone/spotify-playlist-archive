@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 364961,
+  "num_followers": 364965,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABBheJq8ZuBi86uJqtI/b+s",
+  "snapshot_id": "Z8o3AAAAAABkW60ofpRZ6ppYpEn2vsFm",
   "tracks": [
     {
       "added_at": null,
@@ -279,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+        "name": "I Won't Let You Go",
+        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
       },
       "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 230931,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
+      "duration_ms": 247422,
+      "name": "I Won't Let You Go",
+      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
     },
     {
       "added_at": null,
@@ -311,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Let You Go",
-        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
       "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 247422,
-      "name": "I Won't Let You Go",
-      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
+      "duration_ms": 230931,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
     },
     {
       "added_at": null,

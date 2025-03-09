@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 51432,
+  "num_followers": 51460,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAADYjRW8Squ7KZu8cA/cjKei",
+  "snapshot_id": "Z8o3AAAAAAAKDhBcOxlUmC/HepAXDr5r",
   "tracks": [
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+        "name": "Living Hope (The House Sessions)",
+        "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 249413,
-      "name": "Cannons",
-      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
+      "duration_ms": 394626,
+      "name": "How Great Is Your Love",
+      "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
     },
     {
       "added_at": null,
@@ -735,38 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 279253,
-      "name": "Doxology//Amen",
-      "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living Hope (The House Sessions)",
-        "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 394626,
-      "name": "How Great Is Your Love",
-      "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phil Wickham",
         "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
       },
@@ -779,6 +747,38 @@
       "duration_ms": 298026,
       "name": "Divine Romance",
       "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 249413,
+      "name": "Cannons",
+      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 279253,
+      "name": "Doxology//Amen",
+      "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
     },
     {
       "added_at": null,

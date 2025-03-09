@@ -4,7 +4,7 @@
 
 > My alt/pop could mean anything! Cover: Rebecca Black
 
-179 songs - 9 hr 24 min
+181 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,10 +29,11 @@
 | [AUX](https://open.spotify.com/track/3el0iIbfpM3a838tWxLuSO) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [AUX](https://open.spotify.com/album/4THxfUGkJIhtrlhBCWbgmZ) | 3:06 | 2025-03-07 |  |
 | [Bad Life](https://open.spotify.com/track/05kjMGGzMRwwY8mskRaSHi) | [Mudi Sama](https://open.spotify.com/artist/4OFlR9OFN1PRLww3MSVF7W) | [Bad Life](https://open.spotify.com/album/5H6iL0CHuOmj3XmpB7gC6h) | 2:23 | 2025-03-07 |  |
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-02-14 |  |
+| [Best Be Leaving](https://open.spotify.com/track/2pEQBzoeccf6TIbJU8O26c) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Best Be Leaving](https://open.spotify.com/album/30coJQv7G8UD5Lx76VQZE1) | 3:42 | 2025-03-07 |  |
 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-18 | 2024-12-10 |
 | [Blindfold \(feat\. Liz Lawrence\)](https://open.spotify.com/track/3qlNhvJd7arndpEp2CFsaJ) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Fantasies](https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR) | 3:42 | 2024-06-07 | 2024-07-13 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-23 | 2025-01-02 |
-| [Body Gold \- 10 Years On](https://open.spotify.com/track/4kirZlL2LgXxtrIfdYTtbl) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Body Gold \(10 Years On\)](https://open.spotify.com/album/1UFQxL1nXariHS0XHc32CT) | 3:13 | 2024-10-10 |  |
+| [Body Gold \- 10 Years On](https://open.spotify.com/track/4kirZlL2LgXxtrIfdYTtbl) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Body Gold \(10 Years On\)](https://open.spotify.com/album/1UFQxL1nXariHS0XHc32CT) | 3:13 | 2024-10-10 | 2025-03-09 |
 | [Bon Voyage](https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Bon Voyage](https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9) | 3:24 | 2024-10-10 |  |
 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-06-07 |  |
 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 | 2024-06-07 | 2025-03-08 |
@@ -49,7 +50,7 @@
 | [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 | 2024-07-18 |  |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-12 | 2025-03-08 |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-06-07 |  |
-| [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 | 2024-10-10 |  |
+| [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 | 2024-10-10 | 2025-03-09 |
 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-23 | 2024-10-14 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 |  |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-06-07 | 2025-03-08 |
@@ -105,13 +106,13 @@
 | [JACKIN’ THE SYSTEM](https://open.spotify.com/track/0rJQhqLVu9phFCbhFwk0vp) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [JACKIN’ THE SYSTEM](https://open.spotify.com/album/4x38wTeIhE0eIdSCOtgJVL) | 3:08 | 2024-08-23 | 2024-10-11 |
 | [Jim](https://open.spotify.com/track/4p5sL5mKAdMP0w4aAkUQY2) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Jim](https://open.spotify.com/album/2OkJPYBYQCTlRkzknoZTdF) | 4:49 | 2025-03-07 |  |
 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 | 2024-10-10 |  |
-| [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 | 2024-10-10 | 2025-02-14 |
+| [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 | 2024-10-10 |  |
 | [Killed For Sport](https://open.spotify.com/track/2wIRaHeRDzmGSu9e3i2Rup) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Killed For Sport](https://open.spotify.com/album/3oxaNuV03Ze3ExtbKHt6Lt) | 4:14 | 2025-03-07 |  |
 | [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 | 2024-06-07 |  |
 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-06-07 | 2025-03-08 |
 | [L.O.V.E.](https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [L.O.V.E.](https://open.spotify.com/album/2XGWlzeYSdqAyyq2dJqZ8L) | 3:56 | 2025-02-14 |  |
 | [Late to the Party](https://open.spotify.com/track/2Ks2VjMJthZ5sW7K7LljKS) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Late to the Party](https://open.spotify.com/album/0J7ZYI4k5S2uw7MW1BEtXN) | 3:12 | 2025-03-07 |  |
-| [learning from the shadows](https://open.spotify.com/track/4UJoBLqJfdyB4AFtEU4mvz) | [Dominic Donner](https://open.spotify.com/artist/2azURZe6SsoMze6CQa4NSN) | [learning from the shadows](https://open.spotify.com/album/2j1r5rWLlZiDHQGDvW6luL) | 2:40 | 2025-03-07 |  |
+| [learning from the shadows](https://open.spotify.com/track/4UJoBLqJfdyB4AFtEU4mvz) | [Dominic Donner](https://open.spotify.com/artist/2azURZe6SsoMze6CQa4NSN) | [learning from the shadows](https://open.spotify.com/album/2j1r5rWLlZiDHQGDvW6luL) | 2:40 | 2025-03-07 | 2025-03-09 |
 | [Leave Her](https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Withering](https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG) | 2:44 | 2024-06-07 | 2025-03-08 |
 | [Lizard](https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Lizard](https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck) | 3:20 | 2025-03-07 |  |
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-10 | 2025-02-14 |
@@ -140,6 +141,7 @@
 | [People like u](https://open.spotify.com/track/5UWZtOdYHckp4YC0po4Rtd) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [People like u](https://open.spotify.com/album/37Tk22eL2uJ6Iwj4zljgyu) | 2:24 | 2025-03-07 |  |
 | [Perfect Celebrity](https://open.spotify.com/track/0Tqn5Th0wk55eLdga96vZM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:49 | 2025-03-07 |  |
 | [PSILOCYBIN & DAISIES](https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PSILOCYBIN & DAISIES](https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH) | 2:17 | 2025-03-07 |  |
+| [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-03-07 |  |
 | [Realms](https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Realms](https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu) | 2:50 | 2024-08-08 | 2024-10-13 |
 | [Reckless Child](https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Reckless Child](https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX) | 2:54 | 2024-06-07 | 2025-03-08 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-06-07 | 2025-03-08 |

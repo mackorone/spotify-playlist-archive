@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 533061,
+  "num_followers": 533488,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 252186,
-      "name": "Heart Of Glass",
-      "url": "https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Risqu\u00e9",
@@ -1223,6 +1207,22 @@
       "duration_ms": 495400,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 252186,
+      "name": "Heart Of Glass",
+      "url": "https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Right Back Where We Started From",
-        "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
-      },
-      "artists": [
-        {
-          "name": "Maxine Nightingale",
-          "url": "https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Right Back Where We Started From",
-      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "We Are Family (1995 Remaster)",
@@ -1447,6 +1431,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Right Back Where We Started From",
+        "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
+      },
+      "artists": [
+        {
+          "name": "Maxine Nightingale",
+          "url": "https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Right Back Where We Started From",
+      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "War And Peace",
@@ -1675,6 +1659,22 @@
       "duration_ms": 200266,
       "name": "War",
       "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 317160,
-      "name": "Get Down Tonight - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Nightbirds",
         "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 237120,
       "name": "Lady Marmalade",
       "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 317160,
+      "name": "Get Down Tonight - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2141,6 +2141,22 @@
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "KC & the Sunshine Band, Pt. 3... and More",
+        "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "I'm Your Boogie Man",
+      "url": "https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "It Only Takes a Minute: A Lifetime with Tavares",
@@ -2179,18 +2195,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "KC & the Sunshine Band, Pt. 3... and More",
-        "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
+        "name": "3+3",
+        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
       "artists": [
         {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 242133,
-      "name": "I'm Your Boogie Man",
-      "url": "https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ"
+      "duration_ms": 334386,
+      "name": "That Lady, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2207,22 +2223,6 @@
       "duration_ms": 255600,
       "name": "Who Loves You",
       "url": "https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "3+3",
-        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 334386,
-      "name": "That Lady, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Let's All Chant",
-        "url": "https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez"
-      },
-      "artists": [
-        {
-          "name": "The Michael Zager Band",
-          "url": "https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Let's All Chant",
-      "url": "https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Young, Gifted and Black",
         "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
@@ -2407,18 +2391,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Vehicle",
-        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
+        "name": "Let's All Chant",
+        "url": "https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez"
       },
       "artists": [
         {
-          "name": "The Ides Of March",
-          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
+          "name": "The Michael Zager Band",
+          "url": "https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Vehicle",
-      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
+      "duration_ms": 184453,
+      "name": "Let's All Chant",
+      "url": "https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2435,6 +2419,22 @@
       "duration_ms": 276333,
       "name": "Fire",
       "url": "https://open.spotify.com/track/06xkqQuJzl1ddeK48jG6qa"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Vehicle",
+        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
+      },
+      "artists": [
+        {
+          "name": "The Ides Of March",
+          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Vehicle",
+      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
     }
   ],
   "unique_name": "70s Party",

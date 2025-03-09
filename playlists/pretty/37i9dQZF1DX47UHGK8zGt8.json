@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 581048,
+  "num_followers": 581184,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 236970,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 298871,
       "name": "FEBRE",
       "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 236970,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -167,22 +167,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 437313,
-      "name": "VELUDO MARROM",
-      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Zero a Cem",
         "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
       },
@@ -203,18 +187,38 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Aos Vivos",
-        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
+        "name": "Meu Canto - EP",
+        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
       },
       "artists": [
         {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 216800,
-      "name": "\u00c0 Primeira Vista",
-      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
+      "duration_ms": 230786,
+      "name": "Me Espera",
+      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 437313,
+      "name": "VELUDO MARROM",
+      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -243,22 +247,18 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Meu Canto - EP",
-        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
+        "name": "Aos Vivos",
+        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
       },
       "artists": [
         {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
-      "duration_ms": 230786,
-      "name": "Me Espera",
-      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
+      "duration_ms": 216800,
+      "name": "\u00c0 Primeira Vista",
+      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
         "name": "Um amor puro",
         "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 285000,
       "name": "Um amor puro",
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
+        "name": "COR",
+        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 244386,
+      "name": "Te amar \u00e9 massa demais",
+      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "COR",
-        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 244386,
-      "name": "Te amar \u00e9 massa demais",
-      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 221624,
       "name": "Duas da Tarde",
       "url": "https://open.spotify.com/track/7chMvjylTedOhNEnRQzBYj"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "Balada do Amor Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 142144,
+      "name": "Balada do Amor Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -691,22 +707,6 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
-        "name": "Balada do Amor Inabal\u00e1vel",
-        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 142144,
-      "name": "Balada do Amor Inabal\u00e1vel",
-      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Como Posso Amar Assim?",
-        "url": "https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 193905,
-      "name": "Como Posso Amar Assim?",
-      "url": "https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Deixa Vir Do Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
+        "name": "Como Posso Amar Assim?",
+        "url": "https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 193905,
+      "name": "Como Posso Amar Assim?",
+      "url": "https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
         "name": "Banda do Mar",
         "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
       },
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Indigo Borboleta Anil",
-        "url": "https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize"
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 229550,
-      "name": "Antes de Tudo",
-      "url": "https://open.spotify.com/track/1NBSSZmo54UOHhG02BqiY7"
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2025-03-07 03:00:31",

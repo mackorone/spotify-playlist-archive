@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,808 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,218 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 10 | [The Kind of Love We Make](https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:44 |
 | 11 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 |
 | 12 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 |
-| 13 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 |
-| 14 | [One Number Away](https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:41 |
+| 13 | [One Number Away](https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:41 |
+| 14 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 |
 | 15 | [Love You Anyway](https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:49 |
 | 16 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:39 |
 | 17 | [I Know She Ain't Ready](https://open.spotify.com/track/0TQ9Hf5DwI9crGZSIlq445) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way She Rides](https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 49 | [Beyond \(feat\. Luke Combs\) \- Live](https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beyond \(feat\. Luke Combs\) \[Live\]](https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo) | 4:06 |
 | 50 | [Let the Moonshine](https://open.spotify.com/track/05DejmhRYCktQogzOVX1H9) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way She Rides](https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ) | 3:29 |
 
-Snapshot ID: `Z8jlgAAAAAAccxC0B/ayCRbD0J3BE25y`
+Snapshot ID: `Z8o3AAAAAABeJBmfFuoIBYVn9pk4ScH6`

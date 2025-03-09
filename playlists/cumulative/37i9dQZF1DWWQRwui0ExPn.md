@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,251 songs - 11 day 10 hr 40 min
+7,252 songs - 11 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5625,7 +5625,7 @@
 | [Slow Descent](https://open.spotify.com/track/4OqaeW7DdsbU71WLpfJ6iP) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Slow Descent](https://open.spotify.com/album/4aEh7ShmVBPDg3R8TqHYeU) | 3:35 | 2022-11-25 | 2023-04-21 |
 | [slow down, breath deep, be the willow](https://open.spotify.com/track/446XTzkmwnMgf0RqbSG0rn) | [Mellow dive](https://open.spotify.com/artist/4dEG3k0HWAI1NltH7UI5Nv) | [slow down, breath deep, be the willow](https://open.spotify.com/album/6NWVC4H9MTT8qtWMEtsYT1) | 2:18 | 2020-06-23 | 2021-10-02 |
 | [Slow Drip](https://open.spotify.com/track/7KvWW99v6fnmQGRN8yXjRP) | [Fun Intended](https://open.spotify.com/artist/3LVh75iLe4iDjG4W1ztvAh) | [Slow Drip](https://open.spotify.com/album/4jjzGg5VsaLJUhZlJnIuW4) | 1:56 | 2023-01-20 | 2023-07-06 |
-| [Slow Drive](https://open.spotify.com/track/3Fi2M2hOIIzfOCHuTip2Pp) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Slow Drive](https://open.spotify.com/album/5zJiGlOxaYJQftfvnf2VBl) | 2:12 | 2024-02-02 |  |
+| [Slow Drive](https://open.spotify.com/track/3Fi2M2hOIIzfOCHuTip2Pp) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Slow Drive](https://open.spotify.com/album/5zJiGlOxaYJQftfvnf2VBl) | 2:12 | 2024-02-02 | 2025-03-09 |
 | [Slow Food](https://open.spotify.com/track/7uYOMj56grRFYmjarMQjVf) | [Tamala Bay](https://open.spotify.com/artist/2lncpX7wgkhvlIkw7ozMRj) | [Slow Food](https://open.spotify.com/album/5kP7OW53jtyMSB1TqcVDJb) | 2:26 | 2024-02-02 |  |
 | [Slow Food](https://open.spotify.com/track/7ksVuoTJ7NLFAMqazYB4j3) | [Yellowbase](https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC) | [Slow Food](https://open.spotify.com/album/71E9MiHH2VVQQhuXvv7qbX) | 3:06 | 2019-07-12 | 2020-01-04 |
 | [Slow Jazz](https://open.spotify.com/track/7v6jVyrZvRfCAZDc8P79tq) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Slow Jazz](https://open.spotify.com/album/0q1v98Yh9bkyPWdZrLSNWB) | 1:53 | 2022-04-08 | 2022-09-02 |
@@ -7189,6 +7189,7 @@
 | [Yokohama](https://open.spotify.com/track/6P2nWQi3aQX3YOHy0EF26A) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Yokohama](https://open.spotify.com/album/2rRByl8ULUzAVYFx8LOEaJ) | 1:51 | 2019-09-08 | 2021-05-29 |
 | [Yolofi](https://open.spotify.com/track/4nOTHXqmH2UEuvQaabWW5S) | [Digga Mindz](https://open.spotify.com/artist/3Lv7ncqaGnKo3E1z81unqU) | [Yolofi](https://open.spotify.com/album/0KAzECmokbzDwfQCYidVPk) | 2:06 | 2021-10-02 | 2022-04-15 |
 | [Yooo](https://open.spotify.com/track/0JRjnHIVTbSAKsjAJKDaMk) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Ooo](https://open.spotify.com/album/0lmxEBodHRZiNf56qljxag) | 2:36 | 2020-08-20 | 2021-10-02 |
+| [Yorkshire](https://open.spotify.com/track/3wVhElU6kT7unhanN3TtYF) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Yorkshire](https://open.spotify.com/album/35i2jflWfu8pX3TfOave87) | 1:55 | 2025-03-07 |  |
 | [Yoruba](https://open.spotify.com/track/2GcHlqRkqpQOQAMrJ6XNcj) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Yoruba](https://open.spotify.com/album/5DaY2uxd046hLEJqY1pDdA) | 2:09 | 2019-11-10 | 2021-07-11 |
 | [You and I Will Always Be](https://open.spotify.com/track/4z9gy8JRxC9g4XaHLvtBeB) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [You and I Will Always Be](https://open.spotify.com/album/4WctQdXSTShj9SbYWPyXLM) | 2:22 | 2022-08-05 | 2022-11-18 |
 | [You and Me](https://open.spotify.com/track/3NT1CC71Lo28OnZJvfHnGL) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [You and Me](https://open.spotify.com/album/4V5xwEMLDFZHSYiaAn5KOJ) | 2:27 | 2022-03-11 | 2022-08-05 |

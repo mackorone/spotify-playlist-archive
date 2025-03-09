@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Galileo Galilei",
-  "num_followers": 294547,
+  "num_followers": 294590,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-03-04 17:11:55",
       "album": {
+        "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+        "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+      "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
+    },
+    {
+      "added_at": "2025-03-04 17:11:55",
+      "album": {
         "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
         "url": "https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 185566,
       "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
       "url": "https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv"
-    },
-    {
-      "added_at": "2025-03-04 17:11:55",
-      "album": {
-        "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
-        "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
-      "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
     },
     {
       "added_at": "2025-03-04 17:11:55",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-03-04 17:11:55",
       "album": {
-        "name": "COMINATCHA!!",
-        "url": "https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 214088,
-      "name": "\u30a2\u30b2\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
-    },
-    {
-      "added_at": "2025-03-04 17:11:55",
-      "album": {
         "name": "Bu-ikikaesu",
         "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 224120,
       "name": "Zetsubou Billy",
       "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
+    },
+    {
+      "added_at": "2025-03-04 17:11:55",
+      "album": {
+        "name": "COMINATCHA!!",
+        "url": "https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "\u30a2\u30b2\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
     },
     {
       "added_at": "2025-03-04 17:11:55",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-03-04 17:11:55",
       "album": {
-        "name": "THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",
-        "url": "https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Devil in Your Heart",
-      "url": "https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI"
-    },
-    {
-      "added_at": "2025-03-04 17:11:55",
-      "album": {
         "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
         "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 89563,
       "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
       "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
+    },
+    {
+      "added_at": "2025-03-04 17:11:55",
+      "album": {
+        "name": "THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",
+        "url": "https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Devil in Your Heart",
+      "url": "https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI"
     },
     {
       "added_at": "2025-03-04 17:11:55",

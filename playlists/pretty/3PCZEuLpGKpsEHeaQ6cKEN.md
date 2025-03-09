@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D, NORTH
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,548 likes - 194 songs - 10 hr 4 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,533 likes - 194 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 25 | [All Night](https://open.spotify.com/track/0zlr4Q8qZZWfM8ezyrDAWe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [All Night](https://open.spotify.com/album/642I33KMPYEosGoSDAtHD8) | 3:03 |
 | 26 | [No Matter What \- Progressive Edit](https://open.spotify.com/track/3d9VgVxY5VH0HNM65rEBWm) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [XanTz](https://open.spotify.com/artist/1yxi0xpEv8NEWrMHGtyKHB), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [No Matter What \(Progressive Edit\)](https://open.spotify.com/album/0HlOJ6nN6HCrJ4kjFi3nYU) | 3:03 |
 | 27 | [Sunlight](https://open.spotify.com/track/6jGoTAcCFbkM44mFxxsbcS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Sunlight](https://open.spotify.com/album/2pyFoa5VnSmSAAqfoygPm7) | 3:36 |
-| 28 | [Keep On Rising \- Alex Mills Remix](https://open.spotify.com/track/31tooX8Fuk2vv4Sqkxn53j) | [Gasparian](https://open.spotify.com/artist/6cnP0K1eDHjNJwDQADxGx1), [Tasita D'Mour](https://open.spotify.com/artist/27WSf5DApzcZTVhGJLovzk), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Keep On Rising \(Alex Mills Remix\)](https://open.spotify.com/album/0v6KT6kdO2thTDCcMe4COS) | 2:33 |
+| 28 | [Keep On Rising \- Alex Mills Remix](https://open.spotify.com/track/31tooX8Fuk2vv4Sqkxn53j) | [Gasparian](https://open.spotify.com/artist/6cnP0K1eDHjNJwDQADxGx1), [Tasita D'Mour](https://open.spotify.com/artist/27WSf5DApzcZTVhGJLovzk), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Keep On Rising \(Alex Mills Remix\)](https://open.spotify.com/album/0v6KT6kdO2thTDCcMe4COS) | 2:31 |
 | 29 | [Underwater](https://open.spotify.com/track/0cFjc3jWchdEvjaCvKVy4J) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Underwater](https://open.spotify.com/album/5MvkiH900b24MnHYN6V8Mv) | 4:06 |
 | 30 | [Nobody Likes the Record](https://open.spotify.com/track/7vkLM4vZYhixnGOQmyfWrS) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [Nobody Likes the Record](https://open.spotify.com/album/4GgdEdRwmjMxChSTMys2SG) | 3:01 |
 | 31 | [Love Has Found Its Way \- Radio Edit](https://open.spotify.com/track/5ID5eVR8KajIh6NJOG9iLV) | [Mia Dahli](https://open.spotify.com/artist/1A9sFVpXTwaSefASCG6mD2) | [Love Has Found Its Way](https://open.spotify.com/album/1nS73qHTY8ka6qRa7imxCW) | 3:00 |

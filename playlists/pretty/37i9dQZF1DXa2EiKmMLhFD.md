@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Kahitna, JENNIE serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,386,833 likes - 52 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,386,950 likes - 52 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 37 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 | 38 | [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 |
 | 39 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
-| 40 | [L](https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K) | 3:40 |
+| 40 | [L](https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K) | 3:40 |
 | 41 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 |
 | 42 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 |
 | 43 | [Seandainya](https://open.spotify.com/track/5NmjnghJGJRFg34KGGx8O0) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/3zzIZJAYdeMttVROyFSUfN) | 4:23 |

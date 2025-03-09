@@ -668,7 +668,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 152325,
       "name": "A Gira",
       "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 167784,
       "name": "Bisous Mwa",
       "url": "https://open.spotify.com/track/4vcZL3UwIGaycYYGWkRgAH"
@@ -5708,7 +5708,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 166425,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ"
@@ -7096,7 +7096,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 149766,
       "name": "Doot Doot (6 7) (Bonus Track)",
       "url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu"
@@ -7392,7 +7392,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
@@ -8002,6 +8002,24 @@
       "duration_ms": 212239,
       "name": "Even If It Kills Me",
       "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
+    },
+    {
+      "album": {
+        "name": "Everybody Loves The Sunshine (Reissue)",
+        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
     },
     {
       "album": {
@@ -8958,7 +8976,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 145115,
       "name": "Funk de Beleza - Slowed",
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
@@ -20140,6 +20158,24 @@
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
+    },
+    {
+      "album": {
+        "name": "Best of Herbert L\u00e9onard",
+        "url": "https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX"
+      },
+      "artists": [
+        {
+          "name": "Herbert L\u00e9onard",
+          "url": "https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230413,
+      "name": "Quand tu m'aimes",
+      "url": "https://open.spotify.com/track/7pjCq6YNR2LwKhIAzBGZig"
     },
     {
       "album": {

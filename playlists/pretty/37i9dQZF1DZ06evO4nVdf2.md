@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,208 likes - 51 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,225 likes - 51 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 19 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
 | 20 | [Voy a Volver](https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Voy a Volver](https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb) | 3:55 |
 | 21 | [Contracorriente](https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:10 |
-| 22 | [Sin Ti No Puede Estar Tan Mal](https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No todo lo puedes dar](https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld) | 4:35 |
-| 23 | [Si Esto Es](https://open.spotify.com/track/00YJ1m8El41cHi3airbL0c) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [La Máquina Persona](https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP) | 2:43 |
+| 22 | [Si Esto Es](https://open.spotify.com/track/00YJ1m8El41cHi3airbL0c) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [La Máquina Persona](https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP) | 2:43 |
+| 23 | [Sin Ti No Puede Estar Tan Mal](https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No todo lo puedes dar](https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld) | 4:35 |
 | 24 | [Amor, Amor de Mis Amores \(with Ximena Sariñana\) \- En Vivo \[Sala Telefónica del Centro Cultural Roberto Cantoral\]](https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mujer Divina \- Homenaje a Agustín Lara \[En Vivo\]](https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH) | 4:31 |
 | 25 | [Si Tú Te Vas](https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:08 |
 | 26 | [Mediocre](https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:16 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 42 | [Monitor](https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:23 |
 | 43 | [La Luna](https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:48 |
 | 44 | [A un Paso de Baile de Ti](https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Vuélame el Corazón](https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j) | 3:21 |
-| 45 | [Mr\. Carisma](https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mr\. Carisma](https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n) | 3:51 |
-| 46 | [Si nos dejan](https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Un Mundo Raro: Las Canciones de José Alfredo Jiménez](https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx) | 3:41 |
+| 45 | [Si nos dejan](https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Un Mundo Raro: Las Canciones de José Alfredo Jiménez](https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx) | 3:41 |
+| 46 | [Mr\. Carisma](https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mr\. Carisma](https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n) | 3:51 |
 | 47 | [Ojos Diamante](https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Ojos Diamante](https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51) | 2:43 |
 | 48 | [Lo que fuera](https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo que fuera](https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia) | 2:57 |
 | 49 | [Ojalá](https://open.spotify.com/track/74NWPOS1H8yBmHUFJlLl41) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Ojalá](https://open.spotify.com/album/6uxAJWtRItOwN6lJslmktU) | 3:55 |
 | 50 | [La Vida No Es Fácil](https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No todo lo puedes dar](https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld) | 3:48 |
 | 51 | [El Amor Más Grande](https://open.spotify.com/track/62K8tEf4hr6MpP31v2wWdf) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 3:26 |
 
-Snapshot ID: `Z8jlgAAAAAAGSKIVN352PJqZYAoSMFIJ`
+Snapshot ID: `Z8o3AAAAAACcKo2VJi4WtUxcQhD/l0nd`

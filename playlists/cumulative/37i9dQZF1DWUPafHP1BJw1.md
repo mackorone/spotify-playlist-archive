@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-243 songs - 14 hr 13 min
+245 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Better Days](https://open.spotify.com/track/4yw5GYrOrrJ53yfYuxSCOz) | [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [Better Days](https://open.spotify.com/album/29OyLTZAtJ1URhQlHPDELU) | 4:02 | 2021-11-19 |  |
 | [Better Together \- Instrumental](https://open.spotify.com/track/2f9V1rIwActY4UKBQuxHqq) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC), [Avery Bright](https://open.spotify.com/artist/0ZCIMurSKs6CryBy5jjOAr) | [Better Together \(Instrumental\)](https://open.spotify.com/album/4jW9gXgYVJnwp836OzWP5n) | 3:38 | 2021-11-19 | 2022-05-07 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6CbPH6tsuAisPptSsC7GeK) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [BIRDS OF A FEATHER](https://open.spotify.com/album/7MCnhwvkXwsoLndZgzYzpC) | 3:13 | 2024-11-15 |  |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/3suLgqVTFAMGBMxMNvqCIT) | [Piano Glow](https://open.spotify.com/artist/51pKiwFA0EFJ4wOfaNnw4U) | [BIRDS OF A FEATHER](https://open.spotify.com/album/0lpbenFCoI3QqfXEu3GSvA) | 3:16 | 2025-03-08 |  |
 | [BIRDS OF A FEATHER \- Piano Version](https://open.spotify.com/track/5b8kQmztqqBh5IB0nSvU9M) | [The Piano Cover Guy](https://open.spotify.com/artist/4Dfwa6Cp8ZPElPzHXyLQcX) | [BIRDS OF A FEATHER \(Piano Version\)](https://open.spotify.com/album/4ERUb1rmoBSU40hnDdW4iZ) | 3:33 | 2024-10-18 |  |
 | [Blackbird](https://open.spotify.com/track/3gGtHBS7wV3oP9KEClHd4i) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Blackbird \- The Beatles Album](https://open.spotify.com/album/3VIL0T0cLNHDcNGO0WPNhh) | 2:32 | 2021-11-19 | 2022-01-05 |
 | [Blank Space](https://open.spotify.com/track/2mMarfkPpZPPKV5AUGdz58) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions](https://open.spotify.com/album/7hBwTnRSuuOisqubNG4lwv) | 2:35 | 2021-11-19 | 2024-03-30 |
@@ -213,6 +214,7 @@
 | [Teardrop](https://open.spotify.com/track/1ammM5JONGbcVDXpuSWgSx) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 4:30 | 2024-07-12 |  |
 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 | 2021-11-19 |  |
 | [thank u, next](https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:26 | 2021-11-19 |  |
+| [The Door \(Arr\. Piano\)](https://open.spotify.com/track/2cJTpzCZDUmQ2NtY5lAisl) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [The Door \(Arr\. Piano\)](https://open.spotify.com/album/4H1vTwlmGDI1m1QH8vmQdW) | 3:02 | 2025-03-08 |  |
 | [The Unforgiven](https://open.spotify.com/track/3mIjX3Z3jh99AS7YWE5CsP) | [Rock Me Classical](https://open.spotify.com/artist/08tuXNeG1BJ8mn3jixU8Rj), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [The Unforgiven](https://open.spotify.com/album/4eyMtJkEyVQCj0eeCOX5xP) | 3:07 | 2025-01-10 |  |
 | [Thinking Out Loud](https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Thinking Out Loud](https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE) | 3:52 | 2021-11-19 |  |
 | [Thinking Out Loud](https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [10](https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB) | 3:52 | 2023-01-09 | 2024-04-19 |

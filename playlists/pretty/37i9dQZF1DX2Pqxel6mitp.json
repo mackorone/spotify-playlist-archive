@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 1196,
+  "num_followers": 1308,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Boneyard",
-        "url": "https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Boneyard - Edit",
-      "url": "https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Blues From The Gutter",
         "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 261092,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Boneyard",
+        "url": "https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Boneyard - Edit",
+      "url": "https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Tell Me Baby",
-      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Smoke From The Chimney",
         "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 207573,
       "name": "Boot Money",
       "url": "https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Wild Country",
-        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
-      },
-      "artists": [
-        {
-          "name": "Carmel",
-          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
-        }
-      ],
-      "duration_ms": 358133,
-      "name": "Wild Country 2021",
-      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Guitar Blues 101",
         "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 273573,
       "name": "Rollin' and Tumblin'",
       "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Wild Country",
+        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
+      },
+      "artists": [
+        {
+          "name": "Carmel",
+          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
+        }
+      ],
+      "duration_ms": 358133,
+      "name": "Wild Country 2021",
+      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
+        "name": "Empire State Express",
+        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Empire State Express",
+      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
         "name": "Traveling Medicine Man",
         "url": "https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l"
       },
@@ -1347,6 +1363,22 @@
       "duration_ms": 241946,
       "name": "If You Go",
       "url": "https://open.spotify.com/track/1YLLWrUeR99ztUaGGn355R"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 335880,
+      "name": "Stagolee",
+      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1371,22 +1403,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 335880,
-      "name": "Stagolee",
-      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "When Your Best Friend Turns Their Back On You",
         "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 361200,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
-        "name": "Empire State Express",
-        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Empire State Express",
-      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Gettin' Together",
-        "url": "https://open.spotify.com/album/52jq4u9jjWovc8hzgf472C"
-      },
-      "artists": [
-        {
-          "name": "Michael Jerome Browne",
-          "url": "https://open.spotify.com/artist/5FuofLPjGvwTTSt0rHphfc"
-        }
-      ],
-      "duration_ms": 231776,
-      "name": "Please Help",
-      "url": "https://open.spotify.com/track/4tUmDlWfo82idjkeOp8rgX"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Holding Court",
         "url": "https://open.spotify.com/album/2lqQLEtZ46XMtWNymL5fCV"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 267512,
       "name": "Only Porter at the Station",
       "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Gettin' Together",
+        "url": "https://open.spotify.com/album/52jq4u9jjWovc8hzgf472C"
+      },
+      "artists": [
+        {
+          "name": "Michael Jerome Browne",
+          "url": "https://open.spotify.com/artist/5FuofLPjGvwTTSt0rHphfc"
+        }
+      ],
+      "duration_ms": 231776,
+      "name": "Please Help",
+      "url": "https://open.spotify.com/track/4tUmDlWfo82idjkeOp8rgX"
     },
     {
       "added_at": "2024-05-28 18:42:18",

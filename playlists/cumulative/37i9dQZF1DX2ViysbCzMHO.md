@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-297 songs - 16 hr 13 min
+298 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 | 2024-02-23 |  |
 | [As You Leave \(undone\)](https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave \(undone\)](https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO) | 2:07 | 2022-07-29 | 2025-01-19 |
 | [At the End of a Bar \- Acoustic](https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [At the End of a Bar \(Acoustic\)](https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th) | 3:02 | 2022-03-18 | 2025-01-03 |
-| [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 | 2022-04-15 |  |
+| [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 | 2022-04-15 | 2025-03-09 |
 | [Babies \- Acoustic](https://open.spotify.com/track/3M2I0rIaPF8vuEMjVpIMrF) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies \(Acoustic\)](https://open.spotify.com/album/2waRF5MY9lsGtncXxvrXfp) | 2:57 | 2022-08-20 | 2022-08-27 |
 | [Bar Friends \- Acoustic](https://open.spotify.com/track/2F6WS0ge5MpaMlOiIXOwUG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends \(Acoustic\)](https://open.spotify.com/album/0ihzfb4aNvUcjehS3Fr8es) | 3:00 | 2021-12-17 | 2022-08-14 |
 | [Be The Whiskey \- Acoustic](https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Be The Whiskey \(Acoustic\)](https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f) | 3:02 | 2023-02-03 | 2023-04-05 |
@@ -175,6 +175,7 @@
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2022-07-08 | 2022-07-29 |
 | [More Hearts Than Mine](https://open.spotify.com/track/3TRlhYlnRVlQQMQbh3m2Tv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [TikTok Sounds](https://open.spotify.com/album/49FLPP6KDpXKwldgjkoCUR) | 3:34 | 2022-11-04 | 2022-11-13 |
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2022-07-15 | 2024-04-19 |
+| [My Left Hand \(Wedding Version\)](https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand \(Wedding Version\)](https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z) | 3:06 | 2025-01-31 |  |
 | [Narcissist \- Piano Version](https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Narcissist \(Piano Version\)](https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR) | 2:33 | 2022-04-29 |  |
 | [Nashville Or Nothing \- Stripped](https://open.spotify.com/track/2SujI6xuygJQ2fjJIwqjyS) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Nashville Or Nothing \(Stripped\)](https://open.spotify.com/album/7HIwS7l4C8LpiOg4ekFKrV) | 3:05 | 2022-04-22 | 2022-07-23 |
 | [Neon Moon](https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Neon Moon](https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT) | 2:41 | 2021-12-17 |  |

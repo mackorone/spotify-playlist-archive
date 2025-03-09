@@ -3589,6 +3589,32 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230171,
+      "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
+      "url": "https://open.spotify.com/track/3KldgsZmR6nCItrTrP8zbl"
+    },
+    {
+      "album": {
         "name": "CAKE HOUSE",
         "url": "https://open.spotify.com/album/3IllaVO5KnDttqZbaDxrWw"
       },
@@ -8622,7 +8648,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 227720,
       "name": "LOVE STORY (Feat. Gist)",
       "url": "https://open.spotify.com/track/1l8KpmqEgnMvUcWNXofIMD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Felipe Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,327 likes - 49 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,366 likes - 49 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 23 | [Espírito Santo Repousa](https://open.spotify.com/track/2tWYMjK0UwG0TnJq4fxhjx) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Mariana Jardim](https://open.spotify.com/artist/7zEcDfsGJ7gyhWlwJyIx4D) | [Espírito Santo Repousa](https://open.spotify.com/album/2CblRJwWky5Pbbs2i0DQV6) | 3:41 |
 | 24 | [Não Mereço Esse Amor \- Live Acoustic](https://open.spotify.com/track/19jIJ3F5SuqWSGr3FO0ZTy) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Não Mereço Esse Amor \(Live Acoustic\)](https://open.spotify.com/album/3RSzzPCHmpqYIzJm1J77bn) | 2:47 |
 | 25 | [Doce Voz](https://open.spotify.com/track/7LL1Lw9Aqih55x7ur1D3JU) | [Samuel Dias](https://open.spotify.com/artist/0hJ3Y7nOHR6ibLnMABe3TK), [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Doce Voz](https://open.spotify.com/album/7kStmovEGTihQ1Wgndtj2h) | 4:38 |
-| 26 | [Jesus te Amamos](https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7) | [Jesus te Amamos](https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL) | 6:55 |
+| 26 | [Jesus te Amamos](https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Jesus te Amamos](https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL) | 6:55 |
 | 27 | [Situações](https://open.spotify.com/track/2ire0Ita4kQc8LVN2KOHRi) | [Thiago Sans](https://open.spotify.com/artist/3QGfCvDw0febKUAJvwP7bq), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Situações](https://open.spotify.com/album/0sXzFPy6F8nNfPSEdeW4DT) | 3:50 |
 | 28 | [Um Pouco Mais \- Ao Vivo](https://open.spotify.com/track/0C0KDqRMHYLDFdZRe71lrJ) | [Estúdio NT](https://open.spotify.com/artist/7Ao8gsNBcbXNjWUe8IFV2d), [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK) | [Um Pouco Mais \(Ao Vivo\)](https://open.spotify.com/album/66BZbjQiO0NqvTpPkz3C9J) | 4:13 |
 | 29 | [Pra te Ferir](https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS) | [Samuel Eleoterio](https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv) | [Pra Te Ferir](https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo) | 4:26 |

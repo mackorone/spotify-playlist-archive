@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 119264,
+  "num_followers": 119285,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAAiTODugiK66gMCqOMTh9V3",
+  "snapshot_id": "Z8o3AAAAAACxZYBdtU4JLNF8e1BTCfyz",
   "tracks": [
     {
       "added_at": null,
@@ -799,26 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worst Country Song Of All Time",
-        "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
+        "name": "How Do You Like Me Now?!",
+        "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 197666,
-      "name": "The Worst Country Song Of All Time",
-      "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
+      "duration_ms": 150706,
+      "name": "She Only Gets That Way With Me",
+      "url": "https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw"
     },
     {
       "added_at": null,
@@ -839,18 +831,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Do You Like Me Now?!",
-        "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
+        "name": "The Worst Country Song Of All Time",
+        "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
       },
       "artists": [
         {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 150706,
-      "name": "She Only Gets That Way With Me",
-      "url": "https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw"
+      "duration_ms": 197666,
+      "name": "The Worst Country Song Of All Time",
+      "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
     },
     {
       "added_at": null,

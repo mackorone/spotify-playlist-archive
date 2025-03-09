@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > the best indie dance tracks of the moment 😴 with Passion Pit & Sofi Tukker
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,986 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,016 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 16 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 |
 | 17 | [Who Knows \(feat\. Jono McCleery\)](https://open.spotify.com/track/6MHbwz15gcLPg5Ok7qUtod) | [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Who Knows \(feat\. Jono McCleery\)](https://open.spotify.com/album/6IZzQBSWDZxilTcp2NRYpp) | 2:53 |
 | 18 | [MissYouSo](https://open.spotify.com/track/0C4n9akaLKbDQ9ggKCn8zV) | [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [MissYouSo](https://open.spotify.com/album/0ywvUiMrOVZVJn1lnOWvJ8) | 3:17 |
-| 19 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:32 |
+| 19 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 |
 | 20 | [1 DAY 2 LATE](https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [GEMINI](https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8) | 3:37 |
 | 21 | [free mode](https://open.spotify.com/track/1daSFGsI7u2YIRjoSQ05iY) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [free mode](https://open.spotify.com/album/3hkOFNPOZKDoyIWkGZvyEU) | 2:40 |
 | 22 | [SEE YOU AGAIN](https://open.spotify.com/track/6Az70eTFLGsu3KWFB2mYHh) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [OXY2\*](https://open.spotify.com/album/2oaTK2Y4tGP9s6eSE3GtuL) | 2:43 |

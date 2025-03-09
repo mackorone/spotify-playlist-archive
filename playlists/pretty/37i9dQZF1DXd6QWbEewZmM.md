@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,585 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,623 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 56 | [Está Noche](https://open.spotify.com/track/6uOMIOljAGYvk0pVMpYxFI) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Está Noche](https://open.spotify.com/album/2vR2wBrb5I4UKOVyMxxVz8) | 2:04 |
 | 57 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 |
 | 58 | [Las Razones](https://open.spotify.com/track/1iYYianrZZiSmIKldBfFq9) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 4:09 |
-| 59 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
-| 60 | [ETERNIDAD](https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP), [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [ETERNIDAD](https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ) | 2:55 |
+| 59 | [ETERNIDAD](https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP), [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [ETERNIDAD](https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ) | 2:55 |
+| 60 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
 | 61 | [VIAJA CONMIGO](https://open.spotify.com/track/2zr9cOdj6D8mZR25hdWnCa) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 3:21 |
 | 62 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 |
 | 63 | [Dame Un Segundo](https://open.spotify.com/track/64hZSFhbRYHz6WueQv9npj) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Dame Un Segundo](https://open.spotify.com/album/6rHLvbCWFOoongQ2GYXqHO) | 2:34 |
@@ -140,9 +140,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 130 | [Beso De Peda](https://open.spotify.com/track/0NDZle5X6aJPXj2dcZpKA7) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 2:48 |
 | 131 | [Tomando](https://open.spotify.com/track/1CGht82S5X0ZZiEqDaFdGI) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tomando](https://open.spotify.com/album/1f8bw9BkGoBWH0eHFHI0b2) | 3:19 |
 | 132 | [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 |
-| 133 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
+| 133 | [Tú No Vuelves](https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Tú No Vuelves](https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA) | 3:23 |
 | 134 | [Me Dejaste en Cero](https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Dejaste en Cero](https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv) | 3:20 |
-| 135 | [Tú No Vuelves](https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Tú No Vuelves](https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA) | 3:23 |
+| 135 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
 | 136 | [Rodeo Drive](https://open.spotify.com/track/36HymFB4WnuMY1VWJVG94N) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Rodeo Drive](https://open.spotify.com/album/66UxW7kvKHc1tRtjYh0j11) | 2:08 |
 | 137 | [Era El Único](https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Era El Único](https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I) | 2:10 |
 | 138 | [Baby](https://open.spotify.com/track/6ycrt2KyR7HLWB0E9VTkt9) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Baby](https://open.spotify.com/album/3vzNE4iHp8Tjz4pNxezDRb) | 3:54 |

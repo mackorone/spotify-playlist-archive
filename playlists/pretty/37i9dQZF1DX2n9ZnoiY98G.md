@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 
 > A true\-ish story based on a lie\. Listen to the music behind Apple Cider Vinegar, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,572 likes - 29 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,622 likes - 29 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

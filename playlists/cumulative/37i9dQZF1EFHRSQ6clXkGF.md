@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-298 songs - 19 hr 16 min
+299 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,8 @@
 | [Turn Around \- Incomplete Chelsea Recording](https://open.spotify.com/track/2FKJiMm78fUTXxKqnWEq7T) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 1:22 | 2024-03-21 |  |
 | [Twisted](https://open.spotify.com/track/71erzpH89KI95te7DTPOrG) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:21 | 2024-03-21 |  |
 | [Two Grey Rooms](https://open.spotify.com/track/1zQjBJJ4uETsyDAoQkKaZV) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 3:58 | 2024-03-21 |  |
-| [Unchained Melody](https://open.spotify.com/track/1mZdHKc1D5r24qNbvfDdVg) | [Richard Clayderman](https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6) | [Memories](https://open.spotify.com/album/2vwcwDfQI0aCUVfctGmAon) | 3:06 | 2024-01-29 |  |
+| [Unchained Melody](https://open.spotify.com/track/1mZdHKc1D5r24qNbvfDdVg) | [Richard Clayderman](https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6) | [Memories](https://open.spotify.com/album/2vwcwDfQI0aCUVfctGmAon) | 3:06 | 2024-01-29 | 2025-03-09 |
+| [Unchained Melody](https://open.spotify.com/track/4prVEyG6qq5YwiTdUULsVH) | [Richard Clayderman](https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6) | [Amour and More](https://open.spotify.com/album/7M5PE8rfoXIpPQIsUyHRZv) | 3:06 | 2025-03-08 |  |
 | [Underneath The Streetlight](https://open.spotify.com/track/7vcuZpHnljf9l0zuj2L6bX) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 2:17 | 2024-03-21 |  |
 | [Urge for Going](https://open.spotify.com/track/6DWrIR5yIbe95e3lZDiuDD) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hits](https://open.spotify.com/album/0dFqUCRbAMalnd74c4tw25) | 5:08 | 2024-03-21 |  |
 | [What Will You Give Me](https://open.spotify.com/track/2LYcyBHCGF3j3M7scu62Ad) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:49 | 2024-03-21 |  |

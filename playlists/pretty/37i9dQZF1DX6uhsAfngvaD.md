@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,557 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,590 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 28 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 29 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 |
 | 30 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 |
-| 31 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
-| 32 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
+| 31 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
+| 32 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
 | 33 | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8) | 3:10 |
 | 34 | [I've Been Dreaming of You](https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [I've Been Dreaming Of You](https://open.spotify.com/album/5JBMkxhLl4894CjX2O9jEO) | 2:28 |
 | 35 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
@@ -71,22 +71,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 61 | [If I Come Home](https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [If I Come Home](https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45) | 3:36 |
 | 62 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 |
 | 63 | [Your Type](https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Your Type](https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3) | 4:01 |
-| 64 | [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 |
-| 65 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
+| 64 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
+| 65 | [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 |
 | 66 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
 | 67 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 |
 | 68 | [Never Apart](https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Never Apart](https://open.spotify.com/album/1cwSdbCXfll0VQjKEQv3c9) | 4:07 |
 | 69 | [Standard Tuning](https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Standard Tuning](https://open.spotify.com/album/3kNoURlBf85G3B80lndXSP) | 4:24 |
-| 70 | [Alliance](https://open.spotify.com/track/20SJytWf5uMDM5IR8SyIpv) | [Parks, Squares and Alleys](https://open.spotify.com/artist/0botW5W7KGHTm8BkLemEH8) | [Zero Division Error](https://open.spotify.com/album/47UZcR4qvPMLF6mXkEFcPk) | 3:09 |
-| 71 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 |
-| 72 | [Broken Record](https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 4:01 |
-| 73 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 |
-| 74 | [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 |
+| 70 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 |
+| 71 | [Alliance](https://open.spotify.com/track/20SJytWf5uMDM5IR8SyIpv) | [Parks, Squares and Alleys](https://open.spotify.com/artist/0botW5W7KGHTm8BkLemEH8) | [Zero Division Error](https://open.spotify.com/album/47UZcR4qvPMLF6mXkEFcPk) | 3:09 |
+| 72 | [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 |
+| 73 | [Broken Record](https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 4:01 |
+| 74 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 |
 | 75 | [obliterate me](https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [obliterate me](https://open.spotify.com/album/19oywMyEwcitk495lSqOyM) | 3:53 |
-| 76 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
-| 77 | [Migraine](https://open.spotify.com/track/7wX5nXtf9cWMVvM0e0JwbV) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Migraine](https://open.spotify.com/album/1Ys261IwpQi3LLoCyjK5s7) | 3:41 |
-| 78 | [I Feel It](https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [I Feel It](https://open.spotify.com/album/379yDlK37waTY9OTYkixcR) | 3:05 |
-| 79 | [Homing](https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:40 |
-| 80 | [the lonely girl](https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [the lonely girl](https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf) | 3:10 |
+| 76 | [Migraine](https://open.spotify.com/track/7wX5nXtf9cWMVvM0e0JwbV) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Migraine](https://open.spotify.com/album/1Ys261IwpQi3LLoCyjK5s7) | 3:41 |
+| 77 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
+| 78 | [Homing](https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:40 |
+| 79 | [I Feel It](https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [I Feel It](https://open.spotify.com/album/379yDlK37waTY9OTYkixcR) | 3:05 |
+| 80 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 |
 
 Snapshot ID: `ZtDYzQAAAAD9o8UULJgWkqc9wq9WlkQy`

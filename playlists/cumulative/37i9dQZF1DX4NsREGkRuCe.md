@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-882 songs - 1 day 19 hr 37 min
+883 songs - 1 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Adulthood Anthem](https://open.spotify.com/track/6azpaZYOCLhhWr2amkJ1tQ) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Adulthood Anthem](https://open.spotify.com/album/6pFqcfLHFLCnltmuXQEYky) | 2:44 | 2022-06-13 | 2022-10-22 |
 | [Adwoa](https://open.spotify.com/track/6OM34AepZAyNTdRcQFZrd3) | [J.Derobie](https://open.spotify.com/artist/0Mb4ieQOX8g5d8lnjdCVZ2), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Adwoa](https://open.spotify.com/album/3B80wQGtdbktw36Q8hIaR7) | 2:58 | 2022-11-25 | 2022-12-09 |
 | [Agba Singing](https://open.spotify.com/track/1r1Xz7MMUotaxziNtqcstp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Agba Singing](https://open.spotify.com/album/2Mt90xMkv1pP1ZxOpIvg1i) | 2:30 | 2024-10-07 |  |
+| [Alchl](https://open.spotify.com/track/6s2Axyc8OgfFFlDMK3XtqZ) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [I Dream In Color](https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh) | 2:40 | 2025-03-07 |  |
 | [ALL EYES ON ME](https://open.spotify.com/track/6Fz3JvR8SQxMyRGBSx7mUW) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [ALL EYES ON ME](https://open.spotify.com/album/5v96iS1dWnI0lZbIfQI4rF) | 2:40 | 2023-04-27 | 2023-05-05 |
 | [All I Want](https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [All I Want](https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe) | 2:55 | 2024-02-23 | 2024-03-22 |
 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 | 2023-10-13 | 2024-05-21 |
@@ -356,7 +357,7 @@
 | [HEHEHE](https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEHEHE](https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5) | 1:53 | 2024-07-09 | 2025-03-08 |
 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 | 2024-09-09 |  |
 | [Hello](https://open.spotify.com/track/6IaFkxSTFT8Fk6Zd3c1deR) | [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Maradona](https://open.spotify.com/artist/1vtehaKEJQNZCx3WKhH05T) | [Hello](https://open.spotify.com/album/5LymXMIH70mjFBdggsPDot) | 2:02 | 2022-10-13 | 2022-10-18 |
-| [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 | 2024-07-16 |  |
+| [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 | 2024-07-16 | 2025-03-09 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2023-01-20 |
 | [Hide & Seek \- Rema Remix](https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Hide & Seek \(Rema Remix\)](https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY) | 3:48 | 2023-02-23 | 2023-08-29 |
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2022-06-08 | 2023-02-11 |

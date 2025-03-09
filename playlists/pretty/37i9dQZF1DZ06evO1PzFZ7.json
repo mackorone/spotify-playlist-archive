@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152445,
+  "num_followers": 152451,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABOwGSM3lZFJB17Rxwa/XeJ",
+  "snapshot_id": "Z8o3AAAAAABhlEl/i67rn+KkPqqp7PUP",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Bala Perdida",
+        "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
         },
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 238002,
-      "name": "Tu Sangre en Mi Cuerpo",
-      "url": "https://open.spotify.com/track/1EarUeWxzDC364EWOSXhNL"
+      "duration_ms": 224000,
+      "name": "Bala Perdida",
+      "url": "https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH"
     },
     {
       "added_at": null,
@@ -251,22 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bala Perdida",
-        "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
       "artists": [
         {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Bala Perdida",
-      "url": "https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH"
+      "duration_ms": 238002,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/1EarUeWxzDC364EWOSXhNL"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Dos Almas",
-        "url": "https://open.spotify.com/album/1HUZ55ryWd6JeGAl1kXvp8"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 186513,
-      "name": "Cuando Dos Almas",
-      "url": "https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Saludas A La Tuya / Tres Veces Te Enga\u00f1\u00e9",
         "url": "https://open.spotify.com/album/2VT3e7FojZHXylFcpTFf8D"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 187716,
       "name": "Me Saludas A La Tuya / Tres Veces Te Enga\u00f1\u00e9",
       "url": "https://open.spotify.com/track/1B0hl6gScrT5zQkEZTfBnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Dos Almas",
+        "url": "https://open.spotify.com/album/1HUZ55ryWd6JeGAl1kXvp8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 186513,
+      "name": "Cuando Dos Almas",
+      "url": "https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB"
     },
     {
       "added_at": null,

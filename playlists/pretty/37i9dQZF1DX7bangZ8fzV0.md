@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0?si=lAt9GAVFQOOXqGG8GwgG1w">Len Muller</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,223 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,315 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,522 likes - 51 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,595 likes - 51 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 37 | [Talking To Jesus \(feat\. Brandon Lake\)](https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 8:29 |
 | 38 | [Forever YHWH \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:19 |
 | 39 | [God Is Not Against Me \(feat\. Jonsal Barrientes & Tiffany Hudson\)](https://open.spotify.com/track/2lQL53FnkClnRs2q6aX7Lr) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 5:42 |
-| 40 | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE) | 6:32 |
-| 41 | [Vida aos Sepulcros](https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Vida aos Sepulcros](https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV) | 4:53 |
+| 40 | [Vida aos Sepulcros](https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Vida aos Sepulcros](https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV) | 4:53 |
+| 41 | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE) | 6:32 |
 | 42 | [RATTLE! \(Live\)](https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:12 |
 | 43 | [Won't Stop Now](https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 7:04 |
 | 44 | [Joy In The Morning](https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 8:48 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 50 | [QUIET \(Stripped\) \[Morning & Evening\]](https://open.spotify.com/track/1CwJWOYHSt3zOeEjP5cEYC) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Graves Into Gardens: Morning & Evening](https://open.spotify.com/album/4FSbyaejQ4FwM396Jl0Zc1) | 3:45 |
 | 51 | [Might Get Loud \(feat\. Chris Brown, Brandon Lake & Tiffany Hudson\)](https://open.spotify.com/track/6zmTTU4fm4iFhHvMyCxp3p) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 4:39 |
 
-Snapshot ID: `Z8jlgAAAAACfm2LasCTg27JmESDUyqCX`
+Snapshot ID: `Z8o3AAAAAABVZIYZnrKlAA+pGLXG/6KY`

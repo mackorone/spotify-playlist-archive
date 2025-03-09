@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: TAYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,679 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,719 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 14 | [Testify \- Live](https://open.spotify.com/track/0L4dTaXz9vSA3M3Scd0Qe9) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Testify \(Live\)](https://open.spotify.com/album/3FZiTKN0u6WDJ8MF1CLhXF) | 4:37 |
 | 15 | [Do It Again Lord](https://open.spotify.com/track/58zZQ7A4Hf0sMK5JX7ceUs) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY), [Manuella Attoh](https://open.spotify.com/artist/38iUQVSp1B8QUwGp6BSLte) | [Do It Again Lord](https://open.spotify.com/album/5ntB9itbveJ8Xk6YpqT1uY) | 4:26 |
 | 16 | [Mighty Name Of Jesus \- Live](https://open.spotify.com/track/46WzpkFoJalPyep0pxLcG3) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Mighty Name of Jesus \(Live\)](https://open.spotify.com/album/14bpNlh1xY0ADHNZc1LxIc) | 4:46 |
-| 17 | [One People](https://open.spotify.com/track/4mJuGAsDUpaYzV0MzuauTu) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2), [Aaron Baxter](https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9) | [One People](https://open.spotify.com/album/2k0L6UBtibR56ah50JfBPG) | 5:56 |
+| 17 | [One People](https://open.spotify.com/track/4mJuGAsDUpaYzV0MzuauTu) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [One People](https://open.spotify.com/album/2k0L6UBtibR56ah50JfBPG) | 5:56 |
 | 18 | [Fire & Rain](https://open.spotify.com/track/1myTr0GE76xbisDaP513dX) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Fire & Rain](https://open.spotify.com/album/6rGgtShuvb7eKQtJ8PdXoJ) | 5:27 |
 | 19 | [Heart's Delight](https://open.spotify.com/track/58BPudl2gC6uE4mzSDsClq) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [Heart's Delight](https://open.spotify.com/album/6YSciNOw1yn6cVczSvcmKU) | 5:23 |
 | 20 | [NO BROKEN BONES](https://open.spotify.com/track/5AnRxL1OuPhApR177gvs6A) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [NO BROKEN BONES](https://open.spotify.com/album/1QWqhEkgQjiUHnYOuVOgZp) | 3:44 |

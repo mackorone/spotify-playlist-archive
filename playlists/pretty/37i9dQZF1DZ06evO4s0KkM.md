@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,396 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,418 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 7 | [Johnny, I Hardly Knew Ya](https://open.spotify.com/track/2JKG5gyxMeZaBazd8S6FGt) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:54 |
 | 8 | [The Dirty Glass](https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:37 |
 | 9 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 |
-| 10 | [Cold Like This](https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Cold Like This](https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah) | 2:36 |
-| 11 | [The Green Fields Of France \(No Man's Land\)](https://open.spotify.com/track/2PNjn68WCzvsJwAc37eFki) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 4:45 |
+| 10 | [The Green Fields Of France \(No Man's Land\)](https://open.spotify.com/track/2PNjn68WCzvsJwAc37eFki) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 4:45 |
+| 11 | [Cold Like This](https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Cold Like This](https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah) | 2:36 |
 | 12 | [Fields of Athenry](https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 4:24 |
 | 13 | [Going Out In Style](https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r) | 4:08 |
 | 14 | [Prisoner's Song](https://open.spotify.com/track/2wZr4p2O2yUMPgRYBkLHE2) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [All You Fonies](https://open.spotify.com/track/3sU3CRgvbFesquT8W4KqPv) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:49 |
 | 50 | [Time To Go](https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:53 |
 
-Snapshot ID: `Z8jlgAAAAACUNYVocs5sn3MqKWeVk4AQ`
+Snapshot ID: `Z8o3AAAAAACQrsKP3RzCagFDxmBUJ0Pt`

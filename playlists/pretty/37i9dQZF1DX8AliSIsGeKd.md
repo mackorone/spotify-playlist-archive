@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Mari Ferrari
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,957 likes - 90 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,169 likes - 90 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 35 | [Heaven](https://open.spotify.com/track/6EeeeYPvK7gTunHCmlgbxJ) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 15](https://open.spotify.com/album/6mKjbE8tWxvf3bXp8xjmBl) | 6:13 |
 | 36 | [Fire](https://open.spotify.com/track/0oFPRUQrrcss42obFjKJmQ) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [Money Don't Love Ya EP](https://open.spotify.com/album/1g3w9hNLnZbUX7o4hBWKHC) | 3:28 |
 | 37 | [Kickback](https://open.spotify.com/track/4kHd0lPi9yCZYLVFap4uVM) | [Yannick Mueller](https://open.spotify.com/artist/6iSC2YnYuFfCbrBhyRVkPm) | [Kickback](https://open.spotify.com/album/68GqT1uDuC0A0Rrmeo86FD) | 5:34 |
-| 38 | [Like This \- Edit](https://open.spotify.com/track/3nGbeVSKQU9ctUnBsdxDuS) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Like This \(Edit\)](https://open.spotify.com/album/1C5fCALinQbstDa0EFa14N) | 3:36 |
+| 38 | [Like This](https://open.spotify.com/track/3nGbeVSKQU9ctUnBsdxDuS) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Like This](https://open.spotify.com/album/1C5fCALinQbstDa0EFa14N) | 3:36 |
 | 39 | [Do For Your Love](https://open.spotify.com/track/3kg6XwcUY1eRJ3ntWvZeSY) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Do For Your Love](https://open.spotify.com/album/3bXzAamzshpdQlDn3ijyCT) | 4:05 |
 | 40 | [Neuer Held](https://open.spotify.com/track/2QfhBeOeGnSGwk9TLuWFGr) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Surreal Curved Dreams](https://open.spotify.com/album/73Uk92PD1PVvyyjZlbLhn7) | 5:26 |
 | 41 | [Spaceman](https://open.spotify.com/track/2HlaTnpkkAvTibonGWuU3V) | [Maksim Dark](https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu) | [Spaceman](https://open.spotify.com/album/6swx9jCZyebbY2UF8KgSVZ) | 7:15 |

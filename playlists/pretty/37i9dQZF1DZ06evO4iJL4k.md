@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,156 likes - 42 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,238 likes - 42 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 41 | [Não Desista Agora](https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 3:15 |
 | 42 | [Poesia Acústica 16](https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica 16](https://open.spotify.com/album/4KmL1W9yrbIlpKOO3L976y) | 12:37 |
 
-Snapshot ID: `Z8jlgAAAAADxmXoxeRMwlq0GoTxbrb4d`
+Snapshot ID: `Z8o3AAAAAAC/5Vc7/S/S1MuJheBPqabN`

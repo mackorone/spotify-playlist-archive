@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,419 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,441 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 36 | [Se m'innamoro](https://open.spotify.com/track/6Pm5m45fMlLOJ8pKBHKzSc) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Greatest Hits](https://open.spotify.com/album/7rwPjOYMdCm9LKVJk2Uiyy) | 3:24 |
 | 37 | [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 |
 | 38 | [Nessun grado di separazione](https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [di20are](https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy) | 3:39 |
-| 39 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 |
+| 39 | [Un Giorno Mi Dirai](https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [Miss Nostalgia](https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH) | 4:04 |
 | 40 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 |
-| 41 | [Un Giorno Mi Dirai](https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [Miss Nostalgia](https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH) | 4:04 |
+| 41 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 |
 | 42 | [Tutti I Miei Sbagli](https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Microchip Emozionale](https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg) | 4:03 |
 | 43 | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu) | 3:28 |
 | 44 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 88 | [Nostalgia canaglia](https://open.spotify.com/track/14K0I2XngCqxazt1EfJkZj) | [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw), [Romina Power](https://open.spotify.com/artist/2ZUY3LkHAoSiPSO7tXNwZM) | [Tutto Al Bano](https://open.spotify.com/album/6qafxVsxR0Cotcny5z1cdk) | 3:46 |
 | 89 | [La ragazza con il cuore di latta](https://open.spotify.com/track/1OvoC77TS6iKJecRCaq0hN) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La ragazza con il cuore di latta](https://open.spotify.com/album/0wPIBB6biqh3RaadDbhfFo) | 3:42 |
 | 90 | [Come saprei](https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 5:00 |
-| 91 | [Canzone per te](https://open.spotify.com/track/7dLmy2KzDJYGIxfFoJIcMX) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Endrigo \(1968\)](https://open.spotify.com/album/2HUcliwNVmeS7kS2tpQmF8) | 3:35 |
-| 92 | [Spalle al muro](https://open.spotify.com/track/1oLHRlZMfBcBDMKFgrWScm) | [Renato Zero](https://open.spotify.com/artist/7i7EQonx0GrqoKiNQL4gFO) | [Prometeo](https://open.spotify.com/album/4ee82ry9x4oOMuPW0wp5Ka) | 5:00 |
+| 91 | [Spalle al muro](https://open.spotify.com/track/1oLHRlZMfBcBDMKFgrWScm) | [Renato Zero](https://open.spotify.com/artist/7i7EQonx0GrqoKiNQL4gFO) | [Prometeo](https://open.spotify.com/album/4ee82ry9x4oOMuPW0wp5Ka) | 5:00 |
+| 92 | [Canzone per te](https://open.spotify.com/track/7dLmy2KzDJYGIxfFoJIcMX) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Endrigo \(1968\)](https://open.spotify.com/album/2HUcliwNVmeS7kS2tpQmF8) | 3:35 |
 | 93 | [Signor tenente](https://open.spotify.com/track/6jT1ZkS8MkBZVdI8CGD4cS) | [Giorgio Faletti](https://open.spotify.com/artist/6lXJfV8IwjjXR4EkHOZDxq) | [Come un cartone animato](https://open.spotify.com/album/3yWhVhKidRJpTRQwrd59EN) | 3:17 |
 | 94 | [Portami via](https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Portami via](https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP) | 3:16 |
 | 95 | [La musica e' finita](https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Ornella Vanoni](https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR) | 3:10 |

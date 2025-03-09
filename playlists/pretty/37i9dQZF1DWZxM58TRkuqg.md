@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Last Child
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,545 likes - 65 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,597 likes - 65 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 46 | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS) | 4:18 |
 | 47 | [Kapan?](https://open.spotify.com/track/6MKBKvgRLMHul5QP4Ch9h7) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:40 |
 | 48 | [Setelah Kau Pergi](https://open.spotify.com/track/5yHaKQv2PU3Gzvv7dU0kYG) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Setelah Kau Pergi](https://open.spotify.com/album/6S6ue74gfm9yHQTXY0y3l2) | 3:42 |
-| 49 | [Di Sore Hari yang Lucu](https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu), [Videmarsha](https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB) | [The Folk: Side B](https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi) | 4:39 |
+| 49 | [Di Sore Hari yang Lucu](https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu), [Videmarsha](https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB) | [The Folk: Side B](https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi) | 4:39 |
 | 50 | [Pasrah](https://open.spotify.com/track/3523JnlP8KkRDRZ5anwtmd) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Diari](https://open.spotify.com/album/2ZmrmtY3uGgvDrLTtJ905D) | 3:15 |
 | 51 | [Ingatkah?](https://open.spotify.com/track/0WtLOUvSWCb6F63ojSr2xH) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Ingatkah?](https://open.spotify.com/album/4RXz1bccwbZLdHaK0krhLb) | 4:23 |
 | 52 | [Bunga Jiwaku](https://open.spotify.com/track/2edAglJ6sNF8MmLkV8Dp0R) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Bunga Jiwaku](https://open.spotify.com/album/5zp9TCY4Nb0bhXbcEl5WsF) | 3:17 |

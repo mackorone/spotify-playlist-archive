@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,705 likes - 120 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,207 likes - 120 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 32 | [Wasn't Expecting That](https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Wasn't Expecting That](https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q) | 3:21 |
 | 33 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:18 |
 | 34 | [As Long As You Love Me \- Acoustic Version](https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:41 |
-| 35 | [Good To Be \(Acoustic\)](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 |
-| 36 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
+| 35 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
+| 36 | [Good To Be \(Acoustic\)](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 |
 | 37 | [Payphone](https://open.spotify.com/track/5h3Wapr8ZukuHRZ5XMMejV) | [Jayesslee](https://open.spotify.com/artist/1xqkT06p85DIZeqrlVGVWv) | [Payphone](https://open.spotify.com/album/50MkaMTSbHu9O2f4puTIiv) | 3:04 |
 | 38 | [I'll Be Seeing You](https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/6dxDMr7tAs1NCfZGZDUBja) | 4:45 |
 | 39 | [Youngblood \- Acoustic](https://open.spotify.com/track/5EqlEvrylr3DNy3R11Kmrz) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Acoustic\)](https://open.spotify.com/album/4rFgtc0nwqxIJibvDW6eJr) | 3:40 |

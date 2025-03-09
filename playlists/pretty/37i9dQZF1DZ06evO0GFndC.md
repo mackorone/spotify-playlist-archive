@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,515 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,543 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 31 | [Bien Equipados](https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Bien Equipados](https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P) | 2:50 |
 | 32 | [Sin Hacer Ruido](https://open.spotify.com/track/3jAVdwO7ycWZOJl76vn3c9) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Sin Hacer Ruido](https://open.spotify.com/album/6wWICPpm8uk6FkPO9kGObs) | 2:35 |
 | 33 | [Belik Frozen](https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:42 |
-| 34 | [Legado](https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 2:42 |
-| 35 | [Brillo Propio](https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 3:12 |
+| 34 | [Brillo Propio](https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 3:12 |
+| 35 | [Legado](https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 2:42 |
 | 36 | [Noruega](https://open.spotify.com/track/2tmFNOYiBXllSBmfdm6OF5) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Noruega](https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC) | 2:35 |
 | 37 | [El Señor de la A](https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Señor de la A](https://open.spotify.com/album/2A8zSlVaebsKFUFntTkgcE) | 3:04 |
 | 38 | [Tras las Rejas](https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 49 | [Jumanji \- En Vivo](https://open.spotify.com/track/7JuPwwY32n3KqOR50EfGdn) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 2](https://open.spotify.com/album/0wWUGwPeylib39EDoVC0Ye) | 2:32 |
 | 50 | [El Huevon \- En Vivo](https://open.spotify.com/track/0XND7esAJ9J4BXubCsdhem) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Huevón \(En Vivo\)](https://open.spotify.com/album/1ua5SCBZRX5JdAZIxqjybu) | 2:52 |
 
-Snapshot ID: `Z8jlgAAAAAA2dEH2fvOuFWvopteRV0D6`
+Snapshot ID: `Z8o3AAAAAAAFlEb5hfBngqW5X8otABag`

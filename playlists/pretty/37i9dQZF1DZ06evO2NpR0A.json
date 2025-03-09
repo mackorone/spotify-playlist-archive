@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 274832,
+  "num_followers": 274881,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAADiaxd/yRq8JAEHD++2RJBk",
+  "snapshot_id": "Z8o3AAAAAAB1y8auvuiSAhTOjavJ2ySC",
   "tracks": [
     {
       "added_at": null,
@@ -399,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
       "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+      "duration_ms": 256586,
+      "name": "Lost In The World",
+      "url": "https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r"
     },
     {
       "added_at": null,
@@ -431,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
       "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 256586,
-      "name": "Lost In The World",
-      "url": "https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r"
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
     },
     {
       "added_at": null,

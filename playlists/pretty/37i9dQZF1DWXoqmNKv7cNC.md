@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Yuridia en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,508 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,064 likes - 45 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,22 +33,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 23 | [Cumbiaton Coreañero](https://open.spotify.com/track/1BzLvgiOUwldQGDlmgooyB) | [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx), [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7), [Sonido Flamin Hot](https://open.spotify.com/artist/0bsgBdr3o3HodvqjxZGqpQ) | [Cumbiaton Coreañero](https://open.spotify.com/album/4g5mav4fPQWREt6H3k8FWt) | 2:55 |
 | 24 | [03:00am](https://open.spotify.com/track/1YOJEqRJdHm8LRJX2EjbwC) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xMIEDOSx](https://open.spotify.com/album/4PsZalwcOM0trGVPn3W0YH) | 2:56 |
 | 25 | [No es el final](https://open.spotify.com/track/0qybqPqKipt9jlyeuo4ueq) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es el final](https://open.spotify.com/album/1Z2rxyZayQaEMBojqzj53q) | 3:17 |
-| 26 | [Yo Pienso Todo el Tiempo](https://open.spotify.com/track/6YjxQ9MVtFsLewvreZXHxq) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Yo Pienso Todo el Tiempo](https://open.spotify.com/album/50H7MyA9yqIorR7JiwvOaM) | 3:02 |
-| 27 | [TONTA](https://open.spotify.com/track/5Tl27NRoLSRTV1WRUSdnUk) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [TONTA](https://open.spotify.com/album/7gfp7ejyLLRYpJpsinVgxX) | 2:42 |
+| 26 | [TONTA](https://open.spotify.com/track/5Tl27NRoLSRTV1WRUSdnUk) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [TONTA](https://open.spotify.com/album/7gfp7ejyLLRYpJpsinVgxX) | 2:42 |
+| 27 | [Yo Pienso Todo el Tiempo](https://open.spotify.com/track/6YjxQ9MVtFsLewvreZXHxq) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Yo Pienso Todo el Tiempo](https://open.spotify.com/album/50H7MyA9yqIorR7JiwvOaM) | 3:02 |
 | 28 | [Vibin On My Mind](https://open.spotify.com/track/3u232bjkAEiXxNXxXVVwUN) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SAGA](https://open.spotify.com/album/72NVbldrz1OwqbKUqv0kbq) | 4:06 |
 | 29 | [Nada me cansa](https://open.spotify.com/track/6oamkOlnMGZfSAvGNOFjaJ) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Canciones que te hice para el fin del mundo](https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj) | 2:02 |
 | 30 | [sobrenatural](https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [sobrenatural](https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE) | 2:37 |
 | 31 | [Una Perra](https://open.spotify.com/track/2WRsyFyjDZMGLUWGsB2CLQ) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 2:45 |
-| 32 | [KR1MIN4L](https://open.spotify.com/track/6d7soGB2HvAmherylJVWeG) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Armadura](https://open.spotify.com/album/1l2nFthdK9TqyVnniGywn4) | 2:17 |
-| 33 | [Perder La Cabeza](https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Perder La Cabeza](https://open.spotify.com/album/5nQvUjcrpGiZT2qiJdOGro) | 1:56 |
+| 32 | [Perder La Cabeza](https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Perder La Cabeza](https://open.spotify.com/album/5nQvUjcrpGiZT2qiJdOGro) | 1:56 |
+| 33 | [KR1MIN4L](https://open.spotify.com/track/6d7soGB2HvAmherylJVWeG) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Armadura](https://open.spotify.com/album/1l2nFthdK9TqyVnniGywn4) | 2:17 |
 | 34 | [AYQUETONTA](https://open.spotify.com/track/7r0Nhs5qJWti5pRQwFA2F0) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [AYQUETONTA](https://open.spotify.com/album/1ewNp7rtQK0fEO8cjoyURb) | 3:07 |
 | 35 | [Marea](https://open.spotify.com/track/2yoSFkWsRSXdIhcix9JfMI) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Marea](https://open.spotify.com/album/0O69TYjXVjDbS5o9WWdv5i) | 3:59 |
 | 36 | [lo que pudo ser](https://open.spotify.com/track/7IlzDvXBqlJJm1cXmESoxl) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u), [Eduardo León](https://open.spotify.com/artist/0UDKLndtK8FHdiUN92bMds) | [lo que pudo ser](https://open.spotify.com/album/2iZtp0joGUHtEmIVT7oRyi) | 3:39 |
 | 37 | [NENA FINA](https://open.spotify.com/track/6pXXIesYJq1Tr5rt1H0sRG) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [25 \(B\)](https://open.spotify.com/album/77swNZiaINOqmwrIFffpvi) | 3:49 |
 | 38 | [Mi Gente](https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Mi Gente](https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV) | 2:52 |
 | 39 | [Palíndromo](https://open.spotify.com/track/3MtGANVwvIF6muc6AqziDp) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Tropezar](https://open.spotify.com/album/5y39t1EugMgkZWHKJFqXvZ) | 2:36 |
-| 40 | [Vórtice 333](https://open.spotify.com/track/0XuyxnE04jvfOou9qiOoWw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [SUEÑOS](https://open.spotify.com/album/7cuMNHqR2QsVrXv8QeEDBv) | 3:00 |
-| 41 | [Atravesar](https://open.spotify.com/track/4ZQayHfIOdtvi2jYPO90XC) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Atravesar](https://open.spotify.com/album/5lDzwFabeBOxYtLIB2ZYIS) | 3:45 |
+| 40 | [Atravesar](https://open.spotify.com/track/4ZQayHfIOdtvi2jYPO90XC) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Atravesar](https://open.spotify.com/album/5lDzwFabeBOxYtLIB2ZYIS) | 3:45 |
+| 41 | [Vórtice 333](https://open.spotify.com/track/0XuyxnE04jvfOou9qiOoWw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [SUEÑOS](https://open.spotify.com/album/7cuMNHqR2QsVrXv8QeEDBv) | 3:00 |
 | 42 | [Kafka](https://open.spotify.com/track/6ezPkvzuP86OFB32pCpNGK) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [La Mina Que Domina](https://open.spotify.com/album/3fW8UK13AtOldylamq0CVf) | 2:33 |
 | 43 | [Yugular](https://open.spotify.com/track/625BTeiei7heRnOqwwDysv) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Yugular](https://open.spotify.com/album/6ZM0mrJlNSnvDKe1MS7TRm) | 3:35 |
 | 44 | [mentira </3](https://open.spotify.com/track/7wolOtNrxn9f2MU4NJ1tV2) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [123 HYPE!!!](https://open.spotify.com/album/2wCOagrfilkWKnlzukDI9r) | 2:16 |

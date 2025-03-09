@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 112454,
+  "num_followers": 112469,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAACP9dMM+/FLRRo8tlPO9WnZ",
+  "snapshot_id": "Z8o3AAAAAABoJO9esY6NbAgojsxwaB+7",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 136764,
+      "name": "Ismael",
+      "url": "https://open.spotify.com/track/0S2oq25O61zqlWrxMv5lGu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alumno Y Maestro",
         "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 179786,
       "name": "Alumno Y Maestro",
       "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 136764,
-      "name": "Ismael",
-      "url": "https://open.spotify.com/track/0S2oq25O61zqlWrxMv5lGu"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 162047,
       "name": "El Mochomo (En vivo)",
       "url": "https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189738,
-      "name": "Chuyito y el Mayo (En Vivo)",
-      "url": "https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Enamorado (En vivo)",
         "url": "https://open.spotify.com/album/0ZdZWuMLUKmWQ6W7I0iYCD"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 172880,
       "name": "El Enamorado (En vivo)",
       "url": "https://open.spotify.com/track/3JChPn2sVzhbsd5ZCWLFIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189738,
+      "name": "Chuyito y el Mayo (En Vivo)",
+      "url": "https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,435 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,464 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,18 +46,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 36 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 |
 | 37 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
 | 38 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
-| 39 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
-| 40 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
+| 39 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
+| 40 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 41 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
 | 42 | [Innocent](https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Innocent](https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u) | 2:36 |
-| 43 | [i don’t know what i saw in you](https://open.spotify.com/track/0BD4OTTInTSc9tcJwGPyT2) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [i don’t know what i saw in you](https://open.spotify.com/album/7vY6bUU0ZDn1X5CkEtwzyR) | 2:09 |
+| 43 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 | 44 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
-| 45 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
-| 46 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 |
-| 47 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 |
-| 48 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
-| 49 | [All for You](https://open.spotify.com/track/2AvJ8tgkykPP8gwd80ZA8P) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [All for You](https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb) | 3:57 |
-| 50 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
+| 45 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 |
+| 46 | [i don’t know what i saw in you](https://open.spotify.com/track/0BD4OTTInTSc9tcJwGPyT2) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [i don’t know what i saw in you](https://open.spotify.com/album/7vY6bUU0ZDn1X5CkEtwzyR) | 2:09 |
+| 47 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
+| 48 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 |
+| 49 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
+| 50 | [All for You](https://open.spotify.com/track/2AvJ8tgkykPP8gwd80ZA8P) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [All for You](https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb) | 3:57 |
 | 51 | [Animal](https://open.spotify.com/track/6XLsy0UvTwzfd3eS8Uqqc9) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Animal](https://open.spotify.com/album/3iAp0bYRNDHVHkxQDD3g4C) | 2:56 |
 | 52 | [The Speed of Life](https://open.spotify.com/track/42opmht9GJpxaxwMh79oQD) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [The Speed of Life](https://open.spotify.com/album/67RgoyC2ZlmnPUUHVzMFly) | 3:21 |
 | 53 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 |

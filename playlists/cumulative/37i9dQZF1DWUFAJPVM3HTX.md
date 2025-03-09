@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P?si=koScYubOSDSiZW45iPakNg"> Michi</a>\. Updates every Wednesday.
 
-3,015 songs - 6 day 8 hr 52 min
+3,016 songs - 6 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3008,6 +3008,7 @@
 | [YOU GOT IT](https://open.spotify.com/track/6NXR2qUAqlYfYxdxmAZiom) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [YOU GOT IT](https://open.spotify.com/album/5slZaKUea8HPFAoCLkHBvb) | 2:10 | 2024-07-10 | 2024-12-05 |
 | [You Got It](https://open.spotify.com/track/3qYA03ei7Dd6YgEe4oUjOF) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [You Got It](https://open.spotify.com/album/6xZys52Lk6ywAsI76kBBmH) | 3:55 | 2024-03-01 | 2024-05-04 |
 | [You Got Me](https://open.spotify.com/track/7dx0DJjiMrPGXzD5svckcl) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [You Got Me](https://open.spotify.com/album/4mC4ZCmNWvysgBhj1L2jxo) | 4:09 | 2023-10-25 | 2023-11-30 |
+| [You Got Me Like](https://open.spotify.com/track/1Vm8b4RaSK2ezB6E0Cfjkm) | [m.e.h.](https://open.spotify.com/artist/34qZFVOVlhAXCN4ZNB9CQQ) | [You Got Me Like](https://open.spotify.com/album/2lXky7jJfiqRdMIHa0Wg5I) | 2:50 | 2025-03-08 |  |
 | [You Know](https://open.spotify.com/track/4F18dT7tgxQMKIamogReCd) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [You Know](https://open.spotify.com/album/4B7THJBAK3lgZzTM4xjSFi) | 3:27 | 2023-03-31 | 2023-08-04 |
 | [You Part II](https://open.spotify.com/track/4QJ3FwDbUrrISchG2acltH) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [You Part II](https://open.spotify.com/album/4gylsEyMaJeSpb4uLZreDz) | 3:00 | 2024-07-01 | 2024-08-31 |
 | [You Should Know](https://open.spotify.com/track/3CPKbYhUpEQAQYWmZlvWqw) | [Sainvil](https://open.spotify.com/artist/1nv9STc3b4snPq4Zcm1I4n) | [You Should Know](https://open.spotify.com/album/5iPTYEB2prLoSj8bsq4Uor) | 2:14 | 2023-08-25 | 2023-11-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb?si=G\_O9VVXCRf2L\_A2fILvjGQ">Ggoldie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,906 likes - 65 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,628 likes - 65 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

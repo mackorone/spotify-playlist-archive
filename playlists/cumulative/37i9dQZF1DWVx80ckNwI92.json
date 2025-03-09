@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "The future of African Indie and Alternative. Cover: <a href=\"https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F?si=lrk3b_7MRLOdKKZ8-PG2kQ\">Njoki Karu</a>",
+  "description": "The future of African Indie and Alternative. Cover: <a href=\"https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD?si=8I0aJ87tSQ21BY3d39y_MA\">DemiMa</a>",
   "name": "ALTER-native",
   "tracks": [
     {
@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 171700,
       "name": "Black Car",
       "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
@@ -934,6 +934,24 @@
       "duration_ms": 206400,
       "name": "falling~",
       "url": "https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk"
+    },
+    {
+      "album": {
+        "name": "Farafina Mousso (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5phjIgyecPvk66vUx40tx8"
+      },
+      "artists": [
+        {
+          "name": "Lubiana",
+          "url": "https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141994,
+      "name": "Farafina Mousso - Acoustic Version",
+      "url": "https://open.spotify.com/track/6LAbTHx8i3I8F31VLX7LR1"
     },
     {
       "album": {
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 220243,
       "name": "Just Cool",
       "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
@@ -1832,6 +1850,24 @@
       "duration_ms": 213333,
       "name": "Lebone",
       "url": "https://open.spotify.com/track/3RnF4b7QjpbdECHKcXXoLX"
+    },
+    {
+      "album": {
+        "name": "Duality Pt 2 Peace",
+        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
+      },
+      "artists": [
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265480,
+      "name": "Let Love Be",
+      "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
     },
     {
       "album": {

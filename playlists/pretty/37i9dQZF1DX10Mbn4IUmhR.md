@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > All the South African and global Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms?si=ZY7bK6mUQyimVJJfhMMfoA">Lady Gaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,784 likes - 77 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,781 likes - 77 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

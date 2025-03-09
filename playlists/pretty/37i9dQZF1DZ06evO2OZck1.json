@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 53806,
+  "num_followers": 53807,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAACtyxfoIixOo+p40XdrwL16",
+  "snapshot_id": "Z8o3AAAAAABO/Y1N/ry1um8piePZjRLB",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Fantastico",
-      "url": "https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANAKO",
         "url": "https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 221676,
       "name": "HANAKO",
       "url": "https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Fantastico",
+      "url": "https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 259066,
-      "name": "toumeigirl(H ZETT M edit ver.)",
-      "url": "https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN"
+      "duration_ms": 237800,
+      "name": "wakaranai",
+      "url": "https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 237800,
-      "name": "wakaranai",
-      "url": "https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1"
+      "duration_ms": 259066,
+      "name": "toumeigirl(H ZETT M edit ver.)",
+      "url": "https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN"
     }
   ],
   "unique_name": "This Is ATARASHII GAKKO!",

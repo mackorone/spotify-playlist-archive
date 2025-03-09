@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-404 songs - 1 day 3 hr 34 min
+405 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Omeriwo](https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Omeriwo](https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP) | 3:38 | 2023-04-06 | 2025-02-28 |
 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 | 2023-04-14 | 2024-04-19 |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2023-04-06 |  |
+| [Omo Ologo](https://open.spotify.com/track/4UUmFTIQ85NLmpE4zY6cZV) | [Favrish](https://open.spotify.com/artist/3s1ZKnwkYA76TmSxqHs22E) | [Omo Ologo](https://open.spotify.com/album/3wPlAUxRz6GmuPOst8JhHw) | 2:14 | 2025-03-08 |  |
 | [On God](https://open.spotify.com/track/5RFhOGFbx6iFuJfW2N0evM) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [On God](https://open.spotify.com/album/23aQpGrWvMqCwNSBcRzM90) | 3:05 | 2024-08-30 | 2025-02-28 |
 | [On my way](https://open.spotify.com/track/4YuvSP7S31IQuUwcBWgskb) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AMEN ALBUM](https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK) | 2:48 | 2024-05-10 | 2025-02-28 |
 | [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 | 2024-04-26 | 2024-09-27 |

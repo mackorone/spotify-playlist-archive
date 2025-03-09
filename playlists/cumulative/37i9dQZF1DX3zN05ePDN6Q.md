@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto: Sain
 
-622 songs - 1 day 8 hr 43 min
+623 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Diálogo com a Consciência](https://open.spotify.com/track/0Vud367DYato27KNbnAltL) | [Max B.O.](https://open.spotify.com/artist/7rtewsbZDDw2iy0GcqYs8e) | [Diálogo com a Consciência](https://open.spotify.com/album/3Li4wNWxMcS3sXjjh0wEre) | 3:27 | 2024-03-29 | 2024-05-03 |
 | [Do Outro Lado da Rua](https://open.spotify.com/track/1S8G824p1aG9KH8zRuKotf) | [Mascote](https://open.spotify.com/artist/1XQtxLkaACQMsRGiKwuI3h), [Dr\. Drumah](https://open.spotify.com/artist/2FA6rTxQddhfFCnUlBOlOQ) | [Jornada Dupla](https://open.spotify.com/album/7HN0V6wkuoamRLRLuW55eu) | 3:33 | 2024-04-12 | 2024-06-15 |
 | [Documentário](https://open.spotify.com/track/2ndTkGWb7m80kMNNfQUq1e) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Documentário](https://open.spotify.com/album/4bAbUUH5bndP2unEm1lwed) | 1:26 | 2024-02-16 | 2024-04-19 |
+| [Dois&Quinze](https://open.spotify.com/track/5NUdPmrnhcGzullcUBgS7D) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I), [Kiko de Sousa](https://open.spotify.com/artist/2NA6u5A9JtHxwmBydfRDdu), [MxM](https://open.spotify.com/artist/4aPJtQduDm1E21WI3LgiF6) | [Dois&Quinze](https://open.spotify.com/album/3gzzvKBt7IKweRbWBfhxFU) | 2:15 | 2025-03-08 |  |
 | [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 | 2023-01-06 | 2024-06-22 |
 | [Dono do Lugar](https://open.spotify.com/track/2KKdaKLGxj24vEYnaQudPD) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Bandido Fi Di Crente](https://open.spotify.com/album/1Y7CKJAjoXkIdbiXeCwFt1) | 2:35 | 2022-03-18 | 2022-04-02 |
 | [Donos do Torro](https://open.spotify.com/track/1qCX8wkjJjRfPXdJr8Be6v) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [Prs, o Peres](https://open.spotify.com/artist/6zA1Us7yWyCj4OXxkgAuqC) | [Donos do Torro](https://open.spotify.com/album/2jj5EcURhCwLQkVW1eXmwx) | 2:53 | 2024-07-12 | 2024-08-17 |

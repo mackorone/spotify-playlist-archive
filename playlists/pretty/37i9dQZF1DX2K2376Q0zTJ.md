@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Elle Teresa
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,079 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,230 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ラブ・デラックス](https://open.spotify.com/track/6lkxg4kEkX4REWbZPll1fD) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [ラブ・デラックス](https://open.spotify.com/album/1MhBOqeA2IXMyhIL1UokPr) | 3:04 |
 | 2 | [花・魁 \- feat\. Medusa, E.V.P & IFE](https://open.spotify.com/track/6octouOHHwAcyeWCMYvAhU) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Medusa](https://open.spotify.com/artist/1TzyeS338hV4LOl9GW22tA), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5) | [花・魁 \(feat\. Medusa, E.V.P & IFE\)](https://open.spotify.com/album/7kCFvoPirTF7lPnUQyUUAQ) | 3:15 |
-| 3 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 |
+| 3 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
 | 4 | [kawaii kawaii \(feat\. 重盛さと美\)](https://open.spotify.com/track/5GWwLSZsXDo5BUVRXvO4OW) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ) | [EASY MODE](https://open.spotify.com/album/7xO7vcPs8Uau9BQcwJN0QZ) | 3:02 |
 | 5 | [Drop](https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Drop](https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E) | 2:28 |
 | 6 | [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [IMA IMA IMA](https://open.spotify.com/track/53hS9eKKsLAtSsydsc9NUn) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス 前篇](https://open.spotify.com/album/2IsZa7R866e4nDA3iME83H) | 3:35 |
 | 50 | [Mona Lisa](https://open.spotify.com/track/5w9QUh8OIm4k0YQQVygent) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Mona Lisa](https://open.spotify.com/album/3y3enebOp9Bej82K3mDorK) | 2:45 |
 
-Snapshot ID: `Z8cdAAAAAACqY9+ov84piKwUbmf5uG+i`
+Snapshot ID: `Z8u2TwAAAABU4ZxKhmcs8+nNsiB677ag`

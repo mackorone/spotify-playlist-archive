@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lady Gaga \(pictured\), JENNIE, Doechii and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,859 likes - 118 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,868 likes - 118 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 44 | [meine haut, meine lippen](https://open.spotify.com/track/514nvTe6xChfujXmP8Dt9n) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [meine haut, meine lippen](https://open.spotify.com/album/0vzalyhJBg7k1Xi4IXPoCR) | 2:37 |
 | 45 | [dah/dött](https://open.spotify.com/track/5vTcvh4Wuw9AMNAsNERNlo) | [Luuk](https://open.spotify.com/artist/0gmyQ8yVCO4u4QZgwTnw2P) | [dah/dött](https://open.spotify.com/album/2w74v1opl7NAaYE6MaywwV) | 3:39 |
 | 46 | [brenn für dich](https://open.spotify.com/track/4uSQjki3S6ErDmMKzsbB1U) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [brenn für dich](https://open.spotify.com/album/6lfEwMO9F3RRj81safLB5i) | 2:32 |
-| 47 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:32 |
+| 47 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 |
 | 48 | [Live Forever](https://open.spotify.com/track/107O9gvmL7ClYS5sLx5T0U) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Live Forever](https://open.spotify.com/album/3tlRjJl8xGqxXPOSmroGV4) | 2:35 |
 | 49 | [Vélib](https://open.spotify.com/track/3kCJtAmHE8vqMgF0SySes4) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Vélib](https://open.spotify.com/album/635pzUH45LmrM9T41NoqoK) | 2:04 |
 | 50 | [DURO](https://open.spotify.com/track/2spZQeEnPRJ7e3jj9vMXNC) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [TNY](https://open.spotify.com/artist/4CroZ02OMqULf4GM6UkMnw) | [DURO](https://open.spotify.com/album/7vHU6Thcn0BNx8esO7y2Ws) | 3:07 |

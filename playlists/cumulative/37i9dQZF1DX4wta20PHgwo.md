@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-504 songs - 1 day 21 hr 32 min
+505 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [January](https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 8:38 | 2020-05-02\* | 2022-07-26 |
 | [January](https://open.spotify.com/track/6O84d53YeV1buAGecAxoRA) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 8:38 | 2022-09-08 | 2024-04-19 |
 | [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/track/319r5oK3N9izwWhfBhX5q8) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Go North](https://open.spotify.com/album/6Mcm9LwrOYRIQ7RlKWIb65) | 3:48 | 2024-01-30 | 2024-04-11 |
-| [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/track/3Iv8dZWyTMHi1H1JLFxGZs) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/album/563ZBKglhaIJp95YykQcm6) | 3:48 | 2024-03-29 |  |
+| [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/track/3Iv8dZWyTMHi1H1JLFxGZs) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Jeg Gik Mig Ud En Sommerdag](https://open.spotify.com/album/563ZBKglhaIJp95YykQcm6) | 3:48 | 2024-03-29 | 2025-03-09 |
 | [Just Go Ahead](https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA) | [Federica Lorusso](https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ) | [Outside Introspections](https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf) | 5:09 | 2023-01-05 |  |
 | [Kandaiki](https://open.spotify.com/track/3jzerzfM8lLFej7MAry7qG) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Animalia](https://open.spotify.com/album/4y83vqVrHDM6ZVK9oyOjhG) | 5:15 | 2020-05-11 | 2021-08-19 |
 | [Khmer](https://open.spotify.com/track/5VXs7VjhKyExWRE9pAFagq) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Khmer](https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6) | 4:59 | 2020-06-12 | 2021-05-28 |
@@ -400,6 +400,7 @@
 | [Stairway to the Stars](https://open.spotify.com/track/3J0s8NyS2WBt3ku99Wpqvo) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Uncle John's Band](https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY) | 6:41 | 2023-10-17 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/4XfFBYtS2QlwddTWzbxGGS) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg), [Joe Policastro](https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ), [Jon Deitemyer](https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f) | [Perspectives](https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw) | 5:17 | 2022-10-06 | 2023-10-13 |
 | [Stardust](https://open.spotify.com/track/6QqXTZUL8O3y46rgDEWnsm) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Candy](https://open.spotify.com/album/4OdGL0Uq7YZmrxsIYKUbrU) | 5:23 | 2020-05-02\* |  |
+| [Stardust](https://open.spotify.com/track/6IlSD3dOxZeGVfWPzGqkLB) | [Charles Chen](https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY) | [Stardust](https://open.spotify.com/album/7okf2XH3Wa1HBVO7VIcpYg) | 7:41 | 2025-03-07 |  |
 | [Starlight](https://open.spotify.com/track/4iwNcUIjJQGJSKH2qoez4o) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Starlight](https://open.spotify.com/album/5s5JmTs3Cxg8OkhLxALM0k) | 6:42 | 2022-02-17 | 2023-10-18 |
 | [Still Life](https://open.spotify.com/track/0ZDYNvHcrjfbN6CbErhqna) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/1BHLjtsqNrZg2YbkSEPcaA) | 4:47 | 2024-01-03 | 2024-04-19 |
 | [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-02-28 | 2025-02-25 |

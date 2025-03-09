@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH?si=xKEjvLs9Qz2sC0ciFa1\-9Q">GABUISLOST</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-166 songs - 8 hr 45 min
+167 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Eunuchorn](https://open.spotify.com/track/2iwC8s6kq25it3QzDnu964) | [Deeps Repus](https://open.spotify.com/artist/0tzbuJgJZC3JQkL0StGHvz) | [Cicada Cicatrice](https://open.spotify.com/album/5zfWSHDda5Uu7QXUAqibfs) | 3:30 | 2024-04-12 | 2025-03-01 |
 | [extreme metal](https://open.spotify.com/track/0Si8EAjX3fwcjJjekm9OOE) | [carter c](https://open.spotify.com/artist/0uV7gNXQdzaZA0GjgeUdE6) | [extreme metal](https://open.spotify.com/album/3vlxhtYayJjJopVexsdpS3) | 2:11 | 2024-07-22 |  |
 | [Faithful Hound](https://open.spotify.com/track/1s916ZyeDRigiExobXHVxx) | [Chocofriendz](https://open.spotify.com/artist/7gn4g9tkezeOyFdN4pPS7y) | [Airplane](https://open.spotify.com/album/2GSNrRtVVg0IoueayPFwXN) | 4:04 | 2024-04-27 |  |
-| [Fault](https://open.spotify.com/track/7rDjCoqge2niofZQGnMqfZ) | [Sideswept Bangs](https://open.spotify.com/artist/7FiTJRufj2n31L9GQLpzXT) | [Fault](https://open.spotify.com/album/45g6CFEm6LPqH7HqEBgcTo) | 2:49 | 2024-05-24 |  |
+| [Fault](https://open.spotify.com/track/7rDjCoqge2niofZQGnMqfZ) | [Sideswept Bangs](https://open.spotify.com/artist/7FiTJRufj2n31L9GQLpzXT) | [Fault](https://open.spotify.com/album/45g6CFEm6LPqH7HqEBgcTo) | 2:49 | 2024-05-24 | 2025-03-09 |
 | [FFY](https://open.spotify.com/track/1sg2bI7dSVZr9TRqFkWp6j) | [alexx](https://open.spotify.com/artist/0AmAHEoSgWULygymmiY5AI) | [FFY](https://open.spotify.com/album/1iOLj4TFXeuh1WWRGaDar1) | 2:20 | 2025-01-31 |  |
 | [fist on the wheel](https://open.spotify.com/track/1FDgYnEx0wr95YuCJytmmL) | [coyote2](https://open.spotify.com/artist/4Z7lH9tao4LFolgvY9GrIX) | [PAYDAY](https://open.spotify.com/album/7DBDDEEBeZimthRql76K90) | 2:00 | 2024-05-27 |  |
 | [flabbergasted](https://open.spotify.com/track/17UdncO4Cwa4eJAyY8AiYL) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [flabbergasted](https://open.spotify.com/album/3vnyhozbUXQcWwkw3CUn49) | 2:32 | 2025-01-31 |  |
@@ -64,6 +64,7 @@
 | [goodbyeee](https://open.spotify.com/track/2w4Ur3dJ5JxkaUploGOhvc) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:45 | 2025-01-31 |  |
 | [Goodnight](https://open.spotify.com/track/3iwaBue4azgT6Swq0oma7O) | [Valerie Hell](https://open.spotify.com/artist/6Fagp3NI73E9OzpUcpKyM5) | [Fight Malice With Love](https://open.spotify.com/album/2LcUg1gHYiH7YgYtbivFmh) | 3:31 | 2024-12-30 |  |
 | [HEART\-Q](https://open.spotify.com/track/4KeJPooEdtKgS0whhhybaz) | [あめ](https://open.spotify.com/artist/1JcKmvzJmoRPfK6eFSNumD), [Water](https://open.spotify.com/artist/1NXNw7RoWcUm5GAEdIyvNt) | [HEART\-Q](https://open.spotify.com/album/6opCGektpEMDIsIBF376dS) | 3:15 | 2025-01-31 |  |
+| [HEAVENSENT!](https://open.spotify.com/track/6uen3LTLbdTnRtge8fA3pv) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [POM\-POM GUILLOTINE](https://open.spotify.com/album/5sPglyjvgeRbUqP4HdkYXJ) | 3:16 | 2025-03-08 |  |
 | [Heavy Hand](https://open.spotify.com/track/2rlzRQxI2pD2ieS4Ul3bQI) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6) | [Heavy Hand](https://open.spotify.com/album/7p0Shb6YUaJ1mHgJUWlhMl) | 2:38 | 2025-02-28 |  |
 | [her hex!!](https://open.spotify.com/track/49ASSpU5jD0CyVwupDxl92) | [kit.](https://open.spotify.com/artist/11qY2cNlYUB6Zpmhzxycli), [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G) | ["you are also a piece of shit."](https://open.spotify.com/album/7vxJDpRukcw0mxh5FZFrH1) | 3:04 | 2025-02-28 |  |
 | [Hockey](https://open.spotify.com/track/6b39sywjsmS8Zo7g4PMQeM) | [Clarence Kelly](https://open.spotify.com/artist/63ecaIQEQ1kWQbi6ZKVYiB) | [Hockey](https://open.spotify.com/album/6rJcckvCabsY3tXwAyDL4w) | 4:17 | 2023-04-24 |  |
@@ -115,7 +116,7 @@
 | [Need U](https://open.spotify.com/track/18R7xqM7EmxYyJ1EB0JDBh) | [SOLARDOG](https://open.spotify.com/artist/0ERVZTPaOTcCU411qHpCV5), [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Need U](https://open.spotify.com/album/4X6kdKJj5esPAbRhXfbU8Z) | 2:55 | 2023-07-27 |  |
 | [Night In The Woods](https://open.spotify.com/track/54diDu8KqqHpu1AnZGvaZm) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Sad, Drunk and Needy](https://open.spotify.com/album/4FRDjPenlluCNuhnSQY4Xf) | 3:40 | 2024-04-27 |  |
 | [no amounts](https://open.spotify.com/track/2yLGNPPrlmZgqLzazjVbm2) | [Allen Inuyama](https://open.spotify.com/artist/56wRZVNHA9eqrWPwvPBOl9) | [no amounts](https://open.spotify.com/album/74KiR5yuxuFeBWUekfMTHG) | 2:35 | 2024-11-15 | 2025-02-01 |
-| [NO PARACHUTE](https://open.spotify.com/track/4qJfMx6rVlGvXioDPqEQ6w) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [NO PARACHUTE](https://open.spotify.com/album/5iZlQDAdbtNOiSjVRrm710) | 2:18 | 2024-10-23 |  |
+| [NO PARACHUTE](https://open.spotify.com/track/4qJfMx6rVlGvXioDPqEQ6w) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [NO PARACHUTE](https://open.spotify.com/album/5iZlQDAdbtNOiSjVRrm710) | 2:18 | 2024-10-23 | 2025-03-09 |
 | [Noise \- Memory Pool](https://open.spotify.com/track/5VjrJ13g4ypdYi0uOHlTJk) | [June LaLonde](https://open.spotify.com/artist/1IU8Y8EUogFf85PtoaikIK) | [Headjack](https://open.spotify.com/album/5xpPrOjFjak4HT7v33FIKm) | 3:45 | 2022-11-21 |  |
 | [Non\-Binary Ghost](https://open.spotify.com/track/6GD3JEry1xH89ZnX9Tijys) | [Dog Weekend](https://open.spotify.com/artist/1nqT1EKY1ao5WCIsIF1gh5) | [Non\-Binary Ghost](https://open.spotify.com/album/3WIOcp8NpHPkyRUfudgnxT) | 3:19 | 2025-01-31 |  |
 | [Open Me](https://open.spotify.com/track/062Qx4ID0e6VUvwufD16ZB) | [polyana](https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH), [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [Open Me \(Thru Stunted Waves; Hold Me in Morning Hues\)](https://open.spotify.com/album/1g8rxL9F5i5LpG1su4b6mA) | 4:09 | 2023-11-30 | 2025-03-01 |

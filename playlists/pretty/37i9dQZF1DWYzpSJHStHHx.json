@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 485835,
+  "num_followers": 485882,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Cut Worms",
-        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 183030,
-      "name": "Ballad of the Texas King",
-      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 233999,
       "name": "Preloved",
       "url": "https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Cut Worms",
+        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 183030,
+      "name": "Ballad of the Texas King",
+      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
+        "name": "Fish on the Sand",
+        "url": "https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 218019,
+      "name": "Fish on the Sand",
+      "url": "https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
         "name": "Soft Rock Band",
         "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 154181,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Fish on the Sand",
-        "url": "https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 218019,
-      "name": "Fish on the Sand",
-      "url": "https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -833,20 +833,20 @@
       "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Simpin'",
-        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
+        "name": "MOVING ON",
+        "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
       },
       "artists": [
         {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
         }
       ],
-      "duration_ms": 213661,
-      "name": "Simpin'",
-      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
+      "duration_ms": 248000,
+      "name": "MOVING ON",
+      "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -865,20 +865,20 @@
       "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "MOVING ON",
-        "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
+        "name": "Simpin'",
+        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
       },
       "artists": [
         {
-          "name": "Velvet Trip",
-          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
         }
       ],
-      "duration_ms": 248000,
-      "name": "MOVING ON",
-      "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
+      "duration_ms": 213661,
+      "name": "Simpin'",
+      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "The Way You Talk",
-        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
-      },
-      "artists": [
-        {
-          "name": "The Red Pears",
-          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
-        }
-      ],
-      "duration_ms": 198420,
-      "name": "The Way You Talk",
-      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Floating By",
         "url": "https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 160703,
       "name": "Floating By",
       "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "The Way You Talk",
+        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
+      },
+      "artists": [
+        {
+          "name": "The Red Pears",
+          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
+        }
+      ],
+      "duration_ms": 198420,
+      "name": "The Way You Talk",
+      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ceviche",
         "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Bees",
         "url": "https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 213253,
       "name": "Bees",
       "url": "https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
-      },
-      "artists": [
-        {
-          "name": "Lavalove",
-          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
-        }
-      ],
-      "duration_ms": 187345,
-      "name": "Keep on",
-      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 170788,
       "name": "Stained Glass Curtain",
       "url": "https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
+      },
+      "artists": [
+        {
+          "name": "Lavalove",
+          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
+        }
+      ],
+      "duration_ms": 187345,
+      "name": "Keep on",
+      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Midnight Man",
-        "url": "https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7"
-      },
-      "artists": [
-        {
-          "name": "Tiger Print",
-          "url": "https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p"
-        }
-      ],
-      "duration_ms": 159910,
-      "name": "Midnight Man",
-      "url": "https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Teasing Me",
         "url": "https://open.spotify.com/album/5VrwIJW10AsycVKlVhRmjo"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mammoth Surf",
-        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
+        "name": "Midnight Man",
+        "url": "https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7"
       },
       "artists": [
         {
-          "name": "Eric Tessmer",
-          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
+          "name": "Tiger Print",
+          "url": "https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p"
         }
       ],
-      "duration_ms": 120476,
-      "name": "Mammoth Surf",
-      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
+      "duration_ms": 159910,
+      "name": "Midnight Man",
+      "url": "https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Can-Can",
-        "url": "https://open.spotify.com/album/3zkw6futE9J6dl6VS1shML"
+        "name": "Mammoth Surf",
+        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
       },
       "artists": [
         {
-          "name": "Los Petardos!",
-          "url": "https://open.spotify.com/artist/217k1BZ6YF1IcweLxLYqum"
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
         }
       ],
-      "duration_ms": 172493,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/74SyH0pbKqzVlhOHOM1qNR"
+      "duration_ms": 120476,
+      "name": "Mammoth Surf",
+      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Can-Can",
+        "url": "https://open.spotify.com/album/3zkw6futE9J6dl6VS1shML"
+      },
+      "artists": [
+        {
+          "name": "Los Petardos!",
+          "url": "https://open.spotify.com/artist/217k1BZ6YF1IcweLxLYqum"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/74SyH0pbKqzVlhOHOM1qNR"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Sir Gawain & The Green Knight (Live at Hohm)",
         "url": "https://open.spotify.com/album/49NMDjgUsS2GqIVicEI4lP"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Lara",
-        "url": "https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q"
-      },
-      "artists": [
-        {
-          "name": "Blanco Tranco",
-          "url": "https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH"
-        }
-      ],
-      "duration_ms": 185699,
-      "name": "Lara",
-      "url": "https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Shout It From Aloud",
         "url": "https://open.spotify.com/album/0OdbfDY4Uh8ymZLrj6dhg1"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 239179,
       "name": "Shout It From Aloud",
       "url": "https://open.spotify.com/track/6QhMC49OkL4KJVXOleKkjW"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Lara",
+        "url": "https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q"
+      },
+      "artists": [
+        {
+          "name": "Blanco Tranco",
+          "url": "https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH"
+        }
+      ],
+      "duration_ms": 185699,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 195 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 94 likes - 195 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,13 +184,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 174 | [Man for Sale](https://open.spotify.com/track/4tmy7MJeg5TZZlWtXghTMb) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:16 |
 | 175 | [Never Was Born](https://open.spotify.com/track/4e1nNIkE2ZDebHnsm6cLyq) | [Joan McCracken](https://open.spotify.com/artist/0fXFItzsugYaL1Ee2PMwO0) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
 | 176 | [Welcome Hinges](https://open.spotify.com/track/5sTSjad3ZN3gOSJJU78sLz) | [Mabel Taliaferro](https://open.spotify.com/artist/6gRyDyEeAhnP9ULECHOsjG), [David Brooks](https://open.spotify.com/artist/2RFwsEgg8cc5h5LygnB4Zs) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 2:44 |
-| 177 | [Moon About Town](https://open.spotify.com/track/78KIhz7vKYFqXCW3ZHaVvb) | [Dane Vannatter](https://open.spotify.com/artist/1XeeSo5hTiXO6lnbdtU2PW) | [Double Standards](https://open.spotify.com/album/2NjKDR9mMpKoWSPe0tEBKG) | 4:35 |
-| 178 | [I Got a Song](https://open.spotify.com/track/5JS8gweKWdJvNhFeHG1QB2) | [Hubert Dilworth](https://open.spotify.com/artist/5OZa0iy6rCDE0DcjN92TBi), [Richard Huey](https://open.spotify.com/artist/3T4pCSIeL104D6ELmWvqeP), [Dooley Wilson](https://open.spotify.com/artist/16X8T4VdzB9sHrYSSpIEVB) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 5:13 |
+| 177 | [I Got a Song](https://open.spotify.com/track/5JS8gweKWdJvNhFeHG1QB2) | [Hubert Dilworth](https://open.spotify.com/artist/5OZa0iy6rCDE0DcjN92TBi), [Richard Huey](https://open.spotify.com/artist/3T4pCSIeL104D6ELmWvqeP), [Dooley Wilson](https://open.spotify.com/artist/16X8T4VdzB9sHrYSSpIEVB) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 5:13 |
+| 178 | [Moon About Town](https://open.spotify.com/track/78KIhz7vKYFqXCW3ZHaVvb) | [Dane Vannatter](https://open.spotify.com/artist/1XeeSo5hTiXO6lnbdtU2PW) | [Double Standards](https://open.spotify.com/album/2NjKDR9mMpKoWSPe0tEBKG) | 4:35 |
 | 179 | [Liza Crossing the Ice](https://open.spotify.com/track/3zZ3tmzNHoFleGGavyVRJ8) | [Toni Hart](https://open.spotify.com/artist/2KVOqll0LjBIBf4CQoAfjG) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
 | 180 | [We're in the Same Boat, Brother](https://open.spotify.com/track/0pijKqIXcp92qpGMezrRx6) | [Purabi Mukherjee](https://open.spotify.com/artist/1ZK07plVLCXL2ZhLaQ8Isd) | [Ek Noukar Jatri](https://open.spotify.com/album/08Gn41sNVTKA7oDUXTSJ8n) | 3:54 |
 | 181 | [There's a Sweet Wind Blowin' My Way](https://open.spotify.com/track/2YXJ7hsI81ytP7laCFmbHI) | [Ken Greves](https://open.spotify.com/artist/0EbaLciV1bPmSAAUXPhAif) | [Vintage & Rare the Songs of Harold Arlen, Vol\. 2: Hit the Road to Dreamland](https://open.spotify.com/album/1L7YXDVutt5aGIDoxBK55H) | 4:23 |
-| 182 | [Foolish Baby](https://open.spotify.com/track/3y5jzyy40ev08n9Kkn45hM) | [Linda Kosut](https://open.spotify.com/artist/2j5zebFol9mkkaXvpZutaU) | [Easy Come, Easy Go](https://open.spotify.com/album/0jr1afpuTiRR1RazK1DusV) | 3:37 |
-| 183 | [Hitchhikers](https://open.spotify.com/track/5R3S3kSGEJLizz3pX20US5) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 2:32 |
+| 182 | [Hitchhikers](https://open.spotify.com/track/5R3S3kSGEJLizz3pX20US5) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 2:32 |
+| 183 | [Foolish Baby](https://open.spotify.com/track/3y5jzyy40ev08n9Kkn45hM) | [Linda Kosut](https://open.spotify.com/artist/2j5zebFol9mkkaXvpZutaU) | [Easy Come, Easy Go](https://open.spotify.com/album/0jr1afpuTiRR1RazK1DusV) | 3:37 |
 | 184 | [Edelaine](https://open.spotify.com/track/44Jj8bvEXzw6uJDzr9yHf1) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 2:52 |
 | 185 | [Hooray for What](https://open.spotify.com/track/4CxyBdeKaYBj3Fo2RAc3Wa) | [Pauline Alpert](https://open.spotify.com/artist/5HlR2xXTSlpof36nluDAgz) | [The Whirlwind Pianist](https://open.spotify.com/album/389UxK5Sez4QeLK3pDOpO6) | 3:28 |
 | 186 | [Promise Me Not to Love Me](https://open.spotify.com/track/4Jz1jNsPwGIKNJAiDNmrwJ) | [David Keith Jones](https://open.spotify.com/artist/6SyTOcW49ejsWCJmHvtBE7) | [Arlen Magic](https://open.spotify.com/album/2PIEp4cjSXpwIrXuOWUQGS) | 3:12 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 194 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 | 195 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `AbrcbAAAAABpJfUDTTKsXxLpkCs/cGqN`
+Snapshot ID: `AbriPgAAAADVK5SXvF0KpWEuKJhHSUGh`

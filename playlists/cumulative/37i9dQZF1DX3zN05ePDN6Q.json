@@ -4189,6 +4189,32 @@
     },
     {
       "album": {
+        "name": "Dois&Quinze",
+        "url": "https://open.spotify.com/album/3gzzvKBt7IKweRbWBfhxFU"
+      },
+      "artists": [
+        {
+          "name": "A's Trinca",
+          "url": "https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I"
+        },
+        {
+          "name": "Kiko de Sousa",
+          "url": "https://open.spotify.com/artist/2NA6u5A9JtHxwmBydfRDdu"
+        },
+        {
+          "name": "MxM",
+          "url": "https://open.spotify.com/artist/4aPJtQduDm1E21WI3LgiF6"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135252,
+      "name": "Dois&Quinze",
+      "url": "https://open.spotify.com/track/5NUdPmrnhcGzullcUBgS7D"
+    },
+    {
+      "album": {
         "name": "DoisTr\u00eas",
         "url": "https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gelo & GloRilla, Doechii, Gunna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,745 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,923 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 34 | [Mindset](https://open.spotify.com/track/7EhKdsMxBUwYIYpMrIsHtf) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Mindset](https://open.spotify.com/album/1U4jMi9HEC1pQepg4QTVjl) | 1:57 |
 | 35 | [1 OF 1](https://open.spotify.com/track/7qdReXZ2lcAqFpKElUnvb0) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [SHADOW OF THE CROSS](https://open.spotify.com/album/4bIauQp7Y8UYWSgrpXoZur) | 1:36 |
 | 36 | [Cuttin Up](https://open.spotify.com/track/2G6RbIpFwGOttuTQU5P9xU) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi) | [Cuttin Up](https://open.spotify.com/album/0IvjRRB5S1qS6wybDI3QMu) | 2:15 |
-| 37 | [Breakdown](https://open.spotify.com/track/0nfuFKSuExrKMeU3tiW8aT) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [C.J\. Green](https://open.spotify.com/artist/2rmuDrO26hsPiQl9Q4Ibkh), [Kid Astronaut](https://open.spotify.com/artist/6WsQsYzrIRYxzIXnHAe20B) | [Breakdown](https://open.spotify.com/album/3QPeFcPyuS3RDldkmebwi1) | 3:34 |
+| 37 | [Breakdown](https://open.spotify.com/track/0nfuFKSuExrKMeU3tiW8aT) | [C.J\. Green](https://open.spotify.com/artist/2rmuDrO26hsPiQl9Q4Ibkh), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Kid Astronaut](https://open.spotify.com/artist/6WsQsYzrIRYxzIXnHAe20B) | [Breakdown](https://open.spotify.com/album/3QPeFcPyuS3RDldkmebwi1) | 3:34 |
 | 38 | [EN ROUTE](https://open.spotify.com/track/2e90aho4ucKvIx2CguwkqN) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [Sol ChYld](https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz) | [EN ROUTE](https://open.spotify.com/album/6ENaii2JqCkkkatXu1ddf1) | 2:36 |
 | 39 | [All whites](https://open.spotify.com/track/484Hn8oMnQlSJVtjcdVczO) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [All whites](https://open.spotify.com/album/1sZUqOrFDa5ZemHHcdtyjv) | 2:04 |
 | 40 | [Comfortable](https://open.spotify.com/track/5WcBWDjcGiXbAOsV5rt53b) | [Azjah](https://open.spotify.com/artist/3VFIf5Tn1WYGKodgtyVwjL), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Comfortable](https://open.spotify.com/album/2ZUStWzOtvqEZvk5U5PRtM) | 2:48 |

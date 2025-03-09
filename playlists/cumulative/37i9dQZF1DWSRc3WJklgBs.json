@@ -321,6 +321,32 @@
     },
     {
       "album": {
+        "name": "A Love Like You",
+        "url": "https://open.spotify.com/album/0JP7MmkQdZEOgkzDz0RCSH"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Robbie Seed",
+          "url": "https://open.spotify.com/artist/6jbM9dszTY66L2Q7E1U0ll"
+        },
+        {
+          "name": "Susana",
+          "url": "https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228703,
+      "name": "A Love Like You",
+      "url": "https://open.spotify.com/track/1oY02AiGl444ywpOuWuet6"
+    },
+    {
+      "album": {
         "name": "A Moment Apart",
         "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
       },
@@ -5916,6 +5942,28 @@
       "duration_ms": 213333,
       "name": "Dance 2 Your Heartbeat",
       "url": "https://open.spotify.com/track/24ZSQH1kXRpQTR5UZQNBmV"
+    },
+    {
+      "album": {
+        "name": "Dance and Fall in Love",
+        "url": "https://open.spotify.com/album/0Sylj4SfR5QryUtD3oj641"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Dance and Fall in Love",
+      "url": "https://open.spotify.com/track/6bMzjurIUwP0ieEJcT8AFU"
     },
     {
       "album": {
@@ -11538,7 +11586,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 168454,
       "name": "Hold On To Me",
       "url": "https://open.spotify.com/track/2X3MLtAHDPfwYyg6wfSaiY"
@@ -29470,7 +29518,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 178571,
       "name": "With You (with Morgin Madison)",
       "url": "https://open.spotify.com/track/5lW36ZLCGu81VzbIsMD2Rz"

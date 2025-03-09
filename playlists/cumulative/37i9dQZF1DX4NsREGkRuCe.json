@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "I Dream In Color",
+        "url": "https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160982,
+      "name": "Alchl",
+      "url": "https://open.spotify.com/track/6s2Axyc8OgfFFlDMK3XtqZ"
+    },
+    {
+      "album": {
         "name": "ALL EYES ON ME",
         "url": "https://open.spotify.com/album/5v96iS1dWnI0lZbIfQI4rF"
       },
@@ -7292,7 +7310,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 136732,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"

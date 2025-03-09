@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-255 songs - 13 hr 31 min
+256 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [CHORMA](https://open.spotify.com/track/78sIUhDEOuD5mpSr1zwDwg) | [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [CHORMA](https://open.spotify.com/album/2HVE0ZmEDKkasHZhWVmImV) | 3:03 | 2023-08-11 | 2023-09-03 |
 | [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 | 2023-08-11 | 2023-10-11 |
 | [Closer](https://open.spotify.com/track/4dibWyQq6IHkuelC7aDSSP) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Closer](https://open.spotify.com/album/1PdOw0ls6KvOwLAWImZKef) | 2:04 | 2024-06-07 | 2024-08-18 |
-| [Come On Baddie Let's Go Party](https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Come On Baddie Let's Go Party](https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2) | 2:33 | 2025-02-14 |  |
+| [Come On Baddie Let's Go Party](https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Come On Baddie Let's Go Party](https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2) | 2:33 | 2025-02-14 | 2025-03-09 |
 | [Concentrate](https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Concentrate](https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP) | 2:43 | 2024-05-17 | 2024-05-25 |
 | [Convivium](https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Convivium](https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv) | 2:13 | 2024-04-26 | 2024-08-17 |
 | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ) | 2:25 | 2024-06-07 |  |
@@ -102,6 +102,7 @@
 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-08-11 | 2023-09-28 |
 | [I Feel](https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [I Feel](https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb) | 2:20 | 2024-07-26 |  |
 | [I FOUND](https://open.spotify.com/track/2umda0epmmWxyTddI1o9fv) | [Tiefundton](https://open.spotify.com/artist/1M8Qepgsc1j5MzQor7uTE6) | [I FOUND](https://open.spotify.com/album/5Pcfj2L9TPGWx2glDLFJ3B) | 6:09 | 2024-07-16 |  |
+| [I Need A Doctor](https://open.spotify.com/track/3rGanGtuzfsLUuDo8Y73XA) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [I Need A Doctor](https://open.spotify.com/album/1JY8jVxE6d7vJTcdPDFU83) | 2:24 | 2025-02-28 |  |
 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 | 2024-06-07 |  |
 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 | 2023-10-20 | 2024-07-15 |
 | [I WANT YOUR LOVE](https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [I WANT YOUR LOVE](https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU) | 2:02 | 2024-11-08 | 2025-02-01 |

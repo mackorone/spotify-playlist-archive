@@ -1,29 +1,13 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 23515,
+  "num_followers": 23523,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAAL1ORM0jfQ66bUs87jkPon",
+  "snapshot_id": "Z8o3AAAAAAABL9R1gHg/ke/2rGeQFgSc",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suddenly (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/1GdcloiQpADlDj3HIVFJRR"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 218459,
-      "name": "Suddenly (Solo Piano Version)",
-      "url": "https://open.spotify.com/track/0C7rTfN2DisFXmvp1PszYu"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 76923,
       "name": "Midnight Reverie",
       "url": "https://open.spotify.com/track/7jJXXxrBFWJx7X5wEXPYsC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chasing Yesterdays (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/0KuCc3pqz5k30648280FaN"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 218325,
+      "name": "Chasing Yesterdays (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/54tdmfHwxKVLWWBtVPe6fv"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 218325,
-      "name": "Chasing Yesterdays",
-      "url": "https://open.spotify.com/track/6WvRiJeHUddJnkQuZTMdDG"
+      "duration_ms": 200297,
+      "name": "The Way It Was",
+      "url": "https://open.spotify.com/track/0Ou52Ie17Xe557e0rCDdgG"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 200297,
-      "name": "The Way It Was",
-      "url": "https://open.spotify.com/track/0Ou52Ie17Xe557e0rCDdgG"
+      "duration_ms": 201008,
+      "name": "Returning To You",
+      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 201008,
-      "name": "Returning To You",
-      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
+      "duration_ms": 218130,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/42InL799NohWvvJBYexpxf"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+        "name": "Everything Changes (Solo Piano Version) & Everything Changes... But All Remains",
+        "url": "https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 218130,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/42InL799NohWvvJBYexpxf"
+      "duration_ms": 183156,
+      "name": "Everything Changes... But All Remains",
+      "url": "https://open.spotify.com/track/0l4EXKxTWO1DvP5wnGt14m"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Changes (Solo Piano Version) & Everything Changes... But All Remains",
-        "url": "https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 183156,
-      "name": "Everything Changes... But All Remains",
-      "url": "https://open.spotify.com/track/0l4EXKxTWO1DvP5wnGt14m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
@@ -535,38 +519,6 @@
       "duration_ms": 138795,
       "name": "When the Bells Ring",
       "url": "https://open.spotify.com/track/7nXepAp45r8vUP8MB7WEZu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 190308,
-      "name": "Shine - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 168115,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji"
     },
     {
       "added_at": null,
@@ -599,6 +551,70 @@
       "duration_ms": 186170,
       "name": "Everything Changes (Solo Piano Version)",
       "url": "https://open.spotify.com/track/2c1MoYahV1BlIrti0ZfFvi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 168115,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 190308,
+      "name": "Shine - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 129745,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suddenly (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/1GdcloiQpADlDj3HIVFJRR"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 218459,
+      "name": "Suddenly (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/0C7rTfN2DisFXmvp1PszYu"
     },
     {
       "added_at": null,
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 129745,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
+      "duration_ms": 238510,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 238510,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 170337,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 134040,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 170337,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 232557,
-      "name": "Canyons",
-      "url": "https://open.spotify.com/track/0g5CquaRz1JQZCBEesB8cw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth - The Solo Piano Collection",
         "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 189717,
       "name": "Hope, Ascending - Solo Piano Version",
       "url": "https://open.spotify.com/track/3TuN88sSwjNy1RAUDiKTm1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 232557,
+      "name": "Canyons",
+      "url": "https://open.spotify.com/track/0g5CquaRz1JQZCBEesB8cw"
     },
     {
       "added_at": null,

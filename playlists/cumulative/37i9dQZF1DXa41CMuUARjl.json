@@ -291869,6 +291869,24 @@
     },
     {
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/1C5fCALinQbstDa0EFa14N"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/3nGbeVSKQU9ctUnBsdxDuS"
+    },
+    {
+      "album": {
         "name": "LIKE THIS",
         "url": "https://open.spotify.com/album/2GETo53JMvDGPBZGqThbSN"
       },
@@ -292244,24 +292262,6 @@
       "duration_ms": 198984,
       "name": "Like This & That",
       "url": "https://open.spotify.com/track/0DpQGxV3lJTV7KkfG5JZUp"
-    },
-    {
-      "album": {
-        "name": "Like This (Edit)",
-        "url": "https://open.spotify.com/album/1C5fCALinQbstDa0EFa14N"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        }
-      ],
-      "date_added": "2025-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216000,
-      "name": "Like This - Edit",
-      "url": "https://open.spotify.com/track/3nGbeVSKQU9ctUnBsdxDuS"
     },
     {
       "album": {

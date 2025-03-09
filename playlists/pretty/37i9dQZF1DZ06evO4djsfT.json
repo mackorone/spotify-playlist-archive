@@ -1,37 +1,13 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 26428,
+  "num_followers": 26438,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABCZvVCHjZboui5sl0bTTmY",
+  "snapshot_id": "Z8o3AAAAAAAh4ZI/CNO1uRaQblJ9G36z",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
-        "url": "https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "One Church Music",
-          "url": "https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa"
-        }
-      ],
-      "duration_ms": 171822,
-      "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
-      "url": "https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a"
-    },
     {
       "added_at": null,
       "album": {
@@ -55,6 +31,30 @@
       "duration_ms": 191644,
       "name": "Can\u2019t Tell It All (Remix)",
       "url": "https://open.spotify.com/track/3HVeUY3tYnCg7yHe3JN0bS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
+        "url": "https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "One Church Music",
+          "url": "https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa"
+        }
+      ],
+      "duration_ms": 171822,
+      "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
+      "url": "https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 291715,
-      "name": "Crowns & Thorns (Oceans)",
-      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II (Deluxe)",
         "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 177664,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": null,
@@ -530,11 +530,15 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 187115,
-      "name": "Glory 2 Glory",
-      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
     },
     {
       "added_at": null,
@@ -610,15 +614,11 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 260048,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
+      "duration_ms": 187115,
+      "name": "Glory 2 Glory",
+      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
     },
     {
       "added_at": null,
@@ -1011,30 +1011,6 @@
       "duration_ms": 197480,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Tired (feat. Bizzle & Zhalarina)",
-        "url": "https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        },
-        {
-          "name": "Zhalarina",
-          "url": "https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC"
-        }
-      ],
-      "duration_ms": 208717,
-      "name": "So Tired (feat. Bizzle & Zhalarina)",
-      "url": "https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk"
     }
   ],
   "unique_name": "This Is KB",

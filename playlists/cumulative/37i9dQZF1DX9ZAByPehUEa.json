@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "About Last Night",
+        "url": "https://open.spotify.com/album/1FPmyRt7iGEJ4ILYXSGE3Q"
+      },
+      "artists": [
+        {
+          "name": "Moment in Time",
+          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150375,
+      "name": "About Last Night",
+      "url": "https://open.spotify.com/track/4ORnzlTobOUSShAKrzwcQ3"
+    },
+    {
+      "album": {
         "name": "ADDICTED: REFRESHED",
         "url": "https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio"
       },
@@ -8676,7 +8694,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 191000,
       "name": "Sex on Fire (Disco Mix)",
       "url": "https://open.spotify.com/track/7pn1zBl8bSOzvhleJrFgwY"

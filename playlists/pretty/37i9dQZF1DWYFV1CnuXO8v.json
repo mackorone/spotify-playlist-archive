@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 176069,
+  "num_followers": 176123,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
-        "url": "https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc"
+        "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
+        "url": "https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3"
       },
       "artists": [
         {
-          "name": "Jannat",
-          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+          "name": "Sara Haytham",
+          "url": "https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK"
         }
       ],
-      "duration_ms": 250635,
-      "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
-      "url": "https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF"
+      "duration_ms": 216108,
+      "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -523,18 +523,18 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
-        "url": "https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3"
+        "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
+        "url": "https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc"
       },
       "artists": [
         {
-          "name": "Sara Haytham",
-          "url": "https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK"
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
         }
       ],
-      "duration_ms": 216108,
-      "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
-      "url": "https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn"
+      "duration_ms": 250635,
+      "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Ana Kteer",
-        "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
-      },
-      "artists": [
-        {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        }
-      ],
-      "duration_ms": 289123,
-      "name": "Kolly Melkak",
-      "url": "https://open.spotify.com/track/4hu2slKFhep9tzQTTfIXrK"
-    },
-    {
-      "added_at": "2025-02-14 02:30:21",
-      "album": {
         "name": "Nancy 9 (Hassa Beek)",
         "url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 226463,
       "name": "Hassa Beek",
       "url": "https://open.spotify.com/track/0aeVtB8skJoQdTzXPrDNSz"
+    },
+    {
+      "added_at": "2025-02-14 02:30:21",
+      "album": {
+        "name": "Ana Kteer",
+        "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 289123,
+      "name": "Kolly Melkak",
+      "url": "https://open.spotify.com/track/4hu2slKFhep9tzQTTfIXrK"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Hena Hena",
-        "url": "https://open.spotify.com/album/6CjxysxsDyVNHP9v3WesPq"
+        "name": "Ya Gamalak (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT"
       },
       "artists": [
         {
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
         }
       ],
-      "duration_ms": 201840,
-      "name": "Hena Hena",
-      "url": "https://open.spotify.com/track/1ld76Cgeeyf9onz2AdmhTJ"
+      "duration_ms": 124295,
+      "name": "Ya Gamalak - Acoustic Version",
+      "url": "https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Ma Kefaya",
-        "url": "https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6"
-      },
-      "artists": [
-        {
-          "name": "Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
-        }
-      ],
-      "duration_ms": 200566,
-      "name": "Ma Kefaya",
-      "url": "https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn"
-    },
-    {
-      "added_at": "2025-02-14 02:30:21",
-      "album": {
         "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
         "url": "https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 232511,
       "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
       "url": "https://open.spotify.com/track/1usEdJo0r9qk2gcnvx7bTr"
+    },
+    {
+      "added_at": "2025-02-14 02:30:21",
+      "album": {
+        "name": "Ma Kefaya",
+        "url": "https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6"
+      },
+      "artists": [
+        {
+          "name": "Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+        }
+      ],
+      "duration_ms": 200566,
+      "name": "Ma Kefaya",
+      "url": "https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -1403,8 +1403,8 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Ya Gamalak (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT"
+        "name": "Hena Hena",
+        "url": "https://open.spotify.com/album/6CjxysxsDyVNHP9v3WesPq"
       },
       "artists": [
         {
@@ -1412,9 +1412,9 @@
           "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
         }
       ],
-      "duration_ms": 124295,
-      "name": "Ya Gamalak - Acoustic Version",
-      "url": "https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel"
+      "duration_ms": 201840,
+      "name": "Hena Hena",
+      "url": "https://open.spotify.com/track/1ld76Cgeeyf9onz2AdmhTJ"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "\u0645\u0627\u0628\u062a\u062d\u0635\u0644\u064a\u0634 \u0643\u062a\u064a\u0631",
-        "url": "https://open.spotify.com/album/3lzttV0COflpTgSuUqbjlP"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 185701,
-      "name": "\u0645\u0627\u0628\u062a\u062d\u0635\u0644\u064a\u0634 \u0643\u062a\u064a\u0631",
-      "url": "https://open.spotify.com/track/5z0qVVVJPgJWaz7amQFlqH"
-    },
-    {
-      "added_at": "2025-02-14 02:30:21",
-      "album": {
         "name": "Shabah El Sama",
         "url": "https://open.spotify.com/album/5oQiH9mow7LFTk0JFcsUZv"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 218759,
       "name": "Shabah El Sama",
       "url": "https://open.spotify.com/track/4oxKGIYNawlTBHK76Ah3eY"
+    },
+    {
+      "added_at": "2025-02-14 02:30:21",
+      "album": {
+        "name": "\u0645\u0627\u0628\u062a\u062d\u0635\u0644\u064a\u0634 \u0643\u062a\u064a\u0631",
+        "url": "https://open.spotify.com/album/3lzttV0COflpTgSuUqbjlP"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "duration_ms": 185701,
+      "name": "\u0645\u0627\u0628\u062a\u062d\u0635\u0644\u064a\u0634 \u0643\u062a\u064a\u0631",
+      "url": "https://open.spotify.com/track/5z0qVVVJPgJWaz7amQFlqH"
     }
   ],
   "unique_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",

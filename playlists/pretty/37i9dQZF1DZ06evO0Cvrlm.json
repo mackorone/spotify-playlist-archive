@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 582620,
+  "num_followers": 582685,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAABNjXTOn3YIPpOlkw3ezPYX",
+  "snapshot_id": "Z8o3AAAAAAALuOTp95Gbz9znCrrCTf+D",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 251173,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY"
+      "duration_ms": 330800,
+      "name": "You Have Been Loved",
+      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "You Have Been Loved",
-      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 283426,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6SfWgcAHkQo3SMRvRIzJm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 310906,
-      "name": "Miss Sarajevo",
-      "url": "https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
       "duration_ms": 280000,
       "name": "Heal the Pain - Remastered",
       "url": "https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 310906,
+      "name": "Miss Sarajevo",
+      "url": "https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E"
     },
     {
       "added_at": null,

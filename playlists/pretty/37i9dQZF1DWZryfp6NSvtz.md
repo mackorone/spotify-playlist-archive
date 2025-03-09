@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: yungatita
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,410 likes - 76 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,501 likes - 76 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 14 | [Gethsemane](https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Gethsemane](https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A) | 10:51 |
 | 15 | [Swing For The Fences](https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Swing For The Fences](https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3) | 3:22 |
 | 16 | [Speed](https://open.spotify.com/track/0TL3rPZcPeN2hHFlslI5M9) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Speed](https://open.spotify.com/album/7K1CPlmH7E6OZyxF1M0Hqm) | 3:28 |
-| 17 | [Nervous System \(with LØLØ\)](https://open.spotify.com/track/3TjrOxwDOS2Dm4C4Iv0y7M) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Nervous System \(with LØLØ\)](https://open.spotify.com/album/47HP51bMAjLeUwDuxypEAm) | 2:59 |
+| 17 | [Nervous System](https://open.spotify.com/track/3TjrOxwDOS2Dm4C4Iv0y7M) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Nervous System](https://open.spotify.com/album/47HP51bMAjLeUwDuxypEAm) | 2:55 |
 | 18 | [PRAY TO ME](https://open.spotify.com/track/0yBNJ0WpqR0Ck7EwSdkG7j) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [PRAY TO ME](https://open.spotify.com/album/71kIIbBZIrVzJaJQaiQeQN) | 3:08 |
 | 19 | [velvet](https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [velvet](https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez) | 2:50 |
 | 20 | [Nü Burn](https://open.spotify.com/track/6SpXyStq0oiro815bJLey9) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Nü Burn](https://open.spotify.com/album/01i8t4KWDs5RSTO6mR69m0) | 4:01 |

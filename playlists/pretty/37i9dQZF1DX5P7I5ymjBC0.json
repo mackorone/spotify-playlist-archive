@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  ",
-  "num_followers": 74653,
+  "num_followers": 74670,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-02-21 08:56:27",
       "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Amjad Sabri",
+          "url": "https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "duration_ms": 717190,
+      "name": "Rang",
+      "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
+    },
+    {
+      "added_at": "2025-02-21 08:56:27",
+      "album": {
         "name": "Ae Dil Kisi Ki Yaad Mein (Coke Studio Season 8)",
         "url": "https://open.spotify.com/album/41JZAZycEJOq01horKNToM"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 412266,
       "name": "Mora Saiyaan",
       "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
-    },
-    {
-      "added_at": "2025-02-21 08:56:27",
-      "album": {
-        "name": "Coke Studio: Season 9",
-        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
-      },
-      "artists": [
-        {
-          "name": "Amjad Sabri",
-          "url": "https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3"
-        },
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        }
-      ],
-      "duration_ms": 717190,
-      "name": "Rang",
-      "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
     },
     {
       "added_at": "2025-02-21 08:56:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Rizky Febian
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,079 likes - 96 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,116 likes - 96 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 61 | [Ayah](https://open.spotify.com/track/4uf4iaPMldbGNu85Zq7Jc9) | [Karnamereka](https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq) | [Ayah](https://open.spotify.com/album/4XO3xVelLNSDQNxoajB00Y) | 4:02 |
 | 62 | [Pasrah](https://open.spotify.com/track/3523JnlP8KkRDRZ5anwtmd) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Diari](https://open.spotify.com/album/2ZmrmtY3uGgvDrLTtJ905D) | 3:15 |
 | 63 | [Memulai Kembali](https://open.spotify.com/track/1kWgz7UZzRvfnXZekAxQzn) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Memulai Kembali](https://open.spotify.com/album/3gUKTlTmycujBPo7iWOcuN) | 4:16 |
-| 64 | [Di Sore Hari yang Lucu](https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu), [Videmarsha](https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB) | [The Folk: Side B](https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi) | 4:39 |
+| 64 | [Di Sore Hari yang Lucu](https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu), [Videmarsha](https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB) | [The Folk: Side B](https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi) | 4:39 |
 | 65 | [Prahara Api Asmara](https://open.spotify.com/track/1mzdrMhlRMt1e0JhBGKPW8) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Chelsea Islan](https://open.spotify.com/artist/1etS44Dp8X7UIJKswDMNtT) | [INTONESIA O.5](https://open.spotify.com/album/71ppkU1UHX1dTRfPjW5c6L) | 5:19 |
 | 66 | [SEBENING SENJA](https://open.spotify.com/track/5NQd1x8wIVw1gCCJhiJbkE) | [Letto](https://open.spotify.com/artist/2vRToyl7mxoVbwwSsRBXAM) | [SEBENING SENJA](https://open.spotify.com/album/0E2gghCiWbWGTYKkuOTsz4) | 3:27 |
 | 67 | [Andai Sampai Akhir Usia](https://open.spotify.com/track/6d9b6k20BqCZMRyoNoXsQT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Andai Sampai Akhir Usia](https://open.spotify.com/album/1zmhc4y1L9rwKNgJ9rkBJ0) | 5:09 |

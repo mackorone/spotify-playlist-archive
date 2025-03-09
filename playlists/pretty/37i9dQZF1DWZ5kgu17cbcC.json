@@ -1,13 +1,109 @@
 {
   "description": "Music from shows and movies you love including Paradise, now streaming on Hulu.",
-  "num_followers": 216523,
+  "num_followers": 216525,
   "original_name": "Hulu Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N+AAAAAC2zKmZogu680SA604Dv2r9",
+  "snapshot_id": "Z8u04gAAAAD6NG0FHBsgPwDnQii7vnOu",
   "tracks": [
+    {
+      "added_at": "2025-03-08 03:09:22",
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Another Day in Paradise - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
+    },
+    {
+      "added_at": "2025-03-08 03:09:22",
+      "album": {
+        "name": "The Essential Bob Dylan",
+        "url": "https://open.spotify.com/album/1y3abw64BlSEeFuuhjlke1"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 149960,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/0JlOwlHslZuwK97jySyZuc"
+    },
+    {
+      "added_at": "2025-03-08 03:09:22",
+      "album": {
+        "name": "Paradise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wang",
+          "url": "https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB"
+        }
+      ],
+      "duration_ms": 257683,
+      "name": "Every Rose Has Its Thorn",
+      "url": "https://open.spotify.com/track/2B6L6j6ZjyY30P4WMambsh"
+    },
+    {
+      "added_at": "2025-03-08 03:09:22",
+      "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
+    },
+    {
+      "added_at": "2025-03-08 03:09:22",
+      "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
+    },
+    {
+      "added_at": "2025-03-08 03:09:22",
+      "album": {
+        "name": "Whitesnake (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 275395,
+      "name": "Here I Go Again - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc"
+    },
     {
       "added_at": "2025-02-14 05:00:40",
       "album": {

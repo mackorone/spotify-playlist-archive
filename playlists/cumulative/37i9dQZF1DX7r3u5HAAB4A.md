@@ -2,7 +2,7 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\. Cover: <a href="spotify:artist:2FgooFaZzZy6PUyJImk0kG">Jada Kingdom</a>
+> A melting pot of Caribbean culture\. Cover: <a href="spotify:artist:2hVWBpjLW4Q7fboYz2pVYK">MOLIY</a>
 
 154 songs - 7 hr 44 min
 

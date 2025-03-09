@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-300 songs - 14 hr 52 min
+301 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Tell Me How](https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Tell Me How](https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv) | 2:12 | 2022-10-30 | 2024-03-21 |
 | [Temptation](https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Temptation](https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43) | 3:09 | 2024-11-08 |  |
 | [That Kinda Love](https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc) | 2:44 | 2024-01-11 | 2024-04-19 |
-| [That Kinda Love](https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ) | 2:44 | 2024-04-11 |  |
+| [That Kinda Love](https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ) | 2:44 | 2024-04-11 | 2025-03-09 |
 | [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-09-15 | 2024-07-05 |
 | [The Boys Of Summer](https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [The Boys Of Summer](https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E) | 2:17 | 2023-06-08 | 2024-03-21 |
 | [the key \- Tim van Werd remix](https://open.spotify.com/track/2HMZhXZhX3ErAds3UmFhem) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [the key \(Tim van Werd remix\)](https://open.spotify.com/album/42qOGIkeeyxxc2i7ZMXrJp) | 4:30 | 2024-04-11 | 2024-10-04 |
@@ -308,5 +308,6 @@
 | [Without You](https://open.spotify.com/track/70H0AMIuTm0brh3hznKvFu) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Without You](https://open.spotify.com/album/6BfoGzmHPWCL2DqWhehAcv) | 3:22 | 2025-02-28 |  |
 | [Yellow](https://open.spotify.com/track/0Qo7CkcDDO6DqFvXD50kYm) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [Yellow](https://open.spotify.com/album/3X0qecgrGCKkWRuZ0KfnZL) | 3:12 | 2024-10-03 | 2024-12-13 |
 | [You & Me](https://open.spotify.com/track/4uf8L5rd9P03zMtPqkxgcC) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [You & Me](https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4) | 2:28 | 2025-02-07 |  |
+| [Young Folks](https://open.spotify.com/track/0VnspztuailO1g8bKY6tfn) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf) | [Young Folks](https://open.spotify.com/album/5jplgAkT3cHlmsvVKPcDlT) | 3:15 | 2025-03-06 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

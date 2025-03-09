@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,471 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,489 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 26 | [Fina Ropa Blanca](https://open.spotify.com/track/46uMIpDYQBG6iSHDl5y2ft) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Don Lucero](https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY) | 5:16 |
 | 27 | [Pacífico](https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ritual Piojoso \(En Vivo en River Plate\)](https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6) | 4:44 |
 | 28 | [Al Lado Del Camino](https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 7:12 |
-| 29 | [DESCARTABLE \- En Vivo Estadio Racing Club](https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE \(En Vivo Estadio Racing Club\)](https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p) | 3:06 |
-| 30 | [Te quiero igual \- En directo 2005](https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El regreso](https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N) | 3:53 |
+| 29 | [Te quiero igual \- En directo 2005](https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El regreso](https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N) | 3:53 |
+| 30 | [DESCARTABLE \- En Vivo Estadio Racing Club](https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE \(En Vivo Estadio Racing Club\)](https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p) | 3:06 |
 | 31 | [Sueles Dejarme Solo \- Me Verás Volver Gira 2007](https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC) | 4:21 |
 | 32 | [Chivo Expiatorio \- En Vivo](https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Chivo Expiatorio \(En Vivo\)](https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj) | 4:58 |
 | 33 | [Savia \- Vivo en Luna Park](https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Los Lunáticos Planes de una Mariposa Incandescente \(Vivo en Luna Park\)](https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E) | 4:54 |

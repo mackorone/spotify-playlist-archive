@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 55 | [Last Christmas](https://open.spotify.com/track/7EOgEy6NH28zV2q8i6apNN) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Last Christmas](https://open.spotify.com/album/0iEH4xMIHTSmrHXsoA0qT3) | 2:20 |
 | 56 | [Do It For Myself](https://open.spotify.com/track/4SXZdkt0vQl9Rxsj7yfICY) | [KAIN](https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0) | [Do It For Myself](https://open.spotify.com/album/2Ark73yV8CHbYh4ETAf0WD) | 2:24 |
 | 57 | [Talk To My Body](https://open.spotify.com/track/5NIRs5yzSHnD4lDiZhTyt1) | [J\-MOX](https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Talk To My Body](https://open.spotify.com/album/0lhCnHBthlbwEaQuvvhPWB) | 2:46 |
-| 58 | [Summer Sumwhere](https://open.spotify.com/track/7qIe2Z0VHanQOAgq48x08o) | [JONI](https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS) | [Summer Sumwhere](https://open.spotify.com/album/5YNQfFnOvE01w4flgU7hay) | 2:27 |
+| 58 | [Summer Sumwhere](https://open.spotify.com/track/2FU5HIB4iqKvxSlPAxzvft) | [JONI](https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS) | [Summer Sumwhere](https://open.spotify.com/album/7MabKKcRShWZLvtxBGuM3X) | 2:27 |
 | 59 | [Drop Drop](https://open.spotify.com/track/6MpglAdk45Rc5Byf4T5yQ4) | [Labi Ramaj](https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB), [BASTL](https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB), [WLHELMINA](https://open.spotify.com/artist/0XKPkyNYSExK4hjtSDwBQ4) | [Drop Drop](https://open.spotify.com/album/1EdlrqyfWhsFZ5cor8z2r5) | 2:48 |
 | 60 | [Rock N Roll Style](https://open.spotify.com/track/21UzAA0Sq5Vgaf3OYcqxZ0) | [CALEIDESCOPE](https://open.spotify.com/artist/40Cha4Qon7sdhQIBkZwlQl), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [FSDW](https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw) | [Rock N Roll Style](https://open.spotify.com/album/3ZqaShirb0rDd77DIKiDmj) | 2:54 |
 | 61 | [Insecurities](https://open.spotify.com/track/3Bv7K7WqHXa0u3tdUyEpNg) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Insecurities](https://open.spotify.com/album/3Q8o4LeEkVHn59LLmGBuuw) | 2:58 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 65 | [Tonight I'm Gonna Dance](https://open.spotify.com/track/3kFcllup1aucn7AWLDKqA3) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD) | [Tonight I'm Gonna Dance](https://open.spotify.com/album/3vgkuOQieRHCrNkrloKZSW) | 2:56 |
 | 66 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
 
-Snapshot ID: `AbrcYgAAAAAZU4ZaTbF+EVwASka6QPEy`
+Snapshot ID: `AbriFgAAAAAgTqdS35ojiXT10FDGOjd8`

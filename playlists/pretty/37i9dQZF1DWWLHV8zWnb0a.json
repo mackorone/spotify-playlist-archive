@@ -1,6 +1,6 @@
 {
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
-  "num_followers": 136373,
+  "num_followers": 136420,
   "original_name": "Oscuros 90",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Unintended",
-      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Candyass",
         "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 267000,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Unintended",
+      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -959,8 +959,8 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "To Bring You My Love",
-        "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
+        "name": "Rid Of Me",
+        "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 331600,
-      "name": "To Bring You My Love",
-      "url": "https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5"
+      "duration_ms": 268826,
+      "name": "Rid Of Me",
+      "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Songs For Drella",
-        "url": "https://open.spotify.com/album/4Nyu5zVDr4XV6QOBCqdTrk"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Nobody but You",
-      "url": "https://open.spotify.com/track/1zwtvbJL8H8jG0qbbomS1P"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Obsolete (Special Edition)",
         "url": "https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN"
       },
@@ -1075,6 +1055,26 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
+        "name": "Songs For Drella",
+        "url": "https://open.spotify.com/album/4Nyu5zVDr4XV6QOBCqdTrk"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Nobody but You",
+      "url": "https://open.spotify.com/track/1zwtvbJL8H8jG0qbbomS1P"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
         "name": "Absolute Garbage",
         "url": "https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP"
       },
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Rid Of Me",
-        "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
+        "name": "To Bring You My Love",
+        "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 268826,
-      "name": "Rid Of Me",
-      "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
+      "duration_ms": 331600,
+      "name": "To Bring You My Love",
+      "url": "https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Moon Pix",
-        "url": "https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb"
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Metal Heart",
-      "url": "https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ"
+      "duration_ms": 252853,
+      "name": "Demanufacture",
+      "url": "https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1151,6 +1151,22 @@
       "duration_ms": 246560,
       "name": "Snake Dance",
       "url": "https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Moon Pix",
+        "url": "https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Metal Heart",
+      "url": "https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1183,22 +1199,6 @@
       "duration_ms": 185467,
       "name": "Corpse Pose",
       "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "Demanufacture",
-      "url": "https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi"
     },
     {
       "added_at": "2024-07-12 23:56:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,920 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,918 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 65 | [Spalacz Bud](https://open.spotify.com/track/0XCT3C0W4xwqq2SMBhBci1) | [Dwa Sławy](https://open.spotify.com/artist/1CEONobXawu0XPgPhgTD5a), [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM), [Pers](https://open.spotify.com/artist/6C3KMofGcxnVUqmg8jPgp4), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [Spalacz Bud](https://open.spotify.com/album/7Ks8l532ylRq9mivz6i1rf) | 3:21 |
 | 66 | [MAŁY ŚWIAT](https://open.spotify.com/track/2X4tIXZ7vYiuExKdKyQ52w) | [Kuba Knap](https://open.spotify.com/artist/5Ucwb48hBmaTemwO30vVXa) | [TipiKnapa](https://open.spotify.com/album/7J60viX5whIH74wxAEd8rX) | 5:33 |
 | 67 | [Skills \(IDA 2023 Promo\)](https://open.spotify.com/track/0RNb80kBSHMR8EE9srMLsi) | [Dj Decks](https://open.spotify.com/artist/7rRsXnU1mpJwuBNMwH0Tsn), [Sliwa](https://open.spotify.com/artist/5ZoVDOQ7QxFSqawoJdb6nL), [Donguralesko](https://open.spotify.com/artist/7kaEEK2cQh07aEfEEBd4Hn), [Tommy P\-Nuts](https://open.spotify.com/artist/4a9HSEOJ6VX6ZlahFd3fG8), [Tsuyoshi](https://open.spotify.com/artist/0RGuzRAex5s2URqLyqRx8J), [Is\-k & Dommy](https://open.spotify.com/artist/1VjfZKuR3N63191qJ34hRi) | [Skills \(IDA 2023 Promo\)](https://open.spotify.com/album/2BV8Yg585t3qJYNIjgKnzE) | 3:23 |
-| 68 | [NIE WYGŁUPIAJ SIĘ](https://open.spotify.com/track/1xRnMNPXGVMmvUr8flF7LC) | [Odys](https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm), [Miły ATZ](https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE) | [NIE WYGŁUPIAJ SIĘ](https://open.spotify.com/album/6Q28puuldqm6UnFDjckA7u) | 3:11 |
-| 69 | [BOISKO](https://open.spotify.com/track/3tYDciIf0Yi6M4YVUmrzNs) | [Pięć Dwa Dębiec](https://open.spotify.com/artist/2us3I6vBlyMnrTztfFBaEl), [Hans Solo](https://open.spotify.com/artist/0RGqYHpCdjYsgMDeDYVSmm), [Pięć Dwa](https://open.spotify.com/artist/0o6JrdV7AuUZZCj2CIFqyG) | [BOISKO](https://open.spotify.com/album/0YCsyFi1aHbqybzcYRZppM) | 3:36 |
+| 68 | [BOISKO](https://open.spotify.com/track/3tYDciIf0Yi6M4YVUmrzNs) | [Pięć Dwa Dębiec](https://open.spotify.com/artist/2us3I6vBlyMnrTztfFBaEl), [Hans Solo](https://open.spotify.com/artist/0RGqYHpCdjYsgMDeDYVSmm), [Pięć Dwa](https://open.spotify.com/artist/0o6JrdV7AuUZZCj2CIFqyG) | [BOISKO](https://open.spotify.com/album/0YCsyFi1aHbqybzcYRZppM) | 3:36 |
+| 69 | [NIE WYGŁUPIAJ SIĘ](https://open.spotify.com/track/1xRnMNPXGVMmvUr8flF7LC) | [Odys](https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm), [Miły ATZ](https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE) | [NIE WYGŁUPIAJ SIĘ](https://open.spotify.com/album/6Q28puuldqm6UnFDjckA7u) | 3:11 |
 | 70 | [polonez dla początkujących](https://open.spotify.com/track/6rsBxeaMPY1C9dJZ3mxtZW) | [Afro Kolektyw](https://open.spotify.com/artist/1PHz9tBsAlizVFqzFVSmlk) | [ostatnie słowo](https://open.spotify.com/album/3fx0KMUXyPOQfQjWw1sWMt) | 4:29 |
 | 71 | [Inny Świat](https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG) | [Dobry Dzieciak](https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Wowo](https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0) | [Inny Świat](https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt) | 2:25 |
 | 72 | [2022](https://open.spotify.com/track/0FTOrw5NB3eh5nUkxOt8u4) | [PIH](https://open.spotify.com/artist/4x2dSjOKPB7f2S5moqNGtV) | [2022](https://open.spotify.com/album/1mSuaNOmND4x5K9HnMrVNn) | 5:13 |

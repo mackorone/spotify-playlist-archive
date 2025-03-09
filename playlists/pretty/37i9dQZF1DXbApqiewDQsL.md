@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Janeth Valenzuela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,200 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,208 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 7 | [D’ Cobre](https://open.spotify.com/track/1hI9T1QOGjHNw7ZtDFwWFl) | [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [D’ Cobre](https://open.spotify.com/album/14QwmvmREpx5GTWpjOv9vu) | 3:05 |
 | 8 | [Fvck That](https://open.spotify.com/track/7u6chaUeciRuKZssnMmiy1) | [Compa Steve](https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ) | [Fvck That](https://open.spotify.com/album/0DDkSisxZGXamfdjlmj422) | 4:39 |
 | 9 | [Culiacán Capital](https://open.spotify.com/track/7uEG4aPDGsamWwDM495m7v) | [Archivo Secreto](https://open.spotify.com/artist/12e4Y8c5gHEvNOCAAidKQl) | [Culiacán Capital](https://open.spotify.com/album/4eyjtdE1xlsb2PqxychLPa) | 3:32 |
-| 10 | [New Mind](https://open.spotify.com/track/04pq22YIYOiz1ETVfA3tAu) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [New Mind](https://open.spotify.com/album/56nnJx2zt6OpO9NjeDKF0q) | 2:29 |
+| 10 | [New Mind](https://open.spotify.com/track/04pq22YIYOiz1ETVfA3tAu) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [New Mind](https://open.spotify.com/album/56nnJx2zt6OpO9NjeDKF0q) | 2:24 |
 | 11 | [Tiempo al Tiempo](https://open.spotify.com/track/2bjB4gZ22ClkVgfgPdeDit) | [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8) | [Tiempo al Tiempo](https://open.spotify.com/album/7pq3SepksUumwgzAUyHU42) | 2:05 |
 | 12 | [Y Sé](https://open.spotify.com/track/76ufRQiUlajyFO6fAgAxzN) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Y Sé](https://open.spotify.com/album/1DiL6k0glC4sYYNNB7i5fB) | 3:29 |
 | 13 | [Recio](https://open.spotify.com/track/4LKxIk66TYguGoTM8lo7sP) | [Estilo Real](https://open.spotify.com/artist/4bsgB9vTxAXje3cGitRbFN) | [Recio](https://open.spotify.com/album/0a9jHHEwC6JV91qyLCSyug) | 2:23 |

@@ -1285,6 +1285,28 @@
     },
     {
       "album": {
+        "name": "Only God Knows",
+        "url": "https://open.spotify.com/album/0kvNhrR0LLNPiGQbHYQhwX"
+      },
+      "artists": [
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246861,
+      "name": "Only God Knows",
+      "url": "https://open.spotify.com/track/0H8C3HyC1pK75EI06SVYZd"
+    },
+    {
+      "album": {
         "name": "Waylon & Willie III",
         "url": "https://open.spotify.com/album/138S8GterIlZRtIQCzMeml"
       },

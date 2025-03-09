@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,206 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,210 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 39 | [Ciumenta](https://open.spotify.com/track/35fWcHV5Q9KQtaPN7n9Djl) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Ciumenta](https://open.spotify.com/album/3gifZCkuuSjonKk7YVcR3b) | 2:30 |
 | 40 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |
 | 41 | [Águas Passadas](https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Águas Passadas](https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc) | 2:38 |
-| 42 | [Saia Rodada](https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Saia Rodada](https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4) | 4:09 |
-| 43 | [Doce](https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Doce](https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH) | 2:35 |
+| 42 | [Doce](https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Doce](https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH) | 2:35 |
+| 43 | [Saia Rodada](https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Saia Rodada](https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4) | 4:09 |
 | 44 | [Pu'ce](https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Pu'ce](https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C) | 2:45 |
 | 45 | [Sossega \(Nada mal\)](https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d) | [Thalia Abdon](https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Peninha'](https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7) | [Sossega \(Nada Mal\)](https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt) | 3:21 |
 | 46 | [Natureza](https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Natureza](https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd) | 2:24 |

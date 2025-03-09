@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Rosario.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,543 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,645 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 20 | [Bien de Amores](https://open.spotify.com/track/5OlMOPflVCBxncW8ME1RL1) | [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [Bien de Amores](https://open.spotify.com/album/5GfiJvBbaNOdnxh24CiZQ4) | 3:42 |
 | 21 | [Amándote](https://open.spotify.com/track/3L9YDDTfapwfkqiTAqmwL4) | [Las Rodes](https://open.spotify.com/artist/3ZNLwVLzrOCDyWMaqiaQoc) | [Amándote](https://open.spotify.com/album/6w2pnh2vzWKjHyYADoNB0J) | 3:06 |
 | 22 | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/track/2srJ8wZ7AJaPP5Q1p48e0N) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/album/2H1bgQIXX0yLMYXG77cUfq) | 2:57 |
-| 23 | [sé que me amarás](https://open.spotify.com/track/4KtiGbGOkrHz5lpQBW7U1a) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P) | [sé que me amarás](https://open.spotify.com/album/0C8iShZTakBTz0MuRSJeRp) | 2:55 |
+| 23 | [SÉ QUE ME AMARÁS](https://open.spotify.com/track/4KtiGbGOkrHz5lpQBW7U1a) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P) | [SÉ QUE ME AMARÁS](https://open.spotify.com/album/0C8iShZTakBTz0MuRSJeRp) | 2:56 |
 | 24 | [Sin Ti No Soy Nada](https://open.spotify.com/track/6RMGL6PC0Zt1GHkSiWH2OU) | [Ángeles Toledano](https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW) | [Sin Ti No Soy Nada](https://open.spotify.com/album/76mlb4FPekl0shQYIQ5MbK) | 3:54 |
 | 25 | [Palabras De Papel](https://open.spotify.com/track/2bWs3oGp6GmxIwWmDbJecv) | [Lorena Santos](https://open.spotify.com/artist/5ACW0L3lAgfRihTOhV8awe) | [Palabras De Papel](https://open.spotify.com/album/69A7oKKLic66yhRM9yLkUI) | 3:16 |
 | 26 | [Luces encendidas](https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Mar de Ardora](https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq) | 4:28 |

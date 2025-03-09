@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-577 songs - 2 day 0 hr 6 min
+578 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All Inclusive](https://open.spotify.com/track/4lT5XiuLmM8oeRsjsyuAXy) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 6:27 | 2021-12-08 | 2022-01-15 |
 | [All my secrets](https://open.spotify.com/track/73gFw7VPxLVczMDUBVZ4NT) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [All my secrets](https://open.spotify.com/album/5jq96lwsjAZtU6mVyWEMLq) | 2:54 | 2024-10-04 |  |
 | [All Night Long](https://open.spotify.com/track/5YQQ9zU5mxgQcKDC3YSHnd) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [All Night Long](https://open.spotify.com/album/6dhfq40XcSorQ05h7RC7Ts) | 3:58 | 2023-02-03 |  |
+| [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 | 2025-03-07 |  |
 | [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-16 |  |
 | [Alleghanys](https://open.spotify.com/track/3awOKjYfWhKg9MqHZoN831) | [Mitch Oliver](https://open.spotify.com/artist/1ckj2vv3RFouOkfBd8PxiJ) | [Alleghanys](https://open.spotify.com/album/40X8cf3IfXsqsARey9SPie) | 6:41 | 2021-12-08 | 2023-08-20 |
 | [Altitude](https://open.spotify.com/track/0jfawsq3wQKUtvoBfQRlPK) | [Hidden Voices](https://open.spotify.com/artist/7nm1s5jeLUOtV654BErfeu) | [Altitude](https://open.spotify.com/album/7d2R3XGaesuYEhQWEKpjE0) | 4:14 | 2024-01-26 |  |
@@ -155,7 +156,7 @@
 | [Feed The Fire \- Kassian Remix](https://open.spotify.com/track/4xpTM1MCKhY91OGiOhHNf5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Feed The Fire \(Kassian Remix\)](https://open.spotify.com/album/7wxfJfJN8u2TrkP8dCpOgb) | 5:04 | 2021-12-08 | 2024-07-13 |
 | [Feedback](https://open.spotify.com/track/4Io7rS6x4YWYK99UdnBFkc) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Feedback](https://open.spotify.com/album/4HBmxwMuOrLBuyQjrS9FxB) | 5:58 | 2024-01-26 |  |
 | [FEEL](https://open.spotify.com/track/3xVmdUM5hgmLYzndh8FMz7) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [FEEL](https://open.spotify.com/album/0EaHTIUCFrPWr1AahAo86D) | 3:28 | 2024-04-12 | 2024-10-12 |
-| [Feel My Love](https://open.spotify.com/track/4ba2rqxxNcXQ5rfWZMo1Q1) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [SkyReacher](https://open.spotify.com/album/4fKaOHXcPHsqbL7UZYJKHK) | 6:44 | 2024-04-12 |  |
+| [Feel My Love](https://open.spotify.com/track/4ba2rqxxNcXQ5rfWZMo1Q1) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [SkyReacher](https://open.spotify.com/album/4fKaOHXcPHsqbL7UZYJKHK) | 6:44 | 2024-04-12 | 2025-03-09 |
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-04-26 |  |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-12-08 | 2024-04-13 |
 | [Fig Spread](https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB) | [Aspetuck](https://open.spotify.com/artist/0GkeJJhTM5XDaT8iuRl0gd) | [Aspetuck 002](https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1) | 5:51 | 2021-12-08 | 2022-07-21 |

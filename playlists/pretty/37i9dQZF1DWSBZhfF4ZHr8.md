@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Styleto
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,391 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,402 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 13 | [BABY](https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BABY](https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp) | 2:35 |
 | 14 | [On dort](https://open.spotify.com/track/3kooOutN1DnjDmDoVBos2Y) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [On dort](https://open.spotify.com/album/0OUEWqcp3XPSf3IFxpzwPi) | 2:38 |
 | 15 | [Seul ici](https://open.spotify.com/track/5NgTH6KDb2aOIleC9XZkQH) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx) | [Seul ici](https://open.spotify.com/album/4ZtyeiFtPwkBhZUXBIZAPh) | 3:13 |
-| 16 | [Courage \- Edit](https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Courage \(Edit\)](https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n) | 3:00 |
+| 16 | [Courage \- Edit](https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Courage \(Edit\)](https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n) | 3:00 |
 | 17 | [Avec ou sans](https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamin des sables](https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW) | 2:52 |
 | 18 | [Rien qu'ça](https://open.spotify.com/track/237WM1VgB4TEGTXcUpCqnL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur](https://open.spotify.com/album/0WgY5ocBEP23tJiAMgawBv) | 2:33 |
 | 19 | [Abuelito](https://open.spotify.com/track/0ErYFIfaBolQss5NKdvdhC) | [Anthony Soto](https://open.spotify.com/artist/2blhvivHK3BmOLf1HQeQ6k) | [Abuelito](https://open.spotify.com/album/69lB7oDyFfSlsgVQLOCRnz) | 2:45 |

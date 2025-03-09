@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Yeule
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290,171 likes - 173 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,268 likes - 173 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 19 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 |
 | 20 | [There Goes My Baby](https://open.spotify.com/track/10E3rJTsVL3Xfop80TbUvo) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [There Goes My Baby](https://open.spotify.com/album/0z3Cp5HFJnuejenCK20v6Y) | 2:26 |
 | 21 | [Square Pegs In Round Holes](https://open.spotify.com/track/5PMFasm2jY0zfp16iaWfAx) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Chewing The Fat](https://open.spotify.com/album/7K0aniOTtJV04v9lCqLODa) | 3:33 |
-| 22 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:32 |
+| 22 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 |
 | 23 | [We Confront the Demon in Mysterious Ways](https://open.spotify.com/track/7K5xCYBC1oCCb3mv3EXUUP) | [fantasy of a broken heart](https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe) | [We Confront the Demon in Mysterious Ways](https://open.spotify.com/album/5m0zF52BT9p2iqDQrYlkd1) | 4:53 |
 | 24 | [Animal Death Already Breathing](https://open.spotify.com/track/2k2USr0srRydgTSilsEz4r) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Animal Death Already Breathing](https://open.spotify.com/album/2Ts2zLCzEWBnu2wTfcGgpA) | 2:39 |
 | 25 | [Dreamwalker](https://open.spotify.com/track/23uR4x3phNG5aNyBAoxIzY) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Until The Tunnel Vision Melts](https://open.spotify.com/album/0CzUd5EuufBaMTK2p7w7Dh) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,444 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,456 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 7 | [Bunky flues](https://open.spotify.com/track/7rTOyzyBu2BnpFc3MkrSEl) | [Thomas Leleu](https://open.spotify.com/artist/1fgptfnDkurkPTIUPBTo6h) | [On Tour](https://open.spotify.com/album/1AnldJAf4toWcf1KOMUqMd) | 3:59 |
 | 8 | [MONTREUX PALACE](https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [TAKE 01](https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA) | 2:42 |
 | 9 | [Blue Velvet](https://open.spotify.com/track/0GM5TLIDisw4byhnkPGDF8) | [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Tigre d'Eau Douce](https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k) | [EDEN BEACH CLUB \(Edition Deluxe\)](https://open.spotify.com/album/60krs1IYZybRvmCsBMuOyh) | 5:03 |
-| 10 | [Tic Tac](https://open.spotify.com/track/30krkvIJTCFycVhdhAhMH9) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA), [Mélanie Chédeville](https://open.spotify.com/artist/4EGG2sH6Qnww7MrGtSyny3) | [Tic Tac](https://open.spotify.com/album/7GX1eSH9vSl6Vc5vitzhXK) | 3:37 |
+| 10 | [Tic Tac \(feat\. Mélanie Chedeville\)](https://open.spotify.com/track/30krkvIJTCFycVhdhAhMH9) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA), [Mélanie Chédeville](https://open.spotify.com/artist/4EGG2sH6Qnww7MrGtSyny3) | [Tic Tac \(feat\. Mélanie Chedeville\)](https://open.spotify.com/album/7GX1eSH9vSl6Vc5vitzhXK) | 3:37 |
 | 11 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/3dmUgRVy8xPsNJ9TO1Y5iX) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [Ev’ry Time We Say Goodbye](https://open.spotify.com/album/3Z5sSL7iI1G0GvbxY3GWIp) | 4:43 |
 | 12 | [Long Story Short](https://open.spotify.com/track/4ikG0zxuFINnTcaxCbW4RD) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Orlando Le Fleming](https://open.spotify.com/artist/6SW6dyOPmcKpO0ZwiUDZj5), [Mark Whitfield Jr.](https://open.spotify.com/artist/5E0blTIGjZLSHXBhXmjYgl), [Alexis Valet](https://open.spotify.com/artist/1VBaICEeEhOKIPra2zkbD4), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv) | [Long Story Short](https://open.spotify.com/album/1lSG9GKeYCczhhThAo2ElK) | 6:30 |
 | 13 | [Angel Dust](https://open.spotify.com/track/0gOgocqgGNWtu7QTLbbJvp) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Angel Dust](https://open.spotify.com/album/5gf0ESeC85bxRWhInpWUR7) | 4:04 |

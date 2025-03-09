@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Ben Figueroa Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,603 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,628 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 3 | [WHO HURT U](https://open.spotify.com/track/66tG0WH7bfXXsr5wCSNLwr) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [WHO HURT U](https://open.spotify.com/album/6JRB2vzeOUUAWPamY4A9GL) | 2:59 |
 | 4 | [parusa](https://open.spotify.com/track/5qp5iPkM8GAkzizbTGrmo5) | [Idlepitch](https://open.spotify.com/artist/2ESvhcEkq7S1SK2Ca11Ldc) | [parusa](https://open.spotify.com/album/7IlhrcHbh0LVr741YYVzIq) | 4:14 |
 | 5 | [Kickstart](https://open.spotify.com/track/4axJhocYG1CvAdlycWz0FQ) | [Ben Figueroa](https://open.spotify.com/artist/4lMS9CtL9o0qR00YqEASx2) | [Kickstart](https://open.spotify.com/album/5i4Yy67wmZTaUD5ybk8ISc) | 5:15 |
-| 6 | [Kalaban](https://open.spotify.com/track/3ImjcKyIfIGncrvAztaGyy) | [Zynfinity](https://open.spotify.com/artist/3hhvszAhc2fpQ8Sm6HmQhr), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Kalaban](https://open.spotify.com/album/1zF93p6J59ifj4m21OudHS) | 3:20 |
+| 6 | [Kalaban](https://open.spotify.com/track/3ImjcKyIfIGncrvAztaGyy) | [Zynfinity](https://open.spotify.com/artist/3hhvszAhc2fpQ8Sm6HmQhr), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Kalaban](https://open.spotify.com/album/1zF93p6J59ifj4m21OudHS) | 4:09 |
 | 7 | [Broke Boys \(feat\. Binibining Beats\)](https://open.spotify.com/track/05Jo9s5Z8uoYnjGfLiJT1J) | [Mitchie](https://open.spotify.com/artist/7mg0xXiyQngsjIokEuy1Vw), [Binibining Beats](https://open.spotify.com/artist/3bbH27iF0vMZagGKM3Qde5) | [Broke Boys \(feat\. Binibining Beats\)](https://open.spotify.com/album/78Gj10HVUVZFcPc0clw9Rk) | 2:15 |
 | 8 | [FIRE FIRE \(feat\. Love Morillo & Ella Yee\)](https://open.spotify.com/track/3M1rUsJCw6txfqOqSi8Tdr) | [Introvert Fiesta](https://open.spotify.com/artist/1lJ1Rc8s6XhP5jzmuJTXZ9), [Love Morillo](https://open.spotify.com/artist/3JUR6rW7JdWMIndS4cYyFi), [Ella Yee](https://open.spotify.com/artist/5LZkbN15UE0vF1g0kX7qL8) | [FIRE FIRE \(feat\. Love Morillo & Ella Yee\)](https://open.spotify.com/album/2fP82lf4Rfe2I0hgyNCReN) | 2:40 |
 | 9 | [Let Me Know](https://open.spotify.com/track/5ATlaen60NxlAHrTD63NtF) | [AlxndR](https://open.spotify.com/artist/2fNsLoj9guPoPMkw8ideeO) | [Let Me Know](https://open.spotify.com/album/1RQbmZEr7nCIQUEGm1xLHt) | 2:30 |

@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-43 songs - 4 hr 33 min
+44 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All for You](https://open.spotify.com/track/15gf18OnA0FyhPnNhH2BNz) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Joshua Brennt](https://open.spotify.com/artist/5t40yB32RGnzTLYiAOzYHp), [Eileen Walker](https://open.spotify.com/artist/7BqZuUoZOp35JWycY6noej) | [Garage Sessions](https://open.spotify.com/album/7sYRMyfJUnM4mmtq1RU3jf) | 5:13 | 2025-01-09 |  |
+| [Another Wave \- Live](https://open.spotify.com/track/2GEK9vFWwJglFbWL51S5T6) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Chloe Mack](https://open.spotify.com/artist/4dmgGw3d4aIazEIFp5Nmzd) | [Every Nation \(Live\)](https://open.spotify.com/album/0ypMDJZ7SxjaFnY17OEoSx) | 6:53 | 2025-03-08 |  |
 | [ASK](https://open.spotify.com/track/46jbDPyIehx46S05t3GBbo) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Before The Breakthrough](https://open.spotify.com/album/3Tg4oCrveWBzTLwrj9Bbxv) | 3:59 | 2024-06-13 |  |
 | [Be Glorified \- Live](https://open.spotify.com/track/0a0hccemmo7qMCkxtXQdeg) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 7:26 | 2024-06-13 |  |
 | [Behold \(The King Is Calling\) \- Live](https://open.spotify.com/track/5B4Y3nTIUB3BQBrTEFHHd6) | [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [The King Is Calling \(Live\)](https://open.spotify.com/album/4X32ypJuS9uJhv0X9LyiUH) | 13:29 | 2024-06-13 |  |

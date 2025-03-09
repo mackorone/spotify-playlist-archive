@@ -8625,6 +8625,36 @@
     },
     {
       "album": {
+        "name": "Solfa",
+        "url": "https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Rindss",
+          "url": "https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn"
+        },
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194380,
+      "name": "Solfa",
+      "url": "https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP"
+    },
+    {
+      "album": {
         "name": "Something On My Mind (Solomun Remix) (feat. Nothing But Thieves)",
         "url": "https://open.spotify.com/album/5Nhg2ajevsFpPQM2wwccGH"
       },
@@ -9642,7 +9672,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-09",
       "duration_ms": 165000,
       "name": "Touch",
       "url": "https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G"

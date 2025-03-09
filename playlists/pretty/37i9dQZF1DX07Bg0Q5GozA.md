@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: WhoMadeWho
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,504 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,497 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 |
 | 2 | [Everybody](https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Everybody](https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj) | 6:34 |
 | 3 | [Square Pegs In Round Holes](https://open.spotify.com/track/5PMFasm2jY0zfp16iaWfAx) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Chewing The Fat](https://open.spotify.com/album/7K0aniOTtJV04v9lCqLODa) | 3:33 |
-| 4 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:32 |
+| 4 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 |
 | 5 | [Acacia](https://open.spotify.com/track/4E6Huz0MjXJHKFE0SFPDaq) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv), [Post Meridiem](https://open.spotify.com/artist/4nXTmOzMhTsRt6vNjelLZN), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Acacia](https://open.spotify.com/album/5FtiWw2JwiavWN6TxOH1EW) | 3:44 |
 | 6 | [Close \- The Dare Remix](https://open.spotify.com/track/272WAMT7l0kMJLqlcNBPlA) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Close \(The Dare Remix\)](https://open.spotify.com/album/7qG3vzHHOy07lVTG4VJjgc) | 4:30 |
 | 7 | [Room333](https://open.spotify.com/track/5cLQee4gGYNJICVYNvrsP9) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Room333](https://open.spotify.com/album/0izv1Zqu92mh9DMBsxQkca) | 3:00 |

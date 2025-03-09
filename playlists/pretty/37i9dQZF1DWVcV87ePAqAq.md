@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,063 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,038 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 48 | [Vill du ligga med mig?](https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Vill du ligga med mig?](https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3) | 2:22 |
 | 49 | [Kör Ba' Kör](https://open.spotify.com/track/6Mxe947VeRmLuH6L1GBb9i) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [Kör Ba' Kör](https://open.spotify.com/album/4LucKKKFW44J8bzkCV0VUK) | 2:30 |
 | 50 | [PO PO PULL UP](https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [PO PO PULL UP](https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z) | 2:21 |
-| 51 | [Leva/Dö](https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Leva/Dö](https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X) | 2:32 |
-| 52 | [Sun Goes Up](https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Sun Goes Up](https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT) | 2:13 |
+| 51 | [Sun Goes Up](https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Sun Goes Up](https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT) | 2:13 |
+| 52 | [Leva/Dö](https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Leva/Dö](https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X) | 2:32 |
 | 53 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 |
 | 54 | [VOI TILL MIN FUCKBOI](https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [VOI TILL MIN FUCKBOI](https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT) | 2:22 |
 | 55 | [Sommarnätter](https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Sommarnätter](https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu) | 2:24 |

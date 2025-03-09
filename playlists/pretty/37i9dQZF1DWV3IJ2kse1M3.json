@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u9084\u662f\u653e\u4e0d\u4e0b\u4f60 \u771f\u7684\u53ef\u60dc \u6211\u5728\u4e5f\u7121\u80fd\u70ba\u529b \u7e7c\u7e8c\u611b\u4f60\u3002",
-  "num_followers": 186246,
+  "num_followers": 186266,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u4f9d\u7136\u8303\u7279\u897f",
-        "url": "https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "\u9000\u5f8c",
-      "url": "https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 321629,
       "name": "\u80cc\u53db",
       "url": "https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u4f9d\u7136\u8303\u7279\u897f",
+        "url": "https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "\u9000\u5f8c",
+      "url": "https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
+        "name": "\u7d42\u6975X\u5bbf\u820d (\u96fb\u8996\u539f\u8072\u5e36)",
+        "url": "https://open.spotify.com/album/2a5CoKCwgX3PStnMOnyJle"
+      },
+      "artists": [
+        {
+          "name": "Diana Wang",
+          "url": "https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "\u611b\u5b58\u5728",
+      "url": "https://open.spotify.com/track/20eQ3szxVA3Ulq9Mgvu3yM"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
         "name": "\u771f\u5be6",
         "url": "https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 286239,
       "name": "\u8a18\u5f97",
       "url": "https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
-        "name": "\u7d42\u6975X\u5bbf\u820d (\u96fb\u8996\u539f\u8072\u5e36)",
-        "url": "https://open.spotify.com/album/2a5CoKCwgX3PStnMOnyJle"
-      },
-      "artists": [
-        {
-          "name": "Diana Wang",
-          "url": "https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "\u611b\u5b58\u5728",
-      "url": "https://open.spotify.com/track/20eQ3szxVA3Ulq9Mgvu3yM"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u9818\u609f",
-        "url": "https://open.spotify.com/album/52A4RSFC5F2DKUb4LHAYtM"
-      },
-      "artists": [
-        {
-          "name": "Winnie Hsin",
-          "url": "https://open.spotify.com/artist/75UZxcclb8ahAZl69xMKLJ"
-        }
-      ],
-      "duration_ms": 294826,
-      "name": "\u9818\u609f",
-      "url": "https://open.spotify.com/track/0nRIRTq9pPN3lPc5kUoyFJ"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
         "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 349541,
       "name": "\u82ac\u862d\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u9818\u609f",
+        "url": "https://open.spotify.com/album/52A4RSFC5F2DKUb4LHAYtM"
+      },
+      "artists": [
+        {
+          "name": "Winnie Hsin",
+          "url": "https://open.spotify.com/artist/75UZxcclb8ahAZl69xMKLJ"
+        }
+      ],
+      "duration_ms": 294826,
+      "name": "\u9818\u609f",
+      "url": "https://open.spotify.com/track/0nRIRTq9pPN3lPc5kUoyFJ"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
+        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
+        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 260958,
+      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
+      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
         "name": "\u64e6\u8072\u800c\u904e",
         "url": "https://open.spotify.com/album/7z7KNMXDU1qjXBxPVEMnV7"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
-        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+        "name": "\u6eab\u5f0f\u6548\u61c9",
+        "url": "https://open.spotify.com/album/33GHPmLtQLYOvocmn0iAZ7"
       },
       "artists": [
         {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+          "name": "Landy Wen",
+          "url": "https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj"
         }
       ],
-      "duration_ms": 260958,
-      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
-      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+      "duration_ms": 258573,
+      "name": "\u795d\u6211\u751f\u65e5\u5feb\u6a02",
+      "url": "https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -811,22 +827,6 @@
       "duration_ms": 261249,
       "name": "\u6f14\u54e1",
       "url": "https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
-        "name": "\u6eab\u5f0f\u6548\u61c9",
-        "url": "https://open.spotify.com/album/33GHPmLtQLYOvocmn0iAZ7"
-      },
-      "artists": [
-        {
-          "name": "Landy Wen",
-          "url": "https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "\u795d\u6211\u751f\u65e5\u5feb\u6a02",
-      "url": "https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88"
     }
   ],
   "unique_name": "\u60b2\u50b7\u91cb\u653e",

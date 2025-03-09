@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,222 songs - 5 day 0 hr 19 min
+2,223 songs - 5 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1203,6 +1203,7 @@
 | [Love Me Now](https://open.spotify.com/track/3mtzh5163ltjqu4J5gLwSV) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [Love Me Now](https://open.spotify.com/album/1oYfAY7ppfDpOVUK2cgodg) | 3:31 | 2025-02-06 | 2025-02-14 |
 | [Love Spell](https://open.spotify.com/track/0fjN6JXHE5CS03lUp6DHlk) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Dave Summer](https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5) | [Love Spell](https://open.spotify.com/album/7CF7PF1YvnPkuziTrWvfQW) | 3:02 | 2025-01-17 | 2025-01-24 |
 | [Love Takes Over](https://open.spotify.com/track/4cGhsEZuHW25c7njXpSx2v) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Love Takes Over](https://open.spotify.com/album/794yfQdOCAI93WHwTkVEro) | 2:57 | 2024-06-28 | 2024-07-06 |
+| [Love That Grooves My Heart](https://open.spotify.com/track/0vTHuCiyIV8ZBehWylgAGn) | [TRONIQ](https://open.spotify.com/artist/7xV87aLKIqjESEsoN9xOJE) | [Love That Grooves My Heart](https://open.spotify.com/album/4H1W5pqj9PQZtjVQLdqN4V) | 3:51 | 2025-03-08 |  |
 | [Love The Way You Lie \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/0KEQ6X89UPO4wUFjLoIERl) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Love The Way You Lie \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/5P3i2e0G7OZFlHW6k01qNE) | 2:40 | 2024-10-25 | 2024-11-01 |
 | [Love You for the Summer](https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You for the Summer](https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW) | 2:52 | 2024-07-25 | 2024-08-02 |
 | [Loving You](https://open.spotify.com/track/4XJc03xO7UTg4T8V3EYcpn) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Loving You](https://open.spotify.com/album/6kKOqFC54kKZsfkxLAXXdz) | 2:29 | 2025-01-10 | 2025-01-18 |

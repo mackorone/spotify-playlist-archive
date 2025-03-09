@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 46,443 likes - 124 songs - 6 hr 37 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 46,462 likes - 124 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sophia](https://open.spotify.com/track/05GJ75nb4P8wqwwJGm7ksa) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 3:41 |
 | 2 | [Forget U](https://open.spotify.com/track/7FgjoiSwkVAHHUAzubUTc5) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Forget U](https://open.spotify.com/album/6B6rKxe9yVNtMGrQztaTLO) | 2:33 |
-| 3 | [Empty Space](https://open.spotify.com/track/4aFOUWe1rXMzXt3HOmClNv) | [Somewhere Sun](https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg), [Jess Josie Lee](https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz) | [Empty Space](https://open.spotify.com/album/2ap4ZMjVEzt6ssFqmlB0t7) | 3:34 |
+| 3 | [Empty Space](https://open.spotify.com/track/4aFOUWe1rXMzXt3HOmClNv) | [Somewhere Sun](https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg) | [Empty Space](https://open.spotify.com/album/2ap4ZMjVEzt6ssFqmlB0t7) | 3:34 |
 | 4 | [Better](https://open.spotify.com/track/7nULLZfM0aRxYwffvvi0ky) | [Kayslee Don Collins](https://open.spotify.com/artist/3GBM7HxzkACZVPM9APdDZH) | [Better](https://open.spotify.com/album/2nHhQJuwuevXOkLs4rNwUw) | 3:36 |
 | 5 | [What You're Made Of](https://open.spotify.com/track/4tfvT0fBOygN08zCuVr46f) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [What You're Made Of](https://open.spotify.com/album/7aTE0PUhLFm7fjT5VuKgc3) | 3:27 |
 | 6 | [Steal Wool](https://open.spotify.com/track/4XITM4Q8kxFs8mX7rlX81F) | [PremRock](https://open.spotify.com/artist/13kiuNRHlROJeT7L15o7vi), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Sebb Bash](https://open.spotify.com/artist/3NAVgoymGp2cN3rlqi7Hu5) | [Steal Wool](https://open.spotify.com/album/14vNfOxeJ4fdYSgBW4htBb) | 2:58 |

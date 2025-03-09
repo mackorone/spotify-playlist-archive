@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: wannasleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,419 likes - 121 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,420 likes - 121 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

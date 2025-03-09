@@ -4,7 +4,7 @@
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。3月4日付。
 
-4,492 songs - 11 day 5 hr 9 min
+4,493 songs - 11 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1255,7 +1255,8 @@
 | [iris](https://open.spotify.com/track/63mR8YjEoMajP2hlQMgCUu) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [iris / pray for peace](https://open.spotify.com/album/4SxRwAlnfZVpPF7DEVrvtZ) | 3:27 | 2024-02-02 | 2024-02-04 |
 | [Iris](https://open.spotify.com/track/2BrgJY7MBAZdltpkxwGonm) | [BUDDiiS](https://open.spotify.com/artist/68hd7ONzgN98uAZDWMlmAQ) | [Iris](https://open.spotify.com/album/59sK6wPxvNEblNreNebzzq) | 3:30 | 2025-01-27 | 2025-01-28 |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-11-04 | 2023-11-25 |
-| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2024-11-29 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2024-11-29 | 2025-03-09 |
+| [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-08 |  |
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2023-07-18 | 2023-07-31 |
 | [It's a piece of cake](https://open.spotify.com/track/6HIIjoK4W36ZzJz3bdBSFB) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [It's a piece of cake](https://open.spotify.com/album/05uOqKsjHjMu9frNzuquot) | 3:03 | 2024-04-12 | 2024-04-16 |
 | [It's a Sweetsful Time!](https://open.spotify.com/track/3g9ZBzcTCKP0fPHAHKkmTM) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [Vanellope's Sweet Pop World](https://open.spotify.com/album/2x1DBnehQCP4zTIagOQjP1) | 21:47 | 2025-01-20 | 2025-01-24 |

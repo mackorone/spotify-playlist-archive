@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-405 songs - 1 day 15 hr 29 min
+406 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Quão Grande é o Meu Deus](https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Grande É O Meu Deus](https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq) | 5:25 | 2023-02-03 |  |
 | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7) | 4:04 | 2022-09-09 | 2023-01-14 |
 | [Raridade](https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:57 | 2022-09-09 | 2024-06-22 |
-| [Raridade \(Releitura\)](https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Raridade \(Releitura\)](https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj) | 4:16 | 2024-09-06 |  |
+| [Raridade \(Releitura\)](https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Raridade \(Releitura\)](https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj) | 4:16 | 2024-09-06 | 2025-03-09 |
 | [Reacende a Chama \- Ao Vivo](https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Reacende a Chama \(Ao Vivo\)](https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc) | 7:57 | 2024-08-30 |  |
 | [Recebo a Vida \- Ao Vivo](https://open.spotify.com/track/4aZteh08WVxvTDjAWdGWYi) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Recebo a Vida \- Ao Vivo](https://open.spotify.com/album/1jBKZa8IyMgyURntDB1VAt) | 7:02 | 2023-10-20 | 2024-08-17 |
 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 | 2022-09-09 | 2023-08-19 |
@@ -383,6 +383,7 @@
 | [Unção Pelo Ar \- Ao Vivo](https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Nívea Izabella](https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ) | [Unção Pelo Ar \(Ao Vivo\)](https://open.spotify.com/album/1vf5HDDGqzLvBsNV92pA22) | 10:41 | 2024-04-26 |  |
 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 | 2022-09-09 | 2023-03-12 |
 | [Vai Valer a Pena](https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Pra que outros possam viver](https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h) | 6:26 | 2022-09-09 | 2024-12-21 |
+| [Vencido \- Live](https://open.spotify.com/track/3qxlmfkJIQI6iLoncBQa8A) | [Lakewood Music Español](https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Vencido \(Live\)](https://open.spotify.com/album/2kh9Yrv0RwSEpiRYxKbgjV) | 8:19 | 2025-03-07 |  |
 | [Vento Impetuoso](https://open.spotify.com/track/7rV0gKsZndQeQ3OhXxoAGM) | [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4), [Filipe Bitencourt](https://open.spotify.com/artist/12eLZflwp21B3NNLVlKKsR) | [Vento Impetuoso \(ao vivo\)](https://open.spotify.com/album/0Hh7iFFwGykH9FaPiA5MRJ) | 6:38 | 2024-06-28 | 2024-07-19 |
 | [Verdadeira Adoração \- Ao Vivo](https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE) | [Vitória Lima](https://open.spotify.com/artist/3gLt37xxZ7gMhLeoymcJeW) | [Verdadeira Adoração \(Ao Vivo\)](https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek) | 6:07 | 2025-01-31 |  |
 | [Vida \- Ao Vivo](https://open.spotify.com/track/5BRY9EOYsV2TtB8qm43GHf) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2EgB2hkSzkIb1hl6ukjXgA) | 4:18 | 2023-09-25 | 2023-10-20 |

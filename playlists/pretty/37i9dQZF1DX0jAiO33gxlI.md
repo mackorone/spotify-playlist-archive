@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Clara Lima, Luedji Luna, Cynthia Luz, Negra Li, Boombeat, Azzy, Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,639 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,649 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 46 | [Sem Deslumbre](https://open.spotify.com/track/6SRufZv8oU62EDoVHHN9et) | [Lu Bauer](https://open.spotify.com/artist/4c8moNfS5RJsBAJFeAJwPR) | [Sem Deslumbre](https://open.spotify.com/album/0GKVzZsylMjSWlhVOopoI7) | 2:52 |
 | 47 | [Modo Carreira \(feat\. Veigh\)](https://open.spotify.com/track/2I930q22UY4zvVnpkSgsfD) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 3:02 |
 | 48 | [Raf Simons](https://open.spotify.com/track/4fM6WB7R84fUKEMdYsQtVd) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Raf Simons](https://open.spotify.com/album/2LSRJabmk42ylzK2UFoxGd) | 2:44 |
-| 49 | [Fiz Um Samba Pra Ela](https://open.spotify.com/track/0Ta6Ofe8dMgweTjeRtZRQb) | [Dory de Oliveira](https://open.spotify.com/artist/1UbxAwPgZUfLcItrQw4bWr), [kiko de sousa](https://open.spotify.com/artist/2NA6u5A9JtHxwmBydfRDdu), [MxM](https://open.spotify.com/artist/4aPJtQduDm1E21WI3LgiF6) | [A Volta da Malandra](https://open.spotify.com/album/4VXHwOWbGeQJbnmKqxwdUP) | 3:10 |
+| 49 | [Fiz Um Samba Pra Ela](https://open.spotify.com/track/0Ta6Ofe8dMgweTjeRtZRQb) | [Dory de Oliveira](https://open.spotify.com/artist/1UbxAwPgZUfLcItrQw4bWr), [Kiko de Sousa](https://open.spotify.com/artist/2NA6u5A9JtHxwmBydfRDdu), [MxM](https://open.spotify.com/artist/4aPJtQduDm1E21WI3LgiF6) | [A Volta da Malandra](https://open.spotify.com/album/4VXHwOWbGeQJbnmKqxwdUP) | 3:10 |
 | 50 | [Tóxico \(with Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
 | 51 | [Nunca Tenha Medo](https://open.spotify.com/track/3VoOJIr5YuAs2L3XHFWZRB) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Nunca Tenha Medo](https://open.spotify.com/album/5DJROt39dDSYnuw80kho6p) | 2:51 |
 | 52 | [Depois Que a Água Baixou](https://open.spotify.com/track/4v2cskfAu56AFuPsD57MBA) | [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [Servo](https://open.spotify.com/artist/22ALRZgTWdrb3cJnA9GAst), [Sujoground](https://open.spotify.com/artist/2sngdu3B3WLqIsadMhHDa2) | [Depois Que a Água Baixou](https://open.spotify.com/album/6uWhJ9wZZHns07u8xs5tbR) | 2:43 |

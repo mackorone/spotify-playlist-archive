@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: The Down Troddence
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,557 likes - 76 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,558 likes - 76 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maharani \- From "AYAKTIHIS"](https://open.spotify.com/track/5I3WoDYvFcMZez2et3DhA5) | [The Down Troddence](https://open.spotify.com/artist/6hTZfnBN0lBS9Q5LqeMbNX), [T\. M\. Krishna](https://open.spotify.com/artist/46SVKeOGxlqIAzE0BKXQWM) | [Maharani \(From "AYAKTIHIS"\)](https://open.spotify.com/album/5V7Cqi80blyOQV1U8MZhCh) | 6:36 |
 | 2 | [SHANKARA HIGH](https://open.spotify.com/track/3Mk0TqGF5tsLDyP0k3Ojuu) | [ANASTRRIX](https://open.spotify.com/artist/0NY2HVR8BHWUQze2savfsN) | [SHANKARA HIGH](https://open.spotify.com/album/7jOgY7aDicQjQkSYXw3GRT) | 3:48 |
-| 3 | [Vallatha Kashtappadu](https://open.spotify.com/track/2jcg30PPJpfs517d2hlFCK) | [BINS](https://open.spotify.com/artist/14OJTq7uwxSjadEjIYe1BV), [Hafiz Najum](https://open.spotify.com/artist/0am3YbFK0VTanOwAvsRZuw) | [Vallatha Kashtappadu](https://open.spotify.com/album/7v2nd8HrvLmLXAnUNUEoar) | 2:21 |
+| 3 | [Vallatha Kashtappadu](https://open.spotify.com/track/2jcg30PPJpfs517d2hlFCK) | [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [Hafiz Najum](https://open.spotify.com/artist/0am3YbFK0VTanOwAvsRZuw) | [Vallatha Kashtappadu](https://open.spotify.com/album/7v2nd8HrvLmLXAnUNUEoar) | 2:21 |
 | 4 | [Hridayam](https://open.spotify.com/track/3dP8bympjd6bjXnvDp1mVr) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Hridayam](https://open.spotify.com/album/0BNMDoYVh5kJhlD0YeFrqI) | 4:22 |
 | 5 | [Kamar](https://open.spotify.com/track/05raZJVN82VbAJnhlSLmTS) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Kamar](https://open.spotify.com/album/52moBE0e73KP8GfwtVh7Wc) | 3:18 |
 | 6 | [Vappante Kaayi](https://open.spotify.com/track/10vEDfYkQDlQXfTPmnQNFP) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [Owltrix](https://open.spotify.com/artist/5AJFuAsx761Hx7KCsq5hZS), [EXTER](https://open.spotify.com/artist/6GlV4Epde8mUG4SccVf7Vg) | [Vappante Kaayi](https://open.spotify.com/album/64aE6tx1OZFzRU0zmwu5nv) | 2:42 |

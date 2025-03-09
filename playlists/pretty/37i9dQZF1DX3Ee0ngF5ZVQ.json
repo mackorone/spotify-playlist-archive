@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Miranda Lambert",
-  "num_followers": 410666,
+  "num_followers": 410671,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-02-28 05:00:57",
       "album": {
+        "name": "Mobile",
+        "url": "https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO"
+      },
+      "artists": [
+        {
+          "name": "Logan Ryan Band",
+          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
+        }
+      ],
+      "duration_ms": 256588,
+      "name": "Mobile",
+      "url": "https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf"
+    },
+    {
+      "added_at": "2025-02-28 05:00:57",
+      "album": {
         "name": "Start at the End",
         "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 208573,
       "name": "Start at the End",
       "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
-    },
-    {
-      "added_at": "2025-02-28 05:00:57",
-      "album": {
-        "name": "Two Way Drive",
-        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
-      },
-      "artists": [
-        {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
-        }
-      ],
-      "duration_ms": 222275,
-      "name": "Two Way Drive",
-      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
     },
     {
       "added_at": "2025-02-28 05:00:57",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-02-28 05:00:57",
       "album": {
-        "name": "Mobile",
-        "url": "https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO"
-      },
-      "artists": [
-        {
-          "name": "Logan Ryan Band",
-          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
-        }
-      ],
-      "duration_ms": 256588,
-      "name": "Mobile",
-      "url": "https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf"
-    },
-    {
-      "added_at": "2025-02-28 05:00:57",
-      "album": {
         "name": "Hello Shitty Day",
         "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 264456,
       "name": "Hello Shitty Day",
       "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
+    },
+    {
+      "added_at": "2025-02-28 05:00:57",
+      "album": {
+        "name": "Two Way Drive",
+        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 222275,
+      "name": "Two Way Drive",
+      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
     },
     {
       "added_at": "2025-02-28 05:00:57",
@@ -775,18 +775,22 @@
     {
       "added_at": "2025-02-28 05:00:57",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3iMXgxRFXEz8UfIFBYxGJ2"
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
       },
       "artists": [
         {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        },
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
         }
       ],
-      "duration_ms": 201211,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/0lgfKhIc7WUSdFrI2eGHSI"
+      "duration_ms": 170251,
+      "name": "Do It Anyway",
+      "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
     },
     {
       "added_at": "2025-02-28 05:00:57",
@@ -807,22 +811,18 @@
     {
       "added_at": "2025-02-28 05:00:57",
       "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3iMXgxRFXEz8UfIFBYxGJ2"
       },
       "artists": [
         {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        },
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
         }
       ],
-      "duration_ms": 170251,
-      "name": "Do It Anyway",
-      "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
+      "duration_ms": 201211,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/0lgfKhIc7WUSdFrI2eGHSI"
     },
     {
       "added_at": "2025-02-28 05:00:57",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-02-28 05:00:57",
       "album": {
-        "name": "Starting Over Again",
-        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 179645,
-      "name": "Starting Over Again",
-      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2025-02-28 05:00:57",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-02-28 05:00:57",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Starting Over Again",
+        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 179645,
+      "name": "Starting Over Again",
+      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
     },
     {
       "added_at": "2025-02-28 05:00:57",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-02-28 05:00:57",
       "album": {
-        "name": "The Droptines",
-        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
-    },
-    {
-      "added_at": "2025-02-28 05:00:57",
-      "album": {
         "name": "Whole Lotta Lubbock",
         "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 192651,
       "name": "Whole Lotta Lubbock",
       "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
+    },
+    {
+      "added_at": "2025-02-28 05:00:57",
+      "album": {
+        "name": "The Droptines",
+        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
     },
     {
       "added_at": "2025-02-28 05:00:57",
@@ -1591,38 +1591,6 @@
     {
       "added_at": "2025-02-28 05:00:57",
       "album": {
-        "name": "The Barn",
-        "url": "https://open.spotify.com/album/7rG5sX9pivGGmMow6FCgwC"
-      },
-      "artists": [
-        {
-          "name": "Colby Lee Swift",
-          "url": "https://open.spotify.com/artist/7h0IvtBCdPbcIBkSskcM49"
-        }
-      ],
-      "duration_ms": 228949,
-      "name": "The Barn",
-      "url": "https://open.spotify.com/track/6BDXxo7jytTFl9xNcT2OBs"
-    },
-    {
-      "added_at": "2025-02-28 05:00:57",
-      "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
-    },
-    {
-      "added_at": "2025-02-28 05:00:57",
-      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/71c9E1RjHBacjk9hY8titl"
       },
@@ -1635,6 +1603,22 @@
       "duration_ms": 190924,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/6iiieW9Az0k3dqytcwQaGV"
+    },
+    {
+      "added_at": "2025-02-28 05:00:57",
+      "album": {
+        "name": "The Barn",
+        "url": "https://open.spotify.com/album/7rG5sX9pivGGmMow6FCgwC"
+      },
+      "artists": [
+        {
+          "name": "Colby Lee Swift",
+          "url": "https://open.spotify.com/artist/7h0IvtBCdPbcIBkSskcM49"
+        }
+      ],
+      "duration_ms": 228949,
+      "name": "The Barn",
+      "url": "https://open.spotify.com/track/6BDXxo7jytTFl9xNcT2OBs"
     },
     {
       "added_at": "2025-02-28 05:00:57",
@@ -1655,6 +1639,22 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
+    },
+    {
+      "added_at": "2025-02-28 05:00:57",
+      "album": {
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2025-02-28 05:00:57",

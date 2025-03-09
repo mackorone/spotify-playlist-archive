@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Nicole
 
-369 songs - 17 hr 42 min
+372 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Bajka](https://open.spotify.com/track/1t4ZzlgGghetwNEjAhRVK1) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Bajka](https://open.spotify.com/album/0sXdmDSA4cP8PsiFeBvpLF) | 2:29 | 2024-10-25 | 2025-01-24 |
 | [Bal](https://open.spotify.com/track/72g2Nkb2hyWgcqSa3mt78H) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Bal](https://open.spotify.com/album/67gqmsz1PpCnvpJrP6g3Xz) | 2:54 | 2024-08-22 | 2024-09-28 |
 | [Bejbe!](https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Bejbe!](https://open.spotify.com/album/0adt1bbqThqFji1PwChQME) | 1:55 | 2025-01-09 | 2025-01-24 |
-| [Beksa](https://open.spotify.com/track/3GIpWdKdTlQ22HC7DuxHdL) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Beksa](https://open.spotify.com/album/6NPa7CgLqZaNkF1UkRiWpd) | 2:50 | 2025-02-27 |  |
+| [Beksa](https://open.spotify.com/track/3GIpWdKdTlQ22HC7DuxHdL) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Beksa](https://open.spotify.com/album/6NPa7CgLqZaNkF1UkRiWpd) | 2:50 | 2025-02-27 | 2025-03-09 |
 | [Berlin](https://open.spotify.com/track/5mLaWguaVU2VrtVsqd2hQi) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [spędzam dni sam](https://open.spotify.com/album/25JZmZuK6jEsRG5df0Zgsd) | 2:28 | 2024-06-28 | 2024-07-19 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2024-10-12 |
 | [Bestie, Move On](https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 3:31 | 2025-01-23 |  |
@@ -115,7 +115,7 @@
 | [Gra Gra Gra](https://open.spotify.com/track/2KlqoFI1E2SM5BNYY8bjJW) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Gra Gra Gra](https://open.spotify.com/album/2o5S6SO44MfFHc5ZiMzTNC) | 3:03 | 2024-06-28 | 2024-09-07 |
 | [Grzesiu](https://open.spotify.com/track/6BDV4Or3MFnqKNN9EH8p91) | [Oliver Gigon](https://open.spotify.com/artist/2FlyaCEJbYuZumkoDuFs0M) | [Grzesiu](https://open.spotify.com/album/4FZltuAdipxeoWAR0kYwWD) | 2:33 | 2024-06-28 | 2024-07-27 |
 | [Guess I'm better now](https://open.spotify.com/track/7zOroQXfgAFFfcTHMxb2F4) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Guess I'm better now](https://open.spotify.com/album/5Xom3m37TfRClXVepHBzrK) | 3:45 | 2025-01-23 | 2025-02-07 |
-| [Głupi Lovesong](https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Głupi Lovesong](https://open.spotify.com/album/1EIKyJiAbP56pa14RorzQM) | 3:25 | 2025-02-06 |  |
+| [Głupi Lovesong](https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Głupi Lovesong](https://open.spotify.com/album/1EIKyJiAbP56pa14RorzQM) | 3:25 | 2025-02-06 | 2025-03-09 |
 | [Happy End](https://open.spotify.com/track/3QXntjMCbriyV6eUNtQB5e) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Happy End](https://open.spotify.com/album/125nGtnN3Je2tyzuiuDLXr) | 2:41 | 2025-01-16 | 2025-01-24 |
 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 | 2025-01-30 |  |
 | [hold my hand \- na podstawie serii "Friends" Aleksandry Negrońskiej](https://open.spotify.com/track/12mIstRUj9otCIpO6ZLXUa) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [hold my hand \(na podstawie serii "Friends" Aleksandry Negrońskiej\)](https://open.spotify.com/album/5LbaE7Z96J1aNDz3gFUw4i) | 3:41 | 2025-01-23 | 2025-03-08 |
@@ -143,6 +143,7 @@
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-28 | 2024-10-26 |
 | [KIEDYŚ NAS ZABRAKNIE](https://open.spotify.com/track/28BiuNEoSSrKGc9BGLNlgn) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [KIEDYŚ NAS ZABRAKNIE](https://open.spotify.com/album/0JobUXh3L2eKcdH6AUggjl) | 2:13 | 2025-02-20 |  |
 | [Kiss And Fly](https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Terminal 3](https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS) | 2:37 | 2024-06-28 | 2024-10-26 |
+| [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-03-06 |  |
 | [Klub Złamanych Serc](https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Klub Złamanych Serc](https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU) | 2:08 | 2024-06-28 | 2024-09-14 |
 | [kochaj na serio](https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [kochaj na serio](https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE) | 2:40 | 2024-09-19 | 2025-01-24 |
 | [Kolejny Marzec](https://open.spotify.com/track/5GWUjRd631GZnTXftVudEJ) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [Kolejny Marzec](https://open.spotify.com/album/37bVRC9MrNGXpU0ITCmRYA) | 2:50 | 2024-06-28 | 2024-07-19 |
@@ -275,6 +276,7 @@
 | [Ptaki](https://open.spotify.com/track/2LwA6OrbN2DFP9osByAYEY) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/2he62aL4O9Bg03NYRK9LvA) | 4:06 | 2025-02-13 | 2025-03-06 |
 | [Późne Lato](https://open.spotify.com/track/2hzSX3UVhdkby7eGcNXllS) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Późne Lato](https://open.spotify.com/album/21t6UxVWjqYpCmAFBVQecj) | 2:57 | 2024-08-01 | 2025-01-24 |
 | [Pętle](https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE) | [Dereal](https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3) | [Pętle](https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa) | 2:15 | 2024-07-04 | 2025-01-24 |
+| [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-03-06 |  |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-23 |  |
 | [rychło](https://open.spotify.com/track/7MelYNEVwd91gVDJFpu6it) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [rychło](https://open.spotify.com/album/45wHP18JKaFAEMuUQHoKmm) | 3:37 | 2024-06-28 | 2024-08-02 |
 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 | 2025-02-27 |  |
@@ -307,7 +309,7 @@
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-28 | 2024-10-26 |
 | [Sznurówki](https://open.spotify.com/track/6uvauiQGYGVkcC8E5IQRWR) | [Leo Natan](https://open.spotify.com/artist/53y2orCJp8NRmbw1V0FGTo) | [Sznurówki](https://open.spotify.com/album/2Pg3iONs9qmM365Vw9qqsn) | 1:37 | 2025-03-06 |  |
 | [Sztorm](https://open.spotify.com/track/6MLoaND0PUNQD2itqN87LQ) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Sztorm](https://open.spotify.com/album/6ibXEXjfR42Zj3zX7boe8o) | 3:37 | 2024-06-28 | 2024-07-19 |
-| [Sztuka](https://open.spotify.com/track/5BWSe0116hTQNvd1L2MguA) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Sztuka](https://open.spotify.com/album/0kqyVn6xEqnTphg7XiYsrH) | 4:00 | 2025-02-27 |  |
+| [Sztuka](https://open.spotify.com/track/5BWSe0116hTQNvd1L2MguA) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Sztuka](https://open.spotify.com/album/0kqyVn6xEqnTphg7XiYsrH) | 4:00 | 2025-02-27 | 2025-03-09 |
 | [szukam](https://open.spotify.com/track/3NUiSTyt0MZtEmWxzAmwT4) | [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [szukam](https://open.spotify.com/album/3t0zAIaiSo023Fcsw0keef) | 3:25 | 2024-08-22 | 2025-01-24 |
 | [Słodka woda](https://open.spotify.com/track/1qcoxUi3yDT5tkslYJfFsR) | [ANGELENA](https://open.spotify.com/artist/7KfmCy4af3n3VBbIvY1Cck), [Klaudia Borczyk](https://open.spotify.com/artist/2Jw1ZJ2kRO9sV7VQLwps8x) | [Słodka woda](https://open.spotify.com/album/3kYMaNtY92K9eNY2zlRWGa) | 3:42 | 2024-07-25 | 2024-08-23 |
 | [Tak jak ja](https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Wracam do siebie](https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a) | 2:58 | 2024-09-19 | 2025-01-24 |
@@ -325,6 +327,7 @@
 | [tired](https://open.spotify.com/track/4n7R8CV8VpASepuuA0WUxY) | [Bartek Koziorowski](https://open.spotify.com/artist/6a28yBCAdWnh1n1qc6zNBT) | [tired](https://open.spotify.com/album/5nspfDd338PUt3VNW2MrLI) | 2:06 | 2025-01-23 | 2025-02-21 |
 | [to jara Cię też!](https://open.spotify.com/track/50y9rvzaMoCiDKxUCSpekj) | [Verde](https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7) | [to jara Cię też!](https://open.spotify.com/album/1suvRDCiw7fUUUNie070BV) | 2:56 | 2024-06-28 | 2024-09-14 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-27 |  |
+| [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-06 |  |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2025-01-23 | 2025-01-31 |
 | [Trauma](https://open.spotify.com/track/0dpKWVgQv7uzygOIw8tmdv) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Trauma](https://open.spotify.com/album/6C5G9YiWHHzuLcikJAOyMy) | 1:46 | 2024-12-06 | 2025-01-31 |
 | [treehouse lullaby](https://open.spotify.com/track/4dBVQEf7ahOA11FJu357ac) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [treehouse lullaby](https://open.spotify.com/album/1sQER5gRKMvKlnc7EwstR2) | 2:14 | 2025-02-27 |  |

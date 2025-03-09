@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain]
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,621 likes - 68 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,673 likes - 68 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:19 |
+| 1 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:26 |
 | 2 | [Fantaisie\-Impromptu in C\-Sharp Minor, Op\. 66](https://open.spotify.com/track/0Y9BzZGT2FuLVPrHoq1g2G) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Chopin: Fantaisie\-Impromptu In C Sharp Minor, Op\. 66](https://open.spotify.com/album/5APLziXSFb85q5SZP9kQwQ) | 5:36 |
 | 3 | [Fantasy on Polish Airs, Op\. 13: Largo non troppo](https://open.spotify.com/track/235v1U3NbGN0p2Ee4nyhT4) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy), [NDR Elbphilharmonie Orchester](https://open.spotify.com/artist/5d7YSf7KV1gzNju6Z5JZt6), [Krzysztof Urbański](https://open.spotify.com/artist/4u4T4u2Z9MqnLAptUlCM2w) | [Chopin: Works For Piano & Orchestra](https://open.spotify.com/album/2u667XsLfa7oVDE0eS5RqJ) | 4:55 |
 | 4 | [Chopin: Nocturne No\. 8 in D\-Flat Major, Op\. 27 No\. 2](https://open.spotify.com/track/4hbvrHgfZ8lqFrPx1Ztd6j) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Gabriela Montero](https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr) | [Gabriela Montero: Piano Recital](https://open.spotify.com/album/2Kvlzm7PyfuF30L3HIBrWw) | 5:38 |

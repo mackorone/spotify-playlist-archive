@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 511443,
+  "num_followers": 511498,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "El Esp\u00edritu de la Rumba",
-        "url": "https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc"
+        "name": "Laberinto de Pasiones",
+        "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
       },
       "artists": [
         {
-          "name": "Yoruba Andabo",
-          "url": "https://open.spotify.com/artist/3oh2Q089hI70VBBGnIz76m"
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
         }
       ],
-      "duration_ms": 407920,
-      "name": "La Gozadera",
-      "url": "https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ"
+      "duration_ms": 177160,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Laberinto de Pasiones",
-        "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
+        "name": "El Esp\u00edritu de la Rumba",
+        "url": "https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc"
       },
       "artists": [
         {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+          "name": "Yoruba Andabo",
+          "url": "https://open.spotify.com/artist/3oh2Q089hI70VBBGnIz76m"
         }
       ],
-      "duration_ms": 177160,
-      "name": "Puro Teatro",
-      "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
+      "duration_ms": 407920,
+      "name": "La Gozadera",
+      "url": "https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Caramelo Con Picante",
-        "url": "https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1"
-      },
-      "artists": [
-        {
-          "name": "Lazarito Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s"
-        },
-        {
-          "name": "Bamboleo",
-          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
-        }
-      ],
-      "duration_ms": 336095,
-      "name": "Caramelo Con Picante",
-      "url": "https://open.spotify.com/track/1LOTPsUy1m5XRB6iplC2ns"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Que Tiene Que Te Mueve",
         "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 306449,
       "name": "Yo Comprendo",
       "url": "https://open.spotify.com/track/3CR63Hzo3LR40TdK4pf1hr"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Caramelo Con Picante",
+        "url": "https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1"
+      },
+      "artists": [
+        {
+          "name": "Lazarito Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s"
+        },
+        {
+          "name": "Bamboleo",
+          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
+        }
+      ],
+      "duration_ms": 336095,
+      "name": "Caramelo Con Picante",
+      "url": "https://open.spotify.com/track/1LOTPsUy1m5XRB6iplC2ns"
     }
   ],
   "unique_name": "Salsa Cubana",

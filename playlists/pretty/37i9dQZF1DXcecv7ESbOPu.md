@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Lady Gaga, Kelian, Ghost och Julia Lov med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,959 likes - 113 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,952 likes - 113 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 70 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 |
 | 71 | [Favorite Song](https://open.spotify.com/track/5ZOVB4mNNAd9CVvSBKV2PR) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Favorite Song](https://open.spotify.com/album/5nAICHlYsT54OdDKXdsb2Q) | 2:51 |
 | 72 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
-| 73 | [Ensam på stationen](https://open.spotify.com/track/2eXWbziE4lVcGbSjyU3sL2) | [Wilden](https://open.spotify.com/artist/6Idl2AxJCkWHN4VTVfOEuK) | [Ensam på stationen](https://open.spotify.com/album/7CNpg0lKrM417Z1ODzRUaX) | 2:43 |
+| 73 | [Ensam på stationen](https://open.spotify.com/track/2eXWbziE4lVcGbSjyU3sL2) | [Wilden](https://open.spotify.com/artist/6Idl2AxJCkWHN4VTVfOEuK), [Tobaco](https://open.spotify.com/artist/31XK8PgJ4Vs0agBrL5klE1) | [Ensam på stationen](https://open.spotify.com/album/7CNpg0lKrM417Z1ODzRUaX) | 2:43 |
 | 74 | [Gone Girl](https://open.spotify.com/track/6lU0BuAHpcjJ2DYAZc4anN) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Gone Girl](https://open.spotify.com/album/7jchY4CauGHt4POyhigFBs) | 2:57 |
 | 75 | [Call Me If You Miss Me](https://open.spotify.com/track/3LWYsVIye7sFfYTL3s9ksO) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Call Me If You Miss Me](https://open.spotify.com/album/1XTodZ2bafoeNTgWnm4RNg) | 3:13 |
 | 76 | [abyss](https://open.spotify.com/track/40LqINLIDhx5qEJQfG7rnN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [abyss](https://open.spotify.com/album/3hZjfIVdPdCym1PRPD57JT) | 2:09 |

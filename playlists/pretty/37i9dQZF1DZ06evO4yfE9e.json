@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2205,
+  "num_followers": 2207,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8jlgAAAAAC83GyKL8DclHhAiF2Ux0A/",
+  "snapshot_id": "Z8o3AAAAAADIhdpVYIFJtduLZBrXrkiR",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEX MACHINA",
-        "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 129397,
-      "name": "SEX MACHINA",
-      "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRACE",
         "url": "https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 224541,
       "name": "Praise",
       "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEX MACHINA",
+        "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 129397,
+      "name": "SEX MACHINA",
+      "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
-        "url": "https://open.spotify.com/album/4L8fkv7xQp3vvnyEkxbZoy"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/67O43FtuBoLHp0KArJfdGa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Popsicle (Extra Sticky)",
         "url": "https://open.spotify.com/album/3BB3XKlsGSIfPC1Kw9fSRH"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 110000,
       "name": "Popsicle",
       "url": "https://open.spotify.com/track/2R54H7AJlO38QH8ygNDWi1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
+        "url": "https://open.spotify.com/album/4L8fkv7xQp3vvnyEkxbZoy"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/67O43FtuBoLHp0KArJfdGa"
     },
     {
       "added_at": null,

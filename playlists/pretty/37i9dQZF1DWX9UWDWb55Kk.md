@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,658 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,620 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 17 | [Lamentos de un rescate](https://open.spotify.com/track/6TXLVMnXDS6LHq0dJGcQij) | [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy) | [el espacio entre](https://open.spotify.com/album/3qzO8d90bmXbYPN0z0doO4) | 3:40 |
 | 18 | [Seres Invisibles](https://open.spotify.com/track/13jnICeB4esdhHZDvSatNm) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Pez](https://open.spotify.com/album/4NXP3aNRLfVxa76RN6iHqb) | 3:50 |
 | 19 | [Friendly Demons](https://open.spotify.com/track/1ONZo5FEotuQQuAE693yQo) | [LABRYS](https://open.spotify.com/artist/1Ch6kGftOC8brjjXQwPCx9) | [Friendly Demons](https://open.spotify.com/album/2ObFFvoghpT1H78W32dVvq) | 3:06 |
-| 20 | [Veneno \(Néboa & sús versão\)](https://open.spotify.com/track/2OLy2ZuXpfz7w5qXwiFrIF) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Néboa](https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8), [sús](https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc) | [Embruxo Reworks](https://open.spotify.com/album/6HEncsx7ShpZs5B78DbzLe) | 4:45 |
+| 20 | [Veneno \- Néboa & sús versão](https://open.spotify.com/track/2OLy2ZuXpfz7w5qXwiFrIF) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Néboa](https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8), [sús](https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc) | [Embruxo Reworks](https://open.spotify.com/album/6HEncsx7ShpZs5B78DbzLe) | 4:45 |
 | 21 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 |
 | 22 | [Blonde Fire](https://open.spotify.com/track/4J3VxV4Zsh9MPXNXfFxPB0) | [The Hickey Underworld](https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam) | [The Hickey Underworld](https://open.spotify.com/album/15DYIkWxupkoPXabPQiTJJ) | 3:40 |
 | 23 | [Hyperitual](https://open.spotify.com/track/5YLKj3Y4W9j67OBgFDToTN) | [La Jungle](https://open.spotify.com/artist/2M1oEnlS4vNxIW3grVQJ1h) | [Fall Off the Apex](https://open.spotify.com/album/2VSE0fSi7XUgX4M4PqLYu6) | 4:51 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 116 | [Tengo Un Trato](https://open.spotify.com/track/0UAfAZ6rmM0lSna7atUzGf) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [La Niña \(USA\)](https://open.spotify.com/album/1URnHeT4Qon8bOYee82JOh) | 2:47 |
 | 117 | [Final Feliz](https://open.spotify.com/track/2W2Pq6Ysd0wZTSq1xQTAlZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Final Feliz](https://open.spotify.com/album/586rQ6vz35Wf4VKvZmFKoS) | 3:05 |
 | 118 | [Más Arriba](https://open.spotify.com/track/7byGoCBIhbZAyJWSEPTQrs) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Viene de Largo](https://open.spotify.com/album/1bkNxiusyHz4lwgwSICa7L) | 3:18 |
-| 119 | [Resistiré \(Banda Sonora Original "Élite"\)](https://open.spotify.com/track/272sT3uaJsFNqyKyE6BGNN) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Resistiré \(Banda Sonora Original "Élite"\)](https://open.spotify.com/album/7ov6R2b5ZXqth6H9piBgRL) | 3:41 |
+| 119 | [Resistiré \- Banda Sonora Original "Élite"](https://open.spotify.com/track/272sT3uaJsFNqyKyE6BGNN) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Resistiré \(Banda Sonora Original "Élite"\)](https://open.spotify.com/album/7ov6R2b5ZXqth6H9piBgRL) | 3:41 |
 | 120 | [Cryptic Speech \- Original Mix](https://open.spotify.com/track/5tzcReCKuj6qYbQQVS0ehG) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Cryptic Speech EP](https://open.spotify.com/album/3wjYTOt0x1gLUtVPtr2lMQ) | 5:54 |
 | 121 | [In This Dark Time](https://open.spotify.com/track/2tVJpUamLfNdUI7SiyPIFF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:27 |
 | 122 | [Cariñito](https://open.spotify.com/track/5GmB4sjkog7ETZP7KHMa9L) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Uno](https://open.spotify.com/album/56b9EFjEu6ugwoingfHFlX) | 3:23 |

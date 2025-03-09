@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover : Thirumali
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,080 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,124 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kavala Talk](https://open.spotify.com/track/3dRAOp5MMKxMQdRu6JneKk) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Kavala Talk](https://open.spotify.com/album/1h0RwoBq2MMkLC2TniI4nx) | 3:10 |
 | 2 | [Madi Raja](https://open.spotify.com/track/6C8G3T7fyTSITJwxFeCwET) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Suhail Koya](https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv) | [Daveed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Cq8XJEi95MexdshZUmKx0) | 4:21 |
 | 3 | [poye](https://open.spotify.com/track/0KMeA3cfukOMuSVv6a0qkX) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [Jimmy Godrick](https://open.spotify.com/artist/2ueCQSKYyrkNhU4gAVBOum), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [poye](https://open.spotify.com/album/7nKqGrIm0Qt9u410plnPtN) | 3:01 |
-| 4 | [Kedu Paad](https://open.spotify.com/track/2qv73mnazsmpjp5zPuTRu0) | [ARGYZM](https://open.spotify.com/artist/6TYn4CSy7DJ0LEh70tGBBu), [Prashant Singh](https://open.spotify.com/artist/7jOZcQODVv7ui0kZfFzGrm) | [Kedu Paad](https://open.spotify.com/album/5bTGRFQ7fkaJXFVCiMyFFc) | 2:29 |
+| 4 | [Kedu Paad](https://open.spotify.com/track/2qv73mnazsmpjp5zPuTRu0) | [Prashant Singh](https://open.spotify.com/artist/7jOZcQODVv7ui0kZfFzGrm), [ARGYZM](https://open.spotify.com/artist/6TYn4CSy7DJ0LEh70tGBBu) | [Kedu Paad](https://open.spotify.com/album/5bTGRFQ7fkaJXFVCiMyFFc) | 2:29 |
 | 5 | [MARULOKAM](https://open.spotify.com/track/42eQSipA74ggJbV0SrGxVE) | [46FLOW](https://open.spotify.com/artist/3zQt5tn7i7l07bJ5AplrtB), [AK](https://open.spotify.com/artist/2fM6JdDJYYFKerp0aftbIu) | [MARULOKAM](https://open.spotify.com/album/3MgVhZPdUiPBIxynX6Ax5N) | 2:45 |
 | 6 | [Jeevitham](https://open.spotify.com/track/7MWnFDh0ILN4kLPIIzJpyB) | [Vishnu Bain](https://open.spotify.com/artist/18Ou288FklrqqGeLyiXb17) | [Jeevitham](https://open.spotify.com/album/5T796IG6C8hMVKvI6nJ5Sh) | 2:24 |
 | 7 | [CHAAK](https://open.spotify.com/track/75bFXmSzjxpyWDRNgsW8OQ) | [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY) | [CHAAK](https://open.spotify.com/album/3aszUJVOWfne09WCBb5f9r) | 2:44 |

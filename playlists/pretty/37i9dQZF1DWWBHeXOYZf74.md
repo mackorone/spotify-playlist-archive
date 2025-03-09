@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Yaeji
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,335 likes - 115 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,354 likes - 115 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=NO2OWkluRhe\_OoxLcWAfOA>Limoblaze</a>
 
-987 songs - 2 day 6 hr 28 min
+988 songs - 2 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,6 +694,7 @@
 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 | 2024-11-22 |  |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2023-02-02 | 2023-04-07 |
 | [Omo No Worries](https://open.spotify.com/track/1HBFnEA6GamUYm7N87ORMO) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Omo No Worries](https://open.spotify.com/album/0zGc3JwP5LArW7fVgin0B9) | 2:45 | 2023-11-17 | 2023-12-30 |
+| [Omo Ologo](https://open.spotify.com/track/4UUmFTIQ85NLmpE4zY6cZV) | [Favrish](https://open.spotify.com/artist/3s1ZKnwkYA76TmSxqHs22E) | [Omo Ologo](https://open.spotify.com/album/3wPlAUxRz6GmuPOst8JhHw) | 2:14 | 2025-03-08 |  |
 | [On God](https://open.spotify.com/track/7BlFbqi4xLnITH61QN9iGi) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [On God](https://open.spotify.com/album/3qgrwmCGv7LtC1cYeavF4z) | 2:11 | 2023-02-02 | 2023-02-11 |
 | [On God](https://open.spotify.com/track/5RFhOGFbx6iFuJfW2N0evM) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [On God](https://open.spotify.com/album/23aQpGrWvMqCwNSBcRzM90) | 3:05 | 2024-08-23 | 2024-10-18 |
 | [On God](https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [On God](https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0) | 3:44 | 2023-02-02 | 2023-06-23 |

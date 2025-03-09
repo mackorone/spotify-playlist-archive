@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > White 2115, kuqe 2115 i Eryk Moczko w RAPREZENTACJI Polski w Barcelonie ⚽🇵🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,547 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,865 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

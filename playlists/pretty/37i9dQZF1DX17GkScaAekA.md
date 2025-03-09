@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,091 likes - 93 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,264 likes - 93 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:19 |
+| 1 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:26 |
 | 2 | [Sonata No\. 14 "Moonlight" in C\-Sharp Minor", Op\. 27 No\. 2: I\. Adagio sostenuto](https://open.spotify.com/track/3DNRdudZ2SstnDCVKFdXxG) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Paul Lewis](https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l) | [Beethoven: Piano Sonatas, Vol.3](https://open.spotify.com/album/4bNwPPpk01D8pVV9IFSBde) | 5:15 |
 | 3 | [Variations on a Rococo Theme, Op\. 33, TH 57: Var: VI\. Andante](https://open.spotify.com/track/123zFAGx0F5ScgrLrCWGDX) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Jean\-Guihen Queyras](https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8), [BBC Symphony Orchestra](https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO), [Jiří Bělohlávek](https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx) | [Elgar: Cello Concerto / Tchaikovsky: Rococo Variations / Dvořák: Silent Woods; Rondo](https://open.spotify.com/album/1CTMjqapaLGF4Qi0fMtfuf) | 2:36 |
 | 4 | [24 Préludes, Op\. 28: No\. 4 in E Minor\. Largo](https://open.spotify.com/track/2bgJtH1MgEV7CgaU3aDYAk) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Preludes Op.28](https://open.spotify.com/album/3IMD38I0EOZnZ7xz8N0hqX) | 2:00 |

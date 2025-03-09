@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 
 > The best new Irish alternative sounds\. Cover: Soda Blonde
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,271 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,269 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 | 60 | [Veins](https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9) | [Emma Noodles](https://open.spotify.com/artist/1zUi5dJeT7ImOnG6lEgypQ) | [Veins](https://open.spotify.com/album/5Glooco0j7yIOlwAdPxYrX) | 3:31 |
 | 61 | [Angel](https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:19 |
 | 62 | [Rita](https://open.spotify.com/track/6qWcR10E474Hlow9Uw0sbo) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Fizzy Orange In Mono](https://open.spotify.com/album/0sEI6enjLXXL6MNqECdKJ0) | 2:45 |
-| 63 | [While You Sleep](https://open.spotify.com/track/4jbOJaTKiur366ygUgcp6h) | [Mustafa Karakışla](https://open.spotify.com/artist/0tGT2RhFiBgnNf1AY4muYM) | [While You Sleep](https://open.spotify.com/album/2aZy0r1AaBS3lLgl9PWBsp) | 4:01 |
+| 63 | [While You Sleep](https://open.spotify.com/track/4jbOJaTKiur366ygUgcp6h) | [Theo Pyke](https://open.spotify.com/artist/4QKBudH4e47MjgDTFhraar) | [While You Sleep](https://open.spotify.com/album/2aZy0r1AaBS3lLgl9PWBsp) | 4:01 |
 | 64 | [Pretty Happy Alone](https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM) | [The Love Buzz](https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP) | [Pretty Happy Alone](https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq) | 3:02 |
 | 65 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
 | 66 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 |
