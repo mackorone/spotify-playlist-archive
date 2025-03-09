@@ -1,4 +1,4 @@
-## Playlists \(8424\)
+## Playlists \(8425\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -5275,6 +5275,7 @@
 - [Songs of  Detty December](/playlists/pretty/37i9dQZF1DX3s0fi1qwiiS.md)
 - [Songs of Salvation](/playlists/pretty/37i9dQZF1DWZ4dtFEnppbd.md)
 - [Songs of Summer](/playlists/pretty/37i9dQZF1DX4zbZrYRGVam.md)
+- [Songs of the Week by Roy](/playlists/pretty/1GFGwBXuIq1cn2TJ4K1awu.md)
 - [Songs that got us in our feels](/playlists/pretty/37i9dQZF1DWXfa6SgmlMMn.md)
 - [Songs that remind me I'm a furry](/playlists/pretty/7ejNI3ll8uMiseo6CM1Hky.md)
 - [Songs to Cook to \| Kitchen Soundtrack](/playlists/pretty/3wjPs3pZiBROjNC2sgWJbN.md)
